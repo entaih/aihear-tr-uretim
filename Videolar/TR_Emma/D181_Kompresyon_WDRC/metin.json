@@ -1,0 +1,2087 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D181_Kompresyon_WDRC_TR",
+ "kapak": {
+  "ust": "DERS 181",
+  "baslik": "*Kompresyon*<br>ve WDRC",
+  "alt": "Eşik, oran, atak ve bırakma",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 30,
+    "max": 100,
+    "adim": 10,
+    "ad": "Giriş (dB SPL)"
+   },
+   "y": {
+    "min": 60,
+    "max": 130,
+    "adim": 10,
+    "ad": "Çıkış (dB SPL)"
+   },
+   "seriler": [
+    {
+     "ad": "dogrusal",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       95,
+       130
+      ]
+     ],
+     "renk": "gri",
+     "kesik": true
+    },
+    {
+     "ad": "kompresyon",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       50,
+       85
+      ],
+      [
+       70,
+       95
+      ],
+      [
+       90,
+       105
+      ],
+      [
+       100,
+       106
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": 6
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Kompresyon: WDRC, kompresyon eşiği ve oranı | Ders 181 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazı yumuşak ve yüksek seslere neden farklı kazanç verir? Bu derste dinamik aralığı, giriş-çıkış eğrisini, kompresyon eşiğini ve oranını, WDRC ile kompresyon sınırlamasını, genişlemeyi, atak ve bırakma sürelerini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; ANSI/ASA S3.22, Specification of Hearing Aid Characteristics; Venema, Compression for Clinicians; Gatehouse, Naylor ve Elberling, Linear and nonlinear hearing aid fittings, International Journal of Audiology (2006); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "kompresyon"
+  ],
+  "etiketler": [
+   "kompresyon",
+   "WDRC",
+   "wide dynamic range compression",
+   "kompresyon eşiği",
+   "kompresyon oranı",
+   "compression ratio",
+   "atak süresi",
+   "bırakma süresi",
+   "giriş-çıkış eğrisi",
+   "işitme cihazı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 181",
+   "baslik": "*Kompresyon*: WDRC",
+   "alt": "Kompresyon eşiği, oranı, atak ve bırakma",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme cihazlarında kompresyonun neden gerektiğini ve giriş-çıkış eğrisinin nasıl okunduğunu öğreneceğiz.",
+    "Kompresyon eşiğini, kompresyon oranını, atak ve bırakma sürelerini ve maksimum çıkışın sınırlanmasını adım adım göreceğiz."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden kompresyon?",
+   "baslik": "Daralan *dinamik aralık*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 2.6,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Normal kulak",
+      "2": "Koklear kayıp"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Düzey (dB HL)"
+    },
+    "araliklar": [
+     {
+      "ad": "normal",
+      "xk": 1,
+      "y": [
+       0,
+       100
+      ],
+      "etiket": "≈ 100 dB",
+      "cumle": 0
+     },
+     {
+      "ad": "kayip",
+      "xk": 2,
+      "y": [
+       60,
+       100
+      ],
+      "etiket": "≈ 40 dB",
+      "cumle": 3,
+      "renk": "kirmizi"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ucl",
+      "x": 1.5,
+      "y": 100,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "rahatsızlık düzeyi",
+      "dy": -12,
+      "cumle": 2,
+      "renk": "sari"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "konusma",
+      "y": [
+       25,
+       55
+      ],
+      "renk": "mavi",
+      "etiket": "konuşma",
+      "cumle": 6
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kayip",
+     "cumle": 3
+    },
+    {
+     "parca": "konusma",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Normal işiten bir kulakta en hafif duyulan ses ile rahatsız edici ses arasında yaklaşık 100 desibellik bir aralık vardır.",
+    "Bu aralığa dinamik aralık (dynamic range) denir.",
+    "Koklear kayıpta eşik yükselir, ama rahatsızlık düzeyi çoğu zaman hemen hemen aynı kalır.",
+    "Bu örnekte eşik 60, rahatsızlık düzeyi 100 dB HL; yani dinamik aralık yaklaşık 40 desibele inmiş.",
+    "Bu, rekruitment dersinde gördüğümüz ses yüksekliğinde anormal hızlı artışın sonucudur.",
+    "Günlük seslerin yumuşaktan yükseğe uzanan aralığı ise bu daralmış alana sığmaz.",
+    "Örneğin konuşma, zayıf ünsüzlerden güçlü ünlülere kadar yaklaşık 30 desibellik bir aralığa yayılır ve konuşmanın düzeyi ortama göre değişir.",
+    "Kompresyonun amacı, geniş bir giriş aralığını kişinin daralmış dinamik aralığına sığdırmaktır."
+   ]
+  },
+  {
+   "id": "dogrusal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden kompresyon?",
+   "baslik": "Doğrusal *amplifikasyon*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Giriş (dB SPL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 130,
+     "adim": 10,
+     "ad": "Çıkış (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "dogrusal",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        80,
+        115
+       ],
+       [
+        100,
+        115
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 0,
+      "etiket": "doğrusal",
+      "etiket_konum": [
+       55,
+       90
+      ],
+      "etiket_dx": -20,
+      "etiket_dy": -20
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kirpma",
+      "x": 80,
+      "y": 115,
+      "etiket": "tepe kırpma",
+      "renk": "kirmizi",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "dogrusal",
+     "cumle": 2
+    },
+    {
+     "parca": "kirpma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Doğrusal amplifikasyonda (linear amplification) cihaz, her giriş düzeyine aynı kazancı uygular.",
+    "Bu örnekte kazanç 35 desibel: 50 desibellik giriş 85, 70 desibellik giriş 105 desibellik çıkış olur.",
+    "Giriş-çıkış eğrisi bu yüzden eğimi bir olan düz bir çizgidir.",
+    "Sorun şudur: yumuşak sesleri duyulur kılacak kadar kazanç verilirse, yüksek sesler rahatsız edici olur.",
+    "Yüksek sesleri rahat tutacak kadar az kazanç verilirse de yumuşak sesler duyulmaz.",
+    "Çıkış cihazın sınırına ulaştığında eski doğrusal cihazlar dalganın tepesini keserdi; buna tepe kırpma (peak clipping) denir.",
+    "Tepe kırpma, sesi sınırlar ama belirgin bir distorsiyon yaratır.",
+    "Kompresyon, bu iki sorunu birlikte çözmek için geliştirilmiştir."
+   ]
+  },
+  {
+   "id": "io",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Giriş-çıkış eğrisi",
+   "baslik": "Giriş-çıkış *eğrisi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Giriş (dB SPL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 130,
+     "adim": 10,
+     "ad": "Çıkış (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "dogrusal",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        95,
+        130
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 1,
+      "etiket": "doğrusal",
+      "etiket_konum": [
+       85,
+       120
+      ],
+      "etiket_dx": -70,
+      "etiket_dy": -8
+     },
+     {
+      "ad": "kompresyon",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        70,
+        95
+       ],
+       [
+        90,
+        105
+       ],
+       [
+        100,
+        106
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 6,
+      "cumle": 2,
+      "etiket": "kompresyonlu",
+      "etiket_konum": [
+       90,
+       105
+      ],
+      "etiket_dx": -40,
+      "etiket_dy": 30
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kompresyon_esigi",
+      "x": 50,
+      "y": 85,
+      "etiket": "kompresyon eşiği",
+      "dy": -18,
+      "renk": "kirmizi",
+      "cumle": 3
+     },
+     {
+      "ad": "sinirlama",
+      "x": 90,
+      "y": 105,
+      "etiket": "sınırlama",
+      "dy": -18,
+      "renk": "sari",
+      "cumle": 7
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "giris_farki",
+      "x": [
+       50,
+       70
+      ],
+      "y": 75,
+      "etiket": "+20 dB giriş",
+      "cumle": 4,
+      "etiket_alt": true
+     },
+     {
+      "ad": "cikis_farki",
+      "xk": 72,
+      "y": [
+       85,
+       95
+      ],
+      "etiket": "+10 dB çıkış",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kompresyon_esigi",
+     "cumle": 3
+    },
+    {
+     "parca": "giris_farki",
+     "cumle": 4
+    },
+    {
+     "parca": "cikis_farki",
+     "cumle": 5
+    },
+    {
+     "parca": "sinirlama",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Kompresyonu anlamanın en iyi yolu giriş-çıkış eğrisidir (input-output curve).",
+    "Yatay eksende cihaza giren sesin düzeyi, dikey eksende kuplörde ölçülen çıkış düzeyi yer alır.",
+    {
+     "yazi": "Bu örnekte 50 dB SPL'ye kadar cihaz doğrusal çalışır ve 35 desibel kazanç verir.",
+     "ses": "Bu örnekte elli desibel es pi ele kadar cihaz doğrusal çalışır ve otuz beş desibel kazanç verir."
+    },
+    "Eğrinin büküldüğü bu noktaya kompresyon eşiği (compression threshold) ya da diz noktası (kneepoint) denir.",
+    "Kompresyon eşiğinin üzerinde giriş 20 desibel artarken çıkış yalnız 10 desibel artar.",
+    {
+     "yazi": "Giriş değişiminin çıkış değişimine oranına kompresyon oranı (compression ratio) denir; burada oran 2'ye 1'dir.",
+     "ses": "Giriş değişiminin çıkış değişimine oranına kompresyon oranı denir; burada oran ikiye birdir."
+    },
+    "Bu yüzden giriş yükseldikçe kazanç azalır: eğri ile kesik çizgi arasındaki fark giderek açılır.",
+    "En üstte ikinci bir bükülme daha var: burada çıkış neredeyse hiç artmaz ve maksimum çıkış sınırlanır.",
+    "Standart ölçümde bu eğri 50 ile 90 dB SPL arasında, beşer desibellik adımlarla çizilir."
+   ]
+  },
+  {
+   "id": "oran",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Giriş-çıkış eğrisi",
+   "baslik": "Kompresyon *oranı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Giriş (dB SPL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 130,
+     "adim": 10,
+     "ad": "Çıkış (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "oran_1",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        95,
+        130
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 1,
+      "etiket": "1:1",
+      "etiket_konum": [
+       90,
+       125
+      ],
+      "etiket_dx": 10
+     },
+     {
+      "ad": "oran_2",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        100,
+        110
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2,
+      "etiket": "2:1",
+      "etiket_konum": [
+       100,
+       110
+      ],
+      "etiket_dx": -36,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "oran_3",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        100,
+        101.7
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 3,
+      "etiket": "3:1",
+      "etiket_konum": [
+       100,
+       101.7
+      ],
+      "etiket_dx": -36,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "oran_10",
+      "noktalar": [
+       [
+        30,
+        65
+       ],
+       [
+        50,
+        85
+       ],
+       [
+        100,
+        90
+       ]
+      ],
+      "renk": "kirmizi",
+      "cumle": 4,
+      "etiket": "10:1",
+      "etiket_konum": [
+       100,
+       90
+      ],
+      "etiket_dx": -44,
+      "etiket_dy": 24
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "oran_2",
+     "cumle": 2
+    },
+    {
+     "parca": "oran_3",
+     "cumle": 3
+    },
+    {
+     "parca": "oran_10",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Aynı kompresyon eşiğinde farklı oranlar karşılaştırıldığında eğrinin eğimi değişir.",
+    {
+     "yazi": "Oran 1'e 1 ise kompresyon yoktur; cihaz doğrusal çalışır.",
+     "ses": "Oran bire bir ise kompresyon yoktur; cihaz doğrusal çalışır."
+    },
+    {
+     "yazi": "Oran 2'ye 1 olduğunda 20 desibellik giriş artışı 10 desibellik çıkış artışına dönüşür.",
+     "ses": "Oran ikiye bir olduğunda yirmi desibellik giriş artışı on desibellik çıkış artışına dönüşür."
+    },
+    {
+     "yazi": "Oran 3'e 1 olduğunda aynı artış yaklaşık 7 desibele iner; eğri daha da yataylaşır.",
+     "ses": "Oran üçe bir olduğunda aynı artış yaklaşık yedi desibele iner; eğri daha da yataylaşır."
+    },
+    {
+     "yazi": "Oran 10'a 1 ya da daha yüksek olduğunda çıkış neredeyse sabit kalır; bu artık sınırlamadır.",
+     "ses": "Oran ona bir ya da daha yüksek olduğunda çıkış neredeyse sabit kalır; bu artık sınırlamadır."
+    },
+    "Yani oran büyüdükçe çıkışın aralığı daralır ve sesler arasındaki yükseklik farkları küçülür.",
+    "Çok yüksek oranlar, konuşmanın doğal yükseklik değişimlerini düzleştirerek sesin doğallığını azaltabilir."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Giriş-çıkış eğrisi",
+   "baslik": "Kazanç *girişe göre* değişir",
+   "sutunlar": [
+    "Giriş (dB SPL)",
+    "Çıkış (dB SPL)",
+    "Kazanç (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "40",
+      "75",
+      "35"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "50",
+      "85",
+      "35"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "70",
+      "95",
+      "25"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "90",
+      "105",
+      "15"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Giriş-çıkış eğrisinden her giriş düzeyindeki kazancı okuyabiliriz; kazanç, çıkış eksi giriştir.",
+    "Kırk desibellik yumuşak bir ses 75 desibele yükseltilir; kazanç 35 desibeldir.",
+    "Kompresyon eşiği olan 50 desibelde kazanç hala 35 desibeldir.",
+    "Yetmiş desibellik bir girişte çıkış 95 desibeldir; kazanç 25 desibele düşmüştür.",
+    "Doksan desibellik yüksek bir girişte ise kazanç yalnız 15 desibeldir.",
+    "Yani 50 desibellik giriş aralığı, yalnız 30 desibellik bir çıkış aralığına sığdırılmıştır; kompresyonun özü budur."
+   ]
+  },
+  {
+   "id": "wdrc",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "WDRC ve sınırlama",
+   "baslik": "*WDRC* ve sınırlama",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "WDRC eşiği",
+     "cumle": 1,
+     "metin": "Düşük, konuşma düzeyinin altında"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "WDRC oranı",
+     "cumle": 3,
+     "metin": "Genellikle düşük"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sınırlama eşiği",
+     "cumle": 5,
+     "metin": "Yüksek, çıkış sınırına yakın"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sınırlama oranı",
+     "cumle": 6,
+     "metin": "Yüksek, 10:1 gibi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Geniş dinamik aralık kompresyonu (wide dynamic range compression), kısaca WDRC, bugün cihazların temel çalışma biçimidir.",
+     "ses": "Geniş dinamik aralık kompresyonu, kısaca dabılyu de re ce, bugün cihazların temel çalışma biçimidir."
+    },
+    {
+     "yazi": "WDRC'de kompresyon eşiği düşüktür; genellikle yaklaşık 40 ile 55 dB SPL arasında, yani yumuşak konuşma düzeyinin altında ya da yakınındadır.",
+     "ses": "dabılyu de re cede kompresyon eşiği düşüktür; genellikle yaklaşık kırk ile elli beş desibel es pi el arasında, yani yumuşak konuşma düzeyinin altında ya da yakınındadır."
+    },
+    "Böylece yumuşak, orta ve yüksek seslerin büyük bölümü kompresyon bölgesinde işlenir.",
+    {
+     "yazi": "WDRC'de oran genellikle düşüktür; çoğu uygulamada 3'e 1'in altında kalır.",
+     "ses": "dabılyu de re cede oran genellikle düşüktür; çoğu uygulamada üçe birin altında kalır."
+    },
+    "Amaç, yumuşak seslere daha çok, yüksek seslere daha az kazanç vererek sesleri dinamik aralığa sığdırmaktır.",
+    "Kompresyon sınırlaması (compression limiting) ise yalnız çıkış sınırına yakın yüksek bir eşikte devreye girer.",
+    {
+     "yazi": "Oranı yüksektir, genellikle 8'e 1 ya da daha fazladır; böylece çıkış rahatsızlık düzeyini aşmaz.",
+     "ses": "Oranı yüksektir, genellikle sekize bir ya da daha fazladır; böylece çıkış rahatsızlık düzeyini aşmaz."
+    },
+    {
+     "yazi": "Kısacası WDRC sesleri kişinin işitme alanına yerleştirir, sınırlama ise bu alanın üst sınırını korur.",
+     "ses": "Kısacası dabılyu de re ce sesleri kişinin işitme alanına yerleştirir, sınırlama ise bu alanın üst sınırını korur."
+    }
+   ]
+  },
+  {
+   "id": "kirpma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "WDRC ve sınırlama",
+   "baslik": "Kırpma mı, *sınırlama* mı?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Zaman (ms)"
+    },
+    "y": {
+     "min": -1.6,
+     "max": 1.6,
+     "adim": 0.5,
+     "ad": "Genlik",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "kirpilmis",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        0.188
+       ],
+       [
+        0.2,
+        0.373
+       ],
+       [
+        0.3,
+        0.552
+       ],
+       [
+        0.4,
+        0.723
+       ],
+       [
+        0.5,
+        0.882
+       ],
+       [
+        0.6,
+        1.0
+       ],
+       [
+        0.7,
+        1.0
+       ],
+       [
+        0.8,
+        1.0
+       ],
+       [
+        0.9,
+        1.0
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.1,
+        1.0
+       ],
+       [
+        1.2,
+        1.0
+       ],
+       [
+        1.3,
+        1.0
+       ],
+       [
+        1.4,
+        1.0
+       ],
+       [
+        1.5,
+        1.0
+       ],
+       [
+        1.6,
+        1.0
+       ],
+       [
+        1.7,
+        1.0
+       ],
+       [
+        1.8,
+        1.0
+       ],
+       [
+        1.9,
+        1.0
+       ],
+       [
+        2.0,
+        0.882
+       ],
+       [
+        2.1,
+        0.723
+       ],
+       [
+        2.2,
+        0.552
+       ],
+       [
+        2.3,
+        0.373
+       ],
+       [
+        2.4,
+        0.188
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.6,
+        -0.188
+       ],
+       [
+        2.7,
+        -0.373
+       ],
+       [
+        2.8,
+        -0.552
+       ],
+       [
+        2.9,
+        -0.723
+       ],
+       [
+        3.0,
+        -0.882
+       ],
+       [
+        3.1,
+        -1.0
+       ],
+       [
+        3.2,
+        -1.0
+       ],
+       [
+        3.3,
+        -1.0
+       ],
+       [
+        3.4,
+        -1.0
+       ],
+       [
+        3.5,
+        -1.0
+       ],
+       [
+        3.6,
+        -1.0
+       ],
+       [
+        3.7,
+        -1.0
+       ],
+       [
+        3.8,
+        -1.0
+       ],
+       [
+        3.9,
+        -1.0
+       ],
+       [
+        4.0,
+        -1.0
+       ],
+       [
+        4.1,
+        -1.0
+       ],
+       [
+        4.2,
+        -1.0
+       ],
+       [
+        4.3,
+        -1.0
+       ],
+       [
+        4.4,
+        -1.0
+       ],
+       [
+        4.5,
+        -0.882
+       ],
+       [
+        4.6,
+        -0.723
+       ],
+       [
+        4.7,
+        -0.552
+       ],
+       [
+        4.8,
+        -0.373
+       ],
+       [
+        4.9,
+        -0.188
+       ],
+       [
+        5.0,
+        -0.0
+       ],
+       [
+        5.1,
+        0.188
+       ],
+       [
+        5.2,
+        0.373
+       ],
+       [
+        5.3,
+        0.552
+       ],
+       [
+        5.4,
+        0.723
+       ],
+       [
+        5.5,
+        0.882
+       ],
+       [
+        5.6,
+        1.0
+       ],
+       [
+        5.7,
+        1.0
+       ],
+       [
+        5.8,
+        1.0
+       ],
+       [
+        5.9,
+        1.0
+       ],
+       [
+        6.0,
+        1.0
+       ],
+       [
+        6.1,
+        1.0
+       ],
+       [
+        6.2,
+        1.0
+       ],
+       [
+        6.3,
+        1.0
+       ],
+       [
+        6.4,
+        1.0
+       ],
+       [
+        6.5,
+        1.0
+       ],
+       [
+        6.6,
+        1.0
+       ],
+       [
+        6.7,
+        1.0
+       ],
+       [
+        6.8,
+        1.0
+       ],
+       [
+        6.9,
+        1.0
+       ],
+       [
+        7.0,
+        0.882
+       ],
+       [
+        7.1,
+        0.723
+       ],
+       [
+        7.2,
+        0.552
+       ],
+       [
+        7.3,
+        0.373
+       ],
+       [
+        7.4,
+        0.188
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        7.6,
+        -0.188
+       ],
+       [
+        7.7,
+        -0.373
+       ],
+       [
+        7.8,
+        -0.552
+       ],
+       [
+        7.9,
+        -0.723
+       ],
+       [
+        8.0,
+        -0.882
+       ],
+       [
+        8.1,
+        -1.0
+       ],
+       [
+        8.2,
+        -1.0
+       ],
+       [
+        8.3,
+        -1.0
+       ],
+       [
+        8.4,
+        -1.0
+       ],
+       [
+        8.5,
+        -1.0
+       ],
+       [
+        8.6,
+        -1.0
+       ],
+       [
+        8.7,
+        -1.0
+       ],
+       [
+        8.8,
+        -1.0
+       ],
+       [
+        8.9,
+        -1.0
+       ],
+       [
+        9.0,
+        -1.0
+       ],
+       [
+        9.1,
+        -1.0
+       ],
+       [
+        9.2,
+        -1.0
+       ],
+       [
+        9.3,
+        -1.0
+       ],
+       [
+        9.4,
+        -1.0
+       ],
+       [
+        9.5,
+        -0.882
+       ],
+       [
+        9.6,
+        -0.723
+       ],
+       [
+        9.7,
+        -0.552
+       ],
+       [
+        9.8,
+        -0.373
+       ],
+       [
+        9.9,
+        -0.188
+       ],
+       [
+        10.0,
+        -0.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "cumle": 1,
+      "etiket": "tepe kırpma",
+      "etiket_konum": [
+       1.25,
+       1.0
+      ],
+      "etiket_dy": -16
+     },
+     {
+      "ad": "sinirlanmis",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        0.119
+       ],
+       [
+        0.2,
+        0.236
+       ],
+       [
+        0.3,
+        0.35
+       ],
+       [
+        0.4,
+        0.458
+       ],
+       [
+        0.5,
+        0.558
+       ],
+       [
+        0.6,
+        0.65
+       ],
+       [
+        0.7,
+        0.732
+       ],
+       [
+        0.8,
+        0.802
+       ],
+       [
+        0.9,
+        0.86
+       ],
+       [
+        1.0,
+        0.904
+       ],
+       [
+        1.1,
+        0.933
+       ],
+       [
+        1.2,
+        0.948
+       ],
+       [
+        1.3,
+        0.948
+       ],
+       [
+        1.4,
+        0.933
+       ],
+       [
+        1.5,
+        0.904
+       ],
+       [
+        1.6,
+        0.86
+       ],
+       [
+        1.7,
+        0.802
+       ],
+       [
+        1.8,
+        0.732
+       ],
+       [
+        1.9,
+        0.65
+       ],
+       [
+        2.0,
+        0.558
+       ],
+       [
+        2.1,
+        0.458
+       ],
+       [
+        2.2,
+        0.35
+       ],
+       [
+        2.3,
+        0.236
+       ],
+       [
+        2.4,
+        0.119
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.6,
+        -0.119
+       ],
+       [
+        2.7,
+        -0.236
+       ],
+       [
+        2.8,
+        -0.35
+       ],
+       [
+        2.9,
+        -0.458
+       ],
+       [
+        3.0,
+        -0.558
+       ],
+       [
+        3.1,
+        -0.65
+       ],
+       [
+        3.2,
+        -0.732
+       ],
+       [
+        3.3,
+        -0.802
+       ],
+       [
+        3.4,
+        -0.86
+       ],
+       [
+        3.5,
+        -0.904
+       ],
+       [
+        3.6,
+        -0.933
+       ],
+       [
+        3.7,
+        -0.948
+       ],
+       [
+        3.8,
+        -0.948
+       ],
+       [
+        3.9,
+        -0.933
+       ],
+       [
+        4.0,
+        -0.904
+       ],
+       [
+        4.1,
+        -0.86
+       ],
+       [
+        4.2,
+        -0.802
+       ],
+       [
+        4.3,
+        -0.732
+       ],
+       [
+        4.4,
+        -0.65
+       ],
+       [
+        4.5,
+        -0.558
+       ],
+       [
+        4.6,
+        -0.458
+       ],
+       [
+        4.7,
+        -0.35
+       ],
+       [
+        4.8,
+        -0.236
+       ],
+       [
+        4.9,
+        -0.119
+       ],
+       [
+        5.0,
+        -0.0
+       ],
+       [
+        5.1,
+        0.119
+       ],
+       [
+        5.2,
+        0.236
+       ],
+       [
+        5.3,
+        0.35
+       ],
+       [
+        5.4,
+        0.458
+       ],
+       [
+        5.5,
+        0.558
+       ],
+       [
+        5.6,
+        0.65
+       ],
+       [
+        5.7,
+        0.732
+       ],
+       [
+        5.8,
+        0.802
+       ],
+       [
+        5.9,
+        0.86
+       ],
+       [
+        6.0,
+        0.904
+       ],
+       [
+        6.1,
+        0.933
+       ],
+       [
+        6.2,
+        0.948
+       ],
+       [
+        6.3,
+        0.948
+       ],
+       [
+        6.4,
+        0.933
+       ],
+       [
+        6.5,
+        0.904
+       ],
+       [
+        6.6,
+        0.86
+       ],
+       [
+        6.7,
+        0.802
+       ],
+       [
+        6.8,
+        0.732
+       ],
+       [
+        6.9,
+        0.65
+       ],
+       [
+        7.0,
+        0.558
+       ],
+       [
+        7.1,
+        0.458
+       ],
+       [
+        7.2,
+        0.35
+       ],
+       [
+        7.3,
+        0.236
+       ],
+       [
+        7.4,
+        0.119
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        7.6,
+        -0.119
+       ],
+       [
+        7.7,
+        -0.236
+       ],
+       [
+        7.8,
+        -0.35
+       ],
+       [
+        7.9,
+        -0.458
+       ],
+       [
+        8.0,
+        -0.558
+       ],
+       [
+        8.1,
+        -0.65
+       ],
+       [
+        8.2,
+        -0.732
+       ],
+       [
+        8.3,
+        -0.802
+       ],
+       [
+        8.4,
+        -0.86
+       ],
+       [
+        8.5,
+        -0.904
+       ],
+       [
+        8.6,
+        -0.933
+       ],
+       [
+        8.7,
+        -0.948
+       ],
+       [
+        8.8,
+        -0.948
+       ],
+       [
+        8.9,
+        -0.933
+       ],
+       [
+        9.0,
+        -0.904
+       ],
+       [
+        9.1,
+        -0.86
+       ],
+       [
+        9.2,
+        -0.802
+       ],
+       [
+        9.3,
+        -0.732
+       ],
+       [
+        9.4,
+        -0.65
+       ],
+       [
+        9.5,
+        -0.558
+       ],
+       [
+        9.6,
+        -0.458
+       ],
+       [
+        9.7,
+        -0.35
+       ],
+       [
+        9.8,
+        -0.236
+       ],
+       [
+        9.9,
+        -0.119
+       ],
+       [
+        10.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "cumle": 3,
+      "etiket": "kompresyon sınırlaması",
+      "etiket_konum": [
+       6.25,
+       0.95
+      ],
+      "etiket_dy": -16
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 9,
+      "y": 1.0,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "çıkış sınırı",
+      "dy": -12,
+      "cumle": 0,
+      "renk": "sari"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kirpilmis",
+     "cumle": 2
+    },
+    {
+     "parca": "sinirlanmis",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Maksimum çıkışı sınırlamanın iki yolu vardır: tepe kırpma ve kompresyon sınırlaması.",
+    "Tepe kırpmada dalganın sınırı aşan tepeleri düz biçimde kesilir.",
+    "Kesilen dalga artık saf bir sinüs değildir; yeni harmonikler oluşur ve ses cızırtılı duyulur.",
+    "Kompresyon sınırlamasında ise cihaz kazancı azaltır; dalganın biçimi korunur, yalnız genliği küçülür.",
+    "Bu yüzden kompresyon sınırlaması, yüksek ses ortamlarında çok daha temiz bir ses verir.",
+    "Tepe kırpma bugün bazı çok güçlü cihazlarda ve en üst güvenlik sınırı olarak hala kullanılabilir.",
+    "Kişi yüksek seslerin cızırtılı olduğundan yakınıyorsa, çıkışın kırpılıyor olabileceği akla gelmelidir."
+   ]
+  },
+  {
+   "id": "genisleme",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "WDRC ve sınırlama",
+   "baslik": "Genişleme (*expansion*)",
+   "maddeler": [
+    {
+     "metin": "Çok yumuşak girişte kazanç azalır",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Mikrofon ve ortam gürültüsü bastırılır",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Fazlası yumuşak konuşmayı da keser",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ayarı gerçek kulakta doğrulanır",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": 20,
+      "max": 100,
+      "adim": 20,
+      "ad": "Giriş (dB SPL)"
+     },
+     "y": {
+      "min": 40,
+      "max": 120,
+      "adim": 20,
+      "ad": "Çıkış (dB SPL)"
+     },
+     "seriler": [
+      {
+       "ad": "egri",
+       "noktalar": [
+        [
+         20,
+         45
+        ],
+        [
+         30,
+         60
+        ],
+        [
+         40,
+         75
+        ],
+        [
+         50,
+         85
+        ],
+        [
+         70,
+         95
+        ],
+        [
+         90,
+         105
+        ],
+        [
+         100,
+         106
+        ]
+       ],
+       "renk": "mavi",
+       "cumle": 0
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "genisleme_bolgesi",
+       "x": [
+        20,
+        40
+       ],
+       "renk": "sari",
+       "etiket": "genişleme",
+       "cumle": 1
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "genisleme_bolgesi",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Kompresyon eşiğinin de altında, çok yumuşak girişlerde bazı cihazlar ters yönde çalışır.",
+    "Bu bölgede giriş azaldıkça kazanç da azalır; buna genişleme (expansion) denir.",
+    "Amaç, sessiz bir odada mikrofonun kendi gürültüsünün ve buzdolabı uğultusu gibi zayıf seslerin duyulmasını önlemektir.",
+    "Grafikte genişleme bölgesinde eğrinin eğimi birden büyüktür.",
+    "Ancak genişleme fazla güçlü ayarlanırsa, uzaktan gelen yumuşak konuşma da zayıflatılabilir.",
+    "Bu yüzden yumuşak giriş düzeyinde gerçek kulak ölçümü, genişleme ayarının konuşmayı kesmediğini doğrulamak için önemlidir."
+   ]
+  },
+  {
+   "id": "atak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zaman sabitleri",
+   "baslik": "Atak ve *bırakma*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 600,
+     "adim": 100,
+     "ad": "Zaman (ms)"
+    },
+    "y": {
+     "min": 40,
+     "max": 125,
+     "adim": 20,
+     "ad": "Düzey (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "giris",
+      "noktalar": [
+       [
+        0,
+        55
+       ],
+       [
+        100,
+        55
+       ],
+       [
+        101,
+        90
+       ],
+       [
+        350,
+        90
+       ],
+       [
+        351,
+        55
+       ],
+       [
+        600,
+        55
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 1,
+      "etiket": "giriş",
+      "etiket_konum": [
+       20,
+       55
+      ],
+      "etiket_dy": 26
+     },
+     {
+      "ad": "cikis",
+      "noktalar": [
+       [
+        0,
+        85
+       ],
+       [
+        100,
+        85
+       ],
+       [
+        101,
+        118
+       ],
+       [
+        104,
+        108
+       ],
+       [
+        110,
+        105
+       ],
+       [
+        350,
+        105
+       ],
+       [
+        351,
+        72
+       ],
+       [
+        380,
+        75
+       ],
+       [
+        420,
+        79
+       ],
+       [
+        470,
+        82
+       ],
+       [
+        520,
+        84
+       ],
+       [
+        600,
+        85
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 6,
+      "cumle": 2,
+      "etiket": "çıkış",
+      "etiket_konum": [
+       20,
+       85
+      ],
+      "etiket_dy": -14
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "atak_tepesi",
+      "x": 101,
+      "y": 118,
+      "etiket": "atak",
+      "renk": "kirmizi",
+      "cumle": 3,
+      "dx": 30
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "birakma",
+      "x": [
+       351,
+       455
+      ],
+      "y": 64,
+      "etiket": "bırakma",
+      "cumle": 5,
+      "etiket_alt": true
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "atak_tepesi",
+     "cumle": 3
+    },
+    {
+     "parca": "birakma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kompresyon yalnız ne kadar değil, ne kadar hızlı tepki verdiğiyle de tanımlanır.",
+    {
+     "yazi": "Bu örnekte giriş düzeyi aniden 55'ten 90 dB SPL'ye çıkıyor.",
+     "ses": "Bu örnekte giriş düzeyi aniden elli beşten doksan desibel es pi ele çıkıyor."
+    },
+    "Cihaz kazancı hemen azaltamadığı için çıkışta kısa bir tepe oluşur, sonra çıkış yeni düzeyine oturur.",
+    "Standartta atak süresi (attack time), bu ani artıştan sonra çıkışın son düzeyinin 3 desibel yakınına inmesine kadar geçen süredir.",
+    "Giriş yeniden 55 desibele düştüğünde ise kazanç hemen geri gelmez; çıkış bir süre düşük kalır.",
+    "Bırakma süresi (release time), çıkışın son düzeyinin 4 desibel yakınına geri dönmesine kadar geçen süredir.",
+    "Atak süresi çoğu cihazda birkaç milisaniye kadar kısadır; böylece ani yüksek sesler hızla denetlenir.",
+    "Bırakma süresi ise cihazdan cihaza çok değişir ve kompresyonun karakterini belirler.",
+    "Standart bu ölçümleri, giriş-çıkış eğrisinin ölçüldüğü frekanslarda yapar."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zaman sabitleri",
+   "baslik": "*Hızlı* ve yavaş kompresyon",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Hızlı kompresyon",
+     "cumle": 0,
+     "metin": "Hece hece kazanç değişir"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Avantajı",
+     "cumle": 2,
+     "metin": "Zayıf ünsüz duyulur"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Yavaş kompresyon",
+     "cumle": 4,
+     "metin": "Ortama göre kazanç"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Avantajı",
+     "cumle": 6,
+     "metin": "Doğal ses, konfor"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Dezavantajı",
+     "cumle": 7,
+     "metin": "Ani sesten sonra yavaş"
+    }
+   ],
+   "cumleler": [
+    "Bırakma süresi kısa, yaklaşık 200 milisaniyenin altında olan kompresyona hızlı ya da hece kompresyonu (syllabic compression) denir.",
+    "Bu tür kompresyon, kazancı konuşmanın heceleri arasında bile değiştirebilir.",
+    "Avantajı, güçlü bir ünlünün hemen ardından gelen zayıf bir ünsüzün de yeterli kazançla duyulmasıdır.",
+    "Dezavantajı, konuşmanın doğal zarfını düzleştirmesi ve gürültüde arka planı yükselterek sesi pompalıyormuş gibi duyurmasıdır.",
+    "Bırakma süresi yüzlerce milisaniyeden birkaç saniyeye uzanan kompresyona ise yavaş kompresyon denir.",
+    "Yavaş kompresyon, kazancı ortamın genel ses düzeyine göre ayarlar ve otomatik bir ses denetimi gibi davranır.",
+    "Avantajı, konuşmanın zarfını ve doğallığını korumasıdır.",
+    "Dezavantajı ise ani bir yüksek sesten, örneğin kapı çarpmasından sonra, yumuşak seslerin bir süre az yükseltilmesidir.",
+    "Çalışmalar, hangi yaklaşımın daha yararlı olduğunun kişiden kişiye değişebileceğini düşündürüyor.",
+    "Bazı araştırmalar bu farkı kişinin bilişsel kapasitesiyle ilişkilendirmiştir; ancak klinikte tek bir kural yoktur."
+   ]
+  },
+  {
+   "id": "kanallar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zaman sabitleri",
+   "baslik": "Çok kanallı *kompresyon*",
+   "maddeler": [
+    {
+     "metin": "Her kanalın kendi eşiği ve oranı",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Alçak ve yüksek frekans ayrı işlenir",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Reçete üç giriş düzeyi için hedef verir",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Gerçek kulakta 55, 65, 80 dB SPL",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Alçak kanal",
+      "cumle": 2,
+      "metin": "Az kayıp, az kompresyon"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Yüksek kanal",
+      "cumle": 2,
+      "metin": "Çok kayıp, farklı ayar"
+     }
+    ],
+    "ust": "KANAL BAŞINA"
+   },
+   "cumleler": [
+    "Günümüz cihazları sesi birden çok frekans kanalına ayırır ve her kanalda ayrı bir kompresyon uygular.",
+    "Böylece her kanalın kendi kompresyon eşiği ve oranı olabilir.",
+    "Bu, alçak frekanslarda işitmesi daha iyi, yüksek frekanslarda daha kötü olan bir kişide kompresyonun frekansa göre ayarlanmasını sağlar.",
+    "Kanallar ve bantlar konusunu bir sonraki derste ayrıntılı olarak göreceğiz.",
+    "Reçete formülleri, kompresyon ayarlarını belirlemek için yumuşak, orta ve yüksek giriş düzeyleri için ayrı hedefler verir.",
+    "Gerçek kulak ölçümünde 55, 65 ve 80 dB SPL girişlerin hedefe yakın olması, kompresyon ayarının doğru olduğunu gösterir.",
+    "Yalnız orta düzeyde hedefe uymak yetmez; yumuşak ve yüksek düzeyler de ayrı ayrı kontrol edilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yumuşak sesleri duymuyorum yakınmasında yumuşak giriş kazancına ve genişlemeye, yüksek sesler rahatsız ediyor yakınmasında maksimum çıkışa bakın.",
+   "cumleler": [
+    "Sahadan bir ipucu: kompresyonla ilgili yakınmaları giriş düzeyine göre ayırın.",
+    "Kişi fısıltıyı ya da uzaktaki konuşmayı duyamadığını söylüyorsa, yumuşak giriş kazancını ve genişleme ayarını kontrol edin.",
+    "Yüksek sesler rahatsız ediyor diyorsa, önce maksimum çıkışı ve sınırlamayı gözden geçirin.",
+    "Ses pompalıyor, dalgalanıyor gibi yakınmalar ise çoğu zaman kısa bırakma süresiyle ilişkilidir.",
+    "Her değişiklikten sonra ilgili giriş düzeyinde gerçek kulak ölçümüyle sonucu doğrulayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Dinamik aralık daralır, kompresyon sığdırır",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Eşik: bükülme noktası; oran: giriş/çıkış",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "WDRC düşük eşik, sınırlama yüksek eşik",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Atak kısa, bırakma kompresyonu belirler",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Bu derste koklear kayıpta dinamik aralığın daraldığını ve kompresyonun sesleri bu aralığa sığdırdığını gördük.",
+    "Kompresyon eşiği giriş-çıkış eğrisinin büküldüğü noktadır; oran ise giriş değişiminin çıkış değişimine oranıdır.",
+    {
+     "yazi": "WDRC düşük eşik ve düşük oranla çalışır; kompresyon sınırlaması ise yüksek eşik ve yüksek oranla maksimum çıkışı korur.",
+     "ses": "dabılyu de re ce düşük eşik ve düşük oranla çalışır; kompresyon sınırlaması ise yüksek eşik ve yüksek oranla maksimum çıkışı korur."
+    },
+    "Atak süresi kısadır; bırakma süresi ise hızlı ve yavaş kompresyonu birbirinden ayırır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Eşik üstünde giriş 30 dB, çıkış 10 dB artıyor. Oran?",
+   "secenekler": [
+    "1:1",
+    "2:1",
+    "3:1",
+    "10:1"
+   ],
+   "dogru": 2,
+   "aciklama": "Oran = giriş değişimi / çıkış değişimi: _30 / 10 = 3_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: kompresyon eşiğinin üzerinde giriş 30 desibel artarken çıkış 10 desibel artıyor. Kompresyon oranı nedir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap C: 3'e 1.",
+     "ses": "Doğru cevap C: üçe bir."
+    },
+    "Kompresyon oranı, giriş değişiminin çıkış değişimine bölünmesiyle bulunur: otuz bölü on, yani üç."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Kanallar, bantlar ve *frekans düşürme*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kanal ve bant farkını ve yüksek frekansları duyulur kılmak için kullanılan frekans düşürme yöntemlerini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

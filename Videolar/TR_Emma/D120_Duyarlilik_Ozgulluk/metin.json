@@ -1,0 +1,1348 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D120_Duyarlilik_Ozgulluk_TR",
+ "kapak": {
+  "ust": "DERS 120",
+  "baslik": "Duyarlılık ve<br>*özgüllük*",
+  "alt": "Dörtlü tablo ve öngörü değerleri",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 100,
+    "adim": 20,
+    "ad": "Test değeri"
+   },
+   "y": {
+    "min": 0,
+    "max": 1.15,
+    "adim": 0.5,
+    "yazisiz": true,
+    "ad": "Kişi sayısı (göreli)"
+   },
+   "seriler": [
+    {
+     "ad": "saglikli",
+     "noktalar": [
+      [
+       0,
+       0.002
+      ],
+      [
+       2.5,
+       0.005
+      ],
+      [
+       5.0,
+       0.011
+      ],
+      [
+       7.5,
+       0.023
+      ],
+      [
+       10.0,
+       0.044
+      ],
+      [
+       12.5,
+       0.08
+      ],
+      [
+       15.0,
+       0.135
+      ],
+      [
+       17.5,
+       0.216
+      ],
+      [
+       20.0,
+       0.325
+      ],
+      [
+       22.5,
+       0.458
+      ],
+      [
+       25.0,
+       0.607
+      ],
+      [
+       27.5,
+       0.755
+      ],
+      [
+       30.0,
+       0.882
+      ],
+      [
+       32.5,
+       0.969
+      ],
+      [
+       35.0,
+       1.0
+      ],
+      [
+       37.5,
+       0.969
+      ],
+      [
+       40.0,
+       0.882
+      ],
+      [
+       42.5,
+       0.755
+      ],
+      [
+       45.0,
+       0.607
+      ],
+      [
+       47.5,
+       0.458
+      ],
+      [
+       50.0,
+       0.325
+      ],
+      [
+       52.5,
+       0.216
+      ],
+      [
+       55.0,
+       0.135
+      ],
+      [
+       57.5,
+       0.08
+      ],
+      [
+       60.0,
+       0.044
+      ],
+      [
+       62.5,
+       0.023
+      ],
+      [
+       65.0,
+       0.011
+      ],
+      [
+       67.5,
+       0.005
+      ],
+      [
+       70.0,
+       0.002
+      ],
+      [
+       72.5,
+       0.001
+      ],
+      [
+       75.0,
+       0.0
+      ],
+      [
+       77.5,
+       0.0
+      ],
+      [
+       80.0,
+       0.0
+      ],
+      [
+       82.5,
+       0.0
+      ],
+      [
+       85.0,
+       0.0
+      ],
+      [
+       87.5,
+       0.0
+      ],
+      [
+       90.0,
+       0.0
+      ],
+      [
+       92.5,
+       0.0
+      ],
+      [
+       95.0,
+       0.0
+      ],
+      [
+       97.5,
+       0.0
+      ],
+      [
+       100.0,
+       0.0
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "dolgu": true,
+     "etiket": "sağlıklı",
+     "etiket_konum": [
+      22,
+      1.05
+     ],
+     "cumle": 1
+    },
+    {
+     "ad": "hasta",
+     "noktalar": [
+      [
+       0,
+       0.0
+      ],
+      [
+       2.5,
+       0.0
+      ],
+      [
+       5.0,
+       0.0
+      ],
+      [
+       7.5,
+       0.0
+      ],
+      [
+       10.0,
+       0.0
+      ],
+      [
+       12.5,
+       0.0
+      ],
+      [
+       15.0,
+       0.0
+      ],
+      [
+       17.5,
+       0.0
+      ],
+      [
+       20.0,
+       0.0
+      ],
+      [
+       22.5,
+       0.0
+      ],
+      [
+       25.0,
+       0.0
+      ],
+      [
+       27.5,
+       0.001
+      ],
+      [
+       30.0,
+       0.002
+      ],
+      [
+       32.5,
+       0.005
+      ],
+      [
+       35.0,
+       0.011
+      ],
+      [
+       37.5,
+       0.023
+      ],
+      [
+       40.0,
+       0.044
+      ],
+      [
+       42.5,
+       0.08
+      ],
+      [
+       45.0,
+       0.135
+      ],
+      [
+       47.5,
+       0.216
+      ],
+      [
+       50.0,
+       0.325
+      ],
+      [
+       52.5,
+       0.458
+      ],
+      [
+       55.0,
+       0.607
+      ],
+      [
+       57.5,
+       0.755
+      ],
+      [
+       60.0,
+       0.882
+      ],
+      [
+       62.5,
+       0.969
+      ],
+      [
+       65.0,
+       1.0
+      ],
+      [
+       67.5,
+       0.969
+      ],
+      [
+       70.0,
+       0.882
+      ],
+      [
+       72.5,
+       0.755
+      ],
+      [
+       75.0,
+       0.607
+      ],
+      [
+       77.5,
+       0.458
+      ],
+      [
+       80.0,
+       0.325
+      ],
+      [
+       82.5,
+       0.216
+      ],
+      [
+       85.0,
+       0.135
+      ],
+      [
+       87.5,
+       0.08
+      ],
+      [
+       90.0,
+       0.044
+      ],
+      [
+       92.5,
+       0.023
+      ],
+      [
+       95.0,
+       0.011
+      ],
+      [
+       97.5,
+       0.005
+      ],
+      [
+       100.0,
+       0.002
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "dolgu": true,
+     "etiket": "hasta",
+     "etiket_konum": [
+      72,
+      1.05
+     ],
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "kesme",
+     "x": 50,
+     "y": 1.1,
+     "cizgi": "dikey",
+     "etiket": "kesme noktası",
+     "cumle": 2
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Duyarlılık, Özgüllük ve Öngörü Değerleri | Ders 120 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bir testin başarısı duyarlılık, özgüllük ve öngörü değerleriyle anlatılır. Bu derste dörtlü tabloyu kurmayı, dört ölçüyü hesaplamayı, yanlış pozitif ve yanlış negatif sonuçların bedelini ve yaygınlığın pozitif öngörü değerine etkisini kurgusal bir yenidoğan işitme taraması örneğiyle inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Altman DG, Bland JM (1994), Diagnostic tests 1: sensitivity and specificity, BMJ; Altman DG, Bland JM (1994), Diagnostic tests 2: predictive values, BMJ; JCIH (2019), Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "biyoistatistik",
+   "tarama"
+  ],
+  "etiketler": [
+   "duyarlılık",
+   "özgüllük",
+   "pozitif öngörü değeri",
+   "negatif öngörü değeri",
+   "dörtlü tablo",
+   "yaygınlık",
+   "yenidoğan işitme taraması",
+   "ROC eğrisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 120",
+   "baslik": "Duyarlılık ve *özgüllük*",
+   "alt": "Dörtlü tablo ve öngörü değerleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir testin ne kadar iyi ayırt ettiğini gösteren duyarlılık, özgüllük ve öngörü değerlerini öğreneceğiz.",
+    "Dörtlü tabloyu kurmayı, hesap yapmayı ve sonuçları yenidoğan işitme taraması örneğinde yorumlamayı göreceğiz."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel",
+   "baslik": "Test *ne kadar* doğru?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Gerçek pozitif",
+     "metin": "Hasta, test pozitif",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Yanlış pozitif",
+     "metin": "Sağlıklı, test pozitif",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yanlış negatif",
+     "metin": "Hasta, test negatif",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Gerçek negatif",
+     "metin": "Sağlıklı, test negatif",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bir testin sonucunu, durumu kesin olarak gösteren bir referans testle karşılaştırırız; buna altın standart denir.",
+    "Hasta olan kişide test pozitifse, sonuç gerçek pozitiftir.",
+    "Sağlıklı kişide test pozitifse, bu bir yanlış pozitif sonuçtur.",
+    "Hasta olan kişide test negatifse, bu bir yanlış negatif sonuçtur.",
+    "Sağlıklı kişide test negatifse, sonuç gerçek negatiftir.",
+    "Bu dört olasılık, testin performansını anlatan bütün ölçülerin temelidir."
+   ]
+  },
+  {
+   "id": "dortlu",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel",
+   "baslik": "*Dörtlü* tablo",
+   "sutunlar": [
+    "Test sonucu",
+    "Hastalık var",
+    "Hastalık yok"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Test pozitif",
+      "a: gerçek pozitif",
+      "b: yanlış pozitif"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Test negatif",
+      "c: yanlış negatif",
+      "d: gerçek negatif"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Toplam",
+      "a + c",
+      "b + d"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Bu dört olasılığı iki satır ve iki sütunluk bir tabloda düzenleriz; buna dörtlü tablo (contingency table) denir.",
+    "Satırlar test sonucunu, sütunlar ise altın standarda göre gerçek durumu gösterir.",
+    "Hücrelere genellikle a, b, c ve d harfleri verilir: a gerçek pozitif, b yanlış pozitif, c yanlış negatif, d gerçek negatiftir.",
+    "Sütun toplamları, gerçekten hasta olanların ve sağlıklı olanların sayısını verir.",
+    "Bütün hesaplamalar bu dört sayıdan yapılır."
+   ]
+  },
+  {
+   "id": "duyarlilik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Duyarlılık ve özgüllük",
+   "baslik": "*Duyarlılık* ve özgüllük",
+   "maddeler": [
+    {
+     "metin": "_Duyarlılık_ = a / (a + c)",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Yüksekse: _hasta kaçmaz_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Özgüllük_ = d / (b + d)",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Yüksekse: _yanlış alarm_ az",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "AKILDA",
+    "metin": "Duyarlılık hastaları, özgüllük *sağlıklıları* yakalar",
+    "cumle": 6
+   },
+   "cumleler": [
+    "Duyarlılık (sensitivity), hastalığı olanların içinde testin pozitif bulduğu kişilerin oranıdır.",
+    "Formülle duyarlılık, a bölü a artı c olarak hesaplanır.",
+    "Duyarlılığı yüksek bir test hastaları nadiren kaçırır; yani yanlış negatif azdır.",
+    "Özgüllük (specificity) ise sağlıklı olanların içinde testin negatif bulduğu kişilerin oranıdır.",
+    "Formülle özgüllük, d bölü b artı d olarak hesaplanır.",
+    "Özgüllüğü yüksek bir test sağlıklı kişileri nadiren hasta diye işaretler; yani yanlış pozitif azdır.",
+    "Bu iki ölçü testin kendi özelliğidir ve hastalığın ne kadar sık görüldüğünden doğrudan etkilenmez."
+   ]
+  },
+  {
+   "id": "kesme",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Duyarlılık ve özgüllük",
+   "baslik": "Kesme noktası *değişirse*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Test değeri"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.15,
+     "adim": 0.5,
+     "yazisiz": true,
+     "ad": "Kişi sayısı (göreli)"
+    },
+    "seriler": [
+     {
+      "ad": "saglikli",
+      "noktalar": [
+       [
+        0,
+        0.002
+       ],
+       [
+        2.5,
+        0.005
+       ],
+       [
+        5.0,
+        0.011
+       ],
+       [
+        7.5,
+        0.023
+       ],
+       [
+        10.0,
+        0.044
+       ],
+       [
+        12.5,
+        0.08
+       ],
+       [
+        15.0,
+        0.135
+       ],
+       [
+        17.5,
+        0.216
+       ],
+       [
+        20.0,
+        0.325
+       ],
+       [
+        22.5,
+        0.458
+       ],
+       [
+        25.0,
+        0.607
+       ],
+       [
+        27.5,
+        0.755
+       ],
+       [
+        30.0,
+        0.882
+       ],
+       [
+        32.5,
+        0.969
+       ],
+       [
+        35.0,
+        1.0
+       ],
+       [
+        37.5,
+        0.969
+       ],
+       [
+        40.0,
+        0.882
+       ],
+       [
+        42.5,
+        0.755
+       ],
+       [
+        45.0,
+        0.607
+       ],
+       [
+        47.5,
+        0.458
+       ],
+       [
+        50.0,
+        0.325
+       ],
+       [
+        52.5,
+        0.216
+       ],
+       [
+        55.0,
+        0.135
+       ],
+       [
+        57.5,
+        0.08
+       ],
+       [
+        60.0,
+        0.044
+       ],
+       [
+        62.5,
+        0.023
+       ],
+       [
+        65.0,
+        0.011
+       ],
+       [
+        67.5,
+        0.005
+       ],
+       [
+        70.0,
+        0.002
+       ],
+       [
+        72.5,
+        0.001
+       ],
+       [
+        75.0,
+        0.0
+       ],
+       [
+        77.5,
+        0.0
+       ],
+       [
+        80.0,
+        0.0
+       ],
+       [
+        82.5,
+        0.0
+       ],
+       [
+        85.0,
+        0.0
+       ],
+       [
+        87.5,
+        0.0
+       ],
+       [
+        90.0,
+        0.0
+       ],
+       [
+        92.5,
+        0.0
+       ],
+       [
+        95.0,
+        0.0
+       ],
+       [
+        97.5,
+        0.0
+       ],
+       [
+        100.0,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "sağlıklı",
+      "etiket_konum": [
+       22,
+       1.05
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        10.0,
+        0.0
+       ],
+       [
+        12.5,
+        0.0
+       ],
+       [
+        15.0,
+        0.0
+       ],
+       [
+        17.5,
+        0.0
+       ],
+       [
+        20.0,
+        0.0
+       ],
+       [
+        22.5,
+        0.0
+       ],
+       [
+        25.0,
+        0.0
+       ],
+       [
+        27.5,
+        0.001
+       ],
+       [
+        30.0,
+        0.002
+       ],
+       [
+        32.5,
+        0.005
+       ],
+       [
+        35.0,
+        0.011
+       ],
+       [
+        37.5,
+        0.023
+       ],
+       [
+        40.0,
+        0.044
+       ],
+       [
+        42.5,
+        0.08
+       ],
+       [
+        45.0,
+        0.135
+       ],
+       [
+        47.5,
+        0.216
+       ],
+       [
+        50.0,
+        0.325
+       ],
+       [
+        52.5,
+        0.458
+       ],
+       [
+        55.0,
+        0.607
+       ],
+       [
+        57.5,
+        0.755
+       ],
+       [
+        60.0,
+        0.882
+       ],
+       [
+        62.5,
+        0.969
+       ],
+       [
+        65.0,
+        1.0
+       ],
+       [
+        67.5,
+        0.969
+       ],
+       [
+        70.0,
+        0.882
+       ],
+       [
+        72.5,
+        0.755
+       ],
+       [
+        75.0,
+        0.607
+       ],
+       [
+        77.5,
+        0.458
+       ],
+       [
+        80.0,
+        0.325
+       ],
+       [
+        82.5,
+        0.216
+       ],
+       [
+        85.0,
+        0.135
+       ],
+       [
+        87.5,
+        0.08
+       ],
+       [
+        90.0,
+        0.044
+       ],
+       [
+        92.5,
+        0.023
+       ],
+       [
+        95.0,
+        0.011
+       ],
+       [
+        97.5,
+        0.005
+       ],
+       [
+        100.0,
+        0.002
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "hasta",
+      "etiket_konum": [
+       72,
+       1.05
+      ],
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesme",
+      "x": 50,
+      "y": 1.1,
+      "cizgi": "dikey",
+      "etiket": "kesme noktası",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yanlis_pozitif",
+      "x": [
+       50,
+       62
+      ],
+      "renk": "sari",
+      "etiket": "yanlış pozitif",
+      "cumle": 3
+     },
+     {
+      "ad": "yanlis_negatif",
+      "x": [
+       38,
+       50
+      ],
+      "renk": "turuncu",
+      "etiket": "yanlış negatif",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sola kaydır: duyarlılık artar",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sağa kaydır: özgüllük artar",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Denge: ROC eğrisi",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Çoğu test bir sayı üretir; sonucu pozitif ya da negatif saymak için bir kesme noktası seçilir.",
+    "Ekranda sağlıklı ve hasta grupların test değerlerinin dağılımını görüyoruz; iki dağılım kısmen örtüşüyor.",
+    "Kesme noktası bu dikey çizgidir; sağında kalanlar pozitif, solunda kalanlar negatif sayılır.",
+    "Örtüşen bölgede sağlıklı kişilerin bir kısmı pozitif, hastaların bir kısmı negatif bulunur.",
+    "Kesme noktasını sola kaydırırsak duyarlılık artar, ama yanlış pozitifler de artar ve özgüllük düşer.",
+    "Sağa kaydırırsak özgüllük artar, ama daha çok hasta kaçar ve duyarlılık düşer.",
+    "Farklı kesme noktalarındaki bu dengeyi gösteren grafiğe ROC eğrisi (receiver operating characteristic) denir."
+   ]
+  },
+  {
+   "id": "bedel",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hataların bedeli",
+   "baslik": "Yanlış pozitif mi, *yanlış negatif* mi?",
+   "sol": {
+    "ust": "Yanlış pozitif",
+    "maddeler": [
+     {
+      "metin": "Ailede gereksiz endişe",
+      "cumle": 0
+     },
+     {
+      "metin": "Gereksiz ileri test",
+      "cumle": 1
+     },
+     {
+      "metin": "Programa güven azalır",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Yanlış negatif",
+    "maddeler": [
+     {
+      "metin": "Kayıp gözden kaçar",
+      "cumle": 3
+     },
+     {
+      "metin": "Geç tanı, geç müdahale",
+      "cumle": 4
+     },
+     {
+      "metin": "Dil gelişimi etkilenebilir",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Yanlış pozitif sonuç, sağlıklı bir bebeğin ailesinde gereksiz endişeye yol açar.",
+    "Bebek ileri testlere çağrılır; bu da zaman, emek ve maliyet demektir.",
+    "Çok fazla yanlış pozitif programa güveni azaltır ve takipten düşmeyi artırabilir.",
+    "Yanlış negatif sonuçta ise işitme kaybı olan bebek taramadan geçmiş sayılır.",
+    "Aile rahatlar, ama tanı ve müdahale gecikir.",
+    "Geç müdahale dil ve konuşma gelişimini olumsuz etkileyebileceği için bu hatanın bedeli yüksektir.",
+    "Bu yüzden taramada genellikle yüksek duyarlılık önceliklidir; yanlış pozitifler ikinci aşama testle ayıklanır."
+   ]
+  },
+  {
+   "id": "ongoru",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Öngörü değerleri",
+   "baslik": "*Öngörü* değerleri",
+   "maddeler": [
+    {
+     "metin": "_PPV_ = a / (a + b)",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "_NPV_ = d / (c + d)",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Öngörü değeri _yaygınlığa_ bağlı",
+     "cumle": 5,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Yaygınlık düşerse _PPV düşer_",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PPV",
+    "metin": "Test pozitifse *gerçekten* hasta olma olasılığı",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Klinikte sorduğumuz soru çoğu zaman tersidir: test pozitif çıktı, bu kişinin gerçekten hasta olma olasılığı nedir?",
+    "Bu sorunun cevabı pozitif öngörü değeridir (positive predictive value), kısaca PPV.",
+    "PPV, test pozitif çıkanların içinde gerçekten hasta olanların oranıdır ve a bölü a artı b ile hesaplanır.",
+    "Negatif öngörü değeri, kısaca NPV ise test negatif çıkanların içinde gerçekten sağlıklı olanların oranıdır.",
+    "NPV, d bölü c artı d ile hesaplanır.",
+    "Öngörü değerleri, duyarlılık ve özgüllükten farklı olarak durumun test edilen grupta ne kadar sık olduğuna bağlıdır.",
+    "Bu sıklığa yaygınlık (prevalence) denir; yaygınlık düştükçe PPV de düşer."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Tarama örneği",
+   "baslik": "Örnek: *10.000* yenidoğan",
+   "sutunlar": [
+    "Tarama",
+    "Kayıp var",
+    "Kayıp yok",
+    "Toplam"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Kaldı",
+      "19",
+      "400",
+      "419"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Geçti",
+      "1",
+      "9.580",
+      "9.581"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Toplam",
+      "20",
+      "9.980",
+      "10.000"
+     ],
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Şimdi kurgusal bir yenidoğan işitme taraması örneği üzerinde hesap yapalım; sayılar örnek amaçlıdır.",
+    "On bin bebek taranıyor ve bunlardan yirmisinde kalıcı işitme kaybı var; yani yaygınlık binde iki.",
+    "Tarama işitme kaybı olan yirmi bebeğin on dokuzunu yakalıyor; bir bebek ise yanlışlıkla geçti sonucu alıyor.",
+    "Sağlıklı dokuz bin dokuz yüz seksen bebeğin dokuz bin beş yüz sekseni geçiyor, dört yüzü ise kalıyor.",
+    "Taramadan kalan toplam bebek sayısı dört yüz on dokuz.",
+    "Bu tablo, iyi bir testin bile binlerce bebekte ne kadar farklı sonuçlar ürettiğini gösteriyor.",
+    "Şimdi bu sayılardan dört ölçüyü hesaplayalım."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Tarama örneği",
+   "baslik": "Hesap *sonuçları*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Duyarlılık",
+     "metin": "19 / 20: yüzde 95",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Özgüllük",
+     "metin": "9.580 / 9.980: yaklaşık yüzde 96",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "PPV",
+     "metin": "19 / 419: yaklaşık yüzde 4,5",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "NPV",
+     "metin": "9.580 / 9.581: yaklaşık yüzde 99,99",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Duyarlılık, on dokuz bölü yirmi, yani yüzde doksan beştir.",
+    "Özgüllük, dokuz bin beş yüz seksen bölü dokuz bin dokuz yüz seksen, yani yaklaşık yüzde doksan altıdır.",
+    "Pozitif öngörü değeri ise on dokuz bölü dört yüz on dokuz, yani yalnızca yaklaşık yüzde dört buçuktur.",
+    "Yani taramadan kalan her yüz bebekten yalnızca dört ya da beşinde gerçekten işitme kaybı vardır.",
+    "Negatif öngörü değeri ise yaklaşık yüzde doksan dokuz virgül dokuz dokuzdur; geçen bebeklerin neredeyse hepsi sağlıklıdır.",
+    "Test iyi olduğu halde PPV düşüktür; çünkü kalıcı işitme kaybı yenidoğanlarda seyrektir.",
+    "Bu nedenle ailelere kaldı sonucunun tanı değil, ileri test gerekliliği olduğu dikkatle anlatılmalıdır."
+   ]
+  },
+  {
+   "id": "iki_asama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Tarama örneği",
+   "baslik": "İki aşamalı *tarama*",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "İlk tarama",
+     "metin": "OAE ya da AABR",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Tekrar tarama",
+     "metin": "Kalanlar yeniden taranır",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Yaygınlık artar",
+     "metin": "Sağlıklılar elenmiş",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tanısal test",
+     "metin": "Daha az yönlendirme",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Yanlış pozitif sorununu azaltmanın yolu taramayı aşamalı yapmaktır.",
+    "İlk taramadan kalan bebekler taburculuktan önce ya da kısa süre sonra yeniden taranır.",
+    "İkinci aşamada test edilen grupta yaygınlık artmıştır; çünkü sağlıklı bebeklerin çoğu ilk aşamada elenmiştir.",
+    "Böylece ikinci testin pozitif öngörü değeri belirgin biçimde yükselir ve tanısal değerlendirmeye daha az bebek yönlendirilir.",
+    "Bu yapının bedeli, ikinci aşamada gerçek bir kaybın kaçabilmesidir; bu yüzden risk faktörü olan bebekler ayrıca izlenir.",
+    "Tarama protokollerini ilerideki derslerde ayrıntılı ele alacağız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Duyarlılık ve özgüllük testin kendisini, öngörü değerleri ise sizin hasta grubunuzu anlatır. Sonucu yorumlarken test edilen grubu düşünün.",
+   "cumle": 1,
+   "cumleler": [
+    "Bir klinik ipucu: bir testin tanıtımında çoğu zaman yalnız duyarlılık ve özgüllük verilir; ama sizin sorunuz farklı olabilir.",
+    "Testin sizin kliniğinizdeki değeri, hastalarınız arasında o durumun ne kadar sık olduğuna bağlıdır.",
+    "Aynı test, yüksek riskli bir yoğun bakım grubunda çok daha yüksek bir pozitif öngörü değeri verir.",
+    "Bu yüzden sonucu yorumlarken test edilen grubu ve test öncesi olasılığı her zaman göz önünde tutun."
+   ]
+  },
+  {
+   "id": "odyoloji",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Tarama örneği",
+   "baslik": "Odyolojide *nerede* karşımıza çıkar?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Yenidoğan taraması",
+     "metin": "OAE ve AABR",
+     "cumle": 1
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Okul taraması",
+     "metin": "Belirli düzeyde tonlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Retrokoklear şüphe",
+     "metin": "ABR ve görüntüleme",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Anketler",
+     "metin": "Kesme puanı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bu kavramlar odyolojinin pek çok alanında karşımıza çıkar.",
+    "Yenidoğan taramasında otoakustik emisyon ve otomatik beyin sapı yanıtı testlerinin başarısı bu ölçülerle anlatılır.",
+    "Okul çağı taramasında belirli bir düzeyde verilen tonlara yanıt da aynı mantıkla değerlendirilir.",
+    "Retrokoklear şüphede işitsel beyin sapı yanıtının görüntülemeye göre duyarlılığı, test seçiminde belirleyicidir.",
+    "Anketler ve tarama soruları için de kesme puanının duyarlılığı ve özgüllüğü bildirilir.",
+    "Bir makale okurken bu ölçülerin hangi grupta ve hangi altın standartla elde edildiğine dikkat edin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Duyarlılık ve _özgüllük_: testin özelliği",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Dörtlü tablo: _a, b, c, d_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "_PPV_ yaygınlığa bağlı",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Taramada _duyarlılık_ öncelikli",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Duyarlılık hastaları, özgüllük ise sağlıklıları doğru sınıflama oranıdır; ikisi de testin özelliğidir.",
+    "Dört ölçünün hepsi dörtlü tablodaki a, b, c ve d hücrelerinden hesaplanır.",
+    "Öngörü değerleri yaygınlığa bağlıdır; seyrek durumlarda iyi bir testin bile PPV değeri düşük olabilir.",
+    "Taramada yüksek duyarlılık önceliklidir; yanlış pozitifler aşamalı testle azaltılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Aynı test çok daha seyrek bir durumda kullanılırsa en çok hangisi değişir?",
+   "secenekler": [
+    "Duyarlılık",
+    "Özgüllük",
+    "Pozitif öngörü değeri",
+    "Hiçbiri"
+   ],
+   "dogru": 2,
+   "aciklama": "Duyarlılık ve özgüllük testin özelliğidir; _PPV_ ise yaygınlıkla birlikte düşer.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Aynı test, durumun çok daha seyrek olduğu bir grupta kullanılırsa en çok hangisi değişir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: pozitif öngörü değeri.",
+    "Duyarlılık ve özgüllük testin kendi özelliğidir; pozitif öngörü değeri ise yaygınlık düştükçe azalır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Otoakustik *emisyonlar*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste yenidoğan taramasının temel testlerinden biri olan otoakustik emisyonları tanıyacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

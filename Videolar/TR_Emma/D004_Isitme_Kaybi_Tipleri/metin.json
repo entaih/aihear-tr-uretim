@@ -1,0 +1,797 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D004_Isitme_Kaybi_Tipleri_TR",
+ "kapak": {
+  "ust": "DERS 4",
+  "baslik": "Kayıp<br>*tipleri*",
+  "alt": "İletim tipi, sensörinöral ve mikst",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      40,
+      40,
+      35,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      10
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "İletim Tipi, Sensörinöral ve Mikst İşitme Kaybı Nedir? | Ders 04 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme kaybını yerine göre sınıflıyoruz. Hava yolu ile kemik yolu eşiklerinin ilişkisini, hava-kemik aralığını ve iletim tipi, sensörinöral ve mikst kaybı örnek odyogramlar üzerinde ayırmayı öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin ve Clark, Introduction to Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmekaybı",
+   "odyogram"
+  ],
+  "etiketler": [
+   "iletim tipi işitme kaybı",
+   "sensörinöral işitme kaybı",
+   "mikst işitme kaybı",
+   "hava-kemik aralığı",
+   "air-bone gap",
+   "conductive hearing loss",
+   "sensorineural hearing loss",
+   "kemik yolu",
+   "odyogram",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 4",
+   "baslik": "İletim tipi, sensörinöral ve *mikst* kayıp",
+   "alt": "Kaybın yeri, hava yolu, kemik yolu ve aralık",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Önceki derslerde odyogramı okumayı ve sesin kulaktaki yolculuğunu gördük.",
+    "Bu derste işitme kaybını yerine göre sınıflayacak ve iletim tipi, sensörinöral ve mikst kaybı odyogramdan ayırmayı öğreneceğiz."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yerine göre sınıflama",
+   "baslik": "Kayıp *nerede?*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dış ve orta kulak: iletim tipi",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "İç kulak ve sinir: sensörinöral",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "İkisi birlikte: mikst",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "İşitme kaybını sınıflamanın en temel yolu, sorunun işitme yolunun neresinde olduğuna bakmaktır.",
+    "Sorun dış kulak ya da orta kulaktaysa ses iç kulağa yeterince iletilemez; buna iletim tipi işitme kaybı denir.",
+    "Sorun iç kulakta, yani kokleada ya da işitme sinirindeyse buna sensörinöral işitme kaybı denir.",
+    "Sensörinöral terimi iki parçadan oluşur: duyusal, yani koklear ve nöral, yani sinirsel.",
+    "Her iki bölümde birlikte sorun varsa kayıp mikst, yani karma tiptedir.",
+    "Bu sınıflama kaybın ne kadar olduğunu değil, nerede olduğunu söyler.",
+    "İngilizce kaynaklarda bu üç tip conductive, sensorineural ve mixed hearing loss olarak geçer."
+   ]
+  },
+  {
+   "id": "iki_yol",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yerine göre sınıflama",
+   "baslik": "Anahtar: *iki ölçüm yolu*",
+   "maddeler": [
+    {
+     "metin": "Hava yolu: _tüm sistem_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kemik yolu: _koklea ve sonrası_",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "_Hava-kemik aralığı_ (air-bone gap)",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ARALIK",
+    "metin": "Hava yolu eşiği eksi *kemik yolu* eşiği",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Tipi ayırmanın anahtarı, odyogramdaki iki ölçüm yolunu karşılaştırmaktır.",
+    "Hava yolu eşiği dış, orta ve iç kulağın tamamını birlikte sınar.",
+    "Kemik yolu eşiği ise iletim sistemini büyük ölçüde atlar ve kokleanın duyarlılığını gösterir.",
+    "Aynı frekansta hava yolu eşiğinden kemik yolu eşiğini çıkardığımızda hava-kemik aralığını buluruz.",
+    "Bu kavram İngilizce kaynaklarda air-bone gap olarak geçer.",
+    "Genellikle on desibeli aşan, yani on beş desibel ve üzeri bir aralık anlamlı kabul edilir."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yerine göre sınıflama",
+   "baslik": "Tip belirlemenin *kuralı*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal",
+     "metin": "Kemik normal, aralık yok",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "İletim tipi",
+     "metin": "Kemik normal, aralık var",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Sensörinöral",
+     "metin": "Kemik düşük, aralık yok",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Mikst",
+     "metin": "Kemik düşük, aralık var",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Hava ve kemik yolu normal sınırdaysa ve aralık yoksa işitme normaldir.",
+    "Kemik yolu normal, hava yolu düşük ve aralık anlamlıysa kayıp iletim tipidir.",
+    "Hava ve kemik yolu birlikte düşükse ve aralık yoksa kayıp sensörinöraldir.",
+    "Kemik yolu düşükse ve üstüne anlamlı bir aralık da eklenmişse kayıp mikst tiptedir.",
+    "Bu dört satır, tip belirlemenin temel mantığını özetler."
+   ]
+  },
+  {
+   "id": "iletim_odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İletim tipi",
+   "baslik": "İletim tipi: *örnek odyogram*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: sağ kulak",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: sağ kulak",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       40,
+       40,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnek odyogramda sağ kulağın hava yolu eşikleri otuz beş ile kırk beş desibel arasında.",
+    "Kemik yolu eşikleri ise beş ile on desibel arasında, yani normal sınırlarda.",
+    "Beş yüz hertzde hava-kemik aralığı otuz desibel; diğer frekanslarda da yirmi beş ile otuz beş desibel arasında.",
+    "Bu tablo iletim tipi işitme kaybıdır: koklea iyi çalışıyor, ancak ses ona tam iletilemiyor.",
+    "İletim tipi kayıplarda eğri sıklıkla düz ya da pes frekanslarda biraz daha kötüdür."
+   ]
+  },
+  {
+   "id": "iletim_ozellik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İletim tipi",
+   "baslik": "İletim tipi kaybın *özellikleri*",
+   "maddeler": [
+    {
+     "metin": "Kemik yolu _normal_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Genellikle en fazla yaklaşık _60 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ses yükselince _anlama iyi_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Örnek: kulak kiri, _orta kulakta sıvı_",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "İletim tipi kayıpta kemik yolu normal sınırlardadır.",
+    "Kayıp genellikle yaklaşık altmış desibeli geçmez; çünkü daha şiddetli sesler kafatası yoluyla zaten kokleaya ulaşır.",
+    "Bu yüzden çok ileri derecede bir kaybın yalnız iletim bileşeniyle açıklanması beklenmez.",
+    "Ses yeterince yükseltildiğinde konuşmayı anlama genellikle iyidir.",
+    "Örnek nedenler: kulak yolunu tıkayan kulak kiri, orta kulakta sıvı, timpanik membranda, yani kulak zarında delik ve otoskleroz.",
+    "Bu kayıpların bir kısmı tıbbi ya da cerrahi yolla düzelebilir; bu değerlendirme KBB hekimine aittir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak",
+      "cumle": 4
+     },
+     {
+      "parca": "orta_kulak",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Kulak yolu",
+      "cumle": 4
+     },
+     {
+      "parca": "orta_kulak",
+      "metin": "Orta kulak",
+      "cumle": 4
+     }
+    ]
+   }
+  },
+  {
+   "id": "snik_odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sensörinöral",
+   "baslik": "Sensörinöral: *örnek odyogram*",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Hava yolu_: sol kulak",
+     "cumle": 0
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Kemik yolu_: sol kulak",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       40,
+       55,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       20,
+       30,
+       35,
+       50,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sol kulağın hava yolu eşikleri tiz frekanslara doğru giderek kötüleşiyor.",
+    "Kemik yolu eşikleri de hava yolunu yakından izliyor.",
+    "Her frekansta iki yol arasındaki fark en fazla beş desibel; yani anlamlı bir hava-kemik aralığı yok.",
+    "İletim sistemi sesi iyi taşıyor, ancak koklea ya da sinir sesi zayıf algılıyor.",
+    "Bu, eğimli düşen bir sensörinöral işitme kaybı örneğidir ve yetişkinlerde sık görülen bir görünümdür."
+   ]
+  },
+  {
+   "id": "duyusal_noral",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sensörinöral",
+   "baslik": "Duyusal mı, *nöral* mi?",
+   "sol": {
+    "ust": "Duyusal (koklear)",
+    "maddeler": [
+     {
+      "metin": "Sorun: tüy hücreleri",
+      "cumle": 1
+     },
+     {
+      "metin": "OAE genellikle azalır ya da yok",
+      "cumle": 2
+     },
+     {
+      "metin": "Örnek: gürültü, yaşlanma",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Nöral (retrokoklear)",
+    "maddeler": [
+     {
+      "metin": "Sorun: sinir ya da beyin sapı",
+      "cumle": 4
+     },
+     {
+      "metin": "ABR bozulabilir",
+      "cumle": 5
+     },
+     {
+      "metin": "Örnek: vestibüler schwannom",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Sensörinöral kayıp kendi içinde iki gruba ayrılır.",
+    "Duyusal ya da koklear kayıpta sorun çoğunlukla tüy hücrelerindedir.",
+    "Bu durumda dış tüy hücrelerine bağlı otoakustik emisyonlar, kısaca OAE, genellikle azalır ya da kaybolur.",
+    "Gürültüye bağlı kayıp ve yaşa bağlı kayıp, koklear kayba örnek verilebilir.",
+    "Nöral ya da retrokoklear kayıpta ise sorun işitme sinirinde ya da beyin sapındadır.",
+    "Bu durumda işitsel beyin sapı yanıtı, kısaca ABR, bozulabilir.",
+    "İşitme ve denge siniri üzerinde gelişen iyi huylu bir tümör olan vestibüler schwannom bu gruba örnektir.",
+    "Odyogram bu ikisini tek başına ayıramaz; ayrım için OAE ve ABR gibi testler gerekir."
+   ]
+  },
+  {
+   "id": "snik_ozellik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sensörinöral",
+   "baslik": "Sensörinöral kaybın *özellikleri*",
+   "maddeler": [
+    {
+     "metin": "Hava ve kemik yolu _birlikte_ düşük",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Hafiften total kayba _her derecede_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sorun: _netlik_ ve gürültüde anlama",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Çoğunlukla _kalıcı_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Sensörinöral kayıpta hava ve kemik yolu eşikleri birlikte düşer.",
+    "Hafiften total kayba kadar her derecede görülebilir.",
+    "Bu kişiler sıklıkla sesi duyduklarını ama anlamakta zorlandıklarını söyler; özellikle gürültülü ortamlarda.",
+    "Bunun nedeni, hasarlı kokleanın sesi yalnız zayıflatmakla kalmayıp frekans ayrımını da bulanıklaştırmasıdır.",
+    "Çoğu sensörinöral kayıp kalıcıdır; bu kişilerde işitme cihazı ve implantlar önemli rehabilitasyon seçenekleridir.",
+    "Ani gelişen sensörinöral kayıp ise acil bir durumdur ve kişi hemen hekime yönlendirilir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "koklea",
+      "cumle": 0
+     },
+     {
+      "parca": "isitme_siniri",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "koklea",
+      "metin": "Koklea",
+      "cumle": 0
+     },
+     {
+      "parca": "isitme_siniri",
+      "metin": "İşitme siniri",
+      "cumle": 0
+     }
+    ]
+   }
+  },
+  {
+   "id": "mikst_odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Mikst kayıp",
+   "baslik": "Mikst: *örnek odyogram*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: sağ kulak",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: sağ kulak",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       55,
+       55,
+       60,
+       65,
+       70,
+       75
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       30,
+       30,
+       35,
+       40,
+       45
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      35,
+      60
+     ],
+     "etiket": "25 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Şimdi sağ kulağa ait mikst bir örneğe bakalım.",
+    "Hava yolu eşikleri elli beş ile yetmiş beş desibel arasında.",
+    "Kemik yolu eşikleri otuz ile kırk beş desibel arasında; yani kemik yolu da normal değil.",
+    "Üstelik iki yol arasında her frekansta yaklaşık yirmi beş desibellik bir aralık var.",
+    "Kemik yolundaki düşüş sensörinöral bileşeni, aradaki boşluk ise iletim bileşenini gösterir.",
+    "Bu örnekte kaybın bir kısmı iç kulaktan, bir kısmı iletim sisteminden kaynaklanıyor."
+   ]
+  },
+  {
+   "id": "mikst_okuma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Mikst kayıp",
+   "baslik": "Mikst kaybı *okumak*",
+   "maddeler": [
+    {
+     "metin": "Sensörinöral bileşen: _kemik yolu_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "İletim bileşeni: _aralığın büyüklüğü_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Örnek: _uzun süreli_ orta kulak hastalığı",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Mikst kaybı okurken iki bileşeni ayrı ayrı tanımlarız; sensörinöral bileşenin düzeyini kemik yolu gösterir.",
+    "İletim bileşeninin büyüklüğünü ise hava-kemik aralığı gösterir.",
+    "Raporda örneğin şöyle yazılır: sağ kulakta orta-ileri derecede mikst işitme kaybı.",
+    "Uzun süreli orta kulak hastalıkları ve ileri otoskleroz, mikst kayba yol açabilen örnek durumlardır.",
+    "İletim bileşeni ortadan kalksa bile, kemik yolunun gösterdiği sensörinöral bileşen genellikle kalır."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "İKİ BİLEŞEN",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "noron",
+      "baslik": "Sensörinöral",
+      "metin": "Kemik yolu düzeyi",
+      "cumle": 0
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "İletim",
+      "metin": "Hava-kemik aralığı",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "tuzaklar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Doğru yorum",
+   "baslik": "Yanıltıcı *durumlar*",
+   "maddeler": [
+    {
+     "metin": "_Maskelemesiz_ kemik yolu",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Çöken _kulak yolu_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kemik vibratörünün _çıkış sınırı_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Otosklerozda _Carhart çentiği_",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Tip belirlerken bazı durumlar bizi yanıltabilir.",
+    "Kemik yolu sesi her iki kokleaya da ulaşır; maskeleme yapılmazsa ölçülen yanıt iyi duyan kulağa ait olabilir.",
+    "Kulak üstü kulaklık takıldığında bazı kişilerde kulak yolu çöker ve tiz frekanslarda yalancı bir hava-kemik aralığı oluşur.",
+    "Kemik vibratörünün çıkış gücü sınırlıdır; bu yüzden ileri kayıplarda kemik yolu yanıtı alınamayabilir.",
+    "İleri kayıplarda pes frekanslardaki titreşimin his olarak algılanması da yalancı bir aralık oluşturabilir.",
+    "Otosklerozda kemik yolunda iki bin hertz civarında bir düşüş görülebilir; buna Carhart çentiği denir.",
+    "Bu çentik gerçek bir koklear kayıp değildir ve ameliyattan sonra çoğunlukla düzelir."
+   ]
+  },
+  {
+   "id": "dogrulama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Doğru yorum",
+   "baslik": "Tipi *doğrulayan* testler",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Dış kulak ve zar",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometri",
+     "metin": "Orta kulak hareketliliği",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Akustik refleks",
+     "metin": "İletim kaybında çoğunlukla yok",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "OAE ve ABR",
+     "metin": "Koklea ve sinir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Odyogramdaki tip, diğer testlerle doğrulanır; buna çapraz kontrol ilkesi denir.",
+    "Otoskopi dış kulak yolunu ve timpanik membranı doğrudan gösterir.",
+    "Timpanometri orta kulağın hareketliliğini ölçer ve iletim tipi kayıpların çoğunda anormal sonuç verir.",
+    "Akustik refleksler ise küçük bir iletim bileşeninde bile çoğunlukla alınamaz.",
+    "Otoakustik emisyonlar ve ABR, koklear ve nöral bölümleri ayırmaya yardım eder."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Beklenmedik bir hava-kemik aralığında önce otoskopi, kulaklık yerleşimi ve maskelemeyi kontrol edin. Kulak içi kulaklık, çöken kulak yolu sorununu önler.",
+   "cumleler": [
+    "Pratik bir öneri: beklenmedik bir hava-kemik aralığı gördüğünüzde hemen iletim tipi kayıp yazmayın.",
+    "Önce otoskopiyle kulak yolunu ve timpanik membranı kontrol edin.",
+    "Ardından kulaklığın doğru yerleşip yerleşmediğini ve kemik yolunda yeterli maskeleme yapılıp yapılmadığını gözden geçirin.",
+    "Kulak yolu çökmesinden şüpheleniyorsanız ölçümü kulak içi kulaklıkla yinelemek sorunu çoğu zaman çözer.",
+    "Timpanometri sonucu da aralığın tutarlı olup olmadığını kontrol etmenin iyi bir yoludur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Yere göre: *iletim*, sensörinöral, mikst",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kemik yolu *koklea* durumunu gösterir",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Aralık 15 dB ve *üstü* anlamlı",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Tipi *diğer testlerle* doğrulayın",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "İşitme kaybı yerine göre iletim tipi, sensörinöral ve mikst olarak sınıflanır.",
+    "Kemik yolu iletim sistemini büyük ölçüde atlar ve kokleanın durumunu gösterir.",
+    "Hava yolu ile kemik yolu arasındaki on beş desibel ve üzeri fark, anlamlı bir hava-kemik aralığıdır.",
+    "Odyogramdaki tipi otoskopi, timpanometri, refleks, OAE ve ABR ile doğrularız."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Hava yolu 60, kemik yolu 35 dB HL ise kayıp tipi nedir?",
+   "secenekler": [
+    "İletim tipi",
+    "Sensörinöral",
+    "Mikst",
+    "Normal işitme"
+   ],
+   "dogru": 2,
+   "aciklama": "Kemik yolu normal değil (_sensörinöral bileşen_) ve 25 dB aralık var (iletim bileşeni): mikst.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Hava yolu altmış, kemik yolu otuz beş dB HL ise kayıp hangi tiptedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C, mikst. Kemik yolu normal değil ve üstüne yirmi beş desibellik bir hava-kemik aralığı eklenmiş."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitme kaybı *dereceleri*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kaybın ne kadar büyük olduğunu, yani işitme kaybı derecelerini nasıl belirlediğimizi öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

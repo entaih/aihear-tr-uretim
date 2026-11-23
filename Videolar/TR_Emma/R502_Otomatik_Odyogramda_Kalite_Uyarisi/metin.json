@@ -1,0 +1,103 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R502_Otomatik_Odyogramda_Kalite_Uyarisi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #502",
+  "baslik": "Eşikten önce *uyarılar*",
+  "alt": "Otomatik odyometride kalite",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Otomatik bir odyogramı onaylamadan önce neye bakılır? #shorts",
+  "aciklama": "Otomatik odyometride eşik bulma adımlarını bir algoritma yürütür ve test sonunda eşiklerle birlikte kalite uyarıları üretilir. Onaylamadan önce yalnız eşiklere değil bu uyarılara da bakılır: ses yokken basılan butonlar, yani yanlış alarmlar çoksa, ortam gürültüsü sınırı aştıysa ya da maskeleme uyarısı varsa sonuç güvenilir sayılmaz. Şüphe varsa ilgili frekanslar manuel olarak yeniden test edilir; otomatik sonuçlar bir odyolog gözden geçirmeden tanısal karar için kullanılmaz.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "otomasyon",
+   "odyometri"
+  ],
+  "etiketler": [
+   "otomatik odyometri",
+   "kalite göstergeleri",
+   "yanlış alarm",
+   "ortam gürültüsü",
+   "maskeleme",
+   "odyogram onayı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Otomatik bir odyogramı onaylamadan önce neye bakılır?",
+  "bilgiler": [
+   "Yalnız eşiklere değil, kalite uyarılarına da bakılır.",
+   "Yanlış alarm, gürültü ve maskeleme uyarısı güveni düşürür.",
+   "Şüphede ilgili frekanslar elle yeniden test edilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "otomasyon",
+   "odyometri"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #502",
+   "metin": "Neye *bakılır?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Otomatik bir odyogramı onaylamadan önce neye bakılır?"
+   ]
+  },
+  {
+   "id": "kalite",
+   "tur": "zincir",
+   "baslik": "Kalite *göstergeleri*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Yanlış alarm",
+     "tr": "ses yokken basma",
+     "cumle": 1
+    },
+    {
+     "ad": "Gürültü",
+     "tr": "sınır aşıldı mı",
+     "cumle": 2
+    },
+    {
+     "ad": "Maskeleme",
+     "tr": "uyarı var mı",
+     "cumle": 2,
+     "gecikme": 0.6
+    }
+   ],
+   "cumleler": [
+    "Otomatik odyogramı onaylamadan önce yalnız eşiklere değil, kalite uyarılarına bakın.",
+    "Ses yokken basılan butonlar, yani yanlış alarmlar sayılır.",
+    "Alarm sayısı yüksekse, gürültü aşıldıysa ya da maskeleme uyarısı varsa güvenmeyin.",
+    "Şüphede ilgili frekansları elle yeniden test edin; birkaç dakika yanlış raporu önler."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D295",
+ "kaynak_baslik": "Otomasyon ve makine öğrenmesi"
+}

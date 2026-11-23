@@ -1,0 +1,823 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D158_Kalorik_Test_TR",
+ "kapak": {
+  "ust": "DERS 158",
+  "baslik": "*Kalorik* test",
+  "alt": "Bitermal uygulama, UW ve DP hesabı",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Kalorik Test: Bitermal Uygulama ve Yorum | Ders 158 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kalorik testin ilkesini, 30 ve 44 °C ile bitermal uygulamayı ve COWS kuralını anlatıyoruz. Jongkees formülüyle tek taraflı zayıflık (UW) ve yön üstünlüğü (DP) hesabını örnek değerlerle adım adım yapıyor, bulgu örüntülerini ve testin sınırlılıklarını ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology; ANSI/ASA S3.45, Procedures for Testing Basic Vestibular Function.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kalorik",
+   "vestibüler"
+  ],
+  "etiketler": [
+   "kalorik test",
+   "caloric test",
+   "bitermal kalorik",
+   "COWS kuralı",
+   "Jongkees formülü",
+   "unilateral weakness",
+   "tek taraflı zayıflık",
+   "directional preponderance",
+   "yön üstünlüğü",
+   "VNG",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 158",
+   "baslik": "*Kalorik* test",
+   "alt": "Bitermal uygulama ve yorum",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste kalorik testi, yani iki kulağın lateral kanallarını ayrı ayrı değerlendiren bitermal uygulamayı öğreneceğiz.",
+    {
+     "yazi": "COWS kuralını, tek taraflı zayıflık ve yön üstünlüğü hesabını örnek değerlerle adım adım yapacağız.",
+     "ses": "Kauz kuralını, tek taraflı zayıflık ve yön üstünlüğü hesabını örnek değerlerle adım adım yapacağız."
+    }
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kalorik testin ilkesi",
+   "baslik": "Kalorik test *neyi* ölçer?",
+   "maddeler": [
+    {
+     "metin": "Her kulağı _ayrı ayrı_ uyarır",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Lateral kanal ve _superior_ vestibüler sinir",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Çok _düşük frekanslı_ uyarı",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ölçüt: _yavaş faz hızı_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "lateral kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "vestibuler_sinir",
+      "metin": "vestibüler sinir",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Kalorik test, iki kulağın vestibüler yanıtını birbirinden bağımsız olarak karşılaştırabilen klasik bir testtir.",
+    "Test esas olarak lateral yarım daire kanalını ve onu taşıyan superior vestibüler sinir yolunu değerlendirir.",
+    "Uyarı, günlük baş hareketlerine göre çok yavaş, yani düşük frekanslı bir uyarıdır.",
+    "Bu nedenle kalorik test, ileride göreceğimiz video baş itme testinden farklı bir frekans aralığını inceler.",
+    "Yanıtın büyüklüğü, ortaya çıkan nistagmusun yavaş faz hızı ile, yani derece bölü saniye cinsinden ölçülür.",
+    "Baş hareketi gerektirmediği için boyun sorunları olan bazı hastalarda da uygulanabilir."
+   ]
+  },
+  {
+   "id": "isi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kalorik testin ilkesi",
+   "baslik": "Isı nasıl *nistagmus* yapar?",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Su ya da hava verilir",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Lateral kanalda endolenf akımı",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sırtüstü, baş 30 derece önde",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Sıcak uyarır, soğuk baskılar",
+     "cumle": 5,
+     "ikon": "denge"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 2,
+     "olcek": 2.2
+    }
+   ],
+   "cumleler": [
+    "Dış kulak yoluna vücut ısısından daha sıcak ya da daha soğuk su veya hava verilir.",
+    "Hasta sırtüstü yatar ve başı yaklaşık otuz derece kaldırılır; böylece lateral kanal dikey düzleme gelir.",
+    "Isı değişikliği temporal kemik üzerinden lateral kanala ulaşır ve kanalın bir bölümündeki endolenfin yoğunluğunu değiştirir.",
+    "Isınan endolenf yükselir, soğuyan endolenf ise çöker; böylece kanal içinde bir akım oluşur.",
+    "Bu akım kupulayı saptırır ve vestibülo-oküler refleks yoluyla nistagmus ortaya çıkar.",
+    "Sıcak uyaran kupulayı ampullaya doğru iterek uyarır, soğuk uyaran ise ters yönde iterek baskılar."
+   ]
+  },
+  {
+   "id": "cows",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kalorik testin ilkesi",
+   "baslik": "*COWS* kuralı",
+   "maddeler": [
+    {
+     "metin": "Yön: nistagmusun _hızlı fazı_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Cold opposite_: soğukta karşı taraf",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Warm same_: sıcakta aynı taraf",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Geçerli: _sırtüstü_, baş önde",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Nistagmusun yönü hızlı fazın yönüne göre adlandırılır ve COWS kuralıyla kolayca hatırlanır.",
+     "ses": "Nistagmusun yönü hızlı fazın yönüne göre adlandırılır ve kauz kuralıyla kolayca hatırlanır."
+    },
+    "Cold opposite, yani soğuk uyaranda nistagmus karşı kulağa doğru vurur.",
+    "Warm same, yani sıcak uyaranda nistagmus uyarılan kulağa doğru vurur.",
+    "Örneğin sağ kulağa sıcak su verildiğinde sağa vuran, soğuk su verildiğinde sola vuran nistagmus beklenir.",
+    "Bu yön ilişkisi hasta sırtüstü ve başı otuz derece önde iken geçerlidir; yüzüstü pozisyonda yön tersine döner."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bitermal uygulama",
+   "baslik": "Teste *hazırlık*",
+   "maddeler": [
+    {
+     "metin": "_Otoskopi_: buşon ve zar durumu",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Baskılayıcı _ilaçlar_ ve alkol sorgusu",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Hastayı _önceden_ bilgilendir",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Zihinsel_ uyanıklık görevleri",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Teste başlamadan önce her iki kulağa otoskopi yapılır.",
+    "Kulak kiri uyaranın ulaşmasını engelleyebilir; zar delikse su kullanılmaz ve yöntem hekimle birlikte belirlenir.",
+    "Vestibüler sistemi baskılayan ilaçlar ve alkol yanıtları küçültebileceği için laboratuvar protokolüne ve hekim önerisine göre sorgulanır.",
+    "Hastaya kısa süreli dönme hissi ve bulantı olabileceği, bunun beklenen bir yanıt olduğu anlatılır.",
+    "Test sırasında hastaya hesap yapma ya da isim sayma gibi görevler verilir; bu, yanıtın zihinsel olarak baskılanmasını önler."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bitermal uygulama",
+   "baslik": "*Bitermal* uygulama",
+   "maddeler": [
+    {
+     "metin": "Su: _30 ve 44 °C_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Su uygulaması: genellikle _30 saniye_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Dört uygulama: _sağ ve sol_, sıcak ve soğuk",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Aralarda yanıtın _sönmesini_ bekle",
+     "cumle": 4,
+     "ikon": "saat"
+    },
+    {
+     "metin": "İki kulağa _aynı_ uyaran",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Bitermal uygulamada her kulağa biri sıcak, biri soğuk olmak üzere iki uyaran verilir.",
+    "Su ile yapılan testte sıcaklıklar genellikle otuz ve kırk dört derecedir; yani vücut ısısının yedi derece altı ve üstü.",
+    "Su uygulaması genellikle yaklaşık otuz saniye sürer.",
+    "Toplam dört uygulama yapılır: sağ sıcak, sol sıcak, sağ soğuk ve sol soğuk; sıra laboratuvara göre değişebilir.",
+    "Her uygulamadan sonra nistagmus tamamen sönene kadar, çoğu zaman birkaç dakika beklenir.",
+    "İki kulağa aynı sıcaklık, süre ve miktarda uyaran verilmesi, karşılaştırmanın temel koşuludur."
+   ]
+  },
+  {
+   "id": "su_hava",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bitermal uygulama",
+   "baslik": "Su mu, *hava* mı?",
+   "sol": {
+    "ust": "Su",
+    "maddeler": [
+     {
+      "metin": "Daha güçlü ve tutarlı uyarı",
+      "cumle": 1
+     },
+     {
+      "metin": "Zar delikse kullanılmaz",
+      "cumle": 1
+     },
+     {
+      "metin": "Islaklık ve rahatsızlık",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Hava",
+    "maddeler": [
+     {
+      "metin": "Genellikle yaklaşık 24 ve 50 °C",
+      "cumle": 2
+     },
+     {
+      "metin": "Daha uzun uygulama süresi",
+      "cumle": 2
+     },
+     {
+      "metin": "Uyarı gücü daha değişken",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Kalorik uyarı su ya da hava ile verilebilir.",
+    "Su ısıyı daha etkili ilettiği için genellikle daha güçlü ve tutarlı bir yanıt oluşturur.",
+    "Hava uyaranında sıcaklıklar genellikle yaklaşık yirmi dört ve elli derecedir ve uygulama daha uzun sürer.",
+    "Hava uyaranı, kulak kanalının biçimine ve kanalda kalan neme göre daha değişken sonuç verebilir.",
+    "Hangi yöntem seçilirse seçilsin, normal değerler o yönteme ve laboratuvara özgü olmalıdır."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bitermal uygulama",
+   "baslik": "Yanıtı *ölçmek*",
+   "maddeler": [
+    {
+     "metin": "Ölçüt: en yüksek _yavaş faz hızı_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Zirve: yaklaşık _1 dakika_ sonra",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Kayıt _görsel fiksasyon_ olmadan",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Sonra fiksasyonla _baskılanma_",
+     "cumle": 3,
+     "ikon": "ampul"
+    }
+   ],
+   "cumleler": [
+    "Her uygulamanın sonucu, nistagmusun en yüksek yavaş faz hızının birkaç saniyelik ortalamasıyla ifade edilir.",
+    "Yanıt genellikle uygulamanın başlangıcından yaklaşık bir dakika sonra en yüksek düzeye ulaşır.",
+    "Bu süre boyunca gözler görsel fiksasyon olmadan, video gözlük kapalıyken kaydedilir.",
+    "Zirveden sonra hastanın bir ışığa bakması istenir ve nistagmusun ne kadar azaldığı ölçülür.",
+    "Normalde fiksasyonla nistagmus belirgin biçimde, genellikle yarıdan fazla azalır; azalmaması santral nedenleri düşündürür.",
+    "Kendiliğinden bir nistagmus varsa, kalorik yanıtlar yorumlanırken bu taban değer dikkate alınır."
+   ]
+  },
+  {
+   "id": "jongkees",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hesaplama",
+   "baslik": "Tek taraflı zayıflık: *Jongkees*",
+   "maddeler": [
+    {
+     "metin": "Sağ toplam: _sağ sıcak + sağ soğuk_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sol toplam: _sol sıcak + sol soğuk_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Fark, dört yanıtın _toplamına_ bölünür",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sınır: genellikle yüzde _20 ile 25_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "UW FORMÜLÜ",
+    "metin": "(Sağ toplam eksi sol toplam) / *dört yanıtın toplamı* x 100",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Tek taraflı zayıflık (unilateral weakness), kısaca UW, Jongkees formülü ile hesaplanır.",
+    "Önce her kulağın sıcak ve soğuk yanıtları toplanır; böylece sağ ve sol kulak için birer toplam elde edilir.",
+    "İki toplam arasındaki fark, dört yanıtın genel toplamına bölünür ve yüzdeye çevrilir.",
+    "Sonucun işareti, hangi kulağın daha zayıf olduğunu gösterir.",
+    "Örneğin sağ toplam sol toplamdan büyükse sonuç pozitif çıkar ve sol kulağın daha zayıf olduğunu gösterir.",
+    "Yüzde yirmi ile yirmi beşin üzerindeki fark genellikle anlamlı kabul edilir; kesin sınır laboratuvara göre değişir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hesaplama",
+   "baslik": "Örnek *hesap*",
+   "sutunlar": [
+    "Uygulama",
+    "Yavaş faz hızı",
+    "Nistagmus yönü"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sağ sıcak",
+      "30 derece/sn",
+      "Sağa"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Sağ soğuk",
+      "28 derece/sn",
+      "Sola"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Sol sıcak",
+      "12 derece/sn",
+      "Sola"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Sol soğuk",
+      "10 derece/sn",
+      "Sağa"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Sonuç",
+      "UW yüzde 45",
+      "Sol zayıf"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek değerlerle bir hesap yapalım; sağ sıcak otuz, sağ soğuk yirmi sekiz derece bölü saniye olsun.",
+    "Sol sıcak on iki, sol soğuk on derece bölü saniye olsun.",
+    "Sağ toplam elli sekiz, sol toplam yirmi iki, dört yanıtın toplamı ise seksendir.",
+    "Fark otuz altıdır; otuz altı bölü seksen, yüzde kırk beş eder.",
+    "Bu örnekte sol kulak daha zayıftır ve yüzde kırk beşlik bir sol tek taraflı zayıflık bulunur.",
+    "Bu bulgu sol lateral kanal ya da sinir yolunda yanıt azalmasını gösterir; nedenin belirlenmesi hekim değerlendirmesi gerektirir."
+   ]
+  },
+  {
+   "id": "dp",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hesaplama",
+   "baslik": "Yön *üstünlüğü*",
+   "maddeler": [
+    {
+     "metin": "Sağa vuranlar: _sağ sıcak + sol soğuk_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Sola vuranlar: _sol sıcak + sağ soğuk_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Fark, yine _dört yanıtın toplamına_ bölünür",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sınır: genellikle yüzde _25 ile 30_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Yön üstünlüğü (directional preponderance), kısaca DP, nistagmusun bir yöne diğerinden daha güçlü olup olmadığını gösterir.",
+    "Sağa vuran nistagmuslar sağ sıcak ve sol soğuk uygulamalarda ortaya çıkar; bu ikisi toplanır.",
+    "Sola vuran nistagmuslar ise sol sıcak ve sağ soğuk uygulamalardan gelir.",
+    "İki yön arasındaki fark yine dört yanıtın toplamına bölünür ve yüzdeye çevrilir.",
+    "Örneğimizde sağa vuranların toplamı kırk, sola vuranların toplamı da kırktır; yani yön üstünlüğü yoktur.",
+    "Genellikle yüzde yirmi beş ile otuzun üzeri anlamlı kabul edilir; yön üstünlüğü tek başına lezyonun tarafını göstermez."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Zayıflık kararından önce uygulamayı kontrol edin: kanal, sıcaklık, süre ve hastanın uyanıklığı. Şüpheli uygulamayı tekrarlayın.",
+   "cumleler": [
+    "Bir klinik ipucu: tek taraflı zayıflık sonucunu yazmadan önce, zayıf görünen uygulamanın doğru yapıldığından emin olun.",
+    "Su ya da hava kanalın derinine ulaşmadıysa, sıcaklık ya da süre farklıysa yanıt yalancı biçimde küçük çıkabilir.",
+    "Hasta dalgın ya da uykuluysa nistagmus baskılanabilir; zihinsel görevleri sürdürün.",
+    "Şüpheli uygulamayı yeterli dinlenme süresinden sonra tekrarlamak, yanlış bir sonucu önler."
+   ]
+  },
+  {
+   "id": "monotermal",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hesaplama",
+   "baslik": "Tek sıcaklıkla *tarama*",
+   "maddeler": [
+    {
+     "metin": "Yalnız _sıcak_ uygulamalar",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Simetrik ve yeterliyse _kısaltılabilir_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Şüphede _bitermal_ tamamla",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Yön üstünlüğü _hesaplanamaz_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Bazı laboratuvarlar testi önce yalnız sıcak uygulamalarla, yani monotermal olarak başlatır.",
+    "İki sıcak yanıt yeterli büyüklükte ve simetrikse, protokole göre soğuk uygulamalar atlanabilir.",
+    "Asimetri, zayıf yanıt ya da şüpheli bir bulgu varsa test bitermal olarak tamamlanır.",
+    "Monotermal uygulamada yön üstünlüğü hesaplanamaz ve bazı bulgular gözden kaçabilir.",
+    "Bu yüzden monotermal tarama yalnız iyi tanımlanmış ölçütlerle ve laboratuvar protokolüne uygun biçimde kullanılır."
+   ]
+  },
+  {
+   "id": "kelebek",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Sonuçların *gösterimi*",
+   "maddeler": [
+    {
+     "metin": "_Kelebek_ grafiği",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Dört uygulama, _dört bölme_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Gölgeli alan: _normal_ sınırlar",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Bir bakışta _asimetri_",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Kalorik sonuçlar çoğu cihazda kelebek grafiği adı verilen bir şekilde gösterilir.",
+    "Grafikte her uygulamanın yavaş faz hızı ve nistagmus yönü dört ayrı bölmede birlikte gösterilir.",
+    "Gölgeli alan laboratuvarın normal sınırlarını gösterir.",
+    "Bu gösterim, tek taraflı zayıflığı ve yön üstünlüğünü bir bakışta görmeyi kolaylaştırır.",
+    "Ancak karar her zaman sayısal değerlere ve uygulamanın teknik kalitesine bakılarak verilir."
+   ]
+  },
+  {
+   "id": "oruntuler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Bulgu *örüntüleri*",
+   "sutunlar": [
+    "Bulgu",
+    "Ne düşündürür?"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Tek taraflı zayıflık",
+      "Aynı taraf periferik azalma"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "İki taraflı zayıflık",
+      "İki taraflı vestibüler kayıp"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Yön üstünlüğü",
+      "Taraf belirtmez"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Fiksasyonla baskılanmama",
+      "Santral nedenler"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Aşırı güçlü yanıtlar",
+      "Santral açıdan dikkat"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Tek taraflı zayıflık, genellikle o taraftaki lateral kanal ya da superior vestibüler sinir yolunda bir sorunu düşündürür.",
+    "Dört yanıtın tamamının çok küçük olması iki taraflı zayıflığı düşündürür.",
+    "Bu durumda bazı laboratuvarlar, yanıtın gerçekten olmadığını buzlu su ile yapılan ek bir uygulamayla doğrular.",
+    "Yön üstünlüğü hem periferik hem santral nedenlerle görülebilir ve lezyonun tarafını tek başına göstermez.",
+    "Fiksasyonla nistagmusun azalmaması santral açıdan önemli bir bulgudur.",
+    "Çok güçlü kalorik yanıtlar da bazı serebellar sorunlarda görülebilir; bu tür bulgular hekime iletilir."
+   ]
+  },
+  {
+   "id": "iki_tarafli",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "İki taraflı *zayıflık*",
+   "maddeler": [
+    {
+     "metin": "Tüm yanıtlar _çok küçük_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Doğrulama: _buzlu su_ ya da döner sandalye",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Yakınma: _osilopsi_ ve dengesizlik",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Bilinen nedenlerden biri: _ototoksik_ ilaçlar",
+     "cumle": 3,
+     "ikon": "ilac"
+    }
+   ],
+   "cumleler": [
+    "İki taraflı zayıflıkta her iki kulağın sıcak ve soğuk yanıtları laboratuvar normlarının belirgin altındadır.",
+    "Bu bulgu buzlu su uygulaması, döner sandalye testi ya da video baş itme testi ile doğrulanabilir.",
+    "Bu kişiler yürürken görüntünün sallanmasını, yani osilopsiyi ve özellikle karanlıkta dengesizliği tanımlayabilir.",
+    "Aminoglikozid grubu bazı antibiyotikler gibi ototoksik ilaçlar, bilinen nedenler arasında yer alır.",
+    "Bu bulgu mutlaka hekime iletilir; çünkü nedenin araştırılması ve rehabilitasyonun planlanması gerekir."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Testin *sınırlılıkları*",
+   "maddeler": [
+    {
+     "metin": "Yalnız _lateral kanal_",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Yalnız _düşük frekans_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Anatomiye ve tekniğe _duyarlı_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bulantı ve _rahatsızlık_",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "yalnız lateral kanal",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Kalorik test yalnız lateral kanalı değerlendirir; ön ve arka kanallar ve otolit organları bu testle incelenmez.",
+    "Düşük frekanslı uyarı kullandığı için günlük baş hareketlerindeki yüksek frekanslı işlevi doğrudan yansıtmaz.",
+    "Kulak kanalının biçimi, orta kulak ve temporal kemiğin yapısı ısı iletimini etkileyerek sonucu değiştirebilir.",
+    "Bazı hastalar test sırasında belirgin bulantı ve rahatsızlık yaşar.",
+    {
+     "yazi": "Bu yüzden kalorik test, video baş itme testi, yani vHIT ve vestibüler uyarılmış miyojenik potansiyel, yani VEMP ile birlikte yorumlanır.",
+     "ses": "Bu yüzden kalorik test, video baş itme testi, yani vHIT ve vestibüler uyarılmış miyojenik potansiyel, yani VEMP ile birlikte yorumlanır."
+    },
+    {
+     "yazi": "Kalorik test ile vHIT'in neden farklı sonuç verebileceğini ilerideki bir derste ayrıca ele alacağız.",
+     "ses": "Kalorik test ile vHIT'in neden farklı sonuç verebileceğini ilerideki bir derste ayrıca ele alacağız."
+    }
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "COWS: soğuk _karşı_, sıcak aynı",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "30 ve 44 °C, _dört_ uygulama",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "UW: _Jongkees_, sınır yaklaşık yüzde 20 ile 25",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "DP: yön üstünlüğü, _taraf belirtmez_",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Soğuk uyaranda nistagmus karşı kulağa, sıcak uyaranda aynı kulağa vurur.",
+    "Bitermal testte her kulağa otuz ve kırk dört derecede su verilir ve dört yanıt karşılaştırılır.",
+    "Tek taraflı zayıflık Jongkees formülüyle hesaplanır; yaklaşık yüzde yirmi ile yirmi beşin üzeri genellikle anlamlıdır.",
+    "Yön üstünlüğü bir yöne baskın nistagmusu gösterir, ama lezyonun tarafını tek başına belirlemez."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sol kulağa soğuk su verildi. Nistagmus hangi yöne vurur?",
+   "secenekler": [
+    "Sola",
+    "Sağa",
+    "Yukarı"
+   ],
+   "dogru": 1,
+   "aciklama": "Cold opposite: soğukta nistagmus _karşı_ kulağa vurur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sırtüstü, başı otuz derece önde bir hastada sol kulağa soğuk su verildi. Nistagmus hangi yöne vurur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: sağa.",
+    {
+     "yazi": "COWS kuralına göre soğuk uyaranda nistagmus karşı kulağa, yani sağa vurur.",
+     "ses": "Kauz kuralına göre soğuk uyaranda nistagmus karşı kulağa, yani sağa vurur."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Video baş itme testi (*vHIT*)",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "Bir sonraki derste video baş itme testini, yani vHIT'i, kazanç değerini ve sakkadları öğreneceğiz.",
+     "ses": "Bir sonraki derste video baş itme testini, yani vHIT'i, kazanç değerini ve sakkadları öğreneceğiz."
+    },
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

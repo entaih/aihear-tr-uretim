@@ -1,0 +1,106 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R035_Duymayan_Kulak_Duyar_mi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #35",
+  "baslik": "Duymayan kulak *duyar mı?*",
+  "alt": "Çapraz işitme ve klinik maskeleme",
+  "cizim": "maskeleme",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Hiç duymayan bir kulak işitme testinde nasıl yanıt verir? #shorts",
+  "aciklama": "Yüksek şiddetteki test sesi kafatasından karşı kokleaya geçebilir; buna çapraz işitme denir. Fark edilmezse hiç duymayan bir kulak orta derecede kayıp varmış gibi kaydedilebilir; bunu önlemek için karşı kulağa maskeleme gürültüsü verilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ],
+  "etiketler": [
+   "çapraz işitme",
+   "maskeleme",
+   "klinik maskeleme",
+   "gölge eğrisi",
+   "kulaklar arası zayıflama",
+   "odyometri",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Hiç duymayan bir kulak testte nasıl yanıt verir?",
+  "bilgiler": [
+   "Yüksek test sesi kafatasından karşı kokleaya geçebilir: çapraz işitme.",
+   "Hiç duymayan bir kulak, orta derecede kayıplı görünebilir.",
+   "Bunu önlemek için karşı kulağa gürültü verilir: klinik maskeleme."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #35",
+   "metin": "Hiç duymayan bir kulak *nasıl yanıt* verir?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Hiç duymayan bir kulak testte nasıl yanıt verir?"
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "zincir",
+   "baslik": "*Çapraz işitme*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Test sesi",
+     "tr": "kötü kulak",
+     "cumle": 0
+    },
+    {
+     "ad": "Kafatası",
+     "tr": "titreşim",
+     "cumle": 0,
+     "gecikme": 0.9
+    },
+    {
+     "ad": "İyi kulak",
+     "tr": "karşı koklea",
+     "cumle": 1
+    }
+   ],
+   "alt": "Çözüm: _klinik maskeleme_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Yüksek bir test sesi kulaklıkla birlikte kafatasını da titreştirir.",
+    "Titreşim karşı kokleaya ulaşır ve ses orada duyulur.",
+    "Buna çapraz işitme denir.",
+    "Böylece hiç duymayan bir kulak, orta derecede kayıplı görünebilir.",
+    "Bunu önlemek için karşı kulağa gürültü verilir: klinik maskeleme."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D087",
+ "kaynak_baslik": "Neden maskeleme yaparız?"
+}

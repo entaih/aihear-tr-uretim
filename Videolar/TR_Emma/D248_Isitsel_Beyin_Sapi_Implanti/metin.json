@@ -1,0 +1,683 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D248_Isitsel_Beyin_Sapi_Implanti_TR",
+ "kapak": {
+  "ust": "DERS 248",
+  "baslik": "İşitsel beyin sapı<br>*implantı*",
+  "alt": "Koklea ve sinir yoksa: ABI",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "koklear_nukleus"
+  ]
+ },
+ "youtube": {
+  "baslik": "İşitsel Beyin Sapı İmplantı (ABI) | Ders 248 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Koklea ya da koklear sinir yoksa işitmeye nasıl ulaşılır? Bu derste işitsel beyin sapı implantının (ABI) mantığını, nörofibromatozis tip 2 ve tümör dışı endikasyonları, koklear çekirdek üzerine elektrot yerleşimini, ilk aktivasyon ve programlamayı, beklenen sonuçları ve rehabilitasyonu öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Colletti ve arkadaşları (2009), Outcomes in nontumor adults fitted with the auditory brainstem implant: 10 years' experience, Otology and Neurotology; Sennaroğlu ve arkadaşları (2011), Auditory brainstem implantation in children and non-neurofibromatosis type 2 patients: a consensus statement, Otology and Neurotology; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ABI",
+   "işitme"
+  ],
+  "etiketler": [
+   "işitsel beyin sapı implantı",
+   "auditory brainstem implant",
+   "ABI",
+   "nörofibromatozis tip 2",
+   "NF2",
+   "koklear sinir aplazisi",
+   "cochlear nerve aplasia",
+   "koklear çekirdek",
+   "EABR",
+   "Sennaroğlu",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 248",
+   "baslik": "İşitsel beyin sapı *implantı*",
+   "alt": "Koklea ve sinir yoksa: ABI",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste koklear implantın mümkün olmadığı durumlarda işitme yoluna beyin sapından ulaşan implantı öğreneceğiz.",
+    "Endikasyonları, elektrodun yerleşimini, programlamayı ve beklenen sonuçları ele alacağız."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden beyin sapı?",
+   "baslik": "Kokleayı ve siniri *atlamak*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "işitme siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "koklear nükleus (koklear çekirdek)",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 6
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Koklear implantın çalışması için iki şey gerekir: elektrotların yerleştirileceği bir koklea ve uyarıyı taşıyacak bir işitme siniri.",
+    "Koklea hiç gelişmemişse ya da elektrot yerleştirilemeyecek kadar kemikleşmişse koklear implant uygulanamaz.",
+    "İşitme siniri yoksa ya da ameliyatla kesilmişse, koklea içine konan elektrotların uyaracağı bir sinir kalmaz.",
+    "İşitsel beyin sapı implantı (auditory brainstem implant), kısaca ABI, bu iki basamağı da atlar.",
+    "Elektrotlar doğrudan beyin sapındaki koklear nükleusa, yani koklear çekirdeğe yerleştirilir.",
+    "Koklear nükleus, işitme sinirinin beyin sapında ilk sinaps yaptığı yerdir.",
+    "Buradan sonra uyarı, bildiğimiz merkezi işitme yolunu izleyerek işitsel kortekse ulaşır."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden beyin sapı?",
+   "baslik": "ABI'nın *kısa tarihi*",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "1979",
+     "cumle": 0,
+     "metin": "İlk tek elektrot"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Çok kanallı",
+     "cumle": 1,
+     "metin": "Kürek biçimli dizi"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "2000",
+     "cumle": 2,
+     "metin": "ABD'de NF2 onayı"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Tümör dışı",
+     "cumle": 3,
+     "metin": "Çocuk ve erişkin"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "İlk ABI 1979'da William House ve William Hitselberger tarafından, nörofibromatozis tip 2'li bir hastaya tek elektrotla uygulandı.",
+     "ses": "İlk ABI bin dokuz yüz yetmiş dokuzda Vilyım Haus ve Vilyım Hitselbörgır tarafından, nörofibromatozis tip ikili bir hastaya tek elektrotla uygulandı."
+    },
+    "Sonraki yıllarda düz, kürek biçimli bir taşıyıcı üzerinde çok sayıda elektrot içeren sistemler geliştirildi.",
+    "ABD'de 2000 yılında, 12 yaş ve üzerindeki nörofibromatozis tip 2 hastaları için onay alındı.",
+    "Avrupa'da Colletti ve arkadaşları, tümörü olmayan erişkin ve çocuklarda da ABI uygulamaya başladı.",
+    "Türkiye'de Hacettepe Üniversitesinde Sennaroğlu ve ekibi, iç kulak anomalisi olan çocuklarda geniş ABI deneyimi yayımladı.",
+    "Çocuklarda ve tümör dışı durumlarda ABI için 2011'de uluslararası bir uzlaşı bildirisi yayımlandı."
+   ]
+  },
+  {
+   "id": "nf2",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kimler için?",
+   "baslik": "Nörofibromatozis *tip 2*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "iç kulak yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "koklear sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "vestibüler sinir",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "ABI'nın ilk ve klasik endikasyonu nörofibromatozis tip 2 (neurofibromatosis type 2), kısaca NF2'dir.",
+    "Bu genetik hastalıkta iki taraflı vestibüler schwannom gelişir; tümörler iç kulak yolunda vestibüler sinirden kaynaklanır.",
+    "Hastalığın güncel adı, NF2 ile ilişkili schwannomatozistir.",
+    "Tümörler büyüdükçe ya da ameliyatla çıkarıldıkça koklear sinir zarar görür ve iki taraflı sağırlık gelişebilir.",
+    "Bu nedenle ABI çoğu zaman tümörün çıkarıldığı aynı ameliyatta yerleştirilir.",
+    "Koklear sinirin korunabildiği seçilmiş NF2 hastalarında ise koklear implant da bir seçenek olabilir; karar ekip tarafından verilir."
+   ]
+  },
+  {
+   "id": "tumor_disi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kimler için?",
+   "baslik": "Tümör dışı *endikasyonlar*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Sinir aplazisi",
+     "cumle": 0,
+     "metin": "Koklear sinir yok"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Koklea yok",
+     "cumle": 2,
+     "metin": "Michel, koklear aplazi"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Kemikleşme",
+     "cumle": 3,
+     "metin": "Menenjit sonrası"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Travma",
+     "cumle": 4,
+     "metin": "Sinir kopması"
+    }
+   ],
+   "cumleler": [
+    "Çocuklarda en sık tümör dışı endikasyon, koklear sinirin hiç gelişmediği koklear sinir aplazisidir (cochlear nerve aplasia).",
+    "Sinirin çok ince olduğu belirsiz durumlarda bazı merkezler önce koklear implantla ilerlemeyi izler, yetersizse ABI'yı düşünür.",
+    "İç kulak anomalileri dersinde gördüğümüz Michel aplazisi, rudimenter otokist ve koklear aplazide de koklea bulunmadığı için seçenek ABI'dır.",
+    "Menenjit sonrası kokleanın tamamen kemikleştiği ve elektrot yerleştirilemediği durumlar da bir endikasyondur.",
+    "Temporal kemik kırığıyla koklear sinirin koptuğu durumlar da ABI için değerlendirilebilir.",
+    "Bütün bu durumlarda tanı, manyetik rezonans görüntüleme, kısaca MR ve tomografiyle, odyolojik ve elektrofizyolojik bulgularla konur.",
+    "Karar, aileye beklenen sonuçlar ayrıntılı anlatıldıktan sonra deneyimli bir ekip tarafından verilir."
+   ]
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kimler için?",
+   "baslik": "ABI öncesi *değerlendirme*",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Görüntüleme",
+     "cumle": 0,
+     "metin": "Koklea ve sinir"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "İşitme testleri",
+     "cumle": 1,
+     "metin": "Cihaz denemesi"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Elektrofizyoloji",
+     "cumle": 2,
+     "metin": "Yanıt var mı?"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Aile ve ekip",
+     "cumle": 4,
+     "metin": "Beklenti ve karar"
+    }
+   ],
+   "cumleler": [
+    "Değerlendirme, kokleanın ve koklear sinirin durumunu gösteren ayrıntılı MR ve tomografi incelemesiyle başlar.",
+    "Davranışsal işitme testleri ve uygun bir işitme cihazı denemesi, kalan bir işitme olup olmadığını gösterir.",
+    "Elektrofizyolojik testler, işitme yolunun uyarılabilir bir bölümünün bulunup bulunmadığına dair ek bilgi verir.",
+    "Çocuğun genel gelişimi, ek engelleri ve ailenin rehabilitasyonu sürdürme olanakları da değerlendirilir.",
+    "Bütün bulgular, beyin cerrahı, kulak cerrahı, odyolog, radyolog ve dil ve konuşma terapistinden oluşan ekipte tartışılır.",
+    "Aileye ABI'nın koklear implanttan farklı ve genellikle daha sınırlı bir sonuç hedeflediği açıkça anlatılır."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cerrahi ve yerleşim",
+   "baslik": "Elektrot *nereye* konur?",
+   "cizim": "beyin_sapi_implanti",
+   "etiketler": [
+    {
+     "parca": "koklear_nukleus",
+     "metin": "elektrot burada",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "superior oliver kompleks",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "ABI ameliyatı beyin cerrahisi ve kulak cerrahisi deneyimi gerektirir ve çoğu zaman iki ekip birlikte çalışır.",
+    "Elektrot taşıyıcısı, dördüncü ventrikülün yan girintisine ilerletilerek koklear nükleusun yüzeyine oturtulur.",
+    "Taşıyıcı düz ve küçük bir kürek biçimindedir; üzerinde üreticiye göre yaklaşık 12 ile 21 arasında elektrot bulunur.",
+    "Koklear nükleus gözle tam görülemediği için doğru yerin bulunmasında anatomik işaret noktaları kullanılır.",
+    "Ameliyatta elektriksel uyarılmış işitsel beyin sapı yanıtı, kısaca EABR kaydedilir ve işitme yolunun uyarılıp uyarılmadığına bakılır.",
+    "Gerekirse taşıyıcının yeri, en iyi yanıt alınana kadar küçük hareketlerle değiştirilir.",
+    "Alıcı-uyarıcı ve dış ünite ise koklear implanttakine benzer; temel fark elektrodun yeri ve biçimidir."
+   ],
+   "ayar": {
+    "elektrot_cumle": 1,
+    "ust_yollar_cumle": 4
+   }
+  },
+  {
+   "id": "aktivasyon",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Programlama",
+   "baslik": "ABI'de *ilk aktivasyon*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Gözetim",
+     "cumle": 0,
+     "metin": "Tıbbi izlem altında"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Tek tek elektrot",
+     "cumle": 2,
+     "metin": "Duyum var mı?"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yan etki",
+     "cumle": 3,
+     "metin": "Elektrot kapatılır"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Perde sırası",
+     "cumle": 4,
+     "metin": "Kişiye özgü"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Harita",
+     "cumle": 5,
+     "metin": "Kalan elektrotlarla"
+    }
+   ],
+   "cumleler": [
+    "İlk aktivasyon çoğu zaman hastane ortamında, kalp ritmi ve yaşamsal bulgular izlenerek yapılır.",
+    "Bunun nedeni, beyin sapındaki uyarının yakındaki başka sinir yapılarını da etkileyebilmesidir.",
+    "Her elektrot düşük düzeyden başlayarak tek tek uyarılır ve kişiye işitsel bir duyum olup olmadığı sorulur.",
+    "İşitsel olmayan duyum yaratan elektrotlar kapatılır; bazı elektrotlar hiçbir duyum oluşturmayabilir.",
+    "İşitsel duyum veren elektrotların perde sırası tek tek belirlenir; bu sıra koklear implanttaki gibi düzenli değildir.",
+    "Harita, işitsel duyum veren elektrotlarla ve onların perde sırasına göre oluşturulur.",
+    "Daha az elektrot kullanılabildiği ve düzeyler değişken olduğu için programlama daha uzun ve sabır isteyen bir süreçtir."
+   ]
+  },
+  {
+   "id": "yan_etki",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Programlama",
+   "baslik": "İşitsel olmayan *duyumlar*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Karıncalanma",
+     "cumle": 0,
+     "metin": "Vücutta ya da yüzde"
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Baş dönmesi",
+     "cumle": 1,
+     "metin": "Denge yolları"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Görme",
+     "cumle": 2,
+     "metin": "Görüntü titremesi"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Boğaz",
+     "cumle": 3,
+     "metin": "Gerginlik, öksürük"
+    }
+   ],
+   "cumleler": [
+    "En sık bildirilen işitsel olmayan duyum, vücudun bir yerinde ya da yüzde karıncalanmadır.",
+    "Baş dönmesi ya da sallanma hissi, denge yollarının uyarılmasını düşündürür.",
+    "Bazı kişiler görüntünün titrediğini ya da gözlerinde bir hareket olduğunu tarif eder.",
+    "Boğazda gerginlik ya da öksürük isteği gibi duyumlar da bildirilmiştir.",
+    "Bu duyumlar genellikle uyarı durunca geçer; ilgili elektrot kapatılarak ya da uyarı biçimi değiştirilerek giderilir.",
+    "Konuşamayan çocuklarda bu duyumları anlamak için yüz ifadesi, göz hareketleri ve davranış dikkatle izlenir."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sonuçlar",
+   "baslik": "Tümörlü ve *tümörsüz*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": "",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "NF2 (tümör)",
+      "2": "tümör dışı erişkin"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Açık uçlu konuşma, ortalama (yüzde)"
+    },
+    "seriler": [
+     {
+      "ad": "tumor",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        10
+       ]
+      ],
+      "renk": "gri",
+      "cumle": 2
+     },
+     {
+      "ad": "tumorsuz",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        59
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "tumorsuz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "ABI ile elde edilen sonuçlar koklear implanta göre genellikle daha sınırlı ve daha değişkendir.",
+    "NF2 hastalarının çoğunda ABI, çevresel seslerin fark edilmesini ve dudak okumanın desteklenmesini sağlar.",
+    {
+     "yazi": "Colletti ve arkadaşlarının 2009 çalışmasında NF2'li hastaların açık uçlu konuşma tanıma ortalaması yaklaşık yüzde 10'du.",
+     "ses": "Kolleti ve arkadaşlarının iki bin dokuz çalışmasında ne fe ikili hastaların açık uçlu konuşma tanıma ortalaması yaklaşık yüzde ondu."
+    },
+    "Aynı çalışmada tümörü olmayan erişkinlerde ortalama yaklaşık yüzde 59'du ve bazı kişiler telefonla konuşabiliyordu.",
+    "Bu fark, NF2'de tümörün ve ameliyatın koklear nükleusa da zarar verebilmesiyle açıklanır.",
+    "Grafikteki değerler tek bir merkezin ortalamalarıdır; başka serilerde sonuçlar farklı olabilir.",
+    "NF2 hastalarının küçük bir bölümü de açık uçlu konuşma anlamaya ulaşabilir; yani sonuç her kişide ayrıca değerlendirilir."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sonuçlar",
+   "baslik": "Çocukta ABI: *beklentiler*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ses farkındalığı",
+     "cumle": 0,
+     "metin": "Çoğu çocukta"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma algısı",
+     "cumle": 1,
+     "metin": "Bir bölümünde gelişir"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Erken yaş",
+     "cumle": 2,
+     "metin": "Daha iyi sonuç"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Uzun eğitim",
+     "cumle": 4,
+     "metin": "Aile ve terapist"
+    }
+   ],
+   "cumleler": [
+    "ABI uygulanan çocukların çoğunda ses farkındalığı gelişir ve çevresel sesler fark edilir.",
+    "Bir bölümünde kapalı ve açık uçlu konuşma algısı ile sözlü dil gelişebilir; ama ilerleme koklear implantlı çocuklara göre daha yavaştır.",
+    "Erken yaşta uygulama ve ek bir engelin bulunmaması genellikle daha iyi sonuçlarla ilişkilidir.",
+    "Bazı çocuklarda iletişimin işaret dili ya da görsel destekle birlikte sürdürülmesi gerekebilir.",
+    "Yoğun ve uzun soluklu işitsel rehabilitasyon, ABI'nın ayrılmaz bir parçasıdır; aile bu sürecin merkezindedir.",
+    "Aileye ameliyattan önce olası sonuçların geniş bir aralıkta olduğu açıkça anlatılır."
+   ]
+  },
+  {
+   "id": "rehab",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sonuçlar",
+   "baslik": "ABI sonrası *rehabilitasyon*",
+   "maddeler": [
+    {
+     "metin": "Ses farkındalığından başla",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dudak okumayla birlikte dinleme",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Kısa, sık ve düzenli oturumlar",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Kişiye özgü, ulaşılabilir hedefler",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "HEDEFLER",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Çevre sesleri",
+      "cumle": 4,
+      "metin": "Kapı, telefon, isim"
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Dudak okuma",
+      "cumle": 5,
+      "metin": "Daha kolay anlama"
+     }
+    ]
+   },
+   "cumleler": [
+    "ABI sonrası rehabilitasyon, işitsel beceri basamaklarının en altından, yani seslerin varlığını fark etmekten başlar.",
+    "Erişkinlerde dinleme çoğu zaman dudak okumayla birlikte çalışılır; çünkü ABI'nın en sık katkısı dudak okumayı kolaylaştırmaktır.",
+    "Ardından sesleri ayırt etme ve tanıma çalışmaları gelir; bu basamaklar aylar ve yıllar sürebilir.",
+    "Kısa, sık ve düzenli oturumlar, uzun ama seyrek oturumlardan daha etkilidir.",
+    "Hedefler kişiye göre belirlenir: kapının çalınmasını, telefonun sesini ya da kendi adını duymak anlamlı kazançlardır.",
+    "Dudak okuma becerisindeki artış da ölçülerek izlenir ve kişiyle paylaşılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "ABI'lı kişide her kontrolde hangi elektrotların işitsel, hangilerinin işitsel olmayan duyum verdiğini tablo halinde kaydedin. Değişimler zamanla olabilir; kapalı elektrotları yeniden deneyin.",
+   "cumleler": [
+    "Sahadan bir ipucu: ABI'lı kişide her kontrolde hangi elektrotların işitsel, hangilerinin işitsel olmayan duyum verdiğini kaydedin.",
+    "Elektrotların verdiği duyum zamanla değişebilir; daha önce kapatılan bir elektrot sonradan işitsel duyum verebilir.",
+    "Bu yüzden kapalı elektrotları belirli aralıklarla, düşük düzeyden başlayarak yeniden deneyin.",
+    "İlerlemeyi yalnız konuşma testleriyle değil, ses farkındalığı ve dudak okumaya katkı gibi kişiye uygun hedeflerle değerlendirin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "ABI: koklear nükleusu uyarır",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "NF2 ve tümör dışı endikasyonlar",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Yan etki veren elektrot kapatılır",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sonuçlar sınırlı ve değişken",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "İşitsel beyin sapı implantı kokleayı ve işitme sinirini atlayarak beyin sapındaki koklear nükleusu doğrudan uyarır.",
+    "Klasik endikasyon NF2'dir; koklear sinir aplazisi, koklea yokluğu, ağır kemikleşme ve travma tümör dışı endikasyonlardır.",
+    "Programlamada her elektrot tek tek denenir; işitsel olmayan duyum veren elektrotlar kapatılır ve perde sırası kişiye göre belirlenir.",
+    "Sonuçlar koklear implanta göre daha sınırlı ve değişkendir; tümör dışı hastalarda genellikle NF2'ye göre daha iyidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Koklear sinir yoksa seçenek nedir?",
+   "secenekler": [
+    "Güçlü işitme cihazı",
+    "Kemik yolu implantı",
+    "İşitsel beyin sapı implantı",
+    "Orta kulak implantı"
+   ],
+   "dogru": 2,
+   "aciklama": "Sinir yoksa uyarı doğrudan _koklear nükleusa_ verilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: koklear sinir aplazisi olan bir çocukta koklear implant yerine düşünülebilecek seçenek hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: işitsel beyin sapı implantı.",
+    "Koklear sinir yoksa koklea içindeki elektrotların uyaracağı bir yapı kalmaz; ABI uyarıyı doğrudan beyin sapındaki koklear nükleusa verir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Kemik yolu implantları: *perkütan* ve transkütan sistemler",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kemik yolu implantlarını, yani deriden geçen ve deri altında kalan sistemleri öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

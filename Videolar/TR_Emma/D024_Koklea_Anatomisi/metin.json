@@ -1,0 +1,842 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D024_Koklea_Anatomisi_TR",
+ "kapak": {
+  "ust": "DERS 24",
+  "baslik": "*Koklea*<br>anatomisi",
+  "alt": "Üç skala ve baziler membran",
+  "cizim": "koklea_kesit"
+ },
+ "youtube": {
+  "baslik": "Koklea Anatomisi: Scala Vestibuli, Media ve Tympani | Ders 24 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kokleanın sarmal yapısını, modiolusu ve üç sıvı odacığını anlatıyoruz. Reissner membranı, baziler membran ve stria vascularis ile perilenf ve endolenf farkını, helicotremayı ve tonotopik düzeni klinik bağlantılarıyla öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Møller, Hearing: Anatomy, Physiology, and Disorders of the Auditory System; ASHA, Audiologic Management of Individuals Receiving Cochleotoxic Drug Therapy (1994).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklea",
+   "anatomi"
+  ],
+  "etiketler": [
+   "koklea",
+   "salyangoz",
+   "cochlea",
+   "scala media",
+   "scala vestibuli",
+   "scala tympani",
+   "baziler membran",
+   "helicotrema",
+   "endolenf",
+   "iç kulak anatomisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 24",
+   "baslik": "*Koklea* anatomisi",
+   "alt": "Scala vestibuli, scala media ve scala tympani",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iç kulağın işitme bölümü olan koklea, yani salyangozun yapısını inceleyeceğiz.",
+    "Kokleanın turlarını, üç sıvı odacığını ve bunları ayıran zarları öğreneceğiz."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konum ve şekil",
+   "baslik": "Koklea *nerede?*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Koklea (salyangoz)",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibul",
+     "metin": "Vestibül",
+     "cumle": 4
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Yarım daire kanalları",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "İşitme siniri",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "İç kulak, temporal kemiğin en sert bölümü olan petröz kısmın derinliklerinde yer alır.",
+    "İç kulağın ön bölümü kokleadır ve işitmeden sorumludur.",
+    "Adını, salyangoz kabuğuna benzeyen sarmal şeklinden alır.",
+    "Koklea, yaklaşık bir nohut tanesi büyüklüğünde küçük bir yapıdır.",
+    "Arka bölümde ise denge organları olan vestibül ve yarım daire kanalları bulunur.",
+    "Koklea ve vestibüler organlar birlikte labirent olarak adlandırılır ve aynı sıvı sistemine bağlıdır.",
+    "Kokleadan çıkan sinir lifleri işitme sinirini oluşturur ve beyin sapına ilerler."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklea",
+     "cumle": 1,
+     "olcek": 2.4
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 4,
+     "olcek": 2.0
+    }
+   ]
+  },
+  {
+   "id": "kemik_zar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konum ve şekil",
+   "baslik": "Kemik kanal, *zar kanal*",
+   "maddeler": [
+    {
+     "metin": "Dış kılıf: _kemik labirent_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İçinde: _zar labirent_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Arada perilenf, içte _endolenf_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "Önceki derste gördüğümüz gibi iç kulak, kemik bir kılıf ve onun içine yerleşmiş zar bir kanal sisteminden oluşur.",
+    "Kokleada kemik kılıfın içinde, zar labirentin bir parçası olan koklear kanal uzanır.",
+    "Kemik kanal ile zar kanal arasındaki boşlukta perilenf, zar kanalın içinde ise endolenf bulunur.",
+    "Birazdan göreceğimiz üç skala, bu düzenin kesitteki görünümüdür."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "koklea_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "scala_media",
+      "cumle": 1
+     },
+     {
+      "parca": "perilenf",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "scala_media",
+      "metin": "Koklear kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "perilenf",
+      "metin": "Perilenf",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenf",
+      "metin": "Endolenf",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "sekil",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konum ve şekil",
+   "baslik": "Sarmal *yapı*",
+   "maddeler": [
+    {
+     "metin": "Yaklaşık _2,5 ile 2,75_ tur",
+     "cumle": 0
+    },
+    {
+     "metin": "Merkezde _modiolus_ (koklea ekseni)",
+     "cumle": 1
+    },
+    {
+     "metin": "Açıldığında yaklaşık _35 mm_",
+     "cumle": 3
+    },
+    {
+     "metin": "Taban _geniş_, tepe dar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Koklea, kendi etrafında yaklaşık iki buçuk ile üçe yakın tur yapan sarmal bir kanaldır.",
+    "Sarmalın merkezinde modiolus, yani koklea ekseni adı verilen süngerimsi bir kemik bulunur.",
+    "Modiolusun içinden işitme sinirinin lifleri ve spiral ganglion hücreleri geçer.",
+    "Koklea düzleştirilebilseydi yaklaşık otuz beş milimetre uzunluğunda bir tüp elde ederdik.",
+    "Kanal tabanda geniştir ve tepeye doğru daralır.",
+    "Yetişkin kokleanın taban genişliği yaklaşık dokuz, yüksekliği ise yaklaşık beş milimetredir.",
+    "Kokleanın tabanı pencerelere komşu olan bölümdür; tepesi ise apeks olarak adlandırılır."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "koklea",
+     "cumle": 0,
+     "olcek": 2.8
+    },
+    "vurgula": [
+     {
+      "parca": "koklea",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "koklea",
+      "metin": "Koklea",
+      "cumle": 0
+     },
+     {
+      "parca": "isitme_siniri",
+      "metin": "İşitme siniri",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "lamina",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konum ve şekil",
+   "baslik": "Kanalı bölen *raf*",
+   "maddeler": [
+    {
+     "metin": "_Lamina spiralis ossea_ (kemik spiral lamina)",
+     "cumle": 0
+    },
+    {
+     "metin": "_Ligamentum spirale_ (spiral bağ)",
+     "cumle": 2
+    },
+    {
+     "metin": "Aralarında _baziler membran_",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Modiolustan kanalın içine doğru, sarmal boyunca uzanan ince bir kemik raf çıkar; buna lamina spiralis ossea denir.",
+    "Bu kemik raf kanalı tam ikiye ayırmaz; yalnız iç kısmını kapatır.",
+    "Kanalın dış duvarında ise ligamentum spirale, yani spiral bağ bulunur.",
+    "Kemik raf ile spiral bağ arasında baziler membran gerilidir ve bölmeyi tamamlar.",
+    "Kemik rafın üst yüzünden ince bir zar daha çapraz uzanır; böylece kanal üç odacığa ayrılır."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "koklea_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "lamina_spiralis_ossea",
+      "cumle": 0
+     },
+     {
+      "parca": "ligamentum_spirale",
+      "cumle": 2
+     },
+     {
+      "parca": "baziler_membran",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "lamina_spiralis_ossea",
+      "metin": "Lamina spiralis ossea",
+      "cumle": 0
+     },
+     {
+      "parca": "ligamentum_spirale",
+      "metin": "Ligamentum spirale",
+      "cumle": 2
+     },
+     {
+      "parca": "baziler_membran",
+      "metin": "Baziler membran",
+      "cumle": 3
+     }
+    ]
+   }
+  },
+  {
+   "id": "skalalar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Üç skala",
+   "baslik": "Üç *skala*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_vestibuli",
+     "metin": "Scala vestibuli (vestibüler skala)",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_media",
+     "metin": "Scala media (orta skala)",
+     "cumle": 2
+    },
+    {
+     "parca": "scala_tympani",
+     "metin": "Scala tympani (timpanik skala)",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_vestibuli",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_media",
+     "cumle": 2
+    },
+    {
+     "parca": "scala_tympani",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kokleanın kesitine baktığımızda üst üste dizilmiş üç sıvı dolu odacık görürüz; bunlara skala denir.",
+    "En üstteki scala vestibuli, yani vestibüler skaladır; oval pencereden başlar.",
+    "Ortadaki scala media, yani orta skaladır; koklear kanal olarak da adlandırılır ve kesitte üçgen şeklindedir.",
+    "En alttaki scala tympani, yani timpanik skaladır; yuvarlak pencerede sona erer.",
+    "Scala vestibuli ile scala tympani perilenf, scala media ise endolenf adı verilen farklı bir sıvıyla doludur.",
+    "Corti organı scala mediada, baziler membranın üzerinde yer alır."
+   ]
+  },
+  {
+   "id": "zarlar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Üç skala",
+   "baslik": "Odacıkları ayıran *zarlar*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "reissner_membrani",
+     "metin": "Reissner membranı",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "Membrana basilaris (baziler membran)",
+     "cumle": 2
+    },
+    {
+     "parca": "corti_organi",
+     "metin": "Corti organı",
+     "cumle": 3
+    },
+    {
+     "parca": "stria_vaskularis",
+     "metin": "Stria vascularis",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Scala vestibuli ile scala media arasında çok ince bir zar vardır: Reissner membranı ya da vestibüler membran.",
+    "Reissner membranı yalnız iki hücre katından oluşur ve iki farklı sıvıyı birbirinden ayırır.",
+    "Scala media ile scala tympani arasında ise membrana basilaris, yani baziler membran bulunur.",
+    "Baziler membran, üzerinde duran Corti organıyla birlikte sesin frekansına göre titreşen asıl yapıdır.",
+    "Scala medianın dış duvarında, damardan zengin bir doku olan stria vascularis yer alır.",
+    "Stria vascularis endolenfi üretir ve kokleanın elektriksel enerjisini sağlar."
+   ]
+  },
+  {
+   "id": "skala_tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Üç skala",
+   "baslik": "Üç skalanın *karşılaştırması*",
+   "sutunlar": [
+    "Skala",
+    "Sıvı",
+    "Bağlantı"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Scala vestibuli",
+      "Perilenf",
+      "Oval pencere"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Scala media",
+      "Endolenf",
+      "Kapalı kanal"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Scala tympani",
+      "Perilenf",
+      "Yuvarlak pencere"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Scala vestibuli perilenf içerir ve oval pencereyle bağlantılıdır.",
+    "Scala media endolenf içerir; Reissner membranı ile baziler membran arasında kapalı bir kanaldır.",
+    "Scala tympani yine perilenf içerir ve yuvarlak pencerede sona erer.",
+    "İki perilenf odacığı tepede birleşir, endolenf odacığı ise ayrı kalır."
+   ]
+  },
+  {
+   "id": "sivilar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koklea sıvıları",
+   "baslik": "Perilenf ve *endolenf*",
+   "sutunlar": [
+    "Özellik",
+    "Perilenf",
+    "Endolenf"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Yeri",
+      "Vestibuli ve tympani",
+      "Scala media"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Baskın iyon",
+      "Sodyum",
+      "Potasyum"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Benzediği sıvı",
+      "Hücre dışı",
+      "Hücre içi"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Potansiyel",
+      "Yaklaşık 0 mV",
+      "Yaklaşık +80 mV"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Kokleada iki farklı sıvı bulunur ve aralarındaki fark işitmenin temelidir.",
+    "Perilenf sodyumdan zengin, potasyumdan fakirdir.",
+    "Endolenf ise tam tersine potasyumdan çok zengin, sodyumdan fakirdir.",
+    "Perilenf bileşim olarak hücre dışı sıvıya, endolenf ise hücre içi sıvıya benzer.",
+    "Scala mediadaki endolenf, çevresine göre yaklaşık artı seksen milivoltluk bir potansiyel taşır; buna endokoklear potansiyel denir.",
+    "Bu potansiyel, tüy hücrelerine iyon akışını güçlendiren bir pil gibi çalışır.",
+    "Stria vascularis zarar görürse bu potansiyel düşer ve işitme duyarlılığı azalır."
+   ]
+  },
+  {
+   "id": "helicotrema",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koklea sıvıları",
+   "baslik": "Tepe noktası: *helicotrema*",
+   "cizim": "koklea_acik",
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Oval pencere",
+     "cumle": 0
+    },
+    {
+     "parca": "helicotrema",
+     "metin": "Helicotrema",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Yuvarlak pencere",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kokleayı düzleştirip baktığımızda oval pencere ve yuvarlak pencerenin tabanda yan yana olduğunu görürüz.",
+    "Scala vestibuli oval pencereden başlar ve kokleanın tepesine kadar uzanır.",
+    "Tepede scala vestibuli ile scala tympani küçük bir açıklıkla birleşir; bu açıklığa helicotrema denir.",
+    "Scala tympani tepeden geri dönerek tabandaki yuvarlak pencerede sona erer.",
+    "Stapes oval pencereyi içe ittiğinde sıvı hareketi, yuvarlak pencerenin dışa esnemesiyle dengelenir.",
+    "Helicotrema çok küçük olduğundan, çoğu seste sıvı bu açıklıktan değil, baziler membranı hareket ettirerek dengelenir."
+   ],
+   "ayar": {
+    "helicotrema": true,
+    "helicotrema_cumle": 2
+   },
+   "vurgula": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "helicotrema",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "baziler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Baziler membran ve tonotopi",
+   "baslik": "Baziler membran: *tabandan tepeye*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Taban: dar ve sert",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "Tepe: geniş ve esnek",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "Baziler membran",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Baziler membranın yapısı tabandan tepeye doğru düzenli olarak değişir.",
+    "Tabanda dar, kalın ve serttir.",
+    "Tepeye doğru gidildikçe genişler, incelir ve esnekleşir.",
+    "Bu değişim nedeniyle her frekans, membranın farklı bir noktasında en büyük titreşimi yapar.",
+    "Tiz sesler tabana yakın bölgeyi, pes sesler ise tepeye yakın bölgeyi en çok titreştirir.",
+    "Frekansların koklea boyunca bu düzenli dağılımına tonotopi denir.",
+    "İlginç bir ayrıntı: kemik kanal tepeye doğru daralırken, baziler membran tersine genişler."
+   ]
+  },
+  {
+   "id": "tonotopi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Baziler membran ve tonotopi",
+   "baslik": "Pes ses: *tepeye yakın*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "etiketler": [
+    {
+     "parca": "tepe",
+     "metin": "Pes frekanslar",
+     "cumle": 0
+    },
+    {
+     "parca": "taban",
+     "metin": "Tiz frekanslar",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Bu çizimde beş yüz hertzlik pes bir sesin oluşturduğu dalgayı görüyoruz; dalga en büyük genliğe tepeye yakın ulaşıyor.",
+    "Tabandaki bölge, genç bir kulakta yaklaşık yirmi bin hertze kadar olan en tiz seslere ayarlıdır.",
+    "Tepe bölgesi ise yaklaşık yirmi hertze kadar inen en pes sesleri temsil eder.",
+    "Yürüyen dalgayı ve tonotopiyi fizyoloji derslerinde ayrıntılı olarak ele alacağız."
+   ]
+  },
+  {
+   "id": "harita",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Baziler membran ve tonotopi",
+   "baslik": "Odyogram ile *koklea haritası*",
+   "maddeler": [
+    {
+     "metin": "Odyogramın sağı: _koklea tabanı_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Odyogramın solu: _koklea tepesi_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Bölgesel hasar: _dolaylı_ ipucu",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Tonotopi sayesinde odyogram, kokleanın kabaca bir haritası gibi okunabilir; sağ taraf koklea tabanına karşılık gelir.",
+    "Odyogramın sol tarafındaki pes frekanslar ise tepeye yakın bölgeleri yansıtır.",
+    "Örneğin yalnız tiz frekanslarda kayıp gösteren bir odyogram, hasarın daha çok tabana yakın olduğunu düşündürür.",
+    "Yine de odyogram bölgesel hasarı ancak dolaylı gösterir; çünkü komşu bölgelerdeki sağlam hücreler de sese yanıt verebilir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "koklea_acik",
+    "cumle": 0,
+    "ayar": {
+     "frekans": 4000
+    },
+    "etiketler": [
+     {
+      "parca": "taban",
+      "metin": "Taban: tiz",
+      "cumle": 0
+     },
+     {
+      "parca": "tepe",
+      "metin": "Tepe: pes",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "yuruyen_dalga",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "corti_giris",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Baziler membran ve tonotopi",
+   "baslik": "Scala media içinde: *Corti organı*",
+   "cizim": "koklea_kesit",
+   "vurgula": [
+    {
+     "parca": "corti_organi",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bir sıra iç, üç sıra dış tüy hücresi",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Üstte tektoryal membran",
+     "cumle": 2,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Scala medianın tabanında, baziler membranın üzerinde Corti organı oturur.",
+    "Corti organında bir sıra iç tüy hücresi ve genellikle üç sıra dış tüy hücresi bulunur.",
+    "Hücrelerin üzerini jöle kıvamında bir zar olan tektoryal membran örter.",
+    "Baziler membran titreştiğinde tüy hücreleri ile tektoryal membran arasında kayma oluşur ve tüy hücreleri uyarılır.",
+    "Bu yapıyı bir sonraki derste ayrıntılı olarak inceleyeceğiz."
+   ],
+   "yakinlastir": {
+    "parca": "corti_organi",
+    "cumle": 1,
+    "olcek": 2.2
+   }
+  },
+  {
+   "id": "kanlanma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Kanlanma ve *sinir bağlantısı*",
+   "maddeler": [
+    {
+     "metin": "_Labirent arteri_: uç arter",
+     "cumle": 0,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Spiral ganglion: _modiolusta_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Yaklaşık _30 bin_ sinir lifi",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Koklea, çoğunlukla anterior inferior serebellar arterden çıkan labirent arteriyle beslenir.",
+    "Bu bir uç arterdir; yedek bir dolaşım yolu olmadığı için koklea kan akımı bozukluklarına karşı hassastır.",
+    "Tüy hücrelerinden bilgi taşıyan sinir hücrelerinin gövdeleri, modiolus içindeki spiral ganglionda bulunur.",
+    "Bu hücrelerin uzantıları yaklaşık otuz bin liflik işitme sinirini oluşturur.",
+    "Sinir, modiolusun tabanından iç kulak yoluna geçerek beyin sapına ulaşır."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "koklea_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "spiral_ganglion",
+      "cumle": 2
+     },
+     {
+      "parca": "koklear_sinir",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "spiral_ganglion",
+      "metin": "Spiral ganglion",
+      "cumle": 2
+     },
+     {
+      "parca": "koklear_sinir",
+      "metin": "Koklear sinir",
+      "cumle": 3
+     }
+    ]
+   }
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Tiz frekanslar koklea tabanında işlenir; gürültü, yaş ve ototoksik ilaçlar çoğu zaman önce burayı etkiler. İzlemde 8000 Hz'yi atlamayın.",
+   "cumleler": [
+    "Bu anatominin klinikte doğrudan bir karşılığı var.",
+    "Gürültü, yaşlanma ve ototoksik ilaçlar çoğu zaman önce koklea tabanını, yani tiz frekans bölgesini etkiler.",
+    "Bu yüzden risk altındaki kişilerin izleminde sekiz bin hertzi atlamamak önemlidir.",
+    "Ototoksisite izleminde genellikle sekiz bin hertzin üzerindeki genişletilmiş yüksek frekanslar da ölçülür.",
+    "Bu frekanslar, değişimi konuşma frekanslarına ulaşmadan önce yakalamaya yardım eder."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "2,5 ile 2,75 tur, merkezde *modiolus*",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Üç skala: vestibuli, media, *tympani*",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Perilenf sodyum, endolenf *potasyum*",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Taban tiz, tepe *pes*",
+     "cumle": 3,
+     "ikon": "muzik"
+    }
+   ],
+   "cumleler": [
+    "Koklea, modiolus etrafında yaklaşık iki buçuk ile üçe yakın tur yapan sarmal bir kanaldır.",
+    "Kanal Reissner membranı ve baziler membranla scala vestibuli, scala media ve scala tympani olarak üçe ayrılır.",
+    "Perilenf sodyumdan, scala mediadaki endolenf ise potasyumdan zengindir.",
+    "Baziler membran tabanda tiz, tepede pes seslere en çok yanıt verir; buna tonotopi denir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Endolenf hangi skalayı doldurur?",
+   "secenekler": [
+    "Scala vestibuli",
+    "Scala media",
+    "Scala tympani",
+    "Helicotrema"
+   ],
+   "dogru": 1,
+   "aciklama": "Potasyumdan zengin endolenf _scala media_ içini doldurur; diğer iki skalada perilenf bulunur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Endolenf kokleanın hangi skalasını doldurur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B, scala media. Scala vestibuli ve scala tympani ise perilenf içerir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Corti organı: iç ve dış *tüy hücreleri*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste scala mediadaki Corti organını ve iç ve dış tüy hücrelerini ayrıntılı olarak inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

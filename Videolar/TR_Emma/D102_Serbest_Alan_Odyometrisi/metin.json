@@ -1,0 +1,865 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D102_Serbest_Alan_Odyometrisi_TR",
+ "kapak": {
+  "ust": "DERS 102",
+  "baslik": "Serbest alan<br>*odyometrisi*",
+  "alt": "Hoparlör düzeni ve cihazlı eşikler",
+  "cizim": "test_kabini"
+ },
+ "youtube": {
+  "baslik": "Serbest Alan Odyometrisi ve Cihazlı Eşikler | Ders 102 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Serbest alan odyometrisinde uyaran kulaklıkla değil hoparlörle verilir. Bu derste hoparlör yerleşimini ve referans noktasını, saf ses yerine frekans modülasyonlu ton ve dar bant gürültü kullanılmasının nedenini, cihazlı eşiklerin ve fonksiyonel kazancın hesaplanmasını ve bu yöntemin günümüzdeki sınırlılıklarını inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Dillon, Hearing Aids; ISO 8253-2, Acoustics: Audiometric test methods, Part 2: Sound field audiometry; ASHA, Guidelines for Audiometric Symbols.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "serbestalan",
+   "işitmecihazı"
+  ],
+  "etiketler": [
+   "serbest alan odyometrisi",
+   "sound field",
+   "frekans modülasyonlu ton",
+   "warble tone",
+   "dar bant gürültü",
+   "cihazlı eşik",
+   "fonksiyonel kazanç",
+   "functional gain",
+   "işitme cihazı",
+   "koklear implant",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 102",
+   "baslik": "Serbest alan *odyometrisi*",
+   "alt": "Hoparlör düzeni, uyaranlar ve cihazlı eşikler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste hoparlörle yapılan serbest alan odyometrisini ve cihazlı eşikleri öğreneceğiz.",
+    "Hoparlör yerleşimini, kullanılan uyaranları ve fonksiyonel kazancın neden dikkatle yorumlanması gerektiğini göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Serbest alan",
+   "baslik": "Kulaklık yerine *hoparlör*",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "hoparlor",
+     "cumle": 0
+    },
+    {
+     "parca": "hasta",
+     "cumle": 2
+    },
+    {
+     "parca": "odyometre",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "hoparlor",
+     "metin": "Uyaran hoparlörden",
+     "cumle": 0
+    },
+    {
+     "parca": "hasta",
+     "metin": "İki kulak birlikte dinler",
+     "cumle": 2
+    },
+    {
+     "parca": "odyometre",
+     "metin": "Serbest alan kalibrasyonu",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kulaklık takamayan çocuk ve hasta",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Cihazlı ve implantlı değerlendirme",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Serbest alan (sound field) odyometrisinde uyaran kulaklıkla değil, test odasındaki hoparlörlerle verilir.",
+    "Ses odada yayılır ve hastanın iki kulağına birlikte ulaşır.",
+    "Bu yüzden serbest alanda bulunan eşik, genellikle daha iyi işiten kulağı yansıtır.",
+    "Kulaklık takmak istemeyen küçük çocuklarda ve kulaklık kullanılamayan hastalarda serbest alan testi değerli bir seçenektir.",
+    "İşitme cihazı ya da koklear implant takılıyken yapılan değerlendirmeler de serbest alanda yapılır.",
+    "Odyometre, hoparlör çıkışı için ayrıca kalibre edilir; kulaklık kalibrasyonu burada geçerli değildir."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Serbest alan",
+   "baslik": "Hoparlör *yerleşimi*",
+   "maddeler": [
+    {
+     "metin": "Hoparlör _baş hizasında_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Uzaklık genellikle _yaklaşık 1 metre_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Referans nokta: _başın merkezi_",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Açı: _0, 45 ya da 90 derece_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hasta _başını oynatmamalı_",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "AÇI",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "hasta",
+      "baslik": "0 derece",
+      "metin": "Tam önden",
+      "cumle": 4
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Yandan",
+      "metin": "45 ya da 90 derece",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Hoparlör, hastanın oturduğu yerde kulak hizasına gelecek yükseklikte yerleştirilir.",
+    "Hoparlör ile hasta arasındaki uzaklık genellikle yaklaşık bir metredir ve her testte aynı tutulur.",
+    "Kalibrasyon, hastanın başının merkezine karşılık gelen referans noktasında, hasta odada yokken yapılır.",
+    "Bu nedenle hastanın tam olarak bu noktaya oturtulması gerekir.",
+    "Hoparlörün yönüne geliş açısı (azimuth) denir; en sık sıfır derece, yani tam önden kullanılır.",
+    "Kırk beş ya da doksan derecelik açılar, örneğin bir yandaki kulağı öne çıkarmak için tercih edilebilir.",
+    "Hasta başını çevirir ya da öne eğilirse kulağa ulaşan ses, özellikle tiz frekanslarda birkaç desibel değişebilir."
+   ]
+  },
+  {
+   "id": "uyaran",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uyaranlar",
+   "baslik": "Saf ses mi, *modüle ton* mu?",
+   "sol": {
+    "ust": "Saf ses",
+    "maddeler": [
+     {
+      "metin": "Odada _duran dalga_ oluşturur",
+      "cumle": 0
+     },
+     {
+      "metin": "Düzey yere göre _değişir_",
+      "cumle": 1
+     },
+     {
+      "metin": "Serbest alanda _önerilmez_",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "FM ton ya da dar bant",
+    "maddeler": [
+     {
+      "metin": "Frekansı _hafifçe salınan_ ton",
+      "cumle": 3
+     },
+     {
+      "metin": "Ya da _dar bant_ gürültü",
+      "cumle": 4
+     },
+     {
+      "metin": "Düzey odada _daha kararlı_",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Hoparlörden verilen saf ses odanın duvarlarından yansır ve doğrudan gelen sesle üst üste biner; buna duran dalga denir.",
+    "Bu yüzden saf sesin düzeyi, odada birkaç santimetrelik yer değişikliğinde bile belirgin biçimde artıp azalabilir.",
+    "Bu nedenle serbest alanda saf ses yerine başka uyaranlar tercih edilir.",
+    "En sık uyaran, frekansı merkez frekans çevresinde saniyede birkaç kez hafifçe salınan frekans modülasyonlu tondur (warble tone).",
+    "Diğer seçenek, test frekansını merkez alan dar bant gürültüdür.",
+    "Bu uyaranlarda enerji küçük bir frekans aralığına yayıldığı için düzey odada çok daha kararlı kalır."
+   ]
+  },
+  {
+   "id": "duran_dalga",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uyaranlar",
+   "baslik": "Yere göre *düzey değişimi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Referans noktadan uzaklık (cm)"
+    },
+    "y": {
+     "min": -15,
+     "max": 5,
+     "adim": 5,
+     "ad": "Düzey farkı (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "saf_ses",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        4,
+        -3
+       ],
+       [
+        8,
+        -11
+       ],
+       [
+        12,
+        -4
+       ],
+       [
+        16,
+        1
+       ],
+       [
+        20,
+        -2
+       ],
+       [
+        24,
+        -9
+       ],
+       [
+        28,
+        -3
+       ],
+       [
+        32,
+        1
+       ],
+       [
+        36,
+        -4
+       ],
+       [
+        40,
+        -10
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "saf ses",
+      "cumle": 0
+     },
+     {
+      "ad": "fm_ton",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        5,
+        -1
+       ],
+       [
+        10,
+        -1.5
+       ],
+       [
+        15,
+        -0.5
+       ],
+       [
+        20,
+        -1
+       ],
+       [
+        25,
+        -1.5
+       ],
+       [
+        30,
+        -0.5
+       ],
+       [
+        35,
+        -1
+       ],
+       [
+        40,
+        -1.5
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "FM ton",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Saf ses: büyük iniş çıkışlar",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "FM ton: neredeyse düz",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Şema temsilidir, oda değişir",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Şemada aynı odada, referans noktasından uzaklaştıkça ses düzeyinin nasıl değiştiğini görüyoruz.",
+    "Saf seste düzey, birkaç santimetre içinde on desibele varan çukurlar ve tepeler gösterebilir.",
+    "Frekans modülasyonlu tonda ise iniş çıkışlar küçüktür; ölçülen eşik başın küçük hareketlerinden daha az etkilenir.",
+    "Bu fark özellikle yansıtıcı yüzeylerin yakın olduğu küçük odalarda belirgindir.",
+    "Grafik temsilidir; gerçek değerler odanın boyutuna, frekansa ve emici malzemeye göre değişir.",
+    "Sonuç olarak serbest alanda eşik ararken frekans modülasyonlu ton ya da dar bant gürültü kullanılır."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uyaranlar",
+   "baslik": "Serbest alanda *dikkat*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "İki kulak",
+     "metin": "Sonuç daha iyi kulağa ait",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Tek kulak",
+     "metin": "Diğeri tıkanır ya da maskelenir",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ortam gürültüsü",
+     "metin": "Kulaklar açık, sınır daha sıkı",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Konum",
+     "metin": "Referans noktada, sabit baş",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Serbest alan eşiği, iki kulağın birlikte işitmesini, pratikte daha iyi kulağı yansıtır.",
+    "Yalnız bir kulağın katkısını görmek için diğer kulak kulak tıkacıyla kapatılır ya da maskelenir.",
+    "Hoparlörü bir yana yerleştirmek tek başına yeterli değildir, çünkü baş gölgesi pes frekanslarda çok az koruma sağlar.",
+    "Kulaklar açık olduğu için test odasındaki ortam gürültüsü sınırları, kulaklıklı teste göre daha sıkıdır.",
+    "Hastanın referans noktasında, başını oynatmadan oturması ve yanında konuşulmaması gerekir."
+   ]
+  },
+  {
+   "id": "cihazli",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihazlı eşik",
+   "baslik": "Cihazsız ve *cihazlı* eşik",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 10,
+     "ters": true,
+     "ad": "Serbest alan eşiği (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        55
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        4000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "cihazsız (S)",
+      "cumle": 1
+     },
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        500,
+        30
+       ],
+       [
+        1000,
+        30
+       ],
+       [
+        2000,
+        35
+       ],
+       [
+        4000,
+        45
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "cihazlı (A)",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kazanc",
+      "y": [
+       35,
+       60
+      ],
+      "xk": 2000,
+      "etiket": "25 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "S: serbest alan, cihazsız",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "A: serbest alan, cihazlı",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Fark: fonksiyonel kazanç",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Cihazlı eşik (aided threshold), işitme cihazı ya da implant takılıyken serbest alanda bulunan eşiktir.",
+    "Önce cihaz yokken eşikler bulunur; odyogramda bunlar S harfiyle gösterilir.",
+    "Sonra cihaz hastanın günlük ayarında takılıyken aynı frekanslar yeniden ölçülür ve A harfiyle işaretlenir.",
+    "İki eşik arasındaki farka fonksiyonel kazanç (functional gain) denir; bu örnekte iki bin hertzde yirmi beş desibel.",
+    "Bu yöntem, kazancı hastanın kendi yanıtlarıyla, yani davranışsal olarak gösterir.",
+    "Uzun yıllar cihaz kazancını doğrulamanın temel yolu buydu.",
+    "Yine de bu sayıyı yorumlarken dikkatli olmak gerekir; nedenlerini birazdan göreceğiz."
+   ]
+  },
+  {
+   "id": "kazanc_tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihazlı eşik",
+   "baslik": "Fonksiyonel kazanç *hesabı*",
+   "sutunlar": [
+    "Frekans (Hz)",
+    "Cihazsız",
+    "Cihazlı",
+    "Kazanç (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500",
+      "50",
+      "30",
+      "20"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000",
+      "55",
+      "30",
+      "25"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000",
+      "60",
+      "35",
+      "25"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4000",
+      "70",
+      "45",
+      "25"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Hesap basittir: her frekansta cihazsız eşikten cihazlı eşik çıkarılır.",
+    "Beş yüz hertzde elli eksi otuz, yirmi desibel.",
+    "Bin ve iki bin hertzde kazanç yirmi beş desibel.",
+    "Dört bin hertzde yetmiş eksi kırk beş, yine yirmi beş desibel.",
+    "Bu örnekte cihazlı eşikler otuz ile kırk beş desibel arasında; yani hafif konuşma seslerinin bir bölümü artık duyulabilir.",
+    "Ancak bu sayılar yalnızca eşik düzeyindeki, yani çok hafif seslere verilen kazancı gösterir."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihazlı eşik",
+   "baslik": "Serbest alanda *konuşma* testleri",
+   "maddeler": [
+    {
+     "metin": "Cihazsız ve cihazlı _SRT_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Cihazlı _kelime tanıma_ skoru",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Konuşma önden, _gürültü arkadan_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Konuşma _kalibrasyonu_ ayrıca yapılır",
+     "cumle": 4,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DÜZEN",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Önde hoparlör",
+      "metin": "Konuşma, 0 derece",
+      "cumle": 3
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "Arkada hoparlör",
+      "metin": "Gürültü, 180 derece",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Serbest alanda konuşma eşiği de cihazsız ve cihazlı olarak ölçülebilir.",
+    "Cihazlı kelime tanıma skoru, cihazın konuşmayı anlamaya katkısını doğrudan gösterir.",
+    "Bu test günlük konuşma düzeyine yakın bir düzeyde yapıldığında, eşik ölçümünden daha gerçekçi bir tablo verir.",
+    "Gürültüde değerlendirmede konuşma önden, gürültü arkadan ya da yanlardan verilir; yön duyarlı mikrofonların etkisi de görülür.",
+    "Konuşma kanalının serbest alan kalibrasyonu da ayrıca yapılmalıdır."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınırlılıklar",
+   "baslik": "Fonksiyonel kazancın *sınırları*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Sıkıştırma",
+     "metin": "Hafif seste kazanç fazla",
+     "cumle": 0
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Genişleme",
+     "metin": "Çok hafif sesi kısabilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü tabanı",
+     "metin": "Oda ve cihaz gürültüsü",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Otomatik özellik",
+     "metin": "Sabit tonu bastırabilir",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Açık uç",
+     "metin": "Doğal yol karışır",
+     "cumle": 5
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "5 dB adım",
+     "metin": "Kaba ve değişken",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Günümüz cihazları sıkıştırma kullanır; hafif seslere, konuşma düzeyindeki seslerden daha fazla kazanç verirler.",
+    "Bu yüzden eşik düzeyinde ölçülen kazanç, günlük konuşmadaki kazancı olduğundan yüksek gösterebilir.",
+    "Tersine, çok hafif sesleri kısan genişleme özelliği cihazlı eşiği olduğundan kötü gösterebilir.",
+    "Odanın ve cihazın kendi gürültüsü, cihazlı eşiğin belli bir düzeyin altına inmesini engelleyebilir.",
+    "Gürültü azaltma ya da geri besleme önleme gibi özellikler, sabit bir test tonunu istenmeyen ses sanıp bastırabilir.",
+    "Açık uçlu cihazlarda pes frekanslardaki sesler kulağa cihazı atlayarak doğrudan da ulaşır.",
+    "Son olarak beş desibellik adımlar ve test tekrarındaki değişkenlik, küçük farkların yorumunu zorlaştırır."
+   ]
+  },
+  {
+   "id": "rem",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınırlılıklar",
+   "baslik": "Cihazlı eşik ve *gerçek kulak* ölçümü",
+   "sol": {
+    "ust": "Cihazlı eşik",
+    "maddeler": [
+     {
+      "metin": "Yalnız _eşik düzeyinde_ bilgi",
+      "cumle": 0
+     },
+     {
+      "metin": "Hastanın yanıtına bağlı",
+      "cumle": 1
+     },
+     {
+      "metin": "Birkaç frekans, 5 dB adım",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Gerçek kulak ölçümü",
+    "maddeler": [
+     {
+      "metin": "Konuşma düzeylerinde _çıkış_",
+      "cumle": 3
+     },
+     {
+      "metin": "Prob mikrofonla _objektif_",
+      "cumle": 3
+     },
+     {
+      "metin": "Tüm frekans aralığı, reçeteyle kıyas",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Cihazlı eşik, cihazın yalnızca çok hafif seslere ne yaptığını gösterir.",
+    "Sonuç hastanın dikkatine ve yanıt verme biçimine de bağlıdır.",
+    "Ayrıca yalnız birkaç frekansta ve beş desibellik adımlarla bilgi verir.",
+    "Gerçek kulak ölçümünde ise kulak yolundaki ses, prob mikrofonla ve konuşma düzeylerinde objektif olarak ölçülür.",
+    "Sonuç tüm frekans aralığında reçete hedefleriyle karşılaştırılabilir.",
+    "Bu yüzden yetişkinde cihaz ayarını doğrulamada gerçek kulak ölçümü tercih edilir; bunu ayrı bir derste ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "deger",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınırlılıklar",
+   "baslik": "Cihazlı eşik *nerede* değerli?",
+   "maddeler": [
+    {
+     "metin": "_Koklear implant_ ayarının kontrolü",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "_Kemiğe tutturulan_ cihazlar",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Küçük çocukta _davranışsal_ kontrol",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Aileye _görsel_ danışmanlık",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "vurgula": [
+     {
+      "parca": "dis_islemci",
+      "cumle": 0
+     },
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Koklear implantta kulak yolunda ölçülecek bir ses çıkışı olmadığı için serbest alan eşikleri programlamanın kontrolünde yaygın kullanılır.",
+    "Kemiğe tutturulan işitme cihazlarında da gerçek kulak ölçümü uygulanamadığı için davranışsal yöntemler önem kazanır.",
+    "Küçük çocuklarda, gerçek kulak ölçümüne ek olarak serbest alanda yapılan davranışsal testler cihazla duyulan sesleri gösterir.",
+    "Cihazlı eşiklerin konuşma muzu üzerinde gösterilmesi, aileye hangi konuşma seslerinin duyulur hale geldiğini anlatmanın etkili bir yoludur.",
+    "Serbest alanda cihazlı kelime tanıma testi de cihazın konuşmayı anlamaya katkısını gösterebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Cihazlı ölçümde cihaz programını, ses düzeyini ve açık özellikleri kaydedin; karşı kulağın tıkanıp tıkanmadığını da yazın.",
+   "cumleler": [
+    "Cihazlı serbest alan ölçümlerini karşılaştırılabilir yapan şey, koşulların kaydıdır.",
+    "Cihazın hangi programda ve hangi ses düzeyinde olduğunu, gürültü azaltma gibi özelliklerin açık olup olmadığını not edin.",
+    "Tek kulağı değerlendirdiyseniz diğer kulağın tıkandığını ya da maskelendiğini yazın.",
+    "Hoparlör açısını ve kullanılan uyaranı da kaydedin; bir sonraki kontrolde aynı koşulları kurabilirsiniz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Hoparlör: _yaklaşık 1 m_, baş hizasında",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Uyaran: _FM ton_ ya da dar bant",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Fonksiyonel kazanç: _cihazsız eksi cihazlı_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yetişkinde doğrulama: _gerçek kulak ölçümü_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Serbest alanda hoparlör baş hizasında, genellikle yaklaşık bir metre uzaklıkta ve sabit bir açıda yerleştirilir.",
+    "Duran dalgalar nedeniyle saf ses yerine frekans modülasyonlu ton ya da dar bant gürültü kullanılır.",
+    "Fonksiyonel kazanç, cihazsız ve cihazlı serbest alan eşikleri arasındaki farktır.",
+    "Sıkıştırma ve otomatik özellikler nedeniyle bu değer sınırlıdır; yetişkinde cihaz ayarı gerçek kulak ölçümüyle doğrulanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Serbest alanda neden saf ses yerine FM ton kullanılır?",
+   "secenekler": [
+    "Daha yüksek düzeye çıkar",
+    "Duran dalgaları azaltır",
+    "Hasta daha kolay fark eder",
+    "Kalibrasyon gerektirmez"
+   ],
+   "dogru": 1,
+   "aciklama": "Saf ses odada _duran dalga_ oluşturur; FM tonda enerji küçük bir aralığa yayıldığı için düzey daha kararlıdır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Serbest alan odyometrisinde neden saf ses yerine frekans modülasyonlu ton kullanılır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: duran dalgaları azaltır.",
+    "Saf ses odada yere göre değişen tepeler ve çukurlar oluşturur; modüle tonda düzey çok daha kararlı kalır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Akustik immitans: *empedans* ve admitans",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste immitansmetriye geçiyoruz ve empedans ile admitans kavramlarını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

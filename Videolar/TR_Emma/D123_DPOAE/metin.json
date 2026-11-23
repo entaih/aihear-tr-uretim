@@ -1,0 +1,1080 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D123_DPOAE_TR",
+ "kapak": {
+  "ust": "DERS 123",
+  "baslik": "*DPOAE*<br>ve DP-gram",
+  "alt": "İki ton, 2f1-f2 ve gürültü tabanı",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "DPOAE: Distorsiyon Ürünü Otoakustik Emisyon | Ders 123 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "DPOAE ölçümünde iki birincil ton verilir ve kokleanın ürettiği 2f1-f2 ürünü kaydedilir. Bu derste f2/f1 = 1,22 ve L1/L2 = 65/55 dB SPL protokolünü, ürünün kokleada nerede oluştuğunu, DP-gramın gürültü tabanıyla birlikte okunmasını ve TEOAE ile karşılaştırmayı inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gorga MP ve ark. (1997), From laboratory to clinic: a large scale study of distortion product otoacoustic emissions in ears with normal hearing and ears with hearing loss, Ear and Hearing; Shera CA, Guinan JJ (1999), Evoked otoacoustic emissions arise by two fundamentally different mechanisms, Journal of the Acoustical Society of America; Hall JW, Handbook of Otoacoustic Emissions; Dhar S, Hall JW, Otoacoustic Emissions: Principles, Procedures, and Protocols; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "OAE",
+   "DPOAE"
+  ],
+  "etiketler": [
+   "DPOAE",
+   "distorsiyon ürünü otoakustik emisyon",
+   "DP-gram",
+   "birincil tonlar",
+   "2f1-f2",
+   "gürültü tabanı",
+   "otoakustik emisyon",
+   "ototoksisite",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 123",
+   "baslik": "*DPOAE*: distorsiyon ürünü",
+   "alt": "İki ton, 2f1-f2 ve DP-gram",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste distorsiyon ürünü otoakustik emisyon ölçümünü öğreneceğiz.",
+    {
+     "yazi": "İki birincil tonun nasıl seçildiğini, iki f1 eksi f2 ürününü ve DP-gramın nasıl okunduğunu göreceğiz.",
+     "ses": "İki birincil tonun nasıl seçildiğini, iki fe bir eksi fe iki ürününü ve de pe gramın nasıl okunduğunu göreceğiz."
+    }
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İlke",
+   "baslik": "İki ton, *yeni* bir ses",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "vurgula": [
+    {
+     "parca": "uyaran",
+     "cumle": 0
+    },
+    {
+     "parca": "yanit",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "f1 ve f2",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "metin": "2f1-f2 ürünü",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Birincil tonlar: f1 ve f2",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ölçülen ürün: 2f1-f2",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kaynak: dış tüy hücreleri",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Distorsiyon ürünü otoakustik emisyon, kısaca DPOAE ölçümünde kulak yoluna aynı anda iki saf ton verilir.",
+    "Bu tonlara birincil tonlar (primary tones) denir.",
+    {
+     "yazi": "Düşük frekanslı tona f1, yüksek frekanslı tona f2 adı verilir.",
+     "ses": "Düşük frekanslı tona fe bir, yüksek frekanslı tona fe iki adı verilir."
+    },
+    "Sağlıklı koklea doğrusal çalışmadığı için iki tonu işlerken yeni frekanslarda sesler üretir; bunlara distorsiyon ürünleri denir.",
+    {
+     "yazi": "İnsanda en büyük ürün iki f1 eksi f2 frekansındadır ve klinikte ölçülen budur.",
+     "ses": "İnsanda en büyük ürün iki fe bir eksi fe iki frekansındadır ve klinikte ölçülen budur."
+    },
+    "Bu doğrusal olmama dış tüy hücrelerinin aktif işleyişine bağlıdır; dış tüy hücreleri hasar görünce ürün azalır ya da kaybolur.",
+    "Ürünün düzeyi birincil tonlardan çok daha düşüktür; normal kulakta genellikle yaklaşık elli ile altmış desibel daha zayıftır."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İlke",
+   "baslik": "Bir *örnek* hesap",
+   "maddeler": [
+    {
+     "metin": "f2: _2000 Hz_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "f1: _yaklaşık 1640 Hz_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "2f1-f2: _yaklaşık 1280 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Grafikte _f2_ frekansına göre",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": 1000,
+      "max": 2400,
+      "log": true,
+      "hz": true,
+      "isaretler": [
+       1000,
+       1500,
+       2000
+      ],
+      "ad": "Frekans (Hz)"
+     },
+     "y": {
+      "min": -10,
+      "max": 70,
+      "adim": 20,
+      "ad": "Düzey (dB SPL)"
+     },
+     "seriler": [
+      {
+       "ad": "f1",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1640,
+         65
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "f1",
+       "cumle": 1
+      },
+      {
+       "ad": "f2",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         2000,
+         55
+        ]
+       ],
+       "renk": "lacivert",
+       "etiket": "f2",
+       "cumle": 0
+      },
+      {
+       "ad": "dp",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1280,
+         5
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "2f1-f2",
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Bir örnekle hesaplayalım: f2 iki bin hertz seçilsin.",
+     "ses": "Bir örnekle hesaplayalım: fe iki, iki bin hertz seçilsin."
+    },
+    {
+     "yazi": "f2'nin f1'e oranı bir virgül iki iki olduğunda f1 yaklaşık bin altı yüz kırk hertz olur.",
+     "ses": "Fe ikinin fe bire oranı bir virgül iki iki olduğunda fe bir yaklaşık bin altı yüz kırk hertz olur."
+    },
+    {
+     "yazi": "İki f1 eksi f2 ise yaklaşık bin iki yüz seksen hertz eder; ürün bu frekansta aranır.",
+     "ses": "İki fe bir eksi fe iki ise yaklaşık bin iki yüz seksen hertz eder; ürün bu frekansta aranır."
+    },
+    "Yani ürün, iki birincil tonun altında, daha pes bir frekansta ortaya çıkar.",
+    {
+     "yazi": "Ancak sonuç genellikle ürün frekansına göre değil, f2 frekansına göre çizilir.",
+     "ses": "Ancak sonuç genellikle ürün frekansına göre değil, fe iki frekansına göre çizilir."
+    },
+    {
+     "yazi": "Çünkü ürünün oluştuğu asıl bölge, kokleada iki tonun titreşimlerinin örtüştüğü f2 yeri civarıdır.",
+     "ses": "Çünkü ürünün oluştuğu asıl bölge, kokleada iki tonun titreşimlerinin örtüştüğü fe iki yeri civarıdır."
+    }
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İlke",
+   "baslik": "Ürün *nerede* oluşur?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 2000
+   },
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Taban: tiz",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "metin": "Tepe: pes",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "f2 yeri: örtüşme",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ürün f2 yeri civarında oluşur",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İkinci bileşen: ince yapı",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Her nokta: f2 bölgesi",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "İki ton kokleada iki yürüyen dalga oluşturur; f2'nin tepe yeri tabana, f1'inki biraz daha tepeye yakındır.",
+     "ses": "İki ton kokleada iki yürüyen dalga oluşturur; fe ikinin tepe yeri tabana, fe birinki biraz daha tepeye yakındır."
+    },
+    {
+     "yazi": "İki dalganın örtüştüğü bölge f2 yerinin hemen yakınıdır ve ürün başlıca burada oluşur.",
+     "ses": "İki dalganın örtüştüğü bölge fe iki yerinin hemen yakınıdır ve ürün başlıca burada oluşur."
+    },
+    "Oluşan ürün kendi frekansının kokleadaki yerine doğru da ilerler ve oradan ikinci bir bileşen yansıyabilir.",
+    "Bu iki kaynaklı yapı, DP-gramda bazen frekansla dalgalanan bir ince yapıya (fine structure) yol açar.",
+    {
+     "yazi": "Klinik yorumda pratik kural basittir: DP-gramdaki her nokta yaklaşık f2 bölgesindeki dış tüy hücrelerini yansıtır.",
+     "ses": "Klinik yorumda pratik kural basittir: de pe gramdaki her nokta yaklaşık fe iki bölgesindeki dış tüy hücrelerini yansıtır."
+    },
+    "Bu yüzden DP-gram, frekansa özgü bir koklear işlev haritası gibi okunabilir."
+   ]
+  },
+  {
+   "id": "protokol",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Protokol",
+   "baslik": "Standart *protokol*",
+   "sutunlar": [
+    "Parametre",
+    "Yaygın değer"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "f2 / f1 oranı",
+      "1,22"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "L1 / L2",
+      "65/55 dB SPL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "f2 aralığı",
+      "1 ile 8 kHz"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Ölçüm noktası",
+      "Oktavda birkaç nokta"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Düzey birimi",
+      "dB SPL"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "En yaygın kullanılan protokolde f2'nin f1'e oranı bir virgül iki iki seçilir.",
+     "ses": "En yaygın kullanılan protokolde fe ikinin fe bire oranı bir virgül iki iki seçilir."
+    },
+    "Bu oran, insan kulağında orta şiddetlerde genellikle en büyük ürünü verdiği için yaygınlaşmıştır.",
+    {
+     "yazi": "Birincil ton düzeyleri L1 ve L2 ile gösterilir; en yaygın seçim L1 altmış beş, L2 elli beş desibel SPL'dir.",
+     "ses": "Birincil ton düzeyleri le bir ve le iki ile gösterilir; en yaygın seçim le bir altmış beş, le iki elli beş desibel SPL'dir."
+    },
+    {
+     "yazi": "Yani düşük frekanslı f1 tonu, f2'den on desibel daha güçlü verilir.",
+     "ses": "Yani düşük frekanslı fe bir tonu, fe ikiden on desibel daha güçlü verilir."
+    },
+    {
+     "yazi": "L1'in L2'den yüksek tutulması, f2 yerinde iki tonun daha dengeli örtüşmesini sağlar ve ürünü büyütür.",
+     "ses": "Le birin le ikiden yüksek tutulması, fe iki yerinde iki tonun daha dengeli örtüşmesini sağlar ve ürünü büyütür."
+    },
+    {
+     "yazi": "Ölçüm genellikle f2 yaklaşık bir ile sekiz kilohertz arasındayken, oktav başına birkaç noktada yapılır.",
+     "ses": "Ölçüm genellikle fe iki yaklaşık bir ile sekiz kilohertz arasındayken, oktav başına birkaç noktada yapılır."
+    },
+    "Düzeyler desibel SPL olarak verilir ve cihaz bunları kulak yolunda ölçerek ayarlar."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Protokol",
+   "baslik": "Ölçüm *adımları*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Kulak yolu açık mı?",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Prob",
+     "metin": "Sızdırmaz yerleşim",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Kulak içi ayar",
+     "metin": "Düzeyler doğrulanır",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Frekans taraması",
+     "metin": "Ürün ve gürültü",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Değerlendirme",
+     "metin": "Ürün, taban, ölçüt",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ölçümden önce otoskopiyle kulak yolu kontrol edilir; mümkünse timpanometri de yapılır.",
+    "Prob, iki birincil tonu veren iki ayrı hoparlör ve bir mikrofon içerir; kulak yolunu sızdırmayacak biçimde yerleştirilir.",
+    "Cihaz önce kulak yolunda tonların düzeyini ölçer ve hedef düzeylere ayarlar.",
+    "Ölçüm frekans frekans ilerler; birçok cihaz yüksek frekanslardan başlar ve her noktada ürün ile gürültüyü kaydeder.",
+    "Her noktada yeterli gürültü düşüşü sağlanınca ya da belirli bir süre dolunca cihaz bir sonraki frekansa geçer.",
+    "Sonunda her frekans için ürün düzeyi, gürültü tabanı ve geçme ölçütü birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "dpgram",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "DP-gram",
+   "baslik": "*DP-gram* nasıl okunur?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 750,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "f2 frekansı (Hz)"
+    },
+    "y": {
+     "min": -20,
+     "max": 30,
+     "adim": 10,
+     "ad": "Düzey (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "dp",
+      "noktalar": [
+       [
+        1000,
+        8
+       ],
+       [
+        1500,
+        10
+       ],
+       [
+        2000,
+        12
+       ],
+       [
+        3000,
+        10
+       ],
+       [
+        4000,
+        8
+       ],
+       [
+        6000,
+        4
+       ],
+       [
+        8000,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "DP düzeyi",
+      "cumle": 1
+     },
+     {
+      "ad": "gurultu_tabani",
+      "noktalar": [
+       [
+        1000,
+        -2
+       ],
+       [
+        1500,
+        -6
+       ],
+       [
+        2000,
+        -9
+       ],
+       [
+        3000,
+        -10
+       ],
+       [
+        4000,
+        -11
+       ],
+       [
+        6000,
+        -10
+       ],
+       [
+        8000,
+        -8
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "kesik": true,
+      "etiket": "gürültü tabanı",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       -9,
+       12
+      ],
+      "xk": 2000,
+      "etiket": "21 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ürün, tabanın en az 6 dB üstünde",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Pes frekansta gürültü yüksek",
+     "cumle": 6,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "DPOAE sonuçları DP-gram adı verilen bir grafikte gösterilir.",
+     "ses": "DPOAE sonuçları de pe gram adı verilen bir grafikte gösterilir."
+    },
+    {
+     "yazi": "Yatay eksende f2 frekansı, dikey eksende ise ürünün düzeyi desibel SPL olarak yer alır.",
+     "ses": "Yatay eksende fe iki frekansı, dikey eksende ise ürünün düzeyi desibel SPL olarak yer alır."
+    },
+    "Gri bölge, her frekansta ürünün bulunduğu frekanstaki arka plan gürültüsünü, yani gürültü tabanını gösterir.",
+    "Ürünün gürültü tabanından ne kadar yüksek olduğu, yanıtın gerçek olup olmadığını belirler.",
+    "Bu örnekte iki kilohertzde ürün, gürültünün yaklaşık yirmi bir desibel üzerinde.",
+    "Sık kullanılan bir ölçüt, ürünün gürültü tabanını en az altı desibel aşmasıdır.",
+    "Pes frekanslarda, özellikle bin hertzin altında, gürültü tabanı yüksektir ve ölçüm daha az güvenilirdir."
+   ]
+  },
+  {
+   "id": "normatif",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "DP-gram",
+   "baslik": "Var mı, *normal* mi?",
+   "maddeler": [
+    {
+     "metin": "Var mı: _gürültü tabanına_ göre",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Normal mi: _normal aralığa_ göre",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normlar _protokole_ bağlı",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Odyogram ve _timpanometriyle_ birlikte",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "İKİ SORU",
+    "metin": "Yanıt *var mı*? Düzeyi normal mi?",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Gürültü tabanını aşan bir ürün yanıtın var olduğunu gösterir; ama düzeyinin normal olup olmadığı ayrı bir sorudur.",
+    "Bu yüzden birçok cihaz, DP-gramın üzerine normal işitenlerden elde edilmiş bir normal aralık çizer.",
+    "Gorga ve arkadaşlarının bin dokuz yüz doksan yedide yayımladığı geniş örneklemli çalışma, klinik normların temel kaynaklarındandır.",
+    "Ürün normal aralığın altındaysa, o bölgede dış tüy hücresi işlevinin azaldığı düşünülebilir.",
+    {
+     "yazi": "Normlar protokole ve cihaza bağlıdır; farklı L1 ve L2 ile elde edilen normlar birbirinin yerine kullanılmaz.",
+     "ses": "Normlar protokole ve cihaza bağlıdır; farklı le bir ve le iki ile elde edilen normlar birbirinin yerine kullanılmaz."
+    },
+    "Sonuç her zaman odyogram ve timpanometri ile birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İşitme kaybı",
+   "baslik": "DP-gram ve *tiz* kayıp",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 750,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "f2 frekansı (Hz)"
+    },
+    "y": {
+     "min": -20,
+     "max": 30,
+     "adim": 10,
+     "ad": "Düzey (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "dp",
+      "noktalar": [
+       [
+        1000,
+        10
+       ],
+       [
+        1500,
+        11
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        3000,
+        4
+       ],
+       [
+        4000,
+        -9
+       ],
+       [
+        6000,
+        -12
+       ],
+       [
+        8000,
+        -14
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "DP düzeyi",
+      "cumle": 0
+     },
+     {
+      "ad": "gurultu_tabani",
+      "noktalar": [
+       [
+        1000,
+        -2
+       ],
+       [
+        1500,
+        -6
+       ],
+       [
+        2000,
+        -9
+       ],
+       [
+        3000,
+        -10
+       ],
+       [
+        4000,
+        -11
+       ],
+       [
+        6000,
+        -10
+       ],
+       [
+        8000,
+        -8
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "kesik": true,
+      "etiket": "gürültü tabanı",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yanit_yok",
+      "x": [
+       3500,
+       8500
+      ],
+      "renk": "sari",
+      "etiket": "yanıt yok",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "4 kHz üstü: ürün gürültüde",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Frekansa özgü bilgi",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Eşik testi değil",
+     "cumle": 5,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Bu örnekte bir yetişkinin DP-gramında pes ve orta frekanslarda yanıt belirgin.",
+    "Üç kilohertzden sonra ürün düşüyor ve dört kilohertzin üzerinde gürültü tabanına iniyor.",
+    "Kişinin odyogramında da dört kilohertz ve üzerinde orta derecede bir kayıp var.",
+    "DPOAE, yaklaşık kırk beş ile elli desibel HL'ye kadar olan kayıplarda düşük düzeyde de olsa alınabilir.",
+    "Frekansa özgü bu bilgi, DPOAE'yi ototoksisite izleminde ve gürültüye bağlı kayıpta değerli kılar.",
+    "Ancak DPOAE de bir eşik testi değildir; ürün düzeyinden işitme eşiği hesaplanmaz."
+   ]
+  },
+  {
+   "id": "io",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İşitme kaybı",
+   "baslik": "Giriş-çıkış *fonksiyonu*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 20,
+     "max": 75,
+     "adim": 10,
+     "ad": "L2 (dB SPL)"
+    },
+    "y": {
+     "min": -15,
+     "max": 20,
+     "adim": 5,
+     "ad": "DP düzeyi (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        25,
+        -8
+       ],
+       [
+        35,
+        -2
+       ],
+       [
+        45,
+        3
+       ],
+       [
+        55,
+        8
+       ],
+       [
+        65,
+        11
+       ],
+       [
+        70,
+        12
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "normal",
+      "cumle": 2
+     },
+     {
+      "ad": "hasarli",
+      "noktalar": [
+       [
+        45,
+        -10
+       ],
+       [
+        55,
+        -3
+       ],
+       [
+        65,
+        4
+       ],
+       [
+        70,
+        7
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "dış tüy hücresi hasarı",
+      "cumle": 3
+     },
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        20,
+        -11
+       ],
+       [
+        75,
+        -11
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "gürültü tabanı",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: erken başlar, sonra yavaşlar",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Hasarda: daha yüksek düzeyde",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "DP-gram tek bir uyaran düzeyinde ölçülür; ama ürün, uyaran düzeyi değiştikçe de incelenebilir.",
+    {
+     "yazi": "Belirli bir f2 frekansında düzey adım adım artırılarak çizilen grafiğe DPOAE giriş-çıkış fonksiyonu (input-output function) denir.",
+     "ses": "Belirli bir fe iki frekansında düzey adım adım artırılarak çizilen grafiğe DPOAE giriş-çıkış fonksiyonu denir."
+    },
+    "Normal kulakta ürün düşük düzeylerde ortaya çıkar ve yüksek düzeylerde büyümesi yavaşlar; bu, koklear sıkıştırmanın bir yansımasıdır.",
+    "Dış tüy hücresi hasarında ürün ancak daha yüksek uyaran düzeylerinde ortaya çıkar.",
+    "Bu ölçüm daha çok araştırmalarda ve ayrıntılı tanısal değerlendirmede kullanılır."
+   ]
+  },
+  {
+   "id": "teoae_dpoae",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinikte",
+   "baslik": "TEOAE mi, *DPOAE* mi?",
+   "sol": {
+    "ust": "TEOAE",
+    "maddeler": [
+     {
+      "metin": "Klik, geniş bant",
+      "cumle": 0
+     },
+     {
+      "metin": "Yaklaşık 1 ile 4 kHz",
+      "cumle": 1
+     },
+     {
+      "metin": "30 ile 40 dB HL'de kaybolur",
+      "cumle": 2
+     },
+     {
+      "metin": "Taramada hızlı",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "DPOAE",
+    "maddeler": [
+     {
+      "metin": "İki ton, frekansa özgü",
+      "cumle": 4
+     },
+     {
+      "metin": "Tiz frekanslara uzanır",
+      "cumle": 5
+     },
+     {
+      "metin": "45 ile 50 dB HL'ye kadar",
+      "cumle": 6
+     },
+     {
+      "metin": "Klinik soruya göre seç",
+      "cumle": 7
+     }
+    ]
+   },
+   "cumleler": [
+    "Geçici uyarılmış otoakustik emisyon, kısaca TEOAE, klik uyaranıyla tek ölçümde geniş bir frekans bölgesini değerlendirir.",
+    "Yanıt en güvenilir biçimde yaklaşık bir ile dört kilohertz arasında alınır.",
+    "Koklear kayıp yaklaşık otuz ile kırk desibel HL'yi aşınca genellikle kaybolur; bu da hafif kayıplara duyarlı olduğunu gösterir.",
+    "Hızlı ve basit olduğu için yenidoğan taramasında yaygın kullanılır.",
+    {
+     "yazi": "DPOAE ise her ölçümde belirli bir frekans bölgesini, f2 yerini değerlendirir.",
+     "ses": "DPOAE ise her ölçümde belirli bir frekans bölgesini, fe iki yerini değerlendirir."
+    },
+    "Yüksek frekanslara, sekiz kilohertz ve üzerine uzanabilir.",
+    "Daha ileri kayıplarda da alınabilir; yaklaşık kırk beş ile elli desibel HL'ye kadar yanıt görülebilir.",
+    "İki test birbirinin rakibi değil tamamlayıcısıdır; klinik soruya göre biri ya da ikisi birlikte seçilir."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinikte",
+   "baslik": "DPOAE *nerede* öne çıkar?",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoksisite",
+     "metin": "Tiz yanıtlarda azalma",
+     "cumle": 1
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Gürültü",
+     "metin": "Dış tüy hücresi izlemi",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çapraz kontrol",
+     "metin": "Davranışsal test güvenilmezse",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Yenidoğan taraması",
+     "metin": "TEOAE'ye alternatif",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "DPOAE'nin frekansa özgü yapısı onu birkaç klinik alanda öne çıkarır.",
+    "Kulağa toksik ilaç kullanan hastalarda yüksek frekans yanıtlarındaki azalma erken bir uyarı olabilir.",
+    "Gürültüye maruz kalan çalışanlarda dış tüy hücresi etkilenmesinin izlenmesi için de araştırılmaktadır.",
+    "Davranışsal testin güvenilir olmadığı durumlarda çapraz kontrol sağlar.",
+    "Yenidoğan taramasında da TEOAE'ye alternatif olarak kullanılır; ayrıntıları bir sonraki derste göreceğiz."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "DP-gramda yalnız ürüne değil gürültü tabanına da bakın. Yüksek tabanda görünmeyen bir ürün yok sayılmaz, değerlendirilemedi olarak kaydedilir.",
+   "cumle": 1,
+   "cumleler": [
+    "Bir klinik ipucu: DP-gramda ürünün olmaması ile ürünün ölçülememesi aynı şey değildir.",
+    "Gürültü tabanı yüksekse, var olan küçük bir ürün de gürültünün altında kalabilir.",
+    "Bu durumda sonucu yanıt yok yerine gürültü nedeniyle değerlendirilemedi olarak kaydedin ve ortam sakinleşince tekrarlayın.",
+    "Özellikle pes frekanslardaki eksik yanıtlar çoğu zaman gürültüden kaynaklanır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "İki ton, _2f1-f2_ ürünü",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "f2/f1 = 1,22; _L1/L2 = 65/55_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "DP-gram: _f2'ye göre_ çizilir",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ürün, tabanın _en az 6 dB_ üstünde",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "DPOAE'de iki birincil ton verilir ve en büyük ürün iki f1 eksi f2 frekansında ölçülür.",
+     "ses": "DPOAE'de iki birincil ton verilir ve en büyük ürün iki fe bir eksi fe iki frekansında ölçülür."
+    },
+    {
+     "yazi": "Yaygın protokolde f2'nin f1'e oranı bir virgül iki iki, düzeyler altmış beş ve elli beş desibel SPL'dir.",
+     "ses": "Yaygın protokolde fe ikinin fe bire oranı bir virgül iki iki, düzeyler altmış beş ve elli beş desibel SPL'dir."
+    },
+    {
+     "yazi": "DP-gram, ürün düzeyini f2 frekansına göre gösterir ve yanıt gürültü tabanıyla karşılaştırılır.",
+     "ses": "De pe gram, ürün düzeyini fe iki frekansına göre gösterir ve yanıt gürültü tabanıyla karşılaştırılır."
+    },
+    "Sık kullanılan ölçüt, ürünün gürültü tabanını en az altı desibel aşmasıdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "f1 = 1640 Hz, f2 = 2000 Hz. 2f1-f2 ürünü hangi frekansta aranır?",
+   "secenekler": [
+    "Yaklaşık 360 Hz",
+    "Yaklaşık 1280 Hz",
+    "Yaklaşık 2360 Hz",
+    "Yaklaşık 3640 Hz"
+   ],
+   "dogru": 1,
+   "aciklama": "2 x 1640 = 3280; 3280 - 2000 = _yaklaşık 1280 Hz_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: f1 bin altı yüz kırk, f2 iki bin hertz. İki f1 eksi f2 ürünü hangi frekansta aranır?",
+     "ses": "Kendinizi test edin: fe bir bin altı yüz kırk, fe iki iki bin hertz. İki fe bir eksi fe iki ürünü hangi frekansta aranır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yaklaşık bin iki yüz seksen hertz.",
+    "İki kere bin altı yüz kırk, üç bin iki yüz seksen eder; bundan iki bin çıkarılınca yaklaşık bin iki yüz seksen hertz bulunur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*OAE* klinikte",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste otoakustik emisyonların taramadan ototoksisite izlemine kadar klinik kullanımını ele alacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

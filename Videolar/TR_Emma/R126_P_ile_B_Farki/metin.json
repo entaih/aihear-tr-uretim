@@ -1,0 +1,106 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R126_P_ile_B_Farki_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #126",
+  "baslik": "P ile b'nin *farkı*",
+  "alt": "Ses başlama zamanı: birkaç on milisaniye",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "P ile b sesini kulağımız neyle ayırır? #shorts",
+  "aciklama": "Patlamalı ünsüzlerde patlama ile ses tellerinin titreşmeye başlaması arasındaki süreye ses başlama zamanı denir. Türkçede b sesinde ötüm çoğu zaman patlamayla birlikte ya da önce, p sesinde ise belirgin bir gecikmeyle başlar.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "konuşma",
+   "spektrogram"
+  ],
+  "etiketler": [
+   "ses başlama zamanı",
+   "voice onset time",
+   "VOT",
+   "patlamalı ünsüz",
+   "spektrogram",
+   "konuşma akustiği",
+   "fonetik",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "P ile b sesini kulağımız neyle ayırır?",
+  "bilgiler": [
+   "Patlamalı ünsüzlerde hava ağızda bir an tamamen kapatılır, sonra patlar.",
+   "Patlama ile ötümün başlaması arasındaki süreye ses başlama zamanı denir.",
+   "B sesinde ötüm patlamayla birlikte ya da önce, p sesinde gecikmeyle başlar."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "konuşma",
+   "spektrogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #126",
+   "metin": "P ile b'yi kulağımız *neyle* ayırır?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "P ile b sesini kulağımız neyle ayırır?"
+   ]
+  },
+  {
+   "id": "vot",
+   "tur": "zincir",
+   "baslik": "*Ses başlama* zamanı",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Kapanma",
+     "tr": "sessiz boşluk",
+     "cumle": 0
+    },
+    {
+     "ad": "Patlama",
+     "tr": "dikey iz",
+     "cumle": 1
+    },
+    {
+     "ad": "Ötüm",
+     "tr": "ses telleri titrer",
+     "cumle": 2
+    }
+   ],
+   "alt": "Fark yalnız _birkaç on milisaniye_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Patlamalı ünsüzlerde hava ağızda bir an tamamen kapatılır.",
+    "Kapanma açılırken spektrogramda kısa, dikey bir patlama izi görülür.",
+    "Patlama ile ötümün başlaması arasındaki süreye ses başlama zamanı denir.",
+    "B sesinde ötüm çoğu zaman patlamayla birlikte ya da önce başlar.",
+    "P sesinde ise belirgin bir gecikmeyle ve soluklu bir hışırtıdan sonra başlar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D042",
+ "kaynak_baslik": "Spektrogram nasıl okunur?"
+}

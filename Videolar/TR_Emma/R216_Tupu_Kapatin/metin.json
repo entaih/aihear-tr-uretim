@@ -1,0 +1,105 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R216_Tupu_Kapatin_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #216",
+  "baslik": "Tüpü *kapatın*",
+  "alt": "Koklear mikrofonik mi, artefakt mı?",
+  "cizim": "abr",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "ABR kaydındaki bir dalga kulaktan değil, kablodan gelebilir mi? #shorts",
+  "aciklama": "Polarite değişince hem uyaran artefaktı hem de koklear mikrofonik ters döner; sinirsel dalga V ise dönmez. Kesin ayrım için insert kulaklığın ses tüpü kapatılarak bir kontrol kaydı alınır: kaybolan salınım gerçek koklear mikrofoniktir, aynen kalan salınım ise elektriksel artefakttır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "ABR",
+   "elektrofizyoloji"
+  ],
+  "etiketler": [
+   "ABR artefaktı",
+   "koklear mikrofonik",
+   "uyaran artefaktı",
+   "polarite",
+   "insert kulaklık",
+   "sorun giderme",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "ABR kaydındaki bir dalga kulaktan değil, kablodan gelebilir mi?",
+  "bilgiler": [
+   "Polarite değişince artefakt da koklear mikrofonik de ters döner.",
+   "Ses tüpü kapatılarak bir kontrol kaydı alınır.",
+   "Kaybolan salınım koklear mikrofonik, kalan salınım artefakttır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "ABR",
+   "elektrofizyoloji"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #216",
+   "metin": "Dalga kulaktan mı, *kablodan mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "ABR kaydındaki bir dalga kulaktan değil, kablodan gelebilir mi?"
+   ]
+  },
+  {
+   "id": "tup",
+   "tur": "zincir",
+   "baslik": "Kapalı *tüp* kaydı",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Polarite",
+     "tr": "ikisi de döner",
+     "cumle": 1
+    },
+    {
+     "ad": "Tüp",
+     "tr": "ses gitmez",
+     "cumle": 2
+    },
+    {
+     "ad": "Sonuç",
+     "tr": "CM kaybolur",
+     "cumle": 3
+    }
+   ],
+   "alt": "Ses gitmezse _gerçek yanıt da kalmaz_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Polarite değişince uyaran artefaktı da, koklear mikrofonik de ters döner.",
+    "Yani polarite tek başına ikisini ayırmaya yetmez.",
+    "Kesin ayrım için ses tüpü kapatılıp bir kontrol kaydı alınır.",
+    "Bu kayıtta kaybolan salınım gerçek koklear mikrofoniktir.",
+    "Aynen kalan salınım ise elektriksel bir artefakttır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D132",
+ "kaynak_baslik": "ABR'de artefaktlar"
+}

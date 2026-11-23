@@ -1,0 +1,886 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D249_Kemik_Yolu_Implantlari_TR",
+ "kapak": {
+  "ust": "DERS 249",
+  "baslik": "Kemik yolu<br>*implantları*",
+  "alt": "Perkütan ve transkütan sistemler",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "temporal_kemik"
+  ]
+ },
+ "youtube": {
+  "baslik": "Kemik Yolu İmplantları: Perkütan ve Transkütan Sistemler | Ders 249 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kulak yolu olmayan ya da sürekli akıntılı kulakta ses kokleaya nasıl ulaştırılır? Bu derste kemik yolu implantlarının adaylığını, deriden geçen (perkütan) ve deri altı (transkütan) aktif ve pasif sistemleri, yumuşak bantla denemeyi, kemik yolu eşiğine göre güç seçimini, in situ ölçümü ve tek taraflı sağırlıkta kullanımı öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Tjellström, Håkansson ve Granström (2001), Bone-anchored hearing aids: current status in adults and children, Otolaryngologic Clinics of North America; Holgers ve arkadaşları (1988), Soft tissue reactions around percutaneous implants, American Journal of Otology; Reinfeldt ve arkadaşları (2015), New developments in bone-conduction hearing implants: a review, Medical Devices: Evidence and Research; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kemikyolu",
+   "işitme"
+  ],
+  "etiketler": [
+   "kemik yolu implantı",
+   "bone-anchored hearing system",
+   "perkütan",
+   "percutaneous",
+   "transkütan",
+   "transcutaneous",
+   "abutment",
+   "yumuşak bant",
+   "softband",
+   "in situ ölçüm",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 249",
+   "baslik": "Kemik yolu *implantları*",
+   "alt": "Perkütan ve transkütan sistemler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste sesi kafatası titreşimiyle doğrudan kokleaya ileten kemik yolu implantlarını öğreneceğiz.",
+    "Adaylığı, deriden geçen ve deri altında kalan sistemleri, bantla denemeyi ve cihaz gücünün seçimini ele alacağız."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden kemik yolu?",
+   "baslik": "Dış ve orta kulağı *atlamak*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "dış kulak yolu: atlanır",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "orta kulak: atlanır",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "temporal kemik titreşir",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "koklea",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_kemik",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklea",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu dersinde, kafatası titreştiğinde sesin kokleaya dış ve orta kulağı büyük ölçüde atlayarak ulaştığını görmüştük.",
+    "Kemik yolu implantları bu ilkeyi kullanır: ses dış kulak yolundan ve orta kulaktan geçmek zorunda kalmaz.",
+    "Cihaz, aldığı sesi titreşime çevirir ve bu titreşimi temporal kemiğe aktarır.",
+    "Titreşim kafatası boyunca yayılır ve koklea sıvılarını hareket ettirerek işitme duyusunu oluşturur.",
+    "Bu yüzden koklea iyi çalıştığı sürece, dış ya da orta kulaktaki sorun ne kadar ağır olursa olsun ses kokleaya ulaştırılabilir.",
+    "Başarı için kemik yolu eşiklerinin, yani kokleanın duyarlılığının, cihazın gücünün yetebileceği aralıkta olması gerekir."
+   ],
+   "ayar": {
+    "implant": "kemik_yolu",
+    "tur": "perkutan",
+    "implant_cumle": 1,
+    "titresim_cumle": 2
+   }
+  },
+  {
+   "id": "aday",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden kemik yolu?",
+   "baslik": "Kimler *aday?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak yolu yok",
+     "cumle": 0,
+     "metin": "Atrezi, mikrotia"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Akıntılı kulak",
+     "cumle": 1,
+     "metin": "Kronik orta kulak"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Cihaz takılamıyor",
+     "cumle": 3,
+     "metin": "Alerji, kanal sorunu"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Mikst kayıp",
+     "cumle": 4,
+     "metin": "Kemik yolu uygun"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Tek taraflı sağırlık",
+     "cumle": 5,
+     "metin": "Sesi karşıya taşır"
+    }
+   ],
+   "cumleler": [
+    "Kulak yolunun hiç gelişmediği atrezi ve kulak kepçesinin az gelişmiş olduğu mikrotia, klasik endikasyonlardır.",
+    "Sürekli ya da sık akıntısı olan kronik orta kulak hastalıklarında, kulak yolunu kapatan bir cihaz akıntıyı artırabilir.",
+    "Bu kulaklarda kulak yolu açık kalır ve ses kemik yoluyla verilir.",
+    "Kulak yolu alerjisi, dar ya da ameliyatla değiştirilmiş kulak yolu nedeniyle cihaz kullanamayan kişiler de adaydır.",
+    "İletim tipi ya da mikst kayıplarda kemik yolu eşikleri cihazın aralığındaysa bu sistemler iyi sonuç verir.",
+    "Tek taraflı sağırlıkta ise cihaz sağır taraftaki sesi kemik yoluyla karşı taraftaki sağlam kokleaya iletir.",
+    "Adaylık; odyolojik bulgulara, kulağın tıbbi durumuna ve kişinin tercihine göre ekipte belirlenir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden kemik yolu?",
+   "baslik": "Örnek: *atrezi*",
+   "lejant": [
+    {
+     "isaret": "△",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu, maskeli",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Sağ_: kemik yolu, maskeli",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ bölge",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       60,
+       65,
+       60,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "aralik": {
+     "konum": [
+      2,
+      15,
+      65
+     ],
+     "etiket": "50 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta doğumsal atrezi var; hava yolu eşikleri 60 ile 70 desibel arasında.",
+    "Maskeli kemik yolu eşikleri ise normal sınırlarda; yani koklea iyi çalışıyor.",
+    "Arada yaklaşık 50 desibellik bir hava-kemik aralığı var; bu, atrezide beklenen en büyük iletim kaybına yakındır.",
+    "Kulak yolu olmadığı için hava yolu cihazı takılamaz; ama normal kemik yolu, kemik yolu cihazının çok iyi sonuç verebileceğini gösterir.",
+    "Değerler örnektir; asıl karar görüntüleme ve kulak cerrahının değerlendirmesiyle birlikte verilir."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sistem türleri",
+   "baslik": "Dört *yaklaşım*",
+   "ogeler": [
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Cerrahisiz",
+     "cumle": 0,
+     "metin": "Bant ya da yapışkan"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Perkütan",
+     "cumle": 1,
+     "metin": "Deriden geçen bağlantı"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Pasif transkütan",
+     "cumle": 3,
+     "metin": "Mıknatıs, deri sağlam"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Aktif transkütan",
+     "cumle": 5,
+     "metin": "Titreşimci deri altında"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu cihazlarının cerrahi gerektirmeyen biçimleri, başa bir bant ya da deriye yapışan bir taban ile takılır.",
+    "Perkütan (percutaneous), yani deriden geçen sistemlerde kemiğe yerleştirilen implanta bağlı bir parça deriden dışarı çıkar.",
+    "Ses işlemcisi bu parçaya doğrudan takılır ve titreşimi kemiğe doğrudan iletir.",
+    "Transkütan (transcutaneous), yani deri altı sistemlerde deri sağlam kalır.",
+    "Pasif transkütan sistemlerde işlemci, deri altındaki bir mıknatısa tutunur ve titreşim deri üzerinden kemiğe geçer.",
+    "Aktif transkütan sistemlerde ise titreşimi üreten parça deri altına, kemiğe yerleştirilir; dış işlemci ona enerji ve sinyal gönderir.",
+    "Her yaklaşımın ses aktarımı, deri sorunları, görünüm ve bakım açısından farklı avantajları vardır."
+   ]
+  },
+  {
+   "id": "perkutan",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sistem türleri",
+   "baslik": "*Perkütan* sistem",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "vida",
+     "metin": "titanyum implant burada",
+     "cumle": 1
+    },
+    {
+     "parca": "abutment",
+     "metin": "Bağlantı parçası (abutment)",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "metin": "koklea",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vida",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Titanyum vida kemikle kaynaşır",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Bağlantı parçası deriden çıkar",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Titreşim doğrudan kemiğe",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "İlk kemiğe tutturulan işitme cihazı 1977'de İsveç'in Göteborg kentinde Tjellström ve arkadaşları tarafından uygulandı.",
+     "ses": "İlk kemiğe tutturulan işitme cihazı bin dokuz yüz yetmiş yedide İsveç'in Göteborg kentinde Çelström ve arkadaşları tarafından uygulandı."
+    },
+    "Kulak arkasındaki temporal kemiğe küçük bir titanyum vida yerleştirilir.",
+    "Titanyum zamanla kemikle doğrudan kaynaşır; buna osseointegrasyon (osseointegration) denir ve işlemci ancak bundan sonra takılır.",
+    "Vidaya bağlı abutment, yani bağlantı parçası deriden dışarı çıkar ve ses işlemcisi buna takılır.",
+    "Titreşim deri ve yumuşak dokudan geçmeden doğrudan kemiğe iletildiği için ses aktarımı en verimli sistemlerden biridir.",
+    "Bu sistemlere genel olarak kemiğe tutturulan işitme sistemi (bone-anchored hearing system) denir.",
+    "ABD'de bu implantların uygulanması beş yaş ve üzerindeki çocuklarla sınırlıdır; daha küçük çocuklar cihazı bantla kullanır."
+   ],
+   "ayar": {
+    "implant": "kemik_yolu",
+    "tur": "perkutan",
+    "implant_cumle": 1,
+    "titresim_cumle": 4
+   }
+  },
+  {
+   "id": "bakim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sistem türleri",
+   "baslik": "Perkütan sistemde *deri*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Deri tepkisi",
+     "cumle": 0,
+     "metin": "Kızarıklık, akıntı"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Holgers",
+     "cumle": 1,
+     "metin": "0 ile 4 arası"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "İmplant kaybı",
+     "cumle": 4,
+     "metin": "Kaynaşma bozulursa"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Günlük bakım",
+     "cumle": 5,
+     "metin": "Nazik temizlik"
+    }
+   ],
+   "cumleler": [
+    "Deriden geçen bağlantı parçasının çevresinde kızarıklık, akıntı ya da doku büyümesi gibi deri tepkileri görülebilir.",
+    "Bu tepkiler sıfırdan dörde kadar dereceleyen Holgers sınıflamasıyla kaydedilir.",
+    "Sıfır derece tepki olmadığını, dört ise implantın çıkarılmasını gerektirebilecek ağır bir tepkiyi anlatır.",
+    "Çoğu tepki hafiftir ve yerel bakımla düzelir; ama tedavi kararı hekime aittir.",
+    "Daha nadir olarak titanyumun kemikle kaynaşması bozulur ve implant gevşeyip kaybedilebilir.",
+    "Kişiye bağlantı parçasının çevresini her gün nazikçe temizlemesi ve deri değişikliklerini bildirmesi öğretilir."
+   ]
+  },
+  {
+   "id": "transkutan",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sistem türleri",
+   "baslik": "*Pasif* ve aktif transkütan",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Pasif: mıknatıs",
+     "cumle": 0,
+     "metin": "Deri sağlam, görünüm iyi"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pasif: bedeli",
+     "cumle": 1,
+     "metin": "Deri tizleri zayıflatır"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Aktif: titreşimci",
+     "cumle": 3,
+     "metin": "Titreşim deri altında"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Aktif: işlemci",
+     "cumle": 4,
+     "metin": "Enerji ve sinyal verir"
+    }
+   ],
+   "cumleler": [
+    "Pasif transkütan sistemde deri altındaki mıknatıs, işlemciyi yerinde tutar; deri bütün olduğu için deri bakımı sorunu azdır.",
+    "Ancak titreşim deri ve yumuşak dokudan geçerken, özellikle tiz frekanslarda yaklaşık 10 ile 20 desibele varan bir kayba uğrayabilir.",
+    "Ayrıca mıknatısın baskısı uzun kullanımda deride ağrı ya da kızarıklık yapabilir; mıknatıs gücü bu yüzden dikkatle seçilir.",
+    "Aktif transkütan sistemde titreşimi üreten dönüştürücü deri altına, doğrudan kemiğe yerleştirilir.",
+    "Dış işlemci sesi alır ve enerjiyi ile sinyali deri üzerinden iç parçaya iletir; koklear implanttakine benzer bir bağlantıdır.",
+    "Titreşim deri altında üretildiği için deri kaybı yaşanmaz; ama bu sistemler daha büyük bir cerrahi gerektirir.",
+    "Mıknatıs içeren bütün sistemlerde manyetik rezonans görüntüleme üreticinin koşullarına göre planlanır."
+   ]
+  },
+  {
+   "id": "deri_kaybi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sistem türleri",
+   "baslik": "Deri, *tizleri* zayıflatır",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -25,
+     "max": 5,
+     "adim": 5,
+     "ad": "Kemiğe ulaşan titreşim (göreli dB)"
+    },
+    "seriler": [
+     {
+      "ad": "dogrudan",
+      "noktalar": [
+       [
+        500,
+        0
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        0
+       ],
+       [
+        4000,
+        0
+       ],
+       [
+        6000,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "doğrudan bağlantı",
+      "cumle": 0
+     },
+     {
+      "ad": "deri_uzerinden",
+      "noktalar": [
+       [
+        500,
+        -3
+       ],
+       [
+        1000,
+        -5
+       ],
+       [
+        2000,
+        -9
+       ],
+       [
+        4000,
+        -14
+       ],
+       [
+        6000,
+        -17
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "deri üzerinden",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayip",
+      "y": [
+       -14,
+       0
+      ],
+      "xk": 4000,
+      "etiket": "deri kaybı",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kayip",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Bu şematik grafikte lacivert çizgi, titreşimin doğrudan kemiğe aktarıldığı durumu temsil ediyor.",
+    "Mavi çizgi ise aynı titreşimin deri ve yumuşak doku üzerinden aktarıldığı durumu gösteriyor.",
+    "Deri, özellikle tiz frekanslarda titreşimi zayıflatır; aradaki fark frekans yükseldikçe büyür.",
+    "Bu kayıp hem pasif transkütan sistemlerde hem de cihazın bantla takıldığı denemelerde ortaya çıkar.",
+    "Bu nedenle bantla yapılan bir deneme, implant sonrası elde edilecek sesi çoğu zaman biraz olduğundan kötü gösterir.",
+    "Değerler kişiye ve deri kalınlığına göre değişir; grafik yalnızca eğilimi gösterir."
+   ]
+  },
+  {
+   "id": "deneme",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Deneme ve seçim",
+   "baslik": "Karardan önce *deneme*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Kemik yolu",
+     "cumle": 0,
+     "metin": "Maskeli eşikler"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Yumuşak bant",
+     "cumle": 1,
+     "metin": "Günlük ortamda dene"
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Güç seçimi",
+     "cumle": 4,
+     "metin": "Kemik yoluna göre"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Karar",
+     "cumle": 5,
+     "metin": "Kişi ve ekip"
+    }
+   ],
+   "cumleler": [
+    "Değerlendirme, her kulak için ayrı ve gerekirse maskeleme yapılarak bulunan güvenilir kemik yolu eşikleriyle başlar.",
+    "Ardından ses işlemcisi, yumuşak bant (softband) ya da yapışkan bir tabanla başa takılarak denenir.",
+    "Kişi cihazı birkaç gün ya da hafta kendi günlük ortamlarında kullanır ve beklentisini somutlaştırır.",
+    "Denemede ses alanında cihazlı eşikler ve konuşma testleri de yapılabilir.",
+    "Kemik yolu eşiklerine göre, cihazın standart, güçlü ya da çok güçlü bir modeli seçilir.",
+    "Son karar; deneme sonuçları, kulağın tıbbi durumu ve kişinin tercihiyle birlikte ekipte verilir.",
+    "Beş yaşından küçük çocuklarda yumuşak bant çoğu zaman yalnızca bir deneme değil, uzun süreli kullanım biçimidir."
+   ]
+  },
+  {
+   "id": "guc",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Deneme ve seçim",
+   "baslik": "Kemik yolu eşiği ve *güç*",
+   "sutunlar": [
+    "Cihaz gücü",
+    "Ortalama kemik yolu"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Standart",
+      "Yaklaşık 45 dB HL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Güçlü",
+      "Yaklaşık 55 dB HL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Çok güçlü",
+      "Yaklaşık 65 dB HL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Tek taraflı, iyi kulak",
+      "Hava yolu, 20 dB HL"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Cihaz gücü, kemik yolu eşiklerinin ortalamasına göre seçilir; genellikle 500, 1000, 2000 ve 3000 Hz ortalaması kullanılır.",
+    "Standart güçteki perkütan cihazlar, kemik yolu ortalaması yaklaşık 45 dB HL ya da daha iyi olan kişiler için önerilir.",
+    "Daha güçlü modeller, üreticiye göre yaklaşık 55, en güçlüleri ise yaklaşık 65 dB HL düzeyine kadar kemik yolu eşiklerine uyum sağlar.",
+    "Bu sınırlar üreticiye, modele ve sistemin türüne göre değişir; deri altı sistemlerin aralıkları farklı olabilir.",
+    "Tek taraflı sağırlıkta ise iyi kulağın hava yolu eşiklerinin yaklaşık 20 dB HL ya da daha iyi olması aranır.",
+    "Kemik yolu eşikleri sınıra yakınsa, ileride kayıp ilerlerse daha güçlü bir modele geçme olasılığı da konuşulur."
+   ]
+  },
+  {
+   "id": "tek_tarafli",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Deneme ve seçim",
+   "baslik": "Tek taraflı sağırlıkta *kemik yolu*",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "ild",
+    "frekanslar": [
+     4000,
+     500
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "yakin_kulak",
+     "metin": "cihaz: sağır taraf",
+     "cumle": 0
+    },
+    {
+     "parca": "uzak_kulak",
+     "metin": "sağlam koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "bas_golgesi",
+     "metin": "baş gölgesi",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yakin_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "uzak_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "bas_golgesi",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Tek taraflı sağırlıkta kemik yolu cihazı sağır tarafa yerleştirilir ve o taraftaki sesi alır.",
+    "Titreşim kafatası boyunca karşı taraftaki sağlam kokleaya ulaşır.",
+    "Böylece sağır taraftan gelen konuşma, baş gölgesine takılmadan iyi kulağa iletilir.",
+    "Kemik yolunda kulaklar arası zayıflama klinikte sıfır kabul edilse de, tiz frekanslarda on beş desibele kadar çıkabilir.",
+    "Karşı tarafa sinyal yönlendirme, yani CROS sisteminde olduğu gibi burada da bütün sesler tek kokleaya ulaşır; yön bulma geri gelmez.",
+    "Önceki derste gördüğümüz gibi tek taraflı sağırlıkta seçenekler arasında karar, bütün yollar tarafsızca anlatıldıktan sonra verilir."
+   ]
+  },
+  {
+   "id": "insitu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ayar ve doğrulama",
+   "baslik": "*In situ* ölçüm",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ad": "Eşik (dB)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "odyometrik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        4000,
+        15
+       ]
+      ],
+      "renk": "gri",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "odyometrede kemik yolu",
+      "cumle": 0
+     },
+     {
+      "ad": "in_situ",
+      "noktalar": [
+       [
+        500,
+        20
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        2000,
+        30
+       ],
+       [
+        3000,
+        30
+       ],
+       [
+        4000,
+        35
+       ],
+       [
+        6000,
+        40
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "cihazla in situ eşik",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "in_situ",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Odyometrede kemik vibratörüyle ölçülen eşikler, işlemcinin kişinin kafasına aktardığı titreşimi tam olarak yansıtmaz.",
+    "Kafatasının yapısı, deri kalınlığı ve cihazın takılma biçimi aktarımı kişiden kişiye değiştirir.",
+    "Bu yüzden ayar sırasında eşikler, ses işlemcisinin kendisi titreşim kaynağı olarak kullanılarak ölçülür; buna in situ ölçüm denir.",
+    "Ayar yazılımı kazancı bu in situ eşiklere göre hesaplar; böylece kişiye ulaşan gerçek titreşim hesaba katılır.",
+    "Kemik yolu cihazlarında kulak yolunda gerçek kulak ölçümü yapılamaz; çıkış bunun yerine kafatası simülatörü gibi düzeneklerle ölçülebilir.",
+    "Sonuç serbest alanda cihazlı eşikler ve gürültüde konuşma testleriyle doğrulanır.",
+    "Türkiye'de kemik yolu implantlarının geri ödeme koşulları için her zaman güncel Sağlık Uygulama Tebliğine bakılmalıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kemik yolu cihazını bantla denerken deri kaybı nedeniyle sesin olduğundan zayıf gelebileceğini anlatın. Denemeyi kişinin kendi günlük ortamlarında yaptırın.",
+   "cumleler": [
+    "Sahadan bir ipucu: bantla yapılan denemede kişiye, implant sonrasında sesin genellikle biraz daha güçlü ve net olacağını anlatın.",
+    "Çünkü bantta titreşim deri üzerinden geçer ve özellikle tiz frekanslarda zayıflar.",
+    "Denemeyi yalnız sessiz klinik odasında değil, kişinin evinde, işinde ve okulunda yaptırın.",
+    "Tek taraflı sağırlıkta denemenin sonunda kişinin hangi ortamlarda yarar gördüğünü birlikte not edin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Ses kemikle kokleaya ulaşır",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Perkütan: verimli, deri bakımı ister",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Transkütan: pasif ya da aktif",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kemik yolu eşiği gücü belirler",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu implantları dış ve orta kulağı atlayarak sesi kafatası titreşimiyle kokleaya iletir.",
+    "Perkütan sistemler titreşimi doğrudan kemiğe aktarır ve verimlidir; deriden geçen bağlantı parçası düzenli bakım ister.",
+    "Pasif transkütan sistemlerde deri sağlamdır ama tizlerde kayıp olur; aktif sistemlerde titreşimci deri altındadır.",
+    "Cihaz gücü kemik yolu eşiklerine göre seçilir, karar bantla denemeden sonra verilir ve ayar in situ ölçümle yapılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Cihaz gücü neye göre seçilir?",
+   "secenekler": [
+    "Hava yolu eşikleri",
+    "Kemik yolu eşikleri",
+    "Timpanometri",
+    "Akustik refleks"
+   ],
+   "dogru": 1,
+   "aciklama": "Cihaz kokleayı doğrudan uyarır; belirleyici olan _kemik yolu_ eşikleridir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: kemik yolu implantı için cihaz gücü seçilirken temel alınan ölçüm hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kemik yolu eşikleri.",
+    "Cihaz dış ve orta kulağı atlayıp kokleayı uyardığı için gereken güç, kokleanın duyarlılığını gösteren kemik yolu eşiklerine bağlıdır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Aktif *orta kulak* implantları",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kemikçiklere ya da yuvarlak pencereye titreşim aktaran aktif orta kulak implantlarını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

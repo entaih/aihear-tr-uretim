@@ -1,0 +1,105 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R412_Empedans_Kisa_Acik_Devre_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #412",
+  "baslik": "Kısa mı, *açık mı?*",
+  "alt": "Elektrot empedansı",
+  "cizim": "koklear_implant",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Ameliyatta implant elektrotlarının sağlam olduğu nasıl anlaşılır? #shorts",
+  "aciklama": "Koklear implant ameliyatında, telemetri denen kablosuz bir bağlantıyla her elektrottan bilinen küçük bir akım verilir, oluşan gerilim ölçülür ve empedans hesaplanır. Çok düşük bir değer kısa devreyi, çok yüksek bir değer açık devreyi düşündürür; ameliyatta elektrot yüzeyindeki küçük bir hava kabarcığı da geçici olarak yüksek değer verebilir, kalıcı sorunlu elektrotlar ise programlamada kapatılır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "koklearimplant",
+   "ameliyat"
+  ],
+  "etiketler": [
+   "elektrot empedansı",
+   "telemetri",
+   "kısa devre",
+   "açık devre",
+   "intraoperatif ölçümler",
+   "koklear implant",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Ameliyatta implant elektrotlarının sağlam olduğu nasıl anlaşılır?",
+  "bilgiler": [
+   "Çok düşük empedans kısa devreyi düşündürür.",
+   "Çok yüksek empedans açık devreyi düşündürür.",
+   "Küçük bir hava kabarcığı geçici yüksek değer verebilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "ameliyat"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #412",
+   "metin": "Elektrot *sağlam mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Ameliyatta implant elektrotlarının sağlam olduğu nasıl anlaşılır?"
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "zincir",
+   "baslik": "Elektrot *empedansı*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Çok düşük",
+     "tr": "kısa devre",
+     "cumle": 1
+    },
+    {
+     "ad": "Çok yüksek",
+     "tr": "açık devre",
+     "cumle": 2
+    },
+    {
+     "ad": "Hava kabarcığı",
+     "tr": "geçici yüksek",
+     "cumle": 3
+    }
+   ],
+   "alt": "Kalıcıysa _kapatılır_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Her elektrottan küçük bir akım verilir ve oluşan gerilim ölçülür.",
+    "Çok düşük empedans, elektrotlar arasında kısa devreyi düşündürür.",
+    "Çok yüksek empedans ise akım yolunun kesildiğini, yani açık devreyi düşündürür.",
+    "Küçük bir hava kabarcığı da geçici olarak yüksek değer verebilir.",
+    "Kalıcı sorunlu elektrotlar programlamada kapatılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D240",
+ "kaynak_baslik": "İntraoperatif ölçümler"
+}

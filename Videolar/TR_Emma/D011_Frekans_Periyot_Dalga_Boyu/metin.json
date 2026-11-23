@@ -1,0 +1,2123 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D011_Frekans_Periyot_Dalga_Boyu_TR",
+ "kapak": {
+  "ust": "DERS 11",
+  "baslik": "Frekans ve<br>*dalga boyu*",
+  "alt": "Hertz, periyot ve dalga boyu",
+  "cizim": "ses_dalgasi",
+  "ayar": {
+   "frekans_hz": 1000,
+   "karsilastir": 250
+  }
+ },
+ "youtube": {
+  "baslik": "Frekans, Periyot ve Dalga Boyu Nedir? | Ders 11 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Frekansı, hertz birimini ve insan işitme aralığını, periyot ile frekans arasındaki T = 1/f ilişkisini ve dalga boyunun hız bölü frekans olarak hesaplanmasını örneklerle anlatıyoruz. Dalga boyunun baş gölgesi, kulak yolu rezonansı ve serbest alan testi için önemini de görüyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "sesfiziği",
+   "frekans"
+  ],
+  "etiketler": [
+   "frekans",
+   "frequency",
+   "hertz",
+   "periyot",
+   "period",
+   "dalga boyu",
+   "wavelength",
+   "işitme aralığı",
+   "ses fiziği",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 11",
+   "baslik": "Frekans, periyot ve *dalga boyu*",
+   "alt": "Hertz, T = 1/f ve dalga boyu = hız / frekans",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir ses dalgasını tanımlayan üç temel kavramı öğreneceğiz: frekans, periyot ve dalga boyu.",
+    "İnsan işitme aralığını, bu kavramlar arasındaki basit formülleri ve odyolojideki karşılıklarını göreceğiz."
+   ]
+  },
+  {
+   "id": "frekans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Frekans",
+   "baslik": "Frekans: *saniyede kaç* titreşim?",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "periyot",
+     "metin": "Bir devir",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga",
+     "metin": "1000 Hz ton",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "1 Hz = _saniyede 1 devir_",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "1 kHz = _1000 Hz_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Frekansı _kaynak_ belirler",
+     "cumle": 6,
+     "ikon": "diyapazon"
+    }
+   ],
+   "cumleler": [
+    "Önceki derste sesin bir titreşim olduğunu gördük; frekans (frequency), bu titreşimin saniyede kaç kez tekrarlandığıdır.",
+    "Bir sıkışma ve bir seyrelmeden oluşan tam salınıma bir devir (cycle) denir.",
+    {
+     "yazi": "Frekansın birimi hertzdir ve Hz olarak yazılır; bir hertz, saniyede bir devir demektir.",
+     "ses": "Frekansın birimi hertzdir ve ha ze olarak yazılır; bir hertz, saniyede bir devir demektir."
+    },
+    "Birim adını, elektromanyetik dalgalar üzerine çalışan Alman fizikçi Hertz'den alır.",
+    {
+     "yazi": "Bin hertz, saniyede bin devir demektir ve bir kilohertz, kısaca kHz olarak da yazılır.",
+     "ses": "Bin hertz, saniyede bin devir demektir ve bir kilohertz olarak da yazılır."
+    },
+    "Ekrandaki dalga bin hertzlik bir tondur; her devrini saniyenin binde birinde tamamlar.",
+    "Frekansı sesi üreten kaynağın titreşimi belirler; ses başka bir ortama geçse de frekansı değişmez."
+   ]
+  },
+  {
+   "id": "perde",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Frekans",
+   "baslik": "Perde: *pes ve tiz*",
+   "maddeler": [
+    {
+     "metin": "Düşük frekans: _pes_ ses",
+     "cumle": 1,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Yüksek frekans: _tiz_ ses",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Perde (pitch) bir _algıdır_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "İki kat frekans: _bir oktav_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ses_dalgasi",
+    "cumle": 1,
+    "ayar": {
+     "frekans_hz": 1000,
+     "karsilastir": 250
+    },
+    "etiketler": [
+     {
+      "parca": "dalga",
+      "metin": "Tiz: 1000 Hz",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Frekans, sesi pes ya da tiz algılamamızla yakından ilişkilidir.",
+    "Düşük frekanslı sesler pes, yüksek frekanslı sesler tiz duyulur; bir davulu ve bir kuş cıvıltısını düşünün.",
+    "Bu algılanan özelliğe perde (pitch) denir; frekans fiziksel bir ölçü, perde ise bir algıdır.",
+    "Perde frekansla birlikte yükselir, ama ikisi arasındaki ilişki doğrusal değildir.",
+    "Frekans iki katına çıktığında perde bir oktav (octave) yükselir; piyanoda aynı adlı iki komşu nota arasındaki fark budur.",
+    {
+     "yazi": "Odyogramdaki frekanslar da oktav aralıklıdır: 250, 500, 1000, 2000, 4000 ve 8000 hertz.",
+     "ses": "Odyogramdaki frekanslar da oktav aralıklıdır: iki yüz elli, beş yüz, bin, iki bin, dört bin ve sekiz bin hertz."
+    }
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Frekans",
+   "baslik": "İnsan *işitme aralığı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 10,
+     "max": 100000,
+     "log": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      20,
+      250,
+      1000,
+      8000,
+      20000
+     ],
+     "yazilar": {
+      "20": "20",
+      "250": "250",
+      "1000": "1k",
+      "8000": "8k",
+      "20000": "20k"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 4,
+     "isaretler": [],
+     "ad": " "
+    },
+    "bolgeler": [
+     {
+      "ad": "infrases",
+      "x": [
+       10,
+       20
+      ],
+      "renk": "gri",
+      "etiket": "infrases",
+      "cumle": 1
+     },
+     {
+      "ad": "ultrases",
+      "x": [
+       20000,
+       100000
+      ],
+      "renk": "gri",
+      "etiket": "ultrases",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "isitilebilir",
+      "x": [
+       20,
+       20000
+      ],
+      "y": 3,
+      "etiket": "genç kulak: 20 Hz ile 20 kHz",
+      "renk": "mavi",
+      "cumle": 0
+     },
+     {
+      "ad": "konusma",
+      "x": [
+       250,
+       8000
+      ],
+      "y": 2,
+      "etiket": "konuşma",
+      "renk": "yesil",
+      "cumle": 4
+     },
+     {
+      "ad": "odyogram",
+      "x": [
+       250,
+       8000
+      ],
+      "y": 1,
+      "etiket": "odyogram: 250 ile 8000 Hz",
+      "renk": "sari",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Genç ve sağlıklı bir insan kulağı yaklaşık 20 hertz ile 20 bin hertz arasındaki sesleri duyabilir.",
+     "ses": "Genç ve sağlıklı bir insan kulağı yaklaşık yirmi hertz ile yirmi bin hertz arasındaki sesleri duyabilir."
+    },
+    "Yirmi hertzin altındaki seslere infrases (infrasound) denir; örneğin filler bu bölgedeki seslerle haberleşebilir.",
+    "Yirmi bin hertzin üzerindeki seslere ise ultrases (ultrasound) denir; köpekler ve yarasalar bu seslerin bir bölümünü duyabilir.",
+    "Üst sınır yaşla birlikte belirgin biçimde düşer; yirmi bin hertz daha çok çocuklar ve gençler için geçerlidir.",
+    {
+     "yazi": "Konuşma seslerinin enerjisinin büyük bölümü yaklaşık 250 ile 8000 hertz arasındadır.",
+     "ses": "Konuşma seslerinin enerjisinin büyük bölümü yaklaşık iki yüz elli ile sekiz bin hertz arasındadır."
+    },
+    {
+     "yazi": "Saf ses odyometrisinde de genellikle 250 ile 8000 hertz arası test edilir; gerekirse 125 hertz eklenir.",
+     "ses": "Saf ses odyometrisinde de genellikle iki yüz elli ile sekiz bin hertz arası test edilir; gerekirse yüz yirmi beş hertz eklenir."
+    },
+    "Sekiz bin hertzin üzerini ölçen genişletilmiş yüksek frekans odyometrisi ise ototoksisite izlemi gibi durumlarda kullanılır."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Frekans",
+   "baslik": "Odyogramda *frekans ekseni*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Soldan sağa: _pesten tize_",
+     "cumle": 0
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Her adım: _bir oktav_",
+     "cumle": 1
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Kayıp: _4000 Hz_ civarında",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       45,
+       40
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Odyogramın yatay ekseni frekanstır ve soldan sağa pesten tize ilerler.",
+    "Her işaret bir öncekinin iki katıdır; yani aralıklar oktav aralıklarıdır ve eksen logaritmik çizilir.",
+    {
+     "yazi": "Bu örnekte eşikler 2000 hertze kadar normal, 4000 hertzde ise düşüyor; kayıp tiz frekanslardadır.",
+     "ses": "Bu örnekte eşikler iki bin hertze kadar normal, dört bin hertzde ise düşüyor; kayıp tiz frekanslardadır."
+    },
+    {
+     "yazi": "Gerektiğinde 3000 ve 6000 hertz gibi ara frekanslar da test edilir.",
+     "ses": "Gerektiğinde üç bin ve altı bin hertz gibi ara frekanslar da test edilir."
+    },
+    "Frekansı bilmek, hangi seslerin duyulup hangilerinin kaçırıldığını anlamamızı sağlar."
+   ]
+  },
+  {
+   "id": "periyot",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periyot",
+   "baslik": "Periyot: *T = 1 / f*",
+   "sutunlar": [
+    "Frekans",
+    "Periyot"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "100 Hz",
+      "10 ms"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "250 Hz",
+      "4 ms"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "2 ms"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "1 ms"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "0,25 ms"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "0,125 ms"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Periyot (period), bir devrin tamamlanması için geçen süredir ve T harfiyle gösterilir.",
+    "Periyot ile frekans birbirinin tersidir: periyot, bir bölü frekansa eşittir.",
+    "Bin hertzlik bir tonun periyodu saniyenin binde biri, yani bir milisaniyedir.",
+    {
+     "yazi": "Frekans düştükçe periyot uzar: 250 hertzde dört, 100 hertzde ise on milisaniyedir.",
+     "ses": "Frekans düştükçe periyot uzar: iki yüz elli hertzde dört, yüz hertzde ise on milisaniyedir."
+    },
+    {
+     "yazi": "Frekans arttıkça periyot kısalır: 4000 hertzde periyot yalnız çeyrek milisaniyedir.",
+     "ses": "Frekans arttıkça periyot kısalır: dört bin hertzde periyot yalnız çeyrek milisaniyedir."
+    },
+    {
+     "yazi": "Tersinden de hesaplayabiliriz: periyodu iki milisaniye olan bir sesin frekansı, bir bölü iki milisaniye, yani 500 hertzdir.",
+     "ses": "Tersinden de hesaplayabiliriz: periyodu iki milisaniye olan bir sesin frekansı, bir bölü iki milisaniye, yani beş yüz hertzdir."
+    },
+    "Milisaniye düzeyindeki bu süreler, işitme sinirinin sesin zamanlamasını nasıl kodladığını anlamak için ilerideki derslerde önemli olacak."
+   ]
+  },
+  {
+   "id": "iki_ton",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periyot",
+   "baslik": "İki tonu *karşılaştırmak*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 8,
+     "adim": 1,
+     "ad": "Zaman (ms)"
+    },
+    "y": {
+     "min": -1.4,
+     "max": 1.4,
+     "isaretler": [
+      -1,
+      0,
+      1
+     ],
+     "ad": "Basınç (göreli)"
+    },
+    "seriler": [
+     {
+      "ad": "ton_250",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.05,
+        0.0785
+       ],
+       [
+        0.1,
+        0.1564
+       ],
+       [
+        0.15,
+        0.2334
+       ],
+       [
+        0.2,
+        0.309
+       ],
+       [
+        0.25,
+        0.3827
+       ],
+       [
+        0.3,
+        0.454
+       ],
+       [
+        0.35,
+        0.5225
+       ],
+       [
+        0.4,
+        0.5878
+       ],
+       [
+        0.45,
+        0.6494
+       ],
+       [
+        0.5,
+        0.7071
+       ],
+       [
+        0.55,
+        0.7604
+       ],
+       [
+        0.6,
+        0.809
+       ],
+       [
+        0.65,
+        0.8526
+       ],
+       [
+        0.7,
+        0.891
+       ],
+       [
+        0.75,
+        0.9239
+       ],
+       [
+        0.8,
+        0.9511
+       ],
+       [
+        0.85,
+        0.9724
+       ],
+       [
+        0.9,
+        0.9877
+       ],
+       [
+        0.95,
+        0.9969
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.05,
+        0.9969
+       ],
+       [
+        1.1,
+        0.9877
+       ],
+       [
+        1.15,
+        0.9724
+       ],
+       [
+        1.2,
+        0.9511
+       ],
+       [
+        1.25,
+        0.9239
+       ],
+       [
+        1.3,
+        0.891
+       ],
+       [
+        1.35,
+        0.8526
+       ],
+       [
+        1.4,
+        0.809
+       ],
+       [
+        1.45,
+        0.7604
+       ],
+       [
+        1.5,
+        0.7071
+       ],
+       [
+        1.55,
+        0.6494
+       ],
+       [
+        1.6,
+        0.5878
+       ],
+       [
+        1.65,
+        0.5225
+       ],
+       [
+        1.7,
+        0.454
+       ],
+       [
+        1.75,
+        0.3827
+       ],
+       [
+        1.8,
+        0.309
+       ],
+       [
+        1.85,
+        0.2334
+       ],
+       [
+        1.9,
+        0.1564
+       ],
+       [
+        1.95,
+        0.0785
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.05,
+        -0.0785
+       ],
+       [
+        2.1,
+        -0.1564
+       ],
+       [
+        2.15,
+        -0.2334
+       ],
+       [
+        2.2,
+        -0.309
+       ],
+       [
+        2.25,
+        -0.3827
+       ],
+       [
+        2.3,
+        -0.454
+       ],
+       [
+        2.35,
+        -0.5225
+       ],
+       [
+        2.4,
+        -0.5878
+       ],
+       [
+        2.45,
+        -0.6494
+       ],
+       [
+        2.5,
+        -0.7071
+       ],
+       [
+        2.55,
+        -0.7604
+       ],
+       [
+        2.6,
+        -0.809
+       ],
+       [
+        2.65,
+        -0.8526
+       ],
+       [
+        2.7,
+        -0.891
+       ],
+       [
+        2.75,
+        -0.9239
+       ],
+       [
+        2.8,
+        -0.9511
+       ],
+       [
+        2.85,
+        -0.9724
+       ],
+       [
+        2.9,
+        -0.9877
+       ],
+       [
+        2.95,
+        -0.9969
+       ],
+       [
+        3.0,
+        -1.0
+       ],
+       [
+        3.05,
+        -0.9969
+       ],
+       [
+        3.1,
+        -0.9877
+       ],
+       [
+        3.15,
+        -0.9724
+       ],
+       [
+        3.2,
+        -0.9511
+       ],
+       [
+        3.25,
+        -0.9239
+       ],
+       [
+        3.3,
+        -0.891
+       ],
+       [
+        3.35,
+        -0.8526
+       ],
+       [
+        3.4,
+        -0.809
+       ],
+       [
+        3.45,
+        -0.7604
+       ],
+       [
+        3.5,
+        -0.7071
+       ],
+       [
+        3.55,
+        -0.6494
+       ],
+       [
+        3.6,
+        -0.5878
+       ],
+       [
+        3.65,
+        -0.5225
+       ],
+       [
+        3.7,
+        -0.454
+       ],
+       [
+        3.75,
+        -0.3827
+       ],
+       [
+        3.8,
+        -0.309
+       ],
+       [
+        3.85,
+        -0.2334
+       ],
+       [
+        3.9,
+        -0.1564
+       ],
+       [
+        3.95,
+        -0.0785
+       ],
+       [
+        4.0,
+        -0.0
+       ],
+       [
+        4.05,
+        0.0785
+       ],
+       [
+        4.1,
+        0.1564
+       ],
+       [
+        4.15,
+        0.2334
+       ],
+       [
+        4.2,
+        0.309
+       ],
+       [
+        4.25,
+        0.3827
+       ],
+       [
+        4.3,
+        0.454
+       ],
+       [
+        4.35,
+        0.5225
+       ],
+       [
+        4.4,
+        0.5878
+       ],
+       [
+        4.45,
+        0.6494
+       ],
+       [
+        4.5,
+        0.7071
+       ],
+       [
+        4.55,
+        0.7604
+       ],
+       [
+        4.6,
+        0.809
+       ],
+       [
+        4.65,
+        0.8526
+       ],
+       [
+        4.7,
+        0.891
+       ],
+       [
+        4.75,
+        0.9239
+       ],
+       [
+        4.8,
+        0.9511
+       ],
+       [
+        4.85,
+        0.9724
+       ],
+       [
+        4.9,
+        0.9877
+       ],
+       [
+        4.95,
+        0.9969
+       ],
+       [
+        5.0,
+        1.0
+       ],
+       [
+        5.05,
+        0.9969
+       ],
+       [
+        5.1,
+        0.9877
+       ],
+       [
+        5.15,
+        0.9724
+       ],
+       [
+        5.2,
+        0.9511
+       ],
+       [
+        5.25,
+        0.9239
+       ],
+       [
+        5.3,
+        0.891
+       ],
+       [
+        5.35,
+        0.8526
+       ],
+       [
+        5.4,
+        0.809
+       ],
+       [
+        5.45,
+        0.7604
+       ],
+       [
+        5.5,
+        0.7071
+       ],
+       [
+        5.55,
+        0.6494
+       ],
+       [
+        5.6,
+        0.5878
+       ],
+       [
+        5.65,
+        0.5225
+       ],
+       [
+        5.7,
+        0.454
+       ],
+       [
+        5.75,
+        0.3827
+       ],
+       [
+        5.8,
+        0.309
+       ],
+       [
+        5.85,
+        0.2334
+       ],
+       [
+        5.9,
+        0.1564
+       ],
+       [
+        5.95,
+        0.0785
+       ],
+       [
+        6.0,
+        0.0
+       ],
+       [
+        6.05,
+        -0.0785
+       ],
+       [
+        6.1,
+        -0.1564
+       ],
+       [
+        6.15,
+        -0.2334
+       ],
+       [
+        6.2,
+        -0.309
+       ],
+       [
+        6.25,
+        -0.3827
+       ],
+       [
+        6.3,
+        -0.454
+       ],
+       [
+        6.35,
+        -0.5225
+       ],
+       [
+        6.4,
+        -0.5878
+       ],
+       [
+        6.45,
+        -0.6494
+       ],
+       [
+        6.5,
+        -0.7071
+       ],
+       [
+        6.55,
+        -0.7604
+       ],
+       [
+        6.6,
+        -0.809
+       ],
+       [
+        6.65,
+        -0.8526
+       ],
+       [
+        6.7,
+        -0.891
+       ],
+       [
+        6.75,
+        -0.9239
+       ],
+       [
+        6.8,
+        -0.9511
+       ],
+       [
+        6.85,
+        -0.9724
+       ],
+       [
+        6.9,
+        -0.9877
+       ],
+       [
+        6.95,
+        -0.9969
+       ],
+       [
+        7.0,
+        -1.0
+       ],
+       [
+        7.05,
+        -0.9969
+       ],
+       [
+        7.1,
+        -0.9877
+       ],
+       [
+        7.15,
+        -0.9724
+       ],
+       [
+        7.2,
+        -0.9511
+       ],
+       [
+        7.25,
+        -0.9239
+       ],
+       [
+        7.3,
+        -0.891
+       ],
+       [
+        7.35,
+        -0.8526
+       ],
+       [
+        7.4,
+        -0.809
+       ],
+       [
+        7.45,
+        -0.7604
+       ],
+       [
+        7.5,
+        -0.7071
+       ],
+       [
+        7.55,
+        -0.6494
+       ],
+       [
+        7.6,
+        -0.5878
+       ],
+       [
+        7.65,
+        -0.5225
+       ],
+       [
+        7.7,
+        -0.454
+       ],
+       [
+        7.75,
+        -0.3827
+       ],
+       [
+        7.8,
+        -0.309
+       ],
+       [
+        7.85,
+        -0.2334
+       ],
+       [
+        7.9,
+        -0.1564
+       ],
+       [
+        7.95,
+        -0.0785
+       ],
+       [
+        8.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 1
+     },
+     {
+      "ad": "ton_500",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.05,
+        0.1564
+       ],
+       [
+        0.1,
+        0.309
+       ],
+       [
+        0.15,
+        0.454
+       ],
+       [
+        0.2,
+        0.5878
+       ],
+       [
+        0.25,
+        0.7071
+       ],
+       [
+        0.3,
+        0.809
+       ],
+       [
+        0.35,
+        0.891
+       ],
+       [
+        0.4,
+        0.9511
+       ],
+       [
+        0.45,
+        0.9877
+       ],
+       [
+        0.5,
+        1.0
+       ],
+       [
+        0.55,
+        0.9877
+       ],
+       [
+        0.6,
+        0.9511
+       ],
+       [
+        0.65,
+        0.891
+       ],
+       [
+        0.7,
+        0.809
+       ],
+       [
+        0.75,
+        0.7071
+       ],
+       [
+        0.8,
+        0.5878
+       ],
+       [
+        0.85,
+        0.454
+       ],
+       [
+        0.9,
+        0.309
+       ],
+       [
+        0.95,
+        0.1564
+       ],
+       [
+        1.0,
+        0.0
+       ],
+       [
+        1.05,
+        -0.1564
+       ],
+       [
+        1.1,
+        -0.309
+       ],
+       [
+        1.15,
+        -0.454
+       ],
+       [
+        1.2,
+        -0.5878
+       ],
+       [
+        1.25,
+        -0.7071
+       ],
+       [
+        1.3,
+        -0.809
+       ],
+       [
+        1.35,
+        -0.891
+       ],
+       [
+        1.4,
+        -0.9511
+       ],
+       [
+        1.45,
+        -0.9877
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.55,
+        -0.9877
+       ],
+       [
+        1.6,
+        -0.9511
+       ],
+       [
+        1.65,
+        -0.891
+       ],
+       [
+        1.7,
+        -0.809
+       ],
+       [
+        1.75,
+        -0.7071
+       ],
+       [
+        1.8,
+        -0.5878
+       ],
+       [
+        1.85,
+        -0.454
+       ],
+       [
+        1.9,
+        -0.309
+       ],
+       [
+        1.95,
+        -0.1564
+       ],
+       [
+        2.0,
+        -0.0
+       ],
+       [
+        2.05,
+        0.1564
+       ],
+       [
+        2.1,
+        0.309
+       ],
+       [
+        2.15,
+        0.454
+       ],
+       [
+        2.2,
+        0.5878
+       ],
+       [
+        2.25,
+        0.7071
+       ],
+       [
+        2.3,
+        0.809
+       ],
+       [
+        2.35,
+        0.891
+       ],
+       [
+        2.4,
+        0.9511
+       ],
+       [
+        2.45,
+        0.9877
+       ],
+       [
+        2.5,
+        1.0
+       ],
+       [
+        2.55,
+        0.9877
+       ],
+       [
+        2.6,
+        0.9511
+       ],
+       [
+        2.65,
+        0.891
+       ],
+       [
+        2.7,
+        0.809
+       ],
+       [
+        2.75,
+        0.7071
+       ],
+       [
+        2.8,
+        0.5878
+       ],
+       [
+        2.85,
+        0.454
+       ],
+       [
+        2.9,
+        0.309
+       ],
+       [
+        2.95,
+        0.1564
+       ],
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.05,
+        -0.1564
+       ],
+       [
+        3.1,
+        -0.309
+       ],
+       [
+        3.15,
+        -0.454
+       ],
+       [
+        3.2,
+        -0.5878
+       ],
+       [
+        3.25,
+        -0.7071
+       ],
+       [
+        3.3,
+        -0.809
+       ],
+       [
+        3.35,
+        -0.891
+       ],
+       [
+        3.4,
+        -0.9511
+       ],
+       [
+        3.45,
+        -0.9877
+       ],
+       [
+        3.5,
+        -1.0
+       ],
+       [
+        3.55,
+        -0.9877
+       ],
+       [
+        3.6,
+        -0.9511
+       ],
+       [
+        3.65,
+        -0.891
+       ],
+       [
+        3.7,
+        -0.809
+       ],
+       [
+        3.75,
+        -0.7071
+       ],
+       [
+        3.8,
+        -0.5878
+       ],
+       [
+        3.85,
+        -0.454
+       ],
+       [
+        3.9,
+        -0.309
+       ],
+       [
+        3.95,
+        -0.1564
+       ],
+       [
+        4.0,
+        -0.0
+       ],
+       [
+        4.05,
+        0.1564
+       ],
+       [
+        4.1,
+        0.309
+       ],
+       [
+        4.15,
+        0.454
+       ],
+       [
+        4.2,
+        0.5878
+       ],
+       [
+        4.25,
+        0.7071
+       ],
+       [
+        4.3,
+        0.809
+       ],
+       [
+        4.35,
+        0.891
+       ],
+       [
+        4.4,
+        0.9511
+       ],
+       [
+        4.45,
+        0.9877
+       ],
+       [
+        4.5,
+        1.0
+       ],
+       [
+        4.55,
+        0.9877
+       ],
+       [
+        4.6,
+        0.9511
+       ],
+       [
+        4.65,
+        0.891
+       ],
+       [
+        4.7,
+        0.809
+       ],
+       [
+        4.75,
+        0.7071
+       ],
+       [
+        4.8,
+        0.5878
+       ],
+       [
+        4.85,
+        0.454
+       ],
+       [
+        4.9,
+        0.309
+       ],
+       [
+        4.95,
+        0.1564
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        5.05,
+        -0.1564
+       ],
+       [
+        5.1,
+        -0.309
+       ],
+       [
+        5.15,
+        -0.454
+       ],
+       [
+        5.2,
+        -0.5878
+       ],
+       [
+        5.25,
+        -0.7071
+       ],
+       [
+        5.3,
+        -0.809
+       ],
+       [
+        5.35,
+        -0.891
+       ],
+       [
+        5.4,
+        -0.9511
+       ],
+       [
+        5.45,
+        -0.9877
+       ],
+       [
+        5.5,
+        -1.0
+       ],
+       [
+        5.55,
+        -0.9877
+       ],
+       [
+        5.6,
+        -0.9511
+       ],
+       [
+        5.65,
+        -0.891
+       ],
+       [
+        5.7,
+        -0.809
+       ],
+       [
+        5.75,
+        -0.7071
+       ],
+       [
+        5.8,
+        -0.5878
+       ],
+       [
+        5.85,
+        -0.454
+       ],
+       [
+        5.9,
+        -0.309
+       ],
+       [
+        5.95,
+        -0.1564
+       ],
+       [
+        6.0,
+        -0.0
+       ],
+       [
+        6.05,
+        0.1564
+       ],
+       [
+        6.1,
+        0.309
+       ],
+       [
+        6.15,
+        0.454
+       ],
+       [
+        6.2,
+        0.5878
+       ],
+       [
+        6.25,
+        0.7071
+       ],
+       [
+        6.3,
+        0.809
+       ],
+       [
+        6.35,
+        0.891
+       ],
+       [
+        6.4,
+        0.9511
+       ],
+       [
+        6.45,
+        0.9877
+       ],
+       [
+        6.5,
+        1.0
+       ],
+       [
+        6.55,
+        0.9877
+       ],
+       [
+        6.6,
+        0.9511
+       ],
+       [
+        6.65,
+        0.891
+       ],
+       [
+        6.7,
+        0.809
+       ],
+       [
+        6.75,
+        0.7071
+       ],
+       [
+        6.8,
+        0.5878
+       ],
+       [
+        6.85,
+        0.454
+       ],
+       [
+        6.9,
+        0.309
+       ],
+       [
+        6.95,
+        0.1564
+       ],
+       [
+        7.0,
+        0.0
+       ],
+       [
+        7.05,
+        -0.1564
+       ],
+       [
+        7.1,
+        -0.309
+       ],
+       [
+        7.15,
+        -0.454
+       ],
+       [
+        7.2,
+        -0.5878
+       ],
+       [
+        7.25,
+        -0.7071
+       ],
+       [
+        7.3,
+        -0.809
+       ],
+       [
+        7.35,
+        -0.891
+       ],
+       [
+        7.4,
+        -0.9511
+       ],
+       [
+        7.45,
+        -0.9877
+       ],
+       [
+        7.5,
+        -1.0
+       ],
+       [
+        7.55,
+        -0.9877
+       ],
+       [
+        7.6,
+        -0.9511
+       ],
+       [
+        7.65,
+        -0.891
+       ],
+       [
+        7.7,
+        -0.809
+       ],
+       [
+        7.75,
+        -0.7071
+       ],
+       [
+        7.8,
+        -0.5878
+       ],
+       [
+        7.85,
+        -0.454
+       ],
+       [
+        7.9,
+        -0.309
+       ],
+       [
+        7.95,
+        -0.1564
+       ],
+       [
+        8.0,
+        -0.0
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "periyot_250",
+      "x": [
+       0,
+       4
+      ],
+      "y": 1.25,
+      "etiket": "250 Hz: 4 ms",
+      "renk": "mavi",
+      "cumle": 1
+     },
+     {
+      "ad": "periyot_500",
+      "x": [
+       0,
+       2
+      ],
+      "y": -1.25,
+      "etiket": "500 Hz: 2 ms",
+      "renk": "lacivert",
+      "etiket_alt": true,
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Ekranda aynı zaman diliminde iki ton görüyorsunuz.",
+    {
+     "yazi": "Mavi dalga 250 hertzdir; sekiz milisaniyede iki devir tamamlar ve her devri dört milisaniye sürer.",
+     "ses": "Mavi dalga iki yüz elli hertzdir; sekiz milisaniyede iki devir tamamlar ve her devri dört milisaniye sürer."
+    },
+    {
+     "yazi": "Lacivert dalga 500 hertzdir; aynı sürede dört devir tamamlar ve her devri iki milisaniye sürer.",
+     "ses": "Lacivert dalga beş yüz hertzdir; aynı sürede dört devir tamamlar ve her devri iki milisaniye sürer."
+    },
+    "Frekans iki katına çıkınca periyot yarıya iner; bu ilişki her frekansta geçerlidir.",
+    "İki tonun genliği aynıdır; aralarındaki fark yalnız salınımın hızındadır."
+   ]
+  },
+  {
+   "id": "dalga_boyu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dalga boyu",
+   "baslik": "Dalga boyu: *hız / frekans*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_boyu",
+     "metin": "Dalga boyu",
+     "cumle": 0
+    },
+    {
+     "parca": "periyot",
+     "metin": "Periyot",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_boyu",
+     "cumle": 0
+    },
+    {
+     "parca": "periyot",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dalga boyu = _hız / frekans_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1000 Hz havada: _yaklaşık 34 cm_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Dalga boyu (wavelength), bir sıkışmadan bir sonraki sıkışmaya kadar olan mesafedir.",
+    "Dalga boyu, sesin hızının frekansa bölünmesiyle bulunur.",
+    {
+     "yazi": "Örneğin havada bin hertzlik bir tonun dalga boyu, 343 bölü bin, yani yaklaşık 34 santimetredir.",
+     "ses": "Örneğin havada bin hertzlik bir tonun dalga boyu, üç yüz kırk üç bölü bin, yani yaklaşık otuz dört santimetredir."
+    },
+    "Yüksek frekanslı seslerin dalga boyu kısa, düşük frekanslı seslerin dalga boyu uzundur.",
+    "Ses bir periyot boyunca ne kadar yol alıyorsa dalga boyu odur; yani dalga boyu, hız ile periyodun çarpımıdır.",
+    "Çizimde aynı aralık, alttaki zaman ekseninde periyodu, üstteki molekül dizisinde ise dalga boyunu gösterir."
+   ]
+  },
+  {
+   "id": "dalga_tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dalga boyu",
+   "baslik": "Havada *dalga boyları*",
+   "sutunlar": [
+    "Frekans",
+    "Dalga boyu"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "20 Hz",
+      "yaklaşık 17 m"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "250 Hz",
+      "1,4 m"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "69 cm"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "34 cm"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "8,6 cm"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "4,3 cm"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "20.000 Hz",
+      "1,7 cm"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Tabloda yirmi derecelik havada bazı frekansların dalga boyları görülüyor.",
+    {
+     "yazi": "İşitme aralığının alt sınırındaki 20 hertzlik bir sesin dalga boyu yaklaşık on yedi metredir; bir binanın yüksekliği kadar.",
+     "ses": "İşitme aralığının alt sınırındaki yirmi hertzlik bir sesin dalga boyu yaklaşık on yedi metredir; bir binanın yüksekliği kadar."
+    },
+    {
+     "yazi": "250 hertzde dalga boyu yaklaşık 1,4 metre, 500 hertzde ise yaklaşık yetmiş santimetredir.",
+     "ses": "İki yüz elli hertzde dalga boyu yaklaşık bir virgül dört metre, beş yüz hertzde ise yaklaşık yetmiş santimetredir."
+    },
+    {
+     "yazi": "Bin hertzde yaklaşık 34 santimetre, 4000 hertzde ise yaklaşık dokuz santimetredir.",
+     "ses": "Bin hertzde yaklaşık otuz dört santimetre, dört bin hertzde ise yaklaşık dokuz santimetredir."
+    },
+    {
+     "yazi": "8000 hertzde dalga boyu yaklaşık dört santimetreye iner.",
+     "ses": "Sekiz bin hertzde dalga boyu yaklaşık dört santimetreye iner."
+    },
+    {
+     "yazi": "Üst sınırdaki 20 bin hertzlik bir sesin dalga boyu ise yaklaşık 1,7 santimetredir; bir parmak genişliği kadar.",
+     "ses": "Üst sınırdaki yirmi bin hertzlik bir sesin dalga boyu ise yaklaşık bir virgül yedi santimetredir; bir parmak genişliği kadar."
+    },
+    "Yani işitilebilir seslerin dalga boyları birkaç santimetreden onlarca metreye uzanır."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dalga boyu",
+   "baslik": "Dalga boyu *neden önemli?*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Kırınım",
+     "cumle": 1,
+     "metin": "Pes ses engeli dolaşır"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Baş gölgesi",
+     "cumle": 2,
+     "metin": "Tiz ses engellenir"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Kulak yolu",
+     "cumle": 3,
+     "metin": "Çeyrek dalga rezonansı"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Duran dalga",
+     "cumle": 5,
+     "metin": "Odada yansımalar"
+    }
+   ],
+   "cumleler": [
+    "Dalga boyu, sesin engellerle ve vücudumuzla nasıl etkileştiğini belirler.",
+    "Dalga boyu bir engelden çok daha uzun olan pes sesler engelin çevresinden kolayca dolaşır; buna kırınım (diffraction) denir.",
+    "Dalga boyu başın genişliğinden kısa olan tiz sesler ise baş tarafından engellenir ve karşı tarafta bir ses gölgesi oluşur.",
+    "Dış kulak yolu bir ucu kapalı bir boru gibidir ve dalga boyunun dörtte biri kanal uzunluğuna eşit olan seslerde rezonansa girer.",
+    {
+     "yazi": "Bu yüzden kulak yolu, gerçek kulaklarda yaklaşık 2500 ile 3000 hertz civarındaki sesleri doğal olarak güçlendirir.",
+     "ses": "Bu yüzden kulak yolu, gerçek kulaklarda yaklaşık iki bin beş yüz ile üç bin hertz civarındaki sesleri doğal olarak güçlendirir."
+    },
+    "Duvarlar arasında yansıyan sesler ise belli frekanslarda duran dalgalar (standing waves) oluşturabilir."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ortam ve frekans",
+   "baslik": "Ortam değişince *ne değişir?*",
+   "maddeler": [
+    {
+     "metin": "Frekans _değişmez_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Hız ve _dalga boyu_ değişir",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Suda 1000 Hz: yaklaşık _1,5 m_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Kulakta da frekans _korunur_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "1000 Hz TON",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Havada",
+      "cumle": 2,
+      "metin": "Dalga boyu 34 cm"
+     },
+     {
+      "ikon": "akinti",
+      "baslik": "Suda",
+      "cumle": 2,
+      "metin": "Dalga boyu 1,5 m"
+     }
+    ]
+   },
+   "cumleler": [
+    "Ses bir ortamdan diğerine geçtiğinde frekansı değişmez; çünkü frekansı kaynak belirler.",
+    "Değişen, sesin hızı ve buna bağlı olarak dalga boyudur.",
+    {
+     "yazi": "Örneğin suda ses yaklaşık dört kat hızlı olduğu için bin hertzlik bir tonun dalga boyu yaklaşık 1,5 metreye uzar.",
+     "ses": "Örneğin suda ses yaklaşık dört kat hızlı olduğu için bin hertzlik bir tonun dalga boyu yaklaşık bir virgül beş metreye uzar."
+    },
+    "Havanın sıcaklığı değiştiğinde de hız ve dalga boyu biraz değişir, frekans ise aynı kalır.",
+    "Kulakta titreşim havadan kemikçiklere ve sıvıya geçer, ama frekansı korunur; koklea bu frekansa göre uyarılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinik ipucu",
+   "metin": "Hoparlörle testte saf ton yerine frekans modülasyonlu ton ya da dar bant gürültü kullanın. Saf ton odada duran dalga oluşturur; baş biraz oynayınca düzey değişebilir.",
+   "cumleler": [
+    "Serbest alan testinde işe yarayan bir ipucu: hoparlörden saf ton yerine frekans modülasyonlu ton ya da dar bant gürültü verin.",
+    "Saf ton odanın duvarlarından yansıyarak duran dalgalar oluşturabilir.",
+    "Bu durumda hastanın başı birkaç santimetre hareket etse bile kulağa ulaşan düzey belirgin biçimde değişebilir.",
+    "Frekansı hafifçe salınan ton bu etkiyi azaltır ve daha güvenilir eşikler sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Frekans: saniyedeki devir, _hertz_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İşitme aralığı: _20 Hz ile 20 kHz_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Periyot: _1 / frekans_",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Dalga boyu: _hız / frekans_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Frekans, saniyedeki devir sayısıdır ve hertz ile ölçülür; perde algısıyla ilişkilidir.",
+    {
+     "yazi": "Genç bir insan kulağı yaklaşık 20 hertz ile 20 bin hertz arasını duyar; odyometride 250 ile 8000 hertz test edilir.",
+     "ses": "Genç bir insan kulağı yaklaşık yirmi hertz ile yirmi bin hertz arasını duyar; odyometride iki yüz elli ile sekiz bin hertz test edilir."
+    },
+    "Periyot bir devrin süresidir ve frekansın tersidir: bin hertzde bir milisaniye.",
+    {
+     "yazi": "Dalga boyu sesin hızının frekansa bölümüdür: havada bin hertzde yaklaşık 34 santimetre.",
+     "ses": "Dalga boyu sesin hızının frekansa bölümüdür: havada bin hertzde yaklaşık otuz dört santimetre."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Havada 1000 Hz tonun dalga boyu yaklaşık nedir?",
+   "secenekler": [
+    "3,4 cm",
+    "34 cm",
+    "3,4 m",
+    "34 m"
+   ],
+   "dogru": 1,
+   "aciklama": "Dalga boyu = hız / frekans: _343 / 1000 = 0,34 m_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: yirmi derecelik havada bin hertzlik bir tonun dalga boyu yaklaşık ne kadardır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: yaklaşık 34 santimetre.",
+     "ses": "Doğru cevap B: yaklaşık otuz dört santimetre."
+    },
+    {
+     "yazi": "Dalga boyu hızın frekansa bölümüdür: saniyede 343 metre bölü bin hertz.",
+     "ses": "Dalga boyu hızın frekansa bölümüdür: saniyede üç yüz kırk üç metre bölü bin hertz."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Genlik, ses basıncı ve *şiddet*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste sesin gücünü konuşacağız: genlik, ses basıncı, şiddet ve ters kare yasası.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

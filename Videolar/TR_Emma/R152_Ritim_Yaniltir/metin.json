@@ -1,0 +1,104 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R152_Ritim_Yaniltir_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #152",
+  "baslik": "Ritim *yanıltır*",
+  "alt": "Düzenli tonlar yanlış pozitif yanıta yol açar",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İşitme testinde sesleri düzenli bir ritimle vermek neden hatadır? #shorts",
+  "aciklama": "Tonları düzenli bir ritimle vermek, hastanın sıradaki sesi tahmin etmesine yol açar ve yanlış pozitif yanıtlara neden olur. Yanlış pozitif yanıtlar eşiği olduğundan daha iyi gösterir; bu yüzden tonlar arasındaki sessiz aralıklar düzensiz tutulur.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "odyometri",
+   "işitme"
+  ],
+  "etiketler": [
+   "yanlış pozitif yanıt",
+   "false positive",
+   "saf ses odyometrisi",
+   "eşik",
+   "odyometri hataları",
+   "işitme testi",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İşitme testinde sesleri düzenli bir ritimle vermek neden hatadır?",
+  "bilgiler": [
+   "Ses verilmediği halde gelen yanıta yanlış pozitif yanıt denir.",
+   "Düzenli ritim, hastanın sıradaki sesi tahmin etmesine yol açar.",
+   "Bu yüzden sessiz aralıklar düzensiz tutulur."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "işitme"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #152",
+   "metin": "Düzenli *ritim* neden hata?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İşitme testinde sesleri düzenli bir ritimle vermek neden hatadır?"
+   ]
+  },
+  {
+   "id": "ritim",
+   "tur": "zincir",
+   "baslik": "*Ritim* yanıltır",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Düzenli ritim",
+     "tr": "tahmin edilir",
+     "cumle": 0
+    },
+    {
+     "ad": "Yanlış pozitif",
+     "tr": "ses yokken yanıt",
+     "cumle": 1
+    },
+    {
+     "ad": "Eşik",
+     "tr": "olduğundan iyi",
+     "cumle": 2
+    }
+   ],
+   "alt": "Sessiz aralıklar _düzensiz_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Tonları düzenli ritimle vermek, hastanın sıradaki sesi tahmin etmesine yol açar.",
+    "Ses verilmediği halde gelen bu yanıta yanlış pozitif yanıt denir.",
+    "Yanlış pozitif yanıtlar eşiği olduğundan daha iyi gösterir.",
+    "Bu yüzden tonlar arasındaki sessiz aralıklar düzensiz tutulur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D064",
+ "kaynak_baslik": "Saf ses odyometrisinde sık yapılan hatalar"
+}

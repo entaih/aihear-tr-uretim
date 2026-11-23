@@ -1,0 +1,711 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D054_Nistagmus_TR",
+ "kapak": {
+  "ust": "DERS 54",
+  "baslik": "*Nistagmus*<br>nedir?",
+  "alt": "Yavaş faz, hızlı faz, Alexander yasası",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Nistagmus Nedir? Yavaş Faz ve Hızlı Faz | Ders 54 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Nistagmus, gözlerin istemsiz ve ritmik hareketidir; vestibüler nistagmusta yavaş faz vestibüler kaymayı, hızlı faz ise düzeltici sıçramayı gösterir. Bu derste yönün nasıl adlandırıldığını, Alexander yasasını, yavaş faz hızını (SPV), periferik ve santral örüntüleri, nistagmus türlerini ve kayıt yöntemlerini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Leigh ve Zee, The Neurology of Eye Movements; Jacobson ve Shepard, Balance Function Assessment and Management; McCaslin, Electronystagmography/Videonystagmography; Herdman ve Clendaniel, Vestibular Rehabilitation.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vestibüler",
+   "nistagmus"
+  ],
+  "etiketler": [
+   "nistagmus",
+   "nystagmus",
+   "yavaş faz",
+   "hızlı faz",
+   "yavaş faz hızı",
+   "slow phase velocity",
+   "Alexander yasası",
+   "spontan nistagmus",
+   "VNG",
+   "Frenzel gözlüğü",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 54",
+   "baslik": "*Nistagmus* nedir?",
+   "alt": "Yavaş faz, hızlı faz ve Alexander yasası",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste vestibüler değerlendirmenin en önemli bulgusu olan nistagmusu öğreneceğiz.",
+    {
+     "yazi": "Yavaş ve hızlı fazı, yönün nasıl adlandırıldığını, Alexander yasasını ve yavaş faz hızını adım adım göreceğiz.",
+     "ses": "Yavaş ve hızlı fazı, yönün nasıl adlandırıldığını, Aleksander yasasını ve yavaş faz hızını adım adım göreceğiz."
+    }
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Nistagmusun yapısı",
+   "baslik": "*Nistagmus* nedir?",
+   "maddeler": [
+    {
+     "metin": "İstemsiz, _ritmik_ göz hareketi",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yavaş faz: gözün _kayması_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hızlı faz: _geri sıçrama_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sarkaç tipi: iki faz _eşit_",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 0,
+    "ayar": {
+     "yon": "sag",
+     "yavas_cumle": 2,
+     "hizli_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "iz",
+      "cumle": 1
+     },
+     {
+      "parca": "yavas_faz",
+      "cumle": 2
+     },
+     {
+      "parca": "hizli_faz",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Nistagmus (nystagmus), gözlerin istemsiz ve ritmik olarak ileri geri hareket etmesidir.",
+    "Vestibüler kaynaklı nistagmusta her vuruş iki bölümden oluşur.",
+    "Önce göz bir yöne doğru yavaşça kayar; buna yavaş faz denir.",
+    "Ardından göz hızlı bir sıçramayla geri döner; buna hızlı faz denir.",
+    "Bu iki fazlı nistagmusa sıçramalı nistagmus (jerk nystagmus) da denir.",
+    {
+     "yazi": "İki fazın hızı eşitse ve göz sarkaç gibi salınıyorsa sarkaç tipi (pendular) nistagmus denir; bu tip genellikle vestibüler değildir.",
+     "ses": "İki fazın hızı eşitse ve göz sarkaç gibi salınıyorsa sarkaç tipi nistagmus denir; bu tip genellikle vestibüler değildir."
+    }
+   ]
+  },
+  {
+   "id": "fazlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Nistagmusun yapısı",
+   "baslik": "Hangi faz *nereden* gelir?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Yavaş faz",
+     "metin": "Vestibüler dengesizlikten",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "VOR yolu",
+     "metin": "Gözleri karşı yöne kaydırır",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ölçüm",
+     "metin": "Bu fazda yapılır",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Hızlı faz",
+     "metin": "Beyin sapı sakkad merkezleri",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Düzeltme",
+     "metin": "Gözü ortaya geri getirir",
+     "cumle": 4
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Adlandırma",
+     "metin": "Yön hızlı faza göre",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Yavaş faz, iki labirent arasındaki dengesizlikten ya da bir vestibüler uyarandan kaynaklanır.",
+    "Beyin bu dengesizliği baş dönüyormuş gibi yorumlar ve vestibülo-oküler refleks, yani VOR yolu gözleri karşı yöne kaydırır.",
+    "Bu yüzden yavaş faz nistagmusun vestibüler bileşenidir ve ölçümler bu faz üzerinden yapılır.",
+    "Hızlı faz ise beyin sapındaki sakkad merkezlerinin ürettiği düzeltici bir sıçramadır.",
+    "Görevi kayan gözü yeniden orta konuma getirmektir; böylece göz kenarda takılı kalmaz.",
+    "Hızlı faz gözle daha kolay seçildiği için nistagmusun yönü hızlı faza göre adlandırılır."
+   ]
+  },
+  {
+   "id": "yon",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Nistagmusun yapısı",
+   "baslik": "Yön *nasıl* adlandırılır?",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Sağa vuran",
+     "metin": "Hızlı faz sağa",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Yukarı vuran",
+     "metin": "Hızlı faz yukarı",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Aşağı vuran",
+     "metin": "Hızlı faz aşağı",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Torsiyonel",
+     "metin": "Göz ekseni etrafında",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yön değiştiren",
+     "metin": "Bakışa, pozisyona göre değişir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Nistagmusun yönü her zaman hızlı fazın yönüyle söylenir.",
+    "Örneğin yavaş faz sola, hızlı faz sağa doğruysa buna sağa vuran nistagmus denir.",
+    "Dikey düzlemde hızlı faz yukarı ya da aşağı doğruysa yukarı vuran ya da aşağı vuran nistagmus denir.",
+    "Göz kendi ekseni etrafında dönüyorsa torsiyonel nistagmustan söz edilir; yön, gözün üst kutbunun döndüğü tarafa göre belirtilir.",
+    "Birçok nistagmus karışıktır; örneğin periferik kayıplarda yatay ve torsiyonel bileşen birlikte görülür.",
+    "Bakış yönüne ya da baş pozisyonuna göre yönü değişen nistagmusa yön değiştiren nistagmus denir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Nistagmusun yapısı",
+   "baslik": "Örnek: *akut* tek taraflı kayıp",
+   "adimlar": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Sol labirent",
+     "metin": "İşlevi aniden azalır",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Beyin yorumu",
+     "metin": "Baş sağa dönüyor sanır",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Yavaş faz",
+     "metin": "Gözler sola, kayıplı tarafa",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Hızlı faz",
+     "metin": "Sağa vuran nistagmus",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Şimdi bir örnek düşünelim: sol labirentin işlevi aniden azalıyor.",
+    "Sağ taraf daha etkin kaldığı için beyin bu durumu baş sağa dönüyormuş gibi algılar.",
+    "VOR gözleri yavaşça sola, yani kayıplı tarafa doğru kaydırır.",
+    "Hızlı faz ise gözü sağa geri getirir; sonuç sağa, yani sağlam kulağa vuran bir nistagmustur.",
+    "Akut ve yıkıcı tek taraflı periferik kayıplarda nistagmus genellikle sağlam tarafa vurur.",
+    "Meniere atağının başlangıcı gibi uyarıcı durumlarda ise kısa süre etkilenen tarafa vuran nistagmus görülebilir."
+   ]
+  },
+  {
+   "id": "alexander",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Alexander yasası ve hız",
+   "baslik": "*Alexander* yasası",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Birinci derece",
+     "metin": "En hafif; hızlı faz yönüne bakışta",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "İkinci derece",
+     "metin": "Orta; ortaya bakışta da",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Üçüncü derece",
+     "metin": "En şiddetli; her bakış yönünde",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Alexander yasasına (Alexander's law) göre periferik vestibüler nistagmus, hızlı fazın yönüne bakıldığında artar.",
+     "ses": "Aleksander yasasına göre periferik vestibüler nistagmus, hızlı fazın yönüne bakıldığında artar."
+    },
+    "Ters yöne, yani yavaş fazın yönüne bakıldığında ise azalır ya da kaybolur.",
+    "Nistagmus yalnız hızlı faz yönüne bakışta görülüyorsa birinci derece nistagmus denir.",
+    "Ortaya bakışta da görülüyorsa ikinci derece, yavaş faz yönüne bakışta bile sürüyorsa üçüncü derece nistagmus denir.",
+    "Akut dönemde üçüncü derece görülen bir nistagmus, kompanzasyonla zamanla birinci dereceye gerileyebilir.",
+    "Bakışa bağlı bu değişim, periferik nistagmusun tipik özelliklerinden biridir."
+   ]
+  },
+  {
+   "id": "spv",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Alexander yasası ve hız",
+   "baslik": "*Yavaş faz* hızı",
+   "maddeler": [
+    {
+     "metin": "Ölçü: yavaş fazın _eğimi_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Birim: _derece bölü saniye_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Kalorik ve pozisyonel testlerde _kullanılır_",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Normal sınır _laboratuvara_ göre",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SPV",
+    "metin": "Gözün yavaş fazda *derece bölü saniye* hızı",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Nistagmusun şiddeti yavaş faz hızı (slow phase velocity), kısaca SPV ile ölçülür.",
+    "Yavaş fazda gözün saniyede kaç derece kaydığı hesaplanır; birim derece bölü saniyedir.",
+    "Video kayıtta yazılım her vuruşun yavaş faz eğimini otomatik olarak ölçer.",
+    "Kalorik testte tek taraflı zayıflık hesabı, pozisyonel testlerde de yanıtın büyüklüğü bu değere dayanır.",
+    "Fiksasyonsuz koşulda saniyede birkaç derecenin altındaki kendiliğinden nistagmus, birçok laboratuvarda önemsiz kabul edilebilir.",
+    "Sınır değer laboratuvara göre değiştiği için yorum yerel normlarla yapılır."
+   ]
+  },
+  {
+   "id": "periferik_santral",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Alexander yasası ve hız",
+   "baslik": "Periferik mi, *santral* mi?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Yön",
+     "metin": "Saf dikey, saf torsiyonel: santral",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Fiksasyon",
+     "metin": "Periferik azalır, santral azalmayabilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Bakış yönü",
+     "metin": "Yön değişirse santral düşün",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Alexander yasası",
+     "metin": "Periferik uyar, santral uymayabilir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Nistagmusun özellikleri, periferik ve santral kaynaklı örüntüleri ayırt etmeye yardım eder.",
+    "Periferik nistagmus çoğunlukla yatay ve torsiyoneldir; saf dikey ya da saf torsiyonel nistagmus santral nedenleri düşündürür.",
+    "Periferik nistagmus görsel fiksasyonla belirgin biçimde azalır; santral nistagmus azalmayabilir.",
+    "Periferik nistagmusun yönü bakışla değişmez; bakış yönüne göre yön değiştiren nistagmus santral açıdan önemlidir.",
+    {
+     "yazi": "Periferik nistagmus Alexander yasasına uyar; santral nistagmus bu düzeni göstermeyebilir.",
+     "ses": "Periferik nistagmus Aleksander yasasına uyar; santral nistagmus bu düzeni göstermeyebilir."
+    },
+    "Bu örüntüler yalnız yol göstericidir; santral örüntü düşündüren bulgular gecikmeden hekime iletilir."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Türler ve kayıt",
+   "baslik": "Nistagmus *türleri*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Kendiliğinden",
+     "metin": "Uyaransız, dik otururken",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Bakışa bağlı",
+     "metin": "Yana, yukarı, aşağı bakışta",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Pozisyonel",
+     "metin": "Baş pozisyonu değişince",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kalorik",
+     "metin": "Kulağa ısı uyaranıyla",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Optokinetik",
+     "metin": "Hareketli görüntü izlerken",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Uç nokta",
+     "metin": "Aşırı yana bakışta",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Nistagmus, ortaya çıktığı koşula göre adlandırılır.",
+    "Kendiliğinden nistagmus (spontaneous nystagmus), kişi dik otururken herhangi bir uyaran olmadan görülür.",
+    "Bakışa bağlı nistagmus ise yalnız yana, yukarı ya da aşağı bakışta ortaya çıkar.",
+    "Pozisyonel nistagmus baş pozisyonu değiştiğinde, kalorik nistagmus ise kulağa sıcak ya da soğuk uyaran verildiğinde oluşur.",
+    "Optokinetik nistagmus, örneğin trenden dışarı bakarken oluşan normal ve fizyolojik bir yanıttır.",
+    "Çok kenara bakışta görülen birkaç vuruşluk, simetrik uç nokta nistagmusu da genellikle normal kabul edilir."
+   ]
+  },
+  {
+   "id": "infantil",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Türler ve kayıt",
+   "baslik": "Doğuştan *nistagmus*",
+   "maddeler": [
+    {
+     "metin": "Bebeklikte _başlar_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Çoğu zaman _osilopsi_ yok",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Belirli bakışta azalır: _nötr nokta_",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Vestibüler _değildir_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NÖTR NOKTA",
+    "metin": "Nistagmusun *en az* olduğu bakış yönü",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Bazı kişilerde nistagmus bebeklikte başlar; buna doğuştan ya da infantil nistagmus denir.",
+    "Bu kişiler çoğu zaman görüntünün sallandığını, yani osilopsiyi tarif etmez.",
+    {
+     "yazi": "Nistagmusun en az olduğu bir bakış yönü bulunabilir; buna nötr nokta (null point) denir ve kişi başını bu yöne çevirerek bakabilir.",
+     "ses": "Nistagmusun en az olduğu bir bakış yönü bulunabilir; buna nötr nokta denir ve kişi başını bu yöne çevirerek bakabilir."
+    },
+    "Yakına bakarken gözlerin birbirine yaklaşmasıyla nistagmus azalabilir.",
+    "Bu nistagmus vestibüler değildir; kayıtta fark edilip not edilmesi yanlış yorumları önler."
+   ]
+  },
+  {
+   "id": "fiksasyon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Türler ve kayıt",
+   "baslik": "Fiksasyon neden *önemli?*",
+   "maddeler": [
+    {
+     "metin": "Fiksasyon periferik nistagmusu _baskılar_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Aydınlıkta hafif nistagmus _gizlenebilir_",
+     "cumle": 2,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Video gözlük fiksasyonu _kaldırır_",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Fiksasyonla azalma _not edilir_",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FİKSASYON",
+    "metin": "Gözü sabitlemek periferik nistagmusu *gizleyebilir*",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Periferik vestibüler nistagmus, gözün bir noktaya sabitlenmesiyle, yani görsel fiksasyonla baskılanır.",
+    "Bu baskılamayı büyük ölçüde beyincik sağlar.",
+    "Bu yüzden hafif bir periferik nistagmus aydınlık odada çıplak gözle görülmeyebilir.",
+    "Frenzel gözlüğü ya da karanlıkta kayıt yapan video gözlük, fiksasyonu ortadan kaldırarak bu nistagmusu ortaya çıkarır.",
+    "Nistagmusun fiksasyonla ne kadar azaldığı da ayrıca not edilir; hiç azalmaması santral yönden önemlidir."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Türler ve kayıt",
+   "baslik": "Nistagmus nasıl *izlenir?*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Frenzel gözlüğü",
+     "metin": "Ucuz, hızlı, yatak başı; kayıt yok",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "VNG",
+     "metin": "Kayıt, otomatik SPV; gözler açık",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "ENG",
+     "metin": "Gözler kapalı kayıt; torsiyon yok",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Nistagmus farklı yöntemlerle izlenebilir; her birinin kendine göre avantajı vardır.",
+    "Frenzel gözlüğü büyüten ve aydınlatılmış camlarıyla fiksasyonu azaltır ve gözü büyütür; hızlı bir yatak başı yöntemdir.",
+    "Ancak Frenzel gözlüğüyle kayıt ve sayısal ölçüm yapılamaz.",
+    "Videonistagmografi, kısaca VNG, kızılötesi kameralarla gözü karanlıkta kaydeder ve yavaş faz hızını otomatik ölçer.",
+    "Elektronistagmografi, kısaca ENG, elektrotlarla ölçer; gözler kapalıyken de kayıt alır ama torsiyonel hareketi gösteremez.",
+    "Günümüzde vestibüler laboratuvarlarda VNG yaygındır; ENG büyük ölçüde yerini VNG'ye bırakmıştır."
+   ]
+  },
+  {
+   "id": "iz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Türler ve kayıt",
+   "baslik": "Kayıtta *nistagmus* izi",
+   "maddeler": [
+    {
+     "metin": "Sağa ve yukarı hareket: iz _yukarı_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Testere dişi_ görünümü",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Eğik bölüm: _yavaş faz_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Dik bölüm: _hızlı faz_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 0,
+    "ayar": {
+     "yon": "sag",
+     "baslik": "VNG yatay izi",
+     "yavas_cumle": 3,
+     "hizli_cumle": 3
+    },
+    "etiketler": [
+     {
+      "parca": "yavas_faz",
+      "metin": "Eğik: yavaş faz",
+      "cumle": 3
+     },
+     {
+      "parca": "hizli_faz",
+      "metin": "Dik: hızlı faz",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "iz",
+      "cumle": 2
+     },
+     {
+      "parca": "yon",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "VNG ekranında yatay ve dikey göz hareketleri, zamana karşı ayrı izler olarak çizilir.",
+    "Genel kurala göre sağa ve yukarı göz hareketleri izde yukarı, sola ve aşağı hareketler aşağı doğru çizilir.",
+    "Nistagmus bu izlerde testere dişine benzeyen bir görünüm oluşturur.",
+    "Eğik ve uzun bölüm yavaş fazı, dik ve kısa bölüm hızlı fazı gösterir.",
+    "Yatay izde dik bölümler yukarı doğruysa, bu sağa vuran bir nistagmus demektir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Türler ve kayıt",
+   "baslik": "Klinik ipucu",
+   "metin": "Kendiliğinden nistagmusu her zaman pozisyonel ve kalorik testlerden önce, fiksasyonlu ve fiksasyonsuz kaydedin. Bu taban değer, sonraki yanıtların doğru yorumlanmasını sağlar.",
+   "cumleler": [
+    "Bir klinik ipucu: vestibüler test bataryasına her zaman kendiliğinden nistagmusu kaydederek başlayın.",
+    "Kaydı önce fiksasyonla, sonra fiksasyonu kaldırarak alın ve yavaş faz hızını not edin.",
+    "Kendiliğinden bir nistagmus varsa, pozisyonel ve kalorik yanıtlar bu taban değere göre yorumlanır.",
+    "Bu adım atlanırsa var olan bir nistagmus yanlışlıkla pozisyonel ya da kalorik bir yanıt sanılabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Yavaş faz _vestibüler_, hızlı faz düzeltici",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yön _hızlı faza_ göre adlandırılır",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Alexander_: hızlı faz yönüne bakışta artar",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Şiddet: _yavaş faz hızı_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Vestibüler nistagmusta yavaş faz vestibüler kaymayı, hızlı faz ise beyin sapının düzeltici sıçramasını gösterir.",
+    "Nistagmusun yönü hızlı faza göre adlandırılır; akut tek taraflı kayıpta genellikle sağlam tarafa vurur.",
+    {
+     "yazi": "Alexander yasasına göre periferik nistagmus, hızlı faz yönüne bakışta artar.",
+     "ses": "Aleksander yasasına göre periferik nistagmus, hızlı faz yönüne bakışta artar."
+    },
+    "Nistagmusun şiddeti yavaş faz hızıyla, yani derece bölü saniye cinsinden ölçülür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Sol labirentte akut kayıp var. Nistagmus genellikle hangi yöne vurur?",
+   "secenekler": [
+    "Sola",
+    "Sağa",
+    "Yukarı",
+    "Aşağı"
+   ],
+   "dogru": 1,
+   "aciklama": "Yavaş faz kayıplı tarafa doğrudur; _hızlı faz_ sağlam tarafa vurur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sol labirentte akut bir kayıp var. Nistagmus genellikle hangi yöne vurur?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: sağa, yani sağlam kulağa.",
+     "ses": "Doğru cevap be: sağa, yani sağlam kulağa."
+    },
+    "Yavaş faz kayıplı tarafa doğrudur; düzeltici hızlı faz sağlam tarafa vurur ve yön hızlı faza göre adlandırılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Otoskopi* nedir, nasıl yapılır?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste klinik uygulamaya geçiyor ve otoskopinin nasıl yapıldığını öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,784 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D018_Timpanik_Membran_TR",
+ "kapak": {
+  "ust": "DERS 18",
+  "baslik": "*Timpanik*<br>membran",
+  "alt": "Timpanik membranın yapısı ve işaret noktaları",
+  "cizim": "orta_kulak"
+ },
+ "youtube": {
+  "baslik": "Timpanik Membran: Kulak Zarının Yapısı ve İşaret Noktaları | Ders 18 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Timpanik membranın, yani kulak zarının konumunu, pars tensa ve pars flaccida bölümlerini ve üç tabakalı yapısını anlatıyoruz. Otoskopide umbo, manubrium mallei ve ışık üçgeni gibi işaret noktalarını ve bunların klinik önemini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gelfand, Essentials of Audiology; Zemlin, Speech and Hearing Science: Anatomy and Physiology; Seikel, King ve Drumright, Anatomy and Physiology for Speech, Language, and Hearing; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kulakzarı",
+   "anatomi"
+  ],
+  "etiketler": [
+   "timpanik membran",
+   "kulak zarı",
+   "tympanic membrane",
+   "pars tensa",
+   "pars flaccida",
+   "Shrapnell membranı",
+   "umbo",
+   "ışık üçgeni",
+   "otoskopi",
+   "kulak anatomisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 18",
+   "baslik": "*Timpanik membran*",
+   "alt": "Timpanik membranın yapısı ve işaret noktaları",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste dış kulak ile orta kulak arasındaki ince sınırı, timpanik membranı, yani kulak zarını tanıyacağız.",
+    "Bölümlerini, üç tabakalı yapısını ve otoskopta gördüğümüz işaret noktalarını öğreneceğiz."
+   ]
+  },
+  {
+   "id": "konum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konum ve şekil",
+   "baslik": "Timpanik membran *nerede?*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Dış kulak yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Timpanik membran (kulak zarı)",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Orta kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "malleus",
+     "metin": "Malleus (çekiç)",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Dış kulak yolunun iç ucunda, dış kulağı orta kulaktan ayıran ince bir zar bulunur.",
+    "Bu yapı timpanik membrandır.",
+    "Timpanik membranın dış yüzü dış kulak yoluna, iç yüzü hava dolu orta kulak boşluğuna bakar.",
+    "Zar dik durmaz; dış kulak yolunun tabanıyla yaklaşık elli beş derecelik eğik bir açı yapar.",
+    "Yenidoğanlarda zar daha yatay konumdadır; bu, bebeklerde otoskopik muayeneyi zorlaştırır.",
+    "Zarın iç yüzüne ilk kemikçik olan malleus, yani çekiç sıkıca tutunmuştur.",
+    "Bu bağlantı sayesinde zarın titreşimi doğrudan kemikçik zincirine aktarılır."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1,
+     "olcek": 2.4
+    }
+   ]
+  },
+  {
+   "id": "sekil",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konum ve şekil",
+   "baslik": "Boyut ve *şekil*",
+   "maddeler": [
+    {
+     "metin": "Çap: yaklaşık _8 ile 10 mm_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kalınlık: yaklaşık _0,1 mm_",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Sığ bir _koni_, ortası içe çekik",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Renk: _inci grisi_, yarı saydam",
+     "cumle": 4,
+     "ikon": "otoskop"
+    }
+   ],
+   "cumleler": [
+    "Timpanik membran yaklaşık sekiz ile on milimetre çapında, hafif oval bir zardır.",
+    "Kalınlığı yalnız yaklaşık sıfır virgül bir milimetredir.",
+    "Düz değil, ortası içe çekik sığ bir koni şeklindedir; koninin tepesi orta kulağa doğru bakar.",
+    "Bu koni şekli, zarın titreşimi daha verimli iletmesine katkıda bulunur.",
+    "Sağlıklı bir zar otoskopta inci grisi renkte ve yarı saydam görünür.",
+    "Saydamlık sayesinde bazen zarın arkasındaki orta kulak yapıları da seçilebilir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "Timpanik membran",
+      "cumle": 0
+     }
+    ]
+   }
+  },
+  {
+   "id": "bolumler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Pars tensa ve pars flaccida",
+   "baslik": "İki bölüm: *tensa* ve flaccida",
+   "maddeler": [
+    {
+     "metin": "_Pars tensa_ (gergin bölüm): büyük, alt",
+     "cumle": 0
+    },
+    {
+     "metin": "_Pars flaccida_ (gevşek bölüm): küçük, üst",
+     "cumle": 2
+    },
+    {
+     "metin": "Diğer adı: _Shrapnell membranı_",
+     "cumle": 3
+    },
+    {
+     "metin": "Sınır: _malleolar plikalar_",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Timpanik membran iki bölümden oluşur; büyük kısmı pars tensa, yani gergin bölümdür.",
+    "Pars tensa zarın büyük kısmını oluşturur ve sesi ileten asıl titreşim yüzeyidir.",
+    "Üst kısımdaki küçük bölüm ise pars flaccida, yani gevşek bölümdür.",
+    "Pars flaccida, onu tanımlayan anatomistin adıyla Shrapnell membranı olarak da bilinir.",
+    "İki bölüm arasındaki sınırı, malleusun yan çıkıntısından öne ve arkaya uzanan malleolar plikalar oluşturur.",
+    "Pars flaccida daha gevşektir; çünkü orta tabakasındaki lifler düzenli bir yapı oluşturmaz."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "malleus",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "Timpanik membran",
+      "cumle": 0
+     },
+     {
+      "parca": "malleus",
+      "metin": "Malleus",
+      "cumle": 4
+     }
+    ]
+   }
+  },
+  {
+   "id": "anulus",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Pars tensa ve pars flaccida",
+   "baslik": "Zarın *çerçevesi*",
+   "maddeler": [
+    {
+     "metin": "_Anulus_ (zar halkası): fibrokartilaj kenar",
+     "cumle": 0
+    },
+    {
+     "metin": "Timpanik oluğa _oturur_",
+     "cumle": 1
+    },
+    {
+     "metin": "Üstte: _Rivinus çentiği_",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Pars tensanın kenarı kalınlaşarak fibrokartilaj bir halka oluşturur; buna anulus, yani zar halkası denir.",
+    "Anulus, temporal kemikteki timpanik oluğa oturur ve zarı yerinde tutar.",
+    "Üst bölümde bu oluk ve halka kesintiye uğrar; bu açıklığa Rivinus çentiği denir.",
+    "Pars flaccida tam bu çentik bölgesinde, halka olmadan doğrudan kemiğe tutunur.",
+    "Bu yapısal fark, iki bölümün hastalıklarda farklı davranmasının nedenlerinden biridir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "timpanik_membran",
+     "cumle": 0,
+     "olcek": 2.6
+    },
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "temporal_kemik",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "Timpanik membran",
+      "cumle": 0
+     },
+     {
+      "parca": "temporal_kemik",
+      "metin": "Temporal kemik",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "tabakalar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Üç tabakalı yapı",
+   "baslik": "Üç *tabaka*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Dış: epidermal",
+     "metin": "Yassı epitel, kulak yolu derisi",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Orta: fibröz",
+     "metin": "Işınsal ve dairesel lifler",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İç: mukozal",
+     "metin": "Orta kulak mukozasının devamı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Timpanik membran, çok ince olmasına rağmen üç tabakadan oluşur.",
+    "Dış tabaka, dış kulak yolu derisinin devamı olan çok katlı yassı epiteldir.",
+    "Orta tabaka, lamina propria olarak da adlandırılan lifli tabakadır; burada ışınsal ve dairesel kollajen lifler bulunur.",
+    "Bu lifler zara hem gerginlik hem de dayanıklılık kazandırır; pars flaccidada ise düzenli değildir.",
+    "İç tabaka, orta kulak boşluğunu döşeyen mukozanın devamıdır.",
+    "Embriyolojik olarak bu üç tabaka üç farklı germ yaprağından köken alır: ektoderm, mezoderm ve endoderm."
+   ]
+  },
+  {
+   "id": "goc",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Üç tabakalı yapı",
+   "baslik": "Kendini yenileyen *zar*",
+   "maddeler": [
+    {
+     "metin": "Epitel _merkezden dışa_ göç eder",
+     "cumle": 0
+    },
+    {
+     "metin": "Döküntü _dışarı_ taşınır",
+     "cumle": 1
+    },
+    {
+     "metin": "Küçük delikler _kendiliğinden_ kapanabilir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Dış tabakanın ilginç bir özelliği vardır: epitel hücreleri umbo bölgesinden kenarlara doğru göç eder.",
+    "Bu göç dış kulak yolu boyunca devam eder ve döküntüleri dışarı taşır; böylece kulak yolu kendini temizler.",
+    "Kulak kirinin doğal yolla dışarı taşınmasında da bu göçün önemli payı vardır.",
+    "Aynı yenilenme yeteneği sayesinde küçük travmatik delikler çoğu zaman kendiliğinden kapanabilir.",
+    "Ancak iyileşen bölgede orta tabaka tam yenilenmeyebilir; bu bölge daha ince kalır ve atrofik bölge olarak tanımlanır."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "Timpanik membran",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Dış kulak yolu",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "isaret_noktalari",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İşaret noktaları",
+   "baslik": "Otoskopta *işaret noktaları*",
+   "cizim": "kulak_zari_otoskopik",
+   "etiketler": [
+    {
+     "parca": "pars_tensa",
+     "metin": "Pars tensa",
+     "cumle": 0
+    },
+    {
+     "parca": "manubrium",
+     "metin": "Manubrium mallei (çekiç sapı)",
+     "cumle": 1
+    },
+    {
+     "parca": "umbo",
+     "metin": "Umbo",
+     "cumle": 2
+    },
+    {
+     "parca": "processus_lateralis",
+     "metin": "Processus lateralis",
+     "cumle": 3
+    },
+    {
+     "parca": "pars_flaccida",
+     "metin": "Pars flaccida",
+     "cumle": 4
+    },
+    {
+     "parca": "isik_ucgeni",
+     "metin": "Işık üçgeni",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "pars_tensa",
+     "cumle": 0
+    },
+    {
+     "parca": "manubrium",
+     "cumle": 1
+    },
+    {
+     "parca": "umbo",
+     "cumle": 2
+    },
+    {
+     "parca": "processus_lateralis",
+     "cumle": 3
+    },
+    {
+     "parca": "pars_flaccida",
+     "cumle": 4
+    },
+    {
+     "parca": "on_alt_kadran",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Umbo: zarın en çökük noktası",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Processus lateralis: üstte küçük kabarıklık",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Işık üçgeni: ön alt kadran",
+     "cumle": 5,
+     "ikon": "ampul"
+    }
+   ],
+   "cumleler": [
+    "Otoskopla baktığımızda zarın üzerinde bazı sabit işaret noktaları görürüz.",
+    "En belirgini, zarın ortasından yukarı ve öne doğru uzanan malleus sapıdır; buna manubrium mallei, yani çekiç sapı denir.",
+    "Manubriumun alt ucu, zarın en çökük noktası olan umbo, yani zar göbeğidir.",
+    "Manubriumun üst ucunda küçük, beyaz bir kabarıklık görülür; bu, processus lateralis, yani yan çıkıntıdır.",
+    "Processus lateralisin hemen üstündeki bölge pars flaccidadır.",
+    "Umbodan aşağı ve öne doğru yayılan parlak bir yansıma da görülür; buna ışık üçgeni ya da ışık refleksi denir."
+   ],
+   "ayar": {
+    "kadranlar": true,
+    "kadran_cumle": 5
+   }
+  },
+  {
+   "id": "kadranlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İşaret noktaları",
+   "baslik": "Dört *kadran*",
+   "ogeler": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Ön üst",
+     "cumle": 1
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Ön alt",
+     "metin": "Işık üçgeni burada",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Arka üst",
+     "metin": "Incus ve stapes seçilebilir",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Arka alt",
+     "metin": "Örnek: santral perforasyon",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Zarı tarif ederken onu dört kadrana ayırırız.",
+    "Manubrium boyunca bir çizgi ve umbodan ona dik ikinci bir çizgi, zarı dört kadrana böler.",
+    "Işık üçgeni normalde ön alt kadranda yer alır.",
+    "Zar inceyse arka üst kadranda, arkadaki incusun uzun kolu ve stapes bölgesi seçilebilir.",
+    "Bulguları kayda geçirirken kadran adlarını kullanmak, yeri net biçimde iletmeyi sağlar.",
+    "Örneğin bir delik, arka alt kadranda küçük bir santral perforasyon olarak tarif edilebilir."
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İşaret noktaları",
+   "baslik": "Otoskopide *kontrol listesi*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Renk",
+     "metin": "Renk ve saydamlık",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Konum",
+     "metin": "Çekik mi, bombe mi?",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Bütünlük",
+     "metin": "Delik var mı?",
+     "cumle": 2
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "İşaret noktaları",
+     "metin": "Seçiliyor mu?",
+     "cumle": 3
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Sıvı",
+     "metin": "Sıvı ya da kabarcık",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Otoskopide zarı değerlendirirken önce rengine ve saydamlığına bakarız.",
+    "Sonra konumuna bakarız: zar içe çekilmiş mi, yoksa dışa doğru bombeleşmiş mi?",
+    "Ardından bütünlüğünü kontrol ederiz; delik ya da skar dokusu var mı?",
+    "Manubrium ve processus lateralisin görünümü de ipucu verir.",
+    "İçe çekik bir zarda bu yapılar daha belirgin, bombeleşmiş bir zarda ise silik görünür.",
+    "Son olarak zarın arkasında sıvı seviyesi ya da hava kabarcığı olup olmadığına bakarız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Işık üçgeni sağ kulakta saat 5, sol kulakta saat 7 yönündedir. Görülmemesi tek başına hastalık göstermez.",
+   "cumleler": [
+    "Otoskopide pratik bir bilgi: ışık üçgeni sağ kulakta saat beş, sol kulakta saat yedi yönünde görülür.",
+    "Bu, ön alt kadranı hızlıca bulmanıza ve hangi kulağa baktığınızı doğrulamanıza yardım eder.",
+    "Ancak ışık üçgeninin görülmemesi tek başına bir hastalık göstermez; kulak yolunun şekli de bunu etkileyebilir.",
+    "Bulguyu her zaman zarın rengi, konumu ve hareketliliğiyle birlikte değerlendirin."
+   ]
+  },
+  {
+   "id": "islev",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "İşlev ve klinik önem",
+   "baslik": "Zarın *görevi*",
+   "maddeler": [
+    {
+     "metin": "Ses dalgasını _titreşime_ çevirir",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Titreşimi _malleusa_ aktarır",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Alan oranı_ ile basınç kazancı",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Orta kulağı _korur_",
+     "cumle": 5,
+     "ikon": "enfeksiyon"
+    }
+   ],
+   "cumleler": [
+    "Timpanik membranın temel görevi, havadaki ses dalgalarını mekanik titreşime çevirmektir.",
+    "Zar titreştiğinde ona bağlı malleus da hareket eder ve titreşim kemikçik zincirine geçer.",
+    "Zarın titreşen alanı stapes tabanından çok daha geniştir; bu alan oranı, iç kulağa ulaşan basıncı artırır.",
+    "Zarın etkin titreşen alanı yaklaşık elli beş, stapes tabanı ise yaklaşık üç milimetrekaredir.",
+    "Bu oran, orta kulağın empedans uyumu mekanizmasının en büyük parçasıdır.",
+    "Zar ayrıca orta kulağı dış ortamdan ayırarak enfeksiyona karşı bir bariyer oluşturur.",
+    "Sağlam bir zar, sesin doğrudan yuvarlak pencereye ulaşmasını da azaltır; böylece iki pencere aynı anda uyarılmaz."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "malleus",
+      "cumle": 1
+     },
+     {
+      "parca": "stapes",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "Timpanik membran",
+      "cumle": 0
+     },
+     {
+      "parca": "malleus",
+      "metin": "Malleus",
+      "cumle": 1
+     },
+     {
+      "parca": "stapes",
+      "metin": "Stapes tabanı",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "klinik",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "İşlev ve klinik önem",
+   "baslik": "Bölüme göre *klinik* fark",
+   "sol": {
+    "ust": "Pars tensa",
+    "maddeler": [
+     {
+      "metin": "Santral perforasyon sık",
+      "cumle": 1
+     },
+     {
+      "metin": "Çevrede zar dokusu korunur",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Pars flaccida",
+    "maddeler": [
+     {
+      "metin": "Retraksiyon cebi oluşabilir",
+      "cumle": 3
+     },
+     {
+      "metin": "Kolesteatom riski",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "İki bölümün farklı yapısı klinikte de farklı tablolara yol açar.",
+    "Pars tensada görülen delikler çoğunlukla santral tiptedir.",
+    "Santral delikte deliğin çevresinde zar dokusu kalır ve anulus korunur.",
+    "Pars flaccida daha gevşek olduğu için negatif orta kulak basıncında içe çökerek retraksiyon cebi oluşturabilir.",
+    "Bu ceplerde biriken deri döküntüleri, kolesteatom adı verilen ve kemiği aşındırabilen bir yapıya dönüşebilir.",
+    "Bu yüzden otoskopide pars flaccida bölgesine özellikle dikkatle bakılır."
+   ]
+  },
+  {
+   "id": "timpanometri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "İşlev ve klinik önem",
+   "baslik": "Zarın hareketi: *timpanometri*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 2
+     },
+     {
+      "tip": "B",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "A: normal hareketlilik",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "B: düz eğri",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Delikte: büyük kulak yolu hacmi",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Zarın ve orta kulağın hareketliliğini timpanometri ile ölçebiliriz.",
+    "Bu ölçümde dış kulak yolunda hava basıncı değiştirilirken orta kulak sisteminin sesi ne kadar kolay kabul ettiği izlenir.",
+    "Normal bir zar ve orta kulakta, tepe noktası sıfıra yakın olan A tipi bir eğri görülür.",
+    "Zarda delik varsa ya da orta kulak sıvıyla doluysa eğri düzleşir; buna B tipi denir.",
+    "Delikte ayırt edici ipucu, ölçülen hacmin olağandan büyük çıkmasıdır; çünkü cihaz orta kulak boşluğunu da ölçer.",
+    "Timpanometriyi ilerideki derslerde ayrıntılı işleyeceğiz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Pars tensa *büyük*, pars flaccida üstte",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Üç tabaka: epidermal, *fibröz*, mukozal",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Umbo, manubrium ve *ışık üçgeni*",
+     "cumle": 2,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Işık üçgeni: sağda 5, *solda 7*",
+     "cumle": 3,
+     "ikon": "ampul"
+    }
+   ],
+   "cumleler": [
+    "Timpanik membranın büyük gergin bölümü pars tensa, üstteki küçük gevşek bölümü pars flaccidadır.",
+    "Zar dışta epidermal, ortada fibröz, içte mukozal olmak üzere üç tabakadan oluşur.",
+    "Otoskopide umbo, manubrium mallei, processus lateralis ve ışık üçgeni temel işaret noktalarıdır.",
+    "Işık üçgeni ön alt kadrandadır; sağ kulakta saat beş, sol kulakta saat yedi yönünde görülür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Işık üçgeni normalde hangi kadrandadır?",
+   "secenekler": [
+    "Ön üst",
+    "Ön alt",
+    "Arka üst",
+    "Arka alt"
+   ],
+   "dogru": 1,
+   "aciklama": "Işık üçgeni umbodan _ön alt_ kadrana yayılır: sağda saat 5, solda saat 7.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Işık üçgeni normalde timpanik membranın hangi kadranında görülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B, ön alt kadran. Işık üçgeni umbodan aşağı ve öne doğru yayılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Orta kulak boşluğu: duvarlar ve *komşuluklar*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste zarın arkasındaki orta kulak boşluğunu, duvarlarını ve komşuluklarını inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

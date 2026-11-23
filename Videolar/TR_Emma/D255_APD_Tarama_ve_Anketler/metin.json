@@ -1,0 +1,687 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D255_APD_Tarama_ve_Anketler_TR",
+ "kapak": {
+  "ust": "DERS 255",
+  "baslik": "Çocuklarda<br>APD *taraması*",
+  "alt": "Tarama testleri ve anketler",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "isitme_korteksi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Çocuklarda APD taraması ve anketler | Ders 255 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitsel işlemleme bozukluğu şüphesinde tarama, ayrıntılı değerlendirme gerektiren çocukları seçmeye yarar. Bu derste tarama ile tanının farkını, SCAN gibi tarama bataryalarını, CHAPS, SIFTER ve benzeri öğretmen ve aile anketlerini, Türkçe uyarlama konusunu, yaş sınırını ve taramanın sınırlılıklarını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: American Speech-Language-Hearing Association, (Central) Auditory Processing Disorders, Technical Report (2005); American Academy of Audiology, Clinical Practice Guidelines: Diagnosis, Treatment and Management of Children and Adults with Central Auditory Processing Disorder (2010); Keith, SCAN-3 Tests for Auditory Processing Disorders (2009); Smoski, Brunt ve Tannahill, Children's Auditory Performance Scale (CHAPS); Baydan, Aslan, Tokgöz Yılmaz ve Yalçınkaya, Children's Auditory Performance Scale: Turkish validity and reliability, Hacettepe Üniversitesi Sağlık Bilimleri Fakültesi Dergisi (2020); Wilson ve ark., The CHAPS, SIFTER, and TAPS-R as predictors of (C)AP skills and (C)APD, Journal of Speech, Language, and Hearing Research (2011).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "APD",
+   "işitselişlemleme"
+  ],
+  "etiketler": [
+   "APD taraması",
+   "işitsel işlemleme bozukluğu",
+   "SCAN-3",
+   "CHAPS",
+   "Children's Auditory Performance Scale",
+   "SIFTER",
+   "tarama",
+   "screening",
+   "öğretmen anketi",
+   "çocuk odyolojisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 255",
+   "baslik": "Çocuklarda APD *taraması*",
+   "alt": "Tarama testleri ve anketler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel işlemleme bozukluğu, kısaca APD şüphesi olan çocukları belirlemek için kullanılan tarama yöntemlerini öğreneceğiz.",
+    "Tarama testlerini, öğretmen ve aile anketlerini, yaş sınırını ve bu araçların sınırlılıklarını ele alacağız."
+   ]
+  },
+  {
+   "id": "tarama_tani",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tarama ve tanı",
+   "baslik": "Tarama mı, *tanı* mı?",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "Tarama",
+     "cumle": 0,
+     "metin": "Kimin değerlendirileceğini seçer"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Tanı",
+     "cumle": 3,
+     "metin": "Test bataryası ve ekip"
+    }
+   ],
+   "cumleler": [
+    "Tarama (screening), ayrıntılı değerlendirmeye gerek duyan çocukları belirlemek için yapılan kısa bir uygulamadır.",
+    "Tarama kısa sürer, çok sayıda çocuğa uygulanabilir ve özel bir ortam gerektirmeyebilir.",
+    "Ancak tarama sonucu tanı değildir; yalnızca bir risk ya da gereksinim olduğunu gösterir.",
+    "Tanı, periferik değerlendirmeden sonra uygulanan bir test bataryasıyla ve ekip değerlendirmesiyle konur.",
+    "Taramadan geçemeyen her çocukta APD yoktur; dikkat, dil ya da işitme gibi başka nedenler de olabilir.",
+    "Taramadan geçen bir çocukta ise yakınmalar sürüyorsa değerlendirme yine de düşünülebilir."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tarama ve tanı",
+   "baslik": "Kaygıdan *değerlendirmeye*",
+   "adimlar": [
+    {
+     "ikon": "okul",
+     "baslik": "Kaygı",
+     "cumle": 0,
+     "metin": "Öğretmen ya da aile"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Periferik işitme",
+     "cumle": 1,
+     "metin": "Önce işitme testi"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Tarama",
+     "cumle": 2,
+     "metin": "Anket ve kısa test"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Batarya",
+     "cumle": 4,
+     "metin": "Tanısal testler"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ekip",
+     "cumle": 5,
+     "metin": "Dil, dikkat, öğrenme"
+    }
+   ],
+   "cumleler": [
+    "Süreç genellikle öğretmenin ya da ailenin, çocuğun dinleme davranışıyla ilgili bir kaygısıyla başlar.",
+    "İlk adım her zaman saf ses, konuşma ve orta kulak testlerini içeren periferik işitme değerlendirmesidir.",
+    "Periferik işitme normalse, öğretmen ve aile anketleri ile kısa tarama testleri uygulanabilir.",
+    "Tarama sonuçları, ayrıntılı değerlendirmeye gerek olup olmadığına karar vermeye yardım eder.",
+    "Gerekirse yaşa uygun bir tanısal test bataryası planlanır.",
+    "Dil, dikkat ve öğrenme alanlarındaki değerlendirmeler için çocuk ilgili uzmanlara da yönlendirilir."
+   ]
+  },
+  {
+   "id": "scan",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tarama testleri",
+   "baslik": "Bir tarama bataryası: *SCAN-3*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Boşluk saptama",
+     "cumle": 2,
+     "metin": "Zamansal tarama"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüde sözcükler",
+     "cumle": 3,
+     "metin": "Arka plan gürültüsü"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Yarışan sözcükler",
+     "cumle": 4,
+     "metin": "Dikotik görev"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Filtrelenmiş sözcükler",
+     "cumle": 5,
+     "metin": "Tanısal alt test"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Yarışan cümleler",
+     "cumle": 5,
+     "metin": "Tanısal alt test"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Sıkıştırılmış cümleler",
+     "cumle": 6,
+     "metin": "Ek alt test"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "SCAN, Keith tarafından geliştirilen ve en tanınmış işitsel işlemleme tarama bataryalarından biridir."
+    },
+    "Güncel sürümün çocuklar için olanı yaklaşık 5 ile 12 yaş, ergen ve yetişkin sürümü ise 13 ile 50 yaş için hazırlanmıştır.",
+    "Tarama bölümünde, çok kısa sessiz aralıkları fark etmeyi ölçen bir boşluk saptama alt testi bulunur.",
+    "Gürültüde sözcükler alt testinde çocuk, arka planda konuşma gürültüsü varken sözcükleri tekrarlar.",
+    "Yarışan sözcükler alt testinde iki kulağa aynı anda farklı sözcükler verilir.",
+    "Tanısal bölümde filtrelenmiş sözcükler ve yarışan cümleler gibi alt testler yer alır.",
+    "Sıkıştırılmış, yani hızlandırılmış cümleler ise ek bir alt test olarak kullanılabilir."
+   ]
+  },
+  {
+   "id": "diger_tarama",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tarama testleri",
+   "baslik": "Diğer *kısa* araçlar",
+   "maddeler": [
+    {
+     "metin": "Dikotik sayılar: kısa ve hızlı",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Boşluk saptama: RGDT",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Gürültüde konuşma testleri",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Bilgisayar ve tablet tabanlı araçlar",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Dil sürümü ve _normlar_ şart",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TARAMADA",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Kısa",
+      "cumle": 0,
+      "metin": "Birkaç dakika"
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Basit",
+      "cumle": 1,
+      "metin": "Kolay yönerge"
+     },
+     {
+      "ikon": "kitap",
+      "baslik": "Normlu",
+      "cumle": 4,
+      "metin": "Yaşa göre"
+     }
+    ]
+   },
+   "cumleler": [
+    "Dikotik sayılar testi kısa sürdüğü için tarama amacıyla da sık kullanılır.",
+    "Rastgele boşluk saptama testi, yani RGDT, zamansal çözünürlüğü birkaç dakikada tarar.",
+    "Gürültüde konuşma testleri, çocuğun en sık yakındığı durumu doğrudan ölçmesi bakımından değerlidir.",
+    "Son yıllarda bilgisayar ya da tablet üzerinden uygulanan tarama araçları da geliştirilmektedir.",
+    "Hangi araç seçilirse seçilsin, dil sürümü ve yaşa göre normları olan bir araç kullanılmalıdır."
+   ]
+  },
+  {
+   "id": "anketler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Anketler",
+   "baslik": "Öğretmen ve aile *anketleri*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "CHAPS",
+     "cumle": 1,
+     "metin": "Altı dinleme koşulu"
+    },
+    {
+     "ikon": "okul",
+     "baslik": "SIFTER",
+     "cumle": 3,
+     "metin": "Öğretmen, okul başarısı"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Fisher listesi",
+     "cumle": 4,
+     "metin": "İşaretlenen kısa maddeler"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "ECLiPS",
+     "cumle": 5,
+     "metin": "Dinleme ve günlük beceriler"
+    }
+   ],
+   "cumleler": [
+    "Anketler, çocuğu her gün gözlemleyen öğretmen ve ailenin bilgisini sistematik biçimde toplar.",
+    {
+     "yazi": "Çocuk işitsel performans ölçeği (Children's Auditory Performance Scale), kısaca CHAPS, en sık kullanılan anketlerden biridir."
+    },
+    {
+     "yazi": "CHAPS, çocuğun dinleme davranışını farklı dinleme koşullarında yaşıtlarıyla karşılaştırarak değerlendirir."
+    },
+    {
+     "yazi": "SIFTER, öğretmenin doldurduğu ve dinlemenin yanında okul başarısı ile sınıf davranışını da soran kısa bir tarama aracıdır."
+    },
+    {
+     "yazi": "Fisher'ın işitsel sorunlar kontrol listesi, öğretmenin işaretlediği kısa maddelerden oluşur."
+    },
+    {
+     "yazi": "ECLiPS gibi daha yeni ölçekler ise dinlemeyi dil, bellek ve günlük yaşam becerileriyle birlikte ele alır."
+    },
+    "Anketler hızlıdır ve çocuğun gerçek yaşamdaki güçlüğünü gösterir; ama tek başına tanı koydurmaz."
+   ]
+  },
+  {
+   "id": "chaps",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Anketler",
+   "baslik": "CHAPS: *dinleme profili*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "yazilar": {
+      "1": "Sessiz",
+      "2": "İdeal",
+      "3": "Çok uyaran",
+      "4": "Gürültü",
+      "5": "Bellek",
+      "6": "Dikkat"
+     },
+     "ad": "Dinleme koşulu"
+    },
+    "y": {
+     "min": -5,
+     "max": 1,
+     "adim": 1,
+     "ad": "Ortalama puan"
+    },
+    "seriler": [
+     {
+      "ad": "profil",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        -0.5
+       ],
+       [
+        3,
+        -3
+       ],
+       [
+        4,
+        -3.5
+       ],
+       [
+        5,
+        -2
+       ],
+       [
+        6,
+        -2.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "örnek çocuk",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yasitlar",
+      "x": 0.5,
+      "y": 0,
+      "cizgi": "yatay",
+      "etiket": "yaşıtlarla aynı",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "36 madde, _6 koşul_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Artı 1 ile eksi 5 arası",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Profil, öneriye _yol gösterir_",
+     "cumle": 6,
+     "ikon": "ampul"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "CHAPS otuz altı maddeden oluşur ve maddeler altı dinleme koşulunda toplanır."
+    },
+    "Bu koşullar sessiz ortam, ideal ortam, birden çok uyaran, gürültü, işitsel bellek ve sıralama ile işitsel dikkat süresidir.",
+    "Öğretmen ya da ebeveyn her maddede çocuğu benzer yaştaki ve benzer geçmişteki çocuklarla karşılaştırır.",
+    "Puanlar artı birden, yani yaşıtlarından daha az güçlükten, eksi beşe, yani o koşulda işlev görememeye kadar uzanır.",
+    "Bu örnek profilde çocuk sessiz ve ideal ortamda yaşıtlarına yakın, gürültüde ve birden çok uyaranda ise belirgin biçimde zorlanıyor.",
+    "Toplam puan, formdaki sınırın altına düşerse ayrıntılı değerlendirme için risk göstergesi sayılır.",
+    "Profilin biçimi de bilgilidir; hangi koşullarda güçlük yaşandığı, ortam önerilerine yol gösterir."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Anketler",
+   "baslik": "Anketi *doğru* kullanmak",
+   "adimlar": [
+    {
+     "ikon": "okul",
+     "baslik": "İki kaynak",
+     "cumle": 0,
+     "metin": "Öğretmen ve aile ayrı"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Yeterli süre",
+     "cumle": 1,
+     "metin": "Çocuğu tanıyan kişi"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Karşılaştır",
+     "cumle": 2,
+     "metin": "Ortak ve farklı noktalar"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuş",
+     "cumle": 4,
+     "metin": "Örneklerle netleştir"
+    }
+   ],
+   "cumleler": [
+    "Anketi mümkünse hem öğretmene hem aileye, birbirinden bağımsız olarak doldurtun.",
+    "Öğretmenin çocuğu yeterince uzun süre gözlemlemiş olması, yanıtların güvenilirliğini artırır.",
+    "İki formdaki ortak güçlükler, çocuğun gerçekten zorlandığı durumları gösterir.",
+    "Formlar arasındaki farklar da bilgilidir; örneğin güçlük yalnız kalabalık sınıfta ortaya çıkıyor olabilir.",
+    "Sonuçları doldurulan kişiyle konuşarak, belirsiz yanıtları somut örneklerle netleştirin.",
+    "Aynı anket müdahaleden sonra yeniden doldurularak değişim izlenebilir."
+   ]
+  },
+  {
+   "id": "turkce",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Anketler",
+   "baslik": "Türkçede *durum*",
+   "maddeler": [
+    {
+     "metin": "CHAPS: Türkçe geçerlik çalışması _2020_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Çeviri tek başına _yetmez_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Geçerlik, güvenirlik ve norm gerekir",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kullanmadan önce kaynağı kontrol et",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "UYARLAMA",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Çeviri",
+      "cumle": 1,
+      "metin": "Dil ve kültür uyumu"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Geçerlik",
+      "cumle": 2,
+      "metin": "Güvenirlik analizleri"
+     },
+     {
+      "ikon": "kitap",
+      "baslik": "Norm",
+      "cumle": 3,
+      "metin": "Yaşa göre veriler"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "CHAPS ölçeğinin Türkçe geçerlik ve güvenirlik çalışması 2020 yılında yayımlanmıştır."
+    },
+    "Bir anketi yalnızca Türkçeye çevirmek, onu klinikte kullanılabilir hale getirmez.",
+    "Uyarlamada dil ve kültür uyumu, geçerlik ve güvenirlik analizleri ve mümkünse norm verileri gerekir.",
+    "Türk çocuklarına ait norm verilerinin pek çok araç için henüz sınırlı olduğu belirtilmektedir.",
+    "Bu yüzden kullanacağınız her aracın Türkçe uyarlama çalışmasını ve hangi yaş grubunda yapıldığını kontrol edin."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınırlılıklar ve yaş",
+   "baslik": "Taramanın *sınırları*",
+   "maddeler": [
+    {
+     "metin": "Anket ile test arasında ilişki _zayıf_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "APD, DEHB ve dil güçlüğünü ayırmaz",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Gözlemcinin bakışı etkiler",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yanlış pozitif ve yanlış negatif",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Sonuç: _yönlendirme_ kararı",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Çalışmalar, anket puanları ile tanısal test sonuçları arasındaki ilişkinin çoğu zaman zayıf olduğunu göstermiştir.",
+    "Bu yüzden anketlerin tek başına sevk kararı için değil, kaygıyı görünür kılmak için kullanılması önerilir.",
+    "Aynı dinleme güçlükleri dikkat eksikliği ve hiperaktivite bozukluğu, kısaca DEHB ya da dil bozukluğunda da görülür.",
+    "Öğretmenin ya da ebeveynin beklentisi ve deneyimi de yanıtları etkileyebilir.",
+    "Kısa tarama testleri dikkat ve motivasyondan etkilendiği için yanlış pozitif ve yanlış negatif sonuçlar verebilir.",
+    "Sonuçta tarama, yalnız ayrıntılı değerlendirmeye yönlendirme kararını destekler."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınırlılıklar ve yaş",
+   "baslik": "Hangi yaşta *ne* yapılır?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "7 yaştan küçük",
+     "cumle": 0,
+     "metin": "Gözlem, anket, ortam desteği"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "7 yaştan itibaren",
+     "cumle": 2,
+     "metin": "Tanısal batarya"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Ergen ve yetişkin",
+     "cumle": 4,
+     "metin": "Yetişkin sürümleri"
+    }
+   ],
+   "cumleler": [
+    "Yedi yaşından küçük çocuklarda merkezi işitsel testlerin sonuçları çok değişkendir.",
+    "Bu yaşlarda gözlem, anketler ve ortam düzenlemeleri öne çıkar; bazı tarama araçları beş yaştan itibaren kullanılabilir.",
+    "Pek çok kılavuz, tanısal test bataryasının yaklaşık 7 yaşından itibaren uygulanmasını önerir.",
+    "Amerikan Odyoloji Akademisi kılavuzu, yedi ya da sekiz yaşından küçüklerde davranışsal tanısal testlerde çok dikkatli olunmasını ister.",
+    "Ergen ve yetişkinler için ayrı normları olan sürümler kullanılır.",
+    "Yaş sınırının altındaki bir çocukta kaygı varsa izleme alınır ve uygun yaşta değerlendirme planlanır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Tarama sonucunu ailelere \"tanı\" gibi anlatmayın. Sonucun yalnız ayrıntılı değerlendirme gereksinimini gösterdiğini açıkça söyleyin.",
+   "cumleler": [
+    "Sahadan bir ipucu: tarama sonucunu aileye anlatırken tanı sözcüğünü kullanmamaya özen gösterin.",
+    "Taramadan geçemedi demek, çocuğun APD olduğu anlamına gelmez; yalnız ayrıntılı değerlendirmenin gerektiğini gösterir.",
+    "Aileye bir sonraki adımları, hangi uzmanların değerlendireceğini ve beklenen süreyi açıkça anlatın.",
+    "Bu arada sınıfta ön sıraya oturma gibi zararsız ve yararlı ortam önerileri hemen başlatılabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Tarama _tanı değildir_",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "SCAN-3: kısa alt testlerle tarama",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "CHAPS: altı koşulda dinleme profili",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Tanısal batarya yaklaşık 7 yaştan",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Tarama, ayrıntılı değerlendirme gerektiren çocukları seçer; tanı ise test bataryası ve ekip değerlendirmesiyle konur.",
+    {
+     "yazi": "SCAN gibi tarama bataryaları boşluk saptama, gürültüde sözcükler ve yarışan sözcükler gibi kısa alt testler içerir."
+    },
+    {
+     "yazi": "CHAPS gibi anketler, öğretmen ve ailenin gözlemini altı dinleme koşulunda yaşıtlarla karşılaştırarak toplar."
+    },
+    "Tanısal testler genellikle yaklaşık 7 yaşından itibaren uygulanır; daha küçük çocuklarda gözlem ve ortam desteği öne çıkar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Taramadan geçemeyen bir çocuk için doğru ifade hangisidir?",
+   "secenekler": [
+    "Kesin APD tanısı alır",
+    "Ayrıntılı değerlendirme gerekir",
+    "Hemen eğitim başlanır",
+    "Testler gereksizdir"
+   ],
+   "dogru": 1,
+   "aciklama": "Tarama yalnız _ayrıntılı değerlendirme_ gereksinimini gösterir; tanı batarya ve ekiple konur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: işitsel işlemleme taramasından geçemeyen bir çocuk için doğru ifade hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: ayrıntılı değerlendirme gerekir.",
+    "Tarama sonucu tanı değildir; dikkat, dil ve işitme gibi başka nedenler de ayrıntılı değerlendirmede ele alınır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "APD'de müdahale: ortam, *uzak mikrofon* ve işitsel eğitim",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste işitsel işlemleme güçlüğü olan çocuklarda ortam düzenlemelerini, uzak mikrofonu ve işitsel eğitimi göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

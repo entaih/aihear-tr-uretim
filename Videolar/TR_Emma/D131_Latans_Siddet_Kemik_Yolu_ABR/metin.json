@@ -1,0 +1,988 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D131_Latans_Siddet_Kemik_Yolu_ABR_TR",
+ "kapak": {
+  "ust": "DERS 131",
+  "baslik": "Latans-şiddet ve<br>*kemik yolu*",
+  "alt": "LIF desenleri ve kemik yolu ABR",
+  "cizim": "abr",
+  "ayar": {
+   "latans_kayma": 0.8
+  }
+ },
+ "youtube": {
+  "baslik": "Latans-Şiddet Fonksiyonu ve Kemik Yolu ABR | Ders 131 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitsel beyin sapı yanıtında (ABR) latans-şiddet fonksiyonunun iletim tipi, koklear ve retrokoklear kayıplarda nasıl değiştiğini ve kemik yolu ABR ile kayıp tipinin nasıl ayrıldığını anlatıyoruz. Vibratör yerleşimi, teknik sınırlar ve bebeklerde yorum örneklerle ele alınıyor.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies; Stapells, kemik yolu tonburst ABR çalışmaları.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ABR",
+   "işitme"
+  ],
+  "etiketler": [
+   "latans-şiddet fonksiyonu",
+   "latency-intensity function",
+   "LIF",
+   "kemik yolu ABR",
+   "bone-conduction ABR",
+   "recruitment pattern",
+   "iletim tipi işitme kaybı",
+   "bebek ABR",
+   "işitsel beyin sapı yanıtı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 131",
+   "baslik": "Latans-şiddet ve *kemik yolu*",
+   "alt": "LIF desenleri ve kemik yolu ABR",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel beyin sapı yanıtı, kısaca ABR'de latans-şiddet fonksiyonunu ve kemik yolu ABR'yi öğreneceğiz.",
+    "Bu iki araçla iletim tipi, koklear ve retrokoklear desenleri nasıl ayırt edebileceğimizi göreceğiz."
+   ]
+  },
+  {
+   "id": "lif",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Latans-şiddet",
+   "baslik": "Latans-şiddet *fonksiyonu*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Şiddet (dB nHL)"
+    },
+    "y": {
+     "min": 5,
+     "max": 9,
+     "adim": 1,
+     "ad": "Dalga V latansı (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        20,
+        7.9
+       ],
+       [
+        30,
+        7.4
+       ],
+       [
+        40,
+        6.9
+       ],
+       [
+        50,
+        6.5
+       ],
+       [
+        60,
+        6.1
+       ],
+       [
+        70,
+        5.8
+       ],
+       [
+        80,
+        5.6
+       ],
+       [
+        90,
+        5.45
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "normal",
+      "cumle": 1,
+      "etiket_konum": [
+       90,
+       5.45
+      ],
+      "etiket_dy": -16,
+      "etiket_dx": -6
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yuksek",
+      "x": 80,
+      "y": 5.6,
+      "etiket": "yaklaşık 5,6 ms",
+      "cumle": 2,
+      "dy": 34,
+      "renk": "lacivert"
+     },
+     {
+      "ad": "esik",
+      "x": 20,
+      "y": 7.9,
+      "etiket": "eşiğe yakın",
+      "cumle": 3,
+      "dy": -22,
+      "renk": "lacivert"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Şiddet azaldıkça _latans uzar_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Her klinik _kendi normunu_ çizer",
+     "cumle": 5,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Latans-şiddet fonksiyonu (latency-intensity function), kısaca LIF, dalga V latansının şiddete göre nasıl değiştiğini gösteren grafiktir.",
+     "ses": "Latans-şiddet fonksiyonu, kısaca LIF, dalga V latansının şiddete göre nasıl değiştiğini gösteren grafiktir."
+    },
+    "Yatay eksende şiddet, dikey eksende dalga V latansı yer alır; şiddet azaldıkça latans uzar.",
+    {
+     "yazi": "Normal işiten yetişkinde 80 dB nHL, yani normalize işitme düzeyindeki klik ile dalga V yaklaşık 5,6 milisaniyede görülür.",
+     "ses": "Normal işiten yetişkinde seksen dB nHL, yani normalize işitme düzeyindeki klik ile dalga V yaklaşık beş virgül altı milisaniyede görülür."
+    },
+    {
+     "yazi": "Eşiğe yakın düşük şiddetlerde ise latans yaklaşık 7,5 ile 8 milisaniyeye kadar uzar.",
+     "ses": "Eşiğe yakın düşük şiddetlerde ise latans yaklaşık yedi buçuk ile sekiz milisaniyeye kadar uzar."
+    },
+    "Eşik araması sırasında farklı şiddetlerde zaten kayıt aldığımız için bu grafik ek bir test gerektirmez.",
+    "Her klinik, kendi cihazı ve uyaranıyla elde ettiği normal bandı bu grafiğe çizerek karşılaştırma yapar."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Latans-şiddet",
+   "baslik": "Latans neden *uzar?*",
+   "maddeler": [
+    {
+     "metin": "Yüksek şiddet: _taban bölgesi_ de yanıt verir",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Düşük şiddet: uyarılma _tepeye_ kayar",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Yürüyen dalga tepeye _geç_ ulaşır",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sinapsta tetiklenme de _yavaşlar_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "koklea_acik",
+    "cumle": 0,
+    "ayar": {
+     "frekans": 1000
+    },
+    "vurgula": [
+     {
+      "parca": "taban",
+      "cumle": 0
+     },
+     {
+      "parca": "yuruyen_dalga",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Yüksek şiddette klik, hızlı yanıt veren koklea tabanını da güçlü biçimde uyarır ve yanıt erken gelir.",
+    "Şiddet azaldıkça yanıt, kokleanın daha duyarlı ve daha tepeye yakın bölgelerinden gelmeye başlar.",
+    "Yürüyen dalga bu bölgelere daha geç ulaştığı için toplam latans uzar.",
+    "Ayrıca düşük şiddette tüy hücresi ve sinaps düzeyindeki tetiklenme de biraz daha geç gerçekleşir.",
+    "Kokleadaki bir hasar bu dengeyi değiştirdiği için eğrinin biçimi bize kaybın yeri hakkında ipucu verir."
+   ]
+  },
+  {
+   "id": "desenler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Desenler",
+   "baslik": "Dört *latans-şiddet* deseni",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Şiddet (dB nHL)"
+    },
+    "y": {
+     "min": 5,
+     "max": 9,
+     "adim": 1,
+     "ad": "Dalga V latansı (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        20,
+        7.9
+       ],
+       [
+        30,
+        7.4
+       ],
+       [
+        40,
+        6.9
+       ],
+       [
+        50,
+        6.5
+       ],
+       [
+        60,
+        6.1
+       ],
+       [
+        70,
+        5.8
+       ],
+       [
+        80,
+        5.6
+       ],
+       [
+        90,
+        5.45
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "normal",
+      "cumle": 0,
+      "etiket_konum": [
+       20,
+       7.9
+      ],
+      "etiket_dy": 26,
+      "etiket_dx": -4
+     },
+     {
+      "ad": "iletim",
+      "noktalar": [
+       [
+        50,
+        7.9
+       ],
+       [
+        60,
+        7.4
+       ],
+       [
+        70,
+        6.9
+       ],
+       [
+        80,
+        6.5
+       ],
+       [
+        90,
+        6.1
+       ]
+      ],
+      "renk": "turuncu",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "iletim tipi",
+      "cumle": 1,
+      "etiket_konum": [
+       50,
+       7.9
+      ],
+      "etiket_dy": -14,
+      "etiket_dx": -30
+     },
+     {
+      "ad": "koklear",
+      "noktalar": [
+       [
+        60,
+        7.1
+       ],
+       [
+        70,
+        6.0
+       ],
+       [
+        80,
+        5.7
+       ],
+       [
+        90,
+        5.5
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "koklear",
+      "cumle": 3,
+      "etiket_konum": [
+       60,
+       7.1
+      ],
+      "etiket_dy": -14,
+      "etiket_dx": -20
+     },
+     {
+      "ad": "retrokoklear",
+      "noktalar": [
+       [
+        40,
+        8.0
+       ],
+       [
+        50,
+        7.6
+       ],
+       [
+        60,
+        7.2
+       ],
+       [
+        70,
+        6.9
+       ],
+       [
+        80,
+        6.7
+       ],
+       [
+        90,
+        6.55
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "retrokoklear",
+      "cumle": 5,
+      "etiket_konum": [
+       90,
+       6.55
+      ],
+      "etiket_dy": -16,
+      "etiket_dx": -70,
+      "kesik": true
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "İletim: _paralel_ sağa kayma",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Koklear: _dik_ eğim",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Retrokoklear: her şiddette _uzun_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Şimdi aynı grafikte dört örnek eğriyi karşılaştıralım; mavi eğri normal işiten kulağı gösteriyor.",
+    "Turuncu eğri iletim tipi bir kaybı temsil ediyor; normal eğrinin biçimini korur ama sağa, yani daha yüksek şiddetlere kayar.",
+    "Bunun nedeni, dış ya da orta kulaktaki sorunun kokleaya ulaşan sesi her şiddette aynı miktarda azaltmasıdır.",
+    "Yeşil eğri koklear bir kaybı gösteriyor; eşik yükselmiştir, ama şiddet arttıkça latans hızla normale yaklaşır.",
+    {
+     "yazi": "Bu dik eğim, ses yüksekliğinin hasarlı kokleada hızla büyümesine benzediği için rekruitment paterni (recruitment pattern) olarak da anılır.",
+     "ses": "Bu dik eğim, ses yüksekliğinin hasarlı kokleada hızla büyümesine benzediği için rekruitment paterni olarak da anılır."
+    },
+    "Kırmızı kesik eğri ise retrokoklear bir deseni temsil ediyor; latans her şiddette normalden uzundur.",
+    "Bu eğriler örnek niteliğindedir; gerçek kayıtlarda desenler iç içe geçebilir ve mikst kayıplar ara biçimler oluşturur."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Desenler",
+   "baslik": "İletim tipi *desen*",
+   "maddeler": [
+    {
+     "metin": "Tüm dalgalar, _dalga I dahil_, gecikir",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Dalgalar arası süreler _normal_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Eğri _paralel_ olarak sağa kayar",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kayma, kaybın büyüklüğü hakkında _kaba fikir_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "ayar": {
+     "latans_kayma": 0.8
+    },
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 0
+     },
+     {
+      "parca": "latans_I_V",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "İletim tipi kayıpta kokleaya ulaşan ses zayıfladığı için dalga I dahil bütün dalgalar gecikir.",
+    "Ancak sinir ve beyin sapındaki iletim sağlam olduğu için I-V aralığı normal kalır.",
+    "Latans-şiddet eğrisi, normal eğriye paralel biçimde sağa kayar.",
+    "Kaymanın miktarı, hava-kemik aralığının büyüklüğü hakkında kaba bir fikir verir; ama kesin ölçüm için kemik yolu ABR gerekir.",
+    "Bebeklerde orta kulak sıvısı bu desenin en sık nedenlerinden biridir; bu yüzden timpanometri sonucu birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "koklear",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Desenler",
+   "baslik": "Koklear *desen*",
+   "maddeler": [
+    {
+     "metin": "ABR eşiği _yükselmiş_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Eşik yakınında latans _görece uzun_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Yüksek şiddette latans _normale yakın_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Tiz kayıpta dalga V _biraz_ gecikebilir",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Koklear, yani sensörinöral bir kayıpta ABR eşiği kaybın derecesine uygun olarak yükselir.",
+    "Eşiğe yakın şiddetlerde dalga V latansı görece uzundur.",
+    "Ancak şiddet artırıldıkça latans hızla kısalır ve yüksek şiddetlerde normale yakın değerlere ulaşır.",
+    "Ekrandaki örnek odyogramda görüldüğü gibi, yüksek frekanslarda belirgin bir kayıp varsa durum biraz değişir.",
+    "Klik yanıtına en çok katkı veren bölge hasarlı olduğu için, yüksek şiddette bile dalga V biraz gecikebilir."
+   ]
+  },
+  {
+   "id": "retro",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Desenler",
+   "baslik": "Retrokoklear *desen*",
+   "maddeler": [
+    {
+     "metin": "Her şiddette latans _uzun_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "I-V aralığı _uzamış_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Dalga biçimi _bozulabilir_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bulgu _hekime yönlendirme_ gerektirir",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "ayar": {
+     "i_v_uzama": 0.8
+    },
+    "vurgula": [
+     {
+      "parca": "latans_I_V",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Retrokoklear desende dalga V latansı her şiddette normal banttan uzundur ve eğri yukarı kaymış görünür.",
+    "Dalga I görülebiliyorsa I-V aralığının uzadığı görülür; bu, gecikmenin beyin sapı iletiminde olduğunu gösterir.",
+    "Dalgalar ayrıca küçülebilir, genişleyebilir ya da tekrarlanabilirliğini yitirebilir.",
+    "Bu desen bir önceki derste gördüğümüz nörolojik ABR ölçütleriyle birlikte değerlendirilir ve hekime yönlendirme gerektirir."
+   ]
+  },
+  {
+   "id": "ky_neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kemik yolu ABR",
+   "baslik": "Kemik yolu ABR *neden?*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Bebek",
+     "metin": "Davranışsal kemik yolu yok",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Kayıp tipi",
+     "metin": "İletim mi, sensörinöral mi?",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Doğrudan koklea",
+     "metin": "Dış ve orta kulağı atlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Doğru yönlendirme",
+     "metin": "Tıbbi ya da odyolojik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Küçük bir bebekte davranışsal kemik yolu eşiği almak mümkün değildir.",
+    "Hava yolu ABR eşikleri yüksek çıktığında, kaybın iletim tipi mi sensörinöral mi olduğunu bilmemiz gerekir.",
+    "Kemik yolu ABR, sesi kemik vibratörüyle doğrudan kafatasına vererek dış ve orta kulağı büyük ölçüde atlar.",
+    "Hava yolu ve kemik yolu ABR eşikleri birlikte, bebekte tahmini bir hava-kemik aralığı ortaya koyar.",
+    "Bu ayrım, bebeğin önce tıbbi değerlendirmeye mi yoksa erken işitme cihazı sürecine mi yönlendirileceğini doğrudan etkiler."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kemik yolu ABR",
+   "baslik": "Vibratör *nereye?*",
+   "cizim": "elektrot_yerlesimi",
+   "vurgula": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Kemik vibratörü",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Temporal kemik, _kulak kepçesine değmeden_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sabit baskı: _bant ya da el_",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Referans: _kulak memesi_ ya da ense",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu ABR'de, odyometride kullandığımıza benzer bir kemik vibratörü kullanılır.",
+    "Bebeklerde vibratör, kulak kepçesinin arka üst bölümüne yakın temporal kemik üzerine, kepçeye değmeden yerleştirilir.",
+    "Vibratör elastik bir bantla ya da test eden kişinin eliyle sabit ve yeterli bir baskıyla tutulur.",
+    "Baskının değişmesi uyaranın şiddetini değiştirebileceği için kayıt boyunca aynı kalması önemlidir.",
+    "Referans elektrot vibratörün altında kalmamalıdır; bu yüzden kulak memesi ya da ense gibi bir nokta seçilebilir.",
+    "Bebeklerde vibratörü alına yerleştirmek yerine temporal kemiğe yerleştirmek genellikle daha büyük yanıtlar verir."
+   ],
+   "ayar": {
+    "mod": "kemik_bebek",
+    "goster": {
+     "aralik": 1,
+     "bant": 2,
+     "aktif": 4,
+     "referans": 4,
+     "ense": 4,
+     "toprak": 4
+    }
+   }
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kemik yolu ABR",
+   "baslik": "Teknik *sınırlar*",
+   "maddeler": [
+    {
+     "metin": "Üst sınır: yaklaşık _50 ile 55 dB nHL_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Büyük _uyaran artefaktı_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Alternan polarite _yardım eder_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Latans normları _ayrıdır_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DİKKAT",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Artefakt",
+      "metin": "Vibratör güçlü alan yayar",
+      "cumle": 1
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Normlar",
+      "metin": "Kemik yoluna özgü",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Kemik vibratörü bozulmadan yüksek şiddet üretemez; en yüksek düzey genellikle yaklaşık 50 ile 55 dB nHL ile sınırlıdır.",
+     "ses": "Kemik vibratörü bozulmadan yüksek şiddet üretemez; en yüksek düzey genellikle yaklaşık elli ile elli beş dB nHL ile sınırlıdır."
+    },
+    "Vibratör güçlü bir elektromanyetik alan yaydığı için kayıtta büyük bir uyaran artefaktı oluşabilir.",
+    "Alternan polarite ve vibratör kablosunun elektrot kablolarından uzak tutulması bu artefaktı azaltır.",
+    "Kemik yolu ABR'de latanslar ve eşikler hava yolundan farklıdır; bu yüzden yalnız kemik yoluna özgü normlarla yorumlanır.",
+    "Bebeklerde kemik yolu eşikleri, özellikle alçak frekanslarda, yetişkine göre daha iyi çıkabilir; bu da yaşa özgü norm gerektirir."
+   ]
+  },
+  {
+   "id": "normlar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Bebekte kemik yolu: *örnek* ölçütler",
+   "sutunlar": [
+    "Tonburst",
+    "Normal kabul",
+    "Not"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "20 dB nHL'de yanıt",
+      "Örnek protokol"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "30 dB nHL'de yanıt",
+      "Örnek protokol"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Bazı bebek ABR protokolleri, kemik yolu için birkaç düzeyde yanıt aranmasını önerir.",
+    {
+     "yazi": "Bir protokolde 500 Hz kemik yolu tonburst ile 20 dB nHL'de yanıt alınması, koklear duyarlılığın normale yakın olduğunu düşündürür.",
+     "ses": "Bir protokolde beş yüz Hz kemik yolu tonburst ile yirmi dB nHL'de yanıt alınması, koklear duyarlılığın normale yakın olduğunu düşündürür."
+    },
+    {
+     "yazi": "Aynı protokolde 2000 Hz için bu düzey 30 dB nHL'dir.",
+     "ses": "Aynı protokolde iki bin Hz için bu düzey otuz dB nHL'dir."
+    },
+    "Bu değerler kullanılan cihaz, uyaran ve protokole göre değişir; burada yalnız örnek olarak verilmiştir.",
+    "Hava yolu eşiği yüksekken bu düzeylerde kemik yolu yanıtı alınıyorsa, kaybın en azından bir iletim bileşeni içerdiği düşünülür."
+   ]
+  },
+  {
+   "id": "hangi_koklea",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Hangi koklea *yanıt veriyor?*",
+   "maddeler": [
+    {
+     "metin": "Vibratör _iki kokleayı_ birden uyarabilir",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Bebekte kulaklar arası zayıflama _daha fazla_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "İpsilateral kanalda V _daha erken, büyük_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Gerekirse karşı kulağa _maskeleme_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "ipsilateral kanalda belirgin",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Kemik yolunda kafatası bir bütün olarak titreştiği için vibratör, iki kokleayı birden uyarabilir.",
+    "Bebeklerde kafatası kemikleri henüz tam kaynaşmadığı için kemik yolunda kulaklar arası zayıflama yetişkinden daha fazladır.",
+    "Ayrıca iki kanallı kayıtta, yanıt veren koklea tarafındaki ipsilateral kanalda dalga V genellikle daha erken ve daha büyüktür.",
+    "Kontralateral kanalda ise dalga V daha küçük ve biraz daha geç görülür; bu asimetri yanıtın hangi taraftan geldiğine ipucu verir.",
+    "Bu ipuçları yeterli değilse karşı kulağa maskeleme gürültüsü verilerek yanıtın kaynağı doğrulanır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "İki *örnek* bebek",
+   "sutunlar": [
+    "Bebek",
+    "Hava yolu, 2000 Hz",
+    "Kemik yolu, 2000 Hz",
+    "Olası tip"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Örnek A",
+      "Eşik 50 dB nHL",
+      "30 dB nHL'de yanıt",
+      "İletim bileşeni"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Örnek B",
+      "Eşik 50 dB nHL",
+      "30 dB nHL'de yok",
+      "Sensörinöral"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek iki bebek üzerinden yorumu birleştirelim.",
+    {
+     "yazi": "Örnek A'da 2000 Hz hava yolu ABR eşiği 50 dB nHL, ama kemik yolunda 30 dB nHL'de net bir yanıt var.",
+     "ses": "Örnek A'da iki bin Hz hava yolu ABR eşiği elli dB nHL, ama kemik yolunda otuz dB nHL'de net bir yanıt var."
+    },
+    "Bu tablo, koklear duyarlılığın görece korunduğunu ve kaybın büyük ölçüde iletim kaynaklı olduğunu düşündürür; timpanometri de buna eklenir.",
+    {
+     "yazi": "Örnek B'de aynı hava yolu eşiğine karşın kemik yolunda 30 dB nHL'de yanıt yok.",
+     "ses": "Örnek B'de aynı hava yolu eşiğine karşın kemik yolunda otuz dB nHL'de yanıt yok."
+    },
+    "Bu durumda kaybın sensörinöral bileşen taşıdığı düşünülür; kesin değerlendirme tüm test bataryası ve hekim muayenesiyle yapılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kemik yolu ABR'de vibratörü sabit baskıyla tutun, kepçeye değdirmeyin ve kablosunu elektrotlardan uzak tutun; kuşkuda karşı kulağı maskeleyin.",
+   "cumleler": [
+    "Bir klinik ipucu: kemik yolu ABR'de en sık hata, vibratörün kayması ya da baskısının değişmesidir.",
+    "Vibratörü kulak kepçesine değdirmeden, kayıt boyunca aynı baskıyla tutun.",
+    "Vibratör kablosunu elektrot kablolarından uzak tutun; bu, uyaran artefaktını belirgin biçimde azaltır.",
+    "Yanıtın hangi kokleadan geldiğinden emin değilseniz karşı kulağa maskeleme gürültüsü vermekten çekinmeyin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "LIF: şiddet azaldıkça _dalga V uzar_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İletim: _paralel_ kayma, I-V normal",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Koklear: _dik_ eğim, retrokoklear: hep uzun",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kemik yolu ABR _kayıp tipini_ ayırır",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Latans-şiddet fonksiyonu, dalga V latansının şiddet azaldıkça nasıl uzadığını gösterir.",
+    "İletim tipi kayıpta eğri paralel olarak sağa kayar ve dalgalar arası süreler normal kalır.",
+    "Koklear kayıpta eğim diktir; retrokoklear desende ise latans her şiddette uzundur.",
+    "Kemik yolu ABR, bebekte kaybın iletim tipi mi sensörinöral mi olduğunu ayırmaya yardım eder."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Tüm dalgalar gecikmiş, I-V normal. En olası desen?",
+   "secenekler": [
+    "İletim tipi",
+    "Retrokoklear",
+    "Normal işitme"
+   ],
+   "dogru": 0,
+   "aciklama": "İletim tipi kayıpta _dalga I dahil_ tüm dalgalar gecikir, beyin sapı iletimi normal kalır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Dalga I dahil tüm dalgalar gecikmiş, I-V aralığı normal. En olası desen hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: iletim tipi desen.",
+    "Gecikme kokleaya ulaşan sesin azalmasından kaynaklanır; beyin sapı iletimi sağlam olduğu için I-V aralığı normaldir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "ABR'de *artefaktlar* ve sorun giderme",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ABR kaydını bozan artefaktları ve bunları nasıl giderebileceğimizi göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

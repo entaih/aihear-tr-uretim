@@ -1,0 +1,810 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D247_Implant_Performans_Sorun_Giderme_TR",
+ "kapak": {
+  "ust": "DERS 247",
+  "baslik": "Performans ve<br>*sorun giderme*",
+  "alt": "Arıza, bütünlük testi, MR güvenliği",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Koklear İmplant Sonrası Performans ve Sorun Giderme | Ders 247 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Koklear implantla neden bazı kişiler çok iyi, bazıları sınırlı yarar görür ve performans düştüğünde ne yapılır? Bu derste sonucu etkileyen etkenleri, dış ve iç ünite sorunlarını, sert ve yumuşak arızayı, bütünlük testini, cihaz güvenilirliğini ve MR güvenliğini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Blamey ve arkadaşları (2013), Factors affecting auditory performance of postlinguistically deaf adults using cochlear implants: an update with 2251 patients, Audiology and Neurotology; Balkany ve arkadaşları (2005), Cochlear implant soft failures consensus development conference statement, Otology and Neurotology; Battmer ve arkadaşları (2010), International classification of reliability for implanted cochlear implant receiver stimulators, Otology and Neurotology; Wolfe, Cochlear Implants.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "işitme"
+  ],
+  "etiketler": [
+   "koklear implant performansı",
+   "cihaz arızası",
+   "device failure",
+   "bütünlük testi",
+   "integrity test",
+   "yumuşak arıza",
+   "soft failure",
+   "MR güvenliği",
+   "MRI safety",
+   "mıknatıs",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 247",
+   "baslik": "Performans ve *sorun giderme*",
+   "alt": "Arıza, bütünlük testi, MR güvenliği",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste implant sonrası performansı etkileyen etkenleri ve performans düştüğünde izlenecek yolu öğreneceğiz.",
+    "Dış ve iç ünite sorunlarını, cihaz arızasını, bütünlük testini ve manyetik rezonans görüntüleme, yani MR güvenliğini ele alacağız."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Performansı etkileyenler",
+   "baslik": "Sonucu *etkileyenler*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Sağırlık süresi",
+     "cumle": 1,
+     "metin": "Uzadıkça yarar azalabilir"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "İmplant yaşı",
+     "cumle": 3,
+     "metin": "Çocukta erken daha iyi"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Anatomi ve sinir",
+     "cumle": 4,
+     "metin": "Koklea, sinir, elektrot"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Kullanım ve destek",
+     "cumle": 5,
+     "metin": "Düzenli kullanım, eğitim"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Biliş",
+     "cumle": 6,
+     "metin": "Dikkat ve bellek"
+    }
+   ],
+   "cumleler": [
+    "İmplant sonuçları kişiler arasında çok geniş bir aralıkta değişir; bu değişkenliğin bir bölümü bilinen etkenlerle açıklanabilir.",
+    {
+     "yazi": "Blamey ve arkadaşlarının 2013'te 2251 yetişkinle yaptığı çalışmada, ağır kaybın süresi sonucu en çok etkileyen etkenlerden biriydi.",
+     "ses": "Bleymi ve arkadaşlarının iki bin on üçte iki bin iki yüz elli bir yetişkinle yaptığı çalışmada, ağır kaybın süresi sonucu en çok etkileyen etkenlerden biriydi."
+    },
+    "Aynı çalışmada implant deneyiminin süresi arttıkça sonuçlar iyileşti; yani ilerleme ilk aylarla sınırlı değildir.",
+    "Doğuştan çok ileri kayıplı çocukta implant yaşı belirleyicidir; dil sonrası kayıplı yetişkinde ise sonuçlar genellikle daha hızlı gelir.",
+    "Koklear anomaliler, koklear sinirin durumu ve elektrodun koklea içindeki yeri de sonucu sınırlayabilir.",
+    "Uyanık olunan sürenin tamamında kullanım, düzenli rehabilitasyon ve aile ya da çevre desteği sonucu belirgin biçimde etkiler.",
+    "Yaşlı yetişkinlerde bilişsel durum da önemli olabilir; yine de ileri yaş tek başına yararı engellemez."
+   ]
+  },
+  {
+   "id": "elektrot_yeri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Performansı etkileyenler",
+   "baslik": "Elektrodun *yeri* önemli",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_tympani",
+     "metin": "hedef: skala timpani",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "baziler membran",
+     "cumle": 2
+    },
+    {
+     "parca": "scala_vestibuli",
+     "metin": "skala vestibuli",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "spiral ganglion",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_vestibuli",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ameliyat sonrası görüntüleme, elektrot dizisinin koklea içindeki yeri hakkında önemli bilgi verir.",
+    "Elektrot dizisinin hedefi skala timpanidir.",
+    "Dizi baziler membranı delip skala vestibuliye geçerse buna translokasyon denir; bu durum daha sınırlı sonuçlarla ilişkilendirilmiştir.",
+    "Dizinin ucunun geri katlanması ya da dizinin kokleadan kısmen dışarı çıkması da performansı düşürebilir.",
+    "Elektrotların spiral ganglion hücrelerine uzaklığı ve yerleştirme derinliği, düzeyleri ve kanal ayrımını etkiler.",
+    "Beklenenden düşük performansta görüntülemenin yeniden incelenmesi bu nedenle sorun gidermenin bir parçasıdır."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sorun giderme",
+   "baslik": "Sorun gidermenin *yolu*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Yakınma",
+     "cumle": 0,
+     "metin": "Ne, ne zaman?"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Dış ünite",
+     "cumle": 1,
+     "metin": "Yedekle değiştir"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Harita",
+     "cumle": 2,
+     "metin": "Empedans ve düzeyler"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Bütünlük testi",
+     "cumle": 3,
+     "metin": "Üretici ile"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Ekip kararı",
+     "cumle": 4,
+     "metin": "Gerekirse cerrahi"
+    }
+   ],
+   "cumleler": [
+    "Bir sorun bildirildiğinde önce yakınma ayrıntılı alınır: ne değişti, ne zaman başladı, sürekli mi, aralıklı mı?",
+    "İlk adım dış üniteyi kontrol etmektir; çünkü sorunların büyük bölümü dış ünitedeki parçalardan kaynaklanır.",
+    "Dış ünite sağlamsa telemetriyle empedans ölçülür, düzeyler gözden geçirilir ve harita yenilenir.",
+    "Sorun sürerse ve iç üniteden şüphe edilirse, üretici ile birlikte bütünlük testi planlanır.",
+    "Sonuçlar ekipte değerlendirilir; gerekirse iç ünitenin değiştirilmesi için cerrahi karar verilir.",
+    "Her adımda bulgular kaydedilir; bu kayıtlar hem karar hem de üreticiye yapılacak bildirim için gereklidir."
+   ]
+  },
+  {
+   "id": "dis_unite",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sorun giderme",
+   "baslik": "Dış ünitede *sık sorunlar*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Pil, batarya",
+     "cumle": 0,
+     "metin": "Boş ya da zayıf"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Kablo",
+     "cumle": 1,
+     "metin": "Kırık ya da gevşek"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Bobin, mıknatıs",
+     "cumle": 2,
+     "metin": "Tutmuyor, bağlantı yok"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Mikrofon",
+     "cumle": 3,
+     "metin": "Kir, nem, aşınma"
+    }
+   ],
+   "cumleler": [
+    "Pil ya da batarya boşsa veya zayıfsa işlemci kapanabilir ya da ses aralıklı gelebilir.",
+    "İşlemci ile bobin arasındaki kablo en sık arızalanan parçalardandır; kırık bir kablo sesin aralıklı kesilmesine yol açar.",
+    "Bobin deriye iyi oturmuyorsa ya da mıknatıs zayıfsa iç üniteyle bağlantı kopar; işlemci bunu çoğu zaman bir uyarıyla bildirir.",
+    "Mikrofon girişlerinin kir ya da nemle tıkanması sesin boğuk ve zayıf gelmesine neden olur; koruyucu kapaklar düzenli değiştirilir.",
+    "Klinikte en hızlı yöntem, parçaları tek tek yedekleriyle değiştirerek sorunu bulmaktır.",
+    "İzleme kulaklığıyla mikrofonun sesi dinlenebilir; Ling sesleri de kişinin günlük kontrolü için kullanılır.",
+    "Nem kurutma kabı kullanımı ve düzenli bakım, bu sorunların önemli bir bölümünü önler."
+   ]
+  },
+  {
+   "id": "ic_unite",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sorun giderme",
+   "baslik": "İç üniteden *şüphe* ne zaman?",
+   "maddeler": [
+    {
+     "metin": "Dış ünite değişince düzelmiyor",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Empedanslarda ani değişim",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ağrı, uğultu, seğirme",
+     "cumle": 2,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Açıklanamayan performans düşüşü",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "alici_uyarici",
+      "cumle": 0
+     },
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "alici_uyarici",
+      "metin": "iç ünite",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Dış ünitenin bütün parçaları değiştirildiği halde sorun sürüyorsa, iç üniteden şüphe edilir.",
+    "Empedanslarda önceki ölçümlere göre ani değişim, yeni açık ya da kısa devreler bir iç ünite sorununu düşündürür.",
+    "Kişi ağrı, uğultu, patlama sesleri ya da yüzde seğirme gibi yeni ve açıklanamayan duyumlar tarif edebilir.",
+    "Bu belirtiler bazen yalnızca belirli elektrotlarla ilgilidir ve o elektrotlar kapatılınca düzelir.",
+    "Uzun süre iyi giden bir kullanıcının konuşma skorlarında açıklanamayan bir düşüş de önemli bir uyarı işaretidir.",
+    "Kafaya darbe öyküsü, yani düşme ya da çarpma, iç ünite hasarının sık nedenlerinden biri olduğu için mutlaka sorulur."
+   ]
+  },
+  {
+   "id": "ariza",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihaz arızası",
+   "baslik": "Sert arıza ve *yumuşak arıza*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Sert arıza",
+     "cumle": 0,
+     "metin": "İletişim yok ya da anormal test"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Yumuşak arıza",
+     "cumle": 2,
+     "metin": "Testler normal, belirti var"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Dışlama",
+     "cumle": 4,
+     "metin": "Diğer nedenler elenir"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Değiştirme",
+     "cumle": 5,
+     "metin": "Ekip kararı"
+    }
+   ],
+   "cumleler": [
+    "Cihaz arızası (device failure) iki grupta incelenir; sert arızada iç ünite çalışmaz ya da telemetri ve bütünlük testi açıkça anormaldir.",
+    "Bu durumda tanı kolaydır ve iç ünite genellikle cerrahiyle değiştirilir.",
+    "Yumuşak arıza (soft failure) ise testler normal görünürken kişinin performansında düşüş ya da işitsel olmayan belirtiler olmasıdır.",
+    "Bu kavram 2005'teki bir uzlaşı toplantısında tanımlanmıştır.",
+    "Yumuşak arıza bir dışlama tanısıdır; önce dış ünite, harita, tıbbi nedenler ve elektrodun yeri gibi diğer olasılıklar elenir.",
+    "Belirtiler sürer ve başka neden bulunamazsa, ekip iç ünitenin değiştirilmesine karar verebilir.",
+    "Değiştirilen cihazlarda üretici incelemesi bazen gerçek bir arıza gösterir, bazen göstermez."
+   ]
+  },
+  {
+   "id": "butunluk",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihaz arızası",
+   "baslik": "*Bütünlük testi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Elektrot (örnek)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Kafa derisinde ölçülen sinyal (göreli)"
+    },
+    "seriler": [
+     {
+      "ad": "beklenen",
+      "noktalar": [
+       [
+        1,
+        60
+       ],
+       [
+        2,
+        64
+       ],
+       [
+        3,
+        56
+       ],
+       [
+        4,
+        60
+       ],
+       [
+        5,
+        64
+       ],
+       [
+        6,
+        56
+       ],
+       [
+        7,
+        60
+       ],
+       [
+        8,
+        64
+       ],
+       [
+        9,
+        56
+       ],
+       [
+        10,
+        60
+       ],
+       [
+        11,
+        64
+       ],
+       [
+        12,
+        56
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "beklenen",
+      "cumle": 2
+     },
+     {
+      "ad": "olculen",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        60
+       ],
+       [
+        2,
+        64
+       ],
+       [
+        3,
+        56
+       ],
+       [
+        4,
+        60
+       ],
+       [
+        5,
+        64
+       ],
+       [
+        6,
+        56
+       ],
+       [
+        7,
+        60
+       ],
+       [
+        8,
+        8
+       ],
+       [
+        9,
+        8
+       ],
+       [
+        10,
+        60
+       ],
+       [
+        11,
+        64
+       ],
+       [
+        12,
+        56
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sorun",
+      "x": 8.5,
+      "y": 8,
+      "etiket": "anormal",
+      "dolu": true,
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "sorun",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bütünlük testi (integrity test), iç ünitenin her elektroda gerçekten doğru akımı verip vermediğini dışarıdan kontrol eder.",
+    "Kafa derisine yüzey elektrotları yerleştirilir ve implant her elektrottan sırayla düşük düzeyde uyarı verir.",
+    "Uyarının kafa derisine yansıyan küçük elektriksel izi kaydedilir ve beklenen örüntüyle karşılaştırılır.",
+    "Bu örnekte elektrotların çoğu beklenen düzeyde.",
+    "Sekizinci ve dokuzuncu elektrotlarda ise sinyal neredeyse yok; bu bir iç ünite sorununa işaret edebilir.",
+    "Test çoğu zaman üreticinin uzmanıyla birlikte yapılır ve sonuçları cerrahi karar için kullanılır."
+   ]
+  },
+  {
+   "id": "guvenilirlik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihaz arızası",
+   "baslik": "Cihaz *güvenilirliği*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "ad": "İmplantasyondan sonra yıl",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+     ]
+    },
+    "y": {
+     "min": 90,
+     "max": 100,
+     "adim": 2,
+     "ad": "Çalışmayı sürdüren cihaz (yüzde)"
+    },
+    "seriler": [
+     {
+      "ad": "sagkalim",
+      "noktalar": [
+       [
+        0,
+        100
+       ],
+       [
+        1,
+        99.6
+       ],
+       [
+        2,
+        99.3
+       ],
+       [
+        4,
+        98.8
+       ],
+       [
+        6,
+        98.2
+       ],
+       [
+        8,
+        97.6
+       ],
+       [
+        10,
+        97.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 4,
+      "etiket": "şematik eğri",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Üreticiler cihazlarının güvenilirliğini, uluslararası bir uzlaşıya dayanan kümülatif sağkalım oranıyla bildirir.",
+    "Bu şematik eğri, zaman geçtikçe çalışmayı sürdüren cihazların oranını gösteriyor.",
+    "Güncel iç ünitelerde bildirilen on yıllık oranlar genellikle yüzde 95'in üzerindedir; değerler modele göre değişir.",
+    "Yani arıza nadirdir; ama uzun yıllar kullanılan bir cihazda her zaman bir olasılıktır.",
+    "Aileye ve kişiye bu bilgi ameliyattan önce verilir; özellikle çocuklarda kafa darbelerine karşı önlem konuşulur."
+   ]
+  },
+  {
+   "id": "mr",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "MR güvenliği",
+   "baslik": "MR ve *mıknatıs*",
+   "ogeler": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Mıknatıs",
+     "cumle": 0,
+     "metin": "Güçlü alanda çekilir"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Ağrı, yer değiştirme",
+     "cumle": 2,
+     "metin": "Bandaja rağmen olabilir"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Görüntüde gölge",
+     "cumle": 6,
+     "metin": "İmplant çevresi"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Üretici koşulları",
+     "cumle": 7,
+     "metin": "Modele özgü"
+    }
+   ],
+   "cumleler": [
+    "İç ünitedeki mıknatıs, MR cihazının güçlü manyetik alanında çekilir ve dönmeye zorlanır.",
+    "Pek çok iç ünite, üreticinin belirttiği koşullar altında MR ile uyumludur; buna koşullu MR uyumluluğu (MRI conditional) denir.",
+    "Bazı modellerde düşük alan güçlerinde başa sıkı bir bandaj sarılarak çekim yapılabilir.",
+    "Ancak bandaja rağmen ağrı ve mıknatısın yerinden oynaması bildirilmiştir; bu nadir ama ciddi bir komplikasyondur.",
+    "Bazı modellerde yüksek alan gücü için mıknatıs küçük bir cerrahiyle geçici olarak çıkarılır.",
+    "Bazı yeni tasarımlar ise mıknatısın kendi yuvasında dönmesine izin vererek bu gereksinimi azaltır.",
+    "Mıknatıs ve iç ünite, implant çevresinde görüntüde bir gölge yaratır; bu da beynin o bölgesinin değerlendirilmesini zorlaştırabilir.",
+    "Kurallar modele göre farklı olduğu için MR güvenliği (MRI safety) kararı her zaman üreticinin güncel koşullarına göre verilir."
+   ]
+  },
+  {
+   "id": "mr_akis",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "MR güvenliği",
+   "baslik": "MR öncesi *kontrol listesi*",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "İmplant kartı",
+     "cumle": 0,
+     "metin": "Model bilgisi"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Koşullar",
+     "cumle": 1,
+     "metin": "Alan gücü, bandaj"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Ekip",
+     "cumle": 2,
+     "metin": "Radyoloji ve implant"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Dış ünite",
+     "cumle": 3,
+     "metin": "Odaya girmez"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Sonra",
+     "cumle": 4,
+     "metin": "Bobin ve ses kontrolü"
+    }
+   ],
+   "cumleler": [
+    "İmplant kullanıcısına cihazın modelini gösteren implant kartını her zaman yanında taşıması öğretilir.",
+    "MR planlanınca o model için izin verilen alan gücü ve bandaj gibi koşullar üreticinin güncel belgelerinden kontrol edilir.",
+    "Radyoloji ekibi ile implant ekibi birlikte karar verir; gerekiyorsa başka bir görüntüleme yöntemi düşünülür.",
+    "Dış ünite ve işlemci hiçbir zaman MR odasına sokulmaz.",
+    "Çekimden sonra bobinin tutuşu, ses kalitesi ve gerekirse empedanslar kontrol edilir; ağrı ya da şişlik varsa ekip bilgilendirilir.",
+    "Bu basamaklar, nadir ama ciddi komplikasyonları önlemek için her çekimde tekrarlanır."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "MR güvenliği",
+   "baslik": "Başka *dikkat* noktaları",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "Cerrahi koter",
+     "cumle": 0,
+     "metin": "Baş-boyunda tek kutuplu yok"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Diatermi",
+     "cumle": 1,
+     "metin": "Tedavi amaçlı kullanılmaz"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Statik elektrik",
+     "cumle": 2,
+     "metin": "İşlemciyi çıkar"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Darbe",
+     "cumle": 4,
+     "metin": "Kask ve koruma"
+    }
+   ],
+   "cumleler": [
+    "Baş ve boyun bölgesinde yapılacak ameliyatlarda tek kutuplu elektrikli koter, iç üniteye zarar verebileceği için genellikle kullanılmaz.",
+    "Tedavi amaçlı diatermi gibi dokuyu ısıtan yöntemler implantlı kişilerde kullanılmamalıdır.",
+    "Plastik kaydıraklar gibi güçlü statik elektrik oluşturan ortamlarda işlemcinin çıkarılması önerilir.",
+    "Bu öneriler üreticiye göre değişebilir; kişinin ve ailenin elinde güncel bir bilgi belgesi bulunmalıdır.",
+    "Kafaya darbe riski taşıyan sporlarda kask kullanmak, iç ünitenin hasar görme olasılığını azaltır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Performansı düşen kullanıcıda iç üniteye karar vermeden önce dış üniteyi parça parça yedekle değiştirin ve önceki empedanslarla karşılaştırın. Bulguları kaydedin.",
+   "cumleler": [
+    "Sahadan bir ipucu: performansı düşen bir kullanıcıda iç üniteyi düşünmeden önce dış üniteyi parça parça yedekleriyle değiştirin.",
+    "Sonra güncel empedans ve düzeyleri, önceki kontrollerin kayıtlarıyla yan yana karşılaştırın.",
+    "Kişinin ve ailenin sorunu fark ettiği tarihi, eşlik eden belirtileri ve olası darbeleri not edin.",
+    "Bu düzenli kayıt, gereksiz bir ameliyatı önleyebileceği gibi gerçek bir arızanın da gecikmeden tanınmasını sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Süre, yaş, sinir ve kullanım belirler",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Önce dış ünite kontrol edilir",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Sert ve yumuşak arıza ayrılır",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "MR: üretici koşullarına uy",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "İmplant sonucunu sağırlık süresi, implant yaşı, koklea ve sinirin durumu, elektrodun yeri ve düzenli kullanım belirgin biçimde etkiler.",
+    "Sorun gidermede önce dış ünite yedeklerle kontrol edilir, ardından empedans ve harita gözden geçirilir.",
+    "Sert arızada testler açıkça anormaldir; yumuşak arıza ise testler normalken belirtilerin sürdüğü bir dışlama tanısıdır.",
+    "MR çekimi, iç ünitenin modeline özgü üretici koşullarına uyularak ve ekip kararıyla yapılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Testler normal, belirtiler sürüyor: bu nedir?",
+   "secenekler": [
+    "Sert arıza",
+    "Yumuşak arıza",
+    "Açık devre",
+    "Kısa devre"
+   ],
+   "dogru": 1,
+   "aciklama": "_Yumuşak arıza_ diğer nedenler elendikten sonra konan bir dışlama tanısıdır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: testleri normal olduğu halde performans düşüşü ve işitsel olmayan belirtiler süren durum nasıl adlandırılır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yumuşak arıza.",
+    "Yumuşak arıza, dış ünite, harita ve tıbbi nedenler gibi diğer olasılıklar elendikten sonra konan bir dışlama tanısıdır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitsel beyin sapı implantı (*ABI*)",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste koklear implantın mümkün olmadığı durumlarda kullanılan işitsel beyin sapı implantını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

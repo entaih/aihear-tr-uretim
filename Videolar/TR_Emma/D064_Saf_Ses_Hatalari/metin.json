@@ -1,0 +1,753 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D064_Saf_Ses_Hatalari_TR",
+ "kapak": {
+  "ust": "DERS 64",
+  "baslik": "Sık yapılan<br>*hatalar*",
+  "alt": "Saf ses odyometrisinde tuzaklar",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "kollaps": true
+  }
+ },
+ "youtube": {
+  "baslik": "Saf Ses Odyometrisinde Sık Yapılan Hatalar | Ders 64 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bu derste saf ses odyometrisinde sık yapılan hataları inceliyoruz: yanlış pozitif ve yanlış negatif yanıtlar, kulak yolu çökmesi, kulaklık ve vibratör yerleşim hataları, unutulan maskeleme ve gölge eğrisi, ortam, cihaz ve kayıt hataları. Sonucun tutarlılığını kontrol etmenin basit yollarını da görüyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry; BSA, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking (2018); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "safsesodyometrisi"
+  ],
+  "etiketler": [
+   "saf ses odyometrisi hataları",
+   "yanlış pozitif yanıt",
+   "false positive response",
+   "yanlış negatif yanıt",
+   "kulak yolu çökmesi",
+   "collapsed canal",
+   "gölge eğrisi",
+   "maskeleme",
+   "insert kulaklık",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 64",
+   "baslik": "Sık yapılan *hatalar*",
+   "alt": "Saf ses odyometrisinde hataları tanımak ve önlemek",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste saf ses odyometrisinde sık yapılan hataları ve bunların odyogramda nasıl göründüğünü öğreneceğiz.",
+    "Yanlış yanıtları, kulaklık ve vibratör hatalarını, unutulan maskelemeyi ve kayıt hatalarını adım adım ele alacağız."
+   ]
+  },
+  {
+   "id": "iki_tur",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yanıt hataları",
+   "baslik": "İki tür *yanlış yanıt*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Yanlış pozitif",
+     "cumle": 1,
+     "metin": "Ses yokken yanıt"
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Yanlış negatif",
+     "cumle": 3,
+     "metin": "Ses varken yanıt yok"
+    }
+   ],
+   "cumleler": [
+    "Saf ses odyometrisinde hasta yanıtları iki yönde yanlış olabilir.",
+    "Ses verilmediği halde gelen yanıta yanlış pozitif yanıt (false positive response) denir.",
+    "Yanlış pozitif yanıtlar eşiğin gerçekte olduğundan daha iyi kaydedilmesine yol açar.",
+    "Ses verildiği ve duyulabilir olduğu halde yanıt gelmemesine yanlış negatif yanıt (false negative response) denir.",
+    "Yanlış negatif yanıtlar ise eşiğin olduğundan daha kötü görünmesine neden olur.",
+    "Bu iki hatayı Hughson-Westlake dersinde kısaca görmüştük; şimdi nedenlerine ve önlemlerine daha yakından bakalım."
+   ]
+  },
+  {
+   "id": "pozitif",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yanıt hataları",
+   "baslik": "Yanlış pozitifin *nedenleri*",
+   "maddeler": [
+    {
+     "metin": "_Ritmik_ ton sunumu",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Tinnitusu tonla _karıştırmak_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Test edenin elini ya da ekranı _görmek_",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Aşırı istekli, _tahmin eden_ hasta",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖNLEM",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "Düzensiz aralık",
+      "cumle": 1,
+      "metin": "Tahmini önler"
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Darbeli ton",
+      "cumle": 2,
+      "metin": "Tinnitustan ayırt edilir"
+     },
+     {
+      "ikon": "sessizlik",
+      "baslik": "Sessiz kontrol",
+      "cumle": 5,
+      "metin": "Boşta yanıtı yakalar"
+     }
+    ]
+   },
+   "cumleler": [
+    "Tonları düzenli bir ritimle vermek, hastanın sıradaki sesi tahmin etmesine yol açar.",
+    "Bu yüzden tonlar arasındaki sessiz aralıklar düzensiz tutulur ve aralık bazen uzatılır.",
+    "Tinnitus, yani kulak çınlaması olan hasta, özellikle çınlamasına yakın frekanslarda tonu çınlamayla karıştırabilir.",
+    "Hasta test edenin elini, cihaz ekranını ya da camdaki yansımayı görebiliyorsa görsel ipucuyla yanıt verebilir.",
+    "Bazı hastalar hiçbir sesi kaçırmamak için en ufak bir şüphede bile butona basar.",
+    "Uzun sessiz aralıklarda gelen yanıtlar bu eğilimi ortaya çıkarır; böyle bir durumda talimat yeniden verilir."
+   ]
+  },
+  {
+   "id": "negatif",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yanıt hataları",
+   "baslik": "Yanlış negatifin *nedenleri*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Yorgunluk",
+     "cumle": 1,
+     "metin": "Uzun testte dikkat düşer"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Anlaşılmayan talimat",
+     "cumle": 2,
+     "metin": "Hafif seslere basmaz"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Çok kısa ton",
+     "cumle": 3,
+     "metin": "Fark etmeye yetmez"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Yavaş yanıt",
+     "cumle": 4,
+     "metin": "Geç basış kaçırılır"
+    }
+   ],
+   "cumleler": [
+    "Yanlış negatif yanıtların da birkaç sık nedeni vardır.",
+    "Uzun bir testte hastanın dikkati azalır ve hafif tonları kaçırmaya başlar.",
+    "Talimatı yanlış anlayan hasta, yalnız açıkça duyduğu seslere basması gerektiğini düşünebilir.",
+    "Ton çok kısa verilirse hasta sesi fark etmeye fırsat bulamaz; ASHA bir ile iki, BSA bir ile üç saniyelik ton süresi önerir.",
+    "Yaşlı ya da yavaş yanıt veren hastanın geç basışı, bir sonraki tonla karıştırılıp yanıt sayılmayabilir.",
+    "Kısa molalar, talimatın yinelenmesi ve hastanın yanıt hızına uyum sağlamak bu hataları azaltır."
+   ]
+  },
+  {
+   "id": "kollaps",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Transdüser ve yerleşim",
+   "baslik": "Kulak yolu *çökmesi*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "kollaps": true,
+    "kollaps_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kollaps",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kollaps",
+     "metin": "çöken kıkırdak bölüm",
+     "cumle": 0
+    },
+    {
+     "parca": "kanal_agzi",
+     "metin": "kanal ağzı",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tizde _yalancı_ hava-kemik aralığı",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Çözüm: _insert_ kulaklık",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Supra-aural kulaklığın baskısı kıkırdak bölümü kapatabilir; buna kulak yolu çökmesi (collapsing ear canal) denir.",
+    "Çöken kanal, sesin özellikle tiz frekanslarda timpanik membrana ulaşmasını engeller.",
+    "Sonuçta tiz frekanslarda gerçekte olmayan bir hava-kemik aralığı ortaya çıkar ve iletim tipi kayıp sanılabilir.",
+    "Kanal ağzının yarık biçimli olması ve yaşlılık bu hatanın uyarı işaretleridir.",
+    "Şüphede ölçüm insert kulaklıkla tekrarlanır; aralık kaybolursa sorun çökmeye bağlıdır."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Transdüser ve yerleşim",
+   "baslik": "Insert *yerleşim* hataları",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "yakinlastir": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "ses_tupu",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "köpük uç (foam tip)",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "ses tüpü",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sığ yerleşim: _çapraz işitme_ riski",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bükülmüş tüp: _zayıf_ ses",
+     "cumle": 3,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Insert kulaklık birçok sorunu önler; ama yanlış yerleştirilirse kendi hatalarını yaratır.",
+    "Köpük uç yeterince derine girmezse kulaklar arası zayıflama azalır ve çapraz işitme riski artar.",
+    "Köpük tam genişlemeden ölçüme başlanırsa ya da uç kanal duvarına dayanırsa ses sızar ve eşikler kötü çıkar.",
+    "Ses tüpünün bükülmesi ya da sıkışması da sesin kulağa ulaşmasını azaltır.",
+    "Yanlış boyda uç seçmek de benzer hatalara yol açar; köpük ucun dış yüzü kanal ağzıyla aynı hizada ya da biraz içeride olmalıdır."
+   ]
+  },
+  {
+   "id": "supra",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Transdüser ve yerleşim",
+   "baslik": "Supra-aural *kulaklık* hataları",
+   "maddeler": [
+    {
+     "metin": "Diyafram kanal ağzına _ortalanmamış_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kırmızı ve mavi taraf _ters_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Arada saç, gözlük, _küpe_",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Test sırasında _kayan_ kulaklık",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kulaklik",
+      "metin": "supra-aural kulaklık",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Supra-aural kulaklıkta diyafram, yani sesin çıktığı merkez, kulak yolu ağzının tam karşısına gelmelidir.",
+    "Merkez kaydığında özellikle tiz frekanslarda eşikler olduğundan kötü çıkar.",
+    "Kulaklığın ters takılması fark edilmezse iki kulağın sonuçları birbirine karışır; kısa bir yön kontrolü bunu önler.",
+    "Yastık ile kulak arasına giren saç, gözlük sapı ya da küpe sızıntı yaratır ve pes frekans eşiklerini bozabilir.",
+    "Test sırasında kulaklığa dokunan ya da başını hareket ettiren hastada yerleşim yeniden kontrol edilir."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kemik yolu ve maskeleme",
+   "baslik": "Kemik yolunda *tuzaklar*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Titreşim duyumu",
+     "cumle": 1,
+     "metin": "Pes frekansta sahte eşik"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Akustik yayılım",
+     "cumle": 2,
+     "metin": "Tizde yalancı aralık"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Oklüzyon etkisi",
+     "cumle": 3,
+     "metin": "Kapalı kulakta pes artış"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kayan vibratör",
+     "cumle": 4,
+     "metin": "Eşik olduğundan kötü"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu dersinde gördüğümüz tuzaklar, sık yapılan hataların önemli bir bölümünü oluşturur.",
+    "BSA, mastoid yerleşiminde titreşim duyumu eşiğinin iki yüz elli hertzde yirmi beş desibele kadar inebileceğini belirtir.",
+    "Tiz frekanslarda vibratörün havaya yaydığı ses, özellikle dört bin hertzde yalancı bir hava-kemik aralığı yaratabilir.",
+    "Maskesiz kemik yolunda kulaklardan biri kapalı kalırsa oklüzyon etkisi pes frekans eşiklerini yapay olarak iyileştirir.",
+    "Kafa bandı gevşekse ya da vibratör kayarsa eşikler olduğundan kötü çıkar.",
+    "Hava yolunda da çok yüksek düzeylerde, beş yüz hertz ve altında titreşim hissedilebileceğini unutmayın."
+   ]
+  },
+  {
+   "id": "golge",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kemik yolu ve maskeleme",
+   "baslik": "Unutulan maskeleme: *gölge*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: normal işitme",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: maskesiz, gölge eğrisi",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Sol mastoid_: maskesiz kemik",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       55,
+       55,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 3,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulak normal; sol kulak ise maskeleme yapılmadan test edilmiş.",
+    "Sol kulağın eşikleri, sağ kulağın eğrisini yaklaşık kırk ile elli desibel aşağıdan izliyor.",
+    "Bu, sol kulağa verilen sesin kafatasından geçip sağ kokleada duyulmasıyla oluşan bir gölge eğrisi (shadow curve) olabilir.",
+    "Sol mastoidden maskesiz ölçülen kemik yolu da normal görünüyor; ama yanıt büyük olasılıkla sağ kokleadan geliyor.",
+    "Maskeleme yapılmazsa bu tablo yanlışlıkla iletim tipi kayıp gibi okunabilir; gerçekte sol kulakta çok daha ileri bir kayıp olabilir.",
+    "Tersine, karşı kulağa gereğinden fazla gürültü vermek, yani aşırı maskeleme, test kulağının eşiğini yapay olarak kötüleştirir."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ortam, cihaz, kayıt",
+   "baslik": "Ortam ve *cihaz* hataları",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "cift_duvar",
+     "cumle": 1
+    },
+    {
+     "parca": "kapi",
+     "cumle": 2
+    },
+    {
+     "parca": "pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "odyometre",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "cift_duvar",
+     "metin": "çift duvar",
+     "cumle": 1
+    },
+    {
+     "parca": "pencere",
+     "metin": "pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "odyometre",
+     "metin": "odyometre",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Gürültü: _pes ve kemik yolu_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Günlük _dinleme kontrolü_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kalibrasyon _tarihi_",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Hataların bir kısmı hastadan değil, ortamdan ve cihazdan kaynaklanır.",
+    "Ortam gürültüsü izin verilen düzeyi aşarsa, özellikle pes frekans eşikleri ve kulakların açık olduğu kemik yolu eşikleri kötü çıkar.",
+    "Kabin kapısının tam kapanmaması ya da kontrol odasındaki konuşmalar da teste karışabilir.",
+    "Hasta pencereden test edeni görebiliyorsa görsel ipucu riski vardır; oturma düzeni buna göre ayarlanır.",
+    "Her gün ilk hastadan önce yapılan kısa dinleme kontrolü, kablo arızası ya da cızırtı gibi sorunları erkenden yakalar.",
+    "Periyodik kalibrasyonu geçmiş ya da yanlış transdüser kalibrasyonuyla çalışan bir cihazda en doğru yöntem bile yanlış sonuç verir."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ortam, cihaz, kayıt",
+   "baslik": "Kayıt *hataları*",
+   "maddeler": [
+    {
+     "metin": "Yanlış kulağa ya da _frekansa_ kayıt",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Maskeli ve maskesiz _karışması_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Yanıt yok işaretinin _çizgiyle_ bağlanması",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Transdüser ve güvenilirlik _notu yok_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        60,
+        65,
+        75,
+        90,
+        110,
+        110
+       ],
+       "cumle": 0,
+       "yanitsiz": [
+        4,
+        5
+       ]
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Eşiği bulduktan sonra beklemek, yanlış kulağa ya da yanlış frekansa kayıt riskini artırır; eşikler hemen işaretlenir.",
+    "Maskeli ve maskesiz eşikler aynı sembolle kaydedilirse, odyogramı okuyan kişi maskeleme yapılıp yapılmadığını bilemez.",
+    "Yanıt yok işaretini ölçülen eşiklere çizgiyle bağlamak, gerçekte olmayan bir eğri izlenimi verir.",
+    "Kullanılan kulaklığın, yanıt güvenilirliğinin ve titreşim şüphesinin yazılmaması, sonraki yorumları zorlaştırır.",
+    "Yazılım kullanılıyorsa, sağ ve sol kulak seçiminin doğru olduğu her ölçümde ekrandan kontrol edilmelidir."
+   ]
+  },
+  {
+   "id": "tutarlilik",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ortam, cihaz, kayıt",
+   "baslik": "Sonucu *kontrol et*",
+   "adimlar": [
+    {
+     "ikon": "grafik",
+     "baslik": "1 kHz tekrarı",
+     "cumle": 0,
+     "metin": "Fark 5 dB içinde"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "SRT ve ortalama",
+     "cumle": 1,
+     "metin": "Yaklaşık 10 dB uyum"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik ve hava",
+     "cumle": 2,
+     "metin": "Kemik belirgin kötü olamaz"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Diğer testler",
+     "cumle": 3,
+     "metin": "Otoskopi, timpanometri uyumu"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Not düş",
+     "cumle": 4,
+     "metin": "Tutarsızlığı raporla"
+    }
+   ],
+   "cumleler": [
+    "Testi bitirmeden önce sonucun kendi içinde tutarlı olup olmadığını birkaç basit soruyla kontrol edebiliriz.",
+    {
+     "yazi": "Bin hertz tekrarı ilk ölçümle beş desibel içinde mi; konuşmayı alma eşiği, yani SRT, saf ses ortalamasıyla uyumlu mu?",
+     "ses": "Bin hertz tekrarı ilk ölçümle beş desibel içinde mi; konuşmayı alma eşiği, yani es ar ti, saf ses ortalamasıyla uyumlu mu?"
+    },
+    "Kemik yolu hava yolundan on desibelden fazla kötü çıkıyorsa, önce vibratör yerleşimi ve kalibrasyon kontrol edilir.",
+    "Otoskopi ve timpanometri bulguları, odyogramdaki kayıp tipiyle uyumlu olmalıdır.",
+    "Açıklanamayan bir tutarsızlık varsa test tekrarlanır ve raporda not edilir; işlevsel işitme kaybını ileride ayrı bir derste ele alacağız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Beklenmedik hava-kemik aralığında önce teknik nedenleri dışlayın: kulak yolu çökmesi, kulaklık yerleşimi, vibratör ve akustik yayılım.",
+   "cumleler": [
+    "Sahadan bir ipucu: beklenmedik bir hava-kemik aralığı gördüğünüzde hemen orta kulak sorunu yazmayın.",
+    "Önce kulak yolu çökmesini, kulaklığın ve vibratörün yerleşimini ve tiz frekansta akustik yayılımı dışlayın.",
+    "Timpanogram normal ve aralık yalnız tiz frekanslardaysa teknik bir hata olasılığı daha da artar.",
+    "Teknik nedenler dışlandıktan sonra bile kalan bir aralık gerçek bir bulgudur ve öyle raporlanır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Yanlış pozitif eşiği _iyi_, negatif _kötü_ gösterir",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Çökme ve yerleşim: _yalancı_ aralık",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Unutulan maskeleme: _gölge eğrisi_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Tutarlılık kontrolü ve _eksiksiz kayıt_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Yanlış pozitif yanıtlar eşiği olduğundan iyi, yanlış negatif yanıtlar ise olduğundan kötü gösterir.",
+    "Kulak yolu çökmesi ve kulaklık ya da vibratör yerleşim hataları yalancı bir hava-kemik aralığı yaratabilir.",
+    "Maskelemenin unutulması gölge eğrisine, aşırı maskeleme ise yapay olarak kötü eşiklere yol açar.",
+    "Bin hertz tekrarı, SRT uyumu ve eksiksiz kayıt, sonucun güvenilirliğini gösterir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Düzenli ritimle ton vermek en çok hangi hataya yol açar?",
+   "secenekler": [
+    "Yanlış pozitif yanıt",
+    "Kulak yolu çökmesi",
+    "Akustik yayılım",
+    "Aşırı maskeleme"
+   ],
+   "dogru": 0,
+   "aciklama": "Ritmik sunumda hasta sıradaki tonu _tahmin eder_; ses yokken yanıt verebilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Tonları düzenli bir ritimle vermek en çok hangi hataya yol açar?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap A: yanlış pozitif yanıt.",
+     "ses": "Doğru cevap a: yanlış pozitif yanıt."
+    },
+    "Hasta ritmi öğrenip sıradaki sesi tahmin eder; bu yüzden sessiz aralıklar düzensiz tutulur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Genişletilmiş *yüksek frekans* odyometrisi",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste sekiz bin hertzin üzerindeki frekansları ölçen genişletilmiş yüksek frekans odyometrisini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

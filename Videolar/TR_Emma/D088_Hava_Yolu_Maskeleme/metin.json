@@ -1,0 +1,813 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D088_Hava_Yolu_Maskeleme_TR",
+ "kapak": {
+  "ust": "DERS 88",
+  "baslik": "Hava yolunda<br>*maskeleme*",
+  "alt": "Ne zaman gerekir? Örneklerle karar",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      55,
+      60,
+      65,
+      70,
+      70
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Hava Yolunda Maskeleme Ne Zaman Gerekir? | Ders 88 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Hava yolu testinde maskeleme, test kulağının hava yolu eşiği ile test edilmeyen kulağın kemik yolu eşiği arasındaki fark kulaklar arası zayıflamaya ulaştığında gerekir. Bu derste test kulağı (TE) ve test edilmeyen kulak (NTE) kavramlarını, maskeleme kuralını ve supra-aural ile insert kulaklık farkını örnek odyogramlarla çalışıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ],
+  "etiketler": [
+   "klinik maskeleme",
+   "hava yolu maskeleme",
+   "maskeleme kuralı",
+   "test kulağı",
+   "test edilmeyen kulak",
+   "kulaklar arası zayıflama",
+   "interaural attenuation",
+   "insert kulaklık",
+   "saf ses odyometrisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 88",
+   "baslik": "Hava yolunda *maskeleme*",
+   "alt": "Test kulağı, karşı kulak ve maskeleme kuralı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste hava yolu testinde maskelemenin ne zaman gerektiğine nasıl karar verdiğimizi öğreneceğiz.",
+    "Kuralı örnek odyogramlar üzerinde adım adım uygulayacağız."
+   ]
+  },
+  {
+   "id": "kavramlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "Test kulağı ve *karşı kulak*",
+   "maddeler": [
+    {
+     "metin": "_Test kulağı_ (test ear): TE",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Test edilmeyen kulak_ (non-test ear): NTE",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ton TE'ye, gürültü _NTE'ye_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Karar _her frekansta_ ayrı",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "test_kulagi",
+      "cumle": 0
+     },
+     {
+      "parca": "karsi_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "test_kulagi",
+      "metin": "TE: test kulağı",
+      "cumle": 0
+     },
+     {
+      "parca": "karsi_kulak",
+      "metin": "NTE: karşı kulak",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Önce iki temel terimi tanımlayalım: eşiğini ölçtüğümüz kulağa test kulağı (test ear), kısaca TE denir.",
+    "Diğer kulağa ise test edilmeyen kulak (non-test ear), kısaca NTE denir.",
+    "Maskelemede ton TE'ye verilir, maskeleme gürültüsü ise NTE'ye verilir.",
+    "Sağ kulağı test ederken sağ kulak TE, sol kulak NTE olur; sol kulağa geçince roller yer değiştirir.",
+    "Maskeleme gerekip gerekmediği her frekans için ayrı ayrı değerlendirilir.",
+    "Bir frekansta maskeleme gerekirken komşu frekansta gerekmeyebilir."
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "Maskeleme *kuralı*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "TE hava yolu",
+     "metin": "Eşikle başla",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "NTE kemik yolu",
+     "metin": "Bu eşiği çıkar",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "IA ile karşılaştır",
+     "metin": "Fark eşit ya da büyükse",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Maskele",
+     "metin": "TE hava yolu yeniden ölçülür",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Hava yolu için maskeleme kuralı (masking rule), test kulağının hava yolu eşiğiyle başlar.",
+    "Bu eşikten, test edilmeyen kulağın kemik yolu eşiğini çıkarırız.",
+    "Fark kulaklar arası zayıflama, kısaca IA değerine eşit ya da ondan büyükse çapraz işitme olasıdır.",
+    "Bu durumda TE'nin hava yolu eşiği, NTE maskelenerek yeniden ölçülür.",
+    "Neden NTE'nin kemik yolu? Çünkü çapraz geçen ses karşı kokleaya kemik yoluyla ulaşır ve onu doğrudan uyarır.",
+    "Bu yüzden NTE'de iletim tipi kayıp olsa bile, çapraz geçen sesi algılamasını belirleyen kemik yolu eşiğidir."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "Ses karşıya *kemik yoluyla* geçer",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "test_kulagi",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: 70 dB ton",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: 40 dB",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "NTE kokleası: yaklaşık 30 dB",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "NTE'ye gürültü",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İletim engeli bu yolu durdurmaz",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Gürültü NTE kokleasını meşgul eder",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Şemada TE'ye yetmiş desibellik bir ton verdiğimizi düşünelim.",
+    "Ses kafatasından geçerken, bu örnekte yaklaşık kırk desibel zayıflıyor.",
+    "NTE kokleasına yaklaşık otuz desibel ulaşır; NTE'nin kemik yolu eşiği otuz ya da daha iyiyse ton orada duyulur.",
+    "NTE'nin dış ya da orta kulağındaki bir iletim engeli bu yolu durdurmaz, çünkü ses kokleaya kafatası üzerinden ulaşır.",
+    "Bu durumda NTE'ye gürültü vererek kokleasını meşgul eder ve çapraz işitmeyi engelleriz."
+   ]
+  },
+  {
+   "id": "ia",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "Hangi IA *değeri?*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supra-aural",
+     "metin": "IA _40 dB_; temkinli değer",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Insert",
+     "metin": "IA _yaklaşık 55 dB_; frekansa bağlı",
+     "cumle": 2
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik vibratörü",
+     "metin": "IA _0 dB_; ayrı kural",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kuralda kullanılacak IA değeri, kullanılan kulaklığa göre seçilir.",
+    "Supra-aural kulaklık için temkinli değer kırk desibeldir; fark kırk ya da üzeriyse maskeleme yapılır.",
+    "Insert kulaklıkta IA daha yüksektir; kılavuzlarda temkinli değer olarak genellikle elli beş desibel kullanılır.",
+    "Bu derste insert için elli beş desibeli kullanacağız; frekansa göre ayrı değer kullanan protokoller de vardır.",
+    "Kemik yolunda IA sıfır kabul edildiği için onun kuralı farklıdır ve bir sonraki dersin konusudur."
+   ]
+  },
+  {
+   "id": "ornek1",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Örnek odyogramlar",
+   "baslik": "Örnek 1: *tek taraflı* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_ (NTE): hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Sağ_ (NTE): kemik yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_ (TE): maskesiz hava yolu",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       55,
+       60,
+       65,
+       70,
+       70
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      60
+     ],
+     "etiket": "50 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "İlk örnekte sağ kulak normal; hava ve kemik yolu eşikleri normal bölgede.",
+    "Sol kulağın maskesiz hava yolu eşikleri ise elli ile yetmiş desibel arasında.",
+    "Sol kulağı test ederken sol kulak TE, sağ kulak ise NTE olur.",
+    "Bin hertzde sol hava yolu altmış, sağ kemik yolu on desibel; fark elli desibel.",
+    "Elli, kırktan büyük olduğu için supra-aural kulaklıkla bu frekansta maskeleme gerekir.",
+    "Aynı hesabı diğer frekanslarda yaptığımızda da her frekansta fark kırkın üzerinde çıkıyor.",
+    "Yani supra-aural kulaklıkla sol kulağın tüm hava yolu eşikleri, sağ kulak maskelenerek yeniden ölçülmelidir."
+   ]
+  },
+  {
+   "id": "ornek1_insert",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Örnek odyogramlar",
+   "baslik": "Aynı örnek, *insert* ile",
+   "maddeler": [
+    {
+     "metin": "250 ve 500 Hz: fark _45 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1000 Hz: fark _50 dB_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "2000 ve 4000 Hz: fark _55 dB_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "8000 Hz: NTE _hava yolu_ ile 50 dB",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SONUÇ",
+    "metin": "Insert ile maskeleme yalnız *2000 ve 4000 Hz* için",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Şimdi aynı hastayı insert kulaklıkla test ettiğimizi düşünelim ve elli beş desibellik IA değerini kullanalım.",
+    "İki yüz elli ve beş yüz hertzde fark kırk beş desibel; bu, elli beşin altında kalıyor.",
+    "Bin hertzde fark elli desibel; bu da elli beşin altında.",
+    "İki bin ve dört bin hertzde ise fark elli beş desibel; sınıra ulaştığı için maskeleme gerekir.",
+    "Sekiz bin hertzde kemik yolu ölçülmediği için NTE'nin hava yolu eşiği kullanılır; fark elli desibel olduğundan maskeleme gerekmez.",
+    "Gördüğünüz gibi insert kulaklık, maskeleme gereken frekans sayısını belirgin biçimde azaltıyor."
+   ]
+  },
+  {
+   "id": "ornek2",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Örnek odyogramlar",
+   "baslik": "Örnek 2: *gizli* tuzak",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_ (TE): hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_ (NTE): hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Sol_ (NTE): kemik yolu",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       65,
+       70,
+       70,
+       75,
+       75,
+       80
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       35,
+       35,
+       35,
+       40,
+       40,
+       45
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      70
+     ],
+     "etiket": "60 dB",
+     "cumle": 4
+    }
+   },
+   "cumleler": [
+    "İkinci örnekte sağ kulakta yetmiş desibel civarında sensörinöral bir kayıp var ve sağ kulak TE.",
+    "Sol kulağın, yani NTE'nin hava yolu eşikleri otuz beş ile kırk beş desibel arasında.",
+    "Ancak sol kemik yolu normal; yani sol kulakta iletim tipi bir kayıp var.",
+    "Bin hertzde iki kulağın hava yolu eşiklerini karşılaştırırsak fark yalnız otuz beş desibel ve maskeleme gerekmiyor gibi görünür.",
+    "Oysa kurala göre doğru karşılaştırma NTE'nin kemik yoluyla yapılır: yetmiş eksi on, altmış desibel.",
+    "Altmış, kırkın çok üzerinde; bu yüzden sağ kulağın hava yolu eşikleri mutlaka maskelenerek ölçülmelidir.",
+    "Çapraz geçen ses, sol kulaktaki iletim engelini atlayıp doğrudan sol kokleaya ulaşır.",
+    "Bu örnek, karşılaştırmanın neden hava yoluyla değil kemik yoluyla yapıldığını açıkça gösterir."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinik akış",
+   "baslik": "Pratikte *karar akışı*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Hava yolu",
+     "metin": "İki kulağın eşikleri",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Geçici karar",
+     "metin": "Hava yolu farkına göre",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik yolu",
+     "metin": "Kural yeniden kontrol edilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Yeni maskeleme",
+     "metin": "Gereken frekanslar çıkabilir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Klinikte genellikle önce iki kulağın hava yolu eşikleri, sonra kemik yolu eşikleri ölçülür.",
+    "Bu yüzden ilk aşamada, iki kulağın hava yolu eşikleri arasındaki farka bakarak geçici bir karar verilir.",
+    "Kemik yolu ölçüldükten sonra kural, NTE'nin kemik yolu eşiğiyle yeniden kontrol edilir.",
+    "Bu kontrolde, ikinci örnekteki gibi yeni maskeleme gereken frekanslar ortaya çıkabilir.",
+    "Maskesiz kemik yolu iki kokleadan iyi olanı yansıttığı için, karşılaştırmada bu değeri kullanmak temkinli bir yaklaşımdır.",
+    "Bazı kılavuzlar, kemik yolu bilinmediğinde iki kulağın hava yolu farkını da ayrı bir kural olarak kullanır."
+   ]
+  },
+  {
+   "id": "ornek3",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinik akış",
+   "baslik": "Örnek 3: maskeleme *gerekmez*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: hava yoluyla uyumlu",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       45,
+       50,
+       55,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       55,
+       55,
+       65,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       35,
+       40,
+       45,
+       50,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Üçüncü örnekte iki kulakta da benzer derecede sensörinöral kayıp var.",
+    "Sağ ve sol hava yolu eşikleri birbirine çok yakın, kemik yolu eşikleri de hava yoluyla uyumlu.",
+    "Hiçbir frekansta TE hava yolu ile NTE kemik yolu arasındaki fark on beş desibeli geçmiyor.",
+    "Bu fark kırkın çok altında olduğundan hava yolu için maskeleme gerekmez.",
+    "Simetrik ve hava-kemik aralığı olmayan kayıplarda maskeleme ihtiyacı genellikle azdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Karşı kulakta iletim tipi kayıp varsa hava yolu farkı yanıltabilir. Kemik yolunu ölçtükten sonra maskeleme kararını mutlaka yeniden kontrol edin.",
+   "cumleler": [
+    "Sık yapılan bir hatayı hatırlatalım.",
+    "Karşı kulakta iletim tipi kayıp varsa, iki kulağın hava yolu eşikleri birbirine yakın görünebilir.",
+    "Bu durumda yalnız hava yolu farkına bakarak maskeleme gerekmediğine karar vermek yanıltıcıdır.",
+    "Kemik yolu eşiklerini ölçtükten sonra her frekansta kararı yeniden kontrol edin.",
+    "Bu kısa kontrol, hatalı bir odyogramı rapora girmeden yakalamanızı sağlar."
+   ]
+  },
+  {
+   "id": "karar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Karar ve kayıt",
+   "baslik": "1000 Hz için *karar tablosu*",
+   "sutunlar": [
+    "Örnek",
+    "TE hava",
+    "NTE kemik",
+    "Karar"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1, supra-aural",
+      "60",
+      "10",
+      "Maskele"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "1, insert",
+      "60",
+      "10",
+      "Gerekmez"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2, supra-aural",
+      "70",
+      "10",
+      "Maskele"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3, supra-aural",
+      "55",
+      "45",
+      "Gerekmez"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bin hertz için kararları bir tabloda toplayalım: birinci örnekte supra-aural kulaklıkla fark elli, maskeleme gerekir.",
+    "Aynı örnekte insert kulaklıkla fark yine elli, ancak elli beşin altında kaldığı için bu frekansta maskeleme gerekmez.",
+    "İkinci örnekte fark altmış desibel; hava yolları yakın görünse de maskeleme şarttır.",
+    "Üçüncü örnekte fark on desibel; maskeleme gerekmez.",
+    "Her durumda soru aynıdır: TE'ye verilen ses, IA kadar zayıfladıktan sonra NTE kokleasında duyulabilir mi?"
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Karar ve kayıt",
+   "baslik": "Maskeleme sonrası *kayıt*",
+   "maddeler": [
+    {
+     "metin": "Maskeli eşik: sağ _üçgen_, sol kare",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Gürültü düzeyini _not et_",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Eşik değişmese de _maskeli işaret_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Gürültü düzeyi: _plato yöntemi_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Maskeleme yapılarak bulunan hava yolu eşikleri sağda kırmızı üçgen, solda mavi kare ile işaretlenir.",
+    "Böylece odyogramı okuyan kişi, bu eşiğin maskeleme altında doğrulandığını bilir.",
+    "Kullanılan maskeleme gürültüsünün düzeyi de forma ya da odyogramın altına yazılır.",
+    "Maskeleme sonrasında eşik değişmemiş olsa bile, maskeli ölçüm yapıldığını gösteren işaret kullanılır.",
+    "Gürültünün hangi düzeyde verileceğini ise etkin maskeleme ve plato yöntemi derslerinde göreceğiz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "TE test kulağı, _NTE_ karşı kulak",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kural: TE hava eksi _NTE kemik_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Fark _IA ya da üstü_ ise maskele",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Kemik yolu sonrası _yeniden kontrol_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Eşiğini ölçtüğümüz kulak TE, gürültü verdiğimiz karşı kulak ise NTE'dir.",
+    "Hava yolu kuralında TE'nin hava yolu eşiğinden NTE'nin kemik yolu eşiği çıkarılır.",
+    "Fark, supra-aural kulaklıkta kırk, insert kulaklıkta yaklaşık elli beşe ulaşırsa maskeleme gerekir.",
+    "Kemik yolu ölçüldükten sonra karar her frekansta yeniden kontrol edilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Sağ hava yolu 70, sol kemik yolu 15 dB. Supra-aural ile ne yapılır?",
+   "secenekler": [
+    "Maskeleme gerekmez",
+    "Sağ ölçülürken sol maskelenir",
+    "Sol ölçülürken sağ maskelenir"
+   ],
+   "dogru": 1,
+   "aciklama": "Fark 55 dB, yani 40 dB'nin üzerinde; sağ hava yolu _sol kulak maskelenerek_ yeniden ölçülür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sağ hava yolu yetmiş, sol kemik yolu on beş desibel. Supra-aural kulaklıkla ne yapmalıyız?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: sağ kulak ölçülürken sol kulak maskelenir.",
+    "Fark elli beş desibel, yani kırkın üzerinde; bu yüzden sağ hava yolu eşiği sol kulağa gürültü verilerek yeniden ölçülür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Kemik yolunda maskeleme *ne zaman?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, kemik yolu testinde maskelemenin ne zaman gerektiğini ve oklüzyon etkisini konuşacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

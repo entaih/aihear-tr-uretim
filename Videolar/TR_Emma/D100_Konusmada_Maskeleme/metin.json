@@ -1,0 +1,789 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D100_Konusmada_Maskeleme_TR",
+ "kapak": {
+  "ust": "DERS 100",
+  "baslik": "Konuşmada<br>*maskeleme*",
+  "alt": "SRT ve SDS için ne zaman, ne kadar?",
+  "cizim": "maskeleme",
+  "ayar": {
+   "ia_db": 40,
+   "test_kulak": "sag"
+  }
+ },
+ "youtube": {
+  "baslik": "Konuşma Testlerinde Maskeleme | Ders 100 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Konuşma testlerinde, özellikle yüksek düzeyde yapılan kelime tanıma testinde, karşı kulak konuşmayı duyabilir. Bu derste SRT ve SDS için maskeleme kuralını, konuşma gürültüsünü, en az ve en çok etkin maskeleme düzeyinin hesaplanmasını ve sunum düzeyinden yirmi desibel çıkarılan pratik kuralı örnek bir odyogram üzerinde çalışıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Yacullo (1999), Clinical masking in speech audiometry: a simplified approach, American Journal of Audiology; Martin ve Clark, Introduction to Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "maskeleme",
+   "konuşmaodyometrisi"
+  ],
+  "etiketler": [
+   "konuşma odyometrisinde maskeleme",
+   "konuşma gürültüsü",
+   "etkin maskeleme",
+   "sunum düzeyi",
+   "SRT maskeleme",
+   "SDS maskeleme",
+   "kulaklar arası zayıflama",
+   "klinik maskeleme",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 100",
+   "baslik": "Konuşmada *maskeleme*",
+   "alt": "SRT ve SDS için ne zaman, ne kadar?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste konuşma testlerinde karşı kulağın ne zaman maskelenmesi gerektiğini öğreneceğiz.",
+    "Ardından konuşma gürültüsünün düzeyini hesaplamanın iki yolunu örnek bir odyogram üzerinde çalışacağız."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ne zaman?",
+   "baslik": "Konuşma da *karşıya* geçer",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40,
+    "test_kulak": "sag"
+   },
+   "vurgula": [
+    {
+     "parca": "test_kulagi",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: kelimeler 90 dB HL",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: yaklaşık 40 dB",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "NTE kokleası: yaklaşık 50 dB",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "NTE'ye konuşma gürültüsü",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kelime tanıma _yüksek düzeyde_ yapılır",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "İyi kulak skoru _yükseltir_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Saf seste olduğu gibi konuşma da test kulağından, yani TE'den kafatası üzerinden karşı tarafa geçebilir.",
+    "Supra-aural kulaklıkta konuşma için temkinli kulaklar arası zayıflama, yani IA değeri yaklaşık kırk desibel kabul edilir.",
+    "Doksan desibel HL'de verilen kelimeler, test edilmeyen kulağın, yani NTE'nin kokleasına yaklaşık elli desibel olarak ulaşabilir.",
+    "Kelime tanıma testi rahat duyulan, yani yüksek bir düzeyde yapıldığı için bu risk özellikle büyüktür.",
+    "NTE iyi işitiyorsa kelimeleri o tanır ve kötü kulağın skoru olduğundan çok daha iyi görünür.",
+    "Bunu önlemek için NTE'ye konuşma gürültüsü verilir."
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ne zaman?",
+   "baslik": "Konuşmada maskeleme *kuralı*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Sunum düzeyi",
+     "metin": "TE'ye verilen düzey",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "NTE kemik yolu",
+     "metin": "En iyi eşik",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Farkı al",
+     "metin": "Sunum eksi kemik",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "IA ile kıyasla",
+     "metin": "40 ya da 55",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Maskele",
+     "metin": "Fark IA'ya ulaşırsa",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kural, test kulağına verilen konuşmanın sunum düzeyi (presentation level) ile başlar.",
+    "Bu düzeyden, NTE'nin konuşma frekanslarındaki, genellikle beş yüz ile dört bin hertz arasındaki en iyi kemik yolu eşiği çıkarılır.",
+    "En iyi kemik yolunu kullanırız, çünkü geçen konuşma NTE kokleasının en duyarlı bölgesinde algılanabilir.",
+    "Fark, supra-aural kulaklıkta kırk, insert kulaklıkta yaklaşık elli beş desibellik IA değeriyle karşılaştırılır.",
+    "Fark IA'ya eşit ya da ondan büyükse, karşı kulak maskelenerek test yapılır.",
+    "Bu kural konuşmayı alma eşiği, yani SRT için de, konuşmayı ayırt etme skoru, yani SDS için de aynıdır; değişen sunum düzeyidir."
+   ]
+  },
+  {
+   "id": "srt_sds",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ne zaman?",
+   "baslik": "SRT ve SDS: *hangisi* daha riskli?",
+   "sol": {
+    "ust": "SRT",
+    "maddeler": [
+     {
+      "metin": "Sunum düzeyi _eşik civarı_",
+      "cumle": 0
+     },
+     {
+      "metin": "Maskeleme _daha seyrek_ gerekir",
+      "cumle": 1
+     },
+     {
+      "metin": "Büyük asimetride gerekir",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "SDS",
+    "maddeler": [
+     {
+      "metin": "Sunum düzeyi SRT'nin _30 ile 40 dB_ üstü",
+      "cumle": 3
+     },
+     {
+      "metin": "Maskeleme _çok sık_ gerekir",
+      "cumle": 4
+     },
+     {
+      "metin": "Simetrik kayıpta bile gerekebilir",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "SRT ölçülürken konuşma, test kulağının eşiği civarında verilir.",
+    "Bu düşük düzeyde karşıya geçen konuşma çoğu zaman NTE'nin eşiğine ulaşmaz; maskeleme daha seyrek gerekir.",
+    "Ancak iki kulak arasında büyük bir fark varsa SRT için de maskeleme gerekir.",
+    "Kelime tanıma testi ise çoğu zaman SRT'nin otuz ile kırk desibel üzerinde yapılır.",
+    "Bu yüksek düzeyde fark kolayca IA'yı aşar; bu yüzden SDS'de maskeleme çok sık gerekir.",
+    "Kelime tanıma yüksek düzeyde yapıldığı için, iki kulağın simetrik olduğu kayıplarda bile maskeleme gerekebilir."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Gürültü",
+   "baslik": "*Konuşma* gürültüsü",
+   "maddeler": [
+    {
+     "metin": "Konuşma spektrumuna benzer _geniş bant_ gürültü",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Aynı etkiyi _daha az_ ses yüksekliğiyle verir",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Düzey: _etkin maskeleme_, dB EM",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Cihazın kalibrasyon biçimini _bilin_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SEÇİM",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Konuşma gürültüsü",
+      "metin": "Tercih edilen",
+      "cumle": 0
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Beyaz gürültü",
+      "metin": "Daha az verimli",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Konuşma testlerinde maskeleme için konuşma gürültüsü (speech noise) kullanılır; spektrumu uzun süreli konuşma spektrumuna benzer.",
+    "Gürültünün enerjisi konuşmanın enerjisinin bulunduğu frekanslarda toplandığı için, aynı maskeleme etkisini daha az ses yüksekliğiyle sağlar.",
+    "Beyaz gürültü de kullanılabilir, ama tiz frekanslarda gereksiz enerji taşır ve hasta için daha rahatsız edicidir.",
+    "Gürültü düzeyi etkin maskeleme (effective masking), kısaca dB EM olarak ifade edilir.",
+    "Bazı odyometreler konuşma gürültüsünü başka birimlerle gösterebilir; kullandığınız cihazın kalibrasyon biçimini bilin.",
+    "Hastaya, bir kulağında hışırtılı bir ses duyacağı ve yalnız kelimeleri tekrar etmesi gerektiği anlatılır."
+   ]
+  },
+  {
+   "id": "min_max",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ne kadar?",
+   "baslik": "En az ve *en çok* gürültü",
+   "maddeler": [
+    {
+     "metin": "En az: sunum eksi IA artı _NTE aralığı_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Az gürültü: _yetersiz maskeleme_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "En çok: TE kemik artı IA _eksi 5_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Seçilen düzey: _ikisinin arasında_",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FORMÜL",
+    "metin": "En az EM = sunum düzeyi eksi IA artı *NTE hava-kemik aralığı*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Gürültü düzeyini hesaplamanın bir yolu, en az ve en çok etkin maskeleme düzeyini bulup arada bir değer seçmektir.",
+    "En az düzey: TE'deki sunum düzeyinden IA çıkarılır ve NTE'nin en büyük hava-kemik aralığı eklenir.",
+    "Bu düzeyin altındaki gürültü, karşıya geçen konuşmayı örtemez; buna yetersiz maskeleme denir.",
+    "NTE'deki hava-kemik aralığı eklenir, çünkü gürültü NTE'ye hava yoluyla verilir ve iletim engelini de aşmak zorundadır.",
+    "En çok düzey: TE'nin en iyi kemik yolu eşiğine IA eklenir ve güvenlik için beş desibel çıkarılır.",
+    "Bu düzeyin üzerindeki gürültü kafatasından TE'ye geçer ve skoru olduğundan kötü gösterir; buna aşırı maskeleme denir.",
+    "Seçilen gürültü düzeyi, bu iki sınırın arasında kalmalıdır."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ne kadar?",
+   "baslik": "Güvenli *aralık*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "adim": 10,
+     "ad": "NTE'ye gürültü (dB EM)"
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": " "
+    },
+    "bolgeler": [
+     {
+      "ad": "yetersiz",
+      "x": [
+       0,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "yetersiz",
+      "cumle": 1
+     },
+     {
+      "ad": "guvenli",
+      "x": [
+       50,
+       90
+      ],
+      "renk": "yesil",
+      "etiket": "güvenli aralık",
+      "cumle": 2
+     },
+     {
+      "ad": "asiri",
+      "x": [
+       90,
+       110
+      ],
+      "renk": "kirmizi",
+      "etiket": "aşırı",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "en_az",
+      "x": 50,
+      "y": 5,
+      "cizgi": "dikey",
+      "nokta": false,
+      "renk": "sari",
+      "etiket": "en az 50",
+      "cumle": 1
+     },
+     {
+      "ad": "en_cok",
+      "x": 90,
+      "y": 5,
+      "cizgi": "dikey",
+      "nokta": false,
+      "renk": "kirmizi",
+      "etiket": "en çok 90",
+      "cumle": 3
+     },
+     {
+      "ad": "secilen",
+      "x": 70,
+      "y": 5,
+      "dolu": true,
+      "renk": "mavi",
+      "etiket": "seçilen 70",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "En az: 90 eksi 40 artı 0",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "En çok: 55 artı 40 eksi 5",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Seçilen: aralığın ortası",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Biraz sonra göreceğimiz örnekte kelimeler sağ kulağa doksan desibel HL'de veriliyor.",
+    "Sol kulakta hava-kemik aralığı yok; en az düzey doksan eksi kırk artı sıfır, yani elli dB EM.",
+    "Elli ile doksan arasındaki bölge güvenli aralıktır.",
+    "Sağ kulağın en iyi kemik yolu elli beş; en çok düzey elli beş artı kırk eksi beş, yani doksan dB EM.",
+    "Bu aralığın ortasındaki yetmiş dB EM, iki sınırdan da yirmi desibel uzakta güvenli bir seçimdir.",
+    "Gereksiz yüksek gürültüden kaçınmanın bir nedeni de merkezi maskelemedir; bu etki eşiği yaklaşık beş desibel yükseltebilir."
+   ]
+  },
+  {
+   "id": "yacullo",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ne kadar?",
+   "baslik": "Pratik kural: *eksi 20*",
+   "maddeler": [
+    {
+     "metin": "EM = sunum düzeyi _eksi 20_",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Artı NTE'nin en büyük _hava-kemik aralığı_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "IA en az 40 dB ise _güvenli_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "TE'de iletim kaybında _üst sınırı_ denetle",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÖRNEK",
+    "metin": "90 eksi 20 artı 0 = *70 dB EM*",
+    "cumle": 3
+   },
+   "cumleler": [
+    {
+     "yazi": "Daha hızlı bir yol, Yacullo'nun önerdiği pratik kuraldır: etkin maskeleme düzeyi, sunum düzeyinin yirmi desibel altıdır.",
+     "ses": "Daha hızlı bir yol, Yakulo'nun önerdiği pratik kuraldır: etkin maskeleme düzeyi, sunum düzeyinin yirmi desibel altıdır."
+    },
+    "NTE'de hava-kemik aralığı varsa, en büyük aralık bu değere eklenir.",
+    "IA en az kırk desibel olduğu için bu düzey, en az gerekli düzeyin yaklaşık yirmi desibel üstünde kalır.",
+    "Örneğimizde doksan eksi yirmi artı sıfır, yetmiş dB EM eder; az önce bulduğumuz güvenli seçimle aynı.",
+    "Ancak TE'de büyük bir iletim kaybı varsa TE'nin kemik yolu iyidir ve üst sınır alçalır; bu durumda üst sınır ayrıca hesaplanmalıdır.",
+    "Her iki yöntemde de amaç aynıdır: gürültü yeterli olmalı, ama test kulağına ulaşmamalıdır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Örnek",
+   "baslik": "Örnek: *tek taraflı* kayıp",
+   "lejant": [
+    {
+     "isaret": "△",
+     "renk": "sag",
+     "metin": "_Sağ_ (TE): SRT 60 dB HL",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Sağ_: en iyi kemik yolu 55",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_ (NTE): normal, kemik 10",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava_maskeli",
+      "degerler": [
+       50,
+       55,
+       60,
+       65,
+       70,
+       75
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       45,
+       55,
+       60,
+       60,
+       65
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta orta-ileri derecede sensörinöral kayıp var; SRT altmış desibel HL bulunmuş.",
+    "Sağ kulağın konuşma frekanslarındaki en iyi kemik yolu eşiği elli beş desibel.",
+    "Sol kulak normal; hava ve kemik yolu eşikleri on desibel civarında ve hava-kemik aralığı yok.",
+    "Kelime tanıma testi sağ kulağa SRT'nin otuz desibel üzerinde, yani doksan desibel HL'de yapılacak.",
+    "Önce SRT için kurala bakalım: altmış eksi on, elli desibel; supra-aural kulaklıkta kırkı aşıyor, maskeleme gerekir.",
+    "Kelime tanıma için: doksan eksi on, seksen desibel; bu da IA'yı açıkça aşıyor.",
+    "Insert kulaklıkla SRT farkı olan elli, elli beşin altında kalır; ama kelime tanıma için maskeleme yine gerekir."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Örnek",
+   "baslik": "Örnek *hesap tablosu*",
+   "sutunlar": [
+    "Test",
+    "Sunum (dB HL)",
+    "Fark (dB)",
+    "Gürültü (dB EM)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "SRT",
+      "Yaklaşık 60",
+      "50",
+      "40"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "SDS",
+      "90",
+      "80",
+      "70"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Sonuçları bir tabloda toplayalım.",
+    "SRT ölçümü yaklaşık altmış desibel civarında yapılır; pratik kurala göre gürültü altmış eksi yirmi, yani kırk dB EM.",
+    "SRT ararken sunum düzeyi değiştiği için, bazı klinisyenler gürültüyü tahmini SRT'ye göre bir kez ayarlar ve test boyunca sabit tutar.",
+    "Kelime tanıma doksan desibel HL'de yapılır ve sol kulağa yetmiş dB EM konuşma gürültüsü verilir.",
+    "İki değer de en az ve en çok sınırlar arasında kalıyor.",
+    "Maskeli SRT ve skor, kullanılan gürültü düzeyiyle birlikte kaydedilir."
+   ]
+  },
+  {
+   "id": "nte_iletim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Örnek",
+   "baslik": "NTE'de *iletim* kaybı varsa",
+   "maddeler": [
+    {
+     "metin": "Gürültü önce _iletim engelini_ aşmalı",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "En az düzey _aralık kadar_ yükselir",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Güvenli aralık _daralır_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Insert kulaklık _aralığı genişletir_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        40,
+        40,
+        35,
+        35,
+        40,
+        45
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        15
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Şimdi NTE'nin, yani sol kulağın iletim tipi kaybı olduğunu düşünelim; bu örnekte hava-kemik aralığı otuz desibel.",
+    "Gürültü sol kulağa hava yoluyla verildiği için önce bu engeli aşmalıdır; en az düzey otuz desibel yükselir.",
+    "Aynı örnekte kelime tanıma için en az düzey elli yerine seksen dB EM olur; pratik kural ise yüz dB EM verir.",
+    "Yüz, sağ kulak için hesapladığımız doksanlık üst sınırı aşar; güvenli aralık daralmış, pratik kural bu kez kullanılamaz.",
+    "Insert kulaklık IA'yı yükselttiği için bu tür durumlarda güvenli aralığı genişletir.",
+    "İki taraflı iletim kaybında bu aralık tamamen kaybolabilir; bu, saf seste gördüğümüz maskeleme ikileminin konuşmadaki karşılığıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kötü kulakta maskesiz kelime skoru beklenenden iyiyse çapraz işitmeden şüphelenin; testi konuşma gürültüsüyle tekrarlayın.",
+   "cumleler": [
+    "Sahada işe yarayan bir kontrol önerelim.",
+    "Kötü kulağın maskesiz kelime tanıma skoru, saf ses eşiklerine göre beklenenden iyi görünüyorsa durun.",
+    "Bu, kelimeleri aslında iyi kulağın tanıdığını gösterebilir.",
+    "Testi karşı kulağa uygun düzeyde konuşma gürültüsü vererek tekrarlayın ve iki skoru karşılaştırın."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Örnek",
+   "baslik": "Raporda *maskeleme*",
+   "maddeler": [
+    {
+     "metin": "Maskeleme yapıldı mı: _evet ya da hayır_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Gürültü türü ve _dB EM_ düzeyi",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Kulaklık türü: _supra-aural ya da insert_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Sınırda kalan durumlar _not edilir_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KAYIT",
+    "metin": "SDS: yüzde 72, 90 dB HL, sol 70 dB EM *konuşma gürültüsü*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Raporda önce SRT ve kelime tanıma için maskeleme yapılıp yapılmadığı belirtilir.",
+    "Yapıldıysa gürültünün türü ve etkin maskeleme düzeyi yazılır.",
+    "Kullanılan kulaklık türü de yazılır, çünkü IA ve dolayısıyla karar buna bağlıdır.",
+    "Güvenli aralığın dar olduğu ya da maskelemenin yetersiz kalabildiği durumlar ayrıca not edilir.",
+    "Örneğin bir kayıt şöyle olabilir: kelime tanıma yüzde yetmiş iki, doksan desibel HL, sol kulağa yetmiş dB EM konuşma gürültüsü."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kural: sunum eksi NTE kemik, _IA'ya_ ulaşırsa",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "SDS'de maskeleme _çok sık_ gerekir",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "En az: sunum eksi IA _artı NTE aralığı_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Pratik kural: _sunum eksi 20_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Sunum düzeyi ile NTE'nin en iyi kemik yolu arasındaki fark IA'ya ulaşırsa, konuşma testinde karşı kulak maskelenir.",
+    "Kelime tanıma yüksek düzeyde yapıldığı için maskeleme bu testte SRT'ye göre çok daha sık gerekir.",
+    "En az düzey sunum düzeyi eksi IA artı NTE'nin hava-kemik aralığı; en çok düzey TE kemik yolu artı IA eksi beştir.",
+    "Pratik kural olarak sunum düzeyinin yirmi desibel altı, gerekirse NTE aralığı eklenerek kullanılabilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "SDS 80 dB HL, NTE normal, aralık yok. Pratik kuralla gürültü?",
+   "secenekler": [
+    "40 dB EM",
+    "60 dB EM",
+    "80 dB EM",
+    "100 dB EM"
+   ],
+   "dogru": 1,
+   "aciklama": "Sunum düzeyi eksi 20: _80 eksi 20 = 60 dB EM_; NTE'de aralık olmadığı için ekleme yok.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Kelime tanıma seksen desibel HL'de, karşı kulak normal ve hava-kemik aralığı yok. Pratik kuralla gürültü kaç olmalı?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: altmış dB EM.",
+    "Sunum düzeyinden yirmi çıkarılır; karşı kulakta hava-kemik aralığı olmadığı için başka ekleme yapılmaz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "MCL ve UCL: *rahat* ve rahatsız edici düzeyler",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste en rahat dinleme düzeyini ve rahatsız edici ses düzeyini nasıl ölçtüğümüzü öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

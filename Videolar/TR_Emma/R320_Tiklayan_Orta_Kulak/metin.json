@@ -1,0 +1,107 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R320_Tiklayan_Orta_Kulak_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #320",
+  "baslik": "Tıklayan *orta kulak*",
+  "alt": "Orta kulak miyoklonusu",
+  "cizim": "orta_kulak",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kulakta nabızdan bağımsız tıklama sesi nereden gelebilir? #shorts",
+  "aciklama": "Orta kulak miyoklonusu, stapedius ya da tensor tympani kasının istemsiz, ritmik kasılmasıdır; kişi tıklama ya da kanat çırpma gibi, nabızdan bağımsız bir ses duyar. Prob kulak yolundayken uyaran verilmeden alınan zamana bağlı admitans kaydında kısa, ritmik dalgalanmalar görülebilir; bunların hastanın duyduğu seslerle eş zamanlı olması bulguyu destekler. Bulgular hekime iletilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "tinnitus",
+   "immitans"
+  ],
+  "etiketler": [
+   "orta kulak miyoklonusu",
+   "stapedius",
+   "tensor tympani",
+   "objektif tinnitus",
+   "admitans kaydı",
+   "immitans",
+   "tinnitus",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kulakta nabızdan bağımsız tıklama sesi nereden gelebilir?",
+  "bilgiler": [
+   "Orta kulak kaslarının ritmik kasılması tıklama sesi yapabilir.",
+   "Bu ses nabızdan bağımsızdır, ataklarla gelebilir.",
+   "İmmitans cihazında ritmik admitans dalgalanmaları görülebilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "tinnitus",
+   "immitans"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #320",
+   "metin": "Kulakta *tık tık?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kulakta nabızdan bağımsız tıklama sesi nereden gelebilir?"
+   ]
+  },
+  {
+   "id": "miyoklonus",
+   "tur": "zincir",
+   "baslik": "Kas *kasılınca* tık",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Kas",
+     "tr": "stapedius, tensor",
+     "cumle": 1
+    },
+    {
+     "ad": "Membran",
+     "tr": "oynar",
+     "cumle": 3
+    },
+    {
+     "ad": "Admitans",
+     "tr": "ritmik dalga",
+     "cumle": 3,
+     "gecikme": 0.8
+    }
+   ],
+   "alt": "Bulgular _hekime iletilir_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Kulakta duyulan her ritmik ses nabızla uyumlu değildir.",
+    "Orta kulak miyoklonusunda stapedius ya da tensor tympani kası ritmik kasılır.",
+    "Kişi nabızdan bağımsız, tıklama ya da kanat çırpma gibi bir ses duyar.",
+    "Kasılmalar timpanik membranı oynatır; admitans kaydında kısa, ritmik dalgalanmalar görülebilir.",
+    "Dalgalanmalar duyulan seslerle eş zamanlıysa bulgu desteklenir; hekime iletilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D215",
+ "kaynak_baslik": "Pulsatil ve tek taraflı tinnitus"
+}

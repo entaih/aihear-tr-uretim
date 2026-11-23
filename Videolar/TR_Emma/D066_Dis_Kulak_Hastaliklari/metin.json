@@ -1,0 +1,827 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D066_Dis_Kulak_Hastaliklari_TR",
+ "kapak": {
+  "ust": "DERS 66",
+  "baslik": "Dış kulak<br>*hastalıkları*",
+  "alt": "Buşon, otitis externa, ekzostoz",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak_yolu"
+  ]
+ },
+ "youtube": {
+  "baslik": "Dış Kulak Hastalıkları: Buşon, Otitis Externa, Ekzostoz | Ders 66 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bu derste dış kulak yolunun sık görülen hastalıklarını inceliyoruz: buşon ve işitmeye etkisi, otitis externa ve otomikoz, ekzostoz ve osteom. Her durumda odyoloğun neye dikkat etmesi, hangi testleri ertelemesi ve ne zaman hekime yönlendirmesi gerektiğini konuşuyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Schwartz ve ark. (2017), Clinical Practice Guideline (Update): Earwax (Cerumen Impaction), Otolaryngology Head and Neck Surgery; Rosenfeld ve ark. (2014), Clinical Practice Guideline: Acute Otitis Externa; Roeser, Lai ve Clark (2005), Effect of ear canal occlusion on pure-tone threshold sensitivity, Journal of the American Academy of Audiology; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "buşon",
+   "otitisexterna"
+  ],
+  "etiketler": [
+   "buşon",
+   "cerumen impaction",
+   "serumen",
+   "otitis externa",
+   "dış kulak yolu iltihabı",
+   "otomikoz",
+   "otomycosis",
+   "ekzostoz",
+   "exostosis",
+   "osteom",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 66",
+   "baslik": "Dış kulak *hastalıkları*",
+   "alt": "Buşon, otitis externa, otomikoz, ekzostoz",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste dış kulak yolunun sık görülen hastalıklarını ve bunların işitmeye etkisini öğreneceğiz.",
+    "Buşonu, otitis externayı, otomikozu, ekzostoz ve osteomu, odyoloğun bakış açısıyla ele alacağız."
+   ]
+  },
+  {
+   "id": "kanal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Dış kulak yolu",
+   "baslik": "Dış kulak *yolu*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "dış kulak yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dış 1/3 kıkırdak: _serumen bezleri_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İç 2/3 kemik: _ince deri_",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Deri göçü: _kendini temizleme_",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Dış kulak yolu, kulak kepçesinden timpanik membrana uzanan, yetişkinde yaklaşık iki buçuk santimetrelik bir kanaldır.",
+    "Dıştaki üçte birlik bölüm kıkırdaktır; serumen bezleri ve kıllar yalnız bu bölümde bulunur.",
+    "İçteki üçte ikilik bölüm kemiktir ve ince, hassas bir deriyle örtülüdür.",
+    "Kanal derisi zarın ortasından dışa doğru yavaşça göç eder ve kiri dışarı taşır; kulak böylece kendini temizler.",
+    "Kanalın kıvrımlı yapısı ve dar kemik bölümü, kirin ve yabancı cisimlerin burada sıkışmasını kolaylaştırır.",
+    "Bu derste göreceğimiz hastalıkların çoğu bu düzenin bozulmasıyla ya da kanalın daralmasıyla ortaya çıkar."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Dış kulak yolu",
+   "baslik": "Dört *başlık*",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Buşon",
+     "cumle": 1,
+     "metin": "Kulak kiri tıkacı"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Otitis externa",
+     "cumle": 2,
+     "metin": "Kanal derisinin iltihabı"
+    },
+    {
+     "ikon": "virus",
+     "baslik": "Otomikoz",
+     "cumle": 3,
+     "metin": "Kanalın mantar enfeksiyonu"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Ekzostoz, osteom",
+     "cumle": 4,
+     "metin": "Kemik kanalda iyi huylu çıkıntı"
+    }
+   ],
+   "cumleler": [
+    "Dış kulak yolu hastalıklarını bu derste dört başlıkta toplayacağız.",
+    "Birincisi buşon, yani kulak kirinin birikip kanalı tıkamasıdır.",
+    "İkincisi otitis externa, yani dış kulak yolu iltihabıdır.",
+    "Üçüncüsü otomikoz, yani kulak mantarıdır.",
+    "Dördüncüsü ekzostoz ve osteom, yani kemik kanaldaki iyi huylu kemik çıkıntılarıdır."
+   ]
+  },
+  {
+   "id": "buson",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Buşon",
+   "baslik": "Serumen ve *buşon*",
+   "maddeler": [
+    {
+     "metin": "Serumen _koruyucu_ bir salgıdır",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Buşon: belirti yapan ya da _görüşü engelleyen_",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Risk: işitme cihazı, _yaşlılık_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Kulak çubuğu kiri _içeri iter_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 2,
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "buşon burada birikir",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Serumen, yani kulak kiri, kanal derisini nemli tutan, mikroplara ve böceklere karşı koruyan doğal bir salgıdır.",
+    "Normalde deri göçü ve çene hareketleriyle kendiliğinden dışarı taşınır.",
+    "Amerikan KBB Akademisinin kılavuzu buşonu, belirti yapan ya da kulağın incelenmesini engelleyen kir birikimi olarak tanımlar.",
+    "İşitme cihazı ve kulak içi kulaklık kullananlarda, yaşlılarda, küçük çocuklarda ve bilişsel sorunu olanlarda daha sık görülür.",
+    "Dar ya da kıvrımlı kanal ve kanalda kıl artışı da kirin dışarı atılmasını zorlaştırır.",
+    "Kulak çubuğu kiri temizlemek yerine çoğu zaman daha içeri iter ve kemik bölümde sıkıştırır.",
+    "Aynı kılavuz kulak mumu yöntemini de önermez; etkisi gösterilmemiştir ve yanık gibi riskler taşır."
+   ]
+  },
+  {
+   "id": "buson_odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Buşon",
+   "baslik": "Örnek: *tam* tıkanma",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: 35 ile 50 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Maskeli kemik yolu_: normal",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       35,
+       35,
+       40,
+       45,
+       50
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       5,
+       5,
+       10,
+       10
+      ],
+      "cumle": 2,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    },
+    "aralik": {
+     "konum": [
+      3,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Buşon kanalı kısmen tıkadığında işitme çoğu zaman belirgin etkilenmez.",
+    "Bu örnekte ise sağ kulak yolu tamamen tıkanmış; hava yolu eşikleri otuz beş ile elli desibel HL arasında.",
+    "Kemik yolu eşikleri normal, yani kayıp iletim tipidir.",
+    {
+     "yazi": "Roeser ve arkadaşlarının beş kişilik deneysel çalışmasında kısmi tıkanma, eşikleri ağırlıkla tizde yaklaşık on ile on yedi desibel bozdu.",
+     "ses": "Rozer ve arkadaşlarının beş kişilik deneysel çalışmasında kısmi tıkanma, eşikleri ağırlıkla tizde yaklaşık on ile on yedi desibel bozdu."
+    },
+    "Tam tıkanmada ise pes frekanslar da etkilendi ve ortalama kayıp yaklaşık otuz ile kırk beş desibele ulaştı.",
+    "Bu yüzden hastalar çoğu zaman duştan ya da yüzmeden sonra kir şişip kanalı tamamen kapatınca kaybı aniden fark eder."
+   ]
+  },
+  {
+   "id": "buson_akis",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Buşon",
+   "baslik": "Buşonda *iş akışı*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "cumle": 0,
+     "metin": "Buşonu görür"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "cumle": 1,
+     "metin": "Bulgu not edilir"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Yönlendirme",
+     "cumle": 2,
+     "metin": "Temizlik için"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Tekrar bakış",
+     "cumle": 3,
+     "metin": "Kanal ve zar"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Test",
+     "cumle": 4,
+     "metin": "Temiz kulakta"
+    }
+   ],
+   "cumleler": [
+    "Buşon çoğu zaman ilk olarak test öncesi otoskopide fark edilir.",
+    "Bulgu kaydedilir; kanal tam tıkalıysa timpanometri, otoakustik emisyon ve kalıp ölçüsü yapılmaz.",
+    "Temizlik için kişi hekime ya da kurumun yetkilendirdiği kişiye yönlendirilir; kılavuzlar damla, yıkama ve elle temizliği tanımlar.",
+    "Temizlikten sonra kanal ve zar yeniden incelenir; zarda delik ya da kanalda tahriş olup olmadığına bakılır.",
+    "İşitme testi temiz bir kulakta yapılır; böylece kirin yarattığı geçici kayıp gerçek kayıpla karışmaz."
+   ]
+  },
+  {
+   "id": "buson_cihaz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Buşon",
+   "baslik": "Buşon ve *işitme cihazı*",
+   "maddeler": [
+    {
+     "metin": "Kalıp kirin _dışarı atılmasını_ engeller",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Alıcı ve ses çıkışı _tıkanır_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Geri besleme _ıslığı_ artabilir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Her kontrolde _otoskopi_",
+     "cumle": 3,
+     "ikon": "otoskop"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "alici",
+      "cumle": 1
+     },
+     {
+      "parca": "kalip",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "alici",
+      "metin": "alıcı",
+      "cumle": 1
+     },
+     {
+      "parca": "kalip",
+      "metin": "kubbe ya da kalıp",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "İşitme cihazının kalıbı ya da kubbesi kanalı kapattığı için kirin dışarı atılmasını engeller.",
+    "Kir, cihazın alıcısını ve ses çıkışını tıkayarak cihazın sesini kısabilir ya da tamamen kesebilir.",
+    "Kanalda biriken kir sesi yansıtarak akustik geri beslemeyi, yani cihazın ıslık çalmasını da artırabilir.",
+    "Bu yüzden kılavuz, işitme cihazı kullanan kişilerde her kontrolde otoskopi yapılmasını önerir.",
+    "Kulak çubuğu yerine cihazın kir filtresini düzenli değiştirmek ve ses çıkışını temizlemek kullanıcıya öğretilir."
+   ]
+  },
+  {
+   "id": "oe",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Otitis externa",
+   "baslik": "Otitis externa *belirtileri*",
+   "ogeler": [
+    {
+     "ikon": "agri",
+     "baslik": "Ağrı",
+     "cumle": 1,
+     "metin": "Tragusa basınca artar"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Kaşıntı",
+     "cumle": 2,
+     "metin": "Çoğu zaman ilk belirti"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Akıntı",
+     "cumle": 2,
+     "metin": "Kanalda şişlik ve döküntü"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Dolgunluk",
+     "cumle": 3,
+     "metin": "Şişlik kanalı daraltır"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Otitis externa, dış kulak yolu derisinin iltihabıdır; yüzücülerde sık görüldüğü için yüzücü kulağı (swimmer's ear) da denir.",
+     "ses": "Otitis externa, dış kulak yolu derisinin iltihabıdır; yüzücülerde sık görüldüğü için yüzücü kulağı da denir."
+    },
+    "En tipik belirti, tragusa bastırınca ya da kulak kepçesini çekince artan ağrıdır.",
+    "Kaşıntı, akıntı ve kanal derisinde kızarıklık ile şişlik de sık görülür.",
+    "Şişlik ve döküntü kanalı daraltırsa dolgunluk hissi ve iletim tipi bir işitme azlığı eklenir.",
+    {
+     "yazi": "En sık etkenler Pseudomonas aeruginosa ve Staphylococcus aureus bakterileridir.",
+     "ses": "En sık etkenler psödomonas aeruginoza ve stafilokokus aureus bakterileridir."
+    },
+    "Nem, kanalı tahriş eden temizlik, deri hastalıkları ve kanalı kapatan cihazlar riski artırır."
+   ]
+  },
+  {
+   "id": "oe_odyolog",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Otitis externa",
+   "baslik": "Otitis externada *odyolog*",
+   "maddeler": [
+    {
+     "metin": "Ağrılı kulağa prob ve insert _yok_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Kalıp ölçüsü _ertelenir_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Cihaz kullanımı hekimle _planlanır_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Alarm: diyabet, şiddetli ağrı, _yüz felci_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "HEKİME YÖNLENDİR",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kan_damari",
+      "baslik": "Diyabet, yaşlılık",
+      "cumle": 3,
+      "metin": "Nekrotizan form riski"
+     },
+     {
+      "ikon": "agri",
+      "baslik": "Gece ağrısı",
+      "cumle": 3,
+      "metin": "Geçmeyen şiddetli ağrı"
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Yüz felci",
+      "cumle": 4,
+      "metin": "Acil değerlendirme"
+     }
+    ]
+   },
+   "cumleler": [
+    "İltihaplı ve ağrılı bir kulağa insert kulaklık, prob ya da kalıp malzemesi yerleştirilmez.",
+    "Kalıp ölçüsü ve rutin testler genellikle iyileşmeye kadar ertelenir; gerekiyorsa hava yolu supra-aural kulaklıkla ölçülebilir.",
+    "Tedavi hekime aittir; tedavi süresince işitme cihazının kullanılıp kullanılmayacağı da hekimle birlikte planlanır.",
+    "Yaşlı, diyabetli ya da bağışıklığı baskılanmış bir kişide geçmeyen şiddetli ağrı, nekrotizan otitis externa için bir uyarı olabilir.",
+    "Kafa tabanına yayılabilen bu ciddi enfeksiyonda yüz felci gelişebilir; böyle bir tablo vakit kaybetmeden hekime yönlendirilir."
+   ]
+  },
+  {
+   "id": "mikoz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Otitis externa",
+   "baslik": "Otomikoz: *kulak mantarı*",
+   "maddeler": [
+    {
+     "metin": "Kaşıntı _ön planda_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Pamuksu, noktalı _görünüm_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Uzun süreli damla ve _nem_",
+     "cumle": 3,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Tedavi ve temizlik _hekimde_",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "GÖRÜNÜM",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "virus",
+      "baslik": "Aspergillus",
+      "cumle": 2,
+      "metin": "Siyah, gri noktalar"
+     },
+     {
+      "ikon": "virus",
+      "baslik": "Candida",
+      "cumle": 2,
+      "metin": "Beyaz, krem kitle"
+     }
+    ]
+   },
+   "cumleler": [
+    "Otomikoz (otomycosis), yani kulak mantarı, dış kulak yolunun mantar enfeksiyonudur.",
+    "Bakteriyel otitis externaya göre kaşıntı ve dolgunluk daha ön plandadır; ağrı genellikle daha hafiftir.",
+    {
+     "yazi": "Aspergillus türleri siyah ya da gri noktalı, Candida ise beyaz, krem renkli pamuksu bir kitle oluşturabilir.",
+     "ses": "Aspergillus türleri siyah ya da gri noktalı, kandida ise beyaz, krem renkli pamuksu bir kitle oluşturabilir."
+    },
+    "Uzun süre antibiyotikli damla kullanmak, nemli iklim ve kulağı sık ıslatmak riski artırır.",
+    "Tanı, temizlik ve tedavi hekime aittir; mantar kitlesi kanalı tıkadığında iletim tipi kayıp görülebilir."
+   ]
+  },
+  {
+   "id": "ekzostoz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ekzostoz ve osteom",
+   "baslik": "Ekzostoz ve *osteom*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "ekzostoz",
+     "cumle": 0,
+     "olcek": 2.4
+    },
+    {
+     "parca": "osteom",
+     "cumle": 3,
+     "olcek": 2.4
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ekzostoz",
+     "cumle": 1
+    },
+    {
+     "parca": "osteom",
+     "cumle": 3
+    },
+    {
+     "parca": "kemik_kikirdak_birlesimi",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ekzostoz",
+     "metin": "ekzostozlar: zara yakın, geniş tabanlı",
+     "cumle": 0
+    },
+    {
+     "parca": "osteom",
+     "metin": "osteom: tek, saplı",
+     "cumle": 3
+    },
+    {
+     "parca": "kemik_kikirdak_birlesimi",
+     "metin": "kemik-kıkırdak birleşimi",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ekzostoz: çok sayıda, _iki taraflı_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Soğuk su: _sörfçü kulağı_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Osteom: tek, _saplı_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Ekzostoz (exostosis), dış kulak yolunun kemik bölümünde, zara yakın yerleşen iyi huylu kemik çıkıntısıdır.",
+    "Genellikle birden fazla, geniş tabanlı ve çoğu zaman iki kulakta birlikte görülür.",
+    {
+     "yazi": "Soğuk suyla tekrar tekrar temasla ilişkilidir; sörf, yüzme ve dalışla uğraşanlarda sık olduğu için sörfçü kulağı (surfer's ear) da denir.",
+     "ses": "Soğuk suyla tekrar tekrar temasla ilişkilidir; sörf, yüzme ve dalışla uğraşanlarda sık olduğu için sörfçü kulağı da denir."
+    },
+    "Osteom (osteoma) ise genellikle tek, tek taraflı ve saplı bir kemik kitlesidir.",
+    "Osteom çoğunlukla kemik bölüm ile kıkırdak bölümün birleşimine yakın, daha dışta yerleşir.",
+    "İkisi de iyi huyludur ve kanal ciddi biçimde daralmadıkça çoğu zaman belirti vermez."
+   ],
+   "ayar": {
+    "ekzostoz": true,
+    "ekzostoz_cumle": 0,
+    "osteom": true,
+    "osteom_cumle": 3
+   }
+  },
+  {
+   "id": "ekzostoz_etki",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ekzostoz ve osteom",
+   "baslik": "İşitmeye ve teste *etkisi*",
+   "maddeler": [
+    {
+     "metin": "İşitme çoğu zaman _normal_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kir ve su _hapsolur_",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Tekrarlayan _otitis externa_",
+     "cumle": 2,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Prob ve kalıp ölçüsünde _güçlük_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        15,
+        15
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        15,
+        10,
+        10,
+        10,
+        15,
+        20
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Kanal belirgin biçimde daralmadıkça işitme genellikle normaldir.",
+    "Ancak dar kanalda kir ve su kolayca hapsolur; tıkanma olduğunda iletim tipi kayıp ortaya çıkar.",
+    "Hapsolan su ve kir tekrarlayan otitis externaya zemin hazırlar.",
+    "Dar kanal prob yerleştirmeyi ve kalıp ölçüsü almayı zorlaştırır; ölçü malzemesi çıkıntıların arkasında kalabilir.",
+    "Kanalı ciddi daraltan çıkıntılarda cerrahi karar KBB hekimine aittir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kanalda buşon, iltihap, mantar ya da kemik çıkıntısı gördüğünüzde prob, insert ya da ölçü malzemesi yerleştirmeyin. Bulguyu kaydedip hekime yönlendirin.",
+   "cumleler": [
+    "Sahadan bir ipucu: otoskopi, kulağa herhangi bir şey yerleştirmeden önceki son güvenlik kapısıdır.",
+    "Kanalda buşon, iltihap, mantar ya da kemik çıkıntısı görürseniz prob, insert kulaklık ya da ölçü malzemesi yerleştirmeyin.",
+    "Özellikle kalıp ölçüsünde, dar ya da çıkıntılı bir kanalda malzeme geride kalabilir ve çıkarılması cerrahi gerektirebilir.",
+    "Bulguyu kaydedin, hekime yönlendirin ve testi uygun bir zamana planlayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Buşon: tam tıkanmada _iletim tipi_ kayıp",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Otitis externa: _ağrı_, şişlik, akıntı",
+     "cumle": 1,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Otomikoz: _kaşıntı_, pamuksu görünüm",
+     "cumle": 2,
+     "ikon": "virus"
+    },
+    {
+     "metin": "Ekzostoz çok sayıda, osteom _tek_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Buşon kanalı tamamen tıkadığında iletim tipi kayıp yapar; kısmi tıkanma daha çok tiz frekansları etkiler.",
+    "Otitis externa kanal derisinin iltihabıdır; tragusa basınca artan ağrı tipiktir.",
+    "Otomikozda kaşıntı ön plandadır ve pamuksu, noktalı bir görünüm oluşabilir.",
+    "Ekzostoz soğuk suyla ilişkili, çok sayıda ve iki taraflıdır; osteom genellikle tek ve saplıdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Buşon kanalı kısmen tıkadığında en çok hangi frekanslar etkilenir?",
+   "secenekler": [
+    "Pes frekanslar",
+    "Tiz frekanslar",
+    "Yalnız 1000 Hz",
+    "Hiçbiri"
+   ],
+   "dogru": 1,
+   "aciklama": "Kısmi tıkanmada kayıp ağırlıkla _tiz_ frekanslardadır; pes frekanslar ancak tam tıkanmada belirgin etkilenir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Buşon kanalı kısmen tıkadığında en çok hangi frekanslar etkilenir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: tiz frekanslar.",
+     "ses": "Doğru cevap be: tiz frekanslar."
+    },
+    "Pes frekanslar ancak kanal tamamen tıkandığında belirgin biçimde etkilenir; bu yüzden kişi kaybı çoğu zaman aniden fark eder."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Otitis media *türleri*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste timpanik membranın arkasına geçip otitis medianın akut, efüzyonlu ve kronik türlerini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

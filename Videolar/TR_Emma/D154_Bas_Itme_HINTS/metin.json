@@ -1,0 +1,1049 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D154_Bas_Itme_HINTS_TR",
+ "kapak": {
+  "ust": "DERS 154",
+  "baslik": "Baş itme<br>ve *HINTS*",
+  "alt": "Santral mi, periferik mi?",
+  "cizim": "nistagmus_izi"
+ },
+ "youtube": {
+  "baslik": "Baş İtme Testi ve HINTS Muayenesi | Ders 154 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Yatak başı baş itme testini, düzeltici sakkadın anlamını ve akut vestibüler sendromda santral ve periferik nedenleri ayırmaya yardım eden HINTS muayenesini anlatıyoruz. Baş itme, nistagmus ve skew testi bileşenlerini, HINTS artı yaklaşımını, kanıtları ve sınırlılıkları ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Halmagyi ve Curthoys, A Clinical Sign of Canal Paresis, Archives of Neurology (1988); Kattah ve ark., HINTS to Diagnose Stroke in the Acute Vestibular Syndrome, Stroke (2009); Newman-Toker ve ark., HINTS Outperforms ABCD2 to Screen for Stroke in Acute Continuous Vertigo and Dizziness, Academic Emergency Medicine (2013); Jacobson ve Shepard, Balance Function Assessment and Management.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "HINTS",
+   "vestibüler"
+  ],
+  "etiketler": [
+   "baş itme testi",
+   "head impulse test",
+   "HINTS",
+   "düzeltici sakkad",
+   "corrective saccade",
+   "skew testi",
+   "test of skew",
+   "akut vestibüler sendrom",
+   "acute vestibular syndrome",
+   "vestibüler değerlendirme",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 154",
+   "baslik": "Baş itme testi ve *HINTS*",
+   "alt": "Akut baş dönmesinde santral ve periferik ayrımı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste yatak başı baş itme testini ve düzeltici sakkadın ne anlattığını öğreneceğiz.",
+    "Ardından santral ve periferik nedenleri ayırmaya yardım eden HINTS muayenesini, yani baş itme, nistagmus ve skew testini ele alacağız."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Baş itme testi",
+   "baslik": "Göz başa *yetişiyor* mu?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 400,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 260,
+     "adim": 50,
+     "ad": "Hız (derece/sn)"
+    },
+    "seriler": [
+     {
+      "ad": "bas",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        40,
+        60
+       ],
+       [
+        80,
+        180
+       ],
+       [
+        110,
+        220
+       ],
+       [
+        140,
+        170
+       ],
+       [
+        180,
+        60
+       ],
+       [
+        220,
+        5
+       ],
+       [
+        260,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "baş",
+      "cumle": 1
+     },
+     {
+      "ad": "saglam",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        55
+       ],
+       [
+        85,
+        172
+       ],
+       [
+        115,
+        210
+       ],
+       [
+        145,
+        160
+       ],
+       [
+        185,
+        55
+       ],
+       [
+        225,
+        4
+       ],
+       [
+        265,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "göz: sağlam",
+      "cumle": 2
+     },
+     {
+      "ad": "zayif",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        25
+       ],
+       [
+        85,
+        60
+       ],
+       [
+        115,
+        75
+       ],
+       [
+        145,
+        60
+       ],
+       [
+        185,
+        25
+       ],
+       [
+        215,
+        10
+       ],
+       [
+        235,
+        150
+       ],
+       [
+        255,
+        200
+       ],
+       [
+        275,
+        120
+       ],
+       [
+        300,
+        10
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "göz: zayıf",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sakkad_bolgesi",
+      "x": [
+       215,
+       300
+      ],
+      "renk": "sari",
+      "etiket": "düzeltici sakkad",
+      "cumle": 4
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "sakkad_bolgesi",
+     "metin": "Düzeltici sakkad",
+     "cumle": 4,
+     "yer": "ust"
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kazanç = göz hızı / _baş hızı_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Zayıf VOR: _sakkad_ gerekir",
+     "cumle": 4,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Baş itme testi (head impulse test), vestibülo-oküler refleksin, kısaca VOR'un iki tarafını ayrı ayrı sınayan bir yatak başı testtir.",
+    "Grafikte lacivert çizgi, hızlı bir baş itmesi sırasında başın hızını gösteriyor.",
+    "Sağlam bir VOR'da göz, başla neredeyse aynı hızda ve ters yönde döner; mavi kesik çizgi baş eğrisini izler.",
+    "Zayıf tarafta ise göz hızı başın çok gerisinde kalır; bakış hedeften kayar.",
+    "Hasta hedefi yeniden yakalamak için hızlı bir göz hareketi yapar; buna düzeltici sakkad (corrective saccade) denir.",
+    "Video baş itme testi bu eğrileri ölçer; yatak başında ise yalnız gözün davranışını çıplak gözle izleriz."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Baş itme testi",
+   "baslik": "Test *nasıl* yapılır?",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Hazırlık",
+     "metin": "Boyun sorgulanır",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Hedef",
+     "metin": "Burnunuza bakar",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "İtme",
+     "metin": "Küçük, hızlı, beklenmedik",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Gözlem",
+     "metin": "Sakkad var mı?",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "metin": "Taraf ve bulgu",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Teste başlamadan önce boyun ağrısı, boyun ameliyatı ya da boyun damarlarıyla ilgili bir sorun olup olmadığı sorulur.",
+    "Hasta karşısında oturan muayene eden kişinin burnuna bakar ve bakışını bu hedefte tutar.",
+    "Baş iki elle tutulur ve yaklaşık on ile yirmi derecelik küçük bir açıyla, çok hızlı biçimde bir yana çevrilir.",
+    "İtmenin yönü ve zamanı hasta tarafından tahmin edilemeyecek biçimde değiştirilir; tahmin edilen itme sonucu bozar.",
+    "Muayene eden kişi itme biter bitmez gözlere bakar ve hedefe geri dönen bir sakkad olup olmadığını izler.",
+    "Her iki yöne birkaç itme yapılır ve bulgu, sakkadın görüldüğü itme yönüyle birlikte kaydedilir."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Baş itme testi",
+   "baslik": "Ne *görüyoruz?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Sakkad yok",
+     "metin": "Göz hedefte kalır: o yönde VOR çalışıyor.",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Açık sakkad",
+     "metin": "İtmeden sonra geri dönüş: o taraf zayıf.",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Gizli sakkad",
+     "metin": "İtme sırasında; çıplak gözle görülmez.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Yatak başında üç olası bulguyla karşılaşırız.",
+    "Göz baş itmesi boyunca hedefte kalıyorsa o yöndeki VOR yeterli çalışıyor demektir.",
+    "Baş durduktan sonra göz hedefe geri sıçrıyorsa bu açık sakkaddır (overt saccade).",
+    "Zayıf taraf, başın itildiği taraftır; örneğin sağa itmede sakkad görülüyorsa sağ taraftaki VOR zayıftır.",
+    "Bazı sakkadlar ise baş hareketi sürerken ortaya çıkar; bunlara gizli sakkad (covert saccade) denir.",
+    "Gizli sakkadlar çıplak gözle görülemediği için yatak başı test, kısmi ya da kompanze olmuş kayıpları kaçırabilir."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Baş itme testi",
+   "baslik": "Doğru uygulama *ipuçları*",
+   "maddeler": [
+    {
+     "metin": "Boyun sorununda _hekimle_ karar",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bakış hedefte, _göz kırpmadan_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yavaş itme: _yalancı normal_ sonuç",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Hafif kayıpta _duyarlılık_ düşük",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bulgu _videoyla_ doğrulanabilir",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "İtmeyi hızlı ve küçük açılı yapın; yavaş itme zayıf bir tarafı normal gösterebilir.",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Ciddi boyun sorunu olan hastalarda test ancak hekimle birlikte karar verilerek ve çok dikkatli yapılır.",
+    "Hastanın göz kırpmaması ve bakışını hedefte tutması, sakkadın doğru yorumlanması için gereklidir.",
+    "İtme yeterince hızlı değilse görsel takip sistemi devreye girer ve zayıf bir taraf normal görünebilir.",
+    "Yatak başı test belirgin kayıplarda güvenilirdir, ancak hafif ya da kompanze olmuş kayıplarda duyarlılığı düşüktür.",
+    "Şüpheli bulgular, gizli sakkadları da gösteren video baş itme testiyle, yani vHIT ile doğrulanabilir."
+   ]
+  },
+  {
+   "id": "avs",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Akut vestibüler sendrom",
+   "baslik": "Akut vestibüler *sendrom*",
+   "maddeler": [
+    {
+     "metin": "_Ani_ başlayan sürekli baş dönmesi",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Günlerce süren tablo",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Bulantı, kusma, _baş hareketi_ intoleransı",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Nistagmus ve _yürüme_ dengesizliği",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "En sık neden: _vestibüler nörit_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Periferik",
+      "metin": "Çoğunluk: nörit",
+      "cumle": 4
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "Santral",
+      "metin": "Az ama acil: inme",
+      "cumle": 5
+     }
+    ],
+    "ust": "İKİ OLASILIK"
+   },
+   "cumleler": [
+    "Akut vestibüler sendrom (acute vestibular syndrome), aniden başlayan ve sürekli devam eden şiddetli baş dönmesidir.",
+    "Belirtiler saatlerle sınırlı kalmaz; genellikle günlerce sürer.",
+    "Hastada bulantı, kusma ve baş hareketiyle artan yakınmalar vardır.",
+    "Muayenede çoğu zaman kendiliğinden bir nistagmus ve yürürken dengesizlik görülür.",
+    "Bu tablonun en sık nedeni vestibüler nörit (vestibular neuritis) gibi periferik bir sorundur.",
+    "Ancak aynı tablo, beyin sapı ya da beyinciği etkileyen bir inmeyle de ortaya çıkabilir."
+   ]
+  },
+  {
+   "id": "inme",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Akut vestibüler sendrom",
+   "baslik": "Gizli *tehlike*: inme",
+   "maddeler": [
+    {
+     "metin": "Beyincik ve beyin sapı _inmesi_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Belirgin nörolojik bulgu _olmayabilir_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Erken _emar_ inmeyi kaçırabilir",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Yatak başı muayene _yol gösterir_",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_sapi_vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "beyincik",
+      "metin": "Beyincik",
+      "cumle": 0
+     },
+     {
+      "parca": "medulla",
+      "metin": "Beyin sapı",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "beyincik",
+      "cumle": 0
+     },
+     {
+      "parca": "pons",
+      "cumle": 3
+     },
+     {
+      "parca": "medulla",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Arka dolaşımdaki bir inme, özellikle beyincikte, vestibüler nöriti çok iyi taklit edebilir."
+    },
+    "Bu hastaların bir kısmında konuşma bozukluğu, güçsüzlük ya da çift görme gibi belirgin nörolojik bulgular bulunmaz.",
+    "Bu yüzden yalnız genel nörolojik muayeneye bakarak ayrım yapmak her zaman mümkün değildir.",
+    {
+     "yazi": "İlk saatlerde ve günlerde çekilen difüzyon ağırlıklı emar, küçük beyin sapı inmelerinin bir kısmını gösteremeyebilir."
+    },
+    "Tomografi ise arka çukurdaki küçük inmeleri göstermekte daha da sınırlıdır.",
+    "İşte bu noktada göz hareketlerine dayanan yatak başı muayene değerli bir yol gösterici olur."
+   ]
+  },
+  {
+   "id": "hints",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "HINTS bileşenleri",
+   "baslik": "*HINTS* üç adımdır",
+   "adimlar": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Baş itme",
+     "metin": "VOR sağlam mı?",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Nistagmus",
+     "metin": "Yön değiştiriyor mu?",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Skew testi",
+     "metin": "Dikey kayma var mı?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "HINTS, baş itme (head impulse), nistagmus ve skew testi (test of skew) adımlarından oluşan üç basamaklı bir göz muayenesidir.",
+    "İlk adımda baş itme testiyle VOR'un o tarafta çalışıp çalışmadığına bakılır.",
+    "İkinci adımda nistagmusun bakış yönüyle değişip değişmediği incelenir.",
+    "Üçüncü adımda göz kapatma ile gözlerin dikey hizası, yani skew sapması araştırılır.",
+    "Muayene birkaç dakika sürer ve özel bir cihaz gerektirmez; ancak deneyim ister."
+   ]
+  },
+  {
+   "id": "bilesen1",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "HINTS bileşenleri",
+   "baslik": "Baş itme: *ters* mantık",
+   "cizim": "beyin_sapi_vestibuler",
+   "etiketler": [
+    {
+     "parca": "labirent",
+     "metin": "Labirent",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Vestibüler sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "beyincik",
+     "metin": "Beyincik",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "labirent",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "beyincik",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Anormal itme: _periferik_ ile uyumlu",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Normal itme: _santral_ kuşkusu",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "HINTS içinde baş itme testinin yorumu ilk bakışta ters gibi görünür.",
+    "Vestibüler nöritte sorun labirentte ya da vestibüler sinirdedir; bu yüzden etkilenen tarafa itmede düzeltici sakkad görülür.",
+    "Yani akut vestibüler sendromda anormal baş itme testi, periferik bir nedenle uyumludur.",
+    "Beyincik ya da beyin sapı inmelerinin çoğunda ise labirent ve sinir sağlamdır ve VOR yolu korunur.",
+    "Bu nedenle sürekli baş dönmesi ve nistagmusu olan bir hastada normal baş itme testi, santral bir nedeni düşündürür.",
+    "Normal bir test bu bağlamda rahatlatıcı değil, tersine dikkat gerektiren bir bulgudur."
+   ]
+  },
+  {
+   "id": "bilesen2",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "HINTS bileşenleri",
+   "baslik": "Nistagmus: *yön* değişiyor mu?",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "tur": "sicramali",
+    "yavas_cumle": 1,
+    "hizli_cumle": 1,
+    "baslik": "Sağa vuran nistagmus"
+   },
+   "etiketler": [
+    {
+     "parca": "hizli_faz",
+     "metin": "Hızlı faz: sağlam tarafa",
+     "cumle": 1
+    },
+    {
+     "parca": "yavas_faz",
+     "metin": "Yavaş faz",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tek yönlü: _periferik_ ile uyumlu",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Yön değiştiren: _santral_ işaret",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Saf dikey ya da torsiyonel: _santral_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "İkinci adımda hasta önce karşıya, sonra sağa ve sola bakarken nistagmus izlenir.",
+    "Periferik nistagmus tek yönlüdür; yatay ve torsiyoneldir ve genellikle sağlam kulağa vurur.",
+    "Hızlı faz yönüne bakınca artar, ters yöne bakınca azalır; bu Alexander yasasıdır.",
+    "Bakış sağa döndüğünde sağa, sola döndüğünde sola vuran nistagmus ise yön değiştiren bakış nistagmusudur.",
+    "Yön değiştiren bakış nistagmusu, saf dikey ya da saf torsiyonel nistagmus santral nedenleri düşündürür.",
+    "Ancak bazı santral lezyonlarda nistagmus tek yönlü de olabilir; bu yüzden tek başına yeterli değildir."
+   ]
+  },
+  {
+   "id": "bilesen3",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "HINTS bileşenleri",
+   "baslik": "*Skew* testi",
+   "maddeler": [
+    {
+     "metin": "Hasta muayene edenin _burnuna_ bakar",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Gözler _sırayla_ kapatılıp açılır",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Açılan gözde _dikey_ düzeltme aranır",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Dikey kayma: _skew sapması_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Periferik kayıpta _nadir_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "goz_kapatma",
+    "cumle": 0,
+    "ayar": {
+     "sapma": true,
+     "kapat_cumle": 1,
+     "duzeltme_cumle": 3
+    }
+   },
+   "cumleler": [
+    "Skew testi (test of skew), dönüşümlü göz kapatma testiyle yapılır.",
+    "Hasta karşıya bakarken muayene eden kişi bir eliyle önce bir gözü, sonra hızla diğer gözü kapatır.",
+    "Kapağı kalkan gözün hedefi yakalamak için yukarı ya da aşağı doğru bir düzeltme yapıp yapmadığına bakılır.",
+    "Dikey bir düzeltme, iki gözün dikey hizasının bozulduğunu, yani skew sapmasını (skew deviation) gösterir.",
+    "Skew sapması, otolit organlarından gelen yer çekimi bilgisinin beyin sapındaki yolunun bozulmasıyla ortaya çıkar.",
+    "Periferik kayıplarda nadir görüldüğü için, akut vestibüler sendromda varlığı santral bir nedeni düşündürür."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "HINTS bileşenleri",
+   "baslik": "Periferik ve *santral* örüntü",
+   "sutunlar": [
+    "Bileşen",
+    "Periferik örüntü",
+    "Santral örüntü"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Baş itme",
+      "Anormal, sakkad var",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Nistagmus",
+      "Tek yönlü",
+      "Yön değiştiren"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Skew testi",
+      "Dikey kayma yok",
+      "Dikey kayma var"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Yeni işitme kaybı",
+      "Yok",
+      "Var: dikkat"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Şimdi üç bileşeni birlikte değerlendirelim.",
+    "Periferik örüntüde baş itme testi anormaldir; santral örüntüde ise normaldir.",
+    "Periferik nistagmus tek yönlüdür; santral örüntüde bakışla yön değiştirebilir.",
+    "Periferik örüntüde skew sapması yoktur; varlığı santral bir işarettir.",
+    "Üç bileşenin üçü de periferik örüntüye uymalıdır; tek bir santral bulgu bile santral bir nedeni düşündürür.",
+    "Tabloya eklenen son satır, yeni başlayan işitme kaybıdır; bunu birazdan açıklayacağız."
+   ]
+  },
+  {
+   "id": "hints_arti",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte HINTS",
+   "baslik": "*HINTS artı*: işitme",
+   "maddeler": [
+    {
+     "metin": "Akut vertigo ile _yeni_ işitme kaybı",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Labirent arteri: _AICA_ kaynaklı",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Baş itme _yalancı periferik_ görünebilir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yatak başı _işitme_ kontrolü eklenir",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ic_kulak_yolu_dibi",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "labirent_arteri",
+      "metin": "Labirent arteri",
+      "cumle": 1
+     },
+     {
+      "parca": "koklear_sinir",
+      "metin": "Koklear sinir",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "labirent_arteri",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Akut baş dönmesiyle birlikte yeni başlayan işitme kaybı, HINTS'e eklenen dördüncü bir bileşendir.",
+    "İç kulağın labirent arteri çoğunlukla anterior inferior serebellar arterden (anterior inferior cerebellar artery), kısaca AICA'dan çıkar.",
+    "Bu damarı etkileyen bir inmede labirent de etkilenebilir; bu yüzden baş itme testi periferik bir kayıp gibi anormal çıkabilir.",
+    "Bu nedenle yatak başında parmak sürtme gibi basit bir işitme kontrolü eklenir; bu yaklaşıma HINTS artı denir.",
+    "Akut vestibüler sendromla birlikte yeni bir işitme kaybı da, inme olasılığı açısından acil değerlendirme gerektirir."
+   ]
+  },
+  {
+   "id": "kanit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte HINTS",
+   "baslik": "Kanıt *ne diyor?*",
+   "maddeler": [
+    {
+     "metin": "Kattah ve ark. 2009: _101_ hasta",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "HINTS duyarlılığı: _yüzde 100_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Özgüllük: yaklaşık _yüzde 96_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İlk emar _8 inmeyi_ göstermedi",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Uzman olmayan elde _düşük_ doğruluk",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "DİKKAT",
+    "metin": "HINTS *eğitim ve deneyim* ister",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "HINTS'in değerini gösteren temel çalışma, Kattah ve arkadaşlarının 2009 yılında yüz bir hastayla yaptığı çalışmadır.",
+     "ses": "HINTS'in değerini gösteren temel çalışma, Kattah ve arkadaşlarının iki bin dokuz yılında yüz bir hastayla yaptığı çalışmadır."
+    },
+    "Bu çalışmada HINTS inmeleri yüzde yüz duyarlılık ve yaklaşık yüzde doksan altı özgüllükle ayırt etti.",
+    "Aynı hastalarda ilk çekilen difüzyon emarı, sonradan doğrulanan sekiz inmeyi göstermedi.",
+    "Ancak çalışma, inme riski yüksek hastalarda ve muayeneyi yapan deneyimli bir nöro-oftalmolog ile yapılmıştı.",
+    "Sonraki çalışmalar, muayene yeterli eğitim almamış kişilerce yapıldığında doğruluğun belirgin biçimde düşebildiğini gösterdi."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte HINTS",
+   "baslik": "HINTS ne zaman *kullanılmaz?*",
+   "ogeler": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Sürekli tablo",
+     "metin": "Yalnız akut ve sürekli baş dönmesinde",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Nistagmus şart",
+     "metin": "Nistagmus yoksa yorum güçleşir",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Atak ve pozisyon",
+     "metin": "BPPV ve ataklarda uygun değil",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Tanı değil",
+     "metin": "Hekim muayenesinin yerini tutmaz",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "HINTS her baş dönmesi olan hastaya uygulanan bir test değildir.",
+    "Yalnız akut başlayan, sürekli ve muayene sırasında da süren baş dönmesi olan hastalarda anlamlıdır.",
+    "Muayene sırasında kendiliğinden nistagmus olmalıdır; nistagmus yoksa baş itme testinin yorumu yanıltıcı olabilir.",
+    "Yatakta dönünce gelen kısa ataklarda ya da gelip geçen ataklarda HINTS kullanılmaz; bu durumlarda pozisyonel testler ve öykü öne çıkar.",
+    "Ayrıca yürüme muayenesi önemlidir; yardımla bile ayakta duramayan hasta, HINTS sonucu ne olursa olsun acil değerlendirilir.",
+    "HINTS bir tanı aracı değil, acil yönlendirme kararına yardım eden bir yatak başı muayenedir."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte HINTS",
+   "baslik": "Odyoloğun *rolü*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Gözle",
+     "metin": "Nistagmus ve sakkad",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Kaydet",
+     "metin": "Video gözlükle",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Uyarı bulgusu",
+     "metin": "Santral işaretleri tanı",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Yönlendir",
+     "metin": "Gecikmeden hekime",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Odyoloğun bu süreçteki görevi tanı koymak değil, doğru gözlem yapmak ve doğru zamanda yönlendirmektir.",
+    "Akut baş dönmesiyle gelen bir hastada nistagmusun yönü, bakışla değişimi ve baş itme bulgusu dikkatle gözlenir.",
+    "Mümkünse göz hareketleri video gözlükle kaydedilir; kayıt hekimin değerlendirmesini kolaylaştırır.",
+    "Santral örüntüyü düşündüren tek bir bulgu bile varsa planlanan test bataryası bekletilir.",
+    "Hasta, bulguların kısa ve net bir özetiyle gecikmeden acil hekim değerlendirmesine yönlendirilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Akut vestibüler sendromda normal baş itme testi rahatlatıcı değildir. Tek bir santral bulgu bile varsa hastayı gecikmeden hekime yönlendirin.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: akut ve sürekli baş dönmesi olan hastada normal baş itme testini iyi haber olarak yorumlamayın.",
+    "Bu bağlamda normal baş itme, santral bir nedeni akla getiren bir bulgudur.",
+    "Yön değiştiren nistagmus, skew sapması ya da yeni işitme kaybından yalnız biri bile acil yönlendirme için yeterlidir.",
+    "Bulguları başlama saatiyle birlikte kaydedin; zaman, acil ekip için kritik bir bilgidir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Düzeltici sakkad: o tarafta _VOR zayıf_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "HINTS: baş itme, nistagmus, _skew_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Normal baş itme: _santral_ kuşkusu",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yalnız _akut ve sürekli_ tabloda",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "Baş itme testinde düzeltici sakkad, itmenin yapıldığı taraftaki VOR'un zayıf olduğunu gösterir.",
+    "HINTS; baş itme, nistagmus ve skew testinden oluşur; HINTS artı yeni işitme kaybını da sorgular.",
+    "Normal baş itme, yön değiştiren nistagmus ya da skew sapması santral bir nedeni düşündürür.",
+    "HINTS yalnız akut ve sürekli baş dönmesi ile nistagmusu olan hastada anlamlıdır ve eğitim gerektirir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Akut vestibüler sendromda hangisi santral nedeni düşündürür?",
+   "secenekler": [
+    "Sağa itmede düzeltici sakkad",
+    "Tek yönlü yatay nistagmus",
+    "Normal baş itme testi"
+   ],
+   "dogru": 2,
+   "aciklama": "Akut vestibüler sendromda _normal baş itme_ testi, VOR yolunun korunduğunu ve santral bir nedeni düşündürür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Akut ve sürekli baş dönmesi olan bir hastada hangi bulgu santral bir nedeni düşündürür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: normal baş itme testi.",
+    "Periferik kayıpta baş itme anormaldir; inmelerin çoğunda ise VOR yolu sağlam kaldığı için test normal çıkar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pozisyonel testler: *Dix-Hallpike* ve supine roll",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste pozisyonel testleri, yani Dix-Hallpike manevrasını ve supine roll testini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

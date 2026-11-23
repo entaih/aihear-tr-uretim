@@ -1,0 +1,790 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D083_Zamansal_Islemleme_TR",
+ "kapak": {
+  "ust": "DERS 83",
+  "baslik": "Zamansal<br>*işlemleme*",
+  "alt": "Boşluk saptama ve zamansal bütünleşme",
+  "cizim": "ses_dalgasi",
+  "ayar": {
+   "frekans_hz": 1000
+  }
+ },
+ "youtube": {
+  "baslik": "Zamansal İşlemleme: Boşluk Saptama ve Zamansal Bütünleşme | Ders 83 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kulak zamanı ne kadar ince çözebilir? Bu derste zamansal çözünürlüğü ve boşluk saptama eşiğini, yaklaşık 200 ile 300 milisaniyelik zamansal bütünleşmeyi, zamansal sıralamayı ve bunları ölçen klinik testleri, konuşma algısıyla ilişkileri üzerinden inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hirsh (1959), Auditory perception of temporal order, Journal of the Acoustical Society of America; Musiek ve ark. (2005), GIN (Gaps-In-Noise) test performance in subjects with confirmed central auditory nervous system involvement, Ear and Hearing; Moore, An Introduction to the Psychology of Hearing; Musiek ve Chermak, Handbook of Central Auditory Processing Disorder.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "psikoakustik",
+   "zamansalişlemleme"
+  ],
+  "etiketler": [
+   "zamansal işlemleme",
+   "temporal processing",
+   "boşluk saptama",
+   "gap detection",
+   "zamansal bütünleşme",
+   "temporal integration",
+   "zamansal sıralama",
+   "GIN testi",
+   "frekans örüntü testi",
+   "işitsel işlemleme",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 83",
+   "baslik": "Zamansal *işlemleme*",
+   "alt": "Boşluk saptama, bütünleşme ve sıralama",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme sisteminin sesteki zaman bilgisini nasıl işlediğini öğreneceğiz.",
+    "Boşluk saptamayı, zamansal bütünleşmeyi, zamansal sıralamayı ve bunların klinikteki önemini göreceğiz."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Zaman ve işitme",
+   "baslik": "Zamansal işlemlemenin *dört yüzü*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Zamansal çözünürlük",
+     "metin": "Hızlı değişimi yakalama",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Zamansal bütünleşme",
+     "metin": "Enerjiyi zamanla toplama",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Zamansal sıralama",
+     "metin": "Seslerin sırasını bilme",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Zamansal maskeleme",
+     "metin": "Önceki ve sonraki sesin etkisi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ses yalnız frekans ve şiddetten değil, zaman içindeki değişimlerden de oluşur; bu değişimleri işlemeye zamansal işlemleme denir.",
+    "Zamansal çözünürlük (temporal resolution), sesteki çok kısa ve hızlı değişimleri ayırt edebilmektir.",
+    "Zamansal bütünleşme (temporal integration), kulağın sesin enerjisini belirli bir süre boyunca toplamasıdır.",
+    "Zamansal sıralama (temporal ordering), art arda gelen seslerin hangi sırayla geldiğini bilmektir.",
+    "Zamansal maskeleme ise bir sesin hemen önce ya da sonra gelen sesi örtmesidir; bunu önceki derste gördük.",
+    "Bu derste ilk üçünü sırayla inceleyeceğiz."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Zaman ve işitme",
+   "baslik": "Konuşma *zamanla* örülür",
+   "maddeler": [
+    {
+     "metin": "p ile b: _ses başlama zamanı_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ünsüz geçişleri: _onlarca milisaniye_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Patlamalı ünsüzde _kısa sessizlik_",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Vurgu ve ritim: _süre bilgisi_",
+     "cumle": 4,
+     "ikon": "muzik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "ses_dalgasi",
+    "ayar": {
+     "frekans_hz": 1000
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Zaman bilgisi konuşmayı anlamanın temel taşlarından biridir.",
+    "Örneğin p ile b sesini ayıran temel ipucu, ses tellerinin titreşmeye başladığı an, yani ses başlama zamanıdır (voice onset time).",
+    "Ünsüzden ünlüye geçişlerde formantların hızla değişmesi, yalnız birkaç on milisaniye sürer.",
+    "Patlamalı ünsüzlerden önce gelen kısa sessizlikler de hangi sesin söylendiğini anlamamıza yardım eder.",
+    "Vurgu, ritim ve tonlama da seslerin sürelerine ve zaman içindeki düzenine dayanır.",
+    "Bu yüzden zamansal işlemlemedeki bir zayıflık, odyogram normal olsa bile konuşmayı anlamayı zorlaştırabilir."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Zamansal çözünürlük",
+   "baslik": "Boşluk *saptama* nasıl ölçülür?",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü",
+     "metin": "Sürekli bir parça",
+     "cumle": 1
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Kısa boşluk",
+     "metin": "Birkaç milisaniye",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü",
+     "metin": "Yeniden başlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Boşluk var mı?",
+     "metin": "En kısa boşluk aranır",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Zamansal çözünürlüğün en sık kullanılan ölçüsü boşluk saptamadır (gap detection).",
+    "Dinleyiciye bir gürültü parçası dinletilir.",
+    "Gürültünün ortasına çok kısa bir sessizlik, yani boşluk yerleştirilir ve gürültü kaldığı yerden devam eder.",
+    "Dinleyiciden boşluğu fark edip etmediğini söylemesi istenir; boşluk giderek kısaltılır.",
+    "Güvenilir biçimde fark edilen en kısa boşluğa boşluk saptama eşiği denir.",
+    "Bu ölçüm, işitme sisteminin bir sesin kesilip yeniden başladığını ne kadar ince bir zaman ölçeğinde yakalayabildiğini gösterir."
+   ]
+  },
+  {
+   "id": "esikler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Zamansal çözünürlük",
+   "baslik": "Boşluk eşikleri *kaç* milisaniye?",
+   "sutunlar": [
+    "Koşul",
+    "Yaklaşık eşik",
+    "Not"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Geniş bant gürültü",
+      "2 ile 3 ms",
+      "Genç, normal işiten"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "GIN testi",
+      "yaklaşık 5 ms",
+      "Normal yetişkin ortalaması"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Pes dar bant",
+      "Daha uzun",
+      "Dar filtre çınlar"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "İleri yaş",
+      "Genellikle uzar",
+      "Odyogram normal olsa da"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Genç ve normal işiten yetişkinlerde geniş bant gürültüde boşluk saptama eşiği yaklaşık iki ile üç milisaniyedir.",
+    "Klinikteki gürültüde boşluklar, yani GIN testinde normal yetişkinlerin ortalama eşiği yaklaşık beş milisaniye olarak bildirilmiştir.",
+    "Pes frekanslardaki dar bant seslerde eşik daha uzundur; çünkü dar işitsel filtreler uyaran kesildikten sonra bir süre çınlamaya devam eder.",
+    "Eşikler kullanılan test, uyaran düzeyi ve yönteme göre değiştiği için her testin kendi normlarıyla yorumlanmalıdır.",
+    "Yaşlı yetişkinlerde, odyogram normal olsa bile boşluk eşikleri genellikle uzar."
+   ]
+  },
+  {
+   "id": "zarf",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Zamansal çözünürlük",
+   "baslik": "Zarf ve *ince yapı*",
+   "sol": {
+    "ust": "Zarf (yavaş değişim)",
+    "maddeler": [
+     {
+      "metin": "Sesin _genlik_ dalgalanması",
+      "cumle": 1
+     },
+     {
+      "metin": "Hece ve ritim bilgisi",
+      "cumle": 2
+     },
+     {
+      "metin": "Sessizde konuşma için _büyük ölçüde yeterli_",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "İnce yapı (hızlı salınım)",
+    "maddeler": [
+     {
+      "metin": "Dalganın _her bir_ salınımı",
+      "cumle": 4
+     },
+     {
+      "metin": "Perde, müzik ve yön bilgisi",
+      "cumle": 5
+     },
+     {
+      "metin": "Gürültüde anlamaya _katkı_",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Sesteki zaman bilgisini iki katmanda düşünebiliriz.",
+    "Zarf (envelope), sesin genliğinin zaman içindeki yavaş dalgalanmasıdır.",
+    "Hecelerin başlangıcı, ritim ve vurgu gibi bilgiler büyük ölçüde zarfta taşınır.",
+    {
+     "yazi": "Shannon ve arkadaşları 1995'te, yalnız birkaç bandın zarfıyla sessizde konuşmanın büyük ölçüde anlaşılabildiğini gösterdi.",
+     "ses": "Şenın ve arkadaşları 1995'te, yalnız birkaç bandın zarfıyla sessizde konuşmanın büyük ölçüde anlaşılabildiğini gösterdi."
+    },
+    "İnce yapı (temporal fine structure) ise dalganın her bir salınımının zamanlamasıdır.",
+    "İnce yapı perde algısında, müzikte ve iki kulak arasındaki zaman farkıyla yön bulmada önemlidir.",
+    "Gürültüde konuşmayı ayrıştırmaya da katkı sağlar; koklear implantlar ise bu bilgiyi büyük ölçüde iletemez."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Zamansal çözünürlük",
+   "baslik": "Klinik *boşluk* testleri",
+   "maddeler": [
+    {
+     "metin": "GIN: _gürültüde rastgele boşluklar_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Her kulak _ayrı ayrı_ test edilir",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "RGDT: _ton ve tık çiftleri_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sonuç: _yaş normlarıyla_ karşılaştır",
+     "cumle": 5,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 1
+     },
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Gürültüde boşluklar testi, kısaca GIN, gürültü parçalarının içine farklı uzunlukta boşlukları rastgele yerleştirir.",
+    {
+     "yazi": "Test Musiek ve arkadaşları tarafından 2005'te tanımlandı ve merkezi işitsel sinir sistemi lezyonlarına duyarlı bulundu.",
+     "ses": "Test Myuzik ve arkadaşları tarafından 2005'te tanımlandı ve merkezi işitsel sinir sistemi lezyonlarına duyarlı bulundu."
+    },
+    "Hasta her boşluğu duyduğunda düğmeye basar; her kulak ayrı ayrı test edilir.",
+    "Rastgele boşluk saptama testi, kısaca RGDT ise, arasında farklı sürelerde boşluk bulunan ton ya da tık çiftleri kullanır.",
+    "Dinleyici bir mi, iki mi ses duyduğunu söyler ve iki ses olarak algılanan en kısa aralık bulunur.",
+    "Her iki testin sonucu da yaşa ve kullanılan sürüme göre normlarla karşılaştırılarak yorumlanır."
+   ]
+  },
+  {
+   "id": "butunlesme",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Zamansal bütünleşme",
+   "baslik": "Kısa ses, *yüksek* eşik",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 10,
+     "max": 1000,
+     "log": true,
+     "ad": "Ton süresi (ms)",
+     "isaretler": [
+      10,
+      20,
+      50,
+      100,
+      200,
+      500,
+      1000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 15,
+     "adim": 5,
+     "ad": "Eşik yükselmesi (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        10,
+        13
+       ],
+       [
+        20,
+        10
+       ],
+       [
+        50,
+        6
+       ],
+       [
+        100,
+        3
+       ],
+       [
+        160,
+        1.2
+       ],
+       [
+        250,
+        0.3
+       ],
+       [
+        400,
+        0
+       ],
+       [
+        1000,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "on_kat",
+      "x": [
+       20,
+       200
+      ],
+      "y": 12.5,
+      "etiket": "10 kat süre",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kisa_ton",
+      "x": 20,
+      "y": 10,
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "butunlesme_suresi",
+      "x": [
+       200,
+       300
+      ],
+      "renk": "sari",
+      "etiket": "200-300 ms",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "esik",
+     "cumle": 1
+    },
+    {
+     "parca": "on_kat",
+     "cumle": 2
+    },
+    {
+     "parca": "butunlesme_suresi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Süre 2 kat: eşik _yaklaşık 3 dB_ iyi",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sınır: _yaklaşık 200 ile 300 ms_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sonrasında eşik _sabit_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Şimdi zamansal bütünleşmeye geçelim: kulak, kısa bir sesin enerjisini belirli bir süre boyunca toplar.",
+    "Bu yüzden çok kısa bir ton, aynı düzeydeki uzun bir tondan daha zor duyulur ve eşiği daha yüksektir.",
+    "Belirli bir süreye kadar, süre iki katına çıktığında eşik yaklaşık üç desibel, on katına çıktığında yaklaşık on desibel iyileşir.",
+    "Bu iyileşme yaklaşık iki yüz ile üç yüz milisaniyeye kadar sürer; bu süreye bütünleşme süresi denir.",
+    "Bundan daha uzun seslerde süreyi artırmak eşiği pek değiştirmez.",
+    "Aynı ilke ses yüksekliği için de geçerlidir; çok kısa sesler daha hafif duyulur."
+   ]
+  },
+  {
+   "id": "butunlesme_klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Zamansal bütünleşme",
+   "baslik": "Bütünleşme *klinikte*",
+   "maddeler": [
+    {
+     "metin": "Odyometride ton _yeterince uzun_ verilir",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Kısa uyaranla ABR eşiği _daha yüksek_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Koklear kayıpta bütünleşme _azalır_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Saf ses odyometrisinde tonun yaklaşık bir ile iki saniye verilmesi, bütünleşme süresinin çok üzerinde kalmak içindir.",
+    "Böylece eşik, sesin süresinden etkilenmeden ölçülür.",
+    "İşitsel beyin sapı yanıtında kullanılan tık ve kısa ton uyaranları ise birkaç milisaniye sürer.",
+    "Bu nedenle kısa uyaranla eşikler davranışsal eşiklerden yüksek çıkar; normalize işitme düzeyi, yani nHL kalibrasyonu bu farkı gözetir.",
+    "Koklear işitme kaybında kısa ve uzun tonların eşikleri arasındaki fark küçülür; yani zamansal bütünleşme azalır.",
+    "Bu bulgu, hasarlı kokleanın sesin enerjisini zaman içinde normal kulak gibi toplayamadığını gösterir."
+   ]
+  },
+  {
+   "id": "siralama",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zamansal sıralama",
+   "baslik": "İki ses mi, *hangisi önce?*",
+   "sol": {
+    "ust": "İki sesi ayırma",
+    "maddeler": [
+     {
+      "metin": "Yalnız _birkaç milisaniye_ yeter",
+      "cumle": 1
+     },
+     {
+      "metin": "Daha çok _periferik_ çözünürlük",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Sırasını söyleme",
+    "maddeler": [
+     {
+      "metin": "Yaklaşık _20 ms_ gerekir",
+      "cumle": 2
+     },
+     {
+      "metin": "Merkezi işlemleme gerektirir",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Zamansal sıralama, art arda gelen seslerin sırasını belirleyebilmektir.",
+    "İki kısa sesin tek değil iki ses olduğunu fark etmek için birkaç milisaniyelik bir aralık yeterlidir.",
+    {
+     "yazi": "Hirsh 1959'da, iki sesin hangisinin önce geldiğini güvenilir biçimde söylemek için yaklaşık yirmi milisaniye gerektiğini gösterdi.",
+     "ses": "Hörş 1959'da, iki sesin hangisinin önce geldiğini güvenilir biçimde söylemek için yaklaşık yirmi milisaniye gerektiğini gösterdi."
+    },
+    "Yani sesin varlığını fark etmek kolaydır; sırasını etiketlemek ise daha üst düzeyde, merkezi bir işlemleme gerektirir.",
+    "Konuşmada hece ve ses sırasını doğru algılamak bu beceriye dayanır."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zamansal sıralama",
+   "baslik": "Örüntü *testleri*",
+   "ogeler": [
+    {
+     "ikon": "muzik",
+     "baslik": "Frekans örüntü",
+     "metin": "İnce, kalın, ince",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Süre örüntü",
+     "metin": "Uzun, kısa, uzun",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Adlandırma",
+     "metin": "İki yarıküre birlikte",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Mırıldanma",
+     "metin": "Örüntüyü taklit etme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Zamansal sıralama klinikte örüntü testleriyle değerlendirilir.",
+    "Frekans örüntü testinde art arda üç ton verilir; hasta örneğin ince, kalın, ince diye sırayı söyler.",
+    "Süre örüntü testinde ise tonlar aynı frekanstadır, ama uzun ve kısa sürelerle sıralanır.",
+    "Örüntüyü sözcüklerle adlandırmak, iki yarıküre ve aralarındaki corpus callosum aktarımını birlikte gerektirir.",
+    "Hasta örüntüyü adlandıramayıp mırıldanarak doğru taklit edebiliyorsa, bu ayrım yorumda ek bilgi verir.",
+    "Bu testler santral işitsel işlemleme değerlendirmelerinde sık kullanılır."
+   ]
+  },
+  {
+   "id": "kimler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zamansal sıralama",
+   "baslik": "Zamansal işlemleme *kimlerde* zayıflar?",
+   "maddeler": [
+    {
+     "metin": "İleri yaş: _hızlı konuşmada_ güçlük",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "İşitsel işlemleme bozukluğu",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Merkezi sinir sistemi _lezyonları_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "İşitsel nöropati: _belirgin_ bozulma",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Gürültüde ve hızlı konuşmada anlama yakınması, odyogram normal olsa da zamansal işlemlemeyi düşündürebilir.",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Yaşla birlikte zamansal işlemleme yavaşlar; yaşlı yetişkinler özellikle hızlı konuşmayı izlemekte zorlanır.",
+    "İşitsel işlemleme bozukluğu olan çocukların bir kısmında zamansal testlerde düşük performans görülür.",
+    "Temporal lob ve beyin sapını etkileyen lezyonlar da boşluk saptama ve örüntü testlerinde bozulmaya yol açabilir.",
+    "İşitsel nöropatide sinir yanıtlarının zamanlaması bozulduğu için zamansal çözünürlük belirgin biçimde etkilenir.",
+    "Bu yüzden gürültüde ve hızlı konuşmada güçlük yakınması, odyogram normal olsa bile ciddiye alınmalıdır."
+   ]
+  },
+  {
+   "id": "destek",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zamansal sıralama",
+   "baslik": "Zamana *zaman* tanımak",
+   "maddeler": [
+    {
+     "metin": "Net ve biraz _yavaş_ konuşma",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Gürültü ve _yankıyı_ azaltma",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Uzak mikrofon _sistemleri_",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "İşitsel eğitim: _bireysel_ değerlendirme",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DESTEK",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Ortam",
+      "metin": "Sessiz ve yankısız",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "İletişim",
+      "metin": "Net konuşma",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Zamansal işlemlemesi zayıf kişilerle konuşurken net ve biraz daha yavaş konuşmak, seslerin ayrışmasına zaman tanır.",
+    "Yankı, sessizlik aralıklarını doldurarak zaman ipuçlarını bulanıklaştırır; bu yüzden gürültüyü ve yankıyı azaltmak yardımcı olur.",
+    "Okulda ve toplantılarda uzak mikrofon sistemleri, konuşmacının sesini ortamdan bağımsız olarak doğrudan iletir.",
+    "Zamansal becerilere yönelik işitsel eğitim programları da kullanılır; yararı kişiye göre değiştiği için sonuç düzenli ölçülmelidir.",
+    "Bu öneriler, kapsamlı bir odyolojik değerlendirmenin yerini tutmaz."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Zamansal testlerden önce saf ses eşiklerine bakın ve uyaranı yeterince duyulur düzeyde verin. Dikkat ve anlamada güçlük de sonucu düşürebilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: zamansal testleri yorumlamadan önce saf ses eşiklerine mutlaka bakın.",
+    "Uyaran yeterince duyulur değilse, kötü sonuç zamansal bir sorundan değil işitme kaybından kaynaklanabilir.",
+    "Test öncesi örneklerle görevi öğretin; hastanın ince ve kalın sözcüklerini doğru kullandığından emin olun.",
+    "Dikkat ve bellek de bu testleri etkiler; tek bir düşük sonuçla değil, test bataryasının bütünüyle karar verin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Boşluk eşiği: yaklaşık _2 ile 3 ms_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Bütünleşme: yaklaşık _200 ile 300 ms_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Sıralama: yaklaşık _20 ms_ gerekir",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Klinik: _GIN_ ve örüntü testleri",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Zamansal çözünürlük boşluk saptamayla ölçülür; genç yetişkinlerde geniş bant gürültüde eşik yaklaşık iki ile üç milisaniyedir.",
+    "Kulak sesin enerjisini yaklaşık iki yüz ile üç yüz milisaniye boyunca toplar; daha kısa seslerin eşiği daha yüksektir.",
+    "İki sesin sırasını söylemek için yaklaşık yirmi milisaniye gerekir; bu, merkezi bir beceridir.",
+    "Klinikte GIN, RGDT ve frekans ile süre örüntü testleri zamansal işlemlemeyi değerlendirir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Zamansal bütünleşme yaklaşık hangi süreye kadar sürer?",
+   "secenekler": [
+    "2 ile 3 ms",
+    "20 ms",
+    "200 ile 300 ms",
+    "2 ile 3 saniye"
+   ],
+   "dogru": 2,
+   "aciklama": "Eşik süreyle birlikte _yaklaşık 200 ile 300 ms'ye_ kadar iyileşir, sonra sabit kalır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Zamansal bütünleşme yaklaşık hangi süreye kadar sürer?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: yaklaşık iki yüz ile üç yüz milisaniye.",
+    "Bu süreye kadar sesin süresi arttıkça eşik iyileşir; daha uzun seslerde eşik pek değişmez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Sesin yerini bulma ve *binaural* algı",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iki kulağın birlikte çalışmasına dönüyor ve sesin yerini nasıl bulduğumuzu psikoakustik açıdan inceliyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

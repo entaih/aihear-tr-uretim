@@ -1,0 +1,1419 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D183_Yonlu_Mikrofon_Gurultu_Azaltma_TR",
+ "kapak": {
+  "ust": "DERS 183",
+  "baslik": "Yönlü mikrofon,<br>*gürültü* azaltma",
+  "alt": "Polar desen, DNR, gerçek yarar",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Yönlü mikrofonlar ve gürültü azaltma | Ders 183 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Gürültüde konuşmayı anlamak için işitme cihazı ne yapabilir? Bu derste yönlü mikrofonun çalışma ilkesini, polar desenleri, sabit ve uyarlanabilir yönlülüğü, dijital gürültü azaltmayı ve bu özelliklerin gerçek yaşamdaki etkisini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Ricketts, Bentler ve Mueller, Essentials of Modern Hearing Aids; Bentler, Wu, Kettel ve Hurtig, Digital noise reduction: outcomes from laboratory and field studies, International Journal of Audiology (2008); Stelmachowicz ve ark., Effects of digital noise reduction on speech perception for children with hearing loss, Ear and Hearing (2010); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "gürültü"
+  ],
+  "etiketler": [
+   "yönlü mikrofon",
+   "directional microphone",
+   "polar desen",
+   "polar pattern",
+   "dijital gürültü azaltma",
+   "DNR",
+   "uyarlanabilir yönlülük",
+   "SNR",
+   "gürültüde konuşma",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 183",
+   "baslik": "Yönlü mikrofon ve *gürültü azaltma*",
+   "alt": "Gürültüde konuşmayı anlamak",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme cihazlarındaki yönlü mikrofonların nasıl çalıştığını ve polar desenlerin nasıl okunduğunu öğreneceğiz.",
+    "Ardından dijital gürültü azaltmayı ve bu teknolojilerin gürültüde konuşma algısına gerçek etkisini tartışacağız."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Gürültü sorunu",
+   "baslik": "Gürültüde *neden zor?*",
+   "maddeler": [
+    {
+     "metin": "Kayıplı kişi daha iyi SNR ister",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Kazanç gürültüyü de yükseltir",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Tek çözüm SNR'yi iyileştirmek",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yönlülük, uzak mikrofon, düzen",
+     "cumle": 5,
+     "ikon": "mikrofon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "golge"
+    },
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 4
+     },
+     {
+      "parca": "gurultu",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Sensörinöral kaybı olan kişiler, gürültüde aynı anlama düzeyi için normal işitenlerden daha iyi bir sinyal-gürültü oranına ihtiyaç duyar.",
+    "Bu farka sinyal-gürültü oranı kaybı, kısaca SNR kaybı (SNR loss) denir ve gürültüde konuşma testleriyle ölçülür.",
+    "İşitme cihazı konuşmayı yükseltir, ama aynı yönden ve aynı frekanslardan gelen gürültüyü de yükseltir.",
+    "Yani yalnız kazanç vermek, gürültüde anlamayı tek başına düzeltmez.",
+    "Gerçek yarar için kulağa ulaşan konuşmanın gürültüye oranının iyileştirilmesi gerekir.",
+    "Bunun başlıca yolları yönlü mikrofonlar, uzak mikrofon sistemleri ve dinleme ortamının düzenlenmesidir.",
+    "Dijital gürültü azaltma ise, birazdan göreceğimiz gibi, daha çok dinleme rahatlığına katkı verir."
+   ]
+  },
+  {
+   "id": "iki_mik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yönlü mikrofon",
+   "baslik": "İki mikrofon, *bir gecikme*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "RIC"
+   },
+   "etiketler": [
+    {
+     "parca": "mikrofon",
+     "metin": "iki mikrofon girişi",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "islemci",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Arka sinyal geciktirilir",
+     "cumle": 4,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Arkadan gelen söner",
+     "cumle": 5,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Öndeki konuşma korunur",
+     "cumle": 6,
+     "ikon": "konusma"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "mikrofon",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Çok yönlü (omnidirectional) mikrofon, her yönden gelen sesi yaklaşık aynı duyarlılıkla alır.",
+    "Yönlü (directional) sistemde ise cihazın üzerinde, aralarında yaklaşık bir santimetre bulunan iki mikrofon kullanılır.",
+    "Önden gelen ses önce ön mikrofona, çok kısa bir süre sonra arka mikrofona ulaşır.",
+    "Arkadan gelen seste sıra tersine döner: ses önce arka mikrofona ulaşır.",
+    "İşlemci, arka mikrofonun sinyalini kısa bir süre geciktirip ön mikrofonun sinyalinden çıkarır.",
+    "Gecikme doğru seçilirse, arkadan gelen ses iki sinyalde aynı anda bulunur ve birbirini söndürür.",
+    "Önden gelen ses ise söndürülmez; böylece öndeki konuşmacı arkadaki gürültüye göre öne çıkar.",
+    "Bu düzen, iki mikrofonun cihaz üzerinde önden arkaya dizilmesini gerektirir.",
+    "Bu yüzden yönlü mikrofon çok küçük kulak içi cihazlara her zaman sığmaz."
+   ]
+  },
+  {
+   "id": "polar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yönlü mikrofon",
+   "baslik": "Polar *desenler*",
+   "cizim": "polar_desen",
+   "ayar": {
+    "desenler": [
+     {
+      "tip": "cok_yonlu",
+      "cumle": 2
+     },
+     {
+      "tip": "kardiyoid",
+      "cumle": 3
+     },
+     {
+      "tip": "hiperkardiyoid",
+      "cumle": 4
+     }
+    ],
+    "sifir_cumle": 3,
+    "grafik": {
+     "x": {
+      "min": 0,
+      "max": 360,
+      "isaretler": [
+       0,
+       90,
+       180,
+       270,
+       360
+      ],
+      "ad": "Sesin geldiği açı (derece)"
+     },
+     "y": {
+      "min": -30,
+      "max": 5,
+      "adim": 10,
+      "ad": "Göreli duyarlılık (dB)"
+     },
+     "seriler": [
+      {
+       "ad": "cok_yonlu",
+       "noktalar": [
+        [
+         0,
+         0
+        ],
+        [
+         360,
+         0
+        ]
+       ],
+       "renk": "gri",
+       "kesik": true,
+       "cumle": 2,
+       "etiket": "çok yönlü",
+       "etiket_konum": [
+        10,
+        0
+       ],
+       "etiket_dy": -12
+      },
+      {
+       "ad": "kardiyoid",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         5,
+         -0.02
+        ],
+        [
+         10,
+         -0.07
+        ],
+        [
+         15,
+         -0.15
+        ],
+        [
+         20,
+         -0.27
+        ],
+        [
+         25,
+         -0.42
+        ],
+        [
+         30,
+         -0.6
+        ],
+        [
+         35,
+         -0.82
+        ],
+        [
+         40,
+         -1.08
+        ],
+        [
+         45,
+         -1.38
+        ],
+        [
+         50,
+         -1.71
+        ],
+        [
+         55,
+         -2.08
+        ],
+        [
+         60,
+         -2.5
+        ],
+        [
+         65,
+         -2.96
+        ],
+        [
+         70,
+         -3.47
+        ],
+        [
+         75,
+         -4.02
+        ],
+        [
+         80,
+         -4.63
+        ],
+        [
+         85,
+         -5.29
+        ],
+        [
+         90,
+         -6.02
+        ],
+        [
+         95,
+         -6.81
+        ],
+        [
+         100,
+         -7.68
+        ],
+        [
+         105,
+         -8.62
+        ],
+        [
+         110,
+         -9.66
+        ],
+        [
+         115,
+         -10.79
+        ],
+        [
+         120,
+         -12.04
+        ],
+        [
+         125,
+         -13.42
+        ],
+        [
+         130,
+         -14.96
+        ],
+        [
+         135,
+         -16.69
+        ],
+        [
+         140,
+         -18.64
+        ],
+        [
+         145,
+         -20.87
+        ],
+        [
+         150,
+         -23.48
+        ],
+        [
+         155,
+         -26.59
+        ],
+        [
+         160,
+         -30.0
+        ],
+        [
+         165,
+         -30.0
+        ],
+        [
+         170,
+         -30.0
+        ],
+        [
+         175,
+         -30.0
+        ],
+        [
+         180,
+         -30.0
+        ],
+        [
+         185,
+         -30.0
+        ],
+        [
+         190,
+         -30.0
+        ],
+        [
+         195,
+         -30.0
+        ],
+        [
+         200,
+         -30.0
+        ],
+        [
+         205,
+         -26.59
+        ],
+        [
+         210,
+         -23.48
+        ],
+        [
+         215,
+         -20.87
+        ],
+        [
+         220,
+         -18.64
+        ],
+        [
+         225,
+         -16.69
+        ],
+        [
+         230,
+         -14.96
+        ],
+        [
+         235,
+         -13.42
+        ],
+        [
+         240,
+         -12.04
+        ],
+        [
+         245,
+         -10.79
+        ],
+        [
+         250,
+         -9.66
+        ],
+        [
+         255,
+         -8.62
+        ],
+        [
+         260,
+         -7.68
+        ],
+        [
+         265,
+         -6.81
+        ],
+        [
+         270,
+         -6.02
+        ],
+        [
+         275,
+         -5.29
+        ],
+        [
+         280,
+         -4.63
+        ],
+        [
+         285,
+         -4.02
+        ],
+        [
+         290,
+         -3.47
+        ],
+        [
+         295,
+         -2.96
+        ],
+        [
+         300,
+         -2.5
+        ],
+        [
+         305,
+         -2.08
+        ],
+        [
+         310,
+         -1.71
+        ],
+        [
+         315,
+         -1.38
+        ],
+        [
+         320,
+         -1.08
+        ],
+        [
+         325,
+         -0.82
+        ],
+        [
+         330,
+         -0.6
+        ],
+        [
+         335,
+         -0.42
+        ],
+        [
+         340,
+         -0.27
+        ],
+        [
+         345,
+         -0.15
+        ],
+        [
+         350,
+         -0.07
+        ],
+        [
+         355,
+         -0.02
+        ],
+        [
+         360,
+         0.0
+        ]
+       ],
+       "renk": "mavi",
+       "cumle": 3,
+       "etiket": "kardiyoid",
+       "etiket_konum": [
+        150,
+        -15
+       ],
+       "etiket_dx": -110
+      },
+      {
+       "ad": "hiperkardiyoid",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         5,
+         -0.02
+        ],
+        [
+         10,
+         -0.1
+        ],
+        [
+         15,
+         -0.22
+        ],
+        [
+         20,
+         -0.4
+        ],
+        [
+         25,
+         -0.63
+        ],
+        [
+         30,
+         -0.92
+        ],
+        [
+         35,
+         -1.27
+        ],
+        [
+         40,
+         -1.68
+        ],
+        [
+         45,
+         -2.15
+        ],
+        [
+         50,
+         -2.71
+        ],
+        [
+         55,
+         -3.35
+        ],
+        [
+         60,
+         -4.08
+        ],
+        [
+         65,
+         -4.93
+        ],
+        [
+         70,
+         -5.91
+        ],
+        [
+         75,
+         -7.05
+        ],
+        [
+         80,
+         -8.4
+        ],
+        [
+         85,
+         -10.02
+        ],
+        [
+         90,
+         -12.04
+        ],
+        [
+         95,
+         -14.67
+        ],
+        [
+         100,
+         -18.43
+        ],
+        [
+         105,
+         -25.05
+        ],
+        [
+         110,
+         -30.0
+        ],
+        [
+         115,
+         -23.48
+        ],
+        [
+         120,
+         -18.06
+        ],
+        [
+         125,
+         -14.89
+        ],
+        [
+         130,
+         -12.69
+        ],
+        [
+         135,
+         -11.05
+        ],
+        [
+         140,
+         -9.77
+        ],
+        [
+         145,
+         -8.77
+        ],
+        [
+         150,
+         -7.97
+        ],
+        [
+         155,
+         -7.34
+        ],
+        [
+         160,
+         -6.84
+        ],
+        [
+         165,
+         -6.48
+        ],
+        [
+         170,
+         -6.22
+        ],
+        [
+         175,
+         -6.07
+        ],
+        [
+         180,
+         -6.02
+        ],
+        [
+         185,
+         -6.07
+        ],
+        [
+         190,
+         -6.22
+        ],
+        [
+         195,
+         -6.48
+        ],
+        [
+         200,
+         -6.84
+        ],
+        [
+         205,
+         -7.34
+        ],
+        [
+         210,
+         -7.97
+        ],
+        [
+         215,
+         -8.77
+        ],
+        [
+         220,
+         -9.77
+        ],
+        [
+         225,
+         -11.05
+        ],
+        [
+         230,
+         -12.69
+        ],
+        [
+         235,
+         -14.89
+        ],
+        [
+         240,
+         -18.06
+        ],
+        [
+         245,
+         -23.48
+        ],
+        [
+         250,
+         -30.0
+        ],
+        [
+         255,
+         -25.05
+        ],
+        [
+         260,
+         -18.43
+        ],
+        [
+         265,
+         -14.67
+        ],
+        [
+         270,
+         -12.04
+        ],
+        [
+         275,
+         -10.02
+        ],
+        [
+         280,
+         -8.4
+        ],
+        [
+         285,
+         -7.05
+        ],
+        [
+         290,
+         -5.91
+        ],
+        [
+         295,
+         -4.93
+        ],
+        [
+         300,
+         -4.08
+        ],
+        [
+         305,
+         -3.35
+        ],
+        [
+         310,
+         -2.71
+        ],
+        [
+         315,
+         -2.15
+        ],
+        [
+         320,
+         -1.68
+        ],
+        [
+         325,
+         -1.27
+        ],
+        [
+         330,
+         -0.92
+        ],
+        [
+         335,
+         -0.63
+        ],
+        [
+         340,
+         -0.4
+        ],
+        [
+         345,
+         -0.22
+        ],
+        [
+         350,
+         -0.1
+        ],
+        [
+         355,
+         -0.02
+        ],
+        [
+         360,
+         0.0
+        ]
+       ],
+       "renk": "kirmizi",
+       "cumle": 4,
+       "etiket": "hiperkardiyoid",
+       "etiket_konum": [
+        210,
+        -9.5
+       ],
+       "etiket_dx": 14
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "arka",
+       "x": 180,
+       "y": -30,
+       "etiket": "tam arka",
+       "dy": -16,
+       "renk": "lacivert",
+       "cumle": 3,
+       "nokta": false
+      }
+     ]
+    }
+   },
+   "vurgula": [
+    {
+     "parca": "kardiyoid",
+     "cumle": 3
+    },
+    {
+     "parca": "hiperkardiyoid",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bir mikrofonun yönlere göre duyarlılığı polar desenle (polar pattern) gösterilir.",
+    "Burada deseni düz bir grafikte açıyoruz: yatay eksen sesin geldiği açı, sıfır derece tam ön, 180 derece tam arkadır.",
+    "Çok yönlü mikrofonun deseni düzdür; her açıdan gelen ses aynı duyarlılıkla alınır.",
+    "Kardiyoid desende duyarlılık arkaya doğru azalır ve tam arkada en düşük düzeye iner; bu noktaya sıfır noktası (null) denir.",
+    "Hiperkardiyoid desende sıfır noktaları yaklaşık 110 ve 250 derecededir; yani arka yanlardan gelen sesi en çok bastırır.",
+    "Yönlülük indeksi, önden gelen sese duyarlılığın her yönden gelen sese duyarlılığa oranıdır ve desibel olarak verilir.",
+    {
+     "yazi": "Kuramsal olarak kardiyoid için yaklaşık 4,8, hiperkardiyoid için yaklaşık 6 desibeldir.",
+     "ses": "Kuramsal olarak kardiyoid için yaklaşık dört virgül sekiz, hiperkardiyoid için yaklaşık altı desibeldir."
+    },
+    "Cihaz kulağa takıldığında baş ve kulak kepçesi deseni değiştirir; gerçek değerler genellikle daha düşüktür."
+   ]
+  },
+  {
+   "id": "dusuk",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yönlü mikrofon",
+   "baslik": "Alçak frekans *kaybı*",
+   "maddeler": [
+    {
+     "metin": "Yönlü sistem alçak frekansları zayıflatır",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Telafi kazancı iç gürültüyü artırır",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Sessizde çok yönlü daha uygun",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Rüzgar gürültüsüne duyarlı",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": 125,
+      "max": 8000,
+      "log": true,
+      "hz": true,
+      "ad": "Frekans (Hz)",
+      "isaretler": [
+       125,
+       500,
+       2000,
+       8000
+      ]
+     },
+     "y": {
+      "min": -30,
+      "max": 5,
+      "adim": 10,
+      "ad": "Duyarlılık (dB)"
+     },
+     "seriler": [
+      {
+       "ad": "cok_yonlu",
+       "noktalar": [
+        [
+         125,
+         0
+        ],
+        [
+         8000,
+         0
+        ]
+       ],
+       "renk": "gri",
+       "kesik": true,
+       "cumle": 0
+      },
+      {
+       "ad": "yonlu",
+       "noktalar": [
+        [
+         125,
+         -24
+        ],
+        [
+         250,
+         -18
+        ],
+        [
+         500,
+         -12
+        ],
+        [
+         1000,
+         -6
+        ],
+        [
+         2000,
+         -1.5
+        ],
+        [
+         4000,
+         0
+        ],
+        [
+         8000,
+         0
+        ]
+       ],
+       "renk": "mavi",
+       "cumle": 0
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "yonlu",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "İki mikrofonun çıkarılmasıyla oluşan yönlü sistem, alçak frekanslarda duyarlılığını kaybeder.",
+    "Bu düşüş, frekans yarıya indikçe yaklaşık 6 desibel artar.",
+    "Cihaz bu kaybı genellikle ek kazançla telafi eder, ama bu sırada mikrofonun iç gürültüsü de yükselir.",
+    "Sessiz bir ortamda bu gürültü bir hışırtı olarak duyulabilir ve yönlülükten beklenen bir yarar da yoktur.",
+    "Bu yüzden sessiz ortamlarda çoğu zaman çok yönlü mod tercih edilir.",
+    "Yönlü sistemler rüzgar gürültüsüne de daha duyarlıdır; bu nedenle cihazlarda rüzgar gürültüsü yönetimi bulunur."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sabit ve uyarlanabilir",
+   "baslik": "Yönlülük *türleri*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Çok yönlü",
+     "cumle": 0,
+     "metin": "Her yön eşit"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sabit yönlü",
+     "cumle": 1,
+     "metin": "Desen değişmez"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Uyarlanabilir",
+     "cumle": 3,
+     "metin": "Sıfır noktası gürültüyü izler"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Otomatik geçiş",
+     "cumle": 5,
+     "metin": "Ortama göre mod"
+    }
+   ],
+   "cumleler": [
+    "Çok yönlü mod, yönlülüğün kapalı olduğu temel durumdur.",
+    "Sabit yönlü modda desen önceden belirlenmiştir; örneğin her zaman kardiyoid ya da hiperkardiyoid çalışır.",
+    "Bu modda en iyi sonuç, gürültü kaynağının desenin sıfır noktasına denk geldiği durumlarda alınır.",
+    "Uyarlanabilir yönlülükte (adaptive directionality) cihaz, arka yarıdaki en güçlü gürültünün yönünü sürekli kestirir.",
+    "Ardından sıfır noktasını o yöne çevirir; gürültü kaynağı yer değiştirdikçe desen de değişir.",
+    "Otomatik sistemler ise ortamın sesini sınıflandırır ve sessizde çok yönlü, gürültülü konuşma ortamında yönlü moda geçer.",
+    "Bazı cihazlar iki kulaktaki mikrofonları kablosuz olarak birleştirip daha dar bir yönlülük de oluşturabilir.",
+    "Hangi modun ne zaman devreye girdiği, cihazın yazılımında görülebilir ve ayarlanabilir."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sabit ve uyarlanabilir",
+   "baslik": "Yönlülükten *kim yararlanır?*",
+   "maddeler": [
+    {
+     "metin": "Konuşmacı _önde_ ve yakında",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Gürültü arkada ya da yanlarda",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Yankı az olduğunda daha etkili",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Laboratuvar yararı sahada küçülür",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Küçük çocukta dikkatli kullanım",
+     "cumle": 6,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oda_plani",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kritik_mesafe",
+     "kritik_mesafe_m": 1.5,
+     "oda": [
+      9,
+      7
+     ],
+     "halka_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "dogrudan_alan",
+      "cumle": 3
+     },
+     {
+      "parca": "yankilanan_alan",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Yönlü mikrofonun yararı, kişi konuşmacıya baktığında ve konuşmacı görece yakın olduğunda en fazladır.",
+    "Gürültü kaynakları arkada ya da yanlarda olmalıdır; gürültü konuşmacıyla aynı yönden geliyorsa yönlülük yardım edemez.",
+    "Yankılı bir odada sesler her yönden yansıdığı için yönlülüğün etkisi azalır.",
+    "Konuşmacı kritik mesafenin dışına çıktıkça, kulağa ulaşan ses daha çok yansımalardan oluşur ve yarar küçülür.",
+    "Laboratuvarda yönlülüğün gürültüde anlamaya birkaç desibellik katkısı kolayca gösterilir.",
+    "Gerçek yaşamda ise kullanıcıların algıladığı yarar genellikle daha küçüktür.",
+    "Küçük çocuklar konuşmacıya her zaman bakmaz ve dili çevreden dolaylı olarak da öğrenir; bu yüzden onlarda yönlülük dikkatle kullanılır."
+   ]
+  },
+  {
+   "id": "dnr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültü azaltma",
+   "baslik": "Gürültü azaltma *nasıl çalışır?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Kanal (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -12,
+     "max": 2,
+     "adim": 4,
+     "ad": "Kazanç değişimi (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu_kanallari",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        250,
+        -8
+       ],
+       [
+        500,
+        -6
+       ],
+       [
+        6000,
+        -3
+       ]
+      ],
+      "renk": "kirmizi",
+      "genislik": 0.6,
+      "taban": 0,
+      "cumle": 4,
+      "etiket": "gürültü baskın",
+      "etiket_konum": [
+       250,
+       -8
+      ],
+      "etiket_dy": 26,
+      "etiket_hiza": "start",
+      "etiket_dx": -20
+     },
+     {
+      "ad": "konusma_kanallari",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1000,
+        -1
+       ],
+       [
+        2000,
+        -0.5
+       ],
+       [
+        3000,
+        -1
+       ]
+      ],
+      "renk": "mavi",
+      "genislik": 0.6,
+      "taban": 0,
+      "cumle": 4,
+      "etiket": "konuşma baskın",
+      "etiket_konum": [
+       2000,
+       -1
+      ],
+      "etiket_dy": 26,
+      "etiket_hiza": "middle",
+      "etiket_dx": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sifir",
+      "x": 7000,
+      "y": 0,
+      "cizgi": "yatay",
+      "nokta": false,
+      "etiket": "değişim yok",
+      "dy": -10,
+      "cumle": 0,
+      "renk": "gri"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "gurultu_kanallari",
+     "cumle": 5
+    },
+    {
+     "parca": "konusma_kanallari",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Dijital gürültü azaltma (digital noise reduction), kısaca DNR, her kanalda sinyalin konuşmaya mı gürültüye mi benzediğini kestirir.",
+    "Konuşmanın düzeyi, hecelerin ritmiyle saniyede birkaç kez, yaklaşık 4 hertz civarında iner ve çıkar.",
+    "Klima ya da motor uğultusu gibi sabit gürültülerin düzeyi ise neredeyse hiç dalgalanmaz.",
+    "Cihaz bu dalgalanmanın derinliğine ve hızına bakarak her kanaldaki sinyal-gürültü oranını tahmin eder.",
+    "Gürültünün baskın olduğu kanallarda kazanç azaltılır; konuşmanın baskın olduğu kanallar korunur.",
+    "Bu örnekte alçak frekans kanallarında, uğultunun yoğun olduğu bölgede kazanç birkaç desibel düşürülmüş.",
+    "Ancak aynı kanalda aynı anda bulunan konuşma ile gürültü birbirinden ayrılamaz; kazanç düşerse ikisi birlikte düşer.",
+    "Bu yüzden DNR, kanal içindeki sinyal-gürültü oranını değiştiremez."
+   ]
+  },
+  {
+   "id": "etki",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültü azaltma",
+   "baslik": "DNR'nin *gerçek etkisi*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Dinleme rahatlığı",
+     "cumle": 0,
+     "metin": "Çoğu çalışmada artar"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Dinleme eforu",
+     "cumle": 2,
+     "metin": "Bazı çalışmalarda azalır"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Anlaşılırlık",
+     "cumle": 3,
+     "metin": "Genellikle belirgin değişmez"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocuklar",
+     "cumle": 5,
+     "metin": "Olumsuz etki gösterilmedi"
+    }
+   ],
+   "cumleler": [
+    "Araştırmalar, DNR'nin gürültülü ortamlarda dinleme rahatlığını ve gürültüye toleransı artırdığını gösteriyor.",
+    {
+     "yazi": "Bentler ve arkadaşlarının 2008 çalışmasında da kullanıcılar DNR açıkken dinlemeyi daha kolay buldu.",
+     "ses": "Bentlır ve arkadaşlarının iki bin sekiz çalışmasında da kullanıcılar DNR açıkken dinlemeyi daha kolay buldu."
+    },
+    "Bazı çalışmalar, DNR'nin dinleme eforunu azaltabileceğini düşündürüyor.",
+    "Buna karşılık, gürültüde konuşma anlaşılırlığında genellikle belirgin bir iyileşme gösterilemedi.",
+    "Yani DNR konuşmayı daha anlaşılır değil, ortamı daha katlanılır kılar.",
+    "Çocuklarla yapılan çalışmalarda DNR'nin konuşma algısını olumsuz etkilediğine dair belirgin bir bulgu bildirilmedi.",
+    "Bu bilgi, kullanıcının beklentisini gerçekçi biçimde kurmak için önemlidir."
+   ]
+  },
+  {
+   "id": "yollar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültü azaltma",
+   "baslik": "SNR'yi artırmanın *yolları*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Uzak mikrofon",
+     "cumle": 0,
+     "metin": "En büyük SNR kazancı"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Yönlü mikrofon",
+     "cumle": 2,
+     "metin": "Birkaç desibel"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Yakınlık ve bakış",
+     "cumle": 3,
+     "metin": "Mesafeyi azalt"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Ortam düzeni",
+     "cumle": 4,
+     "metin": "Gürültü kaynağından uzaklaş"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "DNR",
+     "cumle": 5,
+     "metin": "Rahatlık, anlaşılırlık değil"
+    }
+   ],
+   "cumleler": [
+    "Gürültüde konuşmayı anlamak için en etkili yol, mikrofonu konuşmacının ağzına yaklaştıran uzak mikrofon sistemleridir.",
+    "Uzak mikrofon, mesafeden ve yankıdan kaynaklanan kaybı büyük ölçüde ortadan kaldırır.",
+    "Yönlü mikrofonlar uygun koşullarda birkaç desibellik iyileşme sağlar.",
+    "Konuşmacıya yaklaşmak ve yüzüne bakmak hem sinyal-gürültü oranını hem de dudak okumayı iyileştirir.",
+    "Restoranda gürültü kaynağına sırtını dönmek ya da sessiz bir köşe seçmek de basit ama etkili stratejilerdir.",
+    "DNR ise bu yöntemlerin yerine geçmez; onlara rahatlık açısından eşlik eder.",
+    "Danışmanlıkta bu stratejileri teknolojiyle birlikte anlatmak, kullanıcının gerçek yaşamdaki başarısını artırır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kullanıcıya yönlülüğün ancak konuşmacıya bakınca işe yaradığını anlatın. Gürültüde konuşma testiyle beklentiyi önceden kurun.",
+   "cumleler": [
+    "Sahadan bir ipucu: yönlü mikrofon ve gürültü azaltma, kullanıcıların en çok yanlış beklenti kurduğu özelliklerdir.",
+    "Kullanıcıya, yönlülüğün ancak konuşmacıya yüzünü döndüğünde işe yaradığını açıkça anlatın.",
+    "Uygulamadan önce yapılan bir gürültüde konuşma testi, kişinin SNR kaybını ve gerçekçi beklentiyi gösterir.",
+    "SNR kaybı büyük olan kişilerde uzak mikrofon sistemini erkenden konuşun.",
+    "Kontrol randevusunda cihazın hangi ortamda hangi moda geçtiğini yazılımda kontrol edin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Yönlülük: iki mikrofon ve gecikme",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Polar desen: kardiyoid, hiperkardiyoid",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yarar: konuşmacı önde, yankı az",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "DNR rahatlık verir, anlaşılırlık değil",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Bu derste yönlü mikrofonun iki mikrofon arasındaki zaman farkını kullanarak arkadan gelen sesi bastırdığını gördük.",
+    "Polar desen yönlere göre duyarlılığı gösterir; kardiyoidin sıfır noktası tam arkada, hiperkardiyoidinki arka yanlardadır.",
+    "Yönlülüğün yararı konuşmacı öndeyken, gürültü arkadayken ve yankı azken en fazladır.",
+    "Dijital gürültü azaltma dinleme rahatlığını artırır, ama gürültüde konuşma anlaşılırlığını genellikle belirgin değiştirmez."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Kardiyoid desende sıfır noktası nerededir?",
+   "secenekler": [
+    "Tam önde",
+    "Yanlarda, 90 derecede",
+    "Tam arkada, 180 derecede",
+    "Desende sıfır noktası yok"
+   ],
+   "dogru": 2,
+   "aciklama": "Kardiyoid desen tam _arkadan_ gelen sesi en çok bastırır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: kardiyoid polar desende sıfır noktası, yani en düşük duyarlılık hangi yöndedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: tam arkada, 180 derecede.",
+    "Hiperkardiyoid desende ise sıfır noktaları yaklaşık 110 ve 250 derecede, yani arka yanlardadır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Akustik *geri besleme* ve oklüzyon etkisi",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ıslığa yol açan akustik geri beslemeyi ve kendi sesi boğuk duyurmaya yol açan oklüzyon etkisini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

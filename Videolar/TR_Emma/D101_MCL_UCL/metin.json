@@ -1,0 +1,870 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D101_MCL_UCL_TR",
+ "kapak": {
+  "ust": "DERS 101",
+  "baslik": "MCL ve *UCL*",
+  "alt": "Rahat ve rahatsız edici ses düzeyleri",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 110,
+    "adim": 20,
+    "ad": "Düzey (dB HL)"
+   },
+   "y": {
+    "min": 1,
+    "max": 7,
+    "adim": 1,
+    "ad": "Yükseklik"
+   },
+   "seriler": [
+    {
+     "ad": "normal",
+     "noktalar": [
+      [
+       10,
+       1
+      ],
+      [
+       25,
+       2
+      ],
+      [
+       40,
+       3
+      ],
+      [
+       55,
+       4
+      ],
+      [
+       70,
+       5
+      ],
+      [
+       85,
+       6
+      ],
+      [
+       100,
+       7
+      ]
+     ],
+     "renk": "yesil",
+     "yumusak": true
+    },
+    {
+     "ad": "koklear",
+     "noktalar": [
+      [
+       60,
+       1
+      ],
+      [
+       67,
+       2
+      ],
+      [
+       74,
+       3
+      ],
+      [
+       81,
+       4
+      ],
+      [
+       88,
+       5
+      ],
+      [
+       94,
+       6
+      ],
+      [
+       100,
+       7
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kesik": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "MCL ve UCL: En Rahat ve Rahatsız Edici Ses Düzeyleri | Ders 101 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "En rahat dinleme düzeyi (MCL) ve rahatsız edici ses düzeyi (UCL), işitmenin yalnız eşiğini değil, kullanılabilir aralığını gösterir. Bu derste ses yüksekliği kategori ölçeğini, ölçüm adımlarını, dinamik aralığın hesaplanmasını, koklear kayıpta daralan aralığı ve bu ölçümlerin işitme cihazı ayarı ve sese aşırı duyarlılık değerlendirmesindeki yerini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Cox ve ark. (1997), The Contour Test of loudness perception, Ear and Hearing; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Dillon, Hearing Aids.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "MCL",
+   "UCL"
+  ],
+  "etiketler": [
+   "MCL",
+   "en rahat dinleme düzeyi",
+   "UCL",
+   "rahatsız edici ses düzeyi",
+   "LDL",
+   "dinamik aralık",
+   "rekruitment",
+   "hiperakuzi",
+   "Contour testi",
+   "işitme cihazı ayarı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 101",
+   "baslik": "MCL ve *UCL*",
+   "alt": "En rahat ve rahatsız edici ses düzeyleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste en rahat dinleme düzeyinin ve rahatsız edici ses düzeyinin nasıl ölçüldüğünü öğreneceğiz.",
+    "Dinamik aralığı hesaplayacak ve bu ölçümlerin cihaz ayarında ve sese aşırı duyarlılıkta nasıl kullanıldığını göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanımlar",
+   "baslik": "Eşiğin *üstünde* ne var?",
+   "maddeler": [
+    {
+     "metin": "_MCL_: en rahat dinleme düzeyi",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_UCL_: rahatsız edici ses düzeyi",
+     "cumle": 2,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Eş anlamlı: _LDL_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Dinamik aralık_: eşikten UCL'ye",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÖZNEL",
+    "metin": "MCL ve UCL, hastanın *algısına* dayanan ölçümlerdir",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Eşik testleri en hafif duyulan sesi bulur; ama günlük hayatta sesler eşiğin çok üzerindedir.",
+    "En rahat dinleme düzeyi (most comfortable level), kısaca MCL, konuşmanın en rahat dinlendiği düzeydir.",
+    "Rahatsız edici ses düzeyi (uncomfortable loudness level), kısaca UCL, sesin rahatsız edici derecede yüksek algılandığı düzeydir.",
+    "Kaynaklarda UCL yerine ses yüksekliği rahatsızlık düzeyi (loudness discomfort level), kısaca LDL terimi de kullanılır.",
+    "Eşik ile UCL arasındaki aralığa dinamik aralık (dynamic range) denir; işitmenin kullanılabilir alanıdır.",
+    "MCL ve UCL, hastanın ses yüksekliği algısına dayanan öznel ölçümlerdir; bu yüzden talimat ve yöntem sonucu belirgin biçimde etkiler."
+   ]
+  },
+  {
+   "id": "olcek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanımlar",
+   "baslik": "Ses yüksekliği *kategori ölçeği*",
+   "sutunlar": [
+    "Kategori",
+    "Hastanın ifadesi"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "Çok hafif"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2",
+      "Hafif"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3",
+      "Rahat, biraz hafif"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "4",
+      "Rahat"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "5",
+      "Rahat, biraz yüksek"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "6",
+      "Yüksek ama dayanılır"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "7",
+      "Rahatsız edici yüksek"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Öznel bir algıyı tutarlı ölçmek için kategori ölçekleri kullanılır.",
+    {
+     "yazi": "Yaygın kullanılan Contour testinde yedi kategori vardır; ilk ikisi çok hafif ve hafiftir.",
+     "ses": "Yaygın kullanılan Kontur testinde yedi kategori vardır; ilk ikisi çok hafif ve hafiftir."
+    },
+    "Üçüncü kategori rahat ama biraz hafif, dördüncüsü ise rahattır; MCL bu bölgededir.",
+    "Beşinci kategori rahat ama biraz yüksek, altıncısı yüksek ama dayanılabilir düzeydir.",
+    "Yedinci kategori rahatsız edici derecede yüksektir; bu kategoriye ilk ulaşılan düzey UCL olarak kabul edilir.",
+    "Hasta, her sesten sonra ölçek kartında bu ifadelerden birini gösterir."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ölçüm",
+   "baslik": "Ölçüm *adımları*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Talimat",
+     "metin": "Ölçeği birlikte oku",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Düşükten başla",
+     "metin": "Rahat duyulan düzeyin altı",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "5 dB artır",
+     "metin": "Her adımda kategori sor",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "7'de dur",
+     "metin": "İlk rahatsız düzey",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Tekrarla",
+     "metin": "Ortalama al",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ölçümden önce hastaya kategori ölçeği gösterilir ve ifadeler birlikte okunur.",
+    "Hastaya, rahatsız edici düzeyin acı veren düzey olmadığı, yalnız uzun süre dinlemek istemeyeceği düzey olduğu açıkça anlatılır.",
+    "Ses, rahat duyulan düzeyin altında başlatılır; yöntem yükselen yönde ilerler.",
+    "Düzey beşer desibel artırılır ve her adımda hastanın seçtiği kategori kaydedilir.",
+    "Hasta yedinci kategoriyi gösterdiğinde artış durdurulur; bu düzey UCL'dir.",
+    "Ölçüm genellikle iki ya da üç kez tekrarlanır ve sonuçların ortalaması alınır.",
+    "MCL, dördüncü kategorinin işaretlendiği düzeyler olarak bulunur; tek bir nokta değil, çoğu zaman bir aralıktır."
+   ]
+  },
+  {
+   "id": "uyaran",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ölçüm",
+   "baslik": "Konuşma mı, *frekansa özgü* uyaran mı?",
+   "sol": {
+    "ust": "Konuşma",
+    "maddeler": [
+     {
+      "metin": "Sürekli, akıcı konuşma",
+      "cumle": 0
+     },
+     {
+      "metin": "Günlük dinlemeye _yakın_",
+      "cumle": 1
+     },
+     {
+      "metin": "Tek bir değer verir",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Ton ya da dar bant",
+    "maddeler": [
+     {
+      "metin": "Her frekans _ayrı_ ölçülür",
+      "cumle": 3
+     },
+     {
+      "metin": "Cihazın _en yüksek çıkışı_ için",
+      "cumle": 4
+     },
+     {
+      "metin": "Genellikle 500 ve 3000 Hz",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "MCL ve UCL, kayıtlı ya da canlı sürekli konuşma ile ölçülebilir.",
+    "Konuşma, hastanın günlük hayatta dinlediği seslere en yakın uyarandır.",
+    "Ancak konuşma ile tek bir değer elde edilir; hangi frekansın rahatsız ettiğini göstermez.",
+    "Saf ses ya da dar bant gürültüyle ölçülen UCL ise her frekans için ayrı bilgi verir.",
+    "Bu frekansa özgü değerler, işitme cihazının en yüksek çıkış düzeyini ayarlamak için daha kullanışlıdır.",
+    "Bazı kaynaklar, en az bir pes ve bir tiz frekansta, örneğin beş yüz ve üç bin hertzde ölçüm yapılmasını önerir."
+   ]
+  },
+  {
+   "id": "dinamik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dinamik aralık",
+   "baslik": "Daralan *dinamik aralık*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 20,
+     "ters": true,
+     "ad": "Düzey (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "normal_esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        15
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "normal eşik",
+      "cumle": 0
+     },
+     {
+      "ad": "ucl",
+      "noktalar": [
+       [
+        250,
+        100
+       ],
+       [
+        500,
+        100
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        2000,
+        100
+       ],
+       [
+        4000,
+        100
+       ],
+       [
+        8000,
+        100
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "UCL",
+      "cumle": 1
+     },
+     {
+      "ad": "kayip_esik",
+      "noktalar": [
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        35
+       ],
+       [
+        1000,
+        45
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        4000,
+        70
+       ],
+       [
+        8000,
+        75
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "koklear kayıp",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "normal_aralik",
+      "y": [
+       10,
+       100
+      ],
+      "xk": 500,
+      "etiket": "yaklaşık 90 dB",
+      "cumle": 2
+     },
+     {
+      "ad": "dar_aralik",
+      "y": [
+       70,
+       100
+      ],
+      "xk": 4000,
+      "etiket": "30 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "UCL koklear kayıpta pek değişmez",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tizde aralık çok dar",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Grafikte yeşil çizgi normal işiten bir kişinin eşiklerini gösteriyor.",
+    "Kesikli çizgi rahatsız edici ses düzeyi; bu örnekte yaklaşık yüz desibel HL.",
+    "Normal kulakta eşik ile UCL arasında yaklaşık doksan desibellik geniş bir dinamik aralık var.",
+    "Kırmızı çizgi koklear kayıplı örnek bir hastanın eşikleri; eşikler yükselmiş, ama UCL çoğu zaman pek değişmez.",
+    "Bu yüzden dört bin hertzde dinamik aralık otuz desibele iniyor.",
+    "Bu kadar dar bir aralığa günlük seslerin tamamını sığdırmak, işitme cihazı için önemli bir zorluktur.",
+    "Normal işitenlerde UCL çoğu zaman yüz desibel HL civarında bulunur, ama kişiler arası fark büyüktür."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dinamik aralık",
+   "baslik": "Konuşma için *dinamik aralık*",
+   "sutunlar": [
+    "Örnek",
+    "SRT (dB HL)",
+    "UCL (dB HL)",
+    "Aralık (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "5",
+      "100",
+      "95"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Koklear kayıp",
+      "60",
+      "100",
+      "40"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "İletim tipi",
+      "50",
+      "Ölçülemedi",
+      "Geniş"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Konuşma için dinamik aralık, UCL'den konuşmayı alma eşiği, yani SRT çıkarılarak hesaplanır.",
+    "Normal işiten bir kişide SRT beş, UCL yüz ise aralık doksan beş desibeldir.",
+    "Koklear kayıplı bir hastada SRT altmış, UCL yine yüz ise aralık yalnızca kırk desibeldir.",
+    "Eşik yükseldiği halde rahatsızlık düzeyinin aynı kalması, ses yüksekliğinin anormal hızlı artması anlamına gelir.",
+    "İletim tipi kayıpta ise ses kulağa zayıflayarak ulaştığı için UCL de yükselir; çoğu zaman cihaz sınırında bile ulaşılamaz ve aralık korunur.",
+    "Bu fark, iki kayıp tipinde cihaz ayarının neden farklı olduğunu da açıklar."
+   ]
+  },
+  {
+   "id": "rekruitment",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dinamik aralık",
+   "baslik": "Ses yüksekliğinin *hızlı* artışı",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "adim": 20,
+     "ad": "Düzey (dB HL)"
+    },
+    "y": {
+     "min": 1,
+     "max": 7,
+     "adim": 1,
+     "ad": "Kategori"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        10,
+        1
+       ],
+       [
+        25,
+        2
+       ],
+       [
+        40,
+        3
+       ],
+       [
+        55,
+        4
+       ],
+       [
+        70,
+        5
+       ],
+       [
+        85,
+        6
+       ],
+       [
+        100,
+        7
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "etiket": "normal",
+      "cumle": 0
+     },
+     {
+      "ad": "koklear",
+      "noktalar": [
+       [
+        60,
+        1
+       ],
+       [
+        67,
+        2
+       ],
+       [
+        74,
+        3
+       ],
+       [
+        81,
+        4
+       ],
+       [
+        88,
+        5
+       ],
+       [
+        94,
+        6
+       ],
+       [
+        100,
+        7
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "koklear kayıp",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "bulusma",
+      "x": 100,
+      "y": 7,
+      "etiket": "aynı UCL",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: yükseklik yavaş artar",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Koklear: geç başlar, hızlı artar",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bu duruma _rekruitment_ denir",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Yeşil eğri, normal işiten bir kişide ses yüksekliği kategorisinin düzeyle nasıl yavaşça arttığını gösteriyor.",
+    "Kırmızı eğride ses ancak altmış desibelde duyulmaya başlıyor, ama yükseklik çok daha hızlı artıyor.",
+    "Ses yüksekliğindeki bu anormal hızlı artışa rekruitment (recruitment) denir; çoğunlukla dış tüy hücresi hasarıyla ilişkilidir.",
+    "İki eğri, yaklaşık aynı UCL'de buluşuyor.",
+    "Bu hasta hafif sesleri duymaz, ama yüksek sesler ona normal işiten biri kadar, hatta daha çabuk rahatsız edici gelebilir.",
+    "Yakınlarının sık söylediği cümle tam olarak budur: hafif konuşunca duymuyor, biraz yükseltince de bağırma diyor."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "İşitme cihazı *ayarında*",
+   "maddeler": [
+    {
+     "metin": "Geniş ses dünyası _dar aralığa_ sığdırılır",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Sıkıştırma: _hafif_ sesler daha çok yükseltilir",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "En yüksek çıkış _UCL'nin altında_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ölçülmezse formül _tahmin_ eder",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 1
+     },
+     {
+      "parca": "alici",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "İşitme cihazının temel görevlerinden biri, geniş bir ses dünyasını hastanın dar dinamik aralığına sığdırmaktır.",
+    "Bunun için cihazlar sıkıştırma kullanır: hafif sesleri çok, yüksek sesleri daha az yükseltir.",
+    "Cihazın en yüksek çıkış düzeyi (maximum power output), kısaca MPO, hastanın UCL'sini aşmayacak biçimde ayarlanır.",
+    "Aksi halde ani yüksek sesler rahatsızlık verir ve hasta cihazı kullanmaktan vazgeçebilir.",
+    "Reçete formülleri, UCL ölçülmemişse bunu eşiklerden tahmin eder; ölçülen değerler ise ayarı kişiye özel kılar.",
+    "Cihaz takılıyken hastaya yüksek sesler dinletilerek en yüksek çıkışın rahatsız edici olmadığı da doğrulanabilir."
+   ]
+  },
+  {
+   "id": "hiperakuzi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "*Hiperakuzi* değerlendirmesinde",
+   "ogeler": [
+    {
+     "ikon": "agri",
+     "baslik": "Düşük UCL",
+     "metin": "Normal eşik, düşük rahatsızlık",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Başlangıç değeri",
+     "metin": "Tedavi takibinde karşılaştırma",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Temkinli ölçüm",
+     "metin": "Düşükten başla, hasta durdurur",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hiperakuzi (seslere aşırı hassasiyet), UCL ölçümünün önemli bir kullanım alanıdır.",
+    "Hiperakuzide işitme eşikleri normal olabilir, ama UCL beklenenden belirgin biçimde düşüktür.",
+    "Böylece dinamik aralık, işitme kaybı olmadığı halde daralmış olur.",
+    "Ölçülen değerler, sese alıştırma gibi yaklaşımlar sırasında değişimin izlenmesi için başlangıç noktası olur.",
+    "Bu hastalarda ölçüm özellikle temkinli yapılır: düşük düzeyden başlanır, küçük adımlarla ilerlenir ve hasta istediği an testi durdurabilir.",
+    "Bazı hastalar yüksek sesle test edilmekten kaygı duyar; bu durumda ölçümün gerekliliği hastayla birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "UCL talimatında 'acı veren' değil 'uzun süre dinlemek istemeyeceğiniz' düzeyi isteyin. Talimat değişirse UCL de belirgin değişir.",
+   "cumleler": [
+    "UCL ölçümünde sonucu en çok etkileyen şey talimattır.",
+    "Hastaya acı veren düzeyi sorarsanız çok yüksek, yalnız biraz yüksek düzeyi sorarsanız çok düşük bir değer bulursunuz.",
+    "Doğru soru, uzun süre dinlemek istemeyeceği kadar rahatsız edici düzeydir; kategori kartı bu soruyu standart hale getirir.",
+    "Aynı hastanın sonraki ölçümlerinde de aynı talimatı ve aynı uyaranı kullanın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "MCL rahat, UCL _rahatsız edici_ düzey",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kategori ölçeği ve _yükselen_ yöntem",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Dinamik aralık: _UCL eksi eşik_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "MPO, _UCL'nin altında_ ayarlanır",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "MCL konuşmanın en rahat dinlendiği, UCL ise sesin rahatsız edici hale geldiği düzeydir.",
+    "Ölçüm kategori ölçeğiyle, düşük düzeyden başlayıp beşer desibel artırarak yapılır.",
+    "Dinamik aralık UCL ile eşik arasındaki farktır; koklear kayıpta rekruitment nedeniyle daralır.",
+    "İşitme cihazının en yüksek çıkışı UCL'yi aşmayacak biçimde ayarlanır; hiperakuzide UCL normalden düşüktür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "SRT 55, UCL 95 dB HL. Konuşma için dinamik aralık?",
+   "secenekler": [
+    "40 dB",
+    "55 dB",
+    "95 dB",
+    "150 dB"
+   ],
+   "dogru": 0,
+   "aciklama": "Dinamik aralık = UCL eksi SRT: _95 eksi 55 = 40 dB_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Bir hastanın SRT'si elli beş, UCL'si doksan beş desibel HL. Konuşma için dinamik aralık kaç desibeldir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: kırk desibel.",
+    "Dinamik aralık, UCL'den SRT çıkarılarak bulunur: doksan beş eksi elli beş, kırk eder."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Serbest alan odyometrisi ve *cihazlı* eşikler",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste hoparlörle yapılan serbest alan odyometrisini ve cihazlı eşikleri öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

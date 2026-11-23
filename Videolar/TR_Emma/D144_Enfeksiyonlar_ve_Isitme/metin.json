@@ -1,0 +1,809 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D144_Enfeksiyonlar_ve_Isitme_TR",
+ "kapak": {
+  "ust": "DERS 144",
+  "baslik": "Enfeksiyonlar<br>ve *işitme*",
+  "alt": "Doğumsal CMV, kabakulak, menenjit",
+  "cizim": "koklea_acik",
+  "vurgula": [
+   "taban",
+   "yuvarlak_pencere"
+  ]
+ },
+ "youtube": {
+  "baslik": "Enfeksiyonlar ve İşitme: CMV, Kabakulak, Menenjit | Ders 144 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Doğumsal sitomegalovirüs enfeksiyonunun geç başlayan ve ilerleyen işitme kaybını, kabakulağa bağlı tek taraflı ağır kaybı ve bakteriyel menenjit sonrası kemikleşen labirentiti anlatıyoruz. JCIH 2019 risk göstergelerine göre izlemi ve odyoloğun acil değerlendirmedeki rolünü ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Joint Committee on Infant Hearing, Year 2019 Position Statement; Katz, Handbook of Clinical Audiology; Goderis ve ark., Hearing loss and congenital CMV infection: a systematic review, Pediatrics (2014); WHO, World Report on Hearing (2021).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "CMV",
+   "işitmekaybı"
+  ],
+  "etiketler": [
+   "doğumsal CMV",
+   "congenital cytomegalovirus",
+   "kabakulak",
+   "mumps",
+   "bakteriyel menenjit",
+   "bacterial meningitis",
+   "kemikleşen labirentit",
+   "labyrinthitis ossificans",
+   "JCIH 2019",
+   "geç başlangıçlı işitme kaybı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 144",
+   "baslik": "Enfeksiyonlar ve *işitme*",
+   "alt": "Doğumsal CMV, kabakulak ve bakteriyel menenjit",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme kaybına yol açan enfeksiyonları öğreneceğiz.",
+    "Doğumsal sitomegalovirüs, kabakulak ve bakteriyel menenjit örnekleriyle odyolojik izlemin nasıl planlandığını göreceğiz."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Genel bakış",
+   "baslik": "Enfeksiyon *ne zaman* etkiler?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Anne karnında",
+     "metin": "Doğumsal CMV, kızamıkçık",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocuklukta",
+     "metin": "Kabakulak, kızamık",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Ağır enfeksiyon",
+     "metin": "Bakteriyel menenjit",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Enfeksiyonlar, işitme kaybının önlenebilir ya da erken fark edilebilir nedenleri arasında önemli yer tutar.",
+    "Bir grup enfeksiyon anne karnında bebeğe geçer ve doğumsal kayba yol açar; en sık örnek sitomegalovirüstür.",
+    "Kabakulak ve kızamık gibi viral enfeksiyonlar çocuklukta ani kayba neden olabilir.",
+    "Bakteriyel menenjit ise kalıcı ve ağır kaybın en önemli edinsel nedenlerinden biridir.",
+    "Bu derste bu üç örneği ve her birinde odyoloğun izlemdeki rolünü ele alacağız."
+   ]
+  },
+  {
+   "id": "cmv",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Doğumsal CMV",
+   "baslik": "Doğumsal *CMV* nedir?",
+   "maddeler": [
+    {
+     "metin": "Herpes ailesinden _yaygın_ bir virüs",
+     "cumle": 0,
+     "ikon": "virus"
+    },
+    {
+     "metin": "Gebelikte _bebeğe_ geçebilir",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Yaklaşık _200 doğumda 1_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Genetik olmayan _en sık_ neden",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Çoğu bebek _belirtisiz_ doğar",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "cCMV",
+    "metin": "Doğumsal kaybın *genetik olmayan* en sık nedeni",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Sitomegalovirüs, kısaca CMV, herpes virüs ailesinden çok yaygın bir virüstür.",
+    "Sağlıklı erişkinde çoğu zaman belirti vermez, ancak gebelikte bebeğe geçebilir.",
+    "Anne karnında geçen enfeksiyona doğumsal CMV (congenital cytomegalovirus, cCMV) denir.",
+    "Yaygın tahminlere göre her iki yüz yenidoğandan yaklaşık birinde görülür; oran toplumlara göre değişir.",
+    "Doğumsal CMV, genetik olmayan doğumsal sensörinöral işitme kaybının en sık nedenidir.",
+    "Enfekte bebeklerin büyük çoğunluğu doğumda belirti göstermez; bu yüzden çoğu fark edilmeden kalır."
+   ]
+  },
+  {
+   "id": "cmv_isitme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Doğumsal CMV",
+   "baslik": "CMV ve *işitme kaybı*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Belirtili bebek",
+     "metin": "Kayıp sık",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Belirtisiz bebek",
+     "metin": "Yaklaşık yüzde on",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Her derece",
+     "metin": "Tek ya da iki taraflı",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Geç başlangıç",
+     "metin": "Doğumdan sonra başlayabilir",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İlerleyici",
+     "metin": "Dalgalanabilir, artabilir",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Taramayı geçebilir",
+     "metin": "Kayıp sonradan çıkar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Doğumda belirtisi olan bebeklerde işitme kaybı sık görülür; çalışmalarda yaklaşık üçte bir ile yarı arasında bildirilir.",
+    "Belirtisi olmayan bebeklerde bu oran daha düşüktür, yaklaşık yüzde on civarındadır.",
+    "Ancak belirtisiz bebekler çok daha kalabalık olduğu için CMV'ye bağlı kayıpların önemli bir bölümü bu gruptan çıkar.",
+    "Kayıp tek ya da iki taraflı, hafiften çok ileri dereceye kadar her düzeyde olabilir.",
+    "En önemli özelliği, kaybın doğumdan sonra başlayabilmesi, dalgalanabilmesi ve zamanla ilerleyebilmesidir.",
+    "Bu nedenle yenidoğan işitme taramasını geçen bir bebekte bile kayıp sonradan ortaya çıkabilir."
+   ]
+  },
+  {
+   "id": "cmv_seyir",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Doğumsal CMV",
+   "baslik": "Örnek: *ilerleyen* kayıp",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 48,
+     "adim": 12,
+     "ad": "Yaş (ay)"
+    },
+    "y": {
+     "min": 0,
+     "max": 80,
+     "adim": 20,
+     "ters": true,
+     "ad": "Eşik ortalaması (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        0,
+        15
+       ],
+       [
+        12,
+        15
+       ],
+       [
+        24,
+        15
+       ],
+       [
+        36,
+        20
+       ],
+       [
+        48,
+        20
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "sağ kulak",
+      "cumle": 0
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        0,
+        20
+       ],
+       [
+        12,
+        20
+       ],
+       [
+        24,
+        40
+       ],
+       [
+        36,
+        55
+       ],
+       [
+        48,
+        70
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "sol kulak",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       0,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "normal",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "tarama",
+      "x": 0,
+      "y": 20,
+      "etiket": "taramayı geçti",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Bu örnek grafikte doğumsal CMV'li bir çocuğun iki kulağının zaman içindeki eşik ortalamaları görülüyor.",
+    "Doğumda iki kulak da normal düzeyde yanıt veriyor ve bebek yenidoğan taramasından geçiyor.",
+    "Sol kulakta kayıp birinci yaştan sonra başlıyor ve basamak basamak ilerliyor.",
+    "Sağ kulak bu dönemde normal sınırlarda kalıyor; yani kayıp tek taraflı ilerliyor.",
+    "Bu tablo, doğumsal CMV'li çocukların neden yıllarca düzenli izlenmesi gerektiğini gösteriyor."
+   ]
+  },
+  {
+   "id": "cmv_izlem",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Doğumsal CMV",
+   "baslik": "Tanı ve *izlem*",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "İlk 3 hafta",
+     "metin": "Tanı için örnek",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Hekim",
+     "metin": "Tedavi seçeneklerini değerlendirir",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "3. ayda",
+     "metin": "Ayrıntılı odyolojik değerlendirme",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Düzenli izlem",
+     "metin": "3 yaşa kadar yılda bir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Doğumsal CMV tanısı için örnek, genellikle yaşamın ilk üç haftası içinde alınmalıdır.",
+    "Daha sonra alınan örnekte virüs bulunursa, enfeksiyonun doğumdan sonra geçip geçmediği ayırt edilemez.",
+    "Bazı ülkelerde taramadan kalan bebeklere hedefli CMV testi yapılır; bazı programlarda ise tüm yenidoğanlar taranır.",
+    "Tanı alan bebekte tedavi seçeneklerini hekim değerlendirir; erken tanı bu değerlendirme için zaman kazandırır.",
+    "Bebek İşitmesi Ortak Komitesi, kısaca JCIH, 2019 bildirisinde ilk ayrıntılı odyolojik değerlendirmeyi en geç üç ayda önerir.",
+    "Ardından üç yaşına kadar en az yılda bir izlem önerilir; ailenin kaygısı ya da bulgulara göre aralık kısaltılır."
+   ]
+  },
+  {
+   "id": "cmv_denge",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Doğumsal CMV",
+   "baslik": "CMV ve *denge*",
+   "maddeler": [
+    {
+     "metin": "Vestibüler sistem de _etkilenebilir_",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Motor gelişimde _gecikme_ olabilir",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "İşitme ve denge _birlikte_ izlenir",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Kuru kan örneği: _geriye dönük_ tanı",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "sakkul",
+      "cumle": 1
+     },
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Doğumsal CMV yalnız kokleayı değil, vestibüler sistemi de etkileyebilir.",
+    "Çalışmalarda CMV'li çocukların önemli bir bölümünde otolit organlarında ve kanallarda işlev bozukluğu bildirilmiştir.",
+    "Bu durum oturma ve yürüme gibi motor gelişim basamaklarında gecikmeye katkıda bulunabilir.",
+    "Kayıp ve denge bulguları birlikte izlendiğinde çocuğun gelişimi daha iyi desteklenebilir.",
+    "Tanının geç düşünüldüğü çocuklarda, yenidoğan döneminde alınan kuru kan örneklerinde virüs aranabilir; bu olanak her yerde yoktur."
+   ]
+  },
+  {
+   "id": "kabakulak",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kabakulak ve diğerleri",
+   "baslik": "Kabakulak ve *ani kayıp*",
+   "maddeler": [
+    {
+     "metin": "Tükürük bezlerini tutan _viral_ enfeksiyon",
+     "cumle": 0,
+     "ikon": "virus"
+    },
+    {
+     "metin": "Nadir ama _ağır_ komplikasyon",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Çoğunlukla _tek taraflı_, çok ileri",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tek kulakta: _geç fark edilir_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Aşı sıklığı _belirgin azalttı_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        95,
+        100,
+        105,
+        110,
+        110,
+        110
+       ],
+       "yanitsiz": [
+        3,
+        4,
+        5
+       ],
+       "cumle": 2
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        15,
+        15
+       ],
+       "cumle": 2
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Kabakulak (mumps), tükürük bezlerinin şişmesiyle bilinen viral bir enfeksiyondur.",
+    "Nadir ama ağır bir komplikasyonu, aniden ortaya çıkan sensörinöral işitme kaybıdır.",
+    "Kayıp çoğunlukla tek taraflıdır ve sıklıkla çok ileri derecededir; örnek odyogramda sağ kulak böyle.",
+    "Görülme sıklığı kaynaklara göre çok değişir; kabakulak geçirenlerde binde bir ile yirmi binde bir arasında bildirilir.",
+    "Kayıp çoğu zaman kalıcıdır; tek kulakta olduğu için çocukta uzun süre fark edilmeyebilir.",
+    "Kızamık, kızamıkçık ve kabakulak aşısı, bu kaybın görülme sıklığını belirgin biçimde azaltmıştır."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kabakulak ve diğerleri",
+   "baslik": "Diğer *doğumsal* enfeksiyonlar",
+   "ogeler": [
+    {
+     "ikon": "virus",
+     "baslik": "Kızamıkçık",
+     "metin": "Aşıyla azaldı",
+     "cumle": 1
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Toksoplazmoz",
+     "metin": "Gebelikte geçen parazit",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Sifiliz",
+     "metin": "Doğumsal bakteriyel enfeksiyon",
+     "cumle": 2
+    },
+    {
+     "ikon": "virus",
+     "baslik": "Herpes, Zika",
+     "metin": "Risk göstergeleri listesinde",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Doğumsal kayba yol açabilen diğer enfeksiyonlar, baş harflerinden ötürü TORCH grubu olarak da anılır.",
+    "Doğumsal kızamıkçık (rubella), aşı öncesi dönemde doğumsal sağırlığın önemli bir nedeniydi.",
+    "Toksoplazmoz ve doğumsal sifiliz de işitme kaybıyla ilişkili enfeksiyonlardır.",
+    "Herpes virüsleri ve Zika virüsü de JCIH 2019 risk göstergeleri arasında yer alır.",
+    "Bu enfeksiyonlardan birini geçirmiş bebekler, yenidoğan taramasını geçseler de izlem programına alınır."
+   ]
+  },
+  {
+   "id": "menenjit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Bakteriyel menenjit",
+   "baslik": "Bakteriyel *menenjit*",
+   "maddeler": [
+    {
+     "metin": "Beyin zarlarının _iltihabı_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Kalıcı kayıp: _yüzde 5 ile 30_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "En riskli: _pnömokok_ menenjiti",
+     "cumle": 2,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Koklear akuadukt yoluyla _iç kulağa_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Çoğunlukla _iki taraflı_, ağır",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "ayar": {
+     "akuadukt": true,
+     "akuadukt_cumle": 3
+    },
+    "etiketler": [
+     {
+      "parca": "koklear_akuadukt",
+      "metin": "Koklear akuadukt",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "koklear_akuadukt",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Menenjit, beyin ve omuriliği saran zarların iltihabıdır; bakteriyel tipi işitme açısından en tehlikelisidir.",
+    "Menenjit sonrası kalıcı sensörinöral kayıp, çalışmalara göre yaklaşık yüzde beş ile otuz arasında bildirilir.",
+    "Kayıp en sık pnömokok menenjitinden sonra görülür.",
+    "Enfeksiyon iç kulağa çoğunlukla koklear akuadukt ya da iç kulak yolu üzerinden ulaşır.",
+    "Kayıp çoğunlukla iki taraflıdır ve sıklıkla ileri ya da çok ileri derecededir.",
+    "Pnömokok ve benzeri bakterilere karşı aşılar bu riski azaltmıştır."
+   ]
+  },
+  {
+   "id": "kemiklesme",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Bakteriyel menenjit",
+   "baslik": "Kemikleşen *labirentit*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000,
+    "kemiklesme": true,
+    "doku_cumle": 0,
+    "kemik_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Yuvarlak pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "taban",
+     "metin": "Bazal tur",
+     "cumle": 2
+    },
+    {
+     "parca": "kemiklesme",
+     "metin": "yeni kemik",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Önce _bağ dokusu_, sonra kemik",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Haftalar içinde _başlayabilir_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "İmplant elektrotu _zorlaşır_",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "cumleler": [
+    "Menenjitten sonra iç kulakta gelişen iltihap, labirentit (labyrinthitis), koklea boşluğunu önce bağ dokusuyla doldurabilir.",
+    "Ardından bu doku kemiğe dönüşebilir; buna kemikleşen labirentit (labyrinthitis ossificans) denir.",
+    "Kemikleşme çoğunlukla bazal turda, yuvarlak pencereye yakın bölgede başlar.",
+    "Süreç haftalar içinde başlayabilir; ilerledikçe koklear implant elektrotunun yerleştirilmesi zorlaşır.",
+    "Bu yüzden menenjit sonrası ağır kayıp, implant ekibine acil yönlendirme gerektiren durumlardan biridir.",
+    "Kemikleşmenin varlığı ve derecesi görüntüleme yöntemleriyle hekim tarafından değerlendirilir."
+   ]
+  },
+  {
+   "id": "menenjit_izlem",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Bakteriyel menenjit",
+   "baslik": "Menenjitten sonra *hemen*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Menenjit",
+     "metin": "Tedavi sürerken",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Hemen test",
+     "metin": "Yaşa uygun tanısal değerlendirme",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Acil yönlendirme",
+     "metin": "KBB ve implant ekibi",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzlem",
+     "metin": "Kayıp değişebilir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Menenjit sonrası işitme değerlendirmesi beklemeye bırakılmamalıdır.",
+    "JCIH 2019, doğrulanmış bakteriyel ya da viral menenjit sonrasında tanısal odyolojik değerlendirmeyi en geç üç ay içinde önerir.",
+    "Kemikleşme riski nedeniyle birçok merkez bu değerlendirmeyi çok daha erken, mümkünse taburculuktan önce yapar.",
+    "Ağır kayıp saptanırsa çocuk vakit kaybetmeden KBB hekimine ve koklear implant ekibine yönlendirilir.",
+    "İlk testte işitme normal olsa bile kayıp değişebildiği için izlem planlanır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Menenjit öyküsü olan çocukta testi ertelemeyin. Ağır kayıpta kemikleşme başlamadan implant ekibine ulaşmak için zaman sınırlı olabilir.",
+   "cumleler": [
+    "Bir klinik ipucu: menenjit geçirmiş bir çocuk için randevu verirken testi haftalar sonrasına ertelemeyin.",
+    "Ağır kayıp varsa, kemikleşme ilerlemeden implant ekibine ulaşmak için zaman sınırlı olabilir.",
+    "Davranışsal test yapılamazsa işitsel beyin sapı yanıtı, kısaca ABR ve otoakustik emisyon, kısaca OAE ile hızlı ilk değerlendirme yapılır.",
+    "Sonucu aynı gün hekime iletmek, yönlendirme sürecini belirgin biçimde hızlandırır."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Odyoloğun rolü",
+   "baslik": "Odyoloğun *rolü*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Öykü",
+     "metin": "Gebelik ve enfeksiyon soruları",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Risk izlemi",
+     "metin": "Taramayı geçenler de",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Hızlı değerlendirme",
+     "metin": "Menenjit sonrası beklemeden",
+     "cumle": 2
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Aile",
+     "metin": "Belirtileri tanımayı öğretir",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "İş birliği",
+     "metin": "Hekim ve implant ekibi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Odyolog öyküde gebelikte geçirilen enfeksiyonları, yenidoğan dönemini ve çocukluk enfeksiyonlarını sorgular.",
+    "Risk göstergesi olan çocukların, taramayı geçmiş olsalar bile izlem programında kalmasını sağlar.",
+    "Menenjit gibi acil durumlarda değerlendirmeyi geciktirmeden yapar.",
+    "Aileye, çocuğun sesle ilgili tepkilerinde değişiklik fark ederlerse hemen başvurmalarını anlatır.",
+    "Tanı ve tedavi kararları için hekimle, gerektiğinde implant ekibiyle iş birliği içinde çalışır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Doğumsal CMV: genetik olmayan _en sık_ neden",
+     "cumle": 0,
+     "ikon": "virus"
+    },
+    {
+     "metin": "CMV kaybı _geç başlayabilir_, ilerleyebilir",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kabakulak: çoğunlukla _tek taraflı_, ağır",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Menenjit sonrası _hemen_ değerlendirme",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Doğumsal CMV, genetik olmayan doğumsal sensörinöral kaybın en sık nedenidir.",
+    "CMV'ye bağlı kayıp doğumdan sonra başlayabilir, dalgalanabilir ve ilerleyebilir; bu yüzden düzenli izlem gerekir.",
+    "Kabakulağa bağlı kayıp çoğunlukla tek taraflı ve çok ileri derecededir.",
+    "Bakteriyel menenjitten sonra işitme hemen değerlendirilir; kemikleşen labirentit implant için zamanı sınırlayabilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Menenjit sonrası işitme neden hemen değerlendirilir?",
+   "secenekler": [
+    "Kayıp hep geçicidir",
+    "Koklea kemikleşebilir",
+    "Timpanogram bozulur"
+   ],
+   "dogru": 1,
+   "aciklama": "_Kemikleşen labirentit_ implant elektrotunun yerleşmesini zorlaştırabilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Bakteriyel menenjit sonrasında işitme neden hemen değerlendirilmelidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: koklea kemikleşebilir.",
+    "Kemikleşen labirentit ilerlerse koklear implant elektrotunun yerleştirilmesi zorlaşabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Superior kanal *dehisansı*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste üçüncü pencere sendromlarını ve superior kanal dehisansını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

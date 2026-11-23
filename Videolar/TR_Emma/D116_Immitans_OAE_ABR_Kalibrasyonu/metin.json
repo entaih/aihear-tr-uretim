@@ -1,0 +1,1374 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D116_Immitans_OAE_ABR_Kalibrasyonu_TR",
+ "kapak": {
+  "ust": "DERS 116",
+  "baslik": "Objektif cihazlarda<br>*kalibrasyon*",
+  "alt": "İmmitans, OAE ve ABR",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "İmmitans, OAE ve ABR cihazlarında kalibrasyon | Ders 116 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Objektif test cihazları nasıl kalibre edilir? Bu derste immitans cihazında 0,5, 2 ve 5 ml kalibrasyon kavitelerini, basınç ve refleks uyaranı kontrolünü, OAE prob kontrolünü, ABR uyaranlarında tepe eşdeğer ses basınç düzeyini (peSPL) ve 0 dB nHL kavramını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: IEC 60645-3, -5, -6 ve -7 (Electroacoustics: Audiometric equipment); ISO 389-6, Reference threshold of hearing for test signals of short duration; ANSI S3.39; British Society of Audiology, ABR Stimulus Calibration Reference Values; Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kalibrasyon",
+   "ABR"
+  ],
+  "etiketler": [
+   "kalibrasyon",
+   "kalibrasyon kavitesi",
+   "calibration cavity",
+   "timpanometri",
+   "OAE prob kontrolü",
+   "peSPL",
+   "peak-equivalent SPL",
+   "dB nHL",
+   "ISO 389-6",
+   "IEC 60645",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 116",
+   "baslik": "İmmitans, OAE ve *ABR* kalibrasyonu",
+   "alt": "Kaviteler, prob kontrolü, peSPL ve nHL",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste immitans, otoakustik emisyon ve işitsel beyin sapı yanıtı cihazlarının nasıl kalibre edildiğini ve kontrol edildiğini öğreneceğiz.",
+    "Kalibrasyon kavitelerini, prob kontrolünü, kısa uyaranlarda tepe eşdeğer ses basınç düzeyini ve normalize işitme düzeyi kavramını göreceğiz."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ortak ilkeler",
+   "baslik": "Üç cihaz, *üç standart*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "İmmitans",
+     "metin": "IEC 60645-5",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OAE",
+     "metin": "IEC 60645-6",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "IEC 60645-7",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Aynı mantık",
+     "metin": "Günlük, periyodik, kapsamlı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Odyometre kalibrasyonunu görmüştük; objektif test cihazları da aynı özenle kontrol edilmelidir.",
+    {
+     "yazi": "İmmitans cihazlarının teknik özellikleri IEC 60645-5 standardında tanımlanır.",
+     "ses": "İmmitans cihazlarının teknik özellikleri ı e ce altmış bin altı yüz kırk beş beş standardında tanımlanır."
+    },
+    {
+     "yazi": "ABD'de ise immitans cihazları için ANSI S3.39 standardı kullanılır.",
+     "ses": "ABD'de ise immitans cihazları için ansi es üç nokta otuz dokuz standardı kullanılır."
+    },
+    {
+     "yazi": "Otoakustik emisyon, kısaca OAE cihazları için IEC 60645-6 standardı vardır.",
+     "ses": "Otoakustik emisyon, kısaca OAE cihazları için ı e ce altmış bin altı yüz kırk beş altı standardı vardır."
+    },
+    {
+     "yazi": "İşitsel beyin sapı yanıtı, kısaca ABR cihazları ise IEC 60645-7 standardında ele alınır.",
+     "ses": "İşitsel beyin sapı yanıtı, kısaca ABR cihazları ise ı e ce altmış bin altı yüz kırk beş yedi standardında ele alınır."
+    },
+    "Üç cihazda da mantık aynıdır: her gün kısa kontrol, düzenli aralıklarla ölçümlü kontrol ve genellikle yılda bir kapsamlı kalibrasyon.",
+    "Kapsamlı kalibrasyonu yetkili teknik servis yapar; günlük kontroller ise test eden kişinin sorumluluğundadır."
+   ]
+  },
+  {
+   "id": "prob",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İmmitans",
+   "baslik": "İmmitans probunda *ne* kontrol edilir?",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "hoparlör",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "mikrofon",
+     "cumle": 2
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "pompa",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "prob",
+     "cumle": 0,
+     "olcek": 2.4
+    }
+   ],
+   "cumleler": [
+    "İmmitans probu, kulak yoluna yerleşen ve üç ayrı kanalı olan bir uçtur.",
+    "Hoparlör kanalı prob tonunu verir; kalibrasyonda tonun frekansı ve düzeyi kontrol edilir.",
+    "Mikrofon kanalı kulak yolundaki ses basıncını ölçer; admitans değerinin doğruluğu buna bağlıdır.",
+    "Pompa kanalı kulak yolundaki hava basıncını değiştirir; basınç ölçümünün doğruluğu da ayrıca kontrol edilir.",
+    "İki yüz yirmi altı hertzlik prob tonunun düzeyi genellikle yaklaşık seksen beş desibel SPL civarındadır.",
+    "Akustik refleks uyaranları da kalibre edilir; aynı taraf uyaran prob üzerinden, karşı taraf uyaran ise kulaklıktan verilir."
+   ]
+  },
+  {
+   "id": "kavite",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İmmitans",
+   "baslik": "*Kalibrasyon* kaviteleri",
+   "sutunlar": [
+    "Kavite hacmi",
+    "226 Hz'de okunan",
+    "Neyi taklit eder?"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0,5 ml",
+      "0,5 mmho",
+      "Bebek kulak yolu"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2,0 ml",
+      "2,0 mmho",
+      "Yetişkin kulak yolu"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "5,0 ml",
+      "5,0 mmho",
+      "Geniş hacim"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Admitans ölçümünün doğruluğu, hacmi kesin olarak bilinen sert duvarlı kalibrasyon kaviteleriyle (calibration cavity) kontrol edilir.",
+    "Cihazla birlikte genellikle sıfır virgül beş, iki ve beş mililitrelik üç kavite verilir.",
+    "Sıfır virgül beş mililitrelik kavite, küçük bir bebek kulak yolu hacmine yakındır.",
+    "İki mililitrelik kavite yetişkin kulak yolu düzeyindedir ve en sık kullanılan kontrol noktasıdır.",
+    "Beş mililitrelik kavite, perforasyon gibi büyük hacimlerin doğru ölçüldüğünü sınar.",
+    "İki yüz yirmi altı hertzde bir mililitre hava bir milimhoya eşit olduğu için cihaz kavite hacmini doğrudan okumalıdır.",
+    "Altı yüz yetmiş sekiz hertzde aynı kavite yaklaşık üç kat büyük admitans gösterir; eşitlik yalnız iki yüz yirmi altı hertz içindir."
+   ]
+  },
+  {
+   "id": "gunluk_imm",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İmmitans",
+   "baslik": "Günlük *kavite* kontrolü",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Prob kavitede",
+     "metin": "Kulak yerine kavite",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Hacmi oku",
+     "metin": "Bilinen değerle karşılaştır",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Düz eğri",
+     "metin": "Kavitede tepe olmaz",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Kaydet",
+     "metin": "Tarih ve değerler",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Günlük kontrolde prob ucu sırayla kavitelere yerleştirilir ve normal bir ölçüm başlatılır.",
+    "Cihazın okuduğu hacim kavitenin bilinen hacmiyle karşılaştırılır.",
+    "Cihaz belgelerinde sık görülen bir tolerans yüzde beş ya da sıfır virgül bir mililitredir; hangisi büyükse o geçerlidir.",
+    "Sert duvarlı kavitede kulak zarı olmadığı için timpanogram düz çıkmalıdır; tepe görülüyorsa sızıntı ya da arıza düşünülür.",
+    "Basınç sisteminin sızdırmadığı da bu sırada görülür; okunan hacim kaymamalıdır.",
+    "Sonuçlar tarih ve kontrol eden kişiyle birlikte kayda geçirilir."
+   ]
+  },
+  {
+   "id": "basinc",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İmmitans",
+   "baslik": "Basınç ve *refleks* uyaranı",
+   "maddeler": [
+    {
+     "metin": "Basınç: manometreyle karşılaştırılır",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Tolerans: yaklaşık on dekapaskal",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Aynı taraf uyaran: iki mililitre kuplör",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Karşı taraf uyaran: kulaklık kuplörü",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Prob ucu açık ve temiz olmalı",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "cumle": 2,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 2
+      }
+     ],
+     "normal": true
+    }
+   },
+   "cumleler": [
+    "Basınç ölçümünün doğruluğu, prob bir manometreye bağlanarak periyodik kontrolde ölçülür.",
+    "Örnek bir cihaz belgesinde basınç toleransı on dekapaskal ya da yüzde on olarak verilir; hangisi büyükse o geçerlidir.",
+    "Basınç hatası timpanogram tepesinin yerini, yani tepe basıncı yorumunu doğrudan değiştirir.",
+    "Aynı taraf refleks uyaranı probtan verildiği için düzeyi iki mililitrelik kuplörde ölçülür.",
+    "Karşı taraf uyaran kulaklıktan verildiği için odyometre kulaklıkları gibi kuplör ya da yapay kulakta kalibre edilir.",
+    "Kulak kiriyle tıkanmış bir prob kanalı da sahte sonuçlara yol açar; prob ucu her hastadan sonra kontrol edilir."
+   ]
+  },
+  {
+   "id": "oae_prob",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "OAE",
+   "baslik": "OAE probunun *kontrolü*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "uyaran",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "metin": "kavitede: yok",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "OAE probunda en az bir hoparlör ve çok duyarlı bir mikrofon bulunur; emisyon bu mikrofonla kaydedilir.",
+    "Prob kontrolünde (probe check) prob, üreticinin verdiği küçük bir test kavitesine yerleştirilir.",
+    "Cihaz uyaranın düzeyini ve frekans yanıtını kavitede ölçer ve beklenen değerlerle karşılaştırır.",
+    "Kavitede kulak olmadığı için emisyon da olmamalıdır; kavitede yanıt görülüyorsa bu, sistemin kendi bozulmasıdır.",
+    "Özellikle distorsiyon ürünü otoakustik emisyonda iki tonun cihaz içinde oluşturduğu yapay bozulma ürünü, gerçek emisyon sanılabilir.",
+    "Bu yüzden prob kontrolü, sistemin gürültü ve bozulma düzeyinin emisyonu taklit etmeyecek kadar düşük olduğunu doğrular."
+   ]
+  },
+  {
+   "id": "oae_gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "OAE",
+   "baslik": "OAE: *günlük* rutin",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Prob ucu",
+     "metin": "Kir ve nem yok",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Prob kontrolü",
+     "metin": "Kavitede, kayıtlı sonuç",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Bilinen kulak",
+     "metin": "Biyolojik kontrol",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "metin": "Tarih, sonuç, kişi",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "OAE'de en sık sorun kalibrasyondan değil, prob ucundan gelir.",
+    "Kulak kiri ya da nem prob kanallarını tıkarsa uyaran kulağa ulaşmaz ve emisyon yokmuş gibi görünür.",
+    "Bu yüzden her gün prob kontrolü yapılır; birçok cihaz bunu tek tuşla yapar ve sonucu kaydeder.",
+    "Ek olarak, normal işittiği bilinen bir kulakta, örneğin test edenin kendi kulağında kısa bir ölçüm alınabilir.",
+    "Bu biyolojik kontrolde emisyon genliği her gün benzer çıkmalıdır; belirgin bir düşüş prob ya da cihaz sorununu düşündürür.",
+    "Prob kontrolü başarısızsa prob temizlenir ya da değiştirilir; düzelmezse cihaz servise gönderilir."
+   ]
+  },
+  {
+   "id": "pespl",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "ABR",
+   "baslik": "Kısa uyaran: *peSPL*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 6,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.5,
+     "ad": "Basınç (göreli)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "klik",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.05,
+        0.0
+       ],
+       [
+        0.1,
+        0.0
+       ],
+       [
+        0.15,
+        0.0
+       ],
+       [
+        0.2,
+        0.0
+       ],
+       [
+        0.25,
+        0.0
+       ],
+       [
+        0.3,
+        0.0
+       ],
+       [
+        0.35,
+        0.0
+       ],
+       [
+        0.4,
+        0.0
+       ],
+       [
+        0.45,
+        0.0
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.55,
+        0.0
+       ],
+       [
+        0.6,
+        0.0
+       ],
+       [
+        0.65,
+        0.0
+       ],
+       [
+        0.7,
+        0.0
+       ],
+       [
+        0.75,
+        0.0
+       ],
+       [
+        0.8,
+        0.0
+       ],
+       [
+        0.85,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        0.95,
+        0.0
+       ],
+       [
+        1.0,
+        1.0
+       ],
+       [
+        1.05,
+        1.0
+       ],
+       [
+        1.1,
+        -0.6
+       ],
+       [
+        1.15,
+        -0.6
+       ],
+       [
+        1.2,
+        0.3
+       ],
+       [
+        1.25,
+        0.3
+       ],
+       [
+        1.3,
+        0.3
+       ],
+       [
+        1.35,
+        0.0
+       ],
+       [
+        1.4,
+        0.0
+       ],
+       [
+        1.45,
+        0.0
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.55,
+        0.0
+       ],
+       [
+        1.6,
+        0.0
+       ],
+       [
+        1.65,
+        0.0
+       ],
+       [
+        1.7,
+        0.0
+       ],
+       [
+        1.75,
+        0.0
+       ],
+       [
+        1.8,
+        0.0
+       ],
+       [
+        1.85,
+        0.0
+       ],
+       [
+        1.9,
+        0.0
+       ],
+       [
+        1.95,
+        0.0
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.05,
+        0.0
+       ],
+       [
+        2.1,
+        0.0
+       ],
+       [
+        2.15,
+        0.0
+       ],
+       [
+        2.2,
+        0.0
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.3,
+        0.0
+       ],
+       [
+        2.35,
+        0.0
+       ],
+       [
+        2.4,
+        0.0
+       ],
+       [
+        2.45,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.55,
+        0.0
+       ],
+       [
+        2.6,
+        0.0
+       ],
+       [
+        2.65,
+        0.0
+       ],
+       [
+        2.7,
+        0.0
+       ],
+       [
+        2.75,
+        0.0
+       ],
+       [
+        2.8,
+        0.0
+       ],
+       [
+        2.85,
+        0.0
+       ],
+       [
+        2.9,
+        0.0
+       ],
+       [
+        2.95,
+        0.0
+       ],
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.05,
+        0.0
+       ],
+       [
+        3.1,
+        0.0
+       ],
+       [
+        3.15,
+        0.0
+       ],
+       [
+        3.2,
+        0.0
+       ],
+       [
+        3.25,
+        0.0
+       ],
+       [
+        3.3,
+        0.0
+       ],
+       [
+        3.35,
+        0.0
+       ],
+       [
+        3.4,
+        0.0
+       ],
+       [
+        3.45,
+        0.0
+       ],
+       [
+        3.5,
+        0.0
+       ],
+       [
+        3.55,
+        0.0
+       ],
+       [
+        3.6,
+        0.0
+       ],
+       [
+        3.65,
+        0.0
+       ],
+       [
+        3.7,
+        0.0
+       ],
+       [
+        3.75,
+        0.0
+       ],
+       [
+        3.8,
+        0.0
+       ],
+       [
+        3.85,
+        0.0
+       ],
+       [
+        3.9,
+        0.0
+       ],
+       [
+        3.95,
+        0.0
+       ],
+       [
+        4.0,
+        0.0
+       ],
+       [
+        4.05,
+        0.0
+       ],
+       [
+        4.1,
+        0.0
+       ],
+       [
+        4.15,
+        0.0
+       ],
+       [
+        4.2,
+        0.0
+       ],
+       [
+        4.25,
+        0.0
+       ],
+       [
+        4.3,
+        0.0
+       ],
+       [
+        4.35,
+        0.0
+       ],
+       [
+        4.4,
+        0.0
+       ],
+       [
+        4.45,
+        0.0
+       ],
+       [
+        4.5,
+        0.0
+       ],
+       [
+        4.55,
+        0.0
+       ],
+       [
+        4.6,
+        0.0
+       ],
+       [
+        4.65,
+        0.0
+       ],
+       [
+        4.7,
+        0.0
+       ],
+       [
+        4.75,
+        0.0
+       ],
+       [
+        4.8,
+        0.0
+       ],
+       [
+        4.85,
+        0.0
+       ],
+       [
+        4.9,
+        0.0
+       ],
+       [
+        4.95,
+        0.0
+       ],
+       [
+        5.0,
+        0.0
+       ],
+       [
+        5.05,
+        0.0
+       ],
+       [
+        5.1,
+        0.0
+       ],
+       [
+        5.15,
+        0.0
+       ],
+       [
+        5.2,
+        0.0
+       ],
+       [
+        5.25,
+        0.0
+       ],
+       [
+        5.3,
+        0.0
+       ],
+       [
+        5.35,
+        0.0
+       ],
+       [
+        5.4,
+        0.0
+       ],
+       [
+        5.45,
+        0.0
+       ],
+       [
+        5.5,
+        0.0
+       ],
+       [
+        5.55,
+        0.0
+       ],
+       [
+        5.6,
+        0.0
+       ],
+       [
+        5.65,
+        0.0
+       ],
+       [
+        5.7,
+        0.0
+       ],
+       [
+        5.75,
+        0.0
+       ],
+       [
+        5.8,
+        0.0
+       ],
+       [
+        5.85,
+        0.0
+       ],
+       [
+        5.9,
+        0.0
+       ],
+       [
+        5.95,
+        0.0
+       ],
+       [
+        6.0,
+        0.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "klik",
+      "etiket_konum": [
+       1.3,
+       1.05
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "ton",
+      "noktalar": [
+       [
+        3.0,
+        0.0
+       ],
+       [
+        3.05,
+        0.247
+       ],
+       [
+        3.1,
+        0.47
+       ],
+       [
+        3.15,
+        0.647
+       ],
+       [
+        3.2,
+        0.761
+       ],
+       [
+        3.25,
+        0.8
+       ],
+       [
+        3.3,
+        0.761
+       ],
+       [
+        3.35,
+        0.647
+       ],
+       [
+        3.4,
+        0.47
+       ],
+       [
+        3.45,
+        0.247
+       ],
+       [
+        3.5,
+        0.0
+       ],
+       [
+        3.55,
+        -0.247
+       ],
+       [
+        3.6,
+        -0.47
+       ],
+       [
+        3.65,
+        -0.647
+       ],
+       [
+        3.7,
+        -0.761
+       ],
+       [
+        3.75,
+        -0.8
+       ],
+       [
+        3.8,
+        -0.761
+       ],
+       [
+        3.85,
+        -0.647
+       ],
+       [
+        3.9,
+        -0.47
+       ],
+       [
+        3.95,
+        -0.247
+       ],
+       [
+        4.0,
+        -0.0
+       ],
+       [
+        4.05,
+        0.247
+       ],
+       [
+        4.1,
+        0.47
+       ],
+       [
+        4.15,
+        0.647
+       ],
+       [
+        4.2,
+        0.761
+       ],
+       [
+        4.25,
+        0.8
+       ],
+       [
+        4.3,
+        0.761
+       ],
+       [
+        4.35,
+        0.647
+       ],
+       [
+        4.4,
+        0.47
+       ],
+       [
+        4.45,
+        0.247
+       ],
+       [
+        4.5,
+        0.0
+       ],
+       [
+        4.55,
+        -0.247
+       ],
+       [
+        4.6,
+        -0.47
+       ],
+       [
+        4.65,
+        -0.647
+       ],
+       [
+        4.7,
+        -0.761
+       ],
+       [
+        4.75,
+        -0.8
+       ],
+       [
+        4.8,
+        -0.761
+       ],
+       [
+        4.85,
+        -0.647
+       ],
+       [
+        4.9,
+        -0.47
+       ],
+       [
+        4.95,
+        -0.247
+       ],
+       [
+        5.0,
+        -0.0
+       ],
+       [
+        5.05,
+        0.247
+       ],
+       [
+        5.1,
+        0.47
+       ],
+       [
+        5.15,
+        0.647
+       ],
+       [
+        5.2,
+        0.761
+       ],
+       [
+        5.25,
+        0.8
+       ],
+       [
+        5.3,
+        0.761
+       ],
+       [
+        5.35,
+        0.647
+       ],
+       [
+        5.4,
+        0.47
+       ],
+       [
+        5.45,
+        0.247
+       ],
+       [
+        5.5,
+        0.0
+       ],
+       [
+        5.55,
+        -0.247
+       ],
+       [
+        5.6,
+        -0.47
+       ],
+       [
+        5.65,
+        -0.647
+       ],
+       [
+        5.7,
+        -0.761
+       ],
+       [
+        5.75,
+        -0.8
+       ],
+       [
+        5.8,
+        -0.761
+       ],
+       [
+        5.85,
+        -0.647
+       ],
+       [
+        5.9,
+        -0.47
+       ],
+       [
+        5.95,
+        -0.247
+       ],
+       [
+        6.0,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "1000 Hz ton",
+      "etiket_konum": [
+       4.2,
+       1.05
+      ],
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "klik_tt",
+      "y": [
+       -0.6,
+       1.0
+      ],
+      "xk": 0.6,
+      "etiket": "tepeden tepeye",
+      "cumle": 3
+     },
+     {
+      "ad": "ton_tt",
+      "y": [
+       -0.8,
+       0.8
+      ],
+      "xk": 5.8,
+      "etiket": "aynı genlik",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Klik ile tonu eşleştir",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tonun SPL'i = klikin peSPL'i",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Tepeden tepeye ölçüm",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "ABR'de klik ve tonburst gibi çok kısa uyaranlar kullanılır; bunların düzeyi sürekli bir ton gibi ölçülemez.",
+    "Ekranda kırmızı çizgi, bir milisaniyenin onda biri kadar süren bir klikin şematik basınç dalgasını gösteriyor.",
+    "Ölçümde aynı kuplöre bin hertzlik sürekli bir ton verilir ve osiloskopta iki sinyal karşılaştırılır.",
+    "Tonun düzeyi, tepeden tepeye genliği klikinkine eşit olana kadar ayarlanır.",
+    "Bu noktada tonun ses basınç düzeyi, klikin tepe eşdeğer ses basınç düzeyidir (peak-equivalent SPL), kısaca peSPL.",
+    "Uluslararası uygulamada tepeden tepeye yöntem kullanılır; taban çizgisinden tepeye ölçüm birkaç desibel farklı sonuç verebilir.",
+    {
+     "yazi": "Bu yöntem IEC 60645-3 standardında kısa süreli test sinyalleri için tanımlanmıştır.",
+     "ses": "Bu yöntem ı e ce altmış bin altı yüz kırk beş üç standardında kısa süreli test sinyalleri için tanımlanmıştır."
+    }
+   ]
+  },
+  {
+   "id": "nhl",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "ABR",
+   "baslik": "Sıfır noktası: *dB nHL*",
+   "maddeler": [
+    {
+     "metin": "0 dB nHL: normal grup eşiği",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Referans değerler: ISO 389-6",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "İnsertle klik: 35,5 dB peSPL",
+     "cumle": 3,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Farklı uyaran: yerel norm gerekir",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "İLERİDE",
+    "metin": "nHL eşiği, *eHL* tahminine düzeltmeyle çevrilir",
+    "cumle": 0
+   },
+   "cumleler": [
+    "nHL, normalize işitme düzeyi (normalized hearing level) demektir; sıfır desibel nHL, normal işiten genç yetişkinlerin ortalama eşiğidir.",
+    "Bu eşik her uyaran için ayrı ve davranışsal olarak belirlenir; dB nHL, odyometredeki dB HL'nin kısa uyaranlar için karşılığıdır.",
+    {
+     "yazi": "Klik ve tonburst için referans değerler ISO 389-6 standardında, saniyede yirmi uyaran hızı ve dönüşümlü polariteyle verilir.",
+     "ses": "Klik ve tonburst için referans değerler iso üç yüz seksen dokuz altı standardında, saniyede yirmi uyaran hızı ve dönüşümlü polariteyle verilir."
+    },
+    "Bu standarda göre ER-3A insert kulaklıkla klikte sıfır desibel nHL, yaklaşık otuz beş buçuk desibel peSPL'dir.",
+    "Örneğin ekranda altmış desibel nHL seçildiğinde, yapay kulakta yaklaşık doksan beş buçuk desibel peSPL ölçülmelidir.",
+    "Uyaran standarttakinden farklıysa, örneğin özel bir chirp ise, normal işitenlerden yerel referans oluşturulması önerilir."
+   ]
+  },
+  {
+   "id": "abr_kontrol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "ABR",
+   "baslik": "ABR'de *rutin* kontroller",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Uyaranı dinle",
+     "metin": "Ses, polarite, temizlik",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Elektrot ve kablo",
+     "metin": "Empedans, kopukluk",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Zamanlama",
+     "metin": "İnsert tüp gecikmesi",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Normal kulaklar",
+     "metin": "Biyolojik referans",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Günlük kontrolde test eden kişi uyaranı kulaklıktan dinler; ses temiz, cızırtısız ve beklenen düzeyde olmalıdır.",
+    "Polarite ayarının ve uyaran hızının protokolle uyumlu olduğu da bu sırada gözden geçirilir.",
+    "Elektrot kabloları kopukluk açısından incelenir; ölçüm öncesi empedans kontrolü her hastada yapılır.",
+    "İnsert kulaklığın ses tüpü sesi yaklaşık bir milisaniyeden biraz daha kısa bir süre geciktirir; cihaz bu gecikmeyi latanstan düşmelidir.",
+    "Bu ayar yanlışsa bütün latanslar sistematik olarak uzun ya da kısa ölçülür ve normlarla karşılaştırma bozulur.",
+    "Periyodik olarak, normal işiten birkaç gönüllüde eşik ve latanslar ölçülerek cihazın klinik normlarla uyumu doğrulanır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kavite, prob kontrolü ve uyaran dinleme sonuçlarını tek bir günlük çizelgede tutun; küçük kaymalar en erken orada fark edilir.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: üç cihazın günlük kontrol sonuçlarını aynı çizelgede, aynı saatte kaydetmeyi alışkanlık haline getirin.",
+    "Kavitede okunan hacim ya da kendi kulağınızdaki emisyon genliği günden güne yavaşça değişiyorsa, bu bir uyarıdır.",
+    "Böyle bir eğilim, tek bir günün sonucuna bakarak fark edilemez; çizelgede ise kolayca görülür.",
+    "Şüphede cihazı hasta testinden çekin ve kapsamlı kalibrasyon için servise başvurun."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "İmmitans: _0,5, 2 ve 5 ml_ kaviteler",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "OAE: kavitede prob kontrolü, emisyon olmamalı",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kısa uyaran düzeyi: _peSPL_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "0 dB nHL: normal grup eşiği",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "İmmitans cihazında admitans doğruluğu sıfır virgül beş, iki ve beş mililitrelik kavitelerle, basınç ise manometreyle kontrol edilir.",
+    "OAE cihazında her gün prob kontrolü yapılır; kavitede emisyon görülmemeli, prob ucu temiz olmalıdır.",
+    "ABR uyaranlarının düzeyi, aynı tepeden tepeye genlikteki bin hertzlik tonla eşleştirilerek peSPL olarak ölçülür.",
+    {
+     "yazi": "Sıfır desibel nHL normal işitenlerin ortalama eşiğidir; referans değerler ISO 389-6 standardında verilir.",
+     "ses": "Sıfır desibel nHL normal işitenlerin ortalama eşiğidir; referans değerler iso üç yüz seksen dokuz altı standardında verilir."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "226 Hz'de 2 ml kavitede ne okunmalı?",
+   "secenekler": [
+    "Yaklaşık 0,5 mmho",
+    "Yaklaşık 2 mmho",
+    "Yaklaşık 6 mmho",
+    "Tepe basıncı 0 daPa"
+   ],
+   "dogru": 1,
+   "aciklama": "226 Hz'de _1 ml hava = 1 mmho_; kavite hacmi doğrudan okunur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: iki yüz yirmi altı hertzlik prob tonuyla iki mililitrelik kavitede cihaz ne okumalıdır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yaklaşık iki milimho.",
+    "Bu frekansta bir mililitre hava bir milimhoya eşittir; kavitede kulak zarı olmadığı için eğri de düz çıkmalıdır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Bilimsel makale* nasıl okunur?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste yeni bir bölüme geçiyor ve odyoloji literatüründe bilimsel bir makaleyi nasıl okuyacağımızı öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

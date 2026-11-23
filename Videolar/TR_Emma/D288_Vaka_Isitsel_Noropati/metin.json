@@ -1,0 +1,1786 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D288_Vaka_Isitsel_Noropati_TR",
+ "kapak": {
+  "ust": "DERS 288",
+  "baslik": "OAE var,<br>*ABR yok*",
+  "alt": "Vaka: işitsel nöropati",
+  "cizim": "oae"
+ },
+ "youtube": {
+  "baslik": "Vaka: OAE Var, ABR Yok: İşitsel Nöropati | Ders 288 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir prematüre bebek vakasında işitsel nöropati spektrum bozukluğu bulgularını yorumluyoruz: AABR ile OAE arasındaki çelişki, risk öyküsü, bin hertz timpanometri ve akustik refleks, iki polaritede klik ABR ile koklear mikrofonik, tüp kontrolü, VRA ve cihazlı kortikal potansiyellerle izlem.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Joint Committee on Infant Hearing, Year 2019 Position Statement; Guidelines for Identification and Management of Infants and Young Children with Auditory Neuropathy Spectrum Disorder (Como, 2008); Hall, eHandbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitselnöropati",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "işitsel nöropati",
+   "ANSD",
+   "auditory neuropathy spectrum disorder",
+   "koklear mikrofonik",
+   "cochlear microphonic",
+   "polarite",
+   "kortikal potansiyeller",
+   "CAEP",
+   "prematüre bebek",
+   "odyoloji vaka",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 288",
+   "baslik": "Vaka: OAE var, *ABR yok*",
+   "alt": "Koklear mikrofonik, risk öyküsü ve kortikal izlem",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste otoakustik emisyonu olduğu halde işitsel beyin sapı yanıtı alınamayan bir bebeğin bulgularını adım adım yorumluyoruz.",
+    "Koklear mikrofonik ve polarite değiştirmeyi, risk öyküsünün sorgulanmasını ve kortikal potansiyellerle izlemi birlikte uygulayacağız."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve tarama",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Otuzuncu haftada doğmuş, örnek bir bebek",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Yedi hafta _yenidoğan yoğun bakım_",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Ağır sarılık: _kan değişimi_",
+     "cumle": 2,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Yoğun bakımda AABR: iki kulak kaldı",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Aile: başka yerde OAE geçti",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Doğum",
+      "metin": "Otuzuncu hafta",
+      "cumle": 0
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "Yoğun bakım",
+      "metin": "Yedi hafta",
+      "cumle": 1
+     },
+     {
+      "ikon": "tarama",
+      "baslik": "Tarama",
+      "metin": "AABR kaldı",
+      "cumle": 3
+     }
+    ],
+    "ust": "ÖYKÜDE"
+   },
+   "cumleler": [
+    "Vakamız tamamen kurgusal bir örnektir: otuzuncu gebelik haftasında doğmuş, düşük doğum ağırlıklı bir bebek.",
+    "Bebek yedi hafta yenidoğan yoğun bakımında kalmış ve ilk günlerde kısa süre solunum desteği almış.",
+    "Yoğun bakımda ağır sarılık gelişmiş ve kan değişimi (exchange transfusion) gerekmiş.",
+    "Taburculuktan önce otomatik işitsel beyin sapı yanıtı, kısaca AABR ile taranmış ve iki kulakta da kalmış.",
+    "Aile, sonradan başka bir yerde otoakustik emisyon, kısaca OAE ile test edildiğini ve geçtiğini söylüyor.",
+    "Bebek şimdi düzeltilmiş yaşına göre bir aylık ve tanısal değerlendirme için getiriliyor."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve tarama",
+   "baslik": "Risk *öyküsünü* sorgula",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "Yoğun bakım",
+     "metin": "Beş günden uzun",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Prematürite",
+     "metin": "Düşük doğum ağırlığı",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Hiperbilirubinemi",
+     "metin": "Kan değişimi gerekmiş",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Hipoksi",
+     "metin": "Solunum desteği",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Aile öyküsü",
+     "metin": "OTOF gibi genler",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Risk öyküsünü sistemli sorgulamak, bulguları yorumlamanın ilk adımıdır; yoğun bakımda beş günden uzun kalmak önemli bir göstergedir.",
+    "Prematürite ve düşük doğum ağırlığı işitsel nöropati için bilinen risk etkenleri arasındadır.",
+    "Kan değişimi gerektiren hiperbilirubinemi, yani ağır sarılık, özellikle işitme yolunun sinirsel bölümlerine zarar verebilir.",
+    "Doğumda ya da sonrasında oksijensiz kalma, yani hipoksi de sorgulanır.",
+    "Aile öyküsü de sorulur; OTOF gibi genler, hiçbir risk etkeni olmayan bebeklerde de bu tabloya yol açabilir."
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve tarama",
+   "baslik": "OAE neden *geçti*?",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "OAE: kokleaya kadar",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "AABR: beyin sapına kadar",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "OAE: _dış tüy hücreleri_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "AABR: _sinir ve beyin sapı_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Çelişki: _sinirsel_ bir sorun?",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Önce tarama sonuçlarındaki çelişkiyi açıklayalım.",
+    "OAE, dış kulak yolu, orta kulak ve kokleadaki dış tüy hücrelerinin işlevini yansıtır.",
+    "AABR ise buna ek olarak iç tüy hücresini, işitme sinirini ve beyin sapı yolunu da kapsar.",
+    "Sorun dış tüy hücrelerinden sonra, sinapsta ya da sinirdeyse OAE geçer, AABR kalır.",
+    "Bu yüzden yoğun bakımda beş günden uzun kalan bebekler AABR ile taranır; AABR'den kalan bebeğin OAE ile geçti sayılması önerilmez."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal bulgular",
+   "baslik": "Orta kulak ve *refleks*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Basınç (daPa)"
+    },
+    "y": {
+     "min": 0.4,
+     "max": 1.6,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitans (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        -300,
+        0.75
+       ],
+       [
+        -200,
+        0.82
+       ],
+       [
+        -150,
+        0.9
+       ],
+       [
+        -100,
+        1.05
+       ],
+       [
+        -60,
+        1.25
+       ],
+       [
+        -30,
+        1.38
+       ],
+       [
+        0,
+        1.4
+       ],
+       [
+        30,
+        1.32
+       ],
+       [
+        60,
+        1.15
+       ],
+       [
+        100,
+        1.0
+       ],
+       [
+        150,
+        0.95
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "sağ",
+      "etiket_konum": [
+       40,
+       1.45
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        -400,
+        0.68
+       ],
+       [
+        -300,
+        0.73
+       ],
+       [
+        -200,
+        0.8
+       ],
+       [
+        -150,
+        0.88
+       ],
+       [
+        -100,
+        1.02
+       ],
+       [
+        -60,
+        1.21
+       ],
+       [
+        -30,
+        1.33
+       ],
+       [
+        0,
+        1.35
+       ],
+       [
+        30,
+        1.27
+       ],
+       [
+        60,
+        1.11
+       ],
+       [
+        100,
+        0.97
+       ],
+       [
+        150,
+        0.92
+       ],
+       [
+        200,
+        0.9
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "sol",
+      "etiket_konum": [
+       -330,
+       1.1
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "taban çizgisi",
+      "etiket_konum": [
+       -330,
+       0.6
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Bin hertz: _pozitif tepe_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Akustik refleks: _yok_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Tanısal değerlendirmede orta kulak bin hertzlik prob tonuyla ölçülüyor.",
+    "İki kulakta da taban çizgisinin üzerine çıkan belirgin bir pozitif tepe var; orta kulak işlevi olağan görünüyor.",
+    "Aynı prob tonuyla akustik refleks aranıyor, ama iki kulakta da en yüksek düzeyde bile alınamıyor.",
+    "Normal timpanograma rağmen refleksin olmaması, işitme kaybı ya da sinir yolu sorunu açısından dikkat gerektirir.",
+    "Orta kulağın normal olması, bir sonraki testteki OAE sonucunu güvenle yorumlamamızı sağlar."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal bulgular",
+   "baslik": "OAE: iki kulakta *var*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emisyon: var",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Gürültü tabanı",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dış tüy hücreleri: _çalışıyor_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sinir yolu: _bilinmiyor_",
+     "cumle": 2,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Distorsiyon ürünü OAE iki kulakta da test edilen frekansların çoğunda gürültü tabanının belirgin üzerinde.",
+    "Bu bulgu, kokleadaki dış tüy hücrelerinin büyük olasılıkla çalıştığını gösterir.",
+    "Ama OAE işitme sinirini değerlendirmez; bebeğin ne kadar duyduğunu da söylemez.",
+    "Aile bu sonucu daha önce iyi haber olarak duymuş; bu yüzden şimdi bir sonraki testin önemini anlatmak gerekir.",
+    "Karşı kulağa gürültü verildiğinde emisyonun azalması, yani kontralateral baskılanma, işitsel nöropatide çoğu zaman görülmez."
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal bulgular",
+   "baslik": "İki polarite: *ters dönen* yanıt",
+   "cizim": "abr",
+   "ayar": {
+    "polarite": true,
+    "sikisma_cumle": 1,
+    "seyrelme_cumle": 2,
+    "cm_cumle": 3,
+    "v_cumle": 4
+   },
+   "notlar": [
+    {
+     "metin": "Klik: _seksen beş dB nHL_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ters dönüyor: _CM_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Dalga V: _yok_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Bebek doğal uykudayken klik uyaranlı işitsel beyin sapı yanıtı, kısaca ABR, seksen beş desibel nHL düzeyinde, insert kulaklıkla alınıyor.",
+    "Lacivert çizgi sıkışma polaritesindeki kaydı gösteriyor: ilk milisaniyelerde düzenli salınımlar var.",
+    "Kırmızı çizgi seyrelme polaritesi: aynı salınımlar bu kez tam ters yönde.",
+    "Uyaranın dalga biçimini izleyen ve polariteyle ters dönen bu yanıt, koklear mikrofoniğin, kısaca CM'nin özelliğidir.",
+    "Salınımlar söndükten sonra, dalga V'in beklendiği bölgede tekrarlanabilir bir dalga yok.",
+    "Sinirsel kaynaklı dalgalar polariteyle ters dönmez; burada ise ters dönmeyen hiçbir dalga kalmıyor.",
+    "İki kulakta da tablo aynı: büyük ve birkaç milisaniye süren bir CM var, sinirsel ABR dalgaları yok."
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal bulgular",
+   "baslik": "CM mi, *artefakt* mı?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": -2,
+     "max": 1,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Genlik (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "sikisma",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        1.0,
+        0.65
+       ],
+       [
+        1.25,
+        0.0
+       ],
+       [
+        1.5,
+        -0.476
+       ],
+       [
+        1.75,
+        -0.0
+       ],
+       [
+        2.0,
+        0.348
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.5,
+        -0.255
+       ],
+       [
+        2.75,
+        -0.0
+       ],
+       [
+        3.0,
+        0.186
+       ],
+       [
+        3.25,
+        0.0
+       ],
+       [
+        3.5,
+        -0.136
+       ],
+       [
+        3.75,
+        -0.0
+       ],
+       [
+        4.0,
+        0.1
+       ],
+       [
+        4.25,
+        -0.0
+       ],
+       [
+        4.5,
+        -0.073
+       ],
+       [
+        4.75,
+        -0.0
+       ],
+       [
+        5.5,
+        0.02
+       ],
+       [
+        6.5,
+        -0.03
+       ],
+       [
+        7.5,
+        0.02
+       ],
+       [
+        8.5,
+        -0.02
+       ],
+       [
+        10,
+        0.01
+       ],
+       [
+        12,
+        0.0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "sıkışma",
+      "etiket_konum": [
+       8.5,
+       0.35
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "seyrelme",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        1.0,
+        -0.65
+       ],
+       [
+        1.25,
+        -0.0
+       ],
+       [
+        1.5,
+        0.476
+       ],
+       [
+        1.75,
+        0.0
+       ],
+       [
+        2.0,
+        -0.348
+       ],
+       [
+        2.25,
+        -0.0
+       ],
+       [
+        2.5,
+        0.255
+       ],
+       [
+        2.75,
+        0.0
+       ],
+       [
+        3.0,
+        -0.186
+       ],
+       [
+        3.25,
+        -0.0
+       ],
+       [
+        3.5,
+        0.136
+       ],
+       [
+        3.75,
+        0.0
+       ],
+       [
+        4.0,
+        -0.1
+       ],
+       [
+        4.25,
+        0.0
+       ],
+       [
+        4.5,
+        0.073
+       ],
+       [
+        4.75,
+        0.0
+       ],
+       [
+        5.5,
+        0.02
+       ],
+       [
+        6.5,
+        -0.03
+       ],
+       [
+        7.5,
+        0.02
+       ],
+       [
+        8.5,
+        -0.02
+       ],
+       [
+        10,
+        0.01
+       ],
+       [
+        12,
+        0.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "seyrelme",
+      "etiket_konum": [
+       8.5,
+       -0.35
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "kontrol",
+      "noktalar": [
+       [
+        0,
+        -1.4
+       ],
+       [
+        0.9,
+        -1.4
+       ],
+       [
+        1.0,
+        -1.4
+       ],
+       [
+        1.25,
+        -1.4
+       ],
+       [
+        1.5,
+        -1.4
+       ],
+       [
+        1.75,
+        -1.4
+       ],
+       [
+        2.0,
+        -1.4
+       ],
+       [
+        2.25,
+        -1.4
+       ],
+       [
+        2.5,
+        -1.4
+       ],
+       [
+        2.75,
+        -1.4
+       ],
+       [
+        3.0,
+        -1.4
+       ],
+       [
+        3.25,
+        -1.4
+       ],
+       [
+        3.5,
+        -1.4
+       ],
+       [
+        3.75,
+        -1.4
+       ],
+       [
+        4.0,
+        -1.4
+       ],
+       [
+        4.25,
+        -1.4
+       ],
+       [
+        4.5,
+        -1.4
+       ],
+       [
+        4.75,
+        -1.4
+       ],
+       [
+        5.5,
+        -1.38
+       ],
+       [
+        6.5,
+        -1.43
+       ],
+       [
+        7.5,
+        -1.38
+       ],
+       [
+        8.5,
+        -1.42
+       ],
+       [
+        10,
+        -1.39
+       ],
+       [
+        12,
+        -1.4
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "tüp kapalı: düz",
+      "etiket_konum": [
+       8.5,
+       -1.7
+      ],
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dalga_v_yeri",
+      "x": 6.5,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "dalga V yok",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "cm",
+      "x": [
+       1,
+       4.5
+      ],
+      "renk": "sari",
+      "etiket": "ters dönen yanıt",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Gecikme: _tüp süresi_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Tüp kapalı: _yanıt kayboldu_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sonuç: _gerçek CM_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Uyaran artefaktı da polariteyle ters döndüğü için, gördüğümüzün gerçekten kulaktan geldiğini doğrulamamız gerekir.",
+    "İnsert kulaklıkta ses kulağa bir milisaniyeden biraz kısa bir gecikmeyle ulaşır; yanıt bu gecikmeden sonra başlamalıdır.",
+    "Kontrol için ses tüpü sıkıştırılarak, yani sesin kulağa ulaşması engellenerek bir kayıt daha alınır.",
+    "Gri kesik çizgi bu kontrol kaydı: salınımlar tamamen kayboluyor.",
+    "Ses kulağa ulaşmadığında kaybolan yanıt koklear mikrofoniktir; elektriksel artefakt olsaydı kayıtta kalırdı."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yorum ve aile",
+   "baslik": "Bulguları *birleştir*",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Orta kulak",
+     "metin": "Normal, refleks yok",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OAE ve CM",
+     "metin": "Var: dış tüy hücreleri",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "Sinirsel dalga yok",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Ekip",
+     "metin": "Hekim ve ekip yorumu",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Orta kulak normal, ama akustik refleks yok.",
+    "OAE ve koklear mikrofonik var; yani dış tüy hücreleri çalışıyor.",
+    "Klik ABR'de yüksek şiddette bile sinirsel dalga yok.",
+    "Bu bulgu birleşimi işitsel nöropati spektrum bozukluğu, kısaca ANSD ile uyumludur.",
+    "Tanı ve nedenin araştırılması hekim ve ekip ile birlikte yürütülür; odyolog bulguları açıkça raporlar.",
+    "En önemli sonuç şudur: bu bebekte ABR, işitme eşiğini tahmin etmek için kullanılamaz."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yorum ve aile",
+   "baslik": "Aileyle *dürüst* konuşmak",
+   "maddeler": [
+    {
+     "metin": "Sonucu sade dille açıkla",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Belirsizliği dürüstçe söyle",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Duyguya yer bırak",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Somut izlem planı ver",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Yazılı not ve iletişim yolu",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Açık",
+      "metin": "Sade cümleler",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Dürüst",
+      "metin": "Bilinmeyeni söyle",
+      "cumle": 1
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "Somut",
+      "metin": "Sonraki adım",
+      "cumle": 3
+     }
+    ],
+    "ust": "İLKE"
+   },
+   "cumleler": [
+    "Aileye sade bir dille, kulağın iç kısmının sese yanıt verdiği, ama sesin sinir yoluyla düzenli iletilmediğinin görüldüğü anlatılır.",
+    "Bu aşamada bebeğin ne kadar duyduğunu bilmediğimiz dürüstçe söylenir; kesin bir derece ya da gelecek vaadi verilmez.",
+    "Daha önce geçti sonucu almış bir aile için bu haber şaşırtıcıdır; duyguya yer bırakılır ve sorular beklenir.",
+    "Ardından somut plan konuşulur: hekim değerlendirmesi, tekrar testler ve davranışsal testlerin ne zaman yapılacağı.",
+    "Görüşmenin sonunda ana mesajları içeren kısa bir yazılı not ve ulaşabilecekleri bir iletişim yolu verilir."
+   ]
+  },
+  {
+   "id": "hekim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yorum ve aile",
+   "baslik": "Hekim ve *ekip* değerlendirmesi",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "KBB, çocuk nörolojisi",
+     "metin": "Nedeni araştırır",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Görüntüleme",
+     "metin": "Koklear sinir, MR",
+     "cumle": 1
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetik",
+     "metin": "OTOF gibi genler",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nörolojik izlem",
+     "metin": "Gelişim takibi",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bebek, bulgularıyla birlikte KBB ve çocuk nörolojisi değerlendirmesine yönlendirilir.",
+    "İşitme sinirinin gelişmemesi ya da çok ince olması da benzer bulgular verir; bunu hekim manyetik rezonans görüntülemeyle araştırabilir.",
+    "Genetik değerlendirme, otoferlin geni gibi nedenleri ortaya koyabilir; bu bilgi ileride müdahale beklentisini etkileyebilir.",
+    "Gelişimsel ve nörolojik izlem de planın parçasıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yoğun bakım öyküsü olan bebekte OAE ile alınmış geçti sonucu ANSD'yi dışlamaz. Bataryaya iki polariteli ABR'yi mutlaka ekleyin.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: bir bebeğin elinde OAE ile alınmış bir geçti belgesi olması, işitsel nöropatiyi dışlamaz.",
+    "Özellikle yoğun bakım, prematürite ya da ağır sarılık öyküsü varsa bataryaya iki polaritede alınan ABR'yi mutlaka ekleyin.",
+    "Tek polaritede alınan bir kayıtta büyük bir CM, sinirsel bir dalga sanılabilir.",
+    "Polariteleri ayrı ayrı inceleyin ve tüp kontrolünü kaydınıza ekleyin."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem ve müdahale",
+   "baslik": "İzlem *planı*",
+   "adimlar": [
+    {
+     "ikon": "noron",
+     "baslik": "ABR tekrarı",
+     "metin": "Düzeltilmiş üçüncü ay",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "VRA",
+     "metin": "Gelişimsel hazır olunca",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Kortikal yanıt",
+     "metin": "Cihazsız ve cihazlı",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz denemesi",
+     "metin": "Yakından izlenir",
+     "cumle": 4
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Gelişim takibi",
+     "metin": "Dil ve dinleme",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sarılıkla ilişkili bazı bebeklerde bulgular zamanla düzelebilir; bu yüzden ABR, vakamızda düzeltilmiş üçüncü ayda tekrarlanıyor.",
+    "Tekrar kayıtta da tablo değişmiyor; tek bir kayda dayanarak kalıcı sonuç çıkarılmaması bu yüzden önemlidir.",
+    "Bebek gelişimsel olarak hazır olduğunda görsel pekiştirmeli odyometri, kısaca VRA ile davranışsal eşikler alınır.",
+    "Kortikal işitsel uyarılmış potansiyeller, kısaca CAEP, sesin kortekse ulaşıp ulaşmadığını gösterir.",
+    "Müdahale kararı ABR'ye değil, davranışsal eşiklere ve işlevsel gözlemlere dayanır; cihaz yakından izlenen bir deneme olarak uygulanır.",
+    "Dil ve dinleme gelişimi her kontrolde ebeveyn anketleri ve gözlemlerle izlenir."
+   ]
+  },
+  {
+   "id": "vra",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem ve müdahale",
+   "baslik": "VRA: *davranışsal* eşikler",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: insert, hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: insert, hava yolu",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       50,
+       50,
+       55,
+       null
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       50,
+       55,
+       55,
+       null
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Düzeltilmiş yaşı sekiz ay olduğunda bebek VRA ile, insert kulaklıkla test ediliyor.",
+    "Sağ kulakta en düşük yanıt düzeyleri kırk beş ile elli beş desibel HL arasında.",
+    "Sol kulakta elli ile elli beş desibel HL arasında yanıt veriyor.",
+    "Bu sonuç, ABR'nin tamamen yok olmasına rağmen bebeğin eşiklerinin orta derecede bir kayıp düzeyinde olduğunu gösteriyor.",
+    "İşitsel nöropatide eşikler zamanla dalgalanabileceği için bu değerler sonraki oturumlarda yeniden doğrulanır.",
+    "Bebeğin gerçek güçlüğünün eşiklerden çok, konuşmayı ayırt etmede olabileceği aileye anlatılır."
+   ]
+  },
+  {
+   "id": "caep",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem ve müdahale",
+   "baslik": "Kortikal yanıt: ses *kortekse* ulaşıyor mu?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -50,
+     "max": 400,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -2,
+     "max": 6,
+     "adim": 2,
+     "ad": "Genlik (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        80,
+        0.3
+       ],
+       [
+        160,
+        -0.2
+       ],
+       [
+        240,
+        0.35
+       ],
+       [
+        320,
+        -0.15
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "cihazsız: yanıt yok",
+      "etiket_konum": [
+       300,
+       -1.2
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        60,
+        0.4
+       ],
+       [
+        120,
+        1.8
+       ],
+       [
+        180,
+        3.6
+       ],
+       [
+        230,
+        4.2
+       ],
+       [
+        280,
+        2.6
+       ],
+       [
+        340,
+        0.4
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "cihazlı: yanıt var",
+      "etiket_konum": [
+       300,
+       3.6
+      ],
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "uyaran",
+      "x": 0,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "uyaran",
+      "cumle": 0
+     },
+     {
+      "ad": "p1",
+      "x": 230,
+      "y": 4.2,
+      "etiket": "P1",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Cihazsız: _yanıt yok_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Cihazlı: _P1 var_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yokluk kanıt _değildir_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Cihaz denemesi başladıktan sonra cihazlı kortikal test yapılıyor; bebek uyanık ve sakin.",
+    "Gri kesik çizgi, orta şiddette konuşma sesine cihazsız kayıt: belirgin bir yanıt yok.",
+    "Mavi çizgi aynı sese cihazla alınan kayıt: belirgin bir pozitif dalga var.",
+    "Bu yaşta P1 dalgası erişkine göre geç, burada yaklaşık iki yüz otuz milisaniyede görülüyor.",
+    "Yanıtın varlığı, bu konuşma sesinin cihazla kortekse ulaştığını gösteren güçlü bir kanıttır.",
+    "Yanıtın yokluğu ise tek başına sesin duyulmadığını kanıtlamaz; sonuç gözlem ve anketlerle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "mudahale",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem ve müdahale",
+   "baslik": "Müdahale ve *beklentiler*",
+   "maddeler": [
+    {
+     "metin": "Cihaz: izlenen bir deneme",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Gürültüde _uzak mikrofon_ desteği",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "İletişim seçenekleri tarafsız sunulur",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Yetersiz ilerlemede implant ekibi",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Deneme",
+      "metin": "Davranışsal eşikle",
+      "cumle": 0
+     },
+     {
+      "ikon": "mikrofon",
+      "baslik": "Destek",
+      "metin": "Uzak mikrofon",
+      "cumle": 1
+     },
+     {
+      "ikon": "koklear_implant",
+      "baslik": "Gerekirse",
+      "metin": "İmplant ekibi",
+      "cumle": 3
+     }
+    ],
+    "ust": "PLAN"
+   },
+   "cumleler": [
+    "Cihaz denemesinde amaç eşik kazancından çok, bebeğin seslere ve konuşmaya işlevsel tepkilerinin artmasıdır.",
+    "İşitsel nöropatide gürültüde anlama çok zayıf olabileceği için ileride uzak mikrofon sistemleri sık kullanılan bir destektir.",
+    "Dil ve iletişim seçenekleri aileye tarafsız biçimde sunulur; karar ailenindir.",
+    "Yeterli ilerleme görülmezse koklear implant değerlendirmesi gündeme gelebilir; karar ekipte, bireysel olarak verilir.",
+    "Türkiye'de Sağlık Uygulama Tebliği, işitsel nöropatide en az altı ay rehabilitasyondan yarar görülmediğinin belgelenmesini ister."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem ve müdahale",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "DPOAE: iki kulakta var",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Klik ABR: CM var, dalga yok",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tüp kontrolü: CM doğrulandı",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Refleks: bin hertzde alınamadı",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Öneri: hekim, VRA, CAEP",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0,
+      "max": 12,
+      "ad": "Zaman (ms)",
+      "isaretler": [
+       0,
+       2,
+       4,
+       6,
+       8,
+       10,
+       12
+      ]
+     },
+     "y": {
+      "min": -2,
+      "max": 1,
+      "adim": 0.5,
+      "ond": 1,
+      "ad": "Genlik (µV)"
+     },
+     "seriler": [
+      {
+       "ad": "sikisma",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         0.9,
+         0.0
+        ],
+        [
+         1.0,
+         0.65
+        ],
+        [
+         1.25,
+         0.0
+        ],
+        [
+         1.5,
+         -0.476
+        ],
+        [
+         1.75,
+         -0.0
+        ],
+        [
+         2.0,
+         0.348
+        ],
+        [
+         2.25,
+         0.0
+        ],
+        [
+         2.5,
+         -0.255
+        ],
+        [
+         2.75,
+         -0.0
+        ],
+        [
+         3.0,
+         0.186
+        ],
+        [
+         3.25,
+         0.0
+        ],
+        [
+         3.5,
+         -0.136
+        ],
+        [
+         3.75,
+         -0.0
+        ],
+        [
+         4.0,
+         0.1
+        ],
+        [
+         4.25,
+         -0.0
+        ],
+        [
+         4.5,
+         -0.073
+        ],
+        [
+         4.75,
+         -0.0
+        ],
+        [
+         5.5,
+         0.02
+        ],
+        [
+         6.5,
+         -0.03
+        ],
+        [
+         7.5,
+         0.02
+        ],
+        [
+         8.5,
+         -0.02
+        ],
+        [
+         10,
+         0.01
+        ],
+        [
+         12,
+         0.0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kalin": true,
+       "etiket": "sıkışma",
+       "etiket_konum": [
+        8.5,
+        0.35
+       ],
+       "cumle": 1
+      },
+      {
+       "ad": "seyrelme",
+       "noktalar": [
+        [
+         0,
+         0.0
+        ],
+        [
+         0.9,
+         0.0
+        ],
+        [
+         1.0,
+         -0.65
+        ],
+        [
+         1.25,
+         -0.0
+        ],
+        [
+         1.5,
+         0.476
+        ],
+        [
+         1.75,
+         0.0
+        ],
+        [
+         2.0,
+         -0.348
+        ],
+        [
+         2.25,
+         -0.0
+        ],
+        [
+         2.5,
+         0.255
+        ],
+        [
+         2.75,
+         0.0
+        ],
+        [
+         3.0,
+         -0.186
+        ],
+        [
+         3.25,
+         -0.0
+        ],
+        [
+         3.5,
+         0.136
+        ],
+        [
+         3.75,
+         0.0
+        ],
+        [
+         4.0,
+         -0.1
+        ],
+        [
+         4.25,
+         0.0
+        ],
+        [
+         4.5,
+         0.073
+        ],
+        [
+         4.75,
+         0.0
+        ],
+        [
+         5.5,
+         0.02
+        ],
+        [
+         6.5,
+         -0.03
+        ],
+        [
+         7.5,
+         0.02
+        ],
+        [
+         8.5,
+         -0.02
+        ],
+        [
+         10,
+         0.01
+        ],
+        [
+         12,
+         0.0
+        ]
+       ],
+       "renk": "kirmizi",
+       "yumusak": true,
+       "etiket": "seyrelme",
+       "etiket_konum": [
+        8.5,
+        -0.35
+       ],
+       "cumle": 1
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "dalga_v_yeri",
+       "x": 6.5,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "dalga V yok",
+       "cumle": 1
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "cm",
+       "x": [
+        1,
+        4.5
+       ],
+       "renk": "sari",
+       "etiket": "ters dönen yanıt",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Örnek rapor dili: DPOAE iki kulakta test edilen frekansların çoğunda gürültü tabanının üzerinde alındı.",
+    "Klik ABR seksen beş desibel nHL'de iki polaritede alındı; polariteyle ters dönen koklear mikrofonik var, sinirsel dalga yok.",
+    "Ses tüpü kapatılarak alınan kontrol kaydında yanıt kayboldu.",
+    "Bin hertz timpanometri iki kulakta pozitif tepeli; akustik refleksler alınamadı.",
+    "Bulgular ANSD ile uyumludur; hekim değerlendirmesi, tekrar ABR, VRA ve kortikal testle izlem önerilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "OAE ve CM var, ABR yok: ANSD",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "İki polarite ve tüp kontrolü şart",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Risk öyküsü sistemli sorgulanır",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Karar davranışsal eşik ve CAEP ile",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "OAE ve koklear mikrofonik varken ABR'nin alınamaması işitsel nöropati spektrum bozukluğu ile uyumludur.",
+    "Koklear mikrofonik iki polaritede ters dönmesiyle tanınır; tüp kontrolü onu uyaran artefaktından ayırır.",
+    "Yoğun bakım, prematürite, ağır sarılık, hipoksi ve aile öyküsü sistemli olarak sorgulanır.",
+    "ABR eşik söylemediği için müdahale kararı davranışsal eşiklere, kortikal yanıtlara ve işlevsel gözlemlere dayanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Polarite değişince ters dönen, tüp kapanınca kaybolan yanıt nedir?",
+   "secenekler": [
+    "Dalga V",
+    "Koklear mikrofonik",
+    "Uyaran artefaktı",
+    "Kas artefaktı"
+   ],
+   "dogru": 1,
+   "aciklama": "Tüp kapanınca kaybolması yanıtın _kulaktan_ geldiğini gösterir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Polarite değişince ters dönen ve ses tüpü kapatılınca kaybolan yanıt hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: koklear mikrofonik.",
+    "Uyaran artefaktı da ters döner, ama ses kulağa ulaşmadığında kaybolmaz; sinirsel dalga V ise polariteyle ters dönmez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: konuşması gecikmiş, *timpanogramı düz* çocuk",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki vakada konuşması gecikmiş, timpanogramları düz bir küçük çocuğu oyun odyometrisiyle değerlendireceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

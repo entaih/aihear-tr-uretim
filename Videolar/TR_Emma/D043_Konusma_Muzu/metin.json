@@ -1,0 +1,715 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D043_Konusma_Muzu_TR",
+ "kapak": {
+  "ust": "DERS 43",
+  "baslik": "Konuşma<br>*muzu*",
+  "alt": "Konuşma sesleri odyogramda nerede?",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Konuşma Muzu: Konuşma Sesleri Odyogramda Nerede? | Ders 43 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Konuşma sesleri odyogram üzerinde muza benzeyen bir bölgeye yerleşir. Bu derste konuşmanın frekans ve şiddet dağılımını, uzun süreli ortalama konuşma spektrumunu (LTASS), ünlü ve ünsüzlerin odyogramdaki yerini ve işitme kaybında hangi seslerin kaçırıldığını örnek bir odyogramla inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; Byrne ve ark., An international comparison of long-term average speech spectra (Journal of the Acoustical Society of America, 1994); Mueller ve Killion, An easy method for calculating the articulation index (The Hearing Journal, 1990); Ling, Speech and the Hearing-Impaired Child; ANSI S3.5, Methods for Calculation of the Speech Intelligibility Index.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "konuşmamuzu",
+   "işitme"
+  ],
+  "etiketler": [
+   "konuşma muzu",
+   "speech banana",
+   "LTASS",
+   "konuşma spektrumu",
+   "fonem",
+   "ünlüler",
+   "ünsüzler",
+   "Ling 6 ses",
+   "SII",
+   "odyogram",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 43",
+   "baslik": "Konuşma *muzu*",
+   "alt": "Konuşma sesleri odyogramda nerede yer alır?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste konuşma seslerinin odyogram üzerinde nereye yerleştiğini, yani konuşma muzunu öğreneceğiz.",
+    "Ardından bir işitme kaybında hangi seslerin kaçırıldığını örnek bir odyogram üzerinde göreceğiz."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konuşmanın akustiği",
+   "baslik": "Konuşma *karmaşık* bir sestir",
+   "maddeler": [
+    {
+     "metin": "Önemli bilgi: yaklaşık _250 ile 8000 Hz_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Her ses farklı frekans ve _şiddette_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Olağan konuşma: yaklaşık _60 dB SPL_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Dinamik aralık: yaklaşık _30 dB_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "konusma",
+      "metin": "Konuşma: yaklaşık 60 dB SPL",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Konuşma, saf seslerden farklı olarak birçok frekansı aynı anda içeren karmaşık bir sestir.",
+    "Konuşmanın anlaşılması için önemli bilgi, yaklaşık iki yüz elli ile sekiz bin hertz arasına yayılır.",
+    "Her konuşma sesi bu aralıkta farklı bir frekans bölgesinde ve farklı bir şiddette yoğunlaşır.",
+    "Bir metre uzaklıktan yapılan olağan bir konuşmanın ortalama düzeyi yaklaşık altmış desibel SPL civarındadır.",
+    "Konuşmanın en güçlü ve en zayıf bölümleri arasında yaklaşık otuz desibellik bir dinamik aralık bulunur.",
+    "Yani konuşmayı tam olarak duymak için yalnız ortalamayı değil, en zayıf sesleri de duymak gerekir."
+   ]
+  },
+  {
+   "id": "ltass",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konuşmanın akustiği",
+   "baslik": "*LTASS*: ortalama konuşma spektrumu",
+   "maddeler": [
+    {
+     "metin": "Enerji en çok _pes_ bölgede",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tize doğru düzey _azalır_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Diller arasında _benzer_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "LTASS",
+    "metin": "Uzun bir konuşmanın frekanslara göre *ortalama* enerjisi",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Konuşmayı bir bütün olarak incelemek için uzun süreli ortalama konuşma spektrumu, kısaca LTASS kullanılır.",
+    "LTASS, uzun bir konuşma boyunca her frekans bandındaki ortalama enerjiyi gösterir.",
+    "Konuşmanın enerjisi en çok, yaklaşık iki yüz elli ile beş yüz hertz arasındaki pes bölgede toplanır.",
+    "Frekans yükseldikçe ortalama düzey giderek azalır.",
+    "Farklı dillerde yapılan karşılaştırmalar, ortalama konuşma spektrumunun diller arasında oldukça benzer olduğunu göstermiştir.",
+    "Bu benzerlik, işitme cihazı ayarında kullanılan hedeflerin farklı dillerde de kullanılabilmesini kolaylaştırır."
+   ]
+  },
+  {
+   "id": "unlu_unsuz",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ünlüler ve ünsüzler",
+   "baslik": "Ünlüler ve *ünsüzler*",
+   "sol": {
+    "ust": "Ünlüler",
+    "maddeler": [
+     {
+      "metin": "Daha _güçlü_",
+      "cumle": 1
+     },
+     {
+      "metin": "Enerji pes ve orta bölgede",
+      "cumle": 1
+     },
+     {
+      "metin": "_Formantlarla_ tanınır",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Ünsüzler",
+    "maddeler": [
+     {
+      "metin": "Çoğu daha _zayıf_",
+      "cumle": 3
+     },
+     {
+      "metin": "Önemli ipuçları tiz bölgede",
+      "cumle": 3
+     },
+     {
+      "metin": "Ayırt edici bilgi taşır",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Konuşma seslerini, yani fonemleri, kabaca iki gruba ayırabiliriz: ünlüler ve ünsüzler.",
+    "Ünlüler daha güçlüdür ve enerjileri çoğunlukla pes ve orta frekanslarda yoğunlaşır.",
+    "Her ünlüyü, formant adı verilen enerji yoğunlaşmalarının konumu belirler.",
+    "Ünsüzlerin çoğu ise daha zayıftır ve önemli ipuçlarını tiz frekanslarda taşır.",
+    "Klasik kaynaklarda konuşmanın gücünü büyük ölçüde ünlülerin, ayırt edici ipuçlarının önemli bir kısmını ise ünsüzlerin taşıdığı vurgulanır.",
+    "Ünsüzler, komşu ünlüye geçerken formantlarda yarattıkları kısa değişimlerle de tanınır."
+   ]
+  },
+  {
+   "id": "formant",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ünlüler ve ünsüzler",
+   "baslik": "Ünlüler ve *formantlar*",
+   "maddeler": [
+    {
+     "metin": "Birinci formant (F1): _pes_ bölgede",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İkinci formant (F2): ünlüye göre _değişir_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "/i/ ünlüsünde F2 _tiz_ bölgede",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "/u/ ünlüsünde F2 _pes_ bölgede",
+     "cumle": 4,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Türkçede _sekiz_ ünlü",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Ünlüleri biraz daha yakından inceleyelim.",
+    "Her ünlünün birinci formantı genellikle pes bölgededir ve dilin yüksekliğiyle ilişkilidir.",
+    "İkinci formant ise dilin önde ya da arkada olmasına göre belirgin biçimde değişir.",
+    "Örneğin i ünlüsünün ikinci formantı tiz bölgede, yaklaşık iki bin hertzin üzerindedir.",
+    "U ünlüsünün ikinci formantı ise yaklaşık bin hertz ya da altında, pes bölgede kalır.",
+    "Türkçede sekiz ünlü vardır; bu farklar nedeniyle tiz kayıplı bir kişi bazı ünlüleri de karıştırabilir."
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ünlüler ve ünsüzler",
+   "baslik": "Konuşma *muzu*",
+   "cizim": "konusma_muzu",
+   "notlar": [
+    {
+     "metin": "Pes ve güçlü: ünlüler, /m/, /n/",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Orta ve tiz: /ş/, /ç/, /k/, /t/",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Tiz ve zayıf: /s/, /f/",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "muz",
+     "cumle": 0
+    },
+    {
+     "parca": "unluler",
+     "cumle": 1
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Konuşma seslerini odyogram üzerine yerleştirdiğimizde muza benzeyen bir bölge ortaya çıkar; buna konuşma muzu denir.",
+    {
+     "yazi": "Muzun sol ve alt tarafında, yani pes ve daha güçlü bölgede ünlüler ile m ve n gibi genizsil sesler bulunur.",
+     "ses": "Muzun sol ve alt tarafında, yani pes ve daha güçlü bölgede ünlüler ile me ve ne gibi genizsil sesler bulunur."
+    },
+    "Ortada, bin ile iki bin hertz civarında, ünlülerin ikinci formantları ve bazı ünsüzler yer alır.",
+    {
+     "yazi": "Ş, ç, k ve t gibi ünsüzler daha tiz ve daha zayıf bölgeye yerleşir.",
+     "ses": "Şe, çe, ke ve te gibi ünsüzler daha tiz ve daha zayıf bölgeye yerleşir."
+    },
+    {
+     "yazi": "En sağda ve en üstte, yani tiz ve en zayıf bölgede s ve f gibi sürtünmeli ünsüzler bulunur.",
+     "ses": "En sağda ve en üstte, yani tiz ve en zayıf bölgede se ve fe gibi sürtünmeli ünsüzler bulunur."
+    },
+    "Bu bölge, olağan şiddetteki bir konuşmanın odyogram üzerindeki yaklaşık yeridir ve konuşmacıya göre değişir."
+   ]
+  },
+  {
+   "id": "ling",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ünlüler ve ünsüzler",
+   "baslik": "Ling *6 ses*",
+   "sutunlar": [
+    "Ses",
+    "Yaklaşık frekans bölgesi"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "/m/",
+      "250 ile 500 Hz"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "/u/",
+      "300 ve 900 Hz"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "/a/",
+      "700 ve 1200 Hz"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "/i/",
+      "300 ve 2500 Hz"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "/ş/",
+      "2000 ile 4000 Hz"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "/s/",
+      "4000 Hz ve üzeri"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Konuşma muzunu klinikte kullanmanın pratik bir yolu Ling altı ses testidir.",
+    {
+     "yazi": "Bu test, konuşma aralığını pesten tize tarayan altı sesten oluşur: m, u, a, i, ş ve s.",
+     "ses": "Bu test, konuşma aralığını pesten tize tarayan altı sesten oluşur: me, u, a, i, şe ve se."
+    },
+    {
+     "yazi": "M ve u sesleri pes bölgeyi, a sesi ise orta bölgeyi temsil eder.",
+     "ses": "Me ve u sesleri pes bölgeyi, a sesi ise orta bölgeyi temsil eder."
+    },
+    {
+     "yazi": "İ sesi hem pes hem tiz bölgede enerji taşır; ş ve s ise tiz bölgeyi temsil eder.",
+     "ses": "İ sesi hem pes hem tiz bölgede enerji taşır; şe ve se ise tiz bölgeyi temsil eder."
+    },
+    {
+     "yazi": "Bir çocuk s sesini fark edemiyorsa, tiz frekanslarda konuşmaya erişiminin kısıtlı olabileceği düşünülür.",
+     "ses": "Bir çocuk se sesini fark edemiyorsa, tiz frekanslarda konuşmaya erişiminin kısıtlı olabileceği düşünülür."
+    },
+    "Bu testi ileride cihaz kontrolü dersinde ayrıntılı olarak ele alacağız."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kayıpta neler kaçırılır?",
+   "baslik": "Örnek: *tiz frekans* kaybı",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       40,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       20,
+       45,
+       60,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnek odyogramda iki kulakta da bin hertze kadar eşikler normal sınırlarda.",
+    "İki bin hertzden sonra eşikler belirgin biçimde düşüyor ve dört bin hertzde altmış desibel HL civarına iniyor.",
+    "Bu kişi olağan bir konuşmanın ünlülerini ve pes ünsüzlerini rahatça duyabilir.",
+    {
+     "yazi": "Ancak s, f, ş ve t gibi tiz ve zayıf ünsüzlerin önemli bir kısmı eşiğin altında kalır.",
+     "ses": "Ancak se, fe, şe ve te gibi tiz ve zayıf ünsüzlerin önemli bir kısmı eşiğin altında kalır."
+    },
+    "Bu kişilerin sık dile getirdiği yakınma, sesleri duyup kelimeleri ayırt edememektir.",
+    "Özellikle gürültülü ortamlarda bu zorluk daha da artar."
+   ]
+  },
+  {
+   "id": "hangi_ses",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kayıpta neler kaçırılır?",
+   "baslik": "Hangi kayıp, *hangi sesler?*",
+   "sutunlar": [
+    "Kayıp bölgesi",
+    "En çok etkilenenler"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Tiz frekanslar",
+      "/s/, /f/, /ş/, /t/"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Orta frekanslar",
+      "F2, /ç/, /k/"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Pes frekanslar",
+      "/m/, /n/, /u/"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Tüm frekanslar",
+      "Konuşmanın tamamı"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kayıp bölgesine göre hangi seslerin etkilendiğini bu tabloda özetleyebiliriz.",
+    {
+     "yazi": "Tiz frekans kaybında s, f, ş ve t gibi sesler en çok etkilenir; bu, en sık karşılaşılan durumdur.",
+     "ses": "Tiz frekans kaybında se, fe, şe ve te gibi sesler en çok etkilenir; bu, en sık karşılaşılan durumdur."
+    },
+    {
+     "yazi": "Orta frekans kaybında ünlülerin ikinci formantları ve ç, k gibi ünsüzler zorlaşır.",
+     "ses": "Orta frekans kaybında ünlülerin ikinci formantları ve çe, ke gibi ünsüzler zorlaşır."
+    },
+    {
+     "yazi": "Pes frekans kaybında m, n gibi genizsil sesler ve u gibi ünlüler etkilenir.",
+     "ses": "Pes frekans kaybında me, ne gibi genizsil sesler ve u gibi ünlüler etkilenir."
+    },
+    "Düz bir kayıpta ise kaybın derecesine göre konuşmanın tamamı kısılır.",
+    {
+     "yazi": "Türkçede s ve ş sesleri birçok ekte geçtiği için, tiz kayıplarda dilbilgisi ipuçları da kaçırılabilir.",
+     "ses": "Türkçede se ve şe sesleri birçok ekte geçtiği için, tiz kayıplarda dilbilgisi ipuçları da kaçırılabilir."
+    }
+   ]
+  },
+  {
+   "id": "derece",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kayıpta neler kaçırılır?",
+   "baslik": "Kayıp derecesi ve *muz*",
+   "maddeler": [
+    {
+     "metin": "Hafif kayıp: muzun _üst kenarı_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Orta kayıp: muzun _içinden_ geçer",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "İleri kayıp: muzun _altında_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "KONUŞMADA ETKİSİ",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Hafif",
+      "metin": "En zayıf sesler kaçırılır",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Orta",
+      "metin": "Konuşmanın önemli kısmı duyulmaz",
+      "cumle": 2
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "İleri",
+      "metin": "Olağan konuşma büyük ölçüde duyulmaz",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Konuşma muzu, kaybın derecesini konuşma açısından yorumlamamızı da sağlar.",
+    "Hafif bir kayıpta eşikler genellikle muzun üst kenarına değer; en zayıf sesler kaçırılır ama konuşmanın çoğu duyulur.",
+    "Orta derecede bir kayıpta eşikler muzun içinden geçer; olağan konuşmanın önemli bir kısmı duyulmaz.",
+    "İleri derecede bir kayıpta eşikler muzun altına iner; olağan şiddetteki konuşma büyük ölçüde duyulmaz.",
+    "Bu yorum, cihaz gereksinimini ve beklentileri konuşurken hastaya somut bir dil sunar."
+   ]
+  },
+  {
+   "id": "nokta",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Duyulabilirlik",
+   "baslik": "Noktaları *sayma* odyogramı",
+   "maddeler": [
+    {
+     "metin": "Muz bölgesinde _100 nokta_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Önemli frekanslarda noktalar _sık_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Eşiğin altındaki noktalar _sayılır_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sonuç: duyulabilirliğin kaba tahmini",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SII",
+    "metin": "Konuşmanın ne kadarının *duyulabilir* olduğunu gösteren indeks",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Konuşma muzunun pratik bir uzantısı nokta sayma odyogramıdır; muz bölgesine yüz nokta yerleştirilir.",
+    "Noktalar, konuşmanın anlaşılması için daha önemli olan frekanslarda daha sık dizilir.",
+    "Kişinin eşik çizgisinin altında, yani duyulabilir bölgede kalan noktalar sayılır.",
+    "Bu sayı, konuşma anlaşılırlık indeksi, kısaca SII için kaba bir tahmin verir.",
+    "SII, konuşmanın ne kadarının duyulabilir olduğunu gösterir; doğrudan anlama yüzdesi değildir.",
+    "Bu araç, kaybın günlük konuşmaya etkisini hastaya ve aileye anlatırken oldukça kullanışlıdır."
+   ]
+  },
+  {
+   "id": "mesafe",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Duyulabilirlik",
+   "baslik": "Muz *sabit* değildir",
+   "maddeler": [
+    {
+     "metin": "Uzaklık iki katına çıkınca yaklaşık _6 dB_ düşüş",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Kısık ses: muz _yukarı_ kayar",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Gürültü ve yankı ünsüzleri _maskeler_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Konuşma muzu sabit değildir; konuşmacının ses düzeyine ve uzaklığına göre yer değiştirir.",
+    "Serbest alanda konuşmacıyla aradaki uzaklık iki katına çıktığında düzey yaklaşık altı desibel azalır.",
+    "Kısık sesle konuşulduğunda muz yukarı, yani daha zayıf bölgeye; yüksek sesle konuşulduğunda aşağı kayar.",
+    "Gürültü ve yankı ise özellikle zayıf ve tiz ünsüzleri maskeleyerek duyulabilirliği azaltır.",
+    "Bu nedenle işitme kaybı olan kişilerin konuşmacıya yakın ve yüzünü görebileceği bir yerde durması işlerini kolaylaştırır.",
+    "Bu konuyu bir sonraki derste, oda akustiğini incelerken ayrıntılı olarak ele alacağız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Duyulabilirlik",
+   "baslik": "Klinik ipucu",
+   "metin": "Sonuçları anlatırken konuşma muzunu hastanın odyogramının üzerine çizin; eşiğin dışarıda bıraktığı sesleri görmek, kaybı somutlaştırır.",
+   "cumleler": [
+    "Sahadan bir ipucu: sonuçları anlatırken hastanın odyogramının üzerine konuşma muzunu çizin.",
+    "Eşik çizgisinin hangi sesleri dışarıda bıraktığını görmek, kaybı soyut bir sayı olmaktan çıkarır.",
+    "Aile üyeleri de neden daha yüksek sesle değil, daha net ve yüz yüze konuşmaları gerektiğini daha kolay anlar.",
+    "Ancak muzun yaklaşık bir bölge olduğunu ve konuşmacıya, uzaklığa göre kaydığını da belirtin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Konuşma: yaklaşık _250 ile 8000 Hz_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ünlüler _pes ve güçlü_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "/s/, /f/ gibi ünsüzler _tiz ve zayıf_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Tiz kayıpta ünsüzler _kaçırılır_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Konuşmanın önemli bilgisi yaklaşık iki yüz elli ile sekiz bin hertz arasına ve yaklaşık otuz desibellik bir aralığa yayılır.",
+    "Ünlüler daha güçlüdür ve konuşma muzunun pes, alt bölümünde yer alır.",
+    "Sürtünmeli ünsüzler gibi zayıf sesler muzun tiz ve üst bölümündedir.",
+    "Bu yüzden en sık görülen tiz frekans kayıplarında kişi sesi duyar ama ayrıntıları kaçırır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Tiz frekans kaybında hangi ses en kolay kaçırılır?",
+   "secenekler": [
+    "a ünlüsü",
+    "u ünlüsü",
+    "s ünsüzü",
+    "m ünsüzü"
+   ],
+   "dogru": 2,
+   "aciklama": "/s/ sesi _tiz ve zayıf_ bölgededir; tiz kayıpta eşiğin altında kalır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Tiz frekanslarda kaybı olan bir kişi, aşağıdaki seslerden hangisini en kolay kaçırır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap C: s ünsüzü.",
+     "ses": "Doğru cevap ce: se ünsüzü."
+    },
+    {
+     "yazi": "S sesi konuşma muzunun tiz ve zayıf bölgesindedir; bu nedenle tiz kayıpta çoğu zaman eşiğin altında kalır.",
+     "ses": "Se sesi konuşma muzunun tiz ve zayıf bölgesindedir; bu nedenle tiz kayıpta çoğu zaman eşiğin altında kalır."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Oda akustiği: yankılanma ve *sinyal-gürültü oranı*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste yankılanmanın ve sinyal-gürültü oranının konuşmayı anlamayı nasıl etkilediğini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

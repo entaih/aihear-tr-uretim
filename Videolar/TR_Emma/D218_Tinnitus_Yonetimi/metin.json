@@ -1,0 +1,696 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D218_Tinnitus_Yonetimi_TR",
+ "kapak": {
+  "ust": "DERS 218",
+  "baslik": "Tinnitus<br>*yönetimi*",
+  "alt": "Danışmanlık, ses terapisi, cihazlar",
+  "cizim": "isitme_cihazi"
+ },
+ "youtube": {
+  "baslik": "Tinnitus Yönetimi: Danışmanlık, Ses Terapisi ve Cihazlar | Ders 218 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kalıcı tinnitusta amaç sesi silmek değil, yaşam üzerindeki etkisini azaltmaktır. Bu derste eğitim odaklı danışmanlığı, ses zenginleştirme ve ses üreteçlerini, işitme cihazının yerini, bilişsel davranışçı terapinin kanıt düzeyini, NICE kılavuzunun basamaklı psikolojik yaklaşımını ve kılavuzların önermediği uygulamaları ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Tunkel ve ark., Clinical Practice Guideline: Tinnitus, Otolaryngology-Head and Neck Surgery (2014); NICE, Tinnitus: assessment and management (NG155, 2020); Fuller ve ark., Cognitive behavioural therapy for tinnitus, Cochrane Database of Systematic Reviews (2020); Sereda ve ark., Sound therapy (using amplification devices and/or sound generators) for tinnitus, Cochrane Database of Systematic Reviews (2018); Tyler, Tinnitus Handbook.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "tinnitus",
+   "kulakçınlaması"
+  ],
+  "etiketler": [
+   "tinnitus yönetimi",
+   "tinnitus danışmanlığı",
+   "ses terapisi",
+   "sound therapy",
+   "ses üreteci",
+   "sound generator",
+   "işitme cihazı",
+   "bilişsel davranışçı terapi",
+   "cognitive behavioral therapy",
+   "NICE tinnitus",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 218",
+   "baslik": "Tinnitus *yönetimi*",
+   "alt": "Danışmanlık, ses terapisi ve cihazlar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste rahatsız edici tinnitusta kullanılan yönetim yaklaşımlarını öğreneceğiz.",
+    "Danışmanlığı, ses terapisini, işitme cihazını ve psikolojik tedavileri, her birinin kanıt düzeyiyle birlikte ele alacağız."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Amaç ve danışmanlık",
+   "baslik": "Yönetimin *amacı*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Sesi silmek",
+     "metin": "Kanıtlanmış yöntem yok",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Etkiyi azaltmak",
+     "metin": "Uyku, dikkat, duygu",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Alışma",
+     "metin": "Fark edilse de rahatsız etmez",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Kalıcı subjektif tinnitusu ortadan kaldıran, kanıtlanmış bir tedavi bugün için yoktur.",
+    "Bu yüzden yönetimin amacı sesi silmek değil, tinnitusun yaşam üzerindeki etkisini azaltmaktır.",
+    "Hedef, kişinin tinnitusu fark etse bile onunla rahatsız olmadan yaşayabilmesidir; buna alışma denir.",
+    "Tinnitusu olan herkesin tedaviye ihtiyacı yoktur; rahatsız etmeyen tinnitusta bilgi vermek çoğu zaman yeterlidir.",
+    "Rahatsız edici tinnitusta ise danışmanlık, ses terapisi, işitme cihazı ve psikolojik tedaviler birlikte düşünülür.",
+    "Bu derste her yaklaşımın ne yaptığını ve kılavuzlardaki yerini birlikte ele alacağız."
+   ]
+  },
+  {
+   "id": "danismanlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Amaç ve danışmanlık",
+   "baslik": "Eğitim odaklı *danışmanlık*",
+   "maddeler": [
+    {
+     "metin": "Her yönetimin _temeli_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ne olduğu, neden olduğu",
+     "cumle": 2,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Sesi tehdit olmaktan çıkarmak",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Yanlış inançları düzeltmek",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Somut hedefler",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 3,
+    "etiketler": [
+     {
+      "parca": "koklea",
+      "metin": "azalan girdi",
+      "cumle": 3
+     },
+     {
+      "parca": "isitme_korteksi",
+      "metin": "artan kazanç",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Her tinnitus yönetiminin temeli eğitim odaklı danışmanlıktır.",
+    "Amerikan ve İngiliz kılavuzları, tinnitusu olan kişilere bilgi ve destek verilmesini önerir.",
+    "Danışmanlıkta tinnitusun ne olduğu, neden ortaya çıktığı ve neden tehlikeli olmadığı sade bir dille anlatılır.",
+    "Merkezi kazancı ve dikkat ağlarını basit benzetmelerle açıklamak, kişinin sesi bir tehdit olarak görmesini azaltır.",
+    "Tinnitusun sağırlığın habercisi olduğu ya da asla rahatlamayacağı gibi yanlış inançlar düzeltilir.",
+    "Kişinin en çok zorlandığı durumlar, örneğin uyku ya da sessiz ortamlar, birlikte belirlenir ve somut hedefler konur.",
+    "Gürültüden korunmak önemlidir; ama sessiz ortamlarda bile sürekli kulak tıkacı kullanmak tinnitusu daha belirgin hale getirebilir."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Amaç ve danışmanlık",
+   "baslik": "Uyku ve *günlük yaşam*",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sessizlikten kaçının",
+     "metin": "Hafif arka plan sesi",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Uyku düzeni",
+     "metin": "Düzenli saatler",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Gevşeme",
+     "metin": "Nefes egzersizleri",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Etkinlik",
+     "metin": "Sevilen işlere devam",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tinnitus en çok sessiz ortamda ve uykuya dalarken fark edilir.",
+    "Tamamen sessiz bir yatak odası yerine hafif bir arka plan sesi, tinnitusla sessizlik arasındaki karşıtlığı azaltır.",
+    "Düzenli uyku saatleri ve yatmadan önce ekran kullanımının azaltılması gibi uyku alışkanlıkları da konuşulur.",
+    "Gevşeme ve nefes egzersizleri, stres arttığında tinnitusun daha rahatsız edici algılanmasını azaltabilir.",
+    "Sevilen etkinliklere devam etmek, dikkatin tinnitustan uzaklaşmasına yardım eder.",
+    "Bu öneriler basit görünür, ama düzenli uygulandığında kişinin tinnitusla ilişkisini belirgin biçimde değiştirebilir.",
+    "NICE kılavuzu, tinnitus nedeniyle uyku sorunu olan kişilerde bir uykusuzluk ölçeğiyle taramanın düşünülmesini de önerir."
+   ]
+  },
+  {
+   "id": "ses_terapisi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ses ve cihazlar",
+   "baslik": "*Ses terapisi*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Ses zenginleştirme",
+     "metin": "Fan, doğa sesi, müzik",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Ses üreteci",
+     "metin": "Sürekli, ayarlanabilir gürültü",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Kombinasyon cihazı",
+     "metin": "Cihaz ve üreteç birlikte",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Kanıt",
+     "metin": "Sınırlı, sonuçsuz",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Ses terapisi (sound therapy), tinnitusun algısını ya da etkisini değiştirmek için dışarıdan ses kullanılmasıdır.",
+    "En basit biçimi ses zenginleştirmedir: ortama fan, doğa sesleri ya da hafif müzik gibi sesler eklenir.",
+    "Kulak arkasına ya da kulak içine takılan ses üreteçleri (sound generator), sürekli ve ayarlanabilir bir gürültü verir.",
+    "Kombinasyon cihazları, işitme cihazı ile ses üretecini tek bir cihazda birleştirir.",
+    "Ses genellikle tinnitusu tamamen örtmeyecek, onunla karışacak bir düzeyde ayarlanır; bu, alışmayı desteklemeyi amaçlar.",
+    "Amerikan kılavuzu ses terapisini bir seçenek olarak görür.",
+    "Cochrane derlemesi ise ses terapisinin etkisi konusunda kanıtın yetersiz ve sonuçsuz olduğunu bildirir.",
+    "NICE kılavuzu da bu konuda uygulama önerisi vermemiş, yalnız araştırma önerisi yapmıştır."
+   ]
+  },
+  {
+   "id": "ses_ayar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ses ve cihazlar",
+   "baslik": "Ses terapisi *nasıl ayarlanır?*",
+   "maddeler": [
+    {
+     "metin": "Ses türü: kişinin tercihi",
+     "cumle": 1,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Düzey: rahat, _rahatsız etmeyen_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Hiperakuzide daha temkinli",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Özellikle sessiz ortamlarda",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Danışmanlıkla birlikte",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "BTE"
+    },
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "islemci",
+      "metin": "ses üreteci",
+      "cumle": 0
+     },
+     {
+      "parca": "alici",
+      "metin": "alıcı",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Ses terapisinde sesin türü, düzeyi ve kullanım süresi kişiye göre seçilir.",
+    "Geniş bant gürültü, doğa sesleri ya da müzik kullanılabilir; seçim büyük ölçüde kişinin tercihine bağlıdır.",
+    "Ses, rahat dinlenecek ve rahatsız etmeyecek bir düzeyde tutulur.",
+    "Seslere aşırı hassasiyeti olan kişilerde düzey daha da temkinli seçilir ve yavaşça artırılır.",
+    "Kişi cihazı ya da ses kaynağını günün belirli saatlerinde, özellikle sessiz ortamlarda kullanır.",
+    "Ses terapisi çoğu zaman tek başına değil, danışmanlıkla birlikte uygulanır."
+   ]
+  },
+  {
+   "id": "isitme_cihazi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ses ve cihazlar",
+   "baslik": "İşitme cihazının *yeri*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "RIC"
+   },
+   "etiketler": [
+    {
+     "parca": "mikrofon",
+     "metin": "ortam sesleri",
+     "cumle": 1
+    },
+    {
+     "parca": "alici",
+     "metin": "kayıplı frekanslara girdi",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "alici",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ortam sesi tinnitusu _örter_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Kayıp ve rahatsız edici tinnitus: değerlendirme",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Kaybı olmayana önerilmez",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Tinnitusu olan kişilerin çoğunda işitme kaybı da vardır.",
+    "İşitme cihazı ortam seslerini yükselterek kayıplı frekanslardan beyne giden girdiyi artırır.",
+    "Böylece tinnitus ortam seslerinin içinde daha az belirgin hale gelebilir ve iletişim de kolaylaşır.",
+    "Amerikan kılavuzu, kalıcı ve rahatsız edici tinnitusu olan, işitme kaybı belgelenmiş kişilerde işitme cihazı değerlendirmesini önerir.",
+    "NICE kılavuzu, iletişimi etkileyen işitme kaybı olanlara cihaz önerilmesini, işitme kaybı olmayanlara ise önerilmemesini söyler.",
+    "Tiz frekanslardaki hafif kayıplarda açık uyum cihazlar, ortam seslerini kulak yolunu kapatmadan ulaştırabilir.",
+    "Cihazın tinnitus üzerindeki doğrudan etkisine ilişkin araştırma kanıtı ise hala sınırlıdır."
+   ]
+  },
+  {
+   "id": "bdt",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Psikolojik tedaviler",
+   "baslik": "Bilişsel davranışçı *terapi*",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tinnitus",
+     "metin": "Ses algılanır",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Düşünce",
+     "metin": "Hiç geçmeyecek",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Duygu",
+     "metin": "Kaygı artar",
+     "cumle": 3
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Davranış",
+     "metin": "Kaçınma başlar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bilişsel davranışçı terapi (cognitive behavioral therapy, CBT), tinnitus yönetiminde kanıtı en güçlü yaklaşımdır.",
+    "Bu terapi tinnitusun sesini değil, ona verilen düşünce, duygu ve davranış tepkilerini hedefler.",
+    "Örneğin bu ses hiç geçmeyecek ve hayatımı mahvedecek gibi bir düşünce kaygıyı artırır.",
+    "Kaygı dikkati tinnitusa yöneltir ve kişi sosyal ortamlardan ve etkinliklerden kaçınmaya başlar.",
+    "Terapide bu düşünceler fark edilir, daha gerçekçi olanlarla değiştirilir ve kaçınılan etkinliklere kademeli olarak dönülür.",
+    "Amerikan kılavuzu kalıcı ve rahatsız edici tinnitusta bilişsel davranışçı terapiyi önerir.",
+    "Cochrane derlemesine göre bu terapi tinnitusun yaşam üzerindeki etkisini azaltabilir; ancak sesin şiddetini azalttığı gösterilmemiştir."
+   ]
+  },
+  {
+   "id": "basamak",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Psikolojik tedaviler",
+   "baslik": "Basamaklı *yaklaşım*",
+   "adimlar": [
+    {
+     "ikon": "telefon",
+     "baslik": "Dijital",
+     "metin": "Uygulama ya da bilgisayar",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Grup",
+     "metin": "Grup temelli programlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Bireysel",
+     "metin": "Psikologla birebir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "NICE kılavuzu, destek almasına rağmen belirgin etkilenen yetişkinlerde basamaklı bir psikolojik yaklaşımın düşünülmesini önerir.",
+    "İlk basamak, psikologların sağladığı ve bilgisayar ya da telefon üzerinden yürütülen dijital bilişsel davranışçı terapidir.",
+    "Yarar görülmezse grup programları gelir: bilişsel davranışçı terapi, farkındalık temelli terapi ya da kabul ve kararlılık terapisi.",
+    "Son basamak, psikolog tarafından yürütülen bireysel bilişsel davranışçı terapidir.",
+    "Odyologların uyguladığı bilişsel davranışçı yaklaşımların etkinliği ise hala araştırılmaktadır.",
+    "Bu nedenle odyolog, psikolojik destek gereken kişileri tanımalı ve ekip içinde doğru yere yönlendirmelidir."
+   ]
+  },
+  {
+   "id": "ekip",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Psikolojik tedaviler",
+   "baslik": "Bir *ekip* işi",
+   "ogeler": [
+    {
+     "ikon": "odyolog",
+     "baslik": "Odyolog",
+     "metin": "Değerlendirme, danışmanlık, cihaz",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "KBB hekimi",
+     "metin": "Tıbbi değerlendirme",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Ruh sağlığı",
+     "metin": "Psikolog ve psikiyatri",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Tinnitus yönetimi çoğu zaman bir ekip işidir.",
+    "Odyolog değerlendirmeyi, danışmanlığı, ses terapisini ve cihaz uygulamasını üstlenir.",
+    "Kulak burun boğaz hekimi tıbbi değerlendirmeyi yapar ve gerekli incelemelere karar verir.",
+    "Belirgin sıkıntı, kaygı ya da depresyon varsa psikolog ve psikiyatri hekimi sürece katılır.",
+    "Ekip üyelerinin aynı dili kullanması, kişiye çelişkili mesajlar verilmesini önler."
+   ]
+  },
+  {
+   "id": "onerilmeyen",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kanıt ve plan",
+   "baslik": "Kılavuzların *önermedikleri*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Rutin ilaç",
+     "metin": "Tinnitus için önerilmez",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Besin destekleri",
+     "metin": "Ginkgo, melatonin, çinko",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Manyetik uyarım",
+     "metin": "Rutin önerilmez",
+     "cumle": 3
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Betahistin",
+     "metin": "NICE önermez",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kılavuzlar bazı yaygın uygulamaların tinnitus için rutin olarak kullanılmamasını önerir.",
+    "Amerikan kılavuzu tinnitus için antidepresan, antikonvülzan, anksiyolitik ya da kulak içine ilaç uygulamasını rutin olarak önermez.",
+    "Ginkgo biloba, melatonin, çinko ve benzeri besin destekleri de önerilmez.",
+    "Transkraniyal manyetik uyarım da rutin kullanım için önerilmez.",
+    "NICE kılavuzu da tinnitus tedavisinde betahistin kullanılmamasını önerir.",
+    "Kaygı ya da depresyon gibi eşlik eden durumların tedavisi ise hekimin değerlendirmesine ve kararına bağlıdır."
+   ]
+  },
+  {
+   "id": "plan",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kanıt ve plan",
+   "baslik": "Bir *yönetim planı*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Değerlendir",
+     "metin": "Odyogram ve ölçek",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Danışmanlık",
+     "metin": "Herkes için",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Ses ve cihaz",
+     "metin": "Gerekirse",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Psikolojik destek",
+     "metin": "Etki sürerse",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzlem",
+     "metin": "Aynı ölçekle",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bütün bu yaklaşımları bir yönetim planında birleştirelim.",
+    "İlk adım odyolojik değerlendirme ve tinnitusun etkisini gösteren bir ölçektir.",
+    "Herkes için ikinci adım eğitim odaklı danışmanlıktır.",
+    "İşitme kaybı varsa işitme cihazı, gerekiyorsa ses terapisi eklenir.",
+    "Etki sürüyorsa psikolojik tedaviler için uygun uzmana yönlendirme yapılır.",
+    "Belirli aralıklarla aynı ölçekle izlem yapılır ve plan kişinin yanıtına göre güncellenir.",
+    "Plan her kişiye göre farklıdır; bazı kişiler için danışmanlık tek başına yeterli olur."
+   ]
+  },
+  {
+   "id": "yeni",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kanıt ve plan",
+   "baslik": "Yeni *yöntemler*",
+   "maddeler": [
+    {
+     "metin": "Yoğun araştırma sürüyor",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Nöromodülasyon: kanıt _yetersiz_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Kesin tedavi vaatlerine dikkat",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kontrollü çalışmaya bakın",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SORULACAKLAR",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kitap",
+      "baslik": "Kanıt",
+      "metin": "Kontrollü çalışma var mı?",
+      "cumle": 4
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Vaat",
+      "metin": "Kesin tedavi iddiası",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Tinnitus için yeni yöntemler üzerinde yoğun araştırma sürmektedir.",
+    "Ses ile dil ya da boyun gibi bölgelerin birlikte uyarıldığı nöromodülasyon cihazları bunlara örnektir.",
+    "NICE kılavuzu nöromodülasyon için kanıtı yetersiz bulmuş ve yalnız araştırma önerisi yapmıştır.",
+    "Hastalar internette kesin tedavi vaat eden ürünlerle sık karşılaşır; bu iddiaları kanıta göre değerlendirmelerine yardım etmek gerekir.",
+    "Yeni bir yöntem değerlendirilirken kontrollü çalışmalarla gösterilmiş etkinliğe bakılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yapacak bir şey yok, alışmanız gerek demeyin. Tinnitusun yaygın olduğunu, çoğu kişinin zamanla alıştığını ve bunu kolaylaştıran yöntemler bulunduğunu anlatın.",
+   "cumleler": [
+    "Bir klinik ipucu: danışmanlıkta yapacak bir şey yok, alışmanız gerek gibi cümlelerden kaçının.",
+    "Bu tür bir cümle kişinin çaresizliğini artırır ve kılavuzların önerdiği yaklaşıma da uymaz.",
+    "Bunun yerine tinnitusun yaygın olduğunu, çoğu kişinin zamanla alıştığını ve bunu kolaylaştıran yöntemler bulunduğunu anlatın.",
+    "Gerçekçi ve umut veren bir dil, kişinin yönetim planına katılımını artırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Amaç: etkiyi azaltmak, alışma",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Temel: eğitim odaklı danışmanlık",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Kayıp varsa işitme cihazı",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "En güçlü kanıt: bilişsel davranışçı terapi",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Tinnitus yönetiminin amacı sesi silmek değil, etkisini azaltmak ve alışmayı kolaylaştırmaktır.",
+    "Her yönetimin temeli eğitim odaklı danışmanlıktır; ses terapisinin kanıtı ise sınırlıdır.",
+    "İletişimi etkileyen işitme kaybı varsa işitme cihazı yönetimin önemli bir parçasıdır.",
+    "Kanıtı en güçlü yaklaşım bilişsel davranışçı terapidir; kılavuzlar ilaçları ve besin desteklerini rutin olarak önermez."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Kanıtı en güçlü yaklaşım hangisi?",
+   "secenekler": [
+    "Bilişsel davranışçı terapi",
+    "Besin destekleri",
+    "Manyetik uyarım",
+    "Sürekli kulak tıkacı"
+   ],
+   "dogru": 0,
+   "aciklama": "Tinnitusun _yaşama etkisini_ azaltabilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: tinnitus yönetiminde kanıtı en güçlü psikolojik yaklaşım hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: bilişsel davranışçı terapi.",
+    "Bu terapi tinnitusun sesini değil, kişinin ona verdiği tepkiyi hedefler ve yaşam üzerindeki etkisini azaltabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tinnitus yeniden eğitim terapisi ve *Jastreboff* modeli",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste tinnitus yeniden eğitim terapisini ve Jastreboff'un nörofizyolojik modelini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

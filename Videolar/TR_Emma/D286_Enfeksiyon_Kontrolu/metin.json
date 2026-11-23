@@ -1,0 +1,693 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D286_Enfeksiyon_Kontrolu_TR",
+ "kapak": {
+  "ust": "DERS 286",
+  "baslik": "Enfeksiyon<br>*kontrolü*",
+  "alt": "El hijyeni, ekipman, kulak ölçüsü",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "insert": true
+  }
+ },
+ "youtube": {
+  "baslik": "Odyolojide Enfeksiyon Kontrolü ve Klinik Güvenlik | Ders 286 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyoloji kliniğinde enfeksiyon nasıl önlenir? Bu derste standart önlemleri, el hijyeninin beş anını, Spaulding sınıflamasını, ekipman temizliği ve dezenfeksiyonunu, tek kullanımlık parçaları ve kulak ölçüsü alırken güvenliği öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: World Health Organization, WHO Guidelines on Hand Hygiene in Health Care (2009); CDC, Guideline for Disinfection and Sterilization in Healthcare Facilities (2008); Siegel JD ve ark., CDC Guideline for Isolation Precautions (2007); ASHA, Infection Control (Practice Portal); Katz J ve ark. Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "enfeksiyonkontrolü",
+   "klinikgüvenlik"
+  ],
+  "etiketler": [
+   "enfeksiyon kontrolü",
+   "infection control",
+   "standart önlemler",
+   "standard precautions",
+   "el hijyeni",
+   "dezenfeksiyon",
+   "disinfection",
+   "Spaulding sınıflaması",
+   "kulak ölçüsü",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 286",
+   "baslik": "Enfeksiyon kontrolü ve *güvenlik*",
+   "alt": "El hijyeni, ekipman, kulak ölçüsü",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyoloji kliniğinde enfeksiyon kontrolünü, standart önlemleri ve ekipman dezenfeksiyonunu öğreneceğiz.",
+    "Tek kullanımlık parçaları, kulak ölçüsü alırken güvenliği ve klinikteki diğer güvenlik konularını da göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Neden *önemli?*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Doğrudan temas",
+     "metin": "El, deri, kulak",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dolaylı temas",
+     "metin": "Ortak kullanılan araç",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Damlacık",
+     "metin": "Yakın görüşme",
+     "cumle": 3
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Vücut sıvıları",
+     "metin": "Akıntı, kan, serumen",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Enfeksiyon kontrolü (infection control), mikroorganizmaların hasta, çalışan ve ortam arasında taşınmasını önleyen uygulamaların bütünüdür.",
+    "Odyolojide en sık bulaş yolu temastır; çalışanın eli kulağa, kulaktan da başka bir hastaya mikroorganizma taşıyabilir.",
+    "Kulaklık, prob ve hasta butonu gibi birçok hastada kullanılan araçlar dolaylı temasla bulaşa aracılık edebilir.",
+    "Yakın mesafeden yapılan uzun görüşmeler damlacık yoluyla solunum enfeksiyonlarının bulaşmasına yol açabilir.",
+    "Kulak akıntısı, kan ve serumen gibi vücut sıvıları ve salgılarla temas, ek önlem gerektirir.",
+    "Hastalarımızın bir bölümü bebek, yaşlı ya da bağışıklığı zayıf kişilerdir; bu yüzden kurallar herkes için her zaman uygulanır."
+   ]
+  },
+  {
+   "id": "standart",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Standart *önlemler*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "El hijyeni",
+     "metin": "En etkili önlem",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Koruyucu ekipman",
+     "metin": "Eldiven, maske, gerekirse",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Ekipman temizliği",
+     "metin": "Her hastadan sonra",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Atık yönetimi",
+     "metin": "Doğru kutuya",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Solunum hijyeni",
+     "metin": "Öksürük adabı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Standart önlemler (standard precautions), her hastaya, enfeksiyonu bilinsin ya da bilinmesin, aynı biçimde uygulanan temel kurallardır.",
+    "Bu önlemlerin en etkilisi el hijyenidir: alkol bazlı el ovma ya da su ve sabunla yıkama.",
+    "Akıntı, kan ya da bozuk deriyle temas olasılığı varsa eldiven giyilir; eldiven el hijyeninin yerine geçmez.",
+    "Hastayla temas eden bütün araçlar her hastadan sonra kurumun onayladığı yöntemle temizlenir ve dezenfekte edilir.",
+    "Kullanılmış tek kullanımlık parçalar ve kirlenmiş malzemeler kurumun atık kurallarına göre uygun kutuya atılır.",
+    "Öksüren bir hastaya maske önermek ve mendil kullanımını hatırlatmak da solunum hijyeninin parçasıdır."
+   ]
+  },
+  {
+   "id": "bes_an",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "El hijyeninin *beş anı*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Temastan önce",
+     "metin": "Hastaya dokunmadan",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Temiz işlemden önce",
+     "metin": "Kulak ölçüsü, prob",
+     "cumle": 1
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Sıvı riskinden sonra",
+     "metin": "Akıntı, kan",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Temastan sonra",
+     "metin": "Hastadan ayrılırken",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Çevreden sonra",
+     "metin": "Koltuk, cihaz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Dünya Sağlık Örgütü el hijyeni için beş an tanımlar; birincisi hastaya dokunmadan öncedir.",
+    "İkincisi, kulak ölçüsü almak ya da kulak yoluna prob yerleştirmek gibi temiz bir işlemden hemen öncedir.",
+    "Üçüncüsü, akıntı ya da kan gibi vücut sıvılarıyla temas riski olan bir işlemden sonradır.",
+    "Dördüncüsü, hastaya dokunduktan sonra, hastanın yanından ayrılırken uygulanır.",
+    "Beşincisi, hastaya dokunmasanız bile koltuk ya da cihaz gibi hastanın çevresindeki yüzeylere dokunduktan sonradır.",
+    "Bir odyoloji randevusunda bu anlar birçok kez tekrarlanır; el ovma solüsyonunu kabinin içine ve dışına koymak işi kolaylaştırır."
+   ]
+  },
+  {
+   "id": "spaulding",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Spaulding *sınıflaması*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Kritik",
+     "metin": "Steril dokuya girer",
+     "cumle": 1
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Yarı kritik",
+     "metin": "Mukoza ya da bozuk deri",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kritik olmayan",
+     "metin": "Sağlam deri",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Odyolojide",
+     "metin": "Çoğu kritik olmayan",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hangi araca hangi işlemin yapılacağına karar vermek için yaygın olarak Spaulding sınıflaması kullanılır.",
+    "Steril dokuya ya da kan dolaşımına giren araçlar kritik gruptadır ve sterilize edilir.",
+    "Mukozaya ya da bütünlüğü bozulmuş deriye temas eden araçlar yarı kritiktir ve yüksek düzey dezenfeksiyon gerektirir.",
+    "Yalnız sağlam deriye temas eden araçlar kritik olmayan gruptadır; düşük ya da orta düzey dezenfeksiyon yeterlidir.",
+    "Odyolojide kullanılan araçların çoğu sağlam kulak yolu derisine değdiği için kritik olmayan gruptadır.",
+    "Akıntılı ya da yaralı bir kulakla temas eden araçlarda ise tek kullanımlık parça ya da daha üst düzey işlem tercih edilir."
+   ]
+  },
+  {
+   "id": "terimler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Temizlik, dezenfeksiyon, *sterilizasyon*",
+   "maddeler": [
+    {
+     "metin": "Temizlik: görünür kiri kaldır",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Dezenfeksiyon: mikroorganizmaları azalt",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Sterilizasyon: tüm canlı formlar",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Önce temizlik, sonra dezenfeksiyon",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dokunma",
+      "baslik": "Temizlik",
+      "metin": "Kir ve serumen",
+      "cumle": 0
+     },
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Dezenfeksiyon",
+      "metin": "Mikroorganizma azaltma",
+      "cumle": 1
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Sterilizasyon",
+      "metin": "Tümünü yok etme",
+      "cumle": 2
+     }
+    ],
+    "ust": "ÜÇ DÜZEY"
+   },
+   "cumleler": [
+    "Temizlik, yüzeydeki görünür kirin, serumenin ve organik maddenin su, deterjan ve mekanik silmeyle kaldırılmasıdır.",
+    "Dezenfeksiyon (disinfection), cansız yüzeylerdeki mikroorganizmaların kimyasal ya da fiziksel yolla azaltılmasıdır.",
+    "Sterilizasyon ise sporlar dahil bütün mikroorganizma formlarının yok edilmesidir.",
+    "Kir dezenfektanın etkisini azalttığı için temizlik her zaman dezenfeksiyondan önce gelir.",
+    "Hangi ürünün kullanılacağına kurumun enfeksiyon kontrol birimi karar verir; odyolog bu protokolü uygular."
+   ]
+  },
+  {
+   "id": "parcalar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ekipman",
+   "baslik": "Kulağa giren *parçalar*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "köpük uç: tek kullanımlık",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "ses tüpü",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kulak yoluna giren parçalar, enfeksiyon kontrolünde en çok dikkat isteyen araçlardır.",
+    "İnsert kulaklıkların köpük uçları tek kullanımlıktır; her hastada yenisi takılır.",
+    "Timpanometri ve otoakustik emisyon problarının uçları da tek kullanımlıktır ya da üreticinin önerdiği yöntemle temizlenir.",
+    "Problarda uç takılı olan gövde de her hastadan sonra silinir; ucun içine serumen girdiyse prob kontrol edilir.",
+    "Otoskop spekulumu tek kullanımlıksa atılır; yeniden kullanılan spekulumlar kurum protokolüne göre işlenir.",
+    "Serumen ya da akıntı bulaşmış hiçbir parça, temizlenmeden bir sonraki hastada kullanılmaz."
+   ]
+  },
+  {
+   "id": "hangi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ekipman",
+   "baslik": "Hangi parça, *ne işlem?*",
+   "ogeler": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Köpük uç",
+     "metin": "Tek kullanımlık, at",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Prob ucu",
+     "metin": "Tek kullanımlık ya da işle",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kulaklık yastığı",
+     "metin": "Her hastadan sonra sil",
+     "cumle": 2
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik vibratörü",
+     "metin": "Her hastadan sonra sil",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Hasta butonu",
+     "metin": "Sık dokunulan yüzey",
+     "cumle": 4
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Spekulum",
+     "metin": "Tek kullanımlık ya da protokol",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İnsert köpük uçları tek kullanımlıktır ve hastadan sonra atılır.",
+    "Prob uçları tek kullanımlık değilse üreticinin talimatına uygun yöntemle temizlenir ve dezenfekte edilir.",
+    "Supra-aural kulaklık yastıkları her hastadan sonra uygun bir dezenfektanla silinir; yıpranmış yastık değiştirilir.",
+    "Kemik vibratörü ve bandı deriyle temas ettiği için her hastadan sonra silinir.",
+    "Hasta butonu ve koltuk kolları sık dokunulan yüzeylerdir ve çoğu zaman unutulur.",
+    "Otoskop spekulumları için kurumun tek kullanım ya da yeniden işleme kuralı izlenir."
+   ]
+  },
+  {
+   "id": "dezenfektan",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ekipman",
+   "baslik": "Dezenfektan *kullanımı*",
+   "maddeler": [
+    {
+     "metin": "Kurumun onayladığı ürün",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Etkili temas süresine uy",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Cihaz üreticisinin uyumu",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Ürünü doğrudan cihaza püskürtme",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Eldiven ve havalandırma",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 5,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Dezenfektan, kurumun enfeksiyon kontrol biriminin onayladığı ve etiketinde etkinliği belirtilen bir ürün olmalıdır.",
+    "Her ürünün etiketinde belirtilen bir temas süresi vardır; yüzey bu süre boyunca ıslak kalmazsa etki azalır.",
+    "Kulaklık, prob ve işitme cihazları için cihaz üreticisinin önerdiği ürünler kullanılır; bazı kimyasallar plastiği ve membranları bozar.",
+    "Sıvı ürün cihazın üzerine doğrudan püskürtülmez; önce beze ya da mendile uygulanır.",
+    "Ürünün güvenlik bilgisine göre eldiven giyilir ve oda havalandırılır.",
+    "Hastadan teslim alınan işitme cihazları da kontrol ve onarım öncesinde aynı kurallarla temizlenir."
+   ]
+  },
+  {
+   "id": "olcu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kulak ölçüsü",
+   "baslik": "Kulak ölçüsünde *güvenlik*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "kulak yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran",
+     "cumle": 1
+    },
+    {
+     "parca": "otoblok",
+     "metin": "tampon (otoblok)",
+     "cumle": 3
+    },
+    {
+     "parca": "isik",
+     "metin": "ışık kaynağı",
+     "cumle": 4
+    },
+    {
+     "parca": "olcu_maddesi",
+     "metin": "ölçü maddesi",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3,
+     "olcek": 2.1
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Kulak ölçüsü almak, kulak yoluna madde yerleştirilen ve dikkat isteyen bir işlemdir.",
+    "Önce otoskopiyle kulak yolu ve timpanik membran değerlendirilir; serumen, akıntı, perforasyon ya da yara aranır.",
+    "Perforasyon, aktif akıntı ya da yeni geçirilmiş kulak ameliyatı gibi durumlarda ölçü alınmadan önce hekim görüşü alınır.",
+    "Ölçü maddesinin timpanik membrana ulaşmasını önlemek için kulak yoluna uygun boyutta bir tampon yerleştirilir.",
+    "Tampon ışık kaynağıyla birlikte, kulak yolunun ikinci kıvrımının ötesine kadar dikkatle ilerletilir.",
+    "Madde sertleştikten sonra ölçü yavaşça çıkarılır ve otoskopi tekrarlanarak kulak yolunda madde kalmadığı kontrol edilir.",
+    "Mastoidektomi boşluğu gibi değişmiş anatomide ölçü daha fazla deneyim ister; gerekirse deneyimli bir meslektaşa danışılır."
+   ],
+   "ayar": {
+    "kanal_nesnesi": "otoblok",
+    "otoblok_cumle": 3,
+    "isik_cumle": 4,
+    "kivrim_cumle": 4,
+    "olcu_cumle": 5
+   }
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kulak ölçüsü",
+   "baslik": "Ölçü *adımları*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Önce bak",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tampon",
+     "metin": "Işıkla, ikinci kıvrım",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Madde",
+     "metin": "Yavaşça, havasız",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Bekle",
+     "metin": "Sertleşme süresi",
+     "cumle": 3
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Yeniden otoskopi",
+     "metin": "Kalıntı yok",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ölçü işlemi el hijyeni ve otoskopiyle başlar.",
+    "Tampon ışık altında, ipi dışarıda kalacak biçimde ve hastayı rahatsız etmeden yerleştirilir.",
+    "Ölçü maddesi kulak yolunun derininden dışarıya doğru, hava kabarcığı bırakmadan doldurulur.",
+    "Üreticinin belirttiği sertleşme süresi beklenir; bu sırada hasta konuşmaz ve çenesini oynatmaz.",
+    "Ölçü çıkarıldıktan sonra otoskopi tekrarlanır, sonuç ve varsa olağan dışı bir durum kayda geçirilir."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kulak ölçüsü",
+   "baslik": "Diğer *güvenlik* konuları",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Düşme riski",
+     "metin": "Vestibüler testlerde destek",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Alerji",
+     "metin": "Lateks ve ölçü maddesi",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Elektrik güvenliği",
+     "metin": "Kalibrasyon ve bakım",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Yüksek ses",
+     "metin": "Çıkış sınırı ve izlem",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Hasta kimliği",
+     "metin": "İki bilgiyle doğrula",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Vestibüler testlerde ve baş dönmesi olan hastalarda düşme riski vardır; hasta yürürken ve masadan inerken desteklenir.",
+    "Lateks ve bazı ölçü maddelerine alerji sorulur; alerji öyküsü olan hastada uygun malzeme seçilir.",
+    "Cihazların kalibrasyonu ve elektrik güvenliği kontrolleri düzenli yapılır; hasarlı kablo kullanılmaz.",
+    "Yüksek çıkışlı bir işitme cihazı ayarlanırken en yüksek çıkış düzeyi dikkatle sınırlanır ve hasta rahatsızlığı izlenir.",
+    "Her işlemden önce hasta kimliği iki ayrı bilgiyle doğrulanır; yanlış hastaya yapılan doğru bir işlem de bir güvenlik hatasıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kabinin içine ve dışına birer el ovma solüsyonu koyun ve her hastadan sonra silinecek yüzeyleri bir kontrol listesine yazın.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: kabinin hem içine hem de dışına birer alkol bazlı el ovma solüsyonu koyun.",
+    "Her hastadan sonra silinecek yüzeyleri kısa bir kontrol listesine yazın: kulaklıklar, vibratör, prob, hasta butonu ve koltuk kolları.",
+    "Listeyi kabinin duvarına asın; yoğun bir günde unutulan adım çoğu zaman hasta butonudur.",
+    "Yeni başlayan çalışanlara ve stajyerlere bu listeyi ilk gün gösterin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Standart önlemler her hastada",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "El hijyeninin beş anı",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Kulağa giren uçlar tek kullanımlık",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Ölçüden önce ve sonra otoskopi",
+     "cumle": 3,
+     "ikon": "otoskop"
+    }
+   ],
+   "cumleler": [
+    "Standart önlemler her hastaya aynı biçimde uygulanır; en etkili önlem el hijyenidir.",
+    "El hijyeni temastan önce, temiz işlemden önce, sıvı riskinden sonra, temastan ve çevreyle temastan sonra yapılır.",
+    "Kulak yoluna giren uçlar tek kullanımlıktır ya da üreticinin yöntemiyle işlenir; diğer yüzeyler her hastadan sonra silinir.",
+    "Kulak ölçüsünden önce ve sonra otoskopi yapılır; tampon timpanik membranı korur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangisi uygun değildir?",
+   "secenekler": [
+    "Her hastada yeni köpük uç",
+    "Eldivenle el hijyenini atlamak",
+    "Hasta butonunu silmek",
+    "Ölçü sonrası otoskopi"
+   ],
+   "dogru": 1,
+   "aciklama": "Eldiven _el hijyeninin yerine geçmez_; eldiven çıkarıldıktan sonra da el hijyeni yapılır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Aşağıdaki uygulamalardan hangisi enfeksiyon kontrolü açısından uygun değildir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: eldiven giydiği için el hijyenini atlamak.",
+    "Eldivenler delinebilir ve çıkarılırken eller kirlenebilir; bu yüzden eldivenden önce ve sonra el hijyeni yapılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: yenidoğan taramasından *kalan* bebek",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste pediatrik vakalara geçiyor ve yenidoğan işitme taramasından kalan bir bebeği inceliyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

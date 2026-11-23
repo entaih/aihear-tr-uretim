@@ -1,0 +1,115 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R009_Kulak_Zari_Kalinligi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #9",
+  "baslik": "Timpanik membran *0,1 mm*",
+  "alt": "Kulak zarı: ince ama üç tabakalı",
+  "cizim": "orta_kulak",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kulak zarı kaç milimetre kalınlığında? #shorts",
+  "aciklama": "Timpanik membran (kulak zarı) yaklaşık 8 ile 10 mm çapında, ama yalnız yaklaşık 0,1 mm kalınlığındadır. Buna rağmen dışta epitel, ortada lifli tabaka ve içte mukozadan oluşan üç tabakası vardır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "kulak",
+   "anatomi"
+  ],
+  "etiketler": [
+   "timpanik membran",
+   "kulak zarı",
+   "orta kulak",
+   "kulak anatomisi",
+   "pars tensa",
+   "odyoloji",
+   "işitme",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Timpanik membran, yani kulak zarı ne kadar ince?",
+  "bilgiler": [
+   "Timpanik membran (kulak zarı) yalnız yaklaşık 0,1 mm kalınlığındadır.",
+   "Çapı yaklaşık 8 ile 10 mm'dir.",
+   "Buna rağmen üç tabakadan oluşur: epitel, lifli tabaka ve mukoza."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "kulak",
+   "anatomi"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #9",
+   "metin": "Timpanik membran *ne kadar* ince?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Timpanik membran, yani kulak zarı ne kadar ince?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "*Timpanik membran* (kulak zarı) kalınlığı",
+   "sayi": "0,1",
+   "birim": "mm",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Kalınlığı yalnız yaklaşık sıfır virgül bir milimetredir.",
+    "Çapı ise yaklaşık sekiz ile on milimetredir."
+   ]
+  },
+  {
+   "id": "tabaka",
+   "tur": "zincir",
+   "baslik": "Üç *tabaka*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Dış",
+     "tr": "epitel",
+     "cumle": 1
+    },
+    {
+     "ad": "Orta",
+     "tr": "lifli",
+     "cumle": 1,
+     "gecikme": 0.8
+    },
+    {
+     "ad": "İç",
+     "tr": "mukoza",
+     "cumle": 1,
+     "gecikme": 1.6
+    }
+   ],
+   "cumleler": [
+    "Bu kadar ince olmasına rağmen üç tabakadan oluşur.",
+    "Dışta epitel, ortada lifli tabaka, içte mukoza bulunur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D018",
+ "kaynak_baslik": "Timpanik membran"
+}

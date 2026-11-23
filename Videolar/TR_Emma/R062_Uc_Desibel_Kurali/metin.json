@@ -1,0 +1,133 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R062_Uc_Desibel_Kurali_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #62",
+  "baslik": "3 dB: *süre yarıya*",
+  "alt": "Eşit enerji ilkesi ve gürültü dozu",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Ses yalnız üç desibel artarsa ne değişir? #shorts",
+  "aciklama": "Sekiz saatlik iş günü için 85 dB(A) önemli bir referans düzeydir. Eşit enerji ilkesine göre ses her 3 dB arttığında aynı dozu oluşturan süre yarıya iner: 88 dB(A) için yaklaşık 4 saat, 91 dB(A) için yaklaşık 2 saat.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "gürültü",
+   "işitmesağlığı"
+  ],
+  "etiketler": [
+   "gürültü dozu",
+   "eşit enerji ilkesi",
+   "85 dBA",
+   "3 dB kuralı",
+   "iş sağlığı",
+   "gürültüye bağlı işitme kaybı",
+   "işitme koruma",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Ses yalnız üç desibel artarsa ne değişir?",
+  "bilgiler": [
+   "8 saatlik iş günü için 85 dB(A) önemli bir referanstır.",
+   "Ses her 3 dB arttığında aynı dozu oluşturan süre yarıya iner.",
+   "88 dB(A) için yaklaşık 4, 91 dB(A) için yaklaşık 2 saat."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "gürültü",
+   "işitmesağlığı"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #62",
+   "metin": "Ses yalnız *üç desibel* artarsa?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Ses yalnız üç desibel artarsa ne değişir?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Her *3 dB* artışta süre yarıya",
+   "sayi": "3",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Sekiz saatlik iş günü için seksen beş desibel A önemli bir referanstır.",
+    "Eşit enerji ilkesine göre her üç desibelde süre yarıya iner.",
+    "Seksen sekiz desibel A için süre yaklaşık dört saate düşer.",
+    "Doksan bir desibel A için ise yaklaşık iki saate."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D140",
+ "kaynak_baslik": "Gürültü ve 4 kHz çentiği"
+}

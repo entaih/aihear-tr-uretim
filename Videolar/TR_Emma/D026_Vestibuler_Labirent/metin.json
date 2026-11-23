@@ -1,0 +1,998 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D026_Vestibuler_Labirent_TR",
+ "kapak": {
+  "ust": "DERS 26",
+  "baslik": "Vestibüler<br>*labirent*",
+  "alt": "Utrikül, sakkül ve yarım daire kanalları",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Vestibüler Labirent: Utrikül, Sakkül ve Yarım Daire Kanalları | Ders 26 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İç kulağın denge bölümü beş algılayıcı organdan oluşur. Bu derste utrikül ve sakkülün makülalarını, yarım daire kanallarındaki krista ve kupulayı, kanalların düzlemlerini ve eşlerini, vestibüler tüy hücrelerini, sinir bağlantılarını ve bu anatominin kalorik test, vHIT ve VEMP ile ilişkisini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; Baloh ve Honrubia, Clinical Neurophysiology of the Vestibular System; Gray's Anatomy; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vestibüler",
+   "denge"
+  ],
+  "etiketler": [
+   "vestibüler labirent",
+   "utrikül",
+   "sakkül",
+   "yarım daire kanalları",
+   "maküla",
+   "crista ampullaris",
+   "kupula",
+   "otokonya",
+   "vHIT",
+   "kalorik test",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 26",
+   "baslik": "Vestibüler *labirent*",
+   "alt": "Utrikül, sakkül ve yarım daire kanalları",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iç kulağın denge bölümünü, yani vestibüler labirenti inceleyeceğiz.",
+    "Utrikül ve sakkülün doğrusal hareketi, yarım daire kanallarının ise dönmeyi nasıl algıladığını öğreneceğiz."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Genel yapı",
+   "baslik": "Beş *denge organı*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utriculus (utrikül)",
+     "cumle": 2
+    },
+    {
+     "parca": "sakkul",
+     "metin": "Sacculus (sakkül)",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Canales semicirculares (yarım daire kanalları)",
+     "cumle": 3
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampulla",
+     "cumle": 4
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Vestibüler sinir",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 2
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 3
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 4
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Vestibüler labirent, her iç kulakta beş ayrı algılayıcı organ içerir.",
+    "Bunlardan ikisi vestibüldeki keseler, üçü ise yarım daire kanallarıdır.",
+    {
+     "yazi": "Keselerin adları utriculus, yani utrikül ve sacculus, yani sakküldür.",
+     "ses": "Keselerin adları utrikulus, yani utrikül ve sakkulus, yani sakküldür."
+    },
+    {
+     "yazi": "Üç kanalın ortak adı canales semicirculares, yani yarım daire kanallarıdır.",
+     "ses": "Üç kanalın ortak adı kanales semisirkulares, yani yarım daire kanallarıdır."
+    },
+    "Her kanalın vestibüle açılan bir ucunda ampulla adı verilen genişlemiş bir bölüm bulunur.",
+    "Bütün bu organlar endolenfle doludur ve vestibüler sinir aracılığıyla beyin sapına bilgi gönderir.",
+    "Utrikül ve sakkül doğrusal hareketi ve yer çekimini, kanallar ise başın dönme hareketlerini algılar."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ampulla",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "iki_grup",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Genel yapı",
+   "baslik": "Otolit organları ve *kanallar*",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Utrikül ve sakkül: _maküla_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Doğrusal_ hareket ve baş eğimi",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Otokonya ile _ağır_ zar",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Kanallar: _krista_, dönme hareketi",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Kupula: yer çekiminden _etkilenmez_",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "makula",
+      "cumle": 1
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 1
+     },
+     {
+      "parca": "sakkul",
+      "cumle": 1
+     },
+     {
+      "parca": "krista",
+      "cumle": 4
+     },
+     {
+      "parca": "ampulla",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "makula",
+      "metin": "Maküla",
+      "cumle": 1
+     },
+     {
+      "parca": "krista",
+      "metin": "Krista",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Vestibüler organlar iki gruba ayrılır ve her grubun algılayıcısı farklıdır.",
+    "Utrikül ve sakküldeki algılayıcı alana maküla denir; bu iki organa otolit organları da denir.",
+    "Makülalar doğrusal hızlanmayı, örneğin asansörün hareketini, ve başın yer çekimine göre eğimini algılar.",
+    "Makülanın üzerindeki jelatinimsi zar, otokonya, yani kulak taşları adı verilen küçük kristallerle ağırlaştırılmıştır.",
+    {
+     "yazi": "Kanallardaki algılayıcı ise ampulla içindeki crista ampullaris, yani ampulla kristasıdır.",
+     "ses": "Kanallardaki algılayıcı ise ampulla içindeki krista ampullaris, yani ampulla kristasıdır."
+    },
+    "Kristalar başın dönme hareketlerini, yani açısal hızlanmayı algılar.",
+    "Kristanın üzerindeki kupula kristal içermez ve endolenfle aynı yoğunluktadır; bu yüzden yer çekiminden etkilenmez."
+   ]
+  },
+  {
+   "id": "makula",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Otolit organları",
+   "baslik": "*Maküla*: yapısı",
+   "cizim": "makula_kesit",
+   "vurgula": [
+    {
+     "parca": "tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "stereosiller",
+     "cumle": 1
+    },
+    {
+     "parca": "otokonya",
+     "cumle": 2
+    },
+    {
+     "parca": "kayma",
+     "cumle": 3
+    },
+    {
+     "parca": "striola",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tüy hücreleri ve _destek hücreleri_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Jelatinimsi zar ve _otokonya_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Striola: yön _tersine döner_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Maküla, tüy hücreleri ve destek hücrelerinden oluşan küçük bir algılayıcı alandır.",
+    "Tüy hücrelerinin tepesindeki tüyler, üstteki jelatinimsi zara gömülüdür.",
+    "Bu zarın üzerinde kalsiyum karbonattan oluşan otokonya kristalleri bulunur; kristaller zarı çevresinden daha ağır yapar.",
+    "Baş eğildiğinde ya da doğrusal hızlandığında ağır zar geride kalır ya da kayar ve tüyleri büker.",
+    "Makülanın ortasındaki striola adı verilen çizgide tüy hücrelerinin yönü tersine döner; böylece her yöndeki hareket algılanabilir.",
+    "Kopan otokonyanın bir kanala kaçması, benign paroksismal pozisyonel vertigo, kısaca BPPV'nin temel nedenidir."
+   ],
+   "etiketler": [
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Tüy hücreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "destek_hucreleri",
+     "metin": "Destek hücreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "jelatinimsi_tabaka",
+     "metin": "Jelatinimsi zar",
+     "cumle": 1
+    },
+    {
+     "parca": "otokonya",
+     "metin": "Otokonya",
+     "cumle": 2
+    },
+    {
+     "parca": "striola",
+     "metin": "Striola",
+     "cumle": 4
+    }
+   ],
+   "ayar": {
+    "egim": 0.8,
+    "egim_cumle": 3
+   }
+  },
+  {
+   "id": "utrikul_sakkul",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Otolit organları",
+   "baslik": "Utrikül ve *sakkül*",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Utrikül makülası _yatay_, sakkülünki _dikey_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Utrikül: öne arkaya, yana hareket, _eğim_",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Sakkül: _yukarı aşağı_ hareket",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Sinir: utrikül _üst_, sakkül _alt_ dal",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Test: utrikül _oVEMP_, sakkül _cVEMP_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "vestibul",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    "vurgula": [
+     {
+      "parca": "utrikul",
+      "cumle": 1
+     },
+     {
+      "parca": "sakkul",
+      "cumle": 1
+     },
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "utrikul",
+      "metin": "Utrikül",
+      "cumle": 1
+     },
+     {
+      "parca": "sakkul",
+      "metin": "Sakkül",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Utrikül ve sakkül, makülalarının yönü bakımından birbirini tamamlar.",
+    "Baş dikken utrikül makülası yaklaşık yatay, sakkül makülası ise yaklaşık dikey durur.",
+    "Bu yüzden utrikül daha çok öne arkaya ve yana doğru hareketleri ve baş eğimini, sakkül ise yukarı aşağı hareketleri algılar.",
+    "Utrikül üst vestibüler sinirle, sakkül ise büyük ölçüde alt vestibüler sinirle bağlantılıdır.",
+    "Klinikte vestibüler uyarılmış miyojenik potansiyel, kısaca VEMP kullanılır: sakkül için servikal, utrikül için oküler VEMP."
+   ]
+  },
+  {
+   "id": "krista",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yarım daire kanalları",
+   "baslik": "*Krista* ve kupula",
+   "cizim": "ampulla_kesit",
+   "etiketler": [
+    {
+     "parca": "krista",
+     "metin": "Crista ampullaris",
+     "cumle": 0
+    },
+    {
+     "parca": "kupula",
+     "metin": "Kupula",
+     "cumle": 1
+    },
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Tüy hücreleri",
+     "cumle": 1,
+     "yer": "alt"
+    },
+    {
+     "parca": "akim",
+     "metin": "Endolenf akışı",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "krista",
+     "cumle": 0
+    },
+    {
+     "parca": "kupula",
+     "cumle": 1
+    },
+    {
+     "parca": "akim",
+     "cumle": 2
+    },
+    {
+     "parca": "stereosiller",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kupula: _kapı_ gibi",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Endolenf akışı kupulayı _büker_",
+     "cumle": 3,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Sabit dönmede _uyum_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Her ampullanın içinde kanalın eksenine dik duran bir kabartı vardır; buna krista denir.",
+    "Kristadaki tüy hücrelerinin tüyleri, ampullayı bir kapı gibi kapatan jelatinimsi kupulaya gömülüdür.",
+    "Baş döndüğünde kemik kanal başla birlikte hareket eder, ancak içindeki endolenf eylemsizlik nedeniyle geride kalır.",
+    "Bu göreli akış kupulayı bir yana büker ve tüy hücrelerini uyarır ya da baskılar.",
+    "Dönme sabit hızla sürerse sıvı kanalla birlikte dönmeye başlar ve kupula birkaç saniye içinde eski konumuna döner.",
+    "Bu yüzden kanallar sabit hızı değil, dönmenin başlangıcını ve bitişini, yani hız değişimini algılar."
+   ],
+   "ayar": {
+    "sapma": 0.8,
+    "sapma_cumle": 3,
+    "geri_cumle": 4,
+    "akim": true
+   }
+  },
+  {
+   "id": "akis_yonu",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yarım daire kanalları",
+   "baslik": "Akış *yönü* ve uyarılma",
+   "maddeler": [
+    {
+     "metin": "Lateral kanal: ampullaya doğru akış _uyarır_",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Dikey kanallar: ampulladan uzağa akış _uyarır_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Sağa dönüş: _sağ_ lateral kanal uyarılır",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Gözler _ters yöne_ döner",
+     "cumle": 4,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "ampulla",
+      "cumle": 1
+     },
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "superior_kanal",
+      "cumle": 2
+     },
+     {
+      "parca": "posterior_kanal",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "Lateral kanal",
+      "cumle": 1,
+      "yer": "sol"
+     },
+     {
+      "parca": "superior_kanal",
+      "metin": "Ön kanal",
+      "cumle": 2
+     },
+     {
+      "parca": "posterior_kanal",
+      "metin": "Arka kanal",
+      "cumle": 2,
+      "yer": "sol"
+     }
+    ]
+   },
+   "cumleler": [
+    "Kupulanın hangi yöne büküldüğü, tüy hücrelerinin uyarılıp uyarılmadığını belirler.",
+    "Lateral kanalda endolenfin ampullaya doğru akması tüy hücrelerini uyarır.",
+    "Ön ve arka kanallarda ise tam tersine, ampulladan uzaklaşan akış uyarıcıdır.",
+    "Örneğin baş sağa döndüğünde sağ lateral kanal uyarılır, sol lateral kanal baskılanır.",
+    "Beyin bu farkı kullanarak gözleri başın ters yönüne çevirir ve bakışı sabit tutar.",
+    "Bu refleks vestibülo-oküler refleks (vestibulo-ocular reflex), kısaca VOR olarak adlandırılır."
+   ]
+  },
+  {
+   "id": "duzlemler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yarım daire kanalları",
+   "baslik": "Kanalların *düzlemleri*",
+   "cizim": "kanal_duzlemleri",
+   "vurgula": [
+    {
+     "parca": "bas",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_cift",
+     "cumle": 3
+    },
+    {
+     "parca": "larp",
+     "cumle": 4
+    },
+    {
+     "parca": "ralp",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lateral kanal: önü yaklaşık _30 derece_ yukarıda",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Eşler: lateral, _LARP_, RALP",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_İtme ve çekme_ düzeni",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Üç kanal, birbirine yaklaşık dik üç düzlemde yer alır.",
+    "Bunlar ön, arka ve lateral kanallardır; ön kanala üst kanal, lateral kanala ise yatay kanal da denir.",
+    "Baş dik dururken lateral kanal tam yatay değildir; önü yaklaşık otuz derece yukarı kalkıktır.",
+    "İki kulağın kanalları eşler halinde çalışır; iki lateral kanal aynı düzlemdedir.",
+    "Sol ön ile sağ arka kanal bir eş oluşturur ve LARP olarak anılır; sağ ön ile sol arka kanal ise RALP eşidir.",
+    "Bir eşteki kanallardan biri uyarılırken diğeri baskılanır; bu itme ve çekme düzeni, beynin hareketin yönünü anlamasını sağlar."
+   ],
+   "etiketler": [
+    {
+     "parca": "sag_on_kanal",
+     "metin": "Ön (üst) kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "sag_arka_kanal",
+     "metin": "Arka kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_cift",
+     "metin": "Lateral çift",
+     "cumle": 3
+    },
+    {
+     "parca": "larp",
+     "metin": "LARP",
+     "cumle": 4
+    },
+    {
+     "parca": "ralp",
+     "metin": "RALP",
+     "cumle": 4
+    }
+   ],
+   "ayar": {
+    "cift_cumleleri": {
+     "lateral": 3,
+     "larp": 4,
+     "ralp": 4
+    }
+   }
+  },
+  {
+   "id": "testler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yarım daire kanalları",
+   "baslik": "Kanallar ve *klinik testler*",
+   "maddeler": [
+    {
+     "metin": "Kalorik test: _lateral kanal_, yavaş hareket",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "vHIT: _altı kanal_, hızlı hareket",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "İki test birbirini _tamamlar_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "VEMP: _utrikül ve sakkül_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 2
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 4
+     },
+     {
+      "parca": "sakkul",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Kalorik testte kulak yoluna sıcak ya da soğuk uyaran verilir ve lateral kanaldaki endolenf ısı farkıyla hareket ettirilir.",
+    "Test sırasında hasta sırtüstü yatarken başı yaklaşık otuz derece kaldırılarak lateral kanal dikey konuma getirilir.",
+    "Video baş itme testi, kısaca vHIT ise hızlı baş hareketleriyle altı kanalın her birini ayrı ayrı değerlendirebilir.",
+    "Kalorik test yavaş, vHIT ise hızlı hareketlere verilen yanıtı ölçer; bu yüzden iki test birbirinin yerine geçmez.",
+    "Utrikül ve sakkül ise VEMP testleriyle değerlendirilir.",
+    "Türkiye'de vestibüler laboratuvarlarda kalorik test uzun süredir yaygındır; vHIT kullanımı da giderek artmaktadır."
+   ]
+  },
+  {
+   "id": "tuy_hucreleri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tüy hücreleri ve sinir",
+   "baslik": "Vestibüler *tüy hücreleri*",
+   "cizim": "vestibuler_tuy_hucresi",
+   "vurgula": [
+    {
+     "parca": "tuy_demeti",
+     "cumle": 1
+    },
+    {
+     "parca": "kinosilyum",
+     "cumle": 2
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 3
+    },
+    {
+     "parca": "tip_1",
+     "cumle": 4
+    },
+    {
+     "parca": "tip_2",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Stereosiller ve _tek kinosilyum_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kinosilyuma doğru: _uyarılma_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Tip I ve tip II hücreler",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Vestibüler tüy hücrelerinin tepesinde, boyları sırayla uzayan stereosiller ve en uzun tarafta tek bir kinosilyum bulunur.",
+    "Bu düzen her hücreye belirli bir yön kazandırır.",
+    "Tüyler kinosilyuma doğru büküldüğünde hücre uyarılır, ters yöne büküldüğünde ise baskılanır.",
+    "Dinlenme halinde bile sinir lifleri sürekli belirli bir hızda ateşlenir; hareket bu hızı artırır ya da azaltır.",
+    {
+     "yazi": "Vestibüler epitelde şişe biçimli tip I ve silindir biçimli tip II olmak üzere iki tür tüy hücresi vardır.",
+     "ses": "Vestibüler epitelde şişe biçimli tip bir ve silindir biçimli tip iki olmak üzere iki tür tüy hücresi vardır."
+    },
+    "İki taraftan gelen dinlenme ateşlemeleri normalde dengededir; bir taraf aniden zayıflarsa baş dönmesi ve nistagmus ortaya çıkar."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "tuy_demeti",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "stereosiller",
+     "metin": "Stereosiller",
+     "cumle": 0
+    },
+    {
+     "parca": "kinosilyum",
+     "metin": "Kinosilyum",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Sinir lifleri",
+     "cumle": 3
+    },
+    {
+     "parca": "tip_1",
+     "metin": "Tip I (şişe)",
+     "cumle": 4
+    },
+    {
+     "parca": "tip_2",
+     "metin": "Tip II (silindir)",
+     "cumle": 4,
+     "yer": "sag"
+    }
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tüy hücreleri ve sinir",
+   "baslik": "*Vestibüler sinir* bağlantıları",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Vestibüler sinir",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Üst dal: ön ve lateral kanal, _utrikül_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Alt dal: arka kanal, _sakkül_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Hücre gövdeleri: _Scarpa ganglionu_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Vestibüler organlardan gelen lifler vestibüler siniri oluşturur.",
+    "Üst vestibüler sinir ön ve lateral kanallardan ve utrikülden gelen lifleri taşır.",
+    "Alt vestibüler sinir ise arka kanaldan ve sakkülün büyük bölümünden gelen lifleri taşır.",
+    {
+     "yazi": "Sinir hücrelerinin gövdeleri iç kulak yolundaki vestibüler ganglionda, yani Scarpa ganglionunda bulunur.",
+     "ses": "Sinir hücrelerinin gövdeleri iç kulak yolundaki vestibüler ganglionda, yani Skarpa ganglionunda bulunur."
+    },
+    "Bu ayrım klinikte önemlidir; çünkü bazı hastalıklar sinirin yalnız bir dalını etkileyebilir.",
+    "Sinirin ayrıntılı yolunu bir sonraki derste, sekizinci kafa siniriyle birlikte inceleyeceğiz."
+   ]
+  },
+  {
+   "id": "bppv",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tüy hücreleri ve sinir",
+   "baslik": "Klinik bağlantı: *BPPV*",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Otokonya _utrikülden_ kopar",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Çoğunlukla _arka kanal_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Baş konumuyla _kısa_ baş dönmesi",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "Vestibüler anatominin en sık karşılaşılan klinik karşılığı BPPV'dir.",
+    "Bu durumda utrikülden kopan otokonya kristalleri yarım daire kanallarından birine girer.",
+    "Arka kanal, ayakta dururken ve yatarken en alçakta kalan kanal olduğu için en sık etkilenen kanaldır.",
+    "Baş belirli bir konuma getirildiğinde kristaller kanal içinde hareket eder ve kısa süreli bir baş dönmesi başlatır.",
+    "Pozisyonel testleri vestibüler değerlendirme derslerinde ayrıntılı göreceğiz."
+   ],
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utrikül",
+     "cumle": 1
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "Arka kanal",
+     "cumle": 2,
+     "yer": "sol"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "utrikul",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 2
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tüy hücreleri ve sinir",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kalorik testte hasta sırtüstü yatarken başı yaklaşık 30 derece kaldırın; böylece lateral kanal dikey konuma gelir. Yanlış baş konumu yanıtları küçültebilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: kalorik testte baş konumu, kanal anatomisini doğrudan ilgilendirir.",
+    "Hasta sırtüstü yatarken başı yaklaşık otuz derece kaldırıldığında lateral kanal dikey konuma gelir.",
+    "Bu konumda sıcaklık farkı endolenfi en etkili biçimde hareket ettirir.",
+    "Baş düz ya da yana dönük kalırsa yanıtlar küçülebilir ve iki taraf yanlışlıkla farklı görünebilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Beş organ: _utrikül_, sakkül, üç kanal",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Maküla: _doğrusal_ hareket ve eğim",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Krista ve kupula: _dönme_",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Kanallar _eşler_ halinde çalışır",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Her vestibüler labirentte utrikül, sakkül ve üç yarım daire kanalı olmak üzere beş algılayıcı organ bulunur.",
+    "Utrikül ve sakkülün makülaları, otokonya yüklü zarları sayesinde doğrusal hareketi ve baş eğimini algılar.",
+    "Kanallardaki krista ve kupula, başın dönme hareketlerini algılar.",
+    "İki kulağın kanalları aynı düzlemdeki eşler halinde, itme ve çekme düzeninde çalışır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Baş eğimini hangi algılayıcı yapı algılar?",
+   "secenekler": [
+    "Kupula",
+    "Maküla",
+    "Ampulla",
+    "Koklear kanal"
+   ],
+   "dogru": 1,
+   "aciklama": "_Maküla_ otokonya ile ağırlaşmış bir zar taşır; bu yüzden yer çekimine ve doğrusal harekete duyarlıdır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Başın yer çekimine göre eğimini hangi algılayıcı yapı algılar?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: maküla.",
+     "ses": "Doğru cevap be: maküla."
+    },
+    "Kupula endolenfle aynı yoğunlukta olduğu için yer çekiminden etkilenmez; otokonya taşıyan maküla ise etkilenir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "VIII. kafa siniri: *vestibulokoklear* sinir",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste koklea ve vestibüler organlardan gelen lifleri taşıyan sekizinci kafa sinirini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,870 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D033_Kemik_Yolu_Isitme_TR",
+ "kapak": {
+  "ust": "DERS 33",
+  "baslik": "*Kemik yolu*<br>ile işitme",
+  "alt": "Üç bileşen ve oklüzyon etkisi",
+  "cizim": "diyapazon",
+  "ayar": {
+   "test": "rinne"
+  }
+ },
+ "youtube": {
+  "baslik": "Kemik Yolu ile İşitme Nasıl Gerçekleşir? | Ders 33 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kafatasının titreşimi kokleaya nasıl ulaşır? Bu derste kemik yolunun kompresyonel, ataletsel ve osseotimpanik bileşenlerini, kemik yolunun kokleayı neden büyük ölçüde doğrudan yansıttığını, Carhart çentiğini ve oklüzyon etkisinin klinik önemini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Tonndorf J, Bone conduction: studies in experimental animals (Acta Oto-Laryngologica, Suppl. 213, 1966); Stenfelt S ve Goode RL, Bone-conducted sound: physiological and clinical aspects (Otology and Neurotology, 2005); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kemikyolu",
+   "işitme"
+  ],
+  "etiketler": [
+   "kemik yolu",
+   "bone conduction",
+   "ataletsel kemik yolu",
+   "inertial bone conduction",
+   "oklüzyon etkisi",
+   "occlusion effect",
+   "Carhart çentiği",
+   "hava-kemik aralığı",
+   "işitme fizyolojisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 33",
+   "baslik": "*Kemik yolu* ile işitme",
+   "alt": "Kompresyonel, ataletsel ve osseotimpanik bileşenler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste sesin kafatasının titreşimiyle kokleaya nasıl ulaştığını, yani kemik yolu ile işitmeyi öğreneceğiz.",
+    "Üç temel bileşeni, kemik yolunun kokleayı neden büyük ölçüde doğrudan yansıttığını ve oklüzyon etkisini göreceğiz."
+   ]
+  },
+  {
+   "id": "iki_yol",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İki yol, tek hedef",
+   "baslik": "Hava yolu ve *kemik yolu*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "dış kulak yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran (kulak zarı)",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "metin": "kemikçikler",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "temporal kemik: kafatası titreşimi",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "koklea",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "temporal_kemik",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hava yolu: _dış ve orta_ kulak",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kemik yolu: _kafatası_ titreşimi",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Ortak hedef: _koklea_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "genel",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 5,
+     "olcek": 2.2
+    }
+   ],
+   "cumleler": [
+    "Günlük yaşamda sesi çoğunlukla hava yoluyla (air conduction) duyarız.",
+    "Ses dış kulak yolundan geçer, timpanik membranı, yani kulak zarını titreştirir ve kemikçikler titreşimi kokleaya taşır.",
+    "Kafatası titreştiğinde ise ses kokleaya kemik yoluyla (bone conduction) da ulaşabilir.",
+    "Kendi sesimizi duyarken kemik yolu her an devrededir; kafatası pes sesleri iyi ilettiği için sesimizi daha dolgun algılarız.",
+    "Kayıttaki sesimizi ise yalnız hava yoluyla duyarız; bu yüzden kayıt bize yabancı ve daha ince gelir.",
+    "İki yolun da hedefi aynıdır: koklea içinde baziler membranı titreştirmek."
+   ]
+  },
+  {
+   "id": "uc_bilesen",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Üç bileşen",
+   "baslik": "Kemik yolunun *üç bileşeni*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kompresyonel",
+     "metin": "İç kulak: kapsül sıkışır, sıvı kayar",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Ataletsel",
+     "metin": "Kemikçikler ve sıvı geride kalır",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Osseotimpanik",
+     "metin": "Kulak yolu duvarı ses yayar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Klasik olarak üç bileşen tanımlanır: kompresyonel, ataletsel ve osseotimpanik bileşenler.",
+    "Kompresyonel bileşen iç kulakta, koklea kapsülünün sıkışıp genişlemesiyle oluşur.",
+    "Ataletsel bileşen, kemikçiklerin ve koklea sıvılarının kafatasının hareketinin gerisinde kalmasıyla oluşur.",
+    "Osseotimpanik bileşen ise dış kulak yolu duvarlarının titreşip yolun içine ses yaymasıdır.",
+    "Güncel çalışmalar, beyin omurilik sıvısı yoluyla basınç iletimi gibi ek yolların da küçük bir katkısı olduğunu gösteriyor."
+   ]
+  },
+  {
+   "id": "kompresyonel",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Üç bileşen",
+   "baslik": "*Kompresyonel* bileşen",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "oval pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "yuvarlak pencere: daha esnek",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kapsül _sıkışır_ ve genişler",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sıvı esnek pencereye _kayar_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tiz frekanslarda _daha önemli_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kafatası titreştiğinde koklea kapsülü, yani kokleayı saran kemik, art arda çok hafifçe sıkışır ve genişler.",
+    "Koklea sıvıları sıkıştırılamaz; bu yüzden sıkışan kapsül sıvıyı pencerelere doğru iter.",
+    "Yuvarlak pencere oval pencereden daha esnektir ve scala vestibuli tarafındaki sıvı hacmi daha büyüktür.",
+    "Bu asimetri sıvının bir yöne kaymasına ve baziler membranın hareket etmesine yol açar.",
+    "Kompresyonel bileşen özellikle tiz frekanslarda, kafatası bölümler halinde titreştiğinde önem kazanır."
+   ]
+  },
+  {
+   "id": "ataletsel",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Üç bileşen",
+   "baslik": "*Ataletsel* bileşen",
+   "cizim": "orta_kulak",
+   "etiketler": [
+    {
+     "parca": "malleus",
+     "metin": "malleus (çekiç)",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "metin": "incus (örs)",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "metin": "stapes (üzengi)",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "oval pencere",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "malleus",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kemikçikler _geride_ kalır",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Stapes ile pencere arasında _göreli_ hareket",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Yaklaşık _2000 Hz_ civarında belirgin",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kafatası bir bütün olarak ileri geri hareket ettiğinde, gevşek asılı duran kemikçikler bu harekete hemen uymaz.",
+    "Malleus, yani çekiç, ve incus, yani örs, kütleleri nedeniyle kafatasının gerisinde kalır; buna eylemsizlik ya da atalet denir.",
+    "Böylece stapes, yani üzengi, ile oval pencere arasında göreli bir hareket oluşur ve sıvı hava yolundaki gibi itilir.",
+    "Ataletsel bileşen pes ve orta frekanslarda belirgindir; kemikçik zincirinin rezonansı nedeniyle iki bin hertz civarında özellikle önemlidir.",
+    "Bu ayrıntı, birazdan göreceğimiz Carhart çentiğini açıklar."
+   ]
+  },
+  {
+   "id": "osseotimpanik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Üç bileşen",
+   "baslik": "*Osseotimpanik* bileşen",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "dış kulak yolu duvarı",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yol duvarları ses _yayar_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Açık yolda ses _dışarı kaçar_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Kapatılınca _güçlenir_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kafatası titreştiğinde dış kulak yolunun duvarları, özellikle dıştaki kıkırdak bölümü de titreşir ve yolun içine ses yayar.",
+    "Bu ses timpanik membrana ulaşır ve hava yolunun normal yolunu izleyerek kokleaya gider.",
+    "Kulak yolu açıkken bu sesin, özellikle pes kısmının, büyük bölümü dışarı kaçar ve katkısı küçüktür.",
+    "Kulak yolu kapatıldığında ise ses içeride kalır; oklüzyon etkisi olarak göreceğimiz artış buradan doğar.",
+    "Osseotimpanik adı da buradan gelir: osseo kemiği, timpanik ise kulak zarını anlatır."
+   ]
+  },
+  {
+   "id": "ortak_yol",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kokleanın aynası",
+   "baslik": "Sonuç: aynı *yürüyen dalga*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hava ve kemik yolu: _aynı_ dalga",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İki ton birbirini _söndürebilir_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Kemik yolu eşiği: _koklea_ duyarlılığı",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "aynı yürüyen dalga",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Hangi bileşenle başlarsa başlasın, kemik yolu da kokleada hava yoluyla aynı yürüyen dalgayı oluşturur.",
+    "Bunu gösteren klasik bir deneyde, aynı frekansta bir hava yolu tonu ile bir kemik yolu tonu birlikte verildi.",
+    "İki tonun şiddeti ve fazı uygun ayarlandığında tonlar birbirini söndürdü ve kişi sesi duymadı.",
+    "Bu sonuç, iki yolun kokleada aynı uyarıya dönüştüğünü gösterir.",
+    "Kemik yolu dış ve orta kulağı büyük ölçüde atladığı için, kemik yolu eşikleri kokleanın duyarlılığını yansıtır."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kokleanın aynası",
+   "baslik": "Hava-kemik *aralığı*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: 35 ile 45 dB HL",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       35,
+       35,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulağın hava yolu eşikleri otuz beş ile kırk beş desibel arasında.",
+    "Kemik yolu eşikleri ise normal sınırlarda; yani koklea normal çalışıyor.",
+    "Ses hava yoluyla kokleaya iyi iletilemiyor; aradaki farka hava-kemik aralığı (air-bone gap) denir.",
+    "Hava ve kemik yolu eşiklerini karşılaştırmak, iletim tipi ve sensörinöral kaybı ayırt etmenin temelidir."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kokleanın aynası",
+   "baslik": "Her zaman saf değil: *Carhart çentiği*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: iletim tipi kayıp",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Maskeli kemik yolu_: 2000 Hz'de düşüş",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       45,
+       45,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Ancak kemik yolu orta kulaktan tamamen bağımsız değildir.",
+    "Bu örnekte stapesin sabitlendiği bir kulakta, kemik yolu eşiği iki bin hertz civarında belirgin biçimde düşüyor.",
+    "Stapes hareket edemediği için ataletsel bileşen kaybolur ve kemik yolu eşiği yapay olarak kötüleşir.",
+    "Bu düşüşe Carhart çentiği (Carhart notch) denir; ortalama yaklaşık on beş desibelle en belirgin olduğu yer iki bin hertzdir.",
+    "Başarılı bir cerrahiden sonra çentiğin çoğu zaman düzelmesi, bunun mekanik bir etki olduğunu gösterir."
+   ]
+  },
+  {
+   "id": "iki_koklea",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kokleanın aynası",
+   "baslik": "Titreşim *iki kokleaya* ulaşır",
+   "maddeler": [
+    {
+     "metin": "Vibratör: _mastoid_ ya da alın",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "İki yerleşimin de _avantajı_ var",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kulaklar arası zayıflama: _yaklaşık 0 dB_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Maskesiz eşik: _daha iyi_ koklea",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kulağa özgü eşik için _maskeleme_",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "kemik_vibratoru",
+      "metin": "kemik vibratörü",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Klinikte kemik yolu, mastoid kemiğe ya da alına yerleştirilen bir kemik vibratörüyle test edilir.",
+    "Mastoid yerleşimi daha yüksek çıkış sağlar ve klinikte daha yaygın kullanılır; alın yerleşimi ise daha tekrarlanabilir sonuç verir.",
+    "Kafatası titreşimi her yöne yayıldığı için, vibratör hangi tarafa konursa konsun iki koklea da neredeyse aynı düzeyde uyarılır.",
+    "Kemik yolunda kulaklar arası zayıflama (interaural attenuation) çok küçüktür ve genellikle sıfır desibel kabul edilir.",
+    "Bu yüzden maskesiz kemik yolu eşiği, vibratörün tarafından bağımsız olarak daha iyi duyan kokleayı yansıtır.",
+    "Kulağa özgü bir kemik yolu eşiği için çoğu zaman karşı kulağa maskeleme gerekir."
+   ]
+  },
+  {
+   "id": "okluzyon",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Oklüzyon etkisi",
+   "baslik": "*Oklüzyon* etkisi",
+   "cizim": "diyapazon",
+   "ayar": {
+    "test": "bing"
+   },
+   "vurgula": [
+    {
+     "parca": "mastoid",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kapanan yol _pes_ sesleri güçlendirir",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "2000 Hz ve üstünde _ihmal edilebilir_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İletim kaybında _yok_ ya da az",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "mastoid",
+     "metin": "mastoid",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak",
+     "metin": "kapatılan kulak yolu",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Diyapazonun sapını mastoide dayayıp sesi dinlerken kulak yolunuzu parmağınızla kapatırsanız ses birden güçlenir.",
+    "Kulak yolu kapatıldığında kemik yoluyla duyulan pes seslerin daha yüksek algılanmasına oklüzyon etkisi (occlusion effect) denir.",
+    "Nedeni, osseotimpanik bileşenle kulak yoluna yayılan pes enerjinin artık dışarı kaçamaması ve timpanik membrana yönelmesidir.",
+    "Etki iki yüz elli ile bin hertz arasında belirgindir; iki bin hertz ve üstünde ihmal edilebilir düzeydedir.",
+    "İletim tipi kaybı olan kulakta etki genellikle görülmez ya da çok azdır, çünkü kulak yolundaki sesin iletimi zaten bozuktur.",
+    "Bing testi, diyapazonla bu etkiyi sınayan basit bir testtir."
+   ]
+  },
+  {
+   "id": "okluzyon_buyukluk",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Oklüzyon etkisi",
+   "baslik": "Oklüzyon etkisinin *büyüklüğü*",
+   "sutunlar": [
+    "Frekans",
+    "Supra-aural kulaklık",
+    "Derin insert"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "Yaklaşık 30 dB",
+      "Yaklaşık 10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "Yaklaşık 20 dB",
+      "Yaklaşık 0 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "Yaklaşık 10 dB",
+      "Yaklaşık 0 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz ve üstü",
+      "Yaklaşık 0 dB",
+      "Yaklaşık 0 dB"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Oklüzyon etkisinin büyüklüğü, kulağı kapatan kulaklığın türüne ve ne kadar derine yerleştirildiğine bağlıdır.",
+    "Supra-aural kulaklıkla iki yüz elli hertzde ortalama yaklaşık otuz desibele varan bir artış olabilir.",
+    "Etki frekans yükseldikçe azalır: beş yüz hertzde yaklaşık yirmi, bin hertzde yaklaşık on desibel.",
+    "Derin yerleştirilen insert kulaklık, ses yayan kıkırdak bölümü kapalı alanın dışında bıraktığı için etkiyi belirgin biçimde azaltır.",
+    "Değerler kişiden kişiye değiştiği için kimi klinikler ortalama değerleri kullanır, kimi ise etkiyi kulak açık ve kapalıyken ölçer."
+   ]
+  },
+  {
+   "id": "okluzyon_klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Oklüzyon etkisi",
+   "baslik": "Oklüzyon etkisi *klinikte*",
+   "maddeler": [
+    {
+     "metin": "Maskelemede _düzeltme_ eklenir",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Karşı kulakta iletim kaybı: _eklenmez_",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Cihazda _kendi ses_ şikayeti",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Azaltma: _vent_ ve açık uygulama",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "ITE"
+    },
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 3
+     }
+    ],
+    "cumle": 3
+   },
+   "cumleler": [
+    "Kemik yolu maskelemesinde karşı kulak kulaklıkla kapatıldığı için o kulakta oklüzyon etkisi oluşur.",
+    "Bu nedenle pes frekanslarda maskeleme gürültüsünün başlangıç düzeyine oklüzyon etkisi kadar bir düzeltme eklenir.",
+    "Karşı kulakta iletim tipi kayıp varsa etki oluşmadığı için bu düzeltme eklenmez.",
+    "İşitme cihazında kulak yolunu kapatan kalıplar, kişinin kendi sesini boğuk ve yankılı duymasına yol açabilir.",
+    "Bu şikayet, kalıba açılan havalandırma kanalı, yani vent ya da açık uygulama ile azaltılmaya çalışılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Oklüzyon etkisi",
+   "baslik": "Klinik ipucu",
+   "metin": "Kemik yolu testinde test edilen kulağın yolu açık kalmalı. Bant ya da kulak kepçesi yolu kapatırsa pes frekans eşikleri yapay olarak iyileşebilir.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: kemik yolu testinde test edilen kulağın yolu açık kalmalıdır.",
+    "Bant ya da kıvrılan kulak kepçesi yolu kapatırsa oklüzyon etkisi oluşur ve pes frekans eşikleri yapay olarak iyileşebilir.",
+    "Bu durum, gerçekte olmayan bir hava-kemik aralığı görüntüsü yaratabilir.",
+    "Vibratörü kulak kepçesine değmeyecek biçimde yerleştirin ve kulak yolunun açık olduğunu kontrol edin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Hedef aynı: _baziler membran_ hareketi",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Bileşenler: _kompresyonel_, ataletsel, osseotimpanik",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Kemik yolu _kokleayı_ büyük ölçüde yansıtır",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kulak kapanınca _oklüzyon_ etkisi",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu da hava yolu gibi kokleada aynı yürüyen dalgayı oluşturur.",
+    "Kemik yolunun üç klasik bileşeni kompresyonel, ataletsel ve osseotimpanik bileşenlerdir.",
+    "Kemik yolu eşikleri kokleanın duyarlılığını büyük ölçüde yansıtır; Carhart çentiği bunun istisnasıdır.",
+    "Kulak yolu kapatıldığında pes frekanslarda kemik yolu sesi güçlenir; buna oklüzyon etkisi denir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Oklüzyon etkisi en çok hangi frekanslarda görülür?",
+   "secenekler": [
+    "250 ile 1000 Hz",
+    "2000 Hz civarı",
+    "4000 ile 8000 Hz",
+    "Tüm frekanslarda eşit"
+   ],
+   "dogru": 0,
+   "aciklama": "Kapanan kulak yolu _pes frekanslarda_ kemik yolu sesini güçlendirir; 2000 Hz ve üstünde etki ihmal edilebilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Oklüzyon etkisi en çok hangi frekanslarda görülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: iki yüz elli ile bin hertz arasında.",
+    "Kulak yolu kapatıldığında pes sesler dışarı kaçamaz; iki bin hertz ve üstünde ise etki ihmal edilebilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Kalıtımın *temelleri*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste genetiğe geçiyor; gen, alel ve kalıtım kalıplarını öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

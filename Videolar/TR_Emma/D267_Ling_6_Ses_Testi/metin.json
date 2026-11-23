@@ -1,0 +1,935 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D267_Ling_6_Ses_Testi_TR",
+ "kapak": {
+  "ust": "DERS 267",
+  "baslik": "Ling *6 ses* testi",
+  "alt": "Günlük dinleme ve cihaz kontrolü",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Ling 6 Ses Testi ve Günlük Cihaz Kontrolü | Ders 267 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Ling altı ses testi nedir, nasıl doğru uygulanır ve sonucu nasıl yorumlanır? Bu derste m, u, a, i, ş ve s seslerinin frekans aralıklarını, fark etme ve tanıma düzeylerini, mesafe ve yön etkisini, Ling 6 (HL) sürümünü ve ailenin günlük cihaz ve implant kontrol rutinini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Ling, Speech and the Hearing-Impaired Child: Theory and Practice; Glista ve ark., The Ling 6(HL) test: typical pediatric performance data and clinical use evaluation, J Am Acad Audiol (2014); Madell ve Hewitt, Ling Madell Hewitt (LMH) test; BATOD, Sound based testing; Tye-Murray, Foundations of Aural Rehabilitation: Children, Adults, and Their Family Members.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "Ling6",
+   "işitmecihazı"
+  ],
+  "etiketler": [
+   "Ling 6 ses testi",
+   "Ling Six Sound Test",
+   "fark etme",
+   "detection",
+   "tanıma",
+   "identification",
+   "günlük cihaz kontrolü",
+   "dinleme stetoskobu",
+   "koklear implant",
+   "işitme kayıplı çocuk",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 267",
+   "baslik": "Ling 6 ses testi ve *günlük* cihaz kontrolü",
+   "alt": "m, u, a, i, ş, s ile hızlı dinleme kontrolü",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste Ling altı ses testini, seslerin frekans aralıklarını ve testin doğru uygulanmasını öğreneceğiz.",
+    "Ailenin her sabah yapacağı cihaz ve implant kontrolünü de adım adım ele alacağız."
+   ]
+  },
+  {
+   "id": "ling",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Altı ses",
+   "baslik": "Ling altı ses *testi*",
+   "maddeler": [
+    {
+     "metin": "Altı ses: m, u, a, i, ş, s",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Pesten tize konuşma aralığı",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Cihaz gerektirmez, birkaç dakika",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Her gün aynı biçimde",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Bir gösterge, _odyogram değil_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Pes",
+      "metin": "m, u",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Orta",
+      "metin": "a, i",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Tiz",
+      "metin": "ş, s",
+      "cumle": 1
+     }
+    ],
+    "ust": "ALTI SES"
+   },
+   "cumleler": [
+    "Ling altı ses testi (Ling Six Sound Test), m, u, a, i, ş ve s seslerinden oluşan hızlı bir dinleme kontrolüdür.",
+    "Bu altı ses birlikte, konuşmanın pesten tize uzanan frekans aralığını kabaca kapsar.",
+    "Testi Daniel Ling 1970'lerde beş sesle tanımladı; pes frekansları da kapsamak için m sesi sonradan eklendi.",
+    "Test için özel bir cihaz gerekmez; aile, öğretmen ya da terapist birkaç dakikada uygulayabilir.",
+    "Asıl değeri, her gün aynı biçimde yapıldığında çocuğun dinlemesindeki ani bir değişikliği hemen yakalamasıdır.",
+    "Ancak Ling testi bir gösterge, yani kabaca bir kontroldür; eşik ölçümünün ya da odyogramın yerini tutmaz."
+   ]
+  },
+  {
+   "id": "harita",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Altı ses",
+   "baslik": "Altı sesin *frekans haritası*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 7,
+     "yazilar": {
+      "1": "s",
+      "2": "ş",
+      "3": "i",
+      "4": "a",
+      "5": "u",
+      "6": "m"
+     },
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "ad": "Ses"
+    },
+    "seriler": [
+     {
+      "ad": "m",
+      "noktalar": [
+       [
+        250,
+        6
+       ],
+       [
+        350,
+        6
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "cumle": 1
+     },
+     {
+      "ad": "u1",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        400,
+        5
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "cumle": 2
+     },
+     {
+      "ad": "u2",
+      "noktalar": [
+       [
+        700,
+        5
+       ],
+       [
+        1000,
+        5
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "cumle": 2
+     },
+     {
+      "ad": "a",
+      "noktalar": [
+       [
+        700,
+        4
+       ],
+       [
+        1300,
+        4
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 3
+     },
+     {
+      "ad": "i1",
+      "noktalar": [
+       [
+        250,
+        3
+       ],
+       [
+        400,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 4
+     },
+     {
+      "ad": "i2",
+      "noktalar": [
+       [
+        2300,
+        3
+       ],
+       [
+        2900,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 4
+     },
+     {
+      "ad": "sh",
+      "noktalar": [
+       [
+        2000,
+        2
+       ],
+       [
+        4000,
+        2
+       ]
+      ],
+      "renk": "turuncu",
+      "kalin": true,
+      "cumle": 5
+     },
+     {
+      "ad": "s",
+      "noktalar": [
+       [
+        4000,
+        1
+       ],
+       [
+        8000,
+        1
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "cumle": 5
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "f2",
+      "x": [
+       2000,
+       3000
+      ],
+      "renk": "sari",
+      "etiket": "i'nin 2. formantı",
+      "cumle": 6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Aralıklar yaklaşıktır",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "i: pes ve tiz birlikte",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "s: en tiz ve zayıf",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Grafikte her sesin enerjisinin yoğunlaştığı yaklaşık frekans bölgeleri görülüyor; kaynaklar biraz farklı aralıklar verir.",
+    "M sesinin enerjisi büyük ölçüde pes frekanslarda, yaklaşık 250 ile 350 hertz civarındadır.",
+    "U ünlüsünün iki formantı da pes bölgededir: yaklaşık 300 hertz ve bin hertzin biraz altında.",
+    "A ünlüsünün enerjisi orta frekanslarda, yaklaşık 700 ile 1300 hertz arasında toplanır.",
+    "İ ünlüsü ilginçtir: birinci formantı pes, ikinci formantı ise yaklaşık 2300 ile 2900 hertz arasında, tizdedir.",
+    "Ş sesi yaklaşık 2 ile 4 kilohertz, s sesi ise daha tizde, yaklaşık 4 kilohertz ve üzerinde enerji taşır.",
+    "Bu yüzden i ile u'yu ayırabilen çocuk, ikinci formant bölgesine, yani yaklaşık 2 kilohertze erişiyor demektir."
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Altı ses",
+   "baslik": "Konuşma muzunun *içinde*",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       55,
+       75,
+       85
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ünlüler güçlü, ş ve s zayıf",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Örnek: s kaçabilir",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Altı ses konuşma muzunun içinde farklı yerlere düşer; ünlüler güçlü, ş ve s ise daha zayıf ve tizdir.",
+    "Bu örnek odyogramda pes frekanslar korunmuş, tiz frekanslarda dik inen bir kayıp vardır.",
+    "Bu çocuk cihazsız ya da ayarı yetersiz bir cihazla m, u ve a'yı fark edebilir, ama s sesini kaçırabilir.",
+    "Ling testinde s sesine sürekli yanıt alınamaması, tiz frekanslarda duyulabilirliğin gözden geçirilmesi gerektiğini düşündürür."
+   ]
+  },
+  {
+   "id": "fark_tanima",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama",
+   "baslik": "Fark etme ve *tanıma*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Fark etme",
+     "metin": "Ses var mı?",
+     "cumle": 0
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Yanıt",
+     "metin": "Blok at, el kaldır",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Tanıma",
+     "metin": "Hangi ses?",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Yanıt",
+     "metin": "Tekrar et, resmi göster",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Bebekte",
+     "metin": "Davranış değişikliği",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ling testi iki düzeyde yapılabilir; ilki fark etmedir (detection): çocuk yalnız bir ses duyduğunu gösterir.",
+    "Fark etmede çocuk sesi duyunca bir bloğu kutuya atar ya da elini kaldırır; bu, oyun odyometrisiyle aynı koşullanmadır.",
+    "İkinci düzey tanımadır (identification): çocuk hangi sesi duyduğunu belirtir.",
+    "Tanımada çocuk sesi tekrar eder ya da her sesi temsil eden resimler arasından doğru olanı gösterir; örneğin s için yılan.",
+    "Küçük bebeklerde ise emmeyi durdurma, göz açma ya da sese dönme gibi davranış değişiklikleri gözlenir.",
+    "Hangi düzeyin kullanılacağı çocuğun yaşına ve dil gelişimine göre seçilir."
+   ]
+  },
+  {
+   "id": "uygula",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama",
+   "baslik": "Testi *doğru* uygulamak",
+   "adimlar": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sessiz ortam",
+     "metin": "Cihaz açık, takılı",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Ağız gizli",
+     "metin": "Dudak okuma olmasın",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Normal düzey",
+     "metin": "Eşit süre, abartısız",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Rastgele sıra",
+     "metin": "Arada sessiz deneme",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kaydet",
+     "metin": "Ses, mesafe, yanıt",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Test sessiz bir ortamda, cihaz ya da implant açık ve takılıyken yapılır.",
+    "Uygulayan kişi ağzını gizler; çocuk dudakları görürse sonuç işitmeyi değil dudak okumayı yansıtır.",
+    "Sesler normal konuşma düzeyinde ve her biri yaklaşık aynı sürede söylenir; bağırmak ya da fısıldamak sonucu bozar.",
+    "Sesler her seferinde rastgele sırada verilir ve araya ses verilmeyen denemeler konur; böylece çocuğun tahmin etmesi önlenir.",
+    "Hangi sesin, hangi mesafede, nasıl bir yanıt aldığı kısa bir tabloya kaydedilir.",
+    "Ağzı gizlemek için el ağzın hemen önüne konmamalıdır; el sesi bozabilir, çocuğun bir oyuncağa bakması daha iyidir."
+   ]
+  },
+  {
+   "id": "mesafe",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama",
+   "baslik": "Mesafe ve *yön*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 4,
+     "log": true,
+     "ad": "Mesafe (m)",
+     "isaretler": [
+      0.5,
+      1,
+      2,
+      4
+     ],
+     "ond": 1
+    },
+    "y": {
+     "min": 40,
+     "max": 75,
+     "adim": 10,
+     "ad": "Ses düzeyi (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "duzey",
+      "noktalar": [
+       [
+        0.5,
+        71
+       ],
+       [
+        1,
+        65
+       ],
+       [
+        2,
+        59
+       ],
+       [
+        4,
+        53
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "örnek konuşma",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       59,
+       65
+      ],
+      "xk": 1.4,
+      "etiket": "6 dB",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Örnek: 1, 2 ve 4 metre",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Mesafe iki kat: yaklaşık 6 dB",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Her kulak ayrı, sonra birlikte",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Test yalnız yakından değil, farklı mesafelerden de yapılabilir; bazı kaynaklar 1, 2 ve 4 metreyi önerir.",
+    "Serbest alanda mesafe her iki katına çıktığında ses düzeyi yaklaşık 6 desibel azalır.",
+    "Bu yüzden yakından duyulan s sesi, 4 metreden duyulamayabilir; çocuğun dinleme mesafesi böylece izlenir.",
+    "Sesi önden, yandan ve arkadan vermek de bilgi verir; birçok cihaz arkadan gelen sesi azaltacak biçimde ayarlanmıştır.",
+    "Mümkünse her kulak ya da her cihaz ayrı ayrı ve sonra birlikte denenir; uzak mikrofon varsa onunla da kontrol edilir.",
+    "Gerçek odalarda yansımalar düzeyin azalmasını değiştirir; grafik serbest alandaki örnek bir hesaptır."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama",
+   "baslik": "Sonucu *yorumlamak*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Hepsi doğru",
+     "metin": "Dünkü gibi",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "s kaçıyor",
+     "metin": "Tiz duyulabilirlik",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ani değişiklik",
+     "metin": "Cihaz ya da kulak",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "i, u karışıyor",
+     "metin": "2 kHz erişimi",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Şüphede",
+     "metin": "Odyoloğa başvur",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Asıl karşılaştırma çocuğun kendi önceki sonuçlarıyladır; bugün de dünkü gibi yanıt veriyorsa cihaz büyük olasılıkla çalışıyordur.",
+    "S sesi sürekli kaçırılıyorsa tiz frekanslarda duyulabilirlik yetersiz olabilir; bu bilgi odyoloğa iletilir.",
+    "Dün duyulan seslerin bugün duyulmaması ani bir değişikliktir: pil, cihaz arızası ya da orta kulak sorunu araştırılır.",
+    "İ ile u'nun karıştırılması, ikinci formant bölgesine erişimin yetersiz olabileceğini düşündürür.",
+    "Ling testi kabaca bir göstergedir; şüphe durumunda ayrıntılı değerlendirme için odyoloğa başvurulur.",
+    "Yorgun, hasta ya da isteksiz bir çocuğun yanıtları da değişebilir; bu yüzden tek bir günün sonucu tek başına yorumlanmaz."
+   ]
+  },
+  {
+   "id": "genisleme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama",
+   "baslik": "Ölçülen ve *genişletilen* sürümler",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Ling 6 (HL)",
+     "metin": "Kayıtlı, kalibre sesler",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Eşik ölçümü",
+     "metin": "Desibel cinsinden",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Ek sesler",
+     "metin": "Orta frekanslar için",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Türkçe norm",
+     "metin": "Ayrıca gerekir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Ling seslerinin kayıtlı ve dB HL olarak kalibre edilmiş bir sürümü vardır: Ling 6 (HL) testi.",
+     "ses": "Ling seslerinin kayıtlı ve desibel eyç el olarak kalibre edilmiş bir sürümü vardır: Ling altı eyç el testi."
+    },
+    "Bu sürümle her ses için cihazlı fark etme eşiği ölçülür; çalışmalar 3 ile 18 yaş arası çocuklarda güvenilir ölçüm bildirir.",
+    "Bazı klinisyenler orta frekanslardaki bilgiyi de görmek için altı sese z, h, n ve c gibi ünsüzler ekleyen genişletilmiş setler kullanır.",
+    "Kayıtlı sürümlerin Türkçe konuşan çocuklarda kullanılması için Türkçe kayıt ve norm verisi ayrıca gerekir."
+   ]
+  },
+  {
+   "id": "rutin",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Günlük kontrol",
+   "baslik": "Sabah *kontrol rutini*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Bak",
+     "metin": "Çatlak, kir, nem",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Güç",
+     "metin": "Pil ya da şarj",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dinle",
+     "metin": "Dinleme stetoskobu",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Ling",
+     "metin": "Yakından altı ses",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kaydet",
+     "metin": "Günlük tablo",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ailenin sabah rutini önce gözle kontrolle başlar: cihazda çatlak, kalıpta kulak kiri ya da hortumda nem var mı?",
+    "İkinci adımda pil değiştirilir ya da şarj düzeyi kontrol edilir.",
+    "Üçüncü adımda ebeveyn cihazı dinleme stetoskobu (listening stethoscope) ile dinler; ses net, kesintisiz ve cızırtısız olmalıdır.",
+    "Dördüncü adımda cihaz çocuğa takılır ve Ling sesleri yakından denenir.",
+    "Son adımda sonuç kısa bir günlük tabloya işaretlenir; birkaç dakikalık bu rutin, sorunları erken yakalar."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Günlük kontrol",
+   "baslik": "İşitme cihazında *neye bakılır?*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "BTE"
+   },
+   "etiketler": [
+    {
+     "parca": "mikrofon",
+     "metin": "mikrofon girişi",
+     "cumle": 1
+    },
+    {
+     "parca": "pil",
+     "metin": "pil",
+     "cumle": 2
+    },
+    {
+     "parca": "kalip",
+     "metin": "kalıp ve hortum",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "pil",
+     "cumle": 2
+    },
+    {
+     "parca": "kalip",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Çocuklarda en sık kullanılan kulak arkası cihazda kontrol edilecek noktalara bakalım.",
+    "Mikrofon girişleri kir ve tozdan arınmış olmalıdır; tıkalı mikrofon sesi zayıflatır.",
+    "Pil yuvası temiz olmalı ve pil kapağı tam kapanmalıdır.",
+    "Kalıbın ses kanalı kulak kiriyle tıkanmamış, hortum ise sertleşmemiş ve içinde su damlası olmamalıdır.",
+    "Cihaz kulağa takıldıktan sonra ıslık sesi varsa kalıbın oturması ya da boyutu kontrol edilir.",
+    "Kalıpta çatlak, kulakta kızarıklık ya da akıntı görülürse odyoloğa ve gerekirse hekime başvurulur."
+   ]
+  },
+  {
+   "id": "implant",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Günlük kontrol",
+   "baslik": "İmplantta *günlük kontrol*",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "dis_islemci",
+     "metin": "işlemci: güç, gösterge",
+     "cumle": 1
+    },
+    {
+     "parca": "verici_bobin",
+     "metin": "bobin ve kablo",
+     "cumle": 2
+    },
+    {
+     "parca": "alici_uyarici",
+     "metin": "deri altındaki parça",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_islemci",
+     "cumle": 1
+    },
+    {
+     "parca": "verici_bobin",
+     "cumle": 2
+    },
+    {
+     "parca": "alici_uyarici",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Koklear implantta günlük kontrol dış parçalara yöneliktir; iç parçalar ancak odyolog tarafından ölçülebilir.",
+    "Dış işlemcinin şarjı ya da pili kontrol edilir; birçok işlemcinin durum göstergesi ya da uygulaması vardır.",
+    "Verici bobinin kablosu kırık ya da gevşek olmamalı ve bobin mıknatısla başta sabit durmalıdır.",
+    "Bobinin altındaki deride kızarıklık ya da basınç izi varsa mıknatıs gücü için odyoloğa başvurulur.",
+    "Ardından Ling sesleriyle dinleme kontrol edilir; ani bir değişiklik, işlemci ya da kablo arızasının ilk işareti olabilir."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Günlük kontrol",
+   "baslik": "Ne zaman *haber verilmeli?*",
+   "maddeler": [
+    {
+     "metin": "Dün duyduğu sesi bugün _duymuyor_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ses kesik kesik geliyor",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Deride kızarıklık, akıntı",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Çocuk cihazı _istemiyor_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "rapor",
+      "baslik": "Günlük tablo",
+      "metin": "Her sabah işaret",
+      "cumle": 0
+     },
+     {
+      "ikon": "telefon",
+      "baslik": "İletişim",
+      "metin": "Odyolog numarası hazır",
+      "cumle": 0
+     }
+    ],
+    "ust": "AİLE"
+   },
+   "cumleler": [
+    "Çocuk dün duyduğu bir sese bugün yanıt vermiyorsa ve pil değişikliği sorunu çözmüyorsa odyoloğa haber verilir.",
+    "Sesin kesik kesik gelmesi ya da cızırtı, cihaz, kablo ya da bobin arızasını düşündürür.",
+    "Kulakta ya da bobin altında kızarıklık, akıntı ve ağrı hekim değerlendirmesi gerektirir.",
+    "Daha önce cihazını seven bir çocuğun cihazı aniden çıkarmak istemesi de bir sorunun işareti olabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ling seslerini her gün aynı kişi, aynı mesafe ve aynı ortamda deneyin; sonucu tabloya yazın. Değişiklik, tek bir sonuçtan daha anlamlıdır.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: Ling testini mümkün olduğunca her gün aynı kişi, aynı mesafe ve aynı ortamda yapın.",
+    "Böylece sonuçtaki bir değişiklik, test koşulundan değil çocuğun dinlemesinden kaynaklanır.",
+    "Aileye her sesin, mesafenin ve yanıtın işaretlendiği basit bir tablo verin ve kontrolde birlikte bakın.",
+    "Bu tablo, cihaz arızasını ya da orta kulak sorununu bazen odyogramdan önce gösterir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "m, u, a, i, ş, s: pesten tize",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ağız gizli, rastgele sıra, sessiz deneme",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Fark etme ve tanıma, farklı mesafeler",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Her sabah: bak, güç, dinle, Ling",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Ling altı ses testi m, u, a, i, ş ve s sesleriyle konuşmanın pesten tize uzanan aralığını kabaca kontrol eder.",
+    "Test ağız gizlenerek, normal konuşma düzeyinde, rastgele sırada ve sessiz denemelerle yapılır.",
+    "Fark etme ve tanıma düzeyinde, farklı mesafe ve yönlerden uygulanabilir; asıl değeri her gün tekrarlanmasıdır.",
+    "Günlük cihaz kontrolü bakmak, gücü kontrol etmek, dinlemek, Ling sesleri ve kayıttan oluşur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Ling testinde s sesi neden önemlidir?",
+   "secenekler": [
+    "En pes sestir",
+    "En tiz ve zayıf sestir",
+    "Ünlüdür",
+    "Dudakta en iyi görünür"
+   ],
+   "dogru": 1,
+   "aciklama": "S, altı ses içinde _en tiz_ enerjiyi taşır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Ling altı ses testinde s sesine yanıt alınamaması neden önemlidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: s, altı ses içinde en tiz ve en zayıf sestir.",
+    "S sesinin sürekli kaçırılması, tiz frekanslarda duyulabilirliğin gözden geçirilmesi gerektiğini düşündürür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Koklear implantlı çocukta *işitsel rehabilitasyon*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste koklear implantlı çocukta işitsel rehabilitasyonu ve ilerleme ölçeklerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

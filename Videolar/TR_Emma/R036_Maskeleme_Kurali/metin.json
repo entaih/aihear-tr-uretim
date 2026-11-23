@@ -1,0 +1,136 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R036_Maskeleme_Kurali_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #36",
+  "baslik": "Bir çıkarma, *bir karar*",
+  "alt": "Hava yolunda maskeleme kuralı",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      55,
+      60,
+      65,
+      70,
+      70
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Maskeleme gerektiğini tek bir çıkarma nasıl söyler? #shorts",
+  "aciklama": "Hava yolunda test kulağının (TE) eşiğinden karşı kulağın (NTE) kemik yolu eşiği çıkarılır. Fark kulaklar arası zayıflamaya (IA), yani kulak üstü kulaklıkta 40, insert kulaklıkta yaklaşık 55 dB'ye ulaşırsa maskeleme gerekir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ],
+  "etiketler": [
+   "maskeleme",
+   "hava yolu maskeleme",
+   "maskeleme kuralı",
+   "kulaklar arası zayıflama",
+   "insert kulaklık",
+   "odyometri",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Maskeleme gerektiğini tek bir çıkarma söyler mi?",
+  "bilgiler": [
+   "Test kulağının hava yolu eşiğinden karşı kulağın kemik yolu eşiği çıkarılır.",
+   "Fark IA'ya ulaşırsa maskeleme gerekir: kulak üstü 40, insert yaklaşık 55 dB.",
+   "Karşılaştırma hava yoluyla değil, kemik yoluyla yapılır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #36",
+   "metin": "Maskeleme gerektiğini *bir çıkarma* söyler mi?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Maskeleme gerektiğini tek bir çıkarma söyler mi?"
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "zincir",
+   "baslik": "Hava yolu *maskeleme kuralı*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "TE",
+     "tr": "test kulağı",
+     "cumle": 0
+    },
+    {
+     "ad": "NTE",
+     "tr": "karşı kulak",
+     "cumle": 1
+    },
+    {
+     "ad": "IA",
+     "tr": "zayıflama",
+     "cumle": 2
+    }
+   ],
+   "alt": "TE hava yolu eksi NTE kemik yolu, _IA'ya ulaşırsa_ maskele",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Test kulağının hava yolu eşiğiyle başlarız.",
+    "Bundan karşı kulağın kemik yolu eşiğini çıkarırız.",
+    "Fark kulaklar arası zayıflamaya eşit ya da büyükse maskeleme gerekir.",
+    "Bu değer kulak üstü kulaklıkta kırk, insert kulaklıkta elli beş desibeldir.",
+    "Karşılaştırma hava yoluyla değil, karşı kulağın kemik yoluyla yapılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D088",
+ "kaynak_baslik": "Hava yolunda maskeleme"
+}

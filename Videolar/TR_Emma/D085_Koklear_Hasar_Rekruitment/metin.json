@@ -1,0 +1,834 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D085_Koklear_Hasar_Rekruitment_TR",
+ "kapak": {
+  "ust": "DERS 85",
+  "baslik": "Koklear hasar ve<br>*rekruitment*",
+  "alt": "Ses yüksekliği, seçicilik ve gürültü",
+  "cizim": "corti",
+  "vurgula": [
+   "dis_tuy_hucreleri"
+  ]
+ },
+ "youtube": {
+  "baslik": "Koklear Hasar Algıyı Nasıl Değiştirir? Rekruitment | Ders 85 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Koklear hasar yalnız eşiği yükseltmez. Bu derste ses yüksekliğinin anormal hızlı artışını, yani rekruitmenti, daralan dinamik aralığı, azalan frekans seçiciliğini, zamansal değişiklikleri ve bunların gürültüde anlama güçlüğüne ve cihaz uygulamasına etkilerini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Moore, Cochlear Hearing Loss: Physiological, Psychological and Technical Issues; Plomp (1978), Auditory handicap of hearing impairment and the limited benefit of hearing aids, Journal of the Acoustical Society of America; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "rekruitment",
+   "psikoakustik"
+  ],
+  "etiketler": [
+   "rekruitment",
+   "loudness recruitment",
+   "frekans seçiciliği",
+   "frequency selectivity",
+   "dinamik aralık",
+   "dynamic range",
+   "koklear hasar",
+   "sensörinöral işitme kaybı",
+   "gürültüde anlama",
+   "kompresyon",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 85",
+   "baslik": "Koklear hasar ve *rekruitment*",
+   "alt": "Hasarlı koklea sesi nasıl algılar?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste koklear hasarın yalnız eşiği değil, sesin algılanma biçimini de nasıl değiştirdiğini öğreneceğiz.",
+    "Rekruitmenti, daralan dinamik aralığı, azalan frekans seçiciliğini ve gürültüde anlama güçlüğünü birlikte ele alacağız."
+   ]
+  },
+  {
+   "id": "hucreler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hasarın izleri",
+   "baslik": "İki hücre, *iki* tür hasar",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Dış tüy hücreleri: amplifikatör",
+     "cumle": 1
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "İç tüy hücresi: iletim",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kazanç ve _kompresyon_ kaybı",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Frekans ayarı _bulanıklaşır_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Bilgi iletimi _azalır_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Koklear amplifikatör dersinde dış tüy hücrelerinin baziler membranın titreşimini nasıl güçlendirdiğini görmüştük.",
+    "Sensörinöral kayıpların çoğunda ilk ve en çok etkilenen yapı dış tüy hücreleridir.",
+    "Dış tüy hücreleri hasar gördüğünde zayıf seslere verilen kazanç ve doğal kompresyon kaybolur.",
+    "Yürüyen dalganın tepesi de keskinliğini yitirir; yani frekans ayarı bulanıklaşır.",
+    "İç tüy hücreleri ise titreşimi sinir sinyaline dönüştürür; onların hasarı bilginin sinire aktarılmasını azaltır.",
+    "Bu derste daha çok dış tüy hücresi hasarının algıdaki izlerini, sonraki derste ise iç tüy hücresi kaybını konuşacağız."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hasarın izleri",
+   "baslik": "Koklear hasarın *dört* sonucu",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Eşik yükselir",
+     "metin": "Zayıf sesler duyulmaz",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Rekruitment",
+     "metin": "Ses yüksekliği hızlı artar",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Seçicilik azalır",
+     "metin": "Frekanslar birbirine karışır",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Zamansal değişim",
+     "metin": "İnce zaman bilgisi zayıflar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Koklear hasarın algıdaki sonuçlarını dört başlıkta toplayabiliriz.",
+    "Birincisi ve odyogramda görünen tek sonuç, eşiğin yükselmesidir.",
+    "İkincisi, eşiğin üstünde ses yüksekliğinin normalden hızlı artmasıdır; buna rekruitment denir.",
+    "Üçüncüsü, kulağın birbirine yakın frekansları ayırma becerisinin, yani frekans seçiciliğinin azalmasıdır.",
+    "Dördüncüsü ise sesteki ince zaman bilgisinin işlenmesindeki değişikliklerdir."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Rekruitment",
+   "baslik": "*Rekruitment* nedir?",
+   "maddeler": [
+    {
+     "metin": "Eşik yüksek, _büyüme hızlı_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yüksek seslerde _normale yetişir_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Nedeni: _kompresyon_ kaybı",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İlk tanım: _Fowler_, 1930'lar",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TANIM",
+    "metin": "Eşik üstünde ses yüksekliğinin *anormal hızlı* artışı",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Rekruitment (loudness recruitment), eşiği yükselmiş bir kulakta ses yüksekliğinin eşiğin üstünde anormal hızlı artmasıdır.",
+    "Zayıf sesler duyulmaz, ama ses yükseldikçe ses yüksekliği hızla artar ve yüksek düzeylerde normal kulağa yetişir.",
+    "Nedeni, dış tüy hücrelerinin sağladığı doğal kompresyonun kaybolmasıdır; baziler membran şiddete daha doğrusal yanıt verir.",
+    "Normal kulak zayıf sesleri fazla, güçlü sesleri az yükseltir; hasarlı kulakta bu dengeleyici etki ortadan kalkar.",
+    {
+     "yazi": "Olgu 1930'larda Fowler tarafından, iki kulak arasında ses yüksekliği dengelenerek tanımlandı.",
+     "ses": "Olgu 1930'larda Fauler tarafından, iki kulak arasında ses yüksekliği dengelenerek tanımlandı."
+    },
+    "Bu yöntem bugün alternatif binaural ses yüksekliği dengesi testi olarak bilinir ve klasik eşik üstü testler dersinde ele alınacak.",
+    "Rekruitmentli kulak şiddetteki küçük artışları da kolay fark eder; kısa artış duyarlılık indeksi, kısaca SISI, buna dayanır.",
+    "Rekruitment, işitme eşiğinden bağımsız olarak gündelik seslere toleransın azaldığı hiperakuziden farklı bir kavramdır."
+   ]
+  },
+  {
+   "id": "buyume",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Rekruitment",
+   "baslik": "Aynı ses, *iki* kulak",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "ad": "Düzey (dB HL)",
+     "isaretler": [
+      0,
+      20,
+      40,
+      60,
+      80,
+      100
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 6,
+     "adim": 1,
+     "yazilar": {
+      "0": "Duyulmaz",
+      "1": "Çok hafif",
+      "2": "Hafif",
+      "3": "Rahat",
+      "4": "Yüksekçe",
+      "5": "Yüksek",
+      "6": "Rahatsız"
+     }
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        20,
+        2
+       ],
+       [
+        50,
+        3
+       ],
+       [
+        70,
+        4
+       ],
+       [
+        90,
+        5
+       ],
+       [
+        105,
+        6
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "normal kulak",
+      "etiket_konum": [
+       20,
+       2
+      ],
+      "etiket_dx": -8,
+      "etiket_dy": -16,
+      "etiket_hiza": "middle",
+      "cumle": 1
+     },
+     {
+      "ad": "rekruitment",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        0
+       ],
+       [
+        50,
+        1
+       ],
+       [
+        70,
+        3
+       ],
+       [
+        90,
+        5
+       ],
+       [
+        105,
+        6
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "etiket": "örnek hasarlı kulak",
+      "etiket_konum": [
+       70,
+       3
+      ],
+      "etiket_dx": 14,
+      "etiket_dy": 22,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esik",
+      "x": 50,
+      "y": 1,
+      "dus": "x",
+      "renk": "kirmizi",
+      "cumle": 2
+     },
+     {
+      "ad": "rahat",
+      "x": 70,
+      "y": 3,
+      "dus": "x",
+      "renk": "kirmizi",
+      "cumle": 3
+     },
+     {
+      "ad": "birlesme",
+      "x": 90,
+      "y": 5,
+      "renk": "lacivert",
+      "dolu": true,
+      "etiket": "yetişir",
+      "dy": -22,
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "yirmi_db",
+      "x": [
+       50,
+       70
+      ],
+      "y": 0.5,
+      "etiket": "20 dB",
+      "etiket_alt": false,
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "normal",
+     "cumle": 1
+    },
+    {
+     "parca": "rekruitment",
+     "cumle": 2
+    },
+    {
+     "parca": "yirmi_db",
+     "cumle": 3
+    },
+    {
+     "parca": "birlesme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bir kulağı normal, diğerinde eşiği elli desibel HL civarında koklear kaybı olan bir örnek düşünelim.",
+    "Yirmi desibelde normal kulak sesi hafif duyar, hasarlı kulak ise hiç duymaz.",
+    "Elli desibelde normal kulak için ses rahattır; hasarlı kulak ise sesi yeni yeni fark eder.",
+    "Yetmiş desibelde hasarlı kulakta ses rahat düzeye ulaşmıştır; yani yirmi desibellik artışla eşikten rahat düzeye çıkmıştır.",
+    "Doksan desibel ve üzerinde iki kulak sesi benzer yükseklikte duyar; ses yüksekliği normale yetişmiştir.",
+    "Bu örnekteki değerler öğretim amaçlıdır; gerçek büyüme hızı kişiden kişiye değişir."
+   ]
+  },
+  {
+   "id": "turleri",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Rekruitment",
+   "baslik": "Ses yüksekliği büyümesinin *biçimleri*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Tam rekruitment",
+     "metin": "Yüksekte normale eşitlenir",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kısmi rekruitment",
+     "metin": "Yaklaşır ama yetişmez",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Aşırı rekruitment",
+     "metin": "Normali geçer",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Dekruitment",
+     "metin": "Normalden yavaş büyür",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ses yüksekliğinin büyümesi farklı biçimlerde olabilir.",
+    "Tam rekruitmentte yüksek düzeylerde hasarlı kulak normal kulakla aynı yükseklikte duyar; koklear kayıplarda sık görülen tablodur.",
+    "Kısmi rekruitmentte ses yüksekliği normale yaklaşır, ama tam yetişmez.",
+    "Aşırı rekruitmentte yüksek seslerde hasarlı kulak sesi normal kulaktan bile yüksek duyar; bazı koklear hastalıklarda bildirilmiştir.",
+    "Dekruitmentte ise ses yüksekliği normalden yavaş büyür; bu tablo bazı retrokoklear durumlarla ilişkilendirilmiştir.",
+    "Bu ayrımlar tarihsel olarak lezyon yerini belirlemede kullanılmış, bugün ise daha çok cihaz uygulamasında önem taşır."
+   ]
+  },
+  {
+   "id": "dinamik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Rekruitment",
+   "baslik": "Daralan *dinamik aralık*",
+   "maddeler": [
+    {
+     "metin": "Dinamik aralık: _eşikten UCL'ye_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal kulak: _yaklaşık 100 dB_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Örnek: eşik 60, UCL 100: _40 dB_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Konuşma aralığı: _yaklaşık 30 dB_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        40,
+        45,
+        50,
+        60,
+        65,
+        70
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Eşik ile rahatsız edici ses düzeyi arasındaki alana dinamik aralık (dynamic range) denir.",
+    "Normal işiten bir kulakta bu aralık yaklaşık yüz desibeldir.",
+    "Koklear kayıpta eşik yükselir, ama rahatsız edici ses düzeyi, yani UCL çoğu zaman pek değişmez.",
+    "Örneğin eşik altmış, UCL yüz desibel HL ise dinamik aralık kırk desibele iner.",
+    "Konuşmanın kendisi, zayıf ünsüzlerden güçlü ünlülere kadar yaklaşık otuz desibellik bir aralığa yayılır.",
+    "Daralmış bir dinamik aralığa bu konuşmayı ve çevre seslerini sığdırmak, cihaz uygulamasının temel sorunlarından biridir.",
+    "Zayıf sesleri duyulur kılan sabit bir kazanç, güçlü sesleri kolayca rahatsız edici düzeye taşıyabilir."
+   ]
+  },
+  {
+   "id": "secicilik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Frekans seçiciliği",
+   "baslik": "Filtreler *genişler*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 2000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Tepe keskinliğini yitirir",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İşitsel filtre _birkaç kat_ genişleyebilir",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ayar eğrisi _sığ ve geniş_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Frekans seçiciliği (frequency selectivity), kulağın bir sesi frekans bileşenlerine ayırma becerisidir.",
+    "Sağlıklı kokleada her frekans, baziler membranın dar bir bölgesinde keskin bir tepe oluşturur.",
+    "Dış tüy hücreleri hasar gördüğünde bu tepe yayvanlaşır; bir ton daha geniş bir bölgeyi uyarır.",
+    "Psikoakustik ölçümlerde işitsel filtrelerin, orta derecede koklear kayıpta normalin birkaç katına genişleyebildiği gösterilmiştir.",
+    "Psikofiziksel ayar eğrileri de normal kulaktaki sivri V biçimini yitirir, sığ ve geniş bir hal alır.",
+    "Filtreler genişledikçe her filtreye daha fazla gürültü düşer; bu da maskelemeyi artırır."
+   ]
+  },
+  {
+   "id": "secicilik_sonuc",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Frekans seçiciliği",
+   "baslik": "Dar filtre, *geniş* filtre",
+   "sol": {
+    "ust": "Normal kulak",
+    "maddeler": [
+     {
+      "metin": "Formantlar _net_ ayrışır",
+      "cumle": 0
+     },
+     {
+      "metin": "Gürültü filtreye _az_ girer",
+      "cumle": 1
+     },
+     {
+      "metin": "Yukarı yayılım _sınırlı_",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Koklear hasar",
+    "maddeler": [
+     {
+      "metin": "Formantlar _bulanıklaşır_",
+      "cumle": 3
+     },
+     {
+      "metin": "Gürültü filtreye _çok_ girer",
+      "cumle": 4
+     },
+     {
+      "metin": "Pes sesler tizi _daha çok_ örter",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Normal kulakta ünlüleri birbirinden ayıran formant tepeleri, iç kulakta net tepeler olarak temsil edilir.",
+    "Dar filtreler, sinyalin çevresindeki gürültünün büyük kısmını dışarıda tutar.",
+    "Maskelemenin yukarı yayılımı da sınırlı kalır.",
+    "Koklear hasarda geniş filtreler formant tepelerini düzleştirir; benzer ünlüler ve ünsüzler birbirine karışabilir.",
+    "Her filtreye daha fazla gürültü girdiği için, aynı gürültü konuşmayı daha kolay örter.",
+    "Pes gürültünün tiz bölgelere yayılan maskeleme etkisi de belirgin biçimde artar."
+   ]
+  },
+  {
+   "id": "zamansal",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Frekans seçiciliği",
+   "baslik": "Zaman bilgisinde *değişim*",
+   "maddeler": [
+    {
+     "metin": "Zamansal bütünleşme _azalır_",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Boşluk saptama _duyulabilirliğe_ bağlı",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "İnce yapı bilgisi _zayıflar_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SONUÇ",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "muzik",
+      "baslik": "Perde ve müzik",
+      "metin": "Daha az belirgin",
+      "cumle": 4
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "Gürültüde konuşma",
+      "metin": "Ayrıştırma zorlaşır",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Önceki derste gördüğümüz gibi koklear kayıpta kısa ve uzun tonların eşikleri birbirine yaklaşır; zamansal bütünleşme azalır.",
+    "Boşluk saptama ise büyük ölçüde sesin ne kadar duyulur olduğuna bağlıdır.",
+    "Ses yeterince duyulur düzeye çıkarıldığında, koklear kayıplı birçok kişinin boşluk eşiği normale yaklaşır.",
+    "Buna karşın dalganın ince yapısındaki zaman bilgisini kullanma becerisinin koklear kayıpta zayıfladığı bildirilmiştir.",
+    "Bu zayıflık perde algısını, müzik dinlemeyi ve gürültüde konuşmayı ayrıştırmayı etkileyebilir.",
+    "Koklear implantlar ince yapıyı büyük ölçüde iletemediği için, varsa akustik işitmenin korunması bu açıdan değerlidir."
+   ]
+  },
+  {
+   "id": "plomp",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültüde anlama",
+   "baslik": "Duyulabilirlik ve *bozulma*",
+   "maddeler": [
+    {
+     "metin": "Zayıflama bileşeni: _ses azalır_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Bozulma bileşeni: _ses bulanır_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Cihaz _zayıflamayı_ telafi eder",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Bozulma gürültüde _sürer_",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PLOMP 1978",
+    "metin": "Kayıp = *zayıflama* + bozulma",
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "Plomp 1978'de koklear kaybın konuşma algısına etkisini iki bileşenle açıkladı.",
+     "ses": "Plomp 1978'de koklear kaybın konuşma algısına etkisini iki bileşenle açıkladı."
+    },
+    "Birinci bileşen zayıflamadır: konuşma daha hafif duyulur, sessiz ortamda daha yüksek ses gerekir.",
+    "İkinci bileşen bozulmadır: ses yeterince yüksek olsa bile frekans ve zaman ayrıntıları bulanık işlenir.",
+    "İşitme cihazı sesi yükselterek zayıflama bileşenini büyük ölçüde telafi edebilir.",
+    "Bozulma bileşeni ise yükseltmeyle düzelmez ve özellikle gürültüde anlama güçlüğü olarak kendini gösterir.",
+    "Bu yüzden koklear kayıplı kişiler, gürültüde aynı anlama düzeyi için normal işitenlerden daha iyi bir sinyal-gürültü oranına ihtiyaç duyar."
+   ]
+  },
+  {
+   "id": "yakinmalar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültüde anlama",
+   "baslik": "Hastadan *duyduklarımız*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Duyuyorum, anlamıyorum",
+     "metin": "Ayrıntılar bulanık",
+     "cumle": 0
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Bağırma, rahatsız oluyorum",
+     "metin": "Rekruitment",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Kalabalıkta kayboluyorum",
+     "metin": "Seçicilik kaybı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bu mekanizmalar, klinikte sık duyduğumuz yakınmaları açıklar: duyuyorum ama anlamıyorum.",
+    "Hasta konuşulduğunu fark eder, ama ünsüzler ve ayrıntılar bulanık geldiği için sözcükleri seçemez.",
+    "Aile sesini yükseltince ise rekruitment nedeniyle ses kısa sürede rahatsız edici hale gelir; bağırmayın, rahatsız oluyorum der.",
+    "Kalabalık ortamlarda geniş filtreler ve yukarı yayılım nedeniyle konuşma gürültünün içinde kaybolur.",
+    "Bazı hastalar kapı çarpması ya da tabak sesi gibi ani yüksek seslerden belirgin biçimde rahatsız olduğunu da anlatır.",
+    "Bu yakınmaları açıklamak, hasta ve ailesinin durumu anlamasını ve beklentilerini gerçekçi kılmasını sağlar."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültüde anlama",
+   "baslik": "Klinik *yansımalar*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Ölç",
+     "metin": "Eşik, UCL, gürültüde konuşma",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Kompresyon",
+     "metin": "Sesi aralığa sığdır",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Çıkışı sınırla",
+     "metin": "UCL aşılmasın",
+     "cumle": 2
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "SNR'yi iyileştir",
+     "metin": "Yönlü ve uzak mikrofon",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Danışmanlık",
+     "metin": "Gerçekçi beklenti",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Klinikte önce eşiklerin yanında rahatsız edici ses düzeyini ve gürültüde konuşma performansını ölçeriz.",
+    "Geniş dinamik aralık kompresyonu, zayıf seslere daha çok, güçlü seslere daha az kazanç vererek sesi daralan aralığa sığdırır.",
+    "Cihazın en yüksek çıkışı, rekruitmentli kulakta sesin rahatsız edici düzeye ulaşmaması için sınırlanır.",
+    "Bozulma bileşeni yükseltmeyle düzelmediği için yönlü mikrofonlar ve uzak mikrofon sistemleriyle sinyal-gürültü oranı iyileştirilir.",
+    "Son olarak, cihazın gürültüdeki sınırlarını açıkça anlatan bir danışmanlık beklentileri gerçekçi kılar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinik ipucu",
+   "metin": "Aileye bağırmak yerine yüz yüze, net ve biraz yavaş konuşmayı önerin. Rekruitmentli kulakta yüksek ses anlamayı artırmaz, rahatsızlığı artırır.",
+   "cumleler": [
+    "Sahadan bir ipucu: rekruitmentli bir hastanın ailesine iletişim önerileri vermek çok işe yarar.",
+    "Bağırmak sesi kısa sürede rahatsız edici düzeye çıkarır ve ünsüzleri netleştirmez.",
+    "Bunun yerine yüz yüze, ışığı yüzüne alarak, net ve biraz yavaş konuşmalarını önerin.",
+    "Konuşmaya başlamadan önce hastanın dikkatini çekmek ve arka plan gürültüsünü azaltmak da anlamayı belirgin biçimde kolaylaştırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Rekruitment: ses yüksekliği _hızlı_ artar",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Dinamik aralık _daralır_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Filtreler genişler, _seçicilik_ azalır",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Bozulma gürültüde _anlamayı_ bozar",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "Dış tüy hücresi hasarında kompresyon kaybolur; ses yüksekliği eşiğin üstünde anormal hızlı artar, buna rekruitment denir.",
+    "Eşik yükselirken UCL çoğu zaman değişmediği için dinamik aralık daralır.",
+    "İşitsel filtreler genişler; formantlar bulanıklaşır ve gürültü konuşmayı daha kolay örter.",
+    "Cihaz zayıflamayı telafi eder, ama bozulma bileşeni gürültüde anlama güçlüğü olarak sürebilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Rekruitmentin temel nedeni hangisidir?",
+   "secenekler": [
+    "Orta kulakta sıvı",
+    "Doğal kompresyonun kaybı",
+    "İşitme sinirinde tümör",
+    "Kulak yolu tıkanıklığı"
+   ],
+   "dogru": 1,
+   "aciklama": "Dış tüy hücresi hasarında _koklear kompresyon_ kaybolur; ses yüksekliği eşik üstünde hızla büyür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Rekruitmentin temel nedeni hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: dış tüy hücrelerinin sağladığı doğal kompresyonun kaybı.",
+    "Baziler membran şiddete daha doğrusal yanıt verdiği için ses yüksekliği eşiğin üstünde hızla büyür ve yüksek düzeylerde normale yetişir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Koklear ölü bölgeler ve *TEN* testi",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iç tüy hücrelerinin kaybolduğu bölgeleri, yani koklear ölü bölgeleri ve TEN testini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

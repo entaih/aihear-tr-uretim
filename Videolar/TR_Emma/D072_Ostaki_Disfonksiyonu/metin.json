@@ -1,0 +1,743 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D072_Ostaki_Disfonksiyonu_TR",
+ "kapak": {
+  "ust": "DERS 72",
+  "baslik": "Östaki borusu<br>*disfonksiyonu*",
+  "alt": "Negatif basınç ve sürekli açık boru",
+  "cizim": "ostaki_kaslari"
+ },
+ "youtube": {
+  "baslik": "Östaki Borusu Disfonksiyonu ve Negatif Orta Kulak Basıncı | Ders 72 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bu derste Östaki borusu işlev bozukluğunun alt tiplerini inceliyoruz: açılamayan boru ve negatif orta kulak basıncı, zar retraksiyonu, C ve B tipi timpanogram, adenoid hipertrofisi ve damak yarığı ile ilişkisi, sürekli açık (patulous) Östaki borusu. Değerlendirme araçlarını ve tedavi seçeneklerini de konuşuyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Schilder ve ark. (2015), Eustachian tube dysfunction: consensus statement on definition, types, clinical presentation and diagnosis, Clinical Otolaryngology; McCoul ve ark. (2012), Validating the clinical assessment of Eustachian tube dysfunction: the ETDQ-7, Laryngoscope; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "östakiborusu",
+   "timpanometri"
+  ],
+  "etiketler": [
+   "Östaki borusu disfonksiyonu",
+   "Eustachian tube dysfunction",
+   "sürekli açık Östaki borusu",
+   "patulous Eustachian tube",
+   "negatif orta kulak basıncı",
+   "adenoid hipertrofisi",
+   "damak yarığı",
+   "C tipi timpanogram",
+   "ETDQ-7",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 72",
+   "baslik": "Östaki borusu *disfonksiyonu*",
+   "alt": "Obstrüktif ve sürekli açık tip, negatif orta kulak basıncı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste Östaki borusunun işlev bozukluklarını ve orta kulaktaki negatif basıncın sonuçlarını öğreneceğiz.",
+    "Açılamayan ve kapanmayan boruyu karşılaştıracak, adenoid hipertrofisi ve damak yarığı ile ilişkisini göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım",
+   "baslik": "Açılma ve kapanma *dengesi*",
+   "cizim": "ostaki_kaslari",
+   "ayar": {
+    "acilma": 1,
+    "acilma_cumle": 0
+   },
+   "vurgula": [
+    {
+     "parca": "tensor_veli_palatini",
+     "cumle": 0
+    },
+    {
+     "parca": "lumen",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "tensor_veli_palatini",
+     "metin": "tensor veli palatini",
+     "cumle": 0
+    },
+    {
+     "parca": "lumen",
+     "metin": "boru açıklığı",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Açılma: _havalandırma_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Kapalı kalma: _koruma_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Denge bozulursa: _disfonksiyon_",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Östaki borusunun kıkırdak bölümü dinlenmede kapalıdır; yutkunma ve esnemede tensor veli palatini kasıyla kısa süreliğine açılır.",
+    "Bu açılma orta kulağı havalandırır, kapalı kalma ise orta kulağı burun yutağının salgılarından ve seslerinden korur.",
+    "Östaki borusu işlev bozukluğu (Eustachian tube dysfunction), bu açılma ve kapanma dengesinin bozulmasıdır.",
+    "Boru yeterince açılamazsa orta kulak havalanamaz; normalden fazla açık kalırsa koruma işlevi kaybolur.",
+    "Borunun yapısını ve işlevlerini Östaki borusu dersinde görmüştük; bu derste işlev bozukluklarının klinik yüzüne odaklanacağız."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım",
+   "baslik": "Üç *alt tip*",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Açılamayan boru",
+     "cumle": 1,
+     "metin": "Obstrüktif ya da dilatör tip"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Basınç değişiminde",
+     "cumle": 2,
+     "metin": "Uçuş ve dalışta ortaya çıkar"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Kapanmayan boru",
+     "cumle": 3,
+     "metin": "Sürekli açık tip"
+    }
+   ],
+   "cumleler": [
+    "İki bin on beş yılında yayımlanan uluslararası bir uzlaşı bildirgesi, Östaki borusu işlev bozukluğunu üç alt tipte toplar.",
+    "En sık olanı borunun yeterince açılamadığı tiptir; buna obstrüktif ya da dilatör tip denir.",
+    "İkinci tipte belirtiler yalnız uçuş ya da dalış gibi ortam basıncının hızla değiştiği durumlarda ortaya çıkar.",
+    "Üçüncüsü borunun normalden fazla açık kaldığı sürekli açık (patulous) tiptir; bunu dersin sonunda ayrıca ele alacağız.",
+    "Uzlaşıya göre dilatör tipte tanı için yakınmalarla birlikte orta kulakta negatif basınç kanıtı aranır."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Açılamayan boru",
+   "baslik": "Açılamayan borunun *nedenleri*",
+   "ogeler": [
+    {
+     "ikon": "virus",
+     "baslik": "Soğuk algınlığı",
+     "cumle": 0,
+     "metin": "Mukozada şişlik"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Alerjik rinit",
+     "cumle": 1,
+     "metin": "Kronik burun iltihabı"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Adenoid hipertrofisi",
+     "cumle": 2,
+     "metin": "Boru ağzını daraltır"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Damak yarığı",
+     "cumle": 3,
+     "metin": "Açıcı kas işlevi bozuk"
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Down sendromu",
+     "cumle": 4,
+     "metin": "Dar boru, zayıf kas tonusu"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Burun yutağı kitlesi",
+     "cumle": 5,
+     "metin": "Erişkinde tek taraflı efüzyon"
+    }
+   ],
+   "cumleler": [
+    "Üst solunum yolu enfeksiyonları boru mukozasını şişirir; bu, geçici işlev bozukluğunun en sık nedenidir.",
+    "Alerjik rinit gibi kronik burun iltihapları da mukozayı sürekli şiş tutarak işlevi bozabilir.",
+    "Adenoid hipertrofisi, yani geniz eti büyümesi, boru ağzını daraltabilir ve mikroplar için bir kaynak oluşturabilir.",
+    "Damak yarığında borunun açıcı kası olan tensor veli palatini normal yerine tutunamaz ve boru iyi açılamaz.",
+    {
+     "yazi": "Down sendromlu çocuklarda dar bir boru ve düşük kas tonusu bir araya gelir; orta kulak sorunları bu yüzden çok sıktır.",
+     "ses": "Daun sendromlu çocuklarda dar bir boru ve düşük kas tonusu bir araya gelir; orta kulak sorunları bu yüzden çok sıktır."
+    },
+    "Erişkinlerde nadir ama önemli bir neden, burun yutağında boru ağzını tıkayan bir kitledir."
+   ]
+  },
+  {
+   "id": "adenoid",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Açılamayan boru",
+   "baslik": "Adenoid ve *damak yarığı*",
+   "maddeler": [
+    {
+     "metin": "Adenoid: _tıkama_ ve mikrop kaynağı",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Damak yarığı: efüzyon _neredeyse kural_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Onarımdan sonra da _izlem_ sürer",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Düzenli _işitme testi_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ostaki_kaslari",
+    "cumle": 2,
+    "ayar": {
+     "acilma": 0.3
+    },
+    "vurgula": [
+     {
+      "parca": "tensor_veli_palatini",
+      "cumle": 2
+     },
+     {
+      "parca": "yumusak_damak",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "tensor_veli_palatini",
+      "metin": "tensor veli palatini",
+      "cumle": 2
+     },
+     {
+      "parca": "yumusak_damak",
+      "metin": "yumuşak damak",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Büyük adenoid dokusu boru ağzını mekanik olarak daraltır ve burun yutağındaki mikropları boruya yakın tutar.",
+    "Bu nedenle adenoid hipertrofisi olan çocuklarda tekrarlayan otitis media ve efüzyon sık görülür.",
+    "Onarılmamış damak yarığı olan bebeklerde efüzyonlu otitis media çok sıktır; kaynaklar oranı genellikle yaklaşık yüzde doksan verir.",
+    "Damak onarıldıktan sonra da boru işlevi her zaman hemen düzelmez; orta kulak sorunları yıllarca sürebilir.",
+    "Bu çocuklarda işitme düzenli aralıklarla, timpanometri ile birlikte izlenir ve sonuçlar ekip içinde paylaşılır."
+   ]
+  },
+  {
+   "id": "retraksiyon",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Negatif basınç",
+   "baslik": "Negatif basınçta *zar*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "patoloji": [
+     {
+      "tur": "retraksiyon",
+      "cumle": 1,
+      "kalici": true
+     },
+     {
+      "tur": "atik_cebi",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "manubrium",
+     "cumle": 2
+    },
+    {
+     "parca": "processus_lateralis",
+     "cumle": 2
+    },
+    {
+     "parca": "pars_flaccida",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "manubrium",
+     "metin": "manubrium: kısa görünür",
+     "cumle": 2
+    },
+    {
+     "parca": "processus_lateralis",
+     "metin": "kısa çıkıntı: belirgin",
+     "cumle": 2
+    },
+    {
+     "parca": "isik_ucgeni",
+     "metin": "ışık refleksi: kaybolur",
+     "cumle": 3
+    },
+    {
+     "parca": "atik_cebi",
+     "metin": "retraksiyon cebi",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Malleus sapı _kısa_ görünür",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Uzarsa: _retraksiyon cebi_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Dolgunluk, _çıtırtı_",
+     "cumle": 5,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Boru açılamazsa orta kulak mukozası boşluktaki gazı emmeye devam eder ve basınç düşer.",
+    "Negatif basınç timpanik membranı içe doğru çeker; buna zar retraksiyonu denir.",
+    "Otoskopide malleusun sapı kısalmış ve daha yatay görünür, kısa çıkıntısı ise belirginleşir.",
+    "Işık refleksi bozulabilir ya da kaybolabilir.",
+    "Uzun süren negatif basınçta zar incelir, orta kulak yapılarına yapışabilir ve retraksiyon cepleri oluşabilir.",
+    "Kişi kulakta dolgunluk, tıkanma ve yutkunurken çıtırtı hisseder; işitme genellikle hafifçe azalır."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Negatif basınç",
+   "baslik": "Basınçtan *sıvıya*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "C",
+      "cumle": 1
+     },
+     {
+      "tip": "B",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "A: normal _basınç_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "C: _negatif_ tepe",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "B: _sıvı_ birikimi",
+     "cumle": 2,
+     "ikon": "akinti"
+    }
+   ],
+   "cumleler": [
+    "Normal bir orta kulakta timpanogramın tepesi sıfır dekapaskal civarındadır.",
+    "Negatif basınç oluştuğunda tepe negatif tarafa kayar; Jerger ölçütünde eksi yüz dekapaskaldan negatif tepe C tipi sayılır.",
+    "Negatif basınç uzun sürerse mukoza boşluğa sıvı salgılar ve eğri düzleşerek B tipine dönebilir.",
+    "Negatif basınç tek başına genellikle hafif bir iletim kaybı yapar; sıvı biriktiğinde kayıp biraz daha artar.",
+    "Boru işlevi düzeldikçe bu sıra çoğu zaman tersine izlenir: önce C, sonra A tipi eğri."
+   ]
+  },
+  {
+   "id": "odyolog",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Negatif basınç",
+   "baslik": "Odyolog *ne yapar?*",
+   "maddeler": [
+    {
+     "metin": "Timpanogram ve odyogram _birlikte_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Tepe basıncını _sayıyla_ yaz",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Çocukta uzun süren efüzyon: _işitme testi_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Değişimi _izle_, hekimle paylaş",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        30,
+        30,
+        25,
+        20,
+        20,
+        25
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        5,
+        5,
+        5,
+        10,
+        10
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Östaki borusu işlev bozukluğu düşünülen kişide timpanometri ve saf ses odyometrisi birlikte yapılır.",
+    "Raporda yalnız eğrinin tipi değil, tepe basıncının sayısal değeri de yazılır; böylece kontrollerde değişim izlenebilir.",
+    "Çocuklarda efüzyon üç ay ya da daha uzun sürdüğünde yaşa uygun bir işitme testi yapılması önerilir.",
+    "Negatif basınç ve efüzyon zaman içinde dalgalanabildiği için tek bir ölçüm yerine düzenli izlem daha değerlidir.",
+    "Sonuçlar hekimle paylaşılır; tedavi kararı bu bulgular ışığında hekim tarafından verilir."
+   ]
+  },
+  {
+   "id": "patulous",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kapanmayan boru",
+   "baslik": "Sürekli açık *Östaki borusu*",
+   "maddeler": [
+    {
+     "metin": "Kendi sesini _yankılı_ duyma",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Nefesini kulağında _duyma_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Yatınca ya da başı eğince _rahatlama_",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Kilo kaybı, _gebelik_ ile ilişki",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "İşitme çoğu zaman _normal_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ostaki_kaslari",
+    "cumle": 0,
+    "ayar": {
+     "acilma": 1
+    },
+    "vurgula": [
+     {
+      "parca": "lumen",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "lumen",
+      "metin": "kapanmayan boru",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Sürekli açık Östaki borusunda (patulous Eustachian tube) boru dinlenmede de açık kalır; en tipik yakınma otofonidir.",
+    "Kişi kendi sesini kulağında yankılı ve rahatsız edici biçimde duyar; nefes alıp verişini de kulağında işitebilir.",
+    "Kulakta dolgunluk hissi de olabilir; bu yüzden tablo kolayca açılamayan boruyla karıştırılır.",
+    "Yakınmalar yatınca ya da başı öne eğince azalır; çünkü bu konumda boru çevresindeki damarlar dolar ve boru kapanır.",
+    "Hızlı kilo kaybı, gebelik ve hormonal değişiklikler bilinen ilişkili durumlardır; çoğu hastada belirgin bir neden bulunamaz.",
+    "İşitme genellikle normaldir; otoskopide zarın solunumla birlikte içe dışa hareket ettiği görülebilir.",
+    "Açılamayan boru sanılarak verilen burun açıcı ilaçlar sürekli açık boruda yakınmaları artırabilir; doğru ayrım bu yüzden önemlidir."
+   ]
+  },
+  {
+   "id": "ayirim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kapanmayan boru",
+   "baslik": "İki tipi *ayırt etmek*",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Tıkanma, çıtırtı",
+     "cumle": 0,
+     "metin": "Açılamayan boru"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Otofoni",
+     "cumle": 1,
+     "metin": "Kapanmayan boru"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "C, B tipi",
+     "cumle": 2,
+     "metin": "Açılamayan boru"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Solunumla dalgalanma",
+     "cumle": 3,
+     "metin": "Kapanmayan boru"
+    }
+   ],
+   "cumleler": [
+    "İki tipte de kulakta dolgunluk olabilir; ama tıkanma ve yutkunurken çıtırtı daha çok açılamayan boruyu düşündürür.",
+    "Kendi sesini ve nefesini yankılı duymak ise kapanmayan borunun belirgin özelliğidir.",
+    "Açılamayan boruda timpanogram çoğu zaman C ya da B tipidir.",
+    "Kapanmayan boruda tepe basıncı genellikle normaldir; derin nefes alıp verirken eğride solunumla eş zamanlı dalgalanmalar olabilir.",
+    "Bu bulgular yalnız ipucudur; ayırıcı tanı hekime aittir."
+   ]
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Değerlendirme",
+   "baslik": "Klinikte *değerlendirme*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "ETDQ-7 anketi",
+     "cumle": 0,
+     "metin": "Yedi soru, 7 ile 49 puan"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometri",
+     "cumle": 2,
+     "metin": "Tepe basıncı ve tip"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Manevralar",
+     "cumle": 3,
+     "metin": "Yutkunma, Valsalva, Toynbee"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Delikli zarda",
+     "cumle": 4,
+     "metin": "İnflasyon ve deflasyon testi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Yakınmaları sayısal olarak izlemek için yedi maddelik Östaki Borusu İşlev Bozukluğu Anketi, kısaca ETDQ-7 kullanılabilir.",
+     "ses": "Yakınmaları sayısal olarak izlemek için yedi maddelik Östaki Borusu İşlev Bozukluğu Anketi, kısaca e te de kü yedi kullanılabilir."
+    },
+    "Her madde birden yediye puanlanır ve toplam puan yedi ile kırk dokuz arasında değişir; kesme değerleri çalışmalara göre farklılık gösterir.",
+    "Timpanometri, orta kulak basıncını ve sıvı olasılığını gösteren en pratik objektif testtir.",
+    {
+     "yazi": "Yutkunma, Valsalva ve Toynbee manevralarından önce ve sonra tepe basıncındaki değişim, borunun açılabildiğini gösterir.",
+     "ses": "Yutkunma, Valsalva ve Toynbi manevralarından önce ve sonra tepe basıncındaki değişim, borunun açılabildiğini gösterir."
+    },
+    "Zarda delik ya da tüp varsa kanala basınç verilir ve kişinin yutkunarak bu basıncı dengeleyip dengeleyemediği ölçülür.",
+    "Bu yönteme inflasyon ve deflasyon testi denir.",
+    "Tek bir test boru işlevini tam olarak göstermez; yakınmalar ve bulgular birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "tedavi",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Değerlendirme",
+   "baslik": "Tedavide *seçenekler*",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "İzlem",
+     "cumle": 0,
+     "metin": "Çoğu kendiliğinden düzelir"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Burun tedavisi",
+     "cumle": 1,
+     "metin": "Alerji ve iltihap"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Otoinflasyon",
+     "cumle": 2,
+     "metin": "Burundan balon şişirme"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tüp, adenoidektomi",
+     "cumle": 3,
+     "metin": "Seçilmiş çocuklarda"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Balon dilatasyon",
+     "cumle": 4,
+     "metin": "Seçilmiş erişkinlerde"
+    }
+   ],
+   "cumleler": [
+    "Tedavi kararı hekime aittir; özellikle soğuk algınlığından sonraki işlev bozukluğu çoğu zaman kendiliğinden düzelir.",
+    "Alerjik rinit gibi altta yatan burun sorunlarının tedavisi borunun işlevini destekleyebilir.",
+    "Çocuklarda burundan özel bir balonu şişirerek boruyu açmaya dayanan otoinflasyon yöntemi kullanılabilir.",
+    "Uzun süren efüzyonda ventilasyon tüpü, seçilmiş çocuklarda adenoidektomi ile birlikte, hekim tarafından önerilebilir.",
+    "Kronik açılamayan borusu olan seçilmiş erişkinlerde ise borunun balonla genişletilmesi, yani balon dilatasyon uygulanabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Erişkinde tek taraflı ve nedeni açıklanamayan efüzyon görürseniz kişiyi mutlaka hekime yönlendirin; burun yutağının muayene edilmesi gerekir.",
+   "cumleler": [
+    "Sahadan bir ipucu: çocuklarda efüzyon çok sıktır, ama erişkinde tek taraflı efüzyon farklı bir anlam taşır.",
+    "Erişkinde soğuk algınlığı gibi açık bir nedeni olmayan tek taraflı B tipi timpanogram ve iletim kaybı görürseniz not edin.",
+    "Bu tablo, nadir de olsa burun yutağında boru ağzını tıkayan bir kitlenin ilk belirtisi olabilir.",
+    "Kişiyi burun yutağının muayenesi için hekime yönlendirin ve bulguyu raporunuzda açıkça belirtin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Üç alt tip: dilatör, _basınçla_, sürekli açık",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Adenoid ve damak yarığı: _açılamayan_ boru",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Negatif basınç: _retraksiyon_, C tipi",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Sürekli açık: _otofoni_, yatınca rahatlama",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Östaki borusu işlev bozukluğu dilatör, basınç değişiminde ortaya çıkan ve sürekli açık olmak üzere üç alt tipte incelenir.",
+    "Soğuk algınlığı, alerji, adenoid hipertrofisi ve damak yarığı borunun açılmasını bozar.",
+    "Açılamayan boru negatif basınç, zar retraksiyonu ve C tipi timpanogram yapar; uzarsa sıvı birikir.",
+    "Sürekli açık boruda kendi sesini yankılı duyma tipiktir; yakınmalar yatınca azalır ve işitme çoğu zaman normaldir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Kendi sesini yankılı duyma ve yatınca rahatlama hangi tabloyu düşündürür?",
+   "secenekler": [
+    "Açılamayan boru",
+    "Sürekli açık Östaki borusu",
+    "Otoskleroz",
+    "Buşon"
+   ],
+   "dogru": 1,
+   "aciklama": "Sürekli açık boruda boru _açık kalır_; otofoni tipiktir, yatınca damarlar dolup boru kapandığı için yakınma azalır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Kendi sesini ve nefesini yankılı duyan, yatınca rahatlayan bir kişide hangi tablo düşünülür?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: sürekli açık Östaki borusu.",
+     "ses": "Doğru cevap be: sürekli açık Östaki borusu."
+    },
+    "Boru dinlenmede de açık kaldığı için ses ve solunum doğrudan orta kulağa ulaşır; yatınca boru çevresi dolar ve yakınma azalır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Konuşma nasıl *üretilir?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kulaktan konuşmaya geçiyoruz: solunum, ses ve artikülasyonla konuşmanın nasıl üretildiğini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

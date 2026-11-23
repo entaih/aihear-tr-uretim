@@ -1,0 +1,837 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D124_OAE_Klinikte_TR",
+ "kapak": {
+  "ust": "DERS 124",
+  "baslik": "*OAE*<br>klinikte",
+  "alt": "Tarama, ototoksisite ve tuzaklar",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "TEOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "OAE Klinikte: Tarama, Ototoksisite ve Etkileyen Faktörler | Ders 124 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Otoakustik emisyonlar yenidoğan taramasında, ototoksisite izleminde ve işitsel nöropatinin tanınmasında önemli bir yere sahiptir. Bu derste tarama akışını, yoğun bakım bebeklerinde otomatik ABR gerekliliğini, orta kulak efüzyonu, verniks, prob yerleşimi ve gürültünün sonuca etkisini örneklerle inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: JCIH (2019), Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; ASHA (1994), Guidelines for the audiologic management of individuals receiving cochleotoxic drug therapy; T.C. Sağlık Bakanlığı, Yenidoğan İşitme Tarama Programı Genelgesi (2014/27); Hall JW, Handbook of Otoacoustic Emissions; Dhar S, Hall JW, Otoacoustic Emissions: Principles, Procedures, and Protocols; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "OAE",
+   "yenidoğantaraması"
+  ],
+  "etiketler": [
+   "otoakustik emisyon",
+   "OAE",
+   "yenidoğan işitme taraması",
+   "ototoksisite",
+   "işitsel nöropati",
+   "verniks",
+   "orta kulak efüzyonu",
+   "prob yerleşimi",
+   "JCIH",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 124",
+   "baslik": "*OAE* klinikte",
+   "alt": "Tarama, ototoksisite ve sonucu bozan etkenler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste otoakustik emisyonun, kısaca OAE'nin klinikteki başlıca kullanım alanlarını öğreneceğiz.",
+    "Yenidoğan taramasını, ototoksisite izlemini, işitsel nöropatiye katkısını ve sonuçları bozan etkenleri konuşacağız."
+   ]
+  },
+  {
+   "id": "roller",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kullanım alanları",
+   "baslik": "OAE'nin *klinik* rolleri",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Yenidoğan taraması",
+     "metin": "Hızlı ve objektif",
+     "cumle": 1
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoksisite",
+     "metin": "Erken değişimi gösterir",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "İşitsel nöropati",
+     "metin": "ABR ile birlikte",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çapraz kontrol",
+     "metin": "Davranışsal teste destek",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "İşlevsel kayıp",
+     "metin": "Beyanla çelişki",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Önceki üç derste OAE'nin ne olduğunu ve nasıl ölçüldüğünü gördük; şimdi klinikte ne işe yaradığına bakalım.",
+    "En yaygın kullanım alanı yenidoğan işitme taramasıdır.",
+    "Kulağa toksik ilaç alan hastalarda dış tüy hücresi değişikliklerini izlemek için de kullanılır.",
+    "İşitsel beyin sapı yanıtı, kısaca ABR ile birlikte işitsel nöropatinin tanınmasına katkı sağlar.",
+    "Davranışsal sonuçların güvenilir olmadığı çocuklarda bir çapraz kontrol aracıdır.",
+    "Beyan edilen ileri kayba rağmen OAE'nin normal alınması, işlevsel işitme kaybı şüphesini güçlendirir."
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yenidoğan taraması",
+   "baslik": "Tarama *akışı*",
+   "adimlar": [
+    {
+     "ikon": "bebek",
+     "baslik": "İlk tarama",
+     "metin": "Taburculuk öncesi",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Tekrar tarama",
+     "metin": "Kalanlar yeniden",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tanısal test",
+     "metin": "Odyolojik değerlendirme",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "1-3-6 hedefi",
+     "metin": "Tarama, tanı, müdahale",
+     "cumle": 4
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Ulusal program",
+     "metin": "Sağlık Bakanlığı",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Sağlıklı yenidoğanlarda tarama birçok programda taburculuktan önce OAE ile başlar.",
+    "OAE hızlıdır, girişimsizdir ve bebek uyurken birkaç dakikada tamamlanabilir.",
+    "İlk taramadan kalan bebek, aynı gün ya da kısa süre içinde yeniden taranır.",
+    "Tekrar taramadan da kalan bebek tanısal odyolojik değerlendirmeye yönlendirilir.",
+    "Bebek İşitmesi Ortak Komitesi, kısaca JCIH, taramanın bir ayda, tanının üç ayda tamamlanmasını önerir.",
+    "Müdahalenin ise altı ayda başlaması hedeflenir; buna bir, üç, altı hedefi denir.",
+    "Türkiye'de de Sağlık Bakanlığının ulusal yenidoğan işitme taraması programı yürütülmektedir."
+   ]
+  },
+  {
+   "id": "yogun_bakim",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yenidoğan taraması",
+   "baslik": "Sağlıklı bebek ve *yoğun bakım*",
+   "sol": {
+    "ust": "Sağlıklı bebek",
+    "maddeler": [
+     {
+      "metin": "OAE ya da AABR",
+      "cumle": 0
+     },
+     {
+      "metin": "İki aşamalı tarama",
+      "cumle": 1
+     },
+     {
+      "metin": "Kalırsa tanısal test",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Yoğun bakım (5 günden uzun)",
+    "maddeler": [
+     {
+      "metin": "Otomatik ABR önerilir",
+      "cumle": 2
+     },
+     {
+      "metin": "Neden: işitsel nöropati riski",
+      "cumle": 3
+     },
+     {
+      "metin": "Yalnız OAE yetersiz",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Sağlıklı bebek ünitelerinde tarama OAE ya da otomatik işitsel beyin sapı yanıtı, kısaca AABR ile yapılabilir.",
+    "Kalan bebekler ikinci aşamada yeniden taranır ve gerekirse tanısal teste yönlendirilir.",
+    "Yenidoğan yoğun bakımında beş günden uzun kalan bebeklerde ise JCIH taramanın otomatik ABR ile yapılmasını önerir.",
+    "Bunun nedeni, bu bebeklerde işitsel nöropatinin daha sık görülmesidir.",
+    "İşitsel nöropatide OAE normal olabileceği için yalnız OAE ile yapılan tarama bu bebekleri geçti olarak değerlendirebilir.",
+    "Bu konuyu işitsel nöropati spektrum bozukluğu dersinde ayrıntılı ele alacağız."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yenidoğan taraması",
+   "baslik": "Sonucu *aileye* anlatmak",
+   "maddeler": [
+    {
+     "metin": "Kaldı: _tanı değil_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Sık neden: _geçici_ etkenler",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Kontrol randevusu _önemli_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Geçti: _izlem_ yine gerekli",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "AİLEYE",
+    "metin": "Kaldı sonucu *ileri test* gerektiğini gösterir",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Taramadan kalma sonucu aileye anlatılırken bunun bir tanı olmadığı açıkça söylenir.",
+    "Kalma sonucunun çoğu zaman sıvı, verniks ya da gürültü gibi geçici nedenlerle ilgili olabileceği açıklanır.",
+    "Ancak kontrol randevusunun önemi vurgulanır; çünkü kalan bebeklerin bir kısmında gerçek bir kayıp vardır.",
+    "Geçti sonucu da sonradan gelişebilecek işitme sorunlarını dışlamaz; aile konuşma gelişimini izlemesi için bilgilendirilir."
+   ]
+  },
+  {
+   "id": "ototoks",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ototoksisite ve nöropati",
+   "baslik": "Ototoksisite *izlemi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 750,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "f2 frekansı (Hz)"
+    },
+    "y": {
+     "min": -20,
+     "max": 20,
+     "adim": 10,
+     "ad": "DP düzeyi (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "baslangic",
+      "noktalar": [
+       [
+        1000,
+        8
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        3000,
+        9
+       ],
+       [
+        4000,
+        8
+       ],
+       [
+        6000,
+        6
+       ],
+       [
+        8000,
+        4
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "başlangıç",
+      "cumle": 3
+     },
+     {
+      "ad": "tedavi",
+      "noktalar": [
+       [
+        1000,
+        8
+       ],
+       [
+        2000,
+        9
+       ],
+       [
+        3000,
+        6
+       ],
+       [
+        4000,
+        1
+       ],
+       [
+        6000,
+        -6
+       ],
+       [
+        8000,
+        -10
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "tedavi sırasında",
+      "cumle": 4
+     },
+     {
+      "ad": "gurultu_tabani",
+      "noktalar": [
+       [
+        1000,
+        -2
+       ],
+       [
+        2000,
+        -8
+       ],
+       [
+        3000,
+        -10
+       ],
+       [
+        4000,
+        -11
+       ],
+       [
+        6000,
+        -10
+       ],
+       [
+        8000,
+        -8
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "kesik": true,
+      "etiket": "gürültü tabanı",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Önce başlangıç ölçümü",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Tiz frekansta erken düşüş",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Davranışsal ölçütler: ASHA",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Sisplatin gibi bazı kemoterapi ilaçları ve aminoglikozid antibiyotikler kulağa zarar verebilir.",
+    "Bu etkiye ototoksisite (ototoxicity) denir ve genellikle önce yüksek frekansları etkiler.",
+    "İzlemde tedavi başlamadan önce bir başlangıç ölçümü alınır.",
+    {
+     "yazi": "Ekrandaki örnekte mavi çizgi, distorsiyon ürünü otoakustik emisyonun, kısaca DPOAE'nin başlangıç DP-gramını gösteriyor.",
+     "ses": "Ekrandaki örnekte mavi çizgi, distorsiyon ürünü otoakustik emisyonun, kısaca DPOAE'nin başlangıç de pe gramını gösteriyor."
+    },
+    "Kırmızı çizgide tedavi sırasında yüksek frekanslardaki ürünün belirgin biçimde azaldığını görüyoruz.",
+    "DPOAE'deki bu düşüş, hasta bir yakınma bildirmeden ve bazen odyogramda değişiklik görülmeden ortaya çıkabilir.",
+    "Odyogram değişikliği ölçütlerini ise Amerikan Konuşma Dil İşitme Derneği, kısaca ASHA tanımlar; bunları ototoksisite dersinde göreceğiz."
+   ]
+  },
+  {
+   "id": "noropati",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ototoksisite ve nöropati",
+   "baslik": "OAE ve *işitsel nöropati*",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Dış tüy hücreleri: OAE",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "İç tüy hücresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Sinir lifleri",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "OAE var: dış tüy hücreleri",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "ABR yok ya da bozuk",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "OAE zamanla kaybolabilir",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "İşitsel nöropati (auditory neuropathy) tablosunda dış tüy hücreleri çoğu zaman sağlamdır; bu yüzden OAE alınabilir.",
+    "Sorun ise iç tüy hücresi, sinaps ya da işitme sinirindeki iletimdedir.",
+    "Bu durumda ABR yoktur ya da belirgin biçimde bozuktur.",
+    "OAE var, ABR yok bulgusu bu tablonun en önemli ipucudur.",
+    "Bazı hastalarda OAE zamanla kaybolabilir; bu yüzden OAE yokluğu tanıyı dışlamaz ve koklear mikrofonik de değerlendirilir.",
+    "OAE burada tek başına değil, ABR ile birlikte anlam kazanan bir testtir."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sonucu bozan etkenler",
+   "baslik": "Sonucu *etkileyen* faktörler",
+   "ogeler": [
+    {
+     "ikon": "akinti",
+     "baslik": "Orta kulak efüzyonu",
+     "metin": "Yanıtı siler",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Verniks, serumen",
+     "metin": "Kulak yolunu tıkar",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Prob yerleşimi",
+     "metin": "Sızıntı, tıkalı uç",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ortam gürültüsü",
+     "metin": "Gürültü tabanı yükselir",
+     "cumle": 4
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Bebeğin durumu",
+     "metin": "Emme, ağlama, hareket",
+     "cumle": 5
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Ölçüm zamanı",
+     "metin": "İlk saatler daha zor",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "OAE çok küçük bir sinyal olduğu için birçok etken sonucu bozabilir; bunları bilmek gereksiz kaldı sonuçlarını azaltır.",
+    "Orta kulak efüzyonu (middle ear effusion), yani orta kulakta sıvı, emisyonun kulak yoluna dönüşünü engeller ve OAE'yi silebilir.",
+    "Yenidoğanın kulak yolunda doğumdan kalan verniks kazeoza (vernix caseosa) ve döküntüler probu ve kanalı tıkayabilir.",
+    "Prob yerleşimi (probe fit) kötüyse uyaran düzeyi değişir, gürültü girer ve kayıt bozulur.",
+    "Ortam gürültüsü gürültü tabanını yükseltir ve zayıf emisyonları örter.",
+    "Bebeğin emmesi, ağlaması ya da hareket etmesi de kayda gürültü ekler.",
+    "Doğumdan sonraki ilk saatlerde kulak yolu ve orta kulaktaki artıklar nedeniyle kalma oranı daha yüksektir."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sonucu bozan etkenler",
+   "baslik": "Kulak yolu ve *orta kulak*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Verniks, serumen",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Sıvı (efüzyon)",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "Koklea sağlam olabilir",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Engel iki yönde etkiler",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "OAE yokluğu: iletim engeli olabilir",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Otoskopi ve timpanometriyle yorumla",
+     "cumle": 4,
+     "ikon": "otoskop"
+    }
+   ],
+   "cumleler": [
+    "Sorunun nerede olduğunu çizim üzerinde görelim.",
+    "Kulak yolundaki verniks ya da serumen, uyaranın kokleaya ulaşmasını ve emisyonun mikrofona dönmesini azaltır.",
+    "Orta kulaktaki sıvı iletimi iki yönde de zayıflatır; emisyon çok küçük olduğu için bu kayıp onu ölçülemez yapabilir.",
+    "İki durumda da koklea normal olabilir; OAE yokluğu bu kez iletim yolundaki bir engeli yansıtır.",
+    "Bu yüzden tanısal değerlendirmede OAE, otoskopi ve timpanometriyle birlikte yorumlanır.",
+    "Altı aydan küçük bebeklerde timpanometri için bin hertzlik prob tonunun kullanıldığını hatırlayalım."
+   ]
+  },
+  {
+   "id": "once",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sonucu bozan etkenler",
+   "baslik": "Kaldı demeden *önce*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Kanal açık mı?",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Prob kontrolü",
+     "metin": "Uç temiz, iyi oturmuş",
+     "cumle": 1
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sakin ortam",
+     "metin": "Gürültü ve bebek",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Tekrar ölçüm",
+     "metin": "Uygun zamanda",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Yönlendirme",
+     "metin": "Kalıcı kalmada",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bir kaldı sonucu vermeden önce kulak yolunu otoskopla kontrol edin.",
+    "Probu çıkarıp ucunu temizleyin ya da değiştirin ve iyi oturacak biçimde yeniden yerleştirin.",
+    "Ortamı sessizleştirin ve bebeğin uyumasını ya da sakinleşmesini bekleyin.",
+    "Gerekirse ölçümü birkaç saat sonra ya da ertesi gün tekrarlayın.",
+    "Bu adımların amacı sonucu değiştirmek değil, ölçümü güvenilir koşullarda yapmaktır.",
+    "Uygun koşullarda tekrarlanan ölçümde de kalan bebek, protokole göre ileri teste yönlendirilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "OAE sonucunu timpanometri sonucuyla birlikte raporlayın. Orta kulak sorunu varken OAE yokluğu koklear kayıp anlamına gelmez.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: OAE sonucunu hiçbir zaman timpanometriden bağımsız raporlamayın.",
+    "Orta kulak sorunu olan bir kulakta OAE yokluğu koklear kayıp anlamına gelmez.",
+    "Raporda OAE sonucunu, timpanometri bulgusunu ve ölçüm koşullarını birlikte yazın.",
+    "Orta kulak sorunu düzeldikten sonra yapılan tekrar ölçüm çoğu zaman tabloyu netleştirir."
+   ]
+  },
+  {
+   "id": "islevsel",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Çapraz kontrol",
+   "baslik": "Örnek: *çelişen* bulgular",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: beyan edilen ileri kayıp",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: beyan edilen ileri kayıp",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "TEOAE ve DPOAE: _normal_",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Refleks eşikleri: _normal_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       70,
+       75,
+       80,
+       80,
+       85,
+       90
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       70,
+       75,
+       75,
+       80,
+       85,
+       90
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Bir örnek: bir yetişkin, iki kulakta da ileri derecede işitme kaybı gösteren eşikler veriyor.",
+    "Aynı kişide geçici uyarılmış otoakustik emisyon, kısaca TEOAE ve DPOAE iki kulakta da normal düzeyde alınıyor.",
+    "Akustik refleks eşikleri de normal sınırlarda.",
+    "İleri derecede koklear kayıpla OAE'nin normal alınması beklenmez; bulgular birbiriyle çelişiyor.",
+    "Bu çelişki işlevsel işitme kaybı şüphesini güçlendirir; refleksler de normal olduğundan işitsel nöropati olasılığı düşüktür.",
+    "Örnek eğitim amaçlıdır; bu tür vakalarda değerlendirme test bataryasıyla ve dikkatle yapılır."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Çapraz kontrol",
+   "baslik": "OAE'nin *sınırları*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Eşik testi değil",
+     "metin": "Dereceyi söylemez",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Sinir yolu",
+     "metin": "Nöropatiyi dışlamaz",
+     "cumle": 2
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Yokluğun nedeni",
+     "metin": "Orta kulak ya da koklea",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Batarya",
+     "metin": "Diğer testlerle birlikte",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bütün bu kullanımlarda OAE'nin sınırlarını da akılda tutmak gerekir.",
+    "OAE bir eşik testi değildir; kaybın derecesini söylemez.",
+    "Normal OAE hafif bir kaybı ya da işitsel nöropatiyi dışlamaz.",
+    "OAE yokluğu, orta kulak sorununu koklear kayıptan tek başına ayırt etmez.",
+    "Bu yüzden OAE, test bataryasının güçlü ama tek başına yetmeyen bir parçasıdır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Tarama: _hızlı_ ve objektif",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Ototoksisitede _erken_ uyarı",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "OAE var, ABR yok: _nöropati_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Efüzyon, verniks, _prob_, gürültü",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "OAE yenidoğan taramasında hızlı ve objektif bir testtir; yoğun bakım bebeklerinde ise otomatik ABR önerilir.",
+    "Ototoksisite izleminde DPOAE, yüksek frekanslardaki değişimi erken gösterebilir.",
+    "OAE varken ABR'nin olmaması işitsel nöropatinin en önemli ipucudur.",
+    "Orta kulak efüzyonu, verniks, prob yerleşimi ve gürültü, koklea normalken OAE'yi silebilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Yoğun bakımda 10 gün kalmış bebeğin taraması nasıl yapılmalı?",
+   "secenekler": [
+    "Yalnız TEOAE ile",
+    "Otomatik ABR ile",
+    "Yalnız timpanometriyle",
+    "Tarama gerekmez"
+   ],
+   "dogru": 1,
+   "aciklama": "Yoğun bakım bebeklerinde _işitsel nöropati_ riski nedeniyle tarama otomatik ABR ile yapılır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Yenidoğan yoğun bakımında on gün kalmış bir bebeğin taraması nasıl yapılmalıdır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: otomatik ABR ile.",
+    "Bu bebeklerde işitsel nöropati riski daha yüksektir; OAE normal olabileceği için yalnız OAE ile tarama yeterli değildir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitsel uyarılmış *potansiyeller*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste OAE'den beyin sapı ve korteks yanıtlarına geçiyor, işitsel uyarılmış potansiyellere giriş yapıyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

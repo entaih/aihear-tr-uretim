@@ -1,0 +1,107 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R001_En_Kucuk_Kemik_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #1",
+  "baslik": "En küçük kemik *nerede?*",
+  "alt": "Stapes (üzengi), yaklaşık 3 mm",
+  "cizim": "uzengi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Vücudunuzdaki en küçük kemik nerede? #shorts",
+  "aciklama": "Stapes (üzengi), yaklaşık 3 mm boyuyla vücudumuzun en küçük kemiğidir. Malleus (çekiç) ve incus (örs) ile birlikte, timpanik membrandaki (kulak zarı) titreşimi iç kulağa taşır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "kulak",
+   "bilgi"
+  ],
+  "etiketler": [
+   "stapes",
+   "üzengi",
+   "en küçük kemik",
+   "orta kulak",
+   "ossiküller",
+   "kulak kemikçikleri",
+   "odyoloji",
+   "işitme",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #1",
+   "metin": "Vücudunuzdaki en küçük kemik *nerede?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Vücudunuzdaki en küçük kemik nerede?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "*Stapes* (üzengi), orta kulakta",
+   "sayi": "3",
+   "birim": "mm",
+   "cizim": true,
+   "cizim_cumle": 1,
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Orta kulağınızda. Adı stapes, yani üzengi.",
+    "Boyu yaklaşık 3 mm. Bir pirinç tanesinden bile küçük."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Sesi taşıyan *ossiküller*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Malleus",
+     "tr": "çekiç",
+     "cumle": 0
+    },
+    {
+     "ad": "Incus",
+     "tr": "örs",
+     "cumle": 0,
+     "gecikme": 0.7
+    },
+    {
+     "ad": "Stapes",
+     "tr": "üzengi",
+     "cumle": 0,
+     "gecikme": 1.3
+    }
+   ],
+   "alt": "Titreşimi _timpanik membrandan_ (kulak zarı) iç kulağa taşır.",
+   "alt_cumle": 1,
+   "cumleler": [
+    "Malleus, incus ve stapes birlikte ossikül zincirini oluşturur.",
+    "Stapes bu zincirin son halkasıdır ve timpanik membrandan gelen titreşimi iç kulağa iletir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D020",
+ "kaynak_baslik": "Malleus, incus, stapes: kemikçik zinciri"
+}

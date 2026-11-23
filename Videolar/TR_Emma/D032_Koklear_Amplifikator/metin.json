@@ -1,0 +1,855 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D032_Koklear_Amplifikator_TR",
+ "kapak": {
+  "ust": "DERS 32",
+  "baslik": "Koklear<br>*amplifikatör*",
+  "alt": "Dış tüy hücreleri ve prestin",
+  "cizim": "corti",
+  "vurgula": [
+   "dis_tuy_hucreleri"
+  ]
+ },
+ "youtube": {
+  "baslik": "Koklear Amplifikatör: Dış Tüy Hücreleri ve Prestin | Ders 32 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Canlı koklea neden ölü kokleadan çok daha duyarlı ve seçicidir? Bu derste dış tüy hücrelerinin elektromotilitesini, prestin motor proteinini, koklear amplifikatörün yaklaşık 40 ile 50 dB'lik kazancını, kompresyonu ve frekans seçiciliğine katkısını inceliyoruz. Dış tüy hücresi kaybının odyogramdaki yansımasına ve otoakustik emisyonlarla ilişkisine de giriş yapıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Pickles, An Introduction to the Physiology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Moore, An Introduction to the Psychology of Hearing; Hall, Handbook of Otoacoustic Emissions; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklea",
+   "işitmefizyolojisi"
+  ],
+  "etiketler": [
+   "koklear amplifikatör",
+   "cochlear amplifier",
+   "dış tüy hücreleri",
+   "prestin",
+   "elektromotilite",
+   "electromotility",
+   "frekans seçiciliği",
+   "otoakustik emisyon",
+   "işitme fizyolojisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 32",
+   "baslik": "Koklear amplifikatör ve *prestin*",
+   "alt": "Dış tüy hücreleri sesi nasıl güçlendirir?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste dış tüy hücrelerinin baziler membranın titreşimini nasıl güçlendirdiğini, yani koklear amplifikatörü öğreneceğiz.",
+    "Prestin adlı motor proteini, amplifikatörün duyarlılığa ve frekans seçiciliğine katkısını ve klinik yansımalarını göreceğiz."
+   ]
+  },
+  {
+   "id": "aktif",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Aktif koklea",
+   "baslik": "Koklea *pasif* değil",
+   "maddeler": [
+    {
+     "metin": "Ölü kokleada: _geniş_ tepe",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Canlı kokleada: _keskin_ ve yüksek tepe",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Fark: _aktif_ bir süreç",
+     "cumle": 3,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Motor: _dış tüy hücreleri_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 2000
+    },
+    "vurgula": [
+     {
+      "parca": "yuruyen_dalga",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "yuruyen_dalga",
+      "metin": "yürüyen dalga",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Baziler membranın, frekansa göre farklı yerlerde tepe yapan bir yürüyen dalga ile titreştiğini görmüştük.",
+    "Ölü kokleada yapılan ilk gözlemlerde bu tepe oldukça geniş ve yayvandı.",
+    "Canlı ve sağlıklı kokleada ise tepe çok daha yüksek ve keskindir.",
+    "Bu farkı açıklamak için koklea içinde titreşimi güçlendiren aktif bir süreç olduğu düşünüldü.",
+    "Bu sürece koklear amplifikatör (cochlear amplifier) denir.",
+    "Koklear amplifikatörün motoru dış tüy hücreleridir."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Aktif koklea",
+   "baslik": "Bir keşfin *tarihi*",
+   "ogeler": [
+    {
+     "ikon": "ampul",
+     "baslik": "1948: Gold",
+     "metin": "Aktif süreç fikri",
+     "cumle": 0
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "1978: Kemp",
+     "metin": "Otoakustik emisyonlar kaydedildi",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "1983: Davis",
+     "metin": "Koklear amplifikatör adı",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "1985: Brownell",
+     "metin": "Elektromotilite gösterildi",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "2000: Prestin",
+     "metin": "Motor protein bulundu",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "2002: Prestinsiz fare",
+     "metin": "Duyarlılık 40 ile 60 dB azaldı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Kokleada aktif bir süreç olabileceğini ilk kez 1948'de Thomas Gold ileri sürdü; fikir uzun süre kabul görmedi.",
+     "ses": "Kokleada aktif bir süreç olabileceğini ilk kez bin dokuz yüz kırk sekizde Tomas Gold ileri sürdü; fikir uzun süre kabul görmedi."
+    },
+    {
+     "yazi": "1978'de David Kemp, kulaktan geri dönen çok zayıf sesleri, yani otoakustik emisyonları kaydetti.",
+     "ses": "Bin dokuz yüz yetmiş sekizde Deyvid Kemp, kulaktan geri dönen çok zayıf sesleri, yani otoakustik emisyonları kaydetti."
+    },
+    {
+     "yazi": "1983'te Hallowell Davis bu mekanizma için koklear amplifikatör adını önerdi.",
+     "ses": "Bin dokuz yüz seksen üçte Halovel Deyvis bu mekanizma için koklear amplifikatör adını önerdi."
+    },
+    {
+     "yazi": "1985'te Brownell ve arkadaşları, dış tüy hücrelerinin elektrik uyarısıyla boylarını değiştirdiğini gösterdi.",
+     "ses": "Bin dokuz yüz seksen beşte Braunel ve arkadaşları, dış tüy hücrelerinin elektrik uyarısıyla boylarını değiştirdiğini gösterdi."
+    },
+    {
+     "yazi": "2000 yılında bu hareketi sağlayan motor protein bulundu ve prestin adı verildi.",
+     "ses": "İki bin yılında bu hareketi sağlayan motor protein bulundu ve prestin adı verildi."
+    },
+    {
+     "yazi": "2002'de prestini olmayan farelerde koklear duyarlılığın yaklaşık kırk ile altmış desibel azaldığı gösterildi.",
+     "ses": "İki bin ikide prestini olmayan farelerde koklear duyarlılığın yaklaşık kırk ile altmış desibel azaldığı gösterildi."
+    }
+   ]
+  },
+  {
+   "id": "elektromotilite",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Elektromotilite ve prestin",
+   "baslik": "Boyunu değiştiren *hücre*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "dış tüy hücreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "deiters_hucreleri",
+     "metin": "Deiters hücreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "baziler membran",
+     "cumle": 3
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "tektoryal membran",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Depolarizasyon: _kısalma_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hiperpolarizasyon: _uzama_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Her titreşim döngüsünde _itme_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Dış tüy hücreleri silindir biçimli, uzun hücrelerdir ve tabanları Deiters hücrelerine oturur.",
+    "Hücre depolarize olduğunda boyu kısalır, hiperpolarize olduğunda uzar; bu özelliğe elektromotilite (electromotility) denir.",
+    "Hareket çok hızlıdır; yalıtılmış hücrelerde on binlerce hertze kadar sürdüğü ölçülmüştür.",
+    "Hücrenin tabanı Deiters hücreleri aracılığıyla baziler membrana bağlıdır; uzun stereosilleri ise tektoryal membrana gömülüdür.",
+    "Böylece dış tüy hücresi, ses dalgasının her döngüsünde baziler membrana doğru zamanda küçük bir itme ekler.",
+    "Bu, salıncaktaki bir çocuğu tam zamanında itmeye benzer: küçük itmeler büyük bir salınım oluşturur."
+   ]
+  },
+  {
+   "id": "prestin",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Elektromotilite ve prestin",
+   "baslik": "Motor protein: *prestin*",
+   "maddeler": [
+    {
+     "metin": "Hücrenin _yan duvarında_ yoğun",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Gerilime göre _şekil_ değiştirir",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ATP harcamaz, _çok hızlıdır_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Geni: _SLC26A5_",
+     "cumle": 4,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "dis_tuy_hucresi",
+    "cumle": 0,
+    "ayar": {
+     "mod": "uclu",
+     "cumleler": [
+      1,
+      0,
+      1
+     ]
+    },
+    "etiketler": [
+     {
+      "parca": "prestin",
+      "metin": "Prestin: yan duvar",
+      "cumle": 0,
+      "yer": "alt"
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "prestin",
+      "cumle": 0
+     },
+     {
+      "parca": "depolarizasyon",
+      "cumle": 1
+     },
+     {
+      "parca": "hiperpolarizasyon",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Prestin, dış tüy hücresinin yan duvarındaki zarda çok yoğun biçimde bulunan bir proteindir.",
+    "Zar gerilimi değiştiğinde prestin molekülleri şekil değiştirir; milyonlarca molekülün toplam etkisi hücrenin boyunu değiştirir.",
+    "Bu hareket kas kasılmasından farklıdır: ATP harcamaz, doğrudan zar geriliminin değişimiyle çalışır.",
+    "Prestinin çalışması için hücre içindeki klor iyonlarına ihtiyaç duyduğu gösterilmiştir.",
+    {
+     "yazi": "Prestinin geni SLC26A5 olarak bilinir.",
+     "ses": "Prestinin geni se le ce yirmi altı a beş olarak bilinir."
+    },
+    "Stereosil demetinin aktif hareketinin de katkı yaptığı düşünülür; ancak memelilerde asıl motorun prestin olduğu kabul edilir."
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Elektromotilite ve prestin",
+   "baslik": "Kendini besleyen *döngü*",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Zar titreşir",
+     "metin": "Baziler membran sesle titreşir",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Stereosil eğilir",
+     "metin": "Kanal açılır, gerilim değişir",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Prestin",
+     "metin": "Hücrenin boyu değişir",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Titreşim büyür",
+     "metin": "Döngü yeniden başlar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Amplifikatörü bir döngü olarak düşünebiliriz: önce baziler membran ses dalgasıyla titreşir.",
+    "Dış tüy hücresinin stereosilleri eğilir, kanallar açılır ve hücrenin zar gerilimi sesin ritmiyle değişir.",
+    "Gerilimdeki bu değişim, prestin aracılığıyla hücrenin boyunu değiştirir.",
+    "Boy değişimi baziler membrana geri aktarılır ve titreşimi büyütür; döngü yeniden başlar.",
+    "Bu döngünün enerjisi, önceki derste gördüğümüz endokoklear potansiyelden gelir.",
+    "Bu yüzden stria vascularis zayıfladığında amplifikatörün kazancı da azalır."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Duyarlılık ve seçicilik",
+   "baslik": "Zayıf seslere *daha çok* kazanç",
+   "maddeler": [
+    {
+     "metin": "Kazanç: yaklaşık _40 ile 50 dB_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "En çok _zayıf_ seslerde",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Yüksek seslerde katkı _küçük_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Sonuç: doğal _kompresyon_",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "giris_cikis",
+    "cumle": 0,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "saglikli",
+       "cumle": 0
+      },
+      {
+       "tip": "hasarli",
+       "cumle": 1
+      }
+     ],
+     "kazanc_cumle": 1,
+     "kompresyon_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "kazanc",
+      "cumle": 1
+     },
+     {
+      "parca": "saglikli",
+      "cumle": 2
+     },
+     {
+      "parca": "kompresyon",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Koklear amplifikatör, tepe bölgesinde baziler membranın hareketini yaklaşık kırk ile elli desibel güçlendirir.",
+    "Bu kazanç en çok zayıf seslerde etkilidir; eşiğe yakın sesler amplifikatör sayesinde duyulur hale gelir.",
+    "Ses şiddeti arttıkça kazanç azalır; çok yüksek seslerde amplifikatörün katkısı oldukça küçüktür.",
+    "Böylece baziler membran, girişteki geniş bir şiddet aralığını daha dar bir hareket aralığına sıkıştırır; buna kompresyon denir.",
+    "Bu doğal kompresyon sayesinde fısıltıdan konser gürültüsüne kadar çok geniş bir şiddet aralığını işitebiliriz."
+   ]
+  },
+  {
+   "id": "secicilik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Duyarlılık ve seçicilik",
+   "baslik": "Keskin *frekans ayarı*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tepe _keskinleşir_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yakın frekanslar _ayrılır_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "keskin tepe",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "dar bölge titreşir",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1,
+     "olcek": 1.8
+    }
+   ],
+   "cumleler": [
+    "Koklear amplifikatör yalnız yükseltmez, yürüyen dalganın tepesini de keskinleştirir.",
+    "Böylece her frekans, baziler membranın daha dar bir bölgesini harekete geçirir.",
+    "Bu keskinlik birbirine yakın frekansları ayırt etmemizi sağlar; buna frekans seçiciliği (frequency selectivity) denir."
+   ]
+  },
+  {
+   "id": "secicilik_ayar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Duyarlılık ve seçicilik",
+   "baslik": "Sinir lifinin *ayar eğrisi*",
+   "cizim": "ayar_egrisi",
+   "ayar": {
+    "cf": 2000,
+    "egriler": [
+     {
+      "tip": "saglikli",
+      "cumle": 0
+     },
+     {
+      "tip": "hasarli",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "uc",
+     "cumle": 0
+    },
+    {
+     "parca": "hasarli",
+     "cumle": 1
+    },
+    {
+     "parca": "kuyruk",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sağlıklı: _dar, derin_ uç",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Hasarda: _yükselir, genişler_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kalan: _pasif_ mekanik",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "karakteristik_frekans",
+     "metin": "karakteristik frekans",
+     "cumle": 0
+    },
+    {
+     "parca": "hasarli",
+     "metin": "dış tüy hücresi hasarı",
+     "cumle": 1,
+     "yer": "ust"
+    }
+   ],
+   "cumleler": [
+    "İşitme siniri liflerinin ayar eğrileri bunu açıkça gösterir: sağlıklı kokleada eğrinin dar ve derin bir ucu vardır.",
+    "Dış tüy hücreleri hasar gördüğünde bu keskin uç kaybolur; eğri hem yükselir hem de genişler.",
+    "Geriye kalan geniş ve duyarsız bölüm, pasif koklea mekaniğini yansıtır."
+   ]
+  },
+  {
+   "id": "saglam_hasarli",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Duyarlılık ve seçicilik",
+   "baslik": "Sağlam ve *hasarlı* amplifikatör",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Sağlam amplifikatör",
+     "metin": "Normal eşik, keskin ayar, geniş aralık",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Eşik kaybı",
+     "metin": "Yaklaşık 40 ile 60 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Bulanık ayar",
+     "metin": "Yakın frekanslar karışır",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Dar aralık",
+     "metin": "Yüksek sesler hızla büyür",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Gürültüde güçlük",
+     "metin": "Ses yüksekliğinde anormal artış",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sağlam bir amplifikatör normal eşikler ve keskin bir frekans ayarı sağlar.",
+    "Geniş dinamik aralık sayesinde hem zayıf hem güçlü sesler rahatça işlenir.",
+    "Dış tüy hücreleri kaybolduğunda eşikler genellikle kırk ile altmış desibel kadar yükselir.",
+    "Frekans ayarı bulanıklaşır; yakın frekanslar ve konuşmanın ince ayrıntıları birbirine karışır.",
+    "Kompresyon da kaybolur: zayıf sesler duyulmaz, ama yüksek sesler hızla normal yükseklikte algılanır.",
+    "Buna rekruitment (recruitment), yani ses yüksekliğinin anormal hızlı artışı denir ve gürültüde anlama güçlüğüne katkıda bulunur."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik yansımalar",
+   "baslik": "Örnek: dış tüy hücresi *kaybı*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: tize doğru eğimli",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: hava yoluyla aynı",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       55,
+       60
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnek odyogramda sağ kulakta tiz frekanslara doğru eğimli bir kayıp görüyoruz.",
+    "Kemik yolu eşikleri hava yoluyla aynı düzeyde; yani kayıp sensörinöral tiptedir.",
+    "Dört bin hertzde kayıp yaklaşık elli beş desibel; bu düzey dış tüy hücresi kaybıyla uyumlu olabilir.",
+    "Genel bir kural olarak, kaybın altmış desibeli belirgin biçimde aşması iç tüy hücrelerinin de etkilendiğini düşündürebilir.",
+    "Ancak odyogram tek başına hangi hücrelerin etkilendiğini kesin olarak göstermez."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik yansımalar",
+   "baslik": "Amplifikatörün *yankısı*: OAE",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "iki uyaran tonu: f1 ve f2",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "metin": "distorsiyon ürünü: 2f1-f2",
+     "cumle": 3
+    },
+    {
+     "parca": "gurultu",
+     "metin": "gürültü tabanı",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Koklear amplifikatörün en önemli klinik izi otoakustik emisyonlar, kısaca OAE'dir.",
+    "Dış tüy hücrelerinin hareketi, kulak yolunda hassas bir mikrofonla kaydedilebilen çok zayıf sesler oluşturur.",
+    "Amplifikatör doğrusal çalışmadığı için, iki ton birlikte verildiğinde kulakta yeni frekanslar üretilir; bunlara distorsiyon ürünü denir.",
+    {
+     "yazi": "En belirgin olanı 2f1-f2 frekansındadır ve distorsiyon ürünü otoakustik emisyon, kısaca DPOAE testinin temelidir.",
+     "ses": "En belirgin olanı iki fe bir eksi fe iki frekansındadır ve distorsiyon ürünü otoakustik emisyon, kısaca DPOAE testinin temelidir."
+    },
+    "Emisyonun gürültü tabanının belirgin üzerinde olması, o bölgede dış tüy hücrelerinin çalıştığını düşündürür.",
+    "Emisyonlar genellikle otuz ile kırk desibeli aşan kayıplarda kaybolur; ayrıca orta kulağın sağlıklı olması gerekir."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik yansımalar",
+   "baslik": "Amplifikatörün *kırılganlığı*",
+   "maddeler": [
+    {
+     "metin": "Beyin sapı kazancı _azaltabilir_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Gürültü, ilaç ve yaşa _hassas_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cihaz: _kompresyon_ ile kısmi telafi",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Keskinlik cihazla _geri gelmez_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 2
+     }
+    ],
+    "cumle": 2
+   },
+   "cumleler": [
+    "Amplifikatörün kazancı sabit değildir; beyin sapından dış tüy hücrelerine inen medial olivokoklear lifler bu kazancı azaltabilir.",
+    "Dış tüy hücreleri gürültüye, bazı ilaçlara ve yaşlanmaya karşı iç tüy hücrelerinden daha hassastır.",
+    "İşitme cihazlarındaki kompresyon, kaybolan doğal sıkıştırmayı kısmen telafi etmeye çalışır.",
+    "Cihaz zayıf seslere daha çok, güçlü seslere daha az kazanç vererek sesleri dar dinamik aralığa sığdırır.",
+    "Ancak cihaz kaybolan frekans keskinliğini geri getiremez; bu yüzden gürültüde anlama güçlüğü cihazla da sürebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik yansımalar",
+   "baslik": "Klinik ipucu",
+   "metin": "Dış tüy hücresi hasarı odyograma hemen yansımayabilir. Gürültü ve ototoksisite izleminde odyogramın yanına OAE eklemek, erken değişiklikleri yakalamaya yardımcı olabilir.",
+   "cumle": 2,
+   "cumleler": [
+    "Sahadan bir ipucu: dış tüy hücresi hasarı her zaman hemen odyograma yansımaz.",
+    "Gürültüye maruz kalan kişilerde OAE genliğindeki azalmanın, bazı çalışmalarda eşik kaymasından önce görüldüğü bildirilmiştir.",
+    "Bu yüzden gürültü ya da ototoksisite izleminde odyogramın yanına OAE eklemek, erken değişiklikleri yakalamaya yardımcı olabilir.",
+    "Sonuçları her zaman aynı protokolle ve kişinin önceki ölçümüyle karşılaştırarak yorumlayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Motor: _dış tüy hücreleri_ ve prestin",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kazanç yaklaşık _40 ile 50 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Keskin _frekans_ seçiciliği",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Klinik izi: _otoakustik emisyonlar_",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "Dış tüy hücreleri prestin sayesinde boylarını değiştirir; bu özelliğe elektromotilite denir.",
+    "Koklear amplifikatör zayıf seslerde baziler membranın hareketini yaklaşık kırk ile elli desibel güçlendirir.",
+    "Amplifikatör yürüyen dalganın tepesini keskinleştirir ve frekans seçiciliğini sağlar.",
+    "Dış tüy hücresi işlevi otoakustik emisyonlarla değerlendirilebilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Koklear amplifikatörün kazancı en çok hangi seslerde etkilidir?",
+   "secenekler": [
+    "Zayıf seslerde",
+    "Orta şiddetli seslerde",
+    "Çok yüksek seslerde",
+    "Tüm seslerde eşit"
+   ],
+   "dogru": 0,
+   "aciklama": "Kazanç _zayıf seslerde_ en büyüktür, şiddet arttıkça azalır; bu kompresyon demektir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Koklear amplifikatörün kazancı en çok hangi seslerde etkilidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: zayıf seslerde.",
+    "Kazanç eşiğe yakın seslerde en büyüktür ve şiddet arttıkça azalır; bu da doğal kompresyonu oluşturur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Kemik yolu* ile işitme",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste sesin kafatası titreşimiyle kokleaya nasıl ulaştığını, yani kemik yolu ile işitmeyi göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,886 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D192_RECD_Cocuklarda_TR",
+ "kapak": {
+  "ust": "DERS 192",
+  "baslik": "RECD:<br>*çocuk* kulağı",
+  "alt": "Gerçek kulak ile kuplör farkı",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "insert": true
+  }
+ },
+ "youtube": {
+  "baslik": "RECD: çocuklarda gerçek kulak ile kuplör farkı | Ders 192 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Aynı işitme cihazı bebeğin kulağında neden daha yüksek ses üretir? Bu derste gerçek kulak ile kuplör farkını (RECD), ölçüm tekniğini, yaşa göre öngörülen değerleri ve RECD ile kuplörde yapılan simüle gerçek kulak ölçümünü öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: American Academy of Audiology, Clinical Practice Guidelines: Pediatric Amplification (2013); Bagatto ve ark. (2005), Clinical protocols for hearing instrument fitting in the Desired Sensation Level method, Trends in Amplification; Bagatto ve ark. (2002), Journal of the American Academy of Audiology; Martin, Munro ve Langer (1997), British Journal of Audiology; Dillon, Hearing Aids.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "RECD"
+  ],
+  "etiketler": [
+   "RECD",
+   "real-ear-to-coupler difference",
+   "gerçek kulak ile kuplör farkı",
+   "öngörülen RECD",
+   "predicted RECD",
+   "2 cc kuplör",
+   "çocukta cihaz uygulaması",
+   "DSL v5",
+   "simüle gerçek kulak ölçümü",
+   "pediatrik odyoloji",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 192",
+   "baslik": "RECD: *çocuk* kulağı",
+   "alt": "Gerçek kulak ile kuplör farkı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste aynı işitme cihazının bir bebeğin kulağında neden çok daha yüksek ses ürettiğini öğreneceğiz.",
+    "Gerçek kulak ile kuplör farkını, yani RECD'yi, ölçüm tekniğini ve yaşa göre öngörülen değerleri ele alacağız."
+   ]
+  },
+  {
+   "id": "hacim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Küçük kulak, yüksek ses",
+   "baslik": "Küçük hacim, *yüksek basınç*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "kısa ve dar kulak yolu",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran (kulak zarı)",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Küçük hacim, _yüksek_ basınç",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Bebekte hacim çok küçük",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Hesaba katılmazsa aşırı ses",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bir sesin kulak yolunda oluşturduğu basınç, sesin verildiği hacmin büyüklüğüne bağlıdır.",
+    "Aynı miktarda ses enerjisi küçük bir hacme verildiğinde, büyük bir hacme göre daha yüksek ses basıncı oluşur.",
+    "Bebeklerde kulak yolu hem daha kısa hem de daha dardır; kalıbın önünde kalan hacim çok küçüktür.",
+    "Bu yüzden aynı cihaz ayarı, bebeğin kulağında yetişkine göre belirgin biçimde daha yüksek bir ses düzeyi üretir.",
+    "Fark özellikle tiz frekanslarda büyüktür ve kişiden kişiye değişir.",
+    "Bu farkı hesaba katmadan yapılan bir ayar, çocuğa gereğinden yüksek, hatta rahatsız edici ses verebilir."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Küçük kulak, yüksek ses",
+   "baslik": "RECD *neden* gerekli?",
+   "maddeler": [
+    {
+     "metin": "Çocuk uzun ölçümde sabit durmaz",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Ayar kuplörde yapılabilir",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Eşikler kulak yolu SPL'ine çevrilir",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Hedef ve çıkış aynı ölçekte",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "kulak_kanali",
+      "metin": "küçük kulak yolu",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kulak_kanali",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Yetişkinde cihaz çıkışı doğrudan gerçek kulak ölçümüyle doğrulanır; ama küçük bir çocuk uzun ölçüm boyunca sakin oturmaz.",
+    "Üstelik bebeğin önünde ölçüm hoparlörüyle uzun süre çalışmak çoğu zaman mümkün değildir.",
+    "Çözüm, çocuğun kulağına özgü düzeltme değerini kısa bir ölçümle bulup cihaz ayarını test kutusunda, kuplörde yapmaktır.",
+    "Aynı düzeltme, insert kulaklıkla bulunan dB HL eşiklerini çocuğun kulak yolundaki dB SPL değerlerine çevirmek için de kullanılır.",
+    "Kuplör (coupler), cihazın çıkışını ölçmek için kullanılan standart hacimli küçük bir ölçüm boşluğudur.",
+    "Böylece eşik, reçete hedefi ve cihaz çıkışı, çocuğun kendi kulak yolu ölçeğinde aynı ekranda karşılaştırılabilir."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "RECD ölçümü",
+   "baslik": "RECD *nedir?*",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kuplörde ölç",
+     "cumle": 1,
+     "metin": "Aynı sinyal"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulakta ölç",
+     "cumle": 2,
+     "metin": "Prob tüple"
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Farkı al",
+     "cumle": 3,
+     "metin": "Kulak eksi kuplör"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "RECD",
+     "cumle": 4,
+     "metin": "Her frekansta"
+    }
+   ],
+   "cumleler": [
+    "Gerçek kulak ile kuplör farkı (real-ear-to-coupler difference), kısaca RECD, iki ölçüm arasındaki farktır.",
+    {
+     "yazi": "Önce bir ses, bir insert kulaklıkla standart 2 cc kuplöre verilir ve oluşan ses basınç düzeyi ölçülür.",
+     "ses": "Önce bir ses, bir insert kulaklıkla standart iki santimetreküplük kuplöre verilir ve oluşan ses basınç düzeyi ölçülür."
+    },
+    "Sonra aynı ses, aynı kulaklıkla çocuğun kulak yoluna verilir ve prob tüple kulak yolundaki düzey ölçülür.",
+    "Kulak yolunda ölçülen düzeyden kuplörde ölçülen düzey çıkarılır.",
+    "Her frekans için bulunan bu fark RECD'dir; değer büyüdükçe kulak yolu kuplöre göre daha fazla ses basıncı üretiyor demektir.",
+    "Örneğin 2000 Hz'de kulak yolunda 82, kuplörde 72 dB SPL ölçülürse, o frekansta RECD 10 dB'dir."
+   ]
+  },
+  {
+   "id": "teknik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "RECD ölçümü",
+   "baslik": "Ölçüm *tekniği*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "köpük uç ya da kalıp",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "ses tüpü",
+     "cumle": 1
+    },
+    {
+     "parca": "transduser",
+     "metin": "insert kulaklık",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "prob tüp ucu ileride",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Prob ucu, uçtan birkaç mm ileride",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Ölçüm birkaç saniye",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Aynı bağlantı, aynı uç",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ölçümde kulak yoluna önce prob tüpü yerleştirilir.",
+    "Ardından ses, bir köpük uç ya da çocuğun kendi kalıbı aracılığıyla insert kulaklıktan verilir.",
+    "Prob tüpünün ucu, köpük uç ya da kalıbın ucunu en az birkaç milimetre geçmelidir.",
+    "Ölçüm genellikle yalnız birkaç saniye sürer; bu yüzden uyuyan ya da kucakta oturan bebekte bile yapılabilir.",
+    "Eşik testinde ve RECD ölçümünde aynı bağlantı türünün, yani aynı köpük uç ya da kalıbın kullanılması önerilir.",
+    "Kuplör türü de önemlidir; ölçüm sistemleri farklı kuplörler arasındaki dönüşümü yazılımla yapar.",
+    "Kalıp değiştiğinde ya da çocuk büyüdüğünde RECD yeniden ölçülmelidir."
+   ]
+  },
+  {
+   "id": "cocukla",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "RECD ölçümü",
+   "baslik": "Çocukla *ölçüm*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Uyku",
+     "cumle": 0,
+     "metin": "En uygun an"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Ebeveyn kucağı",
+     "cumle": 1,
+     "metin": "Güven verir"
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sessizlik",
+     "cumle": 2,
+     "metin": "Ağlama ölçümü bozar"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "cumle": 3,
+     "metin": "Kir ve akıntı"
+    }
+   ],
+   "cumleler": [
+    "Bebeklerde ölçüm için en uygun an, beslenmeden sonraki uykudur.",
+    "Daha büyük çocuklar ebeveynin kucağında, bir oyuncak ya da videoyla oyalanırken ölçülebilir.",
+    "Ağlama, konuşma ve emme hareketleri kulak yolundaki düzeyi değiştirebileceği için sakin bir an beklenir.",
+    "Ölçümden önce otoskopla kulak yoluna bakılır; kir ya da akıntı varsa ölçüm ertelenir.",
+    "Ses doğrudan insert kulaklıktan verildiği için hoparlör konumu ve çocuğun başının yönü sonucu etkilemez.",
+    "Deneyimli bir klinisyen için RECD, çoğu zaman tüm randevunun en kısa adımıdır."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yaş ve öngörülen RECD",
+   "baslik": "Yaşa göre *RECD*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 25,
+     "adim": 5,
+     "ad": "RECD (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "bebek",
+      "noktalar": [
+       [
+        250,
+        3
+       ],
+       [
+        500,
+        6
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        13
+       ],
+       [
+        4000,
+        17
+       ],
+       [
+        6000,
+        19
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "ilk aylar",
+      "cumle": 2
+     },
+     {
+      "ad": "cocuk",
+      "noktalar": [
+       [
+        250,
+        1
+       ],
+       [
+        500,
+        3
+       ],
+       [
+        1000,
+        6
+       ],
+       [
+        2000,
+        7
+       ],
+       [
+        4000,
+        9
+       ],
+       [
+        6000,
+        11
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "iki yaş üzeri",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       9,
+       17
+      ],
+      "xk": 4000,
+      "etiket": "yaklaşık 8 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Bu grafik, köpük uçla ölçülen RECD değerlerini iki yaş grubunda örnek olarak gösteriyor.",
+    "RECD genellikle frekansla birlikte artar; tiz frekanslarda daha büyüktür.",
+    "Bebeklerde değerler, iki yaşın üzerindeki çocuklara göre belirgin biçimde daha yüksektir.",
+    "Bu örnekte 4000 Hz'de RECD, ilk aylarda yaklaşık 17 dB, iki yaşın üzerinde ise yaklaşık 9 dB.",
+    "Kulak yolu büyüdükçe RECD azalır ve yaklaşık beş yaş civarında yetişkin değerlerine yaklaşır.",
+    "Ancak aynı yaştaki bebekler arasında bile birkaç desibelden fazla fark görülebilir."
+   ]
+  },
+  {
+   "id": "ongorulen",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yaş ve öngörülen RECD",
+   "baslik": "Öngörülen *RECD*",
+   "sutunlar": [
+    "Yaş",
+    "Kulak yolu",
+    "RECD"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "İlk aylar",
+      "En küçük",
+      "En büyük"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Bir ile iki yaş",
+      "Hızla büyür",
+      "Azalır"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Yaklaşık beş yaş",
+      "Yetişkine yakın",
+      "Yetişkine yakın"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "RECD ölçülemediğinde, yaşa göre hesaplanmış ortalama değerler kullanılır; buna öngörülen RECD (predicted RECD) denir.",
+    "Öngörülen değerler ilk aylarda en büyüktür; çünkü kulak yolu en küçüktür.",
+    "Bir ile iki yaş arasında kulak yolu hızla büyür ve RECD azalır.",
+    "Öngörülen değerler yaş ilerledikçe küçülür ve yaklaşık beş yaş civarında yetişkin değerlerine yaklaşır.",
+    "Ölçüm sistemleri çocuğun doğum tarihine göre bu değerleri kendiliğinden önerir.",
+    {
+     "yazi": "Yetişkinde de kulak yolu 2 cc kuplörden küçük bir hacim oluşturduğu için RECD çoğu frekansta artı değerdedir.",
+     "ses": "Yetişkinde de kulak yolu iki santimetreküplük kuplörden küçük bir hacim oluşturduğu için RECD çoğu frekansta artı değerdedir."
+    }
+   ]
+  },
+  {
+   "id": "olculmus",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yaş ve öngörülen RECD",
+   "baslik": "Ölçülmüş mü, *öngörülen* mi?",
+   "maddeler": [
+    {
+     "metin": "Kılavuz: _ölçülmüş_ RECD tercih edilir",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Ortalama, bireyi temsil etmez",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Ölçülemezse yaşa uygun ortalama",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "İlk fırsatta ölçüme geçin",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RECD",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Ölçülmüş",
+      "cumle": 0,
+      "metin": "Bireye özgü"
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Öngörülen",
+      "cumle": 3,
+      "metin": "Yaş ortalaması"
+     }
+    ]
+   },
+   "cumleler": [
+    "Amerikan Odyoloji Akademisinin 2013 pediatrik amplifikasyon kılavuzu, mümkünse çocuğun RECD'sinin ölçülmesini önerir.",
+    "Çünkü özellikle ilk aylarda bireysel değerler ortalamadan çok farklı olabilir.",
+    "Ortalamanın birkaç desibel altında ya da üstünde kalan bir kulakta, öngörülen değerle yapılan ayar hatalı olur.",
+    "Ölçüm yapılamıyorsa yaşa uygun öngörülen değerler ya da yakın zamanda ölçülmüş değerler kullanılabilir.",
+    "Kılavuz bu değerlerin daha az doğru olabileceğini belirtir; bu yüzden ilk uygun randevuda ölçüme geçilmelidir."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uygulamada RECD",
+   "baslik": "RECD *nerede* kullanılır?",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Eşik",
+     "cumle": 0,
+     "metin": "Insert ile dB HL"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak SPL'i",
+     "cumle": 1,
+     "metin": "RECD eklenir"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Hedef",
+     "cumle": 2,
+     "metin": "Kulak yolunda dB SPL"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kuplörde ayar",
+     "cumle": 3,
+     "metin": "Hedef eksi RECD"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Tahmini yanıt",
+     "cumle": 4,
+     "metin": "Kulaktaki çıkış"
+    }
+   ],
+   "cumleler": [
+    "Çocuğun eşikleri genellikle insert kulaklıkla dB HL olarak bulunur.",
+    "RECD kullanılarak bu eşikler, çocuğun kulak yolundaki dB SPL değerlerine çevrilir.",
+    {
+     "yazi": "İstenen duyum düzeyi, kısaca DSL v5, bu değerlerden yola çıkarak kulak yolunda ulaşılması gereken hedefleri dB SPL olarak hesaplar.",
+     "ses": "İstenen duyum düzeyi, kısaca DSL versiyon 5, bu değerlerden yola çıkarak kulak yolunda ulaşılması gereken hedefleri dB SPL olarak hesaplar."
+    },
+    "Cihaz test kutusunda ölçülür; kuplörde ölçülen çıkışa RECD eklenerek çocuğun kulağındaki tahmini çıkış bulunur.",
+    "Bu yönteme, ölçüm kulakta değil kuplörde yapıldığı için simüle gerçek kulak ölçümü (simulated real-ear measurement) denir.",
+    "Böylece çocuk yalnız birkaç saniyelik RECD ölçümü için ölçüme katılır; ayarın geri kalanı test kutusunda yapılır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uygulamada RECD",
+   "baslik": "Kuplörden *kulağa*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 60,
+     "max": 110,
+     "adim": 10,
+     "ad": "Çıkış (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "kuplor",
+      "noktalar": [
+       [
+        250,
+        72
+       ],
+       [
+        500,
+        76
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        83
+       ],
+       [
+        4000,
+        82
+       ],
+       [
+        6000,
+        76
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "2 cc kuplör",
+      "cumle": 0
+     },
+     {
+      "ad": "kulak",
+      "noktalar": [
+       [
+        250,
+        75
+       ],
+       [
+        500,
+        82
+       ],
+       [
+        1000,
+        90
+       ],
+       [
+        2000,
+        96
+       ],
+       [
+        4000,
+        99
+       ],
+       [
+        6000,
+        95
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "kulakta beklenen",
+      "cumle": 1
+     },
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        76
+       ],
+       [
+        500,
+        83
+       ],
+       [
+        1000,
+        90
+       ],
+       [
+        2000,
+        95
+       ],
+       [
+        4000,
+        98
+       ],
+       [
+        6000,
+        94
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "hedef",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "recd",
+      "y": [
+       82,
+       99
+      ],
+      "xk": 4000,
+      "etiket": "RECD",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Şimdi bir örnek görelim: lacivert eğri, cihazın 2 cc kuplörde ölçülen çıkışı.",
+     "ses": "Şimdi bir örnek görelim: lacivert eğri, cihazın iki santimetreküplük kuplörde ölçülen çıkışı."
+    },
+    "Kırmızı eğri, aynı çıkışa bu çocuğun RECD değerleri eklendiğinde kulak yolunda beklenen düzey.",
+    "Fark pes frekanslarda birkaç desibelken, tiz frekanslarda 15 dB'i aşıyor.",
+    "Kesik çizgi reçete hedefidir; kulakta beklenen düzey hedefe oldukça yakın.",
+    "Aynı ayar kuplör değerlerine bakılarak yapılsaydı, çocuğun kulağına hedeften belirgin biçimde yüksek ses verilirdi.",
+    "RECD'nin değeri tam olarak buradadır: küçük kulağı ayarın merkezine koyar."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uygulamada RECD",
+   "baslik": "Dikkat isteyen *durumlar*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ventilasyon tüpü",
+     "cumle": 0,
+     "metin": "Pes RECD düşer"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Gevşek kalıp",
+     "cumle": 2,
+     "metin": "Sızıntı, pes kayıp"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Büyüme",
+     "cumle": 3,
+     "metin": "Yeniden ölç"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kuplör türü",
+     "cumle": 4,
+     "metin": "Doğru dönüşüm"
+    }
+   ],
+   "cumleler": [
+    "Timpanik membranda ventilasyon tüpü ya da delik varsa, orta kulak hacmi de ölçüme katılır ve pes frekanslarda RECD belirgin biçimde düşer.",
+    "Çalışmalarda ventilasyon tüplü çocuklarda pes frekanslardaki RECD'nin akranlarına göre yaklaşık 15 dB daha düşük bulunduğu bildirilmiştir.",
+    "Gevşek bir kalıp ya da köpük ucun kenarından sızıntı da pes frekanslarda değerleri düşürür.",
+    "Çocuk büyüdükçe ve kalıp yenilendikçe RECD değişir; eski değerle yapılan ayar yanıltıcı olur.",
+    "Ölçümde ve yazılımda hangi kuplörün kullanıldığı doğru seçilmelidir; aksi halde değerler kayar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Pes frekanslarda beklenmedik düşük ya da eksi RECD görürseniz önce sızıntıyı ve kulak zarını düşünün: gevşek uç, ventilasyon tüpü ya da delik. Ölçümü bu bilgiyle yorumlayın.",
+   "cumleler": [
+    "Sahadan bir ipucu: pes frekanslarda beklenmedik biçimde düşük, hatta eksi bir RECD görürseniz önce ölçümü sorgulayın.",
+    "Köpük ucun ya da kalıbın tam oturmaması, pes frekanslarda sızıntıya ve düşük değerlere yol açar.",
+    "Uç düzgünse, timpanik membranda ventilasyon tüpü ya da delik olup olmadığını dosyadan ve otoskopiden kontrol edin.",
+    "Böyle bir kulakta ortalama değerler yerine ölçülen değer kullanılmalıdır; çünkü kulak gerçekten farklı davranır.",
+    "Bulguyu dosyaya not edin; tüp çıktığında RECD yeniden ölçülmelidir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Küçük kulak yolu, yüksek ses basıncı",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "RECD: kulak eksi kuplör",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Ölçülmüş RECD tercih edilir",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kuplör çıkışı artı RECD: kulakta tahmin",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Bu derste küçük kulak yolunun aynı cihazla daha yüksek ses basıncı oluşturduğunu gördük.",
+    "RECD, aynı sinyal için kulak yolunda ölçülen düzeyden kuplörde ölçülen düzeyin çıkarılmasıyla bulunur.",
+    "Kılavuzlar ölçülmüş RECD'yi önerir; öngörülen değerler ancak ölçüm yapılamadığında kullanılır.",
+    "Kuplörde ölçülen çıkışa RECD eklenerek, çocuğun kulağında oluşacak ses düzeyi tahmin edilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "4000 Hz'de kuplör çıkışı 85 dB, RECD 14 dB ise kulakta beklenen?",
+   "secenekler": [
+    "71 dB SPL",
+    "85 dB SPL",
+    "99 dB SPL",
+    "14 dB SPL"
+   ],
+   "dogru": 2,
+   "aciklama": "Kulakta beklenen düzey = kuplör çıkışı + RECD: _85 + 14 = 99 dB SPL_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: 4000 Hz'de kuplörde ölçülen çıkış 85 dB SPL, RECD 14 dB ise kulak yolunda beklenen düzey nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: 99 dB SPL.",
+    "Kulak yolunda beklenen düzey, kuplör çıkışına RECD eklenerek bulunur: 85 artı 14, yani 99 dB SPL."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İlk uygulama ve *ince ayar*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ilk uygulamayı ve kullanıcının şikayetine göre adım adım ince ayar yapmayı öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

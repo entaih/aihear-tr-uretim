@@ -1,0 +1,232 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R400_MMN_Dikkat_Gerektirmez_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #400",
+  "baslik": "Dikkatsiz *ayırt etme*",
+  "alt": "Uyumsuzluk negatifliği, MMN",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -100,
+    "max": 600,
+    "ad": "Zaman (ms)",
+    "isaretler": [
+     0,
+     100,
+     200,
+     300,
+     400,
+     500,
+     600
+    ]
+   },
+   "y": {
+    "min": -6,
+    "max": 12,
+    "adim": 3,
+    "ad": "Genlik (µV)"
+   },
+   "seriler": [
+    {
+     "ad": "sik",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -3.5
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       250,
+       0.5
+      ],
+      [
+       350,
+       0.5
+      ],
+      [
+       450,
+       0
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "cumle": 1
+    },
+    {
+     "ad": "seyrek",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -4
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       230,
+       -1
+      ],
+      [
+       320,
+       9
+      ],
+      [
+       400,
+       5
+      ],
+      [
+       480,
+       1
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 2
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "p300",
+     "x": 320,
+     "y": 9,
+     "etiket": "P300",
+     "dus": "x",
+     "cumle": 3
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Beyin, siz dikkat etmeden iki sesin farkını yakalayabilir mi? #shorts",
+  "aciklama": "Uyumsuzluk negatifliği (MMN), sık tekrarlanan bir sesin arasına seyrek ve farklı bir ses girdiğinde, sapan sese verilen yanıttan standart sesin yanıtı çıkarılarak elde edilen fark dalgasında yaklaşık 100 ile 250 milisaniye arasında görülen negatifliktir. En önemli özelliği dikkat gerektirmemesidir; kişi sessiz bir film izlerken kaydedilebilir ve yenidoğanlarda bile kaydedilebilmiştir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "elektrofizyoloji",
+   "beyin"
+  ],
+  "etiketler": [
+   "uyumsuzluk negatifliği",
+   "MMN",
+   "oddball paradigması",
+   "fark dalgası",
+   "bilişsel potansiyeller",
+   "işitsel ayırt etme",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Beyin, siz dikkat etmeden iki sesin farkını yakalayabilir mi?",
+  "bilgiler": [
+   "Sık seslerin arasına seyrek ve farklı bir ses yerleştirilir.",
+   "Sapan ile standart yanıtın farkında negatif bir dalga görülür.",
+   "Dikkat gerektirmez; yenidoğanlarda bile kaydedilebilmiştir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "elektrofizyoloji",
+   "beyin"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #400",
+   "metin": "Dikkat *gerekir mi?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Beyin, siz dikkat etmeden iki sesin farkını yakalayabilir mi?"
+   ]
+  },
+  {
+   "id": "mmn",
+   "tur": "zincir",
+   "baslik": "Uyumsuzluk *negatifliği*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Dizi",
+     "tr": "sık ve seyrek ses",
+     "cumle": 1
+    },
+    {
+     "ad": "Fark dalgası",
+     "tr": "sapan eksi standart",
+     "cumle": 2
+    },
+    {
+     "ad": "Dikkat",
+     "tr": "gerekmez",
+     "cumle": 3
+    }
+   ],
+   "alt": "Yenidoğanda _bile_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Uyumsuzluk negatifliği, kısaca MMN, otomatik ayırt etmeyi gösterir.",
+    "Sık bir sesin arasına seyrek ve farklı bir ses yerleştirilir.",
+    "Sapan sesin yanıtından standart sesin yanıtı çıkarılır; buna fark dalgası denir.",
+    "Kişi sessiz bir film izlerken bile bu yanıt kaydedilebilir.",
+    "Yenidoğanlarda bile kaydedilebilmiştir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D202",
+ "kaynak_baslik": "P300 ve MMN"
+}

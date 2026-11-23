@@ -1,0 +1,681 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D052_Vestibulo_Okuler_Refleks_TR",
+ "kapak": {
+  "ust": "DERS 52",
+  "baslik": "Vestibülo-oküler<br>*refleks*",
+  "alt": "Kazanç, faz ve Ewald yasaları",
+  "cizim": "vestibuler",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Vestibülo-oküler Refleks: Görüntü Neden Sabit Kalır? | Ders 52 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Vestibülo-oküler refleks (VOR), baş hareket ederken gözleri başa eşit ve ters yönde döndürerek görüntüyü retina üzerinde sabit tutar. Bu derste üç nöronlu refleks arkını, kanal ve göz kası eşleşmelerini, VOR kazancı ve fazını, Ewald yasalarını, VOR'u ölçmenin farklı yollarını ve VOR kaybının belirtilerini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Leigh ve Zee, The Neurology of Eye Movements; Jacobson ve Shepard, Balance Function Assessment and Management; Halmagyi ve Curthoys (1988), A clinical sign of canal paresis, Archives of Neurology; Herdman ve Clendaniel, Vestibular Rehabilitation.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vestibüler",
+   "VOR"
+  ],
+  "etiketler": [
+   "vestibülo-oküler refleks",
+   "VOR",
+   "vestibulo-ocular reflex",
+   "VOR kazancı",
+   "gain",
+   "faz",
+   "Ewald yasaları",
+   "baş itme testi",
+   "osilopsi",
+   "vestibüler fizyoloji",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 52",
+   "baslik": "Vestibülo-oküler *refleks*",
+   "alt": "Baş dönerken görüntü neden sabit kalır?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste baş hareket ederken gözlerimizin görüntüyü nasıl sabit tuttuğunu, yani vestibülo-oküler refleksi öğreneceğiz.",
+    {
+     "yazi": "Refleks arkını, kazanç ve faz kavramlarını ve Ewald yasalarını adım adım göreceğiz.",
+     "ses": "Refleks arkını, kazanç ve faz kavramlarını ve Evald yasalarını adım adım göreceğiz."
+    }
+   ]
+  },
+  {
+   "id": "gorev",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Refleksin görevi",
+   "baslik": "*VOR* ne işe yarar?",
+   "maddeler": [
+    {
+     "metin": "Görüntüyü _retina_ üzerinde sabitler",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Göz, başa _eşit ve ters_ döner",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Gecikme yaklaşık _10 ms_ altında",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Görsel takip bu hıza _yetişemez_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "VOR",
+    "metin": "Baş sağa, gözler *sola*: görüntü sabit",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Vestibülo-oküler refleks (vestibulo-ocular reflex), kısaca VOR, baş hareket ederken görüntünün retina üzerinde sabit kalmasını sağlar.",
+    "Baş bir yöne döndüğünde gözler aynı hızla ters yöne döner; böylece bakılan nokta yerinde kalır.",
+    "Görüntü retina üzerinde saniyede birkaç dereceden fazla kayarsa görme keskinliği belirgin biçimde düşer.",
+    "VOR çok hızlıdır; göz yanıtı baş hareketinden yaklaşık on milisaniyeden daha kısa sürede başlar.",
+    "Görsel takip sistemleri ise yaklaşık yüz milisaniyelik gecikmeyle çalışır ve hızlı baş hareketlerine yetişemez.",
+    "Bu yüzden yürürken, koşarken ya da başımızı hızla çevirirken net görmemizi asıl VOR sağlar."
+   ]
+  },
+  {
+   "id": "uc_noron",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Refleksin görevi",
+   "baslik": "Üç nöronlu *refleks arkı*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kanal",
+     "metin": "Baş hareketini algılar",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Vestibüler sinir",
+     "metin": "1. nöron: Scarpa ganglionu",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Vestibüler çekirdek",
+     "metin": "2. nöron: beyin sapında",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Motor çekirdek",
+     "metin": "3. nöron: III, IV, VI",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Göz kasları",
+     "metin": "Kısa yol, hızlı yanıt",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "VOR'un temelinde üç nöronlu kısa bir refleks arkı bulunur.",
+    {
+     "yazi": "Birinci nöron, hücre gövdesi Scarpa ganglionunda olan vestibüler sinir lifidir.",
+     "ses": "Birinci nöron, hücre gövdesi Skarpa ganglionunda olan vestibüler sinir lifidir."
+    },
+    "İkinci nöron, beyin sapındaki vestibüler çekirdeklerde yer alır.",
+    "Üçüncü nöron, göz kaslarını uyaran okülomotor, troklear ya da abdusens çekirdeğindeki motor nörondur.",
+    "Bu kısa yol, refleksin bu kadar hızlı olmasının nedenidir.",
+    "Doğrudan yolun yanında, göz konumunu korumaya ve yanıtı uzatmaya yardım eden dolaylı yollar da vardır."
+   ]
+  },
+  {
+   "id": "kanal_kas",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Refleksin görevi",
+   "baslik": "Kanaldan *göz kasına*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Lateral kanal: yatay",
+     "metin": "Medial rektus ve karşı lateral rektus",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Ön kanal: yukarı",
+     "metin": "Superior rektus ve karşı inferior oblik",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Arka kanal: aşağı",
+     "metin": "Superior oblik ve karşı inferior rektus",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Her kanal, kendi düzleminde göz hareketi oluşturan iki kasa bağlanır.",
+    "Lateral kanal uyarıldığında aynı taraftaki medial rektus ve karşı taraftaki lateral rektus kasılır.",
+    "Örneğin baş sağa döndüğünde sağ lateral kanal uyarılır ve iki göz birlikte sola döner.",
+    "Ön kanal uyarıldığında aynı taraftaki superior rektus ve karşı taraftaki inferior oblik kasılır; gözler yukarı döner.",
+    "Arka kanal uyarıldığında aynı taraftaki superior oblik ve karşı taraftaki inferior rektus kasılır; gözler aşağı döner.",
+    "Dikey kanallarda göz hareketine bir torsiyon bileşeni de eşlik eder."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kazanç ve faz",
+   "baslik": "VOR *kazancı*",
+   "maddeler": [
+    {
+     "metin": "Kazanç: göz hızı bölü _baş hızı_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "İdeal değer _bire_ yakın",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Düşük kazanç: _görüntü kayar_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normal sınır _teste_ göre değişir",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KAZANÇ (GAIN)",
+    "metin": "Göz hızı bölü baş hızı; ideal değer *bire* yakın",
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "VOR'un ne kadar iyi çalıştığını gösteren ilk ölçü kazançtır (gain): göz hızının baş hızına oranı.",
+     "ses": "VOR'un ne kadar iyi çalıştığını gösteren ilk ölçü kazançtır: göz hızının baş hızına oranı."
+    },
+    "Göz, başın hareketini tam karşılıyorsa kazanç bire yakındır.",
+    "Kazanç düşükse göz başın gerisinde kalır, görüntü retina üzerinde kayar ve düzeltici sakkadlar gerekir.",
+    {
+     "yazi": "Örneğin baş saniyede 200 derece dönerken göz yalnız 100 derece dönüyorsa kazanç 0,5'tir.",
+     "ses": "Örneğin baş saniyede iki yüz derece dönerken göz yalnız yüz derece dönüyorsa kazanç sıfır virgül beştir."
+    },
+    "Kazancın birin belirgin üzerinde olması da görüntüyü ters yönde kaydırır; ölçümde ise çoğu zaman teknik bir sorunu düşündürür.",
+    "Kazancın normal değerleri teste ve cihaza göre değişir; yorum laboratuvarın normlarıyla yapılır."
+   ]
+  },
+  {
+   "id": "faz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kazanç ve faz",
+   "baslik": "VOR *fazı*",
+   "maddeler": [
+    {
+     "metin": "Faz: göz ve baş _zamanlaması_",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "İdealde göz başla _eş zamanlı_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Çok yavaş dönmede _faz önü_",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Döner sandalyede _ölçülür_",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "faz_egrileri",
+    "cumle": 0,
+    "ayar": {
+     "faz": 30,
+     "kazanc": 0.9,
+     "bas_cumle": 0,
+     "goz_cumle": 1,
+     "faz_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "bas_hizi",
+      "cumle": 1
+     },
+     {
+      "parca": "goz_hizi",
+      "cumle": 2
+     },
+     {
+      "parca": "faz_farki",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "İkinci ölçü fazdır (phase): göz hareketinin baş hareketine göre zamanlamasını gösterir.",
+    "İdeal bir VOR'da göz, baş hareketiyle tam aynı zamanda ve ters yönde hareket eder.",
+    "Sinüs biçimli bir dönmede göz yanıtı başın gerisinde ya da önünde kalabilir; bu fark derece cinsinden ifade edilir.",
+    "Çok yavaş dönmelerde kupulanın mekanik özellikleri nedeniyle göz yanıtı öne kayar; buna faz önü (phase lead) denir.",
+    "Faz ve kazanç, özellikle sinüs biçimli döner sandalye testinde birlikte ölçülür.",
+    "Faz önünün normalden fazla olması, periferik vestibüler sorunlarda sık görülen bir bulgudur."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kazanç ve faz",
+   "baslik": "VOR'u ölçmenin *yolları*",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kalorik test",
+     "metin": "Çok düşük frekans; kulaklar ayrı",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Döner sandalye",
+     "metin": "Düşük, orta; kazanç, faz, simetri",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "Yüksek frekans; altı kanal ayrı",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Yatak başı itme",
+     "metin": "Yüksek frekans; cihaz gerektirmez",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "VOR farklı yöntemlerle ve farklı hareket hızlarında ölçülebilir; her yöntemin kendine göre avantajı vardır.",
+    "Kalorik test çok düşük frekanslı bir uyarandır ve iki kulağı ayrı ayrı karşılaştırır.",
+    "Döner sandalye düşük ve orta frekanslarda kazanç, faz ve simetriyi ayrıntılı ölçer; iki taraflı kayıpları izlemekte güçlüdür.",
+    "Video baş itme testi, kısaca vHIT, günlük yaşama benzeyen yüksek frekanslarda altı kanalı ayrı ayrı inceler.",
+    "Yatak başı baş itme testi cihaz gerektirmeyen hızlı bir yöntemdir, ama gizli sakkadları göremez.",
+    "Kalorik test ve vHIT yaygın olarak kullanılır; döner sandalye ise pahalı bir donanım olduğu için daha az merkezde bulunur."
+   ]
+  },
+  {
+   "id": "gorsel_sistem",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kazanç ve faz",
+   "baslik": "VOR ve *görsel* sistemler",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "VOR",
+     "metin": "Hızlı harekette, karanlıkta da çalışır",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Optokinetik",
+     "metin": "Kayan görüntüyü izler",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Düzgün takip",
+     "metin": "Hareketli küçük hedefi izler",
+     "cumle": 3
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Görsel sınır",
+     "metin": "Yavaşta iyi, hızlıda gecikmeli",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "VOR tek başına çalışmaz; görsel sistemlerle bir iş bölümü yapar.",
+    "VOR hızlı baş hareketlerinde etkilidir ve gözler kapalıyken ya da karanlıkta da çalışır.",
+    "Uzun süren sabit dönmelerde VOR zayıflarken, kayan görüntüyü izleyen optokinetik sistem devreye girer.",
+    "Düzgün takip sistemi ise hareket eden küçük bir hedefi gözle izlememizi sağlar.",
+    "Görsel sistemler yavaş hareketlerde iyi çalışır; ama gecikmeleri nedeniyle hızlı baş hareketlerinde VOR'un yerini tutamaz.",
+    "Bu yüzden döner sandalye ve kalorik test gibi yavaş uyaranlı ölçümler karanlıkta ya da fiksasyon kaldırılarak yapılır."
+   ]
+  },
+  {
+   "id": "ewald",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ewald yasaları",
+   "baslik": "*Ewald* yasaları",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Birinci yasa",
+     "metin": "Hareket kanal düzleminde",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İkinci yasa",
+     "metin": "Lateralde ampullaya akım güçlü",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Üçüncü yasa",
+     "metin": "Dikeyde ampulladan akım güçlü",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Ewald, güvercinlerde kanalları tek tek uyararak üç temel kural tanımladı.",
+     "ses": "Evald, güvercinlerde kanalları tek tek uyararak üç temel kural tanımladı."
+    },
+    "Birinci yasa: göz ve baş hareketleri, uyarılan kanalın düzleminde ve endolenf akımının yönünde ortaya çıkar.",
+    "İkinci yasa: lateral kanalda ampullaya doğru akım, ters yöndeki akımdan daha güçlü bir yanıt oluşturur.",
+    "Üçüncü yasa: dikey kanallarda ise ampulladan uzağa doğru akım daha güçlü yanıt oluşturur.",
+    "Bu asimetrinin temeli, liflerin uyarılmayla çok artabilmesi ama baskılanmada sıfırın altına inememesidir.",
+    "Birinci yasa, pozisyonel testlerde nistagmusun yönünden hangi kanalın etkilendiğini bulmamızı sağlar."
+   ]
+  },
+  {
+   "id": "ewald_klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ewald yasaları",
+   "baslik": "Yasalar *klinikte*",
+   "maddeler": [
+    {
+     "metin": "Hızlı itmede _uyarılan_ taraf baskın",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Sağa itme: _sağ_ lateral kanal",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Zayıf tarafa itmede _sakkad_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Pozisyonel testlerde _yön_ ipucu",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Çok hızlı baş hareketlerinde baskılanan taraf sıfıra iner ve yanıtı neredeyse yalnız uyarılan taraf oluşturur.",
+    "Bu yüzden başı sağa hızla ittiğimizde ağırlıkla sağ lateral kanalı test etmiş oluruz.",
+    "Sağ taraf zayıfsa gözler başla birlikte kayar ve hedefi yakalamak için düzeltici bir sakkad gerekir.",
+    "Yavaş hareketlerde ise sağlam taraf hem uyarılarak hem baskılanarak iki yönü de kısmen karşılayabilir.",
+    "Lateral kanal kaynaklı pozisyonel vertigoda nistagmusun daha güçlü olduğu taraf da ikinci yasayla yorumlanır."
+   ]
+  },
+  {
+   "id": "uyarlama",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uyarlama ve klinik",
+   "baslik": "VOR *uyarlanabilir*",
+   "maddeler": [
+    {
+     "metin": "Beyincik kazancı _yeniden ayarlar_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Yeni gözlük: birkaç günde _uyum_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Rehabilitasyonun _temeli_",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "UYARLAMA",
+    "metin": "Görüntü kayması bir *hata sinyalidir*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "VOR sabit bir refleks değildir; görüntü kaydığında beyincik kazancı yeniden ayarlar.",
+    "Örneğin büyüten yeni bir gözlük takıldığında VOR kazancının artması gerekir ve kişi birkaç gün içinde uyum sağlar.",
+    "Bu yeteneğe VOR uyarlaması (VOR adaptation) denir ve beyinciğin flokulus bölümünün sağlam olmasına bağlıdır.",
+    "Vestibüler rehabilitasyondaki bakış sabitleme egzersizleri bu ilkeden yararlanır.",
+    "Egzersizlerin seçimi ve planlaması uzman değerlendirmesiyle yapılır."
+   ]
+  },
+  {
+   "id": "baskilama",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uyarlama ve klinik",
+   "baslik": "VOR ne zaman *baskılanır?*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Hedef sabit",
+     "metin": "VOR çalışır, gözler ters döner",
+     "cumle": 0
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Hedef birlikte",
+     "metin": "Kitap başla birlikte döner",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "VOR baskılanır",
+     "metin": "Gözler başla aynı yöne",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Beyincik",
+     "metin": "Baskılamayı sağlar",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Baskılanamama",
+     "metin": "Santral bulgu, hekime iletilir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Duvardaki bir resme bakarken başımızı çevirirsek hedef sabittir ve VOR'un çalışması gerekir.",
+    "Bu durumda gözler başın tersine döner ve resim net kalır.",
+    "Ama sandalyede dönerken elimizdeki kitaba bakıyorsak hedef de başla birlikte döner.",
+    "Bu kez VOR'un baskılanması gerekir; gözler başla birlikte hareket etmelidir.",
+    {
+     "yazi": "VOR baskılama (VOR suppression) beyincik tarafından sağlanır ve döner sandalye testinde ölçülebilir.",
+     "ses": "VOR baskılama beyincik tarafından sağlanır ve döner sandalye testinde ölçülebilir."
+    },
+    "Baskılamanın bozulması periferik değil, santral bir sorunu düşündürür; bu tür bulgular hekime iletilir."
+   ]
+  },
+  {
+   "id": "osilopsi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uyarlama ve klinik",
+   "baslik": "VOR kaybı: *osilopsi*",
+   "maddeler": [
+    {
+     "metin": "Yürürken _görüntü sallanır_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "İki taraflı kayıpta _belirgin_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dinamik görme keskinliği _düşer_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Karanlıkta _dengesizlik_ artar",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OSİLOPSİ",
+    "metin": "Baş hareketinde *görüntünün kayması*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "VOR iki tarafta birden belirgin biçimde azaldığında kişi yürürken görüntünün sallandığını ya da zıpladığını söyler.",
+    {
+     "yazi": "Bu yakınmaya osilopsi (oscillopsia) denir ve özellikle iki taraflı vestibüler kayıpta görülür.",
+     "ses": "Bu yakınmaya osilopsi denir ve özellikle iki taraflı vestibüler kayıpta görülür."
+    },
+    "Baş hareketsizken görme normal olabilir; ama baş hareket edince görme keskinliği belirgin biçimde düşer.",
+    "Yatak başında kişi göz tablosunu okurken başı yaklaşık iki hertz hızla sağa sola çevrilir; buna dinamik görme keskinliği testi denir.",
+    "Görme ve vücut duyusu ipuçları azaldığında, örneğin karanlıkta, dengesizlik daha da belirginleşir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uyarlama ve klinik",
+   "baslik": "Klinik ipucu",
+   "metin": "Anamnezde yürürken tabelaları okuyamama ya da görüntünün zıplaması yakınmasını mutlaka sorun. Bu soru, dönme hissi tarif etmeyen iki taraflı VOR kaybını fark etmenize yardım eder.",
+   "cumleler": [
+    "Bir klinik ipucu: dengesizlik yakınması olan kişiye yürürken görüntünün zıplayıp zıplamadığını da sorun.",
+    "Yürürken tabelaları ya da yüzleri seçmekte zorlanmak, iki taraflı VOR kaybının ilk ipucu olabilir.",
+    "Bu kişiler çoğu zaman dönme hissi tarif etmez; bu yüzden yakınma kolayca gözden kaçabilir.",
+    "Ototoksik ilaç öyküsüyle birlikte bu yakınma varsa bulguyu kaydedip hekime iletin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_Üç nöronlu_ ark, 10 ms altı gecikme",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Kazanç_: göz hızı bölü baş hızı",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Faz_: göz ve baş zamanlaması",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_Ewald_: düzlem ve uyarılma asimetrisi",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "VOR, üç nöronlu kısa bir arkla çalışır ve on milisaniyeden kısa bir gecikmeyle yanıt verir.",
+    "Kazanç göz hızının baş hızına oranıdır ve ideal değeri bire yakındır.",
+    "Faz, göz hareketinin baş hareketine göre zamanlamasıdır; çok yavaş dönmelerde göz öne kayar.",
+    {
+     "yazi": "Ewald yasalarına göre hareket kanal düzlemindedir ve uyarılma, baskılanmadan daha güçlü yanıt verir.",
+     "ses": "Evald yasalarına göre hareket kanal düzlemindedir ve uyarılma, baskılanmadan daha güçlü yanıt verir."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Baş saniyede 100 derece, göz 80 derece dönüyor. VOR kazancı kaçtır?",
+   "secenekler": [
+    "0,2",
+    "0,8",
+    "1,25",
+    "80"
+   ],
+   "dogru": 1,
+   "aciklama": "Kazanç = göz hızı bölü baş hızı: _80 bölü 100_, yani 0,8.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Baş saniyede 100 derece dönerken göz 80 derece dönüyor. VOR kazancı kaçtır?",
+     "ses": "Kendinizi test edin: Baş saniyede yüz derece dönerken göz seksen derece dönüyor. VOR kazancı kaçtır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: 0,8.",
+     "ses": "Doğru cevap be: sıfır virgül sekiz."
+    },
+    {
+     "yazi": "Kazanç, göz hızının baş hızına oranıdır: 80 bölü 100, yani 0,8.",
+     "ses": "Kazanç, göz hızının baş hızına oranıdır: seksen bölü yüz, yani sıfır virgül sekiz."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Denge nasıl sağlanır? *Üç duyusal* sistem",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste görme, vestibüler sistem ve vücut duyusunun dengeyi birlikte nasıl sağladığını göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

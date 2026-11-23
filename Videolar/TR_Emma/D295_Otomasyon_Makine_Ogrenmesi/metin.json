@@ -1,0 +1,714 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D295_Otomasyon_Makine_Ogrenmesi_TR",
+ "kapak": {
+  "ust": "DERS 295",
+  "baslik": "Otomasyon ve<br>*makine öğrenmesi*",
+  "alt": "Otomatik odyometri ve karar desteği",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Odyolojide Otomasyon ve Makine Öğrenmesi | Ders 295 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Otomatik odyometri ne kadar güvenilir, makine öğrenmesi odyolojide ne yapabilir? Bu derste otomatik odyometrinin işleyişini ve kalite göstergelerini, makine öğrenmesiyle odyogram sınıflamayı, bir modelin nasıl değerlendirildiğini, sınırlılıkları ve klinik sorumluluğu öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Mahomed F, Swanepoel DW, Eikelboom RH, Soer M. Validity of automated threshold audiometry: a systematic review and meta-analysis. Ear and Hearing (2013); Margolis RH ve ark. Qualind: a method for assessing the accuracy of automated tests. Journal of the American Academy of Audiology (2007); Song XD ve ark. Fast, continuous audiogram estimation using machine learning. Ear and Hearing (2015); Crowson MG ve ark. AutoAudio: deep learning for automatic audiogram interpretation. Journal of Medical Systems (2020).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "makineöğrenmesi",
+   "otomatikodyometri"
+  ],
+  "etiketler": [
+   "otomatik odyometri",
+   "automated audiometry",
+   "makine öğrenmesi",
+   "machine learning",
+   "klinik karar desteği",
+   "clinical decision support",
+   "odyogram sınıflama",
+   "kalite göstergeleri",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 295",
+   "baslik": "Otomasyon ve *makine öğrenmesi*",
+   "alt": "Otomatik odyometri, karar desteği, sorumluluk",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste otomatik odyometriyi, doğruluğunu ve kalite göstergelerini öğreneceğiz.",
+    "Ardından makine öğrenmesiyle odyogram sınıflamayı, klinik karar desteğini, sınırlılıkları ve klinik sorumluluğu ele alacağız."
+   ]
+  },
+  {
+   "id": "tarih",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Otomatik odyometri",
+   "baslik": "Otomasyonun *kısa tarihi*",
+   "adimlar": [
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "1947",
+     "metin": "Hasta kontrollü kayıt",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Bilgisayar",
+     "metin": "Kural tabanlı test",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Tablet",
+     "metin": "Tarama ve uzak bölge",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Makine öğrenmesi",
+     "metin": "Veriden öğrenen yöntemler",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Odyometride otomasyon yeni değildir: Békésy 1947'de hastanın butona basıp bıraktığı otomatik kayıt odyometresini tanımladı.",
+    "Bilgisayarların yaygınlaşmasıyla, klinisyenin eşik bulma adımlarını taklit eden kural tabanlı otomatik testler geliştirildi.",
+    "Son yıllarda tablet ya da bilgisayar tabanlı, kalibre kulaklıklı sistemler tarama ve uzak bölgelerde kullanılmaya başlandı.",
+    "Bugün bunlara, büyük veri kümelerinden örüntü öğrenen makine öğrenmesi yöntemleri ekleniyor.",
+    "Bu derste önce otomatik testi, sonra makine öğrenmesini ve en sonunda ikisinin ortak sınırlarını ele alacağız."
+   ]
+  },
+  {
+   "id": "nasil",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Otomatik odyometri",
+   "baslik": "Otomatik odyometri *nasıl* çalışır?",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Algoritma",
+     "metin": "Önceden tanımlı adımlar",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Hasta yanıtı",
+     "metin": "Buton ya da dokunma",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Zamanlama",
+     "metin": "Rastgele aralıklar",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Tutarlılık",
+     "metin": "Yanlış alarm denetimi",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Çıktı",
+     "metin": "Eşikler ve uyarılar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Otomatik odyometri (automated audiometry), eşik bulma adımlarını bir algoritmanın yürüttüğü testtir.",
+    "Ses verilir, hasta butona basar ya da ekrana dokunur; algoritma yanıta göre bir sonraki düzeyi seçer.",
+    "Uyaranların aralıkları rastgele tutulur; böylece hastanın bir ritme göre tahminde bulunması zorlaşır.",
+    "Ses yokken basılan butonlar, yani yanlış alarmlar sayılır ve yanıtların tutarlılığı izlenir.",
+    "Test sonunda eşiklerle birlikte, sonucun güvenilirliğini etkileyebilecek durumlar için uyarılar üretilir.",
+    "Bazı sistemler maskeleme gereksinimini kurallarla belirler ve kemik yolu ölçümünü de yapar."
+   ]
+  },
+  {
+   "id": "dogruluk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Otomatik odyometri",
+   "baslik": "Doğruluk: *ne biliyoruz?*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Hava yolu",
+     "metin": "Manuel testle benzer",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik yolu",
+     "metin": "Kanıt daha sınırlı",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Zor gruplar",
+     "metin": "Çocuk, bilişsel sorun",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ortam",
+     "metin": "Gürültü sonucu bozar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "2013 tarihli bir sistematik derlemede otomatik ve manuel hava yolu eşikleri arasındaki fark, manuel testin tekrar farkına benzerdi.",
+    "Yani uygun hastada ve uygun ortamda otomatik hava yolu eşikleri genellikle güvenilirdir.",
+    "Kemik yolu ve maskeleme gerektiren ölçümler için ise doğrulama çalışmaları daha sınırlıdır.",
+    "Küçük çocuklarda, bilişsel güçlüğü olan kişilerde ve test edilmesi zor hastalarda kanıt azdır; bu gruplarda klinisyen gerekir.",
+    "Ortam gürültüsü otomatik testte de sonucu bozar; bu yüzden gürültü izlemi ve kalibrasyon vazgeçilmezdir.",
+    "Kısacası otomatik test bir araçtır; nerede ve kimde kullanılacağı klinik bir karardır."
+   ]
+  },
+  {
+   "id": "kalite",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Otomatik odyometri",
+   "baslik": "Kalite *göstergeleri*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Yanlış alarm",
+     "metin": "Sessizlikte basma",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Yanıt süresi",
+     "metin": "Çok yavaş ya da hızlı",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tekrar farkı",
+     "metin": "Aynı frekansta tutarlılık",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Ortam gürültüsü",
+     "metin": "Sınır aşıldı mı?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Maskeleme",
+     "metin": "Gerekli mi, yapıldı mı?",
+     "cumle": 4
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Örüntü",
+     "metin": "Beklenmeyen hava-kemik farkı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Otomatik testin güvenilirliğini değerlendirmek için kalite göstergeleri kullanılır; en temeli yanlış alarm oranıdır.",
+    "Yanıt sürelerinin çok uzun ya da çok değişken olması dikkat sorununa ya da testi anlamamaya işaret edebilir.",
+    "Bir frekansın yeniden ölçülmesinde büyük fark çıkması, sonucun güvenilirliğini düşürür.",
+    "Test sırasında ölçülen ortam gürültüsü sınırı aştıysa o sonuç işaretlenir.",
+    "Maskeleme gerektiği halde yapılamadıysa sistem bunu bildirmelidir.",
+    "Margolis ve arkadaşları, bu tür göstergeleri birleştirerek otomatik testin doğruluğunu tahmin eden bir yöntem tanımladılar."
+   ]
+  },
+  {
+   "id": "arti_eksi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Otomatik odyometri",
+   "baslik": "Avantajlar ve *sınırlar*",
+   "cizim": "odyometre",
+   "vurgula": [
+    {
+     "parca": "cihaz",
+     "cumle": 0
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Standart ve tekrarlanabilir",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Klinisyen zamanı korunur",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Hastayı gözlemleyemez",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Otomatik testin en büyük avantajı standart olmasıdır: her hastada aynı kurallar uygulanır.",
+    "Klinisyenin zamanı karmaşık vakalara, danışmanlığa ve rehabilitasyona ayrılabilir.",
+    "Uzak bölgelerde eğitimli bir yardımcıyla tarama ve temel testler yapılabilir.",
+    "Buna karşın algoritma hastanın yüzünü, dikkatini ve kafa karışıklığını göremez.",
+    "Fonksiyonel işitme kaybı, tutarsız yanıtlar ya da beklenmeyen bir bulgu, deneyimli bir gözün değerlendirmesini gerektirir.",
+    "Bu yüzden otomatik sonuçlar bir odyolog tarafından gözden geçirilmeden tanısal karar için kullanılmaz."
+   ]
+  },
+  {
+   "id": "ml",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Makine öğrenmesi",
+   "baslik": "Makine öğrenmesi *nedir?*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Veri",
+     "metin": "Çok sayıda örnek",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Etiket",
+     "metin": "Uzmanın doğru yanıtı",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Model",
+     "metin": "Örüntüyü öğrenir",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Test",
+     "metin": "Yeni veride sınanır",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Makine öğrenmesi (machine learning), bir algoritmanın kuralları açıkça yazılmadan, örneklerden örüntü öğrenmesidir.",
+    "Önce çok sayıda örnek gerekir: örneğin binlerce odyogram.",
+    "Denetimli öğrenmede her örneğe uzmanın verdiği doğru yanıt, yani bir etiket eklenir: iletim tipi, sensörinöral ya da mikst gibi.",
+    "Algoritma bu örneklerden girdilerle etiketler arasındaki ilişkiyi öğrenir ve bir model oluşturur.",
+    "Model, eğitimde hiç görmediği yeni veriyle sınanır; asıl başarı ölçüsü budur.",
+    "Denetimsiz öğrenmede ise etiket yoktur; algoritma benzer odyogramları kendi başına gruplar."
+   ]
+  },
+  {
+   "id": "siniflama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Makine öğrenmesi",
+   "baslik": "Örnek: odyogram *sınıflama*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Veri toplama",
+     "metin": "Odyogram ve etiket",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Eğitim",
+     "metin": "Model örüntü öğrenir",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "İç test",
+     "metin": "Ayrılmış veri",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Dış doğrulama",
+     "metin": "Başka merkezin verisi",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Klinik kullanım",
+     "metin": "Karar desteği",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Odyogram sınıflama çalışmalarında önce binlerce odyogram, uzmanların belirlediği tip ve derece etiketleriyle toplanır.",
+    "Model bu verinin bir bölümüyle eğitilir.",
+    "Ayrılmış bir bölümle sınanır; uzman etiketleriyle uyumu ölçülür.",
+    "Asıl önemli adım dış doğrulamadır: model, başka bir merkezin ve başka cihazların verisinde de çalışıyor mu?",
+    "Ancak bu adımlardan sonra model kliniğe karar desteği olarak girebilir.",
+    "Yayımlanan çalışmalarda bu tür modellerin uzman sınıflamasıyla yüksek uyum gösterebildiği bildirilmiştir; ama sonuçlar veriye bağlıdır."
+   ]
+  },
+  {
+   "id": "alanlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Makine öğrenmesi",
+   "baslik": "Uygulama *alanları*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Odyogram sınıflama",
+     "metin": "Tip, derece, desen",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Hızlı eşik",
+     "metin": "Daha az uyaranla",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Yanıt saptama",
+     "metin": "ABR ve OAE",
+     "cumle": 2
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi görüntüsü",
+     "metin": "Görüntü sınıflama",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İşitme cihazı",
+     "metin": "Ortam tanıma, ayar",
+     "cumle": 4
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Triyaj",
+     "metin": "Kime öncelik?",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Odyogram sınıflama, kaybın tipini, derecesini ve desenini otomatik olarak tanımlamayı hedefler.",
+    "Bazı yöntemler, olasılık hesabıyla bir sonraki uyaranı seçerek eşikleri daha az sunumla tahmin etmeyi amaçlar.",
+    "Uyarılmış potansiyel ve otoakustik emisyon kayıtlarında yanıtın var olup olmadığını saptamak için algoritmalar kullanılır.",
+    "Otoskopi görüntülerinde kulak kiri, efüzyon ya da perforasyon gibi görünümleri sınıflandıran modeller araştırılmaktadır.",
+    "Birçok işitme cihazı, ortamın konuşma mı gürültü mü müzik mi olduğunu tanıyan sınıflandırıcılar kullanır.",
+    "Tarama programlarında sonuçların önceliklendirilmesi de olası bir kullanım alanıdır.",
+    "Bu alanların çoğu hala araştırma ya da erken uygulama aşamasındadır; her biri ayrı ayrı doğrulanmalıdır."
+   ]
+  },
+  {
+   "id": "roc",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Makine öğrenmesi",
+   "baslik": "Bir model nasıl *değerlendirilir?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Yanlış pozitif oranı (1 - özgüllük)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Duyarlılık"
+    },
+    "seriler": [
+     {
+      "ad": "model",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.02,
+        0.35
+       ],
+       [
+        0.05,
+        0.55
+       ],
+       [
+        0.1,
+        0.72
+       ],
+       [
+        0.2,
+        0.85
+       ],
+       [
+        0.35,
+        0.93
+       ],
+       [
+        0.6,
+        0.98
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "örnek model",
+      "cumle": 1
+     },
+     {
+      "ad": "sans",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        1,
+        1
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "şans",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [],
+    "isaretler": [
+     {
+      "ad": "kesme",
+      "x": 0.1,
+      "y": 0.72,
+      "etiket": "kesme noktası",
+      "dus": "xy",
+      "cumle": 4
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "model",
+     "metin": "örnek model",
+     "cumle": 1
+    },
+    {
+     "parca": "sans",
+     "metin": "şans düzeyi",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kesme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bir sınıflandırma modeli, istatistik derslerinde gördüğümüz ölçülerle değerlendirilir: duyarlılık ve özgüllük.",
+    "Ekrandaki eğri, kesme noktası değiştikçe duyarlılığın ve yanlış pozitif oranının nasıl değiştiğini gösteren öğretim amaçlı bir örnektir.",
+    "Kesik çapraz çizgi şans düzeyidir; eğri sol üst köşeye ne kadar yaklaşırsa model o kadar iyi ayırt eder.",
+    "Eğrinin altındaki alan, kısaca AUC, modelin genel ayırt etme gücünü tek bir sayıyla özetler.",
+    "Ama yüksek bir alan tek başına yetmez; seçilen kesme noktasında kaç hastanın gözden kaçacağı klinik olarak sorulmalıdır.",
+    "Tarama amaçlı bir modelde gözden kaçan hastanın bedeli yüksektir; bu yüzden duyarlılık öne çıkar."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sınırlar ve sorumluluk",
+   "baslik": "Makine öğrenmesinin *sınırları*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Veri yanlılığı",
+     "metin": "Kimin verisiyle eğitildi?",
+     "cumle": 0
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Genellenebilirlik",
+     "metin": "Başka merkezde çalışır mı?",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Açıklanabilirlik",
+     "metin": "Neden bu karar?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Aşırı uyum",
+     "metin": "Eğitimde iyi, sahada zayıf",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Gizlilik",
+     "metin": "Sağlık verisi korunur",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Güncellik",
+     "metin": "Koşullar değişir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Model, eğitildiği verideki kişilere benzeyen hastalarda iyi çalışır; belirli bir yaş ya da dil grubu eksikse o grupta yanılabilir.",
+    "Bir merkezin cihazı ve protokolüyle eğitilen model, başka bir merkezde daha düşük başarı gösterebilir.",
+    "Bazı modeller kararını nasıl verdiğini açıklayamaz; klinisyen bu durumda öneriyi doğrulamakta zorlanır.",
+    "Eğitim verisini ezberleyen bir model, yani aşırı uyum gösteren bir model, yeni hastalarda beklenenden kötü sonuç verir.",
+    "Modeli eğitmek için kullanılan sağlık verileri Kişisel Verilerin Korunması Kanununa göre korunmalı ve mümkünse anonimleştirilmelidir.",
+    "Cihazlar, nüfus ve klinik uygulamalar değiştikçe modelin performansı da zamanla değişebilir ve izlenmelidir."
+   ]
+  },
+  {
+   "id": "sorumluluk",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sınırlar ve sorumluluk",
+   "baslik": "Klinik *sorumluluk*",
+   "adimlar": [
+    {
+     "ikon": "yazilim",
+     "baslik": "Öneri",
+     "metin": "Algoritma önerir",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Doğrulama",
+     "metin": "Odyolog değerlendirir",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Açıklama",
+     "metin": "Hastaya anlatılır",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "metin": "Yöntem ve karar",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Mevzuat",
+     "metin": "Yazılım da tıbbi cihaz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Klinik karar desteği (clinical decision support) sistemleri öneri sunar; kararı vermez.",
+    "Öneriyi hastanın öyküsü, muayenesi ve diğer test sonuçlarıyla birlikte değerlendirmek odyoloğun görevidir.",
+    "Hastaya sonucun nasıl elde edildiği, otomatik bir test ya da algoritma kullanıldıysa bu da dahil, anlaşılır biçimde anlatılır.",
+    "Raporda kullanılan yöntem ve odyoloğun nihai değerlendirmesi açıkça yazılır.",
+    "Tıbbi amaçla kullanılan yazılımlar tıbbi cihaz mevzuatı kapsamına girebilir; bu yüzden kullanılan aracın uygunluğu da sorgulanır.",
+    "Sorumluluk algoritmaya devredilemez: imza atan, hastaya ve rapora karşı sorumludur."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Otomatik bir odyogramı onaylamadan önce kalite uyarılarına, yanlış alarm sayısına ve otoskopi notuna bakın; şüphede manuel test yapın.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: otomatik bir odyogramı onaylamadan önce yalnız eşiklere değil, kalite uyarılarına da bakın.",
+    "Yanlış alarm sayısı yüksekse, ortam gürültüsü aşıldıysa ya da maskeleme uyarısı varsa sonucu güvenilir saymayın.",
+    "Otoskopi notunu ve hastanın yakınmasını odyogramla karşılaştırın.",
+    "Şüphe varsa ilgili frekansları manuel olarak yeniden test edin; bu birkaç dakika, yanlış bir raporu önler."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Otomatik hava yolu: uygun hastada güvenilir",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Kalite göstergeleri: yanlış alarm, gürültü",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Makine öğrenmesi: veri, etiket, doğrulama",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Öneri algoritmadan, karar odyologdan",
+     "cumle": 3,
+     "ikon": "odyolog"
+    }
+   ],
+   "cumleler": [
+    "Otomatik hava yolu odyometrisi, uygun hastada ve ortamda manuel testle benzer eşikler verir; zor gruplarda kanıt sınırlıdır.",
+    "Yanlış alarm, yanıt süresi, tekrar farkı ve ortam gürültüsü gibi kalite göstergeleri sonucun güvenilirliğini gösterir.",
+    "Makine öğrenmesi modelleri etiketli veriden öğrenir; dış doğrulama, yanlılık ve açıklanabilirlik mutlaka sorgulanır.",
+    "Klinik karar desteği öneri sunar; nihai değerlendirme ve sorumluluk odyoloğundur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "En önemli doğrulama adımı?",
+   "secenekler": [
+    "Eğitim verisinde yüksek başarı",
+    "Başka merkezin verisinde sınama",
+    "Daha çok parametre",
+    "Daha hızlı bilgisayar"
+   ],
+   "dogru": 1,
+   "aciklama": "Dış doğrulama, modelin _başka hasta ve cihazlarda_ da çalıştığını gösterir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Bir odyogram sınıflama modelinin kliniğe girmeden önceki en önemli doğrulama adımı hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: modelin başka bir merkezin verisinde sınanması, yani dış doğrulama.",
+    "Eğitim verisindeki yüksek başarı aşırı uyumu gizleyebilir; gerçek performans yeni ve bağımsız veride görülür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Gizli işitme kaybı ve *koklear sinaptopati*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste gizli işitme kaybı ve koklear sinaptopati hakkındaki güncel kanıtları ele alacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

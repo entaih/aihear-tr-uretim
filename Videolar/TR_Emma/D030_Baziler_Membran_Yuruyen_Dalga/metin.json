@@ -1,0 +1,710 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D030_Baziler_Membran_Yuruyen_Dalga_TR",
+ "kapak": {
+  "ust": "DERS 30",
+  "baslik": "Baziler membran,<br>*yürüyen dalga*",
+  "alt": "Békésy'nin keşfi ve tonotopi",
+  "cizim": "koklea_acik"
+ },
+ "youtube": {
+  "baslik": "Baziler Membran ve Yürüyen Dalga | Ders 30 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Stapesin hareketi koklea içinde baziler membran boyunca ilerleyen bir yürüyen dalgaya dönüşür. Bu derste baziler membranın yapısını, von Békésy'nin yürüyen dalgasını, tabandan tepeye frekans haritasını, yani tonotopiyi ve bunun klinik önemini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: von Békésy, Experiments in Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Moore, An Introduction to the Psychology of Hearing.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklea",
+   "işitme"
+  ],
+  "etiketler": [
+   "baziler membran",
+   "yürüyen dalga",
+   "traveling wave",
+   "tonotopi",
+   "tonotopy",
+   "von Békésy",
+   "koklea",
+   "bazal tur",
+   "apeks",
+   "işitme fizyolojisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 30",
+   "baslik": "Baziler membran ve *yürüyen dalga*",
+   "alt": "Békésy'nin keşfi ve tonotopik organizasyon",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste stapesin titreşiminin koklea içinde nasıl bir yürüyen dalgaya dönüştüğünü öğreneceğiz.",
+    "Ardından kokleanın frekansları nasıl bir haritaya yerleştirdiğini, yani tonotopiyi inceleyeceğiz."
+   ]
+  },
+  {
+   "id": "kesit",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kokleanın yapısı",
+   "baslik": "Koklea *kesiti*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_vestibuli",
+     "metin": "scala vestibuli",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_media",
+     "metin": "scala media",
+     "cumle": 1
+    },
+    {
+     "parca": "scala_tympani",
+     "metin": "scala tympani",
+     "cumle": 1
+    },
+    {
+     "parca": "reissner_membrani",
+     "metin": "Reissner membranı",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "baziler membran (taban zarı)",
+     "cumle": 3
+    },
+    {
+     "parca": "corti_organi",
+     "metin": "Corti organı",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "corti_organi",
+     "cumle": 4,
+     "olcek": 1.6
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Önce kısa bir hatırlatma: koklea, yani salyangoz, yaklaşık iki buçuk tur dönen kemik bir kanaldır.",
+    "Bu kanalın içinde üç bölme bulunur: scala vestibuli, scala media ve scala tympani.",
+    "Scala vestibuli ile scala media arasını ince Reissner membranı ayırır.",
+    "Scala media ile scala tympani arasında ise baziler membran, yani taban zarı uzanır.",
+    "Corti organı bu zarın üzerinde oturur; baziler membran hareket ettiğinde tüy hücreleri de onunla birlikte hareket eder.",
+    "Scala vestibuli ve scala tympani, kokleanın tepesinde helicotrema adlı küçük bir açıklıkla birleşir."
+   ]
+  },
+  {
+   "id": "acik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kokleanın yapısı",
+   "baslik": "Koklea *açılırsa*",
+   "cizim": "koklea_acik",
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "taban (bazal tur)",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "apeks (tepe)",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "oval pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "yuvarlak pencere",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Uzunluk: yaklaşık 35 mm",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sıvı sıkıştırılamaz",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Kokleayı düz bir tüp gibi açtığımızı düşünelim; baziler membran yaklaşık otuz beş milimetre uzunluğundadır.",
+    "Oval ve yuvarlak pencerelerin bulunduğu uca taban, ya da bazal tur denir.",
+    "Öbür uç ise apeks, yani tepedir.",
+    "Stapes oval pencereyi içeri ittiğinde scala vestibulide basınç artar, yuvarlak pencere ise dışa doğru esner.",
+    "Bu basınç farkı, bölmeleri ayıran baziler membranı aşağı yukarı hareket ettirir.",
+    "Sıvılar sıkıştırılamadığı için yuvarlak pencerenin esnemesi, bu hareketin olabilmesi için gereklidir."
+   ]
+  },
+  {
+   "id": "taban_tepe",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Baziler membranın özellikleri",
+   "baslik": "Taban ve *tepe*",
+   "sol": {
+    "ust": "Taban (bazal tur)",
+    "maddeler": [
+     {
+      "metin": "_Dar_",
+      "cumle": 1
+     },
+     {
+      "metin": "_Sert_",
+      "cumle": 1
+     },
+     {
+      "metin": "Tiz frekanslara ayarlı",
+      "cumle": 4
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Apeks (tepe)",
+    "maddeler": [
+     {
+      "metin": "_Geniş_",
+      "cumle": 1
+     },
+     {
+      "metin": "_Esnek_",
+      "cumle": 1
+     },
+     {
+      "metin": "Pes frekanslara ayarlı",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Baziler membranın en önemli özelliği, boyunca düzenli biçimde değişen yapısıdır.",
+    "Zar tabanda dar ve serttir; tepeye doğru gittikçe genişler ve esnekleşir.",
+    "İlginç bir ayrıntı: kemik kanal tepeye doğru daralırken baziler membran genişler.",
+    "Sertlikteki bu düzenli azalma, zarın her bölgesinin farklı bir frekansa en iyi yanıt vermesini sağlar.",
+    "Sert ve dar taban tiz frekanslara, geniş ve esnek tepe ise pes frekanslara ayarlıdır.",
+    "Bunu, piyanonun kısa ve gergin tellerinin tiz, uzun ve gevşek tellerinin pes ses çıkarmasına benzetebiliriz."
+   ]
+  },
+  {
+   "id": "bekesy",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yürüyen dalga",
+   "baslik": "Békésy'nin *yürüyen dalgası*",
+   "maddeler": [
+    {
+     "metin": "Kadavra koklealarında _doğrudan_ gözlem",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Dalga hep _tabandan tepeye_ ilerler",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Genlik artar, bir noktada _tepe_ yapar",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tepeden sonra hızla söner",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NOBEL",
+    "metin": "Békésy, 1961 *Nobel* Fizyoloji veya Tıp Ödülü",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Baziler membranın sese nasıl yanıt verdiğini ilk kez ayrıntılı olarak gözleyen kişi Georg von Békésy oldu.",
+    "Békésy, insan kadavralarından alınan koklealarda zarın hareketini mikroskopla izledi.",
+    "Gördüğü hareket, tabandan başlayıp tepeye doğru ilerleyen bir dalgaydı; buna yürüyen dalga (traveling wave) adı verildi.",
+    "Dalga ilerledikçe genliği yavaş yavaş artar ve belirli bir noktada en yüksek değerine ulaşır.",
+    "Bu noktadan hemen sonra genlik hızla azalır ve dalga söner.",
+    {
+     "yazi": "Békésy, koklea mekaniği üzerine çalışmalarıyla 1961 yılında Nobel Fizyoloji veya Tıp Ödülü'nü aldı.",
+     "ses": "Békésy, koklea mekaniği üzerine çalışmalarıyla bin dokuz yüz altmış bir yılında Nobel Fizyoloji veya Tıp Ödülü'nü aldı."
+    }
+   ]
+  },
+  {
+   "id": "dalga1000",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yürüyen dalga",
+   "baslik": "1000 Hz için *yürüyen dalga*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "yürüyen dalga (traveling wave)",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tepe yeri: karakteristik yer",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dalgayı zarın sertliği yönlendirir",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Şekilde bin hertzlik bir saf ses için yürüyen dalgayı görüyorsunuz.",
+    "Dalga tabandan başlıyor, ilerledikçe büyüyor ve zarın ortasına yakın bir bölgede tepe yapıyor.",
+    "Dalganın en büyük olduğu bu yere karakteristik yer denir; her frekansın kendi karakteristik yeri vardır.",
+    "Önemli bir nokta: dalganın yönünü sıvının akışı değil, zarın boyunca değişen sertliği belirler.",
+    "Bu yüzden titreşim kokleaya hangi yoldan ulaşırsa ulaşsın, dalga yine tabandan tepeye doğru ilerler.",
+    "Kemik yolu ile uyarımda da aynı yürüyen dalganın oluşması, kemik yolu testinin temelini oluşturur."
+   ]
+  },
+  {
+   "id": "dalga4000",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yürüyen dalga",
+   "baslik": "Tiz ses: *tabana* yakın",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "4000 Hz: tepe tabana yakın",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Şimdi frekansı dört bin hertze çıkaralım.",
+    "Dalga bu kez tabana daha yakın, bazal turda tepe yapıyor ve kısa bir yol aldıktan sonra sönüyor.",
+    "Tiz sesler, kokleanın yalnızca taban bölgesini belirgin biçimde harekete geçirir.",
+    "Her oktav zar üzerinde benzer uzunlukta yer kaplar; en tiz oktavlar tabanın en başında, oval pencereye yakın yer alır.",
+    "Bu yüzden tiz frekanslardaki kayıplarda, hasarın genellikle bazal turda yoğunlaştığı düşünülür."
+   ]
+  },
+  {
+   "id": "dalga250",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yürüyen dalga",
+   "baslik": "Pes ses: *tepeye* yakın",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 250
+   },
+   "vurgula": [
+    {
+     "parca": "tepe",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "250 Hz: tepe apekse yakın",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Pes ses tabanı da hareket ettirir",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Maskelemenin yukarı yayılımı",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Frekansı iki yüz elli hertze indirdiğimizde tablo değişir.",
+    "Dalga tepeye yakın bir bölgeye kadar ilerler ve en yüksek noktasına apekse yakın bir yerde ulaşır.",
+    "Dikkat edin: pes bir sesin dalgası, yolu boyunca taban bölgesini de bir miktar hareket ettirir.",
+    "Bu durum, yüksek şiddetteki pes seslerin tiz frekans bölgelerini de uyarabilmesini açıklar.",
+    "Klinikteki bir sonucu, maskelemenin yukarı doğru yayılmasıdır: pes bir gürültü, tiz sesleri daha kolay maskeler.",
+    "Ayrıca pes seslerin dalgası daha uzun bir yol aldığı için karakteristik yerine daha geç ulaşır."
+   ]
+  },
+  {
+   "id": "frekans_tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yürüyen dalga",
+   "baslik": "Frekans ve *tepe yeri*",
+   "sutunlar": [
+    "Frekans",
+    "Tepe yeri",
+    "Dalganın yolu"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "4000 Hz",
+      "Tabana yakın",
+      "Kısa"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "Orta bölge",
+      "Orta"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "250 Hz",
+      "Apekse yakın",
+      "Uzun"
+     ],
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Gördüklerimizi özetleyelim: frekans düştükçe dalganın tepe yeri tabandan tepeye doğru kayar.",
+    "Tiz seslerin dalgası kısa bir yol alır ve hızla tepe yapar.",
+    "Pes seslerin dalgası ise kokleanın büyük bölümünü dolaşır ve karakteristik yerine birkaç milisaniye sonra ulaşır.",
+    "Bu gecikme farkı, işitsel beyin sapı yanıtı, kısaca ABR kayıtlarında pes uyaranlarla latansın uzamasının bir nedenidir."
+   ]
+  },
+  {
+   "id": "canli",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yürüyen dalga",
+   "baslik": "Canlı kokleada *daha keskin*",
+   "maddeler": [
+    {
+     "metin": "Békésy: ölü dokuda _geniş_ tepe",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Canlı kokleada _keskin_ ve yüksek tepe",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Katkı: _dış tüy hücreleri_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Hasarda duyarlılık ve seçicilik azalır",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "baziler_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_tuy_hucreleri",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "baziler_membran",
+      "metin": "Baziler membran",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_tuy_hucreleri",
+      "metin": "Dış tüy hücreleri",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Békésy ölü dokularda ve yüksek ses düzeylerinde çalıştığı için, gözlediği dalganın tepesi oldukça genişti.",
+    "Sonraki çalışmalar, canlı ve sağlıklı bir kokleada tepenin çok daha keskin ve yüksek olduğunu gösterdi.",
+    "Bu farkı yaratan, dış tüy hücrelerinin zarın hareketini aktif olarak güçlendirmesidir.",
+    "Bu mekanizmaya koklear amplifikatör denir ve özellikle düşük şiddetteki sesler için önemlidir.",
+    "Dış tüy hücreleri hasar gördüğünde hem duyarlılık hem de frekans seçiciliği azalır.",
+    "Koklear amplifikatörü ileride ayrı bir derste ayrıntılı olarak ele alacağız."
+   ]
+  },
+  {
+   "id": "tonotopi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tonotopi",
+   "baslik": "*Tonotopi*: frekans haritası",
+   "maddeler": [
+    {
+     "metin": "Taban: yaklaşık _20.000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Apeks: yaklaşık _20 Hz_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Orta ve tizde _logaritmik_ düzen",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TONOTOPİ (TONOTOPY)",
+    "metin": "Her frekansın zarda *belirli bir yeri* olması",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Her frekansın baziler membran üzerinde belirli bir yere karşılık gelmesine tonotopi, ya da tonotopik organizasyon denir.",
+    "İnsanda en tiz frekanslar, yaklaşık yirmi bin hertz, tabanda temsil edilir.",
+    "En pes frekanslar, yaklaşık yirmi hertz, apekse yakın bölgededir.",
+    "Bu harita özellikle orta ve yüksek frekanslarda logaritmiktir; her oktav zar üzerinde benzer uzunlukta bir bölge kaplar.",
+    "Odyogramdaki frekans ekseninin de oktav aralıklarıyla eşit bölünmüş olması bu düzenle uyumludur.",
+    "Bu düzen sayesinde koklea bir frekans çözümleyicisi gibi çalışır ve karmaşık bir sesi zar boyunca bileşenlerine ayırır."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tonotopi",
+   "baslik": "Harita *beyne* kadar korunur",
+   "cizim": "isitme_yolu",
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "işitme siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "koklear nükleus",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior kollikulus",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "işitsel korteks",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Tonotopi yalnızca koklea ile sınırlı değildir.",
+    "Her işitme siniri lifi baziler membranın belirli bir bölgesinden bilgi taşır ve en iyi yanıt verdiği bir frekansa sahiptir.",
+    "Bu frekans düzeni, koklear nükleustan, yani koklear çekirdekten, inferior kollikulusa, yani alt tepeciğe kadar beyin sapı boyunca korunur.",
+    "İşitsel kortekste de frekanslar düzenli bir harita halinde dizilir.",
+    "Yani kokleada başlayan frekans haritası, işitme yolunun her basamağında yeniden karşımıza çıkar."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Klinikte *tonotopi*",
+   "maddeler": [
+    {
+     "metin": "Tiz frekans kaybı: _bazal tur_ hasarı",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Yaş ve ototoksisite: tabandan başlar",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Gürültü: yaklaşık _3000 ile 6000 Hz_",
+     "cumle": 3,
+     "ikon": "fabrika"
+    },
+    {
+     "metin": "Pes frekans kayıpları daha _nadir_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Tonotopi, odyogramı kokleanın kaba bir haritası gibi okumamızı sağlar.",
+    "Örneğin tiz frekanslardaki bir kayıp, hasarın daha çok bazal turda olduğunu düşündürür.",
+    "Yaşa bağlı işitme kaybında ve birçok ototoksik ilaçta hasar genellikle tabandan başlar.",
+    "Gürültüde ise hasar çoğu zaman üç bin ile altı bin hertze karşılık gelen bölgede yoğunlaşır.",
+    "Pes frekansları etkileyen kayıplar daha az görülür; örneğin Meniere hastalığının erken döneminde ortaya çıkabilir.",
+    "Unutmayın, odyogram hasarın yerini yalnızca kabaca gösterir; ayrıntılı değerlendirme için başka testler de gerekir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Klinik ipucu",
+   "metin": "Sonuçları anlatırken tonotopiden yararlanın: kokleanın tiz sesleri algılayan giriş bölümünün etkilendiğini söylemek, hastanın kaybını anlamasını kolaylaştırır.",
+   "cumleler": [
+    "Sahadan bir ipucu: odyogramı hastaya anlatırken tonotopiden yararlanın.",
+    "Kokleanın, tıpkı bir piyano klavyesi gibi, bir ucunda tiz, öbür ucunda pes sesleri algıladığını söyleyin.",
+    "Tiz frekans kaybı varsa, kaybın tiz sesleri algılayan giriş bölümünde olduğunu odyogram üzerinde gösterin.",
+    "Bu basit benzetme, hastanın neden sesleri duyup bazı kelimeleri kaçırdığını anlamasını kolaylaştırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Baziler membran: tabanda _sert_, tepede _esnek_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yürüyen dalga hep _tabandan tepeye_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tiz sesler tabanda, pes sesler apekste",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tonotopi beyne kadar _korunur_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Baziler membran tabanda dar ve sert, tepede geniş ve esnektir.",
+    "Stapesin hareketi, tabandan tepeye ilerleyen ve frekansa özgü bir yerde tepe yapan bir yürüyen dalga oluşturur.",
+    "Tiz sesler tabanda, pes sesler apekse yakın bölgede en büyük yanıtı oluşturur.",
+    "Bu frekans haritası, yani tonotopi, işitme yolu boyunca kortekse kadar korunur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "4000 Hz'lik bir ses yürüyen dalgada nerede tepe yapar?",
+   "secenekler": [
+    "Apekse yakın",
+    "Tabana yakın",
+    "Helicotremada",
+    "Zarın tam ortasında"
+   ],
+   "dogru": 1,
+   "aciklama": "Dar ve sert olan _taban_, tiz frekanslara ayarlıdır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Dört bin hertzlik bir saf ses, yürüyen dalgada en büyük genliğe nerede ulaşır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: tabana yakın.",
+     "ses": "Doğru cevap be: tabana yakın."
+    },
+    "Baziler membranın dar ve sert taban bölgesi tiz frekanslara ayarlıdır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tüy hücreleri sesi nasıl *elektrik sinyaline* çevirir?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, baziler membranın hareketinin tüy hücrelerinde nasıl elektrik sinyaline dönüştüğünü göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

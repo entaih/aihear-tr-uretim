@@ -1,0 +1,735 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D264_Dudak_Okuma_Gorsel_Ipuclari_TR",
+ "kapak": {
+  "ust": "DERS 264",
+  "baslik": "Dudak okuma<br>ve *görme*",
+  "alt": "Görsemler ve bütünleşme",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Dudak Okuma ve Görsel İpuçları | Ders 264 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Dudakta hangi sesler görünür, hangileri görünmez? Bu derste görsemleri, dudak okumanın sınırlarını, görme ile işitmenin birbirini nasıl tamamladığını, işitsel-görsel bütünleşmeyi ve McGurk etkisini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Tye-Murray, Foundations of Aural Rehabilitation: Children, Adults, and Their Family Members; Erber, Communication Therapy for Hearing-Impaired Adults; Sumby ve Pollack, Visual contribution to speech intelligibility in noise, J Acoust Soc Am (1954); McGurk ve MacDonald, Hearing lips and seeing voices, Nature (1976).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "dudakokuma",
+   "rehabilitasyon"
+  ],
+  "etiketler": [
+   "dudak okuma",
+   "speechreading",
+   "lipreading",
+   "görsem",
+   "viseme",
+   "işitsel-görsel bütünleşme",
+   "audiovisual integration",
+   "McGurk etkisi",
+   "McGurk effect",
+   "odyolojik rehabilitasyon",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 264",
+   "baslik": "Dudak okuma ve *görsel* ipuçları",
+   "alt": "Görsemler, sınırlar, işitsel-görsel bütünleşme",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste dudak okumanın ne olduğunu, hangi seslerin dudakta görülüp hangilerinin görülmediğini öğreneceğiz.",
+    "Görme ile işitmenin beyinde nasıl birleştiğini ve bu bilginin klinikte nasıl kullanıldığını da ele alacağız."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Görsel ipuçları",
+   "baslik": "Dudak okuma *nedir?*",
+   "maddeler": [
+    {
+     "metin": "Konuşmayı yüzden _izlemek_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Dudak, dil, yüz ifadesi, jest",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Herkes farkında olmadan kullanır",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "İşitme kaybında daha önemli",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bağlam boşlukları doldurur",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "goz",
+      "baslik": "Dudaklar",
+      "metin": "Ses nerede çıkıyor?",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Yüz ifadesi",
+      "metin": "Soru mu, şaka mı?",
+      "cumle": 1
+     },
+     {
+      "ikon": "dokunma",
+      "baslik": "Jest",
+      "metin": "Yön, sayı, büyüklük",
+      "cumle": 1
+     }
+    ],
+    "ust": "NEYE BAKILIR?"
+   },
+   "cumleler": [
+    "Dudak okuma (speechreading), konuşmayı konuşanın yüzünü ve bedenini izleyerek anlamaya çalışmaktır.",
+    "Yalnız dudaklar değil; dilin ve dişlerin görünen kısmı, yüz ifadesi, baş hareketleri ve jestler de izlenir.",
+    "Bu yüzden İngilizcede yalnız dudaklara odaklanan terim (lipreading) yerine daha geniş anlamlı terim (speechreading) tercih edilir.",
+    "Normal işiten kişiler de gürültülü bir ortamda farkında olmadan konuşanın yüzüne bakar.",
+    "İşitme kaybı olan kişide görsel ipuçları, işitmenin kaçırdığı bilginin önemli bir kısmını tamamlar.",
+    "Görülemeyen kısımlar ise konunun bağlamı ve dil bilgisiyle tahmin edilir."
+   ]
+  },
+  {
+   "id": "gorsem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Görsel ipuçları",
+   "baslik": "Görsem (*viseme*): aynı görünen sesler",
+   "cumleler": [
+    "Dudakta aynı görünen konuşma seslerinin oluşturduğu gruba görsem (viseme) denir.",
+    "Örneğin p, b ve m seslerinin üçünde de dudaklar kapanır; bu üç ses dudakta neredeyse aynı görünür.",
+    "F ve v seslerinde alt dudak üst dişlere değer; bu grup kolay görülür ama kendi içinde ayırt edilemez.",
+    "T, d, n, s ve z gibi seslerde dil dişlerin arkasında çalışır; görüntü belirsizdir ve sesler birbirine karışır.",
+    "Ş, ç, c ve j seslerinde dudaklar öne doğru uzar; bu görüntü onları diğer seslerden ayırmaya yardım eder.",
+    "K, g ve h gibi ağzın arkasında oluşan sesler ise dudakta neredeyse hiç görünmez."
+   ],
+   "cizim": "dudak_bicimleri",
+   "ayar": {
+    "bicimler": [
+     "kapali",
+     "dis_dudak",
+     "dil_dis",
+     "one_uzanan",
+     "gorunmez"
+    ],
+    "cumleler": [
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "harfler": {
+     "kapali": "p, b, m",
+     "dis_dudak": "f, v",
+     "dil_dis": "t, d, n, s, z",
+     "one_uzanan": "ş, ç, c, j",
+     "gorunmez": "k, g, h"
+    }
+   }
+  },
+  {
+   "id": "tamamlayici",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Görsel ipuçları",
+   "baslik": "Göz ve kulak *birbirini tamamlar*",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       50,
+       60,
+       65
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unsuzler",
+     "cumle": 4
+    },
+    {
+     "parca": "unluler",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Göz: çıkış yeri",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Kulak: ötümlülük, genizsillik",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Birlikte: p, b, m ayrılır",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Görme ve işitme konuşmanın farklı özelliklerini taşır; bu yüzden birlikte çok güçlüdürler.",
+    "Bir sesin nerede çıktığı, yani çıkış yeri, büyük ölçüde gözle görülür.",
+    "Bir sesin ötümlü olup olmadığı ve genizden çıkıp çıkmadığı ise gözle görülmez, kulakla duyulur.",
+    "Bu örnek odyogramda pes frekanslar korunmuş, tiz frekanslarda kayıp vardır.",
+    "Bu kişi tiz ünsüzlerdeki çıkış yeri bilgisini kaçırır, ama pes frekanslardaki ötümlülük ve genizsillik bilgisini duyar.",
+    "Böylece göz eksik kalan çıkış yerini, kulak da dudakta görünmeyen ötümlülüğü tamamlar; p, b ve m bu sayede ayrılır."
+   ]
+  },
+  {
+   "id": "unluler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Görsel ipuçları",
+   "baslik": "Ünlüler ve *dudak biçimi*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Düz ve yuvarlak",
+     "metin": "o, ö, u, ü yuvarlak",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Geniş ve dar",
+     "metin": "Ağız açıklığı görülür",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Kalın ve ince",
+     "metin": "Dil içeride, zor",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Hızlı konuşma",
+     "metin": "Biçimler kaybolur",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Türkçedeki sekiz ünlü, dudakta ünsüzlerden daha kolay izlenir.",
+    "Düz ünlülerde dudaklar yayvandır; o, ö, u ve ü gibi yuvarlak ünlülerde ise dudaklar yuvarlaklaşıp öne çıkar.",
+    "Geniş ünlülerde ağız daha çok açılır, dar ünlülerde daha az; bu fark da gözle izlenebilir.",
+    "Kalın ve ince ünlü ayrımı ise dilin ağız içindeki konumuna bağlıdır ve dudakta zor görülür.",
+    "Konuşma hızlandıkça dudak biçimleri kısalır ve birbirine karışır; bu yüzden dudak okumada konuşma hızı önemlidir."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sınırlar",
+   "baslik": "Dudak okumanın *sınırları*",
+   "maddeler": [
+    {
+     "metin": "Seslerin çoğu görünmez ya da _benzer_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Bal ve mal aynı görünür",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Hızlı konuşma: bilgi kaybolur",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Çok yorucu, dikkat ister",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Kişiler arası fark _büyük_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "soru",
+      "baslik": "bal, mal",
+      "metin": "Bağlam ayırır",
+      "cumle": 1
+     },
+     {
+      "ikon": "soru",
+      "baslik": "baba, mama",
+      "metin": "Bağlam ayırır",
+      "cumle": 1
+     }
+    ],
+    "ust": "AYNI GÖRÜNÜR"
+   },
+   "cumleler": [
+    "Dudak okumanın en büyük sınırı, birçok sesin ya hiç görünmemesi ya da başka seslerle aynı görünmesidir.",
+    "Bu yüzden bal ile mal ya da baba ile mama gibi sözcükler dudakta neredeyse aynı görünür.",
+    "Dudakta aynı görünen bu tür sözcüklere görsel eş sözcükler (homophenes) denir; ayrım ancak bağlamla yapılır.",
+    "Konuşma hızlıdır; bir sesin dudak biçimi çok kısa sürer ve komşu seslerle iç içe geçer.",
+    "Sürekli dudak okumak yoğun dikkat ister ve kişiyi kısa sürede yorar.",
+    "Yalnız görüntüyle konuşmayı anlama becerisi kişiden kişiye çok büyük farklılık gösterir.",
+    "Bu yüzden dudak okuma tek başına değil, işitmeyi tamamlayan bir kaynak olarak düşünülmelidir."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sınırlar",
+   "baslik": "Dudak okumayı *ne etkiler?*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşan",
+     "metin": "Yüz görünür, doğal hız",
+     "cumle": 0
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Işık",
+     "metin": "Yüze önden ışık",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Mesafe ve açı",
+     "metin": "Yakın, karşıdan",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Dinleyici",
+     "metin": "Görme, dikkat, yorgunluk",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Konu",
+     "metin": "Bilinen konu kolay",
+     "cumle": 4
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Maske",
+     "metin": "Görüntüyü keser",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Konuşanın yüzü açıkça görünmeli ve konuşma doğal hızda olmalıdır; abartılı dudak hareketleri görüntüyü bozar.",
+    "Işık konuşanın yüzüne önden düşmelidir; arkasında pencere olan kişinin yüzü gölgede kalır.",
+    "Dinleyici konuşana yakın ve karşıdan bakmalıdır; yandan bakışta birçok ipucu kaybolur.",
+    "Dinleyicinin görme keskinliği, dikkati ve yorgunluğu da başarıyı belirler; yaşlı kişide gözlük kontrolü önemlidir.",
+    "Konu biliniyorsa tahmin kolaylaşır; beklenmedik bir konu değişikliği ise dudak okumayı belirgin biçimde zorlaştırır.",
+    "Yüz maskesi bu ipuçlarını tamamen keser; şeffaf maske ya da yazılı not bu durumda yardımcı olabilir.",
+    "Konuşurken sakız çiğnemek ya da eli ağza götürmek de dudak hareketlerini gizler."
+   ]
+  },
+  {
+   "id": "butunlesme",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İşitsel-görsel bütünleşme",
+   "baslik": "İşitsel-görsel *bütünleşme*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -30,
+     "max": 0,
+     "adim": 10,
+     "ad": "Sinyal-gürültü oranı (dB)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Anlama (%)"
+    },
+    "seriler": [
+     {
+      "ad": "isitsel",
+      "noktalar": [
+       [
+        -30,
+        5
+       ],
+       [
+        -24,
+        12
+       ],
+       [
+        -18,
+        30
+       ],
+       [
+        -12,
+        60
+       ],
+       [
+        -6,
+        85
+       ],
+       [
+        0,
+        95
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "etiket": "yalnız işitsel",
+      "cumle": 2
+     },
+     {
+      "ad": "gorsel",
+      "noktalar": [
+       [
+        -30,
+        40
+       ],
+       [
+        -24,
+        55
+       ],
+       [
+        -18,
+        72
+       ],
+       [
+        -12,
+        88
+       ],
+       [
+        -6,
+        96
+       ],
+       [
+        0,
+        98
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "işitsel ve görsel",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "katki",
+      "y": [
+       12,
+       55
+      ],
+      "xk": -24,
+      "etiket": "görsel katkı",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Eğriler şematik örnektir",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Katkı gürültüde en büyük",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "İki kaynak birlikte daha güçlü",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Beynin işitsel ve görsel konuşma bilgisini tek bir algıda birleştirmesine işitsel-görsel bütünleşme (audiovisual integration) denir.",
+    "Sumby ve Pollack 1954 yılında konuşanın yüzünü görmenin gürültüde anlamaya katkısını ölçtü.",
+    "Grafikteki gri eğri yalnız işitsel koşulda, mavi eğri ise yüz de görüldüğünde anlama oranını gösteren bir örnektir.",
+    "Görsel katkı en çok gürültünün yoğun olduğu, yalnız işitmeyle anlamanın düştüğü koşullarda belirginleşti.",
+    "Bu nedenle gürültülü bir ortamda konuşanın yüzünü görmek, işitme kaybı olan kişi için özellikle değerlidir.",
+    "İşitme kaybı olan kişilerde de iki kaynağın birlikte sağladığı anlama, her birinin tek başına sağladığından daha yüksektir."
+   ]
+  },
+  {
+   "id": "mcgurk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İşitsel-görsel bütünleşme",
+   "baslik": "McGurk *etkisi*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Duyulan",
+     "metin": "ba",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Görülen",
+     "metin": "ga",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Algılanan",
+     "metin": "Çoğu kişide: da",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Görme ile işitmenin ne kadar güçlü birleştiğini gösteren ünlü bir örnek McGurk etkisidir.",
+    "McGurk ve MacDonald 1976 yılında, kulağa ba hecesi verilirken ekranda ga diyen bir yüz gösterdi.",
+    "Dinleyicilerin çoğu ne ba ne de ga, ikisinin arasındaki da hecesini duyduğunu söyledi.",
+    "Kişi bunun bir yanılsama olduğunu bilse bile algı değişmez; bütünleşme otomatik ve hızlıdır.",
+    "Bu etki, beynin konuşmayı işitme ve görmeyi birlikte kullanarak çözdüğünü gösterir.",
+    "Klinikte bu bilgi, görsel ipuçlarının yalnız yardımcı değil, algının doğal bir parçası olduğunu anlatmak için kullanılabilir."
+   ]
+  },
+  {
+   "id": "egitim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İşitsel-görsel bütünleşme",
+   "baslik": "Dudak okuma *eğitimi*",
+   "maddeler": [
+    {
+     "metin": "Analitik: görsem tanıma",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Sentetik: cümle ve bağlam",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "İşitsel ve görsel _birlikte_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Kazanç genellikle _sınırlı_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Strateji ve güven kazandırır",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "goz",
+      "baslik": "Analitik",
+      "metin": "Görsem, hece",
+      "cumle": 0
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Sentetik",
+      "metin": "Cümle, bağlam",
+      "cumle": 1
+     }
+    ],
+    "ust": "İKİ YOL"
+   },
+   "cumleler": [
+    "Dudak okuma eğitiminde analitik çalışmalar, görsemleri ve dudak biçimlerini tanımaya odaklanır.",
+    "Sentetik çalışmalar ise cümle ve sohbet düzeyinde, bağlamdan yararlanarak anlamayı hedefler.",
+    "Günümüzde çoğu program görsel ve işitsel bilgiyi birlikte kullanan çalışmaları tercih eder.",
+    "Yalnız görsel dudak okuma becerisindeki kazanç çoğu çalışmada sınırlı kalmıştır.",
+    "Yine de eğitim, kişinin konuşanın yüzüne bakmayı alışkanlık haline getirmesine ve ortamı düzenlemesine yardım eder.",
+    "Grup programlarında dudak okuma çalışmaları, iletişim stratejileriyle birlikte ele alınır."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İşitsel-görsel bütünleşme",
+   "baslik": "Günlük yaşamda *görsel* destek",
+   "maddeler": [
+    {
+     "metin": "Konuşanın yüzü _görünsün_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Görüntülü arama, sesli aramadan kolay",
+     "cumle": 1,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Altyazı ve yazıya çevirme",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Şeffaf maske, yazılı not",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Toplantıda yüzleri gören koltuk",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oda_plani",
+    "cumle": 5,
+    "ayar": {
+     "mod": "kritik_mesafe",
+     "kritik_mesafe_m": 1.5,
+     "oda": [
+      9,
+      7
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "on_siralar",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Günlük yaşamda ilk kural, konuşanın yüzünün görülebilir olmasıdır.",
+    "Görüntülü arama, yüz göründüğü için çoğu kişide yalnız sesli telefon görüşmesinden daha kolaydır; görüntü ile ses uyumlu olmalıdır.",
+    "Televizyonda altyazı ve konuşmayı yazıya çeviren uygulamalar, görsel desteği yazıyla güçlendirir.",
+    "Sağlık kurumlarında şeffaf maske ve önemli bilgilerin yazılı verilmesi kesintileri azaltır.",
+    "Toplantıda kişinin konuşanların yüzlerini görebileceği bir koltuk seçmesi de basit ama etkili bir önlemdir.",
+    "Çocuklarda da öğretmenin yüzünü görmek önemlidir; sınıfta oturma düzenini ilerideki bir derste ele alacağız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Canlı sesle konuşma testinde ağzınızı gizleyin; aksi halde dudak okuma skoru yükseltir. Sonuçları anlatırken ise yüzünüzü hastaya dönün.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: canlı sesle konuşma testi yaparken ağzınızı hastanın göremeyeceği biçimde gizleyin.",
+    "Hasta dudaklarınızı görürse dudak okuma skoru yükseltir ve sonuç yalnız işitmeyi yansıtmaz.",
+    "Test bittiğinde ise tersini yapın: sonuçları anlatırken yüzünüzü hastaya dönün ve ışığı yüzünüze alın.",
+    "Böylece hem test geçerli olur hem de danışmanlık sırasında hasta görsel ipuçlarından yararlanır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Görsem: dudakta aynı görünen sesler",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Göz çıkış yerini, kulak ötümlülüğü taşır",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Görsel katkı gürültüde en büyük",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Dudak okuma işitmeyi tamamlar",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Dudakta aynı görünen sesler görsem oluşturur; p, b ve m buna örnektir.",
+    "Görme çıkış yeri bilgisini, işitme ise ötümlülük ve genizsillik bilgisini taşır; ikisi birbirini tamamlar.",
+    "Konuşanın yüzünü görmenin katkısı, gürültülü ortamlarda en belirgin halini alır.",
+    "Dudak okumanın sınırları büyüktür; bu yüzden işitmenin yerini değil, tamamlayıcısı rolünü üstlenir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangi üç ses aynı görsem grubundadır?",
+   "secenekler": [
+    "p, b, m",
+    "k, s, a",
+    "f, t, u",
+    "ş, g, e"
+   ],
+   "dogru": 0,
+   "aciklama": "P, b ve m'de dudaklar _kapanır_; dudakta aynı görünürler.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Aşağıdaki seslerden hangileri aynı görsem grubundadır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: p, b ve m.",
+    "Üçünde de dudaklar kapanır; ayrım ancak işitme ya da bağlamla yapılabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitme kayıplı çocukta *iletişim yaklaşımları*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste işitme kayıplı çocuklarda kullanılan iletişim yaklaşımlarını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R474_Ayni_Frekans_Uc_Esik_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #474",
+  "baslik": "Aynı frekans, *üç eşik*",
+  "alt": "Tekrar ölçümde tutarlılık",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Aynı frekansta üç ölçüm üç farklı eşik verirse ne düşünülür? #shorts",
+  "aciklama": "Örnek vakada sol kulağın bin hertz eşiği üç ayrı ölçümde 70, 55 ve 70 dB bulundu; organik kayıpta tekrarlar genellikle beş desibel içinde kalır. Bu oynama bir uyarıdır, ama tek başına sonuç doğurmaz; SRT, akustik refleks, OAE ve objektif testlerle birlikte değerlendirilir. Tutarsız yanıtlar karşısında suçlayıcı bir tavır takınılmaz; talimat sakin ve sade biçimde yeniden verilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "odyogram",
+   "vaka"
+  ],
+  "etiketler": [
+   "psödohipoakuzi",
+   "test tekrar tutarlılığı",
+   "tutarsız yanıtlar",
+   "saf ses odyometrisi",
+   "vaka",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Aynı frekansta üç ölçüm üç farklı eşik verirse ne düşünülür?",
+  "bilgiler": [
+   "Organik kayıpta tekrarlar genellikle 5 dB içinde kalır.",
+   "Örnekte aynı eşik 70, 55 ve 70 dB ölçüldü.",
+   "Bulgu uyarıdır; diğer testlerle birlikte değerlendirilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "odyogram",
+   "vaka"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #474",
+   "metin": "Üç ölçüm, *üç eşik?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Aynı frekansta üç ölçüm üç farklı eşik verirse ne düşünülür?"
+   ]
+  },
+  {
+   "id": "tekrar",
+   "tur": "zincir",
+   "baslik": "Bin hertzde *üç ölçüm*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "1. ölçüm",
+     "tr": "70 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "2. ölçüm",
+     "tr": "55 dB",
+     "cumle": 1,
+     "gecikme": 0.5
+    },
+    {
+     "ad": "3. ölçüm",
+     "tr": "70 dB",
+     "cumle": 1,
+     "gecikme": 1.0
+    }
+   ],
+   "alt": "Beklenen: _5 dB içinde_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Örnekte sol kulağın bin hertz eşiği üç kez ölçüldü.",
+    "Sonuçlar yetmiş, elli beş ve yetmiş desibel.",
+    "Organik kayıpta tekrarlar genellikle beş desibel içinde kalır.",
+    "Bu oynama bir uyarıdır, ama tek başına sonuç doğurmaz.",
+    "Talimat suçlamadan, sakin biçimde yeniden verilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D277",
+ "kaynak_baslik": "Vaka: tutarsız yanıtlar"
+}

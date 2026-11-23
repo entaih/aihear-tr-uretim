@@ -1,0 +1,950 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D028_Dis_Kulak_Akustigi_TR",
+ "kapak": {
+  "ust": "DERS 28",
+  "baslik": "Dış kulağın<br>*akustiği*",
+  "alt": "Rezonans ve yön ipuçları",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak"
+  ]
+ },
+ "youtube": {
+  "baslik": "Dış Kulağın Akustik İşlevi: Rezonans ve Yön İpuçları | Ders 28 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Dış kulak sesi yalnız toplamaz, belirli frekansları güçlendirir ve yön bilgisi ekler. Bu derste kulak yolunun çeyrek dalga rezonansını, açık kulağın doğal kazancını, konka ve başın katkısını, yön bulmada zaman ve şiddet farklarını, kulak kepçesinin spektral ipuçlarını ve bunların işitme cihazı uygulamasındaki önemini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Shaw EAG (1974), Transformation of sound pressure level from the free field to the eardrum in the horizontal plane, Journal of the Acoustical Society of America; Blauert, Spatial Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Dillon, Hearing Aids; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "akustik",
+   "işitme"
+  ],
+  "etiketler": [
+   "dış kulak akustiği",
+   "kulak yolu rezonansı",
+   "ear canal resonance",
+   "REUG",
+   "HRTF",
+   "başa bağlı aktarım fonksiyonu",
+   "yön bulma",
+   "konka",
+   "yerleştirme kaybı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 28",
+   "baslik": "Dış kulağın *akustik* işlevi",
+   "alt": "Kulak yolu rezonansı ve yön ipuçları",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste dış kulağın sesi nasıl değiştirdiğini, yani akustik işlevini inceleyeceğiz.",
+    "Kulak yolu rezonansını, kulak kepçesinin yön bulmaya katkısını ve bunların işitme cihazı uygulamasındaki önemini öğreneceğiz."
+   ]
+  },
+  {
+   "id": "rezonans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Rezonans",
+   "baslik": "Rezonans *nedir?*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 3000,
+    "karsilastir": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_boyu",
+     "metin": "Dalga boyu",
+     "cumle": 3
+    },
+    {
+     "parca": "genlik",
+     "metin": "Genlik: güçlenme",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "genlik",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Her boşluğun _doğal frekansı_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Şişeye üflemek: _rezonans tonu_",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Küçük boşluk: _yüksek_ rezonans",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Her boşluğun ve borunun, içindeki havanın en kolay titreştiği doğal bir frekansı vardır.",
+    "Bu frekanstaki sesler boşlukta güçlenir; bu olaya rezonans denir.",
+    "Boş bir şişenin ağzına üflediğimizde duyduğumuz ton, şişenin rezonans frekansıdır.",
+    "Rezonans frekansı boşluğun boyutuna bağlıdır: boşluk küçüldükçe rezonans frekansı yükselir.",
+    "Dış kulak yolu ve kulak kepçesinin çukurları da birer akustik boşluktur ve kendi rezonanslarına sahiptir."
+   ]
+  },
+  {
+   "id": "ceyrek_dalga",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Rezonans",
+   "baslik": "Kulak yolu: *bir ucu kapalı* boru",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Kapalı uç: timpanik membran",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Yaklaşık 2,5 cm",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "_Çeyrek dalga boyu_ rezonansı",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Hesap: yaklaşık _3400 Hz_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ölçülen: yaklaşık _2,5 ile 3 kHz_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Dış kulak yolu, bir ucu açık, diğer ucu timpanik membranla kapalı bir boru gibi davranır.",
+    "Böyle bir borunun en güçlü rezonansı, dalga boyunun dörtte birinin boru uzunluğuna eşit olduğu frekanstadır.",
+    "Buna çeyrek dalga boyu rezonansı denir.",
+    "Yetişkinde kulak yolu yaklaşık iki buçuk santimetre olduğu için bu frekans hesapla yaklaşık üç bin dört yüz hertz çıkar.",
+    {
+     "yazi": "Gerçek kulaklarda ise kulak yolu rezonansı (ear canal resonance) genellikle iki bin beş yüz ile üç bin hertz civarında ölçülür.",
+     "ses": "Gerçek kulaklarda ise kulak yolu rezonansı genellikle iki bin beş yüz ile üç bin hertz civarında ölçülür."
+    },
+    "Aradaki fark, kanalın düz bir boru olmamasından ve girişindeki konkanın da boşluğa eklenmesinden kaynaklanır."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "reug",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Rezonans",
+   "baslik": "Rezonansı *ölçmek*",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "kulak_kanali",
+     "metin": "Açık kulak yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_tupu",
+     "metin": "Prob tüpü: zara yakın",
+     "cumle": 1
+    },
+    {
+     "parca": "referans_mikrofonu",
+     "metin": "Referans mikrofon: kulak dışı",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_tupu",
+     "cumle": 1
+    },
+    {
+     "parca": "kulak_kanali",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Açık kulak kazancı: _REUG_",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Tepe: yaklaşık _15 ile 20 dB_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Geniş bölge: _2 ile 4 kHz_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Kulak yolunun rezonansını kişinin kendi kulağında ölçebiliriz.",
+    "Gerçek kulak ölçümünde ince bir prob tüpü zara yakın yerleştirilir ve kulak dışındaki bir mikrofonla karşılaştırılır.",
+    "İki ölçüm arasındaki fark açık kulağın doğal kazancıdır (real-ear unaided gain), kısaca REUG.",
+    "Yetişkinlerde bu kazanç genellikle iki bin beş yüz ile üç bin hertz civarında tepe yapar ve yaklaşık on beş ile yirmi desibele ulaşır.",
+    "Kazanç tek bir frekansta değil, yaklaşık iki bin ile dört bin hertz arasındaki geniş bir bölgede belirgindir.",
+    "Bu değerler kişiden kişiye değişir; bu yüzden ölçüm her kulakta ayrı yapılır."
+   ]
+  },
+  {
+   "id": "katkilar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Rezonans",
+   "baslik": "Kazanca *kimler* katkı verir?",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak yolu",
+     "metin": "En büyük: 2,5 ile 3 kHz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Konka",
+     "metin": "Yaklaşık 5 kHz, ikinci tepe",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Baş",
+     "metin": "Orta ve tizde engel etkisi",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kulak kepçesi",
+     "metin": "Tizde yöne bağlı değişim",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Dış kulak kazancı tek bir yapıdan gelmez; birkaç yapının katkısı toplanır.",
+    "En büyük katkı kulak yolundan gelir ve yaklaşık iki bin beş yüz ile üç bin hertz civarındadır.",
+    "Konka da kendi rezonansıyla yaklaşık beş bin hertz civarında ek bir güçlenme sağlar.",
+    "Baş, sesin önünde bir engel oluşturarak orta ve tiz frekanslarda sesin geldiği taraftaki basıncı artırır.",
+    "Kulak kepçesinin kıvrımları ise tiz frekanslarda, sesin geldiği yöne göre değişen küçük tepeler ve çukurlar oluşturur.",
+    "Bu katkıların toplamı, timpanik membrana ulaşan sesin spektrumunu belirgin biçimde değiştirir."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Rezonans",
+   "baslik": "Rezonans ve *konuşma*",
+   "cizim": "konusma_muzu",
+   "etiketler": [
+    {
+     "parca": "unsuzler",
+     "metin": "Tiz ünsüzler",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ünsüz bilgisi _güçlenir_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "En duyarlı bölge: yaklaşık _2 ile 5 kHz_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Kulak yolu rezonansının güçlendirdiği bölge, konuşma için çok önemli bir frekans aralığıdır.",
+    "Konuşmanın anlaşılırlığını belirleyen birçok ünsüzün enerjisi bu tiz bölgededir.",
+    "Böylece dış kulak, zayıf ünsüz seslerini doğal olarak güçlendirir ve konuşmanın anlaşılmasına katkı sağlar.",
+    "İnsan işitmesinin en duyarlı olduğu bölgenin yaklaşık iki bin ile beş bin hertz arasında olmasında dış kulak rezonansının da payı vardır."
+   ]
+  },
+  {
+   "id": "iki_kulak",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yön ipuçları",
+   "baslik": "İki kulak *ipucu*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Yön bulma",
+     "metin": "İki kulak arasındaki farklar",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Zaman farkı",
+     "metin": "Önce ulaşır; 1500 Hz altında",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Şiddet farkı",
+     "metin": "Baş gölgesi; 1500 Hz üstünde",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "İkili kuram",
+     "metin": "Frekansa göre iş bölümü",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sesin yatay düzlemde nereden geldiğini bulmak için beyin öncelikle iki kulak arasındaki farkları kullanır.",
+    {
+     "yazi": "Yandan gelen ses yakın kulağa önce ulaşır; bu küçük gecikmeye kulaklar arası zaman farkı (interaural time difference) denir.",
+     "ses": "Yandan gelen ses yakın kulağa önce ulaşır; bu küçük gecikmeye kulaklar arası zaman farkı denir."
+    },
+    "Zaman farkı özellikle pes seslerde, yaklaşık bin beş yüz hertzin altında güçlü bir ipucudur.",
+    "Baş ise tiz sesler için bir engel oluşturur ve uzak kulakta bir ses gölgesi yaratır.",
+    {
+     "yazi": "Bu yüzden tiz seslerde kulaklar arası şiddet farkı (interaural level difference) daha önemli bir ipucudur.",
+     "ses": "Bu yüzden tiz seslerde kulaklar arası şiddet farkı daha önemli bir ipucudur."
+    },
+    "İki ipucunun frekansa göre bu bölüşümüne ikili kuram (duplex theory) denir."
+   ]
+  },
+  {
+   "id": "kepce",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yön ipuçları",
+   "baslik": "Kulak kepçesi: *ön mü, arka mı?*",
+   "cizim": "kepce_yansima",
+   "vurgula": [
+    {
+     "parca": "centik",
+     "cumle": 2
+    },
+    {
+     "parca": "arkadan",
+     "cumle": 3
+    },
+    {
+     "parca": "onden",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "centik",
+     "metin": "yöne özgü çentikler",
+     "cumle": 2,
+     "yer": "ust"
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yöne göre _spektral_ değişim",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Ön ve arka_ ayrımı",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Yükseklik_ algısı",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "İki kulak ipuçlarının bir sınırı vardır: tam önden ve tam arkadan gelen sesler iki kulağa aynı anda ve aynı şiddette ulaşır.",
+    "Bu belirsizliği çözmeye kulak kepçesi yardım eder.",
+    "Kepçenin kıvrımları sesi yansıtır; yansıyan ve doğrudan gelen sesler birleşince tiz frekanslarda yöne özgü çukurlar oluşur.",
+    "Kepçe öne doğru açıldığından önden gelen tiz sesler arkadan gelenlerden biraz güçlüdür; bu fark ön ve arka ayrımına yardım eder.",
+    "Aynı spektral ipuçları, sesin yukarıdan mı aşağıdan mı geldiğini anlamamızda da önemli rol oynar.",
+    "Bu ipuçları tek kulakla da kullanılabilir; ancak beynin kişinin kendi kulağının özelliklerini öğrenmesine dayanır."
+   ],
+   "ayar": {
+    "yansima_cumle": 2,
+    "arka_cumle": 3,
+    "ust_cumle": 4,
+    "grafik": {
+     "x": {
+      "min": 2000,
+      "max": 16000,
+      "log": true,
+      "hz": true,
+      "ad": "Frekans (Hz)"
+     },
+     "y": {
+      "min": -20,
+      "max": 15,
+      "adim": 10,
+      "ad": "Kulak yolu girişi, göreli (dB)"
+     },
+     "seriler": [
+      {
+       "ad": "onden",
+       "noktalar": [
+        [
+         2000,
+         4
+        ],
+        [
+         3000,
+         8
+        ],
+        [
+         4000,
+         10
+        ],
+        [
+         5000,
+         9
+        ],
+        [
+         6000,
+         3
+        ],
+        [
+         7000,
+         -12
+        ],
+        [
+         8000,
+         -3
+        ],
+        [
+         10000,
+         2
+        ],
+        [
+         12000,
+         -4
+        ],
+        [
+         16000,
+         -8
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "cumle": 2,
+       "etiket": "önden",
+       "etiket_konum": [
+        4000,
+        10
+       ],
+       "etiket_dy": -14
+      },
+      {
+       "ad": "arkadan",
+       "noktalar": [
+        [
+         2000,
+         3
+        ],
+        [
+         3000,
+         5
+        ],
+        [
+         4000,
+         6
+        ],
+        [
+         5000,
+         4
+        ],
+        [
+         6000,
+         0
+        ],
+        [
+         8000,
+         -5
+        ],
+        [
+         9500,
+         -16
+        ],
+        [
+         11000,
+         -7
+        ],
+        [
+         13000,
+         -11
+        ],
+        [
+         16000,
+         -14
+        ]
+       ],
+       "renk": "lacivert",
+       "kesik": true,
+       "yumusak": true,
+       "cumle": 3,
+       "etiket": "arkadan",
+       "etiket_konum": [
+        16000,
+        -14
+       ],
+       "etiket_dx": -10,
+       "etiket_dy": 26,
+       "etiket_hiza": "end"
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "centik",
+       "x": [
+        6200,
+        10500
+       ],
+       "renk": "sari",
+       "etiket": "çentikler",
+       "cumle": 2
+      }
+     ]
+    }
+   }
+  },
+  {
+   "id": "hrtf",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yön ipuçları",
+   "baslik": "Başa bağlı *aktarım fonksiyonu*",
+   "maddeler": [
+    {
+     "metin": "_HRTF_: başa bağlı aktarım fonksiyonu",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Her yön için _farklı_ spektrum",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Beyin bu bilgiyi _öğrenir_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Kişiye _özgü_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sanal ses ve _cihaz_ tasarımı",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Baş, gövde, kepçe ve kulak yolunun sese ortak etkisine başa bağlı aktarım fonksiyonu (head-related transfer function) denir.",
+    "Kısaca HRTF olarak anılan bu fonksiyon, her geliş yönü için kulak yoluna ulaşan spektrumun nasıl değiştiğini tanımlar.",
+    "Beyin, hangi spektral değişimin hangi yöne karşılık geldiğini deneyimle öğrenir.",
+    "Kulak kepçesinin şekli kişiden kişiye farklı olduğu için HRTF de kişiye özgüdür.",
+    "Kulaklıkla dinlenen üç boyutlu ses uygulamaları ve bazı işitme cihazı özellikleri bu bilgiden yararlanır."
+   ]
+  },
+  {
+   "id": "koruma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koruma ve klinik",
+   "baslik": "Dış kulağın *koruyucu* işlevleri",
+   "maddeler": [
+    {
+     "metin": "Kıvrımlı, uzun kanal: _zarı korur_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sabit _sıcaklık ve nem_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Serumen ve kıllar: _yabancı cisim_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kendini temizleyen _deri_",
+     "cumle": 3,
+     "ikon": "dokunma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 2
+     }
+    ],
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    }
+   },
+   "cumleler": [
+    "Kanalın uzun ve kıvrımlı olması, timpanik membranı doğrudan darbelerden ve yabancı cisimlerden korur.",
+    "Kanal içinde sıcaklık ve nem görece sabit kalır; bu da zarın esnekliğinin korunmasına yardım eder.",
+    "Kıkırdak bölümdeki kıllar ve serumen, toz ve küçük böceklerin içeri ilerlemesini engeller.",
+    "Kanal derisinin içeriden dışarıya göçü, döküntülerin kendiliğinden atılmasını sağlar."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koruma ve klinik",
+   "baslik": "Cihaz takılınca *rezonans*",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Kanal kapanınca rezonans: _yerleştirme kaybı_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Cihaz bu kazancı _telafi_ etmeli",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Kulak arkası mikrofon: _kepçe etkisi_ yok",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Konka ya da kanalda: _korunur_",
+     "cumle": 5,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Yönlü mikrofonla_ taklit",
+     "cumle": 6,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "BTE"
+    },
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 1
+     },
+     {
+      "parca": "mikrofon",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kalip",
+      "metin": "Kalıp: kanalı kapatır",
+      "cumle": 1
+     },
+     {
+      "parca": "mikrofon",
+      "metin": "Mikrofon: kepçe üstünde",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Dış kulağın akustiği işitme cihazı uygulamasında doğrudan karşımıza çıkar.",
+    "Kulak yolu bir kalıp ya da cihazla kapatıldığında borunun açık ucu ortadan kalkar ve doğal rezonans büyük ölçüde kaybolur.",
+    {
+     "yazi": "Bu kayba yerleştirme kaybı (insertion loss) denir; açık kulağın doğal kazancı artık kulağa ulaşmaz.",
+     "ses": "Bu kayba yerleştirme kaybı denir; açık kulağın doğal kazancı artık kulağa ulaşmaz."
+    },
+    "Bu yüzden cihaz, kişinin işitme kaybına ek olarak kaybolan bu doğal kazancı da yerine koymak zorundadır.",
+    "Kulak arkası cihazlarda mikrofon kepçenin üzerinde kaldığı için kepçenin yön ipuçlarından yararlanamaz.",
+    "Mikrofonu konka ya da kanal içinde olan cihazlarda ise kepçenin doğal etkileri büyük ölçüde korunur.",
+    "Bazı kulak arkası cihazlar, kepçenin önden gelen sesleri güçlendirme etkisini yönlü mikrofonlarla taklit eder."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koruma ve klinik",
+   "baslik": "Rezonans ve *gürültü*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Çentik: _4000 Hz_ civarı",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       20,
+       45,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       25,
+       50,
+       30
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Kulak yolu rezonansının klinikte tartışılan bir bağlantısı, gürültüye bağlı işitme kaybıdır (noise-induced hearing loss).",
+     "ses": "Kulak yolu rezonansının klinikte tartışılan bir bağlantısı, gürültüye bağlı işitme kaybıdır."
+    },
+    "Bu örnekte iki kulakta da dört bin hertz civarında belirgin bir çentik, sekiz bin hertzde ise kısmi düzelme görülüyor.",
+    "Gürültüye bağlı kayıplarda çentik çoğu zaman üç bin ile altı bin hertz arasında görülür.",
+    "Açıklamalardan biri, kulak yolu rezonansının geniş bantlı gürültüyü yaklaşık iki bin ile üç bin hertz çevresinde güçlendirmesidir.",
+    "Kokleada en büyük hasarın uyaran frekansının yaklaşık yarım oktav üstünde oluştuğu bilinir; bu da çentiği dört bin hertz civarına taşır.",
+    "Çentiğin oluşumunda kokleanın kendi yapısının da rol oynadığı düşünülür; bu örnek yalnız tipik görünümü göstermek içindir."
+   ]
+  },
+  {
+   "id": "bebek",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koruma ve klinik",
+   "baslik": "Bebek ve çocukta *rezonans*",
+   "maddeler": [
+    {
+     "metin": "Küçük kanal: _daha yüksek_ rezonans",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Büyüdükçe yetişkine _yaklaşır_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Küçük hacim: _daha yüksek_ ses basıncı",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Düzeltme: _RECD_ ölçümü",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "kulak_kanali",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Bebeklerde kulak yolu hem daha kısa hem de daha dar olduğu için rezonans frekansı yetişkinden daha yüksektir.",
+    "Bebek kulak yolunun duvarı daha yumuşak olduğundan akustik özellikleri de yetişkin kulağından farklıdır.",
+    "Çocuk büyüdükçe rezonans frekansı düşer ve ilk yıllar içinde yetişkin değerlerine yaklaşır.",
+    "Küçük kulak yolunda hacim az olduğu için aynı cihaz, bebeğin kulağında yetişkine göre daha yüksek ses basıncı oluşturur.",
+    "Bu fark, gerçek kulak ile kuplör farkı, kısaca RECD ölçülerek cihaz ayarına yansıtılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koruma ve klinik",
+   "baslik": "Klinikte dikkat",
+   "metin": "Gerçek kulak ölçümünde prob tüpünün ucu zara yaklaşık 5 mm kalmalıdır. Tüp sığ kalırsa tiz frekanslarda ses düzeyi olduğundan düşük ölçülebilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: gerçek kulak ölçümünde prob tüpünün derinliği sonucu doğrudan etkiler.",
+    "Tüpün ucu timpanik membrana yaklaşık beş milimetre kalacak biçimde yerleştirilmelidir.",
+    "Tüp sığ kalırsa kulak yolunda oluşan duran dalgalar nedeniyle tiz frekanslarda ses düzeyi olduğundan düşük ölçülebilir.",
+    "Yerleştirmeyi otoskopla kontrol etmek ve tüpü işaretleyerek sabitlemek ölçümün güvenilirliğini artırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kulak yolu: _çeyrek dalga_ rezonatörü",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tepe: yaklaşık _2,5 ile 3 kHz_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yön: zaman, şiddet ve _kepçe_ ipuçları",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Kapanınca: _yerleştirme kaybı_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Dış kulak yolu bir ucu kapalı boru gibi davranır ve çeyrek dalga boyu rezonansı gösterir.",
+    "Açık kulağın doğal kazancı yetişkinde genellikle iki bin beş yüz ile üç bin hertz civarında tepe yapar.",
+    "Yön bulmada iki kulak arasındaki zaman ve şiddet farkları ile kulak kepçesinin spektral ipuçları birlikte kullanılır.",
+    "Kulak yolu kapatıldığında doğal rezonans kaybolur; işitme cihazı bu yerleştirme kaybını da hesaba katmalıdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "2,5 cm, bir ucu kapalı boru: rezonans yaklaşık kaçtır?",
+   "secenekler": [
+    "Yaklaşık 340 Hz",
+    "Yaklaşık 1000 Hz",
+    "Yaklaşık 3400 Hz",
+    "Yaklaşık 8000 Hz"
+   ],
+   "dogru": 2,
+   "aciklama": "Çeyrek dalga: ses hızı / (4 x uzunluk) = 343 / 0,1 = yaklaşık _3400 Hz_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: İki buçuk santimetrelik, bir ucu kapalı bir borunun rezonans frekansı yaklaşık kaçtır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap C: yaklaşık üç bin dört yüz hertz.",
+     "ses": "Doğru cevap ce: yaklaşık üç bin dört yüz hertz."
+    },
+    "Ses hızını boru uzunluğunun dört katına böldüğümüzde bu değeri buluruz; gerçek kulakta tepe biraz daha pestedir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Orta kulak neden var? *Empedans uyumu*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste orta kulağa geçecek, havadaki sesin iç kulak sıvılarına neden doğrudan geçemediğini, yani empedans uyumunu inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

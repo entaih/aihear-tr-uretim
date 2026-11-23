@@ -1,0 +1,88 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R189_Daralan_Dinamik_Aralik_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #189",
+  "baslik": "Daralan *dinamik* aralık",
+  "alt": "Örnekte 95 dB yerine 40 dB",
+  "cizim": "desibel_olcegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İşitme kaybında kullanılabilir ses alanı ne kadar daralabilir? #shorts",
+  "aciklama": "Eşik ile rahatsız edici ses düzeyi (UCL) arasındaki alana dinamik aralık denir. Normal işiten birinde SRT 5, UCL 100 ise konuşma için aralık 95 dB; koklear kayıplı bir hastada SRT 60, UCL yine 100 ise aralık yalnızca 40 dB olur.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitme",
+   "işitmecihazı"
+  ],
+  "etiketler": [
+   "dinamik aralık",
+   "UCL",
+   "MCL",
+   "rahatsız edici ses düzeyi",
+   "koklear işitme kaybı",
+   "işitme cihazı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İşitme kaybında kullanılabilir ses alanı ne kadar daralabilir?",
+  "bilgiler": [
+   "Eşik ile rahatsız edici ses düzeyi arasındaki alana dinamik aralık denir.",
+   "Bu örnekte normal işitende 95 dB, koklear kayıpta yalnızca 40 dB.",
+   "Dar bir aralığa günlük sesleri sığdırmak cihaz için önemli bir zorluktur."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitme",
+   "işitmecihazı"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #189",
+   "metin": "Kullanılabilir ses alanı *ne kadar* daralır?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İşitme kaybında kullanılabilir ses alanı ne kadar daralabilir?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Bu örnekte konuşma için *dinamik aralık*",
+   "sayi": "40",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Eşik ile rahatsız edici ses düzeyi arasındaki alana dinamik aralık denir.",
+    "Normal işitende SRT beş, rahatsızlık düzeyi yüz ise aralık doksan beştir.",
+    "Koklear kayıplı hastada SRT altmış, rahatsızlık düzeyi yine yüz olabilir.",
+    "Bu durumda aralık yalnızca kırk desibeldir.",
+    "Bu dar aralığa günlük sesleri sığdırmak, işitme cihazı için önemli bir zorluktur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D101",
+ "kaynak_baslik": "MCL ve UCL: en rahat ve rahatsız edici ses düzeyleri"
+}

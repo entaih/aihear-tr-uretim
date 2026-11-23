@@ -1,0 +1,107 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R018_Kulaktaki_Piyano_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #18",
+  "baslik": "Kulağınızdaki *piyano*",
+  "alt": "Taban tiz, tepe pes: tonotopi",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kulağınızın içinde bir piyano mu var? #shorts",
+  "aciklama": "Baziler membran tabanda dar ve sert, tepede geniş ve esnektir. Bu yüzden tiz sesler tabanda, pes sesler tepeye yakın bölgede en büyük titreşimi yapar; tıpkı piyanonun kısa ve uzun telleri gibi. Bu düzene tonotopi denir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "koklea",
+   "bilgi"
+  ],
+  "etiketler": [
+   "tonotopi",
+   "baziler membran",
+   "yürüyen dalga",
+   "koklea",
+   "frekans",
+   "odyoloji",
+   "işitme",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kulağınızın içinde bir piyano mı var?",
+  "bilgiler": [
+   "Baziler membran tabanda dar ve sert, tepede geniş ve esnektir.",
+   "Tiz sesler tabanda, pes sesler tepeye yakın titreşir.",
+   "Bu frekans düzenine tonotopi denir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "koklea",
+   "bilgi"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #18",
+   "metin": "Kulağınızın içinde *bir piyano* mı var?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kulağınızın içinde bir piyano mı var?"
+   ]
+  },
+  {
+   "id": "tonotopi",
+   "tur": "zincir",
+   "baslik": "Baziler membranda *tonotopi*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Taban",
+     "tr": "tiz",
+     "cumle": 0
+    },
+    {
+     "ad": "Orta",
+     "tr": "1000 Hz civarı",
+     "cumle": 2,
+     "gecikme": 0.7
+    },
+    {
+     "ad": "Apeks",
+     "tr": "pes",
+     "cumle": 2,
+     "gecikme": 1.5
+    }
+   ],
+   "alt": "Frekans haritası: _tonotopi_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Baziler membran, yani taban zarı tabanda dar ve serttir.",
+    "Tepeye doğru genişler ve esnekleşir.",
+    "Bu yüzden tiz sesler tabanda, pes sesler tepeye yakın titreşir.",
+    "Piyanoda da kısa gergin teller tiz, uzun gevşek teller pes çalar.",
+    "Bu frekans düzenine tonotopi denir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D030",
+ "kaynak_baslik": "Baziler membran ve yürüyen dalga"
+}

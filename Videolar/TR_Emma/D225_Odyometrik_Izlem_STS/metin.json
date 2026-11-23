@@ -1,0 +1,881 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D225_Odyometrik_Izlem_STS_TR",
+ "kapak": {
+  "ust": "DERS 225",
+  "baslik": "Odyometrik izlem<br>ve *STS*",
+  "alt": "Başlangıç odyogramı ve eşik kayması",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      5,
+      5,
+      10,
+      20,
+      30,
+      35,
+      25,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "İş yerinde odyometrik izlem ve eşik kayması | Ders 225 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Gürültülü işte çalışanların işitmesi nasıl izlenir? Bu derste başlangıç odyogramını, periyodik testlerin koşullarını, standart eşik kaymasının (STS) hesabını, yaş düzeltmesini, NIOSH ölçütünü ve kayma bulunduğunda atılan adımları öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: OSHA 29 CFR 1910.95, Occupational Noise Exposure (Appendix F dahil); NIOSH (1998), Criteria for a Recommended Standard: Occupational Noise Exposure; Berger ve ark., The Noise Manual (AIHA); Katz, Handbook of Clinical Audiology; Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik (Resmi Gazete, 28.07.2013, sayı 28721).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işsağlığı",
+   "işitmekoruma"
+  ],
+  "etiketler": [
+   "odyometrik izlem",
+   "standart eşik kayması",
+   "standard threshold shift",
+   "STS",
+   "başlangıç odyogramı",
+   "baseline audiogram",
+   "yaş düzeltmesi",
+   "işitme koruma programı",
+   "OSHA",
+   "NIOSH",
+   "gürültüye bağlı işitme kaybı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 225",
+   "baslik": "Odyometrik izlem ve *eşik kayması*",
+   "alt": "Başlangıç odyogramı, STS ve yaş düzeltmesi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste gürültülü işte çalışanların odyometrik izlemini ve başlangıç odyogramının neden bu kadar önemli olduğunu öğreneceğiz.",
+    "Standart eşik kaymasını hesaplamayı, yaş düzeltmesini ve kayma bulunduğunda atılan adımları ele alacağız."
+   ]
+  },
+  {
+   "id": "program",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İzlemin yeri",
+   "baslik": "İşitme koruma *programı*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ölçüm",
+     "cumle": 1,
+     "metin": "Kim, ne kadar maruz?"
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Teknik önlem",
+     "cumle": 2,
+     "metin": "Kaynakta ve yolda azalt"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Koruyucu",
+     "cumle": 3,
+     "metin": "Seçim, uyum, eğitim"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Odyometrik izlem",
+     "cumle": 4,
+     "metin": "Erken uyarı sistemi"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "cumle": 5,
+     "metin": "Değerlendir, iyileştir"
+    }
+   ],
+   "cumleler": [
+    "Odyometrik izlem, tek başına bir test değil, işitme koruma programının (hearing conservation program) bir parçasıdır.",
+    "Program, kimin ne kadar gürültüye maruz kaldığını gösteren ölçümle başlar.",
+    "Gürültüyü kaynağında ve yolunda azaltan teknik önlemler programın temelidir.",
+    "Koruyucuların seçimi, uyumu ve kullanım eğitimi bir önceki derste gördüğümüz adımlardır.",
+    "Odyometrik izlem ise programın gerçekten işe yarayıp yaramadığını gösteren erken uyarı sistemidir.",
+    "Tüm bu adımlar kaydedilir; çünkü yıllar sonra yapılacak karşılaştırmalar bu kayıtlara dayanır."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İzlemin yeri",
+   "baslik": "İzlemin *akışı*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Başlangıç",
+     "cumle": 0,
+     "metin": "İşe girişte referans"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Periyodik test",
+     "cumle": 1,
+     "metin": "Genellikle yılda bir"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Karşılaştır",
+     "cumle": 2,
+     "metin": "Başlangıçla fark"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Doğrula",
+     "cumle": 3,
+     "metin": "Tekrar test"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Bildir, önlem al",
+     "cumle": 4,
+     "metin": "Koruma gözden geçirilir"
+    }
+   ],
+   "cumleler": [
+    "Her şey işe girişte alınan başlangıç odyogramı (baseline audiogram) ile başlar; bu, kişinin referans odyogramıdır.",
+    "Gürültüye maruz kalmaya devam eden çalışanlar periyodik olarak, birçok programda yılda bir kez yeniden test edilir.",
+    "Her yeni odyogram, başlangıç odyogramıyla frekans frekans karşılaştırılır.",
+    "Anlamlı görünen bir değişiklik, karar vermeden önce tekrar testle doğrulanır.",
+    "Doğrulanan değişiklik çalışana bildirilir ve koruma önlemleri gözden geçirilir.",
+    "Amaç kalıcı kaybı belgelemek değil, kayıp ilerlemeden önce değişikliği yakalamaktır."
+   ]
+  },
+  {
+   "id": "baslangic",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Başlangıç odyogramı",
+   "baslik": "Başlangıç *odyogramı*",
+   "maddeler": [
+    {
+     "metin": "Maruziyetin başında, en geç 6 ay",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Öncesinde _14 saat_ gürültüsüz dönem",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "500 ile 6000 Hz, iki kulak",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Türkiye: işitme testi 85 dB(A) üstünde",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Aralığı işyeri hekimi belirler",
+     "cumle": 6,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "BAŞLANGIÇ ODYOGRAMI",
+    "metin": "Sonraki tüm karşılaştırmaların *referans* noktası",
+    "cumle": 0
+   },
+   "cumleler": [
+    "ABD İş Güvenliği ve Sağlığı İdaresi, kısaca OSHA, başlangıç odyogramının maruziyet başladıktan sonra altı ay içinde alınmasını ister.",
+    "Testten önce en az on dört saat iş yeri gürültüsünden uzak kalınması gerekir; bu süre koruyucu kullanılarak da sağlanabilir.",
+    "Aksi halde geçici eşik kayması başlangıç değerine karışır ve sonraki tüm karşılaştırmalar yanılır.",
+    "Test 500, 1000, 2000, 3000, 4000 ve 6000 Hz'de, her kulak için ayrı ayrı yapılır.",
+    "Türkiye'de 2013 tarihli gürültü yönetmeliği, en yüksek eylem değerini aşan maruziyette işitme testlerinin işverence yaptırılmasını ister.",
+    "Risk değerlendirmesi gerektiriyorsa en düşük eylem değerini aşanlar için de işitme testi yaptırılabilir.",
+    "Sağlık gözetiminin aralığı ise işyeri hekimi tarafından risk değerlendirmesi sonuçlarına göre belirlenir."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Başlangıç odyogramı",
+   "baslik": "Karşılaştırılabilir *test*",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sessiz ortam",
+     "cumle": 0,
+     "metin": "Kabin gürültüsü uygun"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Kalibrasyon",
+     "cumle": 1,
+     "metin": "Günlük kontrol, yıllık ayar"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Aynı yöntem",
+     "cumle": 2,
+     "metin": "Aynı kulaklık, aynı adımlar"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "cumle": 3,
+     "metin": "Buşon eşiği değiştirir"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Öykü",
+     "cumle": 4,
+     "metin": "Hobi, silah, ilaç, hastalık"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Test zamanı",
+     "cumle": 5,
+     "metin": "Vardiya başı tercih"
+    }
+   ],
+   "cumleler": [
+    "Yıllar arası karşılaştırma ancak testler aynı koşullarda yapılırsa anlamlıdır; ortam gürültüsü eşikleri maskelememelidir.",
+    "Odyometre günlük dinleme kontrolünden geçmeli ve düzenli aralıklarla kalibre edilmelidir.",
+    "Mümkün olduğunca aynı kulaklık tipi ve aynı eşik bulma yöntemi kullanılmalıdır.",
+    "Teste başlamadan otoskopi yapılır; kulak kiri tıkacı eşikleri geçici olarak kötüleştirebilir.",
+    "İş dışı gürültü, silah kullanımı, ilaçlar ve kulak hastalıkları her testte sorgulanır ve kaydedilir.",
+    "Periyodik testin vardiya başında yapılması, o günün gürültüsünden kaynaklanan geçici kaymanın karışmasını önler."
+   ]
+  },
+  {
+   "id": "sts",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Standart eşik kayması",
+   "baslik": "Standart *eşik kayması*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 60,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "baslangic",
+      "noktalar": [
+       [
+        500,
+        5
+       ],
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        3000,
+        15
+       ],
+       [
+        4000,
+        20
+       ],
+       [
+        6000,
+        15
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "başlangıç",
+      "cumle": 0
+     },
+     {
+      "ad": "yillik",
+      "noktalar": [
+       [
+        500,
+        5
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        3000,
+        30
+       ],
+       [
+        4000,
+        35
+       ],
+       [
+        6000,
+        25
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "5. yıl",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sts_bolgesi",
+      "x": [
+       1800,
+       4400
+      ],
+      "renk": "sari",
+      "etiket": "2, 3 ve 4 kHz",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       15,
+       30
+      ],
+      "xk": 3000,
+      "etiket": "15 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Bu örnekte lacivert kesik çizgi, bir çalışanın sağ kulağındaki başlangıç odyogramını gösteriyor.",
+    "Kırmızı çizgi ise aynı kulağın beş yıl sonraki yıllık odyogramıdır.",
+    "OSHA'nın tanımına göre standart eşik kayması (standard threshold shift), kısaca STS, yalnız üç frekansa bakar.",
+    "Bu frekanslar 2000, 3000 ve 4000 Hz'dir; gürültü hasarının en erken göründüğü bölgedir.",
+    "Bu üç frekansta başlangıca göre ortalama on desibel ya da daha fazla kötüleşme, standart eşik kayması sayılır.",
+    "Değerlendirme her kulak için ayrı yapılır; bir kulakta kayma olması yeterlidir.",
+    "Örnekteki değerler eğitim amaçlıdır; şimdi hesabı tablo üzerinde yapalım."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Standart eşik kayması",
+   "baslik": "Hesap *adım adım*",
+   "sutunlar": [
+    "Frekans",
+    "Başlangıç",
+    "Yıllık",
+    "Fark"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "2000 Hz",
+      "10 dB",
+      "20 dB",
+      "10 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "3000 Hz",
+      "15 dB",
+      "30 dB",
+      "15 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "20 dB",
+      "35 dB",
+      "15 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Ortalama fark",
+      "",
+      "",
+      "13,3 dB"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "2000 Hz'de eşik 10 desibelden 20 desibele inmiş; fark 10 desibel.",
+    "3000 Hz'de 15 desibelden 30 desibele; fark 15 desibel.",
+    "4000 Hz'de 20 desibelden 35 desibele; fark yine 15 desibel.",
+    "Üç farkın toplamı 40, ortalaması yaklaşık 13 desibeldir; bu, on desibellik ölçütü aşar.",
+    "Yani yaş düzeltmesi yapılmadan bakıldığında bu kulakta standart eşik kayması vardır."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Standart eşik kayması",
+   "baslik": "Yaş *düzeltmesi*",
+   "maddeler": [
+    {
+     "metin": "Yaşla eşikler kendiliğinden kötüleşir",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "OSHA: tabloyla düzeltmeye izin verir",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Beklenen yaş payı farktan düşülür",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "NIOSH: yaş düzeltmesi önermez",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "İKİ YAKLAŞIM",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "tablo",
+      "baslik": "OSHA",
+      "cumle": 1,
+      "metin": "Yaş düzeltmesine izin var"
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "NIOSH",
+      "cumle": 5,
+      "metin": "Yaş düzeltmesi yok"
+     }
+    ]
+   },
+   "cumleler": [
+    "Beş yıl içinde eşiklerdeki değişikliğin bir kısmı gürültüden değil, yalnızca yaşlanmadan kaynaklanabilir.",
+    "OSHA, standart eşik kaymasına karar verirken yaş düzeltmesi (age correction) yapılmasına izin verir.",
+    "Kullanılacak değerler standardın ekindeki tablolarda verilmiştir.",
+    "Bu tablolar kadın ve erkek için ayrıdır; iki yaştaki beklenen eşik farkı, ölçülen farktan düşülür.",
+    "Düzeltmeden sonra ortalama fark on desibelin altına inerse, kayma standart eşik kayması sayılmaz.",
+    "ABD Ulusal İş Güvenliği ve Sağlığı Enstitüsü, kısaca NIOSH ise yaş düzeltmesi yapılmamasını önerir.",
+    "Çünkü gruba dayalı tablolar, bireydeki gürültü hasarını gizleyebilir.",
+    "Hangi yaklaşımın uygulanacağı programın bağlı olduğu mevzuata göre belirlenir; kayıtta hangisinin kullanıldığı açıkça yazılmalıdır."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kayma bulununca",
+   "baslik": "Kayma bulununca *ne olur?*",
+   "adimlar": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Tekrar test",
+     "cumle": 0,
+     "metin": "30 gün içinde"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Yazılı bildirim",
+     "cumle": 1,
+     "metin": "21 gün içinde"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Koruma",
+     "cumle": 2,
+     "metin": "Uyum, eğitim, değiştirme"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Yönlendirme",
+     "cumle": 4,
+     "metin": "Gerekirse hekime"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Yeni başlangıç",
+     "cumle": 5,
+     "metin": "Kalıcıysa revize edilir"
+    }
+   ],
+   "cumleler": [
+    "OSHA'ya göre yıllık testte kayma görülürse, otuz gün içinde tekrar test yapılabilir ve sonucu yıllık odyogram yerine kullanılabilir.",
+    "Kayma doğrulanırsa çalışan yirmi bir gün içinde yazılı olarak bilgilendirilir.",
+    "Koruyucusu yoksa koruyucu verilir; varsa uyumu yeniden değerlendirilir, kullanım eğitimi tekrarlanır ya da daha uygun bir koruyucu seçilir.",
+    "Bu aşamada bireysel uyum testi, sorunun koruyucuda mı, kullanımda mı olduğunu gösterebilir.",
+    "Kayma gürültü dışı bir nedeni ya da kulak hastalığını düşündürüyorsa çalışan hekime yönlendirilir.",
+    "Kayma kalıcı olduğunda, sonraki karşılaştırmalar için başlangıç odyogramı revize edilebilir."
+   ]
+  },
+  {
+   "id": "niosh",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kayma bulununca",
+   "baslik": "OSHA ve *NIOSH* ölçütleri",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "OSHA STS",
+     "cumle": 0,
+     "metin": "Üç frekans ortalaması 10 dB"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "NIOSH kayması",
+     "cumle": 2,
+     "metin": "Tek frekansta 15 dB"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Doğrulama",
+     "cumle": 3,
+     "metin": "Hemen tekrar test"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "OSHA kaydı",
+     "cumle": 5,
+     "metin": "Ortalama 25 dB HL ve üzeri"
+    }
+   ],
+   "cumleler": [
+    "OSHA ölçütü üç frekansın ortalamasına baktığı için tek frekanstaki belirgin bir değişikliği gözden kaçırabilir.",
+    "NIOSH 1998 kılavuzu bu nedenle daha duyarlı bir ölçüt önermiştir.",
+    "Bu ölçüte göre 500 ile 6000 Hz arasında herhangi bir frekansta, herhangi bir kulakta 15 desibel kötüleşme anlamlıdır.",
+    "Değişiklik hemen yapılan bir tekrar testle ve ardından ayrı bir doğrulama testiyle teyit edilir.",
+    "Daha duyarlı bir ölçüt daha erken uyarı verir; buna karşın yanlış alarm olasılığı da biraz artar.",
+    "OSHA ayrıca doğrulanmış kaymada üç frekansın ortalaması 25 dB HL ya da üzerindeyse olayın meslek hastalığı olarak kaydedilmesini ister."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Hekime *yönlendirme*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Asimetri",
+     "cumle": 0,
+     "metin": "Kulaklar arası belirgin fark"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ani değişim",
+     "cumle": 1,
+     "metin": "Kısa sürede büyük kayıp"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Kulak hastalığı",
+     "cumle": 2,
+     "metin": "Akıntı, ağrı, tıkanma"
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Baş dönmesi",
+     "cumle": 3,
+     "metin": "Tek taraflı çınlama"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Hava-kemik aralığı",
+     "cumle": 4,
+     "metin": "İletim bileşeni"
+    }
+   ],
+   "cumleler": [
+    "Gürültü genellikle iki kulağı benzer etkiler; açıklanamayan belirgin asimetri hekime yönlendirme gerektirir.",
+    "Kısa sürede büyük bir kötüleşme, gürültüden çok başka bir nedeni düşündürür.",
+    "Kulak akıntısı, ağrı ya da tıkanma hissi gibi kulak hastalığı belirtileri de yönlendirme nedenidir.",
+    "Tek taraflı çınlama ve baş dönmesi retrokoklear nedenler açısından değerlendirme gerektirebilir.",
+    "Hava-kemik aralığı görülmesi, gürültü dışında bir iletim sorununu düşündürür.",
+    "Odyolog tanı koymaz; bulguyu doğru belgeleyip işyeri hekimi ve kulak burun boğaz hekimiyle paylaşır."
+   ]
+  },
+  {
+   "id": "asimetri",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Örnek: *tek kulakta* kayma",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ bölge",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       25,
+       30,
+       25,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       50,
+       60,
+       50,
+       35
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte bir çalışanın yıllık odyogramında sağ kulakta hafif bir çentik görülüyor.",
+    "Sol kulakta ise aynı bölgede çok daha derin bir kayıp var; iki kulak arasında belirgin bir fark oluşmuş.",
+    "Öyküde kişinin hafta sonları av tüfeği kullandığı öğrenilirse, bu asimetri namluya yakın kulakla açıklanabilir.",
+    "Ancak öyküde böyle bir açıklama yoksa asimetri, retrokoklear nedenler açısından hekime yönlendirme gerektirir.",
+    "Her iki durumda da iş dışı maruziyet kayda geçirilir; çünkü koruma önerileri iş dışını da kapsamalıdır.",
+    "Örnek eğitim amaçlıdır; nedenin belirlenmesi hekim değerlendirmesine aittir."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Kayıt ve *iletişim*",
+   "maddeler": [
+    {
+     "metin": "Her test eksiksiz kaydedilir",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Sonuç çalışana açıklanır",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Grup verisi programı değerlendirir",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Gizlilik korunur",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "AMAÇ",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Bireyi koru",
+      "cumle": 1,
+      "metin": "Erken uyarı"
+     },
+     {
+      "ikon": "is_yeri",
+      "baslik": "Programı iyileştir",
+      "cumle": 3,
+      "metin": "Grup verisi"
+     }
+    ]
+   },
+   "cumleler": [
+    "Her testte tarih, cihaz, kalibrasyon durumu, test eden kişi ve öykü bilgileri eksiksiz kaydedilir.",
+    "Sonuç, çalışana anlayacağı bir dille ve başlangıç odyogramıyla karşılaştırılarak açıklanır.",
+    "Kendi odyogramındaki değişikliği görmek, koruyucu kullanımı için çoğu zaman en güçlü motivasyondur.",
+    "Aynı bölümdeki çalışanların verileri birlikte incelendiğinde, programın o bölümde işe yarayıp yaramadığı anlaşılır.",
+    "Bu kayıtlar kişisel sağlık verisidir; paylaşım ilgili mevzuata ve gizlilik ilkelerine uygun yapılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Periyodik testi vardiya başında yapın ve her testte koruyucu kullanımını sorgulayın. Kayma görürseniz önce tekrar testle doğrulayın, sonra karar verin.",
+   "cumleler": [
+    "Sahadan bir ipucu: periyodik testi mümkünse vardiya başında, o günün gürültüsüne girmeden yapın.",
+    "Vardiya sonunda yapılan bir test, geçici eşik kaymasını kalıcı kayma gibi gösterebilir.",
+    "Her testte koruyucu tipini, kullanım süresini ve iş dışı gürültüyü sorgulayıp kaydedin.",
+    "Kayma gördüğünüzde kulaklığı yeniden yerleştirip testi tekrarlayın; tek bir ölçümle karar vermeyin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Başlangıç odyogramı referanstır",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "STS: 2, 3, 4 kHz ortalaması 10 dB",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yaş düzeltmesinde OSHA ve NIOSH farklı",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Kayma: doğrula, bildir, korumayı düzelt",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Başlangıç odyogramı, en az on dört saatlik gürültüsüz dönemden sonra alınır ve sonraki tüm testlerin referansıdır.",
+    "OSHA'ya göre standart eşik kayması, 2000, 3000 ve 4000 Hz ortalamasında on desibel ya da daha fazla kötüleşmedir.",
+    "OSHA yaş düzeltmesine izin verir; NIOSH ise düzeltme yapılmamasını ve tek frekansta 15 desibellik ölçütü önerir.",
+    "Kayma bulununca tekrar testle doğrulanır, çalışana bildirilir ve koruma önlemleri gözden geçirilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Başlangıca göre 2, 3 ve 4 kHz'deki farklar 5, 10 ve 15 dB ise OSHA ölçütüne göre sonuç nedir?",
+   "secenekler": [
+    "STS yok",
+    "STS var",
+    "Yalnız NIOSH kayması",
+    "Karar verilemez"
+   ],
+   "dogru": 1,
+   "aciklama": "Ortalama fark (5 + 10 + 15) / 3 = _10 dB_; ölçüt 10 dB ve üzeridir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: başlangıca göre 2000, 3000 ve 4000 Hz'deki kötüleşme 5, 10 ve 15 desibel ise OSHA ölçütüne göre sonuç nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: standart eşik kayması vardır.",
+    "Üç farkın ortalaması tam on desibeldir ve ölçüt on desibel ya da üzeridir; yaş düzeltmesi yapılırsa sonuç değişebilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Eğlence gürültüsü ve *güvenli dinleme*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iş yeri dışındaki gürültüye, yani kişisel müzik çalarlara, konserlere ve güvenli dinleme ölçütlerine geçeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

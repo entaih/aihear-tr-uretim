@@ -1,0 +1,108 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R190_Rahatsiz_Ama_Aci_Degil_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #190",
+  "baslik": "Rahatsız ama *acı değil*",
+  "alt": "UCL ölçümünde talimat",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Rahatsız edici ses düzeyi, acı veren düzey midir? #shorts",
+  "aciklama": "UCL ölçümünde sonucu en çok talimat etkiler: rahatsız edici düzey acı veren düzey değil, hastanın uzun süre dinlemek istemeyeceği düzeydir. Contour testinde yedi kategori vardır ve yedinci kategoriye ilk ulaşılan düzey UCL kabul edilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitme",
+   "odyometri"
+  ],
+  "etiketler": [
+   "UCL",
+   "MCL",
+   "Contour testi",
+   "rahatsız edici ses düzeyi",
+   "ses yüksekliği",
+   "dinamik aralık",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Rahatsız edici ses düzeyi, acı veren düzey midir?",
+  "bilgiler": [
+   "Rahatsız edici düzey, acı veren düzey değildir.",
+   "Doğru soru: uzun süre dinlemek istemeyeceğiniz düzey hangisi?",
+   "Contour testinde yedinci kategoriye ilk ulaşılan düzey UCL kabul edilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitme",
+   "odyometri"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #190",
+   "metin": "Rahatsız edici ses, *acı veren* ses mi?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Rahatsız edici ses düzeyi, acı veren düzey midir?"
+   ]
+  },
+  {
+   "id": "talimat",
+   "tur": "zincir",
+   "baslik": "UCL'de *talimat* belirler",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Rahat",
+     "tr": "4. kategori: MCL",
+     "cumle": 1
+    },
+    {
+     "ad": "Rahatsız",
+     "tr": "7. kategori: UCL",
+     "cumle": 2
+    },
+    {
+     "ad": "Talimat",
+     "tr": "acı değil",
+     "cumle": 3
+    }
+   ],
+   "alt": "Doğru soru: uzun süre _dinlemek istemeyeceği_ düzey",
+   "alt_cumle": 4,
+   "cumleler": [
+    "UCL, sesin rahatsız edici derecede yüksek algılandığı düzeydir.",
+    {
+     "yazi": "Contour testinde yedi kategori vardır; dördüncüsü rahattır.",
+     "ses": "Kontur testinde yedi kategori vardır; dördüncüsü rahattır."
+    },
+    "Yedinci kategoriye ilk ulaşılan düzey UCL kabul edilir.",
+    "Rahatsız edici düzey acı veren düzey değildir; bunu hastaya açıkça anlatın.",
+    "Acıyı sorarsanız çok yüksek, biraz yüksek sesi sorarsanız çok düşük bulursunuz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D101",
+ "kaynak_baslik": "MCL ve UCL: en rahat ve rahatsız edici ses düzeyleri"
+}

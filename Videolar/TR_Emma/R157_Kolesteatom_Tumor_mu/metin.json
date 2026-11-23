@@ -1,0 +1,104 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R157_Kolesteatom_Tumor_mu_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #157",
+  "baslik": "*Kolesteatom* tümör mü?",
+  "alt": "Adı yanıltıcı: orta kulakta biriken deri",
+  "cizim": "orta_kulak",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kolesteatom bir tümör mü, kolesterolle bir ilgisi var mı? #shorts",
+  "aciklama": "Kolesteatom, orta kulak ya da mastoid boşluğunda keratin üreten deri ve keratin döküntüsünün birikimidir. Adı yanıltıcıdır: bir tümör değildir ve kolesterolle doğrudan ilgisi yoktur; ama zamanla büyür ve kemikçikleri aşındırabilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "kulak",
+   "işitme"
+  ],
+  "etiketler": [
+   "kolesteatom",
+   "cholesteatoma",
+   "orta kulak",
+   "kemikçik erozyonu",
+   "iletim tipi kayıp",
+   "kulak akıntısı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kolesteatom bir tümör mü, kolesterolle bir ilgisi var mı?",
+  "bilgiler": [
+   "Kolesteatom, orta kulakta keratin üreten deri ve döküntünün birikimidir.",
+   "Bir tümör değildir, kolesterolle de doğrudan ilgisi yoktur.",
+   "Zamanla büyür ve kemikçikleri aşındırabilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "kulak",
+   "işitme"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #157",
+   "metin": "Kolesteatom bir *tümör* mü?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kolesteatom bir tümör mü, kolesterolle bir ilgisi var mı?"
+   ]
+  },
+  {
+   "id": "kolesteatom",
+   "tur": "zincir",
+   "baslik": "Adı *yanıltıcı*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Deri",
+     "tr": "keratin üretir",
+     "cumle": 0
+    },
+    {
+     "ad": "Kese",
+     "tr": "döküntü birikir",
+     "cumle": 1
+    },
+    {
+     "ad": "Aşınma",
+     "tr": "kemikçikler",
+     "cumle": 3
+    }
+   ],
+   "alt": "Tümör değil, ama _ciddi_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Kolesteatom, orta kulak ya da mastoidde keratin üreten derinin bulunmasıdır.",
+    "Bu deri, ölü hücre döküntüsünü sürekli üretip bir kesede biriktirir.",
+    "Adı yanıltıcıdır: tümör değildir, kolesterolle de doğrudan ilgisi yoktur.",
+    "Ama zamanla büyür ve kemikçikleri aşındırabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D069",
+ "kaynak_baslik": "Kolesteatom"
+}

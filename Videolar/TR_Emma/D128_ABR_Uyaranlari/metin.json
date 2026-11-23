@@ -1,0 +1,2309 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D128_ABR_Uyaranlari_TR",
+ "kapak": {
+  "ust": "DERS 128",
+  "baslik": "Klik, tonburst<br>ve *chirp*",
+  "alt": "ABR uyaranlarını tanımak",
+  "cizim": "koklea_acik"
+ },
+ "youtube": {
+  "baslik": "ABR Uyaranları: Klik, Tonburst ve Chirp | Ders 128 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitsel beyin sapı yanıtında (ABR) kullanılan klik, tonburst ve chirp uyaranlarının yapısını, frekans içeriğini ve hangi amaçla seçildiklerini anlatıyoruz. Uyaran polaritesi (seyrelme, sıkışma, alternan), uyaran hızı ve insert kulaklık gecikmesi gibi kaydı etkileyen ayrıntıları ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Elberling ve Don, chirp uyaranı üzerine çalışmalar; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ABR",
+   "elektrofizyoloji"
+  ],
+  "etiketler": [
+   "ABR",
+   "klik",
+   "click",
+   "tonburst",
+   "tone burst",
+   "chirp",
+   "CE-Chirp",
+   "uyaran polaritesi",
+   "stimulus rate",
+   "işitsel beyin sapı yanıtı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 128",
+   "baslik": "Klik, tonburst ve *chirp*",
+   "alt": "ABR uyaranları, polarite ve uyaran hızı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    {
+     "yazi": "Bu derste işitsel beyin sapı yanıtı, kısaca ABR için kullanılan üç uyaranı öğreneceğiz: klik, tonburst ve chirp.",
+     "ses": "Bu derste işitsel beyin sapı yanıtı, kısaca ABR için kullanılan üç uyaranı öğreneceğiz: klik, tonburst ve çörp."
+    },
+    "Her birinin ne zaman tercih edildiğini, polaritenin ve uyaran hızının kaydı nasıl etkilediğini de göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel ilke",
+   "baslik": "Neden *kısa* uyaran?",
+   "maddeler": [
+    {
+     "metin": "ABR, liflerin _aynı anda_ ateşlemesine dayanır",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ani başlangıç _eş zamanlılığı_ artırır",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Kısa ses: _geniş_ frekans içeriği",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Uzun ses: _dar_ frekans, zayıf ABR",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖDÜNLEŞİM",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "Kısa uyaran",
+      "metin": "Güçlü ama geniş bantlı",
+      "cumle": 3
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Uzun uyaran",
+      "metin": "Frekansa özgü ama zayıf",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "ABR, binlerce işitme siniri lifinin aynı anda ateşlemesiyle oluşan bir başlangıç yanıtıdır.",
+    "Bu eş zamanlılığı sağlamak için uyaranın çok hızlı başlaması gerekir.",
+    "Ancak zaman ile frekans arasında kaçınılmaz bir ödünleşim vardır.",
+    "Bir ses ne kadar kısaysa enerjisi o kadar geniş bir frekans bölgesine yayılır.",
+    "Bir ses ne kadar uzunsa frekansı o kadar belirgindir, ama başlangıcı yavaşladıkça ABR zayıflar.",
+    "Üç uyaran türü, bu ödünleşimin farklı noktalarında durur."
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Klik",
+   "baslik": "Klik: *100 mikrosaniyelik* atım",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -0.5,
+     "max": 2,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Zaman (ms)"
+    },
+    "y": {
+     "min": -0.4,
+     "max": 1.3,
+     "ad": "Gerilim (göreli)",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "klik",
+      "noktalar": [
+       [
+        -0.5,
+        0
+       ],
+       [
+        0.4,
+        0
+       ],
+       [
+        0.4,
+        1
+       ],
+       [
+        0.5,
+        1
+       ],
+       [
+        0.5,
+        0
+       ],
+       [
+        2,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "cumle": 0
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "sure",
+      "x": [
+       0.4,
+       0.5
+      ],
+      "y": 1.15,
+      "etiket": "0,1 ms",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Dikdörtgen elektrik atımı",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Geniş baziler membran bölgesi uyarılır",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Güçlü, net _dalga V_",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Klik (click), dönüştürücüye gönderilen kısa, dikdörtgen biçimli bir elektrik atımıdır.",
+     "ses": "Klik, dönüştürücüye gönderilen kısa, dikdörtgen biçimli bir elektrik atımıdır."
+    },
+    {
+     "yazi": "Atımın süresi genellikle 100 mikrosaniye, yani 0,1 milisaniyedir.",
+     "ses": "Atımın süresi genellikle yüz mikrosaniye, yani sıfır virgül bir milisaniyedir."
+    },
+    "Kulaklık bu atımı çok kısa ve ani başlangıçlı bir sese çevirir.",
+    "Ani başlangıç nedeniyle baziler membranın geniş bir bölümü neredeyse aynı anda uyarılır.",
+    "Sonuç güçlü ve tekrarlanabilir bir ABR'dir; dalga I, III ve V çoğu zaman net biçimde ayırt edilir.",
+    "Bu nedenle klik, nörolojik amaçlı ABR'nin standart uyaranıdır."
+   ]
+  },
+  {
+   "id": "klik_spektrum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Klik",
+   "baslik": "Klikin *frekans* içeriği",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)"
+    },
+    "y": {
+     "min": -40,
+     "max": 10,
+     "adim": 10,
+     "ad": "Göreli düzey (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "spektrum",
+      "noktalar": [
+       [
+        125,
+        -18
+       ],
+       [
+        250,
+        -10
+       ],
+       [
+        500,
+        -4
+       ],
+       [
+        1000,
+        -1
+       ],
+       [
+        2000,
+        0
+       ],
+       [
+        3000,
+        1
+       ],
+       [
+        4000,
+        -2
+       ],
+       [
+        6000,
+        -14
+       ],
+       [
+        8000,
+        -26
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "dolgu": true,
+      "etiket": "örnek klik",
+      "cumle": 0,
+      "etiket_konum": [
+       500,
+       -4
+      ]
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "katki",
+      "x": [
+       2000,
+       4000
+      ],
+      "renk": "sari",
+      "etiket": "ABR'ye en çok katkı",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Enerji _geniş_ bantta",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kulaklık tiz ucu _sınırlar_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Yanıt ağırlıkla _2000 ile 4000 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Bu örnek grafikte klikin enerjisinin geniş bir frekans bandına yayıldığını görüyoruz.",
+    "Kulaklığın kendi özellikleri nedeniyle enerji tiz frekanslarda, genellikle birkaç kilohertz üzerinde hızla azalır.",
+    {
+     "yazi": "Yine de klik ile alınan ABR, ağırlıklı olarak yaklaşık 2000 ile 4000 Hz bölgesindeki işitmeyi yansıtır.",
+     "ses": "Yine de klik ile alınan ABR, ağırlıklı olarak yaklaşık iki bin ile dört bin Hz bölgesindeki işitmeyi yansıtır."
+    },
+    "Bunun nedeni, koklea tabanındaki bölgelerin daha hızlı ve daha eş zamanlı yanıt vermesidir.",
+    "Yani klik geniş bantlıdır, ama yanıtın kaynağı tüm frekanslara eşit dağılmaz."
+   ]
+  },
+  {
+   "id": "klik_sinir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Klik",
+   "baslik": "Klikin *sınırı*",
+   "maddeler": [
+    {
+     "metin": "Frekansa özgü bilgi _vermez_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Alçak frekans kaybı _gözden kaçabilir_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normal klik ABR, normal odyogram _değildir_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Nörolojik değerlendirme için _uygun_",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        55,
+        50,
+        35,
+        20,
+        15,
+        15
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Klikin en önemli sınırı, frekansa özgü bilgi vermemesidir.",
+    "Bu örnek odyogramda alçak frekanslarda orta derecede bir kayıp, yüksek frekanslarda ise normal işitme var.",
+    "Böyle bir kulakta klik ABR eşiği normal ya da normale yakın çıkabilir.",
+    "Bu yüzden normal bir klik ABR sonucu, odyogramın her frekansta normal olduğu anlamına gelmez.",
+    "Klik, beyin sapı iletimini değerlendiren nörolojik ABR için uygundur; eşik tahmininde ise tek başına yetmez."
+   ]
+  },
+  {
+   "id": "tonburst",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tonburst",
+   "baslik": "Tonburst: *kısa* ton parçası",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -0.3,
+     "max": 2.9,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Zaman (ms)"
+    },
+    "y": {
+     "min": -1.3,
+     "max": 1.5,
+     "ad": "Basınç (göreli)",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "ton",
+      "noktalar": [
+       [
+        -0.3,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        0.01,
+        0.001
+       ],
+       [
+        0.02,
+        0.005
+       ],
+       [
+        0.03,
+        0.011
+       ],
+       [
+        0.04,
+        0.019
+       ],
+       [
+        0.05,
+        0.029
+       ],
+       [
+        0.06,
+        0.041
+       ],
+       [
+        0.07,
+        0.054
+       ],
+       [
+        0.08,
+        0.068
+       ],
+       [
+        0.09,
+        0.081
+       ],
+       [
+        0.1,
+        0.095
+       ],
+       [
+        0.11,
+        0.108
+       ],
+       [
+        0.12,
+        0.12
+       ],
+       [
+        0.13,
+        0.13
+       ],
+       [
+        0.14,
+        0.138
+       ],
+       [
+        0.15,
+        0.143
+       ],
+       [
+        0.16,
+        0.145
+       ],
+       [
+        0.17,
+        0.144
+       ],
+       [
+        0.18,
+        0.139
+       ],
+       [
+        0.19,
+        0.13
+       ],
+       [
+        0.2,
+        0.118
+       ],
+       [
+        0.21,
+        0.101
+       ],
+       [
+        0.22,
+        0.081
+       ],
+       [
+        0.23,
+        0.057
+       ],
+       [
+        0.24,
+        0.03
+       ],
+       [
+        0.25,
+        -0.0
+       ],
+       [
+        0.26,
+        -0.033
+       ],
+       [
+        0.27,
+        -0.067
+       ],
+       [
+        0.28,
+        -0.103
+       ],
+       [
+        0.29,
+        -0.14
+       ],
+       [
+        0.3,
+        -0.176
+       ],
+       [
+        0.31,
+        -0.212
+       ],
+       [
+        0.32,
+        -0.247
+       ],
+       [
+        0.33,
+        -0.279
+       ],
+       [
+        0.34,
+        -0.308
+       ],
+       [
+        0.35,
+        -0.333
+       ],
+       [
+        0.36,
+        -0.354
+       ],
+       [
+        0.37,
+        -0.369
+       ],
+       [
+        0.38,
+        -0.379
+       ],
+       [
+        0.39,
+        -0.383
+       ],
+       [
+        0.4,
+        -0.38
+       ],
+       [
+        0.41,
+        -0.371
+       ],
+       [
+        0.42,
+        -0.355
+       ],
+       [
+        0.43,
+        -0.331
+       ],
+       [
+        0.44,
+        -0.301
+       ],
+       [
+        0.45,
+        -0.265
+       ],
+       [
+        0.46,
+        -0.222
+       ],
+       [
+        0.47,
+        -0.173
+       ],
+       [
+        0.48,
+        -0.119
+       ],
+       [
+        0.49,
+        -0.061
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.51,
+        0.064
+       ],
+       [
+        0.52,
+        0.129
+       ],
+       [
+        0.53,
+        0.195
+       ],
+       [
+        0.54,
+        0.26
+       ],
+       [
+        0.55,
+        0.323
+       ],
+       [
+        0.56,
+        0.383
+       ],
+       [
+        0.57,
+        0.439
+       ],
+       [
+        0.58,
+        0.49
+       ],
+       [
+        0.59,
+        0.534
+       ],
+       [
+        0.6,
+        0.571
+       ],
+       [
+        0.61,
+        0.599
+       ],
+       [
+        0.62,
+        0.619
+       ],
+       [
+        0.63,
+        0.629
+       ],
+       [
+        0.64,
+        0.629
+       ],
+       [
+        0.65,
+        0.618
+       ],
+       [
+        0.66,
+        0.597
+       ],
+       [
+        0.67,
+        0.566
+       ],
+       [
+        0.68,
+        0.524
+       ],
+       [
+        0.69,
+        0.472
+       ],
+       [
+        0.7,
+        0.411
+       ],
+       [
+        0.71,
+        0.342
+       ],
+       [
+        0.72,
+        0.265
+       ],
+       [
+        0.73,
+        0.182
+       ],
+       [
+        0.74,
+        0.093
+       ],
+       [
+        0.75,
+        -0.0
+       ],
+       [
+        0.76,
+        -0.095
+       ],
+       [
+        0.77,
+        -0.191
+       ],
+       [
+        0.78,
+        -0.287
+       ],
+       [
+        0.79,
+        -0.381
+       ],
+       [
+        0.8,
+        -0.47
+       ],
+       [
+        0.81,
+        -0.554
+       ],
+       [
+        0.82,
+        -0.632
+       ],
+       [
+        0.83,
+        -0.701
+       ],
+       [
+        0.84,
+        -0.76
+       ],
+       [
+        0.85,
+        -0.808
+       ],
+       [
+        0.86,
+        -0.845
+       ],
+       [
+        0.87,
+        -0.868
+       ],
+       [
+        0.88,
+        -0.878
+       ],
+       [
+        0.89,
+        -0.874
+       ],
+       [
+        0.9,
+        -0.856
+       ],
+       [
+        0.91,
+        -0.823
+       ],
+       [
+        0.92,
+        -0.777
+       ],
+       [
+        0.93,
+        -0.717
+       ],
+       [
+        0.94,
+        -0.643
+       ],
+       [
+        0.95,
+        -0.558
+       ],
+       [
+        0.96,
+        -0.462
+       ],
+       [
+        0.97,
+        -0.357
+       ],
+       [
+        0.98,
+        -0.244
+       ],
+       [
+        0.99,
+        -0.124
+       ],
+       [
+        1.0,
+        0.0
+       ],
+       [
+        1.01,
+        0.125
+       ],
+       [
+        1.02,
+        0.249
+       ],
+       [
+        1.03,
+        0.368
+       ],
+       [
+        1.04,
+        0.482
+       ],
+       [
+        1.05,
+        0.588
+       ],
+       [
+        1.06,
+        0.685
+       ],
+       [
+        1.07,
+        0.771
+       ],
+       [
+        1.08,
+        0.844
+       ],
+       [
+        1.09,
+        0.905
+       ],
+       [
+        1.1,
+        0.951
+       ],
+       [
+        1.11,
+        0.982
+       ],
+       [
+        1.12,
+        0.998
+       ],
+       [
+        1.13,
+        0.998
+       ],
+       [
+        1.14,
+        0.982
+       ],
+       [
+        1.15,
+        0.951
+       ],
+       [
+        1.16,
+        0.905
+       ],
+       [
+        1.17,
+        0.844
+       ],
+       [
+        1.18,
+        0.771
+       ],
+       [
+        1.19,
+        0.685
+       ],
+       [
+        1.2,
+        0.588
+       ],
+       [
+        1.21,
+        0.482
+       ],
+       [
+        1.22,
+        0.368
+       ],
+       [
+        1.23,
+        0.249
+       ],
+       [
+        1.24,
+        0.125
+       ],
+       [
+        1.25,
+        -0.0
+       ],
+       [
+        1.26,
+        -0.125
+       ],
+       [
+        1.27,
+        -0.249
+       ],
+       [
+        1.28,
+        -0.368
+       ],
+       [
+        1.29,
+        -0.482
+       ],
+       [
+        1.3,
+        -0.588
+       ],
+       [
+        1.31,
+        -0.685
+       ],
+       [
+        1.32,
+        -0.771
+       ],
+       [
+        1.33,
+        -0.844
+       ],
+       [
+        1.34,
+        -0.905
+       ],
+       [
+        1.35,
+        -0.951
+       ],
+       [
+        1.36,
+        -0.982
+       ],
+       [
+        1.37,
+        -0.998
+       ],
+       [
+        1.38,
+        -0.998
+       ],
+       [
+        1.39,
+        -0.982
+       ],
+       [
+        1.4,
+        -0.951
+       ],
+       [
+        1.41,
+        -0.905
+       ],
+       [
+        1.42,
+        -0.844
+       ],
+       [
+        1.43,
+        -0.771
+       ],
+       [
+        1.44,
+        -0.685
+       ],
+       [
+        1.45,
+        -0.588
+       ],
+       [
+        1.46,
+        -0.482
+       ],
+       [
+        1.47,
+        -0.368
+       ],
+       [
+        1.48,
+        -0.249
+       ],
+       [
+        1.49,
+        -0.125
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.51,
+        0.124
+       ],
+       [
+        1.52,
+        0.244
+       ],
+       [
+        1.53,
+        0.357
+       ],
+       [
+        1.54,
+        0.462
+       ],
+       [
+        1.55,
+        0.558
+       ],
+       [
+        1.56,
+        0.643
+       ],
+       [
+        1.57,
+        0.717
+       ],
+       [
+        1.58,
+        0.777
+       ],
+       [
+        1.59,
+        0.823
+       ],
+       [
+        1.6,
+        0.856
+       ],
+       [
+        1.61,
+        0.874
+       ],
+       [
+        1.62,
+        0.878
+       ],
+       [
+        1.63,
+        0.868
+       ],
+       [
+        1.64,
+        0.845
+       ],
+       [
+        1.65,
+        0.808
+       ],
+       [
+        1.66,
+        0.76
+       ],
+       [
+        1.67,
+        0.701
+       ],
+       [
+        1.68,
+        0.632
+       ],
+       [
+        1.69,
+        0.554
+       ],
+       [
+        1.7,
+        0.47
+       ],
+       [
+        1.71,
+        0.381
+       ],
+       [
+        1.72,
+        0.287
+       ],
+       [
+        1.73,
+        0.191
+       ],
+       [
+        1.74,
+        0.095
+       ],
+       [
+        1.75,
+        -0.0
+       ],
+       [
+        1.76,
+        -0.093
+       ],
+       [
+        1.77,
+        -0.182
+       ],
+       [
+        1.78,
+        -0.265
+       ],
+       [
+        1.79,
+        -0.342
+       ],
+       [
+        1.8,
+        -0.411
+       ],
+       [
+        1.81,
+        -0.472
+       ],
+       [
+        1.82,
+        -0.524
+       ],
+       [
+        1.83,
+        -0.566
+       ],
+       [
+        1.84,
+        -0.597
+       ],
+       [
+        1.85,
+        -0.618
+       ],
+       [
+        1.86,
+        -0.629
+       ],
+       [
+        1.87,
+        -0.629
+       ],
+       [
+        1.88,
+        -0.619
+       ],
+       [
+        1.89,
+        -0.599
+       ],
+       [
+        1.9,
+        -0.571
+       ],
+       [
+        1.91,
+        -0.534
+       ],
+       [
+        1.92,
+        -0.49
+       ],
+       [
+        1.93,
+        -0.439
+       ],
+       [
+        1.94,
+        -0.383
+       ],
+       [
+        1.95,
+        -0.323
+       ],
+       [
+        1.96,
+        -0.26
+       ],
+       [
+        1.97,
+        -0.195
+       ],
+       [
+        1.98,
+        -0.129
+       ],
+       [
+        1.99,
+        -0.064
+       ],
+       [
+        2.0,
+        0.0
+       ],
+       [
+        2.01,
+        0.061
+       ],
+       [
+        2.02,
+        0.119
+       ],
+       [
+        2.03,
+        0.173
+       ],
+       [
+        2.04,
+        0.222
+       ],
+       [
+        2.05,
+        0.265
+       ],
+       [
+        2.06,
+        0.301
+       ],
+       [
+        2.07,
+        0.331
+       ],
+       [
+        2.08,
+        0.355
+       ],
+       [
+        2.09,
+        0.371
+       ],
+       [
+        2.1,
+        0.38
+       ],
+       [
+        2.11,
+        0.383
+       ],
+       [
+        2.12,
+        0.379
+       ],
+       [
+        2.13,
+        0.369
+       ],
+       [
+        2.14,
+        0.354
+       ],
+       [
+        2.15,
+        0.333
+       ],
+       [
+        2.16,
+        0.308
+       ],
+       [
+        2.17,
+        0.279
+       ],
+       [
+        2.18,
+        0.247
+       ],
+       [
+        2.19,
+        0.212
+       ],
+       [
+        2.2,
+        0.176
+       ],
+       [
+        2.21,
+        0.14
+       ],
+       [
+        2.22,
+        0.103
+       ],
+       [
+        2.23,
+        0.067
+       ],
+       [
+        2.24,
+        0.033
+       ],
+       [
+        2.25,
+        0.0
+       ],
+       [
+        2.26,
+        -0.03
+       ],
+       [
+        2.27,
+        -0.057
+       ],
+       [
+        2.28,
+        -0.081
+       ],
+       [
+        2.29,
+        -0.101
+       ],
+       [
+        2.3,
+        -0.118
+       ],
+       [
+        2.31,
+        -0.13
+       ],
+       [
+        2.32,
+        -0.139
+       ],
+       [
+        2.33,
+        -0.144
+       ],
+       [
+        2.34,
+        -0.145
+       ],
+       [
+        2.35,
+        -0.143
+       ],
+       [
+        2.36,
+        -0.138
+       ],
+       [
+        2.37,
+        -0.13
+       ],
+       [
+        2.38,
+        -0.12
+       ],
+       [
+        2.39,
+        -0.108
+       ],
+       [
+        2.4,
+        -0.095
+       ],
+       [
+        2.41,
+        -0.081
+       ],
+       [
+        2.42,
+        -0.068
+       ],
+       [
+        2.43,
+        -0.054
+       ],
+       [
+        2.44,
+        -0.041
+       ],
+       [
+        2.45,
+        -0.029
+       ],
+       [
+        2.46,
+        -0.019
+       ],
+       [
+        2.47,
+        -0.011
+       ],
+       [
+        2.48,
+        -0.005
+       ],
+       [
+        2.49,
+        -0.001
+       ],
+       [
+        2.5,
+        -0.0
+       ],
+       [
+        2.5,
+        0
+       ],
+       [
+        2.9,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 3,
+      "sure": 2.2,
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yukselme",
+      "x": [
+       0,
+       1.0
+      ],
+      "renk": "sari",
+      "etiket": "2 periyot",
+      "cumle": 2
+     },
+     {
+      "ad": "plato",
+      "x": [
+       1.0,
+       1.5
+      ],
+      "renk": "yesil",
+      "etiket": "1",
+      "cumle": 2
+     },
+     {
+      "ad": "dusus",
+      "x": [
+       1.5,
+       2.5
+      ],
+      "renk": "sari",
+      "etiket": "2 periyot",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Örnek: _2000 Hz_ tonburst",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Yükselme, plato, düşüş: _2-1-2_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Süre periyotla _ölçeklenir_",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Tonburst (tone burst), birkaç periyot süren kısa bir saf ses parçasıdır.",
+     "ses": "Tonburst, birkaç periyot süren kısa bir saf ses parçasıdır."
+    },
+    {
+     "yazi": "Ekrandaki örnek, 2000 Hz'lik bir tonbursttür.",
+     "ses": "Ekrandaki örnek, iki bin Hz'lik bir tonbursttür."
+    },
+    {
+     "yazi": "Yaygın bir tasarımda ses 2 periyotta yükselir, 1 periyot sabit kalır ve 2 periyotta söner; buna 2-1-2 denir.",
+     "ses": "Yaygın bir tasarımda ses iki periyotta yükselir, bir periyot sabit kalır ve iki periyotta söner; buna iki bir iki denir."
+    },
+    "Böylece ses ani başlar, ama enerjisi seçilen frekansın çevresinde toplanır.",
+    "Süre periyot sayısıyla tanımlandığı için alçak frekanslarda tonburst uzar, yüksek frekanslarda kısalır.",
+    "Bu yaklaşım, her frekansta benzer bir frekans özgüllüğü sağlamayı amaçlar."
+   ]
+  },
+  {
+   "id": "sureler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tonburst",
+   "baslik": "2-1-2 tonburst *süreleri*",
+   "sutunlar": [
+    "Frekans",
+    "Bir periyot",
+    "Toplam süre"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "2 ms",
+      "10 ms"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "1 ms",
+      "5 ms"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "0,5 ms",
+      "2,5 ms"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "0,25 ms",
+      "1,25 ms"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Periyot sayısı sabit tutulduğunda toplam süreyi hesaplamak kolaydır.",
+    {
+     "yazi": "500 Hz'de bir periyot 2 milisaniyedir; beş periyotluk tonburst 10 milisaniye sürer.",
+     "ses": "beş yüz Hz'de bir periyot iki milisaniyedir; beş periyotluk tonburst on milisaniye sürer."
+    },
+    {
+     "yazi": "1000 Hz'de bir periyot 1 milisaniye, toplam süre 5 milisaniyedir.",
+     "ses": "bin Hz'de bir periyot bir milisaniye, toplam süre beş milisaniyedir."
+    },
+    {
+     "yazi": "2000 ve 4000 Hz'de toplam süre 2,5 ve 1,25 milisaniyeye iner.",
+     "ses": "iki bin ve dört bin Hz'de toplam süre iki buçuk ve bir virgül yirmi beş milisaniyeye iner."
+    },
+    {
+     "yazi": "Alçak frekans tonburstün daha uzun ve yavaş başlaması, 500 Hz yanıtının daha geniş ve daha geç olmasının bir nedenidir.",
+     "ses": "Alçak frekans tonburstün daha uzun ve yavaş başlaması, beş yüz Hz yanıtının daha geniş ve daha geç olmasının bir nedenidir."
+    }
+   ]
+  },
+  {
+   "id": "pencere",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tonburst",
+   "baslik": "Rampa ve *pencere*",
+   "maddeler": [
+    {
+     "metin": "Ani kenar enerjiyi _yanlara yayar_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Doğrusal rampa: _basit_ ve yaygın",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Blackman penceresi: _yan bantlar düşük_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yüksek şiddette özgüllük _azalır_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 500,
+      "max": 8000,
+      "log": true,
+      "hz": true,
+      "ad": "Frekans (Hz)"
+     },
+     "y": {
+      "min": -60,
+      "max": 5,
+      "adim": 20,
+      "ad": "dB"
+     },
+     "seriler": [
+      {
+       "ad": "dogrusal",
+       "noktalar": [
+        [
+         500,
+         -30
+        ],
+        [
+         700,
+         -36
+        ],
+        [
+         900,
+         -26
+        ],
+        [
+         1300,
+         -14
+        ],
+        [
+         1600,
+         -5
+        ],
+        [
+         2000,
+         0
+        ],
+        [
+         2500,
+         -5
+        ],
+        [
+         3100,
+         -14
+        ],
+        [
+         3800,
+         -26
+        ],
+        [
+         4500,
+         -34
+        ],
+        [
+         5500,
+         -28
+        ],
+        [
+         8000,
+         -34
+        ]
+       ],
+       "renk": "lacivert",
+       "kesik": true,
+       "yumusak": true,
+       "etiket": "doğrusal",
+       "cumle": 1,
+       "etiket_konum": [
+        5500,
+        -28
+       ]
+      },
+      {
+       "ad": "blackman",
+       "noktalar": [
+        [
+         500,
+         -60
+        ],
+        [
+         1000,
+         -45
+        ],
+        [
+         1300,
+         -24
+        ],
+        [
+         1600,
+         -8
+        ],
+        [
+         2000,
+         0
+        ],
+        [
+         2500,
+         -8
+        ],
+        [
+         3100,
+         -24
+        ],
+        [
+         4000,
+         -45
+        ],
+        [
+         6000,
+         -58
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "etiket": "Blackman",
+       "cumle": 2,
+       "etiket_konum": [
+        1000,
+        -45
+       ]
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Bir sesin başı ve sonu ne kadar keskinse, enerjisi ana frekansın iki yanına o kadar çok yayılır.",
+    "Doğrusal rampa, sesin düz bir çizgiyle yükselip alçalmasıdır; basit ve yaygın bir seçenektir.",
+    {
+     "yazi": "Blackman penceresi gibi yumuşak eğrili kapılar, ana frekansın dışındaki yan bantları belirgin biçimde azaltır.",
+     "ses": "Blekmın penceresi gibi yumuşak eğrili kapılar, ana frekansın dışındaki yan bantları belirgin biçimde azaltır."
+    },
+    "Grafikteki eğriler yalnız örnek amaçlıdır; amaç enerjiyi seçilen frekansın çevresinde tutmaktır.",
+    "Şunu da unutmayın: yüksek şiddette uyarılma baziler membranda yayıldığı için frekans özgüllüğü azalır.",
+    "Bu yüzden tonburst ABR'de en değerli bilgi, eşiğe yakın düşük şiddetlerde elde edilir."
+   ]
+  },
+  {
+   "id": "chirp_ilke",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Chirp",
+   "baslik": "Chirp: *gecikmeyi* telafi etmek",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "taban: tiz, erken",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "tepe: pes, geç",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Önce pes, sonra tiz bileşenler",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tüm bölgeler _aynı anda_ yanıt verir",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Sonuç: daha büyük _dalga V_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Klikte de bir sorun vardır: yürüyen dalga koklea tabanından tepesine doğru ilerler.",
+    "Koklea tabanındaki tiz frekans bölgesi uyarana önce yanıt verir.",
+    "Tepedeki pes frekans bölgesine ise dalga birkaç milisaniye sonra ulaşır; bu da eş zamanlılığı azaltır.",
+    {
+     "yazi": "Chirp uyaranı bu gecikmeyi telafi etmek için tasarlanmıştır; pes bileşenler önce, tiz bileşenler sonra gelir.",
+     "ses": "Çörp uyaranı bu gecikmeyi telafi etmek için tasarlanmıştır; pes bileşenler önce, tiz bileşenler sonra gelir."
+    },
+    "Böylece farklı frekans bölgelerinin yanıtları işitme sinirinde daha eş zamanlı birleşir.",
+    "Sonuç, özellikle düşük ve orta şiddetlerde klike göre daha büyük bir dalga V'dir."
+   ]
+  },
+  {
+   "id": "chirp_tur",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Chirp",
+   "baslik": "Chirp *çeşitleri*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Geniş bant",
+     "metin": "Klikin yerine, örnek CE-Chirp",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Düzeye özgü",
+     "metin": "Şiddete göre uyarlanır",
+     "cumle": 2
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Dar bant",
+     "metin": "500 ile 4000 Hz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Geniş bantlı chirp, klikin yerine kullanılabilir; ticari örneklerden biri CE-Chirp adıyla bilinir.",
+     "ses": "Geniş bantlı çörp, klikin yerine kullanılabilir; ticari örneklerden biri ce e çörp adıyla bilinir."
+    },
+    {
+     "yazi": "Kokleadaki gecikme şiddete göre değiştiği için en uygun chirp biçimi de şiddete bağlıdır.",
+     "ses": "Kokleadaki gecikme şiddete göre değiştiği için en uygun çörp biçimi de şiddete bağlıdır."
+    },
+    {
+     "yazi": "Düzeye özgü chirp, bu değişimi hesaba katarak her şiddette biçimini uyarlar.",
+     "ses": "Düzeye özgü çörp, bu değişimi hesaba katarak her şiddette biçimini uyarlar."
+    },
+    {
+     "yazi": "Dar bantlı chirp ise belirli bir oktav bandına odaklanır ve tonburst gibi frekansa özgü eşik tahmininde kullanılır.",
+     "ses": "Dar bantlı çörp ise belirli bir oktav bandına odaklanır ve tonburst gibi frekansa özgü eşik tahmininde kullanılır."
+    },
+    "Bu uyaranlar özellikle yenidoğan taramasında ve bebeklerde eşik tahmininde yaygınlaşmıştır."
+   ]
+  },
+  {
+   "id": "chirp_dikkat",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Chirp",
+   "baslik": "Chirp: *artısı* ve dikkat",
+   "maddeler": [
+    {
+     "metin": "Dalga V genellikle _daha büyük_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yanıt daha _kısa sürede_ belirginleşir",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Latans normları klikten _farklı_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Yüksek şiddette avantaj _azalır_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "KURAL",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "tablo",
+      "baslik": "Kendi normu",
+      "metin": "Uyarana özgü normlar",
+      "cumle": 2
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Karıştırmayın",
+      "metin": "Klik normlarıyla yorumlamayın",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Çalışmalarda chirp ile dalga V genliği, düşük ve orta şiddetlerde klike göre genellikle belirgin biçimde büyük bulunmuştur.",
+     "ses": "Çalışmalarda çörp ile dalga V genliği, düşük ve orta şiddetlerde klike göre genellikle belirgin biçimde büyük bulunmuştur."
+    },
+    "Yanıt gürültüden daha erken ayrıldığı için eşik araması kısalabilir; bu da uyuyan bebekte değerli bir zaman kazancıdır.",
+    {
+     "yazi": "Ancak chirp ile ölçülen latanslar, uyarının zamanlamasına bağlı olarak klik değerlerinden farklıdır.",
+     "ses": "Ancak çörp ile ölçülen latanslar, uyarının zamanlamasına bağlı olarak klik değerlerinden farklıdır."
+    },
+    {
+     "yazi": "Bu nedenle chirp kayıtları, aynı uyaran ve cihazla elde edilmiş normlarla yorumlanmalıdır.",
+     "ses": "Bu nedenle çörp kayıtları, aynı uyaran ve cihazla elde edilmiş normlarla yorumlanmalıdır."
+    },
+    {
+     "yazi": "Yüksek şiddetlerde kokleadaki uyarılma yayıldığı için chirp ile klik arasındaki fark küçülür.",
+     "ses": "Yüksek şiddetlerde kokleadaki uyarılma yayıldığı için çörp ile klik arasındaki fark küçülür."
+    }
+   ]
+  },
+  {
+   "id": "polarite",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Polarite",
+   "baslik": "Uyaran *polaritesi*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Seyrelme",
+     "metin": "Diyafram önce geri çekilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Sıkışma",
+     "metin": "Diyafram önce ileri itilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Alternan",
+     "metin": "İkisi sırayla değişir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Uyaran polaritesi (stimulus polarity), sesin kulak kanalında ilk anda basıncı azaltıp azaltmadığını anlatır.",
+     "ses": "Uyaran polaritesi, sesin kulak kanalında ilk anda basıncı azaltıp azaltmadığını anlatır."
+    },
+    {
+     "yazi": "Seyrelme polaritesinde (rarefaction) kulaklık diyaframı önce geri çekilir ve kanalda basınç önce düşer.",
+     "ses": "Seyrelme polaritesinde kulaklık diyaframı önce geri çekilir ve kanalda basınç önce düşer."
+    },
+    {
+     "yazi": "Sıkışma polaritesinde (condensation) diyafram önce ileri itilir ve basınç önce artar.",
+     "ses": "Sıkışma polaritesinde diyafram önce ileri itilir ve basınç önce artar."
+    },
+    {
+     "yazi": "Alternan polaritede (alternating) bu iki biçim, art arda gelen uyaranlarda sırayla değiştirilir.",
+     "ses": "Alternan polaritede bu iki biçim, art arda gelen uyaranlarda sırayla değiştirilir."
+    },
+    "Seyrelme, tüy hücrelerini biraz daha erken uyardığı için birçok kişide dalgaları biraz daha erken ve belirgin gösterebilir.",
+    "Ancak bu fark kişiden kişiye değişir; bazı kişilerde en iyi kayıt sıkışma polaritesiyle alınır."
+   ]
+  },
+  {
+   "id": "polarite_secim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Polarite",
+   "baslik": "Hangi polarite, *ne zaman?*",
+   "maddeler": [
+    {
+     "metin": "Alternan: uyaran artefaktını _azaltır_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Alternan: koklear mikrofoniği _söndürür_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Latanslar farklıysa dalgalar _bulanıklaşır_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Nöropati şüphesinde iki polarite _ayrı ayrı_",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 2,
+    "ayar": {
+     "latans_kayma": 0.3
+    },
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "polariteye göre kayabilir",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Alternan polaritede, uyarana bağlı elektriksel artefakt iki polaritede ters işaretli olduğu için ortalamada büyük ölçüde söner.",
+    "Aynı nedenle, uyaranın dalga biçimini izleyen koklear mikrofonik, kısaca CM de alternan kayıtta söner.",
+    "Ancak bazı kişilerde, özellikle yüksek frekans kaybında, iki polaritenin dalga latansları belirgin biçimde farklıdır.",
+    "Bu durumda alternan kayıtta iki yanıt üst üste binerek dalgaları genişletir ve belirsizleştirir.",
+    "İşitsel nöropati şüphesinde ise seyrelme ve sıkışma kayıtları ayrı ayrı alınır ve üst üste konarak karşılaştırılır."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 6",
+   "bolum": "Uyaran hızı",
+   "baslik": "Uyaran *hızı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 90,
+     "adim": 10,
+     "ad": "Uyaran hızı (saniyede)"
+    },
+    "y": {
+     "min": -0.2,
+     "max": 1.2,
+     "ad": "Göreli değişim",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "latans",
+      "noktalar": [
+       [
+        10,
+        0
+       ],
+       [
+        20,
+        0.08
+       ],
+       [
+        40,
+        0.25
+       ],
+       [
+        60,
+        0.45
+       ],
+       [
+        80,
+        0.62
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "dalga V latansı",
+      "cumle": 1,
+      "etiket_konum": [
+       80,
+       0.62
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -18,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "genlik",
+      "noktalar": [
+       [
+        10,
+        1
+       ],
+       [
+        20,
+        0.95
+       ],
+       [
+        40,
+        0.8
+       ],
+       [
+        60,
+        0.66
+       ],
+       [
+        80,
+        0.55
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "erken dalga genliği",
+      "cumle": 2,
+      "etiket_konum": [
+       10,
+       1
+      ],
+      "etiket_dy": -16
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "noro",
+      "x": [
+       11,
+       21
+      ],
+      "renk": "sari",
+      "etiket": "nörolojik",
+      "cumle": 3
+     },
+     {
+      "ad": "esik",
+      "x": [
+       30,
+       40
+      ],
+      "renk": "yesil",
+      "etiket": "eşik",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Hız artınca _latans uzar_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Kesirli hız: _21,1_ gibi",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Uyaran hızı (stimulus rate), saniyede verilen uyaran sayısıdır ve testin süresini doğrudan belirler.",
+     "ses": "Uyaran hızı, saniyede verilen uyaran sayısıdır ve testin süresini doğrudan belirler."
+    },
+    "Hız arttıkça sinir liflerinin toparlanma süresi kısalır ve dalga V'in latansı biraz uzar.",
+    "Aynı zamanda erken dalgaların, özellikle dalga I'in genliği azalır; grafik bu eğilimi örnek olarak gösteriyor.",
+    {
+     "yazi": "Bu yüzden nörolojik ABR'de dalgaların net görünmesi için genellikle saniyede yaklaşık 11 ile 21 uyaran kullanılır.",
+     "ses": "Bu yüzden nörolojik ABR'de dalgaların net görünmesi için genellikle saniyede yaklaşık on bir ile yirmi bir uyaran kullanılır."
+    },
+    {
+     "yazi": "Eşik aramasında ise asıl hedef dalga V olduğu için hız çoğu zaman saniyede yaklaşık 30 ile 40 arasına çıkarılır.",
+     "ses": "Eşik aramasında ise asıl hedef dalga V olduğu için hız çoğu zaman saniyede yaklaşık otuz ile kırk arasına çıkarılır."
+    },
+    {
+     "yazi": "Hız, 21,1 gibi kesirli seçilir; böylece 50 Hz'lik şebeke paraziti uyaranla aynı ritme girmez ve ortalamada söner.",
+     "ses": "Hız, yirmi bir virgül bir gibi kesirli seçilir; böylece elli Hz'lik şebeke paraziti uyaranla aynı ritme girmez ve ortalamada söner."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Insert kulaklıkta ses tüpü yaklaşık 0,8 ile 0,9 ms gecikme ekler; cihazınızın bunu düzeltip düzeltmediğini ve normların aynı ayarla alındığını kontrol edin.",
+   "cumleler": [
+    "Bir klinik ipucu: insert, yani kulak içi kulaklıkta ses, dönüştürücüden kulağa bir tüp içinde ilerler.",
+    {
+     "yazi": "Bu tüp, yaklaşık 0,8 ile 0,9 milisaniyelik bir gecikme ekler.",
+     "ses": "Bu tüp, yaklaşık sıfır virgül sekiz ile sıfır virgül dokuz milisaniyelik bir gecikme ekler."
+    },
+    "Bazı cihazlar bu gecikmeyi latanslardan otomatik olarak çıkarır, bazıları çıkarmaz.",
+    "Normlarınızın aynı kulaklık ve aynı düzeltme ayarıyla elde edildiğinden emin olun; yoksa tüm latanslar yanlış yorumlanabilir."
+   ]
+  },
+  {
+   "id": "siddet",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 6",
+   "bolum": "Uyaran hızı",
+   "baslik": "Şiddet ve *dönüştürücü*",
+   "maddeler": [
+    {
+     "metin": "Şiddet: _dB nHL_ ile verilir",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Kalibrasyon: _tepe eşdeğer_ SPL",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Insert kulaklık: _yüksek_ kulaklar arası zayıflama",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Kemik vibratörü: _sınırlı_ en yüksek şiddet",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DÖNÜŞTÜRÜCÜ",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "insert_kulaklik",
+      "baslik": "Insert",
+      "metin": "En yaygın seçenek",
+      "cumle": 2
+     },
+     {
+      "ikon": "kemik_vibratoru",
+      "baslik": "Kemik vibratörü",
+      "metin": "Kemik yolu ABR",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "ABR uyaranlarının şiddeti çoğu zaman dB nHL, yani normalize işitme düzeyi ile verilir.",
+    {
+     "yazi": "Cihaz kalibrasyonunda ise kısa sesler için tepe eşdeğer ses basınç düzeyi (peak-equivalent SPL) kullanılır.",
+     "ses": "Cihaz kalibrasyonunda ise kısa sesler için tepe eşdeğer ses basınç düzeyi kullanılır."
+    },
+    "Insert kulaklık, kulaklar arası zayıflaması yüksek olduğu ve kanal çökmesini önlediği için en sık tercih edilen dönüştürücüdür.",
+    "Kemik vibratörü ile de ABR alınabilir; ancak en yüksek şiddeti sınırlıdır ve bunu ilerideki bir derste ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Klik: güçlü yanıt, _frekans özgüllüğü yok_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tonburst: _frekansa özgü_ eşik",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Chirp: gecikmeyi telafi, _büyük dalga V_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Polarite ve hız kaydı _değiştirir_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Klik güçlü ve net bir ABR oluşturur, ama ağırlıkla 2000 ile 4000 Hz bölgesini yansıtır ve frekansa özgü değildir.",
+     "ses": "Klik güçlü ve net bir ABR oluşturur, ama ağırlıkla iki bin ile dört bin Hz bölgesini yansıtır ve frekansa özgü değildir."
+    },
+    "Tonburst, periyot sayısıyla tanımlanan kısa bir ton parçasıdır ve frekansa özgü eşik tahmininde kullanılır.",
+    {
+     "yazi": "Chirp, kokleadaki yürüyen dalga gecikmesini telafi eder ve genellikle daha büyük bir dalga V oluşturur.",
+     "ses": "Çörp, kokleadaki yürüyen dalga gecikmesini telafi eder ve genellikle daha büyük bir dalga V oluşturur."
+    },
+    "Polarite ve uyaran hızı dalga biçimini ve latansı etkiler; seçimi testin amacına göre yapılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Normal klik ABR, alçak frekans kaybını dışlar mı?",
+   "secenekler": [
+    "Evet, her zaman dışlar",
+    "Hayır, gözden kaçabilir",
+    "Yalnız bebeklerde dışlar"
+   ],
+   "dogru": 1,
+   "aciklama": "Klik yanıtı ağırlıkla _2000 ile 4000 Hz_ bölgesini yansıtır; alçak frekanslar için tonburst gerekir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Normal bir klik ABR eşiği, alçak frekanslardaki bir kaybı dışlar mı?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: hayır, alçak frekans kaybı gözden kaçabilir.",
+    {
+     "yazi": "Klik yanıtı ağırlıkla yüksek frekans bölgesini yansıttığı için alçak frekanslar tonburst ya da dar bantlı chirp ile ayrıca test edilir.",
+     "ses": "Klik yanıtı ağırlıkla yüksek frekans bölgesini yansıttığı için alçak frekanslar tonburst ya da dar bantlı çörp ile ayrıca test edilir."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Nörolojik ABR: *retrokoklear* lezyon değerlendirmesi",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste klik ABR'yi retrokoklear sorunları araştırmak için nasıl kullandığımızı göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

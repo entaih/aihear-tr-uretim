@@ -1,0 +1,725 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D047_Efferent_Olivokoklear_Demet_TR",
+ "kapak": {
+  "ust": "DERS 47",
+  "baslik": "Efferent<br>*işitsel sistem*",
+  "alt": "Olivokoklear demet ve OAE baskılanması",
+  "cizim": "corti",
+  "vurgula": [
+   "dis_tuy_hucreleri"
+  ]
+ },
+ "youtube": {
+  "baslik": "Efferent İşitsel Sistem: Olivokoklear Demet | Ders 47 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Beyin kulağı nasıl ayarlar? Bu derste efferent işitsel sistemi, medial ve lateral olivokoklear lifleri, MOC liflerinin dış tüy hücreleri ve koklear amplifikatör üzerindeki baskılayıcı etkisini, MOC refleksini ve bu etkinin kontralateral OAE baskılanmasıyla nasıl ölçüldüğünü öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Guinan (2006), Olivocochlear efferents: anatomy, physiology, function, and the measurement of efferent effects in humans, Ear and Hearing; Rasmussen (1946), The olivary peduncle and other fiber projections of the superior olivary complex, Journal of Comparative Neurology; Collet ve ark. (1990), Effect of contralateral auditory stimuli on active cochlear micro-mechanical properties in human subjects, Hearing Research; Pickles, An Introduction to the Physiology of Hearing; Hall, Handbook of Otoacoustic Emissions.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "efferent",
+   "OAE"
+  ],
+  "etiketler": [
+   "efferent sistem",
+   "olivokoklear demet",
+   "medial olivocochlear",
+   "MOC",
+   "dış tüy hücreleri",
+   "kontralateral baskılama",
+   "contralateral suppression",
+   "TEOAE",
+   "otoakustik emisyon",
+   "işitme fizyolojisi",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 47",
+   "baslik": "*Efferent* işitsel sistem",
+   "alt": "Olivokoklear demet",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste beyinden kulağa inen efferent işitsel sistemi, özellikle olivokoklear demeti öğreneceğiz.",
+    "Medial ve lateral olivokoklear lifleri, dış tüy hücreleri üzerindeki etkiyi ve bu etkinin otoakustik emisyonla nasıl ölçüldüğünü göreceğiz."
+   ]
+  },
+  {
+   "id": "yon",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Efferent yol",
+   "baslik": "Beyinden *kulağa*",
+   "cizim": "isitme_yolu",
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_korteksi",
+     "metin": "İşitsel korteks",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "İnferior kollikulus",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Superior oliver kompleks",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Afferent: _kulaktan beyne_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Efferent: _beyinden kulağa_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Son halka: _olivokoklear demet_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Şimdiye kadar işitme yolunu çoğunlukla kokleadan kortekse doğru, yani yukarı yönde izledik; bu yöne afferent yön denir.",
+    "Bilgi ters yönde de akar; korteksten beyin sapına, beyin sapından kokleaya inen liflere efferent lifler denir.",
+    "Efferent yol birkaç basamaklıdır; işitsel korteks ve inferior kollikulus, beyin sapındaki çekirdeklere aşağı doğru lif gönderir.",
+    "Bu zincirin son halkası, superior oliver kompleksten, yani üst zeytin çekirdeklerinden kokleaya uzanan olivokoklear demettir.",
+    "Olivokoklear demet (olivocochlear bundle) ilk kez 1946'da Rasmussen tarafından ayrıntılı olarak tanımlandı.",
+    "Böylece beyin, kulağın gelen sesi nasıl işlediğini kısmen kendisi ayarlayabilir."
+   ],
+   "ayar": {
+    "efferent": true,
+    "kortikal_cumle": 2,
+    "ocb_cumle": 3
+   }
+  },
+  {
+   "id": "iki_sistem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Efferent yol",
+   "baslik": "Medial ve *lateral* lifler",
+   "cizim": "corti",
+   "yakinlastir": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 6,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 7
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "MOC: dış tüy hücrelerine",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "LOC: afferent lif uçlarına",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Olivokoklear lifler, superior oliver kompleksteki çıkış yerlerine göre iki gruba ayrılır.",
+    "Medial olivokoklear lifler, kısaca MOC lifleri, medial superior olivanın çevresindeki çekirdeklerden çıkar.",
+    "Bu lifler kalın ve miyelinlidir; çoğu karşı tarafa geçerek, yani çapraz seyrederek kokleaya ulaşır.",
+    "MOC lifleri doğrudan dış tüy hücrelerinin tabanında sinaps yapar.",
+    "Lateral olivokoklear lifler, kısaca LOC lifleri ise lateral superior olivanın içinden ve çevresinden çıkar.",
+    "Bu lifler ince ve miyelinsizdir; büyük çoğunluğu aynı taraftaki kokleaya gider.",
+    "LOC lifleri iç tüy hücrelerine değil, onların altındaki tip I afferent liflerin uçlarına bağlanır.",
+    "Her iki grup da afferent liflerden çok daha az sayıdadır; ama koklear işlem üzerindeki etkileri belirgindir."
+   ]
+  },
+  {
+   "id": "moc_etki",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Efferent yol",
+   "baslik": "MOC: amplifikatörün *ayar düğmesi*",
+   "cizim": "dis_tuy_hucresi",
+   "ayar": {
+    "mod": "uclu",
+    "cumleler": [
+     3,
+     1,
+     1
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "prestin",
+     "cumle": 1
+    },
+    {
+     "parca": "hiperpolarizasyon",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "prestin",
+     "metin": "Prestin",
+     "cumle": 1
+    },
+    {
+     "parca": "hiperpolarizasyon",
+     "metin": "Hiperpolarizasyon",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "MOC ucu: _asetilkolin_ salınır",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Hücre _hiperpolarize_ olur",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Koklear kazanç _azalır_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "MOC liflerinin etkisini anlamak için dış tüy hücrelerinin koklear amplifikatördeki rolünü hatırlayalım.",
+    "Dış tüy hücreleri, prestin adlı motor protein sayesinde elektriksel değişimle uzayıp kısalır ve baziler membranın titreşimini güçlendirir.",
+    "MOC lifleri uyarıldığında uçlarından asetilkolin salınır.",
+    "Asetilkolin dış tüy hücresine kalsiyum girişini, ardından potasyum çıkışını başlatır; hücre hiperpolarize olur.",
+    "Sonuçta dış tüy hücresinin elektromotil yanıtı azalır; yani koklear amplifikatörün kazancı düşer.",
+    "Baziler membranın titreşimi, özellikle düşük ve orta düzeydeki seslerde azalır.",
+    "Kısacası MOC sistemi, koklear amplifikatörün ses ayar düğmesi gibi çalışır."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "MOC refleksi",
+   "baslik": "MOC *refleks* yayı",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ses",
+     "metin": "Koklea algılar",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Koklear nükleus",
+     "metin": "Tip I liflerle",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "MOC nöronları",
+     "metin": "İki taraftaki oliver kompleks",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Dış tüy hücreleri",
+     "metin": "Kazanç azalır",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "MOC lifleri bir refleks yayının parçasıdır; bu refleks sesle kendiliğinden çalışır.",
+    "Ses kokleada algılanır ve tip I afferent liflerle koklear nükleusa taşınır.",
+    "Koklear nükleustan çıkan lifler, iki taraftaki superior oliver komplekste bulunan MOC nöronlarını uyarır.",
+    "MOC nöronları da kendi lifleriyle dış tüy hücrelerine geri bildirim gönderir.",
+    "Bu yüzden ses aynı kulağa da verilse karşı kulağa da verilse kokleada MOC etkisi ortaya çıkar.",
+    "Refleksin hızlı etkisi birkaç on milisaniye içinde ortaya çıkar; hayvan çalışmalarında onlarca saniyede gelişen yavaş bir etki de gösterilmiştir."
+   ]
+  },
+  {
+   "id": "islev",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "MOC refleksi",
+   "baslik": "Efferent sistem *ne işe* yarar?",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Gürültüde dinleme",
+     "metin": "Maskeden kurtarma",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Koruma",
+     "metin": "Hayvan çalışmalarında gösterildi",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Dikkat",
+     "metin": "Seçici dinlemeye katkı",
+     "cumle": 5
+    },
+    {
+     "ikon": "noron",
+     "baslik": "LOC",
+     "metin": "Afferent ateşlemeyi ayarlar",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Efferent sistemin işlevi hakkında üç ana görüş vardır ve üçü de hala araştırılmaktadır.",
+    "En güçlü kanıt gürültüde dinlemeye ilişkindir; sürekli arka plan gürültüsü sinir liflerini uyararak yanıt aralıklarını doldurur.",
+    "MOC etkisi gürültüye yanıtı azaltır; lifler konuşma gibi değişen seslere yeniden yanıt verebilir, buna maskeden kurtarma (unmasking) denir.",
+    "İkinci görüş hayvan deneylerine dayanır; güçlü MOC etkinliği, yüksek gürültünün yarattığı koklear hasarı bir ölçüde azaltabilir.",
+    "Ancak bu korumanın doğal ortamda ne kadar önemli olduğu tartışmalıdır.",
+    "Üçüncü görüşe göre efferent sistem, dikkatin bir kulağa ya da belirli bir sese yönlendirilmesine katkı yapar.",
+    "LOC liflerinin işlevi daha az bilinir; afferent liflerin ateşlemesini ayarladığı ve iki kulağın duyarlılığını dengelediği düşünülür."
+   ]
+  },
+  {
+   "id": "baskilama",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinikte ölçüm",
+   "baslik": "Kontralateral *baskılama*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "vurgula": [
+    {
+     "parca": "uyaran",
+     "cumle": 2
+    },
+    {
+     "parca": "yanit",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emisyon genliği azalır",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Test kulağı: _TEOAE_ kaydı",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Karşı kulak: _geniş bant gürültü_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Normalde yaklaşık _1 ile 2 dB_ azalma",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "İnsanda MOC liflerini doğrudan ölçemeyiz; ama etkilerini otoakustik emisyonlar, kısaca OAE üzerinden görebiliriz.",
+    "OAE dış tüy hücrelerinin etkinliğinden doğduğu için MOC etkisi emisyonun genliğini değiştirir.",
+    "En yaygın yöntemde önce bir kulakta geçici uyarılmış otoakustik emisyon, yani TEOAE kaydedilir.",
+    "Sonra ölçüm, karşı kulağa geniş bant gürültü verilerek tekrarlanır.",
+    "Karşı kulaktaki gürültü MOC refleksini çalıştırır ve test kulağındaki emisyonun genliği azalır.",
+    "Bu azalmaya kontralateral baskılama (contralateral suppression) denir; normal yetişkinlerde genellikle yaklaşık bir ile iki desibeldir.",
+    "Etki küçük olduğu için ölçüm dikkat, tekrar ve iyi bir gürültü tabanı gerektirir."
+   ]
+  },
+  {
+   "id": "grafik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinikte ölçüm",
+   "baslik": "Gürültüyle *küçülen* emisyon",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 800,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans bandı (Hz)",
+     "isaretler": [
+      1000,
+      1500,
+      2000,
+      3000,
+      4000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 16,
+     "isaretler": [
+      0,
+      4,
+      8,
+      12,
+      16
+     ],
+     "ad": "TEOAE genliği (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "sessiz",
+      "noktalar": [
+       [
+        1000,
+        12
+       ],
+       [
+        1500,
+        13
+       ],
+       [
+        2000,
+        11.5
+       ],
+       [
+        3000,
+        9.5
+       ],
+       [
+        4000,
+        7.5
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "cumle": 1,
+      "etiket": "gürültüsüz",
+      "etiket_konum": [
+       1000,
+       12
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -18
+     },
+     {
+      "ad": "gurultulu",
+      "noktalar": [
+       [
+        1000,
+        10.4
+       ],
+       [
+        1500,
+        11.6
+       ],
+       [
+        2000,
+        10.2
+       ],
+       [
+        3000,
+        8.4
+       ],
+       [
+        4000,
+        6.8
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "isaretli": true,
+      "cumle": 1,
+      "etiket": "karşı kulakta gürültü",
+      "etiket_konum": [
+       3000,
+       8.4
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 28
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "xk": 1500,
+      "y": [
+       13,
+       11.6
+      ],
+      "etiket": "MOC etkisi",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "fark",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Grafikte örnek bir kulağın TEOAE genliklerini frekans bantlarına göre görüyorsunuz; değerler örnektir.",
+    "Lacivert çizgi gürültüsüz, mavi kesik çizgi ise karşı kulağa gürültü verilirken ölçülen genliktir.",
+    "İki çizgi arasındaki yaklaşık bir ile bir buçuk desibellik fark, MOC etkisini yansıtır.",
+    "Baskılamanın büyüklüğü kişiden kişiye değişir; bu yüzden tek bir sınır değer yerine laboratuvarın kendi normları kullanılır.",
+    "Küçük etkiyi yakalamak için klik uyaranının doğrusal (linear) modu ve orta düzeyde bir uyaran tercih edilir."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinikte ölçüm",
+   "baslik": "Ölçüm *koşulları*",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Önce immitans",
+     "metin": "Orta kulak ve refleks",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "TEOAE kaydı",
+     "metin": "Doğrusal mod",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Karşı gürültü",
+     "metin": "Refleks eşiğinin altında",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Karşılaştır",
+     "metin": "Dönüşümlü tekrar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Güvenilir bir ölçüm için bazı koşullara dikkat edilir.",
+    "Önce timpanometri ve akustik refleks eşikleri ölçülür; orta kulak normal olmalı ve OAE kaydedilebilmelidir.",
+    "TEOAE, klik uyaranının doğrusal modunda ve orta ya da düşük bir düzeyde kaydedilir.",
+    "Karşı kulağa verilen gürültü akustik refleks eşiğinin altında tutulur; çoğu çalışmada yaklaşık altmış desibel SPL kullanılır.",
+    "Bunun nedeni stapedius refleksinin de emisyonu değiştirebilmesidir; refleks devreye girerse azalma yanlışlıkla MOC etkisi sanılabilir.",
+    "Gürültülü ve gürültüsüz kayıtlar birkaç kez dönüşümlü alınır ve ortalama genlik farkı hesaplanır."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik önemi",
+   "baslik": "Baskılama *ne zaman* azalır?",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "ANSD",
+     "metin": "OAE var, baskılama yok",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Sinir, beyin sapı",
+     "metin": "Refleks yolunda lezyon",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vestibüler sinir kesisi",
+     "metin": "Lifler kesilir",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Araştırma",
+     "metin": "İşlemleme, tinnitus: tutarsız",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kontralateral baskılama bugün daha çok araştırmada kullanılır; ama bazı klinik durumlarda yol gösterici olabilir.",
+    "İşitsel nöropati spektrum bozukluğunda, kısaca ANSD'de, OAE alınabildiği halde baskılama genellikle görülmez.",
+    "İşitme sinirini ya da beyin sapındaki refleks yolunu etkileyen lezyonlarda da baskılama azalabilir ya da kaybolabilir.",
+    "Olivokoklear lifler kokleaya giderken bir süre vestibüler sinirle birlikte seyreder; vestibüler sinir kesisinden sonra etki kaybolabilir.",
+    "İşitsel işlemleme bozukluğu, tinnitus ve gürültüde anlama güçlüğünde azalmış baskılama bildirilmiştir; ama bulgular tutarlı değildir.",
+    "Bu yüzden baskılama sonucu tek başına tanı koydurmaz; diğer testlerle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "ayrim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik önemi",
+   "baslik": "MOC refleksi ve *stapedius* refleksi",
+   "maddeler": [
+    {
+     "metin": "İkisi de _beyin sapı_ refleksi",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Stapedius: _orta kulak_, yüksek ses",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "MOC: _koklea_, düşük düzeyde de",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ölçüm: _immitans_ ya da _OAE_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "akustik_refleks_arki",
+    "cumle": 1,
+    "ayar": {
+     "uyarilan": "sag"
+    },
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 4
+     },
+     {
+      "parca": "stapedius",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "MOC refleksini orta kulak kas refleksiyle karıştırmamak gerekir; ikisi de sesle çalışan beyin sapı refleksleridir.",
+    "Stapedius refleksi kemikçik zincirini sertleştirir ve yüksek seslerde, normalde yaklaşık yetmiş ile yüz desibel HL arasında ortaya çıkar.",
+    "MOC refleksi ise doğrudan kokleada, dış tüy hücreleri üzerinde çalışır ve çok daha düşük düzeylerde de etkindir.",
+    "Stapedius refleksi immitansmetriyle, MOC etkisi ise OAE ile ölçülür.",
+    "İki refleksin yolu da beyin sapında superior oliver kompleksin çevresinden geçer; bu yüzden aynı lezyon ikisini birden etkileyebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "OAE ölçümünde ortamı sessiz tutun. Ortam gürültüsü ve hastanın konuşması efferent sistemi uyararak emisyonu biraz küçültebilir; izlemde koşulları sabit tutun.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: OAE ölçerken ortamın sessiz olması yalnız gürültü tabanı için değil, efferent etki için de önemlidir.",
+    "Ortam gürültüsü ve hastanın konuşması, MOC sistemini uyararak emisyon genliğini biraz düşürebilir.",
+    "Özellikle iki ölçümü karşılaştırırken, örneğin ototoksisite izleminde, koşulları her seferinde aynı tutun.",
+    "Küçük genlik değişikliklerini yorumlamadan önce prob yerleşiminin ve ölçüm ayarlarının aynı olduğundan emin olun."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "MOC: _dış tüy hücrelerine_, çoğu çapraz",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "LOC: _afferent lif_ uçlarına",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "MOC etkisi: koklear _kazanç azalır_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ölçüm: _kontralateral OAE baskılanması_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Medial olivokoklear lifler kalın ve miyelinlidir, çoğu çapraz seyreder ve dış tüy hücrelerinde sonlanır.",
+    "Lateral olivokoklear lifler ince ve miyelinsizdir; iç tüy hücrelerinin altındaki afferent lif uçlarına bağlanır.",
+    "MOC etkinliği dış tüy hücrelerini hiperpolarize eder ve koklear amplifikatörün kazancını azaltır.",
+    "Bu etki, karşı kulağa gürültü verildiğinde OAE genliğinin azalmasıyla, yani kontralateral baskılamayla ölçülür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Kontralateral baskılama hangi lifleri yansıtır?",
+   "secenekler": [
+    "Medial olivokoklear lifler",
+    "Lateral olivokoklear lifler",
+    "Stapedius siniri",
+    "Tip II afferent lifler"
+   ],
+   "dogru": 0,
+   "aciklama": "MOC lifleri _dış tüy hücrelerini_ baskılar; OAE genliği bu yüzden azalır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Karşı kulağa gürültü verildiğinde OAE genliğinin azalması hangi liflerin etkisini yansıtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: medial olivokoklear lifler.",
+    "MOC lifleri dış tüy hücrelerinin kazancını azaltır; OAE de dış tüy hücrelerinden doğduğu için genliği küçülür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Santral vestibüler *yollar*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste işitmeden dengeye geçiyor ve santral vestibüler yolları, çekirdekleri ve beyinciği göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

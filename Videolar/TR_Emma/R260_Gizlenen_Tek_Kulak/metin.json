@@ -1,0 +1,105 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R260_Gizlenen_Tek_Kulak_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #260",
+  "baslik": "Gizlenen *tek kulak*",
+  "alt": "Çapraz kontrolle bulunan kayıp",
+  "cizim": "test_kabini",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Ses alanında normal yanıt veren çocuk iki kulağıyla da iyi mi duyar? #shorts",
+  "aciklama": "Ses alanı yanıtları iki kulağın daha iyisini yansıttığı için tek taraflı bir kayıp bu yolla görülemez: örnek on sekiz aylık çocukta VRA yanıtları normal görünürken otoakustik emisyon sağ kulakta var, sol kulakta yoktur. Çapraz kontrol bu uyumsuzluğu ortaya koyar; sonraki adım insert kulaklıkla kulağa özgü test ve gerekirse ABR'dir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "çocuk",
+   "işitme"
+  ],
+  "etiketler": [
+   "ses alanı",
+   "çapraz kontrol",
+   "VRA",
+   "otoakustik emisyon",
+   "tek taraflı işitme kaybı",
+   "pediatrik odyoloji",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Ses alanında normal yanıt veren çocuk iki kulağıyla da iyi mi duyar?",
+  "bilgiler": [
+   "Ses alanı yanıtları iki kulağın daha iyisini yansıtır.",
+   "Tek taraflı bir kayıp ses alanında gizlenebilir.",
+   "Kulağa özgü test ve OAE ile çapraz kontrol hedeflenir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "çocuk",
+   "işitme"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #260",
+   "metin": "Ses alanı normal, *iki kulak?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Ses alanında normal yanıt veren çocuk iki kulağıyla da iyi mi duyar?"
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "zincir",
+   "baslik": "*Çapraz kontrol* örneği",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "VRA",
+     "tr": "ses alanında normal",
+     "cumle": 1
+    },
+    {
+     "ad": "OAE",
+     "tr": "sağ var, sol yok",
+     "cumle": 2
+    },
+    {
+     "ad": "Sonraki adım",
+     "tr": "insert, ABR",
+     "cumle": 4
+    }
+   ],
+   "alt": "Ses alanı _iyi kulağı_ gösterir",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Ses alanı yanıtları iki kulağın daha iyisini yansıtır.",
+    "Örnek on sekiz aylık çocukta VRA yanıtları normal görünüyor.",
+    "Ancak otoakustik emisyon sağ kulakta var, sol kulakta yok.",
+    "Sol kulaktaki bir kayıp, ses alanında gizlenmiş olabilir.",
+    "Sonraki adım, insert kulaklıkla kulağa özgü test ve gerekirse ABR'dir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D163",
+ "kaynak_baslik": "Pediatrik odyolojiye giriş"
+}

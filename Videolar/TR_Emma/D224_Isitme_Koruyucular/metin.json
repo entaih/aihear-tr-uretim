@@ -1,0 +1,933 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D224_Isitme_Koruyucular_TR",
+ "kapak": {
+  "ust": "DERS 224",
+  "baslik": "İşitme<br>*koruyucular*",
+  "alt": "Tipler ve gerçek koruma",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak_yolu"
+  ]
+ },
+ "youtube": {
+  "baslik": "İşitme koruyucular: tipler ve gerçek koruma değeri | Ders 224 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kulak tıkacı mı, manşon mu? Bu derste kişisel kulak koruyucu tiplerini, NRR, SNR (tek sayı derecelendirmesi) ve HML etiket değerlerinin anlamını, etiket değerlerinin sahada neden düştüğünü, takma süresinin etkisini ve bireysel uyum testini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Berger ve ark., The Noise Manual (AIHA); NIOSH (1998), Criteria for a Recommended Standard: Occupational Noise Exposure; OSHA 29 CFR 1910.95 ve OSHA Technical Manual, Noise; EN 458, Hearing protectors: recommendations for selection, use, care and maintenance; ISO 4869-2; Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik (Resmi Gazete, 28.07.2013, sayı 28721).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmekoruma",
+   "işsağlığı"
+  ],
+  "etiketler": [
+   "işitme koruyucu",
+   "kulak tıkacı",
+   "kulak manşonu",
+   "hearing protection device",
+   "NRR",
+   "SNR",
+   "noise reduction rating",
+   "uyum testi",
+   "fit testing",
+   "gürültüye bağlı işitme kaybı",
+   "endüstriyel odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 224",
+   "baslik": "İşitme *koruyucular*",
+   "alt": "Tipler, etiket değerleri ve gerçek koruma",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste kulak tıkaçlarını ve kulak manşonlarını, ambalajdaki koruma değerlerinin ne anlama geldiğini öğreneceğiz.",
+    "Ardından bu değerlerin sahada neden düştüğünü ve bireysel uyum testinin gerçek korumayı nasıl ölçtüğünü konuşacağız."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden ve ne zaman?",
+   "baslik": "Korunmanın *sırası*",
+   "adimlar": [
+    {
+     "ikon": "is_yeri",
+     "baslik": "Kaynakta azalt",
+     "cumle": 1,
+     "metin": "Sessiz makine, yalıtım"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Yolu kes",
+     "cumle": 2,
+     "metin": "Perde, kabin, mesafe"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Süreyi kısalt",
+     "cumle": 3,
+     "metin": "Rotasyon, sessiz mola"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kişisel koruyucu",
+     "cumle": 4,
+     "metin": "Son savunma hattı"
+    }
+   ],
+   "cumleler": [
+    "Kulak koruyucu donanım (hearing protection device), kısaca HPD, gürültüden korunmada ilk değil, son basamaktır.",
+    "En etkili yol gürültüyü kaynağında azaltmaktır; daha sessiz makine seçmek ya da makineyi yalıtmak buna örnektir.",
+    "Kaynak azaltılamıyorsa sesin yolu kesilir; ses perdeleri, kapalı kabinler ve mesafeyi artırmak bu basamaktadır.",
+    "Ardından yönetsel önlemler gelir: gürültülü işte geçen süreyi kısaltmak ve sessiz molalar vermek.",
+    "Kişisel koruyucular, bu önlemlerin yetmediği yerde kalan riski azaltmak için kullanılır.",
+    "Çünkü koruyucunun etkisi tamamen kişinin onu doğru takmasına ve sürekli kullanmasına bağlıdır."
+   ]
+  },
+  {
+   "id": "yonetmelik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden ve ne zaman?",
+   "baslik": "Türkiye'de *yönetmelik*",
+   "maddeler": [
+    {
+     "metin": "_80 dB(A)_: koruyucu hazır bulundurulur",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_85 dB(A)_: kullanım sağlanır, denetlenir",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_87 dB(A)_: koruyucuyla aşılamaz",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Koruyucu kişiye tam uymalı",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "trafik",
+      "cumle": 1
+     },
+     {
+      "parca": "konser",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Türkiye'de bu konuyu Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik düzenler; yönetmelik 2013 tarihlidir.",
+    "Günlük maruziyet 80 dB(A) olan en düşük eylem değerini aşarsa işveren kulak koruyucuları çalışanların kullanımına hazır bulundurur.",
+    "Maruziyet 85 dB(A) olan en yüksek eylem değerine ulaşırsa koruyucuların kullanılmasını sağlar ve denetler.",
+    "87 dB(A) ise maruziyet sınır değeridir ve bu değer, kullanılan koruyucunun etkisi hesaba katılarak değerlendirilir.",
+    "Eylem değerlerinde ise koruyucunun etkisi dikkate alınmaz; yani önce ortamdaki gürültü ölçülür.",
+    "Yönetmelik koruyucunun riski ortadan kaldıracak ya da en aza indirecek biçimde seçilmesini ve çalışana tam uymasını ister."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Koruyucu tipleri",
+   "baslik": "Koruyucu *tipleri*",
+   "cumleler": [
+    "Kulak tıkacı (earplug), kulak yolunun içine yerleşen koruyucudur; en yaygını köpük tıkaçtır.",
+    "Önceden şekillendirilmiş hazır tıkaçlar silikon ya da benzeri malzemeden, kanatçıklı yapılır ve çoğu yıkanabilir.",
+    "Kişiye özel tıkaçlar, işitme cihazı kalıbı gibi kulak ölçüsünden üretilir; uyumu iyi ama kontrolü yine gerekir.",
+    "Kulak manşonu (earmuff), kulak kepçesini dıştan çevreleyen yastıklı kaplardan ve bir banttan oluşur.",
+    "Bantlı tıkaçlar kanal ağzını kapatır; sık girip çıkılan kısa süreli gürültüde pratiktir, koruması genellikle daha düşüktür.",
+    "Elektronik koruyucular dış sesi mikrofonla alır; sessizde konuşmayı geçirir, gürültü yükselince sınırlar."
+   ],
+   "cizim": "isitme_koruyuculari",
+   "ayar": {
+    "tipler": [
+     "kopuk",
+     "hazir",
+     "ozel",
+     "manson",
+     "bantli",
+     "elektronik"
+    ],
+    "cumleler": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ],
+    "adlar": {
+     "kopuk": "Köpük tıkaç",
+     "hazir": "Hazır tıkaç",
+     "ozel": "Kişiye özel",
+     "manson": "Kulak manşonu",
+     "bantli": "Bantlı tıkaç",
+     "elektronik": "Elektronik"
+    },
+    "aciklamalar": {
+     "kopuk": "Sıkıştırılır, kanalda genişler",
+     "hazir": "Kanatçıklı, yıkanabilir",
+     "ozel": "Kulak ölçüsünden yapılır",
+     "manson": "Kulağı dıştan kapatır",
+     "bantli": "Kısa süreli giriş çıkış",
+     "elektronik": "Düzeye bağlı, iletişimli"
+    }
+   }
+  },
+  {
+   "id": "kopuk",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Koruyucu tipleri",
+   "baslik": "Köpük tıkacı *doğru takmak*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "kopuk_tikac",
+     "metin": "kulak yolu: tıkaç derine",
+     "cumle": 3
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "metin": "kepçe yukarı ve geriye",
+     "cumle": 2
+    },
+    {
+     "parca": "sig_yerlesim",
+     "metin": "sığ: koruma düşük",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_tikac",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yuvarla: ince silindir",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Çek: kepçeyi yukarı geriye",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tut: genişleyene kadar",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Köpük tıkacın koruması, büyük ölçüde nasıl takıldığına bağlıdır.",
+    "Önce tıkaç parmaklar arasında ince, kırışıksız bir silindir olacak biçimde yavaşça yuvarlanır.",
+    "Karşı el başın üstünden geçirilip kulak kepçesi yukarı ve geriye çekilir; böylece kulak yolu düzleşir.",
+    "Tıkaç kanala derin yerleştirilir ve genişleyene kadar birkaç saniye parmakla tutulur.",
+    "İyi takılmış bir tıkacın büyük kısmı kanalın içindedir; dışarıda yalnızca küçük bir bölümü görünür.",
+    "Sığ takılmış bir tıkaç kanal ağzında kalır ve etiketteki korumanın çok altında koruma sağlar.",
+    "Kirli elle yuvarlamak kulak yolunu kirletebilir; bu yüzden eller temiz olmalıdır."
+   ],
+   "ayar": {
+    "kanal_nesnesi": "kopuk",
+    "yuvarla_cumle": 1,
+    "cek_cumle": 2,
+    "tak_cumle": 3,
+    "sig_cumle": 5
+   }
+  },
+  {
+   "id": "manson",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Koruyucu tipleri",
+   "baslik": "Manşonda *sızdırmazlık*",
+   "maddeler": [
+    {
+     "metin": "Yastık kepçeyi tam çevrelemeli",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Gözlük sapı sızıntı yaratır",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Saç, şapka, baret uyumu",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yastıklar zamanla sertleşir",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Sıcakta konfor sorunu",
+     "cumle": 4,
+     "ikon": "agri"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ARTI VE EKSİ",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Kolay takılır",
+      "cumle": 5,
+      "metin": "Denetimi kolay"
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Gözlükle sızar",
+      "cumle": 1,
+      "metin": "Sıcakta zor"
+     }
+    ]
+   },
+   "cumleler": [
+    "Manşonun koruması, yastığın kulak kepçesinin çevresinde kesintisiz bir sızdırmazlık oluşturmasına bağlıdır.",
+    "Gözlük sapları yastığın altında bir aralık bırakır ve korumayı belirgin biçimde azaltabilir.",
+    "Uzun saç, başlık ya da baretle uyumsuz bant da aynı biçimde sızıntıya yol açar.",
+    "Yastıklar ve bant zamanla sertleşir, gevşer; üreticinin önerdiği aralıklarla değiştirilmelidir.",
+    "Sıcak ortamda terleme ve ağırlık, manşonun çıkarılmasına yol açabilir; bu da etkin korumayı hızla düşürür.",
+    "Buna karşın manşonu takmak kolaydır ve uzaktan bakıldığında kullanılıp kullanılmadığı hemen görülür."
+   ]
+  },
+  {
+   "id": "etiket",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Etiket değerleri",
+   "baslik": "Etiketten *kulağa*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüyü ölç",
+     "cumle": 0,
+     "metin": "dB(A) ya da dB(C)"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Etiket değeri",
+     "cumle": 1,
+     "metin": "NRR, SNR (tek sayı), HML"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kulak düzeyi",
+     "cumle": 3,
+     "metin": "Koruyucu altında tahmin"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Hedef aralık",
+     "cumle": 4,
+     "metin": "Yaklaşık 70 ile 80 dB(A)"
+    }
+   ],
+   "cumleler": [
+    "Koruyucu seçimi, önce çalışma ortamındaki gürültünün ölçülmesiyle başlar.",
+    "Ambalajdaki tek sayılı değer, laboratuvarda ölçülmüş zayıflatmanın özetidir.",
+    "ABD'de Çevre Koruma Ajansının, kısaca EPA'nın gürültü azaltma derecesi (noise reduction rating), kısaca NRR kullanılır.",
+    "Bu değerlerle, koruyucu takılıyken kulağa ulaşan düzey tahmin edilir.",
+    "Avrupa seçim rehberleri, koruyucu altındaki düzeyin genellikle yaklaşık 70 ile 80 dB(A) arasında kalmasını hedefler.",
+    "Çok daha düşük bir düzey aşırı korumadır; uyarı seslerini ve konuşmayı kaçırmaya, koruyucuyu çıkarmaya yol açabilir."
+   ]
+  },
+  {
+   "id": "nrr_snr",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Etiket değerleri",
+   "baslik": "NRR ve *SNR*",
+   "maddeler": [
+    {
+     "metin": "NRR: ABD, C ağırlıklı düzeyle",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "dB(A) ölçümünde önce 7 çıkarılır",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SNR: Avrupa, tek sayı değeri",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "HML: tiz, orta, pes üç değer",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Laboratuvarda, deneyimli denekle",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SNR",
+    "metin": "Burada sinyal-gürültü oranı değil, *tek sayı* zayıflatma değeri",
+    "cumle": 3
+   },
+   "cumleler": [
+    "NRR, C ağırlıklı ölçülmüş gürültü düzeyinden doğrudan çıkarılacak biçimde tasarlanmıştır.",
+    "Ortam A ağırlıklı ölçülmüşse, iki ağırlıklandırma arasındaki farkı karşılamak için NRR'den önce 7 desibel çıkarılır.",
+    "Avrupa'da tek sayı derecelendirmesi (single number rating), kısaca SNR kullanılır; o da C ağırlıklı düzeyden çıkarılır.",
+    "Dikkat: buradaki SNR, sinyal-gürültü oranı değil, koruyucunun tek sayılı zayıflatma değeridir.",
+    "HML yöntemi ise tiz, orta ve pes ağırlıklı gürültüler için üç ayrı değer verir; gürültünün spektrumu hesaba katılır.",
+    "Bu değerlerin hepsi laboratuvarda, koruyucuyu çoğu zaman deneyimli kişilerin ya da deneyi yapanın taktığı koşullarda ölçülür."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Etiket değerleri",
+   "baslik": "Örnek *hesap*",
+   "sutunlar": [
+    "Adım",
+    "Değer"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ortam düzeyi",
+      "95 dB(A)"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Etiket NRR",
+      "29 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "A düzeltmesi: eksi 7",
+      "22 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Sahaya düzeltme: ikiye böl",
+      "11 dB"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Tahmini kulak düzeyi",
+      "84 dB(A)"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Bir örnekle hesaplayalım: bir atölyede ortam düzeyi 95 dB(A) olarak ölçülmüş olsun.",
+    "Kullanılacak köpük tıkacın ambalajında NRR 29 yazıyor.",
+    "Ölçüm A ağırlıklı olduğu için 29'dan 7 çıkarılır ve 22 desibel elde edilir.",
+    "ABD İş Güvenliği ve Sağlığı İdaresi, kısaca OSHA'nın rehberi, sahadaki düşüş için bu değerin ikiye bölünmesini önerir.",
+    "Sonuçta tahmini koruma 11 desibeldir ve kulağa ulaşan düzey yaklaşık 84 dB(A) olarak hesaplanır.",
+    "Etiketteki 29 sayısına bakarak 66 dB(A) beklemek, korumayı neredeyse üç kat abartmak olurdu."
+   ]
+  },
+  {
+   "id": "saha",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sahadaki koruma",
+   "baslik": "Etiket ve *saha*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Manşon",
+      "2": "Köpük tıkaç",
+      "3": "Diğer tıkaç"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 35,
+     "adim": 5,
+     "ad": "Örnek NRR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "etiket1",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        0.82,
+        25
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "etiket 25",
+      "etiket_konum": [
+       0.82,
+       25
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "saha1",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1.18,
+        19
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "yaklaşık 19",
+      "etiket_konum": [
+       1.18,
+       19
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "etiket2",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1.82,
+        32
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "etiket 32",
+      "etiket_konum": [
+       1.82,
+       32
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "saha2",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        2.18,
+        16
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "16",
+      "etiket_konum": [
+       2.18,
+       16
+      ],
+      "cumle": 3
+     },
+     {
+      "ad": "etiket3",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        2.82,
+        27
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "etiket 27",
+      "etiket_konum": [
+       2.82,
+       27
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "saha3",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        3.18,
+        8
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "yaklaşık 8",
+      "etiket_konum": [
+       3.18,
+       8
+      ],
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Etiket değeri ile sahada ölçülen koruma arasındaki fark, araştırmalarda tekrar tekrar gösterilmiştir.",
+    "Bu yüzden ABD Ulusal İş Güvenliği ve Sağlığı Enstitüsü, kısaca NIOSH, koruyucu tipine göre düzeltme önermiştir.",
+    "Manşonda etiket değerinin yüzde 25'i düşülür; yani değerin yaklaşık dörtte üçü beklenir.",
+    "Köpük gibi şekillendirilebilen tıkaçlarda değerin yarısı beklenir.",
+    "Diğer tıkaçlarda ise değerin yalnızca yaklaşık yüzde 30'u beklenir.",
+    "Ekrandaki sayılar örnektir; asıl mesaj, tıkaçlarda etiket ile saha arasındaki farkın manşondan daha büyük olabilmesidir."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sahadaki koruma",
+   "baslik": "Neden *düşüyor?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Sığ takma",
+     "cumle": 1,
+     "metin": "Tıkaç kanal ağzında kalır"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Yanlış boy",
+     "cumle": 2,
+     "metin": "Kanala göre büyük, küçük"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Çene hareketi",
+     "cumle": 3,
+     "metin": "Tıkaç zamanla gevşer"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Eğitim eksikliği",
+     "cumle": 4,
+     "metin": "Kimse göstermemiştir"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Takma süresi",
+     "cumle": 5,
+     "metin": "Ara ara çıkarılır"
+    }
+   ],
+   "cumleler": [
+    "Sahadaki düşüşün nedenleri büyük ölçüde insana ve uyuma bağlıdır.",
+    "En sık neden, tıkacın kanalın derinine değil, ağzına yerleştirilmesidir.",
+    "Kulak yolları kişiden kişiye farklıdır; tek boy tıkaç bazı kanallara büyük, bazılarına küçük gelir.",
+    "Konuşma ve çiğneme sırasında çene hareketi, tıkacı zamanla dışarı doğru kaydırabilir.",
+    "Çalışanların önemli bir kısmına koruyucunun nasıl takılacağı hiç uygulamalı olarak gösterilmemiştir.",
+    "Ve belki de en önemlisi: koruyucu gürültülü sürenin tamamında takılı değildir."
+   ]
+  },
+  {
+   "id": "sure",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sahadaki koruma",
+   "baslik": "Birkaç dakika *çok şey* değiştirir",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 50,
+     "max": 100,
+     "ad": "Takılı kalma oranı (%)",
+     "isaretler": [
+      50,
+      75,
+      90,
+      95,
+      100
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 32,
+     "adim": 5,
+     "ad": "Etkin koruma (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "etkin",
+      "noktalar": [
+       [
+        50,
+        3
+       ],
+       [
+        75,
+        6
+       ],
+       [
+        87.5,
+        9
+       ],
+       [
+        90,
+        10
+       ],
+       [
+        95,
+        13
+       ],
+       [
+        99,
+        20
+       ],
+       [
+        100,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "etiket 30 dB olan koruyucu",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "bes",
+      "x": 95,
+      "y": 13,
+      "dus": "xy",
+      "etiket": "13 dB",
+      "cumle": 2
+     },
+     {
+      "ad": "birsaat",
+      "x": 87.5,
+      "y": 9,
+      "dus": "xy",
+      "etiket": "8 saatte 1 saat çıkarıldı",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Takma süresinin etkisini bir grafikle görelim; koruyucunun etiket değeri 30 desibel olsun.",
+    "Koruyucu gürültülü sürenin tamamında takılıysa koruma 30 desibeldir.",
+    "Sürenin yalnızca yüzde 5'inde çıkarılırsa, eşit enerji ilkesine göre etkin koruma yaklaşık 13 desibele düşer.",
+    "Sekiz saatlik bir günde bir saat çıkarmak, korumayı yaklaşık 9 desibele indirir.",
+    "Yani çok güçlü ama ara ara çıkarılan bir koruyucu, rahat edilen ve sürekli takılan bir koruyucudan daha az korur.",
+    "Bu yüzden konfor ve kullanılabilirlik, etiketteki sayıdan çoğu zaman daha önemlidir."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Uyum testi",
+   "baslik": "Bireysel *uyum testi*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Eğit",
+     "cumle": 1,
+     "metin": "Takmayı uygulamalı göster"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Taktır",
+     "cumle": 2,
+     "metin": "Çalışan kendisi takar"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Ölç",
+     "cumle": 3,
+     "metin": "Kişisel zayıflatma"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Karşılaştır",
+     "cumle": 4,
+     "metin": "Gereken korumayla"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Karar",
+     "cumle": 5,
+     "metin": "Yeniden eğit ya da değiştir"
+    }
+   ],
+   "cumleler": [
+    "Gerçek korumayı tahmin etmek yerine ölçmenin yolu, bireysel uyum testidir (fit testing).",
+    "Önce çalışana koruyucunun nasıl takılacağı uygulamalı olarak gösterilir.",
+    "Ardından çalışan koruyucuyu kendisi, her gün taktığı gibi takar.",
+    "Bir yöntemde koruyuculu ve koruyucusuz eşikler karşılaştırılır; diğerinde kulak yolunun içi ve dışı mikrofonla ölçülür.",
+    "Sonuç kişisel zayıflatma değeri (personal attenuation rating) olarak verilir ve ortam için gereken korumayla karşılaştırılır.",
+    "Değer yetersizse takma tekrar eğitilir ya da o kulağa daha uygun başka bir koruyucu denenir."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Uyum testi",
+   "baslik": "Özel *durumlar*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Çift koruma",
+     "cumle": 0,
+     "metin": "Tıkaç ve manşon birlikte"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Müzisyen tıkacı",
+     "cumle": 2,
+     "metin": "Düz zayıflatma"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "İletişim",
+     "cumle": 4,
+     "metin": "Düzeye bağlı koruyucular"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İşitme kayıplı",
+     "cumle": 5,
+     "metin": "Aşırı korumaya dikkat"
+    }
+   ],
+   "cumleler": [
+    "Çok yüksek gürültüde tıkaç ve manşon birlikte kullanılabilir; buna çift koruma denir.",
+    "Ancak iki değer toplanmaz; çift koruma, daha iyi olan koruyucuya genellikle yalnızca birkaç desibel ekler.",
+    "Müzisyen tıkaçları, frekanslar arasında daha düz bir zayıflatma sağlayarak müziğin tınısını daha az bozar.",
+    "Bu tıkaçlar daha az zayıflatabilir; seçim yine maruziyet düzeyine göre yapılır.",
+    "İletişimin önemli olduğu işlerde düzeye bağlı elektronik koruyucular, konuşmayı geçirip ani yüksek sesleri sınırlar.",
+    "İşitme kaybı olan çalışanlarda aşırı koruma uyarı seslerini duymayı daha da zorlaştırabilir; seçim bireysel yapılmalıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Tıkacı çalışana taktırın, siz izleyin. Takılıyken konuşunca kendi sesi boğuk ve yüksek gelmeli; kepçe çekilince tıkaç kolayca çıkıyorsa yerleşim sığdır.",
+   "cumleler": [
+    "Sahadan bir ipucu: tıkacı siz takmayın, çalışana kendisinin takmasını isteyin ve izleyin.",
+    "İyi takılmış bir tıkaçla kişi konuştuğunda kendi sesini boğuk ve içeriden gelir gibi duyar; bu oklüzyon etkisidir.",
+    "Kendi sesi değişmiyorsa ya da tıkacın büyük kısmı dışarıda görünüyorsa yerleşim büyük olasılıkla sığdır.",
+    "Bu basit gözlem, uyum testi olmayan bir ortamda bile en sık hatayı yakalamanızı sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kişisel koruyucu son savunma hattıdır",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "NRR ve SNR laboratuvar değeridir",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Sahada koruma belirgin biçimde düşer",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Uyum testi gerçek korumayı ölçer",
+     "cumle": 3,
+     "ikon": "odyometre"
+    }
+   ],
+   "cumleler": [
+    "Kişisel koruyucular, gürültüyü kaynağında ve yolunda azaltma önlemlerinden sonra gelen son savunma hattıdır.",
+    "NRR ve SNR gibi etiket değerleri laboratuvarda ölçülür ve doğrudan sahaya taşınamaz.",
+    "Sığ takma, yanlış boy ve ara ara çıkarma, gerçek korumayı etiket değerinin çok altına indirebilir.",
+    "Bireysel uyum testi, kişinin kendi kulağındaki korumayı ölçer ve eğitimle birlikte en güvenilir yaklaşımdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Etiket değeri 30 dB olan bir koruyucu 8 saatin 1 saatinde çıkarılırsa etkin koruma yaklaşık ne olur?",
+   "secenekler": [
+    "Yaklaşık 26 dB",
+    "Yaklaşık 9 dB",
+    "Yaklaşık 20 dB",
+    "Değişmez"
+   ],
+   "dogru": 1,
+   "aciklama": "Eşit enerji ilkesinde kısa korumasız süre bile dozu belirler: _yaklaşık 9 dB_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: etiket değeri 30 desibel olan bir koruyucu, sekiz saatlik bir günün bir saatinde çıkarılırsa etkin koruma ne olur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yaklaşık 9 desibel.",
+    "Korumasız geçen bir saat, günün toplam dozunun büyük kısmını oluşturur; bu yüzden sürekli kullanım, yüksek etiket değerinden önemlidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İş yerinde *odyometrik izlem* ve eşik kayması",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iş yerinde başlangıç odyogramını, periyodik testleri ve standart eşik kaymasını inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

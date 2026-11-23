@@ -1,0 +1,119 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R336_On_Desibellik_Kayma_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #336",
+  "baslik": "Üç frekans, *10 desibel*",
+  "alt": "Standart eşik kayması (STS)",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      5,
+      5,
+      10,
+      20,
+      30,
+      35,
+      25,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İş yerindeki işitme izleminde hangi değişiklik alarm sayılır? #shorts",
+  "aciklama": "ABD'deki OSHA tanımına göre standart eşik kayması (STS), 2000, 3000 ve 4000 Hz ortalamasında başlangıç odyogramına göre 10 dB ya da daha fazla kötüleşmedir. Örnekte farklar 10, 15 ve 15 dB, ortalama yaklaşık 13 dB; kayma tekrar testle doğrulanır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "gürültü",
+   "işsağlığı"
+  ],
+  "etiketler": [
+   "standart eşik kayması",
+   "STS",
+   "başlangıç odyogramı",
+   "odyometrik izlem",
+   "OSHA",
+   "işitme koruma programı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İş yerindeki işitme izleminde hangi değişiklik alarm sayılır?",
+  "bilgiler": [
+   "STS yalnız 2, 3 ve 4 kHz'e bakar.",
+   "Ortalamada 10 dB ya da daha fazla kötüleşme kayma sayılır.",
+   "Kayma tek ölçümle değil, tekrar testle doğrulanır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "gürültü",
+   "işsağlığı"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #336",
+   "metin": "Ne zaman *alarm?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İş yerindeki işitme izleminde hangi değişiklik alarm sayılır?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "*2, 3 ve 4 kHz* ortalaması",
+   "sayi": "10",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "ABD'deki OSHA tanımı, standart eşik kayması için yalnız üç frekansa bakar.",
+    "Bunlar iki, üç ve dört bin hertzdir; gürültü hasarı önce burada görünür.",
+    "Başlangıca göre ortalama on desibel ya da fazla kötüleşme kayma sayılır.",
+    "Örnekte farklar on, on beş ve on beş; ortalama yaklaşık on üç.",
+    "Kayma tekrar testle doğrulanır; tek bir ölçümle karar verilmez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D225",
+ "kaynak_baslik": "Odyometrik izlem ve eşik kayması"
+}

@@ -1,0 +1,118 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R020_Eksi_Desibel_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #20",
+  "baslik": "*Eksi* desibel duymak",
+  "alt": "Sıfır dB HL bir ortalamadır",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      0,
+      -5,
+      -5,
+      -10,
+      0,
+      5
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      5,
+      0,
+      -5,
+      -5,
+      5,
+      10
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Eksi desibelde ses duyulabilir mi? #shorts",
+  "aciklama": "Sıfır dB HL, normal işiten genç yetişkinlerin ortalama eşiğidir. Bu yüzden bazı kişilerin eşikleri eksi 5 ya da eksi 10 dB HL çıkabilir; bu, kişinin ortalamadan biraz daha duyarlı olduğunu gösterir. Görseldeki odyogram örnektir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "desibel",
+   "odyogram"
+  ],
+  "etiketler": [
+   "dB HL",
+   "eksi desibel",
+   "işitme eşiği",
+   "odyogram",
+   "desibel",
+   "işitme testi",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Eksi desibelde ses duyulur mu?",
+  "bilgiler": [
+   "Sıfır dB HL, normal işiten genç yetişkinlerin ortalama eşiğidir.",
+   "Bu yüzden bazı eşikler eksi 5 ya da eksi 10 dB HL çıkabilir.",
+   "Eksi değer, kişinin ortalamadan biraz daha duyarlı olduğunu gösterir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "desibel",
+   "odyogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #20",
+   "metin": "Eksi desibelde *ses duyulur mu?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Eksi desibelde ses duyulur mu?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Bazı eşikler *eksi on* dB HL",
+   "sayi": "-10",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Sıfır desibel HL, normal işiten genç yetişkinlerin ortalama eşiğidir.",
+    "Sıfır bir ortalama olduğu için bazı eşikler eksi on çıkabilir.",
+    "Eksi değer, sesin olmadığı anlamına gelmez.",
+    "Kişinin ortalamadan biraz daha duyarlı olduğunu gösterir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D038",
+ "kaynak_baslik": "dB SPL, dB HL ve dB SL"
+}

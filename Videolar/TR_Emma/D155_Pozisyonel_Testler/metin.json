@@ -1,0 +1,829 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D155_Pozisyonel_Testler_TR",
+ "kapak": {
+  "ust": "DERS 155",
+  "baslik": "Dix-Hallpike ve<br>*supine roll*",
+  "alt": "Pozisyonel nistagmusu yorumlamak",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Pozisyonel Testler: Dix-Hallpike ve Supine Roll | Ders 155 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Pozisyonel testleri, yani arka kanal için Dix-Hallpike manevrasını ve lateral kanal için supine roll testini anlatıyoruz. Nistagmusun yönü, latansı ve süresinin nasıl yorumlandığını, geotropik ve apogeotropik nistagmusu ve santral uyarı işaretlerini ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; von Brevern ve ark., Benign Paroxysmal Positional Vertigo: Diagnostic Criteria, Journal of Vestibular Research (2015); AAO-HNS, Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (2017).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vertigo",
+   "BPPV"
+  ],
+  "etiketler": [
+   "Dix-Hallpike",
+   "supine roll test",
+   "pozisyonel test",
+   "positional nystagmus",
+   "pozisyonel nistagmus",
+   "BPPV",
+   "geotropik nistagmus",
+   "apogeotropik nistagmus",
+   "vestibüler değerlendirme",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 155",
+   "baslik": "Pozisyonel *testler*",
+   "alt": "Dix-Hallpike ve supine roll",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste pozisyonel testleri, yani Dix-Hallpike manevrasını ve supine roll testini öğreneceğiz.",
+    "Testlerin nasıl yapıldığını ve nistagmusun yönü, latansı ve süresinin nasıl yorumlandığını ele alacağız."
+   ]
+  },
+  {
+   "id": "temel",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Pozisyonel testler *neden* yapılır?",
+   "maddeler": [
+    {
+     "metin": "Baş pozisyonuyla tetiklenen _vertigo_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "En sık neden: _BPPV_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Amaç: _hangi kanal_, hangi taraf",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Gözlem: _nistagmusun_ özellikleri",
+     "cumle": 4,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 3,
+    "etiketler": [
+     {
+      "parca": "posterior_kanal",
+      "metin": "arka kanal",
+      "cumle": 3
+     },
+     {
+      "parca": "lateral_kanal",
+      "metin": "lateral kanal",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Yatağa yatarken, yatakta dönerken ya da yukarı bakarken başlayan kısa dönme hissi, pozisyonel vertigonun tipik öyküsüdür.",
+    "Bu yakınmanın en sık nedeni benign paroksismal pozisyonel vertigo, kısaca BPPV'dir.",
+    "BPPV ilerideki bir derste ayrıntılı ele alınacak; bu derste odak, onu ortaya çıkaran testlerdir.",
+    "Pozisyonel testlerle hangi yarım daire kanalının ve hangi tarafın etkilendiği belirlenmeye çalışılır.",
+    "Bunun için baş belirli bir kanal düzleminde hızla hareket ettirilir ve gözlerde ortaya çıkan nistagmus izlenir."
+   ]
+  },
+  {
+   "id": "otokonya",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "*Otokonyalar* kanala kaçınca",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utrikül: otokonyaların yeri",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "Arka kanal: en sık tutulum",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampulla ve kupula",
+     "cumle": 3
+    },
+    {
+     "parca": "lateral_kanal",
+     "metin": "Lateral kanal",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lateral kanal daha az, ön kanal nadir",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Utrikülde bulunan kalsiyum karbonat kristalleri, yani otokonyalar, halk arasındaki adıyla kulak taşları yerinden kopabilir.",
+    "Kopan parçacıklar bir yarım daire kanalına girdiğinde, baş hareketiyle kanal içinde yer çekimi yönünde kayarlar.",
+    "Ayakta ve yatarken en alçakta kalan kanal arka kanal olduğu için en sık tutulan kanal da odur.",
+    "Parçacıkların hareketi endolenfi sürükler, ampulladaki kupulayı saptırır ve kısa süreli bir nistagmus oluşturur.",
+    "Lateral kanal daha az, ön kanal ise oldukça nadir tutulur.",
+    "Parçacıklar bazen kanal içinde serbest dolaşır, bazen de kupulaya yapışır; bu iki mekanizmayı birazdan ayıracağız."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "Teste *hazırlık*",
+   "maddeler": [
+    {
+     "metin": "Öykü: _hangi hareketle_, ne kadar süre",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Önce _kendiliğinden_ nistagmus kontrolü",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Video ya da _Frenzel_ gözlüğü",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Güvenli masa ve _yardımcı_",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    "Testten önce öykü alınır; dönme hissinin hangi hareketle başladığı ve ne kadar sürdüğü sorulur.",
+    "Pozisyonel testlerden önce oturur ve sırtüstü pozisyonda kendiliğinden bir nistagmus olup olmadığına bakılır.",
+    "Video gözlük ya da Frenzel gözlüğü kullanılır; çünkü görsel fiksasyon periferik kaynaklı nistagmusu baskılar.",
+    "Hastanın başını güvenle destekleyecek bir masa ve gerekirse yardımcı bir kişi hazır bulundurulur.",
+    "Video gözlük kullanılacaksa hastanın gözlüğü çıkarılır ve kamera görüntüsünün net olduğu kontrol edilir.",
+    "Bulantı olasılığına karşı hastaya önceden bilgi verilir ve yanında bir kap bulundurulur."
+   ]
+  },
+  {
+   "id": "dix_hallpike",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "*Dix-Hallpike* nasıl yapılır?",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Oturur",
+     "metin": "Baş 45 derece test kulağına",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Hızla sırtüstü",
+     "metin": "Baş yaklaşık 20 derece geride",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Gözlem",
+     "metin": "En az 30 saniye",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Oturur pozisyon",
+     "metin": "Gözler yeniden izlenir",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Diğer taraf",
+     "metin": "Aynı adımlar tekrarlanır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Dix-Hallpike manevrası, arka kanal BPPV'sini göstermek için kullanılan standart testtir.",
+    "Hasta muayene masasında oturur ve başı test edilecek kulak tarafına yaklaşık kırk beş derece çevrilir.",
+    "Ardından hasta hızla sırtüstü yatırılır; baş masanın kenarından yaklaşık yirmi derece geriye sarkar.",
+    "Bu pozisyonda gözler en az otuz saniye, nistagmus görülürse yanıt bitene kadar izlenir.",
+    "Sonra hasta yavaşça oturtulur ve gözler yeniden izlenir; bu sırada ters yönde bir nistagmus görülebilir.",
+    "Aynı işlem diğer kulak için tekrarlanır; aşağıda kalan kulak, test edilen kulaktır."
+   ]
+  },
+  {
+   "id": "kirk_bes",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "Baş neden *45 derece?*",
+   "cizim": "kanal_duzlemleri",
+   "vurgula": [
+    {
+     "parca": "donus",
+     "cumle": 0
+    },
+    {
+     "parca": "sag_arka_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "hareket_duzlemi",
+     "cumle": 2
+    },
+    {
+     "parca": "larp",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "45 derece: arka kanal hareket düzleminde",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Sağ arka ile sol ön kanal aynı düzlemde",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sag_arka_kanal",
+     "metin": "Sağ arka kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "hareket_duzlemi",
+     "metin": "Başın hareket düzlemi",
+     "cumle": 1
+    },
+    {
+     "parca": "sol_on_kanal",
+     "metin": "Sol ön kanal",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Başın kırk beş derece çevrilmesinin bir nedeni vardır.",
+    "Bu dönüşle test edilen taraftaki arka kanal, başın öne arkaya hareket ettiği düzleme yaklaşık olarak hizalanır.",
+    "Böylece baş geriye yatırıldığında, aşağıda kalan kulağın arka kanalındaki parçacıklar yer çekimiyle kanal boyunca hareket eder.",
+    "Sağ arka kanal ile sol ön kanal aynı düzlemde olduğu için, ön kanal tutulumu da bu testte ortaya çıkabilir.",
+    "Manevranın hızlı yapılması, parçacıkların harekete geçmesi ve yanıtın belirginleşmesi için önemlidir."
+   ],
+   "ayar": {
+    "donus": 45,
+    "donus_cumle": 0,
+    "goster": [
+     "larp"
+    ],
+    "cift_cumleleri": {
+     "larp": 3
+    }
+   }
+  },
+  {
+   "id": "arka_kanal",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "Arka kanal *yanıtı*",
+   "maddeler": [
+    {
+     "metin": "_Latans_: bir ile birkaç saniye",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Yön: _yukarı vuran_ ve torsiyonel",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Üst kutup _aşağıdaki kulağa_ vurur",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Süre: genellikle _1 dakikadan kısa_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Oturunca ters yön, tekrarla _yorulma_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Arka kanal kanalolitiazisinde nistagmus, pozisyon alındıktan sonra genellikle bir ile birkaç saniyelik bir gecikmeyle başlar.",
+    "Nistagmusun hızlı fazı yukarı, yani alına doğru vurur ve buna torsiyonel bir bileşen eşlik eder.",
+    "Torsiyonel bileşende gözün üst kutbu, aşağıda kalan kulağa doğru vurur.",
+    "Yanıt genellikle bir dakikadan kısa sürer; şiddeti önce artar, sonra azalır.",
+    "Hasta oturtulduğunda nistagmus kısa süre ters yönde görülebilir; test tekrarlandıkça yanıtın zayıflamasına yorulma denir.",
+    "Bu özelliklerin birlikte görülmesi, o taraftaki arka kanal tutulumunun tipik tablosudur."
+   ]
+  },
+  {
+   "id": "yorum_olcutleri",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "Yanıtı *yorumlamak*",
+   "sutunlar": [
+    "Özellik",
+    "Tipik arka kanal",
+    "Dikkat gerektiren"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Latans",
+      "Birkaç saniye",
+      "Hiç latans yok"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Süre",
+      "1 dakikadan kısa",
+      "Kalıcı, sönmeyen"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Yön",
+      "Yukarı ve torsiyonel",
+      "Saf aşağı vuran"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Vertigo",
+      "Nistagmusla birlikte",
+      "Nistagmus var, vertigo yok"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Tekrar",
+      "Yorulur",
+      "Yorulmaz"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Yorumda önce latansa bakılır; tipik yanıtta birkaç saniyelik latans vardır, hemen başlayan nistagmus dikkat gerektirir.",
+    "Sonra süreye bakılır; bir dakikayı aşan ve sönmeyen nistagmus kanalolitiazis dışı nedenleri düşündürür.",
+    "Yöne bakılır; torsiyonu olmayan saf aşağı vuran nistagmus santral nedenler açısından önemlidir.",
+    "Vertigo ile nistagmusun uyumuna bakılır; belirgin nistagmusa rağmen hiç baş dönmesi olmaması alışılmadık bir durumdur.",
+    "Son olarak tekrara bakılır; tipik yanıt tekrarla zayıflar, santral nistagmus ise genellikle değişmez.",
+    "Bu ölçütler yol göstericidir; tanı ve tedavi kararı hekimin sorumluluğundadır."
+   ]
+  },
+  {
+   "id": "guvenlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dix-Hallpike",
+   "baslik": "*Güvenlik* ve alternatifler",
+   "maddeler": [
+    {
+     "metin": "Boyun ve sırt sorunlarını _sorgula_",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Damar ve kalp sorunlarında _dikkat_",
+     "cumle": 1,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Alternatif: _yan yatış_ testi",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Test sonrası _hemen_ ayağa kaldırma",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Teste başlamadan önce boyun, sırt ve bel sorunları mutlaka sorgulanır.",
+    "Ciddi boyun hastalığı ya da bazı damar ve kalp sorunları gibi durumlarda hekimle birlikte karar verilir.",
+    "Boynunu geriye atamayan hastalarda yan yatış testi, arka kanalı benzer biçimde değerlendirmek için kullanılabilir.",
+    "Bu testte hasta oturur, başı karşı tarafa kırk beş derece çevrilir ve test edilen kulak tarafına hızla yan yatırılır.",
+    "Test sonrasında hasta hemen ayağa kaldırılmaz; dengesi yerine gelene kadar oturarak beklemesi istenir."
+   ]
+  },
+  {
+   "id": "supine_roll",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Supine roll",
+   "baslik": "*Supine roll* testi",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sırtüstü",
+     "metin": "Baş yaklaşık 30 derece önde",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Bir yana",
+     "metin": "Baş hızla 90 derece",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Ortaya dönüş",
+     "metin": "Yanıt sönünce",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Diğer yana",
+     "metin": "Yanıtlar karşılaştırılır",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Supine roll testi, yani sırtüstü baş çevirme testi, lateral kanal BPPV'sini değerlendirmek için kullanılır.",
+    "Hasta sırtüstü yatar ve başı yaklaşık otuz derece öne eğilir; böylece lateral kanallar dikey düzleme yaklaşır.",
+    "Baş hızla bir tarafa yaklaşık doksan derece çevrilir ve gözler izlenir.",
+    "Yanıt sönünce baş ortaya getirilir ve kısa bir süre beklenir.",
+    "Ardından baş diğer tarafa çevrilir ve iki taraftaki yanıtlar karşılaştırılır.",
+    "Bu testte nistagmus yataydır ve her iki yöne dönüşte de ortaya çıkabilir; yorum iki taraf arasındaki farka dayanır."
+   ]
+  },
+  {
+   "id": "geotropik",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Supine roll",
+   "baslik": "*Geotropik* ve apogeotropik",
+   "sol": {
+    "ust": "Geotropik",
+    "maddeler": [
+     {
+      "metin": "Alttaki kulağa, yere doğru",
+      "cumle": 1
+     },
+     {
+      "metin": "Çoğunlukla kanalolitiazis",
+      "cumle": 2
+     },
+     {
+      "metin": "Güçlü yanıtlı taraf etkilenen",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Apogeotropik",
+    "maddeler": [
+     {
+      "metin": "Üstteki kulağa, yerden uzağa",
+      "cumle": 3
+     },
+     {
+      "metin": "Kupulolitiazis ya da kupulaya yakın parçacık",
+      "cumle": 4
+     },
+     {
+      "metin": "Zayıf yanıtlı taraf etkilenen",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Lateral kanal tutulumunda baş hangi yana çevrilirse çevrilsin, yön değiştiren yatay bir nistagmus görülür.",
+    "Nistagmus her iki yanda da alttaki kulağa, yani yere doğru vuruyorsa buna geotropik nistagmus denir.",
+    "Geotropik tip çoğunlukla kanalolitiazise bağlıdır ve nistagmusun daha güçlü olduğu taraf genellikle etkilenen taraftır.",
+    "Nistagmus her iki yanda da üstteki kulağa, yani yerden uzağa vuruyorsa apogeotropik nistagmus söz konusudur.",
+    "Apogeotropik tip kupulolitiazis ya da kupulaya yakın parçacıklarla ilişkilidir ve zayıf yanıtlı taraf genellikle etkilenen taraftır.",
+    "Bu ters ilişki Ewald'ın ikinci yasasıyla açıklanır: lateral kanalda ampullaya doğru akım, ters akımdan daha güçlü yanıt oluşturur."
+   ]
+  },
+  {
+   "id": "kupulolitiazis",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Supine roll",
+   "baslik": "Süre ve *mekanizma*",
+   "maddeler": [
+    {
+     "metin": "Kanalolitiazis: _1 dakikadan kısa_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Kupulolitiazis: _sürekli_ nistagmus",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Kupulolitiazis: latans _kısa ya da yok_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Tipler arası _geçiş_ olabilir",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "ampulla",
+      "metin": "kupula ampullada",
+      "cumle": 1
+     },
+     {
+      "parca": "lateral_kanal",
+      "metin": "kanal içinde serbest",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "ampulla",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Kanalolitiazis tipinde parçacıklar kanal içinde serbest hareket eder; bu yüzden nistagmus kısa sürer ve söner.",
+    "Kupulolitiazis tipinde parçacıklar kupulaya yapıştığı için kupula ağırlaşır ve pozisyon korundukça nistagmus da sürer.",
+    "Bu tipte latans çoğu zaman kısadır ya da hiç yoktur; nistagmus bir dakikadan uzun sürebilir.",
+    "Süre ve latans bu yüzden yalnız kanalı değil, olası mekanizmayı da anlamaya yardım eder.",
+    "Parçacıkların yeri zamanla değişebildiği için tipler arasında geçiş görülebilir; bu yüzden kontrol testleri önemlidir."
+   ]
+  },
+  {
+   "id": "kanal_ozet",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve uyarılar",
+   "baslik": "Kanallara göre *özet*",
+   "sutunlar": [
+    "Kanal",
+    "Test",
+    "Tipik nistagmus"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Arka kanal",
+      "Dix-Hallpike",
+      "Yukarı ve torsiyonel"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Lateral kanal",
+      "Supine roll",
+      "Yatay, yön değiştiren"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Ön kanal",
+      "Dix-Hallpike",
+      "Aşağı ve torsiyonel"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Arka kanal tutulumunda Dix-Hallpike ile yukarı vuran ve torsiyonel nistagmus beklenir.",
+    "Lateral kanal tutulumunda supine roll testiyle yatay ve yön değiştiren nistagmus görülür.",
+    "Nadir görülen ön kanal tutulumunda aşağı vuran ve torsiyonel bileşenli bir nistagmus ortaya çıkar.",
+    "Aşağı vuran nistagmus santral nedenlerle de görülebildiği için ön kanal yorumu özellikle dikkat ister.",
+    "Lateral kanal tutulumu olan bir hastada Dix-Hallpike sırasında da yatay nistagmus görülebilir.",
+    "Bu nedenle iki test çoğu zaman birlikte yapılır ve sonuçlar bir arada yorumlanır."
+   ]
+  },
+  {
+   "id": "santral",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve uyarılar",
+   "baslik": "*Santral* uyarı işaretleri",
+   "maddeler": [
+    {
+     "metin": "Saf _aşağı vuran_, torsiyonsuz nistagmus",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Latanssız, _sönmeyen_, yorulmayan nistagmus",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Kanal düzlemine _uymayan_ yön",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Eşlik eden _nörolojik_ bulgular",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Düzelmeyen, _sık tekrarlayan_ tablo",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Torsiyonel bileşeni olmayan saf aşağı vuran pozisyonel nistagmus, beyin sapı ya da serebellum sorunlarını akla getirmelidir.",
+    "Latansı olmayan, pozisyon korundukça sönmeyen ve tekrarlarla yorulmayan nistagmus da dikkat gerektirir.",
+    "Uyarılan kanalın düzlemiyle açıklanamayan bir nistagmus yönü, periferik bir nedenle uyumlu değildir.",
+    "Baş ağrısı, çift görme, konuşma bozukluğu ya da koordinasyon kaybı gibi bulgular acil hekim değerlendirmesi gerektirir.",
+    "Repozisyon manevralarına rağmen düzelmeyen ya da sık tekrarlayan tablolar da hekime yönlendirilmelidir.",
+    "Bu durumlarda odyoloğun görevi, gözlemini ayrıntılı kaydetmek ve hastayı vakit kaybetmeden hekime yönlendirmektir."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve uyarılar",
+   "baslik": "Bulguları *kaydetmek*",
+   "maddeler": [
+    {
+     "metin": "Test, taraf ve _pozisyon_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Latans, yön ve _süre_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Ters yön yanıtı ve _yorulma_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Vertigo ve _bulantı_ eşliği",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "Her pozisyonel test için hangi testin hangi tarafa yapıldığı açıkça kaydedilir.",
+    "Nistagmusun latansı, yönü, torsiyonel bileşeni ve süresi ayrı ayrı yazılır.",
+    "Oturur pozisyona dönüşte ters yön yanıtı ve tekrarla yorulma olup olmadığı da belirtilir.",
+    "Hastanın test sırasında vertigo ve bulantı yaşayıp yaşamadığı not edilir.",
+    "Video kaydı varsa rapora eklenir; böylece hekim ve sonraki değerlendirmeyi yapan kişi aynı görüntüyü inceleyebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Dix-Hallpike'ta yatay nistagmus görürseniz supine roll testini ekleyin; tablo lateral kanal tutulumuna ait olabilir.",
+   "cumleler": [
+    "Bir klinik ipucu: Dix-Hallpike sırasında torsiyonel değil de yatay bir nistagmus görürseniz testi bitmiş saymayın.",
+    "Bu tablo lateral kanal tutulumunun bir işareti olabilir; supine roll testini ekleyin.",
+    "Ayrıca testleri arka arkaya çok hızlı tekrarlamayın; yorulma nedeniyle ikinci testte yanıt kaybolabilir.",
+    "Mümkünse yanıtı video gözlükle kaydedin; kayıt, yön ve süreyi sonradan dikkatle incelemenizi sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Arka kanal: _Dix-Hallpike_",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Yukarı vuran, torsiyonel, _kısa_ nistagmus",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Lateral kanal: _supine roll_",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Santral işaretlerde _hekime yönlendir_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Dix-Hallpike manevrası arka kanalı, supine roll testi ise lateral kanalı değerlendirir.",
+    "Arka kanal tutulumunda latanslı, yukarı vuran, torsiyonel ve bir dakikadan kısa süren nistagmus görülür.",
+    "Lateral kanalda geotropik ya da apogeotropik yatay nistagmus görülür; taraf, iki yan karşılaştırılarak belirlenir.",
+    "Latanssız, sönmeyen ya da saf aşağı vuran nistagmus santral nedenler açısından hekime yönlendirme gerektirir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sağ Dix-Hallpike: latanslı, yukarı vuran, torsiyonel, kısa nistagmus. Hangi kanal?",
+   "secenekler": [
+    "Sağ arka kanal",
+    "Sol arka kanal",
+    "Sağ lateral kanal",
+    "Sol ön kanal"
+   ],
+   "dogru": 0,
+   "aciklama": "Aşağıda kalan kulak test edilir; yukarı vuran torsiyonel nistagmus _arka kanalı_ gösterir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sağ Dix-Hallpike'ta latanslı, yukarı vuran, torsiyonel ve kısa nistagmus hangi kanalı düşündürür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: sağ arka kanal.",
+    "Dix-Hallpike'ta aşağıda kalan kulak test edilir ve yukarı vuran torsiyonel nistagmus arka kanalı gösterir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*VNG* ve ENG nedir?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste göz hareketlerinin nasıl kaydedildiğini, yani VNG ve ENG yöntemlerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

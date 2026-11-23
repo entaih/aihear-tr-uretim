@@ -1,0 +1,830 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D025_Corti_Organi_TR",
+ "kapak": {
+  "ust": "DERS 25",
+  "baslik": "*Corti*<br>organı",
+  "alt": "İç ve dış tüy hücreleri",
+  "cizim": "corti"
+ },
+ "youtube": {
+  "baslik": "Corti Organı: İç ve Dış Tüy Hücreleri | Ders 25 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kokleanın duyu organı olan Corti organını inceliyoruz. İç ve dış tüy hücrelerinin sayısını, yapısını ve görevlerini, stereosilleri, tektoryal membranı, destek hücrelerini ve sinir bağlantısındaki farkları OAE ve ABR ile ilişkisiyle anlatıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Hall, Handbook of Otoacoustic Emissions; Joint Committee on Infant Hearing, Year 2019 Position Statement.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklea",
+   "anatomi"
+  ],
+  "etiketler": [
+   "Corti organı",
+   "organ of Corti",
+   "iç tüy hücreleri",
+   "dış tüy hücreleri",
+   "inner hair cells",
+   "outer hair cells",
+   "tektoryal membran",
+   "stereosil",
+   "prestin",
+   "otoakustik emisyon",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 25",
+   "baslik": "*Corti* organı",
+   "alt": "İç ve dış tüy hücreleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste kokleanın asıl duyu organı olan Corti organını inceleyeceğiz.",
+    "İç ve dış tüy hücrelerini, tektoryal membranı, destek hücrelerini ve sinir bağlantılarındaki farkları öğreneceğiz."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Corti organına giriş",
+   "baslik": "Corti organı *nerede?*",
+   "cizim": "koklea_kesit",
+   "vurgula": [
+    {
+     "parca": "scala_media",
+     "cumle": 0
+    },
+    {
+     "parca": "corti_organi",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "baziler_membran",
+     "metin": "Baziler membran",
+     "cumle": 1
+    },
+    {
+     "parca": "corti_organi",
+     "metin": "Corti organı (organ of Corti)",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "1851: Alfonso Corti",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "corti_organi",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Önceki derste kokleanın ortadaki odacığı olan scala mediayı tanımıştık.",
+    "Scala medianın tabanını oluşturan baziler membranın üzerinde, koklea boyunca uzanan bir hücre şeridi bulunur.",
+    "Bu yapıya Corti organı (organ of Corti) denir.",
+    {
+     "yazi": "Adını, onu 1851'de ayrıntılı olarak tanımlayan İtalyan anatomist Alfonso Corti'den alır.",
+     "ses": "Adını, onu bin sekiz yüz elli birde ayrıntılı olarak tanımlayan İtalyan anatomist Alfonso Corti'den alır."
+    },
+    "Corti organı, baziler membranın mekanik titreşimini sinir sinyaline çeviren asıl duyu organıdır.",
+    "Tüm koklea boyunca, tabandan tepeye kadar kesintisiz uzanır."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Corti organına giriş",
+   "baslik": "Corti organının *bileşenleri*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "baziler_membran",
+     "metin": "Baziler membran",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "İç tüy hücresi",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Dış tüy hücreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "Membrana tectoria (tektoryal membran)",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_hucreleri",
+     "metin": "Destek hücreleri",
+     "cumle": 4
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Sinir lifleri",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Corti organını bir kesitte inceleyelim; en altta baziler membran yer alır.",
+    "Modiolusa yakın iç tarafta tek sıra halinde iç tüy hücreleri (inner hair cells) bulunur.",
+    "Dış tarafta ise genellikle üç sıra halinde dış tüy hücreleri (outer hair cells) dizilir.",
+    "Tüy hücrelerinin üzerini membrana tectoria, yani tektoryal membran örter.",
+    "Tüy hücreleri, onları taşıyan ve şeklini koruyan çeşitli destek hücreleriyle çevrilidir.",
+    "Tüy hücrelerinin tabanına ise işitme sinirinin lifleri ulaşır."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İç ve dış tüy hücreleri",
+   "baslik": "İç ve dış *tüy hücreleri*",
+   "sutunlar": [
+    "Özellik",
+    "İç tüy hücresi",
+    "Dış tüy hücresi"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sıra sayısı",
+      "1 sıra",
+      "Genellikle 3 sıra"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Sayı (yaklaşık)",
+      "3.500",
+      "12.000"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Şekil",
+      "Armut biçimli",
+      "Silindir biçimli"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Afferent lif payı",
+      "Yaklaşık %95",
+      "Yaklaşık %5"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Ana görev",
+      "Duyusal iletim",
+      "Yükseltme, ayar"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İki tüy hücresi türünü bir tabloda karşılaştıralım.",
+    "İç tüy hücreleri tek sıra, dış tüy hücreleri ise genellikle üç sıra halinde dizilir.",
+    "Her kokleada yaklaşık üç bin beş yüz iç ve yaklaşık on iki bin dış tüy hücresi bulunur.",
+    "İç tüy hücreleri armut ya da şişe biçimli, dış tüy hücreleri ise uzun ve silindir biçimlidir.",
+    "İşitme sinirinin beyne bilgi taşıyan liflerinin yaklaşık yüzde doksan beşi iç tüy hücrelerine bağlanır.",
+    "Bu yüzden iç tüy hücreleri asıl duyu hücreleri, dış tüy hücreleri ise yükseltici ve ayar hücreleri olarak düşünülür.",
+    "Yani sayıca az olan iç tüy hücreleri, beyne giden bilginin neredeyse tamamını taşır."
+   ]
+  },
+  {
+   "id": "ic_tuy",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İç ve dış tüy hücreleri",
+   "baslik": "İç tüy hücreleri: *duyu hücresi*",
+   "maddeler": [
+    {
+     "metin": "_İç tüy hücreleri_ (inner hair cells)",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Her hücreye _birden çok_ tip I lif",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Stereosiller: _düze yakın_ dizilim",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tektoryal membrana _gömülü değil_",
+     "cumle": 5,
+     "ikon": "dokunma"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ic_tuy_hucresi",
+      "cumle": 0
+     },
+     {
+      "parca": "sinir_lifleri",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ic_tuy_hucresi",
+      "metin": "İç tüy hücresi",
+      "cumle": 0
+     },
+     {
+      "parca": "tektoryal_membran",
+      "metin": "Tektoryal membran",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "İç tüy hücreleri, işitmenin asıl alıcılarıdır.",
+    "Baziler membranın titreşimini sinirsel sinyale çeviren ve beyne ileten temel hücrelerdir.",
+    {
+     "yazi": "Her iç tüy hücresine birden çok tip I sinir lifi bağlanır; insanda bu sayı ortalama yaklaşık ondur.",
+     "ses": "Her iç tüy hücresine birden çok tip bir sinir lifi bağlanır; insanda bu sayı ortalama yaklaşık ondur."
+    },
+    "Bu lifler farklı eşiklere sahiptir; bu, geniş bir şiddet aralığının kodlanmasına yardım eder.",
+    "Tepelerindeki stereosiller hafif kavisli, düze yakın sıralar halinde dizilir.",
+    "İç tüy hücrelerinin stereosilleri tektoryal membrana sıkıca gömülü değildir; çevredeki sıvının hareketiyle eğilir."
+   ]
+  },
+  {
+   "id": "dis_tuy",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İç ve dış tüy hücreleri",
+   "baslik": "Dış tüy hücreleri: *yükseltici*",
+   "maddeler": [
+    {
+     "metin": "_Dış tüy hücreleri_ (outer hair cells)",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Elektromotilite_: boy değiştirme",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Motor protein: _prestin_",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Kazanç: yaklaşık _40 ile 50 dB_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "cumle": 0
+     },
+     {
+      "parca": "tektoryal_membran",
+      "cumle": 5
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "metin": "Dış tüy hücreleri",
+      "cumle": 0
+     },
+     {
+      "parca": "tektoryal_membran",
+      "metin": "Tektoryal membran",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Dış tüy hücreleri sayıca fazladır ama beyne çok az bilgi taşır; asıl görevleri farklıdır.",
+    "Bu hücreler uyarıldıklarında boylarını hızla kısaltıp uzatabilir; bu özelliğe elektromotilite denir.",
+    "Bu hareketi, hücre zarındaki prestin adlı motor protein sağlar.",
+    "Hareket, baziler membranın titreşimini zayıf seslerde güçlendirir ve frekans ayarını keskinleştirir.",
+    "Bu mekanizmaya koklear amplifikatör denir ve yaklaşık kırk ile elli desibellik bir kazanç sağlar.",
+    "Dış tüy hücrelerinin en uzun stereosilleri tektoryal membrana gömülüdür; bu bağlantı yükseltme için önemlidir.",
+    "Stereosilleri V ya da W harfine benzeyen sıralar halinde dizilir."
+   ]
+  },
+  {
+   "id": "stereosil",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Stereosiller ve tektoryal membran",
+   "baslik": "Stereosiller: *merdiven* dizilimi",
+   "maddeler": [
+    {
+     "metin": "Boyları sıralı: _kısadan uzuna_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Uç bağlantıları_ (tip links)",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Uzuna doğru eğilme: _uyarım_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ters yön: _inhibisyon_",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "stereosil",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    "vurgula": [
+     {
+      "parca": "stereosil",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "stereosil",
+      "metin": "Stereosiller",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Her tüy hücresinin tepesinde, boyları kısadan uzuna doğru merdiven gibi dizilmiş stereosil demetleri bulunur.",
+    "Komşu stereosillerin uçları, uç bağlantısı adı verilen ince filamentlerle birbirine bağlanır.",
+    "Bu bağlantılar, stereosillerin tepesindeki iyon kanallarını açıp kapayan yaylar gibi çalışır.",
+    "Demet en uzun stereosile doğru eğildiğinde kanallar açılır, potasyum hücreye girer ve hücre uyarılır.",
+    "Ters yönde eğilmede kanallar kapanır ve hücre inhibe olur.",
+    "Endolenfin yüksek potasyumu ve endokoklear potansiyel, bu iyon akışının itici gücüdür."
+   ]
+  },
+  {
+   "id": "tektoryal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Stereosiller ve tektoryal membran",
+   "baslik": "Tektoryal membran ve *kayma*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "tektoryal_membran",
+     "metin": "Membrana tectoria",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "Baziler membran",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tektoryal_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Spiral limbusa tutunur",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Kayma: stereosiller eğilir",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Eşikte nanometre düzeyinde hareket",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Tektoryal membran, jöle kıvamında, kollajenden zengin bir zardır ve iç kenarından spiral limbusa tutunur.",
+    "Baziler membran yukarı ve aşağı titreştiğinde, iki zar farklı eksenler etrafında döner.",
+    "Bu fark, tüy hücrelerinin tepesi ile tektoryal membran arasında kayma hareketi oluşturur.",
+    "Kayma stereosilleri eğer ve böylece dönüşüm başlar.",
+    "Bu hareket çok küçüktür; eşik düzeyindeki seslerde stereosillerin ucu yalnız nanometre ölçeğinde yer değiştirir.",
+    "Tektoryal membranın kokleanın frekans ayarına ve dış tüy hücrelerinin yükseltme etkisine katkıda bulunduğu düşünülür."
+   ]
+  },
+  {
+   "id": "degisim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Stereosiller ve tektoryal membran",
+   "baslik": "Tabandan tepeye *değişim*",
+   "maddeler": [
+    {
+     "metin": "Dış tüy hücreleri tepeye doğru _uzar_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Stereosiller tepeye doğru _uzar_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tepede bazen _4 ile 5 sıra_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "KOKLEA BOYUNCA",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Taban",
+      "metin": "Tiz sesler, kısa hücreler",
+      "cumle": 0
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Tepe",
+      "metin": "Pes sesler, uzun hücreler",
+      "cumle": 1
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Tepe yakını",
+      "metin": "Bazen 4 ile 5 sıra",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Corti organı da koklea boyunca tabandan tepeye doğru yavaşça değişir.",
+    "Tepeye doğru gidildikçe dış tüy hücrelerinin boyu ve stereosillerin uzunluğu artar.",
+    "Bu değişim, baziler membranın genişleyip esnekleşmesiyle birlikte pes frekanslara ayarlanmayı destekler.",
+    "Kokleanın tepesine yakın bölgelerde dış tüy hücreleri bazen dört ya da beş sıra halinde görülebilir."
+   ]
+  },
+  {
+   "id": "destek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Destek hücreleri ve innervasyon",
+   "baslik": "Destek *hücreleri*",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "corti_tuneli",
+     "cumle": 1
+    },
+    {
+     "parca": "retikuler_lamina",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sutun_hucreleri",
+     "metin": "Sütun hücreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "deiters_hucreleri",
+     "metin": "Deiters hücreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "hensen_hucreleri",
+     "metin": "Hensen ve Claudius",
+     "cumle": 5
+    },
+    {
+     "parca": "retikuler_lamina",
+     "metin": "Retiküler lamina",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Corti tünelinde _kortilenf_ var",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "İç falangeal: _iç tüy hücresini_ sarar",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Yalnız tepe _endolenfe_ değer",
+     "cumle": 7,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Tüy hücreleri tek başına durmaz; onları destek hücreleri taşır ve yerinde tutar.",
+    "İç ve dış sütun hücreleri, aralarında üçgen bir boşluk bırakarak Corti tünelini oluşturur.",
+    "Corti tüneli, perilenfe benzeyen ve kortilenf adı verilen bir sıvıyla doludur.",
+    "Deiters hücreleri, dış tüy hücrelerinin tabanını bir kadeh gibi taşır ve yüzeye uzanan uzantılara sahiptir.",
+    "İç falangeal hücreler iç tüy hücrelerini çevreler.",
+    "Hensen ve Claudius hücreleri ise Corti organının dış kenarını oluşturur.",
+    "Tüy hücrelerinin tepeleri ve destek hücrelerinin uzantıları birlikte retiküler lamina denen sıkı bir yüzey oluşturur.",
+    "Retiküler lamina endolenfi alttaki hücrelerden ayırır; böylece tüy hücrelerinin yalnız tepesi endolenfle temas eder."
+   ]
+  },
+  {
+   "id": "innervasyon",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Destek hücreleri ve innervasyon",
+   "baslik": "Sinir bağlantısında *fark*",
+   "sol": {
+    "ust": "İç tüy hücreleri",
+    "maddeler": [
+     {
+      "metin": "Tip I afferent, miyelinli",
+      "cumle": 1
+     },
+     {
+      "metin": "Afferent liflerin yaklaşık %95'i",
+      "cumle": 1
+     },
+     {
+      "metin": "Lateral olivokoklear efferent",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Dış tüy hücreleri",
+    "maddeler": [
+     {
+      "metin": "Tip II afferent, miyelinsiz",
+      "cumle": 2
+     },
+     {
+      "metin": "Afferent liflerin yaklaşık %5'i",
+      "cumle": 2
+     },
+     {
+      "metin": "Medial olivokoklear efferent",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "İki hücre türünün sinir bağlantıları da birbirinden çok farklıdır.",
+    {
+     "yazi": "İç tüy hücrelerine beyne bilgi taşıyan, kalın ve miyelinli tip I afferent lifler bağlanır.",
+     "ses": "İç tüy hücrelerine beyne bilgi taşıyan, kalın ve miyelinli tip bir afferent lifler bağlanır."
+    },
+    {
+     "yazi": "Dış tüy hücrelerine ise ince ve miyelinsiz tip II lifler gelir; her lif birçok dış tüy hücresine dallanır.",
+     "ses": "Dış tüy hücrelerine ise ince ve miyelinsiz tip iki lifler gelir; her lif birçok dış tüy hücresine dallanır."
+    },
+    "Beyin sapından kulağa inen efferent liflerden lateral olivokoklear lifler, iç tüy hücrelerinin altındaki afferent liflere ulaşır.",
+    "Medial olivokoklear lifler ise doğrudan dış tüy hücrelerine ulaşır ve onların yükseltme etkisini ayarlar.",
+    "Bu efferent sistemin gürültüde dinlemeye ve kulağın korunmasına katkıda bulunduğu düşünülür."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik bağlantı",
+   "baslik": "Dış tüy hücreleri ve *OAE*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "Uyaran",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "Kulaktan dönen yanıt",
+     "cumle": 2
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Gürültü tabanı",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Dış tüy hücrelerinin hareketi, kulak yolunda ölçülebilen çok zayıf sesler üretir.",
+    "Bu seslere otoakustik emisyon, kısaca OAE denir; kulak yoluna yerleştirilen bir prob ile ölçülür.",
+    "Uyarana karşılık kulaktan dönen yanıt gürültü tabanının belirgin üzerindeyse emisyon var kabul edilir.",
+    "Dış tüy hücreleri hasar gördüğünde emisyonlar azalır ya da kaybolur.",
+    "Emisyonların ölçülebilmesi için orta kulağın da sağlıklı olması gerekir.",
+    "Bu yüzden OAE, dış tüy hücresi işlevini değerlendiren hızlı ve objektif bir testtir ve yenidoğan taramasında yaygın kullanılır."
+   ]
+  },
+  {
+   "id": "hasar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik bağlantı",
+   "baslik": "Tüy hücresi kaybının *sonuçları*",
+   "maddeler": [
+    {
+     "metin": "Dış tüy hücresi kaybı: _40 ile 50 dB_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Frekans seçiciliği _bozulur_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "İç tüy hücresi kaybı: _sinyal iletilemez_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Memelilerde _yenilenmez_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "cumle": 0
+     },
+     {
+      "parca": "ic_tuy_hucresi",
+      "cumle": 3
+     },
+     {
+      "parca": "sinir_lifleri",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "metin": "Dış tüy hücreleri",
+      "cumle": 0
+     },
+     {
+      "parca": "ic_tuy_hucresi",
+      "metin": "İç tüy hücresi",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Dış tüy hücreleri kaybolduğunda koklear amplifikatör çalışmaz ve eşikler yaklaşık kırk ile elli desibel kadar yükselebilir.",
+    "Aynı zamanda frekans ayarı bulanıklaşır; bu da gürültüde konuşmayı anlamayı zorlaştırır.",
+    "Gürültü ve ototoksik ilaçlar çoğu zaman önce dış tüy hücrelerini etkiler.",
+    "İç tüy hücreleri ya da onlara bağlı sinir lifleri hasar görürse, ses yeterince güçlü olsa bile bilgi beyne doğru iletilemez.",
+    "İnsanda ve diğer memelilerde koklear tüy hücreleri kaybolduğunda kendiliğinden yenilenmez; bu yüzden bu kayıplar kalıcıdır.",
+    "Tüy hücresi yenilenmesi günümüzde yoğun olarak araştırılan bir konudur."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "OAE varken ABR yok ya da çok bozuksa işitsel nöropati spektrum bozukluğunu düşünün. Yalnız OAE ile tarama bu tabloyu kaçırabilir.",
+   "cumleler": [
+    "Bu anatominin klinikte çok önemli bir sonucu var.",
+    "Dış tüy hücreleri sağlamken iç tüy hücreleri, sinapsları ya da işitme siniri etkilenebilir.",
+    "Bu durumda OAE normal çıkarken işitsel beyin sapı yanıtı, kısaca ABR, yok ya da çok bozuk olabilir.",
+    "Bu tabloya işitsel nöropati spektrum bozukluğu denir.",
+    "Yalnız OAE ile tarama bu bebekleri kaçırabileceği için, yoğun bakımda beş günden uzun kalan bebeklerde ABR ile tarama önerilir.",
+    "Bu bebeklerde davranışsal testler ve ABR ile düzenli izlem büyük önem taşır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Bir sıra iç, *üç sıra* dış tüy hücresi",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "İç: duyu hücresi, dış: *yükseltici*",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Stereosil eğilmesi *iyon kanallarını* açar",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "OAE dış tüy hücresini *yansıtır*",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Corti organında yaklaşık üç bin beş yüz iç ve on iki bin dış tüy hücresi bulunur.",
+    "Afferent liflerin çoğu iç tüy hücrelerine bağlanır; dış tüy hücreleri ise prestin ile sesi yükseltir.",
+    "Stereosillerin eğilmesi uç bağlantıları aracılığıyla iyon kanallarını açar ve sinyal başlar.",
+    "Otoakustik emisyonlar dış tüy hücresi işlevini yansıtır; ABR ile birlikte yorumlanmalıdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Afferent liflerin çoğu hangi hücreye bağlanır?",
+   "secenekler": [
+    "İç tüy hücreleri",
+    "Dış tüy hücreleri",
+    "Deiters hücreleri",
+    "Hensen hücreleri"
+   ],
+   "dogru": 0,
+   "aciklama": "Afferent liflerin yaklaşık _yüzde 95'i_ iç tüy hücrelerine bağlanır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: İşitme sinirinin afferent liflerinin çoğu hangi hücrelere bağlanır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A, iç tüy hücreleri. Afferent liflerin yaklaşık yüzde doksan beşi bu hücrelere bağlanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Vestibüler* labirent",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iç kulağın denge bölümünü; utrikül, sakkül ve yarım daire kanallarını inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

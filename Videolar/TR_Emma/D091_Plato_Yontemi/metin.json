@@ -1,0 +1,912 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D091_Plato_Yontemi_TR",
+ "kapak": {
+  "ust": "DERS 91",
+  "baslik": "*Plato* yöntemi<br>adım adım",
+  "alt": "Maskelemede gerçek eşiği bulmak",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      50,
+      55,
+      60,
+      60
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      65,
+      65,
+      70,
+      70,
+      75,
+      75
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Plato Yöntemi Adım Adım | Ders 91 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Plato yöntemi, klinik maskelemede gürültü düzeyini belirlemenin ve test kulağının gerçek eşiğini bulmanın temel yoludur. Bu derste başlangıç maskeleme düzeyini, 5 dB'lik gürültü artışlarını, plato ölçütünü ve aşırı maskelemeden kaçınmayı örnek bir ölçüm üzerinden adım adım çalışıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hood JD (1960), The principles and practice of bone conduction audiometry, Laryngoscope; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ],
+  "etiketler": [
+   "plato yöntemi",
+   "plateau method",
+   "klinik maskeleme",
+   "başlangıç maskeleme düzeyi",
+   "etkin maskeleme",
+   "aşırı maskeleme",
+   "yetersiz maskeleme",
+   "Hood",
+   "saf ses odyometrisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 91",
+   "baslik": "*Plato* yöntemi adım adım",
+   "alt": "Başlangıç düzeyi, gürültü artışları ve gerçek eşik",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste maskeleme gürültüsünün düzeyini belirlemek için kullanılan plato yöntemini adım adım öğreneceğiz.",
+    "Bir örnek üzerinden başlangıç düzeyini, gürültü artışlarını ve gerçek eşik kararını birlikte çalışacağız."
+   ]
+  },
+  {
+   "id": "fikir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel fikir",
+   "baslik": "Ne kadar *gürültü?*",
+   "maddeler": [
+    {
+     "metin": "Az gürültü: _yetersiz maskeleme_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Çok gürültü: _aşırı maskeleme_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Arada eşik sabit: _plato_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yöntemi tanımlayan: _Hood_",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Maskeleme gerektiğine karar verdikten sonra yeni bir soru doğar: karşı kulağa ne kadar gürültü vermeliyiz?",
+    "Gürültü az olursa karşı kulak tonu duymaya devam eder; buna yetersiz maskeleme (undermasking) denir.",
+    "Gürültü fazla olursa gürültü test kulağına geçer ve onun eşiğini yükseltir; buna aşırı maskeleme (overmasking) denir.",
+    "Bu iki durum arasında, gürültü artsa da test kulağının eşiğinin değişmediği bir aralık vardır.",
+    "Bu aralığa plato (plateau) denir; plato yöntemi bu aralığı bulmaya dayanır.",
+    "Yöntem Hood tarafından tanımlanmıştır ve bugün de klinik maskelemenin temelidir.",
+    "Yöntemin gücü, maskeleme düzeyini tahmine değil, hastanın kendi yanıtlarına dayandırmasıdır."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "karsi_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "test_kulagi",
+      "cumle": 2
+     },
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "bolgeler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel fikir",
+   "baslik": "Maskelemenin üç *bölgesi*",
+   "cumleler": [
+    "Gürültüyü adım adım artırıp her adımda eşiği yeniden ölçtüğümüzü düşünelim.",
+    "İlk bölgede eşik gürültüyle birlikte yükselir; çünkü tonu aslında test edilmeyen kulak, kısaca NTE duymaktadır.",
+    "İkinci bölgede gürültüyü artırsak da eşik sabit kalır; bu plato bölgesidir.",
+    "Platoda NTE tonu duyamaz, test kulağı, kısaca TE ise gürültüden etkilenmez; ölçtüğümüz eşik TE'nin gerçek eşiğidir.",
+    "Üçüncü bölgede gürültü, kulaklar arası zayıflama, kısaca IA kadar azalsa da TE kokleasına ulaşır ve eşik yeniden yükselir.",
+    "Amacımız her zaman ikinci bölgede, yani platoda karar vermektir."
+   ],
+   "cizim": "plato_grafigi",
+   "ayar": {
+    "esik": 45,
+    "plato": [
+     35,
+     75
+    ],
+    "bolge_cumleleri": [
+     1,
+     2,
+     4
+    ],
+    "esik_cumle": 3,
+    "cumle": 0
+   },
+   "vurgula": [
+    {
+     "parca": "yetersiz_maskeleme",
+     "cumle": 1
+    },
+    {
+     "parca": "plato",
+     "cumle": 2
+    },
+    {
+     "parca": "gercek_esik",
+     "cumle": 3
+    },
+    {
+     "parca": "asiri_maskeleme",
+     "cumle": 4
+    },
+    {
+     "parca": "plato",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yetersiz: eşik _gürültüyle_ yükselir",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Plato: _gerçek eşik_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Aşırı: gürültü _TE'ye_ geçer",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hazırlık",
+   "baslik": "Başlamadan *önce*",
+   "maddeler": [
+    {
+     "metin": "Maskesiz eşikleri _kaydet_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Hastaya açık _talimat_ ver",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Gürültü: _dar bant_, dB EM",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Gürültü _NTE'ye_, ton TE'ye",
+     "cumle": 6,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Plato yöntemine başlamadan önce iki kulağın maskesiz eşiklerinin kaydedilmiş olması gerekir.",
+    "Hastaya, bir kulağında sürekli bir gürültü duyacağını ve bu gürültüyü dikkate almaması gerektiğini anlatırız.",
+    "Yalnız tonu, yani bip sesini duyduğunda, ne kadar hafif olursa olsun yanıt vermesini isteriz.",
+    "Saf ses için test frekansını merkez alan dar bant gürültü kullanılır ve düzeyi etkin maskeleme, yani dB EM olarak verilir.",
+    "dB EM, gürültünün eşiği ne kadar yükselttiğine göre yapılan bir kalibrasyondur.",
+    "Örneğin otuz dB EM'lik gürültü, o frekansta normal bir eşiği yaklaşık otuz desibel HL'ye yükseltir.",
+    "Gürültü NTE'ye, ton ise TE'ye verilir; kulaklıkların doğru taraflarda olduğundan emin olunur."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 3
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 6
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "hasta_butonu",
+      "metin": "yalnız tona yanıt",
+      "cumle": 2
+     },
+     {
+      "parca": "kulaklik",
+      "metin": "gürültü NTE'ye, ton TE'ye",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "baslangic",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hazırlık",
+   "baslik": "Başlangıç maskeleme *düzeyi*",
+   "maddeler": [
+    {
+     "metin": "Hava yolu: NTE hava eşiği _+10 dB_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "10 dB: _güvenlik payı_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Kemik yolu: _oklüzyon etkisi_ eklenir",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Oklüzyon etkisi: _pes frekanslarda_",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÖRNEK",
+    "metin": "NTE eşiği 10 dB HL ise başlangıç gürültüsü *20 dB EM*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "İlk adım, başlangıç maskeleme düzeyini (initial masking level) belirlemektir.",
+    "Hava yolu için başlangıç düzeyi, NTE'nin o frekanstaki hava yolu eşiğinin on desibel üzeridir.",
+    "Buradaki on desibel, kişiler arası farkları karşılamak için eklenen bir güvenlik payıdır.",
+    "Örneğin NTE'nin bin hertzdeki eşiği on desibel ise başlangıç gürültüsü yirmi dB EM olur.",
+    "Kemik yolu maskelemesinde NTE kulaklıkla kapatıldığı için oklüzyon etkisi oluşur ve bu değer başlangıç düzeyine eklenir.",
+    "Oklüzyon etkisi iki yüz elli ile bin hertz arasında önemlidir ve NTE'de iletim tipi kayıp varsa eklenmez.",
+    "Bu düzeltme supra-aural kulaklıkta daha büyük, derin yerleştirilmiş insert kulaklıkta ise daha küçüktür."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım",
+   "baslik": "Plato yöntemi: *adımlar*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü NTE'ye",
+     "metin": "Başlangıç düzeyinde, sürekli",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "TE eşiği",
+     "metin": "Gürültü açıkken yeniden aranır",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Yanıt varsa",
+     "metin": "Gürültü +5 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Yanıt yoksa",
+     "metin": "Ton +5 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Plato",
+     "metin": "Üç artışta eşik sabit",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Birinci adım: başlangıç düzeyindeki gürültüyü NTE'ye sürekli olarak veririz.",
+    "İkinci adım: gürültü açıkken TE'nin eşiğini, maskesiz eşikten başlayarak yeniden ararız.",
+    "Hasta tonu duyarsa, ton düzeyini değiştirmeden gürültüyü beş desibel artırır ve tonu tekrar veririz.",
+    "Hasta tonu duymazsa, yanıt alana kadar tonu beş desibellik adımlarla artırır, sonra yeniden gürültüyü artırırız.",
+    "Bu döngü, eşik gürültü artışlarına rağmen sabit kalana kadar sürer.",
+    "Gürültü art arda üç kez, yani toplam on beş desibel artırıldığı halde eşik değişmiyorsa plato bulunmuştur.",
+    "Bu sabit eşik, TE'nin maskeli eşiği olarak kaydedilir.",
+    "Bazı klinikler yirmi desibellik plato arar; İngiliz Odyoloji Derneğinin kılavuzu ise gürültüyü on desibellik adımlarla artırır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım",
+   "baslik": "Örnek: *maskesiz* tablo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_ (NTE): normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_ (TE): maskesiz hava yolu",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       10
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      50
+     ],
+     "etiket": "40 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Şimdi bir örnek çalışalım: bu örnekte sağ kulak normal; bin hertzde hava ve kemik yolu eşiği on desibel.",
+    "Sol kulağın bin hertzdeki maskesiz hava yolu eşiği elli desibel.",
+    "Supra-aural kulaklıkla fark kırk desibel olduğu için sol hava yolu eşiği maskelenerek doğrulanmalı.",
+    "Sol kulak TE, sağ kulak NTE; başlangıç gürültüsü ise on artı on, yani yirmi dB EM.",
+    "Bu frekansta sol kulağın gerçek eşiğini bulmak için şimdi plato yöntemini uygulayacağız."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım",
+   "baslik": "Bin hertzde *adım adım*",
+   "sutunlar": [
+    "Gürültü (dB EM)",
+    "TE eşiği (dB HL)",
+    "Yorum"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "20",
+      "60",
+      "Eşik yükseldi"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "25",
+      "65",
+      "Eşik yükseldi"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "30",
+      "70",
+      "Eşik yükseldi"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "35",
+      "70",
+      "Sabit"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "40",
+      "70",
+      "Sabit"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "45",
+      "70",
+      "Plato: 70 dB HL"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Yirmi dB EM gürültüyle sol eşiği yeniden aradığımızda, eşik elli desibelden altmışa yükseliyor.",
+    "Gürültüyü yirmi beşe çıkarınca eşik de altmış beşe yükseliyor; eşik gürültüyle birlikte kayıyor.",
+    "Otuz dB EM'de eşik yetmiş desibele yükseliyor.",
+    "Otuz beş dB EM'de eşik yine yetmiş desibel; ilk kez değişmedi.",
+    "Kırk dB EM'de de eşik yetmiş desibelde kalıyor.",
+    "Kırk beş dB EM'de de yetmiş desibel; gürültü otuzdan kırk beşe, yani on beş desibel arttığı halde eşik sabit.",
+    "Plato bulundu: sol kulağın bin hertzdeki maskeli eşiği yetmiş desibel HL.",
+    "Maskesiz ölçülen elli desibel ise gerçekte sağ kulağın duyduğu bir gölge yanıtıydı."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım",
+   "baslik": "Maskeli *gerçek* eşikler",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Maskesiz_: gölge yanıtları",
+     "cumle": 1
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Maskeli_: gerçek eşikler",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       65,
+       65,
+       70,
+       70,
+       75,
+       75
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Aynı işlemi maskeleme gereken her frekansta tekrarladığımızda gerçek tablo ortaya çıkar.",
+    "Mavi çarpılar maskesiz, yani sağ kulağın duyduğu gölge yanıtlarını gösteriyor.",
+    "Mavi kareler ise plato yöntemiyle bulunan maskeli, gerçek eşiklerdir.",
+    "Bu örnekte sol kulaktaki kayıp, maskesiz ölçümde göründüğünden yaklaşık on beş ile yirmi desibel daha ileri.",
+    "Maskeleme yapılmasaydı, bu kulaktaki kaybın derecesi olduğundan hafif rapor edilecekti."
+   ]
+  },
+  {
+   "id": "kaymazsa",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım",
+   "baslik": "Eşik hiç *kaymazsa*",
+   "maddeler": [
+    {
+     "metin": "İlk maskeli ölçüm: _aynı eşik_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Üç artışta da _sabit_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Maskesiz eşik _gerçekmiş_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yine _maskeli işaretle_ kaydet",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Bazen başlangıç gürültüsüyle ölçülen eşik, maskesiz eşikle aynı çıkar.",
+    "Gürültü üç kez artırıldığında da eşik değişmiyorsa, plato baştan itibaren sağlanmış demektir.",
+    "Bu, maskesiz eşiğin zaten TE'ye ait olduğunu, yani çapraz işitme olmadığını gösterir.",
+    "Bu durumda da eşik, maskeleme ile doğrulandığı için maskeli işaretle kaydedilir."
+   ]
+  },
+  {
+   "id": "asiri",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınırlar",
+   "baslik": "Aşırı maskelemeden *kaçınmak*",
+   "maddeler": [
+    {
+     "metin": "Gürültü de _IA kadar_ zayıflayarak geçer",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "TE kemik yoluna ulaşırsa: _aşırı_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Üst sınır: _TE kemik yolu + IA - 5_",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Plato yoksa: _maskeleme ikilemi_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "NTE'ye verilen gürültü de kafatasından TE'ye geçebilir ve bu sırada yaklaşık IA kadar zayıflar.",
+    "TE'ye ulaşan gürültü, TE'nin kemik yolu eşiğine ulaşırsa TE'yi de maskeler; bu aşırı maskelemedir.",
+    "Bu yüzden güvenli en yüksek gürültü, TE'nin kemik yolu eşiği ile IA'nın toplamından beş desibel eksiktir.",
+    "Aşırı maskeleme gerçek eşiği olduğundan kötü gösterir ve platodan sonra eşiğin yeniden yükselmesine yol açar.",
+    "TE'de iletim tipi kayıp varsa, yani kemik yolu iyiyse, bu üst sınır alçalır.",
+    "İki kulakta da büyük iletim kaybı varsa plato hiç bulunamayabilir; buna maskeleme ikilemi denir.",
+    "Bu nedenle gürültüyü artırırken, her adımda bu üst sınıra ne kadar yaklaştığınızı hesaplayın."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklar_arasi_zayiflama",
+      "cumle": 0
+     },
+     {
+      "parca": "test_kulagi",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "genislik",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınırlar",
+   "baslik": "Plato *genişliği*",
+   "sol": {
+    "ust": "Plato geniş",
+    "maddeler": [
+     {
+      "metin": "TE kemik yolu kötü",
+      "cumle": 1
+     },
+     {
+      "metin": "NTE iletimi normal",
+      "cumle": 2
+     },
+     {
+      "metin": "Insert kulaklık",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Plato dar",
+    "maddeler": [
+     {
+      "metin": "TE'de iletim tipi kayıp",
+      "cumle": 4
+     },
+     {
+      "metin": "NTE'de iletim tipi kayıp",
+      "cumle": 5
+     },
+     {
+      "metin": "İkisi birlikte: ikilem",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Platonun genişliği, gereken en az gürültü ile güvenli en fazla gürültü arasındaki farka bağlıdır.",
+    "TE'nin kemik yolu eşiği ne kadar kötüyse, aşırı maskelemeye o kadar geç ulaşılır ve üst sınır yükselir.",
+    "NTE'nin iletimi normalse, gürültü kokleaya kayıpsız ulaşır ve alt sınır düşük kalır.",
+    "Insert kulaklık IA'yı yükselttiği için üst sınırı yükseltir ve platoyu genişletir.",
+    "TE'de iletim tipi kayıp varsa kemik yolu iyi olduğu için üst sınır alçalır.",
+    "NTE'de iletim tipi kayıp varsa gürültünün bu engeli de aşması gerekir ve alt sınır yükselir.",
+    "İki durum birlikte olduğunda plato tamamen kaybolabilir; bu maskeleme ikilemidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Plato görmeden maskeli eşik yazmayın. Gürültü karşı kulaktayken yaklaşık 5 dB'lik küçük kaymalar merkezi maskelemeye bağlı olabilir.",
+   "cumleler": [
+    "Plato yönteminde sık yapılan iki hataya dikkat çekelim.",
+    "Birincisi, ilk maskeli ölçümde eşik değişmedi diye hemen durmak; platoyu görmek için gürültüyü üç kez artırmak gerekir.",
+    "İkincisi, birkaç desibellik küçük kaymaları yetersiz maskeleme sanmak.",
+    "Gürültü karşı kulağa verildiğinde bile eşik yaklaşık beş desibel kayabilir; buna merkezi maskeleme denir.",
+    "Bu küçük kayma, platonun bozulduğu anlamına gelmez."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınırlar",
+   "baslik": "Kemik yolunda *plato*",
+   "maddeler": [
+    {
+     "metin": "Vibratör _TE mastoidinde_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Gürültü NTE'ye, _TE açık_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Başlangıç: +10 dB ve _oklüzyon_ düzeltmesi",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Adımlar ve _plato ölçütü_ aynı",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolunda da aynı yöntem kullanılır; vibratör test edilen kulağın mastoidine yerleştirilir.",
+    "Gürültü NTE'ye bir kulaklık ya da insert kulaklıkla verilir; TE açık bırakılır.",
+    "Başlangıç düzeyi, NTE'nin hava yolu eşiği, on desibel güvenlik payı ve gerekiyorsa oklüzyon etkisi düzeltmesinin toplamıdır.",
+    "Gürültü artışları ve plato ölçütü hava yoluyla aynıdır.",
+    "Kemik yolunda IA yaklaşık sıfır olduğu için, hava-kemik aralığı görülen kulakta maskeleme hemen her zaman gerekir.",
+    "Kemik yolu maskelemesinde de plato görülmeden eşik kesinleşmiş sayılmaz."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınırlar",
+   "baslik": "Kayıt ve *raporlama*",
+   "maddeler": [
+    {
+     "metin": "Eşik _maskeli işaretle_ işlenir",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Plato _gürültü düzeyi_ yazılır",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Plato yoksa raporda _belirt_",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Yanıt yoksa _aşağı ok_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Plato ile bulunan eşik, ilgili maskeli işaretle odyograma işlenir.",
+    "Platonun elde edildiği gürültü düzeyi de forma kaydedilir.",
+    "Bu bilgi, odyogramı daha sonra okuyan kişinin maskelemenin yeterliliğini değerlendirmesini sağlar.",
+    "Plato bulunamadıysa eşik kesin değildir ve bu durum raporda açıkça belirtilir.",
+    "Cihazın en yüksek düzeyinde de yanıt yoksa, işaretin altına aşağı doğru bir ok eklenir.",
+    "Bu kayıtlar, aynı hastanın sonraki testlerinin aynı koşullarla karşılaştırılmasını da sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Başlangıç: NTE eşiği _+10 dB_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Yanıt varsa gürültü, yoksa _ton_ artar",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_15 ile 20 dB_ boyunca sabit eşik: plato",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Aşırı maskeleme_ sınırına dikkat",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Hava yolunda başlangıç gürültüsü, NTE'nin hava yolu eşiğinin on desibel üzeridir.",
+    "Hasta tonu duyarsa gürültü, duymazsa ton beş desibel artırılır.",
+    "Gürültü on beş ile yirmi desibel arttığı halde eşik değişmiyorsa plato bulunmuştur ve bu eşik gerçek eşiktir.",
+    "Gürültü, TE'nin kemik yolu eşiği ile IA toplamının beş desibel altını aşarsa aşırı maskeleme riski doğar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Gürültü 30'dan 45 dB EM'e çıktı, eşik hep 70 dB. Sonuç?",
+   "secenekler": [
+    "Yetersiz maskeleme",
+    "Plato: gerçek eşik 70 dB",
+    "Aşırı maskeleme"
+   ],
+   "dogru": 1,
+   "aciklama": "Gürültü 15 dB arttığı halde eşik değişmedi; ölçülen değer _test kulağına_ aittir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Gürültü otuzdan kırk beş dB EM'e çıkarıldı ve eşik hep yetmiş desibelde kaldı. Ne söyleriz?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: plato bulunmuştur ve gerçek eşik yetmiş desibeldir.",
+    "Gürültü on beş desibel arttığı halde eşik değişmediği için ölçülen değer test kulağına aittir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Maskeleme *ikilemi*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, iki taraflı iletim tipi kayıpta karşılaşılan maskeleme ikilemini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

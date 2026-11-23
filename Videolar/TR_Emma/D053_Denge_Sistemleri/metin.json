@@ -1,0 +1,572 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D053_Denge_Sistemleri_TR",
+ "kapak": {
+  "ust": "DERS 53",
+  "baslik": "Denge nasıl<br>*sağlanır?*",
+  "alt": "Görme, vestibüler sistem, vücut duyusu",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Denge Nasıl Sağlanır? Görme, Vestibüler, Somatosensoriyel | Ders 53 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Denge; görme, vestibüler sistem ve somatosensoriyel sistemden gelen bilgilerin beyinde birleştirilmesiyle sağlanır. Bu derste duyusal ağırlıklandırmayı, vestibülospinal refleksi (VSR), duruş stratejilerini, dengeyi değerlendiren yatak başı ve bilgisayarlı testleri ve merkezi kompanzasyon kavramını inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Shumway-Cook ve Woollacott, Motor Control: Translating Research into Clinical Practice; Herdman ve Clendaniel, Vestibular Rehabilitation; Jacobson ve Shepard, Balance Function Assessment and Management; Peterka (2002), Sensorimotor integration in human postural control, Journal of Neurophysiology; Shumway-Cook ve Horak (1986), Assessing the influence of sensory interaction on balance, Physical Therapy.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "denge",
+   "vestibüler"
+  ],
+  "etiketler": [
+   "denge",
+   "postüral kontrol",
+   "duyusal bütünleşme",
+   "sensory integration",
+   "vestibülospinal refleks",
+   "propriosepsiyon",
+   "proprioception",
+   "Romberg testi",
+   "mCTSIB",
+   "vestibüler kompanzasyon",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 53",
+   "baslik": "Denge nasıl *sağlanır?*",
+   "alt": "Görme, vestibüler ve somatosensoriyel sistem",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste dengeyi sağlayan üç duyusal sistemi ve beynin bu bilgileri nasıl birleştirdiğini öğreneceğiz.",
+    "Vestibülospinal refleksi, duruş stratejilerini, denge testlerini ve merkezi kompanzasyon kavramını da tanıyacağız."
+   ]
+  },
+  {
+   "id": "denge_nedir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Üç duyu",
+   "baslik": "*Denge* nedir?",
+   "maddeler": [
+    {
+     "metin": "Ağırlık merkezi _destek yüzeyi_ üstünde",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Dik dururken bile _sürekli_ salınım",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Girdi, bütünleşme, _çıktı_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "agirlik_merkezi",
+      "metin": "Ağırlık merkezi",
+      "cumle": 1
+     },
+     {
+      "parca": "destek_yuzeyi",
+      "metin": "Destek yüzeyi",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "agirlik_merkezi",
+      "cumle": 1
+     },
+     {
+      "parca": "destek_yuzeyi",
+      "cumle": 1
+     },
+     {
+      "parca": "salinim",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Denge, vücudun hem dururken hem de hareket ederken düşmeden konumunu koruyabilmesidir.",
+    "Fiziksel olarak bu, vücudun ağırlık merkezinin ayakların oluşturduğu destek yüzeyinin üzerinde tutulması demektir.",
+    "Dik dururken bile vücut sürekli hafifçe salınır ve sinir sistemi bunu her an düzeltir.",
+    "Bu kontrol üç aşamada düşünülebilir: duyusal girdiler, merkezi bütünleşme ve kaslara giden motor çıktı.",
+    "Bu derste önce girdileri, sonra beynin bunları nasıl birleştirdiğini ve kaslara nasıl ilettiğini göreceğiz."
+   ]
+  },
+  {
+   "id": "uc_duyu",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Üç duyu",
+   "baslik": "Üç *duyusal* girdi",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Görme",
+     "metin": "Çevreye göre konum; hareketli çevre yanıltır",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Vestibüler",
+     "metin": "Baş hareketi, yerçekimi; gövdeyi bilmez",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Somatosensoriyel",
+     "metin": "Zemin, eklem konumu; yumuşak zeminde azalır",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Dengeyi sağlayan üç duyusal sistem görme, vestibüler sistem ve somatosensoriyel sistemdir.",
+    "Görme vücudun çevreye göre konumunu bildirir; ama yandaki tren kalkınca bizim hareket ettiğimizi sanmamız gibi yanıltabilir.",
+    "Vestibüler sistem başın dönme ve doğrusal hareketlerini ve yerçekiminin yönünü bildirir.",
+    "Ancak vestibüler bilgi tek başına başın gövdeye göre konumunu bilemez; bunu boyun ve gövde duyuları tamamlar.",
+    "Somatosensoriyel sistem ise ayak tabanındaki basıncı ve eklemlerin konumunu bildirir.",
+    "Eklem ve kaslardan gelen konum duyusuna propriosepsiyon (proprioception) denir; yumuşak zeminde bu bilgi azalır."
+   ]
+  },
+  {
+   "id": "agirlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Üç duyu",
+   "baslik": "Duyusal *ağırlıklandırma*",
+   "maddeler": [
+    {
+     "metin": "Sert zemin, ışık: _vücut duyusu_ önde",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Yumuşak zemin: _görme ve vestibüler_ artar",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Köpük ve gözler kapalı: _vestibüler_",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Çatışmada vestibüler _hakem_",
+     "cumle": 5,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 4
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 4
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Beyin üç duyuya her durumda aynı önemi vermez; ortama göre ağırlıklarını değiştirir.",
+    "Sağlıklı bir yetişkin sert zeminde ve ışıkta dururken dengesini en çok vücut duyusuna dayandırır.",
+    "Aynı koşulda vestibüler sistemin ve görmenin payı daha küçüktür; oranlar kişiye ve koşula göre değişir.",
+    "Zemin yumuşadığında ya da hareket ettiğinde vücut duyusunun payı azalır; görme ve vestibüler sistem öne çıkar.",
+    "Gözler kapalı ve zemin yumuşak olduğunda denge büyük ölçüde vestibüler sisteme kalır.",
+    "Duyular çeliştiğinde vestibüler sistem, yerçekimine dayalı bilgisiyle bir tür hakem görevi görür."
+   ]
+  },
+  {
+   "id": "butunlesme",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bütünleşme ve çıktı",
+   "baslik": "Bilgiler nerede *birleşir?*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Üç duyu",
+     "metin": "Görme, vestibüler, vücut duyusu",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Çekirdekler",
+     "metin": "İlk birleşme beyin sapında",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Beyincik",
+     "metin": "Karşılaştırır, hatayı düzeltir",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Korteks",
+     "metin": "Bilinçli algı, hareket planı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Üç duyudan gelen bilgilerin birleştirilmesine duyusal bütünleşme (sensory integration) denir.",
+    "Bu bütünleşme ilk olarak beyin sapındaki vestibüler çekirdeklerde başlar.",
+    "Beyincik bilgileri karşılaştırır, hataları düzeltir ve hareketleri inceltir.",
+    "Korteks ise vücudun uzaydaki konumuna dair bilinçli bir algı oluşturur ve istemli hareketleri planlar.",
+    "Duyular birbiriyle uyuşmadığında, örneğin gemide kitap okurken, bulantı ve rahatsızlık ortaya çıkabilir; buna hareket hastalığı denir.",
+    "Duyusal çatışma kuramı (sensory conflict theory), hareket hastalığının en yaygın kabul gören açıklamasıdır."
+   ]
+  },
+  {
+   "id": "vsr",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bütünleşme ve çıktı",
+   "baslik": "*Vestibülospinal* refleks",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "VOR",
+     "metin": "Bakışı sabitler",
+     "cumle": 0
+    },
+    {
+     "ikon": "denge",
+     "baslik": "VSR",
+     "metin": "Gövdeyi dik tutar",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Eğilen taraf",
+     "metin": "Kas gerginliği artar",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Vestibülokolik refleks",
+     "metin": "Başı sabitler",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bütünleşen bilginin ilk çıktısı gözlere gider: önceki derste gördüğümüz vestibülo-oküler refleks, kısaca VOR, bakışı sabit tutar.",
+    "İkinci çıktı omuriliğe gider; buna vestibülospinal refleks (vestibulospinal reflex), kısaca VSR denir.",
+    "Örneğin vücut sağa eğildiğinde sağ taraftaki bacak ve gövde kaslarının gerginliği artar ve vücut düşmeye karşı desteklenir.",
+    "Bu refleks, Deiters çekirdeğinden inen lateral vestibülospinal yol aracılığıyla antigravite kaslarını uyarır.",
+    "Üçüncü çıktı boyun kaslarına gider; vestibülokolik refleks başı gövde hareketlerine karşı sabitler.",
+    "Göz, baş ve gövde reflekslerinin birlikte çalışması, yürürken hem dengede kalmamızı hem de net görmemizi sağlar."
+   ]
+  },
+  {
+   "id": "stratejiler",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bütünleşme ve çıktı",
+   "baslik": "Duruş *stratejileri*",
+   "adimlar": [
+    {
+     "ikon": "denge",
+     "baslik": "Ayak bileği",
+     "metin": "Küçük, yavaş salınım; tek parça",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Kalça",
+     "metin": "Büyük, hızlı itme; kalçadan bükülme",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Adım atma",
+     "metin": "Sınır aşılınca yeni destek yüzeyi",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Denge bozulduğunda beden, tehdidin büyüklüğüne göre farklı stratejiler kullanır.",
+    "Küçük ve yavaş salınımlarda vücut, ayak bileğinden dönen tek parça bir sarkaç gibi hareket eder; buna ayak bileği stratejisi denir.",
+    "Daha büyük ve hızlı itmelerde ya da dar bir zeminde vücut kalçadan bükülerek dengeyi korur; bu kalça stratejisidir.",
+    "Ağırlık merkezi destek yüzeyinin dışına taşarsa kişi adım atarak yeni bir destek yüzeyi oluşturur.",
+    "Vestibüler kaybı olan kişiler, kalça stratejisini gerektiren durumlarda daha çok zorlanabilir.",
+    "Yaşlılarda bu stratejilerin yavaşlaması, düşme riskini artıran etkenlerden biridir."
+   ]
+  },
+  {
+   "id": "mctsib",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dengeyi değerlendirmek",
+   "baslik": "Duyusal test: *dört koşul*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Koşul 1",
+     "metin": "Sert, gözler açık: üç duyu",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Koşul 2",
+     "metin": "Sert, gözler kapalı: vücut, vestibüler",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Koşul 3",
+     "metin": "Köpük, gözler açık: görme, vestibüler",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Koşul 4",
+     "metin": "Köpük, gözler kapalı: vestibüler",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Duyusal katkıları sınamak için duyusal etkileşim ve dengenin modifiye klinik testi (mCTSIB) kullanılır.",
+     "ses": "Duyusal katkıları sınamak için duyusal etkileşim ve dengenin modifiye klinik testi kullanılır."
+    },
+    "Birinci koşulda kişi sert zeminde, gözleri açık durur; üç duyu da kullanılabilir.",
+    "İkinci koşulda gözler kapanır; denge vücut duyusu ve vestibüler sisteme kalır.",
+    "Üçüncü koşulda kişi köpük bir minder üzerinde, gözleri açık durur; vücut duyusu azalır.",
+    "Dördüncü koşulda köpük üzerinde gözler de kapanır ve denge büyük ölçüde vestibüler sisteme kalır.",
+    "Her koşul genellikle otuz saniye sürdürülür; dördüncü koşulda belirgin zorlanma vestibüler katkının azaldığını düşündürebilir."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dengeyi değerlendirmek",
+   "baslik": "Yatak başı ve *bilgisayarlı* test",
+   "ogeler": [
+    {
+     "ikon": "odyolog",
+     "baslik": "Yatak başı",
+     "metin": "Romberg, mCTSIB; hızlı, ucuz",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Gözleme dayalı",
+     "metin": "Küçük farkları yakalamak zor",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Postürografi",
+     "metin": "Hareketli zemin ve görsel çevre",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sayısal ölçüm",
+     "metin": "Nesnel izlem; daha az merkezde",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Romberg testinde kişi ayakları bitişik durur; önce gözler açık, sonra kapalıyken salınım gözlenir.",
+    "Gözler kapanınca belirgin salınım ya da düşme eğilimi Romberg pozitif olarak kaydedilir; klasik olarak konum duyusu kaybını düşündürür.",
+    "Yatak başı testler hızlı ve ucuzdur; her klinikte uygulanabilir.",
+    "Ancak sonuçlar büyük ölçüde gözleme dayanır ve küçük farkları yakalamak zordur.",
+    "Bilgisayarlı dinamik postürografide zemin ve görsel çevre, kişinin salınımına göre hareket ettirilebilir.",
+    "Böylece duyusal katkılar ayrı ayrı ve sayısal olarak ölçülür, izlem daha nesnel yapılır.",
+    "Yatak başı testler hemen her klinikte uygulanabilir; bilgisayarlı postürografi ise pahalı olduğu için daha az merkezde bulunur."
+   ]
+  },
+  {
+   "id": "kompanzasyon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kompanzasyon",
+   "baslik": "Merkezi *kompanzasyon*",
+   "maddeler": [
+    {
+     "metin": "Beyin iki taraf farkını _azaltır_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Statik belirtiler: _günler, haftalar_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Dinamik belirtiler: _daha yavaş_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Hareket süreci _destekler_",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Tek taraflı vestibüler kayıptan sonra beyin, iki taraf arasındaki dengesizliği zamanla azaltır; buna merkezi kompanzasyon denir.",
+    "Hareketsizken görülen nistagmus ve dönme hissi gibi statik belirtiler çoğu zaman günler ile haftalar içinde azalır.",
+    "Bunun temelinde vestibüler çekirdeklerin dinlenim etkinliğinin beyincik yardımıyla yeniden dengelenmesi yatar.",
+    "Baş hareketiyle ortaya çıkan dinamik belirtilerin düzelmesi ise daha uzun sürer ve her zaman tam olmayabilir.",
+    "Kompanzasyon baş ve vücut hareketiyle ve görsel uyaranlarla desteklenir; uzun süre hareketsiz kalmak süreci yavaşlatabilir.",
+    "Uzun süreli vestibüler baskılayıcı ilaç kullanımının da kompanzasyonu geciktirebileceği bildirilir; ilaç kararı hekime aittir."
+   ]
+  },
+  {
+   "id": "mekanizmalar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kompanzasyon",
+   "baslik": "Kompanzasyonun *yolları*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Uyarlama",
+     "metin": "VOR kazancı artar",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Yerine koyma",
+     "metin": "Sakkad, görme, vücut duyusu",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Alışma",
+     "metin": "Tekrarla yakınma azalır",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "İşlevin geri dönmesi",
+     "metin": "Labirent kısmen düzelir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kompanzasyon birkaç farklı yolla gerçekleşir.",
+    "Uyarlamada kalan vestibüler işlevin kazancı artırılır; örneğin VOR kazancı kısmen yükselir.",
+    "Yerine koymada eksik bilgi başka yollarla karşılanır; örneğin düzeltici sakkadlar ya da görme ve vücut duyusu kullanılır.",
+    "Alışmada (habituation), tekrarlanan bir uyarana verilen rahatsızlık yanıtı zamanla azalır.",
+    "Bazı kişilerde ise labirent işlevinin kendisi kısmen ya da tamamen düzelebilir.",
+    "Vestibüler rehabilitasyon programları bu mekanizmaları hedefleyen egzersizlerden oluşur; ayrıntılarını ileriki derslerde göreceğiz."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kompanzasyon",
+   "baslik": "Klinikte dikkat",
+   "metin": "Denge testlerinde hastanın hemen yanında durun ve düşmeye karşı hazır olun. Gözler kapalı ve köpük koşullarında güvenlik önceliklidir; gerekirse emniyet kemeri kullanın.",
+   "cumleler": [
+    "Bir klinik ipucu: denge testlerinde güvenlik her zaman önceliklidir.",
+    "Özellikle gözler kapalı ve köpük zemin koşullarında hastanın hemen yanında, düşmeye karşı hazır durun.",
+    "Yaşlı ya da belirgin dengesizliği olan kişilerde emniyet kemeri kullanmak ve çevrede sert köşe bırakmamak gerekir.",
+    "Koşulu tamamlayamayan kişide süreyi ve dengenin nasıl bozulduğunu kaydedin; bu bilgi de değerlidir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_Üç duyu_: görme, vestibüler, vücut duyusu",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Beyin duyuları koşula göre _ağırlıklandırır_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_VSR_ duruşu, VOR bakışı korur",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Kompanzasyon_: kayıptan sonra yeniden denge",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Denge; görme, vestibüler sistem ve somatosensoriyel sistemden gelen bilgilerle sağlanır.",
+    "Beyin bu duyulara koşula göre farklı ağırlık verir; köpük zeminde ve gözler kapalıyken vestibüler sistem öne çıkar.",
+    "Vestibülospinal refleks dik duruşu, VOR ise bakışın sabit kalmasını sağlar.",
+    "Tek taraflı kayıptan sonra beyin kompanzasyonla dengeyi yeniden kurar; hareket bu süreci destekler."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Köpük zeminde, gözler kapalıyken denge en çok hangi sisteme kalır?",
+   "secenekler": [
+    "Görme",
+    "Vestibüler sistem",
+    "Ayak tabanı duyusu",
+    "İşitme"
+   ],
+   "dogru": 1,
+   "aciklama": "Gözler kapalıyken görme, köpükte vücut duyusu azalır; denge _vestibüler sisteme_ kalır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Köpük zeminde, gözler kapalı dururken denge en çok hangi sisteme kalır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: vestibüler sistem.",
+     "ses": "Doğru cevap be: vestibüler sistem."
+    },
+    "Gözler kapalıyken görme, köpük zeminde ise vücut duyusu büyük ölçüde devre dışı kalır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Nistagmus nedir? *Yavaş faz* ve hızlı faz",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste vestibüler değerlendirmenin en önemli bulgusunu, yani nistagmusu öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

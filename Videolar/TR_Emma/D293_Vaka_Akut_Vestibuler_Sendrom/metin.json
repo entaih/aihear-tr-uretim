@@ -1,0 +1,1153 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D293_Vaka_Akut_Vestibuler_Sendrom_TR",
+ "kapak": {
+  "ust": "DERS 293",
+  "baslik": "Periferik mi,<br>*merkezi* mi?",
+  "alt": "Vaka: akut vestibüler sendrom",
+  "cizim": "beyin_sapi_vestibuler"
+ },
+ "youtube": {
+  "baslik": "Vaka: Akut Vestibüler Sendrom: Periferik mi Merkezi mi? | Ders 293 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir erişkin vakasında akut vestibüler sendromu değerlendiriyoruz: uyarı bulguları, HINTS (baş itme, nistagmus, skew testi) ve HINTS artı, periferik ve merkezi örüntülerin karşılaştırılması, acil yönlendirme adımları, vHIT, kalorik test ve VEMP ile tutulan bölümün belirlenmesi.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Kattah ve ark., HINTS to Diagnose Stroke in the Acute Vestibular Syndrome, Stroke, 2009; Barany Society, Vestibular Neuritis: Diagnostic Criteria (2022); Jacobson ve Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "HINTS",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "akut vestibüler sendrom",
+   "acute vestibular syndrome",
+   "HINTS",
+   "baş itme testi",
+   "skew testi",
+   "inme",
+   "stroke",
+   "vHIT",
+   "kalorik test",
+   "vestibüler nörit",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 293",
+   "baslik": "Vaka: akut *vestibüler* sendrom",
+   "alt": "Periferik mi merkezi mi? HINTS ve acil yönlendirme",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste aniden başlayan ve süren şiddetli baş dönmesiyle gelen bir hastayı adım adım değerlendiriyoruz.",
+    "Baş itme, nistagmus ve skew testi bulgularını, video baş itme ve kalorik test sonuçlarını, acil yönlendirme ölçütlerini uygulayacağız."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve ilk bakış",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Elli iki yaşında, örnek bir erkek",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Dün sabahtan beri _sürekli_ dönme",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Bulantı, kusma, baş hareketiyle artış",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bir hafta önce soğuk algınlığı",
+     "cumle": 3,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Yüksek tansiyon öyküsü",
+     "cumle": 4,
+     "ikon": "kalp"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Başlangıç",
+      "metin": "Dün sabah",
+      "cumle": 1
+     },
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Seyir",
+      "metin": "Sürekli",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalp",
+      "baslik": "Risk",
+      "metin": "Yüksek tansiyon",
+      "cumle": 4
+     }
+    ],
+    "ust": "ÖYKÜDE"
+   },
+   "cumleler": [
+    "Vakamız tamamen kurgusal bir örnektir: elli iki yaşında bir erkek, aile hekiminin denge testi istemiyle odyoloji birimine geliyor.",
+    "Dün sabah uyandığında başlayan dönme hissi o andan beri hiç geçmemiş; yani ataklar halinde değil, sürekli.",
+    "Bulantısı ve birkaç kez kusması olmuş; her baş hareketi yakınmasını artırıyor.",
+    "Bir hafta önce soğuk algınlığı geçirmiş.",
+    "Yüksek tansiyon için izleniyor; bu, damar kaynaklı bir neden açısından da dikkat gerektiren bir bilgidir.",
+    "Belirtilerin başladığı saat, sonradan kritik olabileceği için hemen not ediliyor."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve ilk bakış",
+   "baslik": "Akut vestibüler *sendrom*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Ani başlangıç",
+     "metin": "Saatler içinde",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Sürekli",
+     "metin": "Günlerce sürer",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Nistagmus",
+     "metin": "Muayenede var",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Dengesizlik",
+     "metin": "Yürürken belirgin",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Akut vestibüler sendrom (acute vestibular syndrome), kısaca AVS, aniden başlayan ve sürekli devam eden şiddetli baş dönmesidir.",
+    "Belirtiler saatlerle sınırlı kalmaz; genellikle günlerce sürer.",
+    "Muayenede çoğu zaman kendiliğinden bir nistagmus görülür.",
+    "Yürürken belirgin dengesizlik eşlik eder.",
+    "Vestibüler nörit tanı ölçütlerinde sürekli baş dönmesinin en az yirmi dört saat sürmesi aranır.",
+    "En sık neden vestibüler nörit gibi periferik bir sorundur; ama beyincik ya da beyin sapı inmesi (stroke) aynı tabloyla gelebilir."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve ilk bakış",
+   "baslik": "Önce *uyarı* bulguları",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Çift görme",
+     "metin": "Görme kaybı",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma, yutma",
+     "metin": "Peltek konuşma",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Uyuşma, güçsüzlük",
+     "metin": "Yüz, kol, bacak",
+     "cumle": 2
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Ani baş ağrısı",
+     "metin": "Ya da ense ağrısı",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Ayakta duramama",
+     "metin": "Yardımla bile",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Yeni işitme kaybı",
+     "metin": "Tek taraflı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Herhangi bir teste geçmeden önce uyarı bulguları sorulur ve gözlenir; ilki çift görme ya da görme kaybıdır.",
+    "Konuşma ya da yutma bozukluğu sorulur ve konuşma dinlenir.",
+    "Yüzde, kolda ya da bacakta uyuşma, güçsüzlük ve sakarlık sorgulanır.",
+    "Ani ve şiddetli baş ağrısı ya da ense ağrısı önemli bir uyarıdır.",
+    "Yardımla bile ayakta duramayan hasta, diğer bulgular ne olursa olsun acil değerlendirilir.",
+    "Akut baş dönmesiyle birlikte yeni bir işitme kaybı da iç kulağı besleyen damarın inmesi açısından acil değerlendirme gerektirir."
+   ]
+  },
+  {
+   "id": "nistagmus",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "HINTS",
+   "baslik": "Nistagmus: *tek yönlü*",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sol",
+    "tur": "sicramali",
+    "yavas_cumle": 1,
+    "hizli_cumle": 1,
+    "baslik": "Sola vuran nistagmus"
+   },
+   "notlar": [
+    {
+     "metin": "Yön: _sola_, sabit",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Bakışla yön değiştirmiyor",
+     "cumle": 2,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Hastamızda bu uyarı bulgularının hiçbiri yok; ayakta desteksiz durabiliyor, ama yürürken sallanıyor.",
+    "Video gözlükle karşıya bakarken sola vuran, yatay ve hafif torsiyonel bir nistagmus görülüyor.",
+    "Hasta sola baktığında nistagmus artıyor, sağa baktığında azalıyor, ama yönü değişmiyor; bu Alexander yasasıyla uyumludur.",
+    "Periferik nistagmus genellikle sağlam kulağa vurur; sola vuran nistagmus sağ tarafta bir sorunla uyumlu olabilir.",
+    "Bakış yönüyle yön değiştiren, saf dikey ya da saf torsiyonel bir nistagmus olsaydı merkezi bir nedeni düşünürdük.",
+    "Periferik nistagmus görsel fiksasyonla belirgin azalır; bu yüzden gözlem video gözlükle, fiksasyon kaldırılarak yapılır."
+   ]
+  },
+  {
+   "id": "hit",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "HINTS",
+   "baslik": "Baş itme: *sağda* sakkad",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 400,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 260,
+     "adim": 50,
+     "ad": "Hız (derece/sn)"
+    },
+    "seriler": [
+     {
+      "ad": "bas",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        40,
+        60
+       ],
+       [
+        80,
+        180
+       ],
+       [
+        110,
+        220
+       ],
+       [
+        140,
+        170
+       ],
+       [
+        180,
+        60
+       ],
+       [
+        220,
+        5
+       ],
+       [
+        260,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "baş",
+      "cumle": 1
+     },
+     {
+      "ad": "sol_itme",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        55
+       ],
+       [
+        85,
+        172
+       ],
+       [
+        115,
+        210
+       ],
+       [
+        145,
+        160
+       ],
+       [
+        185,
+        55
+       ],
+       [
+        225,
+        4
+       ],
+       [
+        265,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "göz: sola itme",
+      "cumle": 2
+     },
+     {
+      "ad": "sag_itme",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        45,
+        25
+       ],
+       [
+        85,
+        70
+       ],
+       [
+        115,
+        90
+       ],
+       [
+        145,
+        70
+       ],
+       [
+        185,
+        30
+       ],
+       [
+        215,
+        10
+       ],
+       [
+        235,
+        150
+       ],
+       [
+        255,
+        200
+       ],
+       [
+        275,
+        120
+       ],
+       [
+        300,
+        10
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "göz: sağa itme",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sakkad_bolgesi",
+      "x": [
+       215,
+       300
+      ],
+      "renk": "sari",
+      "etiket": "düzeltici sakkad",
+      "cumle": 4
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "sakkad_bolgesi",
+     "metin": "Düzeltici sakkad",
+     "cumle": 4,
+     "yer": "ust"
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sola itme: _normal_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sağa itme: _sakkad_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Baş itme testi, vestibülo-oküler refleksin, kısaca VOR'un iki tarafını ayrı ayrı sınar; boyun sorunu olmadığı önce sorulmuştur.",
+    "Lacivert çizgi, hızlı bir baş itmesi sırasında başın hızını gösteriyor.",
+    "Sola itmede göz başla neredeyse aynı hızda dönüyor; sol VOR yeterli.",
+    "Sağa itmede ise göz hızı başın çok gerisinde kalıyor ve bakış hedeften kayıyor.",
+    "Hasta hedefi yeniden yakalamak için düzeltici bir sakkad yapıyor; yani sağ VOR zayıf.",
+    "Akut vestibüler sendromda anormal baş itme testi periferik bir nedenle uyumludur; çünkü sorun labirentte ya da sinirdedir."
+   ]
+  },
+  {
+   "id": "skew",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "HINTS",
+   "baslik": "Skew testi: *dikey kayma* yok",
+   "cizim": "goz_kapatma",
+   "notlar": [
+    {
+     "metin": "Dönüşümlü göz kapatma",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Dikey düzeltme: _yok_",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Üçüncü adım skew testidir (test of skew); dönüşümlü göz kapatma testiyle yapılır.",
+    "Hasta karşıya bakarken bir göz kapatılır, sonra el hızla diğer göze geçer.",
+    "Kapağı kalkan gözün hedefi yakalamak için yukarı ya da aşağı düzeltme yapıp yapmadığına bakılır.",
+    "Hastamızda dikey bir düzeltme hareketi yok; yani skew sapması saptanmıyor.",
+    "Skew sapması otolit yolunun beyin sapındaki bölümünün etkilendiğini düşündürür; varlığı merkezi bir işarettir."
+   ],
+   "ayar": {
+    "sapma": false,
+    "kapat_cumle": 1,
+    "duzeltme_cumle": 3
+   }
+  },
+  {
+   "id": "hints",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "HINTS",
+   "baslik": "HINTS: *periferik* örüntü",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Baş itme",
+     "metin": "Anormal: sağda sakkad",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Nistagmus",
+     "metin": "Tek yönlü, sola",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Skew",
+     "metin": "Dikey kayma yok",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İşitme",
+     "metin": "Yeni kayıp yok",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "HINTS, yani baş itme, nistagmus ve skew testi bulgularını birlikte okuyalım: baş itme testi sağda anormal.",
+    "Nistagmus tek yönlü ve bakışla yön değiştirmiyor.",
+    "Skew sapması yok.",
+    "Parmak sürtme ile yapılan basit kontrolde yeni bir işitme kaybı da yok; HINTS artının dördüncü bileşeni de periferik örüntüye uyuyor.",
+    "Üç bileşenin üçü birden periferik örüntüye uymalıdır; tek bir merkezi bulgu bile merkezi bir nedeni düşündürür."
+   ]
+  },
+  {
+   "id": "ornek_b",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "HINTS",
+   "baslik": "Örnek B: *merkezi* örüntü",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Baş itme",
+     "metin": "Normal: sakkad yok",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Nistagmus",
+     "metin": "Bakışla yön değiştiriyor",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Skew",
+     "metin": "Dikey düzeltme var",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Karar",
+     "metin": "Acil hekim",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Şimdi aynı yakınmalarla gelen başka bir örnek düşünelim: bu kez baş itme testi iki tarafta da normal.",
+    "Nistagmus sağa bakınca sağa, sola bakınca sola vuruyor; yani bakış yönüyle yön değiştiriyor.",
+    "Dönüşümlü göz kapatmada gözlerden biri aşağıdan yukarı doğru düzeltme yapıyor; skew sapması var.",
+    "Bu bağlamda normal baş itme testi rahatlatıcı değildir; inmelerin çoğunda VOR yolu sağlam kaldığı için test normal çıkar.",
+    "Bu bulgulardan yalnız biri bile, testlerin durdurulup hastanın gecikmeden acil hekim değerlendirmesine yönlendirilmesi için yeterlidir."
+   ]
+  },
+  {
+   "id": "acil",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yönlendirme ve izlem",
+   "baslik": "Acil *yönlendirme* adımları",
+   "adimlar": [
+    {
+     "ikon": "uyari",
+     "baslik": "Testi durdur",
+     "metin": "Batarya bekletilir",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Saati yaz",
+     "metin": "Başlangıç ya da son sağlıklı",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Acil yol",
+     "metin": "Kurumun yöntemiyle",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kısa özet",
+     "metin": "Bulgular ve video",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Gecikmeden",
+     "metin": "Acil hekime",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Merkezi örüntü ya da bir uyarı bulgusu varsa planlanan test bataryası hemen bekletilir.",
+    "Belirtilerin başladığı saat ya da en son sağlıklı görüldüğü zaman kaydedilir; inmede bazı tedaviler yalnız ilk saatlerde yapılabilir.",
+    "Kurumun acil yönlendirme yolu kullanılır; hasta tek başına ve araç kullanarak gönderilmez.",
+    "Bulguların kısa ve net bir özeti, mümkünse göz hareketlerinin video kaydıyla birlikte iletilir.",
+    "Kuşkuda kalmak acil değerlendirme istemek için yeterli bir nedendir; gereksiz bir yönlendirme, kaçırılan bir inmeden her zaman daha iyidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Periferik örüntü, hekim değerlendirmesinin yerine geçmez. HINTS bir yönlendirme aracıdır, tanı koydurmaz.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: örüntü periferik olsa da, hekimin henüz görmediği bir akut vestibüler sendromu aynı gün hekime ulaştırın.",
+    "HINTS'in yüksek doğruluğu, ilk çalışmalarda deneyimli muayene edenlerle ve inme riski yüksek hastalarda gösterilmiştir.",
+    "Eğitimi sınırlı kişilerin yaptığı muayenede doğruluk belirgin biçimde düşebilir.",
+    "Bu yüzden bulgularınızı kaydedin ve tanı ile tedavi kararını hekime bırakın."
+   ]
+  },
+  {
+   "id": "vhit",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "vHIT ve kalorik",
+   "baslik": "vHIT: *altı kanal*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "ad": "Kanal",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "yazilar": {
+      "1": "Sağ lateral",
+      "2": "Sağ ön",
+      "3": "Sağ arka",
+      "4": "Sol lateral",
+      "5": "Sol ön",
+      "6": "Sol arka"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "vHIT kazancı"
+    },
+    "seriler": [
+     {
+      "ad": "dusuk",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0.42
+       ],
+       [
+        2,
+        0.55
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "düşük, sakkadlı",
+      "cumle": 2
+     },
+     {
+      "ad": "normal",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        0.86
+       ],
+       [
+        4,
+        0.95
+       ],
+       [
+        5,
+        0.9
+       ],
+       [
+        6,
+        0.88
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "normal",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 3.5,
+      "y": 0.8,
+      "cizgi": "yatay",
+      "etiket": "lateral için yaklaşık 0,8",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sağ lateral: _0,42_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sağ ön: _0,55_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sağ arka: _korunmuş_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Hastamız aynı gün acil serviste hekim tarafından değerlendirilmiş ve iki hafta sonra ayrıntılı vestibüler testler için geri gelmiş.",
+    "Video baş itme testinde, yani vHIT'te, sol taraftaki üç kanalın ve sağ arka kanalın kazancı normal.",
+    {
+     "yazi": "Sağ lateral kanal kazancı 0,42, sağ ön kanal kazancı 0,55; ikisinde de tekrarlayan sakkadlar var.",
+     "ses": "Sağ lateral kanal kazancı sıfır virgül kırk iki, sağ ön kanal kazancı sıfır virgül elli beş; ikisinde de tekrarlayan sakkadlar var."
+    },
+    "Sakkadların bir kısmı baş hareketi sürerken çıkan gizli sakkadlar; bunlar yatak başında çıplak gözle görülemez.",
+    "Lateral ve ön kanalın birlikte etkilenip arka kanalın korunması, superior vestibüler sinir bölümünün tutulumunu düşündürür.",
+    "Kazanç her zaman sakkadlarla birlikte yorumlanır; tek başına sayı yeterli değildir."
+   ]
+  },
+  {
+   "id": "kalorik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "vHIT ve kalorik",
+   "baslik": "Kalorik test: *sağda* zayıflık",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "ad": "Uygulama",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Sağ sıcak",
+      "2": "Sağ soğuk",
+      "3": "Sol sıcak",
+      "4": "Sol soğuk"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 30,
+     "adim": 5,
+     "ad": "Yavaş faz hızı (derece/sn)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        6
+       ],
+       [
+        2,
+        5
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "sağ: zayıf",
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        26
+       ],
+       [
+        4,
+        22
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "sol",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sağ: _belirgin düşük_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Zayıflık: _yaklaşık yüzde 63_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "vHIT ile _uyumlu_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Bulantı azaldıktan sonra iki ısılı kalorik test yapılıyor.",
+    "Sağ kulağa sıcak ve soğuk uygulamalarda yavaş faz hızları belirgin düşük.",
+    "Sol kulakta yanıtlar beklenen düzeyde.",
+    "Jongkees formülüyle hesaplanan sağ tek taraflı zayıflık yaklaşık yüzde altmış üç; yüzde yirmi ile yirmi beşin üzeri genellikle anlamlıdır.",
+    "Kalorik test lateral kanalı çok düşük frekansta sınar; vHIT ise yüksek frekansta altı kanalı.",
+    "Burada iki test aynı yönü gösteriyor: sağ lateral kanal yolunda belirgin bir kayıp."
+   ]
+  },
+  {
+   "id": "vemp",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "vHIT ve kalorik",
+   "baslik": "Hangi *bölüm* tutulmuş?",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true,
+    "sinir_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Üst bölüm: oVEMP yok",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Alt bölüm: cVEMP var",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Vestibüler sinirin üst bölümü lateral ve ön kanalı, utrikülü ve sakkülün bir kısmını; alt bölümü arka kanalı ve sakkülün çoğunu taşır.",
+    "Oküler vestibüler uyarılmış miyojenik potansiyel, yani oVEMP, sağda alınamıyor; bu utrikül ve üst bölümle ilişkilidir.",
+    "Servikal VEMP, yani cVEMP, iki tarafta da normal; sakkül ve alt bölüm korunmuş görünüyor.",
+    "Odyogram iki kulakta normal; bu da labirentitten ve iç kulağı besleyen damarın inmesinden ayırmada önemlidir.",
+    "Bütün bulgular, sağ superior vestibüler bölümü etkileyen periferik bir vestibüler kayıpla uyumludur; tanıyı hekim koyar."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yönlendirme ve izlem",
+   "baslik": "İzlem ve *rehabilitasyon*",
+   "maddeler": [
+    {
+     "metin": "Hekim izlemi sürer",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Vestibüler rehabilitasyon yönlendirmesi",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Hareket etmekten kaçınmamak",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Kontrolde vHIT ve anket",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yeni belirtide hemen başvuru",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "denge",
+      "baslik": "Rehabilitasyon",
+      "metin": "Egzersiz programı",
+      "cumle": 1
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "İzlem",
+      "metin": "vHIT ve anket",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Uyarı",
+      "metin": "Yeni belirtide acil",
+      "cumle": 5
+     }
+    ],
+    "ust": "SONRASI"
+   },
+   "cumleler": [
+    "Tanı, tedavi ve ilaç kararları hekime aittir; odyolog test sonuçlarını ve gözlemlerini raporlar.",
+    "Dinlenmede belirtiler azalsa da baş hareketiyle dengesizlik sürüyorsa hasta vestibüler rehabilitasyona yönlendirilebilir.",
+    "Hastaya, baş hareketlerinden kaçınmanın merkezi kompanzasyonu geciktirebileceği anlatılır.",
+    "Kontrolde vHIT, baş dönmesi engellilik anketi ve denge gözlemleri ilerlemeyi gösterir.",
+    "Kompanzasyon sırasında kazanç düşük kalsa bile yakınmalar azalabilir; sakkadlar da zamanla gizli sakkada dönüşebilir.",
+    "Yeni nörolojik belirti, işitme kaybı ya da şiddetli baş ağrısı olursa hemen acil başvurması gerektiği yazılı olarak verilir."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yönlendirme ve izlem",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "Spontan nistagmus: sola, tek yönlü",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Baş itme sağda anormal, skew yok",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "vHIT: sağ lateral ve ön düşük",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kalorik: sağda yüzde 63 zayıflık",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "oVEMP sağda yok, cVEMP normal",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 2,
+    "ayar": {
+     "x": {
+      "min": 0.4,
+      "max": 6.6,
+      "ad": "Kanal",
+      "isaretler": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6
+      ],
+      "yazilar": {
+       "1": "Sağ lateral",
+       "2": "Sağ ön",
+       "3": "Sağ arka",
+       "4": "Sol lateral",
+       "5": "Sol ön",
+       "6": "Sol arka"
+      }
+     },
+     "y": {
+      "min": 0,
+      "max": 1.2,
+      "adim": 0.2,
+      "ond": 1,
+      "ad": "vHIT kazancı"
+     },
+     "seriler": [
+      {
+       "ad": "dusuk",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1,
+         0.42
+        ],
+        [
+         2,
+         0.55
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "düşük, sakkadlı",
+       "cumle": 2
+      },
+      {
+       "ad": "normal",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         3,
+         0.86
+        ],
+        [
+         4,
+         0.95
+        ],
+        [
+         5,
+         0.9
+        ],
+        [
+         6,
+         0.88
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "normal",
+       "cumle": 1
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "sinir",
+       "x": 3.5,
+       "y": 0.8,
+       "cizgi": "yatay",
+       "etiket": "lateral için yaklaşık 0,8",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Örnek rapor dili: ilk başvuruda sola vuran, bakışla yön değiştirmeyen spontan nistagmus izlendi; skew sapması saptanmadı.",
+    "Yatak başı baş itme testi sağda anormaldi; hasta aynı gün acil hekim değerlendirmesine yönlendirildi.",
+    "İkinci hafta vHIT'te sağ lateral ve ön kanal kazançları düşük ve sakkadlıdır; diğer kanallar normaldir.",
+    "Kalorik testte sağda yaklaşık yüzde altmış üç tek taraflı zayıflık saptandı.",
+    "Sağ oVEMP alınamadı, cVEMP iki tarafta normal; bulgular sağ superior vestibüler bölüm tutulumuyla uyumludur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Önce uyarı bulgularını sor ve gözle",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Periferik: anormal baş itme, tek yön",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Normal baş itme, skew: merkezi",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "vHIT, kalorik ve VEMP tutulumu gösterir",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Akut vestibüler sendromda önce uyarı bulguları sorulur ve gözlenir; biri varsa acil yönlendirme yapılır.",
+    "Periferik örüntüde baş itme testi anormal, nistagmus tek yönlüdür ve skew sapması yoktur.",
+    "Normal baş itme, yön değiştiren nistagmus, skew sapması ya da yeni işitme kaybı merkezi nedeni düşündürür; acil yönlendirme gerekir.",
+    "Akut dönemden sonra vHIT, kalorik test ve VEMP, tutulan bölümü ve kaybın derecesini gösterir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sürekli baş dönmesinde hangi bulgu merkezi nedeni düşündürür?",
+   "secenekler": [
+    "Sağda düzeltici sakkad",
+    "Tek yönlü nistagmus",
+    "Normal baş itme testi",
+    "Kalorikte zayıflık"
+   ],
+   "dogru": 2,
+   "aciklama": "İnmelerin çoğunda _VOR yolu sağlam_ kalır; baş itme normal çıkar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Akut ve sürekli baş dönmesi olan bir hastada hangi bulgu merkezi bir nedeni düşündürür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: normal baş itme testi.",
+    "Periferik kayıpta baş itme anormaldir; beyincik ya da beyin sapı inmelerinin çoğunda ise VOR yolu sağlam kaldığı için test normal çıkar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tele-odyoloji: *uzaktan* test ve cihaz ayarı",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste güncel konulara geçiyor ve tele-odyolojiyi, yani uzaktan test ve cihaz ayarını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

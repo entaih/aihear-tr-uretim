@@ -1,0 +1,829 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D087_Kulaklar_Arasi_Zayiflama_TR",
+ "kapak": {
+  "ust": "DERS 87",
+  "baslik": "Neden<br>*maskeleme?*",
+  "alt": "Çapraz işitme ve kulaklar arası zayıflama",
+  "cizim": "maskeleme"
+ },
+ "youtube": {
+  "baslik": "Neden Maskeleme Yaparız? Kulaklar Arası Zayıflama | Ders 87 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Test kulağına verilen ses kafatası üzerinden karşı kokleaya geçebilir ve yanlış eşiklere yol açabilir. Bu derste çapraz işitmeyi, gölge eğrisini, kulaklar arası zayıflama (IA) değerlerini ve insert kulaklığın avantajlarını örnek odyogramlarla inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ],
+  "etiketler": [
+   "klinik maskeleme",
+   "kulaklar arası zayıflama",
+   "interaural attenuation",
+   "çapraz işitme",
+   "cross-hearing",
+   "gölge eğrisi",
+   "shadow curve",
+   "insert kulaklık",
+   "saf ses odyometrisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 87",
+   "baslik": "Neden *maskeleme* yaparız?",
+   "alt": "Çapraz işitme, gölge eğrisi ve kulaklar arası zayıflama",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste klinik maskelemenin neden gerekli olduğunu ve kulaklar arası zayıflama kavramını öğreneceğiz.",
+    "Gölge eğrisini tanımayı ve insert kulaklığın neden avantajlı olduğunu da göreceğiz."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Çapraz işitme",
+   "baslik": "Ses *karşı kulağa* geçer",
+   "maddeler": [
+    {
+     "metin": "Test sesi kafatasını _titreştirir_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Karşı koklea sesi _algılayabilir_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Çapraz işitme_ (cross-hearing)",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Sonuç: _yanlış_ eşik",
+     "cumle": 5,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "test_kulagi",
+      "cumle": 1
+     },
+     {
+      "parca": "kafatasi",
+      "cumle": 1
+     },
+     {
+      "parca": "karsi_kulak",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "test_kulagi",
+      "metin": "Test kulağı",
+      "cumle": 1
+     },
+     {
+      "parca": "karsi_kulak",
+      "metin": "Karşı koklea duyar",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Saf ses odyometrisinde her kulağın eşiğini ayrı ayrı bulmak isteriz.",
+    "Ancak test kulağına yeterince şiddetli bir ses verildiğinde, kulaklık kafatasını da titreştirir.",
+    "Bu titreşim kemik yoluyla karşı tarafın kokleasına ulaşır ve oradaki koklea sesi algılayabilir.",
+    "Bu olaya çapraz işitme (cross-hearing) denir.",
+    "Hasta sesi duyduğunu belirtir; ama sesi aslında test edilen kulakla değil, karşı kulakla duymuştur.",
+    "Böylece kaydettiğimiz eşik, test edilen kulağın gerçek eşiği olmaz.",
+    "İki kulağın işitmesi birbirine yakınsa bu sorun pek ortaya çıkmaz; asıl risk, iki kulak arasında büyük fark olduğunda doğar."
+   ]
+  },
+  {
+   "id": "zayiflama",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Çapraz işitme",
+   "baslik": "Kulaklar arası *zayıflama*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "test_kulagi",
+     "cumle": 0
+    },
+    {
+     "parca": "kafatasi",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "test kulağı",
+     "cumle": 0
+    },
+    {
+     "parca": "kafatasi",
+     "metin": "kafatası",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "karşı kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: yaklaşık 40 dB",
+     "cumle": 3
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "maskeleme gürültüsü",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "IA: karşıya geçerken kaybolan şiddet",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "70 dB eksi 40 dB: karşıya 30 dB",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Çözüm: karşı kulağa gürültü",
+     "cumle": 6,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Şemada test kulağını ve karşı kulağı görüyoruz.",
+    "Test kulağına verilen ses, kafatası üzerinden karşı tarafa geçerken bir miktar zayıflar.",
+    "Karşı kokleaya ulaşan ses, başlangıçtaki sesten daha düşük şiddettedir.",
+    "Bu zayıflama miktarına kulaklar arası zayıflama (interaural attenuation), kısaca IA denir.",
+    "Örneğin IA kırk desibel ise, test kulağına verilen yetmiş desibellik ses karşı kokleaya yaklaşık otuz desibel olarak ulaşır.",
+    "Karşı kulağın kemik yolu eşiği otuz desibel ya da daha iyiyse, bu ses orada duyulabilir.",
+    "Bunu önlemek için karşı kulağa gürültü veririz; bu işleme klinik maskeleme denir."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Çapraz işitme",
+   "baslik": "Yanlış eşik, *yanlış karar*",
+   "maddeler": [
+    {
+     "metin": "Kayıp olduğundan _hafif_ görünür",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Sahte _hava-kemik aralığı_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yanlış _yönlendirme_ ve cihaz kararı",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Tek taraflı kaybın _gözden kaçması_",
+     "cumle": 4,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Çapraz işitme fark edilmezse, kötü kulağın kaybı olduğundan daha hafif görünür.",
+    "Örneğin hiç duymayan bir kulak, orta derecede kaybı varmış gibi kaydedilebilir.",
+    "Maskesiz kemik yolu yanıtları ise sensörinöral bir kaybı iletim tipi kayıp gibi gösterebilir.",
+    "Bu hatalar yanlış yönlendirmelere, uygun olmayan cihaz kararlarına ve gereksiz tetkiklere yol açabilir.",
+    "Tek taraflı ileri kayıplar ileri inceleme gerektirebildiği için, bu kulakta doğru eşik ayrıca önemlidir.",
+    "Kısacası maskeleme, odyogramdaki her eşiğin gerçekten ait olduğu kulağı gösterdiğini garanti eden temel adımdır."
+   ]
+  },
+  {
+   "id": "golge",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Gölge eğrisi",
+   "baslik": "*Gölge* eğrisi",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: normal işitme",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: maskesiz hava yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Sol_: maskesiz kemik yolu",
+     "cumle": 5
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       55,
+       60,
+       60,
+       65,
+       65,
+       70
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 5
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Şimdi bir örnek düşünelim: bu örnekte sağ kulak normal işitiyor.",
+    "Sol kulak ise hiç duymuyor; yani sol kokleanın hiçbir uyarana yanıtı yok.",
+    "Sol kulağı maskesiz test ettiğimizde, yine de elli beş ile yetmiş desibel arasında yanıtlar alırız.",
+    "Bu yanıtlar sol kulağa ait değildir; ses kafatasından geçip sağ kokleada duyulmuştur.",
+    "Bu sahte eşiklerin oluşturduğu eğriye gölge eğrisi (shadow curve) denir; iyi kulağın eğrisini yaklaşık IA kadar aşağıda izler.",
+    "Sol kulağın maskesiz kemik yolu eşikleri ise neredeyse sağ kulakla aynı çıkar.",
+    "Bu tablo yanlışlıkla sol kulakta iletim tipi kayıp varmış gibi okunabilir; oysa sol kulak hiç duymuyor.",
+    "Maskeleme, işte bu tür ciddi yorum hatalarını önlemek için yapılır."
+   ]
+  },
+  {
+   "id": "maskeli",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Gölge eğrisi",
+   "baslik": "Maskeleme sonrası *gerçek* tablo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: normal işitme",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli, yanıt yok",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "yanitsiz": true,
+      "degerler": [
+       100,
+       115,
+       120,
+       120,
+       120,
+       105
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Aynı hastada sağ kulağa uygun düzeyde maskeleme gürültüsü verip sol kulağı yeniden test edelim.",
+    "Sağ koklea gürültüyle meşgul olduğu için artık çapraz işitme olmaz.",
+    "Sol kulakta cihazın en yüksek çıkış düzeyinde bile yanıt alınamaz; aşağı oklar yanıt olmadığını gösterir.",
+    "Sol kulağın maskeli hava yolu eşikleri mavi kare ile işaretlenir.",
+    "Böylece odyogram, sol kulakta cihaz sınırlarında yanıt olmadığını doğru biçimde gösterir."
+   ]
+  },
+  {
+   "id": "isaretler",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Gölge eğrisi",
+   "baslik": "Maskeli *işaretler*",
+   "lejant": [
+    {
+     "isaret": "△",
+     "renk": "sag",
+     "metin": "_Sağ_: maskeli hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Sağ_: maskeli kemik yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli kemik yolu",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       65,
+       70,
+       70,
+       75,
+       80
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       55,
+       60,
+       65,
+       65,
+       70
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       20,
+       20
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Maskeleme yapıldığında odyogramda farklı işaretler kullanılır.",
+    "Sağ kulağın maskeli hava yolu eşiği kırmızı üçgen, sol kulağınki mavi kare ile gösterilir.",
+    "Maskeli kemik yolu eşikleri ise sağ kulakta açılan, sol kulakta kapanan köşeli parantezle işaretlenir.",
+    "Bu örnekte sol kulak normal, sağ kulakta ise eşikleri maskeleme ile doğrulanmış sensörinöral bir kayıp var.",
+    "Odyogramı okuyan herkes, bu işaretlerden maskeleme yapıldığını hemen anlar.",
+    "Bu yüzden maskeleme yapıldıysa doğru işaret seçilmeli ve kullanılan maskeleme düzeyi de kayda geçmelidir."
+   ]
+  },
+  {
+   "id": "degerler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "IA değerleri",
+   "baslik": "Dönüştürücüye göre *IA*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supra-aural kulaklık",
+     "metin": "Temkinli IA _yaklaşık 40 dB_; en sık kural",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Insert kulaklık",
+     "metin": "Temkinli IA _yaklaşık 55 dB_; pes frekansta daha yüksek",
+     "cumle": 3
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik vibratörü",
+     "metin": "IA _yaklaşık 0 dB_; iki koklea uyarılır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "IA değeri kişiden kişiye, frekansa ve kullanılan dönüştürücüye göre değişir.",
+    "Kulak kepçesinin üzerine oturan supra-aural kulaklıklarda IA en az yaklaşık kırk desibel kabul edilir.",
+    "Gerçek değer çoğu kişide daha yüksektir, ancak güvenli tarafta kalmak için en düşük değer kullanılır.",
+    "Kulak yoluna yerleştirilen insert kulaklıklarda IA daha yüksektir; doğru yerleştirildiğinde temkinli değer yaklaşık elli beş desibeldir.",
+    "Insert kulaklıkta IA frekansa bağlıdır: pes frekanslarda çoğu zaman yetmiş desibelin üzerindedir, tiz frekanslarda daha düşüktür.",
+    "Kemik vibratöründe ise IA yaklaşık sıfır desibel kabul edilir; kafatası bütün olarak titreşir ve iki koklea da uyarılır.",
+    "Bu yüzden maskesiz bir kemik yolu eşiğinin hangi kulağa ait olduğunu kesin olarak bilemeyiz."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "IA değerleri",
+   "baslik": "IA'yı *etkileyen* etkenler",
+   "maddeler": [
+    {
+     "metin": "Bireysel _kafa yapısı_",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Test _frekansı_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kulaklığın _oturuşu_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Insert ucun _derinliği_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KURAL",
+    "metin": "Hastanın IA değeri bilinmez; *en temkinli* değer kullanılır",
+    "cumle": 5
+   },
+   "cumleler": [
+    "IA değerleri, tek taraflı total kaybı olan kişilerde maskesiz eşikler iyi kulağın eşikleriyle karşılaştırılarak ölçülmüştür.",
+    "Bu ölçümler, aynı kulaklıkla bile kişiden kişiye geniş farklar olduğunu gösterir.",
+    "Supra-aural kulaklıkta IA, kişiye ve frekansa göre yaklaşık kırk ile seksen desibel arasında değişebilir.",
+    "Kulaklığın baş üzerindeki oturuşu ve baskısı da sonucu etkiler.",
+    "Insert kulaklıkta ise köpük ucun kulak yoluna ne kadar derin yerleştirildiği belirleyicidir.",
+    "Hastanın kendi IA değerini bilemediğimiz için, klinikte her zaman en düşük, yani en temkinli değeri kullanırız."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "IA değerleri",
+   "baslik": "Çapraz işitme *ne zaman* olur?",
+   "maddeler": [
+    {
+     "metin": "Karşıya ulaşan: _sunum düzeyi eksi IA_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ölçüt: karşı kulağın _kemik yolu_ eşiği",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Ulaşan ses eşiğe ulaşırsa _risk_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ayrıntılı kural: _sonraki ders_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÖRNEK",
+    "metin": "70 dB eksi 40 dB IA: karşıya *30 dB* ulaşır",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Karşı kokleaya ulaşan ses düzeyini kabaca, test kulağına verilen düzeyden IA değerini çıkararak tahmin ederiz.",
+    "Çapraz geçen ses karşı kokleayı kemik yoluyla uyardığı için, karşılaştırmayı karşı kulağın kemik yolu eşiğiyle yaparız.",
+    "Ulaşan ses bu kemik yolu eşiğine eşit ya da ondan yüksekse, çapraz işitme olasıdır ve maskeleme gerekir.",
+    "Örneğin yetmiş desibellik bir test sesi, kırk desibellik IA ile karşı kokleaya yaklaşık otuz desibel olarak ulaşır.",
+    "Hava yolu için bu kararın nasıl verileceğini bir sonraki derste örnek odyogramlarla ayrıntılı çalışacağız."
+   ]
+  },
+  {
+   "id": "nerede",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "IA değerleri",
+   "baslik": "Maskeleme *nerelerde* gerekir?",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Hava yolu",
+     "metin": "Fark IA'ya ulaşınca",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik yolu",
+     "metin": "Hava-kemik aralığı varsa",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma testleri",
+     "metin": "Sunum düzeyi yüksekse",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Hava yolunda, test kulağının eşiği ile karşı kulağın kemik yolu eşiği arasındaki fark IA değerine ulaştığında maskeleme gerekir.",
+    "Kemik yolunda IA sıfır kabul edildiği için, test kulağında anlamlı bir hava-kemik aralığı görüldüğünde maskeleme gerekir.",
+    "Konuşma testlerinde de sunum düzeyi karşı kulağa geçebilecek kadar yüksekse maskeleme yapılır.",
+    "Bu üç durumu sonraki derslerde tek tek, örnek odyogramlarla inceleyeceğiz."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Insert kulaklık",
+   "baslik": "Supra-aural mı, *insert* mi?",
+   "sol": {
+    "ust": "Supra-aural",
+    "maddeler": [
+     {
+      "metin": "IA en az yaklaşık 40 dB",
+      "cumle": 0
+     },
+     {
+      "metin": "Daha sık maskeleme gerekir",
+      "cumle": 1
+     },
+     {
+      "metin": "Kulak yolu çökmesi riski",
+      "cumle": 2
+     },
+     {
+      "metin": "Oklüzyon etkisi daha belirgin",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Insert",
+    "maddeler": [
+     {
+      "metin": "IA daha yüksek",
+      "cumle": 4
+     },
+     {
+      "metin": "Maskeleme ihtiyacı azalır",
+      "cumle": 4
+     },
+     {
+      "metin": "Maskeleme ikilemi daha seyrek",
+      "cumle": 5
+     },
+     {
+      "metin": "Tek kullanımlık köpük uç",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Supra-aural kulaklıkta IA'nın düşük olması, maskeleme ihtiyacını sık hale getirir.",
+    "Özellikle tek taraflı ya da asimetrik kayıplarda neredeyse her frekansta maskeleme gerekebilir.",
+    "Ayrıca supra-aural kulaklığın baskısı, bazı kişilerde kulak yolunun çökmesine ve yanlış yüksek eşiklere yol açabilir.",
+    "Kemik yolu testinde karşı kulağın bu kulaklıkla kapatılması da daha belirgin bir oklüzyon etkisi yaratır.",
+    "Insert kulaklıkta IA daha yüksek olduğu için maskeleme gereken durumlar azalır.",
+    "İki taraflı iletim tipi kayıpta görülen maskeleme ikilemi de insert kulaklıkla daha seyrek yaşanır.",
+    "Köpük uçlar tek kullanımlıktır; bu da hijyen açısından ayrıca avantaj sağlar.",
+    "Ancak kulak yolu akıntısı ya da atrezisi gibi durumlarda insert kulaklık kullanılamayabilir."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Insert kulaklık",
+   "baslik": "Maskeleme *gürültüsü*",
+   "maddeler": [
+    {
+     "metin": "Gürültü _karşı kulağa_ verilir",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Saf seste _dar bant gürültü_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Konuşmada _konuşma gürültüsü_",
+     "cumle": 4,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Talimat: yalnız _tonu_ yanıtla",
+     "cumle": 5,
+     "ikon": "hasta_butonu"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     },
+     {
+      "parca": "karsi_kulak",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "metin": "Maskeleme gürültüsü",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Maskelemede gürültü her zaman test edilmeyen, yani karşı kulağa verilir.",
+    "Gürültü, karşı kulağın eşiğini geçici olarak yükseltir; böylece çapraz geçen ses orada duyulamaz.",
+    "Saf ses testinde, test frekansını merkez alan dar bant gürültü kullanılır.",
+    "Dar bant gürültü, aynı maskeleme etkisini daha düşük toplam ses yüksekliğiyle sağlar.",
+    "Konuşma testlerinde ise konuşma spektrumuna benzeyen konuşma gürültüsü tercih edilir.",
+    "Hastaya gürültüyü dikkate almadan, yalnız tonu duyduğunda yanıt vermesi gerektiği açıkça anlatılır.",
+    "Gürültünün ne kadar olması gerektiğini ise etkin maskeleme ve plato yöntemi derslerinde ele alacağız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kötü kulağın maskesiz eşikleri iyi kulağa paralel ve 40 ile 60 dB aşağıdaysa gölge eğrisinden şüphelenin. Maskelemeden sonuç yazmayın.",
+   "cumleler": [
+    "Sahadan pratik bir ipucu verelim.",
+    "Tek taraflı bir kayıpta, kötü kulağın maskesiz eşikleri iyi kulağın eğrisine paralel uzanıyor olabilir.",
+    "Fark da yaklaşık kırk ile altmış desibel civarındaysa, bu bir gölge eğrisi işaretidir.",
+    "Böyle bir odyogramı maskeleme yapmadan son sonuç olarak yazmayın.",
+    "Aynı kulakta maskesiz kemik yolu yanıtları da varsa, sahte bir hava-kemik aralığı oluşabileceğini unutmayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_Çapraz işitme_: ses karşı kokleaya geçer",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_IA_: geçiş sırasındaki zayıflama",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Supra-aural 40, insert _yaklaşık 55_ dB",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Kemik yolunda IA _yaklaşık 0 dB_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Yüksek şiddetteki test sesi kafatasından karşı kokleaya geçebilir; buna çapraz işitme denir.",
+    "Bu geçiş sırasında sesin uğradığı kayba kulaklar arası zayıflama, yani IA denir.",
+    "Temkinli IA değeri supra-aural kulaklıkta yaklaşık kırk, insert kulaklıkta yaklaşık elli beş desibeldir.",
+    "Kemik yolunda IA yaklaşık sıfır kabul edilir; bu yüzden maskesiz kemik yolu hangi kulağa ait olduğunu söylemez."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Kemik vibratöründe IA yaklaşık kaç dB?",
+   "secenekler": [
+    "0 dB",
+    "40 dB",
+    "60 dB",
+    "80 dB"
+   ],
+   "dogru": 0,
+   "aciklama": "Kemik vibratörü kafatasını bütün olarak titreştirir; iki koklea da _neredeyse eşit_ uyarılır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Kemik vibratöründe kulaklar arası zayıflama yaklaşık kaç desibel kabul edilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: yaklaşık sıfır desibel.",
+    "Kemik vibratörü kafatasını bütün olarak titreştirir ve iki koklea neredeyse eşit düzeyde uyarılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Hava yolunda maskeleme *ne zaman?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, hava yolu testinde maskelemenin ne zaman gerektiğini örnek odyogramlarla öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

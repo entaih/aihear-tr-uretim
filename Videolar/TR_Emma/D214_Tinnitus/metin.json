@@ -1,0 +1,625 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D214_Tinnitus_TR",
+ "kapak": {
+  "ust": "DERS 214",
+  "baslik": "*Tinnitus*<br>nedir?",
+  "alt": "Türleri ve mekanizmaları",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "Tinnitus nedir? Türleri ve mekanizmaları | Ders 214 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kulak çınlaması neden olur, neden bazı kişileri çok rahatsız eder? Bu derste subjektif ve objektif tinnitusu, işitme kaybı ile merkezi kazanç artışının rolünü, dikkat ve duygu ağlarının etkisini, tinnitusun sıklığını ve günlük yaşama etkilerini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Tunkel ve ark., Clinical Practice Guideline: Tinnitus, Otolaryngology-Head and Neck Surgery (2014); NICE, Tinnitus: assessment and management (NG155, 2020); Jastreboff, Phantom auditory perception (tinnitus): mechanisms of generation and perception, Neuroscience Research (1990); Jarach ve ark., Global prevalence and incidence of tinnitus, JAMA Neurology (2022); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "tinnitus",
+   "kulakçınlaması"
+  ],
+  "etiketler": [
+   "tinnitus",
+   "kulak çınlaması",
+   "subjektif tinnitus",
+   "objektif tinnitus",
+   "merkezi kazanç",
+   "central gain",
+   "Jastreboff",
+   "işitme kaybı",
+   "hiperakuzi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 214",
+   "baslik": "*Tinnitus* nedir?",
+   "alt": "Türleri, mekanizmaları ve etkileri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste tinnitusun ne olduğunu, türlerini ve nasıl ortaya çıktığını açıklayan mekanizmaları öğreneceğiz.",
+    "Ayrıca neden bazı kişilerin tinnitustan çok etkilendiğini, bazılarının ise neredeyse hiç rahatsız olmadığını konuşacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve türler",
+   "baslik": "Tinnitus *nedir?*",
+   "maddeler": [
+    {
+     "metin": "Dış kaynak olmadan ses algısı",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Çınlama, vızıltı, uğultu, tıslama",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Bir hastalık değil, bir _belirti_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Çoğunlukla işitme kaybıyla birlikte",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TINNITUS",
+    "metin": "Dışarıda bir ses kaynağı yokken *ses algılanması*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Tinnitus, dışarıda bir ses kaynağı olmadığı halde kulakta ya da başta ses algılanmasıdır.",
+    "Türkçede çoğu zaman kulak çınlaması denir; ancak klinikte tinnitus terimini kullanırız.",
+    "Kişiler bu sesi çınlama, vızıltı, uğultu, tıslama ya da cızırtı gibi farklı biçimlerde tarif eder.",
+    "Tinnitus tek başına bir hastalık değil, işitme sistemindeki bir değişikliğin belirtisidir.",
+    "Bu yüzden altta yatan nedenin anlaşılması için ayrıntılı bir odyolojik ve tıbbi değerlendirme gerekir.",
+    "Tinnitus yaşayan kişilerin büyük çoğunluğunda ölçülebilir bir işitme kaybı da bulunur.",
+    "Öte yandan çok sessiz bir odada kısa süreli, hafif bir çınlama fark etmek pek çok kişide görülür ve tek başına bir sorun göstermez."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve türler",
+   "baslik": "Subjektif ve *objektif* tinnitus",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Subjektif",
+     "metin": "Yalnız kişi duyar, en yaygın",
+     "cumle": 0
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Objektif",
+     "metin": "Gerçek vücut sesi, muayeneyle duyulabilir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Subjektif tinnitus, yalnız kişinin kendisinin duyduğu tinnitustur.",
+    "Klinikte karşılaşılan tinnitusun büyük çoğunluğu bu türdendir.",
+    "Burada kulakta gerçek bir ses yoktur; algı, işitme yollarındaki sinirsel etkinlik değişikliklerinden kaynaklanır.",
+    "Objektif tinnitus ise vücutta gerçekten oluşan bir sesin algılanmasıdır.",
+    "Bu ses bazen muayene eden kişi tarafından stetoskopla ya da kulak yolundaki bir mikrofonla duyulabilir.",
+    "Nedenleri arasında damar kaynaklı akım sesleri ve orta kulak kaslarının ritmik kasılmaları sayılabilir.",
+    "Objektif tinnitus nadirdir ve çoğu zaman ileri değerlendirme gerektirir; bir sonraki derste ayrıntısına gireceğiz."
+   ]
+  },
+  {
+   "id": "siniflama",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve türler",
+   "baslik": "Diğer *sınıflamalar*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Taraf",
+     "metin": "Tek ya da iki taraflı",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ses türü",
+     "metin": "Tonal ya da gürültü benzeri",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Pulsatil",
+     "metin": "Nabızla uyumlu",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Süre",
+     "metin": "Yeni başlangıçlı ya da kalıcı",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Rahatsızlık",
+     "metin": "Rahatsız eden ya da etmeyen",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Tinnitus tek kulakta, iki kulakta ya da başın ortasında algılanabilir.",
+    "Ses tek bir perdede ıslık gibi tonal olabilir ya da hışırtı gibi gürültü benzeri olabilir.",
+    "Nabızla eş zamanlı atan tinnitusa pulsatil tinnitus denir; bu tür ayrıca önemsenir.",
+    "Süreye göre yeni başlangıçlı ve kalıcı tinnitus ayrılır; Amerikan kılavuzu 6 aydan uzun süren tinnitusu kalıcı kabul eder.",
+    "Klinik açıdan belki de en önemli ayrım, tinnitusun kişiyi rahatsız edip etmediğidir.",
+    "Aynı şiddette tinnitus bir kişide fark edilmezken, bir başkasında uykuyu ve günlük yaşamı belirgin biçimde etkileyebilir."
+   ]
+  },
+  {
+   "id": "siklik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sıklık ve etkiler",
+   "baslik": "Ne kadar *yaygın?*",
+   "maddeler": [
+    {
+     "metin": "Yetişkinlerde yaklaşık _yüzde 14_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ağır rahatsızlık: yaklaşık yüzde 2",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yaş ve işitme kaybıyla artar",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Uyku, dikkat ve duygu durumu",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "HİPERAKUZİ",
+    "metin": "Tinnitusa sık eşlik eden *ses hassasiyeti*",
+    "cumle": 6
+   },
+   "cumleler": [
+    "Geniş bir meta-analizde yetişkinlerde tinnitus sıklığı yaklaşık yüzde 14 olarak bulunmuştur.",
+    "Tinnitusu ağır biçimde rahatsız edici olan yetişkinlerin oranı ise yaklaşık yüzde 2 civarındadır.",
+    "Tinnitus sıklığı yaşla ve işitme kaybıyla birlikte artar.",
+    "Ancak çocuklarda ve gençlerde de görülebilir; özellikle yüksek sesle müzik dinleme sonrasında geçici tinnitus sıktır.",
+    "Rahatsız edici tinnitus en çok uykuya dalmayı, dikkat ve odaklanmayı etkiler.",
+    "Kaygı ve depresif belirtiler tinnitusla birlikte sık görülür ve birbirini besleyebilir.",
+    "Tinnitusa günlük seslere karşı aşırı hassasiyet de sık eşlik eder; buna hiperakuzi (hyperacusis) denir."
+   ]
+  },
+  {
+   "id": "riskler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sıklık ve etkiler",
+   "baslik": "Başlıca *risk etkenleri*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "İşitme kaybı",
+     "metin": "Presbiakuzi, gürültü",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüye maruz kalma",
+     "metin": "İş yeri, konser",
+     "cumle": 1
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoksik ilaçlar",
+     "metin": "Bazı antibiyotikler, sisplatin",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak hastalıkları",
+     "metin": "Meniere, otoskleroz",
+     "cumle": 3
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Somatik etkenler",
+     "metin": "Çene eklemi, boyun",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tinnitus için en güçlü risk etkeni işitme kaybıdır; yaşa bağlı işitme kaybı ve gürültüye bağlı kayıp en sık örneklerdir.",
+    "İş yerinde ya da eğlence ortamlarında yüksek gürültüye maruz kalmak, kalıcı tinnitusun önemli bir nedenidir.",
+    "Aminoglikozid grubu bazı antibiyotikler, sisplatin ve yüksek doz salisilat gibi ototoksik ilaçlar da tinnitusa yol açabilir.",
+    "Meniere hastalığı ve otoskleroz gibi kulak hastalıklarında tinnitus sık görülen bir belirtidir.",
+    "Bazı kişilerde çene eklemi ya da boyun hareketleri tinnitusun şiddetini değiştirebilir; buna somatik tinnitus denir.",
+    "Stres ve kaygı ise çoğu zaman tinnitusu başlatmaktan çok, onun daha rahatsız edici algılanmasına katkıda bulunur."
+   ]
+  },
+  {
+   "id": "corti",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Mekanizmalar",
+   "baslik": "Başlangıç noktası: *koklea*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "dış tüy hücreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "iç tüy hücresi",
+     "cumle": 2
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "sinir lifleri",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hasar, beyne giden girdiyi azaltır",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tinnitus kulakta değil, beyinde algılanır",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Subjektif tinnitusun en yaygın başlangıç noktası koklea, yani salyangozdaki hasardır.",
+    "Gürültü, yaş ya da ototoksik ilaçlar önce çoğunlukla dış tüy hücrelerini etkiler.",
+    "İç tüy hücreleri ve bunlara bağlı sinir lifleri de zarar görebilir.",
+    "Sonuçta belirli frekans bölgelerinden beyne giden sinirsel girdi azalır.",
+    "İlginç olan şu: tinnitus çoğu zaman bu azalan girdiye karşı beynin verdiği yanıttan doğar.",
+    "Bu yüzden işitme siniri kesilmiş kişilerde bile tinnitus sürebilir; yani algı, kulakta değil, merkezi işitme yollarında oluşur.",
+    "Dış tüy hücresi hasarı odyogramda eşik kaybı olarak görülür; sinir lifi kaybı ise her zaman eşiğe yansımayabilir."
+   ]
+  },
+  {
+   "id": "merkezi_kazanc",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Mekanizmalar",
+   "baslik": "*Merkezi kazanç* artışı",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklear_nukleus",
+     "metin": "koklear nükleus",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior kollikulus",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "işitsel korteks",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Azalan girdi, artan duyarlılık",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kendiliğinden etkinlik artar",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Frekans haritası yeniden düzenlenir",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Merkezi işitme sistemi, kokleadan gelen girdi azaldığında bunu dengelemeye çalışır.",
+    "Sinir hücreleri duyarlılıklarını artırır; bu sürece merkezi kazanç artışı (central gain) denir.",
+    "Koklear nükleus, yani koklear çekirdek ve inferior kollikulus, yani alt tepecik düzeyinde, sessizlikte bile kendiliğinden etkinlik artar.",
+    "Bu artmış ve daha eş zamanlı hale gelen etkinlik, işitsel kortekste bir ses olarak algılanabilir.",
+    "Ayrıca kortekste, girdisi azalan frekans bölgesinin temsil haritası yeniden düzenlenebilir.",
+    "Bu nedenle tinnitus perdesi çoğu zaman işitme kaybının bulunduğu frekans bölgesine yakındır.",
+    "Bu süreç, kol kaybından sonra hissedilen hayalet ağrıya benzetilir; tinnitus bir tür hayalet işitsel algıdır."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Mekanizmalar",
+   "baslik": "Örnek: kayıp ve *tinnitus perdesi*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ bölge",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       25,
+       50,
+       30
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       30,
+       55,
+       35
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Bu örnekte iki kulakta da 4000 Hz civarında belirgin bir çentik ve 8000 Hz'de kısmi bir toparlanma görülüyor.",
+    "Alçak ve orta frekanslar ise büyük ölçüde normal bölgede.",
+    "Bu biçim, gürültüye bağlı işitme kaybında sık görülen bir örüntüdür.",
+    "Böyle bir kişide tinnitus perdesi eşleştirildiğinde, çoğu zaman kaybın bulunduğu 4000 Hz çevresine yakın bir perde bulunur.",
+    "Bu, tinnitusun girdisi azalmış frekans bölgesiyle ilişkili olduğu görüşünü destekleyen klinik bir gözlemdir.",
+    "Ancak perde her zaman en derin kayıp noktasına denk gelmez; kaybın kenarına ya da başka bir bölgeye de yakın olabilir."
+   ]
+  },
+  {
+   "id": "normal_odyogram",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Mekanizmalar",
+   "baslik": "Odyogram *normalse?*",
+   "maddeler": [
+    {
+     "metin": "8000 Hz üstü frekanslarda kayıp",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Gizli kayıp: _koklear sinaptopati_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Somatik etkenler",
+     "cumle": 4,
+     "ikon": "agri"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "corti",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "ic_tuy_hucresi",
+      "metin": "iç tüy hücresi",
+      "cumle": 2
+     },
+     {
+      "parca": "sinir_lifleri",
+      "metin": "sinaps ve sinir lifleri",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "sinir_lifleri",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Bazı kişilerde tinnitus olduğu halde standart odyogram normaldir.",
+    "Bu kişilerin bir kısmında, standart odyogramın ölçmediği 8000 Hz üstündeki frekanslarda kayıp bulunabilir.",
+    "Bir diğer olasılık, tüy hücresi ile sinir lifi arasındaki bağlantıların kaybı, yani koklear sinaptopati (cochlear synaptopathy).",
+    "Bu duruma gizli işitme kaybı da denir; insanlardaki rolü ise araştırılmaya devam etmektedir.",
+    "Bazı kişilerde ise çene ya da boyun kaynaklı somatik girdiler tinnitusun şiddetini belirgin biçimde değiştirir.",
+    "Normal odyogram, tinnitusun gerçek olmadığı anlamına gelmez; yalnız mekanizmanın farklı olabileceğini gösterir."
+   ]
+  },
+  {
+   "id": "ag",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Mekanizmalar",
+   "baslik": "Dikkat ve *duygu* ağları",
+   "maddeler": [
+    {
+     "metin": "Jastreboff nörofizyolojik modeli",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Limbik sistem ve otonom yanıt",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Tehdit algısı, artan dikkat",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "_Alışma_: sinyal önemini yitirir",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Tinnitusun neden bazı kişileri çok rahatsız ettiğini açıklayan en bilinen model, Jastreboff'un 1990'da önerdiği nörofizyolojik modeldir.",
+    "Bu modele göre tinnitus sinyali yalnız işitme yollarında kalmaz, beynin diğer ağlarıyla da etkileşir.",
+    "Duyguları düzenleyen limbik sistem ve stres yanıtını yöneten otonom sinir sistemi bu etkileşimin merkezindedir.",
+    "Tinnitus bir tehdit olarak algılanırsa, beyin ona daha çok dikkat yöneltir ve sinyal daha belirgin hale gelir.",
+    "Kaygı arttıkça dikkat artar, dikkat arttıkça tinnitus daha rahatsız edici algılanır; böylece bir kısır döngü oluşur.",
+    "Tersine, sinyal zararsız olarak öğrenildiğinde beyin ona alışır; buna alışma (habituation) denir.",
+    "Bu nedenle tinnitusun şiddeti ile kişiyi ne kadar rahatsız ettiği her zaman birbirine paralel değildir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Tinnitus şikayetinde tam odyolojik değerlendirme yapın. Tek taraflı, nabızla uyumlu ya da ani işitme kaybıyla başlayan tinnitus hekime yönlendirilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: tinnitus şikayeti olan her kişide tam bir odyolojik değerlendirme yapın.",
+    "Saf ses ve konuşma testlerinin yanında timpanometri ve akustik refleks bulguları da değerlendirmeye katkı sağlar.",
+    "Tek taraflı, nabızla uyumlu ya da ani işitme kaybıyla birlikte başlayan tinnitus, hekim değerlendirmesi gerektirir.",
+    "Ani işitme kaybında zaman önemlidir; bu kişiler beklemeden yönlendirilmelidir.",
+    "Kişiye tinnitusun yaygın olduğunu ve mekanizmasını sade bir dille açıklamak da kaygıyı azaltan önemli bir adımdır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Çoğunluk subjektif, objektif nadir",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Yetişkinlerde yaklaşık yüzde 14",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Azalan girdi, artan merkezi kazanç",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Rahatsızlığı dikkat ve duygu belirler",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Bu derste tinnitusun çoğunlukla subjektif olduğunu, objektif tinnitusun ise nadir görüldüğünü öğrendik.",
+    "Tinnitus yetişkinlerin yaklaşık yüzde 14'ünde görülür ve en güçlü risk etkeni işitme kaybıdır.",
+    "Kokleadan gelen girdi azaldığında merkezi kazanç artışı, ses yokken ses algısına yol açabilir.",
+    "Tinnitusun ne kadar rahatsız edici olacağını ise büyük ölçüde dikkat ve duygu ağları belirler."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Merkezi kazanç artışı neye verilen yanıttır?",
+   "secenekler": [
+    "Kokleadan azalan girdiye",
+    "Orta kulakta sıvıya",
+    "Kulak kirine",
+    "Yüksek kan basıncına"
+   ],
+   "dogru": 0,
+   "aciklama": "Girdi azalınca merkezi yollar _duyarlılığını artırır_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: tinnitusta merkezi kazanç artışı, en çok neye verilen bir yanıttır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: kokleadan beyne giden sinirsel girdinin azalmasına.",
+    "Merkezi işitme yolları azalan girdiyi dengelemek için duyarlılığını artırır; bu da kendiliğinden etkinliği yükseltir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Pulsatil ve tek taraflı tinnitus: *yönlendirme* gerektiren durumlar",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste nabızla uyumlu ve tek taraflı tinnitusu, yani yönlendirme gerektiren durumları inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

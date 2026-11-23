@@ -1,0 +1,1389 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D112_Genis_Bant_Immitans_TR",
+ "kapak": {
+  "ust": "DERS 112",
+  "baslik": "Geniş bant<br>*absorbans*",
+  "alt": "Geniş bant akustik immitans",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "prob": "timpanometri"
+  }
+ },
+ "youtube": {
+  "baslik": "Geniş Bant Akustik İmmitans ve Absorbans | Ders 112 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Orta kulağı tek tonla değil, geniş bir frekans aralığında nasıl ölçeriz? Bu derste geniş bant akustik immitansı, enerji yansıtması ve absorbans kavramlarını, normal absorbans eğrisini, geniş bant timpanometriyi, efüzyon, otoskleroz ve zincir kopukluğundaki desenleri ve bebeklerdeki kullanımını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Feeney ve ark. (2013), Consensus statement: Eriksholm workshop on wideband absorbance measures of the middle ear, Ear and Hearing; Keefe, Ling ve Bulen (1992), Method to measure acoustic impedance and reflection coefficient, Journal of the Acoustical Society of America; Feeney, Grant ve Marryott (2003), Wideband energy reflectance measurements in adults with middle-ear disorders, Journal of Speech, Language, and Hearing Research; Shahnaz ve ark. (2009), Energy reflectance and tympanometry in normal and otosclerotic ears, Ear and Hearing; Hunter ve Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "immitans",
+   "absorbans"
+  ],
+  "etiketler": [
+   "geniş bant akustik immitans",
+   "wideband acoustic immittance",
+   "WAI",
+   "absorbans",
+   "absorbance",
+   "enerji yansıtması",
+   "geniş bant timpanometri",
+   "WBT",
+   "orta kulak",
+   "immitansmetri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 112",
+   "baslik": "Geniş bant immitans ve *absorbans*",
+   "alt": "Orta kulağı geniş bir frekans aralığında ölçmek",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste orta kulağı tek bir tonla değil, aynı anda geniş bir frekans aralığında ölçen geniş bant akustik immitansı öğreniyoruz.",
+    "Absorbans kavramını, normal eğriyi, geniş bant timpanometriyi ve patolojilerdeki tipik desenleri göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Geniş banda geçiş",
+   "baslik": "Tek tondan *geniş banda*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Rutin",
+     "metin": "Tek ton: 226 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Çok frekanslı",
+     "metin": "Yaklaşık 2000 Hz'e kadar",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Geniş bant",
+     "metin": "226 ile 8000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Uyaran",
+     "metin": "Klik ya da chirp",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Rutin timpanometri orta kulağı tek bir frekansta, çok frekanslı timpanometri ise yaklaşık iki bin hertze kadar inceler.",
+    "Oysa orta kulak, konuşma için önemli olan çok daha geniş bir frekans aralığında sesi iletir.",
+    "Geniş bant akustik immitans (wideband acoustic immittance), kısaca WAI, orta kulağı iki yüz yirmi altı ile sekiz bin hertz arasında ölçer.",
+    "Ölçüm, tek tek tonlar yerine kısa ve geniş bantlı bir klik ya da chirp uyaranıyla yapılır ve birkaç saniye sürer.",
+    "Yöntemin klinik temeli 1990'lı yıllarda Keefe ve arkadaşlarının çalışmalarıyla atıldı.",
+    "WAI bir şemsiye terimdir; enerji yansıtması, absorbans, empedans ve admitans gibi birçok ölçüyü kapsar."
+   ]
+  },
+  {
+   "id": "yansima",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Geniş banda geçiş",
+   "baslik": "Yansıyan ve *soğurulan* ses",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.9
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ses_dalgasi",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Bir kısmı içeri, bir kısmı geri",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Mikrofon: gelen ve yansıyan ses",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yansıtma: _geri dönen_ güç oranı",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Absorbans: _içeri alınan_ güç oranı",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Absorbans = _1 eksi yansıtma_",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Prob kulak yoluna geniş bantlı bir ses gönderir; bu ses timpanik membrana ulaşır.",
+    "Sesin bir kısmı zardan geçerek orta kulağa ve kokleaya iletilir; bir kısmı ise kulak yoluna geri yansır.",
+    "Probdaki mikrofon, gelen ve geri yansıyan sesi birlikte kaydeder.",
+    "Her frekansta geri yansıyan gücün gelen güce oranına enerji yansıtması (energy reflectance) denir.",
+    "Geri yansımayan, yani orta kulağa aktarılan gücün oranına ise absorbans (absorbance) denir.",
+    "İkisinin toplamı birdir; absorbans, bir eksi enerji yansıtmasıdır.",
+    "Absorbans bir ise ses tamamen içeri alınır; sıfır ise tamamen geri yansır."
+   ]
+  },
+  {
+   "id": "normal_egri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Geniş banda geçiş",
+   "baslik": "Normal *absorbans* eğrisi",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbans"
+    },
+    "seriler": [
+     {
+      "ad": "norm_alt",
+      "noktalar": [
+       [
+        250,
+        0.02
+       ],
+       [
+        500,
+        0.18
+       ],
+       [
+        750,
+        0.33
+       ],
+       [
+        1000,
+        0.43
+       ],
+       [
+        1500,
+        0.53
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.63
+       ],
+       [
+        4000,
+        0.56
+       ],
+       [
+        6000,
+        0.28
+       ],
+       [
+        8000,
+        0.13
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 5
+     },
+     {
+      "ad": "norm_ust",
+      "noktalar": [
+       [
+        250,
+        0.26
+       ],
+       [
+        500,
+        0.44
+       ],
+       [
+        750,
+        0.59
+       ],
+       [
+        1000,
+        0.69
+       ],
+       [
+        1500,
+        0.79
+       ],
+       [
+        2000,
+        0.86
+       ],
+       [
+        3000,
+        0.89
+       ],
+       [
+        4000,
+        0.82
+       ],
+       [
+        6000,
+        0.54
+       ],
+       [
+        8000,
+        0.39
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 5
+     },
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        250,
+        0.12
+       ],
+       [
+        500,
+        0.3
+       ],
+       [
+        750,
+        0.45
+       ],
+       [
+        1000,
+        0.55
+       ],
+       [
+        1500,
+        0.65
+       ],
+       [
+        2000,
+        0.72
+       ],
+       [
+        3000,
+        0.75
+       ],
+       [
+        4000,
+        0.68
+       ],
+       [
+        6000,
+        0.4
+       ],
+       [
+        8000,
+        0.25
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "normal yetişkin",
+      "etiket_konum": [
+       3000,
+       0.75
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -16,
+      "etiket_hiza": "middle"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "en_yuksek",
+      "x": [
+       1000,
+       4000
+      ],
+      "renk": "sari",
+      "etiket": "enerjinin çoğu içeri",
+      "cumle": 2,
+      "opak": 0.15
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "normal",
+     "cumle": 1
+    },
+    {
+     "parca": "en_yuksek",
+     "cumle": 3
+    },
+    {
+     "parca": "norm_alt",
+     "cumle": 5
+    },
+    {
+     "parca": "norm_ust",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sonuç, yatay eksende frekans, dikey eksende sıfır ile bir arasında absorbans olan bir eğri olarak gösterilir.",
+    "Normal yetişkin kulakta pes frekanslarda absorbans düşüktür; sesin çoğu geri yansır.",
+    "Absorbans yaklaşık bin hertzden itibaren artar ve bin ile dört bin hertz arasında en yüksek değerlerine ulaşır.",
+    "Bu bölgede gelen enerjinin büyük kısmı orta kulağa aktarılır; kulağın en duyarlı frekanslarıyla örtüşmesi şaşırtıcı değildir.",
+    "Daha yüksek frekanslarda absorbans yeniden azalır.",
+    "Kesik gri çizgiler normal aralığı temsil eder; eğriler temsilidir ve normlar cihaza, yaşa ve topluma göre değişir.",
+    "Yorumun temel mantığı, hastanın eğrisinin bu normal aralığın neresine düştüğüne bakmaktır."
+   ]
+  },
+  {
+   "id": "avantaj",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Geniş banda geçiş",
+   "baslik": "Geniş bandın *avantajları*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Geniş aralık",
+     "metin": "Konuşma frekansları",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Basınçsız ölçüm",
+     "metin": "Ortam basıncında",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Prob konumu",
+     "metin": "Daha az duyarlı",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Hızlı, pasif",
+     "metin": "Bebeğe uygun",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ek bilgiler",
+     "metin": "Timpanogram, rezonans",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Geniş bant ölçümün birkaç önemli avantajı vardır.",
+    "Konuşma frekanslarının çoğunu kapsayan geniş bir aralıkta bilgi verir.",
+    "Ölçüm ortam basıncında, yani kulak yoluna basınç verilmeden yapılabilir; basınç verilmesinin sakıncalı olduğu durumlarda bu yararlıdır.",
+    "Absorbans, kulak yolundaki duran dalgalardan ses basıncına göre daha az etkilenir; bu yüzden prob konumuna daha az duyarlıdır.",
+    "Ölçüm hızlıdır ve hastadan yanıt beklemez; bebekler ve küçük çocuklar için de uygundur.",
+    "Aynı ölçümden geniş bant timpanometri ve rezonans frekansı gibi ek bilgiler de elde edilebilir."
+   ]
+  },
+  {
+   "id": "wbt",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Geniş bant timpanometri",
+   "baslik": "Ortam basıncı ve *tepe basıncı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbans"
+    },
+    "seriler": [
+     {
+      "ad": "ortam",
+      "noktalar": [
+       [
+        250,
+        0.06
+       ],
+       [
+        500,
+        0.12
+       ],
+       [
+        750,
+        0.2
+       ],
+       [
+        1000,
+        0.28
+       ],
+       [
+        1500,
+        0.42
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.72
+       ],
+       [
+        4000,
+        0.66
+       ],
+       [
+        6000,
+        0.4
+       ],
+       [
+        8000,
+        0.25
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "kalin": 4,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "ortam basıncında",
+      "etiket_konum": [
+       1000,
+       0.28
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": 24
+     },
+     {
+      "ad": "tepe",
+      "noktalar": [
+       [
+        250,
+        0.11
+       ],
+       [
+        500,
+        0.27
+       ],
+       [
+        750,
+        0.42
+       ],
+       [
+        1000,
+        0.53
+       ],
+       [
+        1500,
+        0.63
+       ],
+       [
+        2000,
+        0.7
+       ],
+       [
+        3000,
+        0.74
+       ],
+       [
+        4000,
+        0.67
+       ],
+       [
+        6000,
+        0.4
+       ],
+       [
+        8000,
+        0.25
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "tepe basıncında",
+      "etiket_konum": [
+       750,
+       0.42
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -14,
+      "etiket_hiza": "end"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ortam",
+     "cumle": 2
+    },
+    {
+     "parca": "tepe",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Geniş bant ölçüm basınç taramasıyla birlikte de yapılabilir; buna geniş bant timpanometri (wideband tympanometry), kısaca WBT denir.",
+    "Her basınç adımında bütün frekanslardaki absorbans ölçülür; sonuç frekans, basınç ve absorbanstan oluşan üç boyutlu bir yüzeydir.",
+    "Bu yüzeyden iki pratik kesit alınır: ortam basıncındaki absorbans ve timpanometrik tepe basıncındaki absorbans.",
+    "Bu örnekte negatif orta kulak basıncı var; tepe basıncında ölçülen eğri, ortam basıncındakinden belirgin biçimde daha yüksek.",
+    "Bazı cihazlar ayrıca belirli bir frekans aralığındaki ortalama absorbansla, klasik timpanograma benzeyen bir eğri de çizer.",
+    "Aynı ölçümden orta kulağın rezonans frekansı da tahmin edilebilir."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Geniş bant timpanometri",
+   "baslik": "Ölçüm *adımları*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Buşon, perforasyon, tüp",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Prob yerleşimi",
+     "metin": "Sızıntı kontrolü",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ortam basıncı",
+     "metin": "Absorbans eğrisi",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Basınç taraması",
+     "metin": "Gerekirse WBT",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Karşılaştır",
+     "metin": "Yaşa uygun norm",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Geniş bant ölçüm de belirli bir sırayla yapılır.",
+    "Önce otoskopiyle kulak yolu ve zar değerlendirilir; buşon, perforasyon ya da tüp varlığı not edilir.",
+    "Kulak yoluna uygun boyutta bir prob ucu seçilir ve sızıntı olmadığı cihazın kontrol ekranında doğrulanır.",
+    "Ardından ortam basıncında absorbans eğrisi kaydedilir; bu işlem birkaç saniye sürer.",
+    "Gerekirse basınç taramalı ölçüm yapılarak tepe basıncındaki eğri ve geniş bant timpanogram elde edilir.",
+    "Son olarak eğri, aynı cihaza ve yaşa ait normlarla karşılaştırılır."
+   ]
+  },
+  {
+   "id": "efuzyon",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Patolojilerde absorbans",
+   "baslik": "Orta kulakta *sıvı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbans"
+    },
+    "seriler": [
+     {
+      "ad": "norm_alt",
+      "noktalar": [
+       [
+        250,
+        0.02
+       ],
+       [
+        500,
+        0.18
+       ],
+       [
+        750,
+        0.33
+       ],
+       [
+        1000,
+        0.43
+       ],
+       [
+        1500,
+        0.53
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.63
+       ],
+       [
+        4000,
+        0.56
+       ],
+       [
+        6000,
+        0.28
+       ],
+       [
+        8000,
+        0.13
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "norm_ust",
+      "noktalar": [
+       [
+        250,
+        0.26
+       ],
+       [
+        500,
+        0.44
+       ],
+       [
+        750,
+        0.59
+       ],
+       [
+        1000,
+        0.69
+       ],
+       [
+        1500,
+        0.79
+       ],
+       [
+        2000,
+        0.86
+       ],
+       [
+        3000,
+        0.89
+       ],
+       [
+        4000,
+        0.82
+       ],
+       [
+        6000,
+        0.54
+       ],
+       [
+        8000,
+        0.39
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "efuzyon",
+      "noktalar": [
+       [
+        250,
+        0.04
+       ],
+       [
+        500,
+        0.06
+       ],
+       [
+        750,
+        0.08
+       ],
+       [
+        1000,
+        0.1
+       ],
+       [
+        1500,
+        0.12
+       ],
+       [
+        2000,
+        0.14
+       ],
+       [
+        3000,
+        0.15
+       ],
+       [
+        4000,
+        0.12
+       ],
+       [
+        6000,
+        0.08
+       ],
+       [
+        8000,
+        0.06
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "efüzyon",
+      "etiket_konum": [
+       3000,
+       0.15
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -14,
+      "etiket_hiza": "middle"
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "efuzyon",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Orta kulakta sıvı olduğunda zarın hareketi kısıtlanır ve ses büyük ölçüde geri yansır.",
+    "Bu yüzden efüzyonlu kulakta absorbans hemen bütün frekanslarda belirgin biçimde düşüktür.",
+    "Sıvının miktarı arttıkça absorbans daha da azalır; kısmi sıvıda düşüş daha sınırlı olabilir.",
+    "Çalışmalara göre geniş bant absorbans, efüzyonu saptamada iki yüz yirmi altı hertz timpanometrisi kadar ya da daha başarılı olabilir.",
+    "Bu özellik, özellikle bebeklerde ve küçük çocuklarda değerlidir.",
+    "Grafikteki eğriler temsilidir."
+   ]
+  },
+  {
+   "id": "skleroz_kopukluk",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Patolojilerde absorbans",
+   "baslik": "Sertlik ve *kopukluk* desenleri",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Absorbans"
+    },
+    "seriler": [
+     {
+      "ad": "norm_alt",
+      "noktalar": [
+       [
+        250,
+        0.02
+       ],
+       [
+        500,
+        0.18
+       ],
+       [
+        750,
+        0.33
+       ],
+       [
+        1000,
+        0.43
+       ],
+       [
+        1500,
+        0.53
+       ],
+       [
+        2000,
+        0.6
+       ],
+       [
+        3000,
+        0.63
+       ],
+       [
+        4000,
+        0.56
+       ],
+       [
+        6000,
+        0.28
+       ],
+       [
+        8000,
+        0.13
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "norm_ust",
+      "noktalar": [
+       [
+        250,
+        0.26
+       ],
+       [
+        500,
+        0.44
+       ],
+       [
+        750,
+        0.59
+       ],
+       [
+        1000,
+        0.69
+       ],
+       [
+        1500,
+        0.79
+       ],
+       [
+        2000,
+        0.86
+       ],
+       [
+        3000,
+        0.89
+       ],
+       [
+        4000,
+        0.82
+       ],
+       [
+        6000,
+        0.54
+       ],
+       [
+        8000,
+        0.39
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 2.5,
+      "yumusak": true,
+      "cumle": 0
+     },
+     {
+      "ad": "otoskleroz",
+      "noktalar": [
+       [
+        250,
+        0.04
+       ],
+       [
+        500,
+        0.1
+       ],
+       [
+        750,
+        0.2
+       ],
+       [
+        1000,
+        0.3
+       ],
+       [
+        1500,
+        0.48
+       ],
+       [
+        2000,
+        0.62
+       ],
+       [
+        3000,
+        0.72
+       ],
+       [
+        4000,
+        0.66
+       ],
+       [
+        6000,
+        0.38
+       ],
+       [
+        8000,
+        0.24
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "otoskleroz",
+      "etiket_konum": [
+       750,
+       0.2
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 24
+     },
+     {
+      "ad": "kopukluk",
+      "noktalar": [
+       [
+        250,
+        0.35
+       ],
+       [
+        500,
+        0.75
+       ],
+       [
+        600,
+        0.88
+       ],
+       [
+        700,
+        0.8
+       ],
+       [
+        800,
+        0.55
+       ],
+       [
+        1000,
+        0.5
+       ],
+       [
+        1500,
+        0.6
+       ],
+       [
+        2000,
+        0.66
+       ],
+       [
+        3000,
+        0.7
+       ],
+       [
+        4000,
+        0.64
+       ],
+       [
+        6000,
+        0.38
+       ],
+       [
+        8000,
+        0.22
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "zincir kopukluğu",
+      "etiket_konum": [
+       600,
+       0.88
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -12,
+      "etiket_hiza": "end"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "pes_bolge",
+      "x": [
+       226,
+       1000
+      ],
+      "renk": "sari",
+      "etiket": "1 kHz altı",
+      "cumle": 1,
+      "opak": 0.12
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "otoskleroz",
+     "cumle": 1
+    },
+    {
+     "parca": "kopukluk",
+     "cumle": 3
+    },
+    {
+     "parca": "pes_bolge",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Otosklerozda stapes tabanının sabitlenmesi sistemi sertleştirir.",
+    "Bu durumda absorbans özellikle pes ve orta frekanslarda, yaklaşık bin hertzin altında azalır.",
+    "Kemikçik zinciri kopukluğunda ise tablo terstir: sistem gevşer ve pes frekanslarda absorbans artar.",
+    "Kopuklukta sıklıkla yaklaşık bin hertzin altında belirgin ve dar bir absorbans tepesi görülür.",
+    "Bu desenler, iki yüz yirmi altı hertz timpanogramlarının birbirine benzediği olgularda iki tabloyu ayırmaya yardım edebilir.",
+    "Perforasyonda da pes frekanslarda absorbans artar; ama bu durumda kulak yolu hacmi beklenenden büyük çıkar.",
+    "Desenler arasında örtüşme vardır; absorbans her zaman otoskopi, odyogram ve refleks bulgularıyla birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Patolojilerde absorbans",
+   "baslik": "Eğriyi *değiştiren* diğer durumlar",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Negatif basınç",
+     "metin": "Tepe basıncında düzelir",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sızıntı",
+     "metin": "Pes absorbans yapay yüksek",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Prob yerleşimi",
+     "metin": "Önce kontrol",
+     "cumle": 3
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Buşon, döküntü",
+     "metin": "Önce otoskopi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Birkaç durum daha absorbans eğrisini değiştirir.",
+    "Negatif orta kulak basıncında ortam basıncındaki absorbans pes ve orta frekanslarda azalır; tepe basıncında ölçülünce düzelir.",
+    "Probun iyi oturmaması ve hava sızıntısı pes frekanslarda yapay olarak yüksek bir absorbans verir; bu, kopukluğu taklit edebilir.",
+    "Bu yüzden ölçümden önce probun yerleşimi ve sızıntı kontrolü önemlidir.",
+    "Kulak yolunu tıkayan buşon ya da döküntü de ölçümü bozar; önce otoskopi yapılır."
+   ]
+  },
+  {
+   "id": "bebek",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bebekler ve klinik",
+   "baslik": "Bebeklerde *geniş bant*",
+   "maddeler": [
+    {
+     "metin": "Yenidoğan kulak yolu _esnek_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Verniks ya da _amniyon sıvısı_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Geçici iletim sorununu _ayırmaya_ yardım",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "_Yaşa uygun_ normlar",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TARAMADAN KALAN BEBEK",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Geçici sorun",
+      "metin": "Absorbans düşük",
+      "cumle": 3
+     },
+     {
+      "ikon": "noron",
+      "baslik": "Sensörinöral",
+      "metin": "Absorbans normal olabilir",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Geniş bant ölçüm bebeklerde özellikle umut verici bir yöntemdir.",
+    "Yenidoğan kulak yolu yumuşak ve esnek olduğu için iki yüz yirmi altı hertz timpanometrisi yanıltıcı olabilir.",
+    "Doğumdan sonraki ilk günlerde kulak yolunda verniks, orta kulakta ise amniyon sıvısı kalıntısı bulunabilir.",
+    "Taramadan kalan bir bebekte geniş bant absorbansın, bu tür geçici iletim sorunlarını ayırmaya yardım edebildiği gösterilmiştir.",
+    "Bebek normları yetişkinden farklıdır ve ilk aylarda hızla değişir; bu yüzden yaşa uygun normlar kullanılır.",
+    "Bu alanda klinik kullanım yaygınlaşmaktadır; ancak standart ölçütler henüz tam oturmamıştır."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bebekler ve klinik",
+   "baslik": "Yöntemin *sınırlılıkları*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Norm farkları",
+     "metin": "Cihaz, yaş, toplum",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Erişim",
+     "metin": "Her klinikte yok",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Sızdırmazlık",
+     "metin": "İyi yerleşim şart",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Tamamlayıcı test",
+     "metin": "Timpanometrinin yerini almaz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Geniş bant ölçümün sınırlılıkları da vardır.",
+    "Normlar cihaza, yaşa ve topluma göre değişir; farklı cihazların sonuçları doğrudan karşılaştırılamaz.",
+    "Cihazlar henüz her klinikte bulunmaz ve yorum deneyim gerektirir.",
+    "Ölçüm, iyi bir prob yerleşimine ve sızıntısız bir kapanmaya bağlıdır.",
+    "Bu yüzden geniş bant immitans şimdilik rutin timpanometrinin yerini almaz; onu tamamlayan bir testtir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Pes frekanslarda beklenmedik yüksek absorbans görürseniz önce sızıntıyı düşünün: probu yeniden yerleştirip tekrar ölçün, hacmi ve zarı kontrol edin.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: pes frekanslarda beklenmedik yüksek bir absorbans gördüğünüzde önce sızıntıyı düşünün.",
+    "Probu yeniden yerleştirip ölçümü tekrarlayın; eğri değişiyorsa ilk sonuç büyük olasılıkla bir sızıntıydı.",
+    "Kulak yolu hacmini ve otoskopiyi kontrol ederek perforasyon ya da tüp olasılığını ayırın.",
+    "Ancak bundan sonra zincir kopukluğu gibi bir tabloyu düşünmeye geçin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Absorbans = _1 eksi enerji yansıtması_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Normalde en yüksek: _1 ile 4 kHz_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Efüzyon _düşürür_, kopukluk pes _artırır_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sızıntı ve normlara _dikkat_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Geniş bant immitans orta kulağı yaklaşık iki yüz yirmi altı ile sekiz bin hertz arasında ölçer; absorbans, bir eksi enerji yansıtmasıdır.",
+    "Normal yetişkinde absorbans pes frekanslarda düşüktür ve bin ile dört bin hertz arasında en yüksek değerine ulaşır.",
+    "Efüzyon absorbansı genel olarak düşürür; otoskleroz pes frekanslarda azaltır, zincir kopukluğu ise pes frekanslarda artırır.",
+    "Sonuç yaşa ve cihaza uygun normlarla, sızıntı kontrol edilerek ve diğer testlerle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Absorbans 0,8 ise enerji yansıtması kaçtır?",
+   "secenekler": [
+    "0,2",
+    "0,8",
+    "1,8",
+    "0,08"
+   ],
+   "dogru": 0,
+   "aciklama": "Absorbans ve yansıtmanın _toplamı birdir_: 1 eksi 0,8 = 0,2.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Bir frekansta absorbans sıfır virgül sekiz ise enerji yansıtması kaçtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: sıfır virgül iki.",
+    "Gücün yüzde sekseni orta kulağa aktarılıyorsa, kalan yüzde yirmisi kulak yoluna geri yansır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyometre *kalibrasyonu*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste test cihazlarına dönüyor ve odyometre kalibrasyonunun neden ve nasıl yapıldığını öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

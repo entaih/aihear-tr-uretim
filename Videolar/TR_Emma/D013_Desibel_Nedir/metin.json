@@ -1,0 +1,698 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D013_Desibel_Nedir_TR",
+ "kapak": {
+  "ust": "DERS 13",
+  "baslik": "*Desibel*<br>nedir?",
+  "alt": "Logaritmik ölçeği anlamak",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Desibel Nedir? Logaritmik Ölçeği Anlamak | Ders 13 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kulağın dev basınç aralığını neden desibelle ifade ettiğimizi anlatıyoruz. Oran ve logaritma mantığını, şiddet için 10 log, basınç için 20 log formüllerini, 20 mikropaskal referansını ve dB SPL, dB HL, dB SL farkını örnek hesaplarla öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "desibel",
+   "akustik"
+  ],
+  "etiketler": [
+   "desibel",
+   "decibel",
+   "dB SPL",
+   "sound pressure level",
+   "ses basınç düzeyi",
+   "referans basınç",
+   "logaritma",
+   "dB HL",
+   "ses fiziği",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 13",
+   "baslik": "*Desibel* nedir?",
+   "alt": "Logaritmik ölçeği anlamak",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Odyolojide neredeyse her sayının yanında aynı birim var: desibel.",
+    "Bu derste desibelin neden logaritmik olduğunu, nasıl hesaplandığını ve sıfır desibelin ne anlama geldiğini öğreneceğiz."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden desibel?",
+   "baslik": "Kulağın *dev aralığı*",
+   "maddeler": [
+    {
+     "metin": "En zayıf ses: yaklaşık _20 µPa_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Çok yüksek ses: yaklaşık _20 Pa_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Basınç oranı: yaklaşık _1 milyon_ kat",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Şiddet oranı: yaklaşık _1 trilyon_ kat",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "İnsan kulağı inanılmaz geniş bir basınç aralığını algılayabilir.",
+    "Bin hertz civarında duyabildiğimiz en zayıf ses, yaklaşık yirmi mikropaskal basınç değişimine karşılık gelir.",
+    "Rahatsızlık veren çok yüksek sesler ise yaklaşık yirmi paskal ve üzerindedir.",
+    "Yani en zayıf ses ile çok yüksek ses arasında basınçta yaklaşık bir milyon katlık fark vardır.",
+    "Şiddet, yani enerji açısından bu fark yaklaşık bir trilyon kata ulaşır.",
+    "Bu aralığı bir cetvelde çizseydik, en zayıf sesi bir milimetre çizdiğimizde en yüksek ses bir kilometre tutardı.",
+    "Bu kadar büyük sayılarla klinikte çalışmak pratik değildir; desibel bu sorunu çözer."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 1
+     },
+     {
+      "parca": "agri_esigi",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden desibel?",
+   "baslik": "Basınç ve *genlik*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "genlik",
+     "metin": "Genlik: basınç değişimi",
+     "cumle": 0
+    },
+    {
+     "parca": "dalga",
+     "metin": "Ses dalgası",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Basınç: paskal (Pa)",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Şiddet: W/m²",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Şiddet, basıncın karesiyle orantılı",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Hatırlayalım: ses dalgasının genliği, havadaki basınç değişiminin büyüklüğüdür.",
+    "Timpanik membranı, yani kulak zarını hareket ettiren de bu küçük basınç değişimleridir.",
+    "Ses basıncı paskal birimiyle ölçülür.",
+    "Ses şiddeti ise birim alandan geçen güçtür ve metrekare başına vat ile ifade edilir.",
+    "Önemli bir ilişki var: şiddet, ses basıncının karesiyle orantılıdır.",
+    "Basınç iki katına çıkarsa şiddet dört katına çıkar; bu bilgi birazdan formüllerin neden farklı olduğunu açıklayacak."
+   ]
+  },
+  {
+   "id": "logaritma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Logaritma mantığı",
+   "baslik": "Logaritma: *kaç tane sıfır?*",
+   "maddeler": [
+    {
+     "metin": "log 10 = _1_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "log 100 = _2_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "log 1.000.000 = _6_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Çarpma, _toplamaya_ dönüşür",
+     "cumle": 4,
+     "ikon": "ampul"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ORAN",
+    "metin": "Desibel her zaman bir *referansa* göre orandır",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Desibelin temelinde iki fikir vardır: logaritma ve oran.",
+    "On tabanında logaritma, bir sayıya ulaşmak için kaç tane onu birbiriyle çarpmamız gerektiğini söyler: yüz için iki, bin için üç.",
+    "Yani logaritma, büyük bir sayıyı içindeki sıfırların sayısına indirger.",
+    "Bu sayede bir milyon katlık oran, yalnız altı birimlik bir sayıya dönüşür.",
+    "Logaritma çarpmayı toplamaya da çevirir; bu, desibel hesaplarını kolaylaştırır.",
+    "İkinci fikir orandır: desibel mutlak bir miktar değil, ölçülen değerin bir referans değere oranıdır."
+   ]
+  },
+  {
+   "id": "bel",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Logaritma mantığı",
+   "baslik": "Bel'den *desibele*",
+   "maddeler": [
+    {
+     "metin": "Bel: şiddet oranının _logaritması_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Desibel: belin _onda biri_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kısaltma: _dB_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Şiddet oranının logaritması bel olarak adlandırılır; birim adını Alexander Graham Bell'den alır.",
+    "Ancak bel, günlük kullanım için fazla kaba bir birimdir.",
+    "Bu yüzden belin onda biri olan desibel kullanılır.",
+    {
+     "yazi": "Desibel kısaca dB olarak yazılır: küçük d ve büyük B.",
+     "ses": "Desibel kısaca de be olarak yazılır: küçük de ve büyük be."
+    },
+    "Bir bel, şiddette on katlık bir orana karşılık gelir.",
+    "Bir bel on desibele eşittir; şiddet formülündeki on çarpanı buradan gelir."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "BİRİMLER",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kitap",
+      "baslik": "Bel",
+      "metin": "Alexander Graham Bell anısına",
+      "cumle": 0
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "1 bel",
+      "metin": "10 desibel, şiddette 10 kat",
+      "cumle": 4
+     }
+    ]
+   }
+  },
+  {
+   "id": "siddet",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Formüller",
+   "baslik": "Şiddet için: *10 log*",
+   "maddeler": [
+    {
+     "metin": "Formül: _10 log (I / I0)_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Referans I0: _10⁻¹² W/m²_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Şiddet 2 katı: _yaklaşık +3 dB_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Şiddet 10 katı: _+10 dB_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Şiddet düzeyi, ölçülen şiddetin referans şiddete oranının logaritmasının on katıdır.",
+    "Buna şiddet düzeyi (intensity level), kısaca IL denir.",
+    "Referans şiddet metrekare başına on üzeri eksi on iki vattır; bu da yaklaşık işitme eşiğine karşılık gelir.",
+    "Şiddet iki katına çıktığında düzey yaklaşık üç desibel artar.",
+    "Şiddet on katına çıktığında ise düzey tam on desibel artar.",
+    "Örneğin yüz kat şiddet yirmi desibel, bin kat şiddet otuz desibel demektir."
+   ]
+  },
+  {
+   "id": "basinc",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Formüller",
+   "baslik": "Basınç için: *20 log*",
+   "maddeler": [
+    {
+     "metin": "Formül: _20 log (P / P0)_",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Referans P0: _20 µPa_",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Basınç 2 katı: _yaklaşık +6 dB_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Basınç 10 katı: _+20 dB_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SPL",
+    "metin": "*Ses basınç* düzeyi (sound pressure level)",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Mikrofonlar şiddeti değil basıncı ölçer; bu yüzden klinikte en çok ses basınç düzeyi kullanılır.",
+    "Ses basınç düzeyi (sound pressure level), kısaca SPL, ölçülen basıncın yirmi mikropaskala oranından hesaplanır.",
+    "Burada çarpan yirmidir; çünkü şiddet basıncın karesiyle orantılıdır ve karenin logaritması, logaritmanın iki katıdır.",
+    "Bu yüzden basınç iki katına çıktığında düzey yaklaşık altı desibel artar.",
+    "Basınç on katına çıktığında ise düzey yirmi desibel artar.",
+    "Şiddet ve basınç formülleri farklı görünse de aynı ses için aynı desibel değerini verir."
+   ]
+  },
+  {
+   "id": "ornekler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Formüller",
+   "baslik": "Örnek *hesaplar*",
+   "sutunlar": [
+    "Basınç",
+    "Referansa oranı",
+    "dB SPL"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "20 µPa",
+      "1",
+      "0"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "200 µPa",
+      "10",
+      "20"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "0,02 Pa",
+      "1.000",
+      "60"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2 Pa",
+      "100.000",
+      "100"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "20 Pa",
+      "1.000.000",
+      "120"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Basınç referansa eşitse oran birdir ve birin logaritması sıfırdır; yani yirmi mikropaskal sıfır dB SPL eder.",
+    "Basınç on katına, yani iki yüz mikropaskala çıkarsa logaritma bir, düzey yirmi dB SPL olur.",
+    "Sıfır virgül sıfır iki paskal referansın bin katıdır; logaritma üç, sonuç altmış dB SPL.",
+    "İki paskal ise referansın yüz bin katıdır; logaritma beş, sonuç yüz dB SPL.",
+    "Yirmi paskal referansın bir milyon katıdır ve yüz yirmi dB SPL eder.",
+    "Gördüğünüz gibi bir milyon katlık aralık, sıfır ile yüz yirmi arasındaki rahat bir ölçeğe sığdı."
+   ]
+  },
+  {
+   "id": "ters",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Formüller",
+   "baslik": "Ters yönde: *desibelden basınca*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Soru",
+     "metin": "Kaç paskal?",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "20ye böl",
+     "metin": "40 / 20 = 2",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "10 üzeri",
+     "metin": "10 üzeri 2 = 100",
+     "cumle": 2
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Referansla çarp",
+     "metin": "100 x 20 µPa",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bazen tersini yapmamız gerekir: bir desibel değerinin kaç paskal olduğunu bulmak.",
+    "Örneğin kırk dB SPL için önce kırkı yirmiye böler ve iki buluruz.",
+    "Sonra on üzeri ikiyi, yani yüzü buluruz; bu, basıncın referansın yüz katı olduğunu söyler.",
+    "Yüzü yirmi mikropaskalla çarptığımızda iki bin mikropaskal, yani sıfır virgül sıfır sıfır iki paskal elde ederiz.",
+    "Şiddet düzeyi için aynı işlemi yirmi yerine ona bölerek yaparız.",
+    "Bu ters hesap, kalibrasyon değerlerini ve cihaz çıkışlarını yorumlarken işe yarar."
+   ]
+  },
+  {
+   "id": "sifir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Referans ve ölçekler",
+   "baslik": "Sıfır desibel *sessizlik değil*",
+   "maddeler": [
+    {
+     "metin": "0 dB SPL: _referansa eşit_ basınç",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Eksi değer: _referanstan küçük_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Her dB değerinin _bir referansı_ var",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Sıfır dB SPL, sesin olmadığı anlamına gelmez; yalnız basıncın referans değere eşit olduğunu söyler.",
+    "Referans değer, genç ve sağlıklı kulakların bin hertz civarındaki yaklaşık eşiğine göre seçilmiştir.",
+    "Referanstan küçük basınçlar eksi desibel değeri verir; örneğin eksi beş dB SPL anlamlı bir ölçümdür.",
+    "Nitekim genç ve sağlıklı kulaklar bazı frekanslarda referansın altındaki seslere bile yanıt verebilir.",
+    "Bu yüzden desibel tek başına anlamsızdır; hangi referansa göre ölçüldüğü mutlaka belirtilmelidir.",
+    "Odyolojide bu nedenle dB SPL, dB HL ve dB SL gibi farklı ölçekler kullanılır."
+   ]
+  },
+  {
+   "id": "uc_olcek",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Referans ve ölçekler",
+   "baslik": "Üç *desibel ölçeği*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "dB SPL",
+     "metin": "Referans 20 µPa; fizik, kalibrasyon",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "dB HL",
+     "metin": "Normal işitme eşiği; odyogram",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "dB SL",
+     "metin": "Kişinin kendi eşiği",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "dB SPL fiziksel bir ölçektir ve referansı yirmi mikropaskaldır.",
+    "dB HL ise işitme düzeyidir; referansı, normal işiten genç yetişkinlerin her frekanstaki ortalama eşiğidir.",
+    "Kulak her frekansta eşit duyarlı olmadığı için sıfır dB HL, her frekansta farklı bir dB SPL değerine karşılık gelir.",
+    "Bu fark özellikle pes frekanslarda büyüktür ve odyogramdaki sıfır çizgisinin düz olmasını sağlar.",
+    "dB SL ise duyum düzeyidir; kişinin kendi eşiğinin ne kadar üzerinde olduğumuzu söyler.",
+    "Örneğin eşiği otuz dB HL olan birine yetmiş dB HL ses verirsek, bu kırk dB SL demektir."
+   ]
+  },
+  {
+   "id": "odyolojide",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Referans ve ölçekler",
+   "baslik": "Odyolojide *desibel* her yerde",
+   "maddeler": [
+    {
+     "metin": "Odyogram eşikleri: _dB HL_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kalibrasyon ve OAE: _dB SPL_",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Eşik üstü testler: _dB SL_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Gürültü ölçümü: _dBA_",
+     "cumle": 3,
+     "ikon": "fabrika"
+    }
+   ],
+   "cumleler": [
+    "Odyolojide desibel her yerdedir; odyogramdaki eşikler dB HL ile yazılır.",
+    "Odyometre kalibrasyonu ve otoakustik emisyon, kısaca OAE ölçümleri ise dB SPL ile ifade edilir.",
+    "Bazı eşik üstü testlerde uyaran düzeyi kişinin eşiğine göre dB SL olarak ayarlanır.",
+    {
+     "yazi": "Gürültü ölçümlerinde kulağın frekans duyarlılığını taklit eden A ağırlıklı ölçüm, yani dBA kullanılır.",
+     "ses": "Gürültü ölçümlerinde kulağın frekans duyarlılığını taklit eden A ağırlıklı ölçüm, yani desibel A kullanılır."
+    },
+    "Bir raporda gördüğünüz her desibel değerinin hangi ölçekte yazıldığını kontrol etmek iyi bir alışkanlıktır."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Günlük sesler",
+   "baslik": "Günlük seslerin *desibeli*",
+   "cizim": "desibel_olcegi",
+   "etiketler": [
+    {
+     "parca": "fisilti",
+     "metin": "Fısıltı: yaklaşık 30 dB SPL",
+     "cumle": 1
+    },
+    {
+     "parca": "konusma",
+     "metin": "Konuşma: yaklaşık 60 dB SPL",
+     "cumle": 2
+    },
+    {
+     "parca": "trafik",
+     "metin": "Yoğun trafik: yaklaşık 85 dB SPL",
+     "cumle": 3
+    },
+    {
+     "parca": "konser",
+     "metin": "Konser: 100 ile 110 dB SPL",
+     "cumle": 3
+    },
+    {
+     "parca": "agri_esigi",
+     "metin": "Ağrı: yaklaşık 130 dB SPL",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Şimdi günlük sesleri bu ölçeğe yerleştirelim; değerler yaklaşıktır ve ölçüm mesafesine bağlıdır.",
+    "Fısıltı yaklaşık otuz dB SPL düzeyindedir.",
+    "Bir metre uzaklıktan normal konuşma yaklaşık altmış dB SPL civarındadır.",
+    "Yoğun trafik yaklaşık seksen beş, bir rock konseri ise yüz ile yüz on dB SPL düzeyine ulaşabilir.",
+    "Yaklaşık yüz otuz dB SPL ve üzerindeki sesler kulakta ağrı hissi oluşturabilir.",
+    "Fısıltı ile konser arasındaki seksen desibellik fark, basınçta on bin katlık bir farktır."
+   ]
+  },
+  {
+   "id": "algi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Günlük sesler",
+   "baslik": "Desibel ve *ses yüksekliği algısı*",
+   "maddeler": [
+    {
+     "metin": "Yaklaşık _10 dB_: iki kat ses yüksekliği",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_1 dB_ civarı: zor fark edilir",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_3 dB_: enerjinin iki katı",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Kulağımızın ses yüksekliği algısı da sıkıştırılmış bir ölçekte çalışır; bu, desibeli algıya yakın bir ölçek yapar.",
+    "Genel bir kural olarak, düzeydeki yaklaşık on desibellik artış, algılanan ses yüksekliğini kabaca iki katına çıkarır.",
+    "Oysa on desibel, şiddette on katlık bir artış demektir.",
+    "Bir desibel civarındaki değişiklikler ise çoğu koşulda zor fark edilir.",
+    "Üç desibellik artış küçük görünse de ses enerjisinin iki katına çıkması demektir.",
+    "Bu kurala dönersek, algılanan ses yüksekliğini yarıya indirmek için de yaklaşık on desibellik azalma gerekir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Desibeller düz toplanmaz: iki eşit 60 dB kaynak yaklaşık 63 dB verir. Gürültü 3 dB artınca güvenli süre birçok ölçütte yarıya iner.",
+   "cumleler": [
+    "Klinikte ve danışmanlıkta çok işe yarayan bir bilgi: desibeller düz toplanmaz.",
+    "Altmış desibellik iki eşit ses kaynağı birlikte yaklaşık altmış üç desibel verir, yüz yirmi değil.",
+    "Bu nedenle birçok iş sağlığı ölçütünde gürültü üç desibel arttığında güvenli maruz kalma süresi yarıya iner.",
+    "Kişiye gürültü riskini anlatırken bu basit kuralı kullanmak çok etkilidir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Desibel bir *orandır*, referans gerekir",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Şiddet 10 log, basınç *20 log*",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "0 dB SPL = *20 µPa*",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "dB SPL, dB HL ve *dB SL* farklı",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Desibel, ölçülen bir değerin referans değere oranının logaritmik ifadesidir.",
+    "Şiddet için on log, basınç için yirmi log kullanılır; iki formül aynı sonucu verir.",
+    "Sıfır dB SPL sessizlik değil, yirmi mikropaskallık referans basınçtır.",
+    "dB SPL, dB HL ve dB SL farklı referanslara dayanır; hangisinin kullanıldığı her zaman belirtilmelidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Basınç 10 katına çıkarsa SPL kaç dB artar?",
+   "secenekler": [
+    "3 dB",
+    "6 dB",
+    "10 dB",
+    "20 dB"
+   ],
+   "dogru": 3,
+   "aciklama": "Basınç için _20 log_ kullanılır: 20 x log 10 = 20 dB.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Ses basıncı on katına çıkarsa ses basınç düzeyi kaç desibel artar?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap D, yirmi desibel. Basınç için yirmi log kullanılır ve onun logaritması birdir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Desibel hesapları: *toplama ve mesafe*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste desibelleri toplamayı ve mesafenin ses düzeyini nasıl değiştirdiğini hesaplarla göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

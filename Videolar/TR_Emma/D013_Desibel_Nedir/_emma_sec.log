@@ -1,0 +1,94 @@
+001 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Merhaba, Ey ay hiyır Odyoloji Akademisine hoş geldiniz.  || ref: -
+002 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Odyolojide neredeyse her sayının yanında aynı birim var: desibel.  || ref: -
+003 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu derste desibelin neden logaritmik olduğunu, nasıl hesaplandığını ve sıfır desibelin ne anlama geldiğini öğreneceğiz.  || ref: -
+004 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: İnsan kulağı inanılmaz geniş bir basınç aralığını algılayabilir.  || ref: -
+005 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bin hertz civarında duyabildiğimiz en zayıf ses, yaklaşık yirmi mikropaskal basınç değişimine karşılık gelir.  || ref: -
+006 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Rahatsızlık veren çok yüksek sesler ise yaklaşık yirmi paskal ve üzerindedir.  || ref: -
+007 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yani en zayıf ses ile çok yüksek ses arasında basınçta yaklaşık bir milyon katlık fark vardır.  || ref: -
+008 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Şiddet, yani enerji açısından bu fark yaklaşık bir trilyon kata ulaşır.  || ref: -
+009 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu aralığı bir cetvelde çizseydik, en zayıf sesi bir milimetre çizdiğimizde en yüksek ses bir kilometre tutardı.  || ref: -
+010 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bu kadar büyük sayılarla klinikte çalışmak pratik değildir; desibel bu sorunu çözer.  || ref: -
+011 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Hatırlayalım: ses dalgasının genliği, havadaki basınç değişiminin büyüklüğüdür.  || ref: -
+012 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Timpanik membranı, yani kulak zarını hareket ettiren de bu küçük basınç değişimleridir.  || ref: -
+013 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Ses basıncı paskal birimiyle ölçülür.  || ref: -
+014 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Ses şiddeti ise birim alandan geçen güçtür ve metrekare başına vat ile ifade edilir.  || ref: -
+015 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Önemli bir ilişki var: şiddet, ses basıncının karesiyle orantılıdır.  || ref: -
+016 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Basınç iki katına çıkarsa şiddet dört katına çıkar; bu bilgi birazdan formüllerin neden farklı olduğunu açıklayacak.  || ref: -
+017 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Desibelin temelinde iki fikir vardır: logaritma ve oran.  || ref: -
+018 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:1.00 pencere=0.88 (small)  || okunan: On tabanında logaritma, bir sayıya ulaşmak için kaç tane onu birbiriyle çarpmamız gerektiğini söyler: yüz için iki, bin için üç.  || ref: -
+019 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.92 (small)  || okunan: Yani logaritma, büyük bir sayıyı içindeki sıfırların sayısına indirger.  || ref: -
+020 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bu sayede bir milyon katlık oran, yalnız altı birimlik bir sayıya dönüşür.  || ref: -
+021 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.93 (small)  || okunan: Logaritma çarpmayı toplamaya da çevirir; bu, desibel hesaplarını kolaylaştırır.  || ref: -
+022 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.95 (small)  || okunan: İkinci fikir orandır: desibel mutlak bir miktar değil, ölçülen değerin bir referans değere oranıdır.  || ref: -
+023 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Şiddet oranının logaritması bel olarak adlandırılır; birim adını Aleksander Greyım Bel'den alır.  || ref: -
+024 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Ancak bel, günlük kullanım için fazla kaba bir birimdir.  || ref: -
+025 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu yüzden belin onda biri olan desibel kullanılır.  || ref: -
+026 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Desibel kısaca de be olarak yazılır: küçük de ve büyük be.  || ref: -
+027 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bir bel, şiddette on katlık bir orana karşılık gelir.  || ref: -
+028 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Bir bel on desibele eşittir; şiddet formülündeki on çarpanı buradan gelir.  || ref: -
+029 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:0.99 pencere=0.93 (small)  || okunan: Şiddet düzeyi, ölçülen şiddetin referans şiddete oranının logaritmasının on katıdır.  || ref: -
+030 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Buna şiddet düzeyi, kısaca ı le denir.  || ref: -
+031 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Referans şiddet metrekare başına on üzeri eksi on iki vattır; bu da yaklaşık işitme eşiğine karşılık gelir.  || ref: -
+032 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Şiddet iki katına çıktığında düzey yaklaşık üç desibel artar.  || ref: -
+033 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Şiddet on katına çıktığında ise düzey tam on desibel artar.  || ref: -
+034 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.95 (small)  || okunan: Örneğin yüz kat şiddet yirmi desibel, bin kat şiddet otuz desibel demektir.  || ref: -
+035 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Mikrofonlar şiddeti değil basıncı ölçer; bu yüzden klinikte en çok ses basınç düzeyi kullanılır.  || ref: -
+036 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Ses basınç düzeyi, kısaca es pi el, ölçülen basıncın yirmi mikropaskala oranından hesaplanır.  || ref: -
+037 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.94 (small)  || okunan: Burada çarpan yirmidir; çünkü şiddet basıncın karesiyle orantılıdır ve karenin logaritması, logaritmanın iki katıdır.  || ref: -
+038 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu yüzden basınç iki katına çıktığında düzey yaklaşık altı desibel artar.  || ref: -
+039 hızlı   aday=1 önek="Türkçe:" dil=tr:0.98 pencere=0.98 (small)  || okunan: Basınç on katına çıktığında ise düzey yirmi desibel artar.  || ref: -
+040 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Şiddet ve basınç formülleri farklı görünse de aynı ses için aynı desibel değerini verir.  || ref: -
+041 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Basınç referansa eşitse oran birdir ve birin logaritması sıfırdır; yani yirmi mikropaskal sıfır desibel es pi el eder.  || ref: -
+042 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.93 (small)  || okunan: Basınç on katına, yani iki yüz mikropaskala çıkarsa logaritma bir, düzey yirmi desibel es pi el olur.  || ref: -
+043 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.90 (small)  || okunan: Sıfır virgül sıfır iki paskal referansın bin katıdır; logaritma üç, sonuç altmış desibel es pi el.  || ref: -
+044 KONTROL aday=5 önek="Türkçe konuşuyorum:" dil=tr:0.98 pencere=0.84 (small)  || okunan: İki paskal ise referansın yüz bin katıdır; logaritma beş, sonuç yüz desibel es pi el.  || ref: -
+045 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.95 (small)  || okunan: Yirmi paskal referansın bir milyon katıdır ve yüz yirmi desibel es pi el eder.  || ref: -
+046 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Gördüğünüz gibi bir milyon katlık aralık, sıfır ile yüz yirmi arasındaki rahat bir ölçeğe sığdı.  || ref: -
+047 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bazen tersini yapmamız gerekir: bir desibel değerinin kaç paskal olduğunu bulmak.  || ref: -
+048 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.96 (small)  || okunan: Örneğin kırk desibel es pi el için önce kırkı yirmiye böler ve iki buluruz.  || ref: -
+049 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Sonra on üzeri ikiyi, yani yüzü buluruz; bu, basıncın referansın yüz katı olduğunu söyler.  || ref: -
+050 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Yüzü yirmi mikropaskalla çarptığımızda iki bin mikropaskal, yani sıfır virgül sıfır sıfır iki paskal elde ederiz.  || ref: -
+051 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Şiddet düzeyi için aynı işlemi yirmi yerine ona bölerek yaparız.  || ref: -
+052 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu ters hesap, kalibrasyon değerlerini ve cihaz çıkışlarını yorumlarken işe yarar.  || ref: -
+053 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Sıfır desibel es pi el, sesin olmadığı anlamına gelmez; yalnız basıncın referans değere eşit olduğunu söyler.  || ref: -
+054 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Referans değer, genç ve sağlıklı kulakların bin hertz civarındaki yaklaşık eşiğine göre seçilmiştir.  || ref: -
+055 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Referanstan küçük basınçlar eksi desibel değeri verir; örneğin eksi beş desibel es pi el anlamlı bir ölçümdür.  || ref: -
+056 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Nitekim genç ve sağlıklı kulaklar bazı frekanslarda referansın altındaki seslere bile yanıt verebilir.  || ref: -
+057 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Bu yüzden desibel tek başına anlamsızdır; hangi referansa göre ölçüldüğü mutlaka belirtilmelidir.  || ref: -
+058 hızlı   aday=3 önek="Türkçe konuşuyorum:" dil=tr:1.00 pencere=0.86 (small)  || okunan: Odyolojide bu nedenle desibel es pi el, desibel eyç el ve desibel es el gibi farklı ölçekler kullanılır.  || ref: -
+059 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: desibel es pi el fiziksel bir ölçektir ve referansı yirmi mikropaskaldır.  || ref: -
+060 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: desibel eyç el ise işitme düzeyidir; referansı, normal işiten genç yetişkinlerin her frekanstaki ortalama eşiğidir.  || ref: -
+061 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:1.00 pencere=0.88 (small)  || okunan: Kulak her frekansta eşit duyarlı olmadığı için sıfır desibel eyç el, her frekansta farklı bir desibel es pi el değerine karşılık gelir.  || ref: -
+062 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu fark özellikle pes frekanslarda büyüktür ve odyogramdaki sıfır çizgisinin düz olmasını sağlar.  || ref: -
+063 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.94 (small)  || okunan: desibel es el ise duyum düzeyidir; kişinin kendi eşiğinin ne kadar üzerinde olduğumuzu söyler.  || ref: -
+064 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.93 (small)  || okunan: Örneğin eşiği otuz desibel eyç el olan birine yetmiş desibel eyç el ses verirsek, bu kırk desibel es el demektir.  || ref: -
+065 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Odyolojide desibel her yerdedir; odyogramdaki eşikler desibel eyç el ile yazılır.  || ref: -
+066 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Odyometre kalibrasyonu ve otoakustik emisyon, kısaca o a e ölçümleri ise desibel es pi el ile ifade edilir.  || ref: -
+067 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bazı eşik üstü testlerde uyaran düzeyi kişinin eşiğine göre desibel es el olarak ayarlanır.  || ref: -
+068 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Gürültü ölçümlerinde kulağın frekans duyarlılığını taklit eden A ağırlıklı ölçüm, yani desibel A kullanılır.  || ref: -
+069 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir raporda gördüğünüz her desibel değerinin hangi ölçekte yazıldığını kontrol etmek iyi bir alışkanlıktır.  || ref: -
+070 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Şimdi günlük sesleri bu ölçeğe yerleştirelim; değerler yaklaşıktır ve ölçüm mesafesine bağlıdır.  || ref: -
+071 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Fısıltı yaklaşık otuz desibel es pi el düzeyindedir.  || ref: -
+072 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.92 (small)  || okunan: Bir metre uzaklıktan normal konuşma yaklaşık altmış desibel es pi el civarındadır.  || ref: -
+073 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Yoğun trafik yaklaşık seksen beş, bir rock konseri ise yüz ile yüz on desibel es pi el düzeyine ulaşabilir.  || ref: -
+074 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yaklaşık yüz otuz desibel es pi el ve üzerindeki sesler kulakta ağrı hissi oluşturabilir.  || ref: -
+075 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Fısıltı ile konser arasındaki seksen desibellik fark, basınçta on bin katlık bir farktır.  || ref: -
+076 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kulağımızın ses yüksekliği algısı da sıkıştırılmış bir ölçekte çalışır; bu, desibeli algıya yakın bir ölçek yapar.  || ref: -
+077 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Genel bir kural olarak, düzeydeki yaklaşık on desibellik artış, algılanan ses yüksekliğini kabaca iki katına çıkarır.  || ref: -
+078 hızlı   aday=1 önek="Türkçe:" dil=tr:0.98 pencere=0.98 (small)  || okunan: Oysa on desibel, şiddette on katlık bir artış demektir.  || ref: -
+079 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir desibel civarındaki değişiklikler ise çoğu koşulda zor fark edilir.  || ref: -
+080 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.96 (small)  || okunan: Üç desibellik artış küçük görünse de ses enerjisinin iki katına çıkması demektir.  || ref: -
+081 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu kurala dönersek, algılanan ses yüksekliğini yarıya indirmek için de yaklaşık on desibellik azalma gerekir.  || ref: -
+082 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Klinikte ve danışmanlıkta çok işe yarayan bir bilgi: desibeller düz toplanmaz.  || ref: -
+083 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Altmış desibellik iki eşit ses kaynağı birlikte yaklaşık altmış üç desibel verir, yüz yirmi değil.  || ref: -
+084 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu nedenle birçok iş sağlığı ölçütünde gürültü üç desibel arttığında güvenli maruz kalma süresi yarıya iner.  || ref: -
+085 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kişiye gürültü riskini anlatırken bu basit kuralı kullanmak çok etkilidir.  || ref: -
+086 hızlı   aday=1 önek="Türkçe:" dil=tr:0.98 pencere=0.95 (small)  || okunan: Desibel, ölçülen bir değerin referans değere oranının logaritmik ifadesidir.  || ref: -
+087 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Şiddet için on log, basınç için yirmi log kullanılır; iki formül aynı sonucu verir.  || ref: -
+088 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:0.99 pencere=0.96 (small)  || okunan: Sıfır desibel es pi el sessizlik değil, yirmi mikropaskallık referans basınçtır.  || ref: -
+089 hızlı   aday=4 önek="Şimdi Türkçe anlatıyorum:" dil=tr:1.00 pencere=0.90 (small)  || okunan: desibel es pi el, desibel eyç el ve desibel es el farklı referanslara dayanır; hangisinin kullanıldığı her zaman belirtilmelidir.  || ref: -
+090 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Kendinizi test edin: Ses basıncı on katına çıkarsa ses basınç düzeyi kaç desibel artar?  || ref: -
+091 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Doğru cevap D, yirmi desibel. Basınç için yirmi log kullanılır ve onun logaritması birdir.  || ref: -
+092 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir sonraki derste desibelleri toplamayı ve mesafenin ses düzeyini nasıl değiştirdiğini hesaplarla göreceğiz.  || ref: -
+093 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!  || ref: -
+== D013_Desibel_Nedir bitti

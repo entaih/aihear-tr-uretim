@@ -1,0 +1,252 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R396_hearWHO_Rakam_Uclusu_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #396",
+  "baslik": "*hearWHO* uygulaması",
+  "alt": "Gürültüde rakam testiyle tarama",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 24,
+    "ad": "Rakam üçlüsü sırası",
+    "isaretler": [
+     1,
+     5,
+     10,
+     15,
+     20,
+     23
+    ]
+   },
+   "y": {
+    "min": -14,
+    "max": 2,
+    "adim": 2,
+    "ad": "SNR (dB)"
+   },
+   "seriler": [
+    {
+     "ad": "iz",
+     "noktalar": [
+      [
+       1,
+       0
+      ],
+      [
+       2,
+       -2
+      ],
+      [
+       3,
+       -4
+      ],
+      [
+       4,
+       -6
+      ],
+      [
+       5,
+       -8
+      ],
+      [
+       6,
+       -10
+      ],
+      [
+       7,
+       -8
+      ],
+      [
+       8,
+       -10
+      ],
+      [
+       9,
+       -12
+      ],
+      [
+       10,
+       -10
+      ],
+      [
+       11,
+       -8
+      ],
+      [
+       12,
+       -10
+      ],
+      [
+       13,
+       -12
+      ],
+      [
+       14,
+       -10
+      ],
+      [
+       15,
+       -12
+      ],
+      [
+       16,
+       -10
+      ],
+      [
+       17,
+       -8
+      ],
+      [
+       18,
+       -10
+      ],
+      [
+       19,
+       -12
+      ],
+      [
+       20,
+       -10
+      ],
+      [
+       21,
+       -12
+      ],
+      [
+       22,
+       -10
+      ],
+      [
+       23,
+       -12
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "sure": 3,
+     "etiket": "uyarlamalı iz",
+     "cumle": 1
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "dalgalanma",
+     "y": [
+      -12,
+      -8
+     ],
+     "renk": "sari",
+     "etiket": "dalgalanma bölgesi",
+     "cumle": 3
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "srt",
+     "x": 18,
+     "y": -10,
+     "cizgi": "yatay",
+     "etiket": "SRT yaklaşık -10 dB",
+     "cumle": 4
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Dünya Sağlık Örgütünün ücretsiz işitme uygulaması nasıl çalışır? #shorts",
+  "aciklama": "Dünya Sağlık Örgütünün hearWHO uygulaması, gürültüde rakam testi teknolojisini kullanan ücretsiz bir tarama aracıdır. Kişi kulaklıkla gürültü içinde 23 rakam üçlüsü dinler ve sonuç 0 ile 100 arasında bir puanla verilir; 50'den düşük puanda bir uzmana başvurması önerilir, 75'in üzeri iyi işitmeyi gösterir. Uygulama 12 yaş ve üzeri için tasarlanmıştır ve sonucu bir tanı değil, yönlendirme için bir işarettir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "tarama",
+   "hearWHO"
+  ],
+  "etiketler": [
+   "hearWHO",
+   "gürültüde rakam testi",
+   "yetişkin işitme taraması",
+   "Dünya Sağlık Örgütü",
+   "işitme taraması",
+   "uygulama",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Dünya Sağlık Örgütünün ücretsiz işitme uygulaması nasıl çalışır?",
+  "bilgiler": [
+   "Kulaklıkla gürültüde 23 rakam üçlüsü dinlenir.",
+   "Puan 0 ile 100 arası; 50'den düşükse uzmana başvurulur.",
+   "Sonuç tanı değil, yönlendirme işaretidir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "tarama",
+   "hearWHO"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #396",
+   "metin": "Ücretsiz *tarama?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Dünya Sağlık Örgütünün ücretsiz işitme uygulaması nasıl çalışır?"
+   ]
+  },
+  {
+   "id": "hearwho",
+   "tur": "zincir",
+   "baslik": "*hearWHO* uygulaması",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "23 üçlü",
+     "tr": "gürültüde rakam",
+     "cumle": 0
+    },
+    {
+     "ad": "0-100",
+     "tr": "puan",
+     "cumle": 1
+    },
+    {
+     "ad": "50 altı",
+     "tr": "uzmana başvur",
+     "cumle": 2
+    }
+   ],
+   "alt": "Tanı değil, _yönlendirme_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Kişi kulaklıkla gürültü içinde yirmi üç rakam üçlüsü dinler.",
+    "Sonuç sıfır ile yüz arasında bir puanla verilir.",
+    "Elliden düşük puanda kişiye bir uzmana başvurması önerilir.",
+    "Yetmiş beşin üzerindeki puan iyi işitmeyi gösterir.",
+    "Sonuç bir tanı değil, yönlendirme için bir işarettir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D177",
+ "kaynak_baslik": "Yetişkin ve yaşlıda tarama"
+}

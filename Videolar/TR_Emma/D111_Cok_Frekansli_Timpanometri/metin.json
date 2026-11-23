@@ -1,0 +1,2747 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D111_Cok_Frekansli_Timpanometri_TR",
+ "kapak": {
+  "ust": "DERS 111",
+  "baslik": "Çok frekanslı<br>*timpanometri*",
+  "alt": "Orta kulağın rezonans frekansı",
+  "cizim": "timpanogram",
+  "ayar": {
+   "egriler": [
+    {
+     "tip": "A"
+    },
+    {
+     "tip": "As"
+    },
+    {
+     "tip": "Ad"
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Çok Frekanslı Timpanometri ve Orta Kulak Rezonans Frekansı | Ders 111 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Orta kulak yalnız 226 Hz ile mi değerlendirilir? Bu derste çok frekanslı timpanometrinin mantığını, süseptans ve kondüktans bileşenlerini, frekans ve basınç taramalı yöntemleri, çentikli timpanogramları, orta kulağın rezonans frekansını ve otoskleroz ile zincir kopukluğunda nasıl kaydığını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hunter ve Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice; Margolis ve Goycoolea (1993), Multifrequency tympanometry in normal adults, Ear and Hearing; Shahnaz ve Polka (1997), Standard and multifrequency tympanometry in normal and otosclerotic ears, Ear and Hearing; Vanhuyse, Creten ve Van Camp (1975), On the W-notching of tympanograms, Scandinavian Audiology; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "timpanometri",
+   "immitans"
+  ],
+  "etiketler": [
+   "çok frekanslı timpanometri",
+   "multifrequency tympanometry",
+   "rezonans frekansı",
+   "resonant frequency",
+   "süseptans",
+   "kondüktans",
+   "otoskleroz",
+   "zincir kopukluğu",
+   "immitansmetri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 111",
+   "baslik": "Çok frekanslı *timpanometri*",
+   "alt": "Orta kulağın rezonans frekansı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste timpanometriyi tek bir prob tonunun ötesine taşıyor ve çok frekanslı timpanometriyi öğreniyoruz.",
+    "Orta kulağın rezonans frekansının nasıl bulunduğunu ve sertlik ile kütle değişikliklerinde nasıl kaydığını göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden çok frekans?",
+   "baslik": "Sertlikten *kütleye*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Prob tonu frekansı (Hz)",
+     "isaretler": [
+      226,
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": -3,
+     "max": 3,
+     "isaretler": [
+      -2,
+      0,
+      2
+     ],
+     "yazisiz": true,
+     "ad": "Reaktans (göreli)"
+    },
+    "seriler": [
+     {
+      "ad": "sertlik",
+      "noktalar": [
+       [
+        340.1,
+        -2.94
+       ],
+       [
+        353.2,
+        -2.831
+       ],
+       [
+        366.9,
+        -2.726
+       ],
+       [
+        381.1,
+        -2.624
+       ],
+       [
+        395.8,
+        -2.527
+       ],
+       [
+        411.1,
+        -2.433
+       ],
+       [
+        427.0,
+        -2.342
+       ],
+       [
+        443.5,
+        -2.255
+       ],
+       [
+        460.6,
+        -2.171
+       ],
+       [
+        478.4,
+        -2.09
+       ],
+       [
+        496.9,
+        -2.012
+       ],
+       [
+        516.1,
+        -1.938
+       ],
+       [
+        536.1,
+        -1.865
+       ],
+       [
+        556.8,
+        -1.796
+       ],
+       [
+        578.3,
+        -1.729
+       ],
+       [
+        600.7,
+        -1.665
+       ],
+       [
+        623.9,
+        -1.603
+       ],
+       [
+        648.0,
+        -1.543
+       ],
+       [
+        673.0,
+        -1.486
+       ],
+       [
+        699.0,
+        -1.431
+       ],
+       [
+        726.1,
+        -1.377
+       ],
+       [
+        754.1,
+        -1.326
+       ],
+       [
+        783.3,
+        -1.277
+       ],
+       [
+        813.5,
+        -1.229
+       ],
+       [
+        845.0,
+        -1.183
+       ],
+       [
+        877.6,
+        -1.139
+       ],
+       [
+        911.5,
+        -1.097
+       ],
+       [
+        946.8,
+        -1.056
+       ],
+       [
+        983.4,
+        -1.017
+       ],
+       [
+        1021.4,
+        -0.979
+       ],
+       [
+        1060.9,
+        -0.943
+       ],
+       [
+        1101.9,
+        -0.908
+       ],
+       [
+        1144.4,
+        -0.874
+       ],
+       [
+        1188.7,
+        -0.841
+       ],
+       [
+        1234.6,
+        -0.81
+       ],
+       [
+        1282.3,
+        -0.78
+       ],
+       [
+        1331.9,
+        -0.751
+       ],
+       [
+        1383.4,
+        -0.723
+       ],
+       [
+        1436.8,
+        -0.696
+       ],
+       [
+        1492.4,
+        -0.67
+       ],
+       [
+        1550.0,
+        -0.645
+       ],
+       [
+        1609.9,
+        -0.621
+       ],
+       [
+        1672.2,
+        -0.598
+       ],
+       [
+        1736.8,
+        -0.576
+       ],
+       [
+        1803.9,
+        -0.554
+       ],
+       [
+        1873.6,
+        -0.534
+       ],
+       [
+        1946.1,
+        -0.514
+       ],
+       [
+        2021.3,
+        -0.495
+       ],
+       [
+        2099.4,
+        -0.476
+       ],
+       [
+        2180.5,
+        -0.459
+       ],
+       [
+        2264.8,
+        -0.442
+       ],
+       [
+        2352.3,
+        -0.425
+       ],
+       [
+        2443.2,
+        -0.409
+       ],
+       [
+        2537.7,
+        -0.394
+       ],
+       [
+        2635.7,
+        -0.379
+       ],
+       [
+        2737.6,
+        -0.365
+       ],
+       [
+        2843.4,
+        -0.352
+       ],
+       [
+        2953.3,
+        -0.339
+       ],
+       [
+        3067.5,
+        -0.326
+       ],
+       [
+        3186.0,
+        -0.314
+       ],
+       [
+        3309.1,
+        -0.302
+       ],
+       [
+        3437.0,
+        -0.291
+       ],
+       [
+        3569.9,
+        -0.28
+       ],
+       [
+        3707.9,
+        -0.27
+       ],
+       [
+        3851.2,
+        -0.26
+       ],
+       [
+        4000.0,
+        -0.25
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "sertlik etkisi",
+      "etiket_konum": [
+       400,
+       -2.5
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 6
+     },
+     {
+      "ad": "kutle",
+      "noktalar": [
+       [
+        200.0,
+        0.2
+       ],
+       [
+        207.7,
+        0.208
+       ],
+       [
+        215.8,
+        0.216
+       ],
+       [
+        224.1,
+        0.224
+       ],
+       [
+        232.8,
+        0.233
+       ],
+       [
+        241.8,
+        0.242
+       ],
+       [
+        251.1,
+        0.251
+       ],
+       [
+        260.8,
+        0.261
+       ],
+       [
+        270.9,
+        0.271
+       ],
+       [
+        281.4,
+        0.281
+       ],
+       [
+        292.2,
+        0.292
+       ],
+       [
+        303.5,
+        0.304
+       ],
+       [
+        315.2,
+        0.315
+       ],
+       [
+        327.4,
+        0.327
+       ],
+       [
+        340.1,
+        0.34
+       ],
+       [
+        353.2,
+        0.353
+       ],
+       [
+        366.9,
+        0.367
+       ],
+       [
+        381.1,
+        0.381
+       ],
+       [
+        395.8,
+        0.396
+       ],
+       [
+        411.1,
+        0.411
+       ],
+       [
+        427.0,
+        0.427
+       ],
+       [
+        443.5,
+        0.443
+       ],
+       [
+        460.6,
+        0.461
+       ],
+       [
+        478.4,
+        0.478
+       ],
+       [
+        496.9,
+        0.497
+       ],
+       [
+        516.1,
+        0.516
+       ],
+       [
+        536.1,
+        0.536
+       ],
+       [
+        556.8,
+        0.557
+       ],
+       [
+        578.3,
+        0.578
+       ],
+       [
+        600.7,
+        0.601
+       ],
+       [
+        623.9,
+        0.624
+       ],
+       [
+        648.0,
+        0.648
+       ],
+       [
+        673.0,
+        0.673
+       ],
+       [
+        699.0,
+        0.699
+       ],
+       [
+        726.1,
+        0.726
+       ],
+       [
+        754.1,
+        0.754
+       ],
+       [
+        783.3,
+        0.783
+       ],
+       [
+        813.5,
+        0.814
+       ],
+       [
+        845.0,
+        0.845
+       ],
+       [
+        877.6,
+        0.878
+       ],
+       [
+        911.5,
+        0.912
+       ],
+       [
+        946.8,
+        0.947
+       ],
+       [
+        983.4,
+        0.983
+       ],
+       [
+        1021.4,
+        1.021
+       ],
+       [
+        1060.9,
+        1.061
+       ],
+       [
+        1101.9,
+        1.102
+       ],
+       [
+        1144.4,
+        1.144
+       ],
+       [
+        1188.7,
+        1.189
+       ],
+       [
+        1234.6,
+        1.235
+       ],
+       [
+        1282.3,
+        1.282
+       ],
+       [
+        1331.9,
+        1.332
+       ],
+       [
+        1383.4,
+        1.383
+       ],
+       [
+        1436.8,
+        1.437
+       ],
+       [
+        1492.4,
+        1.492
+       ],
+       [
+        1550.0,
+        1.55
+       ],
+       [
+        1609.9,
+        1.61
+       ],
+       [
+        1672.2,
+        1.672
+       ],
+       [
+        1736.8,
+        1.737
+       ],
+       [
+        1803.9,
+        1.804
+       ],
+       [
+        1873.6,
+        1.874
+       ],
+       [
+        1946.1,
+        1.946
+       ],
+       [
+        2021.3,
+        2.021
+       ],
+       [
+        2099.4,
+        2.099
+       ],
+       [
+        2180.5,
+        2.181
+       ],
+       [
+        2264.8,
+        2.265
+       ],
+       [
+        2352.3,
+        2.352
+       ],
+       [
+        2443.2,
+        2.443
+       ],
+       [
+        2537.7,
+        2.538
+       ],
+       [
+        2635.7,
+        2.636
+       ],
+       [
+        2737.6,
+        2.738
+       ],
+       [
+        2843.4,
+        2.843
+       ],
+       [
+        2953.3,
+        2.953
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "kütle etkisi",
+      "etiket_konum": [
+       2500,
+       2.5
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -8,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "net",
+      "noktalar": [
+       [
+        303.5,
+        -2.991
+       ],
+       [
+        315.2,
+        -2.857
+       ],
+       [
+        327.4,
+        -2.727
+       ],
+       [
+        340.1,
+        -2.6
+       ],
+       [
+        353.2,
+        -2.478
+       ],
+       [
+        366.9,
+        -2.359
+       ],
+       [
+        381.1,
+        -2.243
+       ],
+       [
+        395.8,
+        -2.131
+       ],
+       [
+        411.1,
+        -2.021
+       ],
+       [
+        427.0,
+        -1.915
+       ],
+       [
+        443.5,
+        -1.811
+       ],
+       [
+        460.6,
+        -1.71
+       ],
+       [
+        478.4,
+        -1.612
+       ],
+       [
+        496.9,
+        -1.516
+       ],
+       [
+        516.1,
+        -1.421
+       ],
+       [
+        536.1,
+        -1.329
+       ],
+       [
+        556.8,
+        -1.239
+       ],
+       [
+        578.3,
+        -1.151
+       ],
+       [
+        600.7,
+        -1.064
+       ],
+       [
+        623.9,
+        -0.979
+       ],
+       [
+        648.0,
+        -0.895
+       ],
+       [
+        673.0,
+        -0.813
+       ],
+       [
+        699.0,
+        -0.732
+       ],
+       [
+        726.1,
+        -0.651
+       ],
+       [
+        754.1,
+        -0.572
+       ],
+       [
+        783.3,
+        -0.493
+       ],
+       [
+        813.5,
+        -0.416
+       ],
+       [
+        845.0,
+        -0.339
+       ],
+       [
+        877.6,
+        -0.262
+       ],
+       [
+        911.5,
+        -0.185
+       ],
+       [
+        946.8,
+        -0.109
+       ],
+       [
+        983.4,
+        -0.034
+       ],
+       [
+        1021.4,
+        0.042
+       ],
+       [
+        1060.9,
+        0.118
+       ],
+       [
+        1101.9,
+        0.194
+       ],
+       [
+        1144.4,
+        0.271
+       ],
+       [
+        1188.7,
+        0.347
+       ],
+       [
+        1234.6,
+        0.425
+       ],
+       [
+        1282.3,
+        0.502
+       ],
+       [
+        1331.9,
+        0.581
+       ],
+       [
+        1383.4,
+        0.66
+       ],
+       [
+        1436.8,
+        0.741
+       ],
+       [
+        1492.4,
+        0.822
+       ],
+       [
+        1550.0,
+        0.905
+       ],
+       [
+        1609.9,
+        0.989
+       ],
+       [
+        1672.2,
+        1.074
+       ],
+       [
+        1736.8,
+        1.161
+       ],
+       [
+        1803.9,
+        1.25
+       ],
+       [
+        1873.6,
+        1.34
+       ],
+       [
+        1946.1,
+        1.432
+       ],
+       [
+        2021.3,
+        1.527
+       ],
+       [
+        2099.4,
+        1.623
+       ],
+       [
+        2180.5,
+        1.722
+       ],
+       [
+        2264.8,
+        1.823
+       ],
+       [
+        2352.3,
+        1.927
+       ],
+       [
+        2443.2,
+        2.034
+       ],
+       [
+        2537.7,
+        2.144
+       ],
+       [
+        2635.7,
+        2.256
+       ],
+       [
+        2737.6,
+        2.372
+       ],
+       [
+        2843.4,
+        2.492
+       ],
+       [
+        2953.3,
+        2.615
+       ],
+       [
+        3067.5,
+        2.741
+       ],
+       [
+        3186.0,
+        2.872
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "rezonans",
+      "x": 1000,
+      "y": 0,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "rezonans: net reaktans 0",
+      "dy": -20,
+      "cumle": 4
+     },
+     {
+      "ad": "p226",
+      "x": 226,
+      "y": 0,
+      "cizgi": "dikey",
+      "renk": "sari",
+      "nokta": false,
+      "etiket": "226 Hz",
+      "dx": 8,
+      "dy": -170,
+      "hiza": "start",
+      "cumle": 0
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "p226",
+     "cumle": 1
+    },
+    {
+     "parca": "rezonans",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Önceki derslerde rutin timpanometriyi tek bir prob tonuyla, iki yüz yirmi altı hertzde yaptık.",
+    "Bu frekansta yetişkin orta kulağı sertlik baskın çalışır; bu yüzden kütle değişiklikleri çoğu zaman gizli kalır.",
+    "Çok frekanslı timpanometri (multifrequency tympanometry), aynı ölçümü birçok prob tonu frekansında tekrarlar.",
+    "Amaç, orta kulağın sertlik baskın davranıştan kütle baskın davranışa geçtiği noktayı, yani rezonans frekansını bulmaktır.",
+    "Rezonans frekansında kütle ve sertliğin etkileri birbirini dengeler; net reaktans sıfırdır.",
+    "Patolojiler kütleyi ya da sertliği değiştirdiği için rezonans frekansını kaydırır; çok frekanslı ölçüm bu kaymayı gösterir."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden çok frekans?",
+   "baslik": "Admitansın *bileşenleri*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Süseptans: B",
+     "metin": "Kütle ve sertlik",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Kondüktans: G",
+     "metin": "Sürtünme, soğurma",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Rezonansta",
+     "metin": "B sıfırdan geçer",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Faz açısı",
+     "metin": "Sertlikte 90, rezonansta 0",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Çok frekanslı ölçümde admitans tek bir sayı olarak değil, iki bileşeniyle incelenir.",
+    {
+     "yazi": "Süseptans (susceptance), yani B, admitansın kütle ve sertlikle ilgili bileşenidir.",
+     "ses": "Süseptans (susceptance), yani be, admitansın kütle ve sertlikle ilgili bileşenidir."
+    },
+    {
+     "yazi": "Kondüktans (conductance), yani G ise sürtünmeyle, yani enerjinin soğurulmasıyla ilgili bileşendir.",
+     "ses": "Kondüktans (conductance), yani ge ise sürtünmeyle, yani enerjinin soğurulmasıyla ilgili bileşendir."
+    },
+    "Sertlik baskın bölgede süseptans pozitif, kütle baskın bölgede negatiftir; rezonansta sıfırdan geçer.",
+    "Bazı cihazlar bileşenler yerine admitansın büyüklüğünü ve faz açısını gösterir; iki gösterim aynı bilgiyi taşır.",
+    "Faz açısı sertlik baskın bir sistemde artı doksan dereceye yakındır; rezonansta ise sıfır olur."
+   ]
+  },
+  {
+   "id": "kurulum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ölçüm",
+   "baslik": "Aynı prob, *çok* frekans",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "prob",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_hoparlor",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_ucu",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "Hoparlör: 226 ile 2000 Hz",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Mikrofon",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "Pompa",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Ölçümün donanımı rutin timpanometriyle aynıdır: hoparlör, mikrofon ve pompa içeren bir prob.",
+    "Fark, probun hoparlörünün yalnız iki yüz yirmi altı hertz değil, yaklaşık iki bin hertze kadar birçok frekans üretebilmesidir.",
+    "Kulak yolu hava sızdırmayacak biçimde kapatılmalıdır; sızıntı özellikle pes frekanslarda ölçümü bozar.",
+    "Yüksek frekanslarda kulak yolu artık basit bir hava hacmi gibi davranmaz; bu yüzden cihazın kalibrasyonu ve düzeltmeleri önemlidir.",
+    "Bu ölçüm her klinikte bulunmaz; çoğu zaman tanısal bir ek test olarak yapılır."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ölçüm",
+   "baslik": "İki *yöntem*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frekans taraması",
+     "metin": "Basınç sabit, frekans değişir",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Fark hesabı",
+     "metin": "Tepe basıncı eksi artı 200",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Basınç taraması",
+     "metin": "Her frekansta timpanogram",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Yönteme özgü norm",
+     "metin": "Değerler farklı olabilir",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Çok frekanslı timpanometri iki ana yöntemle yapılır.",
+    "Frekans taramalı yöntemde basınç sabit tutulur ve prob tonu frekansı geniş bir aralıkta taranır.",
+    "Ölçüm önce artı iki yüz dekapaskalda, sonra timpanometrik tepe basıncında yapılır ve ikisi arasındaki fark hesaplanır.",
+    "Artı iki yüz dekapaskalda zar gerilir ve orta kulağın katkısı en aza iner; bu yüzden fark, orta kulağa ait değeri verir.",
+    "Basınç taramalı yöntemde ise bilinen timpanometri gibi basınç taranır; bu işlem birçok prob tonunda art arda tekrarlanır.",
+    "Rezonans frekansı, iki yöntemde de orta kulağa ait süseptansın sıfır olduğu frekans olarak bulunur.",
+    "İki yöntem farklı değerler verebilir; bu yüzden sonuç, kullanılan yönteme ait normlarla karşılaştırılır."
+   ]
+  },
+  {
+   "id": "w_centigi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ölçüm",
+   "baslik": "Çentikli *timpanogramlar*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -300,
+     "max": 200,
+     "adim": 100,
+     "ad": "Basınç (daPa)"
+    },
+    "y": {
+     "min": 0,
+     "max": 2.4,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": "Süseptans (göreli)"
+    },
+    "seriler": [
+     {
+      "ad": "b226",
+      "noktalar": [
+       [
+        -300,
+        0.5
+       ],
+       [
+        -290,
+        0.5
+       ],
+       [
+        -280,
+        0.5
+       ],
+       [
+        -270,
+        0.5
+       ],
+       [
+        -260,
+        0.5
+       ],
+       [
+        -250,
+        0.5
+       ],
+       [
+        -240,
+        0.5
+       ],
+       [
+        -230,
+        0.5
+       ],
+       [
+        -220,
+        0.5
+       ],
+       [
+        -210,
+        0.5
+       ],
+       [
+        -200,
+        0.501
+       ],
+       [
+        -190,
+        0.501
+       ],
+       [
+        -180,
+        0.502
+       ],
+       [
+        -170,
+        0.504
+       ],
+       [
+        -160,
+        0.508
+       ],
+       [
+        -150,
+        0.515
+       ],
+       [
+        -140,
+        0.525
+       ],
+       [
+        -130,
+        0.542
+       ],
+       [
+        -120,
+        0.568
+       ],
+       [
+        -110,
+        0.604
+       ],
+       [
+        -100,
+        0.653
+       ],
+       [
+        -90,
+        0.717
+       ],
+       [
+        -80,
+        0.794
+       ],
+       [
+        -70,
+        0.884
+       ],
+       [
+        -60,
+        0.98
+       ],
+       [
+        -50,
+        1.077
+       ],
+       [
+        -40,
+        1.166
+       ],
+       [
+        -30,
+        1.237
+       ],
+       [
+        -20,
+        1.284
+       ],
+       [
+        -10,
+        1.3
+       ],
+       [
+        0,
+        1.284
+       ],
+       [
+        10,
+        1.237
+       ],
+       [
+        20,
+        1.166
+       ],
+       [
+        30,
+        1.077
+       ],
+       [
+        40,
+        0.98
+       ],
+       [
+        50,
+        0.884
+       ],
+       [
+        60,
+        0.794
+       ],
+       [
+        70,
+        0.717
+       ],
+       [
+        80,
+        0.653
+       ],
+       [
+        90,
+        0.604
+       ],
+       [
+        100,
+        0.568
+       ],
+       [
+        110,
+        0.542
+       ],
+       [
+        120,
+        0.525
+       ],
+       [
+        130,
+        0.515
+       ],
+       [
+        140,
+        0.508
+       ],
+       [
+        150,
+        0.504
+       ],
+       [
+        160,
+        0.502
+       ],
+       [
+        170,
+        0.501
+       ],
+       [
+        180,
+        0.501
+       ],
+       [
+        190,
+        0.5
+       ],
+       [
+        200,
+        0.5
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": 4,
+      "yumusak": true,
+      "cumle": 1,
+      "etiket": "226 Hz: tek tepe",
+      "etiket_konum": [
+       -10,
+       1.3
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": 28,
+      "etiket_hiza": "middle"
+     },
+     {
+      "ad": "b678",
+      "noktalar": [
+       [
+        -300,
+        1.0
+       ],
+       [
+        -290,
+        1.0
+       ],
+       [
+        -280,
+        1.0
+       ],
+       [
+        -270,
+        1.0
+       ],
+       [
+        -260,
+        1.0
+       ],
+       [
+        -250,
+        1.0
+       ],
+       [
+        -240,
+        1.0
+       ],
+       [
+        -230,
+        1.0
+       ],
+       [
+        -220,
+        1.001
+       ],
+       [
+        -210,
+        1.001
+       ],
+       [
+        -200,
+        1.002
+       ],
+       [
+        -190,
+        1.004
+       ],
+       [
+        -180,
+        1.008
+       ],
+       [
+        -170,
+        1.014
+       ],
+       [
+        -160,
+        1.024
+       ],
+       [
+        -150,
+        1.04
+       ],
+       [
+        -140,
+        1.064
+       ],
+       [
+        -130,
+        1.1
+       ],
+       [
+        -120,
+        1.151
+       ],
+       [
+        -110,
+        1.22
+       ],
+       [
+        -100,
+        1.308
+       ],
+       [
+        -90,
+        1.415
+       ],
+       [
+        -80,
+        1.536
+       ],
+       [
+        -70,
+        1.656
+       ],
+       [
+        -60,
+        1.746
+       ],
+       [
+        -50,
+        1.769
+       ],
+       [
+        -40,
+        1.693
+       ],
+       [
+        -30,
+        1.534
+       ],
+       [
+        -20,
+        1.37
+       ],
+       [
+        -10,
+        1.3
+       ],
+       [
+        0,
+        1.37
+       ],
+       [
+        10,
+        1.534
+       ],
+       [
+        20,
+        1.693
+       ],
+       [
+        30,
+        1.769
+       ],
+       [
+        40,
+        1.746
+       ],
+       [
+        50,
+        1.656
+       ],
+       [
+        60,
+        1.536
+       ],
+       [
+        70,
+        1.415
+       ],
+       [
+        80,
+        1.308
+       ],
+       [
+        90,
+        1.22
+       ],
+       [
+        100,
+        1.151
+       ],
+       [
+        110,
+        1.1
+       ],
+       [
+        120,
+        1.064
+       ],
+       [
+        130,
+        1.04
+       ],
+       [
+        140,
+        1.024
+       ],
+       [
+        150,
+        1.014
+       ],
+       [
+        160,
+        1.008
+       ],
+       [
+        170,
+        1.004
+       ],
+       [
+        180,
+        1.002
+       ],
+       [
+        190,
+        1.001
+       ],
+       [
+        200,
+        1.001
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 2,
+      "etiket": "678 Hz: çentik",
+      "etiket_konum": [
+       60,
+       1.9
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": -6
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "centik",
+      "x": -10,
+      "y": 1.3,
+      "etiket": "çentik",
+      "dy": -60,
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "b226",
+     "cumle": 1
+    },
+    {
+     "parca": "centik",
+     "cumle": 2
+    },
+    {
+     "parca": "b678",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Prob tonu frekansı yükseldikçe timpanogramın biçimi de değişir.",
+    "İki yüz yirmi altı hertzde süseptans ve kondüktans eğrileri tek tepelidir.",
+    "Daha yüksek frekanslarda, özellikle rezonansa yaklaşıldığında, süseptans eğrisinin tepesinde bir çentik belirir.",
+    "Altı yüz yetmiş sekiz hertz, iki yüz yirmi altının üç katıdır ve ikinci prob tonu olarak sık kullanılır.",
+    {
+     "yazi": "Çentikli eğrilere tepe ve çukur sayısına göre 1B1G, 3B1G, 3B3G ve 5B3G gibi adlar verilir.",
+     "ses": "Çentikli eğrilere tepe ve çukur sayısına göre bir be bir ge, üç be bir ge, üç be üç ge ve beş be üç ge gibi adlar verilir."
+    },
+    "Bu sınıflama 1975'te Vanhuyse ve arkadaşlarının önerdiği modele dayanır.",
+    "Normal yetişkin kulakta altı yüz yetmiş sekiz hertzde de çentik görülebilir; ama çentiklerin sayısı ve genişliği sınırlıdır.",
+    "Çentik sayısı fazla ya da çentik genişse kütle etkisinin arttığı, örneğin gevşek bir zar ya da zincir kopukluğu düşünülür."
+   ]
+  },
+  {
+   "id": "rf_grafik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rezonans frekansı",
+   "baslik": "Rezonans frekansı *kayar*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 226,
+     "max": 2000,
+     "log": true,
+     "hz": true,
+     "ad": "Prob tonu frekansı (Hz)",
+     "isaretler": [
+      226,
+      500,
+      1000,
+      2000
+     ]
+    },
+    "y": {
+     "min": -1.5,
+     "max": 2.5,
+     "isaretler": [
+      -1,
+      0,
+      1,
+      2
+     ],
+     "yazisiz": true,
+     "ad": "Orta kulak süseptansı"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        330.2,
+        2.428
+       ],
+       [
+        340.8,
+        2.334
+       ],
+       [
+        351.8,
+        2.242
+       ],
+       [
+        363.0,
+        2.152
+       ],
+       [
+        374.7,
+        2.065
+       ],
+       [
+        386.7,
+        1.979
+       ],
+       [
+        399.1,
+        1.896
+       ],
+       [
+        412.0,
+        1.814
+       ],
+       [
+        425.2,
+        1.734
+       ],
+       [
+        438.8,
+        1.656
+       ],
+       [
+        452.9,
+        1.579
+       ],
+       [
+        467.5,
+        1.505
+       ],
+       [
+        482.5,
+        1.431
+       ],
+       [
+        498.0,
+        1.359
+       ],
+       [
+        513.9,
+        1.289
+       ],
+       [
+        530.4,
+        1.219
+       ],
+       [
+        547.5,
+        1.151
+       ],
+       [
+        565.1,
+        1.084
+       ],
+       [
+        583.2,
+        1.018
+       ],
+       [
+        601.9,
+        0.953
+       ],
+       [
+        621.2,
+        0.89
+       ],
+       [
+        641.2,
+        0.827
+       ],
+       [
+        661.8,
+        0.764
+       ],
+       [
+        683.0,
+        0.703
+       ],
+       [
+        704.9,
+        0.642
+       ],
+       [
+        727.6,
+        0.582
+       ],
+       [
+        750.9,
+        0.523
+       ],
+       [
+        775.0,
+        0.464
+       ],
+       [
+        799.9,
+        0.405
+       ],
+       [
+        825.6,
+        0.347
+       ],
+       [
+        852.1,
+        0.289
+       ],
+       [
+        879.5,
+        0.232
+       ],
+       [
+        907.7,
+        0.175
+       ],
+       [
+        936.8,
+        0.118
+       ],
+       [
+        966.9,
+        0.061
+       ],
+       [
+        998.0,
+        0.004
+       ],
+       [
+        1030.0,
+        -0.053
+       ],
+       [
+        1063.1,
+        -0.11
+       ],
+       [
+        1097.2,
+        -0.167
+       ],
+       [
+        1132.4,
+        -0.224
+       ],
+       [
+        1168.8,
+        -0.282
+       ],
+       [
+        1206.3,
+        -0.34
+       ],
+       [
+        1245.0,
+        -0.398
+       ],
+       [
+        1285.0,
+        -0.456
+       ],
+       [
+        1326.2,
+        -0.515
+       ],
+       [
+        1368.8,
+        -0.574
+       ],
+       [
+        1412.8,
+        -0.634
+       ],
+       [
+        1458.1,
+        -0.695
+       ],
+       [
+        1504.9,
+        -0.756
+       ],
+       [
+        1553.3,
+        -0.818
+       ],
+       [
+        1603.1,
+        -0.881
+       ],
+       [
+        1654.6,
+        -0.945
+       ],
+       [
+        1707.7,
+        -1.01
+       ],
+       [
+        1762.5,
+        -1.076
+       ],
+       [
+        1819.1,
+        -1.142
+       ],
+       [
+        1877.5,
+        -1.21
+       ],
+       [
+        1937.8,
+        -1.28
+       ],
+       [
+        2000.0,
+        -1.35
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 0,
+      "etiket": "normal",
+      "etiket_konum": [
+       700,
+       0.289
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": -10
+     },
+     {
+      "ad": "otoskleroz",
+      "noktalar": [
+       [
+        452.9,
+        2.491
+       ],
+       [
+        467.5,
+        2.395
+       ],
+       [
+        482.5,
+        2.301
+       ],
+       [
+        498.0,
+        2.21
+       ],
+       [
+        513.9,
+        2.121
+       ],
+       [
+        530.4,
+        2.034
+       ],
+       [
+        547.5,
+        1.95
+       ],
+       [
+        565.1,
+        1.867
+       ],
+       [
+        583.2,
+        1.786
+       ],
+       [
+        601.9,
+        1.706
+       ],
+       [
+        621.2,
+        1.629
+       ],
+       [
+        641.2,
+        1.553
+       ],
+       [
+        661.8,
+        1.479
+       ],
+       [
+        683.0,
+        1.406
+       ],
+       [
+        704.9,
+        1.334
+       ],
+       [
+        727.6,
+        1.264
+       ],
+       [
+        750.9,
+        1.195
+       ],
+       [
+        775.0,
+        1.127
+       ],
+       [
+        799.9,
+        1.061
+       ],
+       [
+        825.6,
+        0.995
+       ],
+       [
+        852.1,
+        0.931
+       ],
+       [
+        879.5,
+        0.867
+       ],
+       [
+        907.7,
+        0.805
+       ],
+       [
+        936.8,
+        0.743
+       ],
+       [
+        966.9,
+        0.682
+       ],
+       [
+        998.0,
+        0.621
+       ],
+       [
+        1030.0,
+        0.561
+       ],
+       [
+        1063.1,
+        0.502
+       ],
+       [
+        1097.2,
+        0.443
+       ],
+       [
+        1132.4,
+        0.385
+       ],
+       [
+        1168.8,
+        0.327
+       ],
+       [
+        1206.3,
+        0.269
+       ],
+       [
+        1245.0,
+        0.212
+       ],
+       [
+        1285.0,
+        0.154
+       ],
+       [
+        1326.2,
+        0.097
+       ],
+       [
+        1368.8,
+        0.041
+       ],
+       [
+        1412.8,
+        -0.016
+       ],
+       [
+        1458.1,
+        -0.073
+       ],
+       [
+        1504.9,
+        -0.13
+       ],
+       [
+        1553.3,
+        -0.187
+       ],
+       [
+        1603.1,
+        -0.245
+       ],
+       [
+        1654.6,
+        -0.302
+       ],
+       [
+        1707.7,
+        -0.36
+       ],
+       [
+        1762.5,
+        -0.418
+       ],
+       [
+        1819.1,
+        -0.477
+       ],
+       [
+        1877.5,
+        -0.536
+       ],
+       [
+        1937.8,
+        -0.595
+       ],
+       [
+        2000.0,
+        -0.656
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 4,
+      "etiket": "sertlik artışı",
+      "etiket_konum": [
+       1400,
+       0
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "kopukluk",
+      "noktalar": [
+       [
+        226.0,
+        1.82
+       ],
+       [
+        233.3,
+        1.74
+       ],
+       [
+        240.7,
+        1.662
+       ],
+       [
+        248.5,
+        1.586
+       ],
+       [
+        256.4,
+        1.511
+       ],
+       [
+        264.7,
+        1.437
+       ],
+       [
+        273.2,
+        1.365
+       ],
+       [
+        282.0,
+        1.294
+       ],
+       [
+        291.0,
+        1.225
+       ],
+       [
+        300.3,
+        1.157
+       ],
+       [
+        310.0,
+        1.09
+       ],
+       [
+        319.9,
+        1.024
+       ],
+       [
+        330.2,
+        0.959
+       ],
+       [
+        340.8,
+        0.895
+       ],
+       [
+        351.8,
+        0.832
+       ],
+       [
+        363.0,
+        0.769
+       ],
+       [
+        374.7,
+        0.708
+       ],
+       [
+        386.7,
+        0.647
+       ],
+       [
+        399.1,
+        0.587
+       ],
+       [
+        412.0,
+        0.527
+       ],
+       [
+        425.2,
+        0.468
+       ],
+       [
+        438.8,
+        0.41
+       ],
+       [
+        452.9,
+        0.352
+       ],
+       [
+        467.5,
+        0.294
+       ],
+       [
+        482.5,
+        0.236
+       ],
+       [
+        498.0,
+        0.179
+       ],
+       [
+        513.9,
+        0.122
+       ],
+       [
+        530.4,
+        0.065
+       ],
+       [
+        547.5,
+        0.008
+       ],
+       [
+        565.1,
+        -0.049
+       ],
+       [
+        583.2,
+        -0.106
+       ],
+       [
+        601.9,
+        -0.163
+       ],
+       [
+        621.2,
+        -0.22
+       ],
+       [
+        641.2,
+        -0.277
+       ],
+       [
+        661.8,
+        -0.335
+       ],
+       [
+        683.0,
+        -0.393
+       ],
+       [
+        704.9,
+        -0.451
+       ],
+       [
+        727.6,
+        -0.51
+       ],
+       [
+        750.9,
+        -0.57
+       ],
+       [
+        775.0,
+        -0.63
+       ],
+       [
+        799.9,
+        -0.69
+       ],
+       [
+        825.6,
+        -0.751
+       ],
+       [
+        852.1,
+        -0.813
+       ],
+       [
+        879.5,
+        -0.876
+       ],
+       [
+        907.7,
+        -0.94
+       ],
+       [
+        936.8,
+        -1.005
+       ],
+       [
+        966.9,
+        -1.07
+       ],
+       [
+        998.0,
+        -1.137
+       ],
+       [
+        1030.0,
+        -1.205
+       ],
+       [
+        1063.1,
+        -1.274
+       ],
+       [
+        1097.2,
+        -1.344
+       ],
+       [
+        1132.4,
+        -1.416
+       ],
+       [
+        1168.8,
+        -1.489
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 5,
+      "etiket": "kütle artışı, kopukluk",
+      "etiket_konum": [
+       550,
+       0
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sifir",
+      "x": 226,
+      "y": 0,
+      "cizgi": "yatay",
+      "renk": "gri",
+      "nokta": false,
+      "cumle": 1
+     },
+     {
+      "ad": "rf",
+      "x": 1000,
+      "y": 0,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "yaklaşık 1000 Hz",
+      "dy": 30,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "norm",
+      "x": [
+       800,
+       1200
+      ],
+      "renk": "yesil",
+      "etiket": "normal aralık",
+      "cumle": 2,
+      "opak": 0.12
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "rf",
+     "cumle": 1
+    },
+    {
+     "parca": "norm",
+     "cumle": 2
+    },
+    {
+     "parca": "otoskleroz",
+     "cumle": 4
+    },
+    {
+     "parca": "kopukluk",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Grafikte orta kulağa ait süseptansın frekansla değişimini görüyorsunuz; eğriler temsilidir.",
+    "Süseptansın sıfırı kestiği nokta rezonans frekansıdır.",
+    "Sağlıklı yetişkinlerde rezonans frekansı genellikle sekiz yüz ile bin iki yüz hertz arasındadır.",
+    "Normlar yönteme, cihaza ve topluma göre değişir; bazı çalışmalarda daha geniş normal aralıklar bildirilmiştir.",
+    "Sertlik arttığında, örneğin otosklerozda, eğri sağa kayar ve rezonans frekansı yükselir.",
+    "Kütle arttığında ya da sertlik azaldığında, örneğin zincir kopukluğunda, eğri sola kayar ve rezonans frekansı düşer.",
+    "Rezonans frekansının yanında, faz açısının kırk beş dereceye ulaştığı frekans gibi ölçüler de araştırılmıştır."
+   ]
+  },
+  {
+   "id": "patoloji",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rezonans frekansı",
+   "baslik": "Patolojiye göre *yön*",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Otoskleroz",
+     "metin": "Sertlik artar, frekans yükselir",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Zincir kopukluğu",
+     "metin": "Belirgin düşüş",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Gevşek zar",
+     "metin": "Kütle etkisi, düşüş",
+     "cumle": 3
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Kütle ekleyen",
+     "metin": "Kitle, kısmi sıvı",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Örtüşme",
+     "metin": "Tek başına tanı koymaz",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Rezonans frekansının kayma yönü, patolojinin türü hakkında ipucu verir.",
+    "Otosklerozda stapes tabanının sabitlenmesi sistemi sertleştirir; rezonans frekansı yükselme eğilimindedir.",
+    "Kemikçik zinciri koptuğunda kokleanın sertleştirici yükü zara ulaşmaz; rezonans frekansı belirgin biçimde düşer.",
+    "Zarda gevşek, ince ya da iyileşmiş bir bölge bulunması da kütle etkisini artırarak rezonans frekansını düşürebilir.",
+    "Orta kulağa kütle ekleyen durumlar, örneğin zarın arkasındaki bir kitle ya da kısmi sıvı, rezonans frekansını düşürebilir.",
+    "Bu bilgi, iki yüz yirmi altı hertz timpanogramının normal göründüğü bazı otoskleroz ya da kopukluk olgularında ek ipucu sağlar.",
+    "Ancak normal ve patolojik değerler arasında belirgin bir örtüşme vardır; çok frekanslı ölçüm tek başına tanı koydurmaz."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rezonans frekansı",
+   "baslik": "Üç örnek *kulak*",
+   "sutunlar": [
+    "Örnek",
+    "Ytm (226 Hz)",
+    "Rezonans frekansı",
+    "Odyogram"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "0,7 mmho",
+      "yaklaşık 1000 Hz",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Otoskleroz",
+      "0,35 mmho",
+      "yaklaşık 1400 Hz",
+      "İletim tipi"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Zincir kopukluğu",
+      "2,4 mmho",
+      "yaklaşık 550 Hz",
+      "İletim tipi"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Üç örnek kulağı karşılaştıralım; değerler öğretim amaçlıdır.",
+    "Normal kulakta iki yüz yirmi altı hertz tepe admitansı normal sınırlarda, rezonans frekansı yaklaşık bin hertzdir.",
+    "Otoskleroz örneğinde tepe admitans normalin alt sınırına yakın; rezonans frekansı ise yaklaşık bin dört yüz hertze yükselmiş.",
+    "Zincir kopukluğu örneğinde tepe admitans yüksek; rezonans frekansı yaklaşık beş yüz elli hertze düşmüş.",
+    "İki patolojide de odyogramda iletim tipi kayıp beklenir; çok frekanslı ölçüm iki tablonun ayrımına katkı yapar."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte",
+   "baslik": "Ne zaman *işe yarar?*",
+   "maddeler": [
+    {
+     "metin": "Rutin değil, _sorun çözücü_ ek test",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Hava-kemik aralığı + _normal_ 226 Hz",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Sertlik mi, _kütle_ mi?",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Refleks ve otoskopiyle _birlikte_",
+     "cumle": 3,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Bebekte _1000 Hz_ tek frekans",
+     "cumle": 5,
+     "ikon": "bebek"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "timpanogram",
+    "cumle": 1,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "As",
+       "cumle": 2
+      },
+      {
+       "tip": "Ad",
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Çok frekanslı timpanometri rutin bir test değil, sorun çözmeye yönelik bir ek testtir.",
+    "En çok, odyogramda iletim tipi bir aralık bulunup iki yüz yirmi altı hertz timpanogramı normal göründüğünde yararlıdır.",
+    "Böyle bir durumda rezonans frekansının yüksek ya da düşük olması, sertlik mi kütle mi sorunu olduğunu düşündürebilir.",
+    "Akustik refleks, otoskopi ve odyogramla birlikte yorumlandığında karar destekleyici değeri artar.",
+    "Zarın kendi anomalileri, altta yatan zincir sorunundan daha çok sonucu etkileyebilir; bu yüzden otoskopi yorumun parçasıdır.",
+    "Altı aydan küçük bebeklerde rutin olarak bin hertzlik tek frekans kullanılır; çok frekanslı yöntemler bu yaşta araştırılmaktadır."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte",
+   "baslik": "Yorum *sırası*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Zarın görünümü",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "226 Hz",
+     "metin": "Tip, Ytm, basınç",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "678 Hz",
+     "metin": "Çentik deseni",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Rezonans",
+     "metin": "Yönteme özgü norm",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Birleştir",
+     "metin": "Odyogram ve refleks",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Çok frekanslı bir sonucu yorumlamak için sistemli bir sıra izlemek işe yarar.",
+    "İlk adım otoskopidir; zarın görünümü bütün yorumu etkiler.",
+    "İkinci adımda iki yüz yirmi altı hertz timpanogramı tip, tepe admitans ve basınç açısından değerlendirilir.",
+    "Üçüncü adımda altı yüz yetmiş sekiz hertzdeki çentik deseninin normal sınırlar içinde olup olmadığına bakılır.",
+    "Dördüncü adımda rezonans frekansı, kullanılan yönteme ait normlarla karşılaştırılır.",
+    "Son adımda bütün bulgular odyogram ve akustik refleks sonuçlarıyla birleştirilir."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte",
+   "baslik": "Yöntemin *sınırlılıkları*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Örtüşme",
+     "metin": "Kesin ayrım yok",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Yöntem bağımlı",
+     "metin": "Normlar aktarılamaz",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Zar baskın",
+     "metin": "Derindeki sorunu örtebilir",
+     "cumle": 3
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Yeni yöntemler",
+     "metin": "Geniş bant ölçüm",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Çok frekanslı timpanometrinin bazı sınırlılıkları da vardır.",
+    "Normal ve patolojik kulaklar arasında örtüşme büyüktür; tek bir değerle kesin ayrım yapılamaz.",
+    "Sonuçlar ölçüm yöntemine ve cihaza bağlıdır; bir cihazın normları ötekine aktarılamaz.",
+    "Zarın durumu, sonucu orta kulağın derinindeki yapılardan daha çok etkileyebilir.",
+    "Bu sınırlılıklar, bir sonraki derste göreceğimiz geniş bant ölçümlerin gelişmesine de katkı yaptı."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Çok frekanslı sonucu yorumlamadan önce zara bakın. Atrofik bir bölge zincir kopukluğunu taklit edebilir; miringoskleroz ise sonucu ters yönde etkileyebilir.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: çok frekanslı sonucu yorumlamadan önce zara mutlaka bakın.",
+    "Zarda atrofik ya da gevşek bir bölge, çentikli ve düşük rezonanslı bir sonuç vererek zincir kopukluğunu taklit edebilir.",
+    "Miringoskleroz plakları ise zarı sertleştirerek sonucu ters yönde etkileyebilir.",
+    "Bulguyu odyogramdaki hava-kemik aralığı ve refleks sonuçlarıyla birlikte raporlayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Rezonans: _süseptans sıfır_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal: yaklaşık _800 ile 1200 Hz_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sertlik _yükseltir_, kütle _düşürür_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Zar ve normlar _yorumu etkiler_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Çok frekanslı timpanometri, orta kulağa ait süseptansın sıfır olduğu frekansı, yani rezonans frekansını bulur.",
+    "Sağlıklı yetişkinlerde rezonans frekansı genellikle sekiz yüz ile bin iki yüz hertz arasındadır.",
+    "Otoskleroz gibi sertlik artışları rezonans frekansını yükseltir; zincir kopukluğu ve kütle artışı düşürür.",
+    "Sonuç yönteme özgü normlarla, otoskopi, odyogram ve refleks bulgularıyla birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Zincir kopukluğunda rezonans frekansı nasıl değişir?",
+   "secenekler": [
+    "Yükselir",
+    "Düşer",
+    "Değişmez"
+   ],
+   "dogru": 1,
+   "aciklama": "Kokleanın _sertleştirici yükü_ zara ulaşmaz; sistem kütle baskın hale gelir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Kemikçik zinciri kopukluğunda orta kulağın rezonans frekansı nasıl değişir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: düşer.",
+    "Zincir koptuğunda sertlik azalır ve kütlenin etkisi öne çıkar; bu yüzden rezonans frekansı aşağı kayar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Geniş bant *immitans*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste prob tonunu aynı anda geniş bir frekans aralığında kullanan geniş bant immitansı ve absorbansı öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

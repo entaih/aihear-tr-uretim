@@ -1,0 +1,990 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D141_Ani_Isitme_Kaybi_TR",
+ "kapak": {
+  "ust": "DERS 141",
+  "baslik": "Ani işitme<br>*kaybı*",
+  "alt": "Odyoloğun rolü: belgele, yönlendir",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      20,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      55,
+      60,
+      65,
+      65,
+      70,
+      75
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Ani Sensörinöral İşitme Kaybında Odyoloğun Rolü | Ders 141 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Ani sensörinöral işitme kaybının tanımını, hızlı odyolojik değerlendirmenin adımlarını, iletim tipi kayıptan ayırmayı ve aynı gün hekime yönlendirmenin önemini anlatıyoruz. AAO-HNSF 2019 kılavuzunun odyolojiyle ilgili ana noktaları, izlem odyogramları ve prognozu etkileyen etkenler örneklerle ele alınıyor.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Chandrasekhar ve arkadaşları, Clinical Practice Guideline: Sudden Hearing Loss (Update), Otolaryngology-Head and Neck Surgery, 2019; Stachler ve arkadaşları, Clinical Practice Guideline: Sudden Hearing Loss, 2012; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "aniişitmekaybı",
+   "işitme"
+  ],
+  "etiketler": [
+   "ani işitme kaybı",
+   "ani sensörinöral işitme kaybı",
+   "sudden sensorineural hearing loss",
+   "SSNHL",
+   "acil yönlendirme",
+   "urgent referral",
+   "iyileşme",
+   "AAO-HNSF 2019",
+   "Weber testi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 141",
+   "baslik": "Ani işitme kaybında *odyolog*",
+   "alt": "Hızlı değerlendirme ve acil yönlendirme",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste ani sensörinöral işitme kaybını ve bu acil durumda odyoloğun rolünü öğreneceğiz.",
+    "Tanımı, hızlı değerlendirmenin adımlarını, acil yönlendirmeyi ve izlem odyogramlarını ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım",
+   "baslik": "Ani sensörinöral kayıp *nedir?*",
+   "maddeler": [
+    {
+     "metin": "_72 saat_ içinde gelişen kayıp",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "En az _30 dB_, ardışık _üç_ frekansta",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Karşı kulakla _karşılaştırılır_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Çoğunda neden _bulunamaz_",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "AAO-HNSF 2019",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Süre",
+      "metin": "72 saat içinde",
+      "cumle": 0
+     },
+     {
+      "ikon": "odyogram",
+      "baslik": "Ölçüt",
+      "metin": "30 dB, üç ardışık frekans",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Ani işitme kaybı, işitmenin 72 saat gibi kısa bir süre içinde azalmasıdır ve bir ya da iki kulakta görülebilir.",
+     "ses": "Ani işitme kaybı, işitmenin yetmiş iki saat gibi kısa bir süre içinde azalmasıdır ve bir ya da iki kulakta görülebilir."
+    },
+    {
+     "yazi": "Ani sensörinöral işitme kaybı (sudden sensorineural hearing loss), bunun sensörinöral olan ve odyometrik ölçütleri karşılayan alt grubudur.",
+     "ses": "Ani sensörinöral işitme kaybı, bunun sensörinöral olan ve odyometrik ölçütleri karşılayan alt grubudur."
+    },
+    {
+     "yazi": "Amerikan KBB Akademisinin 2019 kılavuzunda en sık kullanılan ölçüt, ardışık en az üç frekansta 30 desibel ve üzeri kayıptır.",
+     "ses": "Amerikan KBB Akademisinin iki bin on dokuz kılavuzunda en sık kullanılan ölçüt, ardışık en az üç frekansta otuz desibel ve üzeri kayıptır."
+    },
+    "Kişinin önceki odyogramı çoğu zaman bilinmediği için kayıp, karşı kulağın eşikleriyle karşılaştırılarak değerlendirilir.",
+    "Kılavuza göre ani sensörinöral kayıpların yaklaşık yüzde doksanında başvuru anında belirgin bir neden bulunamaz.",
+    {
+     "yazi": "Klinikte 30 desibelden küçük ani kayıplar da ciddiye alınır; tanım bir alt sınır değil, ortak bir dildir.",
+     "ses": "Klinikte otuz desibelden küçük ani kayıplar da ciddiye alınır; tanım bir alt sınır değil, ortak bir dildir."
+    }
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım",
+   "baslik": "Örnek: *ani* sol kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Sağ hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "Sol hava yolu, maskeli",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "Sol kemik, maskeli",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       20,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       55,
+       60,
+       65,
+       65,
+       70,
+       75
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       50,
+       60,
+       65,
+       65,
+       70
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Tamamen örnek bir olgu düşünelim: kişi iki gün önce sabah uyandığında sol kulağında tıkanıklık ve çınlama fark etmiş.",
+    "Bu örnekte sağ kulak eşikleri normal sınırlarda.",
+    "Sol kulakta ise tüm frekanslarda orta ile orta-ileri derece arası bir kayıp var.",
+    "Maskeli kemik yolu eşikleri hava yoluyla örtüşüyor; yani kayıp sensörinöral.",
+    {
+     "yazi": "Ardışık üç ve daha fazla frekansta iki kulak arasındaki fark 30 desibelin çok üzerinde.",
+     "ses": "Ardışık üç ve daha fazla frekansta iki kulak arasındaki fark otuz desibelin çok üzerinde."
+    },
+    "Bu tablo, ani sensörinöral işitme kaybı ölçütlerini karşılar ve aynı gün hekime yönlendirme gerektirir."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım",
+   "baslik": "Kişi *ne* anlatır?",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Tıkanıklık",
+     "metin": "Sık ilk yakınma",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "metin": "Çoğu zaman eşlik eder",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Baş dönmesi",
+     "metin": "Bir kısmında",
+     "cumle": 3
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Ani başlangıç",
+     "metin": "Sıklıkla uyanınca",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kişinin ilk yakınması çoğu zaman kulakta dolgunluk ya da tıkanıklık hissidir.",
+    "Bu yakınma sık ve sıradan göründüğü için hem kişi hem sağlık çalışanları tarafından küçümsenebilir ve değerlendirme gecikebilir.",
+    "Ani sensörinöral kayba çoğu zaman tinnitus eşlik eder ve kişide belirgin kaygı yaratır.",
+    "Bir kısım kişide baş dönmesi ya da dengesizlik de vardır.",
+    "Kayıp sıklıkla sabah uyanınca fark edilir ya da birkaç saat ile birkaç gün içinde gelişir."
+   ]
+  },
+  {
+   "id": "acil",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım",
+   "baslik": "Neden *acil?*",
+   "maddeler": [
+    {
+     "metin": "Tıkanıklık sanılıp _gecikebilir_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Tedavi kararları _erken dönemde_ verilir",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Altta yatan _önemli nedenler_ olabilir",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Odyolog: _aynı gün_ yönlendirme",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ACİL",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "odyolog",
+      "baslik": "Odyolog",
+      "metin": "Hızlı değerlendirme",
+      "cumle": 4
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "KBB hekimi",
+      "metin": "Aynı gün muayene",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Ani kayıp çoğu zaman basit bir kulak tıkanıklığı sanılır ve kişi günlerce bekleyebilir.",
+    "Oysa tedavi seçenekleri hekim tarafından erken dönemde değerlendirilir; kılavuz özellikle ilk iki haftayı vurgular.",
+    "Tedavinin türüne ve zamanlamasına karar vermek odyoloğun değil, hekimin sorumluluğundadır.",
+    {
+     "yazi": "Ayrıca ani kaybın arkasında az da olsa vestibüler schwannom ya da inme gibi önemli nedenler bulunabilir.",
+     "ses": "Ayrıca ani kaybın arkasında az da olsa vestibüler şvannom ya da inme gibi önemli nedenler bulunabilir."
+    },
+    "Bu yüzden odyoloğun en önemli görevi, kaybı hızla belgeleyip kişiyi aynı gün kulak burun boğaz, kısaca KBB hekimine yönlendirmektir."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyoloğun rolü",
+   "baslik": "Hızlı değerlendirme *adımları*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Kısa öykü",
+     "metin": "Ne zaman, hangi kulak?",
+     "cumle": 0
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Buşon, sıvı, zar",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Odyometri",
+     "metin": "Maskeli hava ve kemik",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometri",
+     "metin": "Orta kulak durumu",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Yönlendir",
+     "metin": "Aynı gün KBB",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Değerlendirme kısa ve odaklı bir öyküyle başlar: kayıp ne zaman başladı, hangi kulakta, eşlik eden belirti var mı?",
+    "Otoskopi ile buşon, yani kulak kiri tıkacı ya da orta kulakta sıvı gibi iletim tipi nedenler aranır.",
+    "Saf ses odyometrisinde hava ve kemik yolu eşikleri, gerekli maskeleme ile her iki kulakta ölçülür.",
+    "Timpanometri orta kulak durumunu gösterir; konuşma testleri de mümkünse eklenir.",
+    "Sonuçlar hazır olur olmaz kişi, bulgularıyla birlikte aynı gün KBB hekimine yönlendirilir.",
+    "Hızlı olmak, eksik ölçmek demek değildir; doğru bir ilk odyogram, sonraki tüm karşılaştırmaların temelidir."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyoloğun rolü",
+   "baslik": "Önce *iletim tipini* ayır",
+   "maddeler": [
+    {
+     "metin": "Kılavuzun ilk adımı: _sensörinöral mi?_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Buşon ya da sıvı _ani tıkanıklık_ yapar",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Weber: ses _iyi kulağa_ gider",
+     "cumle": 2,
+     "ikon": "diyapazon"
+    },
+    {
+     "metin": "Timpanogram ve kemik yolu _doğrular_",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "diyapazon",
+    "cumle": 2,
+    "ayar": {
+     "test": "weber"
+    },
+    "vurgula": [
+     {
+      "parca": "alin",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Kılavuzun ilk önerisi, ani kaybın sensörinöral mi yoksa iletim tipi mi olduğunun ayırt edilmesidir.",
+    "Kulak kiri tıkacı ya da orta kulakta sıvı da ani bir tıkanıklık ve işitme azalması yapabilir.",
+    "Odyometri hemen yapılamıyorsa diyapazonla Weber testi ipucu verir: sensörinöral kayıpta ses iyi kulağa gider.",
+    "İletim tipi kayıpta ise ses, sorunlu kulağa doğru lateralize olur.",
+    "Kesin ayrım, maskeli kemik yolu eşikleri ve timpanometri ile yapılır.",
+    "İletim tipi bir neden bulunması, hekim muayenesini gereksiz kılmaz; ama yönlendirme notunun içeriğini değiştirir."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyoloğun rolü",
+   "baslik": "Ölçümde *dikkat*",
+   "maddeler": [
+    {
+     "metin": "Tek taraflı kayıpta _maskeleme_ şart",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kemik yolu da _maskeli_ ölçülür",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "SRT ve _kelime skoru_ eklenir",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Tüm sonuçlar _tarih ve saatle_",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "cumle": 0,
+    "ayar": {
+     "ia_db": 40,
+     "test_kulak": "sol"
+    },
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     },
+     {
+      "parca": "test_kulagi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Tek taraflı ileri bir kayıpta çapraz işitme kolayca oluşur; bu yüzden hava yolu eşikleri gerekli maskeleme ile ölçülür.",
+    "Kemik yolunda kulaklar arası zayıflama çok düşük olduğu için kemik eşikleri de maskeleme ile doğrulanır.",
+    "Mümkünse konuşmayı alma eşiği, yani SRT ve kelime tanıma skoru da ölçülür.",
+    "Bu skorlar hem başlangıç durumunu hem de iyileşmenin değerlendirilmesini belgeler.",
+    "Akustik refleks ve otoakustik emisyon gibi testler ek bilgi verir; ama yönlendirmeyi geciktirmemelidir.",
+    "Odyogram tarih ve hatta saatle kaydedilir; çünkü sonraki izlem ölçümleri bu ilk değerle karşılaştırılacaktır."
+   ]
+  },
+  {
+   "id": "kilavuz",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kılavuz",
+   "baslik": "Kılavuzun *temel* noktaları",
+   "sutunlar": [
+    "Konu",
+    "AAO-HNSF 2019 özeti"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "İlk adım",
+      "İletim tipinden ayır"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Uyarı durumları",
+      "İki taraflı, tekrarlayan, nörolojik"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Rutin görüntüleme",
+      "Baş BT önerilmez"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Retrokoklear araştırma",
+      "MR, ABR, izlem"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Tedavi kararı",
+      "Hekim, erken dönemde"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "İzlem odyometrisi",
+      "Tedavi sonu, altı ay"
+     ],
+     "cumle": 6,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Rehabilitasyon",
+      "Cihaz ve danışmanlık"
+     ],
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Amerikan KBB Akademisinin 2019 güncel kılavuzunun odyolojiyle ilgili ana noktalarını özetleyelim; ilk adım iletim tipi kaybın ayrılmasıdır.",
+     "ses": "Amerikan KBB Akademisinin iki bin on dokuz güncel kılavuzunun odyolojiyle ilgili ana noktalarını özetleyelim; ilk adım iletim tipi kaybın ayrılmasıdır."
+    },
+    "Kayıp iki taraflıysa, tekrarlıyorsa ya da nörolojik bulgular eşlik ediyorsa farklı ve daha acil bir değerlendirme gerekir.",
+    "Kılavuz, ilk değerlendirmede rutin olarak baş bilgisayarlı tomografisi istenmesini önermez.",
+    "Retrokoklear nedenlerin araştırılmasını önerir; en duyarlı yöntem manyetik rezonans görüntüleme, kısaca MR'dır.",
+    "İşitsel beyin sapı yanıtı, kısaca ABR ya da odyometrik izlem de kabul edilen seçenekler arasındadır.",
+    "Tedavi seçenekleri ve zamanlaması hekim tarafından değerlendirilir; kılavuz erken dönemi, özellikle ilk iki haftayı vurgular.",
+    "Tedavinin sonunda ve tedavi bitiminden sonraki altı ay içinde izlem odyometrisi yapılması önerilir.",
+    "İyileşmesi tamamlanmayan kişilere işitme cihazı ve yardımcı teknolojiler konusunda danışmanlık verilmesi de güçlü bir öneridir."
+   ]
+  },
+  {
+   "id": "uyari",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kılavuz",
+   "baslik": "*Acil* uyarı durumları",
+   "maddeler": [
+    {
+     "metin": "_İki kulakta_ birden ani kayıp",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Tekrarlayan_ ani kayıp atakları",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Yüzde güçsüzlük, konuşma bozukluğu, _baş ağrısı_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bu durumda _acil servis_ gerekebilir",
+     "cumle": 3,
+     "ikon": "hastane"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "beyin_yan",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "beyin_sapi",
+      "cumle": 2
+     },
+     {
+      "parca": "beyincik",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "İki kulakta birden gelişen ani kayıp, sistemik ya da nörolojik nedenleri akla getirir.",
+    "Tekrarlayan ani kayıp atakları ise Meniere hastalığı gibi başka tabloları düşündürebilir.",
+    "Yüzde güçsüzlük, konuşma bozukluğu, ani baş ağrısı ya da belirgin denge kaybı gibi nörolojik bulgular eşlik edebilir.",
+    "Böyle bir durumda inme gibi hayati bir neden olabileceği için kişinin vakit kaybetmeden acil değerlendirmeye ulaşması sağlanır.",
+    "Odyolog bu bulguları sorgulamalı ve yönlendirme notunda açıkça belirtmelidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kulağım tıkandı diyen kişide otoskopi normal ve timpanogram A tipiyse aynı gün odyogram alın. Sensörinöral kayıp varsa bekletmeden hekime yönlendirin.",
+   "cumleler": [
+    "Bir klinik ipucu: kulağım tıkandı diye gelen her kişide ani sensörinöral kaybı aklınızda tutun.",
+    "Otoskopi normal ve timpanogram A tipiyse, tıkanıklık hissinin nedeni orta kulak olmayabilir.",
+    "Böyle bir kişide aynı gün saf ses odyometrisi yapın ve kemik yolunu mutlaka ölçün.",
+    "Sensörinöral bir kayıp saptarsanız, randevu sırasına koymadan aynı gün hekime yönlendirin."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem",
+   "baslik": "İzlem *odyogramları*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 20,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sag_kulak",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        20
+       ],
+       [
+        8000,
+        25
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "sağ kulak",
+      "cumle": 0,
+      "etiket_konum": [
+       250,
+       10
+      ],
+      "etiket_dy": -12
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        55
+       ],
+       [
+        500,
+        60
+       ],
+       [
+        1000,
+        65
+       ],
+       [
+        2000,
+        65
+       ],
+       [
+        4000,
+        70
+       ],
+       [
+        8000,
+        75
+       ]
+      ],
+      "renk": "sol",
+      "isaretli": true,
+      "etiket": "sol: ilk ölçüm",
+      "cumle": 1,
+      "etiket_konum": [
+       8000,
+       75
+      ],
+      "etiket_dx": -8,
+      "etiket_dy": 28,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "kontrol",
+      "noktalar": [
+       [
+        250,
+        25
+       ],
+       [
+        500,
+        30
+       ],
+       [
+        1000,
+        35
+       ],
+       [
+        2000,
+        45
+       ],
+       [
+        4000,
+        55
+       ],
+       [
+        8000,
+        65
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "sol: kontrol",
+      "cumle": 2,
+      "etiket_konum": [
+       250,
+       25
+      ],
+      "etiket_dy": -14
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "iyilesme",
+      "y": [
+       65,
+       35
+      ],
+      "xk": 1000,
+      "etiket": "30 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Aynı koşul, _aynı yöntem_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Bu örnekte: _kısmi_ iyileşme",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "İzlem ölçümleri, iyileşmeyi nesnel olarak belgeler; karşılaştırma için sağlam kulağın eşikleri de gösterilir.",
+    "Bu örnekte sol kulağın ilk ölçümü mavi çizgiyle görülüyor; ölçümler her seferinde aynı yöntem ve koşullarla yapılır.",
+    "Birkaç hafta sonraki kontrol ölçümünde, yani yeşil çizgide, eşikler belirgin biçimde iyileşmiş.",
+    {
+     "yazi": "1000 Hz'de iyileşme 30 desibel; ama eşikler yine de sağ kulağın belirgin altında.",
+     "ses": "bin Hz'de iyileşme otuz desibel; ama eşikler yine de sağ kulağın belirgin altında."
+    },
+    {
+     "yazi": "Kılavuza göre tam iyileşme, eşiklerin sağlam kulağın yaklaşık 10 desibel yakınına dönmesi ve kelime skorunun da benzer düzeye gelmesidir.",
+     "ses": "Kılavuza göre tam iyileşme, eşiklerin sağlam kulağın yaklaşık on desibel yakınına dönmesi ve kelime skorunun da benzer düzeye gelmesidir."
+    },
+    {
+     "yazi": "Bu örnekteki gibi 10 desibelden büyük ama tam olmayan düzelme kısmi iyileşme, 10 desibelden az değişim ise iyileşme yok olarak tanımlanır.",
+     "ses": "Bu örnekteki gibi on desibelden büyük ama tam olmayan düzelme kısmi iyileşme, on desibelden az değişim ise iyileşme yok olarak tanımlanır."
+    }
+   ]
+  },
+  {
+   "id": "prognoz",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem",
+   "baslik": "Prognozu *etkileyen* etkenler",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Kaybın derecesi",
+     "metin": "Ağır kayıpta daha zor",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Odyogram biçimi",
+     "metin": "Alçak frekans daha iyi",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vertigo",
+     "metin": "Eşlik ederse daha kötü",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Yaş",
+     "metin": "İleri yaşta daha zor",
+     "cumle": 4
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Gecikme",
+     "metin": "Başvuru ve tedavi süresi",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Kılavuza göre bu kayıpların bir kısmı kendiliğinden düzelir; çalışmalarda bu oran yaklaşık yüzde 32 ile 65 arasında bildirilmiştir.",
+     "ses": "Kılavuza göre bu kayıpların bir kısmı kendiliğinden düzelir; çalışmalarda bu oran yaklaşık yüzde otuz iki ile altmış beş arasında bildirilmiştir."
+    },
+    "Kaybın derecesi önemlidir; ileri ve çok ileri kayıplarda tam iyileşme olasılığı daha düşüktür.",
+    "Odyogram biçimi de yol gösterir; alçak frekanslarda sınırlı kayıplar genellikle daha iyi seyreder.",
+    "Başlangıçta vertigo bulunması, daha kötü bir prognozla ilişkilendirilmiştir.",
+    "İleri yaş da daha sınırlı iyileşmeyle ilişkilidir.",
+    "Belirtinin başlangıcı ile değerlendirme ve tedavi arasındaki sürenin uzaması da sonucu olumsuz etkileyebilir."
+   ]
+  },
+  {
+   "id": "destek",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem",
+   "baslik": "Kalıcı kayıpta *destek*",
+   "maddeler": [
+    {
+     "metin": "Tinnitus için _danışmanlık_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İşitme cihazı ya da _CROS_ seçenekleri",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Kaygı ve psikolojik etkiye _dikkat_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Ekip yaklaşımı: _KBB ve odyoloji_",
+     "cumle": 3,
+     "ikon": "hastane"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "REHABİLİTASYON",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Cihaz",
+      "metin": "Kalan işitmeye göre",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Danışmanlık",
+      "metin": "Beklenti ve stratejiler",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "İyileşme tamamlanmazsa tinnitus çoğu zaman en rahatsız edici yakınma olarak kalır ve danışmanlık gerektirir.",
+    "Kalan işitmeye göre işitme cihazı ya da karşı tarafa sinyal yönlendiren CROS sistemleri gibi seçenekler değerlendirilir.",
+    "Tek taraflı ani kayıp, kişide kaygı ve güvensizlik yaratabilir; bu duygusal etki de görüşmede ele alınır.",
+    "Kulak burun boğaz hekimi ve odyoloğun birlikte çalıştığı bir ekip yaklaşımı, kişinin uzun dönem izlemini kolaylaştırır.",
+    "Kılavuz, bir kısım hastada nedenin ancak uzun dönem izlemde ortaya çıkabileceğini de vurgular."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "72 saatte, ardışık üç frekansta _30 dB_",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Önce _iletim tipinden_ ayır, maskeli ölç",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Odyolog _aynı gün_ hekime yönlendirir",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "İzlem odyogramı: tedavi sonu ve _altı ay_",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Ani sensörinöral işitme kaybı, genellikle 72 saat içinde, ardışık en az üç frekansta 30 desibel ve üzeri kayıp olarak tanımlanır.",
+     "ses": "Ani sensörinöral işitme kaybı, genellikle yetmiş iki saat içinde, ardışık en az üç frekansta otuz desibel ve üzeri kayıp olarak tanımlanır."
+    },
+    "İlk adım kaybın iletim tipinden ayrılmasıdır; bunun için maskeli hava ve kemik yolu ile timpanometri kullanılır.",
+    "Odyoloğun rolü kaybı hızla belgelemek ve kişiyi aynı gün hekime yönlendirmektir; tedavi kararı hekime aittir.",
+    "İzlem odyogramları tedavinin sonunda ve altı ay içinde iyileşmeyi belgeler."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Ani sensörinöral kayıpta odyoloğun öncelikli rolü nedir?",
+   "secenekler": [
+    "Tedaviyi başlatmak",
+    "Belgeleyip aynı gün yönlendirmek",
+    "Bir ay sonra yeniden test"
+   ],
+   "dogru": 1,
+   "aciklama": "Odyolog kaybı _hızla belgeler_ ve kişiyi aynı gün hekime yönlendirir; tedavi hekimin kararıdır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Ani sensörinöral işitme kaybında odyoloğun öncelikli rolü nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kaybı belgeleyip kişiyi aynı gün hekime yönlendirmek.",
+    "Tedavi seçenekleri erken dönemde hekim tarafından değerlendirildiği için beklemek ya da randevuyu ertelemek uygun değildir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Meniere hastalığı ve endolenfatik *hidrops*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste dalgalanan işitme kaybı ve vertigo ataklarıyla giden Meniere hastalığını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,105 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R100_Gurultulu_Oda_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #100",
+  "baslik": "Gürültülü oda *yanıltır*",
+  "alt": "Ortam gürültüsü pes eşikleri yükseltir",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Gürültülü bir oda işitme testini yanıltır mı? #shorts",
+  "aciklama": "Ortam gürültüsünün enerjisi çoğunlukla pes frekanslardadır; test tonlarını maskeler ve eşiklerin olduğundan kötü ölçülmesine yol açar. Aynı kişi uygun bir kabinde yeniden test edildiğinde eşikleri normal sınırlarda çıkabilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "odyometri",
+   "işitmetesti"
+  ],
+  "etiketler": [
+   "ses yalıtımlı kabin",
+   "ortam gürültüsü",
+   "odyometri",
+   "işitme testi",
+   "eşik",
+   "odyoloji kliniği",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Gürültülü bir oda işitme testini yanıltır mı?",
+  "bilgiler": [
+   "Ortam gürültüsünün enerjisi çoğunlukla pes frekanslardadır.",
+   "Gürültü test tonlarını maskeler; eşikler olduğundan kötü ölçülür.",
+   "Aynı kişi uygun bir kabinde normal sınırlarda çıkabilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "işitmetesti"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #100",
+   "metin": "Gürültülü oda işitme testini *yanıltır mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Gürültülü bir oda işitme testini yanıltır mı?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Ortam *gürültüsü*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Gürültü",
+     "tr": "pes enerji",
+     "cumle": 0
+    },
+    {
+     "ad": "Maskeler",
+     "tr": "test tonları",
+     "cumle": 1
+    },
+    {
+     "ad": "Eşik",
+     "tr": "kötü ölçülür",
+     "cumle": 1,
+     "gecikme": 1.4
+    }
+   ],
+   "alt": "Aynı kişi uygun kabinde _normal_ çıkabilir.",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Ortam gürültüsünün enerjisi çoğunlukla pes frekanslardadır.",
+    "Bu gürültü test tonlarını maskeler; eşikler olduğundan kötü ölçülür.",
+    "Aynı kişi uygun bir kabinde normal sınırlarda çıkabilir.",
+    "Odyolojik değerlendirmenin kalbi, ses yalıtımlı kabindir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D007",
+ "kaynak_baslik": "Odyoloji kliniği: test kabini ve temel cihazlar"
+}

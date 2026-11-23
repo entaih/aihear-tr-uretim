@@ -1,0 +1,806 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D205_BPPV_Repozisyon_Manevralari_TR",
+ "kapak": {
+  "ust": "DERS 205",
+  "baslik": "BPPV<br>*manevraları*",
+  "alt": "Epley, Semont, Gufoni, barbekü",
+  "cizim": "vestibuler",
+  "vurgula": [
+   "posterior_kanal"
+  ]
+ },
+ "youtube": {
+  "baslik": "BPPV repozisyon manevraları: Epley, Semont, Gufoni | Ders 205 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "BPPV'de kulak taşları nasıl yerine gönderilir? Bu derste posterior kanal için Epley ve Semont, lateral kanal için Gufoni ve barbekü manevralarının mantığını, güvenlik koşullarını ve manevra sonrası yeniden değerlendirmeyi eğitim amaçlı olarak öğreniyoruz. Manevralar yetkili ve eğitimli klinisyen tarafından, uygun hastada uygulanır.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Bhattacharyya ve ark., Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update), Otolaryngology-Head and Neck Surgery (2017); von Brevern ve ark., Benign paroxysmal positional vertigo: Diagnostic criteria, Journal of Vestibular Research (2015); Jacobson ve Shepard, Balance Function Assessment and Management.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "BPPV",
+   "vertigo"
+  ],
+  "etiketler": [
+   "BPPV",
+   "Epley manevrası",
+   "Semont manevrası",
+   "Gufoni manevrası",
+   "barbekü manevrası",
+   "kanalit repozisyon",
+   "posterior kanal",
+   "lateral kanal",
+   "baş dönmesi",
+   "vestibüler",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 205",
+   "baslik": "BPPV *repozisyon* manevraları",
+   "alt": "Epley, Semont, Gufoni ve barbekü manevrası",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste benign paroksismal pozisyonel vertigoda, yani BPPV'de kullanılan Epley, Semont, Gufoni ve barbekü manevralarını öğreneceğiz.",
+    "Bu bilgiler eğitim amaçlıdır; manevralar yetkili ve eğitimli klinisyen tarafından, uygun hastada uygulanır."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel ilke",
+   "baslik": "Taşları *geri* göndermek",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "posterior_kanal",
+     "metin": "Posterior kanal",
+     "cumle": 3
+    },
+    {
+     "parca": "crus_commune",
+     "metin": "Ortak bacak",
+     "cumle": 3
+    },
+    {
+     "parca": "utrikul",
+     "metin": "Utrikül",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 3
+    },
+    {
+     "parca": "crus_commune",
+     "cumle": 3
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Önce _kanal ve taraf_ belirlenir",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Önceki derste BPPV'de utrikülden kopan otokonyanın bir yarım daire kanalına girdiğini görmüştük.",
+    "Kanalit repozisyon manevrası (canalith repositioning procedure), bu kristalleri kanaldan çıkarıp utriküle geri göndermeyi amaçlar.",
+    "Bunun için baş, art arda belirli konumlara getirilir; her konumda yerçekimi kristalleri kanal boyunca biraz daha ilerletir.",
+    "Posterior kanalda kristaller kanalın en alt noktasından ortak bacağa, oradan da utriküle doğru yönlendirilir.",
+    "Utriküle dönen kristaller artık kanal sıvısını sürüklemez ve pozisyonel vertigo ortadan kalkar.",
+    "Bu yüzden manevradan önce hangi kanalın ve hangi tarafın tutulduğu, pozisyonel testlerle doğru belirlenmelidir.",
+    "Yanlış kanal ya da yanlış taraf için yapılan manevra etkisiz kalır ve hastayı gereksiz yere rahatsız eder."
+   ],
+   "ayar": {
+    "epley": true,
+    "taraf": "sag",
+    "epley_cumle": 2,
+    "utrikul_cumle": 4
+   }
+  },
+  {
+   "id": "guvenlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel ilke",
+   "baslik": "Önce *güvenlik*",
+   "maddeler": [
+    {
+     "metin": "Boyun ve sırt sorunları _sorgulanır_",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Damar hastalığı: _hekimle_ karar",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Uyarı bulgusu varsa _manevra yok_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bulantı ve _düşme_ riskine hazırlık",
+     "cumle": 3,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Hasta _bilgilendirilir_",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Uyarı bulgusu",
+      "metin": "Manevra yok, hekime",
+      "cumle": 2
+     },
+     {
+      "ikon": "agri",
+      "baslik": "Boyun sorunu",
+      "metin": "Değiştirilmiş yöntem",
+      "cumle": 4
+     }
+    ],
+    "ust": "DİKKAT"
+   },
+   "cumleler": [
+    "Manevradan önce boyun ağrısı, boyun ya da sırt ameliyatı ve boyun hareketlerinde kısıtlılık sorgulanır.",
+    "Ciddi boyun damarı hastalığı ya da başka önemli sağlık sorunları varsa manevraya hekimle birlikte karar verilir.",
+    "Tablo tipik BPPV'ye uymuyorsa ya da santral bir neden düşündüren uyarı bulguları varsa manevra yapılmaz, hasta hekime yönlendirilir.",
+    "Manevra sırasında şiddetli vertigo ve bulantı olabilir; hasta düşmeye karşı her zaman desteklenir.",
+    "Hareket kısıtlılığı olan kişilerde muayene masası yerine eğilebilen bir sedye ya da değiştirilmiş yöntemler kullanılabilir.",
+    "Hastaya ne yapılacağı, neden yapılacağı ve sırasında neler hissedebileceği önceden anlatılır."
+   ]
+  },
+  {
+   "id": "duzlem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Posterior kanal",
+   "baslik": "Neden *45 derece?*",
+   "cizim": "kanal_duzlemleri",
+   "ayar": {
+    "goster": [
+     "larp"
+    ],
+    "cift_cumleleri": {
+     "larp": 2
+    },
+    "donus": 45,
+    "donus_cumle": 3
+   },
+   "etiketler": [
+    {
+     "parca": "sag_arka_kanal",
+     "metin": "Sağ posterior kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "larp",
+     "metin": "LARP düzlemi",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sag_arka_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "bas",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Posterior kanal manevralarının çoğu, başın yaklaşık kırk beş derece çevrilmesiyle başlar.",
+    "Bunun nedeni, posterior kanalın başın orta hattına göre yaklaşık kırk beş derece eğik bir düzlemde durmasıdır.",
+    "Sağ posterior kanal, sol anterior kanalla aynı düzlemdedir; bu düzleme LARP düzlemi denir.",
+    "Baş sağa kırk beş derece çevrildiğinde sağ posterior kanalın düzlemi gövdenin ön arka düzlemine hizalanır.",
+    "Hasta bu durumda geriye yatırıldığında kanal tam yerçekimi yönünde döner ve kristaller kanal boyunca hareket eder.",
+    "Dix-Hallpike testi ile Epley manevrasının ilk adımının aynı olmasının nedeni de budur."
+   ]
+  },
+  {
+   "id": "epley",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Posterior kanal",
+   "baslik": "*Epley* manevrası",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Oturur",
+     "metin": "Baş 45 derece tutulan yana",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Sırtüstü",
+     "metin": "Dix-Hallpike konumu",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Baş döner",
+     "metin": "90 derece karşı yana",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Yan yatış",
+     "metin": "Yüz yere bakar",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Oturur",
+     "metin": "Yavaşça, baş hafif önde",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Epley manevrası, posterior kanal BPPV'si için en yaygın kullanılan repozisyon manevrasıdır; örneğimiz sağ posterior kanal.",
+    "Hasta oturur, baş sağa kırk beş derece çevrilir ve hasta hızla sırtüstü, Dix-Hallpike konumuna yatırılır.",
+    "Bu konumda nistagmus ve dönme hissi geçene kadar beklenir; bu süre genellikle yirmi ile otuz saniyedir.",
+    "Ardından baş, geride tutulmaya devam ederek yavaşça doksan derece sola çevrilir ve yine beklenir.",
+    "Sonra hasta sol yanına döner; baş doksan derece daha döndürülür ve yüz yere bakacak hale gelir.",
+    "Bu konumda da beklendikten sonra kristallerin büyük bölümü ortak bacaktan utriküle ulaşmış olur.",
+    "Son olarak hasta, baş sola dönük ve çene hafifçe aşağıda iken yavaşça oturur konuma getirilir.",
+    "Bekleme süreleri kaynaklara göre değişir; ortak ilke, her konumda nistagmus sönene kadar beklemektir."
+   ]
+  },
+  {
+   "id": "semont",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Posterior kanal",
+   "baslik": "*Semont* manevrası",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Kenarda oturur",
+     "metin": "Baş sağlam yana 45",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Tutulan yana",
+     "metin": "Hızla yatış",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Bekleme",
+     "metin": "Bir ile iki dakika",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Karşı yana",
+     "metin": "Hızlı savurma, yüz aşağı",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Oturur",
+     "metin": "Yavaşça",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Semont manevrası, kurtarıcı manevra (liberatory maneuver) olarak da bilinir; örneğimiz yine sağ posterior kanal.",
+    "Hasta masanın kenarında oturur, baş sağlam tarafa, yani sola kırk beş derece çevrilir ve hasta hızla sağ yanına yatırılır.",
+    "Bu konumda baş tavana doğru bakar; nistagmus ve dönme hissi geçene kadar, genellikle yaklaşık bir ile iki dakika beklenir.",
+    "Ardından baş açısı hiç değiştirilmeden, hasta oturur konumdan geçerek hızla sol yanına savrulur; şimdi yüz yere bakar.",
+    "Bu hızlı geçişte kristallerin ivmeyle kanaldan çıkması amaçlanır; bu konumda da birkaç dakika beklenir.",
+    "Son olarak hasta yavaşça oturur konuma getirilir.",
+    "Boyun uzatması gerektirmediği için Semont manevrası, başı geriye uzatmanın sakıncalı olduğu bazı kişilerde tercih edilebilir."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Posterior kanal",
+   "baslik": "Epley mi, *Semont* mu?",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Epley",
+     "metin": "Yaygın; boyun geriye uzatılır, yavaş geçişler.",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Semont",
+     "metin": "Boyun uzatması yok; hızlı hareket.",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ortak nokta",
+     "metin": "Etkinlikleri benzer bildirilir.",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Posterior kanal için iki manevra arasında yapılan seçim çoğunlukla hastanın özelliklerine ve klinisyenin deneyimine bağlıdır.",
+    "Epley manevrası daha yavaş geçişlerle yapılır, ancak başın geriye uzatılmasını gerektirir.",
+    "Semont manevrası boyun uzatması gerektirmez; buna karşılık hızlı ve geniş bir gövde hareketi ister.",
+    "Karşılaştırmalı çalışmalarda iki manevranın etkinliği genellikle benzer bulunmuştur.",
+    "Amerikan KBB Akademisinin 2017 kılavuzu, posterior kanal BPPV'sinde repozisyon manevrasını önerilen tedavi olarak belirtir.",
+    "Kontrollü çalışmalarda manevralar, sahte manevraya göre belirgin daha yüksek düzelme oranı göstermiştir."
+   ]
+  },
+  {
+   "id": "lateral_taraf",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Lateral ve ön kanal",
+   "baslik": "Lateral kanal: *taraf* kimde?",
+   "maddeler": [
+    {
+     "metin": "Supine roll testiyle _belirlenir_",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Geotropik: _güçlü_ taraf tutulan",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Apogeotropik: _zayıf_ taraf tutulan",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Taraf belirsizse _yöntem_ seçimi değişir",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "lateral_kanal",
+      "metin": "Lateral kanal",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Lateral kanal BPPV'sinde önce supine roll testiyle nistagmusun tipi ve tutulan taraf belirlenir.",
+    "Geotropik nistagmusta nistagmusun daha güçlü olduğu taraf genellikle tutulan kulaktır.",
+    "Apogeotropik nistagmusta ise nistagmusun daha zayıf olduğu taraf genellikle tutulan kulaktır.",
+    "Bu ayrım, manevranın hangi yöne yapılacağını doğrudan belirler.",
+    "İki yandaki nistagmus şiddeti birbirine çok yakınsa taraf belirlemek zorlaşır ve ek bulgulara başvurulur."
+   ]
+  },
+  {
+   "id": "gufoni",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Lateral ve ön kanal",
+   "baslik": "*Gufoni* manevrası (geotropik)",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Oturur",
+     "metin": "Başlangıç",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Sağlam yana",
+     "metin": "Hızla yan yatış",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Bekleme",
+     "metin": "Nistagmus sönene kadar",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Baş aşağı",
+     "metin": "Yaklaşık 45 derece",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Oturur",
+     "metin": "Bir ile iki dakika sonra",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Gufoni manevrası, lateral kanal BPPV'sinde sık kullanılan, kısa ve uygulaması kolay bir manevradır.",
+    "Geotropik tipte hasta oturur konumdan hızla sağlam tarafın üzerine, düz bir yan yatışa getirilir.",
+    "Bu konumda oluşan nistagmus sönene kadar, genellikle yaklaşık bir dakika beklenir.",
+    "Ardından baş hızla yaklaşık kırk beş derece yere doğru çevrilir.",
+    "Bu konumda bir ile iki dakika beklendikten sonra hasta yavaşça oturur konuma getirilir.",
+    "Apogeotropik tipte ise manevranın tutulan tarafa yapılan farklı biçimleri kullanılır; ayrıntılar protokole göre değişir."
+   ]
+  },
+  {
+   "id": "barbeku",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Lateral ve ön kanal",
+   "baslik": "*Barbekü* manevrası",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Sırtüstü",
+     "metin": "Baş tutulan yanda",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "90 derece",
+     "metin": "Yüz yukarı",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "90 derece",
+     "metin": "Sağlam yana",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "90 derece",
+     "metin": "Yüzüstü",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Oturur",
+     "metin": "Sağlam yandan",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Barbekü manevrası (barbecue maneuver), lateral kanal için kullanılan ve Lempert manevrası olarak da bilinen bir yöntemdir.",
+    "Hasta sırtüstü yatar ve baş önce tutulan tarafa çevrilir.",
+    "Ardından baş ve gövde, sağlam tarafa doğru doksanar derecelik adımlarla döndürülür.",
+    "Hasta yüzüstü konuma kadar döner; böylece toplam iki yüz yetmiş ile üç yüz altmış derecelik bir dönüş tamamlanır.",
+    "Her konumda nistagmus sönene kadar, genellikle otuz saniye ile bir dakika beklenir.",
+    "Son olarak hasta sağlam taraf üzerinden yavaşça oturur konuma getirilir.",
+    "Bazı klinisyenler ek olarak, hastanın örneğin gece boyunca sağlam taraf üzerinde yatmasını isteyen uzun süreli yan yatma yöntemini kullanır."
+   ]
+  },
+  {
+   "id": "on_kanal",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Lateral ve ön kanal",
+   "baslik": "Ön kanal ve *özel durumlar*",
+   "maddeler": [
+    {
+     "metin": "Ön kanal: _nadir_",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Derin baş sarkıtma manevraları",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Aşağı vuran nistagmus: _santral_ dışlanmalı",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kupulolitiazis: önce _serbestleştirme_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "superior_kanal",
+      "metin": "Ön (superior) kanal",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "superior_kanal",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Ön kanal BPPV'si nadirdir ve tanısı diğer tiplere göre daha zordur.",
+    "Tedavisinde başın masadan derin biçimde aşağı sarkıtıldığı manevralar kullanılır; Yacovino manevrası bunlardan biridir.",
+    "Aşağı vuran pozisyonel nistagmus santral nedenlerle de görülebilir.",
+    "Bu yüzden ön kanal tanısından önce santral nedenlerin dışlanması özellikle önemlidir.",
+    "Kupulolitiaziste ise kristaller kupulaya yapışıktır.",
+    "Bu durumda önce kristalleri serbestleştirmeyi amaçlayan değiştirilmiş manevralar kullanılabilir.",
+    "Bu özel durumlarda manevra seçimi daha fazla deneyim ister; tablo düzelmezse hasta yeniden değerlendirilir."
+   ]
+  },
+  {
+   "id": "gozlem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Manevradan sonra",
+   "baslik": "Manevra *sırasında* gözlem",
+   "maddeler": [
+    {
+     "metin": "Gözler _her konumda_ izlenir",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Aynı yönde nistagmus: _iyi işaret_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ters yönde nistagmus: _geri kayış_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Yeni tip nistagmus: _kanal dönüşümü_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Aynı yön",
+      "metin": "İlerleme işareti",
+      "cumle": 2
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Ters yön",
+      "metin": "Geri kayış olabilir",
+      "cumle": 4
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Yeni tip",
+      "metin": "Kanal dönüşümü",
+      "cumle": 5
+     }
+    ],
+    "ust": "GÖZLEM"
+   },
+   "cumleler": [
+    "Manevra mümkünse Frenzel ya da video gözlükle yapılır ve gözler her konumda izlenir.",
+    "Posterior kanalda manevranın ikinci ve üçüncü konumunda da nistagmus görülebilir.",
+    "Bu nistagmusun ilk konumdakiyle aynı yönde olması, kristallerin doğru yönde ilerlediğinin işareti olarak bildirilmiştir.",
+    "Bu bulgu, manevranın başarılı olma olasılığının yüksek olduğunu düşündürür.",
+    "Ters yönde bir nistagmus ise kristallerin ampullaya doğru geri kaydığını düşündürebilir.",
+    "Manevra sırasında kristaller başka bir kanala geçebilir; buna kanal dönüşümü denir ve nistagmusun tipi değişir.",
+    "Bu durumda yeni tutulan kanal belirlenir ve ona uygun manevra seçilir."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Manevradan sonra",
+   "baslik": "Manevradan *sonra*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Yeniden test",
+     "metin": "Aynı ya da sonraki seans",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Gerekirse tekrar",
+     "metin": "Aynı manevra",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Kalan dengesizlik",
+     "metin": "Günlerce sürebilir",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Bir ay içinde",
+     "metin": "Yeniden değerlendirme",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Bilgilendirme",
+     "metin": "Yineleme olabilir",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Manevradan sonra pozisyonel test aynı seansta ya da bir sonraki görüşmede tekrarlanır ve sonuç kaydedilir.",
+    "Nistagmus sürüyorsa aynı manevra tekrarlanabilir; bazı hastalar birkaç seansa gereksinim duyar.",
+    "2017 kılavuzu, posterior kanal manevrasından sonra rutin olarak baş ya da yatış kısıtlaması önermez.",
+    "Başarılı bir manevradan sonra bile birkaç gün ile birkaç hafta süren hafif bir dengesizlik hissi kalabilir.",
+    "Kılavuz, ilk tedavi ya da gözlemden sonra yaklaşık bir ay içinde hastanın yeniden değerlendirilmesini önerir.",
+    "Belirtiler sürüyorsa tanı yeniden gözden geçirilir; eşlik eden başka bir vestibüler sorun ya da santral bir neden araştırılır.",
+    "Hastaya BPPV'nin yineleyebileceği ve yeni bir atakta yeniden başvurabileceği anlatılır."
+   ]
+  },
+  {
+   "id": "ev",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Manevradan sonra",
+   "baslik": "Ev egzersizleri ve *rehabilitasyon*",
+   "maddeler": [
+    {
+     "metin": "Kendi kendine _Epley_ öğretilebilir",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "_Brandt-Daroff_: daha az etkili",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Kalan dengesizlikte _rehabilitasyon_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Yaşlıda _düşme_ önleme",
+     "cumle": 4,
+     "ikon": "yasli"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Ev egzersizi öğretirken hastayla bir kez birlikte uygulayın ve tarafı yazılı olarak verin.",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Uygun hastalara, klinisyen tarafından öğretildikten sonra evde uygulanabilecek kendi kendine Epley yöntemi gösterilebilir.",
+    "Brandt-Daroff egzersizleri de evde kullanılır; ancak repozisyon manevralarına göre daha az etkili oldukları bildirilmiştir.",
+    "Ev uygulamalarında tarafın doğru belirlenmiş olması ve hastanın güvenli bir ortamda olması gerekir.",
+    "Manevradan sonra dengesizlik sürüyorsa ya da hasta hareketlerden kaçınıyorsa vestibüler rehabilitasyon yarar sağlayabilir.",
+    "Yaşlı hastalarda düşme riski değerlendirilir ve evde güvenlik önlemleri konuşulur."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Manevradan önce tutulan kanalı ve tarafı videoyla doğrulayın. Tipik olmayan nistagmusta manevra yapmayın, hekime yönlendirin.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: manevranın başarısı, tanının doğruluğuna bağlıdır.",
+    "Pozisyonel test bulgusunu mümkünse video kaydıyla doğrulayın; kısa süren torsiyonel nistagmusun yönü kayıtta çok daha net görülür.",
+    "Nistagmus tipik BPPV'ye uymuyorsa, örneğin latanssız, yorulmayan ya da saf aşağı vuran ise manevra yapmayın.",
+    "Böyle bir durumda bulguları kaydedin ve hastayı hekim değerlendirmesine yönlendirin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Amaç: kristalleri _utriküle_ geri göndermek",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Posterior kanal: _Epley_ ya da Semont",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Lateral kanal: _Gufoni_ ya da barbekü",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Sonra: yeniden test, _bir ay_ içinde kontrol",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Repozisyon manevraları, kanala giren otokonyayı baş konumlarıyla utriküle geri göndermeyi amaçlar.",
+    "Posterior kanal için Epley ve Semont manevraları kullanılır; etkinlikleri benzer bildirilmiştir.",
+    "Lateral kanalda Gufoni ve barbekü manevraları kullanılır; manevranın yönünü tutulan taraf belirler.",
+    "Manevradan sonra test tekrarlanır, rutin kısıtlama önerilmez ve yaklaşık bir ay içinde yeniden değerlendirme yapılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sağ posterior kanal BPPV için hangisi?",
+   "secenekler": [
+    "Sağa Epley manevrası",
+    "Sağa barbekü manevrası",
+    "Gufoni manevrası",
+    "Manevra gerekmez"
+   ],
+   "dogru": 0,
+   "aciklama": "Posterior kanal BPPV'sinde _Epley_ ya da Semont kullanılır; Epley tutulan taraftan başlar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: sağ posterior kanal BPPV'sinde hangi manevra uygundur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: sağ taraftan başlayan Epley manevrası.",
+    "Barbekü ve Gufoni manevraları lateral kanal içindir; posterior kanalda Epley ya da Semont kullanılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vestibüler nörit ve *labirentit*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste aniden başlayıp günlerce süren baş dönmesini, yani vestibüler nörit ve labirentiti öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

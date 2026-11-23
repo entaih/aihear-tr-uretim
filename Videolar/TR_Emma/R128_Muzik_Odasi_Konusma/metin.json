@@ -1,0 +1,105 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R128_Muzik_Odasi_Konusma_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #128",
+  "baslik": "*Yankı* ünsüzü örter",
+  "alt": "Müzik için iyi oda, konuşma için kötü olabilir",
+  "cizim": "ses_dalgasi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Müzik için iyi bir oda, konuşma için kötü olabilir mi? #shorts",
+  "aciklama": "Yankılanma süresi, ses kesildikten sonra düzeyin altmış desibel düşmesi için geçen süredir. Düzenlenmiş bir sınıfta yaklaşık yarım saniye, konser salonunda yaklaşık iki saniye istenir; uzun yankılanmada ünlülerin kuyruğu zayıf ünsüzleri örter.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "akustik",
+   "sınıf"
+  ],
+  "etiketler": [
+   "yankılanma süresi",
+   "RT60",
+   "oda akustiği",
+   "sınıf akustiği",
+   "konser salonu",
+   "konuşmayı anlama",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Müzik için iyi bir oda, konuşma için kötü olabilir mi?",
+  "bilgiler": [
+   "Düzenlenmiş bir sınıfta yankılanma süresi yaklaşık yarım saniyedir.",
+   "Konser salonlarında yaklaşık iki saniye istenir.",
+   "Uzun yankılanmada güçlü ünlülerin kuyruğu zayıf ünsüzleri örter."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "akustik",
+   "sınıf"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #128",
+   "metin": "Müzik için iyi oda, konuşma için *kötü* mü?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Müzik için iyi bir oda, konuşma için kötü olabilir mi?"
+   ]
+  },
+  {
+   "id": "rt60",
+   "tur": "zincir",
+   "baslik": "*Yankılanma* süresi",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "0,5 sn",
+     "tr": "düzenlenmiş sınıf",
+     "cumle": 1
+    },
+    {
+     "ad": "2 sn",
+     "tr": "konser salonu",
+     "cumle": 2
+    },
+    {
+     "ad": "Birkaç sn",
+     "tr": "büyük ibadet yeri",
+     "cumle": 3
+    }
+   ],
+   "alt": "Müzik için iyi oda, _konuşma için kötü_ olabilir",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Yankılanma süresi, ses kesildikten sonra düzeyin altmış desibel düşmesi için geçen süredir.",
+    "Düzenlenmiş bir sınıfta bu süre yaklaşık yarım saniyedir.",
+    "Konser salonlarında müziğin dolgun duyulması için yaklaşık iki saniye istenir.",
+    "Büyük ibadet yerlerinde süre birkaç saniyeye çıkabilir.",
+    "Uzun yankılanmada güçlü ünlülerin kuyruğu, zayıf ünsüzleri örter."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D044",
+ "kaynak_baslik": "Oda akustiği: yankı ve SNR"
+}

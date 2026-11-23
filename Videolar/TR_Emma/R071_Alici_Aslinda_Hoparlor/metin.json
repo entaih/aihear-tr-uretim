@@ -1,0 +1,106 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R071_Alici_Aslinda_Hoparlor_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #71",
+  "baslik": "Alıcı aslında *hoparlör*",
+  "alt": "İşitme cihazında sesin yolu",
+  "cizim": "isitme_cihazi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İşitme cihazında alıcı sesi mi alır? #shorts",
+  "aciklama": "İşitme cihazında alıcı (receiver), işlenmiş sinyali yeniden sese çeviren küçük bir hoparlördür. Ses mikrofona girer, işlemcide düzenlenir ve alıcıdan kulak yoluna çıkar.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitmecihazı",
+   "işitme"
+  ],
+  "etiketler": [
+   "işitme cihazı",
+   "alıcı",
+   "receiver",
+   "mikrofon",
+   "DSP",
+   "dijital sinyal işlemci",
+   "işitme cihazı bileşenleri",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İşitme cihazında alıcı sesi mi alır?",
+  "bilgiler": [
+   "Alıcı, sesi alan değil kulağa veren parçadır.",
+   "Ses mikrofona girer, işlemcide düzenlenir, alıcıdan çıkar.",
+   "Alıcı aslında küçük bir hoparlördür."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "işitme"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #71",
+   "metin": "Cihazda alıcı *sesi alır mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İşitme cihazında alıcı sesi mi alır?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Sesin *cihaz içindeki* yolu",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Mikrofon",
+     "tr": "sesi toplar",
+     "cumle": 1
+    },
+    {
+     "ad": "İşlemci",
+     "tr": "düzenler",
+     "cumle": 1,
+     "gecikme": 1.0
+    },
+    {
+     "ad": "Alıcı",
+     "tr": "hoparlör",
+     "cumle": 1,
+     "gecikme": 2.0
+    }
+   ],
+   "alt": "Alıcı, _sesi kulağa veren_ parçadır.",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Hayır; adı yanıltıcı olabilir.",
+    "Ses mikrofona girer, işlemcide düzenlenir ve alıcıdan kulak yoluna çıkar.",
+    "Alıcı, işlenmiş sinyali yeniden sese çeviren küçük bir hoparlördür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D178",
+ "kaynak_baslik": "İşitme cihazı nasıl çalışır?"
+}

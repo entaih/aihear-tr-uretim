@@ -1,0 +1,812 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D142_Meniere_TR",
+ "kapak": {
+  "ust": "DERS 142",
+  "baslik": "*Meniere*<br>hastalığı",
+  "alt": "Hidrops, ataklar ve dalgalanan kayıp",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      40,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Meniere Hastalığı ve Endolenfatik Hidrops | Ders 142 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Meniere hastalığını ve altta yatan endolenfatik hidropsu anlatıyoruz. 20 dakika ile 12 saat süren vertigo ataklarını, dalgalanan alçak frekans sensörinöral kaybı, tinnitus ve kulak dolgunluğunu ve Barany Derneği tanı ölçütlerini örneklerle ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Lopez-Escamez ve ark., Diagnostic Criteria for Menière's Disease, Journal of Vestibular Research (2015); Jacobson ve Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "meniere",
+   "vertigo"
+  ],
+  "etiketler": [
+   "Meniere hastalığı",
+   "Meniere's disease",
+   "endolenfatik hidrops",
+   "endolymphatic hydrops",
+   "vertigo",
+   "dalgalanan işitme kaybı",
+   "kulak dolgunluğu",
+   "tinnitus",
+   "Barany tanı ölçütleri",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 142",
+   "baslik": "*Meniere* hastalığı ve hidrops",
+   "alt": "Ataklar, dalgalanan kayıp ve tanı ölçütleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste Meniere hastalığını ve altta yatan endolenfatik hidropsu öğreneceğiz.",
+    "Vertigo ataklarını, dalgalanan işitme kaybını ve Barany Derneği tanı ölçütlerini ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hastalık ve hidrops",
+   "baslik": "*Meniere* hastalığı",
+   "maddeler": [
+    {
+     "metin": "Tekrarlayan _vertigo_ atakları",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Dalgalanan _alçak frekans_ kaybı",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Tinnitus_ ve kulak dolgunluğu",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TEMEL BULGU",
+    "metin": "İç kulakta *endolenfatik hidrops*",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Meniere hastalığı, iç kulağı etkileyen ve ataklarla seyreden kronik bir hastalıktır.",
+    "Temel belirtisi, kendiliğinden başlayan ve dakikalar ile saatler süren vertigo, yani dönme hissi ataklarıdır.",
+    "Ataklara aynı kulakta alçak frekansları etkileyen ve dalgalanan bir sensörinöral işitme kaybı eşlik eder.",
+    "Tinnitus ve kulakta dolgunluk hissi de tabloyu tamamlar; bu belirtiler atak öncesinde ya da sırasında artabilir.",
+    "Hastalık adını, bu belirtileri iç kulağa bağlayan Fransız hekim Prosper Meniere'den alır.",
+    "Altta yatan temel bulgu olarak endolenfatik hidrops kabul edilir."
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hastalık ve hidrops",
+   "baslik": "Endolenfatik *hidrops*",
+   "cizim": "koklea_kesit",
+   "vurgula": [
+    {
+     "parca": "scala_media",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "scala_media",
+     "metin": "Scala media: endolenf",
+     "cumle": 0
+    },
+    {
+     "parca": "reissner_membrani",
+     "metin": "Reissner membranı: dışa itilir",
+     "cumle": 2
+    },
+    {
+     "parca": "scala_vestibuli",
+     "metin": "Scala vestibuli",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hidrops: endolenf hacminde artış",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Önce tepe, yani alçak frekans bölgesi",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hidrops belirtisiz de olabilir",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "scala_media",
+     "cumle": 1,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Koklear kanalın ortasındaki scala media, potasyumdan zengin bir sıvı olan endolenfle doludur.",
+    "Endolenfatik hidrops (endolymphatic hydrops), bu bölmede endolenf hacminin artması ve bölmenin genişlemesidir.",
+    "Genişleyen scala media, Reissner membranını scala vestibuliye doğru iter.",
+    "Hidrops genellikle önce koklea tepesine yakın bölgeyi, yani alçak frekans bölgesini etkiler; bu da alçak frekans kaybını açıklar.",
+    "Ancak hidrops belirti vermeden de bulunabilir; bu yüzden hidrops ve Meniere hastalığı aynı kavram değildir.",
+    "Hidropsun neden geliştiği tam olarak bilinmemektedir; genetik, otoimmün ve anatomik etkenler öne sürülmüştür."
+   ]
+  },
+  {
+   "id": "labirent",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hastalık ve hidrops",
+   "baslik": "Hidrops ve *denge* organı",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "sakkul",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sakkul",
+     "metin": "Sakkül: sık etkilenir",
+     "cumle": 1
+    },
+    {
+     "parca": "utrikul",
+     "metin": "Utrikül",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Yarım daire kanalları",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Endolenf yalnız kokleada değil, vestibüler labirentte de bulunur.",
+    "Hidrops kokleadan sonra en sık sakkülü etkiler.",
+    "Utrikül ve yarım daire kanalları daha az ve daha geç etkilenir.",
+    "Atak sırasında dönme hissinin nasıl oluştuğu tam bilinmemektedir; membranöz labirentte basınç ve iyon değişiklikleri öne sürülmüştür.",
+    "Bu nedenle atakların şiddeti ile hidropsun derecesi her zaman birbirine paralel gitmez."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hastalık ve hidrops",
+   "baslik": "Kimde, nasıl *seyreder?*",
+   "maddeler": [
+    {
+     "metin": "Genellikle _orta yaşta_ başlar",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Çoğunlukla başta _tek kulak_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Zamanla _ikinci kulak_ etkilenebilir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Atak sıklığı _öngörülemez_",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "İşitme zamanla _kalıcı_ kötüleşebilir",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Hastalık en sık kırk ile altmış yaşları arasında başlar, ancak her yaşta görülebilir.",
+    "Başlangıçta çoğunlukla tek kulak etkilenir.",
+    "Yıllar içinde hastaların bir bölümünde ikinci kulak da etkilenir ve hastalık iki taraflı hale gelir.",
+    "Ataklar kümeler halinde gelebilir, aylarca ya da yıllarca hiç olmayabilir; seyir kişiden kişiye çok değişir.",
+    "Erken dönemde atak aralarında düzelen işitme, ilerleyen yıllarda kalıcı olarak kötüleşebilir.",
+    "Geç dönemde kayıp çoğu zaman orta ile ileri derece arasında, daha düz bir eğriye dönüşür."
+   ]
+  },
+  {
+   "id": "atak",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Atak ve belirtiler",
+   "baslik": "Bir *atak* nasıl geçer?",
+   "adimlar": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Öncesinde",
+     "metin": "Dolgunluk, tinnitus artışı",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Dönme hissi",
+     "metin": "20 dakika ile 12 saat",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Bulantı, kusma",
+     "metin": "Ayakta duramama",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Nistagmus",
+     "metin": "Yatay ve torsiyonel",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Sonrasında",
+     "metin": "Yorgunluk ve dengesizlik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ataktan önce birçok hastada kulakta dolgunluk, tinnitusta artma ya da işitmede azalma hissedilir.",
+    "Ardından gelen dönme hissi, Barany ölçütlerine göre yirmi dakika ile on iki saat arasında sürer.",
+    "Atak sırasında bulantı, kusma ve ayakta duramama sık görülür.",
+    "Muayenede çoğu zaman yatay ve torsiyonel bileşenli bir nistagmus izlenir; yönü atak süresince değişebilir.",
+    "Atak sonrasında saatler ya da günler süren yorgunluk ve dengesizlik hissi kalabilir.",
+    "Birkaç saniye süren dönme hissi ya da günlerce kesintisiz süren baş dönmesi tipik bir Meniere atağı değildir."
+   ]
+  },
+  {
+   "id": "kulak",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Atak ve belirtiler",
+   "baslik": "Kulak *belirtileri*",
+   "maddeler": [
+    {
+     "metin": "_Tinnitus_: çoğu zaman pes uğultu",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Dolgunluk_: tıkanma ve basınç hissi",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "İşitmede gün gün _dalgalanma_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Belirtiler _aynı kulakta_ artar",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Meniere hastalığındaki tinnitus çoğu zaman pes, uğultu ya da kükreme benzeri bir ses olarak tanımlanır.",
+    "Kulak dolgunluğu, kulağın tıkalı ya da basınç altında olduğu hissidir ve atak öncesinde belirginleşebilir.",
+    "Hastalar işitmelerinin bazı günler daha iyi, bazı günler daha kötü olduğunu fark eder.",
+    "Bu kulak belirtilerinin vertigo ile aynı kulakta ve aynı dönemde artması, değerlendirme açısından değerlidir.",
+    "Belirtilerin zamanlamasını not eden bir günlük, hem hekime hem odyoloğa yardımcı olur."
+   ]
+  },
+  {
+   "id": "gec_donem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Atak ve belirtiler",
+   "baslik": "Geç dönem *özellikleri*",
+   "maddeler": [
+    {
+     "metin": "_Tumarkin_ düşme atakları",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Sesin bozuk duyulması: _diplakuzi_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Rekruitment_ ve ses rahatsızlığı",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Konuşma ayırt etmede _azalma_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "İlerlemiş hastalıkta bazı kişilerde bilinç kaybı olmadan aniden yere düşme atakları görülebilir.",
+    "Bunlara Tumarkin'in otolitik krizleri denir ve otolit organlarının ani uyarılmasıyla açıklanır.",
+    "Etkilenen kulakta seslerin farklı perdede ya da bozuk duyulması, yani diplakuzi tanımlanabilir.",
+    "Rekruitment (recruitment), yani ses şiddetinin anormal hızlı artması nedeniyle yüksek sesler rahatsız edici gelebilir.",
+    "Hastalık ilerledikçe konuşma ayırt etme puanları da düşebilir."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Tipik *alçak frekans* kaybı",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: sağ kulak",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Kemik yolu_: sol kulak",
+     "cumle": 3
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       40,
+       25,
+       25,
+       30
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       45,
+       45,
+       40,
+       25,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta alçak frekanslarda belirgin, tize doğru düzelen bir kayıp görülüyor.",
+    "Kemik yolu eşikleri hava yoluyla örtüşüyor; yani kayıp sensörinöral.",
+    "Sol kulak ise normal sınırlarda; bu tek taraflı tablo erken dönem Meniere hastalığıyla uyumlu olabilir.",
+    "Barany ölçütleri, iki bin hertzin altındaki iki komşu frekansta kemik yolu eşiğinin karşı kulaktan en az otuz desibel kötü olmasını arar.",
+    "Bu örnekte iki yüz elli ve beş yüz hertzde kemik yolu farkı otuz beş desibel olduğu için bu ölçüt karşılanıyor.",
+    "Bazı hastalarda alçak ve yüksek frekansların birlikte etkilendiği, iki bin hertz çevresinde tepe yapan bir eğri de görülebilir."
+   ]
+  },
+  {
+   "id": "dalgalanma",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Dalgalanan *eşikler*",
+   "sutunlar": [
+    "Zaman",
+    "250 Hz",
+    "500 Hz",
+    "1000 Hz"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Belirtili dönem",
+      "50 dB HL",
+      "50 dB HL",
+      "40 dB HL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "İki hafta sonra",
+      "25 dB HL",
+      "25 dB HL",
+      "20 dB HL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Altı ay sonra",
+      "40 dB HL",
+      "45 dB HL",
+      "35 dB HL"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Meniere hastalığının en ayırt edici özelliklerinden biri, işitmenin zaman içinde dalgalanmasıdır.",
+    "Bu örnek tabloda aynı kulağın belirtili dönemde ölçülen alçak frekans eşikleri kırk ile elli desibel arasında.",
+    "İki hafta sonraki kontrolde eşikler belirgin biçimde düzelmiş.",
+    "Altı ay sonraki ölçümde ise eşikler yeniden kötüleşmiş.",
+    "Tek bir odyogram bu dalgalanmayı gösteremez; bu yüzden seri odyogramlar çok değerlidir.",
+    "Seri ölçümlerin aynı cihaz ve aynı yöntemle yapılması, karşılaştırmayı güvenilir kılar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kulak dolgunluğunda yalnız timpanometriyle yetinmeyin; alçak frekanslarda kemik yolunu ölçün ve belirtili dönemde yeniden test planlayın.",
+   "cumleler": [
+    "Bir klinik ipucu: kulak dolgunluğu yakınması çoğu zaman orta kulak sorunu sanılır.",
+    "Timpanogram normalse yalnız buna bakıp geçmeyin; alçak frekanslarda hava ve kemik yolu eşiklerini mutlaka ölçün.",
+    "Normal timpanogram ile birlikte alçak frekans sensörinöral kayıp, hekime yönlendirme gerektiren önemli bir bulgudur.",
+    "Ayrıca hastaya belirtilerin arttığı dönemde kliniğe başvurabileceğini söyleyin; o dönemdeki odyogram çok bilgi vericidir."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Destekleyici *testler*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "ECochG",
+     "metin": "Artmış SP/AP oranı",
+     "cumle": 0
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Kalorik",
+     "metin": "Etkilenen tarafta zayıflık",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "Çoğu zaman normal",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "VEMP",
+     "metin": "Değişken bulgular",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "MR",
+     "metin": "Retrokoklear dışlama, hidrops görüntüleme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Elektrokokleografi, kısaca ECochG, etkilenen kulakta artmış bir sumasyon potansiyeli ve aksiyon potansiyeli oranı gösterebilir.",
+     "ses": "Elektrokokleografi, kısaca ECOCHG, etkilenen kulakta artmış bir sumasyon potansiyeli ve aksiyon potansiyeli oranı gösterebilir."
+    },
+    "Kalorik testte etkilenen tarafta zayıf yanıt sık görülür.",
+    "Buna karşın video baş itme testi çoğu zaman normal kalır; bu ayrışmayı ilerideki derslerde ele alacağız.",
+    "Vestibüler uyarılmış miyojenik potansiyel, kısaca VEMP yanıtları da etkilenebilir, ancak bulgular değişkendir.",
+    "Manyetik rezonans retrokoklear nedenleri dışlamak için kullanılır; özel tekniklerle hidrops da gösterilebilir.",
+    "Bu testlerin hiçbiri tek başına tanı koydurmaz; tanı klinik ölçütlere dayanır."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tanı ölçütleri",
+   "baslik": "Barany ölçütleri: *kesin* ve olası",
+   "sol": {
+    "ust": "Kesin Meniere",
+    "maddeler": [
+     {
+      "metin": "En az iki vertigo atağı",
+      "cumle": 1
+     },
+     {
+      "metin": "Her biri 20 dk ile 12 saat",
+      "cumle": 1
+     },
+     {
+      "metin": "Odyometrik alçak ve orta frekans kaybı",
+      "cumle": 2
+     },
+     {
+      "metin": "Dalgalanan kulak belirtileri",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Olası Meniere",
+    "maddeler": [
+     {
+      "metin": "En az iki vertigo ya da baş dönmesi",
+      "cumle": 4
+     },
+     {
+      "metin": "Her biri 20 dk ile 24 saat",
+      "cumle": 4
+     },
+     {
+      "metin": "Dalgalanan kulak belirtileri",
+      "cumle": 4
+     },
+     {
+      "metin": "Odyometrik kanıt şartı yok",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Barany Derneği ve ilgili uluslararası dernekler, 2015 yılında ortak tanı ölçütleri yayımladı.",
+     "ses": "Barany Derneği ve ilgili uluslararası dernekler, iki bin on beş yılında ortak tanı ölçütleri yayımladı."
+    },
+    "Kesin Meniere hastalığı için her biri yirmi dakika ile on iki saat süren, en az iki kendiliğinden vertigo atağı gerekir.",
+    "Ayrıca etkilenen kulakta, odyometrik olarak belgelenmiş alçak ve orta frekans sensörinöral kayıp bulunmalıdır.",
+    "Aynı kulakta işitme, tinnitus ya da dolgunluk gibi dalgalanan kulak belirtileri de aranır.",
+    "Olası Meniere hastalığında atak süresi yirmi dakika ile yirmi dört saat arasındadır ve odyometrik kanıt şartı yoktur.",
+    "Her iki durumda da tablonun başka bir vestibüler tanıyla daha iyi açıklanmaması gerekir."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tanı ölçütleri",
+   "baslik": "*Ayırıcı* tanıda neler var?",
+   "ogeler": [
+    {
+     "ikon": "agri",
+     "baslik": "Vestibüler migren",
+     "metin": "En çok benzeyen tablo",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Vestibüler schwannom",
+     "metin": "Retrokoklear neden",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Otoimmün iç kulak",
+     "metin": "İki taraflı, hızlı ilerleyen",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ani kayıp, labirentit",
+     "metin": "Genellikle tek seferlik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Meniere hastalığına en çok benzeyen tablo vestibüler migrendir ve ikisi aynı kişide birlikte de bulunabilir.",
+    "Vestibüler migrende de ataklar ve kulak belirtileri olabilir, ancak belirgin ve kalıcı işitme kaybı beklenmez.",
+    "Tek taraflı işitme kaybı ve tinnitus, vestibüler schwannom gibi retrokoklear nedenleri de akla getirmelidir.",
+    "Otoimmün iç kulak hastalığı, özellikle iki taraflı ve hızlı ilerleyen kayıplarda düşünülür.",
+    "Ani işitme kaybı ve labirentit ise genellikle tek seferlik ve tekrarlamayan tablolardır.",
+    "Bu ayrımı yapmak hekimin görevidir; odyolojik bulgular bu sürece önemli katkı sağlar."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Odyoloğun rolü",
+   "baslik": "*Odyoloğun* rolü",
+   "maddeler": [
+    {
+     "metin": "Belirtili dönemde _odyogram_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Seri ölçümle _dalgalanmayı_ belgele",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Vestibüler test _bataryası_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "İşitme ve tinnitus _rehabilitasyonu_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Hekimle _iş birliği_",
+     "cumle": 5,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Odyoloğun ilk görevi, işitmeyi özellikle belirtilerin olduğu dönemde doğru biçimde belgelemektir.",
+    "Seri odyogramlar dalgalanmayı göstererek tanı ölçütlerinin değerlendirilmesine katkı sağlar.",
+    "Vestibüler testler, etkilenen tarafı ve vestibüler işlevin durumunu ortaya koyar.",
+    "Kalıcı işitme kaybı ve tinnitus için işitme cihazı ve danışmanlık gibi rehabilitasyon seçenekleri planlanabilir.",
+    "Tedavi hekim tarafından planlanır; yaşam düzenlemelerinden ilaç ve girişimsel yöntemlere kadar geniş bir yelpaze vardır.",
+    "Bu yüzden odyolog, KBB hekimiyle sürekli iletişim içinde çalışır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Hidrops: _scala media_ genişlemesi",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Atak: _20 dakika ile 12 saat_",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Dalgalanan _alçak frekans_ sensörinöral kayıp",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Barany: atak, odyogram, _kulak belirtileri_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Meniere hastalığının temelinde endolenfatik hidrops, yani scala media'nın genişlemesi bulunur.",
+    "Vertigo atakları yirmi dakika ile on iki saat sürer.",
+    "İşitme kaybı alçak frekanslarda başlar ve dalgalanır; bu yüzden seri odyogramlar önemlidir.",
+    "Barany ölçütleri atakları, odyometrik kaybı ve dalgalanan kulak belirtilerini birlikte arar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Kesin Meniere'de vertigo atağı ne kadar sürer?",
+   "secenekler": [
+    "Birkaç saniye",
+    "20 dakika ile 12 saat",
+    "Günlerce kesintisiz"
+   ],
+   "dogru": 1,
+   "aciklama": "Barany ölçütleri: _20 dakika ile 12 saat_ süren en az iki atak.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Barany ölçütlerine göre kesin Meniere hastalığında vertigo atağı ne kadar sürer?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yirmi dakika ile on iki saat.",
+    "Saniyeler süren pozisyonel dönme hissi ya da günlerce kesintisiz baş dönmesi başka tabloları düşündürür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vestibüler *schwannom*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste vestibüler schwannomu ve serebellopontin köşe tümörlerini, odyolojik bulgularıyla birlikte inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

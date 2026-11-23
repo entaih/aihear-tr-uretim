@@ -1,0 +1,796 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D063_Odyogram_Konfigurasyonlari_TR",
+ "kapak": {
+  "ust": "DERS 63",
+  "baslik": "Odyogram<br>*konfigürasyonları*",
+  "alt": "Düz, eğimli, çentikli, kurabiye ısırığı",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      25,
+      50,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      20,
+      35,
+      50,
+      50,
+      35,
+      25
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Odyogram Konfigürasyonları: Düz, Eğimli, Çentikli | Ders 63 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Konfigürasyon, odyogramdaki eşiklerin frekansa göre çizdiği şekildir. Bu derste düz, yükselen, eğimli ve keskin düşen konfigürasyonları, 4 kHz çentiğini, kurabiye ısırığı ve ters kurabiye ısırığı şekillerini örnek odyogramlarla inceliyor ve raporda nasıl tarif edileceklerini konuşuyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Lloyd ve Kaplan, Audiometric Interpretation: A Manual of Basic Audiometry; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyogram",
+   "işitme"
+  ],
+  "etiketler": [
+   "odyogram konfigürasyonu",
+   "audiogram configuration",
+   "düz odyogram",
+   "eğimli odyogram",
+   "4 kHz çentiği",
+   "notch",
+   "kurabiye ısırığı",
+   "cookie-bite",
+   "odyogram okuma",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 63",
+   "baslik": "Odyogram *konfigürasyonları*",
+   "alt": "Düz, eğimli, çentikli ve kurabiye ısırığı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyogramın şeklini, yani konfigürasyonunu tanımayı ve doğru adlandırmayı öğreneceğiz.",
+    "Her konfigürasyonu örnek bir odyogram üzerinde görecek ve raporda nasıl tarif edileceğini konuşacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konfigürasyon nedir?",
+   "baslik": "Odyogramı *tarif etmek*",
+   "yan": {
+    "tur": "kart",
+    "ust": "KONFİGÜRASYON",
+    "metin": "Eşiklerin frekansa göre çizdiği *şekil*",
+    "cumle": 1
+   },
+   "maddeler": [
+    {
+     "metin": "Derece: kayıp _ne kadar?_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tip: kayıp _nerede?_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Konfigürasyon: _hangi şekil?_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Simetri: iki kulak _benzer mi?_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Bir odyogramı tarif ederken dört özelliğe bakarız: kaybın derecesi, tipi, konfigürasyonu ve iki kulak arasındaki simetri.",
+    "Konfigürasyon, eşiklerin frekansa göre çizdiği şekildir; yani odyogram eğrisinin biçimi.",
+    "Derece ve tip, önceki derslerde gördüğümüz gibi kaybın ne kadar olduğunu ve nereden kaynaklandığını anlatır.",
+    "Konfigürasyon ise kaybın hangi frekanslarda yoğunlaştığını gösterir.",
+    "Aynı derecede iki kayıp, konfigürasyonları farklıysa günlük yaşamda çok farklı zorluklara yol açabilir."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konfigürasyon nedir?",
+   "baslik": "Şekil neden *önemli?*",
+   "maddeler": [
+    {
+     "metin": "Günlük yaşama _etkiyi_ gösterir",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ortalama eşik şekli _gizleyebilir_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Nedene ipucu, cihaza _yön_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Konfigürasyon, kaybın günlük yaşama etkisini tahmin etmemize yardım eder.",
+    "Örneğin aynı ortalama eşik, düz bir kayıpta ve keskin düşen bir kayıpta çok farklı konuşma sorunlarına yol açabilir.",
+    "Saf ses ortalaması yalnızca birkaç frekansı içerdiği için bu farkı gizleyebilir.",
+    "Konfigürasyon ayrıca olası nedenler için ipucu verir ve cihaz ayarına yön gösterir."
+   ]
+  },
+  {
+   "id": "siniflama",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Konfigürasyon nedir?",
+   "baslik": "Eğime göre *sınıflama*",
+   "sutunlar": [
+    "Konfigürasyon",
+    "Yaklaşık ölçüt"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Düz",
+      "5 dB/oktav altı"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Yükselen",
+      "Tize doğru iyileşme"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Hafif eğimli",
+      "5 ile 12 dB/oktav"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Keskin eğimli",
+      "15 ile 20 dB/oktav"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Çok keskin düşen",
+      "25 dB/oktav ve üzeri"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Konfigürasyonlar, eşiklerin oktav başına ne kadar değiştiğine göre sınıflanır.",
+    "Eşikler oktav başına beş desibelden az değişiyorsa konfigürasyon düzdür.",
+    "Tize doğru eşikler oktav başına beş desibelden fazla iyileşiyorsa yükselen konfigürasyondan söz edilir.",
+    "Eşikler oktav başına yaklaşık beş ile on iki desibel kötüleşiyorsa hafif eğimli denir.",
+    "Kötüleşme oktav başına yaklaşık on beş ile yirmi desibelse keskin eğimli denir.",
+    "Belirli bir frekanstan sonra oktav başına yirmi beş desibel ya da daha fazla düşüş varsa çok keskin düşen konfigürasyon denir.",
+    "Bu sınırlar Lloyd ve Kaplan'ın yaygın kullanılan sınıflamasına dayanır; kaynaklar arasında küçük farklar olabilir."
+   ]
+  },
+  {
+   "id": "duz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Düz, eğimli ve yükselen",
+   "baslik": "*Düz* (flat) konfigürasyon",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        45,
+        45,
+        50,
+        50,
+        50,
+        55
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "Tüm frekanslarda _benzer_ eşik",
+     "cumle": 0
+    },
+    {
+     "metin": "İletim tipi kayıplarda sık",
+     "cumle": 2
+    },
+    {
+     "metin": "Sensörinöral kayıplarda da görülür",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Düz konfigürasyonda eşikler tüm frekanslarda birbirine yakındır.",
+    "Bu örnekte sağ kulağın eşikleri kırk beş ile elli beş desibel HL arasında ve neredeyse yatay bir çizgi oluşturuyor.",
+    "Düz konfigürasyon, efüzyonlu otitis media gibi iletim tipi kayıplarda sık görülür.",
+    "Bazı sensörinöral kayıplarda da düz bir eğri görülebilir.",
+    "Düz kayıpta konuşmanın tüm frekansları benzer ölçüde kısılır.",
+    "Bu nedenle özellikle iletim tipi düz kayıplarda sesin yükseltilmesi çoğu zaman belirgin yarar sağlar."
+   ]
+  },
+  {
+   "id": "egimli",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Düz, eğimli ve yükselen",
+   "baslik": "*Eğimli* (sloping) konfigürasyon",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        45,
+        55,
+        65
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "Tize doğru _giderek_ kötüleşir",
+     "cumle": 0
+    },
+    {
+     "metin": "Erişkinlerde _en sık_ şekillerden",
+     "cumle": 2
+    },
+    {
+     "metin": "Yaşa bağlı kayıpta tipik",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Eğimli ya da düşen konfigürasyonda eşikler, frekans yükseldikçe giderek kötüleşir.",
+    "Bu örnekte eşikler iki yüz elli hertzde yirmi desibel HL iken sekiz bin hertzde altmış beş desibel HL'ye iniyor.",
+    "Erişkinlerde en sık karşılaşılan konfigürasyonlardan biridir.",
+    "Yaşa bağlı işitme kaybı tipik olarak iki kulakta simetrik, tize doğru düşen bir eğri ile görülür.",
+    "Bu kişiler ünlüleri duyar ama tiz ünsüzleri kaçırır; konuşma muzu dersinde bunu ayrıntılı görmüştük.",
+    "Eğimin başladığı frekans ve dikliği, cihaz uygulamasında hangi frekansa ne kadar kazanç verileceğini de etkiler."
+   ]
+  },
+  {
+   "id": "keskin",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Düz, eğimli ve yükselen",
+   "baslik": "*Çok keskin* düşen konfigürasyon",
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       50,
+       80,
+       90
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Bu örnekte eşikler bin hertze kadar normal sınırlarda.",
+    "Bin hertz ile iki bin hertz arasında ise eşik otuz beş desibel birden düşüyor.",
+    "Belirli bir frekanstan sonraki bu ani düşüş, çok keskin düşen konfigürasyon olarak adlandırılır.",
+    "Bu tür kayıplarda, düşüşün olduğu bölgede bazen kokleanın çok az işlev gördüğü alanlar bulunabilir; bunlara koklear ölü bölge denir.",
+    "Keskin düşüşün olduğu yerde ara frekansları, örneğin bin beş yüz hertzi de test etmek, eğrinin şeklini netleştirir.",
+    "Pes frekansları iyi olduğu için bu kişiler kayıplarını bazen geç fark eder."
+   ]
+  },
+  {
+   "id": "yukselen",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Düz, eğimli ve yükselen",
+   "baslik": "*Yükselen* (rising) konfigürasyon",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        50,
+        45,
+        35,
+        25,
+        20,
+        20
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "Pes frekanslarda _daha kötü_",
+     "cumle": 0
+    },
+    {
+     "metin": "Düşen şekle göre _nadir_",
+     "cumle": 1
+    },
+    {
+     "metin": "Örnek: Meniere'nin erken dönemi",
+     "cumle": 2
+    },
+    {
+     "metin": "Örnek: sertliği artıran iletim sorunları",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Yükselen konfigürasyonda kayıp pes frekanslarda daha belirgindir ve tize doğru eşikler iyileşir.",
+    "Bu şekil, düşen konfigürasyona göre çok daha nadir görülür.",
+    "Örneğin Meniere hastalığının erken döneminde pes frekanslarda sensörinöral bir kayıp görülebilir.",
+    "Orta kulağın sertliğini artıran bazı iletim sorunları da pes frekansları daha çok etkileyebilir.",
+    "Bu örneklerin hiçbiri tek başına tanı koydurmaz; konfigürasyon yalnızca bir ipucudur."
+   ]
+  },
+  {
+   "id": "centik",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Çentik",
+   "baslik": "*4 kHz* çentiği",
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       25,
+       50,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       55,
+       30
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Çentik, belirli bir frekans bölgesinde eşiğin düşüp ardından yeniden iyileşmesidir.",
+    "Bu örnekte iki kulakta da dört bin hertzde belirgin bir düşüş var.",
+    "Sekiz bin hertzde ise eşikler yeniden iyileşiyor; buna toparlanma denir.",
+    "Üç bin ile altı bin hertz arasındaki böyle bir çentik, gürültüye bağlı işitme kaybında tipik olarak görülür.",
+    "Çentiğin tam yeri kişiden kişiye değişebilir; üç bin, dört bin ya da altı bin hertzde ortaya çıkabilir.",
+    "Bu örnekte bulgu, ayrıntılı bir gürültü öyküsü almayı gerektiren bir ipucudur; tanı yalnız odyogramla konmaz.",
+    "Kemik yolunda iki bin hertz civarında görülen bir başka çentik, Carhart çentiği, otosklerozla ilişkilidir; onu ayrı bir derste göreceğiz."
+   ]
+  },
+  {
+   "id": "kurabiye",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kurabiye ısırığı",
+   "baslik": "*Kurabiye ısırığı* (cookie-bite)",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        35,
+        50,
+        50,
+        35,
+        25
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "Orta frekanslarda _daha kötü_",
+     "cumle": 0
+    },
+    {
+     "metin": "Odyogramda _U_ biçimi",
+     "cumle": 1
+    },
+    {
+     "metin": "Sıklıkla kalıtsal kayıplarla ilişkili",
+     "cumle": 3
+    },
+    {
+     "metin": "Konuşmayı anlamada zorluk",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kurabiye ısırığı konfigürasyonunda kayıp orta frekanslarda yoğunlaşır; pes ve tiz frekanslar daha iyidir.",
+    "Odyogramda, sanki eğrinin ortasından bir ısırık alınmış gibi U biçiminde bir görüntü oluşur.",
+    "Bu örnekte bin ve iki bin hertzde eşikler elli desibel HL, uçlarda ise yirmi ile yirmi beş desibel HL civarında.",
+    "Bu konfigürasyon sıklıkla kalıtsal sensörinöral kayıplarla ilişkilendirilir.",
+    "Orta frekanslar konuşma için önemli olduğundan, kişi uç frekansları iyi olsa da konuşmayı anlamakta zorlanabilir."
+   ]
+  },
+  {
+   "id": "ters",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kurabiye ısırığı",
+   "baslik": "*Ters* kurabiye ısırığı",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        45,
+        35,
+        20,
+        20,
+        35,
+        50
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "Uçlarda kötü, ortada _daha iyi_",
+     "cumle": 0
+    },
+    {
+     "metin": "Odyogramda _ters U_ biçimi",
+     "cumle": 1
+    },
+    {
+     "metin": "Genel klinikte _nadir_",
+     "cumle": 2
+    },
+    {
+     "metin": "Meniere'de sık bildirilir, _özgü değil_",
+     "cumle": 3
+    },
+    {
+     "metin": "Ölçümü _tekrar_ kontrol edin",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ters kurabiye ısırığında durum tam tersidir: pes ve tiz frekanslar kötü, orta frekanslar daha iyidir.",
+    "Odyogramda ters çevrilmiş bir U biçimi oluşur.",
+    "Genel klinik uygulamada nadir görülen bir konfigürasyondur.",
+    "Lloyd ve Kaplan bu şekle zirveli (peaked) odyogram der; Meniere hastalığında sık bildirilir, ama ona özgü değildir.",
+    "Bu tür beklenmedik şekillerde, ölçüm hatası olasılığını dışlamak için sonuçları yeniden kontrol etmek de önemlidir."
+   ]
+  },
+  {
+   "id": "simetri",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Raporlama",
+   "baslik": "*Simetri*",
+   "maddeler": [
+    {
+     "metin": "İki kulağı _karşılaştırın_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Küçük fark: _simetrik_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Asimetri ölçütleri kaynağa göre _değişir_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Açıklanamayan asimetri: _not edin_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Konfigürasyonu tarif ettikten sonra iki kulağı karşılaştırırız.",
+    "Kulaklar arasındaki eşik farkı küçükse kayıp simetrik kabul edilir.",
+    "Asimetri için kaynaklarda farklı ölçütler kullanılır; örneğin iki ya da daha fazla frekansta on beş desibel ve üzeri fark.",
+    "Belirgin ve açıklanamayan bir asimetri, ileri değerlendirme gerektirebilecek bir bulgu olarak not edilir.",
+    "Konfigürasyon ve simetri birlikte, kaybın tablosunu tamamlar."
+   ]
+  },
+  {
+   "id": "ozet_tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Raporlama",
+   "baslik": "Konfigürasyonlar *bir arada*",
+   "sutunlar": [
+    "Konfigürasyon",
+    "Şekil",
+    "Olası ilişki"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Düz",
+      "Yatay çizgi",
+      "İletim tipi kayıplar"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Eğimli",
+      "Tize doğru düşen",
+      "Yaşa bağlı kayıp"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Yükselen",
+      "Tize doğru iyileşen",
+      "Meniere'nin erken dönemi"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Çentikli",
+      "4 kHz'de düşüş",
+      "Gürültü maruziyeti"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Kurabiye ısırığı",
+      "Ortada düşüş",
+      "Kalıtsal kayıplar"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Ters kurabiye ısırığı",
+      "Uçlarda düşüş",
+      "Meniere hastalığı (özgü değil)"
+     ],
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Şimdi tüm konfigürasyonları bir arada görelim.",
+    "Tablodaki ilişkiler yalnızca olası örneklerdir; aynı konfigürasyon farklı nedenlerle ortaya çıkabilir.",
+    "Konfigürasyon; öykü, kaybın tipi ve diğer testlerle birlikte anlam kazanır.",
+    "Raporda derece, tip, konfigürasyon ve simetriyi birlikte yazmak, bilgiyi okuyan herkes için net kılar.",
+    "Örneğin: iki kulakta simetrik, hafiften orta dereceye, tize doğru düşen sensörinöral işitme kaybı."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Raporlama",
+   "baslik": "Klinik ipucu",
+   "metin": "Komşu oktavlar arasında 20 dB veya daha fazla fark varsa ara frekansları da test edin; 6000 Hz atlanırsa gürültü çentiği gözden kaçabilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: konfigürasyonu doğru görmek için yalnız oktav frekansları yetmeyebilir.",
+    "Komşu oktavlar arasında yirmi desibel ya da daha fazla fark varsa ara frekansları da test edin.",
+    "Özellikle altı bin hertz atlanırsa, gürültüye bağlı bir çentik gözden kaçabilir.",
+    "Üç bin hertz ise keskin düşüşün başladığı yeri ve konuşma için önemli bölgeyi netleştirir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Konfigürasyon: eşiklerin _şekli_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Düz, yükselen, eğimli, _keskin düşen_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Çentik: 4 kHz'de düşüş, 8 kHz'de _toparlanma_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Kurabiye ısırığı: _orta_ frekanslarda kayıp",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Konfigürasyon, eşiklerin frekansa göre çizdiği şekildir ve derece, tip, simetri ile birlikte tarif edilir.",
+    "Eğime göre düz, yükselen, eğimli ve keskin düşen konfigürasyonları ayırırız.",
+    "Dört bin hertz çentiği, sekiz bin hertzde toparlanma ile birlikte gürültü öyküsünü sorgulatır.",
+    "Kurabiye ısırığında kayıp orta frekanslarda, ters kurabiye ısırığında ise uç frekanslardadır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "4 kHz'de düşüp 8 kHz'de toparlanan şekle ne denir?",
+   "secenekler": [
+    "Düz konfigürasyon",
+    "Çentik",
+    "Kurabiye ısırığı",
+    "Yükselen konfigürasyon"
+   ],
+   "dogru": 1,
+   "aciklama": "Belirli bir bölgede düşüp yeniden iyileşen şekil _çentiktir_; gürültü öyküsünü sorgulatır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Eşiklerin dört bin hertzde düşüp sekiz bin hertzde yeniden iyileştiği şekle ne denir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: çentik.",
+     "ses": "Doğru cevap be: çentik."
+    },
+    "Bu şekil gürültüye bağlı işitme kaybında tipiktir; ancak tanı öykü ve diğer bulgularla birlikte konur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Saf ses odyometrisinde sık yapılan *hatalar*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste saf ses odyometrisinde sık yapılan hataları ve bunları nasıl önleyebileceğimizi göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

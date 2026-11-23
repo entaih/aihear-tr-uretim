@@ -1,0 +1,108 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R380_Kavitede_Emisyon_Olmaz_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #380",
+  "baslik": "OAE *prob kontrolü*",
+  "alt": "Kavitede emisyon olmamalı",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kulak olmayan bir test kavitesinde otoakustik emisyon çıkar mı? #shorts",
+  "aciklama": "OAE prob kontrolünde prob, üreticinin verdiği küçük bir test kavitesine yerleştirilir. Kavitede kulak olmadığı için emisyon da olmamalıdır; yanıt görülüyorsa bu sistemin kendi bozulmasıdır ve gerçek emisyon sanılabilir. OAE ölçümünde en sık sorun ise prob ucundan gelir: kulak kiri ya da nem prob kanallarını tıkarsa uyaran kulağa ulaşmaz ve emisyon yokmuş gibi görünür.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "OAE",
+   "kalibrasyon"
+  ],
+  "etiketler": [
+   "otoakustik emisyon",
+   "prob kontrolü",
+   "kalibrasyon",
+   "DPOAE",
+   "günlük kontrol",
+   "prob ucu",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kulak olmayan bir test kavitesinde otoakustik emisyon çıkar mı?",
+  "bilgiler": [
+   "Kavitede kulak yoktur; emisyon da olmamalıdır.",
+   "Kavitede yanıt, sistemin kendi bozulmasıdır.",
+   "Tıkalı prob ucu emisyonu yokmuş gibi gösterir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "OAE",
+   "kalibrasyon"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #380",
+   "metin": "Kulak yokken *emisyon?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kulak olmayan bir test kavitesinde otoakustik emisyon çıkar mı?"
+   ]
+  },
+  {
+   "id": "prob",
+   "tur": "zincir",
+   "baslik": "OAE *prob kontrolü*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Kavite",
+     "tr": "kulak yok",
+     "cumle": 0
+    },
+    {
+     "ad": "Emisyon",
+     "tr": "olmamalı",
+     "cumle": 1
+    },
+    {
+     "ad": "Prob ucu",
+     "tr": "kir ve nem",
+     "cumle": 3
+    }
+   ],
+   "alt": "Her gün _prob kontrolü_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Prob kontrolünde prob, üreticinin verdiği küçük bir test kavitesine yerleştirilir.",
+    "Kavitede kulak olmadığı için emisyon da olmamalıdır.",
+    "Yanıt görülüyorsa bu, sistemin kendi bozulmasıdır ve gerçek emisyon sanılabilir.",
+    "En sık sorun ise kulak kiri ya da nemle tıkanan prob ucudur.",
+    "Tıkalı uçta uyaran kulağa ulaşmaz ve emisyon yokmuş gibi görünür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D116",
+ "kaynak_baslik": "İmmitans, OAE ve ABR kalibrasyonu"
+}

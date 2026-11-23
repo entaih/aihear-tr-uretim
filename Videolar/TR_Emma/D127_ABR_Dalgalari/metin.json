@@ -1,0 +1,921 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D127_ABR_Dalgalari_TR",
+ "kapak": {
+  "ust": "DERS 127",
+  "baslik": "*ABR* dalgaları<br>ve latanslar",
+  "alt": "Dalga I ile V: kaynaklar ve normal değerler",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "ABR Dalgaları I-V: Kaynakları ve Normal Latanslar | Ders 127 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitsel beyin sapı yanıtında (ABR) dalga I ile dalga V arasındaki tepelerin nereden kaynaklandığını ve yetişkinde normal mutlak ve dalgalar arası latansları anlatıyoruz. Dalga işaretleme, V/I genlik oranı ve latansı etkileyen etkenleri örneklerle ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ABR",
+   "işitme"
+  ],
+  "etiketler": [
+   "ABR",
+   "auditory brainstem response",
+   "işitsel beyin sapı yanıtı",
+   "ABR dalgaları",
+   "dalga V",
+   "interpeak latency",
+   "dalgalar arası latans",
+   "elektrofizyoloji",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 127",
+   "baslik": "ABR dalgaları I-V ve *latanslar*",
+   "alt": "Dalgaların kaynakları ve normal latans değerleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel beyin sapı yanıtının dalgalarını, bu dalgaların nereden kaynaklandığını ve normal latans değerlerini öğreneceğiz.",
+    "Bir önceki derste elektrotları yerleştirmiştik; şimdi ekrandaki kaydı okumayı öğreniyoruz."
+   ]
+  },
+  {
+   "id": "abr_nedir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ABR'nin temeli",
+   "baslik": "*ABR* neyi kaydeder?",
+   "maddeler": [
+    {
+     "metin": "Sese _eş zamanlı_ elektriksel yanıt",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Uyarandan sonraki ilk _10 ms_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Çok küçük: genellikle _1 mikrovolt_ altı",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yüzlerce, binlerce _tekrarın_ ortalaması",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ORTALAMA",
+    "metin": "Yanıt korunur, rastgele *gürültü* söner",
+    "cumle": 4
+   },
+   "cumleler": [
+    "İşitsel beyin sapı yanıtı, kısaca ABR, sese karşı işitme siniri ve beyin sapında oluşan elektriksel etkinliğin kaydıdır.",
+    "Bu yanıt, uyaranın hemen ardından gelen ilk yaklaşık on milisaniye içinde ortaya çıkar.",
+    "Genliği çok küçüktür, genellikle bir mikrovoltun altındadır ve arka plandaki EEG etkinliğinin içinde kaybolur.",
+    "Bu yüzden aynı uyaran çok kez verilir, çoğu zaman bin ile iki bin tekrar ortalanır.",
+    "Ortalama alma işleminde uyarana bağlı yanıt korunur, rastgele gürültü ise giderek söner."
+   ]
+  },
+  {
+   "id": "adlandirma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ABR'nin temeli",
+   "baslik": "Dalgaların *adlandırılması*",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_III",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Dalga I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_III",
+     "metin": "Dalga III",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Dalga V: en dayanıklı",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tepeler _Romen rakamlarıyla_: I ile VII",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "İlk tanım: _Jewett ve Williston_",
+     "cumle": 1,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Dalga IV çoğu zaman _V ile birleşik_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Kayıtta görülen tepeler Romen rakamlarıyla, I'den VII'ye kadar numaralandırılır.",
+     "ses": "Kayıtta görülen tepeler Romen rakamlarıyla, birden yediye kadar numaralandırılır."
+    },
+    "Bu adlandırma, yanıtı insanda ilk tanımlayan Jewett ve Williston'ın yetmişli yılların başındaki çalışmalarına dayanır.",
+    {
+     "yazi": "Klinikte en çok dalga I, III ve V kullanılır; çünkü en tutarlı biçimde kaydedilen tepeler bunlardır.",
+     "ses": "Klinikte en çok dalga bir, üç ve beş kullanılır; çünkü en tutarlı biçimde kaydedilen tepeler bunlardır."
+    },
+    {
+     "yazi": "Dalga II ve IV daha değişkendir; özellikle dalga IV çoğu zaman dalga V ile birleşerek tek bir kompleks oluşturur.",
+     "ses": "Dalga iki ve dört daha değişkendir; özellikle dalga dört çoğu zaman dalga beş ile birleşerek tek bir kompleks oluşturur."
+    },
+    {
+     "yazi": "Dalga V en büyük ve en dayanıklı dalgadır; şiddet azaldıkça diğerleri kaybolsa da eşiğe yakın düzeylere kadar izlenebilir.",
+     "ses": "Dalga beş en büyük ve en dayanıklı dalgadır; şiddet azaldıkça diğerleri kaybolsa da eşiğe yakın düzeylere kadar izlenebilir."
+    }
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ABR'nin temeli",
+   "baslik": "ABR *nerelerde* kullanılır?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Eşik tahmini",
+     "metin": "Bebek ve küçük çocukta",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Yenidoğan taraması",
+     "metin": "Otomatik ABR",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Retrokoklear",
+     "metin": "Sinir ve beyin sapı",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Ameliyatta izlem",
+     "metin": "İşitme siniri işlevi",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "İşitsel nöropati",
+     "metin": "OAE ile birlikte",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "ABR, davranışsal test yapılamayan bebek ve küçük çocuklarda işitme eşiğini tahmin etmek için kullanılır.",
+    "Otomatik ABR cihazları, özellikle yoğun bakım geçmişi olan yenidoğanların işitme taramasında yaygın olarak kullanılır.",
+    "Dalga latansları, işitme siniri ve beyin sapı düzeyindeki, yani retrokoklear sorunların değerlendirilmesine yardım eder.",
+    "Bazı kulak ve beyin cerrahisi girişimlerinde, işitme sinirinin işlevini izlemek için ABR kaydı sürdürülür.",
+    "Ayrıca otoakustik emisyon, kısaca OAE ile birlikte yorumlandığında işitsel nöropati spektrum bozukluğunun fark edilmesini sağlar.",
+    "Bu derste odak noktamız, tüm bu kullanımların temeli olan dalga yapısı ve latanslardır."
+   ]
+  },
+  {
+   "id": "kaynaklar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dalgaların kaynakları",
+   "baslik": "Dalgalar *nereden* gelir?",
+   "cizim": "isitme_yolu",
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "Dalga I ve II: işitme siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "Dalga III: koklear nükleus",
+     "cumle": 3
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Dalga IV: superior oliver kompleks",
+     "cumle": 4
+    },
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "Dalga V: lateral lemniskus",
+     "cumle": 5
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "Dalga V: inferior kollikulusa ulaşım",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kaynaklar ameliyat içi kayıtlarla gösterildi",
+     "cumle": 6,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "ABR dalgaları, sesin koklea, yani salyangozdan beyin sapına uzanan yolculuğunu adım adım izler.",
+    {
+     "yazi": "Dalga I, işitme sinirinin kokleaya yakın, yani distal ucundan kaynaklanır.",
+     "ses": "Dalga bir, işitme sinirinin kokleaya yakın, yani distal ucundan kaynaklanır."
+    },
+    {
+     "yazi": "Dalga II, işitme sinirinin beyin sapına giren proksimal kısmından gelir.",
+     "ses": "Dalga iki, işitme sinirinin beyin sapına giren proksimal kısmından gelir."
+    },
+    {
+     "yazi": "Dalga III'ün temel kaynağı, alt ponstaki koklear nükleus, yani koklear çekirdektir.",
+     "ses": "Dalga üçün temel kaynağı, alt ponstaki koklear nükleus, yani koklear çekirdektir."
+    },
+    {
+     "yazi": "Dalga IV büyük ölçüde superior oliver kompleksten, yani üst zeytin çekirdeklerinden kaynaklanır.",
+     "ses": "Dalga dört büyük ölçüde superior oliver kompleksten, yani üst zeytin çekirdeklerinden kaynaklanır."
+    },
+    {
+     "yazi": "Dalga V ise lateral lemniskusun inferior kollikulusa, yani alt tepeciğe ulaştığı bölgeden kaynaklanır.",
+     "ses": "Dalga beş ise lateral lemniskusun inferior kollikulusa, yani alt tepeciğe ulaştığı bölgeden kaynaklanır."
+    },
+    "Bu eşleştirmeler, büyük ölçüde beyin cerrahisi sırasında yapılan doğrudan kayıtlarla gösterilmiştir."
+   ]
+  },
+  {
+   "id": "katki",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dalgaların kaynakları",
+   "baslik": "Tek kaynak değil, *katkılar*",
+   "maddeler": [
+    {
+     "metin": "Dalga I ve II: _aynı taraf_ siniri",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Geç dalgalar: _iki taraflı_ katkı",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Her tepe: _birden çok_ yapının toplamı",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Dalga I periferi, V _beyin sapını_ yansıtır",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Dalga I ve II, uyarılan kulak tarafındaki işitme sinirinden gelir; bu yüzden o kulağa özgüdür.",
+     "ses": "Dalga bir ve iki, uyarılan kulak tarafındaki işitme sinirinden gelir; bu yüzden o kulağa özgüdür."
+    },
+    "Beyin sapında yukarı çıktıkça yollar çaprazlaşır ve geç dalgalara her iki taraftan katkı gelir.",
+    {
+     "yazi": "Ayrıca dalga I sonrasındaki her tepe, tek bir çekirdekten değil, birden çok yapının birlikte oluşturduğu etkinlikten doğar.",
+     "ses": "Ayrıca dalga bir sonrasındaki her tepe, tek bir çekirdekten değil, birden çok yapının birlikte oluşturduğu etkinlikten doğar."
+    },
+    "Bu nedenle kaynak listesini, klinik yorum için kullanışlı bir sadeleştirme olarak düşünmek gerekir.",
+    {
+     "yazi": "Klinikte asıl önemli olan, dalga I'in periferi, dalga V'in ise beyin sapının üst kısmını temsil etmesidir.",
+     "ses": "Klinikte asıl önemli olan, dalga birin periferi, dalga beşin ise beyin sapının üst kısmını temsil etmesidir."
+    },
+    "Böylece iki dalga arasındaki süre, sinyalin beyin sapında ne kadar hızlı ilerlediğini gösterir.",
+    "Bu süreye beyin sapı iletim zamanı da denir ve birazdan normal değerlerini göreceğiz."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 0
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 4
+     },
+     {
+      "parca": "latans_I_V",
+      "cumle": 5
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "latans_I_V",
+      "metin": "beyin sapı iletim zamanı",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "ecoli",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dalgaların kaynakları",
+   "baslik": "Akılda tutmak: *E COLI*",
+   "adimlar": [
+    {
+     "ikon": "noron",
+     "baslik": "E: eighth nerve",
+     "metin": "İşitme siniri",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "C: cochlear nucleus",
+     "metin": "Koklear nükleus",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "O: olivary complex",
+     "metin": "Superior oliver kompleks",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "L: lateral lemniscus",
+     "metin": "Lateral lemniskus",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "I: inferior colliculus",
+     "metin": "İnferior kollikulus",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Kaynak sırasını hatırlamak için İngilizce E COLI kısaltması kullanılabilir.",
+     "ses": "Kaynak sırasını hatırlamak için İngilizce e koli kısaltması kullanılabilir."
+    },
+    "E harfi, sekizinci kafa sinirini, yani işitme sinirini hatırlatır.",
+    {
+     "yazi": "C koklear nükleusu, O ise superior oliver kompleksi gösterir.",
+     "ses": "Ce koklear nükleusu, o ise superior oliver kompleksi gösterir."
+    },
+    {
+     "yazi": "L dalga V ile lateral lemniskusu, son harf I ise klasik eşlemede dalga VI ve VII ile inferior kollikulusu hatırlatır.",
+     "ses": "Le dalga beş ile lateral lemniskusu, son harf i ise klasik eşlemede dalga altı ve yedi ile inferior kollikulusu hatırlatır."
+    },
+    "Bu sıralama, sinyalin beyin sapında aşağıdan yukarı izlediği yolu da özetler."
+   ]
+  },
+  {
+   "id": "mutlak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normal latanslar",
+   "baslik": "Mutlak *latans*",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Dalga I: yaklaşık 1,6 ms",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_III",
+     "metin": "Dalga III: yaklaşık 3,7 ms",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Dalga V: yaklaşık 5,6 ms",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yetişkin, yüksek şiddette klik",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Değerler yaklaşık, kliniğe göre değişir",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Mutlak latans, uyaranın verildiği andan bir dalganın tepesine kadar geçen süredir.",
+    {
+     "yazi": "Yetişkinde yüksek şiddette bir klik ile dalga I genellikle yaklaşık 1,5 ile 1,7 milisaniyede görülür.",
+     "ses": "Yetişkinde yüksek şiddette bir klik ile dalga bir genellikle yaklaşık bir buçuk ile bir virgül yedi milisaniyede görülür."
+    },
+    {
+     "yazi": "Dalga III yaklaşık 3,7 milisaniye civarındadır.",
+     "ses": "Dalga üç yaklaşık üç virgül yedi milisaniye civarındadır."
+    },
+    {
+     "yazi": "Dalga V ise yaklaşık 5,5 ile 6 milisaniye arasında yer alır.",
+     "ses": "Dalga beş ise yaklaşık beş buçuk ile altı milisaniye arasında yer alır."
+    },
+    "Bu değerler örnek niteliğindedir; her klinik, kendi cihazı ve protokolüyle elde ettiği normları kullanmalıdır.",
+    {
+     "yazi": "Yüksek şiddet derken genellikle 70 ile 80 dB nHL düzeyindeki bir klik kastedilir.",
+     "ses": "Yüksek şiddet derken genellikle yetmiş ile seksen desibel nHL düzeyindeki bir klik kastedilir."
+    }
+   ]
+  },
+  {
+   "id": "ipl",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normal latanslar",
+   "baslik": "Dalgalar arası *latans*",
+   "sutunlar": [
+    "Aralık",
+    "Yaklaşık değer",
+    "Yansıttığı bölge"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "I-III",
+      "yaklaşık 2 ms",
+      "Sinir ve alt pons"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "III-V",
+      "yaklaşık 2 ms",
+      "Üst beyin sapı"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "I-V",
+      "yaklaşık 4 ms",
+      "Tüm beyin sapı iletimi"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Dalgalar arası latans, İngilizce adıyla interpeak latency, kısaca IPL, iki dalga tepesi arasındaki süredir.",
+    {
+     "yazi": "I-III aralığı yaklaşık 2 milisaniyedir ve işitme sinirinden alt ponsa kadar olan iletimi yansıtır.",
+     "ses": "Bir ile üç arası yaklaşık iki milisaniyedir ve işitme sinirinden alt ponsa kadar olan iletimi yansıtır."
+    },
+    {
+     "yazi": "III-V aralığı da yaklaşık 2 milisaniyedir ve beyin sapının üst kısmındaki iletimi yansıtır.",
+     "ses": "Üç ile beş arası da yaklaşık iki milisaniyedir ve beyin sapının üst kısmındaki iletimi yansıtır."
+    },
+    {
+     "yazi": "I-V aralığı ise yaklaşık 4 milisaniyedir ve beyin sapı iletim süresinin en çok kullanılan göstergesidir.",
+     "ses": "Bir ile beş arası ise yaklaşık dört milisaniyedir ve beyin sapı iletim süresinin en çok kullanılan göstergesidir."
+    },
+    {
+     "yazi": "Yetişkinde I-V aralığının üst sınırı genellikle 4,4 ile 4,5 milisaniye civarında kabul edilir.",
+     "ses": "Yetişkinde bir ile beş arasının üst sınırı genellikle dört virgül dört ile dört buçuk milisaniye civarında kabul edilir."
+    },
+    "Dalgalar arası latansın gücü, dış ve orta kulaktaki sorunlardan büyük ölçüde etkilenmemesidir.",
+    "Çünkü iletim tipi bir kayıp tüm dalgaları birlikte geciktirir ve aradaki süre pek değişmez."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normal latanslar",
+   "baslik": "Latansı *etkileyen* etkenler",
+   "maddeler": [
+    {
+     "metin": "_Şiddet_: azaldıkça latans uzar",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Yaş_: bebekte latanslar daha uzun",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_Cinsiyet_: kadınlarda biraz daha kısa",
+     "cumle": 4,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Vücut ısısı_: hipotermi latansı uzatır",
+     "cumle": 5,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "_Uyaran hızı_: hız artınca uzar",
+     "cumle": 6,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Latanslar sabit değildir; şiddet azaldıkça tüm dalgaların latansı uzar.",
+    {
+     "yazi": "Örneğin dalga V, eşiğe yakın şiddetlerde yaklaşık 7 ile 8 milisaniyeye kadar uzayabilir.",
+     "ses": "Örneğin dalga beş, eşiğe yakın şiddetlerde yaklaşık yedi ile sekiz milisaniyeye kadar uzayabilir."
+    },
+    "Yenidoğanda latanslar ve özellikle dalgalar arası süreler yetişkinden daha uzundur.",
+    "Beyin sapı yolları olgunlaştıkça bu değerler kısalır ve genellikle iki yaş civarında yetişkin değerlerine yaklaşır.",
+    "Kadınlarda latanslar, erkeklere göre genellikle bir miktar daha kısadır.",
+    "Vücut ısısının düşmesi, yani hipotermi, latansları uzatır; bu durum yoğun bakım ve ameliyathane kayıtlarında önemlidir.",
+    {
+     "yazi": "Uyaran hızı arttıkça özellikle dalga V'in latansı uzar ve erken dalgaların genliği azalır.",
+     "ses": "Uyaran hızı arttıkça özellikle dalga beşin latansı uzar ve erken dalgaların genliği azalır."
+    },
+    "Uyku ve sedasyon ise ABR'yi anlamlı ölçüde etkilemez; bu, yöntemin bebeklerde kullanılabilmesinin temel nedenidir."
+   ]
+  },
+  {
+   "id": "bebek_yetiskin",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normal latanslar",
+   "baslik": "Yenidoğan ve *yetişkin* ABR",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Term yenidoğan",
+     "metin": "Latans uzun, I-V yaklaşık 5 ms",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Yetişkin",
+     "metin": "Latans kısa, I-V yaklaşık 4 ms",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Yenidoğan ve yetişkin kayıtları arasında belirgin farklar vardır.",
+    {
+     "yazi": "Term yenidoğanda I-V aralığı yaklaşık 5 milisaniyedir; yetişkinde ise yaklaşık 4 milisaniyedir.",
+     "ses": "Term yenidoğanda bir ile beş arası yaklaşık beş milisaniyedir; yetişkinde ise yaklaşık dört milisaniyedir."
+    },
+    {
+     "yazi": "Yenidoğanda dalga I görece belirgin, dalga V ise daha küçük olabilir; bu yüzden V/I oranı yetişkin ölçütleriyle yorumlanmaz.",
+     "ses": "Yenidoğanda dalga bir görece belirgin, dalga beş ise daha küçük olabilir; bu yüzden beş bölü bir oranı yetişkin ölçütleriyle yorumlanmaz."
+    },
+    "Prematüre bebeklerde latanslar daha da uzundur ve düzeltilmiş yaşa göre normlar kullanılır.",
+    "Bu nedenle bebek kayıtları her zaman yaşa uygun normlarla karşılaştırılmalıdır."
+   ]
+  },
+  {
+   "id": "isaretleme",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kaydı okumak",
+   "baslik": "Dalga V nasıl *işaretlenir?*",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Negatif inişten önceki tepe",
+     "cumle": 4
+    },
+    {
+     "parca": "dalga_I",
+     "metin": "İlk belirgin pozitif tepe",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "En az iki tekrarlanan kayıt",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Dalgaları işaretlerken önce kaydın tekrarlanabilir olup olmadığına bakılır.",
+    "Bunun için aynı koşullarda en az iki ayrı kayıt alınır ve üst üste konur.",
+    "Yalnız iki kayıtta da aynı yerde görülen bir tepe gerçek yanıt kabul edilir.",
+    {
+     "yazi": "Dalga IV ve V çoğu zaman birleşik bir kompleks oluşturur.",
+     "ses": "Dalga dört ve beş çoğu zaman birleşik bir kompleks oluşturur."
+    },
+    {
+     "yazi": "Dalga V, bu kompleksten sonra gelen belirgin negatif inişten hemen önceki tepe olarak işaretlenir.",
+     "ses": "Dalga beş, bu kompleksten sonra gelen belirgin negatif inişten hemen önceki tepe olarak işaretlenir."
+    },
+    {
+     "yazi": "Dalga I ise ilk belirgin pozitif tepedir; iletim tipi ya da yüksek frekans kaybında küçülebilir veya kaybolabilir.",
+     "ses": "Dalga bir ise ilk belirgin pozitif tepedir; iletim tipi ya da yüksek frekans kaybında küçülebilir veya kaybolabilir."
+    }
+   ]
+  },
+  {
+   "id": "ayarlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kaydı okumak",
+   "baslik": "Kayıt *ayarları*",
+   "maddeler": [
+    {
+     "metin": "Analiz penceresi: _10 ile 15 ms_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Filtre, örnek: _100 ile 3000 Hz_",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "_1000 ile 2000_ tekrar, en az iki kayıt",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kesirli uyaran hızı, örnek: _21,1/sn_",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Nörolojik amaçlı klik kaydında analiz penceresi genellikle on ile on beş milisaniyedir.",
+    "Bebeklerde ve düşük şiddetlerde latanslar uzadığı için bu pencere genişletilir.",
+    "Kayıt, yaklaşık yüz ile üç bin hertz arasını geçiren bir filtreyle yapılır; bebeklerde alt sınır daha düşük tutulabilir.",
+    "Her kayıtta genellikle bin ile iki bin tekrar ortalanır ve kayıt en az bir kez yinelenir.",
+    "Uyaran hızı, şebeke elektriğinin frekansına denk gelmemesi için saniyede yirmi bir virgül bir gibi kesirli değerlerle seçilir.",
+    "Uyaran türü ve polaritesi gibi ayrıntıları bir sonraki dersimizde ele alacağız."
+   ]
+  },
+  {
+   "id": "genlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kaydı okumak",
+   "baslik": "Genlik ve *V/I oranı*",
+   "maddeler": [
+    {
+     "metin": "Genlik: tepe ile ardındaki _çukur_ farkı",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Genlik, latanstan _daha değişkendir_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Yetişkinde dalga V genellikle _daha büyük_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Belirgin düşük V/I: _dikkat_ işareti",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Genlik, bir dalganın tepesi ile ardından gelen çukur arasındaki voltaj farkıdır ve mikrovolt ile ölçülür.",
+    "Genlik kişiden kişiye çok değiştiği için yorumda latansa göre daha az ağırlık taşır.",
+    {
+     "yazi": "Yine de oran kullanışlıdır: yetişkinde dalga V'in genliği genellikle dalga I'inkinden büyüktür.",
+     "ses": "Yine de oran kullanışlıdır: yetişkinde dalga beşin genliği genellikle dalga birinkinden büyüktür."
+    },
+    {
+     "yazi": "V/I genlik oranının belirgin biçimde düşük olması, beyin sapı düzeyinde bir soruna işaret edebilir.",
+     "ses": "Beş bölü bir genlik oranının belirgin biçimde düşük olması, beyin sapı düzeyinde bir soruna işaret edebilir."
+    },
+    "Bu oran tek başına bir sonuç koydurmaz; latans bulguları ve diğer testlerle birlikte değerlendirilir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "dalga I",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "metin": "dalga V",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Dalga I zayıfsa kulak kanalı elektrodu (tiptrode) deneyin; dalga I belirginleşir ve I-V aralığı ölçülebilir.",
+   "cumleler": [
+    {
+     "yazi": "Bir klinik ipucu: yüksek frekans kaybı olan kişilerde dalga I çoğu zaman küçük ve belirsizdir.",
+     "ses": "Bir klinik ipucu: yüksek frekans kaybı olan kişilerde dalga bir çoğu zaman küçük ve belirsizdir."
+    },
+    {
+     "yazi": "Böyle durumlarda kulak memesi yerine, kulak kanalına takılan altın folyo kaplı köpük uçlu elektrot, yani tiptrode kullanılabilir.",
+     "ses": "Böyle durumlarda kulak memesi yerine, kulak kanalına takılan altın folyo kaplı köpük uçlu elektrot, yani tiptrod kullanılabilir."
+    },
+    {
+     "yazi": "Elektrot kokleaya daha yakın olduğu için dalga I'in genliği artar.",
+     "ses": "Elektrot kokleaya daha yakın olduğu için dalga birin genliği artar."
+    },
+    {
+     "yazi": "Böylece I-V aralığı ölçülebilir hale gelir ve yorum güçlenir.",
+     "ses": "Böylece bir ile beş arası ölçülebilir hale gelir ve yorum güçlenir."
+    }
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kaydı okumak",
+   "baslik": "Bulgular *ne anlatır?*",
+   "maddeler": [
+    {
+     "metin": "Hepsi geç, aralıklar normal: _periferik_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "I-V uzun: _beyin sapı_ iletimi",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Dalga I var, V yok: _ileri inceleme_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kulaklar arası dalga V farkı: _asimetri_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Tüm dalgalar gecikmiş ama dalgalar arası süreler normalse, gecikmenin kaynağı genellikle periferdedir.",
+    "Bu tablo özellikle iletim tipi işitme kaybında görülür.",
+    {
+     "yazi": "I-V aralığının uzaması ise sinyalin beyin sapında yavaş ilerlediğini düşündürür ve retrokoklear açıdan dikkat gerektirir.",
+     "ses": "Bir ile beş arasının uzaması ise sinyalin beyin sapında yavaş ilerlediğini düşündürür ve retrokoklear açıdan dikkat gerektirir."
+    },
+    {
+     "yazi": "Dalga I görülüp dalga V'in hiç kaydedilmemesi de ileri inceleme gerektiren bir bulgudur.",
+     "ses": "Dalga bir görülüp dalga beşin hiç kaydedilmemesi de ileri inceleme gerektiren bir bulgudur."
+    },
+    {
+     "yazi": "İki kulak arasında dalga V latansının belirgin farklı olması da önemlidir; bunu nörolojik ABR dersinde ele alacağız.",
+     "ses": "İki kulak arasında dalga beş latansının belirgin farklı olması da önemlidir; bunu nörolojik ABR dersinde ele alacağız."
+    },
+    "Buradaki yorumlar örnek niteliğindedir; tanı her zaman hekim değerlendirmesi ve test bataryası ile konur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Dalga I ve II: _işitme siniri_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Dalga III koklear nükleus, V _lateral lemniskus_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Dalga V yaklaşık _5,5 ile 6 ms_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "I-V aralığı yaklaşık _4 ms_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Dalga I ve II işitme sinirinden kaynaklanır.",
+     "ses": "Dalga bir ve iki işitme sinirinden kaynaklanır."
+    },
+    {
+     "yazi": "Dalga III koklear nükleusu, dalga V ise lateral lemniskus ve inferior kollikulus bölgesini yansıtır.",
+     "ses": "Dalga üç koklear nükleusu, dalga beş ise lateral lemniskus ve inferior kollikulus bölgesini yansıtır."
+    },
+    {
+     "yazi": "Yetişkinde yüksek şiddette dalga V yaklaşık 5,5 ile 6 milisaniyede görülür.",
+     "ses": "Yetişkinde yüksek şiddette dalga beş yaklaşık beş buçuk ile altı milisaniyede görülür."
+    },
+    {
+     "yazi": "I-V aralığı yaklaşık 4 milisaniyedir ve beyin sapı iletimini gösterir.",
+     "ses": "Bir ile beş arası yaklaşık dört milisaniyedir ve beyin sapı iletimini gösterir."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Yetişkinde normal I-V dalgalar arası latans yaklaşık kaç ms?",
+   "secenekler": [
+    "Yaklaşık 1 ms",
+    "Yaklaşık 2 ms",
+    "Yaklaşık 4 ms",
+    "Yaklaşık 8 ms"
+   ],
+   "dogru": 2,
+   "aciklama": "I-V aralığı yaklaşık _4 ms_; I-III ve III-V aralıklarının her biri yaklaşık 2 ms.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Yetişkinde normal I-V dalgalar arası latans yaklaşık kaç milisaniyedir?",
+     "ses": "Kendinizi test edin: Yetişkinde normal bir ile beş dalgalar arası latans yaklaşık kaç milisaniyedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: yaklaşık dört milisaniye.",
+    {
+     "yazi": "İki milisaniye ise I-III ve III-V aralıklarının her birine karşılık gelir.",
+     "ses": "İki milisaniye ise bir ile üç ve üç ile beş aralıklarının her birine karşılık gelir."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "ABR uyaranları: *klik*, tonburst ve chirp",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ABR'de kullanılan klik, tonburst ve chirp uyaranlarını karşılaştıracağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

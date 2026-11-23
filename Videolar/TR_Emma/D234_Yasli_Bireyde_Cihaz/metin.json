@@ -1,0 +1,663 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D234_Yasli_Bireyde_Cihaz_TR",
+ "kapak": {
+  "ust": "DERS 234",
+  "baslik": "Yaşlı bireyde<br>*cihaz uygulaması*",
+  "alt": "Biliş, el becerisi ve bakım veren",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Yaşlı bireyde değerlendirme ve cihaz uygulaması | Ders 234 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Yaşlı bireyde işitme cihazı uygulaması nasıl planlanır? Bu derste bilişsel taramanın yerini, el becerisi ve görmenin cihaz seçimine etkisini, geri anlatma yöntemiyle eğitimi, bakım verenin rolünü, iletişim stratejilerini ve takip planını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Weinstein, Geriatric Audiology; American Academy of Audiology, Guidelines for the Audiologic Management of Adult Hearing Impairment; Nasreddine ve ark. (2005), The Montreal Cognitive Assessment (MoCA), Journal of the American Geriatrics Society; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "yaşlılık"
+  ],
+  "etiketler": [
+   "yaşlı bireyde işitme cihazı",
+   "geriatrik odyoloji",
+   "bilişsel tarama",
+   "cognitive screening",
+   "el becerisi",
+   "dexterity",
+   "bakım veren",
+   "caregiver",
+   "geri anlatma",
+   "teach-back",
+   "şarjlı işitme cihazı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 234",
+   "baslik": "Yaşlı bireyde *cihaz uygulaması*",
+   "alt": "Biliş, el becerisi, görme ve bakım veren",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste yaşlı bireyin değerlendirmesinde odyogramın ötesine nasıl geçileceğini öğreneceğiz.",
+    "Bilişsel tarama, el becerisi ve görmenin cihaz seçimine etkisini, bakım verenin katılımını ve takibi ele alacağız."
+   ]
+  },
+  {
+   "id": "kisi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Bütüncül değerlendirme",
+   "baslik": "Odyogramın *ötesi*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "İşitme",
+     "cumle": 0,
+     "metin": "Eşik, konuşma, gürültü"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Biliş",
+     "cumle": 1,
+     "metin": "Bellek, öğrenme"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Görme",
+     "cumle": 2,
+     "metin": "Küçük parçalar, ekran"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "El becerisi",
+     "cumle": 3,
+     "metin": "Takma, pil, temizlik"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Genel sağlık",
+     "cumle": 4,
+     "metin": "Hastalıklar, ilaçlar"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Yaşam ortamı",
+     "cumle": 5,
+     "metin": "Yalnız mı, destek var mı?"
+    }
+   ],
+   "cumleler": [
+    "Yaşlı bireyde başarılı bir cihaz uygulaması, yalnızca odyograma göre değil, kişinin bütününe göre planlanır.",
+    "Bilişsel durum, yeni bir cihazın kullanımını öğrenmeyi ve hatırlamayı doğrudan etkiler.",
+    "Görme, küçük pili, mikrofon girişini ya da telefon uygulamasındaki yazıyı görmeyi belirler.",
+    "El becerisi (dexterity), yani parmakların ince hareket yeteneği, cihazı takmayı ve pil değiştirmeyi belirler.",
+    "Eklem hastalıkları, titreme ya da inme sonrası güçsüzlük gibi sağlık sorunları da kullanımı etkileyebilir.",
+    "Son olarak kişinin yalnız mı yaşadığı ve günlük yaşamda kimden destek aldığı sorulur."
+   ]
+  },
+  {
+   "id": "bilissel",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Bütüncül değerlendirme",
+   "baslik": "Bilişsel *tarama*",
+   "maddeler": [
+    {
+     "metin": "Tarama tanı değildir",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sözel testler işitmeden etkilenir",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Yükseltici, sessiz oda, yazılı yönerge",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Şüphede hekime yönlendir",
+     "cumle": 6,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "BİLİŞSEL TARAMA",
+    "metin": "Kısa bir tarama: *tanı koymaz*, yönlendirme kararına yardım eder",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Bilişsel tarama (cognitive screening), ileri değerlendirme gerekip gerekmediğini gösteren kısa bir testtir.",
+    "Tarama tanı koymaz; tanı hekim değerlendirmesiyle konur.",
+    "Montreal Bilişsel Değerlendirme, kısaca MoCA gibi yaygın tarama testleri yaklaşık on dakikada uygulanabilir.",
+    "Ancak bu testlerin çoğu sözel yönergelere dayanır ve duymadığı soruya yanlış yanıt veren kişinin puanı düşük çıkar.",
+    "Test sırasında kişisel ses yükseltici, sessiz bir oda ve yazılı yönergeler kullanmak bu yanılgıyı azaltır.",
+    "İşitme kaybı olan kişiler için uyarlanmış tarama sürümleri de geliştirilmiştir.",
+    "Tarama sonucu şüpheliyse kişi, onayı alınarak değerlendirme için hekime yönlendirilir.",
+    "Sonuç ayrıca cihaz seçimini ve danışmanlığı biçimlendirir: daha basit bir cihaz ve bakım verenin daha çok katılımı gerekebilir."
+   ]
+  },
+  {
+   "id": "beceri",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Cihaz seçimi",
+   "baslik": "El becerisi ve *cihaz seçimi*",
+   "maddeler": [
+    {
+     "metin": "Çok küçük cihaz, çok küçük pil",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Şarjlı cihaz: pil değişimi yok",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Daha büyük gövde, belirgin düğme",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Klinikte kişiye yaptırarak dene",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi_karsilastir",
+    "cumle": 0,
+    "ayar": {
+     "tipler": [
+      "RIC",
+      "CIC"
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "pil",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "En küçük kanal içi cihazlar estetik açıdan çekici görünse de, çok küçük gövde ve pil yaşlı parmaklar için zorlayıcıdır.",
+    "En küçük pil boyları, ince el becerisi ve iyi görme gerektirir.",
+    "Şarj edilebilir cihazlar pil değiştirme ihtiyacını ortadan kaldırır; cihaz her gece şarj yuvasına bırakılır.",
+    "Kulak arkası ya da alıcısı kanalda cihazlar daha büyük gövde ve daha belirgin düğmeler sunabilir.",
+    "Kalıp mı dom mu kullanılacağı da takma kolaylığına göre seçilir; bazı kişiler kalıbı daha kolay yönlendirir.",
+    "En güvenilir yöntem, kişiye klinikte cihazı takıp çıkarmasını ve şarj etmesini kendi elleriyle yaptırmaktır."
+   ]
+  },
+  {
+   "id": "gorme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Cihaz seçimi",
+   "baslik": "Görmeyi *desteklemek*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Renk kodu",
+     "cumle": 0,
+     "metin": "Sağ kırmızı, sol mavi"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Dokunsal işaret",
+     "cumle": 1,
+     "metin": "Kabartma nokta"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Büyüteç ve ışık",
+     "cumle": 2,
+     "metin": "Temizlikte yardım"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Büyük puntolu yönerge",
+     "cumle": 3,
+     "metin": "Resimli, adım adım"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Uygulama ayarı",
+     "cumle": 4,
+     "metin": "Büyük yazı, basit ekran"
+    }
+   ],
+   "cumleler": [
+    "Cihazların üzerindeki sağ için kırmızı, sol için mavi renk kodu, kulakları karıştırmayı önler.",
+    "Görmesi zayıf kişilerde cihaz ya da şarj yuvası üzerine dokunarak bulunabilecek küçük işaretler eklenebilir.",
+    "Temizlik ve filtre değişimi için iyi aydınlatma ve büyüteç kullanmak işi kolaylaştırır.",
+    "Yazılı yönergeler büyük puntolu, resimli ve adım adım hazırlanmalıdır.",
+    "Telefon uygulaması kullanılacaksa yazı boyutu büyütülür ve yalnızca gerekli işlevler gösterilir.",
+    "Görme kaybı aynı zamanda dudak okumayı da zayıflatır; bu yüzden işitmenin desteklenmesi bu kişilerde daha da önemlidir."
+   ]
+  },
+  {
+   "id": "engeller",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Cihaz seçimi",
+   "baslik": "Cihaz neden *çekmecede* kalır?",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Kullanım zorluğu",
+     "cumle": 0,
+     "metin": "Takamıyor, pil zor"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüde hayal kırıklığı",
+     "cumle": 1,
+     "metin": "Beklenti yüksek"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Konfor",
+     "cumle": 2,
+     "metin": "Kaşıntı, baskı, ıslık"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Damgalanma",
+     "cumle": 3,
+     "metin": "Yaşlı görünme kaygısı"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Takipsizlik",
+     "cumle": 4,
+     "metin": "Sorun çözülmedi"
+    }
+   ],
+   "cumleler": [
+    "Yaşlı kullanıcılarda cihazların bir kısmının kullanılmadan çekmecede kaldığı bilinir; en sık nedenlerden biri kullanım zorluğudur.",
+    "Gürültülü ortamda beklentinin karşılanmaması da hayal kırıklığı ve bırakma nedenidir.",
+    "Kaşıntı, baskı hissi, kendi sesini boğuk duyma ya da ıslık gibi konfor sorunları kullanım süresini kısaltır.",
+    "Bazı kişiler cihazın kendilerini yaşlı göstereceğinden kaygı duyar.",
+    "Bu engellerin çoğu düzenli takip ve küçük ayarlarla çözülebilir; sorun çoğu zaman cihazdan çok süreçtedir.",
+    "Bu yüzden ilk görüşmede bu engelleri kişiyle açıkça konuşmak, sonraki bırakmaları önlemenin ilk adımıdır."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uygulama ve eğitim",
+   "baslik": "Ayar *ilkeleri*",
+   "maddeler": [
+    {
+     "metin": "Hedefe göre ayar, ölçümle doğrula",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Alışma için kademeli artış",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Basit program yapısı",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Telebobin ve uzak mikrofon",
+     "cumle": 4,
+     "ikon": "telefon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "mikrofon",
+      "metin": "mikrofon",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Yaşlı bireyde de cihaz bir reçete formülünün hedefine göre ayarlanır ve gerçek kulak ölçümüyle doğrulanır.",
+    "İlk kez kullanan kişide kazanç, alışma döneminde hedefin biraz altından başlayıp kademeli olarak artırılabilir.",
+    "Ancak bu geçici bir adımdır; uzun süre hedefin çok altında kalmak, konuşmanın duyulabilirliğini azaltır.",
+    "Program sayısı az ve geçişler otomatik tutulursa, kişinin hatırlaması gereken işlem sayısı azalır.",
+    "Telefon, televizyon ve toplantı ortamları için telebobin ya da uzak mikrofon gibi destekler değerlendirilir.",
+    "Gürültüde konuşmanın cihazla da zor olabileceği önceden anlatılır; gerçekçi beklenti memnuniyeti artırır."
+   ]
+  },
+  {
+   "id": "egitim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uygulama ve eğitim",
+   "baslik": "Eğitimde *geri anlatma*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Anlat",
+     "cumle": 0,
+     "metin": "Kısa ve tek adım"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Göster",
+     "cumle": 1,
+     "metin": "Yavaşça, aynalı"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Yaptır",
+     "cumle": 2,
+     "metin": "Kişinin kendi eliyle"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Geri anlat",
+     "cumle": 3,
+     "metin": "Kendi sözleriyle"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Eve götür",
+     "cumle": 5,
+     "metin": "Resimli yönerge"
+    }
+   ],
+   "cumleler": [
+    "Eğitimde her seferinde tek bir beceri, kısa ve sade bir dille anlatılır.",
+    "Ardından beceri yavaşça gösterilir; kulağa takma için ayna kullanmak işe yarar.",
+    "Sonra kişi aynı işi kendi eliyle yapar; odyolog yalnızca gerektiğinde yardım eder.",
+    "Son adımda kişiden öğrendiğini kendi sözleriyle anlatması istenir; buna geri anlatma yöntemi (teach-back) denir.",
+    "Geri anlatma, kişinin anladığını varsaymak yerine gerçekten anladığını görmeyi sağlar.",
+    "Görüşme, eve götürülecek resimli ve adım adım bir yönergeyle tamamlanır."
+   ]
+  },
+  {
+   "id": "bakim_veren",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bakım veren",
+   "baslik": "Bakım verenin *rolü*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Görüşmeye katılım",
+     "cumle": 1,
+     "metin": "Öykü ve hedefler"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Günlük kullanım",
+     "cumle": 2,
+     "metin": "Takma, temizlik, şarj"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "İletişim stratejileri",
+     "cumle": 3,
+     "metin": "Evde uygulama"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Gözlem",
+     "cumle": 4,
+     "metin": "Kullanım ve sorunlar"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Güvenlik",
+     "cumle": 5,
+     "metin": "Pilleri saklama"
+    }
+   ],
+   "cumleler": [
+    "Bakım veren (caregiver), yaşlı bireyin günlük yaşamına destek olan aile bireyi ya da profesyonel kişidir.",
+    "Bakım verenin görüşmelere katılması, öyküyü ve hedefleri zenginleştirir.",
+    "Takma, temizlik ve şarj gibi günlük işlerde bakım verenin eğitilmesi, kullanımı belirgin biçimde artırabilir.",
+    "İletişim stratejilerini evde uygulayan da çoğu zaman bakım verendir.",
+    "Bakım veren, cihazın ne kadar kullanıldığını ve hangi durumlarda sorun çıktığını gözlemleyip takipte aktarabilir.",
+    "Bilişsel gerilemesi olan kişilerde düğme piller yutulabilir; piller ve cihazlar çocuklardan ve bu kişilerden uzakta saklanmalıdır.",
+    "Bakım verenin kendi yükü de göz ardı edilmemelidir; basit ve sürdürülebilir bir plan herkes için daha iyidir."
+   ]
+  },
+  {
+   "id": "iletisim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bakım veren",
+   "baslik": "İletişim *stratejileri*",
+   "maddeler": [
+    {
+     "metin": "Yüz yüze, ışık konuşanın yüzünde",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Önce dikkatini çek, adıyla seslen",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Gürültüyü azalt, televizyonu kapat",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Tekrarlama, başka sözlerle söyle",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Anlaşıldığını kontrol et",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sosyal_izolasyon",
+    "cumle": 0,
+    "ayar": {
+     "yalniz_cumle": 5
+    }
+   },
+   "cumleler": [
+    "Konuşurken yüz yüze olunmalı ve ışık konuşan kişinin yüzüne düşmelidir; böylece dudak ve yüz ipuçları görülür.",
+    "Konuşmaya başlamadan önce kişinin dikkati adıyla seslenerek çekilir.",
+    "Önemli konuşmalardan önce televizyon ya da radyo kapatılır, mümkünse sessiz bir köşe seçilir.",
+    "Anlaşılmayan bir cümle aynen tekrarlanmak yerine başka sözcüklerle söylenir.",
+    "Önemli bilgilerin, örneğin bir randevu saatinin, doğru anlaşıldığı kısaca sorularak kontrol edilir.",
+    "Bu stratejiler cihazın yerini almaz; onunla birlikte kullanıldığında sosyal yaşama katılımı kolaylaştırır."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Takip",
+   "baslik": "Takip *planı*",
+   "adimlar": [
+    {
+     "ikon": "telefon",
+     "baslik": "İlk günler",
+     "cumle": 0,
+     "metin": "Kısa telefon görüşmesi"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İlk haftalar",
+     "cumle": 1,
+     "metin": "Kontrol ve ince ayar"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Veri kaydı",
+     "cumle": 2,
+     "metin": "Günlük kullanım süresi"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Sonuç ölçümü",
+     "cumle": 4,
+     "metin": "Anket ve hedefler"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Düzenli kontrol",
+     "cumle": 5,
+     "metin": "Yılda en az bir"
+    }
+   ],
+   "cumleler": [
+    "Uygulamadan sonraki ilk günlerde kısa bir telefon görüşmesi, küçük sorunları büyümeden yakalar.",
+    "İlk haftalarda yapılan kontrolde konfor, ses kalitesi ve kullanım sorunları ele alınır, ince ayar yapılır.",
+    "Cihazın veri kaydı, günlük kullanım süresini ve hangi ortamlarda kullanıldığını objektif olarak gösterir.",
+    "Kullanım düşükse nedeni suçlamadan, merakla araştırılır; çoğu zaman çözülebilir bir engel vardır.",
+    "Birkaç ay sonra standart anketler ve kişinin kendi hedefleriyle sonuç değerlendirilir.",
+    "Sonrasında işitmenin ve cihazın durumu için en az yılda bir kontrol önerilir; yaşla birlikte ihtiyaçlar değişebilir."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Takip",
+   "baslik": "Özel *durumlar*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "Bakımevi",
+     "cumle": 0,
+     "metin": "Personel eğitimi"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Demans",
+     "cumle": 2,
+     "metin": "Basit cihaz, güçlü destek"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Çok ileri kayıp",
+     "cumle": 4,
+     "metin": "İmplant değerlendirmesi"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "İkili duyu kaybı",
+     "cumle": 5,
+     "metin": "İşitme ve görme birlikte"
+    }
+   ],
+   "cumleler": [
+    "Bakımevinde yaşayan kişilerde cihazın kullanımı büyük ölçüde personele bağlıdır; personel eğitimi bu yüzden kritiktir.",
+    "Cihazların kaybolmaması için isim etiketi ve sabit bir saklama yeri belirlemek pratik bir önlemdir.",
+    "Demansı olan kişilerde amaç, en basit kullanım ve güçlü bakım veren desteğiyle iletişimi kolaylaştırmaktır.",
+    "Bu kişilerde iletişimin iyileşmesi huzursuzluğu azaltıp günlük bakımı kolaylaştırabilir.",
+    "Cihazla yeterli yarar görmeyen çok ileri kayıplı yaşlılar, yaş tek başına engel olmadan koklear implant açısından değerlendirilebilir.",
+    "İşitme ve görme kaybı birlikte varsa, iki alanın uzmanlarıyla birlikte çalışmak gerekir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "İlk uygulama gününde kişi cihazı kendi elleriyle birkaç kez takıp çıkarmadan ve şarj etmeden görüşmeyi bitirmeyin. Ayna ve yazılı yönerge kullanın.",
+   "cumleler": [
+    "Sahadan bir ipucu: ilk uygulama gününde kişi cihazı kendi elleriyle en az birkaç kez takıp çıkarmadan görüşmeyi bitirmeyin.",
+    "Şarj yuvasına yerleştirme ve pil ya da filtre değişimi de mutlaka kişiye yaptırılmalıdır.",
+    "Klinikte odyoloğun yardımıyla yapılan bir işlem, evde tek başına yapılamayabilir.",
+    "Zorlanılan adım varsa cihaz ya da kalıp seçimi o gün yeniden değerlendirilir; sorun evde fark edilmeden önce çözülür.",
+    "Bakım veren görüşmedeyse aynı adımları ona da yaptırın; evde ikinci bir yardımcı olur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Biliş, görme, el becerisi birlikte değerlendirilir",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Tarama tanı koymaz, gerekirse yönlendir",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Cihaz seçimi beceriye göre yapılır",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Bakım veren ve takip başarıyı belirler",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "Yaşlı bireyde değerlendirme işitmenin yanında bilişi, görmeyi, el becerisini ve yaşam ortamını kapsar.",
+    "Bilişsel tarama tanı koymaz; işitme kaybının sözel test puanını düşürebileceği unutulmadan uygulanır.",
+    "Cihaz ve kalıp seçimi kişinin klinikte gösterdiği gerçek beceriye göre yapılır; şarjlı cihazlar işi kolaylaştırabilir.",
+    "Geri anlatma yöntemiyle eğitim, bakım verenin katılımı ve planlı takip kullanımın sürmesini sağlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Yaşlı bireyde cihaz eğitiminde geri anlatma yöntemi neyi amaçlar?",
+   "secenekler": [
+    "Eğitimi kısaltmayı",
+    "Gerçekten anlaşıldığını görmeyi",
+    "Bakım vereni dışlamayı",
+    "Yazılı yönergeyi kaldırmayı"
+   ],
+   "dogru": 1,
+   "aciklama": "Kişi öğrendiğini kendi sözleriyle anlatır: _anladığı varsayılmaz, görülür_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: yaşlı bireyde cihaz eğitiminde kullanılan geri anlatma yöntemi neyi amaçlar?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kişinin gerçekten anladığını görmeyi.",
+    "Kişi öğrendiğini kendi sözleriyle anlatır; böylece eksik kalan adım klinikte fark edilir ve tamamlanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Koklear implant *nasıl çalışır?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste cihazdan yeterli yarar görmeyenler için koklear implantın nasıl çalıştığını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,633 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D221_Endustriyel_Odyoloji_TR",
+ "kapak": {
+  "ust": "DERS 221",
+  "baslik": "Endüstriyel<br>*odyoloji*",
+  "alt": "İş yerinde gürültü",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Endüstriyel Odyolojiye Giriş: İş Yerinde Gürültü | Ders 221 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Gürültüye bağlı işitme kaybı kalıcıdır, ama büyük ölçüde önlenebilir. Bu derste endüstriyel odyolojinin amacını, mesleki gürültünün boyutunu, gürültü maruziyeti ve gürültü dozu kavramlarını, gürültü kontrolünde önlemlerin öncelik sırasını, işitme koruma programının bileşenlerini ve Türkiye'deki yasal çerçeveyi ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998); OSHA, 29 CFR 1910.95 Occupational Noise Exposure; Nelson ve ark., The global burden of occupational noise-induced hearing loss, American Journal of Industrial Medicine (2005); Avrupa Birliği 2003/10/AT gürültü yönergesi; Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik, Resmi Gazete 28.07.2013, sayı 28721; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işsağlığı",
+   "gürültü"
+  ],
+  "etiketler": [
+   "endüstriyel odyoloji",
+   "occupational audiology",
+   "iş yerinde gürültü",
+   "gürültü maruziyeti",
+   "noise exposure",
+   "gürültü dozu",
+   "işitme koruma programı",
+   "hearing conservation program",
+   "gürültüye bağlı işitme kaybı",
+   "gürültü yönetmeliği",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 221",
+   "baslik": "Endüstriyel *odyolojiye* giriş",
+   "alt": "İş yerinde gürültü ve işitme koruma",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste yeni bir modüle başlıyor ve endüstriyel odyolojiyi, yani iş yerinde işitmenin korunmasını öğreniyoruz.",
+    "Gürültü maruziyetini, gürültü dozu kavramını ve işitme koruma programının bileşenlerini ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Alan ve sorun",
+   "baslik": "Endüstriyel odyoloji *nedir?*",
+   "maddeler": [
+    {
+     "metin": "Çalışanın işitmesini korumak",
+     "cumle": 0,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Ölçüm, odyometri, koruyucu, eğitim",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "İş yeri hekimi ve uzmanlarla ekip",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Asıl hedef: _önlemek_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "test_odasi",
+      "cumle": 1
+     },
+     {
+      "parca": "odyometre",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Endüstriyel odyoloji (occupational audiology), çalışanların işitmesini iş yerindeki risklerden korumayı amaçlayan odyoloji alanıdır.",
+    "Gürültü ölçümü, işe giriş ve periyodik odyometri, kulak koruyucu seçimi ve eğitim bu alanın başlıca işleridir.",
+    "Odyolog bu süreçte iş yeri hekimi, iş güvenliği uzmanı ve işverenle birlikte çalışır.",
+    "Gürültüye bağlı işitme kaybı kalıcıdır, ama büyük ölçüde önlenebilir.",
+    "Bu yüzden endüstriyel odyolojinin asıl hedefi kaybı saptamak değil, kayıp oluşmadan önlemektir.",
+    "Bu çalışma, odyometri bilgisini iş sağlığı ve güvenliği mevzuatıyla birleştirmeyi gerektirir."
+   ]
+  },
+  {
+   "id": "boyut",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Alan ve sorun",
+   "baslik": "Sorunun *boyutu*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Dünyada",
+     "metin": "Kayıpların yaklaşık yüzde 16'sı",
+     "cumle": 0
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "ABD'de",
+     "metin": "22 milyondan fazla çalışan",
+     "cumle": 2
+    },
+    {
+     "ikon": "fabrika",
+     "baslik": "Riskli alanlar",
+     "metin": "Sanayi, inşaat, maden",
+     "cumle": 4
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kimyasallar",
+     "metin": "Ototoksik çözücüler",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Dünya Sağlık Örgütü için yapılan bir çalışmada, yetişkinlerdeki engelleyici işitme kaybının yaklaşık yüzde 16'sı mesleki gürültüye bağlandı.",
+    "Bu oran bölgeden bölgeye değişir ve gelişmekte olan bölgelerde daha yüksektir.",
+    "ABD'de 22 milyondan fazla çalışanın iş yerinde tehlikeli düzeyde gürültüye maruz kaldığı tahmin edilmektedir.",
+    "Mesleki gürültü erkekleri daha çok etkiler; çünkü yüksek gürültülü işlerde erkek çalışanların oranı daha fazladır.",
+    "Sanayi, inşaat, madencilik, tarım ve askeri ortamlar riskin yüksek olduğu başlıca alanlardır.",
+    "Gürültüye ek olarak bazı çözücüler gibi kimyasallar da işitmeye zarar verebilir; bunlara ototoksik kimyasallar denir."
+   ]
+  },
+  {
+   "id": "maruziyet",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Alan ve sorun",
+   "baslik": "Gürültü *maruziyeti*",
+   "cizim": "desibel_olcegi",
+   "etiketler": [
+    {
+     "parca": "konusma",
+     "metin": "günlük konuşma",
+     "cumle": 2
+    },
+    {
+     "parca": "konser",
+     "metin": "yüksek gürültü",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "konusma",
+     "cumle": 2
+    },
+    {
+     "parca": "trafik",
+     "cumle": 2
+    },
+    {
+     "parca": "konser",
+     "cumle": 3
+    },
+    {
+     "parca": "agri_esigi",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Düzey ve süre birlikte",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Darbe sesinde tepe değer",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Gürültü maruziyeti (noise exposure), bir çalışanın iş günü boyunca aldığı toplam ses enerjisidir.",
+    "Maruziyeti iki şey belirler: sesin düzeyi ve ne kadar süre devam ettiği.",
+    "Günlük konuşma yaklaşık 60 desibel civarındadır; yoğun trafik bunun belirgin biçimde üzerindedir.",
+    {
+     "yazi": "Pek çok sanayi makinesi 85 ile 100 dB(A) arasında ses üretebilir.",
+     "ses": "Pek çok sanayi makinesi seksen beş ile yüz desibel A arasında ses üretebilir."
+    },
+    "Çekiç, pres ya da atış gibi kısa ama çok yüksek darbe sesleri ayrıca tepe ses basıncıyla değerlendirilir.",
+    "Bu yüzden iş yerinde hem ortalama düzey hem de tepe değerler ölçülür.",
+    "Gürültünün zararı sesin hoşa gidip gitmemesine değil, taşıdığı enerjiye bağlıdır; sevilen müzik de zarar verebilir."
+   ]
+  },
+  {
+   "id": "doz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Doz ve önlemler",
+   "baslik": "Gürültü *dozu*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 9,
+     "adim": 1,
+     "ad": "88 dB(A) ortamda çalışma süresi (saat)"
+    },
+    "y": {
+     "min": 0,
+     "max": 220,
+     "adim": 50,
+     "ad": "Doz (yüzde)"
+    },
+    "seriler": [
+     {
+      "ad": "doz",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        25
+       ],
+       [
+        2,
+        50
+       ],
+       [
+        4,
+        100
+       ],
+       [
+        8,
+        200
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "doz",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yuzde100",
+      "x": 0,
+      "y": 100,
+      "cizgi": "yatay",
+      "etiket": "yüzde 100",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Referans: 85 dB(A), 8 saat",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "3 dB artış: süre yarıya",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "88 dB(A), 8 saat: yüzde 200",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Gürültü dozu (noise dose), çalışanın aldığı ses enerjisinin izin verilen günlük miktara oranıdır ve yüzde olarak ifade edilir.",
+    "Yüzde 100 doz, sekiz saatlik iş gününde referans düzeye eşit bir maruziyet demektir.",
+    {
+     "yazi": "Pek çok kılavuzda bu referans 85 dB(A) olarak alınır.",
+     "ses": "Pek çok kılavuzda bu referans seksen beş desibel A olarak alınır."
+    },
+    "Eşit enerji ilkesine göre ses 3 desibel arttığında enerji iki katına çıkar ve aynı doz yarı sürede dolar.",
+    {
+     "yazi": "Bu örnekte 88 dB(A) olan bir ortamda 4 saat çalışmak yüzde 100 doza ulaşmak için yeterlidir.",
+     "ses": "Bu örnekte seksen sekiz desibel A olan bir ortamda dört saat çalışmak yüzde yüz doza ulaşmak için yeterlidir."
+    },
+    "Aynı ortamda 8 saat çalışmak ise yüzde 200 doz anlamına gelir.",
+    "Gün içinde farklı düzeylerde geçen sürelerin dozları toplanarak günlük toplam doz bulunur.",
+    "Değişim oranını ve sınır değerleri bir sonraki derste ayrıntılı olarak karşılaştıracağız."
+   ]
+  },
+  {
+   "id": "hiyerarsi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Doz ve önlemler",
+   "baslik": "Önlemlerin *öncelik sırası*",
+   "ogeler": [
+    {
+     "ikon": "fabrika",
+     "baslik": "Kaynakta azalt",
+     "metin": "Sessiz makine, bakım",
+     "cumle": 1
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Yayılımı engelle",
+     "metin": "Kabin, yalıtım",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Süreyi sınırla",
+     "metin": "Dönüşüm, sessiz mola",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kişisel koruyucu",
+     "metin": "Son savunma hattı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Gürültüyle mücadelede önlemler bir öncelik sırasına göre uygulanır.",
+    "En etkili yol gürültüyü kaynağında azaltmaktır; örneğin daha sessiz bir makine seçmek ya da makinenin bakımını yapmak.",
+    "İkinci sırada gürültünün yayılmasını engelleyen mühendislik önlemleri gelir: makine kabini, ses ve titreşim yalıtımı.",
+    "Sonra idari önlemler gelir: çalışma süresini sınırlamak, gürültülü işleri dönüşümlü yapmak ve sessiz dinlenme alanları sağlamak.",
+    "Kişisel kulak koruyucular ise son savunma hattıdır; diğer önlemlerin yerine değil, yanında kullanılır.",
+    "Türkiye'deki yönetmelik de risklerin öncelikle kaynağında giderilmesini ya da en aza indirilmesini ister.",
+    "Yalnız koruyucuya güvenmenin bir sakıncası da gerçek kullanımda sağlanan korumanın çoğu zaman beklenenden az olmasıdır."
+   ]
+  },
+  {
+   "id": "program",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İşitme koruma programı",
+   "baslik": "İşitme koruma *programı*",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Ölçüm",
+     "metin": "Maruz kalanları belirle",
+     "cumle": 1
+    },
+    {
+     "ikon": "fabrika",
+     "baslik": "Kontrol",
+     "metin": "Mühendislik, idari",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Koruyucu",
+     "metin": "Seçim ve kullanım",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Odyometri",
+     "metin": "Başlangıç ve izlem",
+     "cumle": 4
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Eğitim",
+     "metin": "Risk ve kullanım",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İşitme koruma programı (hearing conservation program), gürültüye maruz çalışanların işitmesini korumaya yönelik sistemli bir programdır.",
+    "İlk bileşen gürültü ölçümü ve maruz kalan çalışanların belirlenmesidir.",
+    "İkinci bileşen, gürültüyü azaltan mühendislik ve idari önlemlerdir.",
+    "Üçüncü bileşen, çalışana uygun kulak koruyucunun seçilmesi ve doğru kullanımının sağlanmasıdır.",
+    "Dördüncü bileşen odyometrik izlemdir: işe giriş odyogramı ve düzenli aralıklarla tekrarlanan testler.",
+    "Beşinci bileşen eğitimdir; çalışan riskleri, koruyucunun nasıl takılacağını ve testlerin amacını öğrenir.",
+    "Kayıtların tutulması ve programın etkinliğinin düzenli olarak değerlendirilmesi de programın ayrılmaz parçalarıdır."
+   ]
+  },
+  {
+   "id": "mevzuat",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İşitme koruma programı",
+   "baslik": "Türkiye'de *yasal çerçeve*",
+   "maddeler": [
+    {
+     "metin": "2013 gürültü yönetmeliği",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Avrupa Birliği yönergesiyle uyumlu",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Risk değerlendirmesi ve ölçüm",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "80 dB(A): koruyucu hazır, eğitim",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "85 dB(A): kullanım, işaret, test",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EYLEM DEĞERLERİ",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kulaklik",
+      "baslik": "80 dB(A)",
+      "metin": "Koruyucu hazır bulunur",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "85 dB(A)",
+      "metin": "Kullanım sağlanır, denetlenir",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Türkiye'de bu alan, 2013'te yayımlanan Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik ile düzenlenir.",
+    "Yönetmelik, Avrupa Birliğinin 2003 tarihli gürültü yönergesiyle uyumludur.",
+    "İşveren risk değerlendirmesi yapar ve gerektiğinde gürültü ölçümü yaptırır.",
+    {
+     "yazi": "Günlük maruziyet 80 dB(A)'yı aşarsa kulak koruyucular kullanıma hazır bulundurulur ve çalışanlara eğitim verilir.",
+     "ses": "Günlük maruziyet seksen desibel A'yı aşarsa kulak koruyucular kullanıma hazır bulundurulur ve çalışanlara eğitim verilir."
+    },
+    {
+     "yazi": "85 dB(A) ve üzerinde koruyucuların kullanılması sağlanır ve denetlenir; çalışma alanları işaretlenir.",
+     "ses": "Seksen beş desibel A ve üzerinde koruyucuların kullanılması sağlanır ve denetlenir; çalışma alanları işaretlenir."
+    },
+    "Bu üst eylem değerini aşan çalışanların işitme testleri işveren tarafından yaptırılır.",
+    "Sınır ve eylem değerlerini bir sonraki derste ayrıntılı olarak ele alacağız."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Odyoloğun yeri",
+   "baslik": "Odyoloğun *görevleri*",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Güvenilir test",
+     "metin": "Kalibre cihaz, uygun ortam",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Karşılaştırma",
+     "metin": "Önceki testlerle",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Koruyucu uyumu",
+     "metin": "Seçim ve kontrol",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Rapor",
+     "metin": "İş yeri hekimine",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Endüstriyel odyolojide odyoloğun görevleri birkaç başlıkta toplanır.",
+    "Uygun ortamda ve doğru kalibre edilmiş cihazla güvenilir odyometri yapmak ilk görevdir.",
+    "Odyogramları önceki testlerle karşılaştırmak ve anlamlı değişiklikleri zamanında bildirmek ikinci görevdir.",
+    "Çalışana uygun koruyucuyu seçmek ve doğru taktığını kontrol etmek de odyoloğun katkı sağladığı bir alandır.",
+    "Eğitim ve motivasyon, programın başarısında en az teknik önlemler kadar önemlidir.",
+    "Odyolog bulguları iş yeri hekimine raporlar; tıbbi değerlendirme ve işe uygunluk kararı hekime aittir.",
+    "Çalışanların sorularını yanıtlamak, koruyucu kullanımına ve programa olan güveni de artırır."
+   ]
+  },
+  {
+   "id": "baslangic",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Odyoloğun yeri",
+   "baslik": "Başlangıç *odyogramı*",
+   "cizim": "test_kabini",
+   "etiketler": [
+    {
+     "parca": "hasta",
+     "metin": "çalışan",
+     "cumle": 0
+    },
+    {
+     "parca": "odyolog",
+     "metin": "odyolog",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "test_odasi",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sonraki karşılaştırmaların temeli",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Öncesinde gürültüsüz dinlenme",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Örnek: en az 14 saat",
+     "cumle": 2,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "İşe giriş, yani başlangıç odyogramı (baseline audiogram), sonraki bütün karşılaştırmaların temelidir.",
+    "Bu test, çalışanın gürültüye maruz kalmadığı bir dinlenme süresinden sonra yapılmalıdır.",
+    "Örneğin ABD iş sağlığı düzenlemesi, başlangıç testinden önce en az 14 saat iş yeri gürültüsünden uzak kalınmasını ister.",
+    "Aksi halde geçici eşik kayması kalıcı kayıp gibi kaydedilir ve sonraki değişiklikler gözden kaçabilir.",
+    "Başlangıç testinde öykü de alınır: önceki gürültülü işler, askerlik ve atış, kulak hastalıkları ve kullanılan ilaçlar kaydedilir.",
+    "Periyodik testler ve eşik kayması ölçütleri ilerideki bir derste ayrıca ele alınacaktır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Periyodik testleri mümkünse vardiya başında planlayın. Son gürültü maruziyetinin zamanını ve koruyucu kullanımını sorup test kaydına yazın.",
+   "cumleler": [
+    "Bir klinik ipucu: periyodik testleri mümkünse vardiya başında planlayın.",
+    "Vardiya sonunda yapılan testte geçici eşik kayması sonucu olduğundan kötü gösterebilir.",
+    "Test sırasında çalışana son gürültü maruziyetinin zamanını ve koruyucu kullanıp kullanmadığını sorun.",
+    "Bu bilgileri test kaydına yazmak, sonraki karşılaştırmaların doğru yorumlanmasını sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Amaç: kaybı oluşmadan önlemek",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Doz: düzey ve süre birlikte",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Önce kaynak, en son koruyucu",
+     "cumle": 2,
+     "ikon": "fabrika"
+    },
+    {
+     "metin": "Program: ölçüm, koruyucu, odyometri, eğitim",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Endüstriyel odyolojinin amacı gürültüye bağlı işitme kaybını oluşmadan önlemektir.",
+    "Gürültü dozu düzey ve süreye birlikte bağlıdır; 3 desibellik artış aynı dozu yarı sürede doldurur.",
+    "Önlemlerde öncelik gürültüyü kaynağında azaltmaktır; kişisel koruyucu son savunma hattıdır.",
+    "İşitme koruma programı ölçüm, kontrol önlemleri, koruyucu, odyometrik izlem, eğitim ve kayıttan oluşur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Gürültü kontrolünde en etkili önlem hangisi?",
+   "secenekler": [
+    "Kaynakta azaltmak",
+    "Kulak tıkacı dağıtmak",
+    "Yıllık odyometri",
+    "Uyarı levhası"
+   ],
+   "dogru": 0,
+   "aciklama": "Kişisel koruyucu _son savunma hattıdır_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: iş yerinde gürültü kontrolünde en etkili önlem hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: gürültüyü kaynağında azaltmak.",
+    "Kulak koruyucular ve odyometri önemlidir, ama gürültüyü kaynağında azaltmanın yerini tutmaz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Gürültü maruziyet sınırları: *80, 85 ve 87* dB(A)",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "Bir sonraki derste 80, 85 ve 87 dB(A) değerlerini ve değişim oranını ayrıntılı olarak inceleyeceğiz.",
+     "ses": "Bir sonraki derste seksen, seksen beş ve seksen yedi desibel A değerlerini ve değişim oranını ayrıntılı olarak inceleyeceğiz."
+    },
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

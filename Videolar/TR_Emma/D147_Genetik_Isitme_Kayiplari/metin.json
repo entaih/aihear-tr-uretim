@@ -1,0 +1,793 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D147_Genetik_Isitme_Kayiplari_TR",
+ "kapak": {
+  "ust": "DERS 147",
+  "baslik": "*Genetik*<br>işitme kayıpları",
+  "alt": "Sendromik ve sendromik olmayan",
+  "cizim": "stereosil_demeti",
+  "vurgula": [
+   "uc_baglantisi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Genetik İşitme Kayıpları: Sendromik ve Sendromik Olmayan | Ders 147 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Doğumsal işitme kayıplarının yarısından fazlasının genetik nedenli olduğunu, sendromik ve sendromik olmayan kayıp ayrımını ve DFNB, DFNA, DFNX lokus adlandırmasını anlatıyoruz. Kalıtım biçimlerini, genetik değerlendirme sürecini ve odyoloğun bu süreçteki rolünü ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Shearer ve ark., Genetic Hearing Loss Overview, GeneReviews; Hereditary Hearing Loss Homepage; Joint Committee on Infant Hearing, Year 2019 Position Statement; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "genetik",
+   "işitmekaybı"
+  ],
+  "etiketler": [
+   "genetik işitme kaybı",
+   "genetic hearing loss",
+   "sendromik olmayan işitme kaybı",
+   "nonsyndromic hearing loss",
+   "sendromik işitme kaybı",
+   "DFNB",
+   "DFNA",
+   "otozomal resesif",
+   "otozomal dominant",
+   "genetik test",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 147",
+   "baslik": "*Genetik* işitme kayıpları",
+   "alt": "Sendromik ve sendromik olmayan kayıplar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste genetik işitme kayıplarına genel bir bakış yapacağız.",
+    "Sendromik ve sendromik olmayan kayıp ayrımını, kalıtım biçimlerini, lokus adlarını ve genetik değerlendirme sürecini öğreneceğiz."
+   ]
+  },
+  {
+   "id": "buyuk_resim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Büyük resim",
+   "baslik": "Kayıpların *ne kadarı* genetik?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Doğumsal kayıp",
+     "metin": "Binde yaklaşık 1 ile 2",
+     "cumle": 0
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetik",
+     "metin": "Yarıdan fazlası",
+     "cumle": 1
+    },
+    {
+     "ikon": "virus",
+     "baslik": "Çevresel",
+     "metin": "CMV başta olmak üzere",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sendromik olmayan",
+     "metin": "Yaklaşık yüzde 70",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Sendromik",
+     "metin": "Yaklaşık yüzde 30",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kalıcı doğumsal işitme kaybı, her bin yenidoğandan yaklaşık bir ile ikisinde görülür.",
+    "Gelişmiş ülkelerde doğumsal kayıpların yarısından fazlasının genetik nedenli olduğu kabul edilir.",
+    "Geri kalanı çevresel nedenlerden kaynaklanır; bunların başında önceki derslerde gördüğümüz doğumsal sitomegalovirüs, yani CMV gelir.",
+    "Genetik kayıpların yaklaşık yüzde yetmişi sendromik olmayan, yüzde otuzu ise sendromik kayıptır.",
+    "Sendromik olmayan kayıpta işitme kaybı tek bulgudur; sendromik kayıpta başka organlarda da bulgular vardır.",
+    "Bu ayrım, hangi testin isteneceğini ve hangi uzmanlara yönlendirileceğini belirler."
+   ]
+  },
+  {
+   "id": "kalitim_grafik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Büyük resim",
+   "baslik": "Sendromik olmayan: *kalıtım*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 4.5,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Resesif",
+      "2": "Dominant",
+      "3": "X'e bağlı",
+      "4": "Mitokondriyal"
+     },
+     "ad": "Kalıtım biçimi"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Yaklaşık oran (%)"
+    },
+    "seriler": [
+     {
+      "ad": "resesif",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        77
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "yüzde 75 ile 80",
+      "cumle": 1
+     },
+     {
+      "ad": "dominant",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        20
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "yaklaşık yüzde 20",
+      "cumle": 2
+     },
+     {
+      "ad": "x",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        2
+       ]
+      ],
+      "renk": "sari",
+      "etiket": "yüzde 1 ile 2",
+      "cumle": 3
+     },
+     {
+      "ad": "mito",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        4,
+        1
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "yüzde 1'in altı",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Sendromik olmayan genetik kayıpların kalıtım biçimine göre dağılımına bakalım.",
+    "Yaklaşık yüzde yetmiş beş ile seksen otozomal resesif geçişlidir.",
+    "Yaklaşık yüzde yirmisi otozomal dominant geçişlidir.",
+    "X'e bağlı kalıtım yaklaşık yüzde bir ile iki, mitokondriyal kalıtım ise yüzde birin altındadır.",
+    "Resesif kayıplar çoğunlukla doğumsal, ağır ve dil gelişiminden önce başlayan kayıplardır.",
+    "Dominant kayıplar ise çoğunlukla dil gelişiminden sonra başlar ve zamanla ilerler."
+   ]
+  },
+  {
+   "id": "kalitim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Büyük resim",
+   "baslik": "Kalıtım *biçimleri*",
+   "cumleler": [
+    "Otozomal resesif kalıtımda çocuğun etkilenmesi için anne ve babadan birer değişmiş gen kopyası alması gerekir.",
+    "Anne ve baba çoğu zaman işiten taşıyıcılardır; bu yüzden ailede başka işitme kaybı olmayabilir.",
+    "Otozomal dominant kalıtımda tek değişmiş kopya yeterlidir; etkilenen ebeveynin her çocuğu için risk yüzde ellidir.",
+    "X'e bağlı kalıtımda erkekler daha sık ve daha ağır etkilenir; taşıyıcı anneler çoğunlukla normal ya da hafif etkilenir.",
+    "Mitokondriyal kalıtımda ise değişiklik yalnız anneden çocuklara geçer."
+   ],
+   "cizim": "pedigri",
+   "ayar": {
+    "tip": "dort",
+    "cumleler": [
+     0,
+     2,
+     3,
+     4
+    ]
+   }
+  },
+  {
+   "id": "lokus",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Adlandırma",
+   "baslik": "Lokus *adları*",
+   "cumleler": [
+    "Sendromik olmayan kayıplarda genlerin yerleştiği bölgelere lokus denir ve bunlara sistematik adlar verilir.",
+    {
+     "yazi": "Adın başındaki DFN, sağırlık anlamına gelen İngilizce sözcükten (deafness) türetilmiştir.",
+     "ses": "Adın başındaki de fe ne, sağırlık anlamına gelen İngilizce sözcükten türetilmiştir."
+    },
+    "DFNB otozomal resesif, DFNA otozomal dominant, DFNX ise X'e bağlı kalıtımı gösterir.",
+    {
+     "yazi": "Harften sonraki sayı lokusun tanımlanma sırasını gösterir; örneğin DFNB1, ilk tanımlanan resesif lokustur.",
+     "ses": "Harften sonraki sayı lokusun tanımlanma sırasını gösterir; örneğin de fe ne be bir, ilk tanımlanan resesif lokustur."
+    },
+    {
+     "yazi": "DFNB1 lokusundaki GJB2 geni, bir sonraki dersin konusu olan en sık genetik nedendir.",
+     "ses": "De fe ne be bir lokusundaki ge je be iki geni, bir sonraki dersin konusu olan en sık genetik nedendir."
+    },
+    "Bugün sendromik olmayan işitme kaybıyla ilişkili yüzün üzerinde gen tanımlanmıştır."
+   ],
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "DFNB",
+     "metin": "Otozomal resesif; DFNB1: GJB2",
+     "cumle": 2
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "DFNA",
+     "metin": "Otozomal dominant; DFNA9: COCH",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "DFNX",
+     "metin": "X'e bağlı; DFNX2: POU3F4",
+     "cumle": 2
+    }
+   ]
+  },
+  {
+   "id": "sik_genler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Adlandırma",
+   "baslik": "Sık karşılaşılan *genler*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "GJB2",
+     "metin": "Resesif kaybın en sık nedeni",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "SLC26A4",
+     "metin": "EVA ve Pendred",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "OTOF",
+     "metin": "İşitsel nöropati",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Dominant genler",
+     "metin": "Erişkinde ilerleyen kayıp",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Yüzün üzerinde gen olsa da bazıları klinikte çok daha sık karşımıza çıkar.",
+    "GJB2, birçok toplumda otozomal resesif kaybın en sık nedenidir.",
+    {
+     "yazi": "SLC26A4, genişlemiş vestibüler akuadukt ve Pendred sendromuyla ilişkilidir.",
+     "ses": "Se le ce yirmi altı a dört, genişlemiş vestibüler akuadukt ve Pendrid sendromuyla ilişkilidir."
+    },
+    "Otoferlini kodlayan OTOF geni, emisyonların alınıp işitsel beyin sapı yanıtının, kısaca ABR'nin alınamadığı işitsel nöropatiyle ilişkilidir.",
+    "Bazı dominant genlerde ise kayıp erişkinlikte başlar ve ilerler; bazılarına denge sorunları da eşlik eder.",
+    "Genin bilinmesi, kaybın seyrini öngörmeye ve izlem planını kişiye göre yapmaya yardımcı olur."
+   ]
+  },
+  {
+   "id": "gen_yeri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Adlandırma",
+   "baslik": "Genler *nerede* çalışır?",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "stereosil",
+     "metin": "Stereosil demeti",
+     "cumle": 1
+    },
+    {
+     "parca": "destek_hucreleri",
+     "metin": "Destek hücreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "Tektoryal membran",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Sinaps ve sinir",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stereosil",
+     "cumle": 1
+    },
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "tektoryal_membran",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 4
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Demet ve _dönüşüm kanalı_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Potasyum _geri dönüşümü_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Sinaps: _otoferlin_",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Genetik kayıpları anlamanın bir yolu, genlerin kokleada nerede görev yaptığına bakmaktır.",
+    "Bir grup gen, tüy hücrelerinin stereosil demetinin yapısında ve dönüşüm kanalında görev alır.",
+    "Bir başka grup, potasyum geri dönüşümünü sağlayan boşluk bağlantılarında ve iyon taşıyıcılarında çalışır.",
+    "Tektoryal membranın yapısında yer alan proteinleri kodlayan genler de vardır.",
+    "Bazı genler ise iç tüy hücresi ile sinir arasındaki sinapsta görev yapar; otoferlin bunun bir örneğidir.",
+    "Genin görev yeri, kaybın türünü ve hangi rehabilitasyonun daha yararlı olabileceğini anlamaya yardım eder."
+   ]
+  },
+  {
+   "id": "mito",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Adlandırma",
+   "baslik": "Mitokondriyal *duyarlılık*",
+   "maddeler": [
+    {
+     "metin": "Örnek: _m.1555A&gt;G_ değişikliği",
+     "cumle": 0,
+     "ikon": "dna"
+    },
+    {
+     "metin": "_Aminoglikozide_ aşırı duyarlılık",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "_Anne tarafı_ öyküsü önemli",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Diyabet ve kayıp _birlikte_ olabilir",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ANNEDEN GEÇER",
+    "metin": "Aminoglikozid sonrası *ağır kayıp* riski",
+    "cumle": 1
+   },
+   "cumleler": [
+    {
+     "yazi": "Mitokondriyal değişikliklerin odyolojideki en önemli örneği, MT-RNR1 geninin 1555. konumundaki değişikliktir.",
+     "ses": "Mitokondriyal değişikliklerin odyolojideki en önemli örneği, mitokondriyal bir genin bin beş yüz elli beşinci konumundaki değişikliktir."
+    },
+    "Bu değişikliği taşıyan kişilerde aminoglikozid antibiyotikler, olağan dozlarda bile ağır kayba yol açabilir.",
+    "Değişiklik anneden geçtiği için anne tarafındaki akrabalarda ilaçla gelen işitme kaybı öyküsü özellikle önemlidir.",
+    "Bazı mitokondriyal tablolarda ise diyabet ve işitme kaybı birlikte görülür.",
+    "Ototoksik ilaçları ileride ayrı bir derste ayrıntılı olarak ele alacağız."
+   ]
+  },
+  {
+   "id": "sendromik_ipuclari",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sendromik kayıp",
+   "baslik": "Sendromu *düşündüren* bulgular",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Göz",
+     "metin": "Gece körlüğü: Usher",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Böbrek",
+     "metin": "İdrarda kan: Alport",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Pigment",
+     "metin": "Beyaz perçem: Waardenburg",
+     "cumle": 3
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Tiroit",
+     "metin": "Guatr: Pendred",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Kalp",
+     "metin": "Bayılma: ritim sorunu",
+     "cumle": 5
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak kepçesi",
+     "metin": "Çukurcuk, kist: BOR",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sendromik kaybı fark etmek için işitme dışındaki bulgulara dikkat etmek gerekir.",
+    "Gece körlüğü ve görme alanının daralması Usher sendromunu düşündürebilir.",
+    "İdrarda kan gibi böbrek bulguları Alport sendromunu akla getirebilir.",
+    "Saçta beyaz perçem ya da iki gözün farklı renkte olması Waardenburg sendromunu düşündürür.",
+    "Tiroit büyümesi ve geniş vestibüler akuadukt Pendred sendromunun işaretleridir.",
+    "Bayılma atakları kalp ritmi sorunlarını, kulak önündeki çukurcuk ve boyundaki kistler ise brankiyo-oto-renal sendromu akla getirir."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sendromik kayıp",
+   "baslik": "Odyogramda *ipuçları*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       30,
+       50,
+       50,
+       30,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       50,
+       55,
+       35,
+       25
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bazı genetik kayıplar odyogramda kendine özgü biçimler oluşturabilir.",
+    "Bu örnekte iki kulakta da orta frekanslarda belirgin, kurabiye ısırığı denen simetrik bir kayıp görülüyor.",
+    "Bu biçim bazı dominant kalıtımlı ailelerde bildirilmiştir.",
+    "Alçak frekanslarda başlayan ve tize doğru düzelen kayıplar da bazı dominant ailelerde görülür.",
+    "İki kulakta simetrik kayıp ve benzer odyogramlı akrabalar genetik bir nedeni düşündürür.",
+    "Yine de odyogram biçimi tek başına genetik tanı koydurmaz; yalnız ipucu verir."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Genetik değerlendirme",
+   "baslik": "Genetik *değerlendirme*",
+   "adimlar": [
+    {
+     "ikon": "ev",
+     "baslik": "Aile öyküsü",
+     "metin": "Üç kuşaklık soy ağacı",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Muayene",
+     "metin": "Göz, böbrek, kalp",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Gen paneli",
+     "metin": "Çok sayıda gen",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Ekzom",
+     "metin": "Panel yetmezse",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Danışmanlık",
+     "metin": "Sonuç aileye açıklanır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Genetik nedenin bulunması aileye ve hekime birçok açıdan yardımcı olur.",
+    "İlk adım ayrıntılı aile öyküsü ve en az üç kuşağı kapsayan bir soy ağacıdır.",
+    "Ardından hekim işitme dışındaki bulguları arar; gerekirse göz, böbrek ve kalp değerlendirmesi istenir.",
+    "Testte çoğu zaman sık görülen genler ya da çok sayıda geni birlikte inceleyen gen panelleri kullanılır.",
+    "Panel sonuç vermezse tüm genlerin kodlayan bölgelerini inceleyen ekzom dizileme yapılabilir.",
+    "Sonuçlar mutlaka genetik danışmanlıkla birlikte aileye açıklanır."
+   ]
+  },
+  {
+   "id": "yararlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Genetik değerlendirme",
+   "baslik": "Tanı *ne kazandırır?*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Seyir",
+     "metin": "İlerleme öngörülebilir",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Önlem",
+     "metin": "Göz, böbrek, kalp",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Açıklama",
+     "metin": "Gereksiz testlerden kaçınma",
+     "cumle": 2
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Aile",
+     "metin": "Tekrarlama riski",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Rehabilitasyon",
+     "metin": "Beklenti hakkında bilgi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Genetik tanı, kaybın ilerleyip ilerlemeyeceği hakkında fikir verebilir.",
+    "Sendromik bir neden erken saptanırsa göz, böbrek ya da kalp sorunları için zamanında önlem alınabilir.",
+    "Gereksiz başka testlerden kaçınmayı sağlar ve aileye belirsizlik yerine bir açıklama sunar.",
+    "Ailedeki gelecek çocuklar için tekrarlama riski hesaplanabilir.",
+    "Bazı genlerde koklear implant ve cihaz sonuçlarına ilişkin beklentiler hakkında da bilgi verebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Aile öyküsünü yalnız var ya da yok diye sormayın: hangi akrabada, hangi yaşta, tek mi iki kulakta? Anne ve babanın akrabalığını da nazikçe sorun.",
+   "cumleler": [
+    "Bir klinik ipucu: aile öyküsünü yalnız var ya da yok diye sormayın.",
+    "Hangi akrabada, hangi yaşta, tek kulakta mı iki kulakta mı kayıp olduğunu ve cihaz kullanılıp kullanılmadığını sorun.",
+    "Anne ve babanın akraba olup olmadığını da nazikçe sorgulayın; resesif kalıtım açısından önemli bir bilgidir.",
+    "Uygun durumlarda anne ve babanın da odyogramını almak, fark edilmemiş hafif kayıpları ortaya çıkarabilir."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Genetik değerlendirme",
+   "baslik": "Sonuçların *sınırları*",
+   "maddeler": [
+    {
+     "metin": "Olumsuz sonuç: _genetik değil_ demek değil",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Anlamı belirsiz_ varyantlar",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Zamanla _yeniden sınıflama_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Yorum: _tıbbi genetik_ ekibi",
+     "cumle": 3,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Odyolog: _fark et, yönlendir_",
+     "cumle": 4,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SONUÇ",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Açıklayıcı",
+      "metin": "Neden bulundu",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Belirsiz",
+      "metin": "Karar için kullanılmaz",
+      "cumle": 1
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Olumsuz",
+      "metin": "Neden dışlanmadı",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Genetik testin olumsuz çıkması, kaybın genetik olmadığı anlamına gelmez.",
+    "Bazı değişikliklerin anlamı henüz bilinmez; bunlara anlamı belirsiz varyant (variant of uncertain significance) denir.",
+    "Bilgi arttıkça bu varyantların bir bölümü yeniden sınıflandırılabilir; bu yüzden sonuçlar zaman içinde yeniden değerlendirilir.",
+    "Sonuçların yorumu tıbbi genetik uzmanının ve genetik danışmanın görevidir.",
+    "Odyoloğun rolü uygun aileleri fark etmek, yönlendirmek ve işitme bulgularını eksiksiz paylaşmaktır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Doğumsal kaybın _yarıdan fazlası_ genetik",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Yüzde 70 _sendromik olmayan_, 30 sendromik",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Resesif_ en sık, dominant ilerleyici",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "DFNB, DFNA, DFNX: _lokus adları_",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Doğumsal işitme kayıplarının yarısından fazlası genetik nedenlidir.",
+    "Genetik kayıpların yaklaşık yüzde yetmişi sendromik olmayan, yüzde otuzu sendromik kayıptır.",
+    "Sendromik olmayan kayıpların çoğu otozomal resesiftir; dominant kayıplar çoğunlukla sonradan başlar ve ilerler.",
+    "Lokus adlarında DFNB resesif, DFNA dominant, DFNX X'e bağlı kalıtımı gösterir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "DFNA ile adlandırılan lokus hangi kalıtımı gösterir?",
+   "secenekler": [
+    "Otozomal resesif",
+    "Otozomal dominant",
+    "X'e bağlı",
+    "Mitokondriyal"
+   ],
+   "dogru": 1,
+   "aciklama": "DFN sonrası _A otozomal dominant_, B resesif, X ise X'e bağlı kalıtımı gösterir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: DFNA ile adlandırılan bir lokus hangi kalıtım biçimini gösterir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: otozomal dominant.",
+    "DFNB resesif, DFNX ise X'e bağlı kalıtımı gösterir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*GJB2* ve konneksin 26",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "Bir sonraki derste en sık genetik neden olan GJB2 genini ve konneksin 26'yı inceleyeceğiz.",
+     "ses": "Bir sonraki derste en sık genetik neden olan ge je be iki genini ve konneksin yirmi altıyı inceleyeceğiz."
+    },
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,713 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D015_Transduserler_TR",
+ "kapak": {
+  "ust": "DERS 15",
+  "baslik": "Mikrofon ve<br>*hoparlör*",
+  "alt": "Transdüserler nasıl çalışır?",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Transdüserler: Mikrofon ve Hoparlör Nasıl Çalışır? | Ders 15 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Sesi elektriğe, elektriği sese çeviren transdüserleri anlatıyoruz: elektromanyetik indüksiyon, dinamik, kondansatör, elektret ve MEMS mikrofonlar, hoparlör ve işitme cihazı alıcısı, odyometredeki kulaklıklar ve kemik vibratörü. Frekans yanıtı, duyarlılık ve kalibrasyonun önemini de görüyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Dillon, Hearing Aids; Katz, Handbook of Clinical Audiology; ISO 8253-1, Acoustics: Audiometric test methods.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "akustik",
+   "mikrofon"
+  ],
+  "etiketler": [
+   "transdüser",
+   "transducer",
+   "dönüştürücü",
+   "mikrofon",
+   "kondansatör mikrofon",
+   "elektret mikrofon",
+   "hoparlör",
+   "frekans yanıtı",
+   "frequency response",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 15",
+   "baslik": "Mikrofon ve *hoparlör*",
+   "alt": "Transdüserler nasıl çalışır?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste sesi elektriğe, elektriği yeniden sese çeviren düzenekleri, yani transdüserleri öğreneceğiz.",
+    "Mikrofon türlerini, hoparlör ve kulaklıkları, frekans yanıtı ve duyarlılık gibi özellikleri göreceğiz."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Dönüştürme ilkesi",
+   "baslik": "Bir enerjiden *ötekine*",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Mikrofon",
+     "cumle": 1,
+     "metin": "Sesi elektriğe çevirir"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Yükselteç",
+     "cumle": 2,
+     "metin": "Güçlendirir, işler"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Hoparlör",
+     "cumle": 3,
+     "metin": "Elektriği sese çevirir"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak",
+     "cumle": 5,
+     "metin": "Hareketi sinir sinyaline çevirir"
+    }
+   ],
+   "cumleler": [
+    "Dönüştürücü (transducer), kısaca transdüser, bir enerji biçimini başka bir enerji biçimine çeviren düzenektir.",
+    "Mikrofon, havadaki basınç değişimlerini, yani akustik enerjiyi elektrik sinyaline çevirir.",
+    "Elektrik sinyali bir yükselteçte güçlendirilebilir, kaydedilebilir ya da işlenebilir.",
+    "Hoparlör ise elektrik sinyalini yeniden havada basınç değişimine, yani sese çevirir.",
+    "Bir işitme cihazı da bu zincirin küçük bir örneğidir: mikrofon, işlemci ve alıcı.",
+    "Kulağımız da doğal bir dönüştürücüdür: tüy hücreleri mekanik hareketi sinir sinyaline çevirir."
+   ]
+  },
+  {
+   "id": "induksiyon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Dönüştürme ilkesi",
+   "baslik": "Temel ilke: *indüksiyon*",
+   "maddeler": [
+    {
+     "metin": "Hareketten _elektrik_",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Akımdan _hareket_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Aynı ilke, _iki yön_",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "İNDÜKSİYON",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "mikrofon",
+      "baslik": "Dinamik mikrofon",
+      "cumle": 2,
+      "metin": "Hareket gerilim üretir"
+     },
+     {
+      "ikon": "hoparlor",
+      "baslik": "Hoparlör",
+      "cumle": 4,
+      "metin": "Akım hareket üretir"
+     }
+    ]
+   },
+   "cumleler": [
+    "Birçok transdüserin temelinde basit bir fizik ilkesi yatar: elektromanyetik indüksiyon.",
+    "Bir iletken tel bir mıknatısın alanında hareket ettiğinde telde bir gerilim oluşur.",
+    "Bu, hareketten elektrik elde etmektir; dinamik mikrofonlar böyle çalışır.",
+    "Tersine, mıknatıs alanındaki bir telden akım geçirildiğinde tele bir kuvvet etki eder ve tel hareket eder.",
+    "Bu da elektrikten hareket elde etmektir; hoparlörler ve birçok kulaklık böyle çalışır.",
+    "Yani aynı ilke iki yönde çalışır; bir dinamik hoparlör, zayıf da olsa bir mikrofon gibi kullanılabilir."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Mikrofonlar",
+   "baslik": "Mikrofon *türleri*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Dinamik",
+     "cumle": 1,
+     "metin": "Bobin ve mıknatıs, sağlam"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kondansatör",
+     "cumle": 3,
+     "metin": "İki levha, düz yanıt"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Ölçüm mikrofonu",
+     "cumle": 5,
+     "metin": "Kondansatör türünden"
+    }
+   ],
+   "cumleler": [
+    "Her mikrofonda ses basıncıyla titreşen ince bir zar, yani diyafram bulunur; farkları bu hareketi elektriğe çevirme biçimindedir.",
+    "Dinamik mikrofonda diyaframa bağlı küçük bir bobin mıknatıs alanında hareket eder ve gerilim üretir.",
+    "Dinamik mikrofonlar sağlamdır ve dış güç kaynağı istemez; sahnede sık kullanılır.",
+    "Kondansatör mikrofonda (condenser microphone) diyafram, sabit bir arka levhanın karşısında durur ve ikisi bir kondansatör oluşturur.",
+    "Ses diyaframı hareket ettirdikçe levhalar arasındaki mesafe değişir, buna bağlı olarak gerilim de değişir ve sinyal oluşur.",
+    "Kondansatör mikrofonun diyaframı çok hafiftir; bu yüzden geniş ve düz bir frekans yanıtı verir ve ölçüm mikrofonları bu türdendir.",
+    "Klasik kondansatör mikrofon çalışmak için dışarıdan bir kutuplama gerilimi ister."
+   ]
+  },
+  {
+   "id": "elektret",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Mikrofonlar",
+   "baslik": "Elektret ve *MEMS*",
+   "maddeler": [
+    {
+     "metin": "Elektret: _kalıcı yüklü_ kondansatör",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Küçük, ucuz, _dayanıklı_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "MEMS: _silikon yonga_ mikrofon",
+     "cumle": 4,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "İki mikrofon: _yönlü_ işitme",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 3,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "mikrofon",
+      "metin": "Mikrofon",
+      "cumle": 3
+     },
+     {
+      "parca": "pil",
+      "metin": "Pil",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "pil",
+      "cumle": 2
+     },
+     {
+      "parca": "mikrofon",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Elektret mikrofon (electret microphone), kondansatör mikrofonun bir türüdür.",
+    "Levhalardan birinde kalıcı elektrik yükü taşıyan bir malzeme, yani elektret bulunur; bu yüzden dış kutuplama gerilimi gerekmez.",
+    "Yine de içindeki küçük yükselteç için çok az bir güç gerekir; bunu cihazın pili sağlar.",
+    "Elektret mikrofonlar küçük, ucuz ve dayanıklıdır; uzun yıllardır işitme cihazlarında ve telefonlarda kullanılır.",
+    "Son yıllarda silikon yonga üzerine üretilen mikro elektromekanik sistem, kısaca MEMS mikrofonlar da işitme cihazlarında yaygınlaşıyor.",
+    "İşitme cihazlarında çoğu zaman iki mikrofon bulunur; bu, ilerideki derslerde göreceğimiz yönlü mikrofon özelliğini sağlar."
+   ]
+  },
+  {
+   "id": "hoparlor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hoparlör ve kulaklıklar",
+   "baslik": "Hoparlör nasıl *çalışır?*",
+   "maddeler": [
+    {
+     "metin": "Bobin, mıknatıs ve _koni_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Koni havayı _iter ve çeker_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Pes için büyük, tiz için _küçük_",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Serbest alan: _baş noktasında_ kalibrasyon",
+     "cumle": 4,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 4,
+    "vurgula": [
+     {
+      "parca": "hoparlor",
+      "cumle": 4
+     },
+     {
+      "parca": "hasta",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Dinamik hoparlör, dinamik mikrofonun tersidir.",
+    "Mıknatıs alanındaki bobinden ses sinyalinin akımı geçer ve bobin sinyale uygun olarak ileri geri hareket eder.",
+    "Bobine bağlı koni biçimli zar havayı iter ve çeker; böylece sıkışma ve seyrelmeler, yani ses oluşur.",
+    "Büyük koniler pes sesleri, küçük koniler tiz sesleri daha iyi üretir; bu yüzden birçok kutuda birden fazla hoparlör bulunur.",
+    "Odyolojide hoparlörler serbest alan testlerinde kullanılır ve hastanın başının bulunacağı noktada kalibre edilir.",
+    "Şimdi bu ilkenin kulağa yerleştirilen küçük örneklerine bakalım."
+   ]
+  },
+  {
+   "id": "odyoloji",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hoparlör ve kulaklıklar",
+   "baslik": "Odyolojide *transdüserler*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Hoparlör",
+     "cumle": 0,
+     "metin": "Serbest alan testi"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kulak üstü",
+     "cumle": 1,
+     "metin": "Yastıkla kepçe üzerine"
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Insert",
+     "cumle": 2,
+     "metin": "Tüp ve köpük uç"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik vibratörü",
+     "cumle": 4,
+     "metin": "Kafatasını titreştirir"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Yapay mastoid",
+     "cumle": 5,
+     "metin": "Vibratör kalibrasyonu"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Alıcı",
+     "cumle": 6,
+     "metin": "Cihazın küçük hoparlörü"
+    }
+   ],
+   "cumleler": [
+    "Odyometrede sesi kulağa ulaştıran her parça bir transdüserdir ve her birinin kendine özgü kalibrasyonu vardır.",
+    "Kulak üstü (supra-aural) kulaklıklar, yastıklarıyla kulak kepçesinin üzerine oturur; odyometride uzun yıllardır standarttır.",
+    "Insert kulaklıklarda ses, küçük bir transdüserden ince bir tüple köpük uca ve oradan kulak yoluna iletilir.",
+    "Insert kulaklıklar kulaklar arası zayıflamayı artırır ve kulak yolu çökmesini önler; bunları ilerideki derslerde göreceğiz.",
+    "Kemik vibratörü elektrik sinyalini mekanik titreşime çevirir ve bu titreşimi kafatasına iletir.",
+    "Kemik vibratörü ses basıncıyla değil, yapay mastoid (artificial mastoid) adı verilen bir düzenekle kuvvet olarak kalibre edilir.",
+    "İşitme cihazlarında sesi kulak yoluna veren küçük hoparlöre ise alıcı (receiver) denir; çoğu dengeli armatür (balanced armature) türündedir."
+   ]
+  },
+  {
+   "id": "odyometre",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hoparlör ve kulaklıklar",
+   "baslik": "Odyometrenin *transdüserleri*",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "Kulaklık: hava yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Kemik vibratörü",
+     "cumle": 2
+    },
+    {
+     "parca": "cihaz",
+     "metin": "Odyometre",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Ekrandaki odyometrede bu transdüserlerin ikisini görüyorsunuz.",
+    "Kulaklık, hava yolu testinde sesi kulağa verir.",
+    "Kemik vibratörü ise kulak arkasındaki mastoid kemiğine yerleştirilir ve kemik yolu testinde kullanılır.",
+    "Her transdüser odyometreye ayrı bir çıkıştan bağlanır ve cihaz her biri için ayrı kalibrasyon değerleri kullanır.",
+    "Bu yüzden bir kulaklık başka bir modelle değiştirilirse cihazın yeniden kalibre edilmesi gerekir."
+   ]
+  },
+  {
+   "id": "yanit",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Özellikler",
+   "baslik": "Frekans *yanıtı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 10,
+     "adim": 10,
+     "ad": "Göreli çıkış (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "duz",
+      "noktalar": [
+       [
+        100,
+        -1
+       ],
+       [
+        200,
+        0
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        5000,
+        0
+       ],
+       [
+        10000,
+        -1
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "ölçüm mikrofonu",
+      "etiket_konum": [
+       150,
+       0
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "ornek",
+      "noktalar": [
+       [
+        100,
+        -16
+       ],
+       [
+        250,
+        -8
+       ],
+       [
+        500,
+        -3
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        4
+       ],
+       [
+        3000,
+        6
+       ],
+       [
+        4000,
+        2
+       ],
+       [
+        6000,
+        -6
+       ],
+       [
+        8000,
+        -13
+       ],
+       [
+        10000,
+        -18
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "örnek yanıt",
+      "etiket_konum": [
+       3000,
+       6
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ölçüm mikrofonu: _düz_ yanıt",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Tepeler: _kalibrasyonla_ düzeltilir",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Bir transdüseri tanımlayan ilk özellik frekans yanıtıdır (frequency response).",
+    "Frekans yanıtı, aynı düzeyde ama farklı frekanslarda verilen sinyallere transdüserin ne kadar çıkış verdiğini gösterir.",
+    "Ölçüm mikrofonlarında frekans yanıtı geniş bir aralıkta düzdür; yani her frekansı aynı duyarlılıkla algılar.",
+    "Ekrandaki ikinci eğri bir örnektir: belli bir bölgede tepe yapan ve iki uçta düşen bir yanıt.",
+    "Kulaklıkların ve işitme cihazı alıcılarının yanıtında böyle tepeler sık görülür; tüp ve kulak yolu da yanıtı değiştirir.",
+    "Odyometrede bu düzensizlikler kalibrasyonla düzeltilir; böylece her frekansta doğru düzey verilir.",
+    "Frekans yanıtı, ilerideki derslerde işitme cihazı ölçümlerinde sık göreceğimiz bir grafiktir."
+   ]
+  },
+  {
+   "id": "ozellikler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Özellikler",
+   "baslik": "Diğer *önemli özellikler*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Duyarlılık",
+     "cumle": 1,
+     "metin": "Milivolt bölü paskal"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "İç gürültü",
+     "cumle": 2,
+     "metin": "Zayıf sesleri sınırlar"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Dinamik aralık",
+     "cumle": 3,
+     "metin": "En zayıftan en güçlüye"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Distorsiyon",
+     "cumle": 4,
+     "metin": "Fazladan frekanslar"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Yönlülük",
+     "cumle": 5,
+     "metin": "Hangi yönü duyar?"
+    }
+   ],
+   "cumleler": [
+    "Frekans yanıtının yanında birkaç özellik daha önemlidir.",
+    "Duyarlılık (sensitivity), mikrofonun belli bir basınca verdiği elektrik çıkışıdır; çoğunlukla milivolt bölü paskal ile verilir.",
+    "İç gürültü, transdüserin hiç ses yokken ürettiği gürültüdür ve çok zayıf seslerin ölçülmesini sınırlar.",
+    "Dinamik aralık, transdüserin bozulmadan çalışabildiği en zayıf ve en güçlü düzeyler arasındaki aralıktır.",
+    "Çok yüksek düzeylerde çıkış bozulur ve sinyale olmayan frekanslar eklenir; buna distorsiyon denir.",
+    "Yönlülük ise mikrofonun farklı yönlerden gelen seslere ne kadar duyarlı olduğunu anlatır."
+   ]
+  },
+  {
+   "id": "kalibrasyon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Özellikler",
+   "baslik": "Transdüserler ve *kalibrasyon*",
+   "maddeler": [
+    {
+     "metin": "Yılda bir _ayrıntılı kalibrasyon_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Yapay kulak: _ölçüm mikrofonu_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Her gün _dinleme kontrolü_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Değerler _modele özgü_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 3
+     },
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Transdüserlerin özellikleri zamanla, darbelerle ve kullanımla değişebilir.",
+    "Bu yüzden odyometreler belli aralıklarla, genellikle yılda bir, ayrıntılı olarak kalibre edilir.",
+    "Kalibrasyonda kulaklığın çıkışı yapay kulak (artificial ear) adı verilen bir düzenekle, yine bir ölçüm mikrofonuyla ölçülür.",
+    "Her gün ise kısa bir dinleme kontrolü yapılır: kablolar, kulaklıklar ve vibratör kulakla dinlenerek kontrol edilir.",
+    "Kalibrasyon değerleri transdüser modeline özgüdür; bunu ilerideki derslerde dB HL ile dB SPL ilişkisini konuşurken göreceğiz.",
+    "Kalibrasyonu bozuk bir transdüser, test ne kadar dikkatli yapılırsa yapılsın yanlış eşik verir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinik ipucu",
+   "metin": "Odyometrenin kulaklığını başka model bir kulaklıkla değiştirmeyin; kalibrasyon modele özgüdür. Kablo hışırtısı ya da tek kulakta zayıflık varsa testten önce giderin.",
+   "cumleler": [
+    "Klinikte işe yarayan bir ipucu: odyometrenin kulaklığını başka model bir kulaklıkla değiştirmeyin.",
+    "Kalibrasyon değerleri o modele özgüdür; başka bir model takıldığında verilen düzeyler yanlış olur.",
+    "Günlük dinleme kontrolünde kabloyu hafifçe oynatın; hışırtı, kesilme ya da bir kulakta zayıflık varsa testten önce giderin.",
+    "Transdüserdeki küçük bir arıza bile bütün odyogramı yanıltabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Transdüser: _enerji biçimini_ değiştirir",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Ölçüm mikrofonu: _kondansatör_ türü",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Kulaklık, insert, vibratör, _alıcı_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Frekans yanıtı ve _kalibrasyon_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Transdüserler bir enerji biçimini başka birine çevirir; mikrofon sesi elektriğe, hoparlör elektriği sese çevirir.",
+    "Dinamik mikrofon sağlamdır; kondansatör ve elektret mikrofonlar küçük, duyarlıdır ve düz yanıt verir.",
+    "Odyolojide kulak üstü ve insert kulaklıklar, kemik vibratörü ve hoparlör kullanılır; işitme cihazındaki hoparlöre alıcı denir.",
+    "Frekans yanıtı, duyarlılık ve iç gürültü önemli özelliklerdir; transdüserler düzenli olarak kalibre edilmelidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Ölçüm mikrofonları hangi türdendir?",
+   "secenekler": [
+    "Dinamik",
+    "Kondansatör",
+    "Dengeli armatür"
+   ],
+   "dogru": 1,
+   "aciklama": "Hafif diyaframı sayesinde _kondansatör_ mikrofon geniş ve düz bir frekans yanıtı verir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: ses düzeyi ölçerlerde ve kalibrasyonda kullanılan ölçüm mikrofonları hangi türdendir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kondansatör mikrofon.",
+    "Hafif diyaframı sayesinde geniş ve düz bir frekans yanıtı verir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Temporal kemik: *kulağın yuvası*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kulağın içine yerleştiği kemiği, yani temporal kemiği tanıyacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

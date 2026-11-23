@@ -1,0 +1,759 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D042_Spektrogram_TR",
+ "kapak": {
+  "ust": "DERS 42",
+  "baslik": "*Spektrogram*<br>okumak",
+  "alt": "Konuşma seslerinin akustiği",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Spektrogram Nasıl Okunur? Konuşma Seslerinin Akustiği | Ders 42 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Spektrogram, konuşmanın zaman, frekans ve şiddet içeren görüntüsüdür. Bu derste spektrogramın eksenlerini, geniş ve dar bant spektrogram farkını, ünlülerde F1 ve F2 formantlarını, sürtünmeli ünsüzlerin tiz enerjisini, patlamalılarda ses başlama zamanını (VOT) ve bu bilgilerin tiz frekans kaybındaki önemini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Kent RD ve Read C, The Acoustic Analysis of Speech; Ladefoged P, A Course in Phonetics; Fant G, Acoustic Theory of Speech Production; Stevens KN, Acoustic Phonetics; Boersma P ve Weenink D, Praat: doing phonetics by computer.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "akustik",
+   "konuşma"
+  ],
+  "etiketler": [
+   "spektrogram",
+   "spectrogram",
+   "formant",
+   "F1 F2",
+   "sürtünmeli ünsüz",
+   "fricative",
+   "ses başlama zamanı",
+   "voice onset time",
+   "konuşma akustiği",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 42",
+   "baslik": "*Spektrogram* nasıl okunur?",
+   "alt": "Formantlar, sürtünmeli ünsüzler ve ses başlama zamanı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste konuşmanın görüntüsü olan spektrogramı okumayı öğreneceğiz.",
+    "Ünlülerdeki formantları, sürtünmeli ünsüzlerin tiz enerjisini ve patlamalı ünsüzlerde ses başlama zamanını göreceğiz."
+   ]
+  },
+  {
+   "id": "uc_gosterim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Spektrogramın dili",
+   "baslik": "Dalga biçiminden *spektrograma*",
+   "cizim": "spektrogram",
+   "ayar": {
+    "cumle": 2
+   },
+   "vurgula": [
+    {
+     "parca": "dalga_bicimi",
+     "cumle": 0
+    },
+    {
+     "parca": "frekans_ekseni",
+     "cumle": 1
+    },
+    {
+     "parca": "koyuluk",
+     "cumle": 2
+    },
+    {
+     "parca": "a_sesi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dalga biçimi: _zaman_ ve basınç",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Spektrum: _frekans_ ve şiddet",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Spektrogram: _üçü_ birden",
+     "cumle": 2,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Bir sesi farklı biçimlerde gösterebiliriz; ilki, zamana göre basınç değişimini gösteren dalga biçimidir.",
+    "Spektrum ise belirli bir anda sesin hangi frekanslarda ne kadar enerji taşıdığını gösterir.",
+    {
+     "yazi": "Spektrogram (spectrogram) bu ikisini birleştirir: frekans içeriğinin zaman içinde nasıl değiştiğini gösterir.",
+     "ses": "Spektrogram bu ikisini birleştirir: frekans içeriğinin zaman içinde nasıl değiştiğini gösterir."
+    },
+    "Konuşma sürekli değişen bir ses olduğu için, konuşmayı incelemenin en güçlü araçlarından biri spektrogramdır.",
+    {
+     "yazi": "İlk ses spektrografları kırklı yıllarda Bell Laboratuvarlarında geliştirildi ve konuşma araştırmalarını kökten değiştirdi.",
+     "ses": "İlk ses spektrografları kırklı yıllarda Bel Laboratuvarlarında geliştirildi ve konuşma araştırmalarını kökten değiştirdi."
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_bicimi",
+     "metin": "Dalga biçimi",
+     "cumle": 0
+    },
+    {
+     "parca": "formantlar",
+     "metin": "Ünlüde formant bantları",
+     "cumle": 3
+    },
+    {
+     "parca": "s_sesi",
+     "metin": "s: tiz gürültü",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "eksenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Spektrogramın dili",
+   "baslik": "Üç *eksen*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Yatay: zaman",
+     "metin": "Konuşma soldan sağa ilerler",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Dikey: frekans",
+     "metin": "Aşağıda pes, yukarıda tiz",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Koyuluk: şiddet",
+     "metin": "Koyu bölge daha güçlü",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Odyogramdan farkı",
+     "metin": "Orada frekans soldan sağa",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Spektrogramda yatay eksen zamandır; konuşma soldan sağa doğru ilerler.",
+    "Dikey eksen frekanstır; aşağıda pes, yukarıda tiz frekanslar yer alır.",
+    "Üçüncü boyut olan şiddet, koyuluk ya da renkle gösterilir; koyu ya da parlak bölgeler daha fazla enerji demektir.",
+    "Dikkat edin: odyogramda frekans soldan sağa ilerlerken, spektrogramda aşağıdan yukarı ilerler.",
+    "Bu üç ekseni aklımızda tutarak konuşma seslerinin izlerini okuyabiliriz."
+   ]
+  },
+  {
+   "id": "genis_dar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Spektrogramın dili",
+   "baslik": "Geniş bant ve *dar bant*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Geniş bant",
+     "metin": "Kısa pencere: formant bantları, zaman ayrıntısı",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Dar bant",
+     "metin": "Uzun pencere: harmonikler, frekans ayrıntısı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Spektrogramlar iki temel ayarla hazırlanabilir: geniş bant ve dar bant.",
+    "Geniş bant spektrogramda analiz penceresi kısadır; formantlar koyu bantlar halinde görünür.",
+    "Zaman ayrıntısı iyidir; ses tellerinin her titreşimi ince dikey çizgiler halinde seçilebilir.",
+    "Dar bant spektrogramda pencere uzundur; bu kez tek tek harmonikler yatay çizgiler halinde görünür.",
+    "Frekans ayrıntısı iyidir, ama zamandaki hızlı değişimler bulanıklaşır.",
+    "İkisi de geçerlidir: formant ve ünsüz için genellikle geniş bant, ses perdesi ve harmonikler için dar bant seçilir."
+   ]
+  },
+  {
+   "id": "kaynak_suzgec",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ünlüler ve formantlar",
+   "baslik": "Kaynak ve *süzgeç*",
+   "cumleler": [
+    "Ünlüleri anlamak için kaynak ve süzgeç modelini kullanırız.",
+    {
+     "yazi": "Kaynak, ses tellerinin titreşimidir; titreşimin hızına temel frekans (fundamental frequency), kısaca F0 denir.",
+     "ses": "Kaynak, ses tellerinin titreşimidir; titreşimin hızına temel frekans, kısaca fe sıfır denir."
+    },
+    "Temel frekans erkeklerde yaklaşık yüz ile yüz elli, kadınlarda yaklaşık iki yüz ile iki yüz elli hertzdir; çocuklarda daha yüksektir.",
+    "Ses telleri temel frekansla birlikte onun katları olan harmonikleri de üretir; süzgeç ise gırtlaktan dudaklara uzanan ses yoludur.",
+    "Ses yolu bazı frekans bölgelerini güçlendirir; bu rezonans bölgelerine formant denir.",
+    "Dil, çene ve dudakların konumu değiştikçe formantların yeri değişir ve farklı ünlüler ortaya çıkar."
+   ],
+   "cizim": "kaynak_suzgec",
+   "ayar": {
+    "f0": 125,
+    "kaynak_cumle": 1,
+    "suzgec_cumle": 3,
+    "cikis_cumle": 4
+   },
+   "etiketler": [
+    {
+     "parca": "formantlar",
+     "metin": "Formantlar",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kaynak",
+     "cumle": 1
+    },
+    {
+     "parca": "f0",
+     "cumle": 2
+    },
+    {
+     "parca": "suzgec",
+     "cumle": 3
+    },
+    {
+     "parca": "formantlar",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kaynak: ses telleri, _F0_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Süzgeç: _ses yolu_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ağız biçimi _formantları_ taşır",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ]
+  },
+  {
+   "id": "formantlar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ünlüler ve formantlar",
+   "baslik": "Ünlülerde *F1 ve F2*",
+   "sutunlar": [
+    "Ünlü",
+    "F1 (Hz)",
+    "F2 (Hz)",
+    "Dilin konumu"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "i",
+      "Yaklaşık 300",
+      "Yaklaşık 2200",
+      "Yüksek, ön"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "u",
+      "Yaklaşık 320",
+      "Yaklaşık 800",
+      "Yüksek, arka"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "a",
+      "Yaklaşık 700",
+      "Yaklaşık 1250",
+      "Alçak"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "e",
+      "Yaklaşık 450",
+      "Yaklaşık 1900",
+      "Orta, ön"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "o",
+      "Yaklaşık 450",
+      "Yaklaşık 900",
+      "Orta, arka"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Her ünlü, ilk iki formantının, yani F1 ve F2'nin konumuyla büyük ölçüde tanınır.",
+     "ses": "Her ünlü, ilk iki formantının, yani fe bir ve fe ikinin konumuyla büyük ölçüde tanınır."
+    },
+    {
+     "yazi": "Birinci formant dilin yüksekliğiyle ters ilişkilidir: i ve u gibi dilin yüksek olduğu ünlülerde F1 düşüktür.",
+     "ses": "Birinci formant dilin yüksekliğiyle ters ilişkilidir: i ve u gibi dilin yüksek olduğu ünlülerde fe bir düşüktür."
+    },
+    {
+     "yazi": "A gibi ağzın açık olduğu alçak ünlülerde ise F1 yüksektir, yaklaşık yedi yüz hertz civarındadır.",
+     "ses": "A gibi ağzın açık olduğu alçak ünlülerde ise fe bir yüksektir, yaklaşık yedi yüz hertz civarındadır."
+    },
+    {
+     "yazi": "İkinci formant dilin önde ya da arkada olmasıyla ilişkilidir: i, e gibi ön ünlülerde F2 yüksek, u, o gibi arka ünlülerde düşüktür.",
+     "ses": "İkinci formant dilin önde ya da arkada olmasıyla ilişkilidir: i, e gibi ön ünlülerde fe iki yüksek, u, o gibi arka ünlülerde düşüktür."
+    },
+    "Tablodaki değerler yetişkin erkek bir konuşmacı için yaklaşık örneklerdir; kadınlarda ve çocuklarda formantlar daha yüksektir.",
+    "Türkçedeki sekiz ünlünün her biri, bu iki formantın oluşturduğu haritada kendine özgü bir yerde durur."
+   ]
+  },
+  {
+   "id": "unluler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ünlüler ve formantlar",
+   "baslik": "Ünlüler neden *kolay* duyulur?",
+   "cizim": "konusma_muzu",
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ünlüler _güçlü_ ve pes ağırlıklı",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ön ünlülerde F2 _2000 Hz_ üstü",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tiz kayıpta ünlüler _karışabilir_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "unluler",
+     "metin": "ünlüler: güçlü, pes",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "metin": "ünsüzler: zayıf, tiz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ünlüler konuşmanın en güçlü sesleridir ve enerjilerinin çoğu bin hertzin altındadır.",
+    "Bu yüzden tiz frekans kaybı olan kişiler bile ünlüleri genellikle iyi duyar.",
+    "Ancak ünlüleri ayırt etmek için ikinci formant da gerekir; i gibi ön ünlülerde bu formant iki bin hertzin üzerine çıkar.",
+    "Orta ve tiz frekanslarda kaybı olan bir kişide i ile ü ya da e ile ö gibi ünlüler karışabilir.",
+    "Konuşma muzunda da ünlülerin pes ve güçlü bölgede, ünsüzlerin ise daha tiz ve zayıf bölgede toplandığını görüyoruz."
+   ]
+  },
+  {
+   "id": "surtunmeli",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ünsüzler",
+   "baslik": "*Sürtünmeli* ünsüzler",
+   "maddeler": [
+    {
+     "metin": "Dar geçitte _türbülans_: gürültü",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "s: yaklaşık _4000 Hz_ üstü",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "ş: yaklaşık _2000 Hz_ civarından",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "f: zayıf ve _yaygın_",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "z, v, j: ek olarak _ötüm_",
+     "cumle": 6,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "unsuzler",
+      "metin": "s, ş, f",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Sürtünmeli ünsüzler (fricatives), hava ağızdaki dar bir geçitten zorlanarak geçerken oluşan türbülansla üretilir.",
+     "ses": "Sürtünmeli ünsüzler, hava ağızdaki dar bir geçitten zorlanarak geçerken oluşan türbülansla üretilir."
+    },
+    "Spektrogramda düzenli harmonikler yerine, geniş bir alana yayılmış, kumlu görünümlü bir gürültü olarak görünürler.",
+    "S sesinin enerjisi en tiz bölgededir; genellikle dört bin hertzin üzerinde yoğunlaşır.",
+    "Ş sesinde ise ağzın önündeki boşluk daha uzundur ve dudaklar hafifçe yuvarlanır.",
+    "Bu yüzden ş sesinin enerjisi daha aşağıdan, yaklaşık iki bin ile iki bin beş yüz hertz civarından başlar.",
+    "F sesi zayıf ve geniş bir alana yayılmış bir gürültüdür; bu yüzden en kolay kaçırılan seslerdendir.",
+    "Z, v ve j gibi ötümlü sürtünmelilerde gürültüye ek olarak, en altta ses tellerinin titreşimini gösteren bir ötüm bandı görülür."
+   ]
+  },
+  {
+   "id": "patlamali",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ünsüzler",
+   "baslik": "Patlamalılar ve *VOT*",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Kapanma",
+     "metin": "Kısa sessiz boşluk",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Patlama",
+     "metin": "Kısa dikey iz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "VOT",
+     "metin": "Patlamadan ötüme geçen süre",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "b, d, g",
+     "metin": "Ötüm patlamayla ya da önce",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "p, t, k",
+     "metin": "Ötüm gecikmeli, soluklu",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Patlamalı ünsüzlerde hava ağızda bir an tamamen kapatılır; spektrogramda bu kapanma kısa bir sessiz boşluk olarak görünür.",
+    "Ardından kapanma açılırken kısa, dikey bir patlama izi görülür.",
+    {
+     "yazi": "Patlama ile ses tellerinin titreşmeye başlaması arasındaki süreye ses başlama zamanı (voice onset time), kısaca VOT denir.",
+     "ses": "Patlama ile ses tellerinin titreşmeye başlaması arasındaki süreye ses başlama zamanı, kısaca VOT denir."
+    },
+    "Türkçede b, d, g gibi ötümlü patlamalılarda ötüm çoğu zaman patlamayla birlikte ya da ondan önce başlar.",
+    "P, t, k gibi ötümsüz patlamalılarda ise ötüm, belirgin bir gecikmeyle ve soluklu bir hışırtıdan sonra başlar.",
+    "Birkaç on milisaniyelik bu fark, beynin zamanlama bilgisini ne kadar hassas kullandığını gösterir."
+   ]
+  },
+  {
+   "id": "tiz_kayip",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte spektrogram",
+   "baslik": "Tiz kayıpta *neler kaybolur*?",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       20,
+       45,
+       65,
+       70
+      ],
+      "cumle": 0
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ünlüler _duyulur_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "s, ş, f _kaçar_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Ekler ve sözcükler _karışır_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Bu örnek odyogramda bin hertzden sonra hızla düşen bir kayıp var; ünlülerin enerjisi büyük ölçüde duyulabilir bölgede kalıyor.",
+    "Ancak s, ş ve f gibi sürtünmelilerin enerjisi eşik çizgisinin üstünde, yani duyulamayan bölgede kalıyor.",
+    "Kişi konuşmanın varlığını duyar, ama sözcükleri yanlış anlayabilir.",
+    "Türkçede birçok ek ve sözcük s sesi içerir; bu sesin kaçırılması anlamı değiştirebilir.",
+    "Kadın ve çocuk konuşmacılarda s sesinin enerjisi daha da tize kayar; bu, çocuklarda geniş bantlı amplifikasyonun önemini açıklar."
+   ]
+  },
+  {
+   "id": "ling",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte spektrogram",
+   "baslik": "Pratikte: *Ling altı ses*",
+   "maddeler": [
+    {
+     "metin": "m, u: _pes_ bölge",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "a: _orta_ bölge",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "i: pes F1, _tiz_ F2",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ş, s: _tiz_ bölge",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Günlük cihaz _kontrolü_",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "vurgula": [
+     {
+      "parca": "unluler",
+      "cumle": 2
+     },
+     {
+      "parca": "unsuzler",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Spektrogram bilgisinin pratik bir uygulaması Ling altı ses testidir.",
+    "Bu testte m, u, a, i, ş ve s sesleri kullanılır; bu sesler birlikte konuşmanın frekans aralığını kabaca kapsar.",
+    "M ve u pes bölgeyi, a ise orta bölgeyi temsil eder.",
+    "İ sesi pes bir birinci ve tiz bir ikinci formant taşır; ş ve s ise tiz bölgeyi temsil eder.",
+    "Özellikle çocuklarda, cihazın bu sesleri iletip iletmediğini hızlıca kontrol etmek için kullanılır; ayrıntısını ileride göreceğiz."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte spektrogram",
+   "baslik": "Spektrogram okuma *adımları*",
+   "adimlar": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sessiz boşluk",
+     "metin": "Patlamalının kapanması",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ötüm çizgileri",
+     "metin": "En alttaki ötüm bandı",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Formant bantları",
+     "metin": "F1 ve F2 yeri",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Tiz gürültü",
+     "metin": "Sürtünmeli ünsüzler",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Geçiş ve süre",
+     "metin": "Ünsüzden ünlüye geçiş",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bir spektrogramı okurken önce sessiz boşluklara bakın; bunlar çoğu zaman patlamalıların kapanma evresidir.",
+    "Sonra en altta ötüm bandını ve ses tellerinin titreşimini gösteren ince dikey çizgileri arayın.",
+    {
+     "yazi": "Ünlülerde koyu formant bantlarını bulun ve F1 ile F2'nin yerine bakın.",
+     "ses": "Ünlülerde koyu formant bantlarını bulun ve fe bir ile fe ikinin yerine bakın."
+    },
+    "Tiz bölgedeki geniş, kumlu gürültü alanları sürtünmeli ünsüzleri gösterir.",
+    "Son olarak ünsüz ile ünlü arasındaki formant geçişlerine ve seslerin sürelerine bakın.",
+    {
+     "yazi": "Praat gibi ücretsiz programlarla kendi sesinizin spektrogramını çıkararak bu adımları deneyebilirsiniz.",
+     "ses": "Prat gibi ücretsiz programlarla kendi sesinizin spektrogramını çıkararak bu adımları deneyebilirsiniz."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte spektrogram",
+   "baslik": "Klinik ipucu",
+   "metin": "Konuşma testinde hangi seslerin karıştığını kaydedin. s, ş ve f karışıklıkları çoğu zaman 2000 ile 8000 Hz bölgesiyle ilişkilidir ve cihaz ayarı için değerli bilgidir.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: konuşma testinde hastanın yalnız doğru yanıt sayısını değil, hangi sesleri karıştırdığını da not edin.",
+    "S, ş ve f karışıklıkları çoğu zaman odyogramın iki bin ile sekiz bin hertz arasındaki bölgesiyle ilişkilidir.",
+    "Örneğin s yerine ş ya da f duyan bir hasta, tiz bölgede yeterli işitilebilirliğe sahip olmayabilir.",
+    "Bu kayıtlar, cihaz ayarında ve danışmanlıkta değerli bir bilgi sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Eksenler: _zaman_, frekans, şiddet",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ünlüler _F1 ve F2_ ile tanınır",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sürtünmeliler: _tiz_ bölgede gürültü",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Patlamalılar: boşluk, patlama, _VOT_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Spektrogramda yatay eksen zamanı, dikey eksen frekansı, koyuluk ise şiddeti gösterir.",
+    "Ünlüler, ses yolunun rezonansları olan ilk iki formantın konumuyla tanınır.",
+    "Sürtünmeli ünsüzler tiz bölgede gürültü olarak görünür; s sesinin enerjisi genellikle dört bin hertzin üzerindedir.",
+    "Patlamalılarda kapanma boşluğu, patlama izi ve ses başlama zamanı ötümlü ve ötümsüz sesleri ayırır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Spektrogramda en tiz bölgede gürültü olarak görünen ses hangisidir?",
+   "secenekler": [
+    "a ünlüsü",
+    "m ünsüzü",
+    "s ünsüzü",
+    "u ünlüsü"
+   ],
+   "dogru": 2,
+   "aciklama": "S _sürtünmeli_ bir ünsüzdür; enerjisi genellikle 4000 Hz'in üzerinde yoğunlaşır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Spektrogramda en tiz bölgede gürültü olarak görünen ses hangisidir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap C: s ünsüzü.",
+     "ses": "Doğru cevap ce: s ünsüzü."
+    },
+    "S sürtünmeli bir ünsüzdür ve enerjisi genellikle dört bin hertzin üzerinde, kumlu bir gürültü olarak görünür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Konuşma muzu*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste konuşma seslerini odyogramın üzerine yerleştirecek ve konuşma muzunu göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

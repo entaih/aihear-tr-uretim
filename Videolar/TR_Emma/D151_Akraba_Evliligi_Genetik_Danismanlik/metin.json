@@ -1,0 +1,716 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D151_Akraba_Evliligi_Genetik_Danismanlik_TR",
+ "kapak": {
+  "ust": "DERS 151",
+  "baslik": "Akraba evliliği ve<br>*danışmanlık*",
+  "alt": "Resesif risk ve odyoloğun rolü",
+  "cizim": "koklea_kesit",
+  "ayar": {
+   "potasyum": true
+  }
+ },
+ "youtube": {
+  "baslik": "Akraba Evliliği ve Genetik Danışmanlıkta Odyoloğun Rolü | Ders 151 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Akraba evliliğinin otozomal resesif işitme kaybı riskini nasıl artırdığını, Türkiye'deki güncel verileri ve riskin doğru büyüklükle nasıl anlatılacağını ele alıyoruz. Genetik danışmanlığın ilkelerini, genetik teste yönlendirmeyi, test sonuçlarının anlamını ve aileye bilgi vermede odyoloğun rolünü anlatıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Koç, Türkiye'de Akraba Evliliklerinin Yaygınlığının Değişimi ve Dirençli Grupların Belirlenmesi, Turkish Journal of Public Health (2022); Bennett ve ark., Genetic counseling and screening of consanguineous couples and their offspring, Journal of Genetic Counseling (2002); Li ve ark., Clinical evaluation and etiologic diagnosis of hearing loss: A clinical practice resource of the ACMG, Genetics in Medicine (2022); GeneReviews, Genetic Hearing Loss Overview.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "genetikdanışmanlık",
+   "akrabaevliliği"
+  ],
+  "etiketler": [
+   "akraba evliliği",
+   "consanguinity",
+   "genetik danışmanlık",
+   "genetic counseling",
+   "taşıyıcı",
+   "carrier",
+   "otozomal resesif",
+   "genetik test sonucu",
+   "anlamı belirsiz varyant",
+   "işitme kaybı genetiği",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 151",
+   "baslik": "Akraba evliliği ve *danışmanlık*",
+   "alt": "Genetik danışmanlıkta odyoloğun rolü",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste akraba evliliğinin işitme kaybı riskine etkisini ve genetik danışmanlıkta odyoloğun rolünü öğreneceğiz.",
+    "Riskin nasıl anlatılacağını, genetik teste yönlendirmeyi ve test sonuçlarının anlamını ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Akraba evliliği",
+   "baslik": "Akraba evliliği *nedir?*",
+   "maddeler": [
+    {
+     "metin": "_Ortak atası_ olan iki kişi",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Birinci kuzenler: genlerin _sekizde biri_ ortak",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Aynı nadir değişiklik _iki kopyada_",
+     "cumle": 2,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Birçok toplumda _yaygın_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Tutum: _yargısız_ ve saygılı",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "BİRİNCİ KUZEN",
+    "metin": "Genlerin ortalama *sekizde biri* ortak",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Akraba evliliği (consanguinity), ortak bir atası olan iki kişinin evliliğidir; en sık örnek birinci kuzen evliliğidir.",
+    "Birinci kuzenler genlerinin ortalama sekizde birini ortak atalarından paylaşır.",
+    "Bu yüzden çocuklarının, aynı nadir değişikliği iki kopyada birden taşıma olasılığı artar.",
+    "Akraba evliliği dünyada birçok toplumda yaygındır ve kültürel, sosyal ve ekonomik nedenleri vardır.",
+    "Bu konuda odyoloğun tutumu yargılayıcı değil, bilgilendirici ve saygılı olmalıdır."
+   ]
+  },
+  {
+   "id": "turkiye",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Akraba evliliği",
+   "baslik": "Türkiye'de *akraba evliliği*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Yaklaşık 50 yıl önce",
+      "2": "TNSA 2018"
+     },
+     "ad": "Dönem"
+    },
+    "y": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Akraba evliliği (%)"
+    },
+    "seriler": [
+     {
+      "ad": "eski",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        27
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "yaklaşık yüzde 27",
+      "cumle": 1
+     },
+     {
+      "ad": "yeni",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        24
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "yaklaşık yüzde 24",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "genel",
+      "x": 2.5,
+      "y": 24,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "sari",
+      "etiket": "genel: yaklaşık yüzde 24",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Türkiye Nüfus ve Sağlık Araştırması, kısaca TNSA 2018 verilerine göre akraba evliliği oranı yaklaşık yüzde yirmi dörttür.",
+    "Bu oran son elli yılda yalnız biraz azalmış, yüzde yirmi yedi civarından yüzde yirmi dörde inmiştir.",
+    "Bu yavaş düşüş, akraba evliliğinin toplumda dirençli bir gelenek olduğunu gösterir.",
+    "Oran bölgeye, eğitim düzeyine ve kuşağa göre belirgin biçimde değişir.",
+    "Yani akraba evliliği azalıyor, ancak klinikte karşılaştığımız ailelerde hala sık bir öyküdür."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Akraba evliliği",
+   "baslik": "Risk *nasıl* artar?",
+   "adimlar": [
+    {
+     "ikon": "ev",
+     "baslik": "Ortak ata",
+     "metin": "Tek taşıyıcı",
+     "cumle": 0
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "İki kol",
+     "metin": "Değişiklik iki tarafa iner",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Kuzen evliliği",
+     "metin": "İkisi de taşıyıcı olabilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Çocuk",
+     "metin": "Her gebelikte yüzde 25",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Ortak atada bulunan tek bir resesif değişikliği düşünelim.",
+    "Bu değişiklik kuşaklar boyunca ailenin iki ayrı koluna geçebilir.",
+    "Bu iki koldan gelen kuzenler evlendiğinde, ikisinin de aynı değişikliği taşıma olasılığı artar.",
+    "İkisi de taşıyıcıysa her gebelikte çocuğun etkilenme olasılığı yüzde yirmi beştir.",
+    "Akraba olmayan çiftlerde aynı nadir değişikliğin iki tarafta birden bulunması çok daha düşük bir olasılıktır.",
+    "Bu yüzden akraba evliliği özellikle nadir resesif hastalıkların görülme sıklığını artırır."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Akraba evliliği",
+   "baslik": "Riskin *büyüklüğü*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Genel toplum",
+     "metin": "Yüzde 2 ile 3",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Birinci kuzen",
+     "metin": "Ek yaklaşık 2 ile 3 puan",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Çoğunluk",
+     "metin": "Sağlıklı doğar",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Bilinen hastalık",
+     "metin": "Risk çok daha yüksek",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Riskin büyüklüğünü doğru anlatmak, gereksiz kaygıyı da yanlış güveni de önler.",
+    "Genel toplumda her bebekte ciddi bir doğumsal sorun riski yaklaşık yüzde iki ile üç arasındadır.",
+    "Birinci kuzen çiftlerinde bu riske yaklaşık yüzde iki ile üç puanlık bir ek risk eklendiği bildirilmiştir.",
+    "Yani birinci kuzen çiftlerinin çocuklarının büyük çoğunluğu sağlıklı doğar.",
+    "Ancak ailede bilinen bir resesif hastalık varsa risk o hastalık için çok daha yüksek olabilir."
+   ]
+  },
+  {
+   "id": "isitme",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İşitme kaybı ve genetik",
+   "baslik": "İşitme kaybıyla *bağlantı*",
+   "maddeler": [
+    {
+     "metin": "Sendromik olmayan kayıpların çoğu _resesif_",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "_Nadir genler_ de iki kopyada buluşur",
+     "cumle": 1,
+     "ikon": "dna"
+    },
+    {
+     "metin": "_Yeni genlerin_ bulunmasına katkı",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Resesif _sendromlar_ da sıklaşır",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Her kayıp _genetik değildir_",
+     "cumle": 4,
+     "ikon": "virus"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        80,
+        90,
+        95,
+        100,
+        105,
+        105
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        80,
+        85,
+        95,
+        100,
+        100,
+        105
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Sendromik olmayan genetik kayıpların çoğu resesif kalıtıldığı için işitme kaybı bu konunun merkezindedir.",
+    "Akraba evliliğinde nadir genlerdeki değişiklikler de iki kopyada bir araya gelebilir; bu da genetik nedenleri çeşitlendirir.",
+    "Bu ailelerde iki kopyanın aynı atadan gelmesi, araştırmacıların yeni işitme genlerini bulmasına da yardım etmiştir.",
+    "Usher ve Pendred gibi resesif sendromlar da akraba evliliği olan ailelerde daha sık görülebilir.",
+    "Ancak akraba evliliği olan her ailede kaybın nedeni genetik değildir; enfeksiyon gibi çevresel nedenler de değerlendirilir."
+   ]
+  },
+  {
+   "id": "danismanlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İşitme kaybı ve genetik",
+   "baslik": "Genetik danışmanlık *nedir?*",
+   "maddeler": [
+    {
+     "metin": "Anlamaya ve _uyum sağlamaya_ yardım",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Bilgi, _risk_, test seçenekleri",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Yönlendirici değil_: karar ailenin",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Gizlilik ve _aydınlatılmış onam_",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Risk hesabı _odyoloğun işi değil_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "EKİP",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Tıbbi genetik",
+      "metin": "Tanı ve yorum",
+      "cumle": 4
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Genetik danışman",
+      "metin": "Danışmanlık",
+      "cumle": 4
+     },
+     {
+      "ikon": "odyolog",
+      "baslik": "Odyolog",
+      "metin": "İşitme bulguları",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Genetik danışmanlık (genetic counseling), kişinin ve ailenin genetik bir durumu anlamasına ve uyum sağlamasına yardım eden bir süreçtir.",
+    "Bilgi verme, risk hesaplama, test seçeneklerini anlatma ve karar sürecini destekleme bu sürecin parçalarıdır.",
+    "Danışmanlık yönlendirici değildir; kararlar aileye aittir ve danışman bir seçeneği dayatmaz.",
+    "Gizlilik, aydınlatılmış onam ve gönüllülük temel ilkelerdir.",
+    "Genetik danışmanlığı tıbbi genetik uzmanları ve genetik danışmanlar verir.",
+    "Odyolog bu ekibin bir parçasıdır, ancak risk hesabı ve sonuç yorumu onun görev alanı dışındadır."
+   ]
+  },
+  {
+   "id": "yonlendirme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yönlendirme ve sonuçlar",
+   "baslik": "Ne zaman *yönlendirilir?*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Nedeni bilinmeyen",
+     "metin": "Kalıcı sensörinöral kayıp",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Aile öyküsü",
+     "metin": "Kayıp ya da akrabalık",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Ek bulgular",
+     "metin": "Göz, böbrek, tiroit, kalp",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İlerleyen kayıp",
+     "metin": "Ailede tekrarlayan",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hangi durumlarda genetik değerlendirmeye yönlendirme düşünülür?",
+    "Güncel kılavuzlar, nedeni bilinmeyen kalıcı sensörinöral kaybı olan çocuklarda genetik değerlendirme önerir.",
+    "Ailede işitme kaybı öyküsü ya da anne ile baba arasında akrabalık olması yönlendirmeyi güçlendirir.",
+    "Göz, böbrek, tiroit, kalp ya da deri gibi işitme dışı bulgular sendromik bir nedeni düşündürür.",
+    "Erişkinde ilerleyen ve ailede tekrarlayan kayıplar da genetik açıdan değerlendirilebilir."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yönlendirme ve sonuçlar",
+   "baslik": "Sonuçların *anlamı*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Olumlu",
+     "metin": "Açıklayıcı değişiklik bulundu",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Olumsuz",
+     "metin": "Neden dışlanmadı",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Belirsiz",
+     "metin": "Karar için kullanılmaz",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Taşıyıcı",
+     "metin": "Tek kopya, genellikle etkilenmez",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Test sonuçlarının anlamını bilmek, aileyle konuşurken yanlış ifadelerden kaçınmayı sağlar.",
+    "Olumlu sonuç, kaybı açıklayan bir değişikliğin bulunduğunu gösterir; buna patojenik ya da olası patojenik varyant denir.",
+    "Olumsuz sonuç, kaybın genetik olmadığını değil, incelenen genlerde açıklayıcı bir değişiklik bulunmadığını gösterir.",
+    "Anlamı belirsiz varyant, zararlı ya da zararsız diye sınıflandırılamayan değişikliktir; klinik karar için kullanılmaz.",
+    "Taşıyıcılık sonucu, kişinin tek kopyada değişiklik taşıdığını ve resesif durumlarda genellikle etkilenmediğini gösterir.",
+    "Sonuçların bu ayrımla, sade bir dille ve genetik danışmanla birlikte açıklanması gerekir."
+   ]
+  },
+  {
+   "id": "ilkeler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Aileyle konuşmak",
+   "baslik": "Bilgi vermenin *ilkeleri*",
+   "maddeler": [
+    {
+     "metin": "Anlaşılır ve _yargısız_ dil",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Suçlama_ yok",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Sorunun _nedenini_ açıklayın",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Risk: _yüzde ve sıklık_ birlikte",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yazılı bilgi ve _izlem görüşmesi_",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÖRNEK",
+    "metin": "Yüzde 25 = *dört çocukta bir* olasılık",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Aileye bilgi verirken ilk ilke, anlaşılır ve yargısız bir dil kullanmaktır.",
+    "Suçlayıcı ifadelerden kaçının; kimse taşıdığı genden sorumlu değildir.",
+    "Akrabalığı sorarken bunun neden önemli olduğunu açıklayın; soru suçlama gibi algılanmamalıdır.",
+    "Riskleri yüzdeyle birlikte sıklık olarak da anlatın; örneğin yüzde yirmi beş, dört çocukta bir olasılık demektir.",
+    "Bilginin bir kerede anlaşılamayacağını kabul edin; yazılı bilgi ve bir izlem görüşmesi önerin.",
+    "Ailenin iletişim ve eğitim tercihlerine, işaret dili dahil, saygı gösterin."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yüzde 25 risk her gebelikte yeniden geçerlidir. İlk çocuk etkilendiyse sonraki üçünün sağlıklı olacağı yanılgısını nazikçe düzeltin.",
+   "cumleler": [
+    "Bir klinik ipucu: yüzde yirmi beş riski anlatırken sık görülen bir yanılgıya dikkat edin.",
+    "Bazı aileler, ilk çocuk etkilendiyse sonraki üç çocuğun sağlıklı olacağını düşünür.",
+    "Oysa risk her gebelikte yeniden aynıdır; bir önceki gebeliğin sonucu bir sonrakini değiştirmez.",
+    "Bu ayrıntıyı netleştirmek ve soruları genetik danışmanla birlikte yanıtlamak, yanlış kararların önüne geçer."
+   ]
+  },
+  {
+   "id": "akrabalar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Aileyle konuşmak",
+   "baslik": "Akrabalar ve *gelecek*",
+   "maddeler": [
+    {
+     "metin": "Akrabalara _taşıyıcılık testi_ seçeneği",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Akraba evliliği planlayan _genç çiftler_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Gebelik seçenekleri: _danışmanlıkta_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Karar _tamamen ailenin_",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Farklılığa _saygı_",
+     "cumle": 4,
+     "ikon": "kalp"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SEÇENEK",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "gen_dna",
+      "baslik": "Taşıyıcı testi",
+      "metin": "Akrabalar için",
+      "cumle": 0
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Danışmanlık",
+      "metin": "Bilgi ve destek",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Ailede değişiklik bulunduğunda, akrabalara taşıyıcılık testi seçeneği sunulabilir.",
+    "Bu bilgi, özellikle akrabasıyla evlenmeyi düşünen ya da akrabasıyla evli genç çiftler için anlamlıdır.",
+    "Gelecekteki gebeliklerle ilgili seçenekler genetik danışmanlıkta ayrıntılı olarak konuşulur.",
+    "Bu seçenekleri kullanıp kullanmamak tamamen ailenin kararıdır.",
+    "İşitme kaybını bir eksiklik değil bir farklılık olarak gören aileler de vardır; bu bakış açısına da saygı gösterilir."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Aileyle konuşmak",
+   "baslik": "Odyoloğun *adımları*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Fark et",
+     "metin": "Öykü ve bulgular",
+     "cumle": 1
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Anlat",
+     "metin": "Değerlendirmenin amacı",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Yönlendir",
+     "metin": "Hekim aracılığıyla",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Paylaş",
+     "metin": "Eksiksiz işitme bulguları",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzle",
+     "metin": "Sonuç ne olursa olsun",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Odyoloğun genetik süreçteki rolünü adım adım özetleyelim.",
+    "Önce öykü ve bulgularla genetik değerlendirmeden yararlanabilecek aileyi fark eder.",
+    "Aileye genetik değerlendirmenin amacını ve neler içerebileceğini kısaca anlatır.",
+    "Hekim aracılığıyla tıbbi genetik birimine yönlendirmeyi sağlar.",
+    "Odyogram, işitsel beyin sapı yanıtı, yani ABR ve diğer işitme bulgularını eksiksiz ve anlaşılır biçimde paylaşır.",
+    "Genetik sonuç ne olursa olsun işitme izlemini ve rehabilitasyonu sürdürür."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Akrabalık _resesif_ riski artırır",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Türkiye: yaklaşık _yüzde 24_, azalıyor",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Danışmanlık _yönlendirici değil_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Olumsuz sonuç: _neden dışlanmadı_",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Akraba evliliği, aynı nadir resesif değişikliğin çocukta iki kopyada bir araya gelme olasılığını artırır.",
+    "TNSA 2018 verilerine göre Türkiye'de oran yaklaşık yüzde yirmi dörttür ve genç kuşaklarda belirgin biçimde düşmektedir.",
+    "Genetik danışmanlık yönlendirici değildir; bilgi verir ve kararı aileye bırakır.",
+    "Olumsuz test sonucu genetik nedeni dışlamaz; sonuçlar genetik danışmanla birlikte açıklanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Taşıyıcı çiftin ilk çocuğu etkilendiyse ikinci çocukta risk nedir?",
+   "secenekler": [
+    "Sıfır",
+    "Yüzde 25",
+    "Yüzde 50",
+    "Yüzde 100"
+   ],
+   "dogru": 1,
+   "aciklama": "Risk _her gebelikte_ yeniden yüzde 25'tir; önceki sonuç değiştirmez.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Taşıyıcı bir çiftin ilk çocuğu etkilendiyse, ikinci çocuğun etkilenme olasılığı nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yüzde yirmi beş.",
+    "Risk her gebelikte yeniden aynıdır; bir önceki çocuğun durumu bu olasılığı değiştirmez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Baş dönmesi olan hastaya *yaklaşım*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste vestibüler değerlendirmeye geçiyor, baş dönmesi olan hastaya öyküyle nasıl yaklaşılacağını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

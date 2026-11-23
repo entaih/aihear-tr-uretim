@@ -1,0 +1,874 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D230_Ototoksisite_Izlemi_TR",
+ "kapak": {
+  "ust": "DERS 230",
+  "baslik": "Ototoksisite<br>*izlemi*",
+  "alt": "Protokol ve ASHA ölçütleri",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "DPOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "Ototoksisite izlem protokolü ve ASHA ölçütleri | Ders 230 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Ototoksik tedavi alan hastanın işitmesi nasıl izlenir? Bu derste başlangıç testini, izlem zaman çizelgesini, genişletilmiş yüksek frekans odyometrisini, ASHA 1994 ölçütlerini, DPOAE ve vestibüler izlemi, onkolojideki CTCAE derecelendirmesini ve bulguların ekibe bildirilmesini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: American Speech-Language-Hearing Association (1994), Guidelines for the audiologic management of individuals receiving cochleotoxic drug therapy; American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring; Fausti ve ark. (1999), An individualized, sensitive frequency range for early detection of ototoxicity, Ear and Hearing; National Cancer Institute, Common Terminology Criteria for Adverse Events (CTCAE) v5.0; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ototoksisite",
+   "onkoloji"
+  ],
+  "etiketler": [
+   "ototoksisite izlemi",
+   "ototoxicity monitoring",
+   "ASHA ölçütleri",
+   "genişletilmiş yüksek frekans odyometrisi",
+   "extended high frequency audiometry",
+   "DPOAE",
+   "başlangıç testi",
+   "seri izlem",
+   "CTCAE",
+   "sisplatin",
+   "aminoglikozid",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 230",
+   "baslik": "Ototoksisite *izlemi*",
+   "alt": "Protokol, ASHA ölçütleri ve yüksek frekanslar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste ototoksik tedavi alan hastaların işitmesinin nasıl izlendiğini adım adım öğreneceğiz.",
+    "Başlangıç testini, Amerikan Konuşma Dil İşitme Derneği ölçütlerini, genişletilmiş yüksek frekansları ve otoakustik emisyonu göreceğiz."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İzlemin amacı",
+   "baslik": "Neden *izliyoruz?*",
+   "maddeler": [
+    {
+     "metin": "Değişikliği erken yakalamak",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Konuşma frekanslarına inmeden önce",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ekibe zamanında bilgi vermek",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Rehabilitasyonu planlamak",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SERİ İZLEM",
+    "metin": "Her testi kişinin *kendi başlangıcıyla* karşılaştırmak",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Ototoksisite izleminin amacı, işitmedeki değişikliği mümkün olan en erken aşamada yakalamaktır.",
+    "Hasar genellikle yüksek frekanslarda başladığı için, konuşmayı etkilemeden önce fark edilebilir.",
+    "Bu bilgi, tedavi ekibinin yararı ve riski birlikte tartabilmesi için zamanında iletilir.",
+    "Tedaviye ilişkin karar, yani ilacın sürdürülmesi ya da değiştirilmesi, her zaman hekim ve ekibe aittir.",
+    "Kayıp gelişmişse izlem, işitme cihazı ve iletişim desteğinin gecikmeden planlanmasını da sağlar.",
+    "Amerikan Konuşma Dil İşitme Derneği, kısaca ASHA 1994'te, Amerikan Odyoloji Akademisi de 2009'da bu izlem için kılavuz yayımladı."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İzlemin amacı",
+   "baslik": "İzlemin *zaman çizelgesi*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Başlangıç",
+     "cumle": 0,
+     "metin": "İlk dozdan önce"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Tedavi sırasında",
+     "cumle": 2,
+     "metin": "Kür öncesi ya da haftalık"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Tedavi sonu",
+     "cumle": 4,
+     "metin": "Son dozdan sonra"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Geç izlem",
+     "cumle": 5,
+     "metin": "Aylar boyunca"
+    }
+   ],
+   "cumleler": [
+    "İzlem, başlangıç testi (baseline testing) ile başlar; ideal olan, testin ilk ilaç dozundan önce yapılmasıdır.",
+    "Bu mümkün olmazsa test, tedavi başladıktan sonra olabildiğince kısa sürede tamamlanır.",
+    "Tedavi sırasında test aralığı ilaca göre değişir; sisplatinde genellikle her kürden önce test yapılır.",
+    "Aminoglikozidlerde tedavi süresince genellikle haftada bir ya da iki kez test önerilir.",
+    "Tedavi bittiğinde bir test daha yapılır.",
+    "Etkiler tedavi sonrasında da başlayabildiği ya da ilerleyebildiği için izlem birkaç ay daha sürdürülür; çocuklarda daha uzun izlem önerilir."
+   ]
+  },
+  {
+   "id": "kimler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İzlemin amacı",
+   "baslik": "Kimler *izlenmeli?*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Platin tedavisi",
+     "cumle": 0,
+     "metin": "Sisplatin, yüksek doz karboplatin"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Aminoglikozid",
+     "cumle": 1,
+     "metin": "Özellikle uzun süreli"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Kafaya ışınlama",
+     "cumle": 3,
+     "metin": "Koklea ışın alanında"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Yoğun bakım bebeği",
+     "cumle": 4,
+     "metin": "Ototoksik ilaç öyküsü"
+    },
+    {
+     "ikon": "isitme_kaybi",
+     "baslik": "Önceden kayıp",
+     "cumle": 5,
+     "metin": "Az yedek, büyük etki"
+    }
+   ],
+   "cumleler": [
+    "Sisplatin alan herkes ve yüksek doz karboplatin alan hastalar izlem programına alınmalıdır.",
+    "Aminoglikozidlerde, özellikle uzun süreli ya da tekrarlayan tedavilerde izlem önerilir.",
+    "Kistik fibrozlu hastalar ve ilaca dirençli tüberküloz tedavisi görenler bu açıdan yüksek risk grubundadır.",
+    "Kokleanın ışın alanında kaldığı kafa bölgesi radyoterapisi de izlem gerektirir.",
+    "Ototoksik ilaç almış yenidoğanlar, taramadan geçmiş olsalar bile işitme açısından izlenir.",
+    "Önceden işitme kaybı olan kişilerde küçük bir ek kayıp bile iletişimi belirgin biçimde bozabilir; bu yüzden izlem daha da önemlidir."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Başlangıç testi",
+   "baslik": "Başlangıç *testinde* neler var?",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Öykü",
+     "cumle": 0,
+     "metin": "İlaç, gürültü, aile, çınlama"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi, timpanometri",
+     "cumle": 1,
+     "metin": "Orta kulak durumu"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Saf ses",
+     "cumle": 2,
+     "metin": "250 ile 8000 Hz"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Yüksek frekans",
+     "cumle": 3,
+     "metin": "9000 Hz ve üstü"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma testleri",
+     "cumle": 4,
+     "metin": "Konuşmayı alma, tanıma"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "DPOAE",
+     "cumle": 5,
+     "metin": "Dış tüy hücresi işlevi"
+    }
+   ],
+   "cumleler": [
+    "Başlangıç testi, sonraki tüm karşılaştırmaların temelidir; bu yüzden olabildiğince eksiksiz yapılır.",
+    "Öyküde önceki ototoksik ilaçlar, gürültü, aile öyküsü, çınlama ve denge yakınmaları sorgulanır; otoskopi ve timpanometri yapılır.",
+    "Saf ses odyometrisi 250 ile 8000 Hz arasında, ara frekanslar da dahil olmak üzere yapılır.",
+    "Mümkünse 8000 Hz'in üzerindeki genişletilmiş yüksek frekanslar da test edilir.",
+    "Konuşmayı alma eşiği ve kelime tanıma skoru, işlevsel durumu belgelemek için kaydedilir.",
+    "Distorsiyon ürünü otoakustik emisyon, kısaca DPOAE de kaydedilir; çünkü dış tüy hücresi değişikliğini erken gösterebilir."
+   ]
+  },
+  {
+   "id": "ehf",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Başlangıç testi",
+   "baslik": "Genişletilmiş *yüksek frekanslar*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000,
+      12500,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 90,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "baslangic",
+      "noktalar": [
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        15
+       ],
+       [
+        10000,
+        20
+       ],
+       [
+        12500,
+        30
+       ],
+       [
+        14000,
+        40
+       ],
+       [
+        16000,
+        50
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "başlangıç",
+      "cumle": 2
+     },
+     {
+      "ad": "izlem",
+      "noktalar": [
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        20
+       ],
+       [
+        10000,
+        35
+       ],
+       [
+        12500,
+        55
+       ],
+       [
+        14000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "tedavi sırasında",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "ehf",
+      "x": [
+       9000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "genişletilmiş yüksek frekans",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yanit_yok",
+      "x": 16000,
+      "y": 85,
+      "etiket": "yanıt yok",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Genişletilmiş yüksek frekans odyometrisi (extended high-frequency audiometry), 8000 Hz'in üzerini, genellikle 16000 Hz'e kadar test eder.",
+    "Bu test özel kulaklıklar ve bu frekanslar için kalibre edilmiş bir odyometre gerektirir.",
+    "Ekrandaki örnekte lacivert kesik çizgi, tedavi öncesindeki başlangıç eşiklerini gösteriyor.",
+    "Kırmızı çizgi tedavi sırasındaki testtir; 8000 Hz'e kadar eşikler hemen hemen aynı kalmış.",
+    "Ancak 10000 Hz ve üzerinde belirgin bir kötüleşme var; en yüksek frekansta yanıt alınamıyor.",
+    "Yani standart odyogram henüz normal görünürken değişiklik genişletilmiş frekanslarda yakalanmış oluyor.",
+    "Bu frekanslarda tekrar test farkları daha büyük olabilir; bu yüzden aynı kulaklık ve dikkatli yerleşim önemlidir."
+   ]
+  },
+  {
+   "id": "sro",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Başlangıç testi",
+   "baslik": "Kişiye özel *kısa protokol*",
+   "maddeler": [
+    {
+     "metin": "Yanıt verilen en yüksek frekans bulunur",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Altındaki yakın frekanslar eklenir",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Yorgun hastada kısa test",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Her izlemde aynı frekanslar",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Hasta yatağında, yorgun ve hasta kişilerle uzun test yapmak her zaman mümkün değildir.",
+    "Bazı programlarda önce kişinin yanıt verebildiği en yüksek frekans bulunur.",
+    "Ardından bu frekansın hemen altındaki birkaç yakın frekans, küçük adımlarla test edilir; bu aralığa ototoksisiteye duyarlı aralık denir.",
+    "Böylece değişikliğin en erken görüleceği bölge, kısa sürede ve her kişiye özel olarak izlenir.",
+    "Hangi yöntem seçilirse seçilsin, her izlemde aynı frekanslar ve aynı koşullar kullanılır."
+   ]
+  },
+  {
+   "id": "asha",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "ASHA ölçütleri",
+   "baslik": "*ASHA* ölçütleri",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "20 dB",
+     "cumle": 1,
+     "metin": "Herhangi tek bir frekansta"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İki komşu",
+     "cumle": 2,
+     "metin": "Her birinde 10 dB"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Yanıt kaybı",
+     "cumle": 3,
+     "metin": "Ardışık üç frekansta"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Doğrulama",
+     "cumle": 5,
+     "metin": "Tekrar testle teyit"
+    }
+   ],
+   "cumleler": [
+    "ASHA'nın 1994 kılavuzu, başlangıca göre anlamlı değişikliği üç ölçütle tanımlar; ölçütlerden birinin karşılanması yeterlidir.",
+    "Birincisi, herhangi bir test frekansında 20 desibel ya da daha fazla kötüleşmedir.",
+    "İkincisi, ardışık, yani komşu iki frekansta 10 desibel ya da daha fazla kötüleşmedir.",
+    "Üçüncüsü, daha önce yanıt alınan ardışık üç frekansta artık yanıt alınamamasıdır.",
+    "Bu üçüncü ölçüt özellikle genişletilmiş yüksek frekanslarda, cihaz sınırına yakın eşiklerde önemlidir.",
+    "Hangi ölçüt karşılanırsa karşılansın, değişiklik tekrar testle doğrulanmadan ototoksisite olarak bildirilmez.",
+    "ASHA ölçütleri değişikliğin var olup olmadığını söyler; kaybın derecesini değil."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "ASHA ölçütleri",
+   "baslik": "Örnek *karşılaştırma*",
+   "sutunlar": [
+    "Frekans",
+    "Başlangıç",
+    "İzlem",
+    "Fark"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "6000 Hz",
+      "10 dB",
+      "15 dB",
+      "5 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "15 dB",
+      "25 dB",
+      "10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "10000 Hz",
+      "20 dB",
+      "30 dB",
+      "10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "12500 Hz",
+      "30 dB",
+      "45 dB",
+      "15 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Sonuç",
+      "",
+      "",
+      "İki komşuda 10 dB"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Bir örnek üzerinde ölçütleri uygulayalım: 6000 Hz'de fark yalnızca 5 desibel; tek başına anlamlı değil.",
+    "8000 ve 10000 Hz'de ise ikisinde de 10 desibel kötüleşme var; test edilen dizide bu iki frekans komşudur.",
+    "12500 Hz'de fark 15 desibel; tek frekans ölçütü olan 20 desibele ulaşmıyor.",
+    "Sonuçta bu kulak, iki komşu frekansta 10 desibel ölçütünü karşılıyor.",
+    "Sonraki adım, kulaklığı yeniden yerleştirip bu frekansları tekrar test etmek ve bulguyu doğrulamaktır.",
+    "Doğrulanırsa bulgu, hangi ölçütün karşılandığı açıkça yazılarak ekibe bildirilir."
+   ]
+  },
+  {
+   "id": "dogrulama",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "ASHA ölçütleri",
+   "baslik": "Neden *doğrulama?*",
+   "maddeler": [
+    {
+     "metin": "Tekrar test farkı yaklaşık 5 dB",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Yüksek frekansta daha büyük",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kulaklık yerleşimi kritik",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Aynı cihaz, aynı yöntem",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Orta kulağı kontrol et",
+     "cumle": 4,
+     "ikon": "otoskop"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "YANILTICILAR",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "kulaklik",
+      "baslik": "Kulaklık kayması",
+      "cumle": 2,
+      "metin": "Yüksek frekansta etkili"
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Orta kulak",
+      "cumle": 4,
+      "metin": "İletim bileşeni"
+     }
+    ]
+   },
+   "cumleler": [
+    "Aynı kişide aynı gün yapılan iki test arasında yaklaşık 5 desibellik fark olağandır.",
+    "Genişletilmiş yüksek frekanslarda bu fark daha büyük olabilir; tek ölçüm yanıltabilir.",
+    "Özellikle yüksek frekanslarda kulaklığın küçük bir kayması eşiği belirgin biçimde değiştirebilir.",
+    "Her izlemde aynı cihaz, aynı kulaklık tipi ve aynı eşik bulma yöntemi kullanılır.",
+    "Yeni bir orta kulak sorunu da eşikleri kötüleştirebilir; bu yüzden her izlemde timpanometri tekrarlanır."
+   ]
+  },
+  {
+   "id": "dpoae",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Objektif testler",
+   "baslik": "Davranışsal test *yapılamıyorsa*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "emisyon: dış tüy hücresi",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "DPOAE erken değişebilir",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Orta kulak normal olmalı",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Bebekte yüksek frekans ABR",
+     "cumle": 4,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Bazı hastalar çok küçük, çok hasta ya da yanıt veremeyecek durumda olabilir.",
+    "Bu durumda DPOAE, dış tüy hücresi işlevindeki değişikliği objektif olarak izlemenin değerli bir yoludur.",
+    "DP-gramdaki yüksek frekans bileşenlerinin azalması, odyogramdan önce ortaya çıkabilir.",
+    "Ancak DPOAE için orta kulağın normal olması gerekir; efüzyon emisyonu tek başına silebilir.",
+    "Bebeklerde ve çok küçük çocuklarda yüksek frekanslı uyaranlarla işitsel beyin sapı yanıtı da kullanılabilir.",
+    "Çocuklarda yaşa uygun davranışsal yöntemler, örneğin koşullu oyun odyometrisi, mümkün olduğunca sürdürülür.",
+    "Hastanın çınlama ya da kulak dolgunluğu yakınması da her izlemde sorgulanır ve kaydedilir."
+   ]
+  },
+  {
+   "id": "ctcae",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Objektif testler",
+   "baslik": "Onkolojide *derecelendirme*",
+   "sutunlar": [
+    "Derece",
+    "Frekans",
+    "Ortalama kötüleşme"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Derece 1",
+      "İki komşu",
+      "15 ile 25 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Derece 2",
+      "İki komşu",
+      "25 dB üstü"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Derece 3",
+      "Üç komşu",
+      "25 dB üstü"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Derece 4",
+      "",
+      "Çok ileri kayıp"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Onkoloji çalışmalarında yan etkiler, Advers Olaylar için Ortak Terminoloji Ölçütleri, kısaca CTCAE ile derecelendirilir.",
+    "İzlem programındaki yetişkinde derece 1, iki komşu frekansın ortalamasında 15 ile 25 desibel kötüleşmedir.",
+    "Derece 2, iki komşu frekansta ortalama 25 desibelden fazla kötüleşmedir.",
+    "Derece 3'te aynı kötüleşme ardışık üç frekansta görülür.",
+    "Derece 4 ise çok ileri derecede kalıcı işitme kaybını tanımlar.",
+    "Çocuklar için Brock, Chang ve SIOP Boston ölçekleri geliştirilmiştir; bunları bir sonraki derste ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Objektif testler",
+   "baslik": "Denge organını *izlemek*",
+   "maddeler": [
+    {
+     "metin": "Osilopsi ve dengesizliği sorgula",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Yatak başı baş itme testi",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Video baş itme testi",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Belirti varsa hekime bildir",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ampulla",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Aminoglikozid alan hastalarda yalnızca işitme değil, denge organı da izlenmelidir.",
+    "Baş hareketinde görüntünün sıçraması ve karanlıkta dengesizlik her izlemde sorgulanır.",
+    "Yatak başında yapılan baş itme testi, iki taraflı vestibüler kaybın kaba ama hızlı bir göstergesidir.",
+    "Uygun hastalarda video baş itme testi, kısaca vHIT ile vestibülo-oküler refleks kazancı ölçülerek izlenebilir.",
+    "Vestibüler belirti saptanırsa bu bulgu da işitme bulgusu gibi gecikmeden ekibe bildirilir."
+   ]
+  },
+  {
+   "id": "bildirim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Bildirim",
+   "baslik": "Bulgudan *bildirime*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Karşılaştır",
+     "cumle": 0,
+     "metin": "Başlangıçla"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Doğrula",
+     "cumle": 1,
+     "metin": "Tekrar test"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Yaz",
+     "cumle": 2,
+     "metin": "Ölçüt, kulak, frekans"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Bildir",
+     "cumle": 3,
+     "metin": "Aynı gün, açık dille"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Destekle",
+     "cumle": 5,
+     "metin": "Danışmanlık, cihaz"
+    }
+   ],
+   "cumleler": [
+    "Her izlem testi başlangıç testiyle frekans frekans karşılaştırılır.",
+    "Anlamlı bir değişiklik tekrar testle doğrulanır.",
+    "Raporda hangi kulakta, hangi frekanslarda ve hangi ölçüte göre değişiklik olduğu açıkça yazılır.",
+    "Bulgu tedavi ekibine aynı gün, teknik terimleri açıklayan anlaşılır bir dille iletilir.",
+    "Değişikliğin konuşma frekanslarına ne kadar yakın olduğunu belirtmek, ekibin yararı ve riski tartmasına yardım eder.",
+    "Hastaya ve ailesine de bulgu anlatılır; gerekirse iletişim stratejileri ve işitme cihazı planlanır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Başlangıç testini ilk dozdan önce yapmayı hedefleyin. Hasta yatağında testte insert kulaklık kullanın ve ortam gürültüsünü kaydedin; aynı koşulları sonraki testlerde tekrarlayın.",
+   "cumleler": [
+    "Sahadan bir ipucu: başlangıç testini kaçırmamak için onkoloji ve enfeksiyon ekipleriyle önceden bir yönlendirme düzeni kurun.",
+    "Hasta yatağında test yaparken insert kulaklık, ortam gürültüsünü azaltır ve tekrar edilebilirliği artırır.",
+    "Test ortamını, kullanılan kulaklığı ve hastanın durumunu kaydedin; sonraki testlerde aynı koşulları sağlamaya çalışın.",
+    "Küçük bir hazırlık, yanlış alarmları ve gözden kaçan değişiklikleri belirgin biçimde azaltır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Başlangıç testi: ilk dozdan önce",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Yüksek frekanslar ve DPOAE erken uyarır",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ASHA: 20 ya da 10 dB, yanıt kaybı",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Doğrula, ekibe hızlı bildir",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "İzlem, ideal olarak ilk dozdan önce yapılan ayrıntılı bir başlangıç testiyle başlar ve tedavi sonrasında da sürer.",
+    "Genişletilmiş yüksek frekanslar ve DPOAE, değişikliği standart odyogramdan önce gösterebilir.",
+    "ASHA ölçütleri: bir frekansta 20 desibel, iki komşu frekansta 10 desibel ya da üç frekansta yanıt kaybı.",
+    "Değişiklik tekrar testle doğrulanır ve ekibe hızla bildirilir; tedavi kararı her zaman hekime aittir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "ASHA'ya göre aşağıdakilerden hangisi tek başına anlamlı değişikliktir?",
+   "secenekler": [
+    "Bir frekansta 10 dB",
+    "İki komşu frekansta 10 dB",
+    "Uzak iki frekansta 10 dB",
+    "Bir frekansta 15 dB"
+   ],
+   "dogru": 1,
+   "aciklama": "Ölçütler: tek frekansta 20 dB, _iki komşu frekansta 10 dB_, üç frekansta yanıt kaybı.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: ASHA ölçütlerine göre aşağıdakilerden hangisi tek başına anlamlı bir değişikliktir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: iki komşu frekansta 10 desibel kötüleşme.",
+    "Tek frekansta ise en az 20 desibel gerekir; her durumda bulgu tekrar testle doğrulanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Çocuklarda ototoksisite: *Brock, Chang, SIOP*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste çocuklarda ototoksisitenin Brock, Chang ve SIOP Boston ölçekleriyle nasıl derecelendirildiğini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

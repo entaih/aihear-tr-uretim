@@ -1,0 +1,877 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D182_Kanallar_ve_Frekans_Dusurme_TR",
+ "kapak": {
+  "ust": "DERS 182",
+  "baslik": "Kanallar ve<br>*frekans düşürme*",
+  "alt": "Kanal, bant, sıkıştırma, aktarma",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 4000
+  }
+ },
+ "youtube": {
+  "baslik": "Kanallar, bantlar ve frekans düşürme | Ders 182 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazında kanal ile bant arasındaki fark nedir ve duyulamayan yüksek frekanslar nasıl taşınır? Bu derste çok kanallı işlemeyi, dik düşen kayıp ve ölü bölgeleri, frekans sıkıştırma ve aktarmayı, aday seçimi ve doğrulamayı öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Moore, Dead regions in the cochlea: conceptual foundations, diagnosis, and clinical applications, Ear and Hearing (2004); Vickers, Moore ve Baer, Effects of low-pass filtering on the intelligibility of speech in quiet for people with and without dead regions at high frequencies, Journal of the Acoustical Society of America (2001); Glista ve ark., Evaluation of nonlinear frequency compression: clinical outcomes, International Journal of Audiology (2009); Bor, Souza ve Wright, Multichannel compression: effects of reduced spectral contrast on vowel identification, Journal of Speech, Language, and Hearing Research (2008).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "frekansdüşürme"
+  ],
+  "etiketler": [
+   "kanal",
+   "bant",
+   "channel",
+   "band",
+   "frekans düşürme",
+   "frequency lowering",
+   "frekans sıkıştırma",
+   "frequency compression",
+   "frekans aktarma",
+   "ölü bölge",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 182",
+   "baslik": "Kanallar ve *frekans düşürme*",
+   "alt": "Kanal, bant, frekans sıkıştırma ve aktarma",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme cihazlarında kanal ve bant kavramlarının farkını ve kanal sayısının ne anlama geldiğini öğreneceğiz.",
+    "Ardından duyulması zor yüksek frekansları daha alçak bölgelere taşıyan frekans düşürme yöntemlerini göreceğiz."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kanal ve bant",
+   "baslik": "Kanal mı, *bant* mı?",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Kanal",
+     "cumle": 1,
+     "metin": "Kendi kompresyon ayarı olan bölge"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bant",
+     "cumle": 3,
+     "metin": "Kazancı ayarlanabilen bölge"
+    }
+   ],
+   "cumleler": [
+    "Dijital cihaz, sesi süzgeç bankalarıyla bir dizi frekans bölgesine ayırır.",
+    "Kanal (channel), kendi kompresyon eşiği, oranı ve zaman sabitleri olan bir frekans bölgesidir.",
+    "Yani her kanalda kazanç, o kanaldaki giriş düzeyine göre bağımsız olarak değişir.",
+    "Bant (band) ise kazancın ayrı ayrı ayarlanabildiği frekans bölgesidir; ince ayar ekranındaki tutamaklar çoğu zaman bantlardır.",
+    "Bir cihazda örneğin 20 bant ve 8 kanal olabilir; birkaç bant aynı kanalın kompresyon ayarını paylaşır.",
+    "Üreticiler bu terimleri her zaman aynı anlamda kullanmaz; bu yüzden ürün belgesindeki tanıma bakmak gerekir.",
+    "Klinik açıdan önemli olan, kazancı ne kadar ince biçimlendirebildiğiniz ve kompresyonu kaç bölgede ayrı ayarlayabildiğinizdir."
+   ]
+  },
+  {
+   "id": "kanallar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kanal ve bant",
+   "baslik": "Çok kanallı *işleme*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Kazanç (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "kazanc",
+      "noktalar": [
+       [
+        200,
+        6
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        18
+       ],
+       [
+        1500,
+        25
+       ],
+       [
+        2000,
+        32
+       ],
+       [
+        3000,
+        38
+       ],
+       [
+        4000,
+        40
+       ],
+       [
+        6000,
+        36
+       ],
+       [
+        8000,
+        28
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": 6,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kanal_1",
+      "x": [
+       200,
+       750
+      ],
+      "renk": "mavi",
+      "etiket": "1",
+      "cumle": 0
+     },
+     {
+      "ad": "kanal_2",
+      "x": [
+       750,
+       1500
+      ],
+      "renk": "sari",
+      "etiket": "2",
+      "cumle": 0
+     },
+     {
+      "ad": "kanal_3",
+      "x": [
+       1500,
+       3000
+      ],
+      "renk": "mavi",
+      "etiket": "3",
+      "cumle": 0
+     },
+     {
+      "ad": "kanal_4",
+      "x": [
+       3000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "4",
+      "cumle": 0
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kanal_1",
+     "cumle": 1
+    },
+    {
+     "parca": "kanal_2",
+     "cumle": 2
+    },
+    {
+     "parca": "kanal_3",
+     "cumle": 2
+    },
+    {
+     "parca": "kanal_4",
+     "cumle": 3
+    },
+    {
+     "parca": "kanal_1",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bu örnekte cihazın frekans aralığı dört kanala ayrılmış.",
+    "Alçak frekanslı birinci kanalda kayıp az olduğu için kazanç da azdır.",
+    "Orta frekanslardaki ikinci ve üçüncü kanallarda kazanç giderek artar.",
+    "Yüksek frekanslı dördüncü kanalda kayıp en fazladır ve en çok kazanç bu bölgede gerekir.",
+    "Her kanal kendi giriş düzeyine tepki verdiği için, yüksek bir alçak frekans gürültüsü yalnız birinci kanalın kazancını azaltır.",
+    "Böylece aynı anda gelen yüksek frekanslı konuşma sesleri gereksiz yere bastırılmaz.",
+    "Kanalların sınırları ve sayısı, cihazın yazılımında tanımlıdır ve bazı cihazlarda değiştirilebilir."
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kanal ve bant",
+   "baslik": "Kanal *sayısı*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "İnce biçimlendirme",
+     "cumle": 0,
+     "metin": "Odyograma daha iyi uyum"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Bölgesel işlem",
+     "cumle": 2,
+     "metin": "Gürültü ve geri besleme"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Spektral düzleşme",
+     "cumle": 4,
+     "metin": "Ünlü ipuçları azalabilir"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Azalan ek yarar",
+     "cumle": 6,
+     "metin": "Fazlası her zaman iyi değil"
+    }
+   ],
+   "cumleler": [
+    "Daha çok kanal, kazancın ve kompresyonun odyogramın biçimine daha ince uyarlanmasını sağlar.",
+    "Bu özellikle dik düşen ya da çentikli kayıplarda yararlıdır.",
+    "Gürültü azaltma ve geri besleme yönetimi de yalnız sorunlu kanallarda çalışarak diğer bölgeleri korur.",
+    "Ancak her kanalın hızlı ve bağımsız kompresyonu, frekanslar arasındaki düzey farklarını küçültebilir.",
+    "Bu spektral düzleşme, ünlüleri ayırt etmeye yarayan formant tepelerinin belirginliğini azaltabilir.",
+    "Bazı tasarımlarda kanal sayısı arttıkça işlem gecikmesi de artabilir.",
+    "Araştırmalar, belirli bir kanal sayısından sonra konuşma anlaşılırlığına ek yararın küçüldüğünü düşündürüyor.",
+    "Bu nedenle kanal sayısı tek başına cihaz kalitesinin ölçüsü değildir."
+   ]
+  },
+  {
+   "id": "dik",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yüksek frekans sorunu",
+   "baslik": "Örnek: *dik düşen* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: tiz frekanslarda ileri kayıp",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: benzer biçim",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Alçak frekanslar normale yakın",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       70,
+       95,
+       100
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       35,
+       75,
+       95,
+       110
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Bu örnek odyogramda iki kulakta da alçak frekanslarda normale yakın, 1000 Hz'den sonra dik düşen bir kayıp görülüyor.",
+    "Bin hertze kadar olan bölgede işitme iyi; konuşmanın ünlüleri ve ses tonu buradan rahatça duyulur.",
+    "Dört bin hertz ve üzerinde ise eşikler çok ileri derecededir.",
+    "Bu bölgeyi geleneksel kazançla duyulur kılmak çoğu zaman mümkün değildir.",
+    "Gereken çok yüksek kazanç, alıcının gücünü aşabilir ve akustik geri beslemeye yol açabilir.",
+    "Üstelik bu kadar ileri kayıplı bir bölgede kokleanın kendisi sesi yeterince işleyemiyor olabilir.",
+    "Sonuç olarak s, ş ve f gibi tiz ünsüzler cihazla bile duyulmayabilir."
+   ]
+  },
+  {
+   "id": "olu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yüksek frekans sorunu",
+   "baslik": "Koklear *ölü bölge*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "taban: yüksek frekans",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "tepe: alçak frekans",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İç tüy hücresi ya da sinir kaybı",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Komşu bölgeden dinleme",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kenarın yaklaşık 1,7 katına dek",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Bazı ileri kayıplarda kokleanın bir bölgesinde iç tüy hücreleri ya da sinir lifleri işlev görmez; buna ölü bölge (dead region) denir.",
+    "Yüksek frekanslar kokleanın tabanında işlendiği için, dik düşen kayıplarda ölü bölge çoğu zaman tabandadır.",
+    "Bu bölgeye düşen ses, komşu sağlam bölgedeki hücrelerce algılanır; buna frekans dışı dinleme (off-frequency listening) denir.",
+    "Ölü bölge, eşik eşitleyici gürültü testi, kısaca TEN testiyle araştırılabilir; ayrıntılarını ölü bölgeler dersinde görmüştük.",
+    {
+     "yazi": "Moore ve arkadaşları, ölü bölgenin kenar frekansının yaklaşık 1,7 katına kadar kazanç vermenin yararlı olabileceğini gösterdi.",
+     "ses": "Mur ve arkadaşları, ölü bölgenin kenar frekansının yaklaşık bir virgül yedi katına kadar kazanç vermenin yararlı olabileceğini gösterdi."
+    },
+    "Ölü bölgenin derinlerine kazanç vermek ise anlaşılırlığa katkı vermeyebilir, hatta bazı kişilerde bozabilir.",
+    "Bu durumda yüksek frekanstaki bilgiyi sağlam bir bölgeye taşımak bir seçenek olarak düşünülür."
+   ]
+  },
+  {
+   "id": "sikistirma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Frekans düşürme",
+   "baslik": "Frekans *sıkıştırma*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Gelen frekans (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 1000,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Verilen frekans (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "seriler": [
+     {
+      "ad": "dogal",
+      "noktalar": [
+       [
+        1000,
+        1000
+       ],
+       [
+        10000,
+        10000
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "cumle": 2,
+      "etiket": "işlem yok",
+      "etiket_konum": [
+       6000,
+       6000
+      ],
+      "etiket_dx": -90,
+      "etiket_dy": -10
+     },
+     {
+      "ad": "sikistirma",
+      "noktalar": [
+       [
+        1000,
+        1000
+       ],
+       [
+        2500,
+        2500
+       ],
+       [
+        4000,
+        3162
+       ],
+       [
+        6000,
+        3873
+       ],
+       [
+        8000,
+        4472
+       ],
+       [
+        10000,
+        5000
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 6,
+      "cumle": 4,
+      "etiket": "sıkıştırma",
+      "etiket_konum": [
+       8000,
+       4472
+      ],
+      "etiket_dx": -40,
+      "etiket_dy": 30
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesim",
+      "x": 2500,
+      "y": 2500,
+      "dus": "x",
+      "etiket": "kesim frekansı",
+      "renk": "kirmizi",
+      "cumle": 3
+     },
+     {
+      "ad": "son",
+      "x": 10000,
+      "y": 5000,
+      "dus": "y",
+      "etiket": "10 kHz, 5 kHz'e",
+      "renk": "lacivert",
+      "cumle": 5,
+      "dx": -60
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kesim",
+     "cumle": 3
+    },
+    {
+     "parca": "sikistirma",
+     "cumle": 4
+    },
+    {
+     "parca": "son",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Frekans düşürmenin (frequency lowering) en yaygın biçimlerinden biri doğrusal olmayan frekans sıkıştırmadır (frequency compression).",
+    "Grafikte yatay eksen gelen sesin frekansını, dikey eksen cihazın verdiği frekansı gösteriyor.",
+    "Kesik çizgi, işlem olmadığında frekansların aynen kaldığını gösterir.",
+    "Kesim frekansının (cut-off frequency) altındaki sesler değiştirilmez; bu örnekte kesim frekansı 2500 Hz.",
+    "Kesim frekansının üzerindeki bölge ise sıkıştırılarak daha dar bir aralığa yerleştirilir.",
+    "Bu örnekte 10 kilohertze kadar uzanan bilgi, 5 kilohertzin altına sığdırılmıştır.",
+    "Alçak frekanslar korunduğu için ünlüler ve sesin tonu büyük ölçüde değişmez.",
+    "Sıkıştırma oranı arttıkça ve kesim frekansı düştükçe, s sesi daha kolay duyulur ama ses kalitesi daha çok değişir."
+   ]
+  },
+  {
+   "id": "aktarma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Frekans düşürme",
+   "baslik": "Frekans *aktarma*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 20,
+     "ad": "Göreli düzey (dB)"
+    },
+    "bolgeler": [
+     {
+      "ad": "kaynak",
+      "x": [
+       4000,
+       8000
+      ],
+      "renk": "kirmizi",
+      "etiket": "duyulmayan bölge",
+      "cumle": 1
+     },
+     {
+      "ad": "hedef",
+      "x": [
+       2000,
+       4000
+      ],
+      "renk": "mavi",
+      "etiket": "hedef bölge",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayma",
+      "x": [
+       2800,
+       5600
+      ],
+      "y": 30,
+      "etiket": "yaklaşık 1 oktav aşağı",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kaynak",
+     "cumle": 1
+    },
+    {
+     "parca": "kayma",
+     "cumle": 2
+    },
+    {
+     "parca": "hedef",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "İkinci yaklaşım frekans aktarmadır (frequency transposition).",
+    "Burada duyulamayan yüksek frekans bölgesindeki enerji seçilir.",
+    "Bu bölge, genellikle yaklaşık bir oktav aşağıya, işitmenin daha iyi olduğu komşu bölgeye kaydırılır.",
+    "Kaydırılan ses, o bölgedeki doğal sesle karıştırılarak verilir.",
+    "Sıkıştırmadan farkı, frekanslar arasındaki oranların korunması, ama alçak bölgeyle üst üste binmesidir.",
+    "Üçüncü bir yaklaşım ise yüksek frekans bilgisini kopyalayıp daha alçak bir bölgeye eklemektir; buna frekans çevirme de denir.",
+    "Her yöntemde amaç aynıdır: kişinin duyamadığı bilgiyi duyabildiği bir bölgeye taşımak.",
+    "Yöntemlerin ayrıntısı ve adı üreticiden üreticiye değişir."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Frekans düşürme",
+   "baslik": "Üç *yaklaşım*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Sıkıştırma",
+     "cumle": 0,
+     "metin": "Üst bölge daraltılır"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Aktarma",
+     "cumle": 2,
+     "metin": "Bölge aşağı kaydırılır"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Kopyalayıp ekleme",
+     "cumle": 4,
+     "metin": "Bilgi aşağıya eklenir"
+    }
+   ],
+   "cumleler": [
+    "Özetlersek, frekans sıkıştırmada kesim frekansının üstü daraltılır ve alçak bölge korunur.",
+    "Bu yaklaşımda yüksek frekans bilgisi kendi sırasını korur, ama aralarındaki frekans oranları değişir.",
+    "Frekans aktarmada seçilen bölge aşağıya kaydırılır ve orada doğal sesle karıştırılır.",
+    "Bu yaklaşım oranları korur, ama alçak bölgeye yeni bir ses ekler.",
+    "Kopyalayıp ekleme yaklaşımında yüksek frekans bilgisi yerinde kalırken bir kopyası aşağıya eklenir.",
+    "Hiçbir yöntemin herkes için açık bir üstünlüğü gösterilmemiştir; seçim kişiye ve cihaza göre yapılır."
+   ]
+  },
+  {
+   "id": "aday",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kimde ve nasıl?",
+   "baslik": "Aday *kimdir?*",
+   "maddeler": [
+    {
+     "metin": "Dik düşen, ileri yüksek frekans kaybı",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tiz bölge kazançla duyulamıyor",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Çocukta s ve ş duyulabilirliği",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Herkes için değil, bireysel karar",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        20,
+        30,
+        70,
+        95,
+        100
+       ],
+       "cumle": 0
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Frekans düşürme en çok, yüksek frekanslarda ileri ya da çok ileri derecede, dik düşen kaybı olan kişilerde düşünülür.",
+    "Ön koşul, geleneksel amplifikasyonla yüksek frekans bilgisinin yeterince duyulur kılınamamasıdır.",
+    "Ölü bölge şüphesi ya da geri besleme nedeniyle kazanç verilemeyen bir bölge de bu kararı destekler.",
+    "Çocuklarda s ve ş gibi seslerin duyulması, eklerin ve dilbilgisinin öğrenimi için önemlidir.",
+    {
+     "yazi": "Glista ve arkadaşlarının 2009 çalışmasında, frekans sıkıştırmadan çocukların yetişkinlere göre daha belirgin yarar gördüğü bildirildi.",
+     "ses": "Glista ve arkadaşlarının iki bin dokuz çalışmasında, frekans sıkıştırmadan çocukların yetişkinlere göre daha belirgin yarar gördüğü bildirildi."
+    },
+    "Ancak hafif ve orta kayıplarda ya da yüksek frekansları zaten duyulur kılınabilen kişilerde yarar belirsizdir.",
+    "Fazla güçlü bir ayar, s ve ş seslerinin karışmasına ve ses kalitesinin bozulmasına yol açabilir."
+   ]
+  },
+  {
+   "id": "dogrulama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kimde ve nasıl?",
+   "baslik": "Ayar ve *doğrulama*",
+   "adimlar": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Önce bant genişliği",
+     "cumle": 0,
+     "metin": "Geleneksel kazanç"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İşitilebilirliği ölç",
+     "cumle": 1,
+     "metin": "Konuşma haritalama"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "En zayıf ayar",
+     "cumle": 3,
+     "metin": "Yavaş yavaş artır"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "s sesi doğrula",
+     "cumle": 4,
+     "metin": "Özel test sinyali"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Davranışsal kontrol",
+     "cumle": 5,
+     "metin": "s ve ş ayrımı"
+    }
+   ],
+   "cumleler": [
+    "İlk adım, frekans düşürmeyi açmadan önce geleneksel kazançla elde edilebilecek en geniş bant genişliğini sağlamaktır.",
+    "Ardından gerçek kulakta konuşma haritalamayla, yüksek frekans bilgisinin ne kadarının duyulabildiği ölçülür.",
+    "Yetersizse frekans düşürme düşünülür.",
+    "Ayar, genellikle duyulabilirliği sağlayan en zayıf ayardan başlatılır ve gerekirse adım adım güçlendirilir.",
+    "Doğrulamada, s sesine benzeyen özel test sinyalleriyle düşürülen sesin kulakta eşiğin üzerine çıkıp çıkmadığı kontrol edilir.",
+    "Davranışsal olarak da Ling ses testi ya da s ve ş içeren sözcüklerle ayırt etme kontrol edilir.",
+    "Ses kalitesi ve kişinin geri bildirimi de izlenir; özellikle çocuklarda bir süre sonra yeniden değerlendirme yapılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Frekans düşürmeyi bir kurtarıcı gibi en güçlü ayarda açmayın. Önce bant genişliğini, sonra en zayıf etkili ayarı deneyin ve kulakta doğrulayın.",
+   "cumleler": [
+    "Sahadan bir ipucu: frekans düşürmeyi, yüksek frekans kazancını eksik bırakmanın yerine geçecek bir kısayol olarak kullanmayın.",
+    "Önce geleneksel kazançla ne kadar yol alınabildiğini gerçek kulak ölçümüyle görün.",
+    "Frekans düşürme gerekiyorsa, s sesini duyulur kılan en zayıf ayarı hedefleyin.",
+    "Kişiye ya da aileye, seslerin başlangıçta farklı gelebileceğini ve beynin alışmasının zaman alabileceğini anlatın.",
+    "Kontrol randevusunda s ve ş ayrımını ve ses kalitesini yeniden değerlendirin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kanal: kompresyon; bant: kazanç ayarı",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Daha çok kanal her zaman iyi değil",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ölü bölgede kazanç sınırlı yarar verir",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Frekans düşürme: sıkıştırma ve aktarma",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Bu derste kanalın kendi kompresyon ayarları olan, bandın ise kazancı ayarlanabilen frekans bölgesi olduğunu gördük.",
+    "Kanal sayısı ince ayarı kolaylaştırır, ama belirli bir sayıdan sonra ek yarar azalır.",
+    "Dik düşen kayıplarda ve ölü bölgelerde yüksek frekansları kazançla duyulur kılmak sınırlıdır.",
+    "Frekans sıkıştırma ve aktarma, bu bilgiyi duyulabilen bölgeye taşır; ayar dikkatle yapılır ve doğrulanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Kendi kompresyon ayarı olan bölge nedir?",
+   "secenekler": [
+    "Bant",
+    "Kanal",
+    "Kesim frekansı",
+    "Ölü bölge"
+   ],
+   "dogru": 1,
+   "aciklama": "_Kanal_ kendi kompresyon eşiği ve oranı olan frekans bölgesidir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: işitme cihazında kendi kompresyon eşiği ve oranı olan frekans bölgesine ne ad verilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kanal.",
+    "Bant ise kazancın ayrı ayarlanabildiği bölgedir; birkaç bant aynı kanalın kompresyon ayarını paylaşabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Yönlü mikrofonlar ve *gürültü azaltma*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste gürültüde konuşmayı anlamaya yardım eden yönlü mikrofonları ve dijital gürültü azaltmayı inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

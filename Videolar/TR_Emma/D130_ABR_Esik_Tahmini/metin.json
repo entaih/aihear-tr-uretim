@@ -1,0 +1,835 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D130_ABR_Esik_Tahmini_TR",
+ "kapak": {
+  "ust": "DERS 130",
+  "baslik": "Bebekte *ABR*<br>ile eşik",
+  "alt": "Tonburst, nHL ve eHL, doğal uyku",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "ABR ile Eşik Tahmini: Bebeklerde Frekansa Özgü Test | Ders 130 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bebeklerde tonburst ABR ile kulağa ve frekansa özgü eşik tahmininin nasıl yapıldığını anlatıyoruz. dB nHL eşiklerinin tahmini işitme düzeyine (eHL) çevrilmesini, eşik arama adımlarını ve doğal uykuda test hazırlığını örneklerle ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Joint Committee on Infant Hearing, Position Statement (2019); BSA ve NHSP bebek ABR kılavuzları.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ABR",
+   "pediatrikodyoloji"
+  ],
+  "etiketler": [
+   "ABR",
+   "eşik ABR",
+   "tonburst ABR",
+   "frequency-specific ABR",
+   "estimated hearing level",
+   "eHL",
+   "dB nHL",
+   "bebek işitme testi",
+   "yenidoğan işitme taraması",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 130",
+   "baslik": "ABR ile *eşik* tahmini",
+   "alt": "Bebeklerde frekansa özgü test",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel beyin sapı yanıtı, kısaca ABR ile bebeklerde frekansa özgü eşik tahmininin nasıl yapıldığını öğreneceğiz.",
+    {
+     "yazi": "Tonburst ile eşik aramayı, nHL değerlerini tahmini işitme düzeyine çevirmeyi ve doğal uykuda test hazırlığını ele alacağız.",
+     "ses": "Tonburst ile eşik aramayı, nHL değerlerini tahmini işitme düzeyine çevirmeyi ve doğal uykuda test hazırlığını ele alacağız."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden frekansa özgü test?",
+   "baslik": "Neden *eşik* ABR?",
+   "maddeler": [
+    {
+     "metin": "Davranışsal test _henüz_ mümkün değil",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Tarama sonrası _tanısal_ değerlendirme",
+     "cumle": 1,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Hedef: _kulağa ve frekansa_ özgü eşik",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Erken müdahale için _tahmini odyogram_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Yaşamın ilk aylarında bebekten güvenilir bir davranışsal eşik almak genellikle mümkün değildir.",
+    "Yenidoğan işitme taramasından geçemeyen bir bebek, tanısal değerlendirme için odyoloji kliniğine yönlendirilir.",
+    "Bu değerlendirmenin amacı yalnız kayıp var mı sorusunu yanıtlamak değil, her kulak ve frekans için eşik tahmini yapmaktır.",
+    "Uluslararası öneriler, tanının genellikle üç aydan önce konmasını ve müdahalenin altı aydan önce başlamasını hedefler.",
+    "Frekansa özgü eşikler, gerekirse işitme cihazı ayarında kullanılacak tahmini odyogramın temelini oluşturur."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "HEDEF",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "takvim",
+      "baslik": "3 aydan önce",
+      "metin": "Tanı",
+      "cumle": 3
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "6 aydan önce",
+      "metin": "Müdahale",
+      "cumle": 3
+     }
+    ]
+   }
+  },
+  {
+   "id": "klik_tonburst",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden frekansa özgü test?",
+   "baslik": "Klik mi, *tonburst* mü?",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Klik",
+     "metin": "Ağırlıkla 2000 ile 4000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tonburst",
+     "metin": "Dar bant, frekansa özgü tahmin",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Klik, çok kısa ve geniş bantlı bir uyarandır; güçlü ve net bir dalga V oluşturur.",
+     "ses": "Klik, çok kısa ve geniş bantlı bir uyarandır; güçlü ve net bir dalga beş oluşturur."
+    },
+    "Ancak klik yanıtı, ağırlıklı olarak yaklaşık iki bin ile dört bin hertz bölgesindeki işitmeyi yansıtır.",
+    "Bu yüzden yalnız klik ile alçak frekanslardaki bir kayıp ya da belirli bir frekanstaki çentik gözden kaçabilir.",
+    "Tonburst ise birkaç periyot süren kısa bir ton parçasıdır ve enerjisini belirli bir frekans çevresinde toplar.",
+    "Böylece beş yüz, bin, iki bin ve dört bin hertz için ayrı ayrı eşik tahmini yapılabilir.",
+    "Ortaya çıkan tablo, odyograma benzeyen frekansa özgü bir tahmindir.",
+    "Bu uyaranların yapısını önceki dersimizde ayrıntılı olarak ele almıştık."
+   ]
+  },
+  {
+   "id": "nhl",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Birimler ve test planı",
+   "baslik": "*dB nHL* nedir?",
+   "maddeler": [
+    {
+     "metin": "Normalize işitme düzeyi: _nHL_",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Sıfır noktası: normal işiten _yetişkinler_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Kısa uyaran: _daha yüksek_ davranışsal eşik",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "ABR eşiği davranışsal eşikten _biraz yüksek_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "ABR uyaranlarının şiddeti çoğu zaman dB nHL, yani normalize işitme düzeyi ile verilir.",
+     "ses": "ABR uyaranlarının şiddeti çoğu zaman desibel nHL, yani normalize işitme düzeyi ile verilir."
+    },
+    "Sıfır noktası, normal işiten bir yetişkin grubunun o kısa uyaranı davranışsal olarak duyabildiği ortalama düzeydir.",
+    "Kısa uyaranlar, uzun bir saf sese göre daha yüksek düzeyde duyulur; çünkü kulak sesi zaman içinde toplayarak algılar.",
+    {
+     "yazi": "Bu yüzden nHL ölçeği, odyogramdaki dB HL ölçeğiyle birebir aynı değildir.",
+     "ses": "Bu yüzden nHL ölçeği, odyogramdaki desibel HL ölçeğiyle birebir aynı değildir."
+    },
+    "Ayrıca ABR ile bulunan eşik, aynı kişinin davranışsal eşiğinden genellikle biraz daha yüksek çıkar.",
+    "Bu iki farkı kapatmak için birazdan göreceğimiz düzeltme değerleri kullanılır."
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Birimler ve test planı",
+   "baslik": "Frekans *önceliği*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "2000 Hz",
+     "metin": "Önce her kulakta",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "500 Hz",
+     "metin": "Ardından her kulakta",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "4000, 1000 Hz",
+     "metin": "Zaman kalırsa",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Kritik bilgi",
+     "metin": "Bebek erken uyansa bile",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bebeğin ne kadar uyuyacağı bilinmediği için test sırası önceden planlanır.",
+    "Birçok protokolde önce her kulakta iki bin hertz, ardından beş yüz hertz test edilir.",
+    "Zaman kalırsa dört bin ve bin hertz eklenir.",
+    "Böylece bebek erken uyansa bile her iki kulağın hem alçak hem yüksek frekansları hakkında bilgi edinilmiş olur.",
+    "Sıralama kliniğin protokolüne göre değişebilir; önemli olan en kritik bilgiyi önce toplamaktır."
+   ]
+  },
+  {
+   "id": "kulak",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Birimler ve test planı",
+   "baslik": "Kulağa *özgü* test",
+   "maddeler": [
+    {
+     "metin": "_Insert_ kulaklık ile ayrı kulak",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Küçük kanal: _daha yüksek_ ses basıncı",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Kanal çökmesi _önlenir_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Yüksek _kulaklar arası_ zayıflama",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kanalda _verniks_ kontrolü",
+     "cumle": 5,
+     "ikon": "otoskop"
+    }
+   ],
+   "cumleler": [
+    "Bebeklerde hava yolu ABR genellikle insert, yani kulak içi kulaklıklarla yapılır.",
+    "Her kulak ayrı test edilir ve sonuçlar sağ ve sol kulak için ayrı raporlanır.",
+    "Bebeğin kulak kanalı küçük olduğu için aynı ayar, kanalda yetişkine göre daha yüksek bir ses basıncı oluşturur.",
+    "Insert kulaklık, kulak üstü kulaklığın baskısıyla oluşabilen kanal çökmesini de önler.",
+    "Kulaklar arası zayıflama insert kulaklıkta yüksek olduğu için hava yolunda maskeleme ihtiyacı azalır.",
+    "Kanalda verniks ya da sıvı kalıntısı varsa eşikler yanlışlıkla yüksek çıkabilir; test öncesi kanal kontrol edilmelidir."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik arama",
+   "baslik": "Eşik *arama* adımları",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Orta şiddet",
+     "metin": "Net yanıt beklenen düzey",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "10 dB azalt",
+     "metin": "Dalga V görüldükçe",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "5 dB adım",
+     "metin": "Eşik yakınında gerekirse",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Eşik",
+     "metin": "Tekrarlanan en düşük yanıt",
+     "cumle": 3
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Doğrula",
+     "metin": "Hemen altında yanıt yok",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Eşik araması genellikle net bir yanıt beklenen orta bir şiddetle başlar.",
+    {
+     "yazi": "Tekrarlanabilir bir dalga V görüldüğünde şiddet genellikle on desibellik adımlarla azaltılır.",
+     "ses": "Tekrarlanabilir bir dalga beş görüldüğünde şiddet genellikle on desibellik adımlarla azaltılır."
+    },
+    "Eşiğe yaklaşıldığında, gerekirse beş desibellik adımlar kullanılır.",
+    {
+     "yazi": "Eşik, iki kayıtta da tekrarlanan bir dalga V'in görüldüğü en düşük şiddettir.",
+     "ses": "Eşik, iki kayıtta da tekrarlanan bir dalga beşin görüldüğü en düşük şiddettir."
+    },
+    "Bu kararı güçlendirmek için hemen altındaki düzeyde, yeterli ortalama ile yanıtın olmadığı gösterilir.",
+    "Yanıt yok kararı ise yalnız kayıttaki kalan gürültü yeterince düşükse güvenilirdir."
+   ]
+  },
+  {
+   "id": "dalga_v",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik arama",
+   "baslik": "Eşiğe yakın *dalga V*",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Eşiğe kadar izlenen dalga",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Şiddet azalır: latans uzar, genlik küçülür",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "500 Hz: daha geniş ve geç yanıt",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Pencere: yaklaşık 20 ile 25 ms",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Şiddet azaldıkça dalga I ve III kaybolur; dalga V ise en son kaybolan dalgadır.",
+     "ses": "Şiddet azaldıkça dalga bir ve üç kaybolur; dalga beş ise en son kaybolan dalgadır."
+    },
+    {
+     "yazi": "Eşik araştırmasında bu yüzden dalga V izlenir.",
+     "ses": "Eşik araştırmasında bu yüzden dalga beş izlenir."
+    },
+    {
+     "yazi": "Şiddet düştükçe dalga V'in latansı uzar ve genliği küçülür.",
+     "ses": "Şiddet düştükçe dalga beşin latansı uzar ve genliği küçülür."
+    },
+    "Alçak frekanslarda, örneğin beş yüz hertzde, yanıt daha geniş ve daha geç gelir.",
+    {
+     "yazi": "Bu frekanslarda dalga V'i izleyen yavaş negatif dalga da yanıtın tanınmasına yardım eder.",
+     "ses": "Bu frekanslarda dalga beşi izleyen yavaş negatif dalga da yanıtın tanınmasına yardım eder."
+    },
+    "Bu yüzden tonburst kayıtlarında analiz penceresi genellikle yirmi ile yirmi beş milisaniyeye genişletilir."
+   ]
+  },
+  {
+   "id": "var_yok",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik arama",
+   "baslik": "Yanıt *var mı*, yok mu?",
+   "maddeler": [
+    {
+     "metin": "İki kaydın _örtüşmesi_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Düşük _kalan gürültü_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "İstatistiksel ölçüt: örnek _Fsp_",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Hiç yanıt yok: _en yüksek düzey_ yazılır",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Yanıt kararı önce görsel olarak, iki kaydın aynı latansta örtüşmesine bakılarak verilir.",
+    "Kalan gürültü, ortalama sonrasında kayıtta kalan arka plan etkinliğidir; düşük olması kararın güvenilirliğini artırır.",
+    {
+     "yazi": "Birçok cihaz, Fsp gibi istatistiksel göstergelerle yanıtın gürültüden ayrılıp ayrılmadığını sayısal olarak da gösterir.",
+     "ses": "Birçok cihaz, FSP gibi istatistiksel göstergelerle yanıtın gürültüden ayrılıp ayrılmadığını sayısal olarak da gösterir."
+    },
+    "Görsel değerlendirme ve istatistik birlikte kullanıldığında yanlış karar olasılığı azalır.",
+    "Cihazın en yüksek şiddetinde bile yanıt yoksa sonuç, test edilen en yüksek düzeyde yanıt alınamadı biçiminde raporlanır."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "iki kayıtta aynı latans",
+      "cumle": 0
+     }
+    ]
+   }
+  },
+  {
+   "id": "kalite",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik arama",
+   "baslik": "Kayıt *kalitesi*",
+   "maddeler": [
+    {
+     "metin": "Düşük ve _dengeli_ empedans",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sakin bebek, az _kas artefaktı_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Artefakt reddi _açık_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Eşik yakınında _daha çok_ ortalama",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "İyi bir eşik kaydı, önceki derslerde gördüğümüz gibi düşük ve dengeli elektrot empedansı ile başlar.",
+    "Bebek kıpırdadığında ya da emdiğinde kas artefaktı artar; bu sırada kayıt durdurulup beklenir.",
+    "Artefakt reddi açık tutulur; böylece çok büyük gerilim içeren taramalar ortalamaya katılmaz.",
+    "Eşik yakınında yanıt küçüldüğü için ortalama sayısı artırılır ve kalan gürültünün yeterince düştüğü kontrol edilir.",
+    "Kayıt kalitesi zayıfsa eşik yanlışlıkla yüksek tahmin edilebilir; bu durum rapora mutlaka yazılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Hiç yanıt yoksa yüksek şiddette klikle iki polariteyi ayrı kaydedin; ters dönen koklear mikrofonik, işitsel nöropatiyi düşündürebilir.",
+   "cumleler": [
+    "Bir klinik ipucu: tonburst ile hiçbir frekansta yanıt alamadıysanız, kaydı hemen sonlandırmayın.",
+    "Yüksek şiddette klik ile, sıkışma ve seyrelme polaritelerinde ayrı ayrı kayıt alın.",
+    "İki polaritede ters dönen erken bir yanıt koklear mikrofonik olabilir ve işitsel nöropati şüphesini ortaya çıkarır.",
+    "Bu yanıtın uyaran artefaktından nasıl ayrıldığını ve işitsel nöropatiyi ilerideki derslerde ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "ehl",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "nHL'den eHL'ye",
+   "baslik": "Tahmini işitme düzeyi: *eHL*",
+   "maddeler": [
+    {
+     "metin": "eHL: _tahmini işitme düzeyi_ (estimated hearing level)",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "eHL = nHL eksi _düzeltme_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Düzeltme: _cihaza ve protokole_ göre",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Alçak frekansta düzeltme _daha büyük_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "eHL",
+    "metin": "ABR eşiğinin *odyogram* ölçeğine çevrilmiş hali",
+    "cumle": 0
+   },
+   "cumleler": [
+    {
+     "yazi": "Tahmini işitme düzeyi (estimated hearing level), kısaca eHL, ABR eşiğinin odyogram ölçeğine çevrilmiş halidir.",
+     "ses": "Tahmini işitme düzeyi, İngilizce estimated hearing level, kısaca eHL, ABR eşiğinin odyogram ölçeğine çevrilmiş halidir."
+    },
+    {
+     "yazi": "Hesap basittir: nHL cinsinden bulunan eşikten, o frekans için belirlenmiş düzeltme değeri çıkarılır.",
+     "ses": "Hesap basittir: nHL cinsinden bulunan eşikten, o frekans için belirlenmiş düzeltme değeri çıkarılır."
+    },
+    "Düzeltme değerleri cihaza, uyarana ve protokole göre değişir; yayımlanmış tablolar da birbirinden farklıdır.",
+    "Birçok tabloda düzeltme alçak frekanslarda daha büyük, yüksek frekanslarda daha küçüktür.",
+    "Bazı protokoller, işitme kaybının derecesi arttıkça daha küçük bir düzeltme uygular."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "nHL'den eHL'ye",
+   "baslik": "Örnek *dönüşüm*",
+   "sutunlar": [
+    "Frekans",
+    "ABR eşiği",
+    "Örnek düzeltme",
+    "Tahmini eşik"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "50 dB nHL",
+      "yaklaşık 15 dB",
+      "35 dB eHL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "45 dB nHL",
+      "yaklaşık 10 dB",
+      "35 dB eHL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "50 dB nHL",
+      "yaklaşık 5 dB",
+      "45 dB eHL"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "60 dB nHL",
+      "yaklaşık 5 dB",
+      "55 dB eHL"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek bir bebek kaydı üzerinden hesabı yapalım.",
+    {
+     "yazi": "Bu örnekte 500 Hz eşiği 50 dB nHL; yaklaşık 15 desibel düzeltmeyle tahmini eşik 35 dB eHL olur.",
+     "ses": "Bu örnekte beş yüz hertz eşiği elli desibel nHL; yaklaşık on beş desibel düzeltmeyle tahmini eşik otuz beş desibel eHL olur."
+    },
+    {
+     "yazi": "1000 Hz için 45 dB nHL eşikten yaklaşık 10 desibel çıkarılır ve 35 dB eHL bulunur.",
+     "ses": "Bin hertz için kırk beş desibel nHL eşikten yaklaşık on desibel çıkarılır ve otuz beş desibel eHL bulunur."
+    },
+    "İki bin ve dört bin hertzde düzeltme daha küçüktür; bu örnekte yaklaşık beş desibel alınmıştır.",
+    "Böylece yüksek frekanslara doğru artan, hafif ile orta derece arası bir tahmini kayıp profili ortaya çıkar.",
+    "Düzeltme değerleri burada yalnız örnek olarak verilmiştir; klinikte mutlaka kendi protokolünüzün tablosunu kullanın."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "nHL'den eHL'ye",
+   "baslik": "eHL'yi *yorumlarken*",
+   "maddeler": [
+    {
+     "metin": "eHL bir _tahmindir_, kesin eşik değil",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Kayıp tipi için: _kemik yolu ABR_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Orta kulak: _1000 Hz_ timpanometri",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Test bataryasında: _OAE_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sonra davranışsal test ile _doğrula_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Tahmini eşikler, davranışsal eşiğin yerine geçen kesin değerler değil, akla yatkın tahminlerdir.",
+    "Kaybın iletim tipi mi sensörinöral mi olduğunu anlamak için kemik yolu ABR gerekir; bunu bir sonraki derste göreceğiz.",
+    "Altı aydan küçük bebeklerde orta kulak durumu, bin hertz prob tonlu timpanometri ile değerlendirilir.",
+    "Otoakustik emisyon, kısaca OAE sonuçları da test bataryasının parçasıdır ve koklear işlev hakkında ek bilgi verir.",
+    "Bebek davranışsal teste uygun hale geldiğinde, tahmini eşikler görsel pekiştirmeli odyometri ile doğrulanır."
+   ]
+  },
+  {
+   "id": "uyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Doğal uyku ve sedasyon",
+   "baslik": "*Doğal uyku* ile test",
+   "maddeler": [
+    {
+     "metin": "İlk aylarda _doğal uyku_ çoğu zaman yeterli",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Randevu: _uyku ve beslenme_ saatine",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Gelmeden önce _uyanık_ tutma",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Elektrot ve kulaklık _uyumadan önce_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Loş, sessiz ve _sıcak_ oda",
+     "cumle": 5,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "ABR kas etkinliğinden kolayca etkilendiği için bebeğin derin ve sakin uyuması gerekir.",
+    "Yaşamın ilk birkaç ayında test çoğu zaman doğal uykuda, yani ilaç kullanmadan yapılabilir.",
+    "Randevu, bebeğin olağan uyku ve beslenme saatine göre planlanır.",
+    "Aileden, bebeği gelmeden önce mümkün olduğunca uyanık tutmaları ve beslenmeyi klinikte yapmaları istenir.",
+    "Elektrotlar ve insert kulaklıklar, bebek uykuya dalmadan önce, anne ya da babanın kucağında yerleştirilir.",
+    "Loş, sessiz ve sıcak bir oda, uykunun sürmesine yardım eder."
+   ]
+  },
+  {
+   "id": "sedasyon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Doğal uyku ve sedasyon",
+   "baslik": "*Sedasyon* ne zaman?",
+   "maddeler": [
+    {
+     "metin": "Büyüdükçe _doğal uyku_ zorlaşır",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Sedasyon: _hekim_ kararı ve gözetimi",
+     "cumle": 1,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Odyolog: _hazır_ bir test planı",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Uyanık bebekte kayıt: _güvenilir değil_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Bebek büyüdükçe, genellikle altı aydan sonra, doğal uykuda uzun ve sakin bir kayıt almak zorlaşır.",
+    "Bu durumda sedasyon gerekebilir; sedasyon kararı ve uygulaması hekimin sorumluluğundadır.",
+    "Odyoloğun görevi, sedasyon süresini en iyi kullanacak bir test planını önceden hazırlamaktır.",
+    "Bazı çocuklarda test, başka bir nedenle yapılan genel anestezi sırasında da planlanabilir.",
+    "Uyanık ve hareketli bir bebekte alınan ABR kaydı, eşik tahmini için genellikle güvenilir değildir."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Doğal uyku ve sedasyon",
+   "baslik": "Raporda *neler* olmalı?",
+   "maddeler": [
+    {
+     "metin": "Kulak, uyaran ve _frekanslar_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "nHL eşikleri ve _eHL_ tahminleri",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kullanılan _düzeltme_ tablosu",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Uyku durumu ve _kayıt kalitesi_",
+     "cumle": 3,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Eksik frekanslar ve _kontrol_ planı",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Raporda her kulak için kullanılan uyaran ve test edilen frekanslar belirtilir.",
+    {
+     "yazi": "Hem nHL eşikleri hem de bunlardan hesaplanan eHL tahminleri ayrı ayrı yazılır.",
+     "ses": "Hem nHL eşikleri hem de bunlardan hesaplanan eHL tahminleri ayrı ayrı yazılır."
+    },
+    "Hangi düzeltme tablosunun kullanıldığı da belirtilir; böylece başka bir merkez sonucu doğru yorumlayabilir.",
+    "Bebeğin uyku durumu, sedasyon kullanılıp kullanılmadığı ve kayıt kalitesi de rapora eklenir.",
+    "Tamamlanamayan frekanslar açıkça yazılır ve kontrol randevusu planlanır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Klik yetmez: _tonburst_ ile frekansa özgü",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Eşik: tekrarlanan en düşük _dalga V_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "eHL = nHL eksi _düzeltme_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Küçük bebekte tercih: _doğal uyku_",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Klik ağırlıklı olarak yüksek frekansları yansıtır; frekansa özgü bilgi için tonburst kullanılır.",
+    {
+     "yazi": "Eşik, tekrarlanabilir dalga V'in görüldüğü en düşük şiddettir.",
+     "ses": "Eşik, tekrarlanabilir dalga beşin görüldüğü en düşük şiddettir."
+    },
+    {
+     "yazi": "nHL eşiği, frekansa özgü düzeltme ile tahmini işitme düzeyine, yani eHL değerine çevrilir.",
+     "ses": "nHL eşiği, frekansa özgü düzeltme ile tahmini işitme düzeyine, yani eHL değerine çevrilir."
+    },
+    "Küçük bebeklerde test, mümkün olduğunca doğal uykuda yapılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "500 Hz eşiği 50 dB nHL, düzeltme 15 dB. Tahmini eşik nedir?",
+   "secenekler": [
+    "35 dB eHL",
+    "50 dB eHL",
+    "65 dB eHL"
+   ],
+   "dogru": 0,
+   "aciklama": "Düzeltme nHL eşiğinden çıkarılır: 50 eksi 15 = _35 dB eHL_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: 500 Hz ABR eşiği 50 dB nHL ve düzeltme 15 desibel ise tahmini eşik nedir?",
+     "ses": "Kendinizi test edin: beş yüz hertz ABR eşiği elli desibel nHL ve düzeltme on beş desibel ise tahmini eşik nedir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap A: 35 dB eHL.",
+     "ses": "Doğru cevap A: otuz beş desibel eHL."
+    },
+    {
+     "yazi": "Düzeltme değeri nHL eşiğinden çıkarılır, eklenmez.",
+     "ses": "Düzeltme değeri nHL eşiğinden çıkarılır, eklenmez."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Latans-şiddet fonksiyonu ve *kemik yolu* ABR",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste latans-şiddet fonksiyonunu ve kayıp tipini ayırmamızı sağlayan kemik yolu ABR'yi inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

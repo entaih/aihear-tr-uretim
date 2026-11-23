@@ -1,0 +1,805 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D239_Elektrot_Dizileri_ve_Cerrahi_TR",
+ "kapak": {
+  "ust": "DERS 239",
+  "baslik": "Elektrot<br>*dizileri*",
+  "alt": "Cerrahi, odyolog gözüyle",
+  "cizim": "koklear_implant",
+  "vurgula": [
+   "elektrot_dizisi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Elektrot dizileri ve cerrahi: odyolog gözüyle | Ders 239 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Koklear implant elektrotları kokleaya nasıl yerleştirilir ve bu odyoloğu neden ilgilendirir? Bu derste perimodiolar ve lateral duvar elektrot dizilerini, yerleştirme derinliğini, posterior timpanotomi, yuvarlak pencere ve kokleostomi yaklaşımlarını, yumuşak cerrahi ve kalan işitmenin korunmasını ve ameliyat raporunun programlamaya yansımalarını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Niparko (ed.), Cochlear Implants: Principles and Practices; Dhanasingh ve Jolly, An overview of cochlear implant electrode array designs, Hearing Research (2017).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "cerrahi"
+  ],
+  "etiketler": [
+   "koklear implant",
+   "elektrot dizisi",
+   "perimodiolar elektrot",
+   "perimodiolar electrode",
+   "lateral duvar elektrodu",
+   "lateral wall electrode",
+   "yuvarlak pencere",
+   "kokleostomi",
+   "kalan işitme",
+   "elektroakustik stimülasyon",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 239",
+   "baslik": "Elektrot dizileri ve *cerrahi*",
+   "alt": "Odyolog gözüyle implant ameliyatı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste koklear implantın elektrot dizilerini ve implant ameliyatını odyolog gözüyle inceleyeceğiz.",
+    "Perimodiolar ve lateral duvar elektrotlarını, yuvarlak pencere ve kokleostomi yaklaşımlarını ve kalan işitmenin korunmasını ele alacağız."
+   ]
+  },
+  {
+   "id": "dizi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Elektrot dizileri",
+   "baslik": "Elektrot dizisi *nerede?*",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "alici_uyarici",
+     "metin": "alıcı-uyarıcı",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "metin": "elektrot dizisi",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "alici_uyarici",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Koklear implant dersinde implantın dış ve iç ünitelerini görmüştük.",
+    "Alıcı-uyarıcı, kulağın arkasında kafatası kemiği üzerine yerleştirilir.",
+    "Buradan çıkan elektrot dizisi (electrode array), orta kulak üzerinden kokleanın içine ilerletilir.",
+    "Dizi, kokleanın alt odacığı olan scala tympani (timpanik skala) içine yerleştirilir.",
+    "Dizinin üzerindeki elektrot kontakları, işitme sinirinin hücre gövdelerinin bulunduğu spiral ganglionu uyarır.",
+    "Dizinin biçimi, uzunluğu ve kokleadaki konumu, hem cerrahiyi hem de sonraki programlamayı etkiler."
+   ]
+  },
+  {
+   "id": "kesit",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Elektrot dizileri",
+   "baslik": "Hedef: *spiral ganglion*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_tympani",
+     "metin": "scala tympani",
+     "cumle": 1
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "spiral ganglion",
+     "cumle": 2
+    },
+    {
+     "parca": "lamina_spiralis_ossea",
+     "metin": "kemik spiral lamina",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 1
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 2
+    },
+    {
+     "parca": "lamina_spiralis_ossea",
+     "cumle": 3
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Kokleanın tek bir turunun kesitinde dizinin yerini görelim.",
+    "Scala tympani, baziler membranın altındaki odacıktır; elektrot dizisi bu odacığa yerleştirilir.",
+    "Uyarılacak sinir hücreleri, modiolus (koklea ekseni) içindeki spiral ganglionda bulunur.",
+    "Sinir lifleri, kemik spiral lamina içinden geçerek Corti organına uzanır.",
+    "Bir elektrot kontağı spiral gangliona ne kadar yakınsa, uyarım için o kadar az akım gerekir ve akım o kadar az yayılır.",
+    "Elektrot tasarımları, bu mesafe ile iç kulak dokularını koruma arasında bir denge kurmaya çalışır."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Elektrot dizileri",
+   "baslik": "İki temel *tasarım*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Perimodiolar",
+     "metin": "Önceden kıvrık; modiolusa yakın",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Lateral duvar",
+     "metin": "Düz, esnek; dış duvar boyunca",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Orta skala",
+     "metin": "Arada bir konum",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Elektrot dizileri başlıca iki tasarımda üretilir.",
+    "Perimodiolar elektrot (perimodiolar electrode) önceden kıvrık biçimlidir; yerleştirildikten sonra modiolusu saran bir konuma kıvrılır.",
+    "Böylece kontaklar spiral gangliona daha yakın durur.",
+    "Lateral duvar elektrodu (lateral wall electrode) ise düz, ince ve esnektir; scala tympaninin dış duvarı boyunca uzanır.",
+    "Bu dizi kokleanın dokularına daha az baskı yapacak biçimde tasarlanmıştır; kontaklar ise modiolusa daha uzaktır.",
+    "Bazı üreticiler, ikisinin arasında, odacığın ortasında duran diziler de geliştirmiştir."
+   ]
+  },
+  {
+   "id": "arti_eksi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Elektrot dizileri",
+   "baslik": "Her tasarımın *güçlü yanı*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Perimodiolar",
+     "metin": "Düşük eşik, dar uyarım",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Perimodiolar riski",
+     "metin": "Uç katlanması",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Lateral duvar",
+     "metin": "Daha az travma, derin",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Lateral duvar",
+     "metin": "Daha yüksek akım",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Perimodiolar dizilerde uyarım için daha düşük akım gerekebilir ve akımın yayılması daha sınırlı olabilir.",
+    "Bu, komşu elektrotların birbirini daha az etkilemesine ve pilin daha uzun gitmesine katkı sağlayabilir.",
+    "Öte yandan dizinin ucu geri katlanabilir ya da baziler membranı aşarak üst odacığa geçebilir; bu riskler tasarıma göre değişir.",
+    "Lateral duvar dizileri, kokleanın yapılarına daha az zarar verecek biçimde ve daha derin yerleştirilebilecek uzunlukta üretilebilir.",
+    "Bu nedenle kalan işitmeyi korumanın hedeflendiği durumlarda sık tercih edilir.",
+    "Kontaklar uzak olduğu için daha yüksek uyarım düzeyi gerekebilir; iki tasarımın konuşma sonuçları birçok çalışmada benzerdir."
+   ]
+  },
+  {
+   "id": "derinlik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yerleştirme derinliği",
+   "baslik": "Ne kadar *derine?*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "taban: yüksek frekans",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "metin": "tepe: alçak frekans",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "yuvarlak pencere",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tam tur: 360 derece",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Koklea boyutu kişiye göre değişir",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Kokleayı açılmış bir tüp gibi düşünelim: taban yüksek, tepe alçak frekanslara yanıt verir.",
+    "Elektrot dizisi yuvarlak pencere bölgesinden girer ve tabandan tepeye doğru ilerler.",
+    "Yerleştirme derinliği çoğu zaman açı olarak ifade edilir; tam bir tur üç yüz altmış derecedir.",
+    "Diziler uzunluklarına göre yaklaşık bir turdan bir buçuk turun üzerine kadar değişen derinliklere ulaşabilir.",
+    "Derin yerleştirme alçak frekans bölgesine daha yakın uyarım sağlayabilir; ama tepeye doğru ilerlemek travma riskini artırabilir.",
+    "Kokleanın boyutu kişiden kişiye değiştiği için aynı uzunluktaki dizi farklı kişilerde farklı derinliğe ulaşır."
+   ]
+  },
+  {
+   "id": "uyumsuz",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yerleştirme derinliği",
+   "baslik": "Yer ve *frekans* uyumu",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frekans ataması",
+     "metin": "Programdaki aralık",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Doğal yer",
+     "metin": "Kokleanın haritası",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Uyum",
+     "metin": "Zamanla alışma",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Programlamada her elektroda bir frekans aralığı atanır.",
+    "Ancak bir elektrodun koklea içindeki gerçek yeri, normalde o frekansı algılayan bölgeye tam karşılık gelmeyebilir.",
+    "Özellikle sığ yerleştirmede, alçak frekanslar kokleanın daha tabandaki, yani daha tiz bölgelerine verilebilir.",
+    "Bu durum başlangıçta seslerin ince ya da mekanik algılanmasına katkı verebilir.",
+    "Beyin bu uyumsuzluğa zamanla büyük ölçüde uyum sağlar; bu konu araştırmalarda hala tartışılmaktadır.",
+    "Ameliyat sonrası görüntüleme, odyoloğa elektrotların yeri hakkında değerli bilgi verebilir."
+   ]
+  },
+  {
+   "id": "cerrahi",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cerrahi yol",
+   "baslik": "Ameliyatın *adımları*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Mastoidektomi",
+     "metin": "Kulak arkasından",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Posterior timpanotomi",
+     "metin": "Orta kulağa pencere",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Kokleaya giriş",
+     "metin": "Yuvarlak pencere",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Yerleştirme",
+     "metin": "Yavaş ve nazik",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kontrol",
+     "metin": "Ölçüm, görüntüleme",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Klasik yaklaşımda cerrah kulak arkasından girer ve mastoid kemiğin bir bölümünü açar; buna mastoidektomi denir.",
+    "Ardından yüz siniri ile chorda tympani, yani yüz sinirinin tat dalı arasındaki dar bölgeden orta kulağa küçük bir pencere açılır.",
+    "Bu açıklığa posterior timpanotomi denir; bu pencereden yuvarlak pencere nişi görülür.",
+    "Cerrah kokleaya yuvarlak pencereden ya da onun yakınında açtığı küçük bir delikten girer.",
+    "Elektrot dizisi scala tympaniye yavaşça ve nazikçe ilerletilir; alıcı-uyarıcı kemik üzerindeki yatağına yerleştirilir.",
+    "Ameliyat sonunda elektrot ölçümleri yapılır ve gerekirse görüntülemeyle dizinin yeri kontrol edilir."
+   ]
+  },
+  {
+   "id": "ic_duvar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cerrahi yol",
+   "baslik": "Cerrahın *gördüğü*",
+   "cizim": "orta_kulak_ic_duvar",
+   "etiketler": [
+    {
+     "parca": "promontorium",
+     "metin": "promontorium",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "yuvarlak pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "fasiyal sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "chorda_tympani",
+     "metin": "chorda tympani",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "promontorium",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "chorda_tympani",
+     "cumle": 4
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bu çizim orta kulağın iç duvarını gösteriyor; cerrah posterior timpanotomiden bu bölgeye bakar.",
+    "Ortadaki kabarıklık, kokleanın bazal turunun oluşturduğu promontoriumdur.",
+    "Promontoriumun altında ve arkasında yuvarlak pencere nişi bulunur.",
+    "Yüz siniri bu bölgeye çok yakın seyreder; cerrahın en önemli dikkat noktalarından biridir.",
+    "Chorda tympani de bu alandan geçer; ameliyat sonrası geçici tat değişikliği bu yüzden görülebilir.",
+    "Oval pencere ve stapes ise daha yukarıda yer alır; implant cerrahisinde bu yapılara dokunulmaz."
+   ]
+  },
+  {
+   "id": "giris",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cerrahi yol",
+   "baslik": "Kokleaya *giriş yolu*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Yuvarlak pencere",
+     "metin": "Zardan doğrudan giriş",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Kokleostomi",
+     "metin": "Kemikte küçük delik",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Genişletilmiş yuvarlak pencere",
+     "metin": "İkisinin arası",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Yuvarlak pencereden yerleştirmede (round window insertion) dizi, kemik delinmeden doğrudan yuvarlak pencere zarından geçirilir.",
+    "Bu yolun kokleaya daha az travma verdiği ve kalan işitmeyi korumaya yardım edebileceği düşünülür.",
+    "Kokleostomide ise cerrah yuvarlak pencerenin önüne ve altına, promontoriumda küçük bir delik açar.",
+    "Yuvarlak pencere nişi dar ya da görülmesi zorsa, ya da kokleada kemikleşme varsa bu yol tercih edilebilir.",
+    "Bazı cerrahlar yuvarlak pencere kenarını biraz genişleterek iki yöntemin arasında bir yol kullanır.",
+    "Hangi yolun seçileceği cerrahın değerlendirmesine, kokleanın anatomisine ve seçilen diziye bağlıdır."
+   ]
+  },
+  {
+   "id": "yumusak",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kalan işitme",
+   "baslik": "*Yumuşak* cerrahi",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Yavaş yerleştirme",
+     "metin": "Basıncı azaltır",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sıvıyı korumak",
+     "metin": "Perilenf kaybı yok",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Uygun dizi",
+     "metin": "İnce, esnek",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Anlık izlem",
+     "metin": "Koklea yanıtı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kalan işitmesi olan kişilerde amaç, kokleanın iç yapılarını mümkün olduğunca korumaktır; buna yumuşak cerrahi (soft surgery) denir.",
+    "Dizinin yavaş ve sabit bir hızla ilerletilmesi, kokleadaki basınç değişikliklerini azaltır.",
+    "Perilenfin emilmesinden ve kemik tozunun koklea içine girmesinden kaçınılır.",
+    "İnce ve esnek bir dizi seçimi ile yerleştirme derinliğinin planlanması da korumaya katkı verir.",
+    "Bazı merkezlerde yerleştirme sırasında elektrot dizisinden elektrokokleografi yanıtları izlenir; yanıtın düşmesi cerraha uyarıdır.",
+    "İlaç kullanımı gibi ek önlemler tamamen cerrahın ve ekibin kararıdır."
+   ]
+  },
+  {
+   "id": "eas",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kalan işitme",
+   "baslik": "Örnek: *alçak frekansta* kalan işitme",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 20,
+     "ad": "Eşik (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "noktalar": [
+       [
+        125,
+        25
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        100
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "ameliyat öncesi",
+      "cumle": 1
+     },
+     {
+      "ad": "sonra",
+      "noktalar": [
+       [
+        125,
+        35
+       ],
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        55
+       ],
+       [
+        1000,
+        90
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "isaretli": true,
+      "etiket": "ameliyat sonrası",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "akustik",
+      "x": [
+       125,
+       750
+      ],
+      "renk": "yesil",
+      "etiket": "akustik",
+      "cumle": 4
+     },
+     {
+      "ad": "elektrik",
+      "x": [
+       750,
+       8000
+      ],
+      "renk": "mavi",
+      "etiket": "elektrik",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Alçak frekans: kendi kulağı",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tiz frekans: implant",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "cumleler": [
+    "Tamamen örnek bir odyogramda, alçak frekanslarda kalan işitmesi olan bir implant adayını görüyoruz.",
+    "Ameliyat öncesi yüz yirmi beş ile beş yüz hertz arasında eşikler hafif ile orta düzeyde; bin hertzin üstünde ise kayıp çok ileri derecede.",
+    "Bu kişide implant tiz frekansları elektrikle, alçak frekansları ise kendi kulağı akustik olarak taşıyabilir.",
+    "Ameliyattan bir ay sonra alçak frekans eşikleri yaklaşık on desibel kötüleşmiş, ama kullanılabilir düzeyde korunmuş.",
+    "Bu durumda elektrik ve akustik uyarım aynı kulakta birlikte kullanılabilir; buna elektroakustik stimülasyon denir.",
+    "Kalan işitme ameliyattan sonraki aylarda ve yıllarda da azalabilir; bu yüzden düzenli izlenir."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Odyolog gözüyle",
+   "baslik": "Ameliyat raporunda *ne ararız?*",
+   "maddeler": [
+    {
+     "metin": "Dizi tipi ve uzunluğu",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Giriş yolu",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tam yerleşim, dışarıda kalan elektrot",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ameliyat içi ölçümler",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Görüntüleme sonucu",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "İlk programlamadan önce odyolog ameliyat raporunu okur; önce kullanılan dizinin tipi ve uzunluğu not edilir.",
+    "Yuvarlak pencere ya da kokleostomi yolu ve yerleştirmenin zor olup olmadığı kaydedilir.",
+    "Dizinin tamamen yerleştirilip yerleştirilmediği ve koklea dışında kalan elektrot olup olmadığı önemlidir.",
+    "Koklea dışında kalan elektrotlar programlamada genellikle kapatılır; aksi halde rahatsız edici uyarım ya da yüz siniri uyarımı yapabilir.",
+    "Ameliyat sırasında yapılan elektrot ölçümlerinin sonuçları, ilk programlamada başlangıç noktası olur.",
+    "Görüntüleme yapılmışsa dizinin uç katlanması ya da yanlış odacığa geçmesi gibi bulgular raporda aranır."
+   ]
+  },
+  {
+   "id": "programlama",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Odyolog gözüyle",
+   "baslik": "Programlamaya *yansımalar*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Uyarım düzeyleri",
+     "metin": "Dizi tipine göre",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yüz siniri uyarımı",
+     "metin": "Elektrot kapatılabilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Akustik bölüm",
+     "metin": "Kalan işitmeye göre",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzlem",
+     "metin": "Kalan işitme ölçülür",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Uyarım düzeyleri dizi tipine, kontakların modiolusa uzaklığına ve kişinin sinir durumuna göre değişebilir.",
+    "Bazı kişilerde, özellikle koklea ile yüz siniri kanalı arasındaki kemik inceyse, uyarım yüz kaslarında seğirmeye yol açabilir.",
+    "Böyle bir durumda ilgili elektrotların düzeyi düşürülür ya da elektrot kapatılabilir; bulgu ekiple paylaşılır.",
+    "Kalan işitmesi korunmuş kişide, işlemcinin akustik bölümü ameliyat sonrası odyograma göre ayarlanır.",
+    "Ameliyat edilen kulaktaki kalan işitme düzenli aralıklarla ölçülür; değişiklik programlamaya yansıtılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "İlk programlamadan önce ameliyat raporunu ve varsa görüntülemeyi okuyun. Dışarıda kalan elektrotları ve ameliyat içi ölçümleri not edin.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: ilk programlamaya ameliyat raporunu okumadan başlamayın.",
+    "Dizinin tipi, yerleştirme derinliği ve koklea dışında kalan elektrotlar, programlamanın ilk dakikalarını doğrudan etkiler.",
+    "Raporda belirsiz bir nokta varsa cerrahla kısa bir görüşme, sonraki aylarda pek çok soruyu önler.",
+    "Kalan işitmesi olan kişide ameliyat sonrası odyogramı ilk programlama gününe planlamak da iyi bir alışkanlıktır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Perimodiolar: kıvrık, modiolusa yakın",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Lateral duvar: düz, esnek, daha az travma",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Giriş: yuvarlak pencere ya da kokleostomi",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Yumuşak cerrahi kalan işitmeyi korur",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Perimodiolar diziler önceden kıvrıktır ve kontakları spiral gangliona yakın durur.",
+    "Lateral duvar dizileri düz ve esnektir; kokleaya daha az travma vererek daha derine yerleştirilebilir.",
+    "Kokleaya yuvarlak pencereden ya da kokleostomiyle girilir; seçim cerrahın değerlendirmesine ve anatomiye bağlıdır.",
+    "Yumuşak cerrahi ilkeleri kalan işitmeyi korumayı amaçlar; odyolog ameliyat raporunu programlamaya taşır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangi elektrot tasarımı modiolusa daha yakın durur?",
+   "secenekler": [
+    "Lateral duvar",
+    "Perimodiolar",
+    "Kemik yolu",
+    "Yüzey elektrodu"
+   ],
+   "dogru": 1,
+   "aciklama": "Perimodiolar dizi önceden kıvrıktır ve yerleştirildikten sonra modiolusu sarar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: hangi elektrot dizisi tasarımı modiolusa, yani spiral gangliona daha yakın durur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: perimodiolar dizi.",
+    "Perimodiolar dizi önceden kıvrıktır ve modiolusu saracak biçimde yerleşir; lateral duvar dizisi ise dış duvar boyunca uzanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İntraoperatif ölçümler: empedans, ECAP ve ESRT",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ameliyattaki ölçümleri, yani empedansı, sinirin elektriksel yanıtını ve elektriksel stapes refleksini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

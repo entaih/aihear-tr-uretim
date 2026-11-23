@@ -1,0 +1,778 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D165_VRA_TR",
+ "kapak": {
+  "ust": "DERS 165",
+  "baslik": "*VRA*: görsel<br>pekiştirme",
+  "alt": "6 ile 24 ay için davranışsal test",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Görsel Pekiştirmeli Odyometri (VRA) | Ders 165 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Yaklaşık 6 ile 24 aylık çocuklarda kullanılan görsel pekiştirmeli odyometriyi (VRA) anlatıyoruz. Koşullu baş çevirme yanıtını, görsel ödül ve koşullamayı, kontrol denemelerini ve insert kulaklıkla kulağa özgü testi örneklerle ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; British Society of Audiology, Recommended Procedure: Visual Reinforcement Audiometry; ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "VRA",
+   "pediatrikodyoloji"
+  ],
+  "etiketler": [
+   "VRA",
+   "visual reinforcement audiometry",
+   "görsel pekiştirmeli odyometri",
+   "conditioned head turn",
+   "koşullu baş çevirme",
+   "control trials",
+   "kontrol denemeleri",
+   "pediatrik odyoloji",
+   "bebek işitme testi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 165",
+   "baslik": "Görsel pekiştirmeli *odyometri*",
+   "alt": "VRA: koşullu baş çevirme ve görsel ödül",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste görsel pekiştirmeli odyometriyi, yani VRA'yı öğreneceğiz.",
+    "Koşullu baş çevirme yanıtını, kontrol denemelerini ve insert kulaklıkla kulağa özgü testi ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "VRA nedir?",
+   "baslik": "*VRA* nedir?",
+   "maddeler": [
+    {
+     "metin": "Sese _baş çevirme_ yanıtı",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Doğru yanıta _görsel ödül_",
+     "cumle": 2,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Temel: _edimsel koşullama_",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Sonuç: _minimal yanıt düzeyi_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "VRA",
+    "metin": "Visual reinforcement audiometry: *görsel pekiştirmeli* odyometri",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Görsel pekiştirmeli odyometri, kısaca VRA, küçük çocuklar için geliştirilmiş davranışsal bir işitme testidir.",
+    "Çocuk bir ses duyduğunda başını ödül kutusuna doğru çevirir; buna koşullu baş çevirme (conditioned head turn) denir.",
+    "Doğru zamanda yapılan bu baş çevirme, ışıklı ya da hareketli bir oyuncak gösterilerek ödüllendirilir.",
+    "Bu yöntem edimsel koşullamaya dayanır; ödüllendirilen davranışın tekrarlanma olasılığı artar.",
+    {
+     "yazi": "Yöntemin kökleri, 1960'lı yıllarda tanımlanan koşullu yönelme refleksi yöntemine dayanır.",
+     "ses": "Yöntemin kökleri, bin dokuz yüz altmışlı yıllarda tanımlanan koşullu yönelme refleksi yöntemine dayanır."
+    },
+    "Bebeklerde elde edilen en düşük yanıt düzeyleri çoğu zaman minimal yanıt düzeyi olarak da adlandırılır."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "VRA nedir?",
+   "baslik": "*Kimler* için uygun?",
+   "maddeler": [
+    {
+     "metin": "Yaklaşık _6 ile 24 ay_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Belirleyici: _gelişimsel_ yaş",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Baş kontrolü ve _destekli oturma_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Ödülü görecek _görme_ düzeyi",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "VRA genellikle yaklaşık altı ile yirmi dört ay arasındaki çocuklarda kullanılır.",
+    "Belirleyici olan takvim yaşı değil, gelişimsel yaştır; prematüre bebeklerde düzeltilmiş yaş dikkate alınır.",
+    "Çocuğun başını kontrol edebilmesi ve desteklenerek oturabilmesi gerekir.",
+    "Ödül görsel olduğu için çocuğun görmesinin bu ödülü fark etmeye yeterli olması gerekir.",
+    "Bazı kılavuzlar yöntemi gelişimsel olarak yaklaşık otuz aya kadar önerir; birçok çocuk iki yaş civarında oyun odyometrisine geçebilir."
+   ]
+  },
+  {
+   "id": "duzenek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test düzeneği",
+   "baslik": "Test *düzeneği*",
+   "cizim": "vra_odasi",
+   "vurgula": [
+    {
+     "parca": "cocuk",
+     "cumle": 0
+    },
+    {
+     "parca": "aci",
+     "cumle": 1
+    },
+    {
+     "parca": "dikkat_dagitici",
+     "cumle": 2
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 3
+    },
+    {
+     "parca": "odyometre",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "cocuk",
+     "metin": "Ebeveyn kucağında çocuk",
+     "cumle": 0
+    },
+    {
+     "parca": "odul_kutusu",
+     "metin": "Işıklı ödül kutusu",
+     "cumle": 1
+    },
+    {
+     "parca": "dikkat_dagitici",
+     "metin": "Dikkat dağıtıcı",
+     "cumle": 2
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "Hoparlör (ses alanı)",
+     "cumle": 3
+    },
+    {
+     "parca": "test_eden",
+     "metin": "Test eden",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ödül kutusu: çocuğun yanında",
+     "cumle": 1,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Dikkat dağıtıcı: çocuğun önünde",
+     "cumle": 2,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Çocuk test odasında, genellikle anne ya da babasının kucağında, karşıya bakacak biçimde oturur.",
+    "Ödül kutusu ve hoparlör çocuğun yan tarafına, çoğu zaman yaklaşık doksan derece açıyla yerleştirilir.",
+    "Çocuğun önünde bir dikkat dağıtıcı kişi, sessiz oyuncaklarla çocuğun bakışını ortada tutar.",
+    "Uyaran ses alanında hoparlörden ya da çocuk kabul ederse insert kulaklıkla verilir.",
+    "Test eden kişi odyometreyi kontrol eder, uyaranı verir ve yanıtı değerlendirir.",
+    "Kayıp tipini anlamak gerektiğinde kemik vibratörü ile kemik yolu yanıtları da alınabilir."
+   ]
+  },
+  {
+   "id": "roller",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test düzeneği",
+   "baslik": "Ekipte *kim* ne yapar?",
+   "ogeler": [
+    {
+     "ikon": "odyolog",
+     "baslik": "Test eden",
+     "metin": "Uyaran ve karar",
+     "cumle": 0
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Dikkat dağıtıcı",
+     "metin": "Bakışı ortada tutar",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Ebeveyn",
+     "metin": "Sessiz ve tarafsız",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Bilgisayarlı sistem",
+     "metin": "Plan ve kayıt",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Test eden kişi uyaranın zamanlamasını ve şiddetini belirler ve yanıtın geçerli olup olmadığına karar verir.",
+    "Dikkat dağıtıcı kişi çocuğu fazla eğlendirmeden ilgisini ortada tutar; çok ilginç bir oyun baş çevirmeyi azaltabilir.",
+    "Ebeveynden sessiz kalması ve sesi duyduğunda çocuğa işaret vermemesi istenir.",
+    "Farkında olmadan ipucu verilmesini önlemek için bazı merkezlerde ebeveyne kulaklıkla maskeleyici ses verilir.",
+    "Bazı sistemlerde denemeler ve kontrol denemeleri bilgisayarla planlanır ve kaydedilir; bu, gözlemci yanlılığını azaltır."
+   ]
+  },
+  {
+   "id": "odul",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test düzeneği",
+   "baslik": "*Ödül* nasıl kullanılır?",
+   "maddeler": [
+    {
+     "metin": "Işıklı, hareketli _oyuncak_ ya da video",
+     "cumle": 0,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Yalnız _doğru_ yanıta ödül",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ödül _kısa_ tutulur",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "İlgi azalınca _ödülü değiştir_",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Ödül çoğu zaman karanlık bir kutu içinde yanan ve hareket eden bir oyuncak ya da kısa bir video görüntüsüdür.",
+    "Ödül yalnız doğru zamanda yapılan doğru yanıttan sonra verilir.",
+    "Ödülün kısa tutulması, çocuğun ödüle hızla alışmasını geciktirir.",
+    "İlgi azaldığında farklı bir oyuncak ya da görüntüye geçmek yanıtları yeniden canlandırabilir.",
+    "Ödülün test uyaranıyla karışacak bir ses çıkarmaması gerekir; aksi halde çocuk yanlış sese yanıt verebilir."
+   ]
+  },
+  {
+   "id": "kosullama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koşullama ve eşik",
+   "baslik": "*Koşullama* aşaması",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Açık uyaran",
+     "metin": "Duyulduğundan emin şiddet",
+     "cumle": 0
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Ses ve ödül",
+     "metin": "Eşleştirilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Kendiliğinden dönüş",
+     "metin": "Ödülü beklemeden",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ölçüt",
+     "metin": "Ardışık doğru yanıtlar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Test, çocuğun duyduğundan emin olunan, açıkça işitilebilir bir şiddetle başlar.",
+    "İlk denemelerde ses verilir ve hemen ardından ödül yakılarak ses ile ödül arasında bağ kurulur.",
+    "Birkaç denemeden sonra çocuk sesi duyunca ödülü beklemeden başını çevirmeye başlar.",
+    "Ödülden önce gelen bu baş çevirme, koşullanmanın gerçekleştiğini gösterir.",
+    "Genellikle ardışık iki ya da daha fazla doğru yanıt alındığında eşik aramaya geçilir.",
+    "Kayıp ileri dereceyse koşullama için daha yüksek şiddet ya da kemik vibratörüyle titreşim kullanılabilir."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koşullama ve eşik",
+   "baslik": "*Eşik* arama",
+   "maddeler": [
+    {
+     "metin": "_Warble ton_ ya da dar bant gürültü",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Yanıt varsa _azalt_, yoksa artır",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yanıt penceresi: _kısa_ süre",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Az sayıda deneme: _öncelik_ belirle",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Eşik aramada frekansa özgü uyaranlar, örneğin frekansı hafifçe salınan warble tonlar ya da dar bant gürültü kullanılır.",
+    "Yanıt alındığında şiddet azaltılır, yanıt yoksa artırılır; örneğin eşiğe yakın on desibel azaltma, beş desibel artırma kuralı kullanılır.",
+    "Yalnız uyarandan sonraki kısa bir zaman penceresinde yapılan baş çevirmeler yanıt kabul edilir.",
+    "Ödül kısa tutulur ve gerekirse değiştirilir; böylece çocuğun ilgisi daha uzun süre korunur.",
+    "Çocuk belli sayıda yanıttan sonra sıkılacağı için en önemli frekanslar önce test edilir.",
+    "Genellikle her kulakta önce bir alçak ve bir yüksek frekans, ardından ara frekanslar hedeflenir."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koşullama ve eşik",
+   "baslik": "Konuşma ve *Ling sesleri*",
+   "maddeler": [
+    {
+     "metin": "_Konuşma_ farkındalık düzeyi",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ling sesleri: _m, u, a, i, ş, s_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Cihazlı işitmeyi _kontrol_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Frekansa özgü eşiğin _yerini tutmaz_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "VRA yalnız tonlarla değil, konuşma sesleriyle de yapılabilir; böylece konuşma farkındalık düzeyi bulunur.",
+    "Ling sesleri olarak bilinen m, u, a, i, ş ve s sesleri, alçak ile yüksek frekans arasında geniş bir aralığı temsil eder.",
+    "Bu sesler özellikle işitme cihazı kullanan çocuklarda cihazlı işitmeyi kontrol etmek için yararlıdır.",
+    "Ancak konuşma uyaranı geniş bantlı olduğu için frekansa özgü eşiklerin yerini tutmaz.",
+    "Bu yüzden konuşma ile alınan yanıtlar, tonlarla elde edilen bulguları tamamlayıcı olarak kullanılır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koşullama ve eşik",
+   "baslik": "Örnek *sonuç*",
+   "sutunlar": [
+    "Frekans",
+    "Sağ (insert)",
+    "Sol (insert)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "20 dB HL",
+      "25 dB HL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "20 dB HL",
+      "20 dB HL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "25 dB HL",
+      "50 dB HL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "20 dB HL",
+      "60 dB HL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek bir VRA sonucuna bakalım; bu çocukta test insert kulaklıklarla yapılmış.",
+    "Sağ kulakta tüm frekanslarda yanıtlar yirmi ile yirmi beş desibel civarında elde edilmiş.",
+    "Sol kulakta ise iki bin ve dört bin hertzde yanıtlar elli ile altmış desibele yükselmiş.",
+    "Bu test ses alanında yapılsaydı sağ kulak yanıt vereceği için sol kulaktaki bu kayıp görülemezdi.",
+    "Bu bulgunun işitsel beyin sapı yanıtı, yani ABR, otoakustik emisyon, yani OAE ve timpanometriyle birlikte değerlendirilmesi gerekir."
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kontrol denemeleri",
+   "baslik": "*Kontrol* denemeleri",
+   "maddeler": [
+    {
+     "metin": "Ses _verilmeden_ yapılan deneme",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Amaç: _rastgele_ baş çevirmeyi ölçmek",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Kontrol denemesinde _ödül yok_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Yanlış yanıt çoksa: _güvenilirlik_ düşük",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kontrol denemeleri (control trials), hiç ses verilmeden yapılan gözlem denemeleridir.",
+    "Bu denemelerde çocuğun ses olmadan da rastgele baş çevirip çevirmediğine bakılır.",
+    "Kontrol denemesinde yapılan baş çevirmeler ödüllendirilmez; aksi halde çocuk sese değil zamanlamaya koşullanır.",
+    "Yanlış yanıt oranı yüksekse, örneğin yüzde otuzu aşarsa, elde edilen düzeyler güvenilir değildir ve çocuk yeniden koşullanır.",
+    "Kontrol denemeleri gerçek denemelerin arasına düzensiz aralıklarla yerleştirilir.",
+    "Sonuç raporunda yanlış yanıt oranı ve testin güvenilirliği de belirtilir."
+   ]
+  },
+  {
+   "id": "yanlilik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kontrol denemeleri",
+   "baslik": "Yanlılığı *azaltmak*",
+   "maddeler": [
+    {
+     "metin": "Uyaranı _düzensiz_ aralıklarla ver",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Dikkat dağıtıcı _ipucu_ vermemeli",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yanıtı _önceden_ tanımla",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Uyaranlar düzenli bir ritimle verilirse çocuk zamanlamayı tahmin ederek baş çevirebilir; bu yüzden aralıklar değiştirilir.",
+    "Dikkat dağıtıcı kişi uyaranın ne zaman verildiğini bilirse farkında olmadan ipucu verebilir.",
+    "Bu yüzden dikkat dağıtıcının uyaranı duymaması ve görmemesi tercih edilir.",
+    "Hangi hareketin yanıt sayılacağı, örneğin ödüle doğru belirgin bir baş çevirme, testten önce net olarak tanımlanır.",
+    "Bu önlemler, sonuçların gözlemcinin beklentisinden değil çocuğun işitmesinden kaynaklanmasını sağlar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Çocuk kabul ederse teste insert kulaklıkla başlayın; ses alanı yalnız iyi kulağı gösterir ve tek taraflı kaybı gizler.",
+   "cumleler": [
+    "Bir klinik ipucu: çocuk kabul ederse teste en baştan insert kulaklıkla başlayın.",
+    "Ses alanında alınan yanıtlar yalnız daha iyi işiten kulağı yansıtır ve tek taraflı bir kaybı gizleyebilir.",
+    "Köpük uçlu insert kulaklıklar çoğu çocuk tarafından iyi tolere edilir; dikkat dağıtıcı oyun sırasında takılabilir.",
+    "Çocuğun ilgisi sınırlı olduğu için ilk yanıtlardan kulağa özgü bilgi almak testin verimini artırır."
+   ]
+  },
+  {
+   "id": "ses_alani",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kulağa özgü test",
+   "baslik": "Ses alanı mı, *insert* mi?",
+   "sol": {
+    "ust": "Ses alanı",
+    "maddeler": [
+     {
+      "metin": "Hoparlörden uyaran",
+      "cumle": 0
+     },
+     {
+      "metin": "Daha iyi kulağı yansıtır",
+      "cumle": 1
+     },
+     {
+      "metin": "Warble ton ya da dar bant",
+      "cumle": 4
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Insert kulaklık",
+    "maddeler": [
+     {
+      "metin": "Her kulak ayrı",
+      "cumle": 2
+     },
+     {
+      "metin": "Tek taraflı kaybı gösterir",
+      "cumle": 2
+     },
+     {
+      "metin": "Maskeleme ihtiyacı daha az",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Ses alanı testi, kulaklık takmak istemeyen çocuklarda başlangıç için yararlıdır.",
+    "Ancak sonuç iki kulağın birlikte işitmesini, pratikte daha iyi kulağı yansıtır.",
+    "Insert kulaklıklar her kulağın ayrı test edilmesini sağlar ve tek taraflı ya da asimetrik kaybı ortaya çıkarır.",
+    "Kulaklar arası zayıflama insert kulaklıkta yüksek olduğu için maskeleme ihtiyacı da daha azdır.",
+    "Ses alanında duran dalgaları önlemek için saf ton yerine warble ton ya da dar bant gürültü tercih edilir."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kulağa özgü test",
+   "baslik": "*Kemik yolu* ile VRA",
+   "maddeler": [
+    {
+     "metin": "Vibratör _mastoid_ üzerinde",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Hava ve kemik _karşılaştırılır_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Maskelemesiz _kulağa özgüllük_ yok",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Orta kulak sıvısı bu yaşta _sık_",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "kemik_vibratoru",
+      "metin": "kemik vibratörü",
+      "cumle": 1
+     },
+     {
+      "parca": "cihaz",
+      "metin": "odyometre",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Hava yolu yanıtları yüksekse, kayıp tipini anlamak için kemik yolu ile VRA yapılabilir.",
+    "Kemik vibratörü mastoid üzerine yerleştirilir ve çocuk hareket ettikçe kaymaması için dikkat edilir.",
+    "Kemik yolu yanıtları normal, hava yolu yanıtları yüksekse iletim tipi bir bileşen düşünülür.",
+    "Kemik yolu sesi iki kokleaya birlikte ulaştığı için, maskeleme yapılmadan hangi kulağın yanıt verdiği bilinemez.",
+    "Bu yaş grubunda orta kulak sıvısı sık görüldüğü için timpanometri ile birlikte değerlendirme önemlidir."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kulağa özgü test",
+   "baslik": "*Sınırlılıklar* ve çapraz kontrol",
+   "maddeler": [
+    {
+     "metin": "Alışma: _sınırlı_ sayıda yanıt",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Gelişimsel gecikme, _görme_ sorunu",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yanıt düzeyi eşiğin _biraz üstünde_ olabilir",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Çapraz kontrol: _ABR, OAE_, timpanometri",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Çocuk zamanla ödüle alışır ve yanıtlar azalır; bu yüzden bir oturumda alınabilecek bilgi sınırlıdır.",
+    "Gelişimsel gecikme ya da görme sorunu olan çocuklarda yöntem uygun olmayabilir ya da uyarlanması gerekir.",
+    "Normal işiten bebeklerde bile en düşük yanıt düzeyleri yetişkin eşiklerinden biraz daha yüksek çıkabilir.",
+    "Bu yüzden sonuçlar, çapraz kontrol ilkesiyle ABR, OAE ve timpanometri bulgularıyla birlikte yorumlanır.",
+    "Gerektiğinde test birden çok oturumda tamamlanır ve sonuçların tutarlılığı izlenir.",
+    "Bu bilgiler, gerekirse işitme cihazı ayarının ve izlem planının temelini oluşturur."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kulağa özgü test",
+   "baslik": "Raporda *neler* olmalı?",
+   "maddeler": [
+    {
+     "metin": "Ses alanı mı, _kulağa özgü_ mü",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Uyaran türü ve _frekanslar_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Yanıt düzeyleri ve _güvenilirlik_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Çocuğun _durumu_ ve iş birliği",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Raporda testin ses alanında mı, yoksa kulaklıkla kulağa özgü mü yapıldığı açıkça belirtilir.",
+    "Kullanılan uyaran türü ve test edilen frekanslar yazılır.",
+    "Yanıt düzeyleriyle birlikte kontrol denemelerindeki yanlış yanıt oranı ve genel güvenilirlik not edilir.",
+    "Çocuğun uyanıklığı, iş birliği ve testin neden yarım kaldığı gibi bilgiler sonraki oturumu planlamaya yardım eder.",
+    "Ses alanı sonuçları odyogramda kulağa özgü işaretlerle değil, ses alanı işaretiyle gösterilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Yaklaşık _6 ile 24 ay_, gelişimsel yaş",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Koşullu baş çevirme ve _görsel ödül_",
+     "cumle": 1,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "_Kontrol denemeleri_ ile güvenilirlik",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Insert kulaklıkla _kulağa özgü_ test",
+     "cumle": 3,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "VRA, gelişimsel olarak yaklaşık altı ile yirmi dört ay arasındaki çocuklar için uygundur.",
+    "Çocuk sese baş çevirmeye koşullanır ve doğru yanıtlar görsel bir ödülle pekiştirilir.",
+    "Ses verilmeyen kontrol denemeleri, rastgele baş çevirmeleri ve testin güvenilirliğini gösterir.",
+    "Ses alanı yalnız daha iyi kulağı yansıttığı için insert kulaklıkla kulağa özgü test hedeflenir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "VRA'da kontrol denemesinin amacı nedir?",
+   "secenekler": [
+    "Eşiği hızla bulmak",
+    "Rastgele baş çevirmeyi ölçmek",
+    "Ödülü tanıtmak"
+   ],
+   "dogru": 1,
+   "aciklama": "Ses verilmeden yapılan deneme, _yanlış yanıt_ oranını gösterir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: VRA'da ses verilmeden yapılan kontrol denemelerinin amacı nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: rastgele baş çevirmeyi, yani yanlış yanıtları ölçmek.",
+    "Yanlış yanıt oranı yüksekse elde edilen düzeyler güvenilir kabul edilmez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Oyun* odyometrisi (CPA)",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste daha büyük çocuklarda kullanılan koşullu oyun odyometrisini, yani CPA'yı öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

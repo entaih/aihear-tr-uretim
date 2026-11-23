@@ -1,0 +1,778 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D190_Gercek_Kulak_Olcumu_TR",
+ "kapak": {
+  "ust": "DERS 190",
+  "baslik": "Gerçek kulak<br>*ölçümü*",
+  "alt": "REUG, REAR ve REIG",
+  "cizim": "kulak_kesit"
+ },
+ "youtube": {
+  "baslik": "Gerçek kulak ölçümü (REM): REUG, REAR ve REIG | Ders 190 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazının reçete hedefine gerçekten ulaşıp ulaşmadığını nasıl anlarız? Bu derste prob tüpünün yerleştirilmesini, REUR, REUG, REAR ve REIG kavramlarını, hedefe uyumun nasıl kontrol edildiğini ve gerçek kulak ölçümünün neden atlanmaması gerektiğini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Mueller, Ricketts ve Bentler, Modern Hearing Aids; ANSI/ASA S3.46, Methods of Measurement of Real-Ear Performance Characteristics of Hearing Aids; British Society of Audiology, Guidance on the verification of hearing devices using probe microphone measurements; American Academy of Audiology, Guidelines for the Audiologic Management of Adult Hearing Impairment.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "REM"
+  ],
+  "etiketler": [
+   "gerçek kulak ölçümü",
+   "real-ear measurement",
+   "REM",
+   "REUG",
+   "REAR",
+   "REIG",
+   "prob mikrofon",
+   "işitme cihazı doğrulama",
+   "hearing aid verification",
+   "NAL-NL2",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 190",
+   "baslik": "Gerçek kulak *ölçümü*",
+   "alt": "REM: REUG, REAR ve REIG",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme cihazının kulakta ne ürettiğini doğrudan ölçen gerçek kulak ölçümünü öğreneceğiz.",
+    "Prob tüpünün yerleştirilmesini, temel ölçüm türlerini ve reçete hedefiyle karşılaştırmayı adım adım ele alacağız."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "REM nedir?",
+   "baslik": "Gerçek kulak ölçümü *nedir?*",
+   "maddeler": [
+    {
+     "metin": "Kulak yolunda ses basıncı ölçümü",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İnce bir _prob tüpü_ ve mikrofon",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Kişinin kendi kulak akustiği",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Reçete hedefiyle karşılaştırma",
+     "cumle": 6,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REM",
+    "metin": "*Gerçek kulak* ölçümü (real-ear measurement)",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Gerçek kulak ölçümü, kulak yolunda, timpanik membrana, yani kulak zarına yakın bir noktadaki ses basıncının ölçülmesidir.",
+    "İngilizcede real-ear measurement olarak adlandırılır ve kısaca REM diye anılır.",
+    "Ölçüm, kulak yoluna yerleştirilen ince ve yumuşak bir prob tüpü ile buna bağlı bir mikrofon aracılığıyla yapılır.",
+    "Bu tüp, işitme cihazı takılıyken bile kulak yolunda kalabilecek kadar incedir.",
+    "Böylece cihazın kuplörde değil, kişinin kendi kulak yolunda ne ürettiğini görürüz.",
+    "Kulak yolunun boyutu, şekli ve cihazın ventli olup olmaması bu sonucu belirgin biçimde değiştirir.",
+    "Elde edilen ölçüm, bir önceki derste gördüğümüz reçete hedefiyle karşılaştırılır."
+   ]
+  },
+  {
+   "id": "duzenek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "REM nedir?",
+   "baslik": "Ölçüm *düzeneği*",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "hoparlor",
+     "metin": "hoparlör",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_tupu",
+     "metin": "prob tüpü kulak yolunda",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran (kulak zarı)",
+     "cumle": 3
+    },
+    {
+     "parca": "referans_mikrofonu",
+     "metin": "referans mikrofon",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "hoparlor",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_tupu",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofonu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hoparlör: önde ya da 45 derece",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Referans mikrofon uyaranı denetler",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Sessiz oda, hareketsiz hasta",
+     "cumle": 6,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "Düzenekte üç temel parça vardır: hoparlör, prob mikrofonu ve referans mikrofon.",
+    "Hoparlör genellikle hastanın önünde ya da 45 derece açıyla, yaklaşık yarım metre ile bir metre uzaklıkta durur.",
+    "Prob tüpü kulak yoluna yerleştirilir ve ucu timpanik membrana yakın bir noktada durur.",
+    "Ölçümün amacı, timpanik membran önündeki ses basıncını olabildiğince doğru yakalamaktır.",
+    "Kulak kepçesinin hemen yanındaki referans mikrofon, kulağa ulaşan uyaranı izler ve hoparlör çıkışını buna göre düzeltir.",
+    "Böylece hasta başını biraz oynatsa bile, kulağa ulaşan giriş düzeyi sabit tutulur.",
+    "Yine de ölçüm sessiz bir odada, hasta konuşmadan ve başını oynatmadan yapılmalıdır."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Prob tüpünün yerleştirilmesi",
+   "baslik": "Prob tüpü *nereye?*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Kir ve zar kontrolü",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Tüp kalibrasyonu",
+     "metin": "Cihaz talimatına göre",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Uç derinliği",
+     "metin": "Zara yaklaşık 5 mm",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "İşaretleme",
+     "metin": "Kadın 28, erkek 30 mm",
+     "cumle": 4
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz ucu",
+     "metin": "En az 5 mm geçmeli",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "İlk adım otoskopidir: kulak yolunda tıkayıcı kir olmadığından ve timpanik membranın görünür olduğundan emin olun.",
+    "Ardından cihazın talimatına göre prob tüpünü kalibre edin; böylece tüpün kendi akustik etkisi ölçümden çıkarılır.",
+    "Tüpün ucu, timpanik membrana yaklaşık 5 mm kadar yaklaşmalıdır.",
+    "Bunun için tüp, kulak kepçesindeki intertragal çentikten başlayarak işaretlenir.",
+    "Yetişkinlerde bu uzaklık kadınlarda genellikle 28 mm, erkeklerde 30 mm civarındadır; bu değerler bir başlangıç noktasıdır.",
+    "Tüp işaretli noktaya kadar yavaşça ilerletilir ve otoskopla konumu kontrol edilir.",
+    "Tüpün ucu, kulak kalıbının ya da domun ucunu en az 5 mm geçmelidir; aksi halde cihazın çıkışı doğru ölçülmez.",
+    "Cihaz takılırken tüp yerinden kaymamalıdır; işaretin yerinde kaldığını yeniden kontrol edin."
+   ]
+  },
+  {
+   "id": "duran_dalga",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Prob tüpünün yerleştirilmesi",
+   "baslik": "Neden zara *yakın?*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 6000
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_boyu",
+     "metin": "dalga boyu yaklaşık 57 mm",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Zardan yansıma, duran dalga",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Çeyrek dalga boyunda çentik",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Zara yakın uç, doğru yüksek frekans",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Tüpün zara yakın olması neden bu kadar önemli?",
+    "Ses timpanik membrana çarpınca bir kısmı geri yansır ve kulak yolunda gelen dalgayla üst üste biner.",
+    "Örneğin 6000 Hz'lik bir sesin dalga boyu havada yaklaşık 57 mm'dir.",
+    "Prob ucu zardan yaklaşık çeyrek dalga boyu kadar, yani 14 mm civarında uzaktaysa, bu frekansta yansıyan dalga gelen dalgayı söndürür.",
+    "Sonuçta ölçümde yüksek frekanslarda gerçekte olmayan bir çentik görülür ve cihazın çıkışı düşük ölçülür.",
+    "Uç zara yaklaştıkça bu çentik daha yüksek frekanslara kayar ve ölçüm, önemli frekans aralığında güvenilir hale gelir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yüksek frekanslarda beklenmedik bir çentik görürseniz önce prob tüpünün derinliğini kontrol edin; tüp kalıpla itilmiş ya da geri kaymış olabilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: ölçümde yüksek frekanslarda beklenmedik, dar bir çentik görürseniz önce cihazı değil, prob tüpünü kontrol edin.",
+    "Tüp, cihaz takılırken geri kaymış olabilir; bu durumda uç zardan uzaklaşır ve duran dalga çentiği ortaya çıkar.",
+    "Tüpün ucunun kulak kiriyle tıkanması ya da kulak yolu duvarına dayanması da ölçümü bozar.",
+    "Tüp işaretini kulak kepçesinde sabit bir noktaya göre kontrol etmek bu hataların çoğunu önler.",
+    "Şüphe varsa tüpü yeniden yerleştirip ölçümü tekrarlamak, yanlış bir ayar yapmaktan her zaman daha iyidir."
+   ]
+  },
+  {
+   "id": "terimler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihazsız kulak: REUR ve REUG",
+   "baslik": "Ölçüm *terimleri*",
+   "sutunlar": [
+    "Kısaltma",
+    "Durum",
+    "Birim"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "REUR",
+      "Cihazsız, açık kulak",
+      "dB SPL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "REUG",
+      "Açık kulağın kazancı",
+      "dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "REOR",
+      "Cihaz takılı, kapalı",
+      "dB SPL"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "REAR",
+      "Cihaz takılı, açık",
+      "dB SPL"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "REIG",
+      "REAR eksi REUR",
+      "dB"
+     ],
+     "cumle": 6,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Gerçek kulak ölçümünün terimleri ilk bakışta karışık görünür, ama mantıkları basittir.",
+    "Real-ear unaided response, kısaca REUR, cihazsız açık kulak yolunda ölçülen ses basınç düzeyidir.",
+    "Bu değerden giriş düzeyi çıkarılırsa, açık kulağın doğal kazancı (real-ear unaided gain), kısaca REUG elde edilir.",
+    "Cihaz takılı ama kapalıyken yapılan ölçüme ise real-ear occluded response, kısaca REOR denir.",
+    "Real-ear aided response, kısaca REAR, cihaz takılı ve açıkken kulak yolunda ölçülen ses basınç düzeyidir.",
+    "REAR'dan giriş düzeyi çıkarılırsa cihazlı kazanç (real-ear aided gain), kısaca REAG elde edilir.",
+    "Yerleştirme kazancı (real-ear insertion gain), kısaca REIG, cihazın açık kulağa göre sağladığı farktır; REAR eksi REUR olarak hesaplanır."
+   ]
+  },
+  {
+   "id": "reug",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihazsız kulak: REUR ve REUG",
+   "baslik": "Açık kulağın *doğal kazancı*",
+   "maddeler": [
+    {
+     "metin": "Kulak yolu ve kepçe rezonansı",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tepe: yaklaşık _2500 ile 3000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Büyüklük: yaklaşık 15 ile 20 dB",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Çocukta tepe daha yüksek frekansta",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "REUG",
+    "metin": "Açık kulak yolunun *doğal* akustik kazancı",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Açık bir kulak yolu, kulak kepçesiyle birlikte gelen sesi bazı frekanslarda doğal olarak yükseltir.",
+    "Yetişkinlerde bu rezonansın tepe noktası genellikle 2500 ile 3000 Hz arasındadır.",
+    "Tepe noktasında doğal kazanç yaklaşık 15 ile 20 dB düzeyine ulaşabilir.",
+    "Ancak bu değerler kişiden kişiye belirgin biçimde değişir; ortalama değer her kulağı temsil etmez.",
+    "Çocuklarda kulak yolu daha kısa olduğu için rezonans tepe noktası daha yüksek frekanslarda bulunur.",
+    "Ölçülen REUG, o kulağın doğal akustiğinin kişiye özgü bir parmak izidir."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihazsız kulak: REUR ve REUG",
+   "baslik": "Cihaz takılınca: *yerleştirme kaybı*",
+   "maddeler": [
+    {
+     "metin": "Kalıp kulak yolunu kapatır",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Doğal rezonans _kaybolur_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Cihaz önce bunu telafi etmeli",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "kalip",
+      "metin": "kalıp kulak yolunu kapatır",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Kulak yoluna bir kalıp ya da cihaz yerleştirildiğinde kulak yolunun akustiği değişir.",
+    "Açık kulak yolunun doğal rezonansı büyük ölçüde kaybolur; buna yerleştirme kaybı denir.",
+    "Kapalı cihazla yapılan REOR ölçümü, bu kaybı ve kalıbın ne kadar ses geçirdiğini gösterir.",
+    "Bu yüzden cihaz, kişiye yarar sağlamadan önce, kaybolan bu doğal kazancı da telafi etmek zorundadır.",
+    "Yerleştirme kazancı kavramı tam olarak bu nedenle, açık kulağa göre fark olarak tanımlanmıştır.",
+    "Açık uyumlu cihazlarda kulak yolu büyük ölçüde açık kaldığı için yerleştirme kaybı daha azdır."
+   ]
+  },
+  {
+   "id": "rear",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Cihazlı kulak: REAR ve REIG",
+   "baslik": "*REAR*: kulakta ne kadar ses var?",
+   "maddeler": [
+    {
+     "metin": "Cihazlı ölçüm, dB SPL",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Konuşma benzeri uyaran: _55, 65, 80_ dB",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Maksimum çıkış: _85 ile 90_ dB tarama",
+     "cumle": 5,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "DSL hedefleri REAR biçiminde",
+     "cumle": 7,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "prob_tupu",
+      "metin": "prob tüp",
+      "cumle": 0
+     },
+     {
+      "parca": "isitme_cihazi",
+      "metin": "cihaz açık",
+      "cumle": 0
+     },
+     {
+      "parca": "hoparlor",
+      "metin": "konuşma benzeri uyaran",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "isitme_cihazi",
+      "cumle": 0
+     },
+     {
+      "parca": "hoparlor",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "REAR, cihaz açıkken timpanik membrana yakın noktadaki mutlak ses basınç düzeyidir ve dB SPL olarak ifade edilir.",
+    "Kompresyonlu cihazlarda tek bir ölçüm yetmez; bu yüzden ölçüm farklı giriş düzeylerinde tekrarlanır.",
+    "Genellikle yumuşak, orta ve yüksek konuşmayı temsil eden yaklaşık 55, 65 ve 80 dB SPL girişler kullanılır.",
+    "Bu ölçümlerde saf ses yerine konuşma benzeri sinyaller tercih edilir.",
+    "Çünkü cihazın gürültü azaltma gibi özellikleri, sabit bir saf sese gerçek konuşmadan farklı tepki verebilir.",
+    "Ayrıca 85 ile 90 dB SPL düzeyinde bir tarama sesiyle cihazın maksimum çıkışı ölçülür.",
+    "Bu maksimum çıkış, kişinin rahatsızlık düzeyini aşmamalıdır.",
+    {
+     "yazi": "İstenen duyum düzeyi, kısaca DSL v5 hedefleri REAR biçiminde verildiği için, ölçüm sonucu hedefle aynı ekranda karşılaştırılır.",
+     "ses": "İstenen duyum düzeyi, kısaca DSL versiyon 5 hedefleri REAR biçiminde verildiği için, ölçüm sonucu hedefle aynı ekranda karşılaştırılır."
+    }
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Cihazlı kulak: REAR ve REIG",
+   "baslik": "Örnek: *REIG* hesabı",
+   "sutunlar": [
+    "Frekans",
+    "REUG",
+    "REAG",
+    "REIG"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "1 dB",
+      "11 dB",
+      "10 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "3 dB",
+      "21 dB",
+      "18 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "12 dB",
+      "34 dB",
+      "22 dB"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "3000 Hz",
+      "17 dB",
+      "42 dB",
+      "25 dB"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Şimdi örnek değerlerle REIG hesabını yapalım; aynı giriş düzeyinde REIG, REAG eksi REUG olarak da bulunur.",
+    "500 Hz'de açık kulağın doğal kazancı 1 dB, cihazlı kazanç 11 dB; yerleştirme kazancı 10 dB olur.",
+    "1000 Hz'de doğal kazanç 3 dB, cihazlı kazanç 21 dB; yerleştirme kazancı 18 dB olur.",
+    "2000 Hz'de doğal kazanç 12 dB'e çıkar; cihazlı kazanç 34 dB olduğundan yerleştirme kazancı 22 dB'dir.",
+    "3000 Hz'de doğal kazanç 17 dB, cihazlı kazanç 42 dB; yerleştirme kazancı 25 dB olur.",
+    "Görüldüğü gibi, doğal rezonansın güçlü olduğu frekanslarda cihazlı kazancın önemli bir kısmı yalnız kaybolan rezonansı geri getirir.",
+    "Bu örnek, aynı cihaz ayarının farklı kulaklarda farklı yerleştirme kazancı vereceğini de açıklar."
+   ]
+  },
+  {
+   "id": "rear_reig",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Cihazlı kulak: REAR ve REIG",
+   "baslik": "REIG mi, *REAR* mı?",
+   "sol": {
+    "ust": "REIG",
+    "maddeler": [
+     {
+      "metin": "Açık kulağa göre fark",
+      "cumle": 0
+     },
+     {
+      "metin": "NAL-NL2 kazanç hedefi",
+      "cumle": 1
+     },
+     {
+      "metin": "Mutlak düzeyi göstermez",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "REAR",
+    "maddeler": [
+     {
+      "metin": "Kulak yolundaki mutlak düzey",
+      "cumle": 3
+     },
+     {
+      "metin": "Eşik ve konuşmayla aynı ekran",
+      "cumle": 4
+     },
+     {
+      "metin": "NAL-NL2 ve DSL v5 hedefleri",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "REIG, cihazın açık kulağa göre ne kadar fark yarattığını gösterir.",
+    {
+     "yazi": "Avustralya Ulusal Akustik Laboratuvarlarının formülü NAL-NL2'nin hedefleri geleneksel olarak yerleştirme kazancı biçiminde verilmiştir.",
+     "ses": "Avustralya Ulusal Akustik Laboratuvarlarının formülü NAL NL 2'nin hedefleri geleneksel olarak yerleştirme kazancı biçiminde verilmiştir."
+    },
+    "Ancak REIG, kulak yolundaki sesin gerçekte ne kadar yüksek olduğunu ve eşiğin üzerine çıkıp çıkmadığını doğrudan göstermez.",
+    "REAR ise kulak yolundaki mutlak ses düzeyini verir.",
+    "Bu yüzden kişinin eşikleri, konuşma bandı ve rahatsızlık düzeyi dB SPL olarak aynı ekranda gösterilebilir.",
+    {
+     "yazi": "Günümüzde hem NAL-NL2 hem DSL v5 hedefleri REAR biçiminde de kullanılır ve konuşma sinyaliyle REAR ölçümü giderek yaygınlaşmıştır.",
+     "ses": "Günümüzde hem NAL NL 2 hem DSL versiyon 5 hedefleri REAR biçiminde de kullanılır ve konuşma sinyaliyle REAR ölçümü giderek yaygınlaşmıştır."
+    }
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Hedefe uyum",
+   "baslik": "Hedefe *uydurma*",
+   "adimlar": [
+    {
+     "ikon": "grafik",
+     "baslik": "Karşılaştır",
+     "metin": "Ölçülen eğri ve hedef",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Kanal kazancı",
+     "metin": "Fark azaltılır",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Üç düzey",
+     "metin": "Ayrı ayrı kontrol",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ölçüt",
+     "metin": "Yaklaşık artı eksi 5 dB",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Maksimum çıkış",
+     "metin": "Ve geri besleme kontrolü",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Ölçüm ekranında hedef eğrisi ile ölçülen eğri üst üste görülür.",
+    "Aradaki fark, ilgili frekans kanalındaki kazanç değiştirilerek azaltılır.",
+    "Her değişiklikten sonra ölçüm tekrarlanır; çünkü bir kanaldaki ayar komşu frekansları da etkileyebilir.",
+    "Yumuşak, orta ve yüksek girişler ayrı ayrı kontrol edilir; böylece kompresyon ayarı da doğrulanmış olur.",
+    "Sık kullanılan bir yaklaşım, özellikle 2000 Hz'e kadar ölçümün hedefe yaklaşık artı eksi 5 dB yakın olmasıdır.",
+    "Daha yüksek frekanslarda, geri besleme ve kulak yolu akustiği nedeniyle biraz daha geniş bir tolerans kabul edilebilir.",
+    "Son olarak maksimum çıkış ölçülür ve geri besleme olmadan bu ayarın kullanılabildiği kontrol edilir."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Hedefe uyum",
+   "baslik": "Neden *atlanmamalı?*",
+   "maddeler": [
+    {
+     "metin": "İlk uyum çoğu zaman _hedefin altında_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Her kulak akustik olarak farklı",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kılavuzlar doğrulamayı önerir",
+     "cumle": 5,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Doğrulanmış uyum, daha iyi sonuç",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Araştırmalar, üreticinin ilk uyum ayarlarının çoğu zaman reçete hedefinin altında kaldığını gösteriyor.",
+    "Bu eksiklik özellikle konuşma anlaşılırlığı için önemli olan yüksek frekanslarda belirgindir.",
+    "Yazılım ekranındaki tahmini eğri, kişinin kulağında ölçülen gerçek değer değildir.",
+    "Kulak yolu boyutu, vent ve kalıbın oturuşu gibi etkenler, aynı ayarın her kulakta farklı sonuç vermesine yol açar.",
+    "Ölçülmeden yapılan bir uyumda, kişinin konuşmayı yeterince duyup duymadığını bilmek mümkün değildir.",
+    "Bu nedenle Amerikan ve İngiliz odyoloji kuruluşlarının kılavuzları, gerçek kulak ölçümüyle doğrulamayı en iyi uygulama olarak önerir.",
+    "Çalışmalar, gerçek kulak ölçümüyle doğrulanmış uyumların kullanıcı yararını artırdığını gösteriyor.",
+    "Deneyimli bir klinisyen için ölçüm genellikle kısa sürer; kazandırdığı doğruluk bu süreye fazlasıyla değer."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Prob ucu zara yaklaşık 5 mm yakın",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "REUG: açık kulağın doğal kazancı",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "REAR: kulakta cihazlı mutlak düzey",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "REIG = REAR eksi REUR",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Bu derste prob tüpünün ucunun timpanik membrana yaklaşık 5 mm yakın yerleştirilmesi gerektiğini gördük.",
+    "REUG, açık kulak yolunun kişiye özgü doğal kazancıdır.",
+    "REAR, cihaz açıkken kulak yolunda ölçülen mutlak ses düzeyidir ve farklı giriş düzeylerinde ölçülür.",
+    "REIG ise cihazın açık kulağa göre sağladığı farktır ve REAR eksi REUR olarak hesaplanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "3000 Hz'de REUG 17 dB, REAG 40 dB ise REIG kaçtır?",
+   "secenekler": [
+    "17 dB",
+    "23 dB",
+    "40 dB",
+    "57 dB"
+   ],
+   "dogru": 1,
+   "aciklama": "REIG = REAG eksi REUG: _40 eksi 17 = 23 dB_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: 3000 Hz'de REUG 17 dB, REAG 40 dB ise REIG kaç dB'dir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: 23 dB.",
+    "Yerleştirme kazancı, cihazlı kazançtan açık kulağın doğal kazancı çıkarılarak bulunur: 40 eksi 17, yani 23 dB."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Konuşma haritalama ve *ISTS* ile doğrulama",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste konuşma haritalamayı, ISTS test sinyalini ve konuşma anlaşılabilirlik indeksini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,708 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D114_Gunluk_Biyolojik_Kontrol_TR",
+ "kapak": {
+  "ust": "DERS 114",
+  "baslik": "Günlük<br>*biyolojik* kontrol",
+  "alt": "Her sabah 5 dakikalık kontrol listesi",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Günlük Biyolojik Kontrol: Her Sabah 5 Dakika | Ders 114 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Günlük biyolojik kontrol, odyometrenin her sabah ilk hastadan önce gözle ve dinleyerek denetlenmesidir. Bu derste kablo, kulaklık ve vibratör kontrolünü, kendi eşiklerinizle karşılaştırmayı, çapraz konuşma, cızırtı ve gürültü kontrolünü ve günlük kontrol formunu adım adım anlatıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ISO 8253-1, Acoustics: Audiometric test methods, Part 1; ANSI/ASA S3.6, Specification for Audiometers; BSA, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "kalibrasyon"
+  ],
+  "etiketler": [
+   "biyolojik kontrol",
+   "dinleme kontrolü",
+   "odyometre kontrolü",
+   "çapraz konuşma",
+   "crosstalk",
+   "kalibrasyon",
+   "odyometri",
+   "klinik kalite",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 114",
+   "baslik": "Günlük *biyolojik* kontrol",
+   "alt": "Her sabah beş dakikalık kontrol listesi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste her sabah ilk hastadan önce yapılan günlük biyolojik kontrolü adım adım öğreneceğiz.",
+    "Kablo, kulaklık ve vibratör kontrolünü, kendi eşiklerinizle karşılaştırmayı, çapraz konuşma ve gürültü kontrolünü konuşacağız."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel",
+   "baslik": "Biyolojik *kontrol* nedir?",
+   "maddeler": [
+    {
+     "metin": "_Dinleme kontrolü_ (listening check)",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Arızayı _hasta testinden önce_ yakala",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Her gün, yaklaşık _5 dakika_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Kalibrasyonun _yerini tutmaz_",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     },
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Biyolojik kontrol (biological check), odyometrenin normal işiten bir kişinin kulağıyla dinlenerek denetlenmesidir.",
+    "Bu kontrole dinleme kontrolü (listening check) de denir ve ölçüm cihazı gerektirmez.",
+    "Amaç, cihazın günlük kullanımda bozulup bozulmadığını hasta testinden önce yakalamaktır.",
+    "Kontrol yaklaşık beş dakika sürer; her test gününün başında ve cihaz yer değiştirdiğinde yapılır.",
+    {
+     "yazi": "Önceki derste gördüğümüz gibi bu kontrol, ISO 8253-1'deki A aşamasına, yani rutin kontrollere karşılık gelir.",
+     "ses": "Önceki derste gördüğümüz gibi bu kontrol, iso sekiz bin iki yüz elli üç birdeki a aşamasına, yani rutin kontrollere karşılık gelir."
+    },
+    "Biyolojik kontrol ölçümlü kalibrasyonun yerini tutmaz; ama iki kalibrasyon arasındaki dönemi güvenceye alır."
+   ]
+  },
+  {
+   "id": "gozle",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Gözle kontrol",
+   "baslik": "Önce *gözle* kontrol",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "odyometre",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 4
+    },
+    {
+     "parca": "kapi",
+     "cumle": 4
+    },
+    {
+     "parca": "havalandirma",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "Kablo ve yastık",
+     "cumle": 1
+    },
+    {
+     "parca": "odyometre",
+     "metin": "Fiş ve kanal",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "Yanıt butonu",
+     "cumle": 4
+    },
+    {
+     "parca": "havalandirma",
+     "metin": "Gürültü kaynağı?",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kablo, fiş, yastık, bant",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Sağ ve sol doğru kanalda",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Buton, interkom, kapı",
+     "cumle": 4,
+     "ikon": "hasta_butonu"
+    }
+   ],
+   "cumleler": [
+    "Kontrol, cihazı açmadan önce gözle yapılan bir incelemeyle başlar.",
+    "Kulaklık ve vibratör kablolarında kırık, ezik ya da açılmış bir bölüm olup olmadığına bakılır.",
+    "Fişlerin doğru yuvalarda olduğu, sağ kulaklığın sağ, sol kulaklığın sol kanala takılı olduğu doğrulanır.",
+    "Kulaklık yastıklarında çatlak ya da sertleşme, kafa bandında gevşeme olup olmadığı kontrol edilir.",
+    "Hasta yanıt butonu, interkom ve kabin kapısının sıkı kapanması da bu turda gözden geçirilir.",
+    "Kabinde havalandırmanın ya da başka bir cihazın gürültü yapıp yapmadığı da not edilir."
+   ]
+  },
+  {
+   "id": "dinleme",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Gözle kontrol",
+   "baslik": "Dinleme *adımları*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kulaklıklar",
+     "metin": "Her frekans, iki taraf",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Vibratör",
+     "metin": "Pes ve orta frekans",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Maskeleme",
+     "metin": "Doğru kanaldan mı?",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma kanalı",
+     "metin": "Mikrofon ve oynatıcı",
+     "cumle": 4
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Buton, interkom",
+     "metin": "İki yönde çalışıyor mu?",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Dinleme aşamasında önce kulaklıkları takın ve her frekansta tonun iki kulaklıktan da geldiğini kontrol edin.",
+    "Tonların temiz, yani cızırtısız ve titremesiz olduğunu dinleyin; frekans değiştikçe perdenin de değiştiğini doğrulayın.",
+    "Sonra kemik vibratörünü mastoidinize yerleştirip pes ve orta frekanslarda tonu dinleyin.",
+    "Maskeleme gürültüsünü her iki kulaklıkta açıp kapatarak doğru kanaldan geldiğini kontrol edin.",
+    "Konuşma kanalında canlı mikrofonu ve kayıtlı materyal oynatıcısını kısa bir sesle deneyin.",
+    "Son olarak hasta yanıt butonunun ve interkomun iki yönde de çalıştığını doğrulayın."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kendi eşiğinizle",
+   "baslik": "Kendi eşiğinizle *karşılaştırma*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "Frekans (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 40,
+     "adim": 10,
+     "ters": true,
+     "ad": "İşitme düzeyi (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        500,
+        5
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        10
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "kayıtlı taban",
+      "cumle": 1
+     },
+     {
+      "ad": "bugun",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        10
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "bugün",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       10,
+       25
+      ],
+      "xk": 4000,
+      "etiket": "15 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Taban: kalibrasyondan hemen sonra",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "10 dB ya da fazla fark: kontrol",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Önce tekrar ölç",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Kontrolün en güçlü parçası, normal işiten bir kişinin kendi eşiklerini düzenli olarak ölçmesidir.",
+    "Cihaz yeni kalibre edilmişken, kontrolü yapacak kişinin eşikleri her kulaklık ve vibratörle ölçülüp taban olarak kaydedilir.",
+    "Sonraki günlerde aynı kişi eşiklerini hızlıca ölçer ya da tonu taban eşiğinin biraz üzerinde dinler.",
+    "Bu örnekte bugün dört bin hertzde ölçülen eşik, kayıtlı tabandan on beş desibel kötü.",
+    "Yaygın bir uygulamaya göre tabandan on desibel ya da daha fazla fark, cihazın ölçümlü kontrolünü gerektirir.",
+    "Farkı önce tekrar ölçerek doğrulayın; kulaklığın yerleşimi ya da sizin o günkü durumunuz da etkili olabilir.",
+    "Fark sürüyorsa cihaz hasta testinde kullanılmaz ve kalibrasyon servisi çağrılır."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kendi eşiğinizle",
+   "baslik": "İnsert kulaklık ve *hoparlör*",
+   "maddeler": [
+    {
+     "metin": "_İnsert_: köpük uçla aynı kontroller",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "_Ses tüpü_ kıvrık ya da çatlak mı?",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Hoparlör: _dinleme noktasında_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Sağ ve sol _doğru kanal_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "ayar": {
+     "insert": true
+    },
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    "vurgula": [
+     {
+      "parca": "ses_tupu",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ses_tupu",
+      "metin": "Ses tüpü",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Kliniğinizde insert kulaklık da varsa, aynı kontroller köpük uçlar takılarak yapılır.",
+    "Bu kulaklıklarda ses tüpünün kıvrılmaması ve çatlamaması önemlidir; kıvrılan tüp sesi belirgin biçimde azaltır.",
+    "Köpük uçlar tek kullanımlıktır; kontrol için de temiz bir uç kullanılır.",
+    "Serbest alan hoparlörleri, hastanın oturduğu dinleme noktasında her frekansta kısaca dinlenir.",
+    "Hoparlörlerden cızırtı gelmemeli ve sağ ile sol hoparlör doğru kanaldan çalmalıdır."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sızıntı ve gürültü",
+   "baslik": "*Çapraz konuşma* kontrolü",
+   "maddeler": [
+    {
+     "metin": "_Çapraz konuşma_ (crosstalk): kanallar arası sızıntı",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Aktif kulaklık _başın dışında_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Diğer kulaklıkta _ses olmamalı_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "İki taraf için _tekrarla_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SIZINTI VARSA",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Maskeleme bozulur",
+      "metin": "Sinyal karşı kulakta",
+      "cumle": 4
+     },
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Servis",
+      "metin": "Kablo ve bağlantı",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Çapraz konuşma (crosstalk), bir kanaldaki sinyalin elektriksel olarak diğer kanala ya da kulaklığa sızmasıdır.",
+    "Aktif kulaklık başınızdan uzaklaştırılır, diğeri kulağınızda kalır ve aktif kanala örneğin yetmiş desibel HL'de ton verilir.",
+    "Kulağınızdaki kulaklıkta hiçbir ses duyulmamalıdır; duyuluyorsa sinyal kablo ya da devre üzerinden sızıyor demektir.",
+    "İşlem diğer taraf için de tekrarlanır.",
+    "Çapraz konuşma, özellikle maskeleme sırasında test sinyalinin karşı kulağa ulaşarak sonuçları bozmasına yol açabilir.",
+    "Böyle bir bulguda cihaz servise gönderilir; sorun çoğu zaman kablo ya da bağlantı kaynaklıdır."
+   ]
+  },
+  {
+   "id": "cizirti",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sızıntı ve gürültü",
+   "baslik": "Cızırtı ve *gürültü* kontrolü",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kablo cızırtısı",
+     "metin": "Kabloyu oynatarak dinle",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tıklama",
+     "metin": "Ton açılıp kapanırken",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Uğultu",
+     "metin": "Sinyal yokken dinle",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Zayıflatıcı",
+     "metin": "Düzey düzenli değişiyor mu?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Çapraz konuşmadan sonra sinyal dışındaki istenmeyen seslere bakılır.",
+    "Ton çalarken kabloları hafifçe oynatın; cızırtı, kesilme ya da düzey değişimi kablo arızasını gösterir.",
+    "Ton açılıp kapanırken tıklama duyulmamalıdır; tıklama, hastanın tona değil bu sese yanıt vermesine yol açabilir.",
+    "Sinyal kapalıyken dinleyin; vızıltı ya da uğultu elektriksel bir gürültüyü düşündürür.",
+    "Düzeyi beş desibellik adımlarla değiştirirken sesin düzenli artıp azaldığını ve ek bir ses çıkmadığını kontrol edin.",
+    "Kabin içindeki ortam gürültüsü de kabaca dinlenir; ayrıntılı ölçümü bir sonraki derste göreceğiz."
+   ]
+  },
+  {
+   "id": "form",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kayıt",
+   "baslik": "Günlük *kontrol formu*",
+   "sutunlar": [
+    "Madde",
+    "Sonuç"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Kablo ve fişler",
+      "Sağlam"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Kulaklık tonları",
+      "Temiz, iki taraf"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Vibratör",
+      "Temiz"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Kendi eşik farkı",
+      "10 dB'den az"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Çapraz konuşma",
+      "Yok"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Buton ve interkom",
+      "Çalışıyor"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kontrolün sonucu her gün kısa bir forma işaretlenir.",
+    "Formda kablo, kulaklık ve vibratör kontrolleri tek tek onaylanır.",
+    "Kendi eşiğinizle karşılaştırmada bulduğunuz fark ve kontrolü yapan kişinin adı da yazılır.",
+    "Çapraz konuşma, cızırtı, buton ve interkom kontrolleri de ayrı satırlarda yer alır.",
+    "Bu form, cihazın hangi gün sorunsuz çalıştığını gösteren bir kanıt olur."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kontrolü her gün aynı kişi, aynı sırayla yapsın. Taban eşiklerini kalibrasyondan hemen sonra kaydedin; küçük kaymalar ancak böyle fark edilir.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: kontrolü mümkünse her gün aynı kişi ve aynı sırayla yapsın.",
+    "Böylece kontrol birkaç dakikalık bir alışkanlığa dönüşür ve hiçbir adım atlanmaz.",
+    "Taban eşiklerinizi cihaz kalibre edildikten hemen sonra kaydedin.",
+    "Soğuk algınlığı gibi geçici bir işitme değişikliğiniz varsa eşik karşılaştırmasını başka bir kişiye bırakın."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kayıt",
+   "baslik": "Sorun bulursanız *ne yaparsınız?*",
+   "maddeler": [
+    {
+     "metin": "Önce _bağlantı_ ve ayar",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sürüyorsa: _cihazı kullanma_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Forma yaz, _servise_ bildir",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Onarım sonrası _ölçümlü kontrol_",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KURAL",
+    "metin": "Şüpheli cihazla *hasta testi* yapılmaz",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Kontrolde bir sorun bulursanız önce bağlantıları ve ayarları kontrol edip testi tekrarlayın.",
+    "Sorun sürüyorsa cihazı hasta testinde kullanmayın ve üzerine açık bir not koyun.",
+    "Durumu forma yazın ve teknik servise bildirin.",
+    "Sorunun ne zaman başladığı belirsizse, son başarılı kontrolden bu yana test edilen hastaların sonuçları gözden geçirilebilir.",
+    "Onarımdan sonra cihaz ölçümlü kontrolden geçmeden yeniden kullanılmaz.",
+    "Bu disiplin, hem hastanın hem de kliniğin sonuçlara olan güvenini korur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Her gün, _hasta testinden önce_",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Kablo, kulaklık, _vibratör_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Tabandan _10 dB_ ya da fazla fark",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Çapraz konuşma_ ve cızırtı yok",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "Biyolojik kontrol her gün, ilk hastadan önce yaklaşık beş dakikada yapılır.",
+    "Kablolar, fişler, kulaklıklar ve vibratör önce gözle, sonra dinleyerek kontrol edilir.",
+    "Kendi eşiğinizde tabana göre on desibel ya da daha fazla fark ölçümlü kontrol gerektirir.",
+    "Çapraz konuşma, cızırtı ve tıklama olmamalı; sorun varsa cihaz kullanılmaz."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Günlük kontrolde 4000 Hz eşiğiniz tabandan 15 dB kötü. İlk adım?",
+   "secenekler": [
+    "Teste devam etmek",
+    "Tekrar ölçüp doğrulamak",
+    "Sonuçlara 15 dB eklemek",
+    "Formu boş bırakmak"
+   ],
+   "dogru": 1,
+   "aciklama": "Fark önce _tekrar ölçümle_ doğrulanır; sürüyorsa cihaz kullanılmaz ve servis çağrılır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Günlük kontrolde dört bin hertz eşiğiniz tabandan on beş desibel kötü çıktı. İlk adım nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: tekrar ölçüp farkı doğrulamak.",
+    "Fark sürüyorsa cihaz hasta testinde kullanılmaz; düzeltme eklemek ya da teste devam etmek doğru değildir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İzin verilen *ortam gürültüsü*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste test odasında izin verilen en yüksek ortam gürültüsünü ve nasıl ölçüldüğünü göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

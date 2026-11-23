@@ -1,0 +1,735 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D196_Cocuklarda_Isitme_Cihazi_TR",
+ "kapak": {
+  "ust": "DERS 196",
+  "baslik": "Çocukta<br>*işitme cihazı*",
+  "alt": "DSL v5, RECD ve aile takibi",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  }
+ },
+ "youtube": {
+  "baslik": "Çocuklarda işitme cihazı uygulaması | Ders 196 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bebek ve çocuklarda işitme cihazı uygulaması yetişkinden nasıl farklıdır? Bu derste uygulama takvimini, frekansa özgü eşikten RECD ve DSL v5 hedeflerine uzanan uygulama zincirini, pil güvenliği ve kalıp yenilemeyi, veri kaydı ve aile takibini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: American Academy of Audiology, Clinical Practice Guidelines: Pediatric Amplification (2013); Joint Committee on Infant Hearing, Year 2007 Position Statement ve Year 2019 Position Statement; Walker ve ark. (2013), Language, Speech, and Hearing Services in Schools; Tomblin ve ark. (2015), Ear and Hearing; Bagatto ve ark. (2005), Trends in Amplification; Sağlık Uygulama Tebliği.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "pediatrik"
+  ],
+  "etiketler": [
+   "çocukta cihaz uygulaması",
+   "pediatric fitting",
+   "DSL v5",
+   "RECD",
+   "veri kaydı",
+   "datalogging",
+   "kulakta tutma",
+   "retention",
+   "pil güvenliği",
+   "JCIH",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 196",
+   "baslik": "Çocukta *işitme cihazı*",
+   "alt": "DSL v5, RECD, güvenlik ve aile takibi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bebek ve çocuklarda işitme cihazı uygulamasının yetişkinden neden ve nasıl farklı olduğunu öğreneceğiz.",
+    "Reçete hedefine ve kulak yolu ölçümüne dayalı uygulamayı, kalıp ve güvenlik önlemlerini ve kullanım kaydıyla aile takibini göreceğiz."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Çocuk neden farklı?",
+   "baslik": "Zaman *kritiktir*",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "Tarama",
+     "cumle": 0,
+     "metin": "İlk ay"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tanı",
+     "cumle": 1,
+     "metin": "Üçüncü ay"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz",
+     "cumle": 2,
+     "metin": "Tanıdan sonra bir ay içinde"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Müdahale",
+     "cumle": 3,
+     "metin": "Altıncı ay"
+    }
+   ],
+   "cumleler": [
+    "Bebek İşitmesi Ortak Komitesi, kısaca JCIH'nin bir, üç, altı hedefini hatırlayalım: tarama ilk ayda tamamlanır.",
+    "Tanı üçüncü ayın sonuna kadar konur.",
+    {
+     "yazi": "Aile cihazı seçtiyse, JCIH'nin 2007 bildirgesine göre cihaz tanıdan sonra bir ay içinde takılmalıdır.",
+     "ses": "Aile cihazı seçtiyse, JCIH'nin iki bin yedi bildirgesine göre cihaz tanıdan sonra bir ay içinde takılmalıdır."
+    },
+    {
+     "yazi": "Erken müdahale ise altıncı ayın sonuna kadar başlar; 2019 bildirgesi bu hedefe ulaşan programlara daha kısa süreler önerir.",
+     "ses": "Erken müdahale ise altıncı ayın sonuna kadar başlar; iki bin on dokuz bildirgesi bu hedefe ulaşan programlara daha kısa süreler önerir."
+    },
+    "Bu takvimin nedeni basittir: dil gelişimi için en hassas dönem ilk yıllardır ve duyulmayan ses öğrenilemez.",
+    "Bu yüzden çocukta cihaz uygulaması bekletilmeden, ama dikkatle planlanarak yapılır."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Çocuk neden farklı?",
+   "baslik": "Çocuk *küçük yetişkin* değildir",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Dil öğreniyor",
+     "cumle": 0,
+     "metin": "Duyulurluk öncelikli"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak büyüyor",
+     "cumle": 1,
+     "metin": "RECD ve kalıp değişir"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Anlatamaz",
+     "cumle": 2,
+     "metin": "Gözlem ve ölçüm"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Güvenlik",
+     "cumle": 3,
+     "metin": "Pil ve küçük parça"
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Ortamlar",
+     "cumle": 4,
+     "metin": "Ev, kreş, okul"
+    }
+   ],
+   "cumleler": [
+    "Yetişkin, bildiği dili cihazla yeniden duyar; çocuk ise dili cihazla duyduğu seslerden öğrenir.",
+    "Çocuğun kulak yolu hızla büyür; gerçek kulak ile kuplör farkı, yani RECD ve kalıp boyutu sürekli değişir.",
+    "Bebek, sesin rahatsız edici ya da yetersiz olduğunu söyleyemez; bu yüzden ayar büyük ölçüde ölçüme ve aile gözlemine dayanır.",
+    "Pil ve küçük parçalar, yutma ve boğulma riski taşıdığı için güvenlik ayrı bir başlıktır.",
+    "Çocuk evde, kreşte ve okulda farklı dinleme ortamlarında bulunur; uzak mikrofon gibi sistemler erkenden düşünülür.",
+    "Bütün bu farklar, pediatrik cihaz uygulamasını ayrı bir uzmanlık alanı haline getirir."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama zinciri",
+   "baslik": "Örnek: *ABR ile* tahmin edilen eşikler",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Sağ kulak, tahmini",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Sol kulak, tahmini",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Normal bölge",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       null,
+       50,
+       55,
+       60,
+       65,
+       null
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       null,
+       55,
+       55,
+       65,
+       70,
+       null
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte üç aylık bir bebekte frekansa özgü işitsel beyin sapı yanıtı, kısaca ABR ile eşikler tahmin edilmiş.",
+    "Eşikler 500, 1000, 2000 ve 4000 Hz için bulunmuş; iki kulakta orta ile orta-ileri derece arasında kayıp görülüyor.",
+    "ABR eşikleri doğrudan davranışsal eşik değildir; uygun düzeltmelerle tahmini işitme düzeyine çevrilir.",
+    "Cihaz bu tahminlere göre ayarlanır ve çocuk büyüdükçe davranışsal testlerle eşikler sürekli güncellenir.",
+    "Tahmini eşiklerin hangi düzeltmeyle elde edildiği yazılıma doğru girilmelidir; aksi halde hedef kayar.",
+    "Yani ilk ayar kesin bir son nokta değil, dikkatle izlenecek bir başlangıçtır."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama zinciri",
+   "baslik": "Uygulama *zinciri*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Eşik",
+     "cumle": 0,
+     "metin": "Frekansa özgü"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "RECD",
+     "cumle": 1,
+     "metin": "Ölçülmüş tercih"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Hedef",
+     "cumle": 2,
+     "metin": "DSL v5 ya da NAL-NL2"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kuplörde ayar",
+     "cumle": 4,
+     "metin": "Simüle ölçüm"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Geçerleme",
+     "cumle": 5,
+     "metin": "Aile gözlemi"
+    }
+   ],
+   "cumleler": [
+    "Çocukta uygulama birbirine bağlı halkalardan oluşan bir zincir gibidir; ilk halka frekansa özgü eşiklerdir.",
+    "İkinci halka RECD'dir; Amerikan Odyoloji Akademisinin 2013 kılavuzu mümkünse ölçülmüş RECD önerir.",
+    {
+     "yazi": "Hedef için kılavuz istenen duyum düzeyi, yani DSL v5 ya da NAL-NL2 gibi genel ve doğrulanmış bir reçete formülünü önerir.",
+     "ses": "Hedef için kılavuz istenen duyum düzeyi, yani DSL versiyon 5 ya da NAL NL 2 gibi genel ve doğrulanmış bir reçete formülünü önerir."
+    },
+    {
+     "yazi": "DSL v5 çocuklar için geliştirildiğinden, özellikle konuşmanın geniş bir bantta duyulur olmasını hedefler.",
+     "ses": "DSL versiyon 5 çocuklar için geliştirildiğinden, özellikle konuşmanın geniş bir bantta duyulur olmasını hedefler."
+    },
+    "Cihaz test kutusunda ayarlanır ve kuplör çıkışına RECD eklenerek kulaktaki düzey hedefle karşılaştırılır.",
+    "Son halka geçerlemedir: aile, çocuğun seslere tepkisini günlük yaşamda gözlemler ve yapılandırılmış anketlerle bildirir.",
+    "Zincirin bir halkası zayıfsa, örneğin eşik tahmini eskiyse, bütün ayar yanlış yöne kayabilir."
+   ]
+  },
+  {
+   "id": "bte",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama zinciri",
+   "baslik": "Neden *kulak arkası?*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "BTE"
+   },
+   "etiketler": [
+    {
+     "parca": "kalip",
+     "metin": "yumuşak kalıp yenilenir",
+     "cumle": 1
+    },
+    {
+     "parca": "pil",
+     "metin": "kilitli pil kapağı",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kalip",
+     "cumle": 1
+    },
+    {
+     "parca": "pil",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Büyüyen kulağa yeni kalıp",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Güçlü ve uzak mikrofonla uyumlu",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Güvenlik kilitleri",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Çocuklarda en sık kulak arkası cihaz tercih edilir.",
+    "Kulak büyüdükçe cihaz değil, yalnız kalıp yenilenir; bu da hem pratik hem ekonomiktir.",
+    "Kulak arkası cihaz, ileri kayıplar için gereken gücü sağlayabilir ve uzak mikrofon sistemleriyle kolayca birleşir.",
+    "Pil kapağı kilidi gibi güvenlik özellikleri de çoğunlukla bu tipte bulunur.",
+    "Türkiye'de Sağlık Uygulama Tebliğine göre 13 yaşın altında kulak içi ya da kanal içi cihaz kullanılırsa bedeli karşılanmaz.",
+    "Aynı tebliğe göre 18 yaş altında, yaş grubuna göre artırılmış bir ödeme uygulanır.",
+    "Bu tutar ve koşullar değişebileceği için her zaman tebliğin güncel metnine bakılmalıdır."
+   ]
+  },
+  {
+   "id": "muz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama zinciri",
+   "baslik": "Hedef: konuşmanın *tamamı*",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       null,
+       50,
+       55,
+       60,
+       65,
+       null
+      ],
+      "cumle": 0
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Bu çizimde örnek çocuğun eşikleri konuşma bölgesinin üzerine yerleştirilmiş.",
+    "Cihazsız durumda konuşma seslerinin büyük kısmı, özellikle tiz ünsüzler, eşiğin altında kalıyor.",
+    "Çocuk s ve ş gibi tiz ünsüzleri duyamazsa, bu sesleri içeren kelimeleri ve ekleri öğrenmekte zorlanır; bu da dil gelişimini etkiler.",
+    "Bu yüzden çocukta amaç, konuşmanın olabildiğince geniş bir bölümünü güvenli ve rahat bir düzeyde duyulur kılmaktır.",
+    "Bu nedenle çocuk hedefleri, aynı odyogram için yetişkin hedeflerinden genellikle daha fazla duyulurluk öngörür.",
+    "Tiz frekanslarda yeterli duyulurluk sağlanamıyorsa, frekans düşürme gibi seçenekler dikkatle ve doğrulanarak değerlendirilebilir."
+   ]
+  },
+  {
+   "id": "guvenlik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Güvenlik ve tutma",
+   "baslik": "Önce *güvenlik*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Pil kapağı kilidi",
+     "cumle": 0,
+     "metin": "Küçük çocukta"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Sabit ayar",
+     "cumle": 2,
+     "metin": "Ses düğmesi kapalı"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Pil yutma",
+     "cumle": 3,
+     "metin": "Acil durum"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Gösterge ışığı",
+     "cumle": 4,
+     "metin": "Çalıştığını gösterir"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Klips ve ip",
+     "cumle": 5,
+     "metin": "Kaybı önler"
+    }
+   ],
+   "cumleler": [
+    "Küçük çocuklarda pil kapağının kilitlenebilir olması önerilir; çocuk pili kendi başına çıkaramamalıdır.",
+    "Pil ve küçük parçalar ağza alınabilir; aileye pilleri kilitli bir yerde saklaması ve kullanılmış pilleri hemen atması anlatılır.",
+    "Küçük çocuklarda ses düzeyi düğmesi genellikle kapatılır ya da kilitlenir; böylece ayar yanlışlıkla değişmez.",
+    "Pil yutulması acil bir durumdur; aileye zehir danışma hattının numarası verilir ve beklemeden acile başvurması söylenir.",
+    "Bazı cihazlarda cihazın çalıştığını gösteren bir ışık bulunur; bu, ailenin ve öğretmenin kontrolünü kolaylaştırır.",
+    "Giysiye takılan klips ya da ip, cihazın düşüp kaybolmasını önler.",
+    "Aile, çıkarılan cihazı her zaman aynı kapalı kutuda saklamayı bir alışkanlık haline getirmelidir."
+   ]
+  },
+  {
+   "id": "tutma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Güvenlik ve tutma",
+   "baslik": "Kalıp ve *kulakta tutma*",
+   "maddeler": [
+    {
+     "metin": "Bebekte kalıp _ayda bir_ yenilenebilir",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Yumuşak materyal tercih edilir",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Islık: kalıp küçülmüş olabilir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bant, başlık, klips: tutma yardımı",
+     "cumle": 4,
+     "ikon": "bebek"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "kalip",
+      "metin": "küçülen kalıp: ıslık",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Amerikan Odyoloji Akademisinin 2013 pediatrik kılavuzu, bebeklerde kalıbın ayda bir kadar sık yenilenebileceğini belirtir.",
+    "Kalıp için genellikle yumuşak materyaller tercih edilir; darbe sırasında kulağı yaralamaz ve daha rahattır.",
+    "Daha önce sessiz olan cihaz ıslık çalmaya başladıysa, bunun en sık nedeni kalıbın küçülmüş olmasıdır.",
+    "Böyle bir durumda kazancı azaltmak yerine yeni ölçü alınır; çünkü kazancı kısmak çocuğun duyulurluğunu düşürür.",
+    "Cihazın kulakta tutulması (retention), özellikle bebek cihazı çekip çıkarmaya başladığında önemli bir sorundur.",
+    "Çift taraflı bant, yumuşak başlıklar ve klipsler cihazın yerinde kalmasına yardım eder."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kullanım ve aile",
+   "baslik": "Aile tahmini ve *veri kaydı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Ebeveyn bildirimi",
+      "2": "Veri kaydı"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 14,
+     "adim": 2,
+     "ad": "Günlük kullanım (saat)"
+    },
+    "seriler": [
+     {
+      "ad": "ebeveyn",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        1,
+        10.8
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "yaklaşık 11 saat",
+      "etiket_konum": [
+       1,
+       10.8
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "kayit",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        2,
+        8.3
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "yaklaşık 8 saat",
+      "etiket_konum": [
+       2,
+       8.3
+      ],
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "on_saat",
+      "x": 2.5,
+      "y": 10,
+      "cizgi": "yatay",
+      "etiket": "10 saat",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Cihazın ne kadar kullanıldığını bilmek, çocukta en önemli takip bilgilerinden biridir.",
+    "Cihazın veri kaydı (datalogging), yani kullanım kaydı, günde kaç saat açık kaldığını nesnel olarak gösterir.",
+    "Bir çalışmada ebeveynler çocuklarının günde ortalama yaklaşık 11 saat cihaz kullandığını bildirdi.",
+    "Aynı çocukların veri kaydı ise ortalama yaklaşık 8 saat gösterdi; ebeveynlerin çoğu kullanımı fazla tahmin ediyordu.",
+    "İşitme Kayıplı Çocukların Sonuçları çalışmasında, kısaca OCHL, günde 10 saat ve üzeri kullananlarda dil gelişimi daha hızlıydı.",
+    "Bu yüzden her kontrolde veri kaydı aileyle birlikte okunur; amaç suçlamak değil, kullanımı birlikte artırmaktır."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kullanım ve aile",
+   "baslik": "Aile *ekibin parçası*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dinleme kontrolü",
+     "cumle": 0,
+     "metin": "Her sabah"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Ling sesleri",
+     "cumle": 1,
+     "metin": "Altı ses denemesi"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Uyanık saatler",
+     "cumle": 2,
+     "metin": "Hedef: tüm gün"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Zor anlar",
+     "cumle": 3,
+     "metin": "Araba, banyo, yemek"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Destek",
+     "cumle": 4,
+     "metin": "Aile grupları"
+    }
+   ],
+   "cumleler": [
+    "Aileye cihazı her sabah bir dinleme stetoskobuyla kendisinin dinlemesi öğretilir.",
+    "Ling'in altı ses testinde, mmm, uu, aa, ii, şşş ve sss sesleri söylenerek çocuğun tepkisi gözlenir.",
+    "Hedef, cihazın çocuğun uyanık olduğu bütün saatlerde takılı olmasıdır.",
+    "Araba yolculuğu, yemek ve oyun gibi cihazın sık çıkarıldığı anlar aileyle birlikte belirlenir ve çözüm aranır.",
+    "Benzer deneyimden geçen ailelerle tanışmak ve destek grupları, ailenin motivasyonunu güçlendirir.",
+    "Cihaz başarısının en güçlü belirleyicisi, çoğu zaman cihazın kendisi değil, ailenin günlük katılımıdır."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kullanım ve aile",
+   "baslik": "Takip *döngüsü*",
+   "adimlar": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Eşik güncelleme",
+     "cumle": 0,
+     "metin": "Davranışsal testler"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "RECD ve kalıp",
+     "cumle": 1,
+     "metin": "Büyümeyle yenile"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Yeniden doğrula",
+     "cumle": 2,
+     "metin": "Hedefe uyum"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Gelişim",
+     "cumle": 3,
+     "metin": "Dil ve dinleme"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Aile görüşmesi",
+     "cumle": 4,
+     "metin": "Kullanım ve hedef"
+    }
+   ],
+   "cumleler": [
+    "Takipte önce eşikler, çocuğun yaşına uygun davranışsal testlerle güncellenir.",
+    "Kulak büyüdükçe RECD yeniden ölçülür ve kalıp yenilenir.",
+    "Her değişiklikten sonra cihaz çıkışı yeniden hedefle karşılaştırılır.",
+    "Dil ve dinleme gelişimi, yaşa uygun ölçekler ve ebeveyn anketleriyle izlenir.",
+    "Görüşmeler ilk yıllarda sık yapılır; kılavuzlar sabit bir takvimden çok, çocuğun ihtiyacına göre düzenli değerlendirmeyi önerir.",
+    "Okul çağına gelindiğinde sınıf akustiği ve uzak mikrofon ihtiyacı da takibin gündemine eklenir.",
+    "Gelişim beklenenden geri kalıyorsa ayar, kullanım süresi ve uzak mikrofon ya da koklear implant gibi seçenekler yeniden ele alınır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Önceden sessiz olan cihaz ıslık çalmaya başladıysa kazancı kısmayın; çoğu zaman kalıp küçülmüştür. Yeni ölçü alın, RECD'yi yenileyin ve çıkışı yeniden doğrulayın.",
+   "cumleler": [
+    "Sahadan bir ipucu: bebeğin cihazı önceden sessizken ıslık çalmaya başladıysa, ilk iş kazancı kısmak olmamalıdır.",
+    "Bu ıslık çoğu zaman çocuğun büyüdüğünü ve kalıbın artık kulak yolunu tam kapatmadığını gösterir.",
+    "Yeni ölçü alınır; yeni kalıp geldiğinde RECD yeniden ölçülür ve cihaz çıkışı hedefle yeniden karşılaştırılır.",
+    "Kalıp gelene kadar geçici çözümler için üreticinin önerileri kullanılabilir, ama asıl çözüm yeni kalıptır.",
+    "Aileye ıslığın bir arıza değil, büyümenin işareti olabileceğini anlatmak kaygıyı azaltır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Tanıdan sonra bir ay içinde cihaz",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Eşik, RECD, DSL v5 ya da NAL-NL2",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Pil kilidi ve sık kalıp yenileme",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Veri kaydı ile aile takibi",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Bu derste çocukta cihazın, aile seçtiyse tanıdan sonra bir ay içinde takılması gerektiğini gördük.",
+    "Uygulama zinciri frekansa özgü eşik, ölçülmüş RECD, reçete hedefi ve test kutusunda doğrulamadan oluşur.",
+    "Pil kapağı kilidi, sabit ayarlar ve sık kalıp yenileme çocuk uygulamasının vazgeçilmez parçalarıdır.",
+    "Veri kaydı ve ailenin günlük dinleme kontrolü, cihazın gerçekten kullanılmasını ve işe yaramasını sağlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Bebekte yeni başlayan ıslıkta ilk yapılacak?",
+   "secenekler": [
+    "Kazancı azaltmak",
+    "Kalıbı kontrol edip yenilemek",
+    "Cihazı değiştirmek",
+    "Kullanımı azaltmak"
+   ],
+   "dogru": 1,
+   "aciklama": "Islık çoğu zaman _kalıbın küçüldüğünü_ gösterir; kazancı kısmak duyulurluğu düşürür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: bebeğin daha önce sessiz olan cihazı ıslık çalmaya başladıysa ilk yapılacak şey nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kalıbı kontrol edip yenilemek.",
+    "Islık çoğu zaman çocuğun büyüdüğünü ve kalıbın küçüldüğünü gösterir; kazancı kısmak ise çocuğun duyulurluğunu düşürür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitme cihazı bakımı ve *sık arızalar*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste işitme cihazının bakımını ve sık görülen arızaların nasıl çözüldüğünü öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,88 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R332_Leq_Ortalama_Degil_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #332",
+  "baslik": "Leq *ortalama değil*",
+  "alt": "Eşdeğer sürekli ses düzeyi",
+  "cizim": "gurultu_spektrumu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Gürültülü bir günün düzeyi, ölçümlerin ortalamasıyla mı bulunur? #shorts",
+  "aciklama": "Eşdeğer sürekli ses düzeyi (Leq), dalgalanan bir sesle aynı enerjiyi taşıyan sabit düzeydir; aritmetik ortalama değil, enerji ortalamasıdır. Örnekte düzeyler 80 ile 95 dB(A) arasında değişirken aritmetik ortalama yaklaşık 86, Leq ise yaklaşık 89 dB(A) çıkar.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "gürültü",
+   "dozimetri"
+  ],
+  "etiketler": [
+   "Leq",
+   "eşdeğer sürekli ses düzeyi",
+   "LAeq",
+   "gürültü ölçümü",
+   "dozimetri",
+   "eşit enerji ilkesi",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Gürültülü bir günün düzeyi, ölçümlerin ortalamasıyla mı bulunur?",
+  "bilgiler": [
+   "Leq, aynı enerjiyi taşıyan sabit düzeydir.",
+   "Kısa süreli yüksek düzeyler Leq'i belirgin biçimde yükseltir.",
+   "Örnekte ortalama yaklaşık 86, Leq yaklaşık 89 dB(A)."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "gürültü",
+   "dozimetri"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #332",
+   "metin": "Ortalama *yeter mi?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Gürültülü bir günün düzeyi, ölçümlerin ortalamasıyla mı bulunur?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Örnek günün *Leq* değeri",
+   "sayi": "89",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Eşdeğer sürekli ses düzeyi, kısaca Leq, aynı enerjiyi taşıyan sabit düzeydir.",
+    "Leq bir enerji ortalamasıdır; aritmetik ortalama değildir.",
+    "Örnek günde düzey seksen ile doksan beş desibel A arasında değişiyor.",
+    "Aritmetik ortalama yaklaşık seksen altı, Leq ise yaklaşık seksen dokuz çıkıyor.",
+    "Yani tek bir saatlik doksan beş, sessiz saatlerden çok daha belirleyicidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D223",
+ "kaynak_baslik": "Gürültü ölçümü ve dozimetri"
+}

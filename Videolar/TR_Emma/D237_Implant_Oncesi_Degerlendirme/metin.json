@@ -1,0 +1,783 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D237_Implant_Oncesi_Degerlendirme_TR",
+ "kapak": {
+  "ust": "DERS 237",
+  "baslik": "İmplant öncesi<br>*değerlendirme*",
+  "alt": "Testler ve görüntüleme",
+  "cizim": "ic_kulak_yolu_dibi",
+  "vurgula": [
+   "koklear_sinir"
+  ]
+ },
+ "youtube": {
+  "baslik": "İmplant öncesi değerlendirme: testler ve görüntüleme | Ders 237 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Koklear implant öncesinde hangi testler yapılır? Bu derste öyküyü, odyolojik test bataryasını, çocuklarda değerlendirmeyi, ABR ve OAE'nin yerini, vestibüler testlerin kulak seçimine katkısını, BT ve MR ile koklea ve koklear sinir değerlendirmesini ve beklenti danışmanlığını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Niparko (ed.), Cochlear Implants: Principles and Practices; Sennaroğlu ve Bajin (2017), Classification and Current Management of Inner Ear Malformations, Balkan Medical Journal; Katz, Handbook of Clinical Audiology; Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği, madde 3.3.33.B.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "işitme"
+  ],
+  "etiketler": [
+   "koklear implant değerlendirmesi",
+   "ameliyat öncesi değerlendirme",
+   "preoperative evaluation",
+   "koklear sinir yetersizliği",
+   "cochlear nerve deficiency",
+   "beklenti danışmanlığı",
+   "temporal kemik BT",
+   "iç kulak MR",
+   "vestibüler test",
+   "ABR",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 237",
+   "baslik": "İmplant öncesi *değerlendirme*",
+   "alt": "Testler, görüntüleme ve beklenti danışmanlığı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste koklear implant öncesinde hangi testlerin yapıldığını ve her birinin karara ne kattığını öğreneceğiz.",
+    "Odyolojik, elektrofizyolojik ve vestibüler testleri, tomografi ve manyetik rezonans görüntülemeyi ve beklenti danışmanlığını ele alacağız."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Değerlendirme yolu",
+   "baslik": "Değerlendirmenin *yolu*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Öykü",
+     "cumle": 0,
+     "metin": "Neden, süre, hedef"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Odyoloji",
+     "cumle": 1,
+     "metin": "Cihazsız ve cihazlı"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Elektrofizyoloji",
+     "cumle": 2,
+     "metin": "ABR, OAE, denge"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Görüntüleme",
+     "cumle": 3,
+     "metin": "BT ve MR"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ekip kararı",
+     "cumle": 4,
+     "metin": "Danışmanlık ve onay"
+    }
+   ],
+   "cumleler": [
+    "Ameliyat öncesi değerlendirme (preoperative evaluation) ayrıntılı bir öyküyle başlar.",
+    "Odyolojik testler kaybın derecesini ve cihazla elde edilen yararı belgeler.",
+    "Elektrofizyolojik ve vestibüler testler, davranışsal testlerin göremediği bilgileri tamamlar.",
+    "Görüntüleme, kokleanın ve işitme sinirinin implanta uygun olup olmadığını gösterir.",
+    "Tüm bulgular, kişi ve ailesiyle yapılan beklenti danışmanlığıyla birlikte ekipte değerlendirilir.",
+    "Hangi kulağa implant uygulanacağı da çoğu zaman bu değerlendirmenin sonunda belirlenir."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Değerlendirme yolu",
+   "baslik": "Öyküde *neler sorulur?*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Neden",
+     "cumle": 0,
+     "metin": "Genetik, menenjit, CMV"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Süre",
+     "cumle": 1,
+     "metin": "Ağır kayıp ne zamandır?"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz öyküsü",
+     "cumle": 2,
+     "metin": "Ne kadar, ne kadar düzenli?"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "İletişim biçimi",
+     "cumle": 3,
+     "metin": "Konuşma, işaret dili"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Sağlık durumu",
+     "cumle": 4,
+     "metin": "Ek hastalık, kulak ameliyatı"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Hedefler",
+     "cumle": 5,
+     "metin": "Kişi ve ailenin beklentisi"
+    }
+   ],
+   "cumleler": [
+    "Kaybın nedeni sorgulanır: genetik nedenler, menenjit, doğumsal sitomegalovirüs enfeksiyonu ya da ototoksik ilaçlar gibi.",
+    "Ağır kaybın ne kadar süredir var olduğu, beklenen sonucu etkileyen en önemli bilgilerden biridir.",
+    "İşitme cihazlarının ne zamandan beri ve günde kaç saat kullanıldığı kaydedilir; veri kaydı burada yardımcıdır.",
+    "Kişinin ya da ailenin kullandığı iletişim biçimi, örneğin konuşma ya da işaret dili, rehabilitasyon planını etkiler.",
+    "Önceki kulak ameliyatları, kronik orta kulak hastalığı ve genel sağlık durumu cerrahi planlama için önemlidir.",
+    "Son olarak kişinin ve ailesinin implanttan ne beklediği açıkça konuşulur."
+   ]
+  },
+  {
+   "id": "odyoloji",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyolojik testler",
+   "baslik": "Odyolojik *test bataryası*",
+   "maddeler": [
+    {
+     "metin": "Cihazsız eşikler: hava, kemik, maskeli",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Timpanometri, akustik refleks, OAE",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Doğrulanmış cihazlarla cihazlı testler",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Kalan işitme ayrıntılı kaydedilir",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Her kulak ayrı: kulak seçimi",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        55,
+        70,
+        95,
+        110,
+        115,
+        115
+       ],
+       "cumle": 0,
+       "yanitsiz": [
+        4,
+        5
+       ]
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        60,
+        75,
+        100,
+        110,
+        115,
+        115
+       ],
+       "cumle": 0,
+       "yanitsiz": [
+        4,
+        5
+       ]
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Cihazsız saf ses eşikleri, gerekirse maskeleme yapılarak hava ve kemik yolu için her kulakta ayrı belirlenir.",
+    "Timpanometri, akustik refleks ve otoakustik emisyon, orta kulak durumunu ve koklear işlevi değerlendirmeye yardım eder.",
+    "Cihazlar gerçek kulak ölçümüyle doğrulandıktan sonra cihazlı eşikler ve kayıtlı konuşma testleri uygulanır.",
+    "Konuşma testleri sessizde ve gerekirse gürültüde, her kulak için ayrı ve iki kulak birlikte yapılır.",
+    "Alçak frekanslardaki kalan işitme ayrıntılı kaydedilir; bu bilgi elektrot ve cerrahi yaklaşım seçimini etkileyebilir.",
+    "Her kulağın ayrı performansı, hangi kulağa implant uygulanacağına karar vermede kullanılır."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyolojik testler",
+   "baslik": "Çocukta *değerlendirme*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Yaşa uygun test",
+     "cumle": 0,
+     "metin": "Görsel pekiştirme, oyun"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihazlı eşikler",
+     "cumle": 1,
+     "metin": "Konuşma sesleri duyuluyor mu?"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Ebeveyn anketleri",
+     "cumle": 2,
+     "metin": "İşitsel beceriler"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Dil gelişimi",
+     "cumle": 3,
+     "metin": "Dil ve konuşma terapisti"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Veri kaydı",
+     "cumle": 4,
+     "metin": "Gerçek kullanım süresi"
+    }
+   ],
+   "cumleler": [
+    "Çocuklarda yaşa uygun davranışsal yöntemler kullanılır: görsel pekiştirmeli odyometri ya da koşullu oyun odyometrisi.",
+    "Cihazlı eşikler, konuşma seslerinin ne kadarının duyulabildiğini gösterir.",
+    "Ebeveyn anketleri, çocuğun günlük yaşamdaki işitsel tepkilerini ve becerilerini sistemli biçimde kaydeder.",
+    "Dil ve konuşma terapisti, çocuğun dil gelişimini yaşıtlarıyla karşılaştırarak değerlendirir.",
+    "Cihazın veri kaydı, çocuğun cihazlarını gerçekte ne kadar kullandığını gösterir; düşük kullanım önce ele alınır.",
+    "Sınırlı ilerlemenin nedeni yetersiz kullanım mı, yoksa gerçekten yetersiz yarar mı, bu ayrım kararın temelidir."
+   ]
+  },
+  {
+   "id": "elektrofizyoloji",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Elektrofizyoloji ve denge",
+   "baslik": "Elektrofizyolojik *testler*",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "dalga V: eşik tahmini",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_I",
+     "metin": "dalga I",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Eşik: ABR ve ASSR",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "OAE var, ABR yok: nöropati?",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Görüntülemeyle birlikte yorumla",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "Bebeklerde ve güvenilir yanıt veremeyen kişilerde kaybın derecesi elektrofizyolojik testlerle belirlenir.",
+    "Frekansa özgü işitsel beyin sapı yanıtı, kısaca ABR ve işitsel durağan durum yanıtı, kısaca ASSR, eşik tahmininde kullanılır.",
+    "ABR alınamazken otoakustik emisyon ya da koklear mikrofonik varsa, işitsel nöropati spektrum bozukluğu düşünülür.",
+    "Bu tablo implant kararını değiştirmez ama değerlendirme sürecini ve beklentiyi etkiler.",
+    "Otoakustik emisyonun varlığı ise koklear sinir yetersizliğinde de görülebilir; bu yüzden görüntüleme sonucu birlikte yorumlanır.",
+    "Sinirin durumundan şüphe edilen seçilmiş vakalarda, elektriksel uyarıyla yapılan ek testler de gündeme gelebilir."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Elektrofizyoloji ve denge",
+   "baslik": "Neden *denge testi?*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "yarım daire kanalları",
+     "cumle": 0
+    },
+    {
+     "parca": "sakkul",
+     "metin": "sakkül: VEMP",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "lateral_kanal",
+     "cumle": 4
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ameliyat dengeyi etkileyebilir",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Kulak seçimine katkı",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Çocukta motor gelişim",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "İmplant ameliyatı bazı kişilerde ameliyat edilen taraftaki vestibüler işlevi azaltabilir.",
+    "Eğer diğer kulağın vestibüler işlevi zaten zayıfsa, tek iyi çalışan tarafın ameliyatı iki taraflı kayba yol açabilir.",
+    "Bu nedenle vestibüler testler hangi kulağa implant uygulanacağı kararında bilgi sağlar.",
+    "Çok ileri kayıplı çocukların önemli bir bölümünde vestibüler işlev de etkilenmiştir; bu, oturma ve yürümede gecikmeyle kendini gösterebilir.",
+    "Değerlendirmede video baş itme testi, kalorik test ve vestibüler uyarılmış miyojenik potansiyel, yani VEMP kullanılabilir.",
+    "Küçük çocuklarda yaşa uygun testler ve motor gelişim öyküsü bu bilgiyi tamamlar."
+   ]
+  },
+  {
+   "id": "bt",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Görüntüleme",
+   "baslik": "*BT* ne gösterir?",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "koklea: şekil, kemikleşme",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "fasiyal sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "iç kulak yolu",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Koklea şekli ve anomaliler",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kemikleşme: menenjit sonrası",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Cerrahi işaret noktaları",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklea",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 4,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Temporal kemiğin yüksek çözünürlüklü bilgisayarlı tomografisi, kısaca BT, kemik yapıları ayrıntılı gösterir.",
+    "Kokleanın şekli, tur sayısı ve iç kulak anomalileri BT ile değerlendirilir.",
+    "Menenjit sonrası koklea içindeki kemikleşme, elektrot yerleştirmeyi zorlaştıracağı için özellikle aranır.",
+    "Yuvarlak pencere nişi ve fasiyal sinirin seyri, cerrahın planlaması için önemlidir.",
+    "Koklear sinirin geçtiği kemik kanalın daralması, sinirin de az gelişmiş olabileceğine işaret eder.",
+    "Genişlemiş vestibüler akuadukt ve mastoidin havalanması da BT raporunda yer alır."
+   ]
+  },
+  {
+   "id": "mr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Görüntüleme",
+   "baslik": "MR ve *koklear sinir*",
+   "cizim": "mr_ic_kulak_yolu",
+   "ayar": {
+    "sinir_cumle": 1,
+    "aplazi_cumle": 4
+   },
+   "etiketler": [
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "fasiyal sinir: ön üst",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "koklear sinir: ön alt",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Manyetik rezonans görüntüleme, kısaca MR, sinirleri ve iç kulak sıvılarını gösterir.",
+    "İç kulak yoluna dik kesitlerde dört sinir görülür: önde yukarıda fasiyal sinir, önde aşağıda koklear sinir.",
+    "Arkada ise üst ve alt vestibüler sinirler yer alır.",
+    "Koklear sinir normalde aynı kesitteki fasiyal sinire benzer ya da ondan biraz büyüktür.",
+    "Sinirin küçük ya da hiç görülmemesine koklear sinir yetersizliği (cochlear nerve deficiency) denir ve implant kararını doğrudan etkiler.",
+    "MR ayrıca koklea içindeki sıvının yerini lifli dokunun alıp almadığını ve beyin ile ilgili olası bulguları gösterir."
+   ]
+  },
+  {
+   "id": "bt_mr",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Görüntüleme",
+   "baslik": "BT mi, *MR mı?*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "BT",
+     "cumle": 0,
+     "metin": "Kemik ayrıntısı, kısa süre"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "MR",
+     "cumle": 1,
+     "metin": "Sinir ve sıvı, radyasyonsuz"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Çocukta MR",
+     "cumle": 2,
+     "metin": "Çoğu zaman sedasyonla"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Çoğu merkezde ikisi",
+     "cumle": 3,
+     "metin": "Birbirini tamamlar"
+    }
+   ],
+   "cumleler": [
+    "BT kemik ayrıntısında üstündür ve kısa sürede çekilir; ancak iyonlaştırıcı radyasyon içerir.",
+    "MR radyasyon içermez ve sinirleri doğrudan gösterir; koklear sinirin değerlendirilmesinde temel yöntemdir.",
+    "Küçük çocuklarda MR çekimi çoğu zaman sedasyon ya da genel anestezi gerektirir.",
+    "Bu yüzden pek çok merkez iki yöntemi birlikte kullanır; hangisinin önce ya da tek başına kullanılacağı merkeze göre değişir.",
+    "Türkiye'de Sağlık Uygulama Tebliği de iç kulak gelişiminin ve koklear sinirin BT ya da MR raporuyla gösterilmesini ister.",
+    "Görüntülerin implant ekibinde radyolog ve cerrahla birlikte değerlendirilmesi, raporun tek başına okunmasından daha değerlidir."
+   ]
+  },
+  {
+   "id": "kulak_secimi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Danışmanlık",
+   "baslik": "Hangi *kulak?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kalan işitme",
+     "cumle": 0,
+     "metin": "Korunacak kulak hangisi?"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Sağırlık süresi",
+     "cumle": 1,
+     "metin": "Daha kısa olan taraf"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Anatomi",
+     "cumle": 2,
+     "metin": "Kemikleşme, anomali, sinir"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Vestibüler işlev",
+     "cumle": 3,
+     "metin": "Tek iyi tarafı koru"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Bimodal plan",
+     "cumle": 4,
+     "metin": "Diğer kulakta cihaz"
+    }
+   ],
+   "cumleler": [
+    "Tek kulağa implant planlanıyorsa kulak seçimi, değerlendirmenin bütün bulgularının birlikte tartıldığı bir karardır.",
+    "Ağır kaybın daha kısa süredir bulunduğu taraf, genellikle uyarıya daha iyi yanıt verir.",
+    "Görüntülemede kemikleşme, anomali ya da sinir sorunu olan taraf daha az uygun olabilir.",
+    "Vestibüler testler, tek iyi çalışan denge organını korumaya yardım eder.",
+    "Bazı merkezler cihazla daha iyi duyan kulağı bimodal kullanım için cihazda bırakmayı tercih eder; bazıları ise o kulağa implant uygular.",
+    "Her iki yaklaşımın da gerekçeleri vardır; karar kişinin bulgularına göre ekipte verilir."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Danışmanlık",
+   "baslik": "Diğer *değerlendirmeler*",
+   "maddeler": [
+    {
+     "metin": "Anestezi ve genel sağlık",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Menenjit aşıları: hekim önerisiyle",
+     "cumle": 1,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Psikolojik değerlendirme",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Gelişim ve eğitim ortamı",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "AMAÇ",
+    "metin": "Engel aramak değil, *süreci* doğru planlamak",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Hekim, genel anestezi ve ameliyat açısından kişinin sağlık durumunu değerlendirir.",
+    "İmplant kullanıcılarında menenjit riskine karşı aşılama önerileri hekim tarafından gözden geçirilir.",
+    "Psikolog, kişinin ve ailenin beklentilerini, uyum kapasitesini ve destek kaynaklarını değerlendirir.",
+    "Çocuklarda genel gelişim, ek engeller ve eğitim ortamı da plana dahil edilir.",
+    "Bu değerlendirmeler implantı engellemek için değil, sonrasındaki süreci doğru planlamak için yapılır."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Danışmanlık",
+   "baslik": "Beklenti *danışmanlığı*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "İlk sesler",
+     "cumle": 0,
+     "metin": "Mekanik, zamanla doğallaşır"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sonuç değişken",
+     "cumle": 1,
+     "metin": "Kişiden kişiye fark"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Rehabilitasyon",
+     "cumle": 2,
+     "metin": "Aylar süren emek"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kalan işitme",
+     "cumle": 3,
+     "metin": "Kaybolabilir"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "MR ve mıknatıs",
+     "cumle": 4,
+     "metin": "Önceden bilgi"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Aile rolü",
+     "cumle": 5,
+     "metin": "Günlük pratik"
+    }
+   ],
+   "cumleler": [
+    "Beklenti danışmanlığı (expectation counseling), implantın ne sağlayıp ne sağlamayacağını önceden gerçekçi biçimde konuşmaktır.",
+    "Sonuçlar kişiden kişiye belirgin biçimde değişir; aynı yaşta iki kişi çok farklı ilerleyebilir.",
+    "İmplant ameliyatla bitmez; programlama ve işitsel rehabilitasyon aylar süren düzenli bir emek ister.",
+    "Ameliyat edilen kulaktaki kalan işitme korunmaya çalışılsa da kaybolabileceği açıkça söylenir.",
+    "İç ünitedeki mıknatıs nedeniyle ileride çekilecek MR'larda özel önlemler gerekebileceği anlatılır.",
+    "Ailenin günlük yaşamda dinleme ve konuşma pratiğine katılımının sonucu belirgin biçimde etkilediği vurgulanır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Değerlendirmenin sonunda kişinin hedeflerini somut ve yazılı olarak kaydedin: örneğin telefonda konuşmak. Takipte bu hedeflere dönmek, beklenti ile sonucu karşılaştırmayı kolaylaştırır.",
+   "cumleler": [
+    "Sahadan bir ipucu: değerlendirmenin sonunda kişinin hedeflerini somut ve yazılı olarak kaydedin.",
+    "Örneğin telefonda kızıyla konuşmak ya da derste öğretmeni dinlemek gibi gerçek yaşam hedefleri seçin.",
+    "Aktivasyondan sonraki takiplerde bu hedeflere dönmek, ilerlemeyi kişiyle birlikte görmeyi sağlar.",
+    "Gerçekçi olmayan bir hedef varsa bunu ameliyattan önce, nazikçe ve açıkça konuşmak çok daha kolaydır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Öykü ve odyoloji: derece ve cihazla yarar",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "ABR, OAE ve denge testleri tamamlar",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "BT kemiği, MR siniri gösterir",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Beklenti danışmanlığı kararın parçası",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "Ayrıntılı öykü ve odyolojik testler, kaybın derecesini ve doğrulanmış cihazlarla elde edilen yararı belgeler.",
+    "Elektrofizyolojik ve vestibüler testler, işitsel nöropatiyi, sinir durumunu ve kulak seçimini aydınlatır.",
+    "BT kokleanın kemik yapısını ve kemikleşmeyi, MR ise koklear siniri ve iç kulak sıvılarını gösterir.",
+    "Gerçekçi beklentiler, rehabilitasyon planı ve hedefler, ameliyattan önce kişi ve aileyle birlikte konuşulur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Koklear sinirin varlığını ve boyutunu değerlendirmede temel görüntüleme yöntemi hangisidir?",
+   "secenekler": [
+    "Düz grafi",
+    "BT",
+    "MR",
+    "Ultrason"
+   ],
+   "dogru": 2,
+   "aciklama": "MR sinirleri doğrudan gösterir; BT ise _kemik_ ayrıntısında üstündür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: koklear sinirin varlığını ve boyutunu değerlendirmede temel görüntüleme yöntemi hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: manyetik rezonans görüntüleme.",
+    "MR iç kulak yolundaki sinirleri doğrudan gösterir; BT ise kemik kanalı gösterdiği için dolaylı bilgi verir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İç kulak anomalileri: *Sennaroğlu sınıflaması*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iç kulak anomalilerini ve Sennaroğlu sınıflamasını, implant kararına etkileriyle birlikte inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

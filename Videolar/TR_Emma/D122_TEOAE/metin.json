@@ -1,0 +1,2270 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D122_TEOAE_TR",
+ "kapak": {
+  "ust": "DERS 122",
+  "baslik": "*TEOAE*<br>ölçümü",
+  "alt": "Klik, nonlineer protokol ve ölçütler",
+  "cizim": "oae",
+  "ayar": {
+   "tur": "TEOAE"
+  }
+ },
+ "youtube": {
+  "baslik": "TEOAE: Geçici Uyarılmış Otoakustik Emisyon | Ders 122 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "TEOAE, klik uyaranına kokleanın verdiği geniş bantlı yanıttır. Bu derste prob yerleşimini, nonlineer klik protokolünü, A ve B tamponlarıyla tekrarlanabilirliği, bantlarda sinyal-gürültü oranını, örnek geçme kurallarını ve TEOAE ile işitme kaybı ilişkisini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Kemp DT (1978), Stimulated acoustic emissions from within the human auditory system, Journal of the Acoustical Society of America; Hall JW, Handbook of Otoacoustic Emissions; Dhar S, Hall JW, Otoacoustic Emissions: Principles, Procedures, and Protocols; Robinette MS, Glattke TJ, Otoacoustic Emissions: Clinical Applications; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "OAE",
+   "TEOAE"
+  ],
+  "etiketler": [
+   "TEOAE",
+   "otoakustik emisyon",
+   "geçici uyarılmış otoakustik emisyon",
+   "nonlineer protokol",
+   "tekrarlanabilirlik",
+   "sinyal-gürültü oranı",
+   "yenidoğan işitme taraması",
+   "OAE",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 122",
+   "baslik": "*TEOAE*: geçici uyarılmış OAE",
+   "alt": "Klik, nonlineer protokol ve geçme ölçütleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste geçici uyarılmış otoakustik emisyon ölçümünü ayrıntılı olarak öğreneceğiz.",
+    "Klik uyaranını, nonlineer protokolü, tekrarlanabilirlik ve sinyal-gürültü oranı ölçütlerini konuşacağız."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel",
+   "baslik": "TEOAE *nedir?*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "vurgula": [
+    {
+     "parca": "uyaran",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "Klik uyaranı",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "Koklear yanıt",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Uyaran: geniş bantlı klik",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Pencere: yaklaşık 20 ms",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Tiz erken, pes geç",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Geçici uyarılmış otoakustik emisyon (transient-evoked otoacoustic emission), kısaca TEOAE, kısa bir uyarana koklear yanıttır.",
+    "Uyaran olarak genellikle klik kullanılır; klik çok kısa olduğu için geniş bir frekans bandını aynı anda uyarır.",
+    "Bu yüzden kokleanın birçok bölgesi birlikte yanıt verir ve yanıt farklı frekansların karışımı olarak kaydedilir.",
+    "Yanıt uyarandan birkaç milisaniye sonra başlar ve yaklaşık yirmi milisaniyelik bir pencere içinde kaydedilir.",
+    "Yüksek frekanslı bileşenler kokleanın tabanından geldiği için daha erken, düşük frekanslı bileşenler ise daha geç gelir.",
+    "Önceki dersten hatırlayalım: yanıtın kaynağı dış tüy hücreleridir ve yanıt orta kulaktan geçerek kaydedilir."
+   ]
+  },
+  {
+   "id": "prob",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel",
+   "baslik": "Prob ve *kulak yolu*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "oae",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_hoparlor",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "Hoparlör: klik",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Mikrofon: yanıt",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sızdırmaz yerleşim",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Temiz, kısa uyaran",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Klik: yaklaşık 80 dB peSPL",
+     "cumle": 5,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Otoakustik emisyon, kısaca OAE ölçümünde kullanılan prob, kulak yoluna yerleştirilen küçük bir uçtur.",
+    "İçinde uyaranı veren minyatür bir hoparlör ve yanıtı kaydeden hassas bir mikrofon bulunur.",
+    "Prob ucu kulak yolunu iyi kapatmalıdır; ortam gürültüsü içeri girmemeli, düşük frekanslar dışarı kaçmamalıdır.",
+    "Ölçüm başında cihaz kısa bir uyaranla kulak yolunun tepkisini ölçer ve prob yerleşimini değerlendirir.",
+    "Uyaranın kulak yolundaki dalga biçimi temiz ve kısa olmalıdır; uzayan çınlama probun iyi oturmadığını düşündürür.",
+    "Klik düzeyi genellikle yaklaşık seksen desibel tepe eşdeğer ses basınç düzeyi civarında ayarlanır."
+   ]
+  },
+  {
+   "id": "nonlineer",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kayıt",
+   "baslik": "*Nonlineer* protokol",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "adim": 1,
+     "yazilar": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4"
+     },
+     "ad": "Klik sırası"
+    },
+    "y": {
+     "min": -3.5,
+     "max": 1.5,
+     "adim": 1,
+     "ad": "Göreli genlik"
+    },
+    "seriler": [
+     {
+      "ad": "ayni_yon",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        1
+       ],
+       [
+        2,
+        1
+       ],
+       [
+        3,
+        1
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "aynı yönde 3 klik",
+      "cumle": 1
+     },
+     {
+      "ad": "ters_yon",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        4,
+        -3
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "ters, 3 kat güçlü",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "3 aynı + 1 ters klik",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Doğrusal yankı silinir",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Emisyon kısmen korunur",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "TEOAE kaydındaki temel sorun, kulak yolundaki uyaran yankısının çok büyük, emisyonun ise çok küçük olmasıdır.",
+    "Nonlineer protokolde (nonlinear protocol) klikler dörtlü gruplar halinde verilir: üç klik aynı yönde.",
+    "Dördüncü klik ters yöndedir ve diğerlerinden üç kat güçlüdür.",
+    "Dört yanıt toplandığında, uyarana doğrusal olarak eşlik eden kulak yolu ve prob yankısı büyük ölçüde birbirini siler.",
+    "Koklear emisyon ise doğrusal büyümez; uyaran güçlendikçe yanıt aynı oranda artmaz, doygunluğa yaklaşır.",
+    "Bu yüzden toplamda emisyonun bir kısmı korunur ve uyaran artefaktından ayrılabilir.",
+    "Doğrusal protokol daha büyük yanıt verir ama artefaktı ayıklamak zordur; bu yüzden klinikte nonlineer protokol yaygındır."
+   ]
+  },
+  {
+   "id": "tampon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kayıt",
+   "baslik": "İki *tampon*: A ve B",
+   "maddeler": [
+    {
+     "metin": "Çok sayıda yanıtın _ortalaması_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İki tampon: _A ve B_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Emisyon iki tamponda _aynı_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Fark: _gürültü_ tahmini",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "oae",
+    "ayar": {
+     "tur": "TEOAE"
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "yanit",
+      "cumle": 3
+     },
+     {
+      "parca": "gurultu",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Emisyon çok küçük olduğu için tek bir yanıt gürültünün içinde kaybolur; bu yüzden çok sayıda yanıtın ortalaması alınır.",
+    "Cihaz yanıtları sırayla iki ayrı belleğe, yani A ve B tamponlarına (buffers) dağıtır.",
+    "Böylece aynı kulaktan, aynı süre içinde kaydedilmiş iki bağımsız ortalama elde edilir.",
+    "Gerçek bir emisyon iki ortalamada da aynı biçimde görünür; rastgele gürültü ise iki ortalamada farklıdır.",
+    "İki ortalamanın farkı gürültünün, toplamı ise yanıtın tahmini olarak kullanılır.",
+    "Çok gürültülü taramalar artefakt reddiyle ortalamaya katılmaz."
+   ]
+  },
+  {
+   "id": "tekrar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçütler",
+   "baslik": "*Tekrarlanabilirlik*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 20,
+     "adim": 5,
+     "ad": "Süre (ms)"
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.6,
+     "yazisiz": true,
+     "ad": "Basınç (göreli)"
+    },
+    "seriler": [
+     {
+      "ad": "tampon_a",
+      "noktalar": [
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.6,
+        0.371
+       ],
+       [
+        2.7,
+        0.54
+       ],
+       [
+        2.8,
+        0.407
+       ],
+       [
+        2.9,
+        0.041
+       ],
+       [
+        3.0,
+        -0.363
+       ],
+       [
+        3.1,
+        -0.593
+       ],
+       [
+        3.2,
+        -0.529
+       ],
+       [
+        3.3,
+        -0.2
+       ],
+       [
+        3.4,
+        0.239
+       ],
+       [
+        3.5,
+        0.582
+       ],
+       [
+        3.6,
+        0.67
+       ],
+       [
+        3.7,
+        0.463
+       ],
+       [
+        3.8,
+        0.048
+       ],
+       [
+        3.9,
+        -0.401
+       ],
+       [
+        4.0,
+        -0.698
+       ],
+       [
+        4.1,
+        -0.723
+       ],
+       [
+        4.2,
+        -0.466
+       ],
+       [
+        4.3,
+        -0.023
+       ],
+       [
+        4.4,
+        0.439
+       ],
+       [
+        4.5,
+        0.753
+       ],
+       [
+        4.6,
+        0.806
+       ],
+       [
+        4.7,
+        0.581
+       ],
+       [
+        4.8,
+        0.155
+       ],
+       [
+        4.9,
+        -0.332
+       ],
+       [
+        5.0,
+        -0.719
+       ],
+       [
+        5.1,
+        -0.886
+       ],
+       [
+        5.2,
+        -0.781
+       ],
+       [
+        5.3,
+        -0.439
+       ],
+       [
+        5.4,
+        0.038
+       ],
+       [
+        5.5,
+        0.509
+       ],
+       [
+        5.6,
+        0.841
+       ],
+       [
+        5.7,
+        0.943
+       ],
+       [
+        5.8,
+        0.79
+       ],
+       [
+        5.9,
+        0.426
+       ],
+       [
+        6.0,
+        -0.051
+       ],
+       [
+        6.1,
+        -0.517
+       ],
+       [
+        6.2,
+        -0.854
+       ],
+       [
+        6.3,
+        -0.984
+       ],
+       [
+        6.4,
+        -0.877
+       ],
+       [
+        6.5,
+        -0.564
+       ],
+       [
+        6.6,
+        -0.122
+       ],
+       [
+        6.7,
+        0.346
+       ],
+       [
+        6.8,
+        0.736
+       ],
+       [
+        6.9,
+        0.962
+       ],
+       [
+        7.0,
+        0.982
+       ],
+       [
+        7.1,
+        0.796
+       ],
+       [
+        7.2,
+        0.448
+       ],
+       [
+        7.3,
+        0.013
+       ],
+       [
+        7.4,
+        -0.419
+       ],
+       [
+        7.5,
+        -0.763
+       ],
+       [
+        7.6,
+        -0.957
+       ],
+       [
+        7.7,
+        -0.967
+       ],
+       [
+        7.8,
+        -0.799
+       ],
+       [
+        7.9,
+        -0.489
+       ],
+       [
+        8.0,
+        -0.098
+       ],
+       [
+        8.1,
+        0.302
+       ],
+       [
+        8.2,
+        0.641
+       ],
+       [
+        8.3,
+        0.863
+       ],
+       [
+        8.4,
+        0.937
+       ],
+       [
+        8.5,
+        0.855
+       ],
+       [
+        8.6,
+        0.637
+       ],
+       [
+        8.7,
+        0.325
+       ],
+       [
+        8.8,
+        -0.028
+       ],
+       [
+        8.9,
+        -0.367
+       ],
+       [
+        9.0,
+        -0.639
+       ],
+       [
+        9.1,
+        -0.807
+       ],
+       [
+        9.2,
+        -0.851
+       ],
+       [
+        9.3,
+        -0.771
+       ],
+       [
+        9.4,
+        -0.585
+       ],
+       [
+        9.5,
+        -0.324
+       ],
+       [
+        9.6,
+        -0.029
+       ],
+       [
+        9.7,
+        0.258
+       ],
+       [
+        9.8,
+        0.498
+       ],
+       [
+        9.9,
+        0.662
+       ],
+       [
+        10.0,
+        0.734
+       ],
+       [
+        10.1,
+        0.708
+       ],
+       [
+        10.2,
+        0.595
+       ],
+       [
+        10.3,
+        0.413
+       ],
+       [
+        10.4,
+        0.19
+       ],
+       [
+        10.5,
+        -0.045
+       ],
+       [
+        10.6,
+        -0.262
+       ],
+       [
+        10.7,
+        -0.437
+       ],
+       [
+        10.8,
+        -0.552
+       ],
+       [
+        10.9,
+        -0.598
+       ],
+       [
+        11.0,
+        -0.573
+       ],
+       [
+        11.1,
+        -0.487
+       ],
+       [
+        11.2,
+        -0.353
+       ],
+       [
+        11.3,
+        -0.188
+       ],
+       [
+        11.4,
+        -0.014
+       ],
+       [
+        11.5,
+        0.151
+       ],
+       [
+        11.6,
+        0.29
+       ],
+       [
+        11.7,
+        0.389
+       ],
+       [
+        11.8,
+        0.443
+       ],
+       [
+        11.9,
+        0.449
+       ],
+       [
+        12.0,
+        0.41
+       ],
+       [
+        12.1,
+        0.334
+       ],
+       [
+        12.2,
+        0.231
+       ],
+       [
+        12.3,
+        0.114
+       ],
+       [
+        12.4,
+        -0.005
+       ],
+       [
+        12.5,
+        -0.115
+       ],
+       [
+        12.6,
+        -0.206
+       ],
+       [
+        12.7,
+        -0.271
+       ],
+       [
+        12.8,
+        -0.307
+       ],
+       [
+        12.9,
+        -0.313
+       ],
+       [
+        13.0,
+        -0.291
+       ],
+       [
+        13.1,
+        -0.246
+       ],
+       [
+        13.2,
+        -0.183
+       ],
+       [
+        13.3,
+        -0.11
+       ],
+       [
+        13.4,
+        -0.035
+       ],
+       [
+        13.5,
+        0.037
+       ],
+       [
+        13.6,
+        0.1
+       ],
+       [
+        13.7,
+        0.149
+       ],
+       [
+        13.8,
+        0.181
+       ],
+       [
+        13.9,
+        0.197
+       ],
+       [
+        14.0,
+        0.195
+       ],
+       [
+        14.1,
+        0.179
+       ],
+       [
+        14.2,
+        0.15
+       ],
+       [
+        14.3,
+        0.113
+       ],
+       [
+        14.4,
+        0.071
+       ],
+       [
+        14.5,
+        0.028
+       ],
+       [
+        14.6,
+        -0.013
+       ],
+       [
+        14.7,
+        -0.049
+       ],
+       [
+        14.8,
+        -0.078
+       ],
+       [
+        14.9,
+        -0.098
+       ],
+       [
+        15.0,
+        -0.109
+       ],
+       [
+        15.1,
+        -0.111
+       ],
+       [
+        15.2,
+        -0.106
+       ],
+       [
+        15.3,
+        -0.093
+       ],
+       [
+        15.4,
+        -0.076
+       ],
+       [
+        15.5,
+        -0.056
+       ],
+       [
+        15.6,
+        -0.034
+       ],
+       [
+        15.7,
+        -0.012
+       ],
+       [
+        15.8,
+        0.008
+       ],
+       [
+        15.9,
+        0.025
+       ],
+       [
+        16.0,
+        0.039
+       ],
+       [
+        16.1,
+        0.048
+       ],
+       [
+        16.2,
+        0.053
+       ],
+       [
+        16.3,
+        0.055
+       ],
+       [
+        16.4,
+        0.053
+       ],
+       [
+        16.5,
+        0.047
+       ],
+       [
+        16.6,
+        0.04
+       ],
+       [
+        16.7,
+        0.031
+       ],
+       [
+        16.8,
+        0.021
+       ],
+       [
+        16.9,
+        0.012
+       ],
+       [
+        17.0,
+        0.002
+       ],
+       [
+        17.1,
+        -0.006
+       ],
+       [
+        17.2,
+        -0.012
+       ],
+       [
+        17.3,
+        -0.018
+       ],
+       [
+        17.4,
+        -0.021
+       ],
+       [
+        17.5,
+        -0.023
+       ],
+       [
+        17.6,
+        -0.023
+       ],
+       [
+        17.7,
+        -0.022
+       ],
+       [
+        17.8,
+        -0.02
+       ],
+       [
+        17.9,
+        -0.017
+       ],
+       [
+        18.0,
+        -0.013
+       ],
+       [
+        18.1,
+        -0.01
+       ],
+       [
+        18.2,
+        -0.006
+       ],
+       [
+        18.3,
+        -0.003
+       ],
+       [
+        18.4,
+        0.001
+       ],
+       [
+        18.5,
+        0.003
+       ],
+       [
+        18.6,
+        0.005
+       ],
+       [
+        18.7,
+        0.007
+       ],
+       [
+        18.8,
+        0.008
+       ],
+       [
+        18.9,
+        0.008
+       ],
+       [
+        19.0,
+        0.008
+       ],
+       [
+        19.1,
+        0.008
+       ],
+       [
+        19.2,
+        0.007
+       ],
+       [
+        19.3,
+        0.006
+       ],
+       [
+        19.4,
+        0.005
+       ],
+       [
+        19.5,
+        0.003
+       ],
+       [
+        19.6,
+        0.002
+       ],
+       [
+        19.7,
+        0.001
+       ],
+       [
+        19.8,
+        0.0
+       ],
+       [
+        19.9,
+        -0.001
+       ],
+       [
+        20.0,
+        -0.001
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "A",
+      "etiket_konum": [
+       16,
+       0.6
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "tampon_b",
+      "noktalar": [
+       [
+        2.5,
+        -0.021
+       ],
+       [
+        2.6,
+        0.303
+       ],
+       [
+        2.7,
+        0.52
+       ],
+       [
+        2.8,
+        0.327
+       ],
+       [
+        2.9,
+        0.042
+       ],
+       [
+        3.0,
+        -0.354
+       ],
+       [
+        3.1,
+        -0.605
+       ],
+       [
+        3.2,
+        -0.491
+       ],
+       [
+        3.3,
+        -0.241
+       ],
+       [
+        3.4,
+        0.214
+       ],
+       [
+        3.5,
+        0.489
+       ],
+       [
+        3.6,
+        0.574
+       ],
+       [
+        3.7,
+        0.421
+       ],
+       [
+        3.8,
+        0.084
+       ],
+       [
+        3.9,
+        -0.418
+       ],
+       [
+        4.0,
+        -0.682
+       ],
+       [
+        4.1,
+        -0.657
+       ],
+       [
+        4.2,
+        -0.38
+       ],
+       [
+        4.3,
+        -0.013
+       ],
+       [
+        4.4,
+        0.396
+       ],
+       [
+        4.5,
+        0.757
+       ],
+       [
+        4.6,
+        0.696
+       ],
+       [
+        4.7,
+        0.584
+       ],
+       [
+        4.8,
+        0.119
+       ],
+       [
+        4.9,
+        -0.351
+       ],
+       [
+        5.0,
+        -0.715
+       ],
+       [
+        5.1,
+        -0.847
+       ],
+       [
+        5.2,
+        -0.689
+       ],
+       [
+        5.3,
+        -0.446
+       ],
+       [
+        5.4,
+        0.045
+       ],
+       [
+        5.5,
+        0.49
+       ],
+       [
+        5.6,
+        0.767
+       ],
+       [
+        5.7,
+        0.883
+       ],
+       [
+        5.8,
+        0.682
+       ],
+       [
+        5.9,
+        0.343
+       ],
+       [
+        6.0,
+        -0.083
+       ],
+       [
+        6.1,
+        -0.459
+       ],
+       [
+        6.2,
+        -0.803
+       ],
+       [
+        6.3,
+        -0.937
+       ],
+       [
+        6.4,
+        -0.805
+       ],
+       [
+        6.5,
+        -0.53
+       ],
+       [
+        6.6,
+        -0.137
+       ],
+       [
+        6.7,
+        0.357
+       ],
+       [
+        6.8,
+        0.708
+       ],
+       [
+        6.9,
+        0.864
+       ],
+       [
+        7.0,
+        0.922
+       ],
+       [
+        7.1,
+        0.743
+       ],
+       [
+        7.2,
+        0.461
+       ],
+       [
+        7.3,
+        0.04
+       ],
+       [
+        7.4,
+        -0.415
+       ],
+       [
+        7.5,
+        -0.652
+       ],
+       [
+        7.6,
+        -0.936
+       ],
+       [
+        7.7,
+        -0.909
+       ],
+       [
+        7.8,
+        -0.712
+       ],
+       [
+        7.9,
+        -0.497
+       ],
+       [
+        8.0,
+        -0.093
+       ],
+       [
+        8.1,
+        0.225
+       ],
+       [
+        8.2,
+        0.616
+       ],
+       [
+        8.3,
+        0.835
+       ],
+       [
+        8.4,
+        0.88
+       ],
+       [
+        8.5,
+        0.84
+       ],
+       [
+        8.6,
+        0.57
+       ],
+       [
+        8.7,
+        0.326
+       ],
+       [
+        8.8,
+        -0.015
+       ],
+       [
+        8.9,
+        -0.331
+       ],
+       [
+        9.0,
+        -0.599
+       ],
+       [
+        9.1,
+        -0.709
+       ],
+       [
+        9.2,
+        -0.738
+       ],
+       [
+        9.3,
+        -0.72
+       ],
+       [
+        9.4,
+        -0.524
+       ],
+       [
+        9.5,
+        -0.354
+       ],
+       [
+        9.6,
+        -0.003
+       ],
+       [
+        9.7,
+        0.257
+       ],
+       [
+        9.8,
+        0.522
+       ],
+       [
+        9.9,
+        0.655
+       ],
+       [
+        10.0,
+        0.656
+       ],
+       [
+        10.1,
+        0.645
+       ],
+       [
+        10.2,
+        0.573
+       ],
+       [
+        10.3,
+        0.327
+       ],
+       [
+        10.4,
+        0.172
+       ],
+       [
+        10.5,
+        -0.082
+       ],
+       [
+        10.6,
+        -0.29
+       ],
+       [
+        10.7,
+        -0.459
+       ],
+       [
+        10.8,
+        -0.481
+       ],
+       [
+        10.9,
+        -0.6
+       ],
+       [
+        11.0,
+        -0.564
+       ],
+       [
+        11.1,
+        -0.466
+       ],
+       [
+        11.2,
+        -0.283
+       ],
+       [
+        11.3,
+        -0.225
+       ],
+       [
+        11.4,
+        -0.019
+       ],
+       [
+        11.5,
+        0.146
+       ],
+       [
+        11.6,
+        0.315
+       ],
+       [
+        11.7,
+        0.4
+       ],
+       [
+        11.8,
+        0.456
+       ],
+       [
+        11.9,
+        0.391
+       ],
+       [
+        12.0,
+        0.371
+       ],
+       [
+        12.1,
+        0.294
+       ],
+       [
+        12.2,
+        0.261
+       ],
+       [
+        12.3,
+        0.161
+       ],
+       [
+        12.4,
+        -0.047
+       ],
+       [
+        12.5,
+        -0.146
+       ],
+       [
+        12.6,
+        -0.224
+       ],
+       [
+        12.7,
+        -0.284
+       ],
+       [
+        12.8,
+        -0.288
+       ],
+       [
+        12.9,
+        -0.281
+       ],
+       [
+        13.0,
+        -0.299
+       ],
+       [
+        13.1,
+        -0.288
+       ],
+       [
+        13.2,
+        -0.18
+       ],
+       [
+        13.3,
+        -0.118
+       ],
+       [
+        13.4,
+        -0.024
+       ],
+       [
+        13.5,
+        0.089
+       ],
+       [
+        13.6,
+        0.116
+       ],
+       [
+        13.7,
+        0.14
+       ],
+       [
+        13.8,
+        0.183
+       ],
+       [
+        13.9,
+        0.204
+       ],
+       [
+        14.0,
+        0.128
+       ],
+       [
+        14.1,
+        0.214
+       ],
+       [
+        14.2,
+        0.173
+       ],
+       [
+        14.3,
+        0.15
+       ],
+       [
+        14.4,
+        0.102
+       ],
+       [
+        14.5,
+        0.013
+       ],
+       [
+        14.6,
+        -0.024
+       ],
+       [
+        14.7,
+        -0.093
+       ],
+       [
+        14.8,
+        -0.056
+       ],
+       [
+        14.9,
+        -0.143
+       ],
+       [
+        15.0,
+        -0.153
+       ],
+       [
+        15.1,
+        -0.138
+       ],
+       [
+        15.2,
+        -0.139
+       ],
+       [
+        15.3,
+        -0.106
+       ],
+       [
+        15.4,
+        -0.124
+       ],
+       [
+        15.5,
+        -0.112
+       ],
+       [
+        15.6,
+        -0.073
+       ],
+       [
+        15.7,
+        -0.059
+       ],
+       [
+        15.8,
+        -0.009
+       ],
+       [
+        15.9,
+        -0.034
+       ],
+       [
+        16.0,
+        0.081
+       ],
+       [
+        16.1,
+        0.058
+       ],
+       [
+        16.2,
+        0.007
+       ],
+       [
+        16.3,
+        0.021
+       ],
+       [
+        16.4,
+        0.031
+       ],
+       [
+        16.5,
+        0.028
+       ],
+       [
+        16.6,
+        -0.008
+       ],
+       [
+        16.7,
+        0.071
+       ],
+       [
+        16.8,
+        0.079
+       ],
+       [
+        16.9,
+        0.007
+       ],
+       [
+        17.0,
+        0.0
+       ],
+       [
+        17.1,
+        -0.055
+       ],
+       [
+        17.2,
+        -0.059
+       ],
+       [
+        17.3,
+        -0.035
+       ],
+       [
+        17.4,
+        -0.048
+       ],
+       [
+        17.5,
+        0.018
+       ],
+       [
+        17.6,
+        -0.062
+       ],
+       [
+        17.7,
+        -0.078
+       ],
+       [
+        17.8,
+        0.036
+       ],
+       [
+        17.9,
+        -0.012
+       ],
+       [
+        18.0,
+        -0.055
+       ],
+       [
+        18.1,
+        -0.004
+       ],
+       [
+        18.2,
+        -0.062
+       ],
+       [
+        18.3,
+        0.001
+       ],
+       [
+        18.4,
+        0.058
+       ],
+       [
+        18.5,
+        0.047
+       ],
+       [
+        18.6,
+        0.028
+       ],
+       [
+        18.7,
+        -0.022
+       ],
+       [
+        18.8,
+        -0.009
+       ],
+       [
+        18.9,
+        -0.032
+       ],
+       [
+        19.0,
+        0.04
+       ],
+       [
+        19.1,
+        0.011
+       ],
+       [
+        19.2,
+        0.04
+       ],
+       [
+        19.3,
+        -0.015
+       ],
+       [
+        19.4,
+        -0.029
+       ],
+       [
+        19.5,
+        0.041
+       ],
+       [
+        19.6,
+        0.06
+       ],
+       [
+        19.7,
+        0.043
+       ],
+       [
+        19.8,
+        0.037
+       ],
+       [
+        19.9,
+        0.038
+       ],
+       [
+        20.0,
+        0.028
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "B",
+      "etiket_konum": [
+       16,
+       -0.6
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "A ve B benzer: gerçek yanıt",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sık ölçüt: yaklaşık yüzde 70",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ölçüt protokole göre değişir",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Tekrarlanabilirlik (reproducibility), A ve B ortalamalarının birbirine ne kadar benzediğini gösteren bir yüzdedir.",
+    "İki eğri neredeyse üst üste biniyorsa tekrarlanabilirlik yüksektir ve bu, yanıtın gerçek olduğuna işaret eder.",
+    "Rastgele gürültü iki tamponda farklı olacağı için, yalnız gürültü kaydedildiğinde tekrarlanabilirlik düşük kalır.",
+    "Genel tekrarlanabilirlik için sık kullanılan bir ölçüt, yaklaşık yüzde yetmiş ve üzeridir.",
+    "Bazı protokoller yüzde elli ile altmış gibi daha düşük sınırlar kullanır; ölçüt kurumun protokolüne göre değişir.",
+    "Tekrarlanabilirlik ayrıca frekans bantlarında ayrı ayrı da hesaplanabilir.",
+    "Yüksek bir yüzde tek başına yeterli değildir; yanıtın gürültüden ne kadar büyük olduğuna da bakılır."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçütler",
+   "baslik": "Sinyal-gürültü *oranı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 800,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      1000,
+      1500,
+      2000,
+      3000,
+      4000
+     ],
+     "ad": "Frekans bandı (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 20,
+     "adim": 5,
+     "ad": "Düzey (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "yanit",
+      "noktalar": [
+       [
+        1000,
+        8
+       ],
+       [
+        1500,
+        10
+       ],
+       [
+        2000,
+        12
+       ],
+       [
+        3000,
+        9
+       ],
+       [
+        4000,
+        6
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": 5,
+      "etiket": "yanıt",
+      "cumle": 1
+     },
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        1000,
+        2
+       ],
+       [
+        1500,
+        0
+       ],
+       [
+        2000,
+        -2
+       ],
+       [
+        3000,
+        -4
+       ],
+       [
+        4000,
+        -5
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "kesik": true,
+      "etiket": "gürültü",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "snr_2k",
+      "y": [
+       -2,
+       12
+      ],
+      "xk": 2000,
+      "etiket": "SNR 14 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Bantlar: 1 ile 4 kHz",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ölçüt: 3 ile 6 dB üstü",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Pes bantta gürültü yüksek",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "İkinci temel ölçüt sinyal-gürültü oranıdır, kısaca SNR.",
+    "Cihaz yanıtı frekans bantlarına ayırır ve her bantta yanıt düzeyini gürültü düzeyiyle karşılaştırır.",
+    "Bantlar genellikle bir, bir buçuk, iki, üç ve dört kilohertz civarında merkezlenir.",
+    "Bu örnekte iki kilohertz bandında yanıt, gürültünün yaklaşık on dört desibel üzerinde.",
+    "Sık kullanılan ölçütler, bir bantta yanıtın gürültüden en az üç ile altı desibel büyük olmasını ister.",
+    "Bin hertz ve altındaki bantlarda gürültü daha yüksektir; bu yüzden pes bantlar çoğu zaman güvenilir değerlendirilemez.",
+    "Yanıtın mutlak düzeyi de not edilir; çok düşük düzeyli bir yanıt, gürültü düşük olsa bile dikkatle yorumlanır."
+   ]
+  },
+  {
+   "id": "gecme",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçütler",
+   "baslik": "Örnek *geçme* kuralı",
+   "sutunlar": [
+    "Ölçüt",
+    "Örnek değer"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Prob yerleşimi",
+      "Uygun"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Uyaran kararlılığı",
+      "Yüksek"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Genel tekrarlanabilirlik",
+      "Yaklaşık %70 ve üzeri"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Bant SNR",
+      "3 ile 6 dB"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Geçen bant sayısı",
+      "En az 3 bant"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Protokoller bu ölçütleri birleştirerek bir karar kuralı oluşturur; işte örnek bir kural.",
+    "Önce prob yerleşimi ve uyaranın ölçüm boyunca kararlı kaldığı kontrol edilir.",
+    "Kararlılık düşükse bebek hareket etmiş ya da prob kaymış olabilir.",
+    "Sonra genel tekrarlanabilirliğe bakılır.",
+    "Her bantta yanıtın gürültüyü belirli bir oranda aşması aranır.",
+    "Örneğin beş banttan en az üçünde ölçüt sağlanırsa sonuç geçti kabul edilebilir.",
+    "Bu sayılar örnektir; her merkez kendi cihazına ve kaynaklarına göre yazılı bir ölçüt belirlemelidir."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "TEOAE ve *işitme kaybı*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: 2 kHz üstünde kayıp",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "TEOAE: _1 ile 2 kHz_ var",
+     "cumle": 3
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "TEOAE: _3 ile 4 kHz_ yok",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       45,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "TEOAE işitme eşiğini ölçmez; ama işitme düzeyi hakkında kaba bir bilgi verir.",
+    "Koklear kayıp yaklaşık otuz ile kırk desibel HL'yi aştığında TEOAE genellikle alınamaz.",
+    "Bu örnekte kişinin pes ve orta frekanslarda işitmesi normal, iki kilohertzin üzerinde ise orta derecede kaybı var.",
+    "TEOAE yanıtı bir ve iki kilohertz bantlarında var, üç ve dört kilohertz bantlarında yok.",
+    "Bant bilgisi kaybın hangi bölgede olabileceği konusunda ipucu verir; ama eşik tahmini yapılmaz.",
+    "TEOAE'nin normal olması hafif bir kaybı tamamen dışlamaz; bu yüzden sonuç odyogramla birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "*Yenidoğan* ve yetişkin",
+   "sol": {
+    "ust": "Yenidoğan",
+    "maddeler": [
+     {
+      "metin": "Yanıt genliği daha büyük",
+      "cumle": 0
+     },
+     {
+      "metin": "Tiz bileşenler daha zengin",
+      "cumle": 1
+     },
+     {
+      "metin": "Emme ve hareket gürültüsü",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Yetişkin",
+    "maddeler": [
+     {
+      "metin": "Genlik daha küçük",
+      "cumle": 0
+     },
+     {
+      "metin": "Yaşla azalabilir",
+      "cumle": 4
+     },
+     {
+      "metin": "Daha sakin ölçüm",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Yenidoğanlarda TEOAE genliği genellikle yetişkinlerden belirgin biçimde büyüktür.",
+    "Yenidoğanda yanıt yüksek frekanslara doğru da daha zengindir; küçük kulak yolu hacmi bunun nedenlerinden biridir.",
+    "Bu özellikler TEOAE'yi yenidoğan taraması için uygun bir test yapar.",
+    "Ancak bebeklerde emme, hareket ve solunum sesleri ölçümü zorlaştırabilir.",
+    "Yetişkinlerde yanıt genliği yaşla birlikte azalabilir; bu azalmanın bir kısmı eşlik eden işitme kaybına bağlıdır.",
+    "Yetişkinler genellikle sakin oturabildiği için gürültü kontrolü daha kolaydır."
+   ]
+  },
+  {
+   "id": "bozan",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sorun giderme",
+   "baslik": "Kaydı *bozan* etkenler",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Ortam gürültüsü",
+     "metin": "Sessiz oda gerekir",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Hasta gürültüsü",
+     "metin": "Emme, ağlama, hareket",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Kulak yolu",
+     "metin": "Serumen ya da verniks",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Prob",
+     "metin": "Kötü yerleşim, tıkalı uç",
+     "cumle": 3
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Orta kulak",
+     "metin": "Sıvı, negatif basınç",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ortam gürültüsü gürültü tabanını yükseltir ve zayıf yanıtları örter.",
+    "Bebeklerde emme, ağlama ve hareket, reddedilen tarama sayısını artırır ve ölçümü uzatır.",
+    "Kulak yolundaki serumen ya da yenidoğanda verniks, uyaranın ve yanıtın iletimini azaltabilir.",
+    "Probun ağzı kulak yolu duvarına dayanmışsa ya da ucu tıkalıysa kayıt bozulur.",
+    "Orta kulakta sıvı ya da belirgin negatif basınç, koklea normal olsa bile yanıtı silebilir.",
+    "Bu etkenler düşünülmeden verilen bir kaldı sonucu gereksiz yönlendirmeye yol açar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yanıt yoksa önce probu çıkarın, ucunu kontrol edin ve yeniden yerleştirin. Bebek sakinleştiğinde yapılan tekrar ölçüm çoğu zaman sonucu değiştirir.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: TEOAE alınamadığında hemen kaldı demeyin.",
+    "Probu çıkarın, ucunda serumen ya da sıvı olup olmadığına bakın ve gerekirse ucu değiştirin.",
+    "Probu yeniden yerleştirin ve uyaran dalga biçiminin temiz olduğunu kontrol edin.",
+    "Bebek uyuduğunda ya da sakinleştiğinde yapılan tekrar ölçüm çoğu zaman farklı bir sonuç verir."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sorun giderme",
+   "baslik": "TEOAE *raporu*",
+   "maddeler": [
+    {
+     "metin": "Protokol ve _uyaran düzeyi_",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Tekrarlanabilirlik ve _bant SNR_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Her kulak _ayrı_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ortam ve _bebeğin durumu_",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TARAMA",
+    "metin": "Geçti ya da kaldı *tanı değildir*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "TEOAE sonucu raporlanırken kullanılan protokol ve uyaran düzeyi yazılır.",
+    "Genel tekrarlanabilirlik, uyaran kararlılığı ve her bandın sinyal-gürültü oranı kaydedilir.",
+    "Sonuç her kulak için ayrı olarak, kullanılan geçme ölçütüne göre özetlenir.",
+    "Ölçüm sırasındaki gürültü, bebeğin durumu ve varsa timpanometri sonucu da not edilir.",
+    "Tarama cihazları sonucu çoğu zaman yalnız geçti ya da kaldı olarak verir; tanısal değerlendirmede ayrıntılı veriler gerekir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Klik ile _geniş bantlı_ yanıt",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Nonlineer_ protokol artefaktı azaltır",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Tekrarlanabilirlik_ ve bant SNR",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "30 ile 40 dB HL üstü: _genellikle yok_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "TEOAE, klik uyaranına kokleanın verdiği geniş bantlı yanıttır ve yaklaşık yirmi milisaniyelik bir pencerede kaydedilir.",
+    "Nonlineer protokol, üç aynı ve bir ters klikle kulak yolu yankısını büyük ölçüde siler.",
+    "Sonuç, A ve B tamponlarının tekrarlanabilirliği ve bantlardaki sinyal-gürültü oranıyla değerlendirilir.",
+    "Koklear kayıp yaklaşık otuz ile kırk desibel HL'yi aşınca TEOAE genellikle alınamaz."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "TEOAE'de A ve B ortalamalarının benzerliğini gösteren ölçü hangisi?",
+   "secenekler": [
+    "Uyaran kararlılığı",
+    "Tekrarlanabilirlik",
+    "Gürültü tabanı",
+    "Prob yerleşimi"
+   ],
+   "dogru": 1,
+   "aciklama": "_Tekrarlanabilirlik_, iki bağımsız ortalamanın ne kadar benzediğini yüzde olarak gösterir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: TEOAE kaydında A ve B ortalamalarının ne kadar benzediğini gösteren ölçü hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: tekrarlanabilirlik.",
+    "Gerçek bir emisyon iki bağımsız ortalamada aynı görünür, gürültü ise farklıdır; bu benzerlik yanıtın güvenilirliğini gösterir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*DPOAE*: distorsiyon ürünü",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iki tonla ölçülen distorsiyon ürünü otoakustik emisyonu inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

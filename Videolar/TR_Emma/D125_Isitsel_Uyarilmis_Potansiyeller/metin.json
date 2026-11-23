@@ -1,0 +1,1695 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D125_Isitsel_Uyarilmis_Potansiyeller_TR",
+ "kapak": {
+  "ust": "DERS 125",
+  "baslik": "Uyarılmış<br>*potansiyeller*",
+  "alt": "Sinyal ortalama, filtre ve sınıflama",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "İşitsel Uyarılmış Potansiyellere Giriş | Ders 125 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitsel uyarılmış potansiyeller, sese karşı işitme siniri, beyin sapı ve korteksten kaydedilen küçük elektriksel yanıtlardır. Bu derste yanıtın EEG içinden sinyal ortalama, filtreleme ve artefakt reddiyle nasıl çıkarıldığını, latans ve genliği, erken, orta ve geç yanıtları ve klinik kullanım alanlarını inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall JW, New Handbook of Auditory Evoked Responses; Burkard RF, Don M, Eggermont JJ, Auditory Evoked Potentials: Basic Principles and Clinical Application; Katz, Handbook of Clinical Audiology; Berger H (1929), Über das Elektrenkephalogramm des Menschen, Archiv für Psychiatrie und Nervenkrankheiten; Davis PA (1939), Effects of acoustic stimuli on the waking human brain, Journal of Neurophysiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "elektrofizyoloji",
+   "ABR"
+  ],
+  "etiketler": [
+   "işitsel uyarılmış potansiyeller",
+   "AEP",
+   "sinyal ortalama",
+   "latans",
+   "genlik",
+   "ABR",
+   "MLR",
+   "kortikal yanıtlar",
+   "elektrofizyoloji",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 125",
+   "baslik": "İşitsel uyarılmış *potansiyeller*",
+   "alt": "Sinyal ortalama, filtre ve sınıflama",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel uyarılmış potansiyellerin ne olduğunu ve kafa derisinden nasıl kaydedildiğini öğreneceğiz.",
+    "Yanıtı beyin etkinliğinin içinden çıkaran sinyal ortalama ve filtrelemeyi, latansa göre sınıflamayı ve klinik kullanımı konuşacağız."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel",
+   "baslik": "Uyarılmış *potansiyel* nedir?",
+   "maddeler": [
+    {
+     "metin": "_AEP_: sese elektriksel yanıt",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kaynak: _sinirden kortekse_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Yüzey _elektrotlarıyla_ kayıt",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Uyarana _zaman kilitli_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Çoğunda _hasta yanıtı_ gerekmez",
+     "cumle": 5,
+     "ikon": "bebek"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "isitme_siniri",
+      "cumle": 1
+     },
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 1
+     },
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "İşitsel uyarılmış potansiyeller (auditory evoked potentials), kısaca AEP, sese karşı işitme yolunda oluşan elektriksel yanıtlardır.",
+    "Bu yanıtlar koklea ve işitme sinirinden başlayıp beyin sapı ve kortekse kadar farklı düzeylerden kaynaklanır.",
+    "Kayıt kafa derisine yapıştırılan yüzey elektrotlarıyla yapılır; iğne ya da girişim gerekmez.",
+    "Yanıtlar uyarana zaman kilitlidir; yani her uyarandan sonra hep aynı gecikmeyle ortaya çıkar.",
+    "Bu özellik, yanıtı arka plandaki rastgele beyin etkinliğinden ayırmamızı sağlar.",
+    "Çoğu AEP hastanın bir düğmeye basmasını ya da yanıt vermesini gerektirmez; bu yüzden objektif testler arasında sayılır.",
+    "Bebeklerde, iş birliği kuramayan hastalarda ve sinir sistemi değerlendirmesinde bu yüzden çok değerlidirler."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel",
+   "baslik": "Kısa bir *tarihçe*",
+   "adimlar": [
+    {
+     "ikon": "beyin",
+     "baslik": "1929: EEG",
+     "metin": "Berger, insan EEG'si",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "1939: Sese yanıt",
+     "metin": "Uyanık beyinde",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Ortalama alma",
+     "metin": "Bilgisayarla görünür",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "1970'ler: ABR",
+     "metin": "Beyin sapı yanıtı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hans Berger, bin dokuz yüz yirmi dokuzda insan beyninin elektrik etkinliğini kafa derisinden kaydettiğini yayımladı.",
+    "Bu kayda elektroensefalografi, kısaca EEG denir.",
+    {
+     "yazi": "Bin dokuz yüz otuz dokuzda Pauline Davis, uyanık insanda sese karşı EEG'de beliren yanıtı tanımladı.",
+     "ses": "Bin dokuz yüz otuz dokuzda Polin Deyvis, uyanık insanda sese karşı EEG'de beliren yanıtı tanımladı."
+    },
+    "Küçük yanıtları görünür kılan asıl gelişme, bilgisayarla ortalama alma yöntemlerinin altmışlı yıllarda yaygınlaşması oldu.",
+    "Yetmişli yılların başında beyin sapı yanıtının insanda tanımlanmasıyla klinik elektrofizyoloji hızla gelişti."
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kayıt ilkeleri",
+   "baslik": "Kayıt *zinciri*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Uyaran",
+     "metin": "Kulaklık ya da insert",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Elektrotlar",
+     "metin": "Kafa derisinde",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Yükseltici",
+     "metin": "Farkı büyütür",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Filtre ve ortalama",
+     "metin": "Bilgisayarda işlenir",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Dalga biçimi",
+     "metin": "Ekranda yanıt",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bir AEP sisteminde zincir uyaranla başlar: ses, kulaklık ya da insert kulaklıkla verilir.",
+    "Kafa derisine yerleştirilen elektrotlar beyin etkinliğini toplar.",
+    "Diferansiyel yükseltici iki elektrot arasındaki farkı çok kez büyütür; iki elektrotta ortak olan gürültü ise büyük ölçüde silinir.",
+    "Sinyal sayısal hale getirilir, filtrelenir ve bilgisayarda ortalanır.",
+    "Sonuç, ekranda zamana göre çizilen bir dalga biçimidir."
+   ]
+  },
+  {
+   "id": "saman",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kayıt ilkeleri",
+   "baslik": "İğneyi *samanlıkta* bulmak",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Süre (ms)"
+    },
+    "y": {
+     "min": -25,
+     "max": 25,
+     "adim": 10,
+     "ad": "Gerilim (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "tek_kayit",
+      "noktalar": [
+       [
+        0.0,
+        2.43
+       ],
+       [
+        0.1,
+        7.02
+       ],
+       [
+        0.2,
+        6.37
+       ],
+       [
+        0.3,
+        9.35
+       ],
+       [
+        0.4,
+        9.77
+       ],
+       [
+        0.5,
+        3.96
+       ],
+       [
+        0.6,
+        2.9
+       ],
+       [
+        0.7,
+        10.37
+       ],
+       [
+        0.8,
+        3.69
+       ],
+       [
+        0.9,
+        2.53
+       ],
+       [
+        1.0,
+        9.33
+       ],
+       [
+        1.1,
+        3.48
+       ],
+       [
+        1.2,
+        6.84
+       ],
+       [
+        1.3,
+        3.3
+       ],
+       [
+        1.4,
+        5.38
+       ],
+       [
+        1.5,
+        1.34
+       ],
+       [
+        1.6,
+        7.39
+       ],
+       [
+        1.7,
+        11.23
+       ],
+       [
+        1.8,
+        9.5
+       ],
+       [
+        1.9,
+        13.5
+       ],
+       [
+        2.0,
+        14.61
+       ],
+       [
+        2.1,
+        10.2
+       ],
+       [
+        2.2,
+        18.56
+       ],
+       [
+        2.3,
+        17.95
+       ],
+       [
+        2.4,
+        15.68
+       ],
+       [
+        2.5,
+        13.13
+       ],
+       [
+        2.6,
+        21.11
+       ],
+       [
+        2.7,
+        16.34
+       ],
+       [
+        2.8,
+        17.52
+       ],
+       [
+        2.9,
+        17.46
+       ],
+       [
+        3.0,
+        13.9
+       ],
+       [
+        3.1,
+        13.9
+       ],
+       [
+        3.2,
+        6.54
+       ],
+       [
+        3.3,
+        8.59
+       ],
+       [
+        3.4,
+        3.22
+       ],
+       [
+        3.5,
+        6.63
+       ],
+       [
+        3.6,
+        4.92
+       ],
+       [
+        3.7,
+        -3.63
+       ],
+       [
+        3.8,
+        -3.57
+       ],
+       [
+        3.9,
+        -2.69
+       ],
+       [
+        4.0,
+        5.18
+       ],
+       [
+        4.1,
+        0.52
+       ],
+       [
+        4.2,
+        3.21
+       ],
+       [
+        4.3,
+        0.76
+       ],
+       [
+        4.4,
+        3.54
+       ],
+       [
+        4.5,
+        2.85
+       ],
+       [
+        4.6,
+        2.72
+       ],
+       [
+        4.7,
+        4.92
+       ],
+       [
+        4.8,
+        4.35
+       ],
+       [
+        4.9,
+        6.55
+       ],
+       [
+        5.0,
+        2.92
+       ],
+       [
+        5.1,
+        3.61
+       ],
+       [
+        5.2,
+        0.82
+       ],
+       [
+        5.3,
+        -0.09
+       ],
+       [
+        5.4,
+        -5.6
+       ],
+       [
+        5.5,
+        -12.95
+       ],
+       [
+        5.6,
+        -8.07
+       ],
+       [
+        5.7,
+        -8.83
+       ],
+       [
+        5.8,
+        -10.85
+       ],
+       [
+        5.9,
+        -15.18
+       ],
+       [
+        6.0,
+        -14.22
+       ],
+       [
+        6.1,
+        -19.23
+       ],
+       [
+        6.2,
+        -12.56
+       ],
+       [
+        6.3,
+        -14.26
+       ],
+       [
+        6.4,
+        -15.94
+       ],
+       [
+        6.5,
+        -16.74
+       ],
+       [
+        6.6,
+        -7.32
+       ],
+       [
+        6.7,
+        -4.47
+       ],
+       [
+        6.8,
+        -12.12
+       ],
+       [
+        6.9,
+        -3.88
+       ],
+       [
+        7.0,
+        -6.98
+       ],
+       [
+        7.1,
+        -9.14
+       ],
+       [
+        7.2,
+        -7.66
+       ],
+       [
+        7.3,
+        -3.24
+       ],
+       [
+        7.4,
+        -2.86
+       ],
+       [
+        7.5,
+        -12.06
+       ],
+       [
+        7.6,
+        -7.44
+       ],
+       [
+        7.7,
+        -14.27
+       ],
+       [
+        7.8,
+        -8.6
+       ],
+       [
+        7.9,
+        -13.37
+       ],
+       [
+        8.0,
+        -8.46
+       ],
+       [
+        8.1,
+        -7.69
+       ],
+       [
+        8.2,
+        -12.23
+       ],
+       [
+        8.3,
+        -6.61
+       ],
+       [
+        8.4,
+        -12.34
+       ],
+       [
+        8.5,
+        -13.08
+       ],
+       [
+        8.6,
+        -5.89
+       ],
+       [
+        8.7,
+        -9.33
+       ],
+       [
+        8.8,
+        -5.25
+       ],
+       [
+        8.9,
+        -0.68
+       ],
+       [
+        9.0,
+        3.73
+       ],
+       [
+        9.1,
+        1.39
+       ],
+       [
+        9.2,
+        2.14
+       ],
+       [
+        9.3,
+        11.91
+       ],
+       [
+        9.4,
+        7.44
+       ],
+       [
+        9.5,
+        14.51
+       ],
+       [
+        9.6,
+        14.05
+       ],
+       [
+        9.7,
+        8.61
+       ],
+       [
+        9.8,
+        8.85
+       ],
+       [
+        9.9,
+        8.62
+       ],
+       [
+        10.0,
+        8.89
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "tek kayıt",
+      "etiket_konum": [
+       8.2,
+       21
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "yanit",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        0.0
+       ],
+       [
+        0.2,
+        0.0
+       ],
+       [
+        0.3,
+        0.0
+       ],
+       [
+        0.4,
+        0.0
+       ],
+       [
+        0.5,
+        0.0
+       ],
+       [
+        0.6,
+        0.0
+       ],
+       [
+        0.7,
+        0.0
+       ],
+       [
+        0.8,
+        0.0
+       ],
+       [
+        0.9,
+        0.0
+       ],
+       [
+        1.0,
+        0.0
+       ],
+       [
+        1.1,
+        0.002
+       ],
+       [
+        1.2,
+        0.012
+       ],
+       [
+        1.3,
+        0.05
+       ],
+       [
+        1.4,
+        0.135
+       ],
+       [
+        1.5,
+        0.246
+       ],
+       [
+        1.6,
+        0.3
+       ],
+       [
+        1.7,
+        0.246
+       ],
+       [
+        1.8,
+        0.135
+       ],
+       [
+        1.9,
+        0.05
+       ],
+       [
+        2.0,
+        0.012
+       ],
+       [
+        2.1,
+        0.002
+       ],
+       [
+        2.2,
+        0.0
+       ],
+       [
+        2.3,
+        0.0
+       ],
+       [
+        2.4,
+        0.0
+       ],
+       [
+        2.5,
+        0.0
+       ],
+       [
+        2.6,
+        0.0
+       ],
+       [
+        2.7,
+        0.0
+       ],
+       [
+        2.8,
+        0.0
+       ],
+       [
+        2.9,
+        0.0
+       ],
+       [
+        3.0,
+        0.001
+       ],
+       [
+        3.1,
+        0.004
+       ],
+       [
+        3.2,
+        0.015
+       ],
+       [
+        3.3,
+        0.047
+       ],
+       [
+        3.4,
+        0.114
+       ],
+       [
+        3.5,
+        0.212
+       ],
+       [
+        3.6,
+        0.309
+       ],
+       [
+        3.7,
+        0.35
+       ],
+       [
+        3.8,
+        0.309
+       ],
+       [
+        3.9,
+        0.212
+       ],
+       [
+        4.0,
+        0.114
+       ],
+       [
+        4.1,
+        0.047
+       ],
+       [
+        4.2,
+        0.015
+       ],
+       [
+        4.3,
+        0.004
+       ],
+       [
+        4.4,
+        0.001
+       ],
+       [
+        4.5,
+        0.0
+       ],
+       [
+        4.6,
+        0.0
+       ],
+       [
+        4.7,
+        0.001
+       ],
+       [
+        4.8,
+        0.002
+       ],
+       [
+        4.9,
+        0.008
+       ],
+       [
+        5.0,
+        0.025
+       ],
+       [
+        5.1,
+        0.062
+       ],
+       [
+        5.2,
+        0.132
+       ],
+       [
+        5.3,
+        0.236
+       ],
+       [
+        5.4,
+        0.358
+       ],
+       [
+        5.5,
+        0.46
+       ],
+       [
+        5.6,
+        0.5
+       ],
+       [
+        5.7,
+        0.46
+       ],
+       [
+        5.8,
+        0.358
+       ],
+       [
+        5.9,
+        0.236
+       ],
+       [
+        6.0,
+        0.132
+       ],
+       [
+        6.1,
+        0.062
+       ],
+       [
+        6.2,
+        0.025
+       ],
+       [
+        6.3,
+        0.008
+       ],
+       [
+        6.4,
+        0.002
+       ],
+       [
+        6.5,
+        0.001
+       ],
+       [
+        6.6,
+        0.0
+       ],
+       [
+        6.7,
+        0.0
+       ],
+       [
+        6.8,
+        0.0
+       ],
+       [
+        6.9,
+        0.0
+       ],
+       [
+        7.0,
+        0.0
+       ],
+       [
+        7.1,
+        0.0
+       ],
+       [
+        7.2,
+        0.0
+       ],
+       [
+        7.3,
+        0.0
+       ],
+       [
+        7.4,
+        0.0
+       ],
+       [
+        7.5,
+        0.0
+       ],
+       [
+        7.6,
+        0.0
+       ],
+       [
+        7.7,
+        0.0
+       ],
+       [
+        7.8,
+        0.0
+       ],
+       [
+        7.9,
+        0.0
+       ],
+       [
+        8.0,
+        0.0
+       ],
+       [
+        8.1,
+        0.0
+       ],
+       [
+        8.2,
+        0.0
+       ],
+       [
+        8.3,
+        0.0
+       ],
+       [
+        8.4,
+        0.0
+       ],
+       [
+        8.5,
+        0.0
+       ],
+       [
+        8.6,
+        0.0
+       ],
+       [
+        8.7,
+        0.0
+       ],
+       [
+        8.8,
+        0.0
+       ],
+       [
+        8.9,
+        0.0
+       ],
+       [
+        9.0,
+        0.0
+       ],
+       [
+        9.1,
+        0.0
+       ],
+       [
+        9.2,
+        0.0
+       ],
+       [
+        9.3,
+        0.0
+       ],
+       [
+        9.4,
+        0.0
+       ],
+       [
+        9.5,
+        0.0
+       ],
+       [
+        9.6,
+        0.0
+       ],
+       [
+        9.7,
+        0.0
+       ],
+       [
+        9.8,
+        0.0
+       ],
+       [
+        9.9,
+        0.0
+       ],
+       [
+        10.0,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "etiket": "gerçek yanıt",
+      "etiket_konum": [
+       6.5,
+       -6
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "EEG: onlarca mikrovolt",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "ABR: 1 mikrovoltun altında",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Yanıt gürültüde kaybolur",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Temel sorun, uyarılmış yanıtın çok küçük olmasıdır.",
+    "Kafa derisinden kaydedilen arka plan EEG etkinliği ve kas gerilimi genellikle onlarca mikrovolt düzeyindedir.",
+    "İşitsel beyin sapı yanıtı, kısaca ABR ise çoğu zaman bir mikrovoltun altındadır.",
+    "Ekranda gri çizgi tek bir kaydı, mavi çizgi ise aynı ölçekte yanıtın kendisini gösteriyor; yanıt gürültünün içinde kayboluyor.",
+    "Yani tek bir kayıtta yanıtı görmek, samanlıkta iğne aramak gibidir.",
+    "Çözüm iki temel araçtır: sinyal ortalama ve filtreleme."
+   ]
+  },
+  {
+   "id": "ortalama",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kayıt ilkeleri",
+   "baslik": "Sinyal *ortalama*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 4000,
+     "log": true,
+     "isaretler": [
+      1,
+      10,
+      100,
+      1000,
+      4000
+     ],
+     "ad": "Tekrar sayısı"
+    },
+    "y": {
+     "min": 0,
+     "max": 20,
+     "adim": 5,
+     "ad": "Kalan gürültü (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "kalan_gurultu",
+      "noktalar": [
+       [
+        1,
+        20.0
+       ],
+       [
+        2,
+        14.14
+       ],
+       [
+        5,
+        8.94
+       ],
+       [
+        10,
+        6.32
+       ],
+       [
+        20,
+        4.47
+       ],
+       [
+        50,
+        2.83
+       ],
+       [
+        100,
+        2.0
+       ],
+       [
+        200,
+        1.41
+       ],
+       [
+        500,
+        0.89
+       ],
+       [
+        1000,
+        0.63
+       ],
+       [
+        2000,
+        0.45
+       ],
+       [
+        4000,
+        0.32
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "kalan gürültü",
+      "cumle": 3
+     },
+     {
+      "ad": "yanit_genligi",
+      "noktalar": [
+       [
+        1,
+        0.5
+       ],
+       [
+        4000,
+        0.5
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "etiket": "yanıt genliği",
+      "etiket_konum": [
+       3,
+       1.6
+      ],
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "iki_bin",
+      "x": 2000,
+      "y": 0.45,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "2000 tekrar",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Yanıt korunur, gürültü söner",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "4 kat tekrar: gürültü yarıya",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ABR: 1000 ile 2000 tekrar",
+     "cumle": 6,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Sinyal ortalama (signal averaging) ilkesi basittir: aynı uyaran yüzlerce ya da binlerce kez verilir.",
+    "Her uyarandan sonraki kısa kayıt, yani her tarama (sweep), uyaranın başladığı ana göre hizalanır ve ortalaması alınır.",
+    "Yanıt her taramada aynı zamanda ve aynı yönde olduğu için ortalamada korunur.",
+    "Rastgele gürültü ise bazen artı, bazen eksi yönde olduğu için ortalamada giderek birbirini siler.",
+    "Kalan gürültü tekrar sayısının karekökü oranında azalır: dört kat tekrar, gürültüyü yarıya indirir.",
+    "Örneğin iki bin tekrarla gürültü, tek bir kayda göre kabaca kırk beş kat küçülür.",
+    "Bu yüzden ABR kayıtlarında çoğu zaman bin ile iki bin tekrar ortalanır."
+   ]
+  },
+  {
+   "id": "filtre",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kayıt ilkeleri",
+   "baslik": "*Filtre* ve artefakt reddi",
+   "maddeler": [
+    {
+     "metin": "_Bant geçiren_ filtre",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ABR: _yaklaşık 100 ile 3000 Hz_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kortikal: _yaklaşık 1 ile 30 Hz_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Artefakt reddi_: büyük taramalar atılır",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Rahat, _gevşek_ hasta",
+     "cumle": 6,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NORM",
+    "metin": "Aynı *filtre ayarıyla* karşılaştır",
+    "cumle": 3
+   },
+   "cumleler": [
+    "İkinci araç filtrelemedir: her yanıt belirli bir frekans aralığında enerji taşır.",
+    "Bant geçiren bir filtre, bu aralığın dışındaki yavaş dalgalanmaları ve çok hızlı gürültüleri kayıttan ayıklar.",
+    "Örneğin ABR için yaklaşık yüz ile üç bin hertz arası, yavaş kortikal yanıtlar için yaklaşık bir ile otuz hertz arası kullanılır.",
+    "Filtre ayarı yanıtın biçimini ve latansını değiştirebilir; bu yüzden normlar aynı filtre ayarıyla karşılaştırılır.",
+    "Üçüncü önlem artefakt reddidir (artifact rejection): belirli bir gerilimi aşan taramalar ortalamaya katılmaz.",
+    "Böylece hasta hareketi ya da kas kasılması gibi büyük bozulmalar kaydı bozmaz.",
+    "Hastanın rahat ve gevşek olması ise kayıt kalitesini artıran en basit önlemdir."
+   ]
+  },
+  {
+   "id": "latans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüler ve sınıflama",
+   "baslik": "*Latans* ve genlik",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 0
+   },
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 1
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Dalga V tepesi",
+     "cumle": 1
+    },
+    {
+     "parca": "latans_I_V",
+     "metin": "Dalgalar arası süre",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Latans: milisaniye",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Genlik: mikrovolt",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Latans daha güvenilir",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Bir uyarılmış yanıtı iki temel ölçüyle tanımlarız: latans ve genlik.",
+    "Latans (latency), uyaranın verildiği andan bir dalganın tepesine kadar geçen süredir ve milisaniye ile ölçülür.",
+    "Genlik (amplitude), dalganın büyüklüğüdür ve mikrovolt ile ölçülür; çoğu zaman tepe ile ardından gelen çukur arasındaki fark alınır.",
+    "Latans yanıtın yolda ne kadar hızlı ilerlediğini, genlik ise yanıta katılan sinir liflerinin sayısını ve eşzamanlılığını yansıtır.",
+    "Klinikte latans daha güvenilirdir; genlik kişiden kişiye daha fazla değişir.",
+    "Ekrandaki ABR örneğinin dalgalarını ve latanslarını ilerideki derslerde ayrıntılı okuyacağız."
+   ]
+  },
+  {
+   "id": "siniflama",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüler ve sınıflama",
+   "baslik": "Latansa göre *sınıflama*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 500,
+     "log": true,
+     "isaretler": [
+      1,
+      10,
+      50,
+      100,
+      300,
+      500
+     ],
+     "ad": "Uyarandan sonra süre (ms, log)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "yazisiz": true,
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "erken",
+      "x": [
+       1,
+       10
+      ],
+      "renk": "mavi",
+      "etiket": "erken: ECochG, ABR",
+      "cumle": 1
+     },
+     {
+      "ad": "orta",
+      "x": [
+       10,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "orta: MLR",
+      "cumle": 3
+     },
+     {
+      "ad": "gec",
+      "x": [
+       50,
+       500
+      ],
+      "renk": "yesil",
+      "etiket": "geç: kortikal, P300",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Erken: koklea, sinir, beyin sapı",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Orta: talamus ve korteks",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Geç: korteks ve ayırt etme",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "AEP'ler en sık, uyarandan sonra ortaya çıktıkları zamana, yani latanslarına göre sınıflanır.",
+    "Erken yanıtlar ilk yaklaşık on milisaniyede görülür; elektrokokleografi, kısaca ECochG ve ABR bu gruptadır.",
+    "Bu yanıtlar koklea, işitme siniri ve beyin sapından kaynaklanır.",
+    "Orta latans yanıtı, kısaca MLR, yaklaşık on ile elli milisaniye arasında görülür ve talamus ile korteksi yansıtır.",
+    "Geç ya da kortikal yanıtlar yaklaşık elli milisaniyeden sonra ortaya çıkar ve işitsel korteksten kaynaklanır.",
+    {
+     "yazi": "P300 ve uyumsuzluk negatifliği (mismatch negativity), kısaca MMN gibi yanıtlar ise sesin ayırt edilmesiyle ilişkilidir.",
+     "ses": "Pe üç yüz ve uyumsuzluk negatifliği, kısaca MMN gibi yanıtlar ise sesin ayırt edilmesiyle ilişkilidir."
+    },
+    "Genel kural olarak latans uzadıkça yanıtın kaynağı işitme yolunda daha yukarıdadır."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüler ve sınıflama",
+   "baslik": "AEP *ailesi*",
+   "sutunlar": [
+    "Yanıt",
+    "Latans",
+    "Kaynak"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "ECochG",
+      "İlk birkaç ms",
+      "Koklea, işitme siniri"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "ABR",
+      "1 ile 10 ms",
+      "Sinir ve beyin sapı"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "ASSR",
+      "Sürekli yanıt",
+      "Beyin sapı ve korteks"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "MLR",
+      "10 ile 50 ms",
+      "Talamus, korteks"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Kortikal (P1-N1-P2)",
+      "50 ile 300 ms",
+      "İşitsel korteks"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "P300, MMN",
+      "Daha geç",
+      "Ayırt etme, dikkat"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Elektrokokleografi, koklea ve işitme sinirinin ilk birkaç milisaniyedeki yanıtlarını kaydeder.",
+    "ABR, işitme siniri ve beyin sapından gelen dalgaları yaklaşık on milisaniye içinde gösterir.",
+    "İşitsel durağan durum yanıtı, kısaca ASSR, sürekli modüle edilen bir sese verilen ritmik bir yanıttır.",
+    "MLR on ile elli milisaniye arasında, talamus ve korteksten gelen dalgaları içerir.",
+    {
+     "yazi": "Kortikal yanıtlar P1, N1 ve P2 dalgalarından oluşur ve sesin kortekse ulaştığını gösterir.",
+     "ses": "Kortikal yanıtlar pe bir, ne bir ve pe iki dalgalarından oluşur ve sesin kortekse ulaştığını gösterir."
+    },
+    {
+     "yazi": "P300 ve MMN ise sesin ayırt edilmesiyle ilgili daha üst düzey süreçleri yansıtır.",
+     "ses": "Pe üç yüz ve MMN ise sesin ayırt edilmesiyle ilgili daha üst düzey süreçleri yansıtır."
+    }
+   ]
+  },
+  {
+   "id": "ekzojen",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüler ve sınıflama",
+   "baslik": "Ekzojen ve *endojen* yanıtlar",
+   "sol": {
+    "ust": "Ekzojen (uyarana bağlı)",
+    "maddeler": [
+     {
+      "metin": "Uyaranın fiziksel özelliği belirler",
+      "cumle": 0
+     },
+     {
+      "metin": "Uyku ve sedasyondan az etkilenir",
+      "cumle": 1
+     },
+     {
+      "metin": "ABR, ECochG",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Endojen (bilişsel)",
+    "maddeler": [
+     {
+      "metin": "Dikkat ve görev belirler",
+      "cumle": 3
+     },
+     {
+      "metin": "Uyanık, iş birliği yapan hasta",
+      "cumle": 4
+     },
+     {
+      "metin": "P300, MMN",
+      "cumle": 4
+     },
+     {
+      "metin": "Kortikal yanıtlar uykuda değişir",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Erken yanıtlar ekzojendir; yani biçimlerini büyük ölçüde uyaranın şiddeti, frekansı ve hızı gibi fiziksel özellikleri belirler.",
+    "Bu yanıtlar uyku ve sedasyondan az etkilenir; bu yüzden bebekler uyurken ölçülebilir.",
+    "ABR ve elektrokokleografi bu grubun tipik örnekleridir.",
+    "Geç yanıtlar giderek daha endojendir; kişinin dikkati, uyanıklığı ve yaptığı görev yanıtı değiştirir.",
+    {
+     "yazi": "Bu yüzden P300 gibi yanıtlar uyanık ve iş birliği yapabilen bir hasta gerektirir.",
+     "ses": "Bu yüzden pe üç yüz gibi yanıtlar uyanık ve iş birliği yapabilen bir hasta gerektirir."
+    },
+    "MLR ve kortikal yanıtlar da uyku ve sedasyondan belirgin biçimde etkilenebilir."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "*Nerelerde* kullanılır?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Eşik tahmini",
+     "metin": "Bebek ve çocuk",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Tarama",
+     "metin": "Otomatik ABR",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Nörolojik",
+     "metin": "Retrokoklear şüphe",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Ameliyat izlemi",
+     "metin": "Sinir işlevi izlenir",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "İmplant",
+     "metin": "Değerlendirme ve ayar",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Nöropati",
+     "metin": "OAE ile birlikte",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Klinikte en sık kullanım, davranışsal test yapılamayan bebek ve çocuklarda işitme eşiğinin tahminidir.",
+    "Otomatik ABR cihazları yenidoğan işitme taramasında, özellikle yoğun bakım bebeklerinde kullanılır.",
+    "Latans ölçümleri işitme siniri ve beyin sapındaki sorunların değerlendirilmesine yardım eder.",
+    "Bazı ameliyatlarda işitme sinirinin işlevini korumak için kayıt ameliyat boyunca sürdürülür.",
+    "Koklear implant adaylarının değerlendirilmesinde ve bazı durumlarda elektriksel uyarılmış yanıtlarla cihaz ayarında yararlanılır.",
+    "Otoakustik emisyonla birlikte işitsel nöropati spektrum bozukluğunun tanınmasını sağlar.",
+    "Kortikal yanıtlar ise cihazla sesin kortekse ulaşıp ulaşmadığını göstermede de kullanılmaktadır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kayıt kalitesinin anahtarı rahat bir hastadır. Önce hastayı gevşetin ve elektrot empedansını kontrol edin; yalnız ortalama sayısını artırmak yetmez.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: gürültülü bir kaydı yalnız ortalama sayısını artırarak düzeltmeye çalışmayın.",
+    "Gerilmiş boyun kasları ve hareket gürültüyü çok artırır; önce hastanın rahat ve gevşek olmasını sağlayın.",
+    "Yetişkinlerde başın desteklenmesi ve gözlerin kapalı olması, bebeklerde ise doğal uyku en etkili yoldur.",
+    "Elektrot empedansının düşük ve dengeli olması da şarttır; bunu bir sonraki derste ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_AEP_: sese zaman kilitli yanıt",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Ortalama_ ve filtre ile görünür",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Erken, orta, _geç_ yanıtlar",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Eşik, tarama, _nörolojik_ kullanım",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "İşitsel uyarılmış potansiyeller, sese zaman kilitli olarak oluşan küçük elektriksel yanıtlardır.",
+    "Yanıt, binlerce taramanın ortalaması, filtreleme ve artefakt reddiyle EEG içinden çıkarılır.",
+    "Latansa göre erken, orta ve geç yanıtlar ayrılır; latans uzadıkça kaynak işitme yolunda daha yukarıdadır.",
+    "Başlıca kullanımlar eşik tahmini, yenidoğan taraması, nörolojik değerlendirme ve ameliyat izlemidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Tekrar sayısı 1000'den 4000'e çıkarsa kalan gürültü ne olur?",
+   "secenekler": [
+    "Değişmez",
+    "Yaklaşık yarıya iner",
+    "Dörtte birine iner",
+    "İki katına çıkar"
+   ],
+   "dogru": 1,
+   "aciklama": "Gürültü tekrar sayısının _karekökü_ oranında azalır: dört kat tekrar, gürültüyü yarıya indirir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Tekrar sayısı bin tekrardan dört bin tekrara çıkarılırsa kalan gürültü nasıl değişir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yaklaşık yarıya iner.",
+    "Gürültü tekrar sayısının karekökü oranında azalır; dört katın karekökü iki olduğu için gürültü yarıya iner."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Elektrot yerleşimi ve *10-20* sistemi",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "Bir sonraki derste elektrotların kafa derisinde nereye yerleştirildiğini ve 10-20 sistemini öğreneceğiz.",
+     "ses": "Bir sonraki derste elektrotların kafa derisinde nereye yerleştirildiğini ve on yirmi sistemini öğreneceğiz."
+    },
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

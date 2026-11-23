@@ -1,0 +1,1112 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D274_Vaka_Asimetrik_SNHL_TR",
+ "kapak": {
+  "ust": "DERS 274",
+  "baslik": "Vaka: *asimetrik*<br>kayıp",
+  "alt": "Düşük konuşma skoru, refleks bulguları",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      20,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      35,
+      50,
+      60,
+      65
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Vaka: Asimetrik Sensörinöral Kayıp ve Düşük Konuşma Skoru | Ders 274 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir erişkin vakasında asimetrik sensörinöral işitme kaybını adım adım değerlendiriyoruz: asimetri ölçütlerinin uygulanması, orantısız düşük kelime skoru ve rollover indeksi, refleks paterni ve refleks adaptasyonu, örnek ABR bulgusu, KBB yönlendirmesi ve rapor dili.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Jerger ve Jerger, Diagnostic significance of PB word functions (1971); Dubno ve ark., Confidence limits for maximum word-recognition scores (1995).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vestibülerschwannom",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "asimetrik sensörinöral işitme kaybı",
+   "asymmetric sensorineural hearing loss",
+   "rollover",
+   "rollover indeksi",
+   "refleks adaptasyonu",
+   "vestibüler schwannom",
+   "vestibular schwannoma",
+   "retrokoklear",
+   "ABR",
+   "odyoloji vaka",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 274",
+   "baslik": "Vaka: *asimetrik* kayıp",
+   "alt": "Düşük konuşma skoru ve retrokoklear şüphe",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste asimetrik sensörinöral kaybı ve beklenenden düşük kelime tanıma skoru olan bir erişkin vakasını çözüyoruz.",
+    "Asimetri ölçütlerini uygulayacak, rollover ve refleks bulgularını okuyacak, ileri incelemeye yönlendirmede odyoloğun rolünü göreceğiz."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Elli iki yaşında, örnek bir erkek",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Bir yıldır _sol_ kulakta azalma",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Telefonu artık sağ kulağına alıyor",
+     "cumle": 2,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Solda _tek taraflı_ çınlama",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hafif dengesizlik, vertigo yok",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Tek taraflı kayıp",
+      "metin": "Yavaş ilerleyen",
+      "cumle": 1
+     },
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Tek taraflı çınlama",
+      "metin": "Aynı kulakta",
+      "cumle": 3
+     },
+     {
+      "ikon": "denge",
+      "baslik": "Dengesizlik",
+      "metin": "Hafif, sürekli",
+      "cumle": 4
+     }
+    ],
+    "ust": "DİKKAT ÇEKEN"
+   },
+   "cumleler": [
+    "Vakamız kurgusal bir örnektir: elli iki yaşında bir erkek, sol kulağında işitme azlığı yakınmasıyla başvuruyor.",
+    "Yakınma yaklaşık bir yıldır var ve yavaş yavaş artmış; ani bir başlangıç tarif etmiyor.",
+    "Kaybı, telefonu alışkanlıkla sol kulağına götürdüğünde konuşmayı anlayamayınca fark etmiş.",
+    "Sol kulakta sürekli, tiz bir çınlama var; sağ kulakta çınlama yok.",
+    "Zaman zaman hafif bir dengesizlik hissi tarif ediyor, ama dönme biçiminde vertigo atağı yok.",
+    "Gürültü maruziyeti, silah kullanımı, kulak ameliyatı ya da kafa travması öyküsü bulunmuyor."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram ve asimetri",
+   "baslik": "Sol kulakta *sensörinöral* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: tize doğru hafif düşüş",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli kemik yolu",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       20,
+       25,
+       25,
+       30
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       55,
+       60,
+       65
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       20,
+       25,
+       35,
+       45,
+       50,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     8000
+    ]
+   },
+   "cumleler": [
+    "Otoskopi iki kulakta normal; sağ kulağın eşikleri tizlere doğru hafifçe düşüyor ve yaşla uyumlu sayılabilir.",
+    "Sol kulakta ise bin hertzden sonra belirgin biçimde artan bir kayıp var; eşikler iki bin hertzde elli, sekiz bin hertzde altmış beş desibel.",
+    "Sağ kulak maskelenerek ölçülen sol kemik yolu, hava yoluyla örtüşüyor; yani kayıp sensörinöral.",
+    "Maskesiz ölçülseydi sol kemik yolu sağ kokleaya ait olabilir ve sahte bir hava-kemik aralığı görünebilirdi.",
+    "Test insert kulaklıkla yapıldı; sol hava yolu ile sağ kemik yolu farkı kulaklar arası zayıflamanın altında olduğu için maskeleme gerekmedi.",
+    "Tablo, sol kulakta asimetrik sensörinöral işitme kaybı (asymmetric sensorineural hearing loss) ile uyumlu.",
+    "Şimdi bu asimetrinin anlamlı olup olmadığını önceki derste gördüğümüz ölçütlerle sınayalım."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram ve asimetri",
+   "baslik": "Ölçütleri *uygula*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "İki ardışık frekans",
+     "metin": "2 ve 3 kHz: 30 dB",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "3000 kuralı",
+     "metin": "3 kHz: 30 dB fark",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Tek frekansta 20",
+     "metin": "4 kHz: 35 dB fark",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Sık kullanılan bir ölçüt, iki ardışık frekansta on beş desibel ve üzerindeki farkı anlamlı kabul eder.",
+    "Vakamızda iki bin hertzde fark otuz, üç bin hertzde yine otuz desibel; ölçüt karşılanıyor.",
+    "Yalnız üç bin hertze bakan üç bin kuralına göre de on beş desibellik sınır açıkça aşılıyor.",
+    "Tek frekansta yirmi desibel arayan protokollerde de dört bin hertzdeki otuz beş desibellik fark yeterli.",
+    "Yani hangi ölçütü kullanırsak kullanalım bu asimetri anlamlıdır; raporda kullanılan ölçüt adıyla yazılır.",
+    "Öyküde asimetriyi açıklayacak gürültü, travma ya da kulak hastalığı yok; tek taraflı çınlama ve dengesizlik de eşlik ediyor."
+   ]
+  },
+  {
+   "id": "aciklama",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram ve asimetri",
+   "baslik": "Açıklayan bir *neden* var mı?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Tek taraflı gürültü",
+     "metin": "Silah, iş makinesi",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak öyküsü",
+     "metin": "Ameliyat, kronik hastalık",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Önceki ataklar",
+     "metin": "Meniere, ani kayıp",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Bu vakada",
+     "metin": "Açıklayan neden yok",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Asimetri saptandığında ilk soru, bu farkın bilinen bir nedenle açıklanıp açıklanamayacağıdır; örneğin tek taraflı gürültü maruziyeti.",
+    "Geçirilmiş kronik kulak hastalıkları ya da kulak cerrahisi de bir kulakta daha fazla kayba yol açabilir.",
+    "Meniere hastalığı ya da önceki bir ani işitme kaybı da tek taraflı sensörinöral kayıp bırakabilir.",
+    "Vakamızda bu nedenlerin hiçbiri yok; bu da asimetriyi açıklanamayan bir bulgu yapıyor.",
+    "Bilinen bir neden bulunsa bile açıklama yetersizse yönlendirme yine yapılır."
+   ]
+  },
+  {
+   "id": "anatomi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram ve asimetri",
+   "baslik": "Neden *dikkat* gerekir?",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true,
+    "sinir_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "koklear_sinir",
+     "metin": "koklear sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "vestibüler sinirler",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "yüz siniri",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sinirler _yan yana_ ilerler",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tümör _iyi huylu_, yavaş",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Tanıyı _hekim_ koyar",
+     "cumle": 5,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Açıklanamayan asimetri, iç kulak yolu ya da serebellopontin köşe (cerebellopontine angle) bölgesinin incelenmesini gerektirebilir.",
+    "Bu bölgede koklear sinir, vestibüler sinirler ve yüz siniri yan yana ilerler.",
+    "Bu bölgenin en sık tümörü, vestibüler sinirin Schwann hücrelerinden gelişen vestibüler schwannomdur (vestibular schwannoma).",
+    "Tümör iyi huyludur ve genellikle yavaş büyür; büyüdükçe koklear sinire ve kokleanın kan akımına bası yapabilir.",
+    "Tek taraflı kayıp, tek taraflı çınlama ve hafif dengesizlik, bu tümörün en sık belirtileri arasındadır.",
+    "Ancak bu belirtilerin çoğu başka nedenlerle de görülür; odyolog olasılığı not eder, tanıyı hekim ve görüntüleme koyar."
+   ]
+  },
+  {
+   "id": "pipb",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Konuşma testleri",
+   "baslik": "Sol kulakta *rollover*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 20,
+     "max": 100,
+     "adim": 10,
+     "ad": "Sunum düzeyi (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Kelime tanıma (%)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        25,
+        20
+       ],
+       [
+        35,
+        70
+       ],
+       [
+        45,
+        92
+       ],
+       [
+        55,
+        96
+       ],
+       [
+        65,
+        96
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "sağ",
+      "cumle": 0
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        45,
+        8
+       ],
+       [
+        55,
+        30
+       ],
+       [
+        65,
+        48
+       ],
+       [
+        75,
+        60
+       ],
+       [
+        85,
+        40
+       ],
+       [
+        90,
+        28
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "yumusak": true,
+      "etiket": "sol",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "pbmax",
+      "x": 75,
+      "y": 60,
+      "dus": "x",
+      "etiket": "en yüksek: %60",
+      "cumle": 2
+     },
+     {
+      "ad": "pbmin",
+      "x": 90,
+      "y": 28,
+      "dus": "x",
+      "etiket": "%28",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sağ: _yüzde 96_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sol: beklenenden _düşük_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "İndeks _0,53_: rollover",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Kelime tanıma skoru sağda yüzde doksan altı; kayıp düzeyiyle uyumlu.",
+    "Sol kulakta sağ kulak maskelenerek birkaç sunum düzeyinde ölçüm yapıldı; bu eğriye performans-şiddet eğrisi denir.",
+    "Sol kulakta en yüksek skor, yetmiş beş desibel HL'de yüzde altmış.",
+    "Saf ses ortalaması yaklaşık otuz yedi desibel olan bir kulak için bu skor, beklenenden belirgin biçimde düşük.",
+    "Düzey doksan desibel HL'ye çıkınca skor yüzde yirmi sekize düşüyor; yüksek düzeyde skorun düşmesine rollover denir.",
+    "Rollover indeksi, en yüksek ve en düşük skor farkının en yüksek skora bölümüdür: altmış eksi yirmi sekiz, bölü altmış.",
+    "Sonuç yaklaşık sıfır virgül elli üç; Jerger ve Jerger'in listeleri için önerilen sıfır virgül kırk beş ölçütünün üzerinde."
+   ]
+  },
+  {
+   "id": "skor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Konuşma testleri",
+   "baslik": "Düşük skor *ne anlatır?*",
+   "maddeler": [
+    {
+     "metin": "Kayba göre _orantısız_ düşük skor",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Yüksek düzeyde _rollover_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kayıtlı materyal, uygun maskeleme",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Tek başına tanı koydurmaz",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Koklear",
+      "metin": "Skor kayıpla uyumlu",
+      "cumle": 1
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "Retrokoklear",
+      "metin": "Skor orantısız düşük",
+      "cumle": 0
+     }
+    ],
+    "ust": "KARŞILAŞTIR"
+   },
+   "cumleler": [
+    "Kaybın derecesine göre orantısız düşük bir kelime skoru, retrokoklear açıdan uyarıcı bir bulgudur.",
+    "Yüksek düzeyde belirgin rollover da aynı yönde bir ipucudur; koklear kayıplarda skor genellikle yüksek düzeyde korunur.",
+    "Dubno ve arkadaşlarının yayımladığı güven sınırları, saf ses ortalamasına göre beklenen en düşük skoru gösterir.",
+    "Bu karşılaştırmanın geçerli olması için kayıtlı materyal kullanılmalı ve karşı kulak uygun düzeyde maskelenmelidir.",
+    "Yine de kısa listelerde skorlar dalgalanabilir ve rollover her retrokoklear sorunda görülmez; bulgu bataryanın parçasıdır."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Refleks bulguları",
+   "baslik": "Akustik *refleksler*",
+   "sutunlar": [
+    "Ölçüm",
+    "500 Hz",
+    "1000 Hz",
+    "2000 Hz"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sağ ipsi",
+      "85",
+      "85",
+      "90"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Sağ kontra",
+      "90",
+      "90",
+      "95"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Sol ipsi",
+      "90",
+      "Yok",
+      "Yok"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sol kontra",
+      "95",
+      "Yok",
+      "Yok"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Timpanogram iki kulakta A tipi; orta kulak sistemleri normal.",
+    "Uyaran sağ kulağa verildiğinde refleksler hem ipsilateral hem kontralateral ölçümde beklenen düzeylerde.",
+    "Uyaran sol kulağa verildiğinde ise bin ve iki bin hertzde refleks alınamıyor; beş yüz hertzde ancak doksan desibelde geliyor.",
+    "Sol kulağın bin hertz eşiği otuz beş desibel; bu düzeyde bir koklear kayıp refleksi genellikle ortadan kaldırmaz.",
+    "Etkilenen kulak uyaran tarafındayken refleksin yok ya da yükselmiş olması, refleks arkının duyusal kolunda bir sorunu düşündürür.",
+    "Bu desen, refleks paternleri dersinde gördüğümüz retrokoklear paternle uyumlu."
+   ]
+  },
+  {
+   "id": "adaptasyon",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Refleks bulguları",
+   "baslik": "Refleks *adaptasyonu*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Süre (saniye)"
+    },
+    "y": {
+     "min": 0,
+     "max": 110,
+     "adim": 25,
+     "ad": "Refleks genliği (%)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        100
+       ],
+       [
+        2,
+        99
+       ],
+       [
+        4,
+        97
+       ],
+       [
+        6,
+        95
+       ],
+       [
+        8,
+        94
+       ],
+       [
+        10,
+        92
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "normal",
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        0,
+        100
+       ],
+       [
+        1,
+        92
+       ],
+       [
+        2,
+        78
+       ],
+       [
+        3,
+        62
+       ],
+       [
+        4,
+        48
+       ],
+       [
+        5,
+        38
+       ],
+       [
+        6,
+        31
+       ],
+       [
+        8,
+        23
+       ],
+       [
+        10,
+        18
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "sol, 500 Hz",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yari",
+      "y": [
+       0,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "yarının altı",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dort",
+      "x": 4,
+      "y": 48,
+      "dus": "x",
+      "etiket": "yaklaşık 4 sn",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Sol kulakta refleksin alınabildiği beş yüz hertzde adaptasyon testi yapıldı: refleks eşiğinin on desibel üzerinde on saniyelik ton.",
+    "Gri kesik çizgi, normal bir kulakta genliğin on saniye boyunca korunduğunu gösteriyor.",
+    "Sol kulakta ise genlik birkaç saniye içinde hızla düşüyor ve yaklaşık dört saniyede yarının altına iniyor.",
+    "Genliğin on saniye içinde yarının altına inmesi pozitif refleks adaptasyonudur ve retrokoklear patolojiyi düşündürür.",
+    "Negatif bir sonuç ise retrokoklear bir sorunu dışlamazdı; bulgu her zaman bataryanın parçası olarak yorumlanır."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Bulgular *bir arada*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Asimetri",
+     "metin": "Bütün ölçütlerde anlamlı",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma",
+     "metin": "Orantısız düşük, rollover",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Refleks",
+     "metin": "Sol uyaranla yok, adaptasyon",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Belirtiler",
+     "metin": "Tek taraflı çınlama",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bulguları bir araya getirelim: maskelemeyle doğrulanmış, bütün ölçütlerde anlamlı, açıklanamayan bir sensörinöral asimetri.",
+    "Kaybın derecesine göre orantısız düşük kelime skoru ve belirgin rollover.",
+    "Sol kulak uyarıldığında alınamayan ya da yükselmiş refleksler ve pozitif refleks adaptasyonu.",
+    "Bunlara aynı kulakta tek taraflı çınlama ve hafif dengesizlik eşlik ediyor.",
+    "Bu bulguların hiçbiri tek başına sonuç koydurmaz; ama birlikte retrokoklear bir nedenin araştırılmasını güçlü biçimde destekler."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Yönlendirme *süreci*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Doğrula",
+     "metin": "Maskeleme, tekrar",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Raporla",
+     "metin": "Ölçüt ve bulgular",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Yönlendir",
+     "metin": "KBB hekimi",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Hekim karar verir",
+     "metin": "MR ya da ABR",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzle",
+     "metin": "Gidip gitmediğini sor",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İlk adım asimetriyi doğrulamaktır: maskeleme yeterli mi, eşikler tekrarlandığında aynı mı?",
+    "Rapor, kullanılan asimetri ölçütünü, konuşma ve refleks bulgularını ve eşlik eden belirtileri açıkça içerir.",
+    "Kişi bulgularıyla birlikte KBB hekimine yönlendirilir; yönlendirme notunda retrokoklear açıdan değerlendirme istendiği yazılır.",
+    "Görüntülemeye ve yöntemine hekim karar verir; altın standart kontrastlı ya da özel sekanslı manyetik rezonans görüntüleme, kısaca MR'dır.",
+    "Bazı merkezlerde protokole göre işitsel beyin sapı yanıtı, kısaca ABR de bataryaya eklenir.",
+    "Odyolog, kişinin hekime ulaşıp ulaşmadığını izler ve kontrol randevusunu planlar."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Örnek *ABR* bulgusu",
+   "cizim": "abr",
+   "ayar": {
+    "i_v_uzama": 0.8
+   },
+   "etiketler": [
+    {
+     "parca": "latans_I_V",
+     "metin": "I-V: 4,8 ms",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sağ: I-V yaklaşık _4,0 ms_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sol: I-V yaklaşık _4,8 ms_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normal ABR, MR'ın yerini tutmaz",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Merkezin protokolüne göre yapılan örnek bir ABR kaydına bakalım.",
+    "Sağ kulakta dalga I, III ve V beklenen latanslarda; I-V aralığı yaklaşık dört milisaniye.",
+    {
+     "yazi": "Sol kulakta dalga I seçiliyor, ama dalga V gecikmiş; I-V aralığı yaklaşık 4,8 milisaniye.",
+     "ses": "Sol kulakta dalga I seçiliyor, ama dalga V gecikmiş; I-V aralığı yaklaşık dört virgül sekiz milisaniye."
+    },
+    {
+     "yazi": "I-V aralığının yaklaşık 4,4 ile 4,5 milisaniyeyi aşması, retrokoklear bir gecikmeyi düşündürür.",
+     "ses": "I-V aralığının yaklaşık dört virgül dört ile dört virgül beş milisaniyeyi aşması, retrokoklear bir gecikmeyi düşündürür."
+    },
+    "Unutmayın: küçük tümörlerde ABR normal çıkabilir; normal bir ABR görüntülemenin yerini tutmaz.",
+    "Bu sonuç da tanı değildir; hekimin MR kararını destekleyen ek bir bulgudur."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Asimetriyi küçümsemeyin, korkutmayın da; bulguyu açıkça anlatın ve hekime gidip gitmediğini mutlaka takip edin.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: yönlendirmeyi yaparken kişiyi korkutmadan, ama bulgunun önemini de küçümsemeden konuşun.",
+    "Örneğin, iki kulağınız arasındaki fark beklenenden büyük; nedenini anlamak için hekiminizin değerlendirmesi önemli diyebilirsiniz.",
+    "Tümör, kanser gibi kelimeler ya da olasılık yüzdeleri odyoloğun söyleyeceği şeyler değildir.",
+    "Kişinin randevuya gidip gitmediğini sormak, yönlendirmenin sonuca ulaşmasını sağlar."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "Sol: asimetrik sensörinöral kayıp",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kullanılan asimetri ölçütü yazılır",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Orantısız düşük skor, rollover 0,53",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sol uyaranla refleks yok, adaptasyon",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Öneri: KBB, retrokoklear değerlendirme",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        15,
+        20,
+        25,
+        30
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Saf ses: sol kulakta yüksek frekanslara doğru artan, hafif ile orta derece arası sensörinöral işitme kaybı; sağ kulak yaşla uyumlu.",
+    "Asimetri: kliniğimizin protokolündeki iki ardışık frekansta on beş desibel ölçütüne göre anlamlı.",
+    "Konuşma: sol kelime tanıma skoru kayba göre orantısız düşük; rollover indeksi sıfır virgül elli üç.",
+    "İmmitans: A tipi timpanogramlar; sol kulak uyarıldığında refleksler yok ya da yükselmiş, beş yüz hertzde pozitif refleks adaptasyonu.",
+    "Öneri: retrokoklear açıdan değerlendirilmek üzere KBB hekimine yönlendirme ve hekimin uygun gördüğü zamanda kontrol odyogramı."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Sonrasında *odyolog*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "MR normalse",
+     "metin": "Belirli aralıklarla izlem",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Tümör varsa",
+     "metin": "Seçenekleri hekim ekibi değerlendirir",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Seri ölçüm",
+     "metin": "Eşik ve skorun seyri",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İşitme desteği",
+     "metin": "Cihaz ya da CROS",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "MR normal çıkarsa kişi yine de belirli aralıklarla odyolojik izleme alınabilir; kaybın ilerleyip ilerlemediğine bakılır.",
+    "Bir tümör saptanırsa izlem, cerrahi ya da radyoterapi gibi seçenekleri hekim ekibi değerlendirir.",
+    "Bu süreçte odyolog seri odyogramlar ve konuşma skorlarıyla işitmenin seyrini belgeler.",
+    "Kalan işitmeye ve konuşma skoruna göre işitme cihazı ya da karşı tarafa sinyal yönlendiren CROS sistemleri konuşulabilir.",
+    "Düşük konuşma skoru, cihazdan beklenen yararı sınırlayabileceği için beklentiler baştan gerçekçi biçimde konuşulur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Asimetri ölçütü adıyla raporlanır",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Orantısız düşük skor ve rollover: uyarı",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Refleks yokluğu, adaptasyon: retrokoklear patern",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "MR kararı hekimin; odyolog yönlendirir",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Asimetrik sensörinöral kayıp maskelemeyle doğrulanır ve kullanılan ölçütün adıyla raporlanır.",
+    "Kayba göre orantısız düşük kelime skoru ve rollover, retrokoklear açıdan uyarıcı bulgulardır.",
+    "Etkilenen kulak uyarıldığında alınamayan refleksler ve pozitif refleks adaptasyonu da aynı yönü gösterir.",
+    "Görüntüleme kararını hekim verir; odyoloğun rolü bulguyu doğrulamak, raporlamak ve yönlendirmeyi takip etmektir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Normal ABR çıktı. Sonuç ne?",
+   "secenekler": [
+    "Tümör kesin yoktur",
+    "Küçük tümörü dışlamaz",
+    "MR artık gereksiz",
+    "Asimetri yok sayılır"
+   ],
+   "dogru": 1,
+   "aciklama": "Küçük tümörlerde ABR _normal çıkabilir_; görüntüleme kararı hekimindir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Asimetrik kaybı olan bir kişide ABR normal çıktı. Bu sonuç ne anlama gelir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: küçük bir tümörü dışlamaz.",
+    "Küçük tümörlerde ABR'nin duyarlılığı düşüktür; altın standart MR'dır ve görüntüleme kararını hekim verir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: Meniere hastalığında *dalgalanan* kayıp",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki vakada pes frekanslarda dalgalanan bir kayıpla gelen ve seri odyogramlarla izlenen bir erişkini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,772 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D156_VNG_ENG_TR",
+ "kapak": {
+  "ust": "DERS 156",
+  "baslik": "*VNG* ve ENG",
+  "alt": "Göz hareketlerinin kaydı",
+  "cizim": "nistagmus_izi"
+ },
+ "youtube": {
+  "baslik": "VNG ve ENG Nedir? Göz Hareketlerinin Kaydı | Ders 156 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Videonistagmografi (VNG) ve elektronistagmografinin (ENG) ilkelerini, kalibrasyonun önemini, vestibüler test bataryasının bileşenlerini ve hasta hazırlığını anlatıyoruz. İki yöntemin avantajlarını ve sınırlılıklarını karşılaştırıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology; Jacobson, Newman ve Kartush, Handbook of Balance Function Testing.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "VNG",
+   "vestibüler"
+  ],
+  "etiketler": [
+   "VNG",
+   "videonistagmografi",
+   "videonystagmography",
+   "ENG",
+   "elektronistagmografi",
+   "electronystagmography",
+   "kalibrasyon",
+   "calibration",
+   "vestibüler test bataryası",
+   "nistagmus",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 156",
+   "baslik": "*VNG* ve ENG",
+   "alt": "Göz hareketlerinin kaydı ve kalibrasyon",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste göz hareketlerini kaydeden iki yöntemi, videonistagmografi ve elektronistagmografiyi öğreneceğiz.",
+    "Kalibrasyonun neden önemli olduğunu, test bataryasının bileşenlerini ve hasta hazırlığını ele alacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden kayıt?",
+   "baslik": "Neden *kayıt* alırız?",
+   "maddeler": [
+    {
+     "metin": "Nistagmusu _sayıyla_ ölçmek",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fiksasyonu _ortadan kaldırmak_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Gözle görülmeyeni _yakalamak_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Kaydı _saklamak_ ve karşılaştırmak",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 0,
+    "ayar": {
+     "yon": "sol",
+     "tur": "sicramali",
+     "yavas_cumle": 0,
+     "hizli_cumle": 0,
+     "baslik": "VNG yatay izi"
+    },
+    "etiketler": [
+     {
+      "parca": "yavas_faz",
+      "metin": "Yavaş faz hızı ölçülür",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Göz hareketlerini kaydetmek, nistagmusu yalnız görmekle kalmayıp yavaş faz hızıyla sayısal olarak ölçmemizi sağlar.",
+    "Kayıt karanlıkta ya da kapalı gözlükle yapıldığında görsel fiksasyon ortadan kalkar ve periferik nistagmus belirginleşir.",
+    "Çıplak gözle fark edilemeyecek kadar küçük nistagmuslar da kayıtta görünür hale gelir.",
+    "Sakkad, takip ve kalorik yanıt gibi ölçümler de ancak bir kayıt sistemiyle yapılabilir.",
+    "Kayıt saklanır; böylece hekim ve sonraki değerlendirmeyi yapan kişi aynı bulguyu yeniden inceleyebilir."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden kayıt?",
+   "baslik": "Gözü izlemenin *üç yolu*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Frenzel gözlüğü",
+     "metin": "Büyüten camlarla gözlem; ölçüm yok",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ENG",
+     "metin": "Deri elektrotlarıyla elektriksel kayıt",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "VNG",
+     "metin": "Kızılötesi kamerayla görüntü kaydı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Nistagmus dersinde gördüğümüz gibi gözü izlemenin üç temel yolu vardır.",
+    "Frenzel gözlüğü fiksasyonu azaltır ve gözü büyütür; ancak kayıt ve sayısal ölçüm yapmaz.",
+    "Elektronistagmografi (electronystagmography), kısaca ENG, göz hareketini deriye yapıştırılan elektrotlarla kaydeder.",
+    "Videonistagmografi (videonystagmography), kısaca VNG, gözü kızılötesi kameralarla görüntüleyerek kaydeder.",
+    "Bugün vestibüler laboratuvarların çoğunda VNG kullanılır.",
+    "Yine de ENG'nin ilkesini bilmek, eski kayıtları ve bazı sınırlılıkları anlamaya yardım eder."
+   ]
+  },
+  {
+   "id": "eng",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "ENG ve VNG",
+   "baslik": "*ENG*: göz bir pil gibi",
+   "maddeler": [
+    {
+     "metin": "Kornea retinaya göre _pozitif_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Göz döndükçe _gerilim_ değişir",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Yatay: iki gözün _dış köşesi_",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Dikey: bir gözün _üstü ve altı_",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Toprak elektrodu: _alın_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "elektrot_yerlesimi",
+    "cumle": 0,
+    "ayar": {
+     "mod": "eng",
+     "goster": {
+      "dipol": 0,
+      "yatay_elektrotlar": 3,
+      "dikey_elektrotlar": 4,
+      "toprak": 5
+     }
+    }
+   },
+   "cumleler": [
+    "ENG, gözün ön ve arka kutbu arasındaki gerilim farkına, yani korneoretinal potansiyele (corneoretinal potential) dayanır.",
+    "Kornea retinaya göre pozitif yüklüdür; bu yüzden göz küçük bir pil gibi davranır ve döndükçe çevresindeki gerilim değişir.",
+    "Göz sağa döndüğünde pozitif kutup sağdaki elektroda yaklaşır ve iki elektrot arasındaki gerilim farkı artar.",
+    "Yatay hareketleri kaydetmek için elektrotlar iki gözün dış köşelerine yerleştirilir.",
+    "Dikey hareketler için bir gözün üstüne ve altına birer elektrot konur.",
+    "Toprak elektrodu genellikle alına yerleştirilir; iyi bir kayıt için deri temizlenir ve düşük empedans sağlanır.",
+    "Kaydedilen gerilim göz açısıyla yaklaşık doğrusal değiştiği için, kalibrasyonla dereceye çevrilebilir."
+   ]
+  },
+  {
+   "id": "eng_sinir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "ENG ve VNG",
+   "baslik": "ENG'nin *artı ve eksileri*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Gözler kapalı",
+     "metin": "Kapalı gözle de kayıt alınabilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Torsiyon yok",
+     "metin": "Dönme hareketini kaydedemez",
+     "cumle": 2
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Işığa duyarlı",
+     "metin": "Potansiyel ışıkla değişir; tekrar kalibrasyon",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Artefakt",
+     "metin": "Göz kırpma, kas ve elektrot gürültüsü",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "ENG'nin kendine özgü avantajları ve sınırlılıkları vardır.",
+    "En önemli avantajı, gözler kapalıyken de kayıt alabilmesidir; bu, gözünü açık tutamayan hastalarda yararlıdır.",
+    "Ancak torsiyonel, yani gözün kendi ekseni etrafındaki dönme hareketini kaydedemez; bu da pozisyonel testlerde önemli bir eksikliktir.",
+    "Korneoretinal potansiyel ortamın aydınlığına göre değiştiği için test sırasında kalibrasyonun tekrarlanması gerekir.",
+    "Göz kırpma, yüz kaslarının gerilmesi ve elektrot temas sorunları da kayıtta artefakt oluşturabilir.",
+    "Dikey kayıtta göz kapağı hareketleri özellikle sorun yaratır; bu yüzden dikey ENG kayıtları dikkatle yorumlanır."
+   ]
+  },
+  {
+   "id": "vng",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "ENG ve VNG",
+   "baslik": "*VNG*: kamera ile kayıt",
+   "maddeler": [
+    {
+     "metin": "Gözlükte _kızılötesi_ kameralar",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yazılım _göz bebeğini_ izler",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Kapak kapalı: _karanlık_, fiksasyon yok",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Torsiyon _videoda_ görülebilir",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Gözler _açık_ olmalı",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vng_gozlugu",
+    "cumle": 0,
+    "ayar": {
+     "izleme_cumle": 1,
+     "kapak_cumle": 2
+    },
+    "etiketler": [
+     {
+      "parca": "kamera",
+      "metin": "kızılötesi kamera",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "VNG'de hasta, içinde kızılötesi ışık kaynağı ve kameralar bulunan hafif bir gözlük takar.",
+    "Yazılım her görüntüde göz bebeğinin merkezini bulur ve bu noktanın yatay ve dikey konumunu zaman içinde izler.",
+    "Gözlüğün önü kapatıldığında hasta tam karanlıkta kalır; kızılötesi ışık görünmediği için fiksasyon ortadan kalkar.",
+    "Kamera görüntüsü kaydedildiği için muayene eden kişi nistagmusu hem izde hem de videoda izleyebilir.",
+    "Torsiyonel nistagmus, bazı sistemlerde ölçülmese bile video görüntüsünde gözle değerlendirilebilir.",
+    "VNG'nin temel sınırlılığı, gözlerin açık kalması gerekmesidir; kapanan göz kapağı ya da sarkık kapak kaydı bozar."
+   ]
+  },
+  {
+   "id": "karsilastir",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "ENG ve VNG",
+   "baslik": "ENG mi, *VNG* mi?",
+   "sutunlar": [
+    "Özellik",
+    "ENG",
+    "VNG"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Algılama",
+      "Deri elektrotları",
+      "Kızılötesi kamera"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Gözler kapalı",
+      "Kayıt alınır",
+      "Kayıt alınamaz"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Torsiyon",
+      "Kaydedilmez",
+      "Videoda izlenir"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Kalibrasyon",
+      "Işıkla değişir",
+      "Daha kararlı"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Sık sorun",
+      "Elektrot artefaktı",
+      "Kapak ve makyaj"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Şimdi iki yöntemi yan yana koyalım.",
+    "ENG göz hareketini elektriksel olarak, VNG ise görüntüden ölçer.",
+    "ENG kapalı gözle kayıt alabilir; VNG için gözlerin açık olması gerekir.",
+    "Torsiyonel hareket ENG ile kaydedilemez; VNG'de ise video görüntüsünde izlenebilir.",
+    "VNG'nin kalibrasyonu ortam ışığından etkilenmediği için genellikle daha kararlıdır.",
+    "ENG'de elektrot ve kas artefaktları, VNG'de ise göz kapağı, kirpik ve göz makyajı kaydı bozabilir."
+   ]
+  },
+  {
+   "id": "kal_adim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kalibrasyon",
+   "baslik": "Kalibrasyon *adımları*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Gözlüğü oturt",
+     "metin": "Sıkı ve kaymayan",
+     "cumle": 0
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Hedeflere bak",
+     "metin": "Bilinen açılardaki noktalar",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Eşleştir",
+     "metin": "Sinyal dereceye çevrilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Kontrol et",
+     "metin": "Simetri ve tutarlılık",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Tekrarla",
+     "metin": "Gözlük kayarsa yeniden",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kalibrasyondan önce gözlük başa sıkıca oturtulur; kayan bir gözlük bütün ölçümleri bozar.",
+    "Hasta, ekranda ya da ışık çubuğunda bilinen açılarda beliren noktalara sırayla bakar.",
+    "Yazılım, gözün kayıttaki yer değiştirmesini bu bilinen açılarla eşleştirir; böylece sinyal dereceye çevrilir.",
+    "Sonuç kontrol edilir; sağ ve sol, yukarı ve aşağı hedeflerde tutarlı değerler beklenir.",
+    "Gözlük test sırasında kayarsa ya da ENG'de ortam ışığı değişirse kalibrasyon yeniden yapılır."
+   ]
+  },
+  {
+   "id": "kal_neden",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kalibrasyon",
+   "baslik": "Kalibrasyon *neden* önemli?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Zaman (sn)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": -15,
+     "max": 15,
+     "adim": 5,
+     "ad": "Göz konumu (derece)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        2,
+        0
+       ],
+       [
+        2,
+        10
+       ],
+       [
+        4,
+        10
+       ],
+       [
+        4,
+        0
+       ],
+       [
+        6,
+        0
+       ],
+       [
+        6,
+        -10
+       ],
+       [
+        8,
+        -10
+       ],
+       [
+        8,
+        0
+       ],
+       [
+        10,
+        0
+       ],
+       [
+        10,
+        10
+       ],
+       [
+        12,
+        10
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "hedef",
+      "cumle": 1
+     },
+     {
+      "ad": "goz",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        2.2,
+        0
+       ],
+       [
+        2.3,
+        9.6
+       ],
+       [
+        2.4,
+        10
+       ],
+       [
+        4.2,
+        10
+       ],
+       [
+        4.3,
+        0.4
+       ],
+       [
+        4.4,
+        0
+       ],
+       [
+        6.2,
+        0
+       ],
+       [
+        6.3,
+        -9.5
+       ],
+       [
+        6.4,
+        -10
+       ],
+       [
+        8.2,
+        -10
+       ],
+       [
+        8.3,
+        -0.3
+       ],
+       [
+        8.4,
+        0
+       ],
+       [
+        10.2,
+        0
+       ],
+       [
+        10.3,
+        9.7
+       ],
+       [
+        10.4,
+        10
+       ],
+       [
+        12,
+        10
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "göz",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "on_derece",
+      "x": 3,
+      "y": 10,
+      "etiket": "10 derece",
+      "cizgi": "yatay",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sinyal _dereceye_ çevrilir",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hata: _yanlış_ hız ve asimetri",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kalibrasyon kaydın ölçü birimini belirler; bütün açı ve hız değerleri buna dayanır.",
+    "Grafikte gri kesik çizgi, merkezden sağa ve sola belirli açılarla sıçrayan hedefi gösteriyor.",
+    "Mavi çizgi ise hastanın gözünün hedefi izleyişidir; iyi bir kalibrasyonda iki çizgi örtüşür.",
+    "Bu örnekte hedef on derece sağa geçtiğinde göz de kayıtta on derecede durmalıdır.",
+    "Kalibrasyon hatalıysa yavaş faz hızları, sakkad ölçümleri ve kalorik karşılaştırmalar da yanlış hesaplanır.",
+    "Örneğin tek gözde yanlış bir kalibrasyon, iki kulak arasında var olmayan bir fark gibi görünebilir."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Batarya ve hazırlık",
+   "baslik": "Test *bataryası*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Kendiliğinden",
+     "metin": "Bakış ve spontan",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Okülomotor",
+     "metin": "Sakkad, takip, OKN",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Pozisyonel",
+     "metin": "Dix-Hallpike, supine roll",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kalorik",
+     "metin": "İki kulak, sona",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Rapor",
+     "metin": "Bulgular bir arada",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "VNG ya da ENG ile yapılan değerlendirme, belirli bir sırayla uygulanan testlerden oluşan bir bataryadır.",
+    "Önce kendiliğinden nistagmus ve bakış nistagmusu fiksasyonla ve fiksasyonsuz olarak kaydedilir.",
+    "Ardından okülomotor testler, yani sakkad, düzgün takip ve optokinetik testler yapılır; bunları bir sonraki derste göreceğiz.",
+    "Sonra pozisyonel testlerle baş ve vücut konumuna bağlı nistagmus aranır.",
+    "Bulantı yapabildiği için kalorik test genellikle bataryanın sonuna bırakılır.",
+    "Bütün bulgular birlikte raporlanır; çünkü bir testin yorumu çoğu zaman diğerlerinin sonucuna bağlıdır."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Batarya ve hazırlık",
+   "baslik": "Hasta *hazırlığı*",
+   "maddeler": [
+    {
+     "metin": "Baskılayıcı ilaçlar: _hekim onayıyla_",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Testten önce _alkol_ alınmaz",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Göz _makyajı_ silinir",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Testten önce _hafif_ beslenme",
+     "cumle": 4,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Boyun ve sırt _sorgulanır_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Hiçbir ilacı hastaya kendiniz bıraktırmayın; ilaç kararını her zaman hekim verir.",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Bazı ilaçlar vestibüler yanıtları baskılar; örneğin baş dönmesi ve bulantı için kullanılan ilaçlar ve sakinleştiriciler.",
+    "Bu ilaçlar laboratuvar protokolüne göre, çoğu zaman testten yaklaşık kırk sekiz saat önce, yalnız hekim onayıyla bırakılır.",
+    "Alkol de nistagmus ve okülomotor bulguları etkileyebileceği için testten önceki günlerde alınmaması istenir.",
+    "Göz makyajı, özellikle rimel, kamerada göz bebeği gibi algılanabilir; bu yüzden test öncesinde silinir.",
+    "Bulantıyı azaltmak için hastanın testten birkaç saat önce yalnız hafif beslenmesi önerilir.",
+    "Pozisyonel testler için boyun ve sırt sorunları sorulur; görme sorunları ve kullanılan gözlük de not edilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kalibrasyonu atlamayın ve test sırasında gözlüğü kontrol edin. Kayan gözlük ya da hatalı kalibrasyon yalancı bulgu üretir.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: kalibrasyon sonucunu her hastada ekranda kontrol edin; tutarsız bir sonuçla teste devam etmeyin.",
+    "Hasta pozisyon değiştirdikten sonra gözlüğün yerinden oynamadığını mutlaka kontrol edin.",
+    "Kayıtta beklenmedik bir asimetri görürseniz önce gözlüğü ve kalibrasyonu, sonra hastayı sorgulayın.",
+    "Kayıt kalitesini etkileyen her durumu, örneğin sarkık göz kapağını, rapora not edin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "ENG: _korneoretinal potansiyel_, elektrotlar",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "VNG: _kızılötesi_ kamera, göz bebeği",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Kalibrasyon: sinyal _dereceye_ çevrilir",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Batarya: spontan, okülomotor, pozisyonel, _kalorik_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "ENG gözün korneoretinal potansiyelini elektrotlarla kaydeder; kapalı gözle çalışır ama torsiyonu göremez.",
+    "VNG göz bebeğini kızılötesi kamerayla izler; fiksasyonu kaldırır ve görüntüyü saklar.",
+    "Kalibrasyon kaydı dereceye çevirir; hatalı kalibrasyon bütün sayısal sonuçları bozar.",
+    "Batarya kendiliğinden nistagmus, okülomotor, pozisyonel ve kalorik testlerden oluşur; hasta hazırlığı sonucu doğrudan etkiler."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangisi ENG'nin sınırlılığıdır?",
+   "secenekler": [
+    "Kapalı gözle kayıt alamaması",
+    "Torsiyonu kaydedememesi",
+    "Kalibrasyon gerektirmemesi"
+   ],
+   "dogru": 1,
+   "aciklama": "ENG yatay ve dikey hareketi kaydeder, ama _torsiyonel_ hareketi kaydedemez.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Aşağıdakilerden hangisi elektronistagmografinin, yani ENG'nin bir sınırlılığıdır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: torsiyonel göz hareketini kaydedememesi.",
+    "ENG kapalı gözle kayıt alabilir ve sık kalibrasyon gerektirir; torsiyonu ise yalnız video yöntemiyle izleyebiliriz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Okülomotor testler: *sakkad*, takip, optokinetik ve bakış",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste VNG bataryasının okülomotor testlerini, yani sakkad, takip, optokinetik ve bakış testlerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

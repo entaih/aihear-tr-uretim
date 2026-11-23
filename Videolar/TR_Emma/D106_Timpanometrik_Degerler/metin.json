@@ -1,0 +1,1334 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D106_Timpanometrik_Degerler_TR",
+ "kapak": {
+  "ust": "DERS 106",
+  "baslik": "Timpanometrik<br>*değerler*",
+  "alt": "Tepe admitans, basınç, genişlik, hacim",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -400,
+    "max": 200,
+    "adim": 100,
+    "ad": "Basınç (daPa)"
+   },
+   "y": {
+    "min": 0.8,
+    "max": 1.8,
+    "adim": 0.2,
+    "ond": 1,
+    "ad": "Admitans (mmho)"
+   },
+   "seriler": [
+    {
+     "ad": "egri",
+     "noktalar": [
+      [
+       -400,
+       0.9
+      ],
+      [
+       -380,
+       0.903
+      ],
+      [
+       -360,
+       0.907
+      ],
+      [
+       -340,
+       0.91
+      ],
+      [
+       -320,
+       0.913
+      ],
+      [
+       -300,
+       0.917
+      ],
+      [
+       -280,
+       0.92
+      ],
+      [
+       -260,
+       0.923
+      ],
+      [
+       -240,
+       0.927
+      ],
+      [
+       -220,
+       0.93
+      ],
+      [
+       -200,
+       0.933
+      ],
+      [
+       -180,
+       0.937
+      ],
+      [
+       -160,
+       0.94
+      ],
+      [
+       -140,
+       0.945
+      ],
+      [
+       -120,
+       0.956
+      ],
+      [
+       -100,
+       0.996
+      ],
+      [
+       -80,
+       1.108
+      ],
+      [
+       -60,
+       1.325
+      ],
+      [
+       -40,
+       1.58
+      ],
+      [
+       -20,
+       1.7
+      ],
+      [
+       0,
+       1.586
+      ],
+      [
+       20,
+       1.339
+      ],
+      [
+       40,
+       1.128
+      ],
+      [
+       60,
+       1.023
+      ],
+      [
+       80,
+       0.99
+      ],
+      [
+       100,
+       0.985
+      ],
+      [
+       120,
+       0.987
+      ],
+      [
+       140,
+       0.99
+      ],
+      [
+       160,
+       0.993
+      ],
+      [
+       180,
+       0.997
+      ],
+      [
+       200,
+       1.0
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Timpanometrik Değerler: Ytm, TPP, TW ve ECV | Ders 106 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Timpanogramın harf tipi kadar sayısal değerleri de önemlidir. Bu derste tepe statik admitans (Ytm), timpanometrik tepe basıncı (TPP), timpanometrik genişlik (TW) ve dış kulak yolu hacminin (ECV) nasıl ölçüldüğünü, yetişkinlerdeki yaklaşık normal aralıklarını ve sonuçları etkileyen ölçüm koşullarını örneklerle inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Margolis ve Heller (1987), Screening tympanometry: criteria for medical referral, Audiology; ASHA (1997), Guidelines for Audiologic Screening; Katz, Handbook of Clinical Audiology; Hunter ve Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice; BSA, Recommended Procedure: Tympanometry.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "timpanometri",
+   "immitansmetri"
+  ],
+  "etiketler": [
+   "timpanometrik değerler",
+   "tepe statik admitans",
+   "Ytm",
+   "timpanometrik tepe basıncı",
+   "TPP",
+   "timpanometrik genişlik",
+   "TW",
+   "dış kulak yolu hacmi",
+   "ECV",
+   "timpanometri normları",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 106",
+   "baslik": "Timpanometrik *değerler*",
+   "alt": "Tepe admitans, basınç, genişlik ve hacim",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste timpanogramdan okunan dört sayısal değeri ve yetişkinlerdeki yaklaşık normal aralıklarını öğreneceğiz.",
+    "Ölçüm koşullarının bu değerleri nasıl etkilediğini ve örnek sonuçları nasıl yorumlayacağımızı göreceğiz."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Dört değer",
+   "baslik": "Bir eğri, *dört değer*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Basınç (daPa)"
+    },
+    "y": {
+     "min": 0.8,
+     "max": 1.8,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitans (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "egri",
+      "noktalar": [
+       [
+        -400,
+        0.9
+       ],
+       [
+        -380,
+        0.903
+       ],
+       [
+        -360,
+        0.907
+       ],
+       [
+        -340,
+        0.91
+       ],
+       [
+        -320,
+        0.913
+       ],
+       [
+        -300,
+        0.917
+       ],
+       [
+        -280,
+        0.92
+       ],
+       [
+        -260,
+        0.923
+       ],
+       [
+        -240,
+        0.927
+       ],
+       [
+        -220,
+        0.93
+       ],
+       [
+        -200,
+        0.933
+       ],
+       [
+        -180,
+        0.937
+       ],
+       [
+        -160,
+        0.94
+       ],
+       [
+        -140,
+        0.945
+       ],
+       [
+        -120,
+        0.956
+       ],
+       [
+        -100,
+        0.996
+       ],
+       [
+        -80,
+        1.108
+       ],
+       [
+        -60,
+        1.325
+       ],
+       [
+        -40,
+        1.58
+       ],
+       [
+        -20,
+        1.7
+       ],
+       [
+        0,
+        1.586
+       ],
+       [
+        20,
+        1.339
+       ],
+       [
+        40,
+        1.128
+       ],
+       [
+        60,
+        1.023
+       ],
+       [
+        80,
+        0.99
+       ],
+       [
+        100,
+        0.985
+       ],
+       [
+        120,
+        0.987
+       ],
+       [
+        140,
+        0.99
+       ],
+       [
+        160,
+        0.993
+       ],
+       [
+        180,
+        0.997
+       ],
+       [
+        200,
+        1.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 5,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ecv",
+      "x": 200,
+      "y": 1.0,
+      "dus": "x",
+      "dolu": true,
+      "renk": "lacivert",
+      "etiket": "ECV",
+      "dy": -26,
+      "cumle": 1
+     },
+     {
+      "ad": "tpp",
+      "x": -20,
+      "y": 1.7,
+      "dus": "x",
+      "dolu": true,
+      "renk": "kirmizi",
+      "etiket": "TPP",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "ytm",
+      "y": [
+       1.0,
+       1.7
+      ],
+      "xk": -20,
+      "etiket": "Ytm",
+      "cumle": 2
+     },
+     {
+      "ad": "tw",
+      "x": [
+       -62,
+       18
+      ],
+      "y": 1.35,
+      "etiket": "TW",
+      "etiket_alt": true,
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "ECV: artı 200 daPa'daki değer",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ytm: tepenin yüksekliği",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "TPP ve TW: tepenin yeri ve genişliği",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Ekranda kulak yolu katkısı çıkarılmamış, örnek bir A tipi timpanogram görüyoruz.",
+    "Artı iki yüz dekapaskaldaki değer kulak yolu havasına aittir; buradan dış kulak yolu hacmi, kısaca ECV hesaplanır.",
+    "Tepenin bu tabandan yüksekliği, orta kulağa ait tepe statik admitanstır.",
+    "Tepenin bulunduğu basınç, timpanometrik tepe basıncıdır.",
+    "Tepenin yarı yüksekliğindeki basınç genişliği ise timpanometrik genişliktir.",
+    "Bu dört değer, Jerger tipini sayılarla tamamlar ve sınırdaki eğrilerin yorumunu kolaylaştırır."
+   ]
+  },
+  {
+   "id": "ytm",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Dört değer",
+   "baslik": "Tepe statik *admitans*",
+   "maddeler": [
+    {
+     "metin": "_Ytm_: tepe eksi artı 200 tabanı",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yetişkin: yaklaşık _0,3 ile 1,7 mmho_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Düşük: _sertlik_ ya da sıvı",
+     "cumle": 4,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Yüksek: _gevşek zar_ ya da zincir kopukluğu",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "Ytm",
+    "metin": "Orta kulağın sesi *ne kadar kolay* ilettiği",
+    "cumle": 1
+   },
+   "cumleler": [
+    {
+     "yazi": "Tepe statik admitans (peak compensated static admittance), kısaca Ytm, tepe değerinden kulak yolu tabanının çıkarılmasıyla bulunur.",
+     "ses": "Tepe statik admitans (peak compensated static admittance), kısaca ye te me, tepe değerinden kulak yolu tabanının çıkarılmasıyla bulunur."
+    },
+    {
+     "yazi": "Yani Ytm, kulak yolu katkısı çıkarıldıktan sonra yalnız orta kulak sistemine ait admitanstır.",
+     "ses": "Yani ye te me, kulak yolu katkısı çıkarıldıktan sonra yalnız orta kulak sistemine ait admitanstır."
+    },
+    "Çoğu cihaz bu çıkarmayı kendisi yapar ve kompanse edilmiş eğriyi gösterir.",
+    {
+     "yazi": "Yetişkinlerde Ytm yaklaşık sıfır virgül üç ile bir virgül yedi milimho arasında kabul edilir; çocuklarda normal aralık daha düşüktür.",
+     "ses": "Yetişkinlerde ye te me yaklaşık sıfır virgül üç ile bir virgül yedi milimho arasında kabul edilir; çocuklarda normal aralık daha düşüktür."
+    },
+    {
+     "yazi": "Düşük Ytm, orta kulak sisteminin sertleştiğini ya da sıvı nedeniyle hareketinin azaldığını düşündürebilir.",
+     "ses": "Düşük ye te me, orta kulak sisteminin sertleştiğini ya da sıvı nedeniyle hareketinin azaldığını düşündürebilir."
+    },
+    {
+     "yazi": "Yüksek Ytm ise gevşek ya da ince bir timpanik membranı veya kemikçik zinciri kopukluğunu düşündürebilir.",
+     "ses": "Yüksek ye te me ise gevşek ya da ince bir timpanik membranı veya kemikçik zinciri kopukluğunu düşündürebilir."
+    },
+    {
+     "yazi": "Normal aralık geniştir ve hastalıklı kulakların değerleriyle örtüşür; bu yüzden Ytm tek başına yorumlanmaz.",
+     "ses": "Normal aralık geniştir ve hastalıklı kulakların değerleriyle örtüşür; bu yüzden ye te me tek başına yorumlanmaz."
+    }
+   ]
+  },
+  {
+   "id": "tpp",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Dört değer",
+   "baslik": "Timpanometrik *tepe basıncı*",
+   "maddeler": [
+    {
+     "metin": "_TPP_: tepenin bulunduğu basınç",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Orta kulak basıncının _tahmini_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Yetişkin: yaklaşık _eksi 100 ile artı 50_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Belirgin negatif: _Östaki_ işlevini sorgula",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ETKİLER",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Tarama yönü",
+      "metin": "Tepe bu yöne kayar",
+      "cumle": 5
+     },
+     {
+      "ikon": "kronometre",
+      "baslik": "Pompa hızı",
+      "metin": "Değeri değiştirir",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Timpanometrik tepe basıncı (tympanometric peak pressure), kısaca TPP, eğrinin tepesinin bulunduğu kulak yolu basıncıdır.",
+    "Admitans, kulak yolu basıncı orta kulak basıncına eşitken en yüksektir; bu yüzden TPP orta kulak basıncının bir tahminidir.",
+    "Yetişkinlerde TPP genellikle yaklaşık eksi yüz ile artı elli dekapaskal arasındadır; bazı kaynaklar eksi yüz elliye kadar normal kabul eder.",
+    "Belirgin negatif TPP, Östaki borusunun orta kulağı yeterince havalandıramadığını düşündürür.",
+    "Belirgin pozitif basınç daha seyrektir; ağlama, burun sümkürme ya da akut orta kulak iltihabının erken döneminde görülebilir.",
+    "TPP ölçüm koşullarından etkilenir: tepe, basıncın tarandığı yöne doğru biraz kayar.",
+    "Pompa hızı da tepe basıncını ve yüksekliğini değiştirebilir; bu yüzden klinikte hep aynı protokol kullanılır."
+   ]
+  },
+  {
+   "id": "tw",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Genişlik ve hacim",
+   "baslik": "Timpanometrik *genişlik*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Basınç (daPa)"
+    },
+    "y": {
+     "min": 0,
+     "max": 0.8,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitans (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "dar",
+      "noktalar": [
+       [
+        -400,
+        0.0
+       ],
+       [
+        -380,
+        0.0
+       ],
+       [
+        -360,
+        0.0
+       ],
+       [
+        -340,
+        0.0
+       ],
+       [
+        -320,
+        0.0
+       ],
+       [
+        -300,
+        0.0
+       ],
+       [
+        -280,
+        0.0
+       ],
+       [
+        -260,
+        0.0
+       ],
+       [
+        -240,
+        0.0
+       ],
+       [
+        -220,
+        0.0
+       ],
+       [
+        -200,
+        0.0
+       ],
+       [
+        -180,
+        0.0
+       ],
+       [
+        -160,
+        0.0
+       ],
+       [
+        -140,
+        0.001
+       ],
+       [
+        -120,
+        0.009
+       ],
+       [
+        -100,
+        0.044
+       ],
+       [
+        -80,
+        0.147
+       ],
+       [
+        -60,
+        0.35
+       ],
+       [
+        -40,
+        0.589
+       ],
+       [
+        -20,
+        0.7
+       ],
+       [
+        0,
+        0.589
+       ],
+       [
+        20,
+        0.35
+       ],
+       [
+        40,
+        0.147
+       ],
+       [
+        60,
+        0.044
+       ],
+       [
+        80,
+        0.009
+       ],
+       [
+        100,
+        0.001
+       ],
+       [
+        120,
+        0.0
+       ],
+       [
+        140,
+        0.0
+       ],
+       [
+        160,
+        0.0
+       ],
+       [
+        180,
+        0.0
+       ],
+       [
+        200,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "dar, sivri",
+      "etiket_konum": [
+       10,
+       0.68
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "genis",
+      "noktalar": [
+       [
+        -400,
+        0.001
+       ],
+       [
+        -380,
+        0.002
+       ],
+       [
+        -360,
+        0.004
+       ],
+       [
+        -340,
+        0.007
+       ],
+       [
+        -320,
+        0.012
+       ],
+       [
+        -300,
+        0.02
+       ],
+       [
+        -280,
+        0.031
+       ],
+       [
+        -260,
+        0.047
+       ],
+       [
+        -240,
+        0.067
+       ],
+       [
+        -220,
+        0.093
+       ],
+       [
+        -200,
+        0.125
+       ],
+       [
+        -180,
+        0.16
+       ],
+       [
+        -160,
+        0.198
+       ],
+       [
+        -140,
+        0.235
+       ],
+       [
+        -120,
+        0.269
+       ],
+       [
+        -100,
+        0.296
+       ],
+       [
+        -80,
+        0.314
+       ],
+       [
+        -60,
+        0.32
+       ],
+       [
+        -40,
+        0.314
+       ],
+       [
+        -20,
+        0.296
+       ],
+       [
+        0,
+        0.269
+       ],
+       [
+        20,
+        0.235
+       ],
+       [
+        40,
+        0.198
+       ],
+       [
+        60,
+        0.16
+       ],
+       [
+        80,
+        0.125
+       ],
+       [
+        100,
+        0.093
+       ],
+       [
+        120,
+        0.067
+       ],
+       [
+        140,
+        0.047
+       ],
+       [
+        160,
+        0.031
+       ],
+       [
+        180,
+        0.02
+       ],
+       [
+        200,
+        0.012
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "geniş, yuvarlak",
+      "etiket_konum": [
+       -330,
+       0.12
+      ],
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "tw_dar",
+      "x": [
+       -60,
+       20
+      ],
+      "y": 0.35,
+      "etiket": "yaklaşık 80 daPa",
+      "cumle": 2
+     },
+     {
+      "ad": "tw_genis",
+      "x": [
+       -180,
+       60
+      ],
+      "y": 0.16,
+      "etiket": "yaklaşık 240 daPa",
+      "etiket_alt": true,
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Yarı yükseklikteki basınç aralığı",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yetişkin: yaklaşık 50 ile 110 daPa",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Geniş TW: efüzyon olasılığı",
+     "cumle": 6,
+     "ikon": "akinti"
+    }
+   ],
+   "cumleler": [
+    "Timpanometrik genişlik (tympanometric width), kısaca TW, eğrinin tepe yüksekliğinin yarısında ölçülen basınç aralığıdır.",
+    "Mavi eğri dar ve sivri bir tepe gösteriyor.",
+    "Yarı yükseklikte iki yan arasındaki aralık yaklaşık seksen dekapaskal.",
+    "Yetişkinlerde TW genellikle yaklaşık elli ile yüz on dekapaskal arasındadır; çocuklarda biraz daha geniştir.",
+    "Kırmızı eğri ise alçak ve yuvarlak; tepe belirgin değil.",
+    "Bu eğrinin genişliği yaklaşık iki yüz kırk dekapaskal.",
+    "Geniş TW, özellikle çocuklarda efüzyon olasılığını artırır; tarama kılavuzlarında yaklaşık iki yüz elli dekapaskal üzeri dikkat gerektirir.",
+    "TW, tepe yüksekliği normal sınırdayken bile yuvarlaklaşmış bir eğriyi sayıyla gösterebildiği için değerlidir."
+   ]
+  },
+  {
+   "id": "ecv",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Genişlik ve hacim",
+   "baslik": "Dış kulak yolu *hacmi*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Probla zar arası hava",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Artı 200 daPa'da gergin",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Delikte ölçüme katılır",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yetişkin: yaklaşık 0,6 ile 1,5 ml",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Çok büyük: perforasyon ya da açık tüp",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Çok küçük: tıkalı uç ya da buşon",
+     "cumle": 5,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Dış kulak yolu hacmi (ear canal volume), kısaca ECV, prob ucu ile timpanik membran arasındaki hava hacmidir.",
+    "Artı iki yüz dekapaskalda timpanik membran gerildiği için bu basınçta ölçülen değer büyük ölçüde kulak yoluna aittir.",
+    "Yetişkinlerde ECV yaklaşık sıfır virgül altı ile bir virgül beş mililitredir; çocuklarda kulak yolu küçük olduğu için daha düşüktür.",
+    "ECV en çok, tepesi olmayan B tipi eğrilerin yorumunda işe yarar.",
+    "Hacim yaşa göre beklenenden çok büyükse, prob tonu orta kulak boşluğuna da ulaşıyordur; perforasyon ya da açık bir tüp düşünülür.",
+    "Hacim çok küçükse prob ucu kulak yolu duvarına dayanmış ya da tıkanmış olabilir.",
+    "Prob ucunun ne kadar derine yerleştiği de değeri etkiler; bu yüzden küçük farkları yorumlarken dikkatli olunur."
+   ]
+  },
+  {
+   "id": "normlar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normlar",
+   "baslik": "Yetişkinde *yaklaşık* normlar",
+   "sutunlar": [
+    "Değer",
+    "Yaklaşık aralık",
+    "Birim"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Ytm",
+      "0,3 ile 1,7",
+      "mmho"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "TPP",
+      "Eksi 100, artı 50",
+      "daPa"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "TW",
+      "50 ile 110",
+      "daPa"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "ECV",
+      "0,6 ile 1,5",
+      "ml"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Yetişkinlerde iki yüz yirmi altı hertzlik timpanometri için yaklaşık normal aralıkları bir tabloda toplayalım.",
+    "Tepe statik admitans yaklaşık sıfır virgül üç ile bir virgül yedi milimho.",
+    "Tepe basıncı yaklaşık eksi yüz ile artı elli dekapaskal.",
+    "Timpanometrik genişlik yaklaşık elli ile yüz on dekapaskal.",
+    "Dış kulak yolu hacmi yaklaşık sıfır virgül altı ile bir virgül beş mililitre.",
+    "Bu aralıklar yaklaşık değerlerdir; yayımlanmış çalışmalar ve cihazlar arasında küçük farklar vardır.",
+    "Çocuklar için yaşa göre ayrı normlar kullanılır; altı aydan küçük bebeklerde ise bin hertzlik ölçüm ve ona ait normlar gerekir."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normlar",
+   "baslik": "Değeri *değiştiren* koşullar",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Taban seçimi",
+     "metin": "Artı 200 ya da eksi 400",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Pompa hızı",
+     "metin": "Hızlı tarama tepeyi değiştirir",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tarama yönü",
+     "metin": "Tepe bu yöne kayar",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Tekrar ölçüm",
+     "metin": "Art arda değer değişebilir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Ytm hesaplanırken taban olarak genellikle artı iki yüz dekapaskaldaki değer kullanılır.",
+     "ses": "Ye te me hesaplanırken taban olarak genellikle artı iki yüz dekapaskaldaki değer kullanılır."
+    },
+    {
+     "yazi": "Taban eksi dört yüzden alınırsa Ytm biraz daha yüksek çıkar; çünkü eğrinin negatif kuyruğu çoğu zaman daha alçaktır.",
+     "ses": "Taban eksi dört yüzden alınırsa ye te me biraz daha yüksek çıkar; çünkü eğrinin negatif kuyruğu çoğu zaman daha alçaktır."
+    },
+    "Pompa hızı arttıkça tepe yüksekliği ve basıncı değişebilir; normlar belirli bir hızla elde edilmiştir.",
+    "Tarama yönü de tepe basıncını etkiler; pozitiften negatife taramada tepe biraz daha negatif görünür.",
+    "Art arda yapılan ölçümlerde timpanik membranın gerilip gevşemesi değerleri biraz değiştirebilir.",
+    "Bu yüzden normları, kullandığınız cihazın protokolüne uygun kaynaktan seçin."
+   ]
+  },
+  {
+   "id": "ornekler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Örnek *sonuçlar*",
+   "sutunlar": [
+    "Örnek",
+    "Ytm (mmho)",
+    "TW (daPa)",
+    "ECV (ml)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "0,8",
+      "75",
+      "1,1"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "2",
+      "0,25",
+      "230",
+      "1,0"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3",
+      "2,4",
+      "60",
+      "1,2"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4",
+      "Tepe yok",
+      "-",
+      "3,2"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Dört örnek yetişkin sonucuna bakalım; birinci örnekte bütün değerler normal aralıkta ve tepe basıncı eksi on dekapaskal.",
+    {
+     "yazi": "İkinci örnekte Ytm düşük, TW geniş ve tepe basıncı eksi yüz yirmi; eğri alçak ve yuvarlak.",
+     "ses": "İkinci örnekte ye te me düşük, TW geniş ve tepe basıncı eksi yüz yirmi; eğri alçak ve yuvarlak."
+    },
+    "Bu tablo orta kulakta sıvı olasılığıyla uyumlu olabilir; otoskopiyle birlikte değerlendirilir.",
+    {
+     "yazi": "Üçüncü örnekte Ytm iki virgül dört milimho; normalin belirgin üzerinde.",
+     "ses": "Üçüncü örnekte ye te me iki virgül dört milimho; normalin belirgin üzerinde."
+    },
+    "Odyogram normalse gevşek bir zar, belirgin hava-kemik aralığı varsa zincir kopukluğu akla gelir.",
+    "Dördüncü örnekte tepe yok ve hacim üç virgül iki mililitre; perforasyon ya da açık bir ventilasyon tüpü düşünülür.",
+    "Her örnekte sayılar, harf tipinin tek başına söylediğinden çok daha fazlasını anlatıyor."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Değerleri okuma *sırası*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "ECV",
+     "metin": "Prob ve zar sağlam mı?",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Tepe var mı?",
+     "metin": "Yoksa B tipi",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "TPP",
+     "metin": "Basınç normal mi?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ytm ve TW",
+     "metin": "Yükseklik ve biçim",
+     "cumle": 3
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Birleştir",
+     "metin": "Otoskopi ve odyogram",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bir sonucu okurken önce hacme bakın; çok büyük ya da çok küçük bir ECV, eğrinin geri kalanını yorumlamadan önce açıklanmalıdır.",
+    "Sonra belirgin bir tepe olup olmadığına bakın; tepe yoksa eğri B tipidir ve yorum hacme göre yapılır.",
+    "Tepe varsa tepe basıncını değerlendirin; belirgin negatif basınç Östaki işlevini sorgulatır.",
+    {
+     "yazi": "Ardından Ytm ile tepenin yüksekliğine, TW ile de biçimine bakın.",
+     "ses": "Ardından ye te me ile tepenin yüksekliğine, TW ile de biçimine bakın."
+    },
+    "Bu iki değer, harf tipinin sınırda kaldığı eğrilerde kararı kolaylaştırır.",
+    "Son adımda bütün değerleri otoskopi ve odyogramla birleştirerek yorumlayın."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ytm normal sınırdayken TW genişse ölçümü tekrarlayın ve otoskopiyle karşılaştırın; yuvarlak bir tepe sıvının erken işareti olabilir.",
+   "cumleler": [
+    {
+     "yazi": "Yalnız Ytm'ye bakmak bazı efüzyonları gözden kaçırabilir.",
+     "ses": "Yalnız ye te me'ye bakmak bazı efüzyonları gözden kaçırabilir."
+    },
+    {
+     "yazi": "Ytm normalin alt sınırına yakın, ama genişlik belirgin artmışsa, eğri yuvarlaklaşmış demektir.",
+     "ses": "Ye te me normalin alt sınırına yakın, ama genişlik belirgin artmışsa, eğri yuvarlaklaşmış demektir."
+    },
+    "Bu durumda ölçümü tekrarlayın ve sonucu otoskopi bulgusuyla karşılaştırın.",
+    "Özellikle çocuklarda bu tür sınırda bulgular, belli bir süre sonra kontrol ölçümüyle izlenir."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Raporda *neler* olmalı?",
+   "maddeler": [
+    {
+     "metin": "Prob tonu ve _her kulak_ ayrı",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "_Ytm, TPP, TW ve ECV_ değerleri",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Jerger tipi ve _kullanılan norm_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Otoskopi_ ve ölçüm notları",
+     "cumle": 3,
+     "ikon": "otoskop"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 0
+      }
+     ]
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "Raporda önce prob tonu belirtilir ve sonuçlar her kulak için ayrı yazılır.",
+    {
+     "yazi": "Dört değer, yani Ytm, TPP, TW ve ECV birimleriyle birlikte kaydedilir.",
+     "ses": "Dört değer, yani ye te me, TPP, TW ve ECV birimleriyle birlikte kaydedilir."
+    },
+    "Jerger tipi bu değerlerin yanına eklenir ve karşılaştırmada hangi norm tablosunun kullanıldığı belirtilir.",
+    "Otoskopi bulgusu ve ölçüm sırasında ağlama ya da hareket gibi notlar da sonuca eklenir.",
+    "Böyle bir rapor, bir sonraki kontrolde değişimin doğru izlenmesini sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Ytm: yaklaşık _0,3 ile 1,7 mmho_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "TPP: yaklaşık _eksi 100 ile artı 50_",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "TW: yarı yükseklikte _genişlik_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "ECV: yaklaşık _0,6 ile 1,5 ml_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Tepe statik admitans yalnız orta kulağa ait admitanstır; yetişkinde yaklaşık sıfır virgül üç ile bir virgül yedi milimhodur.",
+    "Timpanometrik tepe basıncı orta kulak basıncını tahmin eder; yetişkinde yaklaşık eksi yüz ile artı elli dekapaskaldır.",
+    "Timpanometrik genişlik, tepenin yarı yüksekliğindeki basınç aralığıdır; geniş TW efüzyon olasılığını artırır.",
+    "Dış kulak yolu hacmi artı iki yüz dekapaskalda ölçülür; yetişkinde yaklaşık sıfır virgül altı ile bir virgül beş mililitredir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Çocukta Ytm 0,9, TW 260 daPa, ECV 0,8 ml. Hangisi dikkat çeker?",
+   "secenekler": [
+    "Ytm",
+    "TW",
+    "ECV",
+    "Hiçbiri"
+   ],
+   "dogru": 1,
+   "aciklama": "Ytm ve ECV beklenen aralıkta; ancak _TW yaklaşık 250 daPa'nın üzerinde_ ve eğri yuvarlaklaşmış.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Bir çocukta Ytm sıfır virgül dokuz, TW iki yüz altmış, ECV sıfır virgül sekiz. Hangi değer dikkat çeker?",
+     "sonra_bekle": 5,
+     "ses": "Kendinizi test edin: Bir çocukta ye te me sıfır virgül dokuz, TW iki yüz altmış, ECV sıfır virgül sekiz. Hangi değer dikkat çeker?"
+    },
+    "Doğru cevap B: timpanometrik genişlik.",
+    "Tepe yüksekliği ve hacim beklenen aralıkta, ama genişlik iki yüz elli dekapaskalın üzerinde; eğri yuvarlaklaşmış."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Bebeklerde *1000 Hz* timpanometri",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste altı aydan küçük bebeklerde neden bin hertzlik timpanometri kullandığımızı göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,728 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D246_Tek_Tarafli_Sagirlik_Implant_TR",
+ "kapak": {
+  "ust": "DERS 246",
+  "baslik": "Tek taraflı<br>sağırlıkta *implant*",
+  "alt": "CROS, kemik yolu ve koklear implant",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      10,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      95,
+      105,
+      110,
+      115,
+      120,
+      120
+     ],
+     "yanitsiz": [
+      4,
+      5
+     ]
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  }
+ },
+ "youtube": {
+  "baslik": "Tek Taraflı Sağırlık ve Koklear İmplant | Ders 246 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bir kulağı normal, diğeri sağır olan kişiye hangi seçenekler sunulur? Bu derste tek taraflı sağırlığın günlük yaşama etkilerini, CROS ve kemik yolu cihazlarıyla koklear implantın karşılaştırmasını, yön bulma ve gürültüde anlama sonuçlarını, tinnitus üzerine etkiyi ve adaylıkta dikkat edilecekleri öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Van de Heyning ve arkadaşları (2008), Incapacitating unilateral tinnitus in single-sided deafness treated by cochlear implantation, Annals of Otology, Rhinology and Laryngology; Arndt ve arkadaşları (2011), Comparison of pseudobinaural hearing to real binaural hearing rehabilitation after cochlear implantation in patients with unilateral deafness and tinnitus, Otology and Neurotology; Wolfe, Cochlear Implants; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "teketaraflısağırlık"
+  ],
+  "etiketler": [
+   "tek taraflı sağırlık",
+   "single-sided deafness",
+   "SSD",
+   "koklear implant",
+   "CROS",
+   "kemik yolu cihazı",
+   "uzamsal işitme",
+   "yön bulma",
+   "tinnitus",
+   "asimetrik işitme kaybı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 246",
+   "baslik": "Tek taraflı sağırlık ve *implant*",
+   "alt": "CROS, kemik yolu ve koklear implant",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir kulağı normal, diğer kulağı sağır olan kişiler için seçenekleri ve koklear implantın yerini öğreneceğiz.",
+    "Karşı tarafa sinyal yönlendirme, kemik yolu cihazları ve implantı yön bulma, gürültüde anlama ve tinnitus açısından karşılaştıracağız."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tek taraflı sağırlık",
+   "baslik": "Örnek: *sol kulak* sağır",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Sol kulak_: maskeli hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ bölge",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       10,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       95,
+       105,
+       110,
+       115,
+       120,
+       120
+      ],
+      "yanitsiz": [
+       4,
+       5
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulağın işitmesi normal sınırlarda.",
+    "Sol kulakta ise maskeli ölçümde çok ileri derecede bir kayıp var; tiz frekanslarda cihaz sınırında yanıt yok.",
+    "Bir kulak normale yakın, diğeri cihazdan yarar göremeyecek kadar kayıplıysa buna tek taraflı sağırlık (single-sided deafness) denir.",
+    "İyi kulağın da hafif ile orta derece kayıplı olduğu, kulaklar arasında belirgin fark bulunan durumlara asimetrik işitme kaybı denir.",
+    "Bu kişiler sessiz ortamda karşılarındaki kişiyi rahatça duyar; bu yüzden sorun çoğu zaman küçümsenir.",
+    "Oysa günlük yaşamın gürültülü ve hareketli ortamlarında belirgin güçlükler yaşarlar."
+   ]
+  },
+  {
+   "id": "sorunlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tek taraflı sağırlık",
+   "baslik": "Tek kulakla *günlük yaşam*",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Yön bulma",
+     "cumle": 0,
+     "metin": "Ses nereden geliyor?"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüde",
+     "cumle": 1,
+     "metin": "Kötü taraftan konuşma"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Dinleme çabası",
+     "cumle": 3,
+     "metin": "Yorgunluk"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "cumle": 4,
+     "metin": "Sağır kulakta çınlama"
+    }
+   ],
+   "cumleler": [
+    "Uzamsal işitme (spatial hearing), yani sesin yerini bulma ve sesleri yönlerine göre ayırma, iki kulak gerektirir.",
+    "Konuşma sağır taraftan geldiğinde baş gölgesi konuşmayı zayıflatır ve iyi kulağa daha az ulaşır.",
+    "Gürültü iyi kulak tarafından geliyorsa, konuşmayı anlamak daha da güçleşir.",
+    "Kişiler kalabalıkta konuşmayı izlemek için sürekli çaba harcadıklarını ve günün sonunda yorulduklarını anlatır.",
+    "Birçok kişide sağır kulakta tinnitus da vardır ve yaşam kalitesini belirgin biçimde etkileyebilir.",
+    "Tek taraflı kaybı olan çocuklarda ise okulda ve dil gelişiminde güçlük riski artar; bu çocuklar yakından izlenir."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tek taraflı sağırlık",
+   "baslik": "Nedeni ve *süresi* önemli",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Ani kayıp",
+     "cumle": 0,
+     "metin": "Erişkinde sık neden"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Ameliyat, travma",
+     "cumle": 1,
+     "metin": "Tümör, kırık"
+    },
+    {
+     "ikon": "virus",
+     "baslik": "Doğumsal CMV",
+     "cumle": 2,
+     "metin": "Çocukta sık neden"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Koklear sinir",
+     "cumle": 3,
+     "metin": "Görüntüleme şart"
+    }
+   ],
+   "cumleler": [
+    "Erişkinde tek taraflı sağırlığın sık nedenleri arasında ani işitme kaybı, iç kulak enfeksiyonları ve Meniere hastalığı vardır.",
+    "Vestibüler schwannom ameliyatları ve temporal kemik kırıkları da tek taraflı sağırlığa yol açabilir.",
+    "Çocuklarda doğumsal sitomegalovirüs enfeksiyonu önemli bir nedendir.",
+    "Doğuştan tek taraflı sağırlığı olan çocukların bir bölümünde koklear sinir yetersizdir; bu yüzden görüntüleme implant kararından önce gelir.",
+    "Nedenin yanında kaybın ne kadar süredir var olduğu da sorulur; çünkü implant sonucunu en çok etkileyen bilgilerden biri budur.",
+    "Koklear sinirin ameliyatla kesildiği durumlarda ise implant bir seçenek değildir."
+   ]
+  },
+  {
+   "id": "secenekler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Seçenekler",
+   "baslik": "Dört *seçenek*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Stratejiler",
+     "cumle": 0,
+     "metin": "Konum ve iletişim"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "CROS",
+     "cumle": 1,
+     "metin": "Sesi iyi kulağa taşır"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik yolu",
+     "cumle": 2,
+     "metin": "Kafatasıyla taşır"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Koklear implant",
+     "cumle": 3,
+     "metin": "Sağır kulağı uyarır"
+    }
+   ],
+   "cumleler": [
+    "Bazı kişiler için bilgilendirme ve iletişim stratejileri yeterlidir: örneğin toplantıda iyi kulağı konuşmacıya dönük oturmak.",
+    "Karşı tarafa sinyal yönlendirme, kısaca CROS, sağır taraftaki sesi kablosuz olarak iyi kulaktaki alıcıya taşır.",
+    "Kemik yolu cihazları ise sağır taraftaki sesi kafatası titreşimiyle iyi taraftaki kokleaya iletir.",
+    "Koklear implant, diğerlerinden farklı olarak sağır kulağın kendisini yeniden uyarır.",
+    "CROS ve kemik yolu cihazlarını önceki derslerde gördük; şimdi implantla karşılaştıralım.",
+    "Seçenekler arasında karar, kişinin hedefleri ve günlük ortamlarıyla birlikte, tarafsız bir bilgilendirmeden sonra verilir."
+   ]
+  },
+  {
+   "id": "yonlendirme",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Seçenekler",
+   "baslik": "Yönlendirme mi, *uyarma* mı?",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "cros",
+    "cihaz": "ikisi",
+    "kotu_kulak": "sag",
+    "cihaz_cumle": 2,
+    "aktarim_cumle": 2,
+    "implant_cumle": 5
+   },
+   "etiketler": [
+    {
+     "parca": "yakin_kulak",
+     "metin": "sağır kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "uzak_kulak",
+     "metin": "iyi kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "bas_golgesi",
+     "metin": "baş gölgesi",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "bas_golgesi",
+     "cumle": 1
+    },
+    {
+     "parca": "uzak_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "yakin_kulak",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bu çizimde ses, sağır kulak tarafından geliyor; karşı taraftaki kulak normal işitiyor.",
+    "Baş gölgesi nedeniyle konuşma, özellikle tiz frekanslarda iyi kulağa zayıflamış olarak ulaşır.",
+    "CROS ve kemik yolu cihazları bu sesi iyi kulağa taşıyarak gölgeyi aşar; kötü taraftan gelen konuşma daha iyi duyulur.",
+    "Ama iki sistemde de bütün sesler sonunda tek bir kokleaya ulaşır; yani kişi yine tek kulakla işitir.",
+    "Bu yüzden yön bulma düzelmez ve gürültü kötü taraftan geliyorsa, gürültü de iyi kulağa taşınır.",
+    "Koklear implant ise sağır kulağa kendi girdisini geri verir; beyin yeniden iki ayrı kulaktan bilgi alır.",
+    "Normal kulağın akustik sesi ile implantın elektriksel sesi farklı olsa da, beyin bu iki girdiyi zamanla birleştirmeyi öğrenebilir."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Seçenekler",
+   "baslik": "Seçenekleri *tartmak*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "CROS",
+     "cumle": 0,
+     "metin": "Cerrahisiz, hemen denenir"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik yolu",
+     "cumle": 2,
+     "metin": "Kafatasında tiz kaybı"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "İmplant",
+     "cumle": 4,
+     "metin": "Cerrahi ve uzun eğitim"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Karar",
+     "cumle": 6,
+     "metin": "Kişinin hedefleri"
+    }
+   ],
+   "cumleler": [
+    "CROS cerrahi gerektirmez, hemen denenebilir ve kolayca bırakılabilir; bu yüzden çoğu zaman ilk denenen seçenektir.",
+    "İyi kulaktaki alıcı genellikle açık bir uçla takılır; ama bazı kişiler iki kulağa da cihaz takmayı rahatsız edici bulur.",
+    "Kemik yolu cihazında titreşim kafatasını geçerek karşı kokleaya ulaşırken özellikle tiz frekanslarda bir miktar zayıflar.",
+    "Bu cihaz bantla cerrahisiz denenebilir; kalıcı kullanım için ise kemiğe yerleştirilen bir implant gerekir.",
+    "Koklear implant cerrahi gerektirir ve sonuçlar için aylar süren düzenli kullanım ve dinleme eğitimi gerekir.",
+    "Her seçenekte bakım, maliyet, geri ödeme koşulları ve ileride gerekebilecek manyetik rezonans görüntüleme, kısaca MR da konuşulur.",
+    "Sonuçta doğru seçenek, kişinin günlük ortamlarına ve en çok hangi güçlüğü çözmek istediğine göre belirlenir."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İmplant sonuçları",
+   "baslik": "İmplantla *neler* değişir?",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Yön bulma",
+     "cumle": 0,
+     "metin": "Belirgin iyileşme"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüde",
+     "cumle": 2,
+     "metin": "Duruma göre kazanç"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "cumle": 4,
+     "metin": "Çoğu kişide azalır"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Yaşam kalitesi",
+     "cumle": 5,
+     "metin": "Daha az çaba"
+    }
+   ],
+   "cumleler": [
+    "Çalışmalar, tek taraflı sağırlıkta implantın yön bulmayı CROS ve kemik yolu cihazlarına göre daha fazla iyileştirdiğini göstermektedir.",
+    "Yön bulma normal işiten kişilerin düzeyine çoğu zaman ulaşmaz, ama günlük yaşamda fark edilir bir iyileşme sağlar.",
+    "Gürültüde anlamadaki kazanç, konuşmanın ve gürültünün hangi taraftan geldiğine bağlıdır.",
+    "Konuşma implantlı taraftan geldiğinde kazanç en belirgindir; iki ses de önden geldiğinde kazanç daha küçüktür.",
+    "Birçok kişide implant açıkken sağır kulaktaki tinnitusun belirgin biçimde azaldığı bildirilmiştir.",
+    "Kişiler genellikle daha az dinleme çabası ve daha iyi yaşam kalitesi bildirir; ama yarar kişiden kişiye değişir."
+   ]
+  },
+  {
+   "id": "tinnitus",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İmplant sonuçları",
+   "baslik": "Tinnitus *üzerine* etki",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": "",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "ameliyat öncesi",
+      "2": "implant kapalı",
+      "3": "implant açık"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Tinnitus şiddeti (0 ile 10)"
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        8
+       ]
+      ],
+      "renk": "gri",
+      "cumle": 1
+     },
+     {
+      "ad": "kapali",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        6.5
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 3
+     },
+     {
+      "ad": "acik",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "acik",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Van de Heyning ve arkadaşları 2008'de, tek taraflı sağırlık ve ağır tinnitusu olan kişilerde implantın tinnitusu azalttığını bildirdi.",
+     "ses": "Van dö Heyning ve arkadaşları iki bin sekizde, tek taraflı sağırlık ve ağır tinnitusu olan kişilerde implantın tinnitusu azalttığını bildirdi."
+    },
+    "Bu şematik grafik, bu tür çalışmalarda görülen genel tabloyu gösteriyor; değerler gerçek veri değildir.",
+    "Tinnitus şiddeti çoğu kişide implant açıkken belirgin biçimde azalır.",
+    "Bazı kişilerde implant kapatıldığında da etki kısmen sürer; bazılarında ise tinnitus eski düzeyine döner.",
+    "Tinnitusun tamamen kaybolması ise beklenmemelidir; bu yüzden kişiye gerçekçi bir beklenti anlatılır.",
+    "Tinnitus tek başına implant gerekçesi olarak değil, işitme hedefleriyle birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İmplant sonuçları",
+   "baslik": "Adaylık *ölçütleri*",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "2019",
+     "cumle": 0,
+     "metin": "ABD'de onay"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Yaş",
+     "cumle": 1,
+     "metin": "Beş yaş ve üzeri"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "İyi kulak",
+     "cumle": 2,
+     "metin": "Ortalama 30 dB HL ve iyi"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Deneme",
+     "cumle": 3,
+     "metin": "En az bir ay"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Türkiye",
+     "cumle": 5,
+     "metin": "Güncel tebliğe bakın"
+    }
+   ],
+   "cumleler": [
+    "Avrupa'da bazı merkezler tek taraflı sağırlıkta implantı 2000'li yıllardan beri uyguluyor; ABD'de bu kullanım 2019'da onay aldı.",
+    "Bu onaylar beş yaş ve üzerindeki kişileri kapsadı.",
+    "Tek taraflı sağırlık tanımında iyi kulağın dört frekans ortalamasının 30 dB HL ya da daha iyi olması arandı.",
+    "Bir onayda, implanttan önce en az bir ay işitme cihazı, CROS ya da benzeri bir cihaz denenmesi ve yarar görülmemesi şartı kondu.",
+    "Asimetrik kayıp için ise iyi kulakta daha fazla kayba izin verilir ve iki kulak arasında belirgin bir fark aranır.",
+    "Ölçütler ülkeye ve cihaza göre değişir; Türkiye'deki geri ödeme koşulları için her zaman güncel Sağlık Uygulama Tebliğine bakın."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sonucu etkileyenler",
+   "baslik": "Kimde *daha iyi* sonuç?",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Süre",
+     "cumle": 0,
+     "metin": "Kısa sağırlık süresi"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Doğumsal kayıp",
+     "cumle": 1,
+     "metin": "Erken müdahale şart"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Sinir",
+     "cumle": 3,
+     "metin": "Koklear sinir sağlam"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Motivasyon",
+     "cumle": 4,
+     "metin": "Düzenli kullanım"
+    }
+   ],
+   "cumleler": [
+    "Erişkinde sağırlık süresi kısaldıkça implantın sonuçları genellikle daha iyi olur; bu yüzden değerlendirme geciktirilmemelidir.",
+    "Doğuştan tek taraflı sağırlığı olan çocuklarda sağır kulağın işitme yolu yıllarca uyarı almaz.",
+    "Bu çocuklarda implant ancak erken yaşta yapılırsa anlamlı yarar beklenir; geç yapıldığında sonuçlar çok sınırlı kalabilir.",
+    "Koklear sinirin sağlam olduğu görüntülemeyle gösterilmelidir.",
+    "Normal kulak baskın kaldığı için implantı düzenli kullanmak ve ona alışmak sabır ister; motivasyon sonucu belirgin biçimde etkiler.",
+    "Kişinin hedefleri net değilse ya da beklentileri gerçekçi değilse, karar öncesinde daha ayrıntılı danışmanlık gerekir."
+   ]
+  },
+  {
+   "id": "rehab",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sonucu etkileyenler",
+   "baslik": "İmplantlı kulağı *eğitmek*",
+   "maddeler": [
+    {
+     "metin": "Normal kulak baskın kalır",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sesi yalnız implanta aktarma",
+     "cumle": 1,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Kısa, düzenli dinleme oturumları",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "İki kulak arasında denge",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "dis_islemci",
+      "metin": "doğrudan ses aktarımı",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dis_islemci",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Tek taraflı sağırlıkta normal kulak sesi çok daha net duyduğu için beyin başlangıçta implantı göz ardı edebilir.",
+    "Bu yüzden implantlı kulağı tek başına çalıştırmak için ses kaynağı, örneğin telefon ya da sesli kitap, doğrudan işlemciye aktarılabilir.",
+    "Bu sırada normal kulak duymaz; kişi yalnız implant yoluyla dinler ve konuşmayı anlamaya çalışır.",
+    "Kısa ama her gün yapılan dinleme oturumları, implantlı kulağın konuşma anlama becerisini geliştirmeye yardım eder.",
+    "Programlamada implantın ses yüksekliği normal kulakla dengelenir; kişi sesi tek tarafa yığılmış değil, dengeli duymalıdır.",
+    "İmplantın sesi normal kulaktan farklı gelecektir; bunun beklenen bir durum olduğu baştan anlatılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Tek taraflı sağırlığı olan kişiye bütün seçenekleri tarafsız anlatın. Cerrahi karar öncesi CROS ya da bantlı kemik yolu denemesi, beklentiyi netleştirir.",
+   "cumleler": [
+    "Sahadan bir ipucu: tek taraflı sağırlığı olan kişiye ilk görüşmede bütün seçenekleri, avantaj ve sınırlarıyla birlikte tarafsız anlatın.",
+    "Cerrahi karardan önce CROS ya da bantla takılan bir kemik yolu cihazını günlük ortamlarda denemek, kişinin ihtiyacını netleştirir.",
+    "Sağırlık süresi implant sonucunu etkilediği için implantla ilgilenen kişiyi değerlendirme için gecikmeden yönlendirin.",
+    "Ani işitme kaybı sonrası tek taraflı sağırlık gelişen kişide, tıbbi tedavi süreci tamamlandıktan sonra bu görüşmeyi planlayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Tek kulakla yön bulma bozulur",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "CROS ve kemik yolu: sesi taşır",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "İmplant: sağır kulağı uyarır",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Süre ve sinir sonucu belirler",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Tek taraflı sağırlık yön bulmayı ve gürültüde anlamayı bozar, dinleme çabasını artırır ve sıklıkla tinnitusla birlikte görülür.",
+    "CROS ve kemik yolu cihazları sağır taraftaki sesi iyi kulağa taşır; ama iki kulakla işitmeyi geri getirmez.",
+    "Koklear implant sağır kulağın kendisini uyarır; yön bulmada, bazı gürültü koşullarında ve tinnitusta yarar bildirilmiştir.",
+    "Sonuç; sağırlık süresine, koklear sinirin durumuna ve düzenli kullanıma bağlıdır; ölçütler ülkeye göre değişir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Yön bulmayı hedefleyen seçenek hangisi?",
+   "secenekler": [
+    "CROS sistemi",
+    "Kemik yolu cihazı",
+    "Koklear implant",
+    "Tek kulağa cihaz"
+   ],
+   "dogru": 2,
+   "aciklama": "İmplant _sağır kulağın kendisini_ uyarır; diğerleri sesi iyi kulağa taşır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: tek taraflı sağırlıkta yön bulmayı geri kazandırmayı hedefleyen seçenek hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: koklear implant.",
+    "CROS ve kemik yolu cihazları sesi tek kokleaya taşır; implant ise sağır kulağa kendi girdisini vererek iki kulakla işitmeyi hedefler."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Koklear implant sonrası *performans* ve sorun giderme",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste implant sonrası performansı etkileyen etkenleri, cihaz arızasını ve MR güvenliğini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

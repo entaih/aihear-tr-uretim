@@ -1,0 +1,154 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R382_Makale_Okuma_Sirasi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #382",
+  "baslik": "Makale *nasıl okunur?*",
+  "alt": "Özet, tablolar, yöntem, tartışma",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 5.5,
+    "adim": 1,
+    "yazilar": {
+     "1": "1",
+     "2": "2",
+     "3": "3",
+     "4": "4",
+     "5": "5"
+    },
+    "ad": "Kanıt düzeyi"
+   },
+   "y": {
+    "min": 0,
+    "max": 5,
+    "adim": 1,
+    "ad": "Güç"
+   },
+   "seriler": [
+    {
+     "ad": "guc",
+     "tur": "cubuk",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       2,
+       4
+      ],
+      [
+       3,
+       3
+      ],
+      [
+       4,
+       2
+      ],
+      [
+       5,
+       1
+      ]
+     ],
+     "renk": "mavi"
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Deneyimli okuyucu bir makaleyi hangi sırayla okur? #shorts",
+  "aciklama": "Deneyimli okuyucular makaleyi baştan sona düz bir sırayla okumaz. Önce özete bakar ve makalenin sorusuna uygun olup olmadığına karar verir; ardından tablo ve şekilleri inceler, çünkü bulguların özü çoğu zaman oradadır. Sonra yöntemi dikkatle okur; tartışma en son okunur, çünkü yazarın yorumu ile verilerin gerçekte gösterdiği şey her zaman aynı değildir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "araştırma",
+   "kanıt"
+  ],
+  "etiketler": [
+   "bilimsel makale okuma",
+   "kanıta dayalı uygulama",
+   "IMRAD",
+   "yöntem",
+   "eleştirel okuma",
+   "araştırma",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Deneyimli okuyucu bir makaleyi hangi sırayla okur?",
+  "bilgiler": [
+   "Önce özet: makale sorunuza uygun mu?",
+   "Sonra tablolar ve yöntem: bulguların özü ve güvenilirliği.",
+   "Tartışma en son okunur."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "araştırma",
+   "kanıt"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #382",
+   "metin": "Baştan sona *mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Deneyimli okuyucu bir makaleyi hangi sırayla okur?"
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "zincir",
+   "baslik": "Makale *okuma sırası*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Özet",
+     "tr": "uygun mu?",
+     "cumle": 0
+    },
+    {
+     "ad": "Tablolar",
+     "tr": "bulguların özü",
+     "cumle": 1
+    },
+    {
+     "ad": "Yöntem",
+     "tr": "güvenilirlik",
+     "cumle": 2
+    }
+   ],
+   "alt": "Tartışma _en son_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Önce özete bakar ve makalenin sorusuna uygun olup olmadığına karar verir.",
+    "Ardından tablo ve şekilleri inceler; bulguların özü çoğu zaman oradadır.",
+    "Sonra yöntemi dikkatle okur; bulguların güvenilirliği buna bağlıdır.",
+    "Tartışma en son okunur; yazarın yorumu verilerle her zaman aynı değildir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D117",
+ "kaynak_baslik": "Bilimsel makale okumak"
+}

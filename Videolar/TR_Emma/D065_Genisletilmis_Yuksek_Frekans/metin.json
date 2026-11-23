@@ -1,0 +1,895 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D065_Genisletilmis_Yuksek_Frekans_TR",
+ "kapak": {
+  "ust": "DERS 65",
+  "baslik": "Genişletilmiş<br>*yüksek frekans*",
+  "alt": "8 ile 16 kHz arası odyometri",
+  "cizim": "odyometre",
+  "vurgula": [
+   "kulaklik"
+  ]
+ },
+ "youtube": {
+  "baslik": "Genişletilmiş Yüksek Frekans Odyometrisi (8-16 kHz) | Ders 65 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Sekiz bin hertzin üzerindeki frekansları neden ve nasıl test ederiz? Bu derste genişletilmiş yüksek frekans odyometrisinin koklear temelini, kulak çevreleyen kulaklık ve ISO 389-5 kalibrasyon gereksinimini, yaşın etkisini ve normatif verinin sınırlılıklarını, ototoksisite ve gürültü izlemindeki yerini ve test protokolünü öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ISO 389-5, Acoustics: Reference zero for the calibration of audiometric equipment, Part 5: Reference equivalent threshold sound pressure levels for pure tones in the frequency range 8 kHz to 16 kHz; Stelmachowicz ve ark. (1989), Normative thresholds in the 8- to 20-kHz range as a function of age, Journal of the Acoustical Society of America; ASHA (1994), Guidelines for the audiologic management of individuals receiving cochleotoxic drug therapy; American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "ototoksisite"
+  ],
+  "etiketler": [
+   "genişletilmiş yüksek frekans odyometrisi",
+   "extended high-frequency audiometry",
+   "EHF",
+   "ototoksisite izlemi",
+   "kulak çevreleyen kulaklık",
+   "circumaural earphone",
+   "ISO 389-5",
+   "saf ses odyometrisi",
+   "yüksek frekans işitme kaybı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 65",
+   "baslik": "Genişletilmiş *yüksek frekans*",
+   "alt": "8 ile 16 kHz arasında eşik ölçümü",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste sekiz bin hertzin üzerindeki frekansları ölçen genişletilmiş yüksek frekans odyometrisini öğreneceğiz.",
+    "Neden önemli olduğunu, hangi kulaklık ve kalibrasyonu gerektirdiğini, sınırlılıklarını ve klinikte nerede kullanıldığını göreceğiz."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden 8 kHz üstü?",
+   "baslik": "Odyogramın *dışında* kalan bölge",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 20,
+     "max": 20000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      20,
+      125,
+      250,
+      1000,
+      4000,
+      8000,
+      16000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "isitme_alani",
+      "x": [
+       20,
+       20000
+      ],
+      "renk": "gri",
+      "etiket": "genç kulağın işitme alanı",
+      "cumle": 1,
+      "opak": 0.06
+     },
+     {
+      "ad": "standart",
+      "x": [
+       250,
+       8000
+      ],
+      "renk": "mavi",
+      "etiket": "standart odyogram",
+      "cumle": 0,
+      "opak": 0.14
+     },
+     {
+      "ad": "ehf",
+      "x": [
+       8000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "genişletilmiş",
+      "cumle": 2,
+      "opak": 0.3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "test_frekanslari",
+      "x": [
+       9000,
+       16000
+      ],
+      "y": 3,
+      "etiket": "9 ile 16 kHz",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ehf",
+     "cumle": 2
+    },
+    {
+     "parca": "test_frekanslari",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Standart saf ses odyometrisi genellikle iki yüz elli ile sekiz bin hertz arasını test eder.",
+    "Oysa genç ve sağlıklı bir kulak yaklaşık yirmi hertzden yirmi kilohertze kadar duyabilir.",
+    "Sekiz bin hertzin üzerini test eden yönteme genişletilmiş yüksek frekans odyometrisi (extended high-frequency audiometry) denir.",
+    "Klinikte genellikle dokuz, on, on bir bin iki yüz, on iki bin beş yüz, on dört ve on altı bin hertz test edilir.",
+    "Bazı cihazlar yirmi kilohertze kadar çıkabilir; ama bu frekanslarda yetişkinlerde yanıt alınamaması sık görülür.",
+    "Bu frekanslar kokleanın en taban kısmında, oval pencereye en yakın bölgede işlenir."
+   ]
+  },
+  {
+   "id": "taban",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden 8 kHz üstü?",
+   "baslik": "Kokleanın *erken uyarı* bölgesi",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 8000
+   },
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 0,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 0
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Taban: en yüksek frekanslar",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İlaç, gürültü, yaş: _önce taban_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Değişiklik _odyogramdan önce_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Gürültüde anlamaya _katkı_",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "Kokleanın tabanı, yürüyen dalganın ilk geçtiği ve en yüksek frekanslara ayarlı bölgedir.",
+    "Bu bölge birçok zarara karşı en hassas bölgedir; ototoksik ilaçlar, gürültü ve yaşlanma çoğu zaman önce burayı etkiler.",
+    "Hasar çoğunlukla tabandan tepeye doğru ilerlediği için ilk değişiklikler standart odyogramdan önce sekiz kilohertzin üzerinde görülebilir.",
+    "Bu yüzden genişletilmiş yüksek frekanslar, kokleanın erken uyarı bölgesi gibi düşünülebilir.",
+    "Bu bölge konuşmayı anlamak için en kritik bölge değildir; ama gürültüde konuşmayı anlamaya katkı yaptığı bildirilmiştir.",
+    "Kulak kepçesinin yön bilgisi taşıyan spektral çentikleri de büyük ölçüde altı kilohertzin üzerindedir."
+   ]
+  },
+  {
+   "id": "kulaklik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Teknik gereksinimler",
+   "baslik": "Özel *kulaklık* ve kalibrasyon",
+   "maddeler": [
+    {
+     "metin": "Kısa dalga boyu: _duran dalgalar_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Küçük kayma, _büyük_ fark",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Kulak çevreleyen_ kulaklık",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kalibrasyon: _ISO 389-5_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Yalnız _hava yolu_",
+     "cumle": 6,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulaklik_yerlesimi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "ikisi",
+     "ustu_cumle": 0,
+     "cevreleyen_cumle": 3
+    },
+    "etiketler": [
+     {
+      "parca": "yastik",
+      "metin": "kepçeyi saran yastık",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kulak_cevreleyen",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Genişletilmiş yüksek frekanslar sıradan kulak üstü kulaklıklarla güvenilir biçimde ölçülemez.",
+    "Bu frekanslarda dalga boyu birkaç santimetreye iner ve kulak yolunda duran dalgalar oluşur.",
+    "Kulaklığın küçük bir kayması bile kulak zarına ulaşan ses basıncını belirgin biçimde değiştirebilir.",
+    "Bu yüzden çoğunlukla kulak kepçesini tümüyle saran, özel tasarlanmış kulak çevreleyen kulaklıklar (circumaural earphones) kullanılır.",
+    "Odyometre bu frekansları üretebilmeli ve o kulaklıkla bu frekanslar için kalibre edilmiş olmalıdır.",
+    {
+     "yazi": "Referans eşik değerleri ISO 389-5 standardında belirli kulak çevreleyen ve insert kulaklıklar için verilir.",
+     "ses": "Referans eşik değerleri iso üç yüz seksen dokuz beş standardında belirli kulak çevreleyen ve insert kulaklıklar için verilir."
+    },
+    "Bu frekanslarda kemik yolu ölçümü rutin değildir; test hava yoluyla yapılır."
+   ]
+  },
+  {
+   "id": "referans",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Teknik gereksinimler",
+   "baslik": "Sıfır desibel HL *neye* göre?",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kulaklığa özgü",
+     "metin": "Her tip için ayrı referans",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Referans yükselir",
+     "metin": "Frekansla artan ses basıncı",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Bazen dB SPL",
+     "metin": "Birimi kontrol edin",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Aynı düzen",
+     "metin": "Karşılaştırmanın şartı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Genişletilmiş yüksek frekanslarda eşikler yine desibel HL olarak yazılır; ama sıfır desibel HL kulaklığa göre tanımlanır.",
+    "Her kulaklık tipi için, normal işiten genç yetişkinlerin ortalama eşiğine karşılık gelen ses basıncı standartta verilir.",
+    "Bu referans değerler frekans yükseldikçe büyür; yani on altı kilohertzde sıfır desibel HL, oldukça yüksek bir ses basıncıdır.",
+    "Bazı araştırmalar eşikleri doğrudan desibel SPL olarak verir; farklı kaynakları karşılaştırırken birimi kontrol etmek gerekir.",
+    "Kısacası bu eşikler, ancak aynı kulaklık ve aynı referansla ölçüldüğünde birbiriyle karşılaştırılabilir."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Teknik gereksinimler",
+   "baslik": "Yaşın *güçlü* etkisi",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 8000,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      8000,
+      10000,
+      12500,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "genc",
+      "noktalar": [
+       [
+        8000,
+        5
+       ],
+       [
+        10000,
+        8
+       ],
+       [
+        11200,
+        10
+       ],
+       [
+        12500,
+        13
+       ],
+       [
+        14000,
+        20
+       ],
+       [
+        16000,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 2,
+      "etiket": "20-29 yaş",
+      "etiket_konum": [
+       16000,
+       30
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -16,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "orta",
+      "noktalar": [
+       [
+        8000,
+        15
+       ],
+       [
+        10000,
+        25
+       ],
+       [
+        11200,
+        32
+       ],
+       [
+        12500,
+        40
+       ],
+       [
+        14000,
+        55
+       ],
+       [
+        16000,
+        70
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "cumle": 3,
+      "etiket": "40-49 yaş",
+      "etiket_konum": [
+       16000,
+       70
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": -16,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "ileri",
+      "noktalar": [
+       [
+        8000,
+        35
+       ],
+       [
+        10000,
+        50
+       ],
+       [
+        11200,
+        60
+       ],
+       [
+        12500,
+        72
+       ],
+       [
+        14000,
+        85
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "cumle": 4,
+      "etiket": "60 yaş üstü",
+      "etiket_konum": [
+       10000,
+       50
+      ],
+      "etiket_dx": -14,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yanit_yok",
+      "x": 16000,
+      "y": 95,
+      "etiket": "yanıt yok",
+      "dx": -40,
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yayilim",
+      "x": [
+       12500,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "kişiler arası geniş fark",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "yayilim",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Genişletilmiş yüksek frekans eşikleri yaşla çok belirgin değişir.",
+    "Grafikteki eğriler temsilidir; farklı yaş gruplarında ortalama eşiklerin nasıl değiştiğini gösterir.",
+    "Genç yetişkinlerde eşikler on altı kilohertze kadar görece iyi kalabilir.",
+    "Otuzlu ve kırklı yaşlardan itibaren en yüksek frekanslarda eşikler hızla yükselir.",
+    "Altmış yaşın üzerinde ise en yüksek frekanslarda çoğu kişide cihaz sınırında bile yanıt alınamaz.",
+    "Aynı yaş grubunda bile kişiler arası fark çok büyüktür; yirmi, otuz desibellik farklar olağandır.",
+    "Bu nedenle normatif veriler sınırlıdır ve tek bir ölçümü normal ya da anormal diye sınıflamak zordur."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Teknik gereksinimler",
+   "baslik": "Yöntemin *sınırlılıkları*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Düşük çıkış",
+     "metin": "Orta kayıpta yanıt yok",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tekrar farkı",
+     "metin": "Standart frekanslardan büyük",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kulaklık farkı",
+     "metin": "Doğrudan karşılaştırılamaz",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kişisel etkenler",
+     "metin": "Kulak yolu, yerleşim",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Asıl güç",
+     "metin": "Zaman içindeki değişim",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Genişletilmiş yüksek frekans odyometrisinin bazı sınırlılıkları vardır.",
+    "Odyometrenin bu frekanslardaki en yüksek çıkışı düşüktür; orta derecede bir kayıpta bile yanıt alınamayabilir.",
+    "Aynı gün yapılan iki test arasındaki fark, standart frekanslara göre genellikle daha büyüktür.",
+    "Farklı kulaklık ve standartlarla elde edilen sonuçlar doğrudan karşılaştırılamaz.",
+    "Kulak yolunun boyutu ve kulaklığın yerleşimi gibi kişisel etkenler de sonucu değiştirebilir.",
+    "Bu yüzden yöntemin asıl gücü, aynı kişide zaman içindeki değişikliği izlemektir."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinik kullanım",
+   "baslik": "*Nerede* kullanılır?",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoksisite",
+     "metin": "En yerleşik kullanım",
+     "cumle": 0
+    },
+    {
+     "ikon": "fabrika",
+     "baslik": "Gürültü",
+     "metin": "Erken etki araştırılıyor",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "metin": "Normal odyogramda kayıp",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Gürültüde anlama",
+     "metin": "Yakınmayı açıklayabilir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Genişletilmiş yüksek frekans odyometrisinin en yerleşik kullanım alanı ototoksisite izlemidir.",
+    "Sisplatin ve aminoglikozid gibi ilaçların etkisi çoğu zaman önce en yüksek frekanslarda görülür.",
+    "Erken değişikliği yakalamak, tedavi ekibine konuşma frekansları etkilenmeden önce bilgi verme fırsatı sağlar.",
+    "Gürültüye maruz kalan kişilerde de bu frekanslarda eşik yükselmesi bildirilmiştir; ama bulgular tutarlı değildir.",
+    "Standart odyogramı normal olan tinnitus hastalarının bir kısmında genişletilmiş yüksek frekanslarda kayıp bulunabilir.",
+    "Odyogramı normal olduğu halde gürültüde konuşmayı anlamakta zorlanan kişilerde de bu frekanslarda kayıp bildirilmiştir.",
+    "Bu alanlarda yöntem tek başına tanı koydurmaz; ama yakınmayı açıklamaya ve izlemi planlamaya yardım eder."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinik kullanım",
+   "baslik": "Normal odyogram, *gizli* kayıp",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ],
+       [
+        10000,
+        35
+       ],
+       [
+        11200,
+        45
+       ],
+       [
+        12500,
+        55
+       ],
+       [
+        14000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       -10,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "normal",
+      "cumle": 1,
+      "opak": 0.1
+     },
+     {
+      "ad": "ehf",
+      "x": [
+       8000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "genişletilmiş",
+      "cumle": 2,
+      "opak": 0.2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yanit_yok",
+      "x": 16000,
+      "y": 90,
+      "etiket": "yanıt yok",
+      "dx": -40,
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ehf",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Bir örneğe bakalım; değerler öğretim amaçlıdır.",
+    "Bu kişinin iki yüz elli ile sekiz bin hertz arasındaki eşikleri normal sınırlarda.",
+    "Ancak on kilohertzden itibaren eşikler belirgin biçimde yükseliyor ve on altı kilohertzde yanıt alınamıyor.",
+    "Standart odyogramla bu kulak normal olarak raporlanırdı; genişletilmiş test ise taban bölgesindeki değişikliği gösteriyor.",
+    "Bu bulgunun kişinin yaşı için ne kadar beklenen olduğu, yaşa uygun verilerle ve dikkatle yorumlanır."
+   ]
+  },
+  {
+   "id": "protokol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinik kullanım",
+   "baslik": "Test *adımları*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Ön kontrol",
+     "metin": "Otoskopi, timpanometri",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Yerleşim",
+     "metin": "Kulağı tam sarsın",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "8 kHz köprüsü",
+     "metin": "İki kulaklıkla ölç",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Eşik",
+     "metin": "Kesik ton, 5 dB adım",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "metin": "Kulaklık ve yanıtsızlar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Genişletilmiş yüksek frekans testi, standart saf ses odyometrisiyle aynı ilkelerle yapılır.",
+    "Önce otoskopi ve timpanometri yapılır; buşon ya da orta kulak sorunu yüksek frekans eşiklerini de etkileyebilir.",
+    "Kulak çevreleyen kulaklık, kulağı tümüyle saracak biçimde, saç ve gözlük gibi engeller olmadan yerleştirilir.",
+    "Birçok protokolde sekiz bin hertz hem standart hem genişletilmiş kulaklıkla ölçülür; böylece iki ölçüm birbirine bağlanır.",
+    "Eşik alışılmış yöntemle, beş desibellik adımlarla bulunur; kesik ton, hastanın tinnitusla karıştırmasını azaltır.",
+    "Cihaz sınırında yanıt yoksa bu, ilgili sembolle ve verilen en yüksek düzey yazılarak kaydedilir.",
+    "Raporda kulaklık tipi ve cihaz belirtilir; izlemde her seferinde aynı düzen kullanılır."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinik kullanım",
+   "baslik": "Çocuklarda *izlem*",
+   "maddeler": [
+    {
+     "metin": "Onkoloji izleminde _değerli_",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Eşikler genellikle _daha iyi_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Önce _en önemli_ frekanslar",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Gerekirse _DPOAE_ ile izlem",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "oae",
+    "cumle": 3,
+    "ayar": {
+     "tur": "DPOAE"
+    }
+   },
+   "cumleler": [
+    "Genişletilmiş yüksek frekans testi çocuklarda da yapılabilir; özellikle onkoloji tedavisi gören çocukların izleminde değerlidir.",
+    "Çocuklarda bu frekanslardaki eşikler yetişkinlere göre genellikle daha iyidir; yaşa bağlı bozulma henüz başlamamıştır.",
+    "Ancak test uzun sürebilir ve dikkat çabuk dağılabilir; bu yüzden önce izlem için en önemli frekanslar test edilir.",
+    "Davranışsal yanıt güvenilir değilse distorsiyon ürünü otoakustik emisyon, kısaca DPOAE ile dış tüy hücresi işlevi izlenebilir.",
+    "Hangi yöntem seçilirse seçilsin, başlangıç ölçümünün tedaviden önce alınması izlemin temelidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Bir değişiklik gördüğünüzde kulaklığı yeniden yerleştirip o frekansları tekrar ölçün. Sınırda yanıt yoksa boş bırakmayın; en yüksek düzeyi ve yanıtsızlığı yazın.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: genişletilmiş yüksek frekanslarda tekrar test farkı büyüktür.",
+    "Bir değişiklik gördüğünüzde kulaklığı çıkarıp yeniden yerleştirin ve o frekansları tekrar ölçün.",
+    "Değişiklik ikinci ölçümde de sürüyorsa kaydedin; tek bir ölçüme dayanarak sonuç çıkarmayın.",
+    "Cihaz sınırında yanıt yoksa frekansı boş bırakmayın; verilen en yüksek düzeyi ve yanıt olmadığını açıkça yazın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Test aralığı: yaklaşık _9 ile 16 kHz_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kulak çevreleyen kulaklık, _ISO 389-5_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Yaş etkisi güçlü, _normlar sınırlı_",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Asıl güç: _izlem_, özellikle ototoksisite",
+     "cumle": 3,
+     "ikon": "ilac"
+    }
+   ],
+   "cumleler": [
+    "Genişletilmiş yüksek frekans odyometrisi sekiz bin hertzin üzerini, genellikle on altı kilohertze kadar test eder.",
+    "Bu test kulak çevreleyen özel kulaklık ve bu frekanslar için yapılmış bir kalibrasyon gerektirir.",
+    "Eşikler yaşla belirgin bozulur ve kişiler arası fark büyüktür; bu yüzden normatif veriler sınırlıdır.",
+    "Yöntemin asıl gücü, aynı kişide zaman içindeki değişikliği, özellikle ototoksisite izleminde erken yakalamaktır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Bu test için hangi kulaklık tercih edilir?",
+   "secenekler": [
+    "Kulak çevreleyen kulaklık",
+    "Kulak üstü kulaklık",
+    "Kemik vibratörü",
+    "Serbest alan hoparlörü"
+   ],
+   "dogru": 0,
+   "aciklama": "Kısa dalga boyunda yerleşim hatası büyür; _kulak çevreleyen_ kulaklık daha güvenilirdir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Genişletilmiş yüksek frekans odyometrisinde hangi kulaklık tipi tercih edilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: kulak çevreleyen kulaklık.",
+    "Bu frekanslarda dalga boyu çok kısadır; kulağı tümüyle saran kulaklık yerleşim hatalarını ve duran dalgaların etkisini azaltır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Dış kulak *hastalıkları*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste dış kulak hastalıklarına geçiyor; buşonu, otitis externayı ve ekzostozu göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

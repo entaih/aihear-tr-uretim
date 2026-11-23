@@ -1,0 +1,84 @@
+001 hızlı   aday=1 önek="Türkçe:" dil=tr:0.98 pencere=0.98 (small)  || okunan: Merhaba, Ey ay hiyır Odyoloji Akademisine hoş geldiniz.  || ref: -
+002 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Önceki derste desibelin logaritmik bir oran olduğunu gördük; bu derste desibellerle hesap yapmayı öğreneceğiz.  || ref: -
+003 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Sesleri toplamayı, gürültüyü ölçümden ayırmayı ve mesafenin ses düzeyini nasıl değiştirdiğini adım adım hesaplayacağız.  || ref: -
+004 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Desibeller logaritmik olduğu için düz toplanmaz; altmış ile altmışı topladığımızda yüz yirmi elde etmeyiz.  || ref: -
+005 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Toplanan şey desibeller değil, seslerin şiddetleri, yani enerjileridir.  || ref: -
+006 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bu yüzden önce her desibel değeri şiddet oranına çevrilir, şiddetler toplanır, sonra sonuç yeniden desibele çevrilir.  || ref: -
+007 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:1.00 pencere=0.86 (small)  || okunan: Bu yöntem birbirinden bağımsız kaynaklar için geçerlidir: iki makine, iki konuşmacı ya da iki ayrı gürültü gibi.  || ref: -
+008 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Böyle kaynakların dalgaları arasında sabit bir faz ilişkisi yoktur; buna eş fazlı olmayan toplama denir.  || ref: -
+009 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Gündelik hayattaki gürültülerin neredeyse tamamı bu şekilde toplanır.  || ref: -
+010 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: İki eşit kaynakla adım adım gidelim: her biri altmış desibel olsun.  || ref: -
+011 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.95 (small)  || okunan: Altmış desibel, referansın on üzeri altı, yani bir milyon katı şiddet demektir.  || ref: -
+012 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: İki kaynağın şiddetlerini toplarız: iki milyon kat.  || ref: -
+013 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: İki milyonun logaritması yaklaşık altı virgül üçtür; on ile çarpınca yaklaşık altmış üç desibel buluruz.  || ref: -
+014 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yani ikinci eşit kaynak yalnız yaklaşık üç desibel ekler; çünkü on çarpı ikinin logaritması yaklaşık üçtür.  || ref: -
+015 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Birden çok eşit kaynak için kısa bir kural var: toplam artış, on çarpı kaynak sayısının logaritmasıdır.  || ref: -
+016 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: İki eşit kaynak yaklaşık üç desibel artış verir.  || ref: -
+017 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Üç eşit kaynak yaklaşık dört virgül sekiz, dört eşit kaynak ise yaklaşık altı desibel artış verir.  || ref: -
+018 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.93 (small)  || okunan: On eşit kaynak on desibel, yüz eşit kaynak ise yirmi desibel artış demektir.  || ref: -
+019 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Örneğin her biri yetmiş desibel olan on makine birlikte yaklaşık seksen desibel gürültü üretir.  || ref: -
+020 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Kaynak sayısını iki katına çıkarmak her seferinde yalnız yaklaşık üç desibel ekler.  || ref: -
+021 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kaynaklar eşit değilse, toplam düzey iki kaynak arasındaki farka bağlıdır.  || ref: -
+022 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Grafikte yatay eksende iki kaynak arasındaki fark, dikey eksende yüksek kaynağa eklenecek miktar görülüyor.  || ref: -
+023 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.94 (small)  || okunan: Fark sıfırsa, yani kaynaklar eşitse eklenecek miktar üç desibeldir.  || ref: -
+024 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Fark altı desibel olduğunda eklenecek miktar yaklaşık bir desibele düşer.  || ref: -
+025 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.91 (small)  || okunan: Fark on desibel olduğunda ise yalnız yaklaşık sıfır virgül dört desibel eklenir.  || ref: -
+026 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Örneğin seksen ve yetmiş desibellik iki kaynak birlikte yaklaşık seksen virgül dört desibel verir; zayıf kaynak neredeyse fark edilmez.  || ref: -
+027 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Fark on beş desibeli aştığında zayıf kaynağın katkısı ihmal edilebilecek kadar küçüktür.  || ref: -
+028 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Klinikte ve sahada hızlı hesap için bu tablo işe yarar.  || ref: -
+029 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Önce iki düzey arasındaki farkı bulun, sonra tablodan eklenecek miktarı okuyup yüksek düzeye ekleyin.  || ref: -
+030 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Örneğin seksen beş ve seksen iki desibel: fark üç, eklenecek yaklaşık bir virgül sekiz; toplam yaklaşık seksen altı virgül sekiz desibel.  || ref: -
+031 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Üç ya da daha fazla kaynakta aynı işlem ikişer ikişer tekrarlanır.  || ref: -
+032 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Seksen beşer desibellik üç makinenin ikisi seksen sekiz eder; üçüncüsü eklenince yaklaşık seksen dokuz virgül sekiz desibel olur.  || ref: -
+033 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu sonuç, on log üç kuralıyla bulduğumuz yaklaşık dört virgül sekiz desibellik artışla aynıdır.  || ref: -
+034 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Bazen tersini yapmamız gerekir: bir ölçümden ortam gürültüsünün katkısını çıkarmak.  || ref: -
+035 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Diyelim ki bir makine çalışırken altmış beş, kapalıyken ortam gürültüsü altmış desibel ölçüldü.  || ref: -
+036 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Şiddetleri birbirinden çıkardığımızda makinenin tek başına düzeyi yaklaşık altmış üç virgül üç desibel çıkar.  || ref: -
+037 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Toplam ile ortam arasındaki fark on desibel ya da daha fazlaysa, ortam gürültüsünün etkisi yarım desibelden küçüktür.  || ref: -
+038 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Fark üç desibelden küçükse ölçüm güvenilir değildir; ortam gürültüsü sonucu belirgin biçimde etkiler.  || ref: -
+039 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Aynı mantık odyometri kabininde de geçerlidir: ortam gürültüsü düşük tutulmazsa en zayıf tonlar duyulamaz.  || ref: -
+040 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Aynı kaynaktan gelen iki özdeş sinyal ise farklı davranır.  || ref: -
+041 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Böyle iki sinyal eş fazlıysa, yani tepeleri aynı anda geliyorsa basınçlar toplanır ve basınç iki katına çıkar.  || ref: -
+042 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu durumda düzey üç değil, yaklaşık altı desibel artar.  || ref: -
+043 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Ters fazlı iki özdeş sinyal ise birbirini söndürür, çünkü birinin tepesi diğerinin çukuruna denk gelir.  || ref: -
+044 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Aktif gürültü engelleyici kulaklıklar bu ilkeyle çalışır; özellikle pes gürültüleri ters fazlı bir sinyalle azaltır.  || ref: -
+045 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Gerçek ortamlarda tam eş fazlı ya da tam ters fazlı durumlar seyrektir; bağımsız kaynaklarda üç desibel kuralı geçerlidir.  || ref: -
+046 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Önceki derslerde ters kare yasasını gördük: uzaklık iki katına çıkınca şiddet dörtte birine iner.  || ref: -
+047 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Şiddetin dörtte birine inmesi, on çarpı dörtte birin logaritması, yani yaklaşık eksi altı desibel demektir.  || ref: -
+048 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Aynı sonucu basınçtan da buluruz: basınç yarıya iner, yirmi çarpı yarımın logaritması da yaklaşık eksi altıdır.  || ref: -
+049 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.96 (small)  || okunan: Genel formül şudur: düzey değişimi, yirmi çarpı iki uzaklığın oranının logaritmasıdır.  || ref: -
+050 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Uzaklık dört katına çıkarsa düzey on iki, on katına çıkarsa yirmi desibel azalır.  || ref: -
+051 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Tersine, kaynağa yarı yarıya yaklaşmak düzeyi yaklaşık altı desibel artırır.  || ref: -
+052 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu hesap, bir nokta kaynak ve yansımasız bir serbest alan için geçerlidir.  || ref: -
+053 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir metre uzaktan altmış desibel es pi el olan bir konuşmacıyı düşünelim.  || ref: -
+054 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Serbest alanda iki metrede düzey yaklaşık elli dört, dört metrede yaklaşık kırk sekiz desibele iner.  || ref: -
+055 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Sekiz metrede ise yaklaşık kırk iki desibel kalır.  || ref: -
+056 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Yarım metreye yaklaştığımızda düzey yaklaşık altmış altı desibele çıkar.  || ref: -
+057 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Gerçek odalarda yansımalar nedeniyle düşüş bir noktadan sonra yavaşlar; bunu ilerideki derslerde kritik mesafe kavramıyla göreceğiz.  || ref: -
+058 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Yine de yaklaşmanın etkisi her ortamda belirgindir ve işitme kaybı olan biri için çok değerlidir.  || ref: -
+059 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Her kaynak bir nokta kaynak gibi davranmaz.  || ref: -
+060 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yoğun bir otoyol gibi uzun bir çizgi boyunca dizilmiş kaynaklarda ses silindir biçiminde yayılır.  || ref: -
+061 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Böyle bir çizgi kaynakta uzaklık iki katına çıktığında düzey yaklaşık üç desibel azalır.  || ref: -
+062 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Uzak mikrofon örneği ise çarpıcıdır: mikrofon konuşanın ağzına yaklaşık on beş santimetre uzaklıktadır.  || ref: -
+063 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: İki metre uzaktaki bir dinleyiciye göre bu, serbest alanda yaklaşık yirmi iki desibel daha güçlü bir sinyal demektir.  || ref: -
+064 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.96 (small)  || okunan: Bu kazanç, gürültülü bir sınıfta konuşmayı gürültünün üzerine çıkarmanın en etkili yollarından biridir.  || ref: -
+065 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Toplama kuralının en önemli uygulamalarından biri, gürültüye maruz kalma süresidir.  || ref: -
+066 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Üç desibellik artış, ses enerjisinin iki katına çıkması demektir.  || ref: -
+067 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu yüzden eşit enerji ilkesine göre gürültü üç desibel arttığında aynı dozu almak için süre yarıya iner.  || ref: -
+068 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Örneğin seksen beş desibel A gürültüde sekiz saat, seksen sekizde dört saat, doksan birde iki saat eşit doza karşılık gelir.  || ref: -
+069 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Türkiye'de ve Avrupa'da gürültü mevzuatı da bu üç desibellik değişim oranını kullanır.  || ref: -
+070 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Aynı ortamda iki eşit gürültülü makine çalışıyorsa düzey üç desibel artar ve eşit doz için süre yarıya iner.  || ref: -
+071 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Serbest alan testinde işe yarayan bir ipucu: hastanın başı, kalibrasyonun yapıldığı noktada olmalıdır.  || ref: -
+072 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bir metrede kalibre edilmiş bir hoparlörün yarım metre önüne oturan hasta, kuramsal olarak yaklaşık altı desibel daha yüksek ses alır.  || ref: -
+073 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Odadaki yansımalar nedeniyle gerçek fark biraz daha küçük olabilir, ama eşikler yine de yanlış çıkar.  || ref: -
+074 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Sandalyenin yerini zemine işaretlemek bu hatayı önlemenin basit bir yoludur.  || ref: -
+075 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Bağımsız seslerde desibeller değil şiddetler toplanır; sonra sonuç yeniden desibele çevrilir.  || ref: -
+076 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: İki eşit kaynak yaklaşık üç, on eşit kaynak on desibel artış verir.  || ref: -
+077 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kaynaklar arasındaki fark on desibele ulaştığında zayıf kaynak toplamı yalnız yaklaşık sıfır virgül dört desibel artırır.  || ref: -
+078 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Serbest alanda bir nokta kaynaktan uzaklık iki katına çıkınca düzey yaklaşık altı desibel azalır.  || ref: -
+079 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Kendinizi test edin: bir metrede yetmiş desibel es pi el olan bir nokta kaynak, serbest alanda dört metrede kaç desibel olur?  || ref: -
+080 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Doğru cevap B: yaklaşık elli sekiz desibel es pi el.  || ref: -
+081 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Uzaklık dört katına çıkınca düzey yirmi çarpı dördün logaritması, yani yaklaşık on iki desibel azalır.  || ref: -
+082 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.92 (small)  || okunan: Bir sonraki derste sesi elektriğe, elektriği yeniden sese çeviren transdüserleri, yani mikrofon ve hoparlörleri tanıyacağız.  || ref: -
+083 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!  || ref: -
+== D014_Desibel_Hesaplari bitti

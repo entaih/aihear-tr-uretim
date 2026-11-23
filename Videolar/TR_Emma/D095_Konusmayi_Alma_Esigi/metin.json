@@ -1,0 +1,658 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D095_Konusmayi_Alma_Esigi_TR",
+ "kapak": {
+  "ust": "DERS 95",
+  "baslik": "*SRT*<br>nasıl bulunur?",
+  "alt": "Konuşmayı alma eşiği adım adım",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Konuşmayı Alma Eşiği (SRT) Nasıl Bulunur? | Ders 95 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Konuşmayı alma eşiği (SRT), kelimelerin yüzde ellisinin doğru tekrarlandığı en düşük düzeydir ve saf ses eşiklerinin çapraz kontrolünde kullanılır. Bu derste spondee kelimeleri, tanıştırma aşamasını, ASHA'nın azalan yöntemini, örnek bir SRT hesabını ve SRT ile saf ses ortalaması (PTA) uyumunu inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ASHA, Guidelines for Determining Threshold Level for Speech; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin ve Clark, Introduction to Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "konuşmaodyometrisi",
+   "SRT"
+  ],
+  "etiketler": [
+   "SRT",
+   "konuşmayı alma eşiği",
+   "speech recognition threshold",
+   "konuşma odyometrisi",
+   "spondee",
+   "tanıştırma",
+   "saf ses ortalaması",
+   "PTA",
+   "SRT PTA uyumu",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 95",
+   "baslik": "Konuşmayı alma eşiği: *SRT*",
+   "alt": "Spondee kelimeler, tanıştırma ve SRT ile PTA uyumu",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste konuşmayı alma eşiğinin, yani SRT'nin nasıl bulunduğunu adım adım öğreneceğiz.",
+    "Kelime seçimini, tanıştırma aşamasını ve sonucun saf ses ortalamasıyla nasıl karşılaştırıldığını göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve materyal",
+   "baslik": "SRT *nedir?*",
+   "maddeler": [
+    {
+     "metin": "_Konuşmayı alma eşiği_ (speech recognition threshold)",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Kelimelerin _yüzde 50'si_ doğru",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Birimi: _dB HL_, her kulak ayrı",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Saf ses eşiklerinin _çapraz kontrolü_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SRT",
+    "metin": "İki heceli kelimelerin *yarısının* doğru tekrarlandığı en düşük düzey",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Konuşmayı alma eşiği (speech recognition threshold), kısaca SRT, konuşma odyometrisinin temel eşik ölçümüdür.",
+    "SRT, kişinin test kelimelerinin yüzde ellisini doğru tekrar edebildiği en düşük şiddet düzeyidir.",
+    "Eski kaynaklarda aynı ölçüm speech reception threshold adıyla da geçer.",
+    "Sonuç, saf ses eşikleri gibi desibel HL olarak ve her kulak için ayrı kaydedilir.",
+    "SRT'nin en önemli görevi, saf ses eşiklerinin güvenilirliğini kontrol etmektir.",
+    "Ayrıca kelime tanıma testinin hangi düzeyde yapılacağını belirlemek için de kullanılır."
+   ]
+  },
+  {
+   "id": "spondee",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve materyal",
+   "baslik": "Spondee *kelimeler*",
+   "maddeler": [
+    {
+     "metin": "_Spondee_ (eşit vurgulu iki heceli kelime)",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Kelimeler _eşit_ tanınır",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Eşik çevresinde _dik_ performans eğrisi",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Türkçede _üç heceli_ kelime listeleri",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "SRT'de spondee, yani eşit vurgulu iki heceli kelimeler kullanılır.",
+    "Bu kelimelerde iki hece de benzer vurgu ve şiddetle söylenir.",
+    "Listedeki kelimeler, yaklaşık aynı şiddet düzeyinde tanınmaya başlayacak biçimde seçilir.",
+    "Bu sayede şiddet biraz değiştiğinde doğru yanıt oranı hızla değişir ve eşik net biçimde bulunur.",
+    "Türkçenin vurgu yapısı farklı olduğu için, yaygın Türkçe listeler eşit tanınırlığa göre seçilmiş üç heceli kelimelerden oluşur.",
+    "Türkçe konuşma test materyallerini ayrı bir derste ayrıntılı olarak ele alacağız."
+   ]
+  },
+  {
+   "id": "duzenek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve materyal",
+   "baslik": "Test *düzeneği*",
+   "cizim": "odyometre",
+   "vurgula": [
+    {
+     "parca": "cihaz",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "odyometre: konuşma kanalı",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "kulaklık: her kulak ayrı",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "SRT'de buton yerine sözel yanıt",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Canlı ses ya da kayıtlı kaynak",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Konuşma kanalı da kalibre edilir",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Konuşma testleri, odyometrenin konuşma kanalı üzerinden yapılır.",
+    "Bu kanala mikrofon ile canlı ses ya da kayıtlı bir kaynak bağlanır.",
+    "Kelimeler hastaya kulaklıkla, her kulağa ayrı ayrı verilir.",
+    "Hastanın sözel yanıtını odyolog, kabindeki geri dinleme mikrofonu aracılığıyla duyar.",
+    "Bu yüzden SRT'de hasta butonu yerine hastanın kelimeyi tekrar etmesi kullanılır.",
+    "Konuşma kanalının kalibrasyonu da saf ses kanalı gibi düzenli olarak kontrol edilmelidir."
+   ]
+  },
+  {
+   "id": "tanistirma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hazırlık",
+   "baslik": "*Tanıştırma* aşaması",
+   "maddeler": [
+    {
+     "metin": "_Tanıştırma_ (familiarization)",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Kelimeler rahat düzeyde _önceden_ tanıtılır",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Tanınmayan kelime _listeden çıkar_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Talimat: tekrar et, _tahmin et_",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Teste başlamadan önce tanıştırma (familiarization) aşaması yapılır.",
+    "Bu aşamada kelime listesi hastaya rahat duyacağı bir düzeyde, sözlü ya da yazılı olarak tanıtılır.",
+    "Hastanın tanımadığı ya da doğru tekrar edemediği kelimeler listeden çıkarılır.",
+    "Tanıştırma, kelime bilgisinden kaynaklanan hataları azaltır ve eşiğin daha güvenilir olmasını sağlar.",
+    "Bu nedenle Amerikan Konuşma Dil İşitme Derneğinin, kısaca ASHA'nın kılavuzu da tanıştırma aşamasını önerir.",
+    "Talimat da açık olmalıdır: hastadan duyduğu kelimeyi tekrar etmesi, emin değilse tahmin etmesi istenir.",
+    "Konuşamayan hastalarda ya da küçük çocuklarda tekrar etmek yerine resim gösterme yanıtı kullanılabilir."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "YANIT",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Tekrar etme",
+      "metin": "Duyduğu kelimeyi söyler",
+      "cumle": 5
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "Resim gösterme",
+      "metin": "Küçük çocuk, konuşamayan hasta",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "sunum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hazırlık",
+   "baslik": "Sunum *biçimi*",
+   "maddeler": [
+    {
+     "metin": "Kayıtlı ses ya da _canlı ses_",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Canlı seste _VU metre_ izlenir",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Kulaklıkla, _her kulak ayrı_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Gerekirse karşı kulağa _maskeleme_",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Kelimeler kayıtlı materyalden ya da odyoloğun mikrofondan okumasıyla, yani canlı sesle verilebilir.",
+    "Kayıtlı materyal daha standarttır; canlı ses ise daha esnek ve hızlıdır.",
+    "Canlı seste her kelimenin şiddeti, odyometredeki VU metre izlenerek sabit tutulmaya çalışılır.",
+    "Konuşmacı da kelimeleri doğal ve aynı tonlamayla söylemeye özen gösterir.",
+    "Test kulaklıkla, her kulak için ayrı yapılır.",
+    "Sunum düzeyi karşı kulağa geçebilecek kadar yüksekse, karşı kulağa konuşma gürültüsü ile maskeleme yapılır."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SUNUM",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Kayıtlı materyal",
+      "metin": "Daha standart",
+      "cumle": 1
+     },
+     {
+      "ikon": "mikrofon",
+      "baslik": "Canlı ses",
+      "metin": "Daha esnek ve hızlı",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "yontem",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yöntem",
+   "baslik": "ASHA *azalan* yöntemi",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ön aşama",
+     "metin": "10 dB adımlarla in",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "İki kaçırma",
+     "metin": "10 dB üstten başla",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Test aşaması",
+     "metin": "Her 5 dB'de 5 kelime",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Durdur",
+     "metin": "Son 6 kelimeden 5'i yanlış",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "ASHA'nın önerdiği azalan yöntemde, ilk kelime tahmini eşiğin yaklaşık otuz ile kırk desibel üzerinde verilir.",
+    "Hasta doğru tekrar ettikçe şiddet on desibellik adımlarla azaltılır.",
+    "Aynı düzeyde iki kelime art arda kaçırıldığında, bu düzeyin on desibel üzeri test aşamasının başlangıç düzeyi olur.",
+    "Test aşamasında her beş desibellik adımda beş kelime verilir ve doğru sayısı kaydedilir.",
+    "Hasta son altı kelimeden beşini yanlış yanıtlayınca test durdurulur.",
+    "Bu yöntemin, iki desibellik adımlarla her adımda iki kelime veren bir biçimi de vardır."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yöntem",
+   "baslik": "Örnek *hesaplama*",
+   "sutunlar": [
+    "Düzey (dB HL)",
+    "Doğru (5 kelime)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "40",
+      "5"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "35",
+      "5"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "30",
+      "4"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "25",
+      "2"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "20",
+      "0"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "SRT",
+      "26 dB HL"
+     ],
+     "cumle": 6,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Bir örnek çalışalım: test aşaması kırk desibelde başlıyor ve hasta beş kelimenin beşini de doğru tekrar ediyor.",
+    "Otuz beş desibelde yine beşte beş doğru.",
+    "Otuz desibelde beş kelimenin dördü doğru.",
+    "Yirmi beş desibelde yalnız iki doğru yanıt var.",
+    "Yirmi desibelde hiç doğru yanıt yok; son altı kelimeden en az beşi yanlış olduğu için test burada durur.",
+    "Hesap şöyle: başlangıç düzeyi kırk, toplam doğru sayısı on altı ve beş desibellik adım için düzeltme iki.",
+    "SRT, kırk eksi on altı artı iki, yani yirmi altı desibel HL olur."
+   ]
+  },
+  {
+   "id": "formul",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yöntem",
+   "baslik": "Formül ve *alternatifler*",
+   "maddeler": [
+    {
+     "metin": "SRT: başlangıç eksi doğru artı _düzeltme_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "5 dB adımda düzeltme: _2_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "2 dB adımda düzeltme: _1_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Artan yöntemler de _kullanılabilir_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Genel formül şudur: başlangıç düzeyinden toplam doğru sayısı çıkarılır ve düzeltme faktörü eklenir.",
+    "Düzeltme faktörü, beş desibellik adımlarda iki, iki desibellik adımlarda birdir.",
+    "Bu hesap, yüzde elli doğru yanıt noktasının istatistiksel bir tahminidir.",
+    "Bazı klinikler, saf ses eşiğine benzer biçimde artan adımlarla ilerleyen yöntemler de kullanır.",
+    "Hangi yöntem seçilirse seçilsin, aynı klinikte tutarlı biçimde uygulanması önemlidir."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "SRT ve PTA",
+   "baslik": "SRT ile PTA *uyumu*",
+   "maddeler": [
+    {
+     "metin": "_PTA_: 500, 1000, 2000 Hz ortalaması",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Beklenen fark: _10 dB_ içinde",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Örnek: PTA 27, SRT _26_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "SDT, SRT'den _8 ile 10 dB_ iyi",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        25,
+        30,
+        40,
+        45
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "SRT, saf ses ortalaması ile karşılaştırılır; bu ortalamaya pure tone average, kısaca PTA denir.",
+    "PTA genellikle beş yüz, bin ve iki bin hertz eşiklerinin ortalamasıdır.",
+    "İki değer arasındaki fark genellikle artı eksi on desibel içinde kalır ve çoğu hastada daha da küçüktür.",
+    "Bu örnekte sağ kulakta PTA yaklaşık yirmi yedi, SRT ise yirmi altı desibel HL; iki değer uyumlu.",
+    "Uyum, saf ses eşiklerinin ve konuşma eşiğinin birbirini doğruladığını gösterir.",
+    "Konuşmayı fark etme eşiği, yani SDT ise genellikle SRT'den yaklaşık sekiz ile on desibel daha iyidir."
+   ]
+  },
+  {
+   "id": "uyumsuz",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "SRT ve PTA",
+   "baslik": "Uyumsuzluğun *olası nedenleri*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "SRT belirgin iyi",
+     "metin": "İşlevsel işitme kaybı olasılığı",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "SRT biraz iyi",
+     "metin": "Dik eğimli odyogram",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "SRT daha kötü",
+     "metin": "Dil ya da biliş",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Her iki yönde",
+     "metin": "Talimat ya da kalibrasyon",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "SRT, PTA'dan belirgin biçimde daha iyiyse, akla gelen önemli bir olasılık işlevsel, yani organik olmayan işitme kaybıdır.",
+    "Bu kişiler saf seslerde eşiklerini yüksek gösterebilir, ama konuşmayı beklenenden çok daha düşük düzeyde tekrar edebilir.",
+    "Dik eğimli bir odyogramda da SRT, üç frekanslı PTA'dan daha iyi çıkabilir.",
+    "Bu durumda SRT, bu üç frekanstan en iyi iki eşiğin ortalamasıyla daha iyi uyuşur; buna Fletcher ortalaması denir.",
+    "SRT, PTA'dan belirgin biçimde kötüyse dil farklılığı, bilişsel güçlük ya da konuşmayı anlamayı bozan bir sorun düşünülebilir.",
+    "Her iki yönde de önce talimatın anlaşıldığını ve cihazın doğru çalıştığını kontrol etmek gerekir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "SRT ile PTA arasında 10 dB'den büyük fark varsa raporu yazmadan önce talimatı yineleyin ve saf ses eşiklerini yeniden kontrol edin.",
+   "cumleler": [
+    "Sahada çok işe yarayan bir alışkanlık önerelim.",
+    "SRT sonucunu, hasta henüz kabindeyken PTA ile karşılaştırın.",
+    "Fark on desibelden büyükse, raporu yazmadan önce talimatı yineleyin ve saf ses eşiklerini yeniden kontrol edin.",
+    "Birçok güvenilirlik sorunu, bu basit karşılaştırma ile test bitmeden yakalanır.",
+    "İşlevsel kayıp şüphesinde bazı klinisyenler, SRT'yi saf ses testinden önce yapmayı tercih eder."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "SRT ve PTA",
+   "baslik": "SRT *ne işe yarar?*",
+   "maddeler": [
+    {
+     "metin": "Saf ses eşiklerini _doğrulama_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kelime tanıma için _sunum düzeyi_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Zor test edilen hastalarda _fikir_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Serbest alanda _cihazlı_ karşılaştırma",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "SRT'nin ilk kullanım alanı, saf ses eşiklerini doğrulamaktır.",
+    "İkincisi, kelime tanıma testinin sunum düzeyini belirlemektir; bu düzey çoğu zaman SRT'nin otuz ile kırk desibel üzerinde seçilir.",
+    "Saf ses testine güvenilir yanıt veremeyen bazı hastalarda, konuşma eşiği işitme düzeyi hakkında fikir verebilir.",
+    "Örneğin küçük çocuklarda resim gösterme yanıtıyla bulunan konuşma eşiği değerli bir bilgidir.",
+    "Serbest alanda ölçülen konuşma eşiği, cihazlı ve cihazsız işitmeyi karşılaştırmak için de kullanılabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "SRT: kelimelerin _yüzde 50'si_ doğru",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Spondee_ kelimeler ve tanıştırma",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Başlangıç eksi doğru _artı düzeltme_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "PTA ile fark _yaklaşık 10 dB_ içinde",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "SRT, test kelimelerinin yüzde ellisinin doğru tekrarlandığı en düşük düzeydir.",
+    "Testte eşit tanınan kelimeler kullanılır, Türkçede üç heceli; önce tanıştırma aşaması yapılır.",
+    "ASHA yönteminde SRT, başlangıç düzeyinden doğru sayısı çıkarılıp düzeltme faktörü eklenerek hesaplanır.",
+    "SRT ile PTA genellikle on desibel içinde uyuşur; büyük fark, sonucun yeniden kontrolünü gerektirir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Başlangıç 50 dB, toplam doğru 18, adım 5 dB. SRT kaçtır?",
+   "secenekler": [
+    "32 dB HL",
+    "34 dB HL",
+    "36 dB HL",
+    "50 dB HL"
+   ],
+   "dogru": 1,
+   "aciklama": "50 eksi 18 artı 2 = 34; beş desibellik adımda _düzeltme faktörü 2_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Başlangıç düzeyi elli desibel, toplam doğru sayısı on sekiz ve adım beş desibel. SRT kaçtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: otuz dört desibel HL.",
+    "Elli eksi on sekiz artı iki, otuz dört eder; beş desibellik adımda düzeltme faktörü ikidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Kelime tanıma *skoru*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, eşik üstü bir test olan kelime tanıma skorunun nasıl ölçüldüğünü öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

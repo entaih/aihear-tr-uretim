@@ -1,0 +1,969 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D098_Performans_Siddet_Rollover_TR",
+ "kapak": {
+  "ust": "DERS 98",
+  "baslik": "Performans eğrisi<br>ve *rollover*",
+  "alt": "PBmax ve rollover indeksi",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 30,
+    "max": 100,
+    "adim": 10,
+    "ad": "Düzey (dB HL)"
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 25,
+    "ad": "Skor (%)"
+   },
+   "seriler": [
+    {
+     "ad": "retro",
+     "noktalar": [
+      [
+       40,
+       2
+      ],
+      [
+       50,
+       22
+      ],
+      [
+       60,
+       55
+      ],
+      [
+       70,
+       80
+      ],
+      [
+       80,
+       60
+      ],
+      [
+       90,
+       36
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Performans-Şiddet Fonksiyonu ve Rollover | Ders 98 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kelime tanıma skorunu tek bir düzeyde değil, birkaç düzeyde ölçtüğümüzde performans-şiddet fonksiyonu elde ederiz. Bu derste PI-PB eğrisinin nasıl çizildiğini, normal, iletim tipi, koklear ve retrokoklear eğri biçimlerini, PBmax ve rollover indeksinin hesaplanmasını ve bu bulguların bugünkü klinik yerini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jerger J ve Jerger S (1971), Diagnostic significance of PB word functions, Archives of Otolaryngology; Dubno ve ark. (1995), Confidence limits for maximum word-recognition scores, Journal of Speech and Hearing Research; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "konuşmaodyometrisi",
+   "rollover"
+  ],
+  "etiketler": [
+   "performans-şiddet fonksiyonu",
+   "PI-PB",
+   "PBmax",
+   "rollover",
+   "rollover indeksi",
+   "kelime tanıma skoru",
+   "retrokoklear",
+   "konuşma odyometrisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 98",
+   "baslik": "Performans eğrisi ve *rollover*",
+   "alt": "PI-PB eğrisi, PBmax ve rollover indeksi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste kelime tanıma skorunu birkaç düzeyde ölçerek performans-şiddet fonksiyonunu çizmeyi öğreneceğiz.",
+    "En yüksek skoru, rollover kavramını ve rollover indeksinin hesaplanmasını örneklerle göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "PI fonksiyonu",
+   "baslik": "Performans-şiddet *fonksiyonu*",
+   "maddeler": [
+    {
+     "metin": "Skorun _sunum düzeyine_ göre değişimi",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "PB kelimelerle: _PI-PB_ eğrisi",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Tek düzey _en iyi skoru_ kaçırabilir",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "En yüksek skor: _PBmax_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PI-PB",
+    "metin": "Kelime tanıma skorunun *düzeye göre* çizilen eğrisi",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Performans-şiddet fonksiyonu (performance-intensity function), konuşma skorunun sunum düzeyine göre nasıl değiştiğini gösteren eğridir.",
+    {
+     "yazi": "Fonetik dengeli, yani PB kelime listeleriyle çizildiğinde bu eğriye PI-PB eğrisi denir.",
+     "ses": "Fonetik dengeli, yani pe be kelime listeleriyle çizildiğinde bu eğriye pe ı pe be eğrisi denir."
+    },
+    "Önceki derslerde kelime tanıma skorunu genellikle tek bir düzeyde ölçtük.",
+    "Ancak tek bir düzeyde alınan skor, kişinin ulaşabileceği en iyi skor olmayabilir; özellikle eğimli kayıplarda.",
+    {
+     "yazi": "Eğri üzerindeki en yüksek skora PBmax denir; kişinin bu listeyle ulaşabildiği en iyi kelime tanıma düzeyidir.",
+     "ses": "Eğri üzerindeki en yüksek skora pe be maks denir; kişinin bu listeyle ulaşabildiği en iyi kelime tanıma düzeyidir."
+    },
+    "Eğrinin biçimi ise yüksek düzeylerde skorun korunup korunmadığını gösterir."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "PI fonksiyonu",
+   "baslik": "Eğri *nasıl* çizilir?",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "SRT'yi bul",
+     "metin": "Başlangıç noktası",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "İlk düzey",
+     "metin": "Rahat duyulan düzey",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Düzeyi artır",
+     "metin": "10 ile 20 dB adım",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Üst düzey",
+     "metin": "UCL'nin altında kal",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Maskele",
+     "metin": "Karşı kulağa konuşma gürültüsü",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Önce her kulak için konuşmayı alma eşiği, yani SRT bulunur; eğri bu eşiğin üzerindeki düzeylerde çizilir.",
+    "İlk kelime listesi rahat duyulan bir düzeyde, örneğin SRT'nin otuz ile kırk desibel üzerinde verilir.",
+    "Sonra düzey on ile yirmi desibellik adımlarla artırılır ve her düzeyde yeni bir liste kullanılır.",
+    "Her düzeyde doğru kelime yüzdesi kaydedilir ve noktalar birleştirilir.",
+    "En yüksek düzey, rahatsız edici ses düzeyinin, yani UCL'nin altında kalır; bazı çalışmalar UCL'nin yaklaşık beş desibel altını önerir.",
+    "Yüksek düzeylerde karşı kulağa konuşma gürültüsüyle maskeleme hemen her zaman gerekir.",
+    "Pratikte birçok klinik, önce yüksek bir düzeyde ölçüp skor düşükse ek düzeylere geçen kısa bir yol izler."
+   ]
+  },
+  {
+   "id": "normal_iletim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Eğri biçimleri",
+   "baslik": "Normal ve *iletim tipi* eğri",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Sunum düzeyi (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Kelime tanıma (%)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        2
+       ],
+       [
+        10,
+        20
+       ],
+       [
+        15,
+        45
+       ],
+       [
+        20,
+        70
+       ],
+       [
+        25,
+        88
+       ],
+       [
+        30,
+        96
+       ],
+       [
+        40,
+        100
+       ],
+       [
+        100,
+        100
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "etiket": "normal",
+      "etiket_konum": [
+       40,
+       100
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "iletim",
+      "noktalar": [
+       [
+        40,
+        2
+       ],
+       [
+        50,
+        20
+       ],
+       [
+        55,
+        45
+       ],
+       [
+        60,
+        70
+       ],
+       [
+        65,
+        88
+       ],
+       [
+        70,
+        96
+       ],
+       [
+        80,
+        100
+       ],
+       [
+        100,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "iletim tipi",
+      "etiket_konum": [
+       80,
+       100
+      ],
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayma",
+      "x": [
+       15,
+       55
+      ],
+      "y": 45,
+      "etiket": "yaklaşık 40 dB kayma",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: hızla yükselir, yüzde 100'e ulaşır",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "İletim: aynı biçim, sağa kaymış",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Yeterli düzeyde skor yine yüksek",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Normal işiten bir kişide eğri, SRT'nin hemen üzerinden itibaren hızla yükselir.",
+    "Skor genellikle SRT'nin yaklaşık otuz ile kırk desibel üzerinde yüzde yüze yakın bir düzeye ulaşır.",
+    "Daha yüksek düzeylerde skor bu tepe düzeyinde kalır ve eğri düz bir plato çizer.",
+    "İletim tipi kayıpta eğrinin biçimi değişmez; yalnızca kayıp kadar sağa, yani daha yüksek düzeylere kayar.",
+    "Bu örnekte kırk desibellik bir iletim kaybı, eğriyi yaklaşık kırk desibel sağa taşıyor.",
+    "Ses yeterince yükseltildiğinde koklea sağlam olduğu için skor yine yüzde yüze yaklaşır."
+   ]
+  },
+  {
+   "id": "koklear_retro",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Eğri biçimleri",
+   "baslik": "Koklear ve *retrokoklear* eğri",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 30,
+     "max": 100,
+     "adim": 10,
+     "ad": "Sunum düzeyi (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Kelime tanıma (%)"
+    },
+    "seriler": [
+     {
+      "ad": "koklear",
+      "noktalar": [
+       [
+        40,
+        2
+       ],
+       [
+        50,
+        20
+       ],
+       [
+        60,
+        50
+       ],
+       [
+        70,
+        74
+       ],
+       [
+        80,
+        80
+       ],
+       [
+        90,
+        78
+       ],
+       [
+        100,
+        76
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "koklear",
+      "etiket_konum": [
+       100,
+       76
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "retrokoklear",
+      "noktalar": [
+       [
+        40,
+        2
+       ],
+       [
+        50,
+        22
+       ],
+       [
+        60,
+        55
+       ],
+       [
+        70,
+        80
+       ],
+       [
+        80,
+        60
+       ],
+       [
+        90,
+        36
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "retrokoklear",
+      "etiket_konum": [
+       90,
+       36
+      ],
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dusus",
+      "x": 90,
+      "y": 36,
+      "dus": "x",
+      "etiket": "rollover",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Koklear: tepe düşük, plato korunur",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Retrokoklear: yüksek düzeyde belirgin düşüş",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Bu düşüşe _rollover_ denir",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Koklear kayıpta eğri sağa kayar ve çoğu zaman yüzde yüze ulaşmaz.",
+    "Tepe skoru, kaybın derecesi arttıkça düşme eğilimindedir; tepeden sonra skor genellikle aşağı yukarı korunur.",
+    "Koklear kayıplarda yüksek düzeylerde birkaç puanlık hafif bir düşüş de görülebilir.",
+    "Retrokoklear, yani koklea sonrası bir sorunda ise skor tepe noktasından sonra, düzey arttıkça belirgin biçimde düşebilir.",
+    "Yüksek düzeylerde skorun bu şekilde düşmesine rollover denir.",
+    "Bu örnekte skor yetmiş desibelde yüzde seksenle tepe yapıyor, doksan desibelde ise yüzde otuz altıya iniyor.",
+    "Bu tür bir düşüş, işitme sinirinin yüksek düzeylerde bilgiyi tutarlı iletemediğini düşündürür."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Eğri biçimleri",
+   "baslik": "Dört eğri, *dört ipucu*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal",
+     "metin": "Hızlı yükselir, yüzde 100",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "İletim tipi",
+     "metin": "Sağa kayar, tepe yüksek",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Koklear",
+     "metin": "Tepe düşebilir, plato korunur",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Retrokoklear",
+     "metin": "Belirgin rollover",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Normal eğri hızla yükselir ve yüzde yüze yakın bir platoya ulaşır.",
+    "İletim tipi kayıpta eğri sağa kayar, ama tepe yine yüksektir.",
+    "Koklear kayıpta eğri sağa kayar, tepe kaybın derecesine göre düşebilir ve yüksek düzeylerde büyük ölçüde korunur.",
+    "Retrokoklear patolojide ise yüksek düzeylerde belirgin bir rollover görülebilir.",
+    "Bu biçimler birer ipucudur; tek başına tanı koydurmaz, diğer testlerle birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "indeks",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rollover indeksi",
+   "baslik": "Rollover *indeksi*",
+   "maddeler": [
+    {
+     "metin": "_PBmax_: eğrideki en yüksek skor",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_PBmin_: PBmax düzeyinin üstündeki en düşük skor",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "İndeks: fark bölü _PBmax_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Oran kullanmak _gruplara göre_ daha ayırt edici",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FORMÜL",
+    "metin": "Rollover indeksi = (PBmax eksi PBmin) / *PBmax*",
+    "cumle": 2
+   },
+   "cumleler": [
+    {
+     "yazi": "Rollover indeksini hesaplamak için önce eğrideki en yüksek skor, yani PBmax bulunur.",
+     "ses": "Rollover indeksini hesaplamak için önce eğrideki en yüksek skor, yani pe be maks bulunur."
+    },
+    {
+     "yazi": "Sonra PBmax'ın elde edildiği düzeyin üzerindeki düzeylerde alınan en düşük skor, yani PBmin belirlenir.",
+     "ses": "Sonra pe be maksın elde edildiği düzeyin üzerindeki düzeylerde alınan en düşük skor, yani pe be min belirlenir."
+    },
+    {
+     "yazi": "Rollover indeksi (rollover index), iki skor arasındaki farkın PBmax'a bölünmesiyle bulunur.",
+     "ses": "Rollover indeksi, iki skor arasındaki farkın pe be maksa bölünmesiyle bulunur."
+    },
+    "İndeks sıfırla bir arasında bir değerdir; sıfır hiç düşüş olmadığını, büyük değerler belirgin düşüşü gösterir.",
+    {
+     "yazi": "Jerger ve Jerger 1971 yılında, farkı oran olarak ifade etmenin koklear ve retrokoklear grupları daha iyi ayırdığını gösterdi.",
+     "ses": "Cerger ve Cerger bin dokuz yüz yetmiş bir yılında, farkı oran olarak ifade etmenin koklear ve retrokoklear grupları daha iyi ayırdığını gösterdi."
+    },
+    "Örneğin yirmi puanlık bir düşüş, yüzde yüzden başlayınca küçük, yüzde kırktan başlayınca çok büyük bir kayıptır."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rollover indeksi",
+   "baslik": "Örnek *hesap*",
+   "sutunlar": [
+    "Düzey (dB HL)",
+    "Skor (%)",
+    "Not"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "50",
+      "22",
+      "-"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "60",
+      "55",
+      "-"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "70",
+      "80",
+      "PBmax"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "80",
+      "60",
+      "-"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "90",
+      "36",
+      "PBmin"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "İndeks",
+      "0,55",
+      "Ölçütün üstünde"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bir örnek çalışalım: bu örnekte skor elli desibelde yüzde yirmi iki, altmış desibelde yüzde elli beş.",
+    {
+     "yazi": "Yetmiş desibelde skor yüzde seksene çıkıyor; bu, eğrinin tepesi, yani PBmax.",
+     "ses": "Yetmiş desibelde skor yüzde seksene çıkıyor; bu, eğrinin tepesi, yani pe be maks."
+    },
+    {
+     "yazi": "Seksen desibelde skor yüzde altmışa, doksan desibelde ise yüzde otuz altıya düşüyor; PBmin otuz altı.",
+     "ses": "Seksen desibelde skor yüzde altmışa, doksan desibelde ise yüzde otuz altıya düşüyor; pe be min otuz altı."
+    },
+    "Hesap şöyle: seksen eksi otuz altı, kırk dört eder; kırk dört bölü seksen, sıfır virgül elli beş.",
+    "Rollover indeksi sıfır virgül elli beş bulunur.",
+    "Bu değer, Jerger ve Jerger'in kullandığı listeler için önerilen sıfır virgül kırk beş ölçütünün üzerinde.",
+    "Bu nedenle bu örnek, retrokoklear patoloji açısından ileri değerlendirme gerektirebilecek bir bulgu olarak raporlanır."
+   ]
+  },
+  {
+   "id": "karsi",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rollover indeksi",
+   "baslik": "İki örnek *yan yana*",
+   "sol": {
+    "ust": "Örnek 1",
+    "maddeler": [
+     {
+      "metin": "PBmax _80_, PBmin _36_",
+      "cumle": 0
+     },
+     {
+      "metin": "İndeks: _0,55_",
+      "cumle": 0
+     },
+     {
+      "metin": "Ölçüt _üstünde_: ileri değerlendirme",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Örnek 2",
+    "maddeler": [
+     {
+      "metin": "PBmax _80_, PBmin _72_",
+      "cumle": 2
+     },
+     {
+      "metin": "İndeks: _0,10_",
+      "cumle": 3
+     },
+     {
+      "metin": "Koklear kayıpla _uyumlu_ hafif düşüş",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "İlk örnekte PBmax seksen, PBmin otuz altı ve indeks sıfır virgül elli beş.",
+     "ses": "İlk örnekte pe be maks seksen, pe be min otuz altı ve indeks sıfır virgül elli beş."
+    },
+    "Bu değer ölçütün üzerinde olduğu için bulgu dikkat gerektirir.",
+    "İkinci örnekte tepe yine yüzde seksen, ama en yüksek düzeydeki skor yüzde yetmiş iki.",
+    "Bu kez fark sekiz puan; indeks sıfır virgül on.",
+    "Bu kadar küçük bir düşüş koklear kayıplarda da görülebilir ve tek başına anlamlı sayılmaz.",
+    "İki örnekte tepe skoru aynı olsa da yüksek düzeydeki davranış tamamen farklı."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rollover indeksi",
+   "baslik": "Ölçütü *doğru* kullanmak",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "0,45 ölçütü",
+     "metin": "Jerger ve Jerger, 1971",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Listeye bağlı",
+     "metin": "Farklı listelerde farklı ölçüt",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kısa liste",
+     "metin": "Skor değişkenliği artar",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Duyarlılık sınırlı",
+     "metin": "Normal indeks dışlamaz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Sıfır virgül kırk beş ölçütü, Jerger ve Jerger'in çalışmasında kullanılan kelime listeleri için önerilmiştir.",
+    "Başka listelerle farklı, bazen daha düşük ölçütler önerilmiştir; bu yüzden kliniğin kullandığı listeye uygun ölçüt seçilir.",
+    "Yirmi beş kelimelik kısa listelerde skorların rastlantısal değişkenliği büyüktür; bu da indeksi etkiler.",
+    "Ayrıca rollover her retrokoklear patolojide görülmez; normal bir indeks bu olasılığı dışlamaz.",
+    "Bu yüzden rollover indeksi tek başına değil, test bataryasının bir parçası olarak yorumlanır."
+   ]
+  },
+  {
+   "id": "orantisiz",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "Orantısız *düşük* skor",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hafif-orta derece kayıp",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: normal işitme",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Sağ PBmax_: yüzde 40",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       40,
+       45,
+       50,
+       55
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "PI eğrisinin ikinci önemli katkısı, en yüksek skorun kaybın derecesine göre beklenenle uyumlu olup olmadığını göstermesidir.",
+    "Bu örnekte sağ kulakta hafif ile orta derece arası bir kayıp var, ama birkaç düzeyde ölçülen en yüksek skor yalnızca yüzde kırk.",
+    "Bu derecede bir koklear kayıpta en yüksek skorun genellikle çok daha iyi olması beklenir.",
+    {
+     "yazi": "Dubno ve arkadaşları 1995 yılında, saf ses ortalamasına göre beklenen en düşük PBmax için güven sınırları yayımladı.",
+     "ses": "Dubno ve arkadaşları bin dokuz yüz doksan beş yılında, saf ses ortalamasına göre beklenen en düşük pe be maks için güven sınırları yayımladı."
+    },
+    "Skor bu sınırların altındaysa orantısız düşük kabul edilir.",
+    "Özellikle tek kulakta görülen orantısız düşük skor, hekime iletilmesi gereken bir bulgudur."
+   ]
+  },
+  {
+   "id": "bugun",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "Bugün *nerede* duruyor?",
+   "maddeler": [
+    {
+     "metin": "Lezyon yeri testleri _ipucu_ verir",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Görüntüleme kararı _hekimindir_",
+     "cumle": 1,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "ABR ve refleks ile _birlikte_ yorum",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "PBmax cihaz _danışmanlığında_ değerli",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "BATARYA",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "PI-PB eğrisi",
+      "metin": "Rollover, orantısız skor",
+      "cumle": 2
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Akustik refleks",
+      "metin": "Eşik ve adaptasyon",
+      "cumle": 2
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "ABR",
+      "metin": "Dalga latansları",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Rollover ve orantısız düşük skor gibi bulgular, klasik lezyon yeri testlerinin bir parçasıdır ve ipucu verir.",
+    "Retrokoklear patolojinin gösterilmesinde bugün görüntüleme yöntemleri belirleyicidir; bu karar hekime aittir.",
+    "Konuşma bulguları, akustik refleks ve işitsel beyin sapı yanıtı, yani ABR gibi testlerle birlikte yorumlanır.",
+    {
+     "yazi": "PBmax ise lezyon yeri dışında da değerlidir; cihazdan beklenen faydanın gerçekçi biçimde konuşulmasına yardım eder.",
+     "ses": "Pe be maks ise lezyon yeri dışında da değerlidir; cihazdan beklenen faydanın gerçekçi biçimde konuşulmasına yardım eder."
+    },
+    "Kısacası eğri, hem kulağın en iyi performansını hem de yüksek düzeylerdeki davranışını tek bakışta gösterir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yüksek düzeylerde karşı kulağı mutlaka maskeleyin. Maskelenmeyen iyi kulak, yüksek düzey skorunu yükseltip gerçek bir rollover'ı gizleyebilir.",
+   "cumleler": [
+    "PI eğrisinde en sık yapılan hata, yüksek düzeylerde maskelemeyi atlamaktır.",
+    "Sunum düzeyi yükseldikçe konuşma karşı kulağa geçebilir ve iyi kulak kelimeleri tanıyabilir.",
+    "Bu durumda test edilen kulağın yüksek düzeydeki skoru olduğundan iyi görünür ve gerçek bir rollover gizlenebilir.",
+    "Bu yüzden her yüksek düzeyde karşı kulağa yeterli konuşma gürültüsü verin ve gürültü düzeyini kaydedin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "PI-PB: skorun _düzeye göre_ eğrisi",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İletimde kayma, koklearda _düşük tepe_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İndeks: _(PBmax eksi PBmin) / PBmax_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Yüksek düzeyde _maskeleme_ şart",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Performans-şiddet fonksiyonu, kelime tanıma skorunun sunum düzeyine göre değişimini gösterir.",
+    "İletim tipi kayıpta eğri sağa kayar; koklear kayıpta tepe düşebilir; retrokoklear patolojide belirgin rollover görülebilir.",
+    {
+     "yazi": "Rollover indeksi, PBmax ile PBmin arasındaki farkın PBmax'a bölünmesiyle hesaplanır ve listeye uygun ölçütle yorumlanır.",
+     "ses": "Rollover indeksi, pe be maks ile pe be min arasındaki farkın pe be maksa bölünmesiyle hesaplanır ve listeye uygun ölçütle yorumlanır."
+    },
+    "Yüksek düzeylerde karşı kulağın maskelenmesi, doğru bir eğri için zorunludur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "PBmax yüzde 90, PBmin yüzde 45. Rollover indeksi kaçtır?",
+   "secenekler": [
+    "0,45",
+    "0,50",
+    "0,55",
+    "0,90"
+   ],
+   "dogru": 1,
+   "aciklama": "90 eksi 45, 45 eder; 45 bölü 90, _0,50_ bulunur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: PBmax yüzde doksan, PBmin yüzde kırk beş. Rollover indeksi kaçtır?",
+     "ses": "Kendinizi test edin: pe be maks yüzde doksan, pe be min yüzde kırk beş. Rollover indeksi kaçtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: sıfır virgül elli.",
+    "Doksan eksi kırk beş, kırk beş eder; kırk beş bölü doksan, sıfır virgül elli bulunur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Gürültüde *konuşma* testleri",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "Bir sonraki derste QuickSIN, HINT ve matris testleri gibi gürültüde konuşma testlerini inceleyeceğiz.",
+     "ses": "Bir sonraki derste Kuik Sin, hint ve matris testleri gibi gürültüde konuşma testlerini inceleyeceğiz."
+    },
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

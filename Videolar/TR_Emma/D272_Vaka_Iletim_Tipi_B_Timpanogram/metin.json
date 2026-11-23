@@ -1,0 +1,1033 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D272_Vaka_Iletim_Tipi_B_Timpanogram_TR",
+ "kapak": {
+  "ust": "DERS 272",
+  "baslik": "Vaka: *B tipi*<br>timpanogram",
+  "alt": "Tek taraflı iletim tipi kayıp",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      35,
+      40,
+      35,
+      30,
+      30,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      10,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Vaka: Tek Taraflı İletim Tipi Kayıp ve B Tipi Timpanogram | Ders 272 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir erişkin vakasında tek taraflı iletim tipi işitme kaybını adım adım çözüyoruz: otoskopi, maskeli kemik yolu ve plato, konuşma testleri, B tipi timpanogramda dış kulak yolu hacminin yorumu, akustik refleks paterni, KBB yönlendirmesi ve örnek rapor dili.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Jerger, Clinical experience with impedance audiometry (1970); BSA, Recommended Procedure: Pure-tone Air-conduction and Bone-conduction Threshold Audiometry with and without Masking.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "timpanometri",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "iletim tipi işitme kaybı",
+   "B tipi timpanogram",
+   "type B tympanogram",
+   "dış kulak yolu hacmi",
+   "ear canal volume",
+   "orta kulak efüzyonu",
+   "middle ear effusion",
+   "maskeli kemik yolu",
+   "akustik refleks",
+   "odyoloji vaka",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 272",
+   "baslik": "Vaka: tek taraflı *iletim* kaybı",
+   "alt": "B tipi timpanogram ve dış kulak yolu hacmi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste ilk erişkin vakamızı adım adım çözüyoruz: tek kulakta iletim tipi kayıp ve B tipi timpanogram.",
+    "Otoskopiyi, maskeli kemik yolunu, dış kulak yolu hacmini ve odyoloğun yönlendirme ile rapor adımlarını birlikte uygulayacağız."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve otoskopi",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Otuz dört yaşında, örnek bir erişkin",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Üç haftadır sağ kulakta _dolgunluk_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Soğuk algınlığından sonra başlamış",
+     "cumle": 2,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Ağrı, akıntı, baş dönmesi _yok_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kendi sesi sağda yankılanıyor",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "ostaki_borusu",
+      "metin": "Östaki borusu",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "orta_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Vakamız tamamen kurgusal bir örnektir; otuz dört yaşında bir erişkin, sağ kulağında işitme azlığı yakınmasıyla başvuruyor.",
+    "Yakınma yaklaşık üç hafta önce kulakta dolgunluk ve tıkanıklık hissiyle başlamış.",
+    "Öyküde başlangıçtan kısa süre önce geçirilmiş bir soğuk algınlığı var.",
+    "Kulak ağrısı, akıntı, çınlama ya da baş dönmesi tarif etmiyor; kulak ameliyatı ve gürültü maruziyeti de yok.",
+    "Kendi sesini sağ kulağında yankılanır gibi duyduğunu söylüyor; bu, iletim tipi sorunlarda sık tarif edilen bir duyumdur.",
+    "Öykü bize bir yön gösterir, ama karar her zaman bulguların toplamıyla verilir."
+   ]
+  },
+  {
+   "id": "otoskopi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve otoskopi",
+   "baslik": "Otoskopide *sağ kulak*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "patoloji": {
+     "tur": "efuzyon",
+     "cumle": 2
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "efuzyon",
+     "metin": "zar arkasında amber renk",
+     "cumle": 2
+    },
+    {
+     "parca": "hava_sivi_seviyesi",
+     "metin": "hava-sıvı seviyesi",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kabarciklar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Teste her zaman otoskopiyle başlıyoruz; sol kulak yolu ve timpanik membran normal görünümde.",
+    "Sağ kulakta kulak yolu açık; buşon, yani kulak kiri tıkacı yok.",
+    "Timpanik membranın arkasında sarımsı, amber renkli bir görünüm var.",
+    "Zarın üst kısmında ince bir hava-sıvı seviyesi çizgisi ve birkaç kabarcık seçiliyor; ışık refleksi belirgin değil.",
+    "Bu görünüm orta kulakta sıvıyı düşündürür; ama otoskopi bulgusu da tek başına değil, testlerle birlikte yorumlanır.",
+    "Gördüğümüzü raporda tanı koymadan, yalnız görünüm olarak tarif ederiz."
+   ]
+  },
+  {
+   "id": "odyo1",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram",
+   "baslik": "Saf ses: *maskesiz* tablo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Sağ_: maskesiz kemik yolu",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       35,
+       30,
+       30,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Saf ses odyometrisinde sağ kulağın hava yolu eşikleri otuz ile kırk desibel arasında; test supra-aural kulaklıkla yapılıyor.",
+    "Sol kulağın hava yolu eşikleri normal sınırlarda.",
+    "Sağ kulağın maskesiz kemik yolu eşikleri ise normal bölgede, beş ile on desibel arasında.",
+    "Böylece sağ kulakta yirmi ile otuz desibel arasında bir hava-kemik aralığı görünüyor.",
+    "Önce hava yolu kuralına bakalım: sağ hava yolu ile sol kulak arasındaki fark en çok otuz desibel, kırkın altında.",
+    "Bu yüzden sağ hava yolu eşikleri maskeleme gerektirmiyor; ama kemik yolu için durum farklı."
+   ]
+  },
+  {
+   "id": "plato",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram",
+   "baslik": "Kemik yolu: *maskeleme*",
+   "cizim": "plato_grafigi",
+   "ayar": {
+    "esik": 10,
+    "plato": [
+     25,
+     45
+    ],
+    "bolge_cumleleri": [
+     2,
+     4,
+     5
+    ],
+    "esik_cumle": 5
+   },
+   "vurgula": [
+    {
+     "parca": "plato",
+     "cumle": 4
+    },
+    {
+     "parca": "gercek_esik",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kemik yolunda IA yaklaşık _sıfır_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Başlangıç gürültüsü: _25 dB EM_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Plato: eşik _sabit_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolunda kulaklar arası zayıflama yaklaşık sıfır kabul edilir; maskesiz yanıt iki kokleadan iyi olanına ait olabilir.",
+    "Hava-kemik aralığı on beş desibel ve üzerinde olduğu için sağ kemik yolu, sol kulağa gürültü verilerek yeniden ölçülür.",
+    "Örneğin bin hertzde sol kulağın hava yolu eşiği beş desibel; başlangıç gürültüsü bunun on desibel üzeridir.",
+    "Supra-aural kulaklık sol kulağı kapattığı için bin hertzde on desibellik oklüzyon düzeltmesi de eklenir; başlangıç yirmi beş dB EM olur.",
+    "Gürültü adım adım artırıldığında sağ kemik yolu eşiği on desibelde sabit kalıyor; yani bir plato bulunuyor.",
+    "Platodaki bu değer sağ kokleanın gerçek kemik yolu eşiğidir ve maskeli işaretle kaydedilir."
+   ]
+  },
+  {
+   "id": "odyo2",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram",
+   "baslik": "Saf ses: *maskeli* tablo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Sağ_: maskeli kemik yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: normal",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Hava-kemik aralığı _doğrulandı_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       35,
+       30,
+       30,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Maskeli ölçümden sonra sağ kemik yolu eşikleri on ile on beş desibel arasında; köşeli parantezlerle işaretliyoruz.",
+    "Eşikler maskesiz değerlere çok yakın kaldı; yani kemik yolu yanıtları gerçekten sağ kokleaya ait.",
+    "Sol kulak tüm frekanslarda normal sınırlarda.",
+    "Sağ kulakta yaklaşık on beş ile otuz desibel arasında, maskelemeyle doğrulanmış bir hava-kemik aralığı var.",
+    "Saf ses ortalaması beş yüz, bin ve iki bin hertzin ortalaması olarak otuz beş desibel bulunuyor; bu hafif derecedir.",
+    "Tablo, sağ kulakta hafif derecede iletim tipi işitme kaybıyla uyumlu."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram",
+   "baslik": "Konuşma testleri ve *diyapazon*",
+   "maddeler": [
+    {
+     "metin": "Sağ SRT 35 dB HL: saf sesle _uyumlu_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sağ skor yüzde 96: _iyi_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Skor testinde sol kulak _maskelendi_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Weber _sağa_, Rinne sağda negatif",
+     "cumle": 4,
+     "ikon": "diyapazon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "cumle": 4,
+    "ayar": {
+     "test": "weber"
+    },
+    "vurgula": [
+     {
+      "parca": "alin",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Sağ kulağın konuşmayı alma eşiği, yani SRT otuz beş desibel HL; saf ses ortalamasıyla birebir uyumlu.",
+    "Kelime tanıma skoru sağda yüzde doksan altı; iletim tipi kayıpta ses yeterince yükseltilince anlama genellikle iyidir.",
+    "Kelime testi yetmiş beş desibel HL'de yapıldığı için, karşı kulağa geçişi önlemek amacıyla sol kulak maskelendi.",
+    "Sol kulakta SRT on desibel HL, kelime tanıma skoru yüzde yüz.",
+    "Diyapazonla Weber testinde ses sağa, yani sorunlu kulağa gidiyor; sağda Rinne testi negatif.",
+    "Diyapazon bulguları odyogramla aynı yönü gösteriyor; testlerin birbirini doğrulaması, çapraz kontrol ilkesidir."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İmmitans",
+   "baslik": "Timpanogram: sağda *B tipi*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0,
+      "kulak": "sol"
+     },
+     {
+      "tip": "B",
+      "cumle": 1,
+      "kulak": "sag"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sol: _A tipi_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sağ: _B tipi_, tepe yok",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sağ ECV: _1,0 ml_, normal",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Şimdi immitans bulgularına geçelim; sol kulakta tepe sıfıra yakın basınçta, normal yükseklikte bir A tipi timpanogram var.",
+    "Sağ kulakta ise eğri düz; basınç değişse de belirgin bir tepe oluşmuyor, yani B tipi timpanogram (type B tympanogram).",
+    "B tipi eğrinin anlamı tek değildir; bu yüzden ilk iş dış kulak yolu hacmine (ear canal volume), kısaca ECV'ye bakmaktır.",
+    "Sağ kulakta ECV bir mililitre; sol kulakta da benzer biçimde sıfır virgül dokuz mililitre.",
+    "Yetişkinde ECV yaklaşık sıfır virgül altı ile bir virgül beş mililitre arasındadır; yani sağ kulağın hacmi normal aralıkta.",
+    "Normal hacimli bir B tipi eğri, zarın sağlam olduğunu ve arkasındaki boşluğun hareketsiz kaldığını düşündürür."
+   ]
+  },
+  {
+   "id": "ecv",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İmmitans",
+   "baslik": "B tipinde *hacim* ne söyler?",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Normal hacim",
+     "metin": "Zar sağlam, orta kulakta sıvı",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Büyük hacim",
+     "metin": "Perforasyon ya da açık tüp",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Küçük hacim",
+     "metin": "Buşon ya da prob duvarda",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "B tipi eğride hacim yaş için normalse, en sık olasılık orta kulak efüzyonudur (middle ear effusion), yani orta kulakta sıvıdır.",
+    "Bizim vakamızda otoskopi de zar arkasında sıvı görünümü gösterdiği için bulgular birbirini destekliyor.",
+    "Hacim belirgin büyükse, örneğin üç mililitre civarındaysa, prob tonu zardaki bir açıklıktan orta kulağa geçiyordur.",
+    "Bu durumda perforasyon ya da açık bir ventilasyon tüpü düşünülür; otoskopide zarda bir açıklık aranır.",
+    "Hacim çok küçükse prob ucu kulak yolu duvarına dayanmış ya da kulak yolu kirle tıkanmış olabilir.",
+    "Bu yüzden B tipi bir eğriyi hacmine bakmadan raporlamak eksik bir yorumdur."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İmmitans",
+   "baslik": "Akustik *refleksler*",
+   "sutunlar": [
+    "Ölçüm",
+    "Uyaran",
+    "Prob",
+    "Refleks"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sağ ipsi",
+      "Sağ",
+      "Sağ",
+      "Yok"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sol kontra",
+      "Sol",
+      "Sağ",
+      "Yok"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sağ kontra",
+      "Sağ",
+      "Sol",
+      "Yok"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Sol ipsi",
+      "Sol",
+      "Sol",
+      "85 dB HL"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Akustik refleks sonuçlarını, uyaranın verildiği kulağa göre adlandırarak okuyoruz.",
+    "Prob sağ kulaktayken, yani sağ ipsilateral ölçümde refleks alınamıyor; sıvılı orta kulakta admitans değişimi ölçülemez.",
+    "Uyaran solda, prob sağdayken ölçülen sol kontralateral refleks de aynı nedenle yok.",
+    "Uyaran sağda, prob soldayken refleks yine yok; çünkü sağdaki iletim kaybı uyaranın kokleaya ulaşan düzeyini düşürür.",
+    "Prob ve uyaranın solda olduğu ölçümde refleks seksen beş desibel HL'de, beklenen düzeyde alınıyor.",
+    "Bu dağılım tek taraflı iletim sorununun tipik paternidir: sorunlu kulak probda ya da uyaranda olduğunda refleks alınamaz."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve yönlendirme",
+   "baslik": "Bulguları *birleştir*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Zar arkasında sıvı",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Odyogram",
+     "metin": "Hafif iletim tipi",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "İmmitans",
+     "metin": "B tipi, ECV normal",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Yorum",
+     "metin": "Efüzyonla uyumlu",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Otoskopide sağ zarın arkasında sıvı görünümü var.",
+    "Odyogramda sağda hafif derecede iletim tipi kayıp, maskelemeyle doğrulanmış hava-kemik aralığı ve iyi bir konuşma skoru var.",
+    "İmmitansta sağda normal hacimli B tipi timpanogram ve tek taraflı iletim paterniyle uyumlu refleks bulguları var.",
+    "Bu bulgular birlikte orta kulak efüzyonuyla uyumlu bir tablo oluşturur; bu bir yorumdur, tanıyı hekim koyar.",
+    "Sağ kemik yolu normal olduğu için iç kulağa ait bir sorun bu testlerde görünmüyor."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve yönlendirme",
+   "baslik": "Odyoloğun *yapacakları*",
+   "maddeler": [
+    {
+     "metin": "KBB hekimine yönlendirme",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Bulgular yazılı ve eksiksiz",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Tek taraflı, süren efüzyon: _not et_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tedaviden sonra _kontrol testi_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Yönlendir",
+      "metin": "KBB hekimi",
+      "cumle": 0
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Belgele",
+      "metin": "Değerlerle birlikte",
+      "cumle": 1
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "İzle",
+      "metin": "Kontrol testi",
+      "cumle": 4
+     }
+    ],
+    "ust": "ROLÜMÜZ"
+   },
+   "cumleler": [
+    "Odyoloğun ilk adımı, kişiyi bulgularıyla birlikte kulak burun boğaz, kısaca KBB hekimine yönlendirmektir.",
+    "Yönlendirme notunda otoskopi görünümü, odyogram, timpanogram ve ECV değerleri ile refleks bulguları yer alır.",
+    "Erişkinde tek taraflı ve geçmeyen bir efüzyon, hekimin nedenini ayrıca araştırmasını gerektirebilir.",
+    "Bu nedenle öyküdeki süre ve tek taraflılık notta açıkça yazılır; burun arkasının muayenesi gibi kararlar hekime aittir.",
+    "Tedavi seçeneğine hekim karar verir; odyolog ilaç ya da işlem önermez, kişiye yalnız kontrol testinin önemini anlatır.",
+    "Hekim değerlendirmesinden sonra kontrol odyogramı ve timpanogramı, iyileşmenin belgelenmesini sağlar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "B tipi eğride önce hacme bakın; sonra otoskopiyle karşılaştırın. Uyumsuzlukta probu yeniden yerleştirin.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: düz bir eğri gördüğünüzde yorumdan önce hacme bakın.",
+    "Hacim çok küçükse prob ucunu kontrol edin, gerekirse daha uygun bir uçla ve doğru açıyla yeniden ölçün.",
+    "Ardından otoskopi bulgunuzla karşılaştırın; otoskopide sıvı görünümü ile normal hacimli B tipi eğri birbirini destekler.",
+    "Bulgular uyumsuzsa ölçümü tekrarlamak, yanlış bir yönlendirme notu yazmaktan her zaman iyidir."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve yönlendirme",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "Sağ: hafif iletim tipi kayıp",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Sağ: B tipi, ECV 1,0 ml",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Refleksler: prob sağda alınamadı",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Yorum: efüzyonla uyumlu olabilir",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Öneri: KBB, sonra kontrol",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        35,
+        40,
+        35,
+        30,
+        30,
+        40
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        10,
+        10,
+        10,
+        15
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "aralik": {
+      "konum": [
+       1,
+       10,
+       40
+      ],
+      "etiket": "30 dB"
+     }
+    }
+   },
+   "cumleler": [
+    "Örnek raporda saf ses sonucu şöyle yazılabilir: sağ kulakta hafif derecede iletim tipi işitme kaybı, sol kulak normal sınırlarda.",
+    "İmmitans bölümü: sağda B tipi timpanogram, dış kulak yolu hacmi bir mililitre; solda A tipi timpanogram.",
+    "Refleks bölümü: prob sağ kulaktayken ve sağ uyaranla refleksler alınamadı; sol ipsilateral refleks beklenen düzeyde.",
+    "Yorum: bulgular sağ orta kulakta sıvı ile uyumlu olabilir; kemik yolu iki kulakta normal sınırlarda.",
+    "Öneri: KBB değerlendirmesi ve hekimin önerdiği zamanda kontrol odyogramı ile timpanometri.",
+    "Raporda kullanılan kulaklık türü ve maskeleme düzeyleri de belirtilir."
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve yönlendirme",
+   "baslik": "Kontrol testinde *sağ kulak*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 60,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        35
+       ],
+       [
+        500,
+        40
+       ],
+       [
+        1000,
+        35
+       ],
+       [
+        2000,
+        30
+       ],
+       [
+        4000,
+        30
+       ],
+       [
+        8000,
+        40
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "sağ: ilk test",
+      "cumle": 1,
+      "kesik": true
+     },
+     {
+      "ad": "kontrol",
+      "noktalar": [
+       [
+        250,
+        15
+       ],
+       [
+        500,
+        15
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        10
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "sağ: kontrol",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "duzelme",
+      "y": [
+       35,
+       10
+      ],
+      "xk": 1000,
+      "etiket": "25 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Aynı kulaklık, _aynı yöntem_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Aralık _kapandı_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Timpanogram: _A tipi_",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Hekim değerlendirmesinden birkaç hafta sonra yapılan örnek bir kontrol testine bakalım.",
+    "Kesik kırmızı çizgi sağ kulağın ilk hava yolu eşiklerini, yeşil çizgi kontrol testindeki eşikleri gösteriyor.",
+    "Sağ hava yolu eşikleri on ile yirmi desibel arasına dönmüş; kemik yolu yine aynı düzeyde.",
+    "Bin hertzde yirmi beş desibellik bir düzelme var; hava-kemik aralığı kapanmış.",
+    "Timpanogram artık A tipi ve sağ prob kulağında refleksler de alınıyor.",
+    "İyileşme olmasaydı, bu bilgi de aynı açıklıkla hekime iletilirdi."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Önce otoskopi, sonra maskeli kemik yolu",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "B tipinde hacim: sıvı, delik ya da tıkanıklık",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Bulgular birleşir, tanıyı hekim koyar",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Rapor değerlerle, kontrol planlı",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "İletim tipi kaybı doğrulamak için hava-kemik aralığı maskeli kemik yoluyla ölçülür.",
+    "B tipi timpanogramda dış kulak yolu hacmi yorumu belirler: normal hacim sıvıyı, büyük hacim açıklığı, küçük hacim tıkanıklığı düşündürür.",
+    "Otoskopi, odyogram ve immitans birlikte yorumlanır; tanı ve tedavi kararı hekime aittir.",
+    "Rapor ölçülen değerleri içerir, kişi KBB hekimine yönlendirilir ve kontrol testi planlanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sağda B tipi, ECV 3,2 ml. Ne düşünülür?",
+   "secenekler": [
+    "Orta kulakta sıvı",
+    "Perforasyon ya da açık tüp",
+    "Prob ucu tıkalı",
+    "Normal orta kulak"
+   ],
+   "dogru": 1,
+   "aciklama": "Hacim çok büyük: prob tonu _zardaki açıklıktan_ orta kulağa ulaşıyor.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Bir erişkinde sağda B tipi timpanogram var ve dış kulak yolu hacmi 3,2 mililitre. Ne düşünülür?",
+     "sonra_bekle": 5,
+     "ses": "Kendinizi test edin: Bir erişkinde sağda B tipi timpanogram var ve dış kulak yolu hacmi üç virgül iki mililitre. Ne düşünülür?"
+    },
+    "Doğru cevap B: perforasyon ya da açık bir ventilasyon tüpü.",
+    "Hacim yetişkin aralığının belirgin üstünde; prob tonu zardaki bir açıklıktan orta kulak boşluğunu da ölçüyor."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: hava-kemik aralığı ve *Carhart çentiği*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki vakada timpanogram normal olduğu halde hava-kemik aralığı bulunan bir erişkini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

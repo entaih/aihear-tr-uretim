@@ -1,0 +1,901 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D281_Vaka_Normal_Odyogram_Tinnitus_TR",
+ "kapak": {
+  "ust": "DERS 281",
+  "baslik": "Normal odyogram,<br>*tinnitus*",
+  "alt": "Genişletilmiş yüksek frekans ve THI",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      5,
+      5,
+      10,
+      10,
+      15,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      5,
+      10,
+      10,
+      10,
+      15,
+      20
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Vaka: Odyogramı Normal Tinnitus Hastası | Ders 281 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir erişkin vakasında normal odyogramla gelen tinnitusu değerlendiriyoruz: kırmızı bayraklar, DPOAE, genişletilmiş yüksek frekans odyometrisi, gizli işitme kaybı kavramı, gürültüde konuşma testi, THI ve hiperakuzi sorgusu, danışmanlık planı ve THI ile izlem.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Tunkel ve ark., Clinical Practice Guideline: Tinnitus (2014); McCombe ve ark., Guidelines for the grading of tinnitus severity (2001); Newman ve ark., Development of the Tinnitus Handicap Inventory (1996); Jafari ve ark., A Systematic Review and Meta-Analysis of Extended High-Frequency Hearing Thresholds in Tinnitus With a Normal Audiogram, Ear and Hearing (2022).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "tinnitus",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "tinnitus",
+   "normal odyogram",
+   "genişletilmiş yüksek frekanslar",
+   "extended high frequencies",
+   "THI",
+   "Tinnitus Handicap Inventory",
+   "gizli işitme kaybı",
+   "hidden hearing loss",
+   "hiperakuzi",
+   "odyoloji vaka",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 281",
+   "baslik": "Vaka: *normal* odyogram, tinnitus",
+   "alt": "Genişletilmiş yüksek frekans, THI ve danışmanlık",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyogramı normal olduğu halde çınlamadan yakınan bir erişkin vakasını çözüyoruz.",
+    "Genişletilmiş yüksek frekans odyometrisini, otoakustik emisyonu, tinnitus ve hiperakuzi sorgusunu ve bir danışmanlık planını ele alacağız."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Otuz dört yaşında, örnek bir kişi",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Altı aydır iki kulakta _tiz çınlama_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Gece ve sessizlikte belirgin",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Konserler, yüksek sesle kulaklık",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Uykuya dalmakta güçlük, kaygı",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Çınlama",
+      "metin": "İki kulakta, tiz",
+      "cumle": 1
+     },
+     {
+      "ikon": "muzik",
+      "baslik": "Maruziyet",
+      "metin": "Konser, kulaklık",
+      "cumle": 3
+     },
+     {
+      "ikon": "saat",
+      "baslik": "Etki",
+      "metin": "Uyku ve kaygı",
+      "cumle": 4
+     }
+    ],
+    "ust": "ÖYKÜDE"
+   },
+   "cumleler": [
+    "Vakamız kurgusal bir örnektir: otuz dört yaşında bir kişi, iki kulağında çınlama yakınmasıyla başvuruyor.",
+    "Çınlama yaklaşık altı aydır var; iki kulakta, tiz ve sürekli bir ses olarak tarif ediliyor.",
+    "Gündüz iş yerinde pek fark etmiyor, ama gece yatağa girdiğinde ve sessiz ortamlarda çok belirginleşiyor.",
+    "Yıllardır sık sık konsere gittiğini ve toplu taşımada kulaklıkla yüksek sesle müzik dinlediğini söylüyor.",
+    "Uykuya dalmakta zorlanıyor ve çınlamanın kalıcı bir hasarın işareti olmasından korkuyor.",
+    "Ayrıca kalabalık restoranlarda konuşmaları izlemekte eskisinden çok zorlandığını ekliyor."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Önce *kırmızı bayraklar*",
+   "ogeler": [
+    {
+     "ikon": "kalp",
+     "baslik": "Nabızla uyumlu",
+     "metin": "Pulsatil tinnitus",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tek taraflı",
+     "metin": "Özellikle kayıpla birlikte",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ani başlangıç",
+     "metin": "Ani işitme kaybıyla",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Eşlik eden",
+     "metin": "Vertigo, nörolojik belirti",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Her tinnitus görüşmesinde önce hekim değerlendirmesini gerektiren durumlar sorulur: nabızla uyumlu, yani pulsatil tinnitus.",
+    "Tek taraflı tinnitus, özellikle aynı kulakta işitme kaybı ya da asimetri ile birlikteyse ayrıca önemlidir.",
+    "Ani işitme kaybıyla birlikte başlayan tinnitusta zaman önemlidir; bu kişiler beklemeden yönlendirilir.",
+    "Vertigo, yüzde güçsüzlük ya da başka nörolojik belirtiler de hekim değerlendirmesi gerektirir.",
+    "Vakamızda bunların hiçbiri yok; tinnitus iki taraflı, sürekli ve yavaş başlangıçlı."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Standart testler",
+   "baslik": "Standart odyogram *normal*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Timpanogram ve refleks _normal_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15,
+       20
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Otoskopi normal; iki yüz elli ile sekiz bin hertz arasındaki eşikler iki kulakta da normal sınırlarda.",
+    "Kelime tanıma skorları iki kulakta yüzde yüz.",
+    "Timpanogramlar A tipi ve akustik refleksler beklenen düzeylerde.",
+    "Standart odyogram açısından bakıldığında işitme normaldir; ama bu, tinnitusun gerçek olmadığı anlamına gelmez.",
+    "Normal bir odyogram yalnız iki yüz elli ile sekiz bin hertz arasındaki eşikleri gösterir; kokleanın her işlevini göstermez."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Standart testler",
+   "baslik": "DPOAE: *tizlerde* düşük",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "orta frekanslar: yanıt var",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "metin": "gürültü tabanı",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Orta frekanslar: _yanıt var_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "4 ile 8 kHz: _düşük genlik_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Seyirle birlikte yorumla",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Dış tüy hücresi işlevini değerlendirmek için distorsiyon ürünü otoakustik emisyon, kısaca DPOAE yapıldı.",
+    "İki kulakta da DPOAE yanıtları orta frekanslarda gürültü tabanının belirgin üzerinde.",
+    "Ancak dört bin ile sekiz bin hertz arasında yanıt genlikleri düşük ve bazı frekanslarda sınırda.",
+    "Eşikler normal olsa da bu bulgu, yüksek frekans bölgesinde dış tüy hücresi işlevinde erken bir değişikliği düşündürebilir.",
+    "OAE bulguları da tek başına yorumlanmaz; diğer testlerle ve zaman içindeki seyirle birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "ehf",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Genişletilmiş testler",
+   "baslik": "Sekiz bin hertzin *üstü*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: 10 kHz'den sonra düşüş",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: benzer düşüş",
+     "cumle": 1
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "16 kHz: _yanıt yok_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       25,
+       35,
+       50,
+       65
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       40,
+       55,
+       65
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 1
+     }
+    ],
+    "frekanslar": [
+     4000,
+     8000,
+     10000,
+     12500,
+     14000,
+     16000
+    ]
+   },
+   "cumleler": [
+    "Genişletilmiş yüksek frekans odyometrisi (extended high-frequency audiometry), sekiz bin hertzin üzerindeki eşikleri ölçer.",
+    "Bu vakada eşikler on bin hertzden itibaren belirgin biçimde yükseliyor; on dört bin hertzde elli ile elli beş desibele çıkıyor.",
+    "On altı bin hertzde cihazın en yüksek çıkışında yanıt alınamıyor.",
+    "Bu frekanslarda eşikler yaşla belirgin değişir ve normatif veriler sınırlıdır; yine de otuz dört yaşında bir kişi için bu düşüş belirgindir.",
+    "Bir meta-analizde, normal odyogramlı tinnitus hastalarında bu frekanslardaki eşiklerin daha kötü olduğu gösterilmiştir.",
+    "Bu bulgu, çınlamanın kaynağına ilişkin bir ipucu verir ve kişiye bir açıklama sunmamıza yardım eder."
+   ]
+  },
+  {
+   "id": "gizli",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Genişletilmiş testler",
+   "baslik": "*Gizli* işitme kaybı",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "iç tüy hücresi",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "sinir lifleri: sinaps kaybı",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 0
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Eşik _normal_ kalabilir",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Gürültüde anlama güçlüğü?",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Araştırma kavramı, _tanı değil_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Bir başka olasılık, iç tüy hücresi ile işitme siniri lifleri arasındaki bağlantıların kaybıdır; buna koklear sinaptopati denir.",
+    "Eşikler bozulmadığı için odyogram normal görünür; bu yüzden bu duruma gizli işitme kaybı (hidden hearing loss) da denir.",
+    "Gürültüde konuşmayı anlama güçlüğü ve tinnitusla ilişkili olabileceği öne sürülmüştür.",
+    "Ancak insanlarda bu durumu klinikte doğrudan gösteren standart bir test henüz yoktur; kavram araştırılmaya devam etmektedir.",
+    "Bu yüzden kişiye bunu bir tanı gibi değil, araştırılan olası bir mekanizma olarak anlatırız.",
+    "Vakamızdaki gürültü maruziyeti öyküsü, bu olasılığı akla getiren nedenlerden biridir."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Genişletilmiş testler",
+   "baslik": "Gürültüde *konuşma*",
+   "maddeler": [
+    {
+     "metin": "QuickSIN: SNR kaybı 4 dB",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hafif SNR kaybı",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yakınmayla uyumlu",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "İzlemde tekrar edilir",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "golge"
+    },
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 0
+     },
+     {
+      "parca": "gurultu",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Kalabalıkta zorlanma nedeniyle hızlı gürültüde konuşma testi, kısaca QuickSIN yapıldı; sinyal-gürültü oranı, yani SNR kaybı dört desibel.",
+    "Test kılavuzuna göre üç ile yedi desibel arası hafif bir SNR kaybıdır.",
+    "Sessizlikte skor yüzde yüz iken gürültüde hafif bir kayıp görülmesi, kişinin restoran yakınmasıyla uyumlu.",
+    "Bu ölçüm, izlemde değişikliği karşılaştırmak için bir başlangıç değeri olarak kaydedilir.",
+    "Gürültüde konuşma testleri, normal odyogramlı kişilerde günlük yakınmayı sayılarla belgelemenin bir yoludur."
+   ]
+  },
+  {
+   "id": "thi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ölçekler",
+   "baslik": "THI: *48 puan*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "25 soru",
+     "metin": "Evet 4, bazen 2, hayır 0",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "0 ile 100",
+     "metin": "Puan arttıkça engel artar",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bu vakada 48",
+     "metin": "Orta derece",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Tinnitusun kişiye etkisini ölçmek için tinnitus engellilik envanteri (Tinnitus Handicap Inventory), kısaca THI kullanıldı.",
+    "THI yirmi beş sorudan oluşur; evet dört, bazen iki, hayır sıfır puan alır ve toplam sıfır ile yüz arasındadır.",
+    "McCombe ve arkadaşlarının derecelendirmesinde otuz sekiz ile elli altı puan arası orta derece engelliliktir.",
+    "Vakamızda toplam puan kırk sekiz; yani orta derece.",
+    "Yüksek puan alınan sorular, uyku ve kaygı gibi danışmanlıkta öncelikle ele alınacak alanları gösteriyor.",
+    "Ölçek tanı koymaz; tinnitusun kişiyi ne kadar etkilediğini ve izlemdeki değişimi gösterir."
+   ]
+  },
+  {
+   "id": "hiperakuzi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ölçekler",
+   "baslik": "Hiperakuzi *sorgusu*",
+   "maddeler": [
+    {
+     "metin": "Günlük sesler rahatsız ediyor mu?",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Tabak, kapı sesi: _rahatsız_",
+     "cumle": 1,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Rahatsızlık düzeyi: _doğrulama_",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Tıkacı sürekli takma _önerilmez_",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Hiperakuzi",
+      "metin": "Günlük seslere hassasiyet",
+      "cumle": 0
+     },
+     {
+      "ikon": "insert_kulaklik",
+      "baslik": "Dikkat",
+      "metin": "Gereksiz tıkaç",
+      "cumle": 4
+     }
+    ],
+    "ust": "SORGU"
+   },
+   "cumleler": [
+    "Tinnitusa günlük seslere karşı aşırı hassasiyet, yani hiperakuzi sık eşlik eder; bu yüzden ayrıca sorgulanır.",
+    "Kişi tabak tıkırtısı ve kapı çarpması gibi seslerin son aylarda rahatsız edici geldiğini söylüyor.",
+    "Bu yakınma kısa bir hiperakuzi anketiyle sayısal olarak da kaydedilebilir.",
+    "Ses yüksekliği rahatsızlık düzeyi ölçüldüğünde değerler normal işitenlerde sık görülen düzeylerin biraz altında bulundu.",
+    "Kişi rahatsız olmamak için sessiz ortamlarda bile kulak tıkacı takmaya başlamış; bu alışkanlık hassasiyeti artırabileceği için konuşulur."
+   ]
+  },
+  {
+   "id": "plan",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Danışmanlık planı",
+   "baslik": "Danışmanlık *planı*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Bilgilendir",
+     "metin": "Mekanizma, olağan bir durum",
+     "cumle": 0
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sessizlikten kaçın",
+     "metin": "Ses zenginleştirme",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Güvenli dinleme",
+     "metin": "Ses düzeyi ve süre",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Yönlendir",
+     "metin": "KBB, gerekirse terapi",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzle",
+     "metin": "THI ve testler",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Danışmanlık bilgilendirmeyle başlar: bulgular anlaşılır biçimde açıklanır ve tinnitusun pek çok kişide görülen bir durum olduğu anlatılır.",
+    "Çınlamanın çoğu zaman tehlikeli bir hastalığın işareti olmadığı, ama kulakların korunması için bir uyarı olabileceği konuşulur.",
+    "Sessizlikten kaçınmak için gece fan sesi ya da doğa sesleri gibi ses zenginleştirme önerilir.",
+    "Konserlerde kulak koruyucu kullanımı ve kulaklıkla dinlemede ses düzeyi ile sürenin sınırlanması anlatılır.",
+    "Kişi KBB değerlendirmesine yönlendirilir.",
+    "Sıkıntı belirginse kanıtı en güçlü yaklaşım olan bilişsel davranışçı terapi (CBT) için yönlendirme konuşulur.",
+    "Birkaç ay sonra THI ve ölçümler tekrarlanarak değişim izlenir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Normal odyogram çınlamanın gerçek olmadığını göstermez. Bulguyu gösterin, kaygıyı ciddiye alın, ağır sıkıntıda gecikmeden yönlendirin.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: odyogramınız normal, bir şeyiniz yok gibi bir cümle kişinin kaygısını artırır ve güvenini sarsar.",
+    "Bunun yerine genişletilmiş yüksek frekans ve OAE bulgularını göstererek çınlamanın bir açıklaması olabileceğini anlatın.",
+    "Uyku sorununu ve kaygıyı ciddiye alın.",
+    "Ağır kaygı, depresyon belirtileri ya da kendine zarar verme düşüncesi varsa kişiyi gecikmeden hekime ve ruh sağlığı desteğine yönlendirin.",
+    "Tinnitus için önerilen ilaç ya da besin desteği konusunda odyolog öneri vermez; bu sorular hekime yönlendirilir."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Danışmanlık planı",
+   "baslik": "THI ile *izlem*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 7,
+     "isaretler": [
+      0,
+      3,
+      6
+     ],
+     "yazilar": {
+      "0": "Başlangıç",
+      "3": "3. ay",
+      "6": "6. ay"
+     },
+     "ad": "Zaman (ay)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "THI puanı"
+    },
+    "seriler": [
+     {
+      "ad": "thi",
+      "noktalar": [
+       [
+        0,
+        48
+       ],
+       [
+        3,
+        28
+       ],
+       [
+        6,
+        22
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "THI",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "orta",
+      "y": [
+       38,
+       56
+      ],
+      "renk": "sari",
+      "etiket": "orta derece",
+      "cumle": 0
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       48,
+       28
+      ],
+      "xk": 3.5,
+      "etiket": "20 puan",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Başlangıç _48_, 3. ay _28_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Anlamlı değişim: _yaklaşık 20 puan_",
+     "cumle": 2,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, vakamızdaki kişinin THI puanının zaman içindeki seyrini gösteriyor.",
+    "Başlangıçta kırk sekiz olan puan, danışmanlık ve ses zenginleştirmeyle üç ay sonra yirmi sekize iniyor.",
+    "Yirmi puanlık bu düşüş, test tekrar çalışmalarına göre anlamlı kabul edilen yaklaşık yirmi puanlık farka ulaşıyor.",
+    "Kişi artık daha kolay uykuya daldığını ve çınlamayı daha az fark ettiğini söylüyor.",
+    "Genişletilmiş yüksek frekans eşikleri de izlemde tekrarlanır; çünkü bu bölge kokleanın erken uyarı bölgesi gibi düşünülebilir."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Danışmanlık planı",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "Standart odyogram iki kulakta normal",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "10 kHz üstü eşiklerde yükselme",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "DPOAE tizlerde düşük genlik",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "THI 48: orta derece",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Öneri: KBB, danışmanlık, izlem",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        5,
+        5,
+        10,
+        10,
+        15,
+        15
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        5,
+        10,
+        10,
+        10,
+        15,
+        20
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Saf ses: iki yüz elli ile sekiz bin hertz arasında iki kulakta normal işitme eşikleri; konuşma skorları yüzde yüz.",
+    "Genişletilmiş yüksek frekans: on bin hertzden itibaren iki kulakta eşiklerde yükselme, on altı bin hertzde yanıt yok.",
+    "OAE: dört ile sekiz bin hertz arasında düşük DPOAE genlikleri; QuickSIN'de hafif SNR kaybı.",
+    "Ölçekler: THI kırk sekiz, orta derece; hiperakuzi yakınması mevcut.",
+    "Öneri: KBB değerlendirmesi, tinnitus danışmanlığı, güvenli dinleme ve üç ay sonra kontrol."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Normal odyogram tinnitusu açıklamayabilir",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "8 kHz üstü ve OAE ek bilgi verir",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "THI ve hiperakuzi sorgusu planı belirler",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Bilgilendirme, ses, koruma, izlem",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Normal bir odyogram tinnitusun gerçek olmadığı anlamına gelmez; yalnız iki yüz elli ile sekiz bin hertzi gösterir.",
+    "Genişletilmiş yüksek frekans odyometrisi ve OAE, standart odyogramın göremediği değişiklikleri gösterebilir.",
+    "THI ve hiperakuzi sorgusu tinnitusun etkisini sayılarla belgeler ve danışmanlığın önceliklerini belirler.",
+    "Plan bilgilendirme, ses zenginleştirme, güvenli dinleme, gerekirse yönlendirme ve izlemden oluşur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "THI puanı 48. Derece nedir?",
+   "secenekler": [
+    "Hafif",
+    "Orta",
+    "Ağır",
+    "Katastrofik"
+   ],
+   "dogru": 1,
+   "aciklama": "McCombe derecelendirmesinde _38 ile 56_ puan orta derecedir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Tinnitus engellilik envanterinde 48 puan alan kişi hangi derecededir?",
+     "sonra_bekle": 5,
+     "ses": "Kendinizi test edin: Tinnitus engellilik envanterinde kırk sekiz puan alan kişi hangi derecededir?"
+    },
+    "Doğru cevap B: orta derece.",
+    "McCombe derecelendirmesinde otuz sekiz ile elli altı arasındaki puanlar orta derece engellilik olarak yorumlanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyolojide mesleki *etik* ilkeler",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste etik ve mevzuat bölümüne geçiyor ve odyolojide mesleki etik ilkeleri ele alıyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

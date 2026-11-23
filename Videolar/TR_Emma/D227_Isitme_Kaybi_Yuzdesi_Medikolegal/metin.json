@@ -1,0 +1,884 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D227_Isitme_Kaybi_Yuzdesi_Medikolegal_TR",
+ "kapak": {
+  "ust": "DERS 227",
+  "baslik": "İşitme kaybı<br>*yüzdesi*",
+  "alt": "Medikolegal değerlendirme",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 110,
+    "ad": "Dört frekans ortalaması (dB HL)",
+    "isaretler": [
+     0,
+     25,
+     45,
+     65,
+     92,
+     110
+    ]
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 20,
+    "ad": "Tek kulak yüzdesi"
+   },
+   "seriler": [
+    {
+     "ad": "yuzde",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       25,
+       0
+      ],
+      [
+       45,
+       30
+      ],
+      [
+       65,
+       60
+      ],
+      [
+       91.7,
+       100
+      ],
+      [
+       110,
+       100
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": true,
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "alt_sinir",
+     "x": 25,
+     "y": 0,
+     "cizgi": "dikey",
+     "etiket": "alt sınır: 25 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "ornek",
+     "x": 45,
+     "y": 30,
+     "dus": "xy",
+     "etiket": "45 dB: yüzde 30",
+     "cumle": 3
+    },
+    {
+     "ad": "ust_sinir",
+     "x": 91.7,
+     "y": 100,
+     "cizgi": "dikey",
+     "etiket": "üst sınır: yaklaşık 92 dB",
+     "cumle": 4
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "kayip_yok",
+     "x": [
+      0,
+      25
+     ],
+     "renk": "gri",
+     "etiket": "yüzde 0",
+     "cumle": 1
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Medikolegal değerlendirme: işitme kaybı yüzdesi hesabı | Ders 227 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme kaybı tek bir yüzdeye nasıl çevrilir? Bu derste AAO-1979 yöntemini, 25 dB alt sınırı ve desibel başına yüzde 1,5 kuralını, iki kulak formülünü, örnek hesapları ve medikolegal testte eşiklerin güvenilirliğini öğreniyoruz. Hesaplar örnektir; resmi oranlar yürürlükteki mevzuata göre belirlenir.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: American Academy of Otolaryngology, Guide for the Evaluation of Hearing Handicap, JAMA (1979); American Medical Association, Guides to the Evaluation of Permanent Impairment; Dobie, Medical-Legal Evaluation of Hearing Loss; Katz, Handbook of Clinical Audiology; World Health Organization, International Classification of Impairments, Disabilities, and Handicaps (1980).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "medikolegal",
+   "işitmekaybı"
+  ],
+  "etiketler": [
+   "işitme kaybı yüzdesi",
+   "medikolegal değerlendirme",
+   "AAO-1979",
+   "hearing handicap",
+   "işitme engeli",
+   "alt sınır",
+   "low fence",
+   "iki kulak işitme kaybı oranı",
+   "binaural impairment",
+   "psödohipoakuzi",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 227",
+   "baslik": "İşitme kaybı *yüzdesi* hesabı",
+   "alt": "Medikolegal değerlendirmenin temelleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme kaybının sayısal bir yüzdeye nasıl çevrildiğini, yani medikolegal değerlendirmenin temelini öğreneceğiz.",
+    "Amerikan Kulak Burun Boğaz Akademisinin yöntemini, alt sınırı, iki kulak hesabını ve medikolegal testin dikkat noktalarını göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kavramlar",
+   "baslik": "Neden *yüzde*?",
+   "ogeler": [
+    {
+     "ikon": "is_yeri",
+     "baslik": "Meslek hastalığı",
+     "metin": "Tazminat ve sigorta",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Engellilik raporu",
+     "metin": "Haklar ve destekler",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Mahkeme ve bilirkişi",
+     "metin": "Hukuki süreçler",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Gürültülü bir iş yerinde çalışan bir kişinin kaybı meslek hastalığı olarak değerlendirildiğinde, kaybın ne kadar olduğu sayıyla belirtilir.",
+    "Engellilik raporları, sigorta ve sosyal destekler de işitme kaybının bir orana çevrilmesini gerektirir.",
+    "Mahkemeler ve bilirkişiler de aynı soruyu sorar: bu kayıp kişinin yaşamını yüzde kaç etkiliyor?",
+    "Odyogram desibel cinsinden çok sayıda değer içerir; hukuk ise tek bir sayıya ihtiyaç duyar.",
+    "İşitme kaybı yüzdesi hesabı, odyogramı belirli kurallarla tek bir orana dönüştüren yöntemdir.",
+    "Bu dönüşüm, aynı odyogramdan herkesin aynı sonuca ulaşabilmesi için standart bir formülle yapılır."
+   ]
+  },
+  {
+   "id": "terim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kavramlar",
+   "baslik": "Bozukluk, yetersizlik, *engel*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Bozukluk",
+     "metin": "Organdaki işlev kaybı",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Yetersizlik",
+     "metin": "Etkinlikte zorlanma",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Engel",
+     "metin": "Yaşamdaki dezavantaj",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Dünya Sağlık Örgütünün 1980 sınıflamasında bozukluk (impairment), bir organın yapısındaki ya da işlevindeki kayıptır.",
+    "İşitmede bozukluk, odyogramdaki eşik yükselmesidir.",
+    "Yetersizlik (disability), bu kaybın konuşmayı anlamak gibi günlük etkinliklerde yarattığı zorlanmadır.",
+    "Engel (handicap) ise kişinin iş ve sosyal yaşamında bu nedenle yaşadığı dezavantajdır.",
+    "Amerikan Kulak Burun Boğaz Akademisinin 1979 yönteminde sonuç, işitme engeli (hearing handicap) adıyla verildi.",
+    "Amerikan Tabipler Birliğinin, kısaca AMA'nın değerlendirme rehberleri ise aynı hesabı işitme bozukluğu adıyla kullanır.",
+    "Terimler farklı olsa da sayısal yöntem aynıdır; formül, eşiklerden yola çıkarak günlük yaşamdaki etkiyi tahmin etmeye çalışır."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kavramlar",
+   "baslik": "Formülün *tarihçesi*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "1959",
+     "metin": "500, 1000, 2000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "1979",
+     "metin": "3000 Hz eklendi",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Neden?",
+     "metin": "Gürültüde konuşma",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "1959'daki eski yöntemde yalnız beş yüz, bin ve iki bin hertzin ortalaması kullanılıyordu.",
+    "1979'da Amerikan Kulak Burun Boğaz Akademisi, kısaca AAO, ortalamaya üç bin hertzi de ekledi.",
+    "Gürültüye bağlı kayıpta eşikler en çok üç bin ile altı bin hertz arasında yükselir.",
+    "Üç bin hertzin eklenmesi, bu kayıpların özellikle gürültülü ortamda konuşmayı anlamayı zorlaştırdığının kabulüdür.",
+    "Yöntem 1979'dan bu yana büyük ölçüde değişmeden kullanılmaktadır ve AMA rehberleri de bu yöntemi benimser."
+   ]
+  },
+  {
+   "id": "adim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "AAO-1979 yöntemi",
+   "baslik": "Hesabın *dört adımı*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Ortalama",
+     "metin": "500, 1000, 2000, 3000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "25 çıkar",
+     "metin": "Alt sınır",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "1,5 ile çarp",
+     "metin": "Tek kulak yüzdesi",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İki kulak",
+     "metin": "İyi kulak 5 kat",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Birinci adımda her kulak için beş yüz, bin, iki bin ve üç bin hertzdeki hava yolu eşiklerinin ortalaması alınır.",
+    "Bu, daha önce gördüğümüz üç frekanslı saf ses ortalamasından farklı, dört frekanslı bir ortalamadır.",
+    "İkinci adımda ortalamadan yirmi beş desibel çıkarılır; bu değere alt sınır (low fence) denir.",
+    "Üçüncü adımda kalan değer bir buçukla çarpılır; sonuç o kulağın kayıp yüzdesidir.",
+    "Ortalama yirmi beş desibel ya da daha iyiyse o kulağın yüzdesi sıfır kabul edilir.",
+    "Dördüncü adımda iki kulağın yüzdeleri, iyi kulağa daha fazla ağırlık veren bir formülle birleştirilir."
+   ]
+  },
+  {
+   "id": "grafik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "AAO-1979 yöntemi",
+   "baslik": "Desibelden *yüzdeye*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "ad": "Dört frekans ortalaması (dB HL)",
+     "isaretler": [
+      0,
+      25,
+      45,
+      65,
+      92,
+      110
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Tek kulak yüzdesi"
+    },
+    "seriler": [
+     {
+      "ad": "yuzde",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        25,
+        0
+       ],
+       [
+        45,
+        30
+       ],
+       [
+        65,
+        60
+       ],
+       [
+        91.7,
+        100
+       ],
+       [
+        110,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "alt_sinir",
+      "x": 25,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "alt sınır: 25 dB",
+      "cumle": 1
+     },
+     {
+      "ad": "ornek",
+      "x": 45,
+      "y": 30,
+      "dus": "xy",
+      "etiket": "45 dB: yüzde 30",
+      "cumle": 3
+     },
+     {
+      "ad": "ust_sinir",
+      "x": 91.7,
+      "y": 100,
+      "cizgi": "dikey",
+      "etiket": "üst sınır: yaklaşık 92 dB",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kayip_yok",
+      "x": [
+       0,
+       25
+      ],
+      "renk": "gri",
+      "etiket": "yüzde 0",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Her dB için yüzde 1,5",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "92 dB: yüzde 100",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, dört frekans ortalaması ile tek kulak yüzdesi arasındaki ilişkiyi gösteriyor.",
+    "Yirmi beş desibele kadar olan ortalamalar sıfır yüzde kabul edilir; formül bu düzeyde günlük konuşmada belirgin güçlük öngörmez.",
+    "Yirmi beşin üzerindeki her desibel, yüzde bir buçuk ekler.",
+    "Örneğin kırk beş desibellik bir ortalama, yirmi beşin yirmi desibel üstüdür; yirmi çarpı bir buçuk, yüzde otuz eder.",
+    "Ortalama yaklaşık doksan iki desibele ulaştığında yüzde yüze varılır; buna üst sınır (high fence) denir.",
+    "Alt sınırın neden yirmi beş desibel olduğu tartışılmıştır; bazı uzmanlar daha yüksek, bazıları daha düşük bir sınır önermiştir."
+   ]
+  },
+  {
+   "id": "iki_kulak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "AAO-1979 yöntemi",
+   "baslik": "İki kulak *formülü*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "ad": "",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "iyi kulak",
+      "2": "kötü kulak"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 6,
+     "adim": 1,
+     "ad": "Ağırlık"
+    },
+    "seriler": [
+     {
+      "ad": "iyi",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "5 kat",
+      "cumle": 1
+     },
+     {
+      "ad": "kotu",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        1
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "1 kat",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "iyi",
+     "cumle": 2
+    },
+    {
+     "parca": "kotu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "(5 x iyi + kötü) / 6",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Kişi iyi kulağına dayanır",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "İki kulak işitme kaybı oranı (binaural impairment), iki kulağın yüzdelerinin ağırlıklı ortalamasıdır.",
+    "İyi kulağın yüzdesi beşle çarpılır, kötü kulağın yüzdesi eklenir ve toplam altıya bölünür.",
+    "Formülün mantığı şudur: günlük yaşamda kişi daha çok iyi işiten kulağına dayanır.",
+    "Bu yüzden iyi kulaktaki küçük bir kayıp bile sonucu belirgin biçimde değiştirir.",
+    "Kötü kulaktaki kayıp ise sonuca daha az yansır.",
+    "Bu formülün bir sonucu, birazdan göreceğimiz tek taraflı tam kayıpta ortaya çıkar."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Örnek hesaplar",
+   "baslik": "Örnek: *gürültüye bağlı* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: ortalama 35 dB",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: ortalama 45 dB",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       55,
+       65,
+       60,
+       45
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       30,
+       35,
+       50,
+       65,
+       70,
+       65,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Alt sınır",
+     "cumle": 4
+    }
+   },
+   "cumleler": [
+    "Şimdi tamamen örnek bir odyogram üzerinde hesabı yapalım; uzun süre gürültülü bir işte çalışmış bir kişi düşünelim.",
+    "İki kulakta da tiz frekanslarda, dört bin hertz çevresinde belirginleşen sensörinöral bir kayıp var; kemik yolu hava yoluyla uyumlu.",
+    "Sağ kulakta beş yüz, bin, iki bin ve üç bin hertz eşikleri yirmi, yirmi beş, kırk ve elli beş desibel; ortalaması otuz beş desibeldir.",
+    "Sol kulakta aynı frekanslarda otuz, otuz beş, elli ve altmış beş desibel ölçülmüş; ortalaması kırk beş desibeldir.",
+    "Gölgeli bölge, alt sınır olan yirmi beş desibelin altını gösteriyor.",
+    "Dört bin ve altı bin hertzdeki kayıp ise hesaba girmez; bu, yöntemin bilinen sınırlılıklarından biridir."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Örnek hesaplar",
+   "baslik": "Örnek *hesap*",
+   "sutunlar": [
+    "Adım",
+    "Sağ",
+    "Sol"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Dört frekans ortalaması",
+      "35 dB",
+      "45 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "25 çıkar",
+      "10",
+      "20"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1,5 ile çarp",
+      "yüzde 15",
+      "yüzde 30"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "İki kulak",
+      "yüzde 17,5",
+      ""
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Hesabı adım adım yapalım: sağ kulağın ortalaması otuz beş, sol kulağınki kırk beş desibel.",
+    "Her birinden yirmi beş çıkarınca sağda on, solda yirmi desibel kalır.",
+    "Bir buçukla çarpınca sağ kulak için yüzde on beş, sol kulak için yüzde otuz bulunur.",
+    "İki kulak hesabında iyi kulak sağdır: on beş çarpı beş, yetmiş beş eder; buna sol kulağın otuzu eklenince yüz beş olur.",
+    "Yüz beşi altıya bölünce iki kulak işitme kaybı oranı yüzde on yedi buçuk bulunur.",
+    "Bu sonucun bir kişinin hukuki durumuna nasıl yansıyacağı ise ilgili mevzuata ve yetkili kurullara bağlıdır."
+   ]
+  },
+  {
+   "id": "tek_taraf",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Örnek hesaplar",
+   "baslik": "Tek taraflı *tam kayıp*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "İyi kulak",
+     "metin": "Yüzde 0",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Kötü kulak",
+     "metin": "Yüzde 100",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Sonuç",
+     "metin": "Yaklaşık yüzde 16,7",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "İkinci örnekte bir kulak tamamen normal, diğer kulak ise ileri derecede kayıplı olsun.",
+    "Normal kulağın yüzdesi sıfır, kayıplı kulağın yüzdesi yüz olarak hesaplanır.",
+    "Formüle göre sıfır çarpı beş, sıfırdır; buna yüz eklenip altıya bölünür.",
+    "Sonuç yaklaşık yüzde on altı virgül yedidir.",
+    "Yani bu yönteme göre tek kulağın tamamen işitmemesi, iki kulak oranında yalnız yaklaşık altıda birlik bir kayba karşılık gelir.",
+    "Tek taraflı kaybı olan kişilerin gürültüde ve ses yönünü bulmada yaşadığı zorluklar bu sayıya tam olarak yansımaz."
+   ]
+  },
+  {
+   "id": "tutarlilik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Medikolegal dikkat",
+   "baslik": "Önce *güvenilir* eşik",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "SRT-PTA uyumu",
+     "metin": "Yaklaşık 10 dB içinde",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Tekrar testi",
+     "metin": "Tutarlı eşikler",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Objektif testler",
+     "metin": "ABR, ASSR, refleks",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Tutarsızlık",
+     "metin": "Psödohipoakuzi şüphesi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Medikolegal değerlendirmede kaybın olduğundan fazla görünmesi olasılığı vardır; bunu psödohipoakuzi (pseudohypacusis) dersinde gördük.",
+    "Bu yüzden önce eşiklerin güvenilirliği kontrol edilir: konuşmayı alma eşiği ile saf ses ortalaması genellikle on desibel içinde uyumludur.",
+    "Aynı oturumda ya da farklı günlerde tekrarlanan eşikler birbirine yakın olmalıdır.",
+    "Akustik refleks, otoakustik emisyon ve gerekirse işitsel beyin sapı ya da durağan durum yanıtlarıyla eşikler objektif olarak doğrulanabilir.",
+    "Tutarsızlık varsa hesap yapılmaz; önce gerçek eşikler belirlenmeye çalışılır.",
+    "Tutarsızlık bulgusu kişiyi suçlamak için değil, doğru sonuca ulaşmak için kullanılır ve tarafsız bir dille raporlanır."
+   ]
+  },
+  {
+   "id": "kosul",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Medikolegal dikkat",
+   "baslik": "Testin *koşulları*",
+   "maddeler": [
+    {
+     "metin": "Öncesinde gürültüden uzak kalma",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Kalibrasyon belgesi güncel",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Cihazsız, maskeleme kurallı",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Ayrıntılı ve tarafsız rapor",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "odyometre",
+      "baslik": "Kalibrasyon",
+      "metin": "Tarih ve belge",
+      "cumle": 1
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Rapor",
+      "metin": "Ham değerler ve hesap",
+      "cumle": 4
+     }
+    ],
+    "ust": "BELGE"
+   },
+   "cumleler": [
+    "Gürültüye bağlı geçici eşik kaymasını önlemek için kişinin testten önce yeterli süre gürültüden uzak kalması gerekir.",
+    "Odyometrenin kalibrasyonu güncel olmalı ve belgelenmelidir; medikolegal bir raporda bu belge sorgulanabilir.",
+    "Eşikler işitme cihazı olmadan ölçülür; gereken her durumda maskeleme kurallarına göre yapılır.",
+    "Kemik yolu eşikleri de ölçülür; çünkü iletim tipi bir kaybın nedeni ve yorumu farklıdır.",
+    "Raporda test koşulları, kullanılan yöntem, ham eşikler ve hesap adımları açıkça yazılır."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Medikolegal dikkat",
+   "baslik": "Yöntemin *sınırları*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "4000 Hz yok",
+     "metin": "Tiz kayıp eksik yansır",
+     "cumle": 0
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Yaş payı",
+     "metin": "Ülkeye göre farklı",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tek taraflı kayıp",
+     "metin": "Etkisi küçük görünür",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Mevzuat",
+     "metin": "Ülkeye göre değişir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Yöntem dört bin hertz ve üzerini hesaba katmadığı için gürültüye bağlı kaybın erken dönemini çoğu zaman sıfır yüzde olarak gösterir.",
+    "Formül eşiklere dayanır; gürültüde konuşmayı anlama ve tinnitus gibi yakınmaları doğrudan ölçmez.",
+    "Yaşa bağlı kayıp payının hesaptan düşülüp düşülmeyeceği ülkeler ve sistemler arasında farklıdır.",
+    "Tek taraflı kayıpların gerçek etkisi, gördüğümüz gibi formülde küçük görünür.",
+    "Ülkeler farklı yöntemler kullanır; Türkiye'de resmi oranlar yürürlükteki yönetmeliklere göre belirlenir, güncel mevzuat izlenmelidir.",
+    "Bu derste uluslararası literatürde en çok başvurulan yöntemi, hesabın mantığını öğrenmek için örnek olarak gördük."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Medikolegal raporda yalnız sonucu değil, ham eşikleri, test koşullarını ve hesabın her adımını yazın. Tutarsızlık varsa hesap yapmayın.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: medikolegal raporlar yıllar sonra başka uzmanlar tarafından yeniden incelenebilir.",
+    "Bu yüzden yalnız son yüzdeyi değil, ham eşikleri, kullanılan formülü ve hesabın her adımını yazın.",
+    "Test koşullarını, kişinin iş birliğini ve tutarlılık kontrollerinin sonuçlarını da kayda geçirin.",
+    "Eşikler tutarsızsa yüzde hesaplamayın; önce güvenilir eşiklere ulaşmak için ek testleri planlayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Ortalama: 500, 1000, 2000, 3000 Hz",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "25 dB alt sınır, dB başına yüzde 1,5",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İki kulak: iyi kulak beş kat",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Önce eşiklerin güvenilirliği",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "AAO-1979 yönteminde her kulak için beş yüz, bin, iki bin ve üç bin hertz eşiklerinin ortalaması alınır.",
+     "ses": "a a o bin dokuz yüz yetmiş dokuz yönteminde her kulak için beş yüz, bin, iki bin ve üç bin hertz eşiklerinin ortalaması alınır."
+    },
+    "Ortalamadan yirmi beş desibel çıkarılır, kalan bir buçukla çarpılır; yaklaşık doksan iki desibelde yüzde yüze ulaşılır.",
+    "İki kulak oranında iyi kulağın yüzdesi beşle çarpılır, kötü kulakla toplanır ve altıya bölünür.",
+    "Medikolegal değerlendirmede önce eşiklerin güvenilirliği doğrulanır; resmi oranlar yürürlükteki mevzuata göre belirlenir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sağ kulak yüzde 10, sol kulak yüzde 40 ise iki kulak oranı kaçtır?",
+   "secenekler": [
+    "Yüzde 15",
+    "Yüzde 25",
+    "Yüzde 10",
+    "Yüzde 40"
+   ],
+   "dogru": 0,
+   "aciklama": "İyi kulak beşle çarpılır: 10 x 5 = 50; 50 + 40 = 90; 90 / 6 = yüzde 15.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: bir kişide sağ kulak yüzde on, sol kulak yüzde kırk ise iki kulak işitme kaybı oranı kaçtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: yüzde on beş.",
+    "İyi kulağın yüzdesi beşle çarpılır, elli eder; kırk eklenince doksan olur ve altıya bölününce yüzde on beş bulunur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyologlar için farmakolojiye giriş",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ototoksisite bölümüne başlıyor ve odyologlar için farmakolojinin temellerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

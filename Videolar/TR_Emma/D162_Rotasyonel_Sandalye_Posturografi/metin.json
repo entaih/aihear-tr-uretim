@@ -1,0 +1,818 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D162_Rotasyonel_Sandalye_Posturografi_TR",
+ "kapak": {
+  "ust": "DERS 162",
+  "baslik": "Sandalye ve<br>*postürografi*",
+  "alt": "Döner sandalye ve SOT",
+  "cizim": "denge_durus"
+ },
+ "youtube": {
+  "baslik": "Döner sandalye ve bilgisayarlı postürografi | Ders 162 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Döner sandalye ve bilgisayarlı dinamik postürografi ne ölçer? Bu derste sinüzoidal harmonik akselerasyon testini, kazanç, faz ve simetriyi, iki taraflı vestibüler kayıptaki değerini, duyusal organizasyon testinin altı koşulunu, denge puanını ve duyusal analiz oranlarını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; Strupp ve ark., Bilateral vestibulopathy: Diagnostic criteria (Journal of Vestibular Research, 2017) ve düzeltme yazısı (2023); Nashner, Computerized dynamic posturography; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vestibüler",
+   "denge"
+  ],
+  "etiketler": [
+   "döner sandalye",
+   "rotary chair",
+   "sinüzoidal harmonik akselerasyon",
+   "VOR kazancı",
+   "faz önü",
+   "bilgisayarlı dinamik postürografi",
+   "computerized dynamic posturography",
+   "duyusal organizasyon testi",
+   "sensory organization test",
+   "denge puanı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 162",
+   "baslik": "Sandalye ve *postürografi*",
+   "alt": "SHA testi ve duyusal organizasyon testi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste vestibüler bataryanın iki ileri testini öğreneceğiz: döner sandalye ve bilgisayarlı dinamik postürografi.",
+    "Sinüzoidal harmonik akselerasyon testini, kazanç, faz ve simetri ölçülerini ve duyusal organizasyon testinin altı koşulunu ele alacağız."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Döner sandalye",
+   "baslik": "Sandalye *iki kanalı* birlikte uyarır",
+   "cizim": "kanal_duzlemleri",
+   "ayar": {
+    "goster": [
+     "lateral"
+    ],
+    "cift_cumleleri": {
+     "lateral": 2
+    },
+    "donus": 45,
+    "donus_cumle": 3
+   },
+   "vurgula": [
+    {
+     "parca": "lateral_cift",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Döner sandalye (rotary chair), kişiyi dikey bir eksen etrafında, bilgisayar denetiminde döndüren motorlu bir sandalyedir.",
+    "Kişi karanlıkta oturur ve göz hareketleri video gözlükle kaydedilir; baş sandalyeye sabitlenir.",
+    "Baş hafifçe öne eğildiğinde iki lateral kanal yaklaşık olarak dönme düzlemine gelir.",
+    "Sandalye bir yöne döndüğünde bir taraftaki lateral kanal uyarılır, karşı taraftaki ise baskılanır.",
+    "Yani sandalye kalorik testten farklı olarak iki labirenti aynı anda ve birlikte uyarır.",
+    "Bu, testin hem en güçlü yanı hem de en önemli sınırlılığıdır; birazdan ikisine de bakacağız."
+   ]
+  },
+  {
+   "id": "sha",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Döner sandalye",
+   "baslik": "Sinüzoidal harmonik *akselerasyon*",
+   "adimlar": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Salınım",
+     "metin": "Sağa sola sinüs dönme",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Frekanslar",
+     "metin": "0,01 ile 0,64 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Hız",
+     "metin": "Tepe yaklaşık 50°/sn",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Kayıt",
+     "metin": "Karanlıkta göz hızı",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Uyanıklık",
+     "metin": "Zihinsel görevler",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En sık protokol sinüzoidal harmonik akselerasyon testidir (sinusoidal harmonic acceleration), kısaca SHA.",
+    "Sandalye sarkaç gibi salınır; çoğu protokolde sıfır virgül sıfır bir ile sıfır virgül altmış dört hertz arasında yedi frekans kullanılır.",
+    "En yavaş frekansta bir tam salınım yüz saniye sürer; en hızlısında ise yaklaşık bir buçuk saniye.",
+    "Sandalyenin tepe hızı çoğu protokolde saniyede yaklaşık elli ya da altmış derecedir.",
+    "Her frekansta yavaş faz göz hızı ile sandalye hızı karşılaştırılır.",
+    "Karanlıkta vestibülo-oküler refleksin, kısaca VOR'un azalmaması için kişinin sayı sayma gibi zihinsel görevlerle uyanık kalması sağlanır."
+   ]
+  },
+  {
+   "id": "olcu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kazanç, faz, simetri",
+   "baslik": "Üç ölçü: *kazanç, faz, simetri*",
+   "cizim": "faz_egrileri",
+   "ayar": {
+    "faz": 30,
+    "kazanc": 0.6,
+    "bas_cumle": 1,
+    "goz_cumle": 1,
+    "faz_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "faz_farki",
+     "metin": "faz önü",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Vestibülo-oküler refleks dersinde gördüğümüz iki ölçüyü burada her frekansta ayrı ayrı hesaplarız.",
+    "Kazanç, yavaş faz göz hızının sandalye hızına oranıdır; göz başın hareketini ne kadar karşılıyor, onu gösterir.",
+    "Faz, göz yanıtı ile sandalye hareketi arasındaki zaman ilişkisidir; düşük frekanslarda göz öne geçer, buna faz önü denir.",
+    "Periferik vestibüler sorunlarda, özellikle düşük frekanslarda faz önü normalden fazla olur.",
+    "Simetri ise sağa ve sola dönüşlerde oluşan göz yanıtlarının karşılaştırılmasıdır.",
+    "Asimetri, yanıtın bir yöne daha güçlü olduğunu gösterir; ama hangi kulağın sorunlu olduğunu her zaman güvenilir biçimde söylemez.",
+    "Çünkü iki labirent birlikte uyarıldığı için, akut dönemdeki bir kayıpla kompanze olmuş bir kayıp farklı yönlerde asimetri verebilir."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kazanç, faz, simetri",
+   "baslik": "Örnek: *iki taraflı* kayıp",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.008,
+     "max": 0.8,
+     "log": true,
+     "ad": "Dönme frekansı (Hz)",
+     "isaretler": [
+      0.01,
+      0.02,
+      0.04,
+      0.08,
+      0.16,
+      0.32,
+      0.64
+     ],
+     "yazilar": {
+      "0.01": "0,01",
+      "0.02": "0,02",
+      "0.04": "0,04",
+      "0.08": "0,08",
+      "0.16": "0,16",
+      "0.32": "0,32",
+      "0.64": "0,64"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 1.0,
+     "adim": 0.2,
+     "ad": "VOR kazancı",
+     "ond": 1
+    },
+    "bolgeler": [
+     {
+      "ad": "normal_bolge",
+      "y": [
+       0.35,
+       0.8
+      ],
+      "renk": "yesil",
+      "etiket": "örnek normal aralık",
+      "cumle": 1
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0.01,
+        0.45
+       ],
+       [
+        0.02,
+        0.5
+       ],
+       [
+        0.04,
+        0.55
+       ],
+       [
+        0.08,
+        0.58
+       ],
+       [
+        0.16,
+        0.6
+       ],
+       [
+        0.32,
+        0.6
+       ],
+       [
+        0.64,
+        0.6
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "normal örnek",
+      "cumle": 2
+     },
+     {
+      "ad": "iki_tarafli",
+      "noktalar": [
+       [
+        0.01,
+        0.02
+       ],
+       [
+        0.02,
+        0.03
+       ],
+       [
+        0.04,
+        0.04
+       ],
+       [
+        0.08,
+        0.06
+       ],
+       [
+        0.16,
+        0.07
+       ],
+       [
+        0.32,
+        0.09
+       ],
+       [
+        0.64,
+        0.12
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "iki taraflı kayıp örneği",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "barany",
+      "x": 0.1,
+      "y": 0.1,
+      "etiket": "0,1 Hz'de 0,1",
+      "dus": "xy",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normlar laboratuvara özgü",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Her frekansta düşük kazanç",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kalan işlevi ölçer",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, frekansa göre VOR kazancını gösteren şematik bir örnektir.",
+    "Yeşil bant örnek bir normal aralığı gösteriyor; gerçek normlar cihaza, protokole ve yaşa göre laboratuvarca belirlenir.",
+    "Mavi çizgi normal bir kişiyi gösteriyor; kazanç düşük frekanslarda biraz daha düşük, orta frekanslarda daha yüksektir.",
+    "Kırmızı çizgide ise bütün frekanslarda kazanç çok düşük; bu desen iki taraflı vestibüler kayıpla uyumludur.",
+    "Kalorik testte iki tarafta da yanıt alınamayan bir hastada sandalye, kalan işlevin olup olmadığını ve ne kadar olduğunu gösterir.",
+    "İki taraflı vestibülopatide Barany ölçütlerinden biri, sıfır virgül bir hertzde sıfır virgül bir ve altı kazanç ile artmış faz önüdür.",
+    "Kalan işlevin izlenmesi, özellikle ototoksik ilaç kullanan kişilerde zaman içindeki değişimi görmeyi sağlar."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kazanç, faz, simetri",
+   "baslik": "Sandalyedeki *diğer* testler",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Hız basamağı",
+     "metin": "Ani başlama ve durma",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Görsel VOR",
+     "metin": "Işıkta dönme",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Fiksasyonla baskılama",
+     "metin": "Hedefe bakarak dönme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hız basamağı testinde sandalye hızla sabit bir hıza çıkar, bir süre döner ve sonra aniden durur.",
+    "Başlangıçta ve durmadan sonra oluşan nistagmusun ne kadar sürede söndüğü ölçülür; bu süreye zaman sabiti denir.",
+    "Periferik kayıpta zaman sabiti kısalır; sağa ve sola dönüşlerin karşılaştırılması asimetri hakkında bilgi verir.",
+    "Görsel VOR testinde dönme ışıkta yapılır; görme ve vestibüler sistem birlikte çalışır ve kazanç normalde bire yaklaşır.",
+    "Fiksasyonla baskılama testinde ise kişi sandalyeyle birlikte dönen bir ışığa bakar; sağlıklı beyincik VOR'u belirgin biçimde baskılar.",
+    "Baskılamanın bozulması, beyincikle ilişkili santral bir sorunu düşündürebilir."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kazanç, faz, simetri",
+   "baslik": "Sandalye *nerede* değerli?",
+   "maddeler": [
+    {
+     "metin": "İki taraflı kaybı doğrulamak",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kalan işlevi izlemek",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Küçük çocuklar: ebeveyn kucağında",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Kompanzasyonu izlemek",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Tarafı göstermekte sınırlı",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kanal_duzlemleri",
+    "cumle": 0,
+    "ayar": {
+     "goster": [
+      "lateral"
+     ]
+    }
+   },
+   "cumleler": [
+    "Döner sandalye, iki taraflı vestibüler kaybın doğrulanmasında en güçlü testlerden biridir.",
+    "Ototoksik ilaç kullanımında olduğu gibi, kalan işlevin zaman içinde izlenmesinde de değerlidir.",
+    "Kalorik testi tolere edemeyen küçük çocuklar sandalyede, ebeveynin kucağında test edilebilir.",
+    "Tek taraflı kayıptan sonra faz ve simetrinin izlenmesi, merkezi kompanzasyon hakkında bilgi verir.",
+    "Buna karşın sandalye, tek taraflı bir kaybın hangi kulakta olduğunu kalorik test kadar net göstermez ve pahalı bir donanımdır.",
+    "Bu yüzden sandalye kalorik test ve video baş itme testinin yerini almaz; onları tamamlar."
+   ]
+  },
+  {
+   "id": "cdp",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Postürografi",
+   "baslik": "Bilgisayarlı dinamik *postürografi*",
+   "cizim": "posturografi",
+   "etiketler": [
+    {
+     "parca": "agirlik_merkezi",
+     "metin": "ağırlık merkezi",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "metin": "hareketli platform",
+     "cumle": 4
+    },
+    {
+     "parca": "kemer",
+     "metin": "emniyet kemeri",
+     "cumle": 2
+    },
+    {
+     "parca": "gorsel_cevre",
+     "metin": "görsel çevre",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "agirlik_merkezi",
+     "cumle": 3
+    },
+    {
+     "parca": "salinim",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Denge sistemleri dersinde dengenin görme, vücut duyusu ve vestibüler sistemden gelen bilgilerle sağlandığını görmüştük.",
+    "Bilgisayarlı dinamik postürografi (computerized dynamic posturography), bu üç duyunun dengeye katkısını ayrı ayrı ölçen bir sistemdir.",
+    "Kişi kuvvet algılayıcıları olan bir platformun üzerinde, düşmeye karşı bir emniyet kemeriyle durur.",
+    "Platform, ağırlık merkezinin öne ve arkaya salınımını sürekli ölçer.",
+    "Ayırt edici özellik, zeminin ve görsel çevrenin kişinin salınımıyla birlikte hareket edebilmesidir; buna salınıma bağlama denir.",
+    "Zemin salınımla eğildiğinde ayak bileği bilgisi, görsel çevre birlikte hareket ettiğinde ise görme yanıltıcı olur."
+   ],
+   "ayar": {
+    "platform_cumle": 2,
+    "kemer_cumle": 2,
+    "salinim_cumle": 3,
+    "bagla_cumle": 4
+   }
+  },
+  {
+   "id": "sot",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Postürografi",
+   "baslik": "Duyusal organizasyon testi: *altı koşul*",
+   "sutunlar": [
+    "Koşul",
+    "Görme",
+    "Zemin",
+    "Güvenilen duyu"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "Açık",
+      "Sabit",
+      "Üçü de"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2",
+      "Kapalı",
+      "Sabit",
+      "Vücut, vestibüler"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "3",
+      "Salınıma bağlı",
+      "Sabit",
+      "Vücut, vestibüler"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4",
+      "Açık",
+      "Salınıma bağlı",
+      "Görme, vestibüler"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "5",
+      "Kapalı",
+      "Salınıma bağlı",
+      "Vestibüler"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "6",
+      "Salınıma bağlı",
+      "Salınıma bağlı",
+      "Vestibüler"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Postürografinin temel testi duyusal organizasyon testidir (sensory organization test), kısaca SOT; altı koşuldan oluşur.",
+    "Birinci koşulda gözler açık, zemin ve görsel çevre sabittir; üç duyu da doğru bilgi verir.",
+    "İkinci koşulda gözler kapanır; denge vücut duyusu ve vestibüler sisteme kalır.",
+    "Üçüncü koşulda gözler açıktır ama görsel çevre salınıma bağlıdır; görme yanıltıcıdır.",
+    "Dördüncü koşulda zemin salınıma bağlanır; vücut duyusu yanıltıcı olur, görme ve vestibüler sistem kalır.",
+    "Beşinci ve altıncı koşullarda zemin yanıltıcıdır, görme de yoktur ya da yanıltıcıdır; denge vestibüler sisteme kalır.",
+    "Her koşul genellikle yirmi saniye sürer ve üçer kez tekrarlanır."
+   ]
+  },
+  {
+   "id": "sot_ornek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "SOT yorumu",
+   "baslik": "Örnek: *vestibüler* desen",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "adim": 1,
+     "yazilar": {
+      "1": "1",
+      "2": "2",
+      "3": "3",
+      "4": "4",
+      "5": "5",
+      "6": "6"
+     },
+     "ad": "SOT koşulu"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Denge puanı"
+    },
+    "seriler": [
+     {
+      "ad": "kosul_1_4",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        94
+       ],
+       [
+        2,
+        91
+       ],
+       [
+        3,
+        89
+       ],
+       [
+        4,
+        80
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "1 ile 4: normale yakın",
+      "cumle": 3
+     },
+     {
+      "ad": "kosul_5_6",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        5,
+        28
+       ],
+       [
+        6,
+        22
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "5 ve 6: düşük",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Puan: salınım / 12,5°",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "1 ile 4: normale yakın",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "5 ve 6: düşük",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Her denemede bir denge puanı (equilibrium score) hesaplanır; sıfır ile yüz arasında değişir.",
+    "Puan, öne arkaya salınım açısının yaklaşık on iki buçuk derecelik kuramsal düşme sınırıyla karşılaştırılmasıyla bulunur.",
+    "Örneğin salınım iki buçuk derece ise puan seksendir; düşme ya da kemere yaslanma sıfır puan alır.",
+    "Bu örnekte birinci ile dördüncü koşullarda puanlar normale yakın.",
+    "Beşinci ve altıncı koşullarda ise puanlar belirgin biçimde düşük ve kişi kemere yaslanıyor.",
+    "Yani görme ya da vücut duyusu kullanılabildiğinde denge korunuyor, ama yalnız vestibüler bilgiye kalındığında bozuluyor.",
+    "Bu desen vestibüler işlev bozukluğu deseni olarak adlandırılır; normal sınırlar ise yaşa göre değişir."
+   ]
+  },
+  {
+   "id": "oranlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "SOT yorumu",
+   "baslik": "Duyusal *analiz* oranları",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Vücut duyusu",
+     "metin": "Koşul 2 / koşul 1",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Görme",
+     "metin": "Koşul 4 / koşul 1",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Vestibüler",
+     "metin": "Koşul 5 / koşul 1",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Görsel tercih",
+     "metin": "(3+6) / (2+5)",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Koşullar arasındaki oranlar, hangi duyunun dengeye yeterince katkı vermediğini gösterir.",
+    "Vücut duyusu oranı, ikinci koşulun puanının birinci koşula bölünmesiyle bulunur.",
+    "Görme oranı, dördüncü koşulun birinci koşula oranıdır.",
+    "Vestibüler oran ise beşinci koşulun birinci koşula oranıdır; vestibüler desende düşük çıkar.",
+    "Görsel tercih oranı yanıltıcı görsel bilgiye direnci gösterir; üç ve altının toplamı, iki ve beşin toplamına bölünür.",
+    "Görsel tercihi düşük olan kişi, hareket eden bir görsel çevrede dengesini kaybetmeye yatkındır."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "SOT yorumu",
+   "baslik": "Postürografi *neyi söylemez?*",
+   "maddeler": [
+    {
+     "metin": "Lezyonun yerini ve tarafını göstermez",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "İşlevsel durumu sayısal gösterir",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Rehabilitasyon izleminde değerli",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Fizyolojik olmayan desen: tutarsızlık",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "salinim",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Postürografi, sorunun hangi kulakta ya da sinir sisteminin neresinde olduğunu göstermez.",
+    "Gösterdiği şey, kişinin günlük yaşamdakine benzer koşullarda duyuları dengeye ne kadar iyi kullandığıdır.",
+    "Bu yüzden vestibüler rehabilitasyon öncesinde ve sonrasında işlevsel değişimi izlemek için değerlidir.",
+    "Sistem ayrıca, platformun ani hareketlerine verilen motor yanıtları ölçen motor kontrol testi gibi ek testler içerir.",
+    "Kolay koşullarda zor koşullardan daha kötü performans gibi fizyolojik olarak beklenmeyen desenler, tutarsız yanıtı düşündürür.",
+    "Böyle bir desen tek başına bir yorum için yeterli değildir; diğer test bulgularıyla birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Postürografide kişinin öykü ve korku düzeyini not edin; düşme kaygısı, özellikle 5 ve 6. koşul puanlarını etkileyebilir.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: postürografi, kişinin o andaki performansını ölçer; kaygı ve yorgunluk sonucu etkiler.",
+    "Düşme korkusu olan kişi beşinci ve altıncı koşullarda gereğinden fazla kasılabilir ya da kemere erkenden yaslanabilir.",
+    "Teste başlamadan önce emniyet kemerini gösterin, deneme turu yaptırın ve kişinin kaygısını not edin.",
+    "Sandalye testinde ise kişinin uyanık kalması için zihinsel görevleri her frekansta sürdürün; uykulu bir hasta sahte düşük kazanç verebilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Sandalye iki lateral kanalı _birlikte_ uyarır",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Kazanç, faz ve simetri ölçülür",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SOT: altı koşulda üç duyu",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "5 ve 6'da düşük: vestibüler desen",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Döner sandalye iki lateral kanalı birlikte uyarır; iki taraflı kaybın doğrulanmasında ve kalan işlevin izlenmesinde güçlüdür.",
+    "Sinüzoidal harmonik akselerasyon testinde her frekansta kazanç, faz ve simetri ölçülür; periferik kayıpta faz önü artar.",
+    "Duyusal organizasyon testi altı koşulda görme, vücut duyusu ve vestibüler bilginin dengeye katkısını ölçer.",
+    "Yalnız beşinci ve altıncı koşullarda düşük puan vestibüler işlev bozukluğu desenidir; postürografi lezyonun yerini göstermez."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "SOT'ta yalnız 5 ve 6'da düşük puan?",
+   "secenekler": [
+    "Görsel tercih sorunu",
+    "Vücut duyusu sorunu",
+    "Vestibüler desen",
+    "Normal sonuç"
+   ],
+   "dogru": 2,
+   "aciklama": "Bu koşullarda denge büyük ölçüde _vestibüler_ bilgiye kalır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: duyusal organizasyon testinde yalnız beşinci ve altıncı koşul puanları düşük. Bu hangi desendir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: vestibüler işlev bozukluğu deseni.",
+    "Bu iki koşulda görme ve vücut duyusu kullanılamaz ya da yanıltıcıdır; denge vestibüler sisteme kalır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Pediatrik* odyolojiye giriş",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste pediatrik değerlendirme bölümüne başlıyor ve çocuğun küçük bir yetişkin olmadığını konuşacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

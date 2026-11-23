@@ -1,0 +1,810 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D092_Maskeleme_Ikilemi_TR",
+ "kapak": {
+  "ust": "DERS 92",
+  "baslik": "Maskeleme<br>*ikilemi*",
+  "alt": "İki taraflı iletim tipi kayıpta çıkmaz",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      55,
+      60,
+      60,
+      55,
+      60,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      60,
+      60,
+      65,
+      60,
+      60,
+      65
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      5,
+      5,
+      10,
+      10,
+      10
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Maskeleme İkilemi: İki Taraflı İletim Tipi Kayıpta Çıkmaz | Ders 92 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İki taraflı iletim tipi kayıpta gereken en az gürültü, izin verilen en fazla gürültüyü aşabilir. Bu derste maskeleme ikileminin nedenini, insert kulaklığın katkısını, çapraz kontrol testlerini ve kemik yolu ABR ile kulağa özgü bilgi edinmeyi örnek hesaplarla inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hall, New Handbook of Auditory Evoked Responses; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ],
+  "etiketler": [
+   "maskeleme ikilemi",
+   "masking dilemma",
+   "iki taraflı iletim tipi işitme kaybı",
+   "insert kulaklık",
+   "kemik yolu ABR",
+   "bone-conduction ABR",
+   "aşırı maskeleme",
+   "klinik maskeleme",
+   "çapraz kontrol",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 92",
+   "baslik": "Maskeleme *ikilemi*",
+   "alt": "İki taraflı iletim tipi kayıpta çıkmaz",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste klinik maskelemenin en zor durumu olan maskeleme ikilemini öğreneceğiz.",
+    "İkilemin neden oluştuğunu, insert kulaklığın katkısını ve kulağa özgü bilgiyi başka testlerle nasıl desteklediğimizi göreceğiz."
+   ]
+  },
+  {
+   "id": "tablo_odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İkilem nedir?",
+   "baslik": "İki kulakta *büyük aralık*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Maskesiz kemik yolu",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       55,
+       60,
+       60,
+       55,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       60,
+       60,
+       65,
+       60,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      60
+     ],
+     "etiket": "50 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnekte iki kulağın hava yolu eşikleri elli beş ile altmış beş desibel arasında.",
+    "Maskesiz kemik yolu eşikleri ise beş ile on desibel arasında, yani normal.",
+    "İki kulakta da yaklaşık elli desibellik bir hava-kemik aralığı olabilir; ama maskesiz kemik yolu kime ait, bilmiyoruz.",
+    "Kemik yolu kuralına göre iki kulağın kemik yolu da maskelenmeli; hava yolu kuralına göre de maskeleme gerekebilir.",
+    "Ancak gürültüyü vermeye çalıştığımızda, hiçbir düzeyin işe yaramadığını görürüz.",
+    "Bu çıkmaza maskeleme ikilemi (masking dilemma) denir; 1960'ta Naunton tarafından tanımlandığı kabul edilir."
+   ]
+  },
+  {
+   "id": "bilinen",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İkilem nedir?",
+   "baslik": "Neyi *biliyoruz*, neyi bilmiyoruz?",
+   "maddeler": [
+    {
+     "metin": "En az bir koklea _normal_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "En az bir kulakta _iletim bileşeni_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Hava yolu eşikleri de _belirsiz_ kalabilir",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Bilinmeyen: _her kulağın_ kemik yolu",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "BELİRSİZLİK",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "kemik_vibratoru",
+      "baslik": "Kemik yolu",
+      "metin": "Kime ait?",
+      "cumle": 4
+     },
+     {
+      "ikon": "odyogram",
+      "baslik": "Kayıp tipi",
+      "metin": "Her kulakta ayrı mı?",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Maskeleme yapamasak da bazı şeyleri biliyoruz: maskesiz kemik yolu normal olduğuna göre en az bir koklea normal çalışıyor.",
+    "Hava yolu eşikleri belirgin biçimde kötü olduğuna göre, en az bir kulakta iletim bileşeni var.",
+    "Hava yolu kuralı da maskeleme gerektirdiği için, ikilemde kulağa özgü hava yolu eşikleri de kesinleşmeyebilir.",
+    "Çünkü kötü kulağa verilen ton, kafatasından geçip daha iyi kokleada duyulmuş olabilir.",
+    "Asıl bilmediğimiz ise her kulağın kendi kemik yolu eşiğidir; yani aralığın iki kulakta da gerçekten var olup olmadığı.",
+    "Örneğin kulaklardan birinde iletim tipi, diğerinde mikst ya da sensörinöral bir kayıp olabilir."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İkilem nedir?",
+   "baslik": "Sıkışan *pencere*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "karsi_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 1
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 3
+    },
+    {
+     "parca": "test_kulagi",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "karsi_kulak",
+     "metin": "NTE: iletim engeli",
+     "cumle": 0
+    },
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: kemik yolu iyi",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "En az gürültü _yükselir_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "En fazla gürültü _düşer_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Plato _kaybolur_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "İkilemin iki nedeni vardır; birincisi test edilmeyen kulakta, kısaca NTE'deki iletim tipi kayıptır.",
+    "Kulaklıkla verilen gürültü NTE kokleasına bu engeli aşarak ulaşır; bu yüzden en az gürültü, hava-kemik aralığı kadar yükselir.",
+    "İkinci neden, test kulağının, kısaca TE'nin kemik yolunun iyi olmasıdır.",
+    "Gürültü kulaklar arası zayıflama, yani IA kadar azalarak TE kokleasına ulaşır ve onu maskeler; bu yüzden en fazla gürültü düşük kalır.",
+    "En az gürültü en fazlaya ulaşıp onu aştığında, arada plato bulunacak bir pencere kalmaz.",
+    "Gürültü yetersizden doğrudan aşırı maskelemeye geçer; gerçek eşiği gösteren sabit bir bölge hiç görülmez."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hesap ve insert",
+   "baslik": "1000 Hz'de kemik yolu *penceresi*",
+   "sutunlar": [
+    "Durum",
+    "En az (dB EM)",
+    "En fazla (dB EM)",
+    "Sonuç"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Aralık 55, supra-aural",
+      "75",
+      "45",
+      "İkilem"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Aralık 55, insert",
+      "75",
+      "60",
+      "İkilem"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Aralık 25, supra-aural",
+      "45",
+      "45",
+      "Pencere yok"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Aralık 25, insert",
+      "45",
+      "60",
+      "Plato mümkün"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Önceki derste gördüğümüz formülleri bin hertzde, sağ kulağın kemik yolu maskelemesi için uygulayalım.",
+    "TE'nin kemik yolu on, NTE'deki aralık elli beş; güvenlik payıyla en az gürültü yetmiş beş desibel etkin maskeleme, yani dB EM olur.",
+    "NTE'de iletim kaybı olduğu için oklüzyon düzeltmesi eklenmez; en fazla gürültü ise on artı kırk eksi beş, yani kırk beş dB EM.",
+    "Insert kulaklıkta IA elli beş alınınca en fazla gürültü altmışa çıkar; ama yetmiş beşlik en az gürültünün yine altında kalır.",
+    "Aralığı yirmi beş desibel olan daha hafif bir kayıpta, supra-aural kulaklıkla en az ve en fazla gürültü kırk beşte buluşur.",
+    "Aynı kayıpta insert kulaklıkla en fazla gürültü altmışa çıkar; on beş desibellik pencere açılır ve plato aranabilir."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hesap ve insert",
+   "baslik": "İlk çözüm: *insert* kulaklık",
+   "ogeler": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Daha yüksek IA",
+     "metin": "Pes frekansta daha da yüksek",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Az oklüzyon",
+     "metin": "Kemik yolu maskelemesine yarar",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Derin yerleştirme",
+     "metin": "IA'yı belirler",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sınırı var",
+     "metin": "Büyük aralıkta yetmeyebilir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Maskeleme ikilemi şüphesinde ilk adım, hem ton hem gürültü için insert kulaklık kullanmaktır.",
+    "Insert kulaklıkta IA daha yüksektir; pes frekanslarda çoğu zaman temkinli değerin de üzerindedir.",
+    "IA yükseldikçe en fazla gürültü yükselir; hava yolu maskelemesinde en az gürültü de düşer ve pencere iki yönden genişler.",
+    "Insert kulaklık oklüzyon etkisini de azaltır; bu da kemik yolu maskelemesinde gereken gürültüyü düşürür.",
+    "Bu avantajlar köpük ucun kulak yoluna derin ve doğru yerleştirilmesine bağlıdır.",
+    "Ancak hesapta gördüğümüz gibi, çok büyük aralıklarda insert kulaklık da ikilemi çözmeyebilir."
+   ]
+  },
+  {
+   "id": "cozum",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hesap ve insert",
+   "baslik": "Insert ile *çözülen* örnek",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Sağ_: maskeli kemik yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli kemik yolu",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       35,
+       35,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       35,
+       40,
+       35,
+       35,
+       40,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       10
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Bu örnekte iki kulakta hava yolu otuz beş ile kırk desibel arasında, maskesiz kemik yolu ise on desibel civarındaydı.",
+    "Insert kulaklıkla hesaplanan pencere açık olduğu için iki kulakta da plato yöntemi uygulanabildi.",
+    "Sağ kulağın maskeli kemik yolu eşikleri on ile on beş desibel arasında kaldı.",
+    "Sol kulağın maskeli kemik yolu da benzer düzeyde bulundu.",
+    "Böylece iki kulakta da hava-kemik aralığının gerçek olduğu, yani iki taraflı iletim tipi kayıp olduğu gösterildi.",
+    "Aynı hastada supra-aural kulaklıkla bu sonuca ulaşmak mümkün olmayacaktı."
+   ]
+  },
+  {
+   "id": "kimler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hesap ve insert",
+   "baslik": "İkilem *kimlerde* görülür?",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "İki taraflı otit",
+     "metin": "Efüzyonlu ya da kronik",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İki taraflı otoskleroz",
+     "metin": "Geniş aralık",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Kulak yolu atrezisi",
+     "metin": "Insert takılamaz",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Mikst kayıp",
+     "metin": "İki tarafta aralık",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İkilem, iki kulakta da belirgin bir iletim bileşeni olan kayıplarda ortaya çıkar ve aralık büyüdükçe çözülmesi zorlaşır.",
+    "İki taraflı efüzyonlu ya da kronik otitis media buna sık bir örnektir.",
+    "İki taraflı otosklerozda da hava-kemik aralığı ilerledikçe ikilem gelişebilir.",
+    "Doğumsal dış kulak yolu atrezisi en zor durumdur; burada iletim kaybı büyüktür ve insert kulaklık takılamaz.",
+    "Atrezide kemik yolu eşikleri, kulağa özgü bilgi için çoğu zaman elektrofizyolojik testlerle desteklenir.",
+    "Mikst kayıplarda da iki tarafta belirgin aralık varsa benzer sorun yaşanabilir."
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Destek testleri",
+   "baslik": "Çapraz *kontrol* testleri",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometri",
+     "metin": "Orta kulak durumu",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Akustik refleks",
+     "metin": "İletim kaybında çoğunlukla yok",
+     "cumle": 2
+    },
+    {
+     "ikon": "diyapazon",
+     "baslik": "Diyapazon",
+     "metin": "Kaba yön gösterir",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Kemik yolu ABR",
+     "metin": "Kulağa özgü bilgi",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İkilem çözülemediğinde odyogramı başka testlerle desteklemek gerekir; buna çapraz kontrol ilkesi denir.",
+    "Timpanometri, iki orta kulağın durumunu ayrı ayrı göstererek iletim bileşeninin kaynağını destekler.",
+    "İletim tipi kayıpta akustik refleksler çoğunlukla alınamaz; bu da iletim bileşenini doğrular.",
+    "Diyapazon testleri kaba bir yön gösterebilir, ama iki taraflı kayıpta yorumları sınırlıdır.",
+    {
+     "yazi": "Jerger ve Tillman'ın 1960'ta önerdiği duyusal-sinirsel keskinlik düzeyi, yani SAL testi gibi eski yöntemler bugün yaygın değildir.",
+     "ses": "Cerger ve Tilmın'ın 1960'ta önerdiği duyusal-sinirsel keskinlik düzeyi, yani SAL testi gibi eski yöntemler bugün yaygın değildir."
+    },
+    "Günümüzde en güçlü destek, kemik yoluyla uyarılan işitsel beyin sapı yanıtıdır."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Destek testleri",
+   "baslik": "Kemik yolu *ABR*",
+   "cizim": "abr",
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Dalga I: aynı taraf",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Dalga V",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İki kanallı kayıt: _aynı ve karşı_ taraf",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bebekte kemik yolu IA'sı _daha yüksek_",
+     "cumle": 4,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Gerekirse _insert ile_ maskeleme",
+     "cumle": 5,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "İşitsel beyin sapı yanıtı, kısaca ABR, kemik vibratörüyle de uyarılabilir; buna kemik yolu ABR (bone-conduction ABR) denir.",
+    "Kayıt iki kanaldan, uyarılan tarafın ve karşı tarafın elektrotlarından aynı anda alınır.",
+    "Dalga I işitme sinirinin kokleaya yakın bölümünden doğar ve çoğunlukla yalnız uyarılan kokleanın tarafındaki kanalda belirgindir.",
+    "İki kanaldaki dalga I varlığı ve dalga V latansları karşılaştırılarak yanıtın hangi kokleadan geldiği hakkında bilgi edinilir.",
+    "Bebeklerde kemik yolunda kulaklar arası zayıflama yetişkinlerden yüksektir; bu da kulağa özgü değerlendirmeyi kolaylaştırır.",
+    "Gerektiğinde karşı kulağa insert kulaklıkla maskeleme de uygulanır.",
+    "Kemik yolu ABR, özellikle atrezili çocuklarda ve davranışsal testin yapılamadığı durumlarda değerli bir destektir."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik yol ve rapor",
+   "baslik": "İkilem şüphesinde *yol haritası*",
+   "adimlar": [
+    {
+     "ikon": "tablo",
+     "baslik": "Pencereyi hesapla",
+     "metin": "En az ve en fazla",
+     "cumle": 0
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Insert kullan",
+     "metin": "Ton ve gürültü için",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Çapraz kontrol",
+     "metin": "İmmitans ve refleks",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Kemik yolu ABR",
+     "metin": "Gerekirse",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Raporda belirt",
+     "metin": "Belirsizliği açıkça yaz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Pratikte ilk adım, her frekans için en az ve en fazla gürültüyü hesaplayıp pencerenin açık olup olmadığını görmektir.",
+    "Pencere kapalıysa ton ve gürültü için insert kulaklıkla yeniden deneyin.",
+    "İkilem sürerse timpanometri ve akustik refleks gibi çapraz kontrol testlerinden yararlanın.",
+    "Kulağa özgü kemik yolu bilgisi tedavi kararı için gerekliyse kemik yolu ABR değerlendirilir.",
+    "Son olarak, çözülemeyen belirsizliği raporda açıkça belirtin."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik yol ve rapor",
+   "baslik": "Raporda *ne yazılır?*",
+   "maddeler": [
+    {
+     "metin": "Eşikleri _kesinmiş gibi_ yazma",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Maskeleme ikilemini _not et_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Kullanılan gürültü düzeylerini _kaydet_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Destek test sonuçlarını _ekle_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÖRNEK NOT",
+    "metin": "Maskeleme ikilemi nedeniyle *kulağa özgü* kemik yolu belirlenemedi",
+    "cumle": 1
+   },
+   "cumleler": [
+    "İkilem çözülemediyse, maskesiz ya da plato görülmeden alınmış eşikleri kesin değerlermiş gibi raporlamayın.",
+    "Raporda maskeleme ikilemi nedeniyle kulağa özgü kemik yolunun belirlenemediğini açıkça belirtin.",
+    "Denenen gürültü düzeylerini ve kullanılan kulaklık türünü kaydedin.",
+    "Timpanometri, akustik refleks ve varsa kemik yolu ABR sonuçlarını yoruma ekleyin.",
+    "Bir kulağa cerrahi uygulandıktan sonra o kulaktaki aralık kapanabilir; bu durumda karşı kulak artık rahatça maskelenebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "İki taraflı iletim tipi kayıpta teste baştan insert kulaklıkla başlayın. Böylece maskeleme gereken frekanslar azalır ve ikilem çoğu zaman hiç oluşmaz.",
+   "cumleler": [
+    "Sahadan bir ipucu: öykü ya da otoskopi iki taraflı iletim tipi kayıp düşündürüyorsa teste baştan insert kulaklıkla başlayın.",
+    "Böylece daha sonra kulaklık değiştirmek ve ölçümleri tekrarlamak zorunda kalmazsınız.",
+    "Insert kulaklık hem hava yolu maskeleme ihtiyacını azaltır hem de kemik yolu maskelemesinde pencereyi genişletir.",
+    "Kulak yolunda akıntı ya da atrezi varsa bu mümkün olmayabilir; o zaman çapraz kontrol testlerini erkenden planlayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "En az gürültü _en fazlayı_ aşar",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Neden: NTE'de engel, _TE'de iyi kemik_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "İlk çözüm: _insert_ kulaklık",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Destek: _kemik yolu ABR_, immitans",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Maskeleme ikileminde gereken en az gürültü, aşırı maskelemenin başladığı en fazla gürültüye ulaşır ya da onu aşar; plato bulunamaz.",
+    "Nedeni, NTE'deki iletim engelinin en az gürültüyü yükseltmesi ve TE'nin iyi kemik yolunun en fazla gürültüyü düşürmesidir.",
+    "Insert kulaklık IA'yı artırıp oklüzyonu azaltarak pencereyi genişletir; ama çok büyük aralıklarda yetmeyebilir.",
+    "Çözülemeyen durumda immitans testleri ve kemik yolu ABR ile destek alınır ve belirsizlik raporda belirtilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Maskeleme ikilemini azaltmada ilk pratik adım hangisidir?",
+   "secenekler": [
+    "Gürültüyü 20 dB artırmak",
+    "Insert kulaklık kullanmak",
+    "Maskelemeyi atlamak",
+    "Kemik yolunu alından ölçmek"
+   ],
+   "dogru": 1,
+   "aciklama": "Insert kulaklık _IA'yı artırır_ ve oklüzyonu azaltır; maskeleme penceresi genişler.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Maskeleme ikilemini azaltmada ilk pratik adım hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: insert kulaklık kullanmak.",
+    "Insert kulaklık kulaklar arası zayıflamayı artırır ve oklüzyonu azaltır; en az ile en fazla gürültü arasındaki pencere genişler."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Maskeleme *pratiği*: çözümlü örnekler",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste maskeleme konusundaki bütün kuralları gerçekçi örnek odyogramlar üzerinde adım adım uygulayacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

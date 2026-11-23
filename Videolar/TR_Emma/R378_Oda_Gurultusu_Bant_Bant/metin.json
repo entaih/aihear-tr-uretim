@@ -1,0 +1,105 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R378_Oda_Gurultusu_Bant_Bant_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #378",
+  "baslik": "Oda gürültüsü *bant bant*",
+  "alt": "Ortam gürültüsü nasıl ölçülür?",
+  "cizim": "test_kabini",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Test odasının gürültüsü tek bir desibel değeriyle değerlendirilir mi? #shorts",
+  "aciklama": "Test odasında izin verilen en yüksek ortam gürültüsü tek bir sayı olarak değil, oktav ya da üçte bir oktav bant düzeyleri olarak verilir; bu yüzden tek bir A ağırlıklı desibel değeri yeterli değildir. Ölçümde mikrofon, hastanın başının bulunacağı noktaya, kulak hizasına yerleştirilir; kapı kapalı, havalandırma, ışıklar ve bilgisayarlar çalışır durumdadır. Gürültü gün içinde değişebileceği için ölçüm kliniğin en yoğun saatlerinde de tekrarlanır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "testkabini",
+   "odyometri"
+  ],
+  "etiketler": [
+   "ortam gürültüsü",
+   "MPANL",
+   "test kabini",
+   "oktav bant",
+   "ses düzeyi ölçer",
+   "odyometri",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Test odasının gürültüsü tek bir desibel değeriyle değerlendirilir mi?",
+  "bilgiler": [
+   "Sınırlar her oktav bant için ayrı verilir.",
+   "Mikrofon hastanın baş konumunda, kulak hizasında olur.",
+   "Ölçüm gerçek koşullarda ve yoğun saatlerde de yapılır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "testkabini",
+   "odyometri"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #378",
+   "metin": "Tek bir *sayı mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Test odasının gürültüsü tek bir desibel değeriyle değerlendirilir mi?"
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "zincir",
+   "baslik": "Oda gürültüsü *nasıl ölçülür?*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Oktav bant",
+     "tr": "her bant ayrı",
+     "cumle": 0
+    },
+    {
+     "ad": "Baş konumu",
+     "tr": "kulak hizası",
+     "cumle": 2
+    },
+    {
+     "ad": "Gerçek koşul",
+     "tr": "her şey çalışır",
+     "cumle": 3
+    }
+   ],
+   "alt": "Yoğun saatte _tekrar ölçün_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Hayır; sınırlar her oktav bant için ayrı ayrı verilir.",
+    "Bu yüzden tek bir A ağırlıklı desibel değeri yeterli değildir.",
+    "Mikrofon, hastanın başının bulunacağı noktaya, kulak hizasına yerleştirilir.",
+    "Kapı kapalı, havalandırma, ışıklar ve bilgisayarlar çalışır durumda ölçülür.",
+    "Gürültü gün içinde değişebilir; ölçümü en yoğun saatlerde de tekrarlayın."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D115",
+ "kaynak_baslik": "Test ortamı ve ortam gürültüsü"
+}

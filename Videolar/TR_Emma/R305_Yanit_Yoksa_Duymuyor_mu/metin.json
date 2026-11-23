@@ -1,0 +1,107 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R305_Yanit_Yoksa_Duymuyor_mu_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #305",
+  "baslik": "Cihazla *m, g, t*",
+  "alt": "Cihazlı kortikal test",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Cihazlı kortikal testte yanıt yoksa bebek sesi duymuyor mu? #shorts",
+  "aciklama": "Cihazlı kortikal testte bebek, işitme cihazı ya da implantı takılıyken değerlendirilir; m, g ve t gibi kısa konuşma sesleri yumuşak, orta ve yüksek konuşma düzeyinde verilir. Yanıt alınması, sesin kortekse ulaştığını gösteren güçlü bir kanıttır; ancak yanıtın yokluğu sesin duyulmadığını kanıtlamaz, çünkü normal işiten bebeklerin bir bölümünde bile yumuşak seslerde yanıt saptanamayabilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "CAEP",
+   "işitmecihazı"
+  ],
+  "etiketler": [
+   "cihazlı kortikal test",
+   "CAEP",
+   "kortikal yanıt",
+   "işitme cihazı doğrulama",
+   "koklear implant",
+   "bebek odyolojisi",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Cihazlı kortikal testte yanıt yoksa bebek sesi duymuyor mu?",
+  "bilgiler": [
+   "Bebek, cihazı ya da implantı takılıyken değerlendirilir.",
+   "Yanıt, sesin kortekse ulaştığını gösteren güçlü bir kanıttır.",
+   "Yanıtın yokluğu ise sesin duyulmadığını kanıtlamaz."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "CAEP",
+   "işitmecihazı"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #305",
+   "metin": "Yanıt yok, *duymuyor mu?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Cihazlı kortikal testte yanıt yoksa bebek sesi duymuyor mu?"
+   ]
+  },
+  {
+   "id": "sesler",
+   "tur": "zincir",
+   "baslik": "Üç ses, *üç bölge*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "m",
+     "tr": "pes",
+     "cumle": 1
+    },
+    {
+     "ad": "g",
+     "tr": "orta",
+     "cumle": 1,
+     "gecikme": 0.8
+    },
+    {
+     "ad": "t",
+     "tr": "tiz",
+     "cumle": 1,
+     "gecikme": 1.6
+    }
+   ],
+   "alt": "Yokluk _kanıt değildir_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Cihazlı kortikal testte bebek, işitme cihazı ya da implantıyla değerlendirilir.",
+    "Kısa m sesi pes, g orta, t ise tiz bölgeyi temsil eder.",
+    "Kortikal yanıt alınması, o sesin cihazla kortekse ulaştığını gösterir.",
+    "Ancak yanıtın yokluğu, sesin duyulmadığını kanıtlamaz.",
+    "Normal işiten bebeklerin bir bölümünde bile yumuşak seste yanıt alınamayabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D201",
+ "kaynak_baslik": "Kortikal işitsel uyarılmış potansiyeller: P1-N1-P2"
+}

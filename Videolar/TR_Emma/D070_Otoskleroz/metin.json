@@ -1,0 +1,728 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D070_Otoskleroz_TR",
+ "kapak": {
+  "ust": "DERS 70",
+  "baslik": "*Otoskleroz*<br>ve Carhart çentiği",
+  "alt": "Stapes fiksasyonu ve odyogram bulguları",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      45,
+      45,
+      40,
+      45
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      15,
+      30,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Otoskleroz: Stapesin Fiksasyonu ve Carhart Çentiği | Ders 70 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Otoskleroz, stapes tabanını oval pencereye sabitleyerek ilerleyici bir iletim tipi işitme kaybına yol açar. Bu derste otosklerozun klinik tablosunu, tipik odyogramını, Carhart çentiğini, timpanometri ve akustik refleks bulgularını ve cerrahi ile cihaz seçeneklerini örnek verilerle inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin ve Clark, Introduction to Audiology; Cummings Otolaryngology: Head and Neck Surgery.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "otoskleroz",
+   "işitme"
+  ],
+  "etiketler": [
+   "otoskleroz",
+   "otosclerosis",
+   "Carhart çentiği",
+   "Carhart notch",
+   "stapedotomi",
+   "stapes",
+   "iletim tipi işitme kaybı",
+   "hava-kemik aralığı",
+   "akustik refleks",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 70",
+   "baslik": "*Otoskleroz* ve Carhart çentiği",
+   "alt": "Stapes fiksasyonu, odyogram bulguları ve tedavi seçenekleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste stapesin hareketini yitirdiği bir hastalık olan otosklerozu inceleyeceğiz.",
+    "Odyogramdaki Carhart çentiğini, diğer test bulgularını ve tedavi seçeneklerini de konuşacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hastalığın doğası",
+   "baslik": "Otoskleroz *nedir?*",
+   "maddeler": [
+    {
+     "metin": "Otik kapsülde _anormal kemik_ yapımı",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "En sık yer: _oval pencere_ önü",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Stapes tabanı (footplate) _sabitlenir_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Sonuç: ilerleyici _iletim tipi_ kayıp",
+     "cumle": 5,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Koklea tutulursa _mikst_ kayıp",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "oval_pencere",
+      "cumle": 2
+     },
+     {
+      "parca": "stapes",
+      "cumle": 3
+     },
+     {
+      "parca": "koklea",
+      "cumle": 6
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "oval_pencere",
+      "metin": "Oval pencere",
+      "cumle": 2
+     },
+     {
+      "parca": "stapes",
+      "metin": "Stapes tabanı",
+      "cumle": 3
+     },
+     {
+      "parca": "koklea",
+      "metin": "Koklea",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Otoskleroz, iç kulağı saran otik kapsül kemiğinde görülen bir kemik yeniden yapılanma hastalığıdır.",
+    "Normalde çok az yenilenen bu sert kemikte, süngerimsi yeni kemik odakları gelişir.",
+    "Odaklar en sık oval pencerenin hemen önünde, fissula ante fenestram denen küçük bölgede başlar.",
+    "Bu yeni kemik, stapesin taban kısmını, yani footplate denen bölümünü oval pencereye sabitler.",
+    "Stapes normalde bir piston gibi içeri dışarı hareket ederek titreşimi iç kulak sıvılarına aktarır.",
+    "Sabitlenen stapes bu hareketi yapamaz; bu nedenle zamanla ilerleyen iletim tipi işitme kaybı ortaya çıkar.",
+    "Odaklar kokleaya da yayılırsa sensörinöral bir bileşen eklenir ve kayıp mikst tipe dönüşebilir."
+   ]
+  },
+  {
+   "id": "sema",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hastalığın doğası",
+   "baslik": "Stapes ve *oval pencere*",
+   "cizim": "orta_kulak",
+   "vurgula": [
+    {
+     "parca": "stapes",
+     "cumle": 0
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "stapes",
+     "metin": "stapes (üzengi)",
+     "cumle": 0
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "oval pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "malleus",
+     "metin": "malleus (çekiç)",
+     "cumle": 2
+    },
+    {
+     "parca": "incus",
+     "metin": "incus (örs)",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius",
+     "metin": "stapedius kası",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Taban sabitlenince titreşim zayıflar",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Timpanik membran çoğunlukla normal",
+     "cumle": 5,
+     "ikon": "otoskop"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 2
+    },
+    {
+     "parca": "stapes",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Şemada orta kulağı görüyoruz; vurgulanan kemikçik stapes, yani üzengi.",
+    "Stapesin tabanı oval pencereye oturur ve ligamentum anulare, yani halka bağ ile esnek biçimde tutturulmuştur.",
+    "Ses, timpanik membrandan malleus ve incus yoluyla stapese ulaşır.",
+    "Otosklerozda bu bağın çevresinde kemikleşme olur ve taban giderek hareketsiz kalır.",
+    "Stapedius kası da stapese bağlıdır; bu yüzden akustik refleks de etkilenir, buna birazdan döneceğiz.",
+    "Timpanik membran ise genellikle normal görünür; otoskopi çoğu zaman olağandır."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Klinik tablo",
+   "baslik": "Kimde, nasıl *görülür?*",
+   "maddeler": [
+    {
+     "metin": "Çoğunlukla _20 ile 40 yaş_ arasında",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Kadınlarda _yaklaşık iki kat_ sık",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Çoğu hastada _iki taraflı_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Aile öyküsü ve _tinnitus_ sık",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Gürültüde daha iyi anlama",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Otoskleroz çoğunlukla genç erişkinlik döneminde, yirmi ile kırk yaşları arasında belirti verir.",
+    "Kadınlarda erkeklere göre yaklaşık iki kat daha sık bildirilir ve gebelikte kayıp ilerleyebilir.",
+    "Hastaların çoğunda iki kulak da etkilenir, ancak kayıp iki tarafta aynı hızda ilerlemeyebilir.",
+    "Ailede benzer işitme kaybı öyküsü sıktır ve hastaların önemli bir kısmında tinnitus, yani kulak çınlaması vardır.",
+    "Hastalık ağrısızdır ve kulak akıntısı yoktur; bu özellik onu kronik orta kulak hastalıklarından ayırmaya yardım eder.",
+    "Bazı hastalar gürültülü ortamda konuşmayı daha iyi anladığını söyler; buna paracusis Willisii denir.",
+    "Bunun nedeni, karşıdaki kişinin gürültüde sesini yükseltmesi, gürültünün ise hastaya iletim kaybı nedeniyle zayıflayarak ulaşmasıdır.",
+    "Aktif dönemde bazen timpanik membranın arkasında pembe bir yansıma görülür; buna Schwartze işareti denir."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyogram bulguları",
+   "baslik": "Tipik *odyogram*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: sağ kulak",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Maskeli kemik yolu_: sağ kulak",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       45,
+       45,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      50
+     ],
+     "etiket": "40 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulağın hava yolu eşikleri kırk ile elli desibel arasında.",
+    "Karşı kulak maskelenerek ölçülen kemik yolu eşikleri ise büyük ölçüde normal bölgede.",
+    "Pes frekanslarda hava-kemik aralığı yaklaşık kırk desibel; kayıp burada daha belirgin.",
+    "Bunun nedeni sertlik artışıdır; sertlik en çok pes frekansların iletimini azaltır.",
+    "Bu yüzden erken otosklerozda, pes frekanslarda daha belirgin, yükselen biçimli bir iletim kaybı sık görülür.",
+    "Hastalık ilerledikçe kayıp düzleşir ve hava-kemik aralığı en çok altmış desibel civarına ulaşabilir."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyogram bulguları",
+   "baslik": "*Carhart* çentiği",
+   "lejant": [
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: 2000 Hz'de düşüş",
+     "cumle": 0
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Hava yolu: _iletim_ kaybı",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       45,
+       45,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       15,
+       30,
+       15
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Şimdi kemik yolu eşiklerine daha yakından bakalım; iki bin hertzde eşik otuz desibele düşüyor.",
+    "Bu düşüşe, onu bin dokuz yüz elli yılında tanımlayan Raymond Carhart'ın adıyla Carhart çentiği (Carhart notch) denir.",
+    "Çentik en belirgin olarak iki bin hertz çevresinde görülür ve kemik yolu burada genellikle yaklaşık on beş desibel kötüleşir.",
+    "Önemli nokta şu: bu düşüş gerçek bir koklear kayıp değildir, mekanik bir etkidir.",
+    "Kemik yolu ile işitmenin bir kısmı, kemikçik zincirinin ataletine bağlı bir orta kulak bileşeninden gelir.",
+    "Zincir sabitlenince bu bileşen kaybolur ve en çok, zincirin rezonans bölgesine yakın olan iki bin hertz civarı etkilenir.",
+    "Başarılı bir stapes cerrahisinden sonra kemik yolu eşiklerinin bu bölgede çoğu zaman düzelmesi de bunu destekler.",
+    "Bu nedenle Carhart çentiğini tek başına sensörinöral kayıp olarak yorumlamamak gerekir."
+   ]
+  },
+  {
+   "id": "mikst",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyogram bulguları",
+   "baslik": "İleri evre: *mikst* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: 60 ile 70 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: normalin altında",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       65,
+       65,
+       60,
+       60,
+       65,
+       70
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       30,
+       30,
+       35,
+       45,
+       40
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      30,
+      65
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Hastalık ilerleyip kokleayı da etkilediğinde tablo değişebilir.",
+    "Bu örnekte hava yolu eşikleri altmış ile yetmiş desibel arasında.",
+    "Maskeli kemik yolu eşikleri de normal bölgenin altına inmiş; otuz ile kırk beş desibel arasında.",
+    "Hava-kemik aralığı sürüyor; yani kayıp hem iletim hem de sensörinöral bileşen taşıyan mikst bir kayıp.",
+    "Böyle bir tablo, odakların kokleayı da etkilediği koklear otosklerozda görülebilir.",
+    "Kemik yolundaki düşüş yalnız iki bin hertzle sınırlı değilse, bunu Carhart çentiği ile açıklamak doğru olmaz."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Test bataryası",
+   "baslik": "Diğer test *bulguları*",
+   "ogeler": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Genellikle normal",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanogram",
+     "metin": "A ya da As",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Akustik refleks",
+     "metin": "Genellikle _yok_",
+     "cumle": 3
+    },
+    {
+     "ikon": "diyapazon",
+     "baslik": "Rinne (512 Hz)",
+     "metin": "Negatif",
+     "cumle": 5
+    },
+    {
+     "ikon": "diyapazon",
+     "baslik": "Weber",
+     "metin": "Kötü kulağa",
+     "cumle": 6
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşmayı ayırt etme",
+     "metin": "Genellikle iyi",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Otoskleroz düşünüldüğünde tek bir teste değil, bulguların birbiriyle uyumuna bakarız.",
+    "Timpanogram çoğunlukla A tipidir; sertlik nedeniyle tepe düşük kalırsa As tipi görülebilir.",
+    "Yani normal görünen bir timpanogram, hava-kemik aralığı olan bir hastada otosklerozu dışlamaz.",
+    "Akustik refleks etkilenen kulakta genellikle alınamaz; kas kasılsa da sabit zincir probda ölçülebilir bir admitans değişikliği yaratmaz.",
+    "Hastalığın erken döneminde, refleksin başında ve sonunda ters yönlü kısa sapmalar görülebilir.",
+    "Diyapazon testlerinde, belirgin bir hava-kemik aralığı varsa Rinne testi negatif çıkar.",
+    "Weber testinde ses, iletim kaybı daha fazla olan kulağa lateralize olur.",
+    "Koklea etkilenmediği sürece konuşmayı ayırt etme skorları genellikle iyidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Hava-kemik aralığı ve A tipi timpanogram birlikteyse akustik refleksi mutlaka test edin. Refleks varsa üçüncü pencere durumlarını da düşünün.",
+   "cumleler": [
+    "Klinikte işe yarayan bir ipucu verelim.",
+    "Hava-kemik aralığı olan ama timpanogramı A tipi olan bir hastada akustik refleksi mutlaka test edin.",
+    "Otosklerozda, etkilenen kulakta ölçülen refleks genellikle yoktur.",
+    "Refleks alınıyorsa, superior kanal dehisansı gibi iç kulakta üçüncü pencere oluşturan durumlar da akla gelmelidir.",
+    "Bu ayrım, hekimin ileri inceleme kararında değerli bir bilgidir."
+   ]
+  },
+  {
+   "id": "tedavi",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Tedavi seçenekleri",
+   "baslik": "Cerrahi mi, *cihaz* mı?",
+   "sol": {
+    "ust": "Stapes cerrahisi",
+    "maddeler": [
+     {
+      "metin": "Stapedotomi: tabanda küçük delik",
+      "cumle": 1
+     },
+     {
+      "metin": "Pistonlu protez yerleştirilir",
+      "cumle": 2
+     },
+     {
+      "metin": "Aralık çoğunlukla kapanır",
+      "cumle": 4
+     },
+     {
+      "metin": "Nadiren sensörinöral kayıp",
+      "cumle": 5
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Cihaz seçenekleri",
+    "maddeler": [
+     {
+      "metin": "Cerrahi riski yok",
+      "cumle": 6
+     },
+     {
+      "metin": "İletim kaybında iyi fayda",
+      "cumle": 6
+     },
+     {
+      "metin": "İleri kayıpta koklear implant",
+      "cumle": 7
+     }
+    ]
+   },
+   "cumleler": [
+    "Tedavi kararı hekime aittir; odyolog ise bu karar için gereken ölçümleri sağlar.",
+    "Cerrahide bugün en sık stapedotomi uygulanır; stapes tabanında küçük bir delik açılır.",
+    "Bu deliğe, incusa asılan ince bir pistonlu protez yerleştirilir ve titreşim yeniden iç kulağa ulaşır.",
+    "Tabanın büyük kısmının çıkarıldığı daha eski yönteme ise stapedektomi denir.",
+    "Deneyimli ellerde hastaların büyük çoğunluğunda hava-kemik aralığı belirgin biçimde kapanır.",
+    "Ancak az sayıda hastada kalıcı sensörinöral kayıp gelişebilir; bu risk danışmanlıkta açıkça konuşulur.",
+    "Cerrahi istemeyen ya da cerrahiye uygun olmayan hastalarda işitme cihazı iyi bir seçenektir, çünkü iletim kaybında kazanç iyi kullanılır.",
+    "Kayıp çok ileri düzeye ulaşmışsa koklear implant da değerlendirilebilir."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Tedavi seçenekleri",
+   "baslik": "Odyoloğun *rolü*",
+   "maddeler": [
+    {
+     "metin": "_Maskeli_ kemik yolu şart",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "İki taraflıda _maskeleme ikilemi_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Ameliyat öncesi _temel kayıt_",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Sonrasında _kemik yolunu_ izle",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "BAŞARI ÖLÇÜTÜ",
+    "metin": "Ameliyat sonrası hava-kemik aralığı *10 dB* ya da altında",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Otosklerozda doğru kemik yolu eşiği çok önemlidir, bu yüzden kemik yolu karşı kulak maskelenerek ölçülür.",
+    "Hava-kemik aralığının büyüklüğü, cerrahiden beklenebilecek kazancın temel göstergesidir.",
+    "İki kulakta da büyük iletim kaybı varsa maskeleme ikilemi ortaya çıkabilir; bu konuyu maskeleme derslerinde işleyeceğiz.",
+    "Ameliyat öncesi odyogram, ameliyat sonrası sonuçlarla karşılaştırma için temel kayıttır.",
+    "Ameliyat sonrası kontrollerde hem hava-kemik aralığının kapanmasına hem de kemik yolunun korunmasına bakılır.",
+    "Hava-kemik aralığının on desibel ya da daha azına inmesi, sık kullanılan bir başarı ölçütüdür.",
+    "Ameliyattan sonra ani işitme azalması ya da baş dönmesi yakınması olursa hasta vakit kaybetmeden hekime yönlendirilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Otoskleroz _stapes tabanını_ sabitler",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Pes ağırlıklı _iletim tipi_ kayıp",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_Carhart çentiği_: mekanik kemik yolu düşüşü",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Refleks yok, timpanogram _A ya da As_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Otosklerozda otik kapsüldeki yeni kemik, stapes tabanını oval pencereye sabitler.",
+    "Sonuç, erken dönemde pes frekanslarda daha belirgin olan ilerleyici bir iletim tipi kayıptır.",
+    "Carhart çentiği, iki bin hertz civarında görülen ve cerrahiyle çoğu zaman düzelen mekanik bir kemik yolu düşüşüdür.",
+    "Akustik refleksin yokluğu ile A ya da As tipi timpanogram, tabloyu tamamlayan bulgulardır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Carhart çentiği neyi yansıtır?",
+   "secenekler": [
+    "Tüy hücresi kaybı",
+    "Mekanik orta kulak etkisi",
+    "İşitme siniri hasarı",
+    "Ölçüm hatası"
+   ],
+   "dogru": 1,
+   "aciklama": "Zincir sabitlenince kemik yolunun _orta kulak bileşeni_ kaybolur; başarılı cerrahiden sonra çentik çoğu zaman düzelir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Otosklerozdaki Carhart çentiği neyi yansıtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: mekanik bir orta kulak etkisini yansıtır.",
+    "Zincir sabitlenince kemik yolunun orta kulak bileşeni kaybolur; bu yüzden başarılı cerrahiden sonra çentik çoğu zaman düzelir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Kemikçik zinciri *kopukluğu*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kemikçik zinciri kopukluğunu ve orta kulak travmasını inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

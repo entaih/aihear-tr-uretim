@@ -1,0 +1,108 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R280_Cihaz_Neden_Islik_Calar_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #280",
+  "baslik": "Cihaz neden *ıslık çalar?*",
+  "alt": "Akustik geri besleme döngüsü",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İşitme cihazı neden ıslık çalar? #shorts",
+  "aciklama": "Akustik geri besleme, alıcıdan çıkan sesin vent ya da kalıp kenarından sızıp yeniden mikrofona ulaşmasıdır; cihaz bu sesi tekrar yükseltir ve döngü kendini besledikçe ıslık duyulur. Islık şikayeti olan her kullanıcıda ilk iş otoskopla kulak yoluna bakmaktır; kulak kiri sık bir nedendir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitmecihazı",
+   "geribesleme"
+  ],
+  "etiketler": [
+   "akustik geri besleme",
+   "ıslık",
+   "vent",
+   "kulak kalıbı",
+   "geri besleme iptali",
+   "otoskopi",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İşitme cihazı neden ıslık çalar?",
+  "bilgiler": [
+   "Ses vent ya da kalıp kenarından sızıp mikrofona döner.",
+   "Cihaz onu yeniden yükseltir; döngü büyüdükçe ıslık başlar.",
+   "Yeni bir ıslıkta ilk iş otoskopiyle kulak yoluna bakmaktır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "geribesleme"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #280",
+   "metin": "O ıslık *nereden geliyor?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İşitme cihazı neden ıslık çalar?"
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "zincir",
+   "baslik": "Geri besleme *döngüsü*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Alıcı",
+     "tr": "sesi verir",
+     "cumle": 0
+    },
+    {
+     "ad": "Sızıntı",
+     "tr": "vent ve kenar",
+     "cumle": 1
+    },
+    {
+     "ad": "Mikrofon",
+     "tr": "yeniden yükseltir",
+     "cumle": 2
+    }
+   ],
+   "alt": "Önce _otoskopi_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Alıcı, yükseltilmiş sesi kulak yoluna verir.",
+    "Sesin bir bölümü vent ya da kalıp kenarındaki boşluktan kaçar.",
+    "Kaçan ses mikrofona ulaşır ve cihaz onu yeniden yükseltir.",
+    "Döngü kendini besledikçe sürekli bir ıslık duyulur.",
+    "Yeni bir ıslıkta ilk iş, otoskopla kulak yoluna bakmaktır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D184",
+ "kaynak_baslik": "Geri besleme ve oklüzyon"
+}

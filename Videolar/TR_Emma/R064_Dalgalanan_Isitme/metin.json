@@ -1,0 +1,136 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R064_Dalgalanan_Isitme_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #64",
+  "baslik": "Dalgalanan *işitme*",
+  "alt": "Meniere'de seri odyogramın değeri",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      40,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İşitme bir gün iyi, bir gün kötü olabilir mi? #shorts",
+  "aciklama": "Meniere hastalığında alçak frekans işitmesi zaman içinde dalgalanır. Örnek bir olguda belirtili dönemde eşikler 40 ile 50 dB arasındayken iki hafta sonra düzelmiş, altı ay sonra yeniden kötüleşmiştir; bu yüzden seri odyogramlar değerlidir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "meniere",
+   "odyogram"
+  ],
+  "etiketler": [
+   "Meniere hastalığı",
+   "dalgalanan işitme kaybı",
+   "alçak frekans kaybı",
+   "seri odyogram",
+   "endolenfatik hidrops",
+   "odyogram",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İşitme bir gün iyi, bir gün kötü olabilir mi?",
+  "bilgiler": [
+   "Meniere hastalığında alçak frekans işitmesi dalgalanır.",
+   "Örnekte eşikler iki haftada düzelmiş, altı ayda yeniden kötüleşmiş.",
+   "Tek bir odyogram bu dalgalanmayı gösteremez."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "meniere",
+   "odyogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #64",
+   "metin": "İşitme bir gün iyi, *bir gün kötü* olur mu?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İşitme bir gün iyi, bir gün kötü olabilir mi?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Meniere'de *dalgalanan* işitme",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Atak",
+     "tr": "40 ile 50 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "2 hafta",
+     "tr": "düzelme",
+     "cumle": 2
+    },
+    {
+     "ad": "6 ay",
+     "tr": "yeniden kötü",
+     "cumle": 2,
+     "gecikme": 1.6
+    }
+   ],
+   "alt": "Tek odyogram yetmez: _seri odyogramlar_ değerlidir.",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Meniere hastalığında alçak frekans işitmesi zaman içinde dalgalanır.",
+    "Bu örnekte belirtili dönemde alçak frekans eşikleri kırk ile elli desibel.",
+    "İki hafta sonra düzelmiş, altı ay sonra yeniden kötüleşmiş.",
+    "Tek bir odyogram bu dalgalanmayı gösteremez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D142",
+ "kaynak_baslik": "Meniere hastalığı ve hidrops"
+}

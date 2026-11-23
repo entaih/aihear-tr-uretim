@@ -1,0 +1,93 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R019_Sifirin_Basinci_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #19",
+  "baslik": "Sıfır *aynı sıfır* değil",
+  "alt": "0 dB HL her frekansta farklı dB SPL",
+  "cizim": "desibel_olcegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Odyogramdaki sıfır her frekansta aynı ses mi? #shorts",
+  "aciklama": "Yaygın bir kulak üstü kulaklıkta 0 dB HL, 250 Hz'de yaklaşık 25,5 dB SPL, 1000 Hz'de ise yaklaşık 7 dB SPL'dir. Bu farklar düzeltildiği için odyogramda ortalama normal işitme düz bir çizgi olarak görünür.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "desibel",
+   "odyogram"
+  ],
+  "etiketler": [
+   "dB HL",
+   "dB SPL",
+   "RETSPL",
+   "odyogram",
+   "desibel",
+   "kalibrasyon",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Odyogramdaki sıfır, her frekansta aynı ses mi?",
+  "bilgiler": [
+   "250 Hz'de 0 dB HL yaklaşık 25,5 dB SPL'dir.",
+   "1000 Hz'de aynı sıfır yalnızca yaklaşık 7 dB SPL'dir.",
+   "Bu farklar düzeltildiği için odyogramda normal işitme düz bir çizgidir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "desibel",
+   "odyogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #19",
+   "metin": "Odyogramdaki sıfır, her frekansta *aynı ses mi?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Odyogramdaki sıfır, her frekansta aynı ses mi?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "250 Hz'de *fazladan* ses basıncı",
+   "sayi": "18",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    {
+     "yazi": "250 Hz'de sıfır dB HL, yaklaşık 25,5 dB SPL'dir.",
+     "ses": "İki yüz elli hertzde sıfır, yaklaşık yirmi beş buçuk desibel SPL'dir."
+    },
+    {
+     "yazi": "1000 Hz'de ise aynı sıfır yalnızca yaklaşık 7 dB SPL'dir.",
+     "ses": "Bin hertzde ise aynı sıfır yalnızca yaklaşık yedi desibel SPL'dir."
+    },
+    "Yani pes frekansta yaklaşık on sekiz desibel daha fazla basınç gerekir.",
+    "Bu farklar düzeltildiği için odyogramda normal işitme düz bir çizgidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D038",
+ "kaynak_baslik": "dB SPL, dB HL ve dB SL"
+}

@@ -1,0 +1,755 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D139_Presbiakuzi_TR",
+ "kapak": {
+  "ust": "DERS 139",
+  "baslik": "*Presbiakuzi*",
+  "alt": "Yaşa bağlı işitme kaybı",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      55,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      20,
+      40,
+      55,
+      70
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Presbiakuzi: Yaşa Bağlı İşitme Kaybı | Ders 139 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Yaşa bağlı işitme kaybını (presbiakuzi) Schuknecht tipleri, tipik odyogram ve uyarı bulgularıyla anlatıyoruz. Tiz frekans kaybının konuşma anlamaya etkisini ve işitme kaybının iletişim ve bilişsel sağlıkla ilişkisini ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Schuknecht ve Gacek, Cochlear Pathology in Presbycusis (1993); WHO, World Report on Hearing (2021); Lancet Commission on Dementia Prevention, Intervention, and Care.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "presbiakuzi",
+   "işitmekaybı"
+  ],
+  "etiketler": [
+   "presbiakuzi",
+   "presbycusis",
+   "yaşa bağlı işitme kaybı",
+   "age-related hearing loss",
+   "Schuknecht",
+   "stria vascularis",
+   "odyogram",
+   "işitme kaybı ve demans",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 139",
+   "baslik": "*Presbiakuzi*",
+   "alt": "Yaşa bağlı işitme kaybı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste yaşa bağlı işitme kaybını, yani presbiakuziyi öğreneceğiz.",
+    "Schuknecht tiplerini, tipik odyogramı ve işitme kaybının iletişim ve bilişsel sağlık üzerindeki etkilerini ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve sıklık",
+   "baslik": "*Presbiakuzi* nedir?",
+   "maddeler": [
+    {
+     "metin": "Yaşla ortaya çıkan _sensörinöral_ kayıp",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "_İki taraflı_ ve simetrik",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Önce _tiz frekanslar_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Yavaş ve _sinsi_ ilerleme",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ARHL",
+    "metin": "Age-related hearing loss: *yaşa bağlı* işitme kaybı",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Presbiakuzi, yani yaşa bağlı işitme kaybı, İngilizce kısaltmasıyla ARHL, yaşlanmayla ortaya çıkan sensörinöral bir kayıptır.",
+    "Genellikle iki kulakta birlikte ve birbirine benzer, yani simetrik biçimde gelişir.",
+    "Kayıp önce tiz, yani yüksek frekanslarda başlar ve zamanla daha alçak frekanslara doğru yayılır.",
+    "Kesin bir başlangıç yaşı yoktur; ancak değişiklikler çoğu zaman ellili ve altmışlı yaşlarda belirginleşir.",
+    "Yavaş ilerlediği için kişi çoğu zaman kaybını uzun süre fark etmez; çevresindekiler daha önce fark eder.",
+    "Tek bir nedeni yoktur; yaşlanmanın yanında genetik yatkınlık, gürültü öyküsü ve genel sağlık durumu birlikte rol oynar."
+   ]
+  },
+  {
+   "id": "siklik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve sıklık",
+   "baslik": "Ne kadar *yaygın?*",
+   "maddeler": [
+    {
+     "metin": "Yaşla _belirgin_ artış",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "60 yaş üstü: _dörtte birden fazlası_",
+     "cumle": 1,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Erkeklerde _biraz daha_ erken",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Eşlik eden: gürültü, _diyabet_, sigara",
+     "cumle": 4,
+     "ikon": "kalp"
+    }
+   ],
+   "cumleler": [
+    "Yaşa bağlı işitme kaybı, yetişkinlerde en sık görülen duyusal sorunlardan biridir ve sıklığı yaşla birlikte belirgin artar.",
+    "Dünya Sağlık Örgütüne göre altmış yaş üstündekilerin dörtte birinden fazlasında engelleyici düzeyde işitme kaybı vardır.",
+    "Nüfus yaşlandıkça bu sayının önümüzdeki on yıllarda daha da artması beklenmektedir.",
+    "Erkeklerde biraz daha erken ve daha belirgin görülme eğilimi vardır; bunda gürültüye maruz kalma farkı da rol oynar.",
+    "Gürültü, sigara, diyabet ve kalp damar hastalıkları, kaybın daha erken ve daha hızlı gelişmesiyle ilişkilendirilmiştir."
+   ]
+  },
+  {
+   "id": "koklea",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve sıklık",
+   "baslik": "Neden önce *tiz* sesler?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "tepe",
+     "metin": "Tepe: pes sesler",
+     "cumle": 0
+    },
+    {
+     "parca": "taban",
+     "metin": "Taban: tiz sesler",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Her ses tabandan geçer",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İlk değişiklik: 4000 ile 8000 Hz",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Koklea, yani salyangoz, açılmış olarak düşünüldüğünde tepe kısmı pes, taban kısmı ise tiz seslere yanıt verir.",
+    "Yaşa bağlı değişiklikler genellikle önce koklea tabanındaki tüy hücrelerini etkiler.",
+    "Bir açıklama, yürüyen dalganın her frekansta tabandan geçmesidir; taban hücrelerinin metabolik yükü ve oksidatif duyarlılığı da rol oynar.",
+    "Bu nedenle odyogramda ilk değişiklik çoğu zaman dört bin ile sekiz bin hertz bölgesinde görülür.",
+    "Kayıp iki bin hertz ve altına ilerledikçe konuşmanın anlaşılması da etkilenmeye başlar."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Schuknecht tipleri",
+   "baslik": "Schuknecht *tipleri*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Duyusal",
+     "metin": "Tabanda tüy hücreleri; tizde ani düşüş",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nöral",
+     "metin": "Spiral ganglion; orantısız kötü ayırt etme",
+     "cumle": 2
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Metabolik",
+     "metin": "Stria vascularis; düz odyogram",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Mekanik",
+     "metin": "Baziler membran sertliği; düzgün inen eğri",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Harold Schuknecht, insan temporal kemik incelemelerine dayanarak presbiakuziyi dört ana tipte sınıflandırdı.",
+    "Duyusal tipte koklea tabanındaki tüy hücreleri kaybolur ve odyogramda tiz frekanslarda ani bir düşüş görülür.",
+    "Nöral tipte spiral ganglion nöronları azalır; konuşma ayırt etme, odyograma göre orantısız biçimde kötüdür.",
+    "Metabolik, yani striyal tipte stria vascularis zayıflar; odyogram düz ya da hafif eğimlidir ve ayırt etme genellikle iyidir.",
+    "Mekanik tipte baziler membranın sertleştiği düşünülür ve odyogram tize doğru düzgün biçimde iner.",
+    "Schuknecht daha sonra karışık ve belirlenemeyen tipleri de ekledi; çünkü pek çok kişi tek bir tipe uymuyordu."
+   ]
+  },
+  {
+   "id": "stria",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Schuknecht tipleri",
+   "baslik": "Stria *vaskülaris*",
+   "cizim": "koklea_kesit",
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "Stria vascularis",
+     "cumle": 0
+    },
+    {
+     "parca": "scala_media",
+     "metin": "Scala media: endolenf",
+     "cumle": 1
+    },
+    {
+     "parca": "corti_organi",
+     "metin": "Corti organı",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Endokoklear potansiyel: yaklaşık +80 mV",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Potansiyel düşerse kazanç azalır",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Stria vascularis, koklear kanalın yan duvarında yer alan ve kan damarlarınca zengin bir dokudur.",
+    "Görevi, scala media içindeki endolenfi düzenlemek ve yaklaşık artı seksen milivoltluk endokoklear potansiyeli oluşturmaktır.",
+    "Bu potansiyel tüy hücreleri için bir pil gibidir; azalınca koklear amplifikasyon geniş bir frekans aralığında zayıflar.",
+    "Hayvan çalışmaları, yaşlanmada striyal değişikliklerin önemli bir rol oynadığını göstermiştir.",
+    "Bu nedenle metabolik tipte kayıp, tek bir bölge yerine pek çok frekansı birlikte etkileyen düz bir odyogram verir."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 1
+    }
+   ]
+  },
+  {
+   "id": "bakis",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Schuknecht tipleri",
+   "baslik": "Günümüzdeki *bakış*",
+   "maddeler": [
+    {
+     "metin": "Saf tip _nadir_, karışık tablo sık",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Gürültü ve yaşlanma _iç içe_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Erken dönemde _sinaps_ kaybı",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Merkezi işitsel _yaşlanma_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Bugün saf tiplerin nadir olduğu, çoğu kişide birden çok mekanizmanın birlikte bulunduğu kabul edilir.",
+    "Ömür boyu biriken gürültü hasarı ile yaşlanmanın etkisini birbirinden ayırmak çoğu zaman mümkün değildir.",
+    "Hayvan çalışmaları, tüy hücreleri kaybolmadan önce iç tüy hücresi ile sinir lifi arasındaki sinapsların azalabildiğini göstermiştir.",
+    "Ayrıca beyin sapı ve korteksteki yaşa bağlı değişiklikler, özellikle gürültüde anlamayı ve zamansal işlemlemeyi etkiler.",
+    "Bu yüzden iki kişinin odyogramı benzer olsa da günlük yaşamdaki zorlukları çok farklı olabilir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "corti",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "tuy_hucreleri",
+      "cumle": 1
+     },
+     {
+      "parca": "sinir_lifleri",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ic_tuy_hucresi",
+      "metin": "iç tüy hücresi",
+      "cumle": 2
+     },
+     {
+      "parca": "sinir_lifleri",
+      "metin": "sinaps ve sinir lifleri",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tipik odyogram",
+   "baslik": "Tipik *presbiakuzi* odyogramı",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: sağ kulak",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       55,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       20,
+       40,
+       55,
+       70
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       50
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta alçak frekanslar normal sınırda; iki bin hertzden sonra eşikler giderek kötüleşiyor.",
+    "Sol kulak da hemen hemen aynı biçimde; yani kayıp iki taraflı ve simetrik.",
+    "Kemik yolu eşikleri hava yoluyla örtüşüyor; hava-kemik aralığı yok ve kayıp sensörinöral.",
+    "Tize doğru inen bu eğim, yaşa bağlı işitme kaybının en tipik görünümüdür.",
+    "Kişi sessiz ortamda sesleri duyar, ama tiz ünsüzleri kaçırdığı için konuşmayı net anlamakta zorlanabilir."
+   ]
+  },
+  {
+   "id": "uyari",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tipik odyogram",
+   "baslik": "Beklenen mi, *uyarı* bulgusu mu?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Presbiakuziyle uyumlu",
+     "metin": "Simetrik, yavaş, hava-kemik aralığı yok",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Hekime yönlendirme",
+     "metin": "Asimetri, hızlı kötüleşme, hava-kemik aralığı",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Yaşlı bir kişide görülen her işitme kaybı presbiakuzi değildir.",
+    "İki taraflı, simetrik, yavaş ilerleyen ve hava-kemik aralığı olmayan bir kayıp, yaşa bağlı kayıpla uyumludur.",
+    "Buna karşın iki kulak arasında belirgin asimetri, retrokoklear nedenler açısından ileri değerlendirme gerektirebilir.",
+    "Ani ya da hızlı kötüleşme, tek taraflı tinnitus ya da baş dönmesi de hekime yönlendirme gerektiren bulgulardır.",
+    "Hava-kemik aralığı varsa, yaşa ek olarak dış ya da orta kulakta bir sorun düşünülmelidir.",
+    "Presbiakuzi bu nedenle bir dışlama tanısıdır; diğer nedenler hekim değerlendirmesiyle ayrılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yaşlı kişide önce otoskopi yapın. Buşon ya da kulak üstü kulaklıkla kanal çökmesi yalancı kayıp gösterebilir; şüphede insert kulaklık kullanın.",
+   "cumleler": [
+    "Bir klinik ipucu: yaşlı kişilerde teste başlamadan önce mutlaka otoskopi yapın.",
+    "Kulak kiri tıkacı, yani buşon, bu yaş grubunda sıktır ve eşikleri olduğundan kötü gösterebilir.",
+    "Ayrıca yaşla esnekliği değişen kulak kanalı, kulak üstü kulaklığın basıncıyla çökebilir.",
+    "Kanal çökmesi özellikle tiz frekanslarda yalancı bir hava-kemik aralığı oluşturabilir; şüphe varsa testi insert kulaklıkla yineleyin."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Konuşma ve iletişim",
+   "baslik": "Konuşmayı *anlamak*",
+   "maddeler": [
+    {
+     "metin": "_Tiz ünsüzler_ kaybolur: s, ş, f, t, k",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ünlüler duyulur, _netlik_ azalır",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Gürültüde _belirgin_ zorlanma",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Hızlı konuşmada _zamansal_ güçlük",
+     "cumle": 4,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Artan _dinleme çabası_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Tiz frekans kaybında s, ş, f, t ve k gibi ünsüzler, konuşmanın en kolay kaybolan parçalarıdır.",
+    "Enerjisi daha çok alçak frekanslarda olan ünlüler duyulduğu için kişi sesi duyar ama sözcükleri net ayırt edemez.",
+    "Bu yüzden duyuyorum ama anlamıyorum yakınması presbiakuzide çok tipiktir.",
+    "Gürültülü ortamlarda ve birden çok kişinin konuştuğu durumlarda zorluk belirgin biçimde artar.",
+    "Hızlı konuşmayı izlemek de zorlaşır; çünkü yaşla birlikte zamansal işlemleme yavaşlar.",
+    "Sürekli dikkatle dinlemek, yani artan dinleme çabası, gün sonunda belirgin yorgunluğa yol açar."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        15,
+        20,
+        35,
+        55,
+        65
+       ]
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 0
+     },
+     {
+      "parca": "unluler",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Konuşma ve iletişim",
+   "baslik": "Değerlendirmede *neler* var?",
+   "maddeler": [
+    {
+     "metin": "Saf ses ve _konuşma_ odyometrisi",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "_Gürültüde_ konuşma testi",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Kişinin ve ailenin _yakınmaları_",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "İşitsel ihtiyaçlar ve _hedefler_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Değerlendirme saf ses odyometrisi ve konuşma odyometrisi ile başlar.",
+    "Mümkünse gürültüde konuşma testi de yapılır; çünkü günlük zorluğu sessiz ortam testinden daha iyi yansıtır.",
+    "Kişinin kendi yakınmaları ve aile bireylerinin gözlemleri, standart anketlerle birlikte kayda geçirilir.",
+    "Kişinin hangi ortamlarda zorlandığı ve neyi başarmak istediği, rehabilitasyon planının temelini oluşturur.",
+    "Bilişsel tarama yapılacaksa, işitme kaybının sözel test performansını düşürebileceği unutulmamalıdır.",
+    "Odyolog bu bilgileri hekim değerlendirmesi ile birlikte bütüncül bir plana dönüştürür."
+   ]
+  },
+  {
+   "id": "bilissel",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Bilişsel sağlık",
+   "baslik": "İletişim ve *bilişsel* sağlık",
+   "maddeler": [
+    {
+     "metin": "Sosyal _geri çekilme_ ve yalnızlık",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "_Depresif_ belirtilerle ilişki",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Demans için _değiştirilebilir_ risk etkeni",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Güçlü ilişki, _nedensellik_ araştırılıyor",
+     "cumle": 6,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "İletişim zorlaştıkça kişi kalabalık ortamlardan ve sosyal etkinliklerden uzaklaşabilir; bu da yalnızlığı artırır.",
+    "Yaşa bağlı işitme kaybı ile depresif belirtiler arasında ilişki olduğu pek çok çalışmada gösterilmiştir.",
+    "Lancet Demans Komisyonu, orta yaştaki işitme kaybını demans için değiştirilebilir başlıca risk etkenlerinden biri saymıştır.",
+    "Olası açıklamalar arasında beynin azalan işitsel uyarana uyumu, artan dinleme yükü ve sosyal yalnızlık yer alır.",
+    "Büyük bir randomize çalışmada işitsel müdahale, katılımcıların genelinde bilişsel gerilemeyi anlamlı biçimde yavaşlatmadı.",
+    "Ancak daha yüksek riskli bir alt grupta gerilemenin yavaşlayabileceği görüldü; bu bulgunun yeni çalışmalarla doğrulanması gerekir.",
+    "Bu nedenle işitme kaybı ile demans arasındaki ilişkinin ne ölçüde neden sonuç ilişkisi olduğu henüz tam bilinmemektedir."
+   ]
+  },
+  {
+   "id": "rehabilitasyon",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Bilişsel sağlık",
+   "baslik": "İşitsel *rehabilitasyon*",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "Erken farkındalık",
+     "metin": "Düzenli işitme taraması",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İşitme cihazı",
+     "metin": "Uygun kişilerde temel seçenek",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "İletişim stratejileri",
+     "metin": "Yüz yüze, az gürültü",
+     "cumle": 3
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Aile katılımı",
+     "metin": "Uyumu ve yararı artırır",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Yetişkinlerde düzenli işitme taraması, kaybın erken fark edilmesini sağlar.",
+    "Uygun kişilerde işitme cihazı, işitmenin desteklenmesinde temel seçeneklerden biridir.",
+    "Buna karşın pek çok kişi yardım aramadan önce uzun yıllar bekler ve cihaz kullanım oranları düşük kalır.",
+    "Yüz yüze konuşma, ortam gürültüsünü azaltma ve gerektiğinde tekrar isteme gibi stratejiler iletişimi kolaylaştırır.",
+    "Aile bireylerinin sürece katılması, hem uyumu hem de günlük yaşamdaki yararı artırır.",
+    "Her kişi için uygun yaklaşım, odyolojik ve tıbbi değerlendirme sonrasında birlikte belirlenir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "İki taraflı, simetrik, _tize doğru inen_ kayıp",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Schuknecht: duyusal, nöral, _metabolik_, mekanik",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Uyarı: _asimetri_ ve hızlı kötüleşme",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "İletişim ve _bilişsel_ sağlıkla ilişkili",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Presbiakuzi, genellikle iki taraflı, simetrik ve tize doğru inen sensörinöral bir kayıptır.",
+    "Schuknecht dört temel tip tanımlamıştır: duyusal, nöral, metabolik ve mekanik.",
+    "Asimetri, ani ya da hızlı kötüleşme ve hava-kemik aralığı başka nedenleri düşündürür.",
+    "İşitme kaybı iletişimi, sosyal yaşamı ve bilişsel sağlığı etkileyebilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Stria vascularis atrofisi hangi Schuknecht tipidir?",
+   "secenekler": [
+    "Duyusal tip",
+    "Nöral tip",
+    "Metabolik tip",
+    "Mekanik tip"
+   ],
+   "dogru": 2,
+   "aciklama": "Endokoklear potansiyel düşer; odyogram genellikle _düz_ ya da hafif eğimli.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Schuknecht sınıflamasında stria vascularis atrofisi hangi tipi oluşturur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: metabolik, yani striyal tip.",
+    "Endokoklear potansiyel azaldığı için odyogram genellikle düz ya da hafif eğimlidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Gürültüye bağlı kayıp ve *4 kHz* çentiği",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste gürültüye bağlı işitme kaybını ve odyogramdaki dört bin hertz çentiğini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

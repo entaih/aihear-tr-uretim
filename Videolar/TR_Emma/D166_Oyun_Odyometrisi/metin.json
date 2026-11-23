@@ -1,0 +1,762 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D166_Oyun_Odyometrisi_TR",
+ "kapak": {
+  "ust": "DERS 166",
+  "baslik": "*Oyun*<br>odyometrisi",
+  "alt": "Koşullu oyun odyometrisi (CPA)",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Oyun Odyometrisi (CPA) | Ders 166 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Okul öncesi çocuklarda kullanılan koşullu oyun odyometrisini (CPA) anlatıyoruz: koşullama adımları, oyun ve pekiştirme seçimi, istemeden ipucu vermeme, kulaklıkla kulağa ve frekansa özgü eşik alma, frekans önceliği, örnek bir sonuç ve sık karşılaşılan zorluklar.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age (2004); British Society of Audiology, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry; Madell, Flexer, Wolfe ve Schafer, Pediatric Audiology: Diagnosis, Technology, and Management; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "pediatrikodyoloji",
+   "CPA"
+  ],
+  "etiketler": [
+   "CPA",
+   "conditioned play audiometry",
+   "koşullu oyun odyometrisi",
+   "oyun odyometrisi",
+   "koşullama",
+   "conditioning",
+   "pekiştirme",
+   "reinforcement",
+   "çocuk işitme testi",
+   "pediatrik odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 166",
+   "baslik": "Oyun *odyometrisi* (CPA)",
+   "alt": "Koşullu oyun odyometrisi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste okul öncesi çocuklarda kullanılan koşullu oyun odyometrisini, yani CPA'yı öğreneceğiz.",
+    "Çocuğu oyunla nasıl koşullayacağımızı, kulağa ve frekansa özgü eşiği nasıl alacağımızı ve dikkati nasıl koruyacağımızı ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "CPA nedir?",
+   "baslik": "*CPA* nedir?",
+   "maddeler": [
+    {
+     "metin": "Sesi duyunca _oyun hareketi_",
+     "cumle": 0,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Küp kovaya, _halka_ çubuğa",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Temel: _koşullama_ ve pekiştirme",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Sonuç: _kulağa ve frekansa_ özgü eşik",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "CPA",
+    "metin": "Conditioned play audiometry: *koşullu oyun* odyometrisi",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Koşullu oyun odyometrisi (conditioned play audiometry), kısaca CPA, çocuğun sesi duyduğunda bir oyun hareketi yapmasına dayanır.",
+    "Örneğin çocuk sesi duyunca elindeki küpü kovaya atar ya da bir halkayı çubuğa geçirir.",
+    "Yöntem koşullamaya (conditioning) dayanır: ses ile hareket arasında bir bağ kurulur.",
+    "Doğru yanıt, övgü gibi bir pekiştirme (reinforcement) ile ödüllendirilir ve tekrarlanma olasılığı artar.",
+    "Uygun koşullarda CPA ile kulaklıkla, her kulak ve her frekans için eşik elde edilebilir.",
+    "Bu yönüyle CPA, çocuktan alınan bilgiyi yetişkin odyogramına en çok yaklaştıran davranışsal yöntemdir."
+   ]
+  },
+  {
+   "id": "kimler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "CPA nedir?",
+   "baslik": "Kimler *için?*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Yaş",
+     "metin": "Gelişimsel olarak yaklaşık 2,5 ile 5 yaş.",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Beceri",
+     "metin": "Basit yönergeyi izler, nesneyi tutar.",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Dikkat",
+     "metin": "Kısa süre oyuna odaklanır.",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Geçiş",
+     "metin": "VRA'dan CPA'ya geçiş bireyseldir.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "CPA'nın uygun olup olmadığını belirleyen, yine takvim yaşı değil gelişimsel yaştır.",
+    "Yöntem genellikle gelişimsel olarak yaklaşık iki buçuk ile beş yaş arasındaki çocuklarda kullanılır.",
+    "Çocuğun basit bir yönergeyi izleyebilmesi ve küp gibi küçük bir nesneyi tutup bırakabilmesi gerekir.",
+    "Kısa bir süre için de olsa oyuna odaklanabilmesi ve sesi beklemeyi öğrenebilmesi beklenir.",
+    "Bazı çocuklar iki yaş civarında CPA'ya geçebilir; bazıları ise daha uzun süre görsel pekiştirmeli odyometriyle daha iyi yanıt verir.",
+    "Bu yüzden iki yöntem arasında geçiş, çocuğun o günkü iş birliğine göre esnek biçimde yapılır."
+   ]
+  },
+  {
+   "id": "kosullama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Koşullama",
+   "baslik": "Koşullama *adımları*",
+   "adimlar": [
+    {
+     "ikon": "odyolog",
+     "baslik": "Göster",
+     "metin": "Test eden yapar",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "El ele",
+     "metin": "Birlikte yaparız",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Kendi yapsın",
+     "metin": "Bağımsız yanıt",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Eşik ara",
+     "metin": "Şiddet azaltılır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Koşullama, sesin açıkça duyulabildiği bir şiddetle başlar.",
+    "Önce test eden kişi ya da yardımcı, sesi duyduğunda küpü kovaya atarak oyunu çocuğa gösterir.",
+    "Sonra çocuğun eli tutulur; ses gelince küp birlikte kovaya atılır ve çocuk övülür.",
+    "Birkaç denemeden sonra yardım azaltılır ve çocuğun sesi duyunca kendiliğinden küpü atması beklenir.",
+    "Çocuk birkaç ardışık denemede yardım olmadan doğru yanıt verdiğinde koşullama gerçekleşmiş kabul edilir.",
+    "Bundan sonra şiddet azaltılarak eşik aramaya geçilir.",
+    "İleri derecede kaybı olan çocuklarda koşullama için daha yüksek şiddet ya da kemik vibratörüyle titreşim kullanılabilir.",
+    "Ancak titreşimle alınan bir yanıt, eşik aramada işitme yanıtı sanılmamalıdır."
+   ]
+  },
+  {
+   "id": "oyunlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Koşullama",
+   "baslik": "Hangi *oyun?*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Küp ve kova",
+     "metin": "En yaygın, kolay",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Halka ve çubuk",
+     "metin": "Sıralı ve sakin",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Yapboz, boncuk",
+     "metin": "İlgiyi tazeler",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Ekranlı oyun",
+     "metin": "Bazı sistemlerde",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Oyun, çocuğun yaşına ve ilgisine uygun, sessiz ve kısa bir hareket olmalıdır.",
+    "Küpü kovaya atmak en yaygın ve en kolay öğretilen oyundur.",
+    "Halka geçirme ya da çubuğa takma, sıralı ve sakin bir yanıt verdirir.",
+    "Çocuk sıkılmaya başladığında yapboz parçası ya da boncuk gibi yeni bir oyuna geçmek yanıtları canlandırır.",
+    "Bazı sistemlerde yanıt, ekranda bir görüntünün belirdiği bilgisayar tabanlı bir oyunla da alınabilir.",
+    "Oyunun ses çıkarmaması önemlidir; gürültülü bir oyuncak test seslerini maskeleyebilir."
+   ]
+  },
+  {
+   "id": "pekistirme",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Koşullama",
+   "baslik": "Pekiştirme ve *ipuçları*",
+   "maddeler": [
+    {
+     "metin": "Doğru yanıta _sosyal övgü_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Övgü _kısa ve değişken_",
+     "cumle": 1,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Göz teması ve _yüz ifadesi_ yok",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Aralıklar _düzensiz_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Erken yanıta _bekle_ demek",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Ses verirken çocuğun yüzüne bakmayın; bakışınız, nefesiniz ya da el hareketiniz istemeden ipucu olabilir.",
+    "cumle": 2
+   },
+   "cumleler": [
+    "CPA'da pekiştirme çoğu zaman sosyal övgüdür; aferin demek, gülümsemek ya da alkışlamak gibi.",
+    "Övgünün kısa ve çeşitli tutulması, çocuğun ilgisinin daha uzun sürmesine yardım eder.",
+    "Test eden kişi ses verirken çocuğa bakmamalı, yüz ifadesi ya da el hareketiyle farkında olmadan ipucu vermemelidir.",
+    "Sesler düzenli bir ritimle verilirse çocuk zamanlamayı tahmin eder; bu yüzden aralıklar değiştirilir.",
+    "Çocuk ses gelmeden küpü atıyorsa yanıt ödüllendirilmez ve nazikçe beklemesi gerektiği gösterilir.",
+    "Bu yalancı yanıtlar sık görülüyorsa, ses verilmeyen kontrol denemeleriyle güvenilirlik sınanır."
+   ]
+  },
+  {
+   "id": "kulaklik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik elde etme",
+   "baslik": "Kulağa *özgü* test",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "Köpük uç",
+     "cumle": 1
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "Ses tüpü",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Her kulak _ayrı_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Gerekirse _kemik yolu_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Maskeleme: _büyük çocukta_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "CPA'nın en önemli kazancı, kulaklıkla her kulağın ayrı test edilebilmesidir.",
+    "Insert kulaklıklar hafiftir ve çoğu çocuk tarafından iyi tolere edilir; kulak üstü kulaklık da kullanılabilir.",
+    "Kulaklık, çocuk oyunu öğrendikten sonra, oyunun bir parçasıymış gibi takılabilir.",
+    "Hava yolu eşikleri yüksekse kemik vibratörüyle kemik yolu eşikleri de alınır.",
+    "Daha büyük ve iş birliği iyi çocuklarda maskeleme de yapılabilir; ancak maskeleme gürültüsü küçük çocuğun kafasını karıştırabilir.",
+    "Kulaklığı kabul etmeyen çocukta test ses alanında başlar, ama kulağa özgü bilgi için yeniden denenir."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik elde etme",
+   "baslik": "Frekans *önceliği*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kulaklık",
+     "metin": "Önce takılır",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "İki frekans",
+     "metin": "Her kulakta",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Diğer kulak",
+     "metin": "Aynı frekanslar",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Tamamla",
+     "metin": "Kalan frekanslar",
+     "cumle": 3
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik yolu",
+     "metin": "Gerekirse",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Çocuğun dikkat süresi sınırlı olduğu için en değerli bilgi önce toplanır.",
+    "Genellikle her kulakta önce bir alçak ve bir yüksek frekans, örneğin beş yüz ve iki bin hertz test edilir.",
+    "Ardından diğer kulakta aynı frekanslar alınır; böylece kısa bir oturumda bile iki kulak hakkında bilgi edinilir.",
+    "Zaman ve dikkat elverirse bin ve dört bin hertz gibi kalan frekanslar eklenir.",
+    "Hava yolu eşikleri yüksekse kemik yolu eşikleri de alınır.",
+    "Sıra kliniğin protokolüne göre değişebilir; önemli olan oturum yarıda kalsa bile işe yarar bilgi elde etmektir."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik elde etme",
+   "baslik": "*Eşik* arama",
+   "maddeler": [
+    {
+     "metin": "Yanıtta _10 dB azalt_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yanıt yoksa _5 dB artır_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tekrarlanan en düşük _düzey_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Arada _yüksek_ şiddetle hatırlatma",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Güvenilirlik _not edilir_",
+     "cumle": 5,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "cihaz",
+      "metin": "Odyometre",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "metin": "Kulaklık",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Eşik aramada çoğu zaman yetişkinlerdeki gibi yanıt varsa on desibel azaltma, yoksa beş desibel artırma kuralı kullanılır.",
+    "Çocuğun ilgisini korumak için daha büyük adımlarla başlanıp eşiğe yaklaşınca küçük adımlara geçilebilir.",
+    "Eşik, çocuğun tekrarlanan denemelerde tutarlı yanıt verdiği en düşük düzey olarak kabul edilir.",
+    "Eşiğe yakın sesler duyulması zor olduğu için çocuk yanıt vermeyi bırakabilir; arada daha yüksek bir sesle hatırlatma yapılır.",
+    "İyi koşullanmış çocuklarda CPA eşikleri, geleneksel odyometriyle elde edilen eşiklere yakın olabilir.",
+    "Her eşiğin yanına, sonucun güvenilirliğine dair kısa bir not eklenir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik elde etme",
+   "baslik": "Örnek *CPA* sonucu",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Sağ hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Sol hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Kemik yolu, _maskesiz_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       35,
+       30,
+       30,
+       35,
+       35
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       35,
+       35,
+       30,
+       35,
+       40
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      35
+     ],
+     "etiket": "25 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Şimdi tamamen örnek, üç buçuk yaşında bir çocuğun CPA sonucuna bakalım.",
+    "Bu örnekte iki kulakta hava yolu eşikleri otuz ile kırk desibel arasında, yani hafif derecede yükselmiş.",
+    "Kemik yolu eşikleri ise beş ile on desibel arasında normal sınırlardadır.",
+    "Hava ve kemik yolu arasında yaklaşık yirmi beş desibellik bir aralık vardır; bu, iletim tipi bir kaybı düşündürür.",
+    "Aynı gün yapılan timpanometride iki kulakta da düz, yani B tipi eğri elde edilmiş.",
+    "Bu bulgular orta kulakta sıvıyla uyumlu olabilir; değerlendirme ve izlem kararı hekime aittir."
+   ]
+  },
+  {
+   "id": "zorluk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zorluklar ve yorum",
+   "baslik": "Sık *zorluklar*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Sıkılma",
+     "metin": "Oyunu değiştir, oturumu kısa tut.",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yalancı yanıt",
+     "metin": "Bekletme ve kontrol denemesi.",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Çekingenlik",
+     "metin": "Ebeveyn ve yardımcıyla ısınma.",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Yorgunluk",
+     "metin": "Önemli bilgiyi önce al.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "CPA sırasında sık karşılaşılan bazı zorluklar vardır.",
+    "Çocuk oyundan sıkılırsa yanıtlar azalır; oyunu değiştirmek ve oturumu kısa tutmak yardımcı olur.",
+    "Bazı çocuklar ses gelmeden de küp atar; bu durumda bekleme yeniden öğretilir ve kontrol denemeleri yapılır.",
+    "Çekingen çocuklar yabancı bir ortamda yanıt vermekte zorlanabilir; ebeveynin yanında kısa bir ısınma oyunu güven verir.",
+    "Yorulan çocuktan alınan son yanıtlar daha az güvenilirdir; bu yüzden en önemli bilgi oturumun başında alınır.",
+    "Bilgi eksik kaldıysa, kısa aralıkla planlanan ikinci bir oturum çoğu zaman en iyi çözümdür."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zorluklar ve yorum",
+   "baslik": "Bu yaşta *konuşma* testleri",
+   "maddeler": [
+    {
+     "metin": "Konuşmayı fark etme _eşiği_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Resim ya da beden parçası _gösterme_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Ling sesleri_ ile kontrol",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Saf ses eşikleriyle _uyum_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 3,
+    "etiketler": [
+     {
+      "parca": "unluler",
+      "metin": "Ünlüler: alçak frekans",
+      "cumle": 3
+     },
+     {
+      "parca": "unsuzler",
+      "metin": "Ünsüzler: yüksek frekans",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "unluler",
+      "cumle": 3
+     },
+     {
+      "parca": "unsuzler",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "CPA yaşındaki çocuklarda konuşma testleri de saf ses bulgularını tamamlar.",
+    "Konuşmayı alma eşiği, çocuğun duyduğu tanıdık kelimenin resmini ya da beden parçasını göstermesiyle bulunabilir.",
+    "Resimleri göstermeyen çocukta konuşmayı fark etme eşiği, kısaca SDT alınabilir.",
+    "Ling sesleri, özellikle cihaz kullanan çocuklarda, alçak ve yüksek frekanslı konuşma seslerine erişimi hızla kontrol etmeye yarar.",
+    "Konuşma eşiği ile saf ses ortalaması arasındaki uyum, sonuçların güvenilirliği için önemli bir çapraz kontroldür."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zorluklar ve yorum",
+   "baslik": "Raporda *neler* olmalı?",
+   "maddeler": [
+    {
+     "metin": "Yöntem: _CPA_, kulaklık türü",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Her eşik için _güvenilirlik_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Timpanometri ve _OAE_ ile çapraz kontrol",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Eksik frekanslar ve _plan_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "cumle": 3,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "B",
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Raporda testin CPA ile yapıldığı ve kullanılan kulaklık türü açıkça belirtilir.",
+    "Çocuğun iş birliği ve her eşiğin güvenilirliği, örneğin iyi ya da orta, kısaca not edilir.",
+    "Saf ses sonuçları timpanometri ve gerekirse otoakustik emisyonla birlikte yorumlanır.",
+    "Örneğin düz bir timpanogram, hafif iletim tipi bir kaybı destekleyen bağımsız bir bulgudur.",
+    "Alınamayan frekanslar yazılır ve tamamlamak için sonraki randevu planlanır.",
+    "Sonuçlar aileye, çocuğun günlük yaşamda neleri duyup neleri kaçırabileceği üzerinden anlatılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Oturum yarıda kalabilir; bu yüzden her kulakta önce bir alçak ve bir yüksek frekansı alın. Kısa ve sık övgü dikkati uzatır.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: CPA'ya başlamadan önce oturumun hangi bilgiyle biteceğini planlayın.",
+    "Çocuk beklenmedik biçimde iş birliğini kesebilir; bu yüzden her kulakta önce bir alçak ve bir yüksek frekansı alın.",
+    "Övgüyü kısa, sık ve çeşitli tutun; oyunu çocuk sıkılmadan değiştirin.",
+    "Güvenilirliği düşük bir sonucu kesin bulgu gibi raporlamak yerine, kısa aralıkla yeniden test planlayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Sesi duyunca _oyun hareketi_",
+     "cumle": 0,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Yaklaşık _2,5 ile 5_ yaş",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Kulaklıkla _kulağa özgü_ eşik",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "İpucu verme, _aralıkları_ değiştir",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "CPA'da çocuk sesi duyduğunda küpü kovaya atmak gibi bir oyun hareketi yapmaya koşullanır.",
+    "Yöntem gelişimsel olarak yaklaşık iki buçuk ile beş yaş arasındaki çocuklar için uygundur.",
+    "Kulaklıkla her kulak ve frekans için eşik alınabilir; gerekirse kemik yolu eklenir.",
+    "İstemeden ipucu vermemek, aralıkları değiştirmek ve oturumu planlamak güvenilir sonucun temelidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "CPA'da yalancı yanıtları azaltmak için ne yapılır?",
+   "secenekler": [
+    "Sesler düzenli ritimle verilir",
+    "Aralıklar düzensiz tutulur",
+    "Her harekete övgü verilir"
+   ],
+   "dogru": 1,
+   "aciklama": "Düzenli ritim tahmine yol açar; _aralıklar düzensiz_ tutulur ve yalnız doğru yanıt övülür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Koşullu oyun odyometrisinde çocuğun ses gelmeden yanıt vermesini azaltmak için ne yapılır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: sesler arasındaki aralıklar düzensiz tutulur.",
+    "Ses gelmeden yapılan hareket ödüllendirilmez ve çocuğa beklemesi gerektiği nazikçe gösterilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Çocuklarda *konuşma algısı* testleri",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste çocuklarda konuşma algısı testlerini, yani açık ve kapalı set testleri öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

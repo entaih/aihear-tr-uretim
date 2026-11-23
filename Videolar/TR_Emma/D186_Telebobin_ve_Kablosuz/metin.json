@@ -1,0 +1,776 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D186_Telebobin_ve_Kablosuz_TR",
+ "kapak": {
+  "ust": "DERS 186",
+  "baslik": "Telebobin ve<br>*kablosuz* ses",
+  "alt": "Döngü, Bluetooth, uzak mikrofon",
+  "cizim": "oda_plani",
+  "ayar": {
+   "mod": "kritik_mesafe",
+   "kritik_mesafe_m": 1.5,
+   "oda": [
+    9,
+    7
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Telebobin, kablosuz bağlantı ve yardımcı dinleme cihazları | Ders 186 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazı uzaktaki konuşmacıyı gürültüde neden zor yakalar? Bu derste telebobin ve indüksiyon döngüsünü, Bluetooth ile ses aktarımını, FM ve dijital uzak mikrofon sistemlerini ve hangi durumda hangi çözümün seçileceğini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; IEC 60118-4, Electroacoustics: Hearing aids, Induction loop systems for assisted hearing; American Speech-Language-Hearing Association, Acoustics in Educational Settings (2005); American Academy of Audiology, Clinical Practice Guidelines: Remote Microphone Hearing Assistance Technologies for Children and Youth from Birth to 21 Years (2008).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "telebobin"
+  ],
+  "etiketler": [
+   "telebobin",
+   "telecoil",
+   "indüksiyon döngüsü",
+   "induction loop",
+   "uzak mikrofon",
+   "remote microphone",
+   "FM sistemi",
+   "Bluetooth",
+   "yardımcı dinleme cihazları",
+   "assistive listening devices",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 186",
+   "baslik": "Telebobin ve *kablosuz* ses",
+   "alt": "Yardımcı dinleme cihazları",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme cihazına sesi mikrofondan değil, doğrudan kaynaktan ulaştıran sistemleri öğreneceğiz.",
+    "Telebobin ve indüksiyon döngüsünü, Bluetooth ile ses aktarımını ve uzak mikrofon sistemlerini karşılaştıracağız."
+   ]
+  },
+  {
+   "id": "mesafe",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Mesafe sorunu",
+   "baslik": "Uzaklık, yankı ve *gürültü*",
+   "cizim": "oda_plani",
+   "ayar": {
+    "mod": "kritik_mesafe",
+    "kritik_mesafe_m": 1.5,
+    "oda": [
+     9,
+     7
+    ],
+    "halka_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "ogretmen",
+     "metin": "konuşmacı",
+     "cumle": 0
+    },
+    {
+     "parca": "kritik_mesafe",
+     "metin": "kritik mesafe",
+     "cumle": 2
+    },
+    {
+     "parca": "ogrenciler",
+     "metin": "uzaktaki dinleyici",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ogretmen",
+     "cumle": 0
+    },
+    {
+     "parca": "yankilanan_alan",
+     "cumle": 2
+    },
+    {
+     "parca": "ogrenciler",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Uzaklık arttıkça doğrudan ses _azalır_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Yankı konuşmayı bulanıklaştırır",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Çözüm: sesi kaynakta almak",
+     "cumle": 5,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "İşitme cihazının mikrofonu kullanıcının kulağındadır; konuşmacı ise çoğu zaman metrelerce uzaktadır.",
+    "Ses kaynaktan uzaklaştıkça doğrudan sesin düzeyi düşer, ortam gürültüsü ise aynı kalır.",
+    "Kritik mesafenin ötesinde yansıyan ses doğrudan sesten güçlü hale gelir ve konuşma bulanıklaşır.",
+    "Arka sıradaki bir öğrenci için sinyal-gürültü oranı bu yüzden ön sıradakinden belirgin biçimde kötüdür.",
+    "İşitme cihazı, mikrofona ulaşan karışık sesi temizleyemez; yalnız onu yükseltir ve şekillendirir.",
+    "Yardımcı dinleme cihazları (assistive listening devices) bu sorunu, sesi kaynağın yanında alıp doğrudan cihaza ileterek çözer."
+   ]
+  },
+  {
+   "id": "uc_yol",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Mesafe sorunu",
+   "baslik": "Sesi taşımanın *üç yolu*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Telebobin",
+     "cumle": 1,
+     "metin": "Döngüden manyetik alan"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Bluetooth",
+     "cumle": 2,
+     "metin": "Telefondan doğrudan ses"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Uzak mikrofon",
+     "cumle": 3,
+     "metin": "Konuşmacının yakasında"
+    }
+   ],
+   "cumleler": [
+    "Sesi işitme cihazına doğrudan taşımanın başlıca üç yolu vardır.",
+    "Birincisi, manyetik alanla çalışan telebobin ve indüksiyon döngüsüdür.",
+    "İkincisi, telefon ve televizyon gibi cihazlardan Bluetooth ile yapılan kablosuz ses aktarımıdır.",
+    "Üçüncüsü, konuşmacının taktığı ve sesi radyo dalgasıyla ileten uzak mikrofon sistemleridir.",
+    "Üçünün ortak amacı aynıdır: sesi kaynağın yanında alıp uzaklık, yankı ve gürültü eklenmeden kulağa ulaştırmak."
+   ]
+  },
+  {
+   "id": "telebobin",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Telebobin ve döngü",
+   "baslik": "Telebobin *nedir?*",
+   "maddeler": [
+    {
+     "metin": "Cihazda küçük bir tel sargısı",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Manyetik alan, elektrik sinyaline",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "T programı: yalnız bobin",
+     "cumle": 3,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "MT programı: bobin ve mikrofon",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Ek alıcı ya da eşleştirme gerekmez",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "islemci",
+      "metin": "telebobin gövdede",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Telebobin (telecoil), işitme cihazının içinde bulunan küçük bir tel sargısıdır.",
+    "Değişen bir manyetik alanın içinde kaldığında sargıda elektrik akımı oluşur; cihaz bu akımı ses sinyali olarak işler.",
+    "Telebobin ilk olarak eski telefon ahizelerinin sızdırdığı manyetik alanı yakalamak için kullanıldı.",
+    {
+     "yazi": "T programında cihaz yalnız bobinden gelen sesi verir; böylece ortam gürültüsü neredeyse tümüyle dışarıda kalır.",
+     "ses": "Te programında cihaz yalnız bobinden gelen sesi verir; böylece ortam gürültüsü neredeyse tümüyle dışarıda kalır."
+    },
+    "Mikrofon ve telebobin, kısaca MT programında ikisi birlikte çalışır; kişi hem döngüyü hem de yanındakini duyar.",
+    "Telebobinle uyumlu telefonlar ahizeden manyetik alan yayar; cep telefonlarında bu uyumluluk modele göre değişir.",
+    "Telebobin ek bir alıcı ya da eşleştirme gerektirmez; ama küçük kulak içi cihazlara her zaman sığmaz."
+   ]
+  },
+  {
+   "id": "dongu",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Telebobin ve döngü",
+   "baslik": "İndüksiyon *döngüsü*",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Ses kaynağı",
+     "cumle": 0,
+     "metin": "Mikrofon ya da yayın"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Yükselteç",
+     "cumle": 1,
+     "metin": "Akımı sürer"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Döngü kablosu",
+     "cumle": 2,
+     "metin": "Odanın çevresinde"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Manyetik alan",
+     "cumle": 3,
+     "metin": "Döngünün içinde"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Telebobin",
+     "cumle": 4,
+     "metin": "Sesi alır"
+    }
+   ],
+   "cumleler": [
+    "İndüksiyon döngüsü (induction loop) sisteminde ses, önce konuşmacının mikrofonundan ya da bir yayın kaynağından alınır.",
+    "Döngü yükselteci bu sesi bir elektrik akımına çevirir.",
+    "Akım, odanın çevresine ya da zemine döşenmiş bir kablodan geçer.",
+    "Kablonun çevrelediği alanda, sesle birlikte değişen bir manyetik alan oluşur.",
+    "Bu alanın içindeki herkes, telebobinini açarak sesi doğrudan, uzaklık ve yankıdan etkilenmeden duyar.",
+    "Boyuna takılan küçük bir döngü (neck loop), aynı ilkeyi telefon ya da müzik çalar için kişisel olarak uygular."
+   ]
+  },
+  {
+   "id": "standart",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Telebobin ve döngü",
+   "baslik": "Döngü *nerede* ve nasıl?",
+   "maddeler": [
+    {
+     "metin": "Alan şiddeti: _400 mA/m_ başvuru",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yanıt: 100 ile 5000 Hz",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İşaret: kulak ve T harfi",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Gişe, salon, ibadethane, taksi",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Döngü kurulumu ölçümle doğrulanır",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "NEREDE?",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "is_yeri",
+      "baslik": "Gişe",
+      "cumle": 3,
+      "metin": "Banka, istasyon"
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "Salon",
+      "cumle": 3,
+      "metin": "Tiyatro, konferans"
+     },
+     {
+      "ikon": "ev",
+      "baslik": "Ev",
+      "cumle": 4,
+      "metin": "Televizyon döngüsü"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Döngü sistemleri uluslararası IEC 60118-4 standardına göre kurulur; başvuru alan şiddeti 400 mA/m'dir.",
+     "ses": "Döngü sistemleri uluslararası ı e ce standardına göre kurulur; başvuru alan şiddeti 400 miliamper bölü metredir."
+    },
+    "Aynı standart, alanın frekans yanıtının yaklaşık 100 ile 5000 Hz arasında düzgün olmasını ister.",
+    "Döngü bulunan yerler, mavi zeminde üzeri çizili bir kulak ve köşede T harfi bulunan işaretle gösterilir.",
+    "Gişeler, toplantı salonları, tiyatrolar ve ibadethaneler döngünün en yararlı olduğu yerlerdir.",
+    "Döngünün en büyük avantajı, telebobini olan herkesin ek bir alıcı olmadan sistemi kullanabilmesidir.",
+    "Kurulumdan sonra alan şiddeti bir ölçüm cihazıyla kontrol edilmelidir; zayıf ya da düzensiz alan kötü ses verir."
+   ]
+  },
+  {
+   "id": "bluetooth",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kablosuz bağlantı",
+   "baslik": "Bluetooth ile *doğrudan* ses",
+   "ogeler": [
+    {
+     "ikon": "telefon",
+     "baslik": "Telefon",
+     "cumle": 0,
+     "metin": "Doğrudan iki kulağa"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Aracı cihaz",
+     "cumle": 1,
+     "metin": "Eski sistemlerde gerekir"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Düşük enerji",
+     "cumle": 2,
+     "metin": "Aracısız aktarım"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Yayın sesi",
+     "cumle": 4,
+     "metin": "Herkese açık yayın"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Pil tüketimi",
+     "cumle": 6,
+     "metin": "Akış süreyi kısaltır"
+    }
+   ],
+   "cumleler": [
+    "Bluetooth, telefon, televizyon ve bilgisayardaki sesin işitme cihazına kablosuz olarak aktarılmasını sağlar.",
+    "Klasik Bluetooth çok enerji harcadığı için eski sistemlerde boyuna asılan bir aracı cihaz (streamer) kullanılırdı.",
+    "Bluetooth düşük enerji teknolojisiyle bugün birçok cihaz, telefondan aracısız ses alabiliyor.",
+    "Telefon görüşmesi iki kulağa birden verilebildiği için anlaşılırlık genellikle belirgin biçimde artar.",
+    "Yeni Bluetooth ses standardının yayın özelliği Auracast, bir kaynaktan çok sayıda dinleyiciye ses gönderebilir.",
+    "Telefon uygulamalarıyla kullanıcı ses düzeyini ve programı değiştirebilir; bu da kablosuz bağlantının bir yan yararıdır.",
+    "Ses akışı pil tüketimini artırır; ayrıca uyumluluk cihaz ve telefon modeline göre değişir, bu yüzden önceden denenmelidir."
+   ]
+  },
+  {
+   "id": "uzak",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uzak mikrofon",
+   "baslik": "Uzak mikrofon *nasıl* çalışır?",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşmacı",
+     "cumle": 0,
+     "metin": "Ağza yakın mikrofon"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Verici",
+     "cumle": 1,
+     "metin": "Sesi kodlar"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Radyo dalgası",
+     "cumle": 2,
+     "metin": "FM ya da dijital"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Alıcı",
+     "cumle": 3,
+     "metin": "Cihaza bağlı"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak",
+     "cumle": 4,
+     "metin": "Yüksek SNR"
+    }
+   ],
+   "cumleler": [
+    "Uzak mikrofon (remote microphone) sisteminde mikrofon, konuşmacının ağzına yakın, örneğin yakasına takılır.",
+    "Verici, bu yakın ve temiz sesi alıp kablosuz yayına hazırlar.",
+    "Ses, eski sistemlerde frekans modülasyonlu, yani FM radyo dalgasıyla, yenilerinde ise dijital kablosuz bağlantıyla iletilir.",
+    "Alıcı işitme cihazına takılı küçük bir parça olabilir ya da cihazın içine yerleştirilmiş olabilir.",
+    "Böylece dinleyici, konuşmacı birkaç metre uzakta olsa bile sesi sanki ağzının yanındaymış gibi alır.",
+    "Bu yüzden uzak mikrofon, gürültü ve uzaklık sorununa karşı en güçlü yardımcı araç olarak kabul edilir."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uzak mikrofon",
+   "baslik": "Mesafe ve *sinyal-gürültü oranı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 8,
+     "log": true,
+     "ond": 1,
+     "ad": "Konuşmacıya uzaklık (m)",
+     "isaretler": [
+      0.5,
+      1,
+      2,
+      4,
+      8
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 25,
+     "adim": 5,
+     "ad": "SNR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "cihaz",
+      "noktalar": [
+       [
+        0.5,
+        14
+       ],
+       [
+        1,
+        8
+       ],
+       [
+        2,
+        2
+       ],
+       [
+        4,
+        -3
+       ],
+       [
+        8,
+        -6
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "yalnız cihaz",
+      "cumle": 1
+     },
+     {
+      "ad": "uzak",
+      "noktalar": [
+       [
+        0.5,
+        18
+       ],
+       [
+        1,
+        18
+       ],
+       [
+        2,
+        18
+       ],
+       [
+        4,
+        18
+       ],
+       [
+        8,
+        18
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "uzak mikrofon",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hedef",
+      "y": [
+       15,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "hedef: en az +15 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Bu grafik, gürültülü bir sınıfta dinleyiciye ulaşan sinyal-gürültü oranını örnek değerlerle gösteriyor.",
+    "Yalnız işitme cihazının mikrofonuyla dinlerken oran, konuşmacıdan uzaklaştıkça hızla düşüyor.",
+    "Uzak mikrofon kullanıldığında ise oran, dinleyici nerede oturursa otursun yüksek kalıyor.",
+    "Klasik çalışmalarda uzak mikrofonun sağladığı iyileşme yaklaşık 15 ile 20 dB olarak bildirilmiştir.",
+    "Amerikan Konuşma, Dil ve İşitme Derneği, işitme kayıplı çocuklar için sınıfta en az artı 15 dB oran önerir.",
+    "Bu hedefe büyük bir sınıfta yalnız işitme cihazıyla ulaşmak çoğu zaman mümkün değildir."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uzak mikrofon",
+   "baslik": "Uzak mikrofon *kime?*",
+   "ogeler": [
+    {
+     "ikon": "okul",
+     "baslik": "Okul çağı",
+     "cumle": 0,
+     "metin": "Sınıfta öğretmen sesi"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Küçük çocuk",
+     "cumle": 1,
+     "metin": "Evde ve araçta"
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Yetişkin",
+     "cumle": 2,
+     "metin": "Toplantı ve restoran"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "İmplant",
+     "cumle": 3,
+     "metin": "Aynı sistemle uyumlu"
+    }
+   ],
+   "cumleler": [
+    "Okul çağındaki işitme kayıplı çocuklarda uzak mikrofon, sınıfta öğretmenin sesini doğrudan iletmek için yaygın olarak önerilir.",
+    "Daha küçük çocuklarda ise araç içinde ya da parkta, ebeveynin sesini uzaktan iletmek için kullanılabilir.",
+    "Yetişkinlerde masaya konan ya da konuşmacıya verilen mikrofonlar, toplantı ve restoran gibi ortamlarda yardımcı olur.",
+    "Birçok koklear implant konuşma işlemcisi de aynı uzak mikrofon sistemleriyle birlikte kullanılabilir."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Doğru seçim",
+   "baslik": "Hangi duruma *hangi çözüm?*",
+   "sutunlar": [
+    "Durum",
+    "Çözüm"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Telefon görüşmesi",
+      "Bluetooth ya da telebobin"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Televizyon",
+      "Kablosuz televizyon vericisi"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Sınıf",
+      "Uzak mikrofon"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Tiyatro, gişe",
+      "Döngü ya da yayın"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Toplantı, restoran",
+      "Masa mikrofonu"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Yardımcı sistem seçimi kişinin günlük yaşamındaki zor durumlara göre yapılır.",
+    "Telefon için Bluetooth aktarımı ya da uyumlu telefonlarda telebobin kullanılabilir.",
+    "Televizyon için, televizyona bağlanan küçük bir kablosuz verici sesi doğrudan cihaza gönderir.",
+    "Sınıfta en etkili çözüm uzak mikrofondur.",
+    "Tiyatro, gişe ve ibadethane gibi ortak alanlarda döngü ya da yayın sistemleri kullanılır.",
+    "Toplantı ve restoran gibi çok konuşmacılı ortamlarda masaya konan bir mikrofon yardımcı olabilir."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Doğru seçim",
+   "baslik": "Seçimden *kullanıma*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "İhtiyacı sor",
+     "cumle": 0,
+     "metin": "Zor durumlar"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Uyumu kontrol",
+     "cumle": 1,
+     "metin": "Cihaz ve telefon"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Birlikte dene",
+     "cumle": 2,
+     "metin": "Klinikte"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Öğret",
+     "cumle": 3,
+     "metin": "Düğme ve işaret"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzle",
+     "cumle": 4,
+     "metin": "Kontrolde sor"
+    }
+   ],
+   "cumleler": [
+    "Yardımcı sistem önerisi, kişiye günlük yaşamda en çok nerede zorlandığını sormakla başlar.",
+    "Sonra işitme cihazının telebobin, Bluetooth ve uzak mikrofon uyumu ile kişinin telefon modeli kontrol edilir.",
+    "Sistem mümkünse klinikte, kişinin kendi sesleri ve kendi telefonuyla birlikte denenir.",
+    "Kullanıcıya ve gerekiyorsa yakınına, programlar arasında geçiş ve şarj gibi pratik adımlar öğretilir.",
+    "Kontrol randevularında sistemin gerçekten kullanılıp kullanılmadığı sorulur; kullanılmayan sistem yarar sağlamaz."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Telebobin birçok cihazda varsayılan olarak kapalı gelir. İlk uyumda programını etkinleştirin, döngüde birlikte deneyin ve kullanıcıya düğmeyi gösterin.",
+   "cumleler": [
+    "Sahadan bir ipucu: telebobin birçok cihazda bulunur, ama programı çoğu zaman varsayılan olarak etkin değildir.",
+    "İlk uyumda telebobin programını açın ve mümkünse klinikteki bir döngü ya da test cihazıyla birlikte deneyin.",
+    "Kullanıcıya bu programa nasıl geçeceğini ve döngü işaretini nerede göreceğini gösterin.",
+    "Kablosuz bağlantılarda da kişinin kendi telefonunu kliniğe getirip eşleştirmeyi orada yapmak, sonraki sorunları azaltır.",
+    "Yardımcı sistemler, kullanıcı onları tanıdığı ve kolayca kullanabildiği sürece işe yarar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Uzaklık ve yankı SNR'yi düşürür",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Telebobin, döngünün manyetik alanını alır",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bluetooth: telefon ve televizyondan ses",
+     "cumle": 2,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Uzak mikrofon: en büyük SNR kazancı",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "Bu derste konuşmacıdan uzaklaştıkça ve yankı arttıkça sinyal-gürültü oranının düştüğünü gördük.",
+    "Telebobin, indüksiyon döngüsünün manyetik alanını alarak sesi doğrudan cihaza iletir.",
+    "Bluetooth, telefon ve televizyon gibi cihazlardan kablosuz ses aktarımı sağlar.",
+    "Uzak mikrofon sistemleri ise gürültü ve uzaklık sorununa karşı en büyük sinyal-gürültü kazancını sağlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sınıfta öğretmeni anlamak için en etkili çözüm?",
+   "secenekler": [
+    "Daha fazla kazanç",
+    "Uzak mikrofon",
+    "Büyük vent",
+    "Gürültü programı"
+   ],
+   "dogru": 1,
+   "aciklama": "Uzak mikrofon sesi _kaynakta_ alır; uzaklık ve yankının etkisini büyük ölçüde ortadan kaldırır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: gürültülü bir sınıfta arka sırada oturan işitme kayıplı bir öğrenci için en etkili çözüm hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: uzak mikrofon.",
+    "Uzak mikrofon sesi öğretmenin ağzına yakın alır; böylece uzaklık ve yankının etkisi büyük ölçüde ortadan kalkar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Test kutusu ölçümleri ve *2 cc kuplör*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste işitme cihazının teslimden önce test kutusunda ve kuplörde nasıl ölçüldüğünü göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

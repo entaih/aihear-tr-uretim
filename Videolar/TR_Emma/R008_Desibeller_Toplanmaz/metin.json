@@ -1,0 +1,98 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R008_Desibeller_Toplanmaz_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #8",
+  "baslik": "*63* desibel, 120 değil",
+  "alt": "Desibeller düz toplanmaz",
+  "cizim": "desibel_olcegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "60 dB ile 60 dB toplanınca kaç desibel olur? #shorts",
+  "aciklama": "Altmış desibellik iki eşit ses kaynağı birlikte yaklaşık 63 desibel verir, 120 değil. Gürlük algısı da sıkıştırılmıştır: 10 desibellik artış şiddette 10 kat demektir ama sesi kabaca yalnız iki kat gür algılatır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "desibel",
+   "bilgi"
+  ],
+  "etiketler": [
+   "desibel",
+   "desibel toplama",
+   "ses yüksekliği",
+   "ses şiddeti",
+   "logaritmik ölçek",
+   "odyoloji",
+   "işitme",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Altmış desibel artı altmış desibel kaç eder?",
+  "bilgiler": [
+   "60 dB'lik iki eşit ses birlikte yaklaşık 63 dB verir, 120 değil.",
+   "Çünkü desibeller düz toplanmaz.",
+   "10 dB artış şiddette 10 kat demektir, ama sesi kabaca iki kat gür algılatır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "desibel",
+   "gürültü"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #8",
+   "metin": "Altmış desibel artı altmış desibel *kaç eder?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Altmış desibel artı altmış desibel kaç eder?"
+   ]
+  },
+  {
+   "id": "toplam",
+   "tur": "buyuk_sayi",
+   "ust": "İki eşit ses kaynağı *birlikte*",
+   "sayi": "63",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Yüz yirmi değil; yaklaşık altmış üç desibel.",
+    "Çünkü desibeller düz toplanmaz."
+   ]
+  },
+  {
+   "id": "on",
+   "tur": "buyuk_sayi",
+   "ust": "*On desibel* artınca",
+   "sayi": "10",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "On desibellik artış, şiddette on katlık bir artış demektir.",
+    "Oysa kulak bu sesi kabaca yalnız iki kat gür algılar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D013",
+ "kaynak_baslik": "Desibel nedir?"
+}

@@ -1,0 +1,108 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R279_Arkadaki_Sesi_Silen_Mikrofon_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #279",
+  "baslik": "Arkadaki sesi *silen mikrofon*",
+  "alt": "Yönlü mikrofon nasıl çalışır?",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Yönlü mikrofon arkadan gelen sesi nasıl bastırır? #shorts",
+  "aciklama": "Yönlü sistemde aralarında yaklaşık bir santimetre bulunan iki mikrofon kullanılır; işlemci arka mikrofonun sinyalini kısa bir süre geciktirip ön mikrofonun sinyalinden çıkarır ve arkadan gelen ses söner. Yarar, kişi konuşmacıya baktığında, konuşmacı yakın ve gürültü arkadayken en fazladır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitmecihazı",
+   "mikrofon"
+  ],
+  "etiketler": [
+   "yönlü mikrofon",
+   "çok yönlü mikrofon",
+   "polar desen",
+   "sinyal-gürültü oranı",
+   "gürültüde konuşma",
+   "işitme cihazı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Yönlü mikrofon arkadan gelen sesi nasıl bastırır?",
+  "bilgiler": [
+   "Cihazda yaklaşık bir santimetre aralıklı iki mikrofon bulunur.",
+   "Arka sinyal geciktirilip çıkarılınca arkadan gelen ses söner.",
+   "Yarar, konuşmacıya bakarken ve gürültü arkadayken en fazladır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "mikrofon"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #279",
+   "metin": "Arkadaki ses *nereye gider?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Yönlü mikrofon arkadan gelen sesi nasıl bastırır?"
+   ]
+  },
+  {
+   "id": "yonlu",
+   "tur": "zincir",
+   "baslik": "*İki mikrofon*, bir gecikme",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Ön mikrofon",
+     "tr": "önce ulaşır",
+     "cumle": 0
+    },
+    {
+     "ad": "Gecikme",
+     "tr": "arka sinyal",
+     "cumle": 1
+    },
+    {
+     "ad": "Çıkarma",
+     "tr": "arka ses söner",
+     "cumle": 2
+    }
+   ],
+   "alt": "Konuşmacıya _yüzünü dön_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Cihazda aralarında yaklaşık bir santimetre olan iki mikrofon bulunur.",
+    "İşlemci arka mikrofonun sinyalini kısa süre geciktirip öndekinden çıkarır.",
+    "Gecikme doğruysa arkadan gelen ses iki sinyalde aynı anda olur ve söner.",
+    "Önden gelen ses söndürülmez; öndeki konuşmacı öne çıkar.",
+    "Yarar, kişi konuşmacıya baktığında ve gürültü arkadayken en fazladır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D183",
+ "kaynak_baslik": "Yönlü mikrofon ve gürültü azaltma"
+}

@@ -1,0 +1,908 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D060_Hughson_Westlake_TR",
+ "kapak": {
+  "ust": "DERS 60",
+  "baslik": "Hava yolu<br>*eşiği* bulmak",
+  "alt": "Modifiye Hughson-Westlake yöntemi",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Hava Yolu Eşiği Nasıl Bulunur? Modifiye Hughson-Westlake | Ders 60 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Saf ses odyometrisinde hava yolu eşikleri modifiye Hughson-Westlake yöntemiyle bulunur. Bu derste eşiğin tanımını, alıştırma adımını, 10 dB aşağı 5 dB yukarı kuralını, frekans sırasını, örnek bir eşik aramasını ve sık yapılan hataları adım adım inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); Carhart ve Jerger, Preferred method for clinical determination of pure-tone thresholds (Journal of Speech and Hearing Disorders, 1959); British Society of Audiology, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "işitme"
+  ],
+  "etiketler": [
+   "Hughson-Westlake",
+   "modifiye Hughson-Westlake",
+   "saf ses odyometrisi",
+   "hava yolu eşiği",
+   "eşik",
+   "threshold",
+   "ascending approach",
+   "pure-tone audiometry",
+   "odyogram",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 60",
+   "baslik": "Hava yolu *eşiği* nasıl bulunur?",
+   "alt": "Modifiye Hughson-Westlake yöntemi adım adım",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste saf ses odyometrisinde hava yolu eşiğinin nasıl bulunduğunu, yani modifiye Hughson-Westlake yöntemini öğreneceğiz.",
+    "Eşiğin tanımından başlayıp, örnek bir eşik aramasını adım adım izleyecek ve sık yapılan hataları konuşacağız."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Eşik ve yöntem",
+   "baslik": "*Eşik* nedir?",
+   "maddeler": [
+    {
+     "metin": "Duyulabilen _en düşük_ düzey",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Keskin bir sınır değil, _olasılık_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tekrarlanan denemelerle _doğrulanır_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "En az iki yanıt, örneğin _üçte iki_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EŞİK (THRESHOLD)",
+    "metin": "Yükselen denemelerin en az *yarısında* yanıt alınan en düşük düzey",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Eşik, bir kişinin bir sesi duyabildiği en düşük düzeydir.",
+    "Ancak eşik keskin bir sınır değildir; eşiğe yakın düzeylerde kişi sesi bazen duyar, bazen duymaz.",
+    "Bu nedenle eşik, olasılığa dayalı olarak tanımlanır.",
+    "Modifiye Hughson-Westlake yönteminde eşik, yükselen denemelerin en az yarısında yanıt alınan en düşük düzeydir.",
+    "Pratikte bu, aynı düzeyde yapılan yükselen denemelerde en az iki yanıt alınması demektir; örneğin üç denemeden ikisi.",
+    {
+     "yazi": "Bu tanım, Amerikan Konuşma, Dil ve İşitme Derneği, kısaca ASHA'nın kılavuzunda yer alır.",
+     "ses": "Bu tanım, Amerikan Konuşma, Dil ve İşitme Derneği, kısaca aşa'nın kılavuzunda yer alır."
+    }
+   ]
+  },
+  {
+   "id": "koken",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Eşik ve yöntem",
+   "baslik": "Yöntemin *kökeni*",
+   "maddeler": [
+    {
+     "metin": "Hughson ve Westlake: _yükselen_ yaklaşım",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Carhart ve Jerger: _modifiye_ yöntem",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Uluslararası kılavuzların _temeli_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Yöntemin adı, eşiğe yükselen yaklaşımla ulaşmayı tanımlayan Hughson ve Westlake'ten gelir.",
+    "Carhart ve Jerger bu yaklaşımı sadeleştirerek bugün kullandığımız modifiye Hughson-Westlake yöntemini önerdi.",
+    "Yöntemin temelinde sesin hep sessizlikten duyulur düzeye doğru, yani aşağıdan yukarı sunulması yatar.",
+    "Uluslararası kılavuzlar bu yönteme dayanır; klinik uygulamada ise inen yaklaşım da yaygın olarak kullanılır.",
+    {
+     "yazi": "İngiliz Odyoloji Derneği, kısaca BSA'nın önerdiği yöntem de aynı ilkelere dayanır.",
+     "ses": "İngiliz Odyoloji Derneği, kısaca be se a'nın önerdiği yöntem de aynı ilkelere dayanır."
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TEMEL İLKE",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "sessizlik",
+      "baslik": "Aşağıdan yukarı",
+      "metin": "Sessizlikten duyulur düzeye",
+      "cumle": 2
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "BSA yöntemi",
+      "metin": "Aynı ilkelere dayanır",
+      "cumle": 4
+     }
+    ]
+   }
+  },
+  {
+   "id": "neden_yukselen",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Eşik ve yöntem",
+   "baslik": "Yükselen ve *inen* yaklaşım",
+   "sol": {
+    "ust": "Yükselen (ascending)",
+    "maddeler": [
+     {
+      "metin": "Ses sessizlikten _duyulura_ yükselir",
+      "cumle": 1
+     },
+     {
+      "metin": "Yanıt _yeni_ fark edilen sese",
+      "cumle": 2
+     },
+     {
+      "metin": "Uluslararası kılavuzların _temeli_",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "İnen (descending)",
+    "maddeler": [
+     {
+      "metin": "Ses duyulurdan _sessizliğe_ iner",
+      "cumle": 4
+     },
+     {
+      "metin": "Hasta aradığı sesi _önce tanır_",
+      "cumle": 5
+     },
+     {
+      "metin": "Türkiye'de _daha yaygın_",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Eşiğe iki yönden yaklaşılabilir: sesi aşağıdan yukarı ya da yukarıdan aşağı doğru sunarak.",
+    "Yükselen yaklaşımda ses, duyulmayan bir düzeyden başlar ve adım adım yükseltilir.",
+    "Böylece hasta gerçekten yeni fark ettiği bir sese yanıt verir; alışkanlıkla yanıt verme olasılığı azalır.",
+    "Modifiye Hughson-Westlake yöntemi ve uluslararası kılavuzlar, eşiği bu yükselen denemelere göre tanımlar.",
+    "İnen yaklaşımda ise ses açıkça duyulan bir düzeyden başlar ve yanıt kaybolana kadar azaltılır.",
+    "Bu yaklaşımın avantajı, hastanın aradığı sesi baştan tanıması ve hafif tonları daha kolay ayırt etmesidir.",
+    "Bu nedenle inen yöntem, Türkiye'deki kliniklerde daha yaygın kullanılır.",
+    "İki yaklaşımın da kendine göre avantajları vardır; önemli olan, seçilen yöntemi tutarlı uygulamak ve raporda belirtmektir."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hazırlık ve talimat",
+   "baslik": "Teste *hazırlık*",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "odyometre",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "kulaklık: hava yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "hasta yanıt butonu",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Önce otoskopi",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Hasta test edeni görmemeli",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Teste başlamadan önce otoskopi yapılmış ve kulaklıklar doğru biçimde yerleştirilmiş olmalıdır.",
+    "Hava yolu testinde ses, kulak üstü ya da kulak içi, yani insert kulaklıkla verilir.",
+    "Hasta sesi her duyduğunda butona basar ya da elini kaldırır.",
+    "Hasta, test eden kişinin ellerini ve cihaz ekranını görmeyecek biçimde oturtulur.",
+    "Böylece görsel ipuçlarıyla verilen yanıtların önüne geçilir.",
+    "Kulaklıkların kırmızı tarafı sağ kulağa, mavi tarafı sol kulağa takılır."
+   ]
+  },
+  {
+   "id": "talimat",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hazırlık ve talimat",
+   "baslik": "Açık ve *standart* talimat",
+   "maddeler": [
+    {
+     "metin": "Çok hafif sesleri de _bildirin_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Duyunca basın, kesilince bırakın",
+     "cumle": 1,
+     "ikon": "hasta_butonu"
+    },
+    {
+     "metin": "Talimatın anlaşıldığını _kontrol edin_",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Önce daha _iyi_ duyan kulak",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Talimat kısa ve nettir: çok hafif de olsa, bir ses duyduğunuz her an butona basın.",
+    "Hastadan sesi duyar duymaz basmasını, ses kesildiğinde ise bırakmasını isteyin.",
+    "Ne kadar hafif olursa olsun, duyduğu her sese yanıt vermesi gerektiğini vurgulayın.",
+    "Talimattan sonra hastanın anlayıp anlamadığını kısa bir soruyla kontrol edin.",
+    "Teste, hastanın daha iyi duyduğunu söylediği kulaktan başlanır.",
+    "Hasta iki kulağı arasında fark tarif etmiyorsa, klinikler genellikle sağ kulaktan başlar."
+   ]
+  },
+  {
+   "id": "alistirma",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım yöntem",
+   "baslik": "Önce *alıştırma*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "1000 Hz",
+     "metin": "30 dB HL ile başla",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Yanıt yoksa",
+     "metin": "50 dB HL",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "10 dB artır",
+     "metin": "Yanıt gelene kadar",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Yanıt geldi",
+     "metin": "Eşik aramaya geç",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Test bin hertzde başlar; çünkü bu frekansta eşikler genellikle en tutarlı biçimde ölçülür.",
+    {
+     "yazi": "Hastaya önce sesi tanıması için açıkça duyulabilecek bir ton verilir; ASHA kılavuzu bunun için otuz desibel HL'yi önerir.",
+     "ses": "Hastaya önce sesi tanıması için açıkça duyulabilecek bir ton verilir; aşa kılavuzu bunun için otuz desibel HL'yi önerir."
+    },
+    "Yanıt gelmezse ton elli desibel HL'de verilir; yine yanıt yoksa on desibellik adımlarla yükseltilir.",
+    "Hasta tonu duyup yanıt verdiğinde alıştırma tamamlanır ve eşik aramasına geçilir.",
+    "Bu ilk yanıtın amacı, hastanın aradığı sesi tanımasını sağlamaktır."
+   ]
+  },
+  {
+   "id": "kural",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım yöntem",
+   "baslik": "*10 aşağı*, 5 yukarı",
+   "maddeler": [
+    {
+     "metin": "Yanıt var: _10 dB_ azalt",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yanıt yok: _5 dB_ artır",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Ton süresi 1 ile 2 saniye",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Aralıkları _düzensiz_ tut",
+     "cumle": 4,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Bu yöntemde _yükselen_ yanıtlar sayılır",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Eşik aramasının kuralı basittir: hasta yanıt verdiğinde düzey on desibel azaltılır.",
+     "ses": "Eşik aramasının kuralı basittir: hasta yanıt verdiğinde düzey on desibel azaltılır."
+    },
+    "Hasta yanıt vermediğinde ise düzey beş desibel artırılır.",
+    "Bu kural kısaca on aşağı, beş yukarı diye hatırlanır.",
+    "Her ton yaklaşık bir ile iki saniye süreyle verilir.",
+    "Tonlar arasındaki sessiz aralıklar düzensiz olmalıdır; ritmik sunum hastanın tahminle yanıt vermesine yol açar.",
+    "Bu yöntemde eşik, yükselen denemelerdeki yanıtlara göre belirlenir."
+   ]
+  },
+  {
+   "id": "ornek_arama",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım yöntem",
+   "baslik": "Örnek bir *eşik araması*",
+   "sutunlar": [
+    "Adım",
+    "Düzey (dB HL)",
+    "Yanıt",
+    "Sonraki adım"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1",
+      "30",
+      "Var",
+      "10 dB in"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2",
+      "20",
+      "Var",
+      "10 dB in"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3",
+      "10",
+      "Yok",
+      "5 dB çık"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "4",
+      "15",
+      "Yok",
+      "5 dB çık"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "5",
+      "20",
+      "Var (1. yükselen)",
+      "10 dB in"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "6",
+      "10 ve 15",
+      "Yok",
+      "5 dB çık"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "7",
+      "20",
+      "Var (2. yükselen)",
+      "Eşik: 20 dB HL"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Şimdi bin hertzde örnek bir eşik aramasını adım adım izleyelim.",
+    "Hasta otuz desibel HL'de yanıt veriyor; on desibel inerek yirmiye geliyoruz ve yine yanıt alıyoruz.",
+    "On desibel HL'de yanıt yok; beş desibel çıkarak on beşe geliyoruz, yine yanıt yok.",
+    "Yirmi desibel HL'de yanıt geliyor; bu, yirmide aldığımız ilk yükselen yanıttır.",
+    "Tekrar on desibel iniyor ve beşer desibelle çıkıyoruz; on ve on beşte yanıt yok.",
+    "Yirmi desibel HL'de yine yanıt geliyor; bu, aynı düzeyde ikinci yükselen yanıttır.",
+    "On beşte iki yükselen denemede de yanıt alınamadığı için, bu örnekte eşik yirmi desibel HL olarak kaydedilir."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım yöntem",
+   "baslik": "Frekans *sırası*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "1000 Hz",
+     "metin": "Başlangıç",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tiz frekanslar",
+     "metin": "2000, 4000, 8000 Hz",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "1000 Hz tekrar",
+     "metin": "Fark genellikle en fazla 5 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Pes frekanslar",
+     "metin": "500 ve 250 Hz",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İkinci kulak",
+     "metin": "Aynı sıra, tekrar gerekmez",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bin hertzden sonra iki bin, dört bin ve sekiz bin hertz sırayla test edilir.",
+    "Ardından bin hertz yeniden ölçülür; bu tekrar, hastanın yanıtlarının tutarlı olup olmadığını gösterir.",
+    "İki ölçüm arasındaki fark genellikle beş desibeli geçmemelidir; aşarsa en az bir frekans daha yeniden ölçülür.",
+    "Daha sonra beş yüz ve iki yüz elli hertz test edilir.",
+    {
+     "yazi": "Aynı sıra ikinci kulakta da izlenir; ASHA kılavuzuna göre bin hertz tekrarı bu kulakta gerekmez.",
+     "ses": "Aynı sıra ikinci kulakta da izlenir; aşa kılavuzuna göre bin hertz tekrarı bu kulakta gerekmez."
+    }
+   ]
+  },
+  {
+   "id": "ara_frekans",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım yöntem",
+   "baslik": "Ara *frekanslar*",
+   "maddeler": [
+    {
+     "metin": "Komşu oktavlar arası _20 dB_ ve üzeri fark",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "3000 ve 6000 Hz: ASHA'da _rutin_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "750 ve 1500 Hz: gerektiğinde",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "125 Hz: pes kayıplarda",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Standart oktav frekanslarına bazı durumlarda ara frekanslar eklenir.",
+    "Komşu iki oktav frekansı arasında yirmi desibel ya da daha fazla fark varsa, aradaki frekans da test edilir.",
+    {
+     "yazi": "Üç bin ve altı bin hertz ASHA kılavuzunda rutin listededir; bazı klinikler bunları yalnız bu kurala göre ölçer.",
+     "ses": "Üç bin ve altı bin hertz aşa kılavuzunda rutin listededir; bazı klinikler bunları yalnız bu kurala göre ölçer."
+    },
+    "Yedi yüz elli ve bin beş yüz hertz de benzer durumlarda eklenebilir.",
+    "Pes frekanslarda kayıp varsa yüz yirmi beş hertz de test edilebilir.",
+    "Bu ek ölçümler, odyogramın şeklini daha doğru gösterir ve cihaz uygulamasında da işe yarar."
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "frekanslar": [
+      125,
+      250,
+      500,
+      750,
+      1000,
+      1500,
+      2000,
+      3000,
+      4000,
+      6000,
+      8000
+     ],
+     "seriler": []
+    }
+   }
+  },
+  {
+   "id": "ton",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adım adım yöntem",
+   "baslik": "Ton *türleri*",
+   "maddeler": [
+    {
+     "metin": "Darbeli ton: fark etmeyi _kolaylaştırır_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sürekli ton: _tutarlı_ kullanım",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Serbest alan: _frekans modülasyonlu_ ton",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    }
+   ],
+   "cumleler": [
+    "Odyometrelerde ton farklı biçimlerde sunulabilir.",
+    "Darbeli tonlar, yani kısa aralıklarla kesilip yeniden başlayan tonlar, birçok hastada sesin fark edilmesini kolaylaştırır.",
+    "Sürekli ton da kullanılabilir; önemli olan, aynı hastada tutarlı bir sunum biçimi seçmektir.",
+    "Hoparlörden yapılan serbest alan testlerinde ise saf ton yerine frekans modülasyonlu ton kullanılır.",
+    "Bunun nedeni, odada duran dalgaların oluşmasını ve kulak hizasında ses düzeyinin dalgalanmasını önlemektir."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kayıt ve sonraki adımlar",
+   "baslik": "Eşikleri *kaydetmek*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: kırmızı yuvarlak",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: mavi çarpı",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       35,
+       40
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       20,
+       40,
+       45
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Bulunan her eşik, o frekansın hizasına hemen işaretlenir.",
+    "Bu örnekte sağ kulak hava yolu eşikleri kırmızı yuvarlakla gösteriliyor.",
+    "Sol kulak hava yolu eşikleri ise mavi çarpıyla gösteriliyor.",
+    "İki kulakta da iki bin hertze kadar eşikler normal sınırlarda; dört bin hertzden itibaren hafif bir düşüş var.",
+    "Aynı kulağın işaretleri düz bir çizgiyle birleştirilir; kayıt standartlarını ileride ayrı bir derste ele alacağız.",
+    "Eşikleri bulunur bulunmaz işaretlemek, sonradan yanlış frekansa ya da yanlış kulağa kayıt yapma riskini azaltır."
+   ]
+  },
+  {
+   "id": "yanit_yok",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kayıt ve sonraki adımlar",
+   "baslik": "Yanıt *yoksa*",
+   "maddeler": [
+    {
+     "metin": "Cihaz sınırında yanıt yok",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "İşaret sınıra, altına _aşağı ok_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Komşu eşiklerle _birleştirilmez_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Pes frekansta _titreşim_ hissine dikkat",
+     "cumle": 3,
+     "ikon": "dokunma"
+    }
+   ],
+   "cumleler": [
+    "Cihazın en yüksek çıkış düzeyinde bile yanıt alınamazsa, o frekans için yanıt yok olarak kaydedilir.",
+    "Bu durumda işaret cihazın sınır düzeyine konur ve altına aşağı doğru küçük bir ok eklenir.",
+    "Yanıt yok işaretleri komşu eşiklerle çizgiyle birleştirilmez.",
+    "Çok yüksek düzeylerde, özellikle pes frekanslarda, hastanın sesi duymak yerine titreşimi hissedebileceğini unutmayın.",
+    "Böyle bir yanıt gerçek bir eşik gibi kaydedilmemeli, odyogramda ayrıca not edilmelidir."
+   ]
+  },
+  {
+   "id": "sonraki_adim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kayıt ve sonraki adımlar",
+   "baslik": "Hava yolundan *sonra*",
+   "maddeler": [
+    {
+     "metin": "Eşikler normal değilse: _kemik yolu_",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Kulaklar arası büyük fark: _maskeleme_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Konuşma testleriyle _çapraz kontrol_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Hava yolu eşikleri normal sınırların dışındaysa, kaybın tipini anlamak için kemik yolu ölçülür.",
+    "İki kulak arasında büyük fark varsa, kötü kulağın sesi iyi kulak duyabileceği için maskeleme gerekebilir.",
+    "Maskelemenin ne zaman ve nasıl yapılacağını klinik maskeleme derslerinde ayrıntılı göreceğiz.",
+    "Konuşma odyometrisi sonuçları da saf ses eşikleriyle karşılaştırılarak bir çapraz kontrol sağlar."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kayıt ve sonraki adımlar",
+   "baslik": "Özel *durumlar*",
+   "maddeler": [
+    {
+     "metin": "Yanıt verebilen, uyumlu hastalar için",
+     "cumle": 0,
+     "ikon": "hasta_butonu"
+    },
+    {
+     "metin": "Çocuklarda _oyun_ ve görsel ödül",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Yorgunlukta kısa _molalar_",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Raporda yöntemi _belirtin_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Modifiye Hughson-Westlake yöntemi, talimatı anlayabilen ve butonla yanıt verebilen kişiler için tasarlanmıştır.",
+    "Küçük çocuklarda aynı eşik mantığı, oyun ya da görsel ödüllü yöntemlerle uyarlanır.",
+    "Yaşlı ya da çabuk yorulan hastalarda kısa molalar vermek yanıtların tutarlılığını artırır.",
+    "Hangi yöntem kullanılırsa kullanılsın, raporda yöntemi ve yanıt güvenilirliğini belirtmek iyi bir uygulamadır."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sık hatalar",
+   "baslik": "*Yanlış* yanıtlar",
+   "sol": {
+    "ust": "Yanlış pozitif",
+    "maddeler": [
+     {
+      "metin": "Ses yokken _yanıt_",
+      "cumle": 0
+     },
+     {
+      "metin": "Ritmik sunum, beklenti",
+      "cumle": 1
+     },
+     {
+      "metin": "Tinnitus karışması",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Yanlış negatif",
+    "maddeler": [
+     {
+      "metin": "Ses varken _yanıtsızlık_",
+      "cumle": 4
+     },
+     {
+      "metin": "Yorgunluk, dikkat dağınıklığı",
+      "cumle": 5
+     },
+     {
+      "metin": "Yanlış anlaşılmış talimat",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Ses verilmediği halde gelen yanıtlara yanlış pozitif yanıt denir.",
+    "Ritmik sunum ve hastanın sıradaki sesi bekleyerek tahminde bulunması yanlış pozitif yanıtları artırır.",
+    "Tinnitus, yani kulak çınlaması olan hastalar tonu çınlamayla karıştırabilir; kesikli, yani darbeli tonlar burada yardımcı olur.",
+    "Yanlış pozitif yanıtları yakalamak için zaman zaman uzunca sessiz aralıklar bırakılır ve yanıt gelip gelmediği izlenir.",
+    "Ses verildiği halde yanıt alınamamasına ise yanlış negatif yanıt denir.",
+    "Yorgunluk, dikkat dağınıklığı ya da talimatın yanlış anlaşılması buna yol açabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sık hatalar",
+   "baslik": "Klinik ipucu",
+   "metin": "Yanıtlar tutarsızlaşırsa hızlanmayın: durun, talimatı kısaca yineleyin ve gerekirse alıştırmaya dönün. 1000 Hz tekrarında 5 dB'den büyük fark erken bir uyarıdır.",
+   "cumleler": [
+    "Sahadan bir ipucu: yanıtlar tutarsızlaştığında hızlanmak yerine durun.",
+    "Talimatı kısa ve net biçimde yeniden verin, gerekirse alıştırma adımına geri dönün.",
+    "Bin hertz tekrarının beş desibelden fazla farklı çıkması, böyle bir müdahalenin gerektiğini gösteren erken bir işarettir.",
+    "Yanıtların güvenilirliğini rapora kısa bir not olarak yazmak, sonuçların doğru yorumlanmasına yardım eder."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "İki yaklaşım: _yükselen_ ve inen",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Alıştırma: 1000 Hz, _30 dB HL_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kural: _10 dB_ aşağı, 5 dB yukarı",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sıra: 1000 Hz, tizler, _1000 tekrar_, pesler",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Eşiğe yükselen ya da inen yaklaşımla ulaşılabilir; ikisinin de kendine göre avantajları vardır.",
+    "Test bin hertzde, açıkça duyulan bir tonla yapılan alıştırma ile başlar.",
+    "Yanıt alındığında on desibel inilir, yanıt alınmadığında beş desibel çıkılır.",
+    "Frekans sırası bin hertz, tiz frekanslar, bin hertz tekrarı ve pes frekanslar şeklindedir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Hasta yanıt vermediğinde düzey nasıl değiştirilir?",
+   "secenekler": [
+    "10 dB azaltılır",
+    "5 dB artırılır",
+    "10 dB artırılır",
+    "Değiştirilmez"
+   ],
+   "dogru": 1,
+   "aciklama": "Modifiye Hughson-Westlake: yanıt varsa _10 dB aşağı_, yoksa 5 dB yukarı.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Modifiye Hughson-Westlake yönteminde hasta yanıt vermediğinde düzey nasıl değiştirilir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: beş desibel artırılır.",
+     "ses": "Doğru cevap be: beş desibel artırılır."
+    },
+    "Bu yöntemde kural on aşağı, beş yukarıdır; eşik de yükselen denemelerdeki yanıtlara göre belirlenir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Kemik yolu* odyometrisi nasıl yapılır?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kemik yolu eşiklerinin nasıl ölçüldüğünü ve bu ölçümün tuzaklarını göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

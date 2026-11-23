@@ -1,0 +1,931 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D273_Vaka_Carhart_Centigi_TR",
+ "kapak": {
+  "ust": "DERS 273",
+  "baslik": "Vaka: *Carhart*<br>çentiği",
+  "alt": "Aralık var, timpanogram normal",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      40,
+      40,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      15,
+      15,
+      30,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Vaka: Hava-Kemik Aralığı ve Carhart Çentiği | Ders 273 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir erişkin vakasında hava-kemik aralığı, normale yakın timpanogram ve alınamayan akustik refleks bulgularını birlikte yorumluyoruz. Carhart çentiğinin anlamını, otoskleroz ile superior kanal dehisansının odyolojik ayrımını ve odyoloğun yönlendirme ile rapor adımlarını ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Carhart, Clinical application of bone conduction audiometry (1950); Minor, Superior canal dehiscence syndrome (2000).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "otoskleroz",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "Carhart çentiği",
+   "Carhart notch",
+   "otoskleroz",
+   "otosclerosis",
+   "akustik refleks yokluğu",
+   "hava-kemik aralığı",
+   "As tipi timpanogram",
+   "superior kanal dehisansı",
+   "VEMP",
+   "odyoloji vaka",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 273",
+   "baslik": "Vaka: *Carhart* çentiği",
+   "alt": "Hava-kemik aralığı, normal timpanogram",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste hava-kemik aralığı olduğu halde timpanogramı normale yakın çıkan bir erişkin vakasını çözüyoruz.",
+    "Carhart çentiğini, akustik refleks yokluğunu ve superior kanal dehisansıyla ayırıcı tanıyı birlikte değerlendireceğiz."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Kırk iki yaşında, örnek bir kadın",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Yıllardır yavaş artan _sol_ kayıp",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Annesinde de işitme azlığı",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Gürültülü ortamda daha iyi anlıyor",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Ağrı, akıntı, baş dönmesi _yok_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "stapes",
+      "metin": "Stapes (üzengi)",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "stapes",
+      "cumle": 1
+     },
+     {
+      "parca": "oval_pencere",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Vakamız kurgusal bir örnektir: kırk iki yaşında bir kadın, sol kulağında işitme azlığı yakınmasıyla başvuruyor.",
+    "Kayıp birkaç yıl içinde yavaş yavaş artmış; ani bir başlangıç tarif etmiyor.",
+    "Annesinin de genç yaşta işitme cihazı kullanmaya başladığını söylüyor.",
+    "İlginç bir ayrıntı: gürültülü bir ortamda karşısındakini sessiz ortama göre daha iyi anladığını belirtiyor.",
+    "Kulak ağrısı, akıntı ya da baş dönmesi yok; sol kulakta zaman zaman hafif bir çınlama var.",
+    "Gürültüde daha iyi anlama, iletim tipi kayıplarda tarif edilebilen bir duyumdur; çünkü çevredekiler gürültüde daha yüksek sesle konuşur."
+   ]
+  },
+  {
+   "id": "otoskopi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Otoskopi: *normal* zar",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sol"
+   },
+   "etiketler": [
+    {
+     "parca": "isik_ucgeni",
+     "metin": "ışık refleksi var",
+     "cumle": 1
+    },
+    {
+     "parca": "pars_tensa",
+     "metin": "zar sağlam",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "pars_tensa",
+     "cumle": 0
+    },
+    {
+     "parca": "isik_ucgeni",
+     "cumle": 1
+    },
+    {
+     "parca": "manubrium",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Otoskopide iki kulak yolu da açık, timpanik membranlar sağlam ve normal görünümde.",
+    "Işık refleksi ve manubrium seçiliyor; zarın arkasında sıvı ya da kitle izlenmiyor.",
+    "Bazı otosklerozlu kulaklarda zarın arkasında pembemsi bir yansıma tarif edilir; ama çoğu kulakta otoskopi tamamen normaldir.",
+    "Yani normal bir otoskopi, orta kulakta bir sorunu dışlamaz; sonraki adım ölçümdür."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram",
+   "baslik": "Sol kulakta *hava-kemik aralığı*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli kemik yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "2000 Hz'de _çentik_",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       40,
+       40,
+       35,
+       40
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       15,
+       15,
+       30,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      15,
+      45
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Sağ kulağın hava yolu eşikleri normal sınırlarda.",
+    "Sol kulağın hava yolu eşikleri otuz beş ile kırk beş desibel arasında; kayıp pes frekanslarda biraz daha belirgin.",
+    "Sağ kulak maskelenerek ölçülen sol kemik yolu eşikleri çoğu frekansta on ile on beş desibel, yani normal bölgede.",
+    "Pes frekanslarda hava-kemik aralığı otuz ile otuz beş desibele ulaşıyor.",
+    "Ancak iki bin hertzde kemik yolu otuz desibele iniyor; komşu frekanslara göre yaklaşık on beş desibellik bir düşüş var.",
+    "Sol kulağın saf ses ortalaması yaklaşık kırk desibel; tablo sol kulakta hafif ile orta arası iletim tipi kayıpla uyumlu."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram",
+   "baslik": "Çentik *neden* oluşur?",
+   "cizim": "kemikcikler",
+   "ayar": {
+    "pencere": true
+   },
+   "etiketler": [
+    {
+     "parca": "stapes_taban",
+     "metin": "stapes tabanı",
+     "cumle": 2
+    },
+    {
+     "parca": "ligamentum_anulare",
+     "metin": "halka bağ",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stapes",
+     "cumle": 2
+    },
+    {
+     "parca": "ligamentum_anulare",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Çentik _2000 Hz_ civarında",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Mekanik, _kokleaya ait değil_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cerrahiden sonra çoğu zaman düzelir",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "İki bin hertz çevresindeki bu kemik yolu düşüşüne Carhart çentiği (Carhart notch) denir.",
+    "Kemik yoluyla işitmenin bir kısmı, kemikçik zincirinin ataletine bağlı bir orta kulak bileşeninden gelir.",
+    "Stapes tabanı oval pencereye sabitlendiğinde bu bileşen azalır ve kemik yolu eşiği en çok iki bin hertz çevresinde kötüleşir.",
+    "Bu yüzden çentik, kokleanın gerçek bir hasarını göstermez; mekanik bir etkidir.",
+    "Başarılı bir stapes cerrahisinden sonra çentiğin çoğu zaman düzelmesi de bu açıklamayı destekler.",
+    "Carhart çentiği otosklerozu düşündürür ama ona özgü değildir; başka iletim sorunlarında da görülebilir."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyogram",
+   "baslik": "Konuşma ve *diyapazon*",
+   "maddeler": [
+    {
+     "metin": "Sol SRT 40 dB HL: _uyumlu_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sol skor yüzde 100",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Weber _sola_, Rinne solda negatif",
+     "cumle": 3,
+     "ikon": "diyapazon"
+    },
+    {
+     "metin": "Otofoni ya da sesle baş dönmesi?",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "cumle": 3,
+    "ayar": {
+     "test": "rinne"
+    },
+    "vurgula": [
+     {
+      "parca": "mastoid",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Sol kulağın konuşmayı alma eşiği kırk desibel HL; saf ses ortalamasıyla uyumlu.",
+    "Kelime tanıma skoru solda, sağ kulak maskelenerek seksen desibel HL'de ölçüldü ve yüzde yüz bulundu.",
+    "İletim tipi kayıpta yeterli düzeyde sunulan konuşma iyi anlaşılır; bu skor da bunu doğruluyor.",
+    "Diyapazonla Weber testinde ses sol kulağa gidiyor; solda Rinne testi negatif.",
+    "Öyküde kendi sesini ya da nabzını kulakta yüksek duyma, sesle ya da basınçla gelen baş dönmesi olup olmadığını özellikle soruyoruz.",
+    "Bu sorular, birazdan göreceğimiz ayırıcı tanı için önemlidir; vakamızda bu yakınmaların hiçbiri yok."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İmmitans",
+   "baslik": "Timpanogram: *As tipi*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 1,
+      "kulak": "sag"
+     },
+     {
+      "tip": "As",
+      "cumle": 2,
+      "kulak": "sol"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sağ: A, _0,8 mmho_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sol: As, _0,25 mmho_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal eğri sorunu dışlamaz",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Hava-kemik aralığı olan bir kulakta timpanogram sıklıkla anormal beklenir; bu vakada öyle değil.",
+    "Sağ kulakta tepe statik admitansı sıfır virgül sekiz milimho olan normal bir A tipi eğri var.",
+    "Sol kulakta tepe basıncı normal, ama tepe yüksekliği sıfır virgül iki beş milimho; yani sığ bir tepe.",
+    "Yetişkinde normal aralık yaklaşık sıfır virgül üç ile bir virgül yedi milimho olduğu için bu eğri As tipi olarak adlandırılır.",
+    "As tipi, orta kulak sisteminin sertliğinin arttığını düşündürebilir; ama birçok otosklerozlu kulakta timpanogram tamamen A tipidir.",
+    "Yani normal ya da normale yakın bir timpanogram, hava-kemik aralığını açıklamaz ve bir sorunu dışlamaz."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İmmitans",
+   "baslik": "Akustik *refleksler*",
+   "sutunlar": [
+    "Ölçüm",
+    "Uyaran",
+    "Prob",
+    "Refleks"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sol ipsi",
+      "Sol",
+      "Sol",
+      "Yok"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sağ kontra",
+      "Sağ",
+      "Sol",
+      "Yok"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sol kontra",
+      "Sol",
+      "Sağ",
+      "Yok"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Sağ ipsi",
+      "Sağ",
+      "Sağ",
+      "85 dB HL"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Asıl ipucu akustik reflekslerde.",
+    "Prob sol kulaktayken ölçülen sol ipsilateral refleks alınamıyor.",
+    "Uyaran sağda, prob solda olduğunda da refleks yok; stapes sabitse kas kasılsa bile probda admitans değişimi görülmez.",
+    "Uyaran solda, prob sağdayken refleks yine yok; çünkü sol kulaktaki iletim kaybı uyaranın kokleaya ulaşan düzeyini düşürür.",
+    "Prob ve uyaranın sağda olduğu ölçümde refleks seksen beş desibel HL'de, normal düzeyde.",
+    "Erken dönemde refleksin başında ve sonunda ters yönlü kısa sapmalar da görülebilir; bu ayrıntı kayıtta not edilir."
+   ]
+  },
+  {
+   "id": "uyumsuz",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İmmitans",
+   "baslik": "Üç bulgu *birlikte*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Hava-kemik aralığı",
+     "metin": "Solda, maskeyle doğrulandı",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Normale yakın eğri",
+     "metin": "A ya da As tipi",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Refleks yok",
+     "metin": "Prob sol kulaktayken",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Bu vakanın öğretici noktası, üç bulgunun birlikte okunmasıdır: maskeyle doğrulanmış bir hava-kemik aralığı.",
+    "Buna karşın normal ya da sığ tepeli bir timpanogram; yani orta kulakta sıvı ya da delik düşündüren bir eğri yok.",
+    "Ve etkilenen kulak prob tarafındayken alınamayan akustik refleksler.",
+    "Bu üçlü, kemikçik zincirinin hareketinin kısıtlandığı durumları, özellikle otosklerozu düşündürür.",
+    "Otoskleroz (otosclerosis), otik kapsülde stapes tabanını oval pencereye sabitleyen bir kemik yeniden yapılanma hastalığıdır.",
+    "Yaş, cinsiyet ve aile öyküsü de bu olasılıkla uyumlu; ancak bu bir ön değerlendirmedir ve tanıyı hekim koyar."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ayırıcı tanı",
+   "baslik": "Otoskleroz mu, *dehisans* mı?",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Kemik yolu",
+     "metin": "Dehisansta sıfırın altına inebilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Akustik refleks",
+     "metin": "Otosklerozda yok, dehisansta var",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "VEMP",
+     "metin": "Dehisansta eşik düşük, genlik büyük",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Belirtiler",
+     "metin": "Otofoni, sesle gelen vertigo",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Hava-kemik aralığı ve normal timpanogramın birlikte görüldüğü bir başka durum, superior kanal dehisansıdır.",
+    "Dehisansta aralık iç kulaktan kaynaklanır; kemik yolu çoğu zaman normalden de iyidir ve sıfırın altına inebilir.",
+    "En önemli ayrım akustik reflekstir: otosklerozda refleks genellikle yoktur, dehisansta ise korunur.",
+    "Vestibüler uyarılmış miyojenik potansiyel, kısaca VEMP de ayırt eder: dehisansta cVEMP eşiği düşer, oVEMP genliği büyür.",
+    "Otosklerozda ise hava yoluyla verilen uyaranla VEMP genellikle alınamaz.",
+    "Dehisanslı kişiler sık olarak kendi sesini yüksek duymayı, sesle ya da basınçla gelen baş dönmesini tarif eder."
+   ]
+  },
+  {
+   "id": "scd",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ayırıcı tanı",
+   "baslik": "Karşılaştırma: *dehisans* örneği",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Sol_: kemik yolu sıfırın altında",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Refleksler _var_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       30,
+       25,
+       15,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       -10,
+       -5,
+       0,
+       5,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      0,
+      -10,
+      30
+     ],
+     "etiket": "40 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Karşılaştırma için tamamen örnek bir dehisans odyogramına bakalım; bu ayrı bir kişidir.",
+    "Sol hava yolu pes frekanslarda hafifçe yükselmiş, kemik yolu ise iki yüz elli ve beş yüz hertzde sıfırın altında.",
+    "Böylece pes frekanslarda bir hava-kemik aralığı oluşuyor; ama kemik yolu normalden iyi.",
+    "Bu kişide timpanogram A tipi ve akustik refleksler korunuyor; bizim vakamızdan farkı burada.",
+    "Yani aynı görünen bir aralığın arkasında bambaşka bir mekanizma olabilir; refleks ve kemik yolu ayrıntısı yol gösterir.",
+    "Bu ayrım, hekimin hangi ileri incelemeyi isteyeceğine karar vermesinde değerli bir bilgidir."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ayırıcı tanı",
+   "baslik": "Akla gelen *diğer* durumlar",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Zincir kopukluğu",
+     "metin": "Ad tipi, büyük aralık",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Malleus fiksasyonu",
+     "metin": "Refleks yok, A tipi",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Kemik yolu hatası",
+     "metin": "Vibratör yeri, maskeleme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kemikçik zinciri kopukluğunda da timpanogram efüzyon göstermez; ama eğri çoğu zaman derin tepeli, yani Ad tipidir.",
+    "Kopuklukta hava-kemik aralığı genellikle daha büyüktür ve öyküde çoğu zaman travma ya da geçirilmiş kulak hastalığı vardır.",
+    "Malleus ya da incus fiksasyonu gibi daha seyrek durumlar da benzer bir tablo verebilir; ayrım hekimin işidir.",
+    "Son olarak teknik nedenler unutulmaz: vibratörün yeri, kulak yolu çökmesi ya da yetersiz maskeleme sahte bir aralık yaratabilir.",
+    "Bu yüzden şüpheli bir aralıkta kemik yolunu yeniden ölçmek ilk ve en ucuz adımdır."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Odyoloğun *adımları*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Doğrula",
+     "metin": "Maskeli kemik, tekrar",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Tamamla",
+     "metin": "Timpanogram ve refleks",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Belgele",
+     "metin": "Çentik ve refleksi yaz",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Yönlendir",
+     "metin": "KBB hekimi",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzle",
+     "metin": "Seri odyogram",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Önce hava-kemik aralığını doğrularız: kemik yolu doğru maskeleme ile ölçülmüş mü, vibratör yeri doğru mu?",
+    "Ardından timpanogram ve akustik refleksler tamamlanır; refleks bu vakada en ayırt edici bulgudur.",
+    "Raporda Carhart çentiği, refleks bulguları ve öyküdeki aile özelliği açıkça yazılır.",
+    "Kişi bulgularıyla birlikte KBB hekimine yönlendirilir; ileri inceleme ve tedavi seçenekleri hekim tarafından değerlendirilir.",
+    "Hekim gerekli görürse VEMP gibi ek testler odyoloji laboratuvarında yapılabilir.",
+    "Seri odyogramlar kaybın ilerleyip ilerlemediğini ve kemik yolunun korunup korunmadığını gösterir."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Karar *sonrasında* odyolog",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Cerrahi kararı",
+     "metin": "Hekim ve kişi verir",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Ameliyat sonrası",
+     "metin": "Aralık kapandı mı?",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz seçeneği",
+     "metin": "İletim kaybında kazanç iyi",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ani değişim",
+     "metin": "Gecikmeden hekime",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Cerrahi ya da başka bir seçeneğin seçimi, hekimin ve kişinin birlikte vereceği bir karardır; odyolog bu kararı vermez.",
+    "Cerrahi yapılırsa odyolog kontrol testlerinde hem hava-kemik aralığının kapanmasına hem kemik yolunun korunmasına bakar.",
+    "Hava-kemik aralığının on desibel ya da altına inmesi sık kullanılan bir başarı ölçütüdür.",
+    "Cerrahi düşünülmezse işitme cihazı iyi bir seçenektir; iletim tipi kayıpta kazanç genellikle iyi kullanılır.",
+    "Ameliyattan sonra ani işitme azalması ya da baş dönmesi olursa kişi vakit kaybetmeden hekime yönlendirilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Hava-kemik aralığı ve A tipi timpanogramda refleksi mutlaka ölçün; refleks varsa iç kulak kaynaklı aralığı düşünün.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: hava-kemik aralığı olan ama timpanogramı A tipi olan bir kişide akustik refleksi mutlaka ölçün.",
+    "Refleks yoksa zincir hareketini kısıtlayan bir durum güçlenir.",
+    "Refleks varsa iç kulakta üçüncü pencere oluşturan durumları aklınıza getirin ve kemik yolunun sıfırın altına inip inmediğine bakın.",
+    "Her iki durumda da bulguyu yazar ve kişiyi hekime yönlendirirsiniz; ama yönlendirme notunuz çok daha bilgilendirici olur."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yönlendirme",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "Sol: hafif-orta iletim tipi kayıp",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "2000 Hz'de kemik yolu çentiği",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sol As tipi, prob solda refleks yok",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Öneri: KBB, seri odyogram",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        45,
+        40,
+        40,
+        35,
+        40
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        15,
+        15,
+        30,
+        15
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Örnek raporda saf ses sonucu: sol kulakta hafif ile orta derece arası iletim tipi işitme kaybı, sağ kulak normal sınırlarda.",
+    "Ek bulgu: sol kemik yolunda iki bin hertzde Carhart çentiği ile uyumlu bir düşüş.",
+    "İmmitans: solda As tipi timpanogram; prob sol kulaktayken ve sol uyaranla akustik refleksler alınamadı.",
+    "Yorum: bulgular kemikçik zinciri hareketinin kısıtlandığı bir durumla, örneğin otosklerozla uyumlu olabilir.",
+    "Öneri: KBB değerlendirmesi ve hekimin uygun gördüğü aralıklarla odyolojik izlem."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Aralık + normal eğri + refleks yok",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Carhart çentiği: 2000 Hz, mekanik",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Refleks ve VEMP dehisansı ayırır",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Odyolog belgeler ve yönlendirir",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Maskeyle doğrulanmış hava-kemik aralığı, normale yakın timpanogram ve alınamayan refleks birlikte otosklerozu düşündürür.",
+    "Carhart çentiği iki bin hertz çevresinde görülen, mekanik kökenli bir kemik yolu düşüşüdür.",
+    "Superior kanal dehisansında kemik yolu sıfırın altına inebilir, refleks korunur ve VEMP bulguları farklıdır.",
+    "Odyoloğun rolü bulguları doğrulamak, eksiksiz raporlamak ve kişiyi hekime yönlendirmektir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Aralık var, timpanogram A, refleks var. Ne düşünülür?",
+   "secenekler": [
+    "Otoskleroz kesindir",
+    "Üçüncü pencere olasılığı",
+    "Orta kulakta sıvı",
+    "Perforasyon"
+   ],
+   "dogru": 1,
+   "aciklama": "Refleks korunuyorsa _iç kulak kaynaklı_ aralık da düşünülür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Pes frekanslarda hava-kemik aralığı var, timpanogram A tipi ve refleksler alınıyor. Ne düşünülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: superior kanal dehisansı gibi bir üçüncü pencere olasılığı.",
+    "Otosklerozda refleks genellikle yoktur; refleks korunuyor ve kemik yolu normalden iyiyse iç kulak kaynaklı aralık akla gelir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: *asimetrik* sensörinöral kayıp",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki vakada asimetrik sensörinöral kayıp ve beklenenden düşük konuşma skoru olan bir erişkini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1501 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D157_Okulomotor_Testler_TR",
+ "kapak": {
+  "ust": "DERS 157",
+  "baslik": "*Okülomotor*<br>testler",
+  "alt": "Sakkad, takip, OKN, bakış",
+  "cizim": "nistagmus_izi"
+ },
+ "youtube": {
+  "baslik": "Okülomotor Testler: Sakkad, Takip, Optokinetik ve Bakış | Ders 157 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "VNG bataryasının okülomotor testlerini anlatıyoruz: sakkadlarda latans, hız ve doğruluk, düzgün takip kazancı, optokinetik nistagmus, bakış nistagmusu ve fiksasyon baskılanması. Hangi bulguların santral bir sorunu düşündürdüğünü ve sonucu bozabilen etkenleri ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; Leigh ve Zee, The Neurology of Eye Movements; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "VNG",
+   "vestibüler"
+  ],
+  "etiketler": [
+   "okülomotor testler",
+   "sakkad",
+   "saccade",
+   "düzgün takip",
+   "smooth pursuit",
+   "optokinetik nistagmus",
+   "OKN",
+   "bakış nistagmusu",
+   "fiksasyon baskılanması",
+   "fixation suppression",
+   "VNG",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 157",
+   "baslik": "*Okülomotor* testler",
+   "alt": "Sakkad, takip, optokinetik ve bakış",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste videonistagmografi, kısaca VNG bataryasının okülomotor bölümünü: sakkad, düzgün takip, optokinetik ve bakış testlerini göreceğiz.",
+    "Her testte neyin ölçüldüğünü ve hangi bulguların santral bir nedeni düşündürdüğünü ele alacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden okülomotor?",
+   "baslik": "Neden *okülomotor* testler?",
+   "maddeler": [
+    {
+     "metin": "_Santral_ yolları sınar",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Beyin sapı ve _beyincik_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kaloriğin _yorumunu_ etkiler",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Bataryada _önce_ yapılır",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_sapi_vestibuler",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "beyincik",
+      "metin": "Beyincik",
+      "cumle": 1
+     },
+     {
+      "parca": "mlf",
+      "metin": "MLF",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "beyincik",
+      "cumle": 1
+     },
+     {
+      "parca": "mlf",
+      "cumle": 2
+     },
+     {
+      "parca": "abdusens_cekirdek",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Okülomotor testler, iç kulağı değil, göz hareketlerini yöneten santral yolları değerlendirir.",
+    "Bu yollar beyin sapındaki çekirdekleri, beyinciği ve beyin korteksinin bazı bölgelerini kapsar.",
+    "Bu testlerdeki bir bozukluk, baş dönmesinin arkasında santral bir neden olabileceğini düşündürür.",
+    "Ayrıca okülomotor bir sorun varsa, kalorik ve pozisyonel testlerdeki nistagmusun yorumu da değişir.",
+    "Bu yüzden okülomotor testler, vestibüler testlerden önce yapılır.",
+    "Bulgular tanı koymaz; santral bir örüntü düşündüren sonuçlar hekime iletilir."
+   ]
+  },
+  {
+   "id": "sakkad",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sakkadlar",
+   "baslik": "*Sakkad* testi",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 600,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500,
+      600
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 30,
+     "adim": 10,
+     "ad": "Konum (derece)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        100,
+        0
+       ],
+       [
+        100,
+        20
+       ],
+       [
+        600,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "hedef",
+      "cumle": 1
+     },
+     {
+      "ad": "goz",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        300,
+        0
+       ],
+       [
+        315,
+        6
+       ],
+       [
+        330,
+        15
+       ],
+       [
+        345,
+        19.5
+       ],
+       [
+        360,
+        20
+       ],
+       [
+        600,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "yumusak": true,
+      "etiket": "göz",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "latans",
+      "x": [
+       100,
+       300
+      ],
+      "y": 25,
+      "etiket": "latans",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ölçülen: _latans_, hız, doğruluk",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Hedefler _rastgele_ sıçrar",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Sakkad (saccade), bakışı bir noktadan diğerine çok hızlı biçimde taşıyan göz hareketidir.",
+    "Testte hasta, ekranda ya da ışık çubuğunda bir yerden başka bir yere sıçrayan noktayı gözleriyle takip eder.",
+    "Grafikte gri kesik çizgi hedefi, mavi çizgi ise gözün hareketini gösteriyor.",
+    "Hedefin yer değiştirmesi ile gözün harekete başlaması arasındaki süreye latans denir.",
+    "Yetişkinlerde sakkad latansı genellikle yaklaşık iki yüz milisaniye civarındadır; normal sınırlar yaşa ve cihaza göre değişir.",
+    "Hedeflerin yeri ve zamanı rastgele değiştirilir; böylece hasta sıçramayı önceden tahmin edemez."
+   ]
+  },
+  {
+   "id": "sakkad_olcut",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sakkadlar",
+   "baslik": "Sakkadın *üç ölçüsü*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Latans",
+     "metin": "Uzaması: dikkat, yaş ya da kortikal yollar.",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Hız",
+     "metin": "Büyük sakkad daha hızlı; yavaşlama beyin sapı ya da ilaç.",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Doğruluk",
+     "metin": "Hedefi ıskalama: dismetri, çoğu zaman beyincik.",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sakkad testinde üç ölçüye bakılır: latans, hız ve doğruluk.",
+    "Latansın uzaması dikkat azalması, ileri yaş ve kortikal yolları etkileyen sorunlarla ilişkili olabilir.",
+    "Sakkadın en yüksek hızı, sakkadın büyüklüğüyle birlikte artar; bu doğal ilişkiye ana dizi (main sequence) denir.",
+    "Sakkadların belirgin yavaşlaması beyin sapı sorunlarını ya da bazı ilaçların ve yorgunluğun etkisini düşündürebilir.",
+    "Tek gözde ya da tek yönde yavaşlama, özellikle bir göz kası ya da sinir yolu sorununa işaret edebilir.",
+    "Doğruluk ise gözün hedefe ne kadar tam oturduğunu gösterir; hedefi ıskalamaya dismetri denir."
+   ]
+  },
+  {
+   "id": "dismetri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sakkadlar",
+   "baslik": "Hedefi *ıskalamak*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 500,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400,
+      500
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 30,
+     "adim": 10,
+     "ad": "Konum (derece)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        50,
+        0
+       ],
+       [
+        50,
+        20
+       ],
+       [
+        500,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "hedef",
+      "cumle": 0
+     },
+     {
+      "ad": "hipometrik",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        250,
+        0
+       ],
+       [
+        280,
+        12
+       ],
+       [
+        300,
+        16
+       ],
+       [
+        400,
+        16
+       ],
+       [
+        420,
+        19
+       ],
+       [
+        430,
+        20
+       ],
+       [
+        500,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "hipometrik",
+      "cumle": 1
+     },
+     {
+      "ad": "hipermetrik",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        250,
+        0
+       ],
+       [
+        280,
+        18
+       ],
+       [
+        300,
+        25
+       ],
+       [
+        380,
+        25
+       ],
+       [
+        400,
+        21
+       ],
+       [
+        410,
+        20
+       ],
+       [
+        500,
+        20
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "etiket": "hipermetrik",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Hafif hipometri: _sık ve normal_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Belirgin hipermetri: _beyincik_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Bu grafikte aynı hedefe yapılan iki farklı sakkad görülüyor.",
+    "Mavi çizgide göz hedefin gerisinde kalır ve küçük bir ikinci sakkadla hedefe ulaşır; buna hipometri denir.",
+    "Hafif hipometri sağlıklı kişilerde de sık görülür ve tek başına anlamlı değildir.",
+    "Kırmızı çizgide ise göz hedefi aşar ve geri döner; buna hipermetri denir.",
+    "Belirgin ve tutarlı hipermetri ya da ağır hipometri, beyincik sorunlarını düşündüren bulgular arasındadır.",
+    "Bulgu bir yönde ve tekrarlanan denemelerde tutarlıysa önemi artar; tek bir hatalı sakkad yoruma esas alınmaz."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Takip ve optokinetik",
+   "baslik": "*Düzgün takip*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4,
+     "ad": "Zaman (sn)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 20,
+     "adim": 10,
+     "ad": "Konum (derece)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.1,
+        3.73
+       ],
+       [
+        0.2,
+        7.23
+       ],
+       [
+        0.3,
+        10.27
+       ],
+       [
+        0.4,
+        12.66
+       ],
+       [
+        0.5,
+        14.27
+       ],
+       [
+        0.6,
+        14.97
+       ],
+       [
+        0.7,
+        14.73
+       ],
+       [
+        0.8,
+        13.57
+       ],
+       [
+        0.9,
+        11.56
+       ],
+       [
+        1.0,
+        8.82
+       ],
+       [
+        1.1,
+        5.52
+       ],
+       [
+        1.2,
+        1.88
+       ],
+       [
+        1.3,
+        -1.88
+       ],
+       [
+        1.4,
+        -5.52
+       ],
+       [
+        1.5,
+        -8.82
+       ],
+       [
+        1.6,
+        -11.56
+       ],
+       [
+        1.7,
+        -13.57
+       ],
+       [
+        1.8,
+        -14.73
+       ],
+       [
+        1.9,
+        -14.97
+       ],
+       [
+        2.0,
+        -14.27
+       ],
+       [
+        2.1,
+        -12.66
+       ],
+       [
+        2.2,
+        -10.27
+       ],
+       [
+        2.3,
+        -7.23
+       ],
+       [
+        2.4,
+        -3.73
+       ],
+       [
+        2.5,
+        -0.0
+       ],
+       [
+        2.6,
+        3.73
+       ],
+       [
+        2.7,
+        7.23
+       ],
+       [
+        2.8,
+        10.27
+       ],
+       [
+        2.9,
+        12.66
+       ],
+       [
+        3.0,
+        14.27
+       ],
+       [
+        3.1,
+        14.97
+       ],
+       [
+        3.2,
+        14.73
+       ],
+       [
+        3.3,
+        13.57
+       ],
+       [
+        3.4,
+        11.56
+       ],
+       [
+        3.5,
+        8.82
+       ],
+       [
+        3.6,
+        5.52
+       ],
+       [
+        3.7,
+        1.88
+       ],
+       [
+        3.8,
+        -1.88
+       ],
+       [
+        3.9,
+        -5.52
+       ],
+       [
+        4.0,
+        -8.82
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "yumusak": true,
+      "etiket": "hedef",
+      "cumle": 1
+     },
+     {
+      "ad": "goz",
+      "noktalar": [
+       [
+        0.001,
+        0.0
+       ],
+       [
+        0.051,
+        1.03
+       ],
+       [
+        0.101,
+        2.05
+       ],
+       [
+        0.151,
+        3.04
+       ],
+       [
+        0.201,
+        3.97
+       ],
+       [
+        0.251,
+        4.85
+       ],
+       [
+        0.3,
+        5.65
+       ],
+       [
+        0.301,
+        10.27
+       ],
+       [
+        0.351,
+        10.98
+       ],
+       [
+        0.401,
+        11.59
+       ],
+       [
+        0.451,
+        12.09
+       ],
+       [
+        0.501,
+        12.47
+       ],
+       [
+        0.551,
+        12.72
+       ],
+       [
+        0.601,
+        12.85
+       ],
+       [
+        0.651,
+        12.85
+       ],
+       [
+        0.701,
+        12.72
+       ],
+       [
+        0.751,
+        12.47
+       ],
+       [
+        0.801,
+        12.09
+       ],
+       [
+        0.851,
+        11.59
+       ],
+       [
+        0.901,
+        10.98
+       ],
+       [
+        0.951,
+        10.27
+       ],
+       [
+        1.001,
+        9.47
+       ],
+       [
+        1.051,
+        8.6
+       ],
+       [
+        1.101,
+        7.66
+       ],
+       [
+        1.151,
+        6.67
+       ],
+       [
+        1.201,
+        5.65
+       ],
+       [
+        1.25,
+        4.62
+       ],
+       [
+        1.251,
+        0.0
+       ],
+       [
+        1.301,
+        -1.03
+       ],
+       [
+        1.351,
+        -2.05
+       ],
+       [
+        1.401,
+        -3.04
+       ],
+       [
+        1.451,
+        -3.97
+       ],
+       [
+        1.501,
+        -4.85
+       ],
+       [
+        1.55,
+        -5.65
+       ],
+       [
+        1.551,
+        -10.27
+       ],
+       [
+        1.601,
+        -10.98
+       ],
+       [
+        1.651,
+        -11.59
+       ],
+       [
+        1.701,
+        -12.09
+       ],
+       [
+        1.751,
+        -12.47
+       ],
+       [
+        1.801,
+        -12.72
+       ],
+       [
+        1.851,
+        -12.85
+       ],
+       [
+        1.901,
+        -12.85
+       ],
+       [
+        1.951,
+        -12.72
+       ],
+       [
+        2.001,
+        -12.47
+       ],
+       [
+        2.051,
+        -12.09
+       ],
+       [
+        2.101,
+        -11.59
+       ],
+       [
+        2.151,
+        -10.98
+       ],
+       [
+        2.201,
+        -10.27
+       ],
+       [
+        2.251,
+        -9.47
+       ],
+       [
+        2.301,
+        -8.6
+       ],
+       [
+        2.351,
+        -7.66
+       ],
+       [
+        2.401,
+        -6.67
+       ],
+       [
+        2.451,
+        -5.65
+       ],
+       [
+        2.5,
+        -4.62
+       ],
+       [
+        2.501,
+        -0.0
+       ],
+       [
+        2.551,
+        1.03
+       ],
+       [
+        2.601,
+        2.05
+       ],
+       [
+        2.651,
+        3.04
+       ],
+       [
+        2.701,
+        3.97
+       ],
+       [
+        2.751,
+        4.85
+       ],
+       [
+        2.8,
+        5.65
+       ],
+       [
+        2.801,
+        10.27
+       ],
+       [
+        2.851,
+        10.98
+       ],
+       [
+        2.901,
+        11.59
+       ],
+       [
+        2.951,
+        12.09
+       ],
+       [
+        3.001,
+        12.47
+       ],
+       [
+        3.051,
+        12.72
+       ],
+       [
+        3.101,
+        12.85
+       ],
+       [
+        3.151,
+        12.85
+       ],
+       [
+        3.201,
+        12.72
+       ],
+       [
+        3.251,
+        12.47
+       ],
+       [
+        3.301,
+        12.09
+       ],
+       [
+        3.351,
+        11.59
+       ],
+       [
+        3.401,
+        10.98
+       ],
+       [
+        3.451,
+        10.27
+       ],
+       [
+        3.501,
+        9.47
+       ],
+       [
+        3.551,
+        8.6
+       ],
+       [
+        3.601,
+        7.66
+       ],
+       [
+        3.651,
+        6.67
+       ],
+       [
+        3.701,
+        5.65
+       ],
+       [
+        3.75,
+        4.62
+       ],
+       [
+        3.751,
+        0.0
+       ],
+       [
+        3.801,
+        -1.03
+       ],
+       [
+        3.851,
+        -2.05
+       ],
+       [
+        3.901,
+        -3.04
+       ],
+       [
+        3.951,
+        -3.97
+       ],
+       [
+        4.001,
+        -4.85
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "etiket": "göz: sakkadik takip",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Kazanç = göz hızı / _hedef hızı_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Basamaklı iz: _sakkadik takip_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Düzgün takip (smooth pursuit), yavaş hareket eden küçük bir hedefi gözle kesintisiz izlememizi sağlar.",
+    "Testte hasta, ekranda sağa sola sinüs biçiminde salınan bir noktayı başını oynatmadan izler.",
+    "Ölçülen temel değer takip kazancıdır, yani göz hızının hedef hızına oranıdır.",
+    {
+     "yazi": "Yavaş hedeflerde sağlıklı yetişkinde kazanç bire yakındır; birçok laboratuvarda yaklaşık 0,8'in üzeri beklenir.",
+     "ses": "Yavaş hedeflerde sağlıklı yetişkinde kazanç bire yakındır; birçok laboratuvarda yaklaşık sıfır virgül sekizin üzeri beklenir."
+    },
+    "Kazanç düştüğünde göz hedefin gerisinde kalır ve hedefi yakalamak için küçük sakkadlar yapar; bu basamaklı görünüme sakkadik takip denir.",
+    "Grafikteki kırmızı iz, bu örnekte düşük kazançlı, basamaklı bir takibi gösteriyor."
+   ]
+  },
+  {
+   "id": "takip_yorum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Takip ve optokinetik",
+   "baslik": "Takibi *yorumlamak*",
+   "maddeler": [
+    {
+     "metin": "Kazanç _yaşla_ azalır",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Hedef hızlandıkça _düşer_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "İki yönde azalma: _özgül değil_",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Tek yönde bozulma: _santral_ kuşku",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "yasli",
+      "baslik": "Yaş",
+      "metin": "Kazanç azalır",
+      "cumle": 0
+     },
+     {
+      "ikon": "ilac",
+      "baslik": "İlaç, alkol",
+      "metin": "Takibi bozar",
+      "cumle": 2
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Dikkat",
+      "metin": "Uyanık tutun",
+      "cumle": 2
+     }
+    ],
+    "ust": "KARIŞTIRICILAR"
+   },
+   "cumleler": [
+    "Takip kazancı yaşla birlikte azalır; bu yüzden yaşa uygun normlar kullanılır.",
+    "Hedefin frekansı ve hızı arttıkça sağlıklı kişilerde de kazanç düşer.",
+    "İki yönde birden hafif azalma çoğu zaman özgül değildir; dikkat, yorgunluk, ilaçlar ve alkol de takibi bozar.",
+    "Akut periferik kayıpta güçlü bir kendiliğinden nistagmus da takip izini bozabilir; bu nedenle önce spontan nistagmus kaydına bakılır.",
+    "Bir yöne belirgin ve tekrarlayan bozulma ise santral bir sorunu düşündüren daha anlamlı bir bulgudur.",
+    "Takip testinin sonucu her zaman sakkad ve bakış testleriyle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "okn",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Takip ve optokinetik",
+   "baslik": "*Optokinetik* nistagmus",
+   "maddeler": [
+    {
+     "metin": "Hareketli _çizgiler_ izlenir",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yavaş faz çizgilerle _aynı yönde_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tam alan uyaran _daha geçerli_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "İki yön _simetrik_ olmalı",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Asimetri: _santral_ açıdan önemli",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "nistagmus_izi",
+    "cumle": 1,
+    "ayar": {
+     "yon": "sol",
+     "tur": "sicramali",
+     "yavas_cumle": 1,
+     "hizli_cumle": 1,
+     "baslik": "Sağa kayan çizgiler"
+    },
+    "etiketler": [
+     {
+      "parca": "yavas_faz",
+      "metin": "Yavaş faz: çizgilerle",
+      "cumle": 1
+     },
+     {
+      "parca": "hizli_faz",
+      "metin": "Hızlı faz: geri",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Optokinetik nistagmus (optokinetic nystagmus), kısaca OKN, görme alanında kayan çizgileri izlerken oluşan normal bir nistagmustur.",
+    "Çizgiler sağa kayarken gözün yavaş fazı çizgileri sağa doğru izler, hızlı faz ise gözü sola geri getirir.",
+    "Trenden dışarı bakarken gözlerimizde oluşan hareket bunun günlük bir örneğidir.",
+    "Gerçek optokinetik uyarı tüm görme alanını kaplar; ışık çubuğuyla verilen küçük uyaran ise büyük ölçüde takip sistemini sınar.",
+    "Normalde sağa ve sola hareketle oluşan yanıtlar birbirine benzer, yani simetriktir.",
+    "Belirgin asimetri santral bir sorunu düşündürür; bulgu genellikle takip testindeki bozuklukla uyumludur."
+   ]
+  },
+  {
+   "id": "bakis",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bakış ve yorum",
+   "baslik": "*Bakış* testi",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "tur": "sicramali",
+    "yavas_cumle": 2,
+    "hizli_cumle": 2,
+    "baslik": "Sağa bakışta sağa vuran"
+   },
+   "etiketler": [
+    {
+     "parca": "hizli_faz",
+     "metin": "Hızlı faz: bakış yönüne",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bakışla _yön değiştiren_: dikkat",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "İlaç ve _alkol_ de yapar",
+     "cumle": 3,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Uç nokta nistagmusu: _normal_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Bakış testinde hasta önce karşıya, sonra sağa, sola, yukarı ve aşağı bakar ve bakışını orada tutar.",
+    "Bakış açısı genellikle yaklaşık yirmi ile otuz derecedir; her yönde kayıt fiksasyonla ve fiksasyonsuz alınır.",
+    "Bakış yönüne doğru vuran ve bakışla yön değiştiren nistagmusa bakışa bağlı nistagmus (gaze-evoked nystagmus) denir.",
+    "Bu bulgu beyincik ve beyin sapı sorunlarını düşündürebilir; antiepileptikler, sakinleştiriciler ve alkol de aynı tabloyu yapabilir.",
+    "Çok kenara bakışta görülen, birkaç vuruşluk, iki yanda simetrik uç nokta nistagmusu ise genellikle normaldir.",
+    "Periferik nistagmus ise yön değiştirmez; Alexander yasasına uyarak hızlı faz yönüne bakışta artar."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bakış ve yorum",
+   "baslik": "Gözden kaçmaması *gerekenler*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Kare dalga",
+     "metin": "Küçük sıçrayıp geri dönme; sık olursa anlamlı.",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Geri tepme",
+     "metin": "Ortaya dönüşte ters yönlü nistagmus.",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Saf dikey",
+     "metin": "Bakışta dikey nistagmus: santral işaret.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bakış ve sakkad kayıtlarında dikkat edilmesi gereken başka bulgular da vardır.",
+    "Kare dalga sıçramaları (square wave jerks), gözün hedeften küçük bir sakkadla ayrılıp kısa süre sonra geri dönmesidir.",
+    "Seyrek kare dalga sıçramaları özellikle yaşlılarda normal kabul edilir; çok sık ve belirgin olmaları santral açıdan anlamlıdır.",
+    "Uzun süre yana bakıp ortaya dönüldüğünde ters yönde kısa bir nistagmus görülürse buna geri tepme nistagmusu (rebound nystagmus) denir.",
+    "Bakışla ortaya çıkan saf yukarı ya da aşağı vuran nistagmus da santral bir işarettir.",
+    "Bu bulgular kayıtta işaretlenir ve raporda ayrıca belirtilir.",
+    "Kayıt sırasında video görüntüsünü de izlemek, bu küçük hareketleri artefakttan ayırmayı kolaylaştırır."
+   ]
+  },
+  {
+   "id": "fiksasyon",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bakış ve yorum",
+   "baslik": "*Fiksasyon* baskılanması",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "ad": "Koşul",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Karanlık",
+      "2": "Fiksasyon"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 15,
+     "adim": 5,
+     "ad": "Yavaş faz hızı (derece/sn)"
+    },
+    "seriler": [
+     {
+      "ad": "karanlik",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        12
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "12",
+      "cumle": 1,
+      "genislik": 0.6
+     },
+     {
+      "ad": "fiksasyon",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        3
+       ]
+      ],
+      "renk": "yesil",
+      "etiket": "3",
+      "cumle": 2,
+      "genislik": 0.6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Periferik: fiksasyonla _azalır_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Azalmıyorsa: _santral_ kuşku",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Fiksasyon baskılanması (fixation suppression), gözün bir noktaya sabitlenmesiyle nistagmusun azalmasıdır.",
+    "Bu örnekte karanlıkta yavaş faz hızı saniyede on iki derece olarak ölçülmüş.",
+    "Hasta bir ışığa baktığında ise hız saniyede üç dereceye inmiş; yani nistagmus belirgin biçimde baskılanmış.",
+    "Periferik vestibüler nistagmus fiksasyonla genellikle yarıdan fazla azalır; bu baskılamayı büyük ölçüde beyincik sağlar.",
+    "Fiksasyonla azalmayan ya da artan nistagmus, santral bir sorunu düşündüren önemli bir bulgudur.",
+    "Bu ölçüm kendiliğinden nistagmusta ve kalorik testte, yanıtın zirvesinde ışık yakılarak yapılır."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bakış ve yorum",
+   "baslik": "Periferik ve *santral* örüntü",
+   "sutunlar": [
+    "Test",
+    "Periferik sorunda",
+    "Santral kuşku"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sakkad",
+      "Normal",
+      "Yavaş ya da dismetrik"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Düzgün takip",
+      "Genellikle normal",
+      "Bir yöne bozuk"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Optokinetik",
+      "Simetrik",
+      "Belirgin asimetrik"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Bakış nistagmusu",
+      "Tek yönlü",
+      "Yön değiştiren"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Fiksasyon",
+      "Nistagmusu baskılar",
+      "Baskılamaz"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Şimdi okülomotor bulguları tek tabloda toplayalım.",
+    "Periferik vestibüler bir sorunda sakkadlar normaldir; yavaş ya da belirgin dismetrik sakkadlar santral kuşku doğurur.",
+    "Düzgün takip periferik sorunlarda genellikle korunur; bir yöne belirgin bozulma santral açıdan daha anlamlıdır.",
+    "Optokinetik yanıt periferik sorunlarda simetrik kalır; belirgin asimetri santral bir işarettir.",
+    "Bakışla yön değiştiren nistagmus santral, tek yönlü nistagmus ise periferik örüntüyle uyumludur.",
+    "Fiksasyonla baskılanmayan nistagmus ise santral yönden önemli bir bulgudur."
+   ]
+  },
+  {
+   "id": "karistirici",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bakış ve yorum",
+   "baslik": "Sonucu *bozabilenler*",
+   "ogeler": [
+    {
+     "ikon": "yasli",
+     "baslik": "Yaş",
+     "metin": "Normlar yaşa göre",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Uyanıklık",
+     "metin": "Hasta konuşturulur",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Görme",
+     "metin": "Hedefi net görmeli",
+     "cumle": 3
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "İlaç ve alkol",
+     "metin": "Öyküde sorgulanır",
+     "cumle": 4
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Kalibrasyon",
+     "metin": "Önce doğrulanır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Okülomotor bulgular yalnız hastalıklardan değil, test koşullarından da etkilenir.",
+    "Yaş ilerledikçe sakkad latansı uzar ve takip kazancı azalır; bu yüzden yaşa uygun normlar kullanılır.",
+    "Uykulu ya da dikkati dağılmış bir hastada sakkad ve takip bozulabilir; hasta sürekli uyanık tutulur.",
+    "Hastanın hedefi net görebilmesi gerekir; ileri görme sorunları ve gözlüğün çıkarılması sonucu etkileyebilir.",
+    "Sakinleştiriciler, antiepileptikler ve alkol özellikle takibi ve bakış testlerini bozar.",
+    "Son olarak, hatalı bir kalibrasyon bütün sayısal ölçümleri yanıltabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Okülomotor bir bozukluk görürseniz önce kalibrasyonu, dikkati ve ilaçları sorgulayın. Tutarlı santral bulguları hekime iletin.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: anormal bir okülomotor bulgu gördüğünüzde önce teknik ve hastaya bağlı nedenleri dışlayın.",
+    "Kalibrasyonu kontrol edin, hastanın uyanık ve hedefe odaklı olduğundan emin olun ve kullandığı ilaçları gözden geçirin.",
+    "Bulgu tekrarlanan denemelerde de tutarlıysa, örneğin hep aynı yönde bozuk takip, bunu raporda açıkça belirtin.",
+    "Santral örüntü düşündüren tutarlı bulgular, kalorik sonuçtan bağımsız olarak hekime iletilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Sakkad: _latans_, hız, doğruluk",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Takip kazancı: göz hızı / _hedef hızı_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yön değiştiren bakış nistagmusu: _santral_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Fiksasyon baskılamazsa: _santral_ kuşku",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Sakkad testinde latans, hız ve doğruluk ölçülür; yavaş ya da belirgin dismetrik sakkadlar santral kuşku doğurur.",
+    "Takip kazancı yaş ve dikkatten etkilenir; bir yöne belirgin bozulma daha anlamlıdır.",
+    "Bakışla yön değiştiren nistagmus ve saf dikey nistagmus santral işaretlerdir.",
+    "Periferik nistagmus fiksasyonla azalır; azalmaması santral bir sorunu düşündürür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangisi santral kuşku doğuran okülomotor bulgudur?",
+   "secenekler": [
+    "Hafif hipometrik sakkadlar",
+    "Simetrik uç nokta nistagmusu",
+    "Fiksasyonla azalmayan nistagmus",
+    "Yaşla hafif düşen takip"
+   ],
+   "dogru": 2,
+   "aciklama": "Periferik nistagmus fiksasyonla azalır; _azalmaması_ santral bir sorunu düşündürür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Aşağıdakilerden hangisi santral bir sorunu düşündüren okülomotor bulgudur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: fiksasyonla azalmayan nistagmus.",
+    "Hafif hipometri, uç nokta nistagmusu ve yaşa bağlı hafif takip düşüşü sağlıklı kişilerde de görülebilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Kalorik test: *bitermal* uygulama ve yorum",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste VNG bataryasının en bilinen parçası olan kalorik testi, bitermal uygulama ve yorumuyla öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

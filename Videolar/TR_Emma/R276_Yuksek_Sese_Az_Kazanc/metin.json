@@ -1,0 +1,163 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R276_Yuksek_Sese_Az_Kazanc_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #276",
+  "baslik": "Yüksek sese *az kazanç*",
+  "alt": "Kompresyon ve giriş-çıkış eğrisi",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 30,
+    "max": 100,
+    "adim": 10,
+    "ad": "Giriş (dB SPL)"
+   },
+   "y": {
+    "min": 60,
+    "max": 130,
+    "adim": 10,
+    "ad": "Çıkış (dB SPL)"
+   },
+   "seriler": [
+    {
+     "ad": "dogrusal",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       95,
+       130
+      ]
+     ],
+     "renk": "gri",
+     "kesik": true
+    },
+    {
+     "ad": "kompresyon",
+     "noktalar": [
+      [
+       30,
+       65
+      ],
+      [
+       50,
+       85
+      ],
+      [
+       70,
+       95
+      ],
+      [
+       90,
+       105
+      ],
+      [
+       100,
+       106
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": 6
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İşitme cihazı yüksek seslere neden daha az kazanç verir? #shorts",
+  "aciklama": "Koklear kayıpta eşik yükselir ama rahatsızlık düzeyi çoğu zaman aynı kalır; kompresyon geniş bir giriş aralığını bu daralmış alana sığdırır. Bu örnekte kazanç 40 dB girişte 35, 70 dB girişte 25, 90 dB girişte 15 desibeldir; böylece 50 desibellik giriş aralığı 30 desibellik çıkışa sığar.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitmecihazı",
+   "kompresyon"
+  ],
+  "etiketler": [
+   "kompresyon",
+   "WDRC",
+   "giriş-çıkış eğrisi",
+   "kompresyon oranı",
+   "dinamik aralık",
+   "işitme cihazı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İşitme cihazı yüksek seslere neden daha az kazanç verir?",
+  "bilgiler": [
+   "Yumuşak seslere çok, yüksek seslere az kazanç verilir.",
+   "Bu örnekte kazanç 35, 25 ve 15 desibele iner.",
+   "Elli desibellik giriş aralığı otuz desibellik çıkışa sığar."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "kompresyon"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #276",
+   "metin": "Kazanç *neden azalır?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İşitme cihazı yüksek seslere neden daha az kazanç verir?"
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "zincir",
+   "baslik": "Girişe göre *kazanç*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "40 dB giriş",
+     "tr": "kazanç 35",
+     "cumle": 1
+    },
+    {
+     "ad": "70 dB giriş",
+     "tr": "kazanç 25",
+     "cumle": 2
+    },
+    {
+     "ad": "90 dB giriş",
+     "tr": "kazanç 15",
+     "cumle": 3
+    }
+   ],
+   "alt": "Yumuşağa çok, _yükseğe az_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Koklear kayıpta eşik yükselir, rahatsızlık düzeyi ise çoğu zaman aynı kalır.",
+    "Bu örnekte kırk desibellik yumuşak ses, otuz beş desibel yükseltilir.",
+    "Yetmiş desibellik girişte kazanç yirmi beş desibele düşer.",
+    "Doksan desibellik yüksek seste ise kazanç yalnız on beş desibeldir.",
+    "Böylece elli desibellik giriş aralığı otuz desibellik çıkışa sığar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D181",
+ "kaynak_baslik": "Kompresyon ve WDRC"
+}

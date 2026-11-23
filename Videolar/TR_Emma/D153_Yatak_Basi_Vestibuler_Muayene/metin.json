@@ -1,0 +1,681 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D153_Yatak_Basi_Vestibuler_Muayene_TR",
+ "kapak": {
+  "ust": "DERS 153",
+  "baslik": "Yatak başı<br>*vestibüler* muayene",
+  "alt": "Romberg, Fukuda, baş sallama",
+  "cizim": "denge_durus"
+ },
+ "youtube": {
+  "baslik": "Yatak Başı Vestibüler Muayene: Romberg, Fukuda, Baş Sallama | Ders 153 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Yatak başı vestibüler muayenenin temel adımlarını anlatıyoruz: kendiliğinden ve bakışa bağlı nistagmusun gözlenmesi, Romberg ve tandem Romberg testi, Fukuda adım testi ve baş sallama testi. Her testin nasıl yapıldığını, nasıl yorumlandığını, sınırlılıklarını ve santral nedenleri düşündüren bulguları ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology; Fukuda, The stepping test, Acta Oto-Laryngologica (1959); Honaker ve ark., Fukuda stepping test: sensitivity and specificity, Journal of the American Academy of Audiology (2009).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vestibüler",
+   "nistagmus"
+  ],
+  "etiketler": [
+   "yatak başı vestibüler muayene",
+   "bedside vestibular exam",
+   "Romberg testi",
+   "Fukuda adım testi",
+   "Fukuda stepping test",
+   "baş sallama testi",
+   "head-shaking nystagmus",
+   "kendiliğinden nistagmus",
+   "bakış nistagmusu",
+   "Frenzel gözlüğü",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 153",
+   "baslik": "Yatak başı *vestibüler* muayene",
+   "alt": "Nistagmus, Romberg, Fukuda ve baş sallama",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste özel cihaz gerektirmeyen yatak başı vestibüler muayeneyi öğreneceğiz.",
+    "Nistagmus gözlemini, Romberg ve Fukuda testlerini ve baş sallama testini nasıl yapıp yorumlayacağımızı ele alacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hazırlık ve gözler",
+   "baslik": "Neden *yatak başı?*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Hızlı",
+     "metin": "Birkaç dakika sürer",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Cihazsız",
+     "metin": "Her ortamda yapılabilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Öyküyü tamamlar",
+     "metin": "Test seçimine yön verir",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sınırlı duyarlılık",
+     "metin": "Normal sonuç dışlamaz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Öykü alındıktan sonra ilk fiziksel değerlendirme yatak başı muayenedir.",
+    "Bu muayene hızlıdır ve çoğu adımı özel bir cihaz gerektirmeden her ortamda yapılabilir.",
+    "Bulgular öyküyü tamamlar ve hangi laboratuvar testlerinin seçileceğine yön verir.",
+    "Akut dönemde, laboratuvar testleri yapılamadığında da değerli bilgiler sağlar.",
+    "Ancak duyarlılığı sınırlıdır; normal bir yatak başı muayene vestibüler bir sorunu dışlamaz."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hazırlık ve gözler",
+   "baslik": "Muayeneye *hazırlık*",
+   "maddeler": [
+    {
+     "metin": "Boyun, sırt, _düşme_ öyküsü",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ayakta testlerde _yanında durun_",
+     "cumle": 1,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "_Frenzel_ ya da video gözlük",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Önce gözler, sonra _ayakta denge_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Bulantı yapanlar _en sona_",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Ayakta yapılan her testte hastanın yanında, düşmeye karşı hazır durun.",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Muayeneden önce hastanın boyun ve sırt sorunları, yakın zamandaki ameliyatları ve düşme öyküsü sorulur.",
+    "Ayakta yapılan testlerde hastanın hemen yanında durulur ve düşmeye karşı hazır olunur.",
+    "Mümkünse Frenzel gözlüğü ya da video gözlük hazırlanır.",
+    "Muayene genellikle otururken gözlerle başlar, ayakta denge testleriyle devam eder.",
+    "Bulantıyı artırabilecek testler muayenenin sonuna bırakılabilir."
+   ]
+  },
+  {
+   "id": "spontan",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hazırlık ve gözler",
+   "baslik": "Kendiliğinden *nistagmus*",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "yavas_cumle": 4,
+    "hizli_cumle": 4
+   },
+   "etiketler": [
+    {
+     "parca": "yavas_faz",
+     "metin": "Yavaş faz: kayıplı tarafa",
+     "cumle": 4
+    },
+    {
+     "parca": "hizli_faz",
+     "metin": "Hızlı faz: sağlam tarafa",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "iz",
+     "cumle": 0
+    },
+    {
+     "parca": "yon",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Önce _fiksasyonla_, sonra fiksasyonsuz",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Periferik: fiksasyonla _azalır_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Yön, şiddet, _fiksasyon etkisi_ kaydı",
+     "cumle": 5,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "İlk adım, hasta düz karşıya bakarken kendiliğinden nistagmus olup olmadığına bakmaktır.",
+    "Önce fiksasyon varken, yani hasta bir noktaya bakarken gözler izlenir.",
+    "Sonra Frenzel ya da video gözlükle fiksasyon kaldırılır; periferik nistagmus bu durumda belirginleşir.",
+    "Gözlük yoksa, bir gözü kapatıp diğerinin göz dibine oftalmoskopla bakmak da fiksasyonu azaltan bir yoldur.",
+    "Bu örnek izde sağa vuran bir nistagmus var; akut tek taraflı periferik kayıpta nistagmus genellikle sağlam kulağa vurur.",
+    "Nistagmusun yönü, şiddeti ve fiksasyonla nasıl değiştiği kaydedilir."
+   ]
+  },
+  {
+   "id": "bakis",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hazırlık ve gözler",
+   "baslik": "Bakış *nistagmusu*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Dört yön",
+     "metin": "Sağ, sol, yukarı, aşağı",
+     "cumle": 0
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Yaklaşık 30 derece",
+     "metin": "Uç nokta normal olabilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Alexander yasası",
+     "metin": "Hızlı faz yönünde artar",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yön değiştiren",
+     "metin": "Santral işaret",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Saf dikey",
+     "metin": "Santral işaret",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bakış testinde hasta başını oynatmadan sağa, sola, yukarı ve aşağı bakar.",
+    "Bakış açısı yaklaşık otuz derecede tutulur; çok kenara bakışta görülen birkaç vuruşluk nistagmus normal olabilir.",
+    "Periferik nistagmus hızlı faz yönüne bakınca artar; buna Alexander yasası demiştik.",
+    "Bakış yönüne göre yön değiştiren nistagmus ise santral nedenler açısından önemlidir.",
+    "Saf dikey ya da saf torsiyonel nistagmus da santral bir işarettir ve hekime iletilir.",
+    "Her yöndeki bulgu ayrı ayrı not edilir; bu kayıt sonraki muayenelerle karşılaştırma için değerlidir."
+   ]
+  },
+  {
+   "id": "romberg",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Duruş testleri",
+   "baslik": "*Romberg* testi",
+   "cizim": "denge_durus",
+   "etiketler": [
+    {
+     "parca": "destek_yuzeyi",
+     "metin": "Ayaklar bitişik",
+     "cumle": 1
+    },
+    {
+     "parca": "salinim",
+     "metin": "Gözler kapalı: salınım?",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "destek_yuzeyi",
+     "cumle": 1
+    },
+    {
+     "parca": "salinim",
+     "cumle": 2
+    },
+    {
+     "parca": "agirlik_merkezi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Gözler açık, sonra _kapalı_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Klasik: _konum duyusu_ kaybı",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Normal sonuç _dışlamaz_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Romberg testini denge sistemleri dersinde kısaca görmüştük; şimdi uygulamasına bakalım.",
+    "Hasta ayaklarını bitiştirerek durur, kollarını göğsünde kavuşturur ya da yanında tutar.",
+    "Önce gözler açıkken, sonra gözler kapalıyken genellikle otuz saniye boyunca salınım izlenir.",
+    "Gözler kapanınca belirgin salınım ya da düşme eğilimi Romberg pozitif olarak kaydedilir.",
+    "Klasik olarak konum duyusu kaybını düşündürür; akut tek taraflı vestibüler kayıpta hasta etkilenen tarafa salınabilir.",
+    "Kompanze olmuş kronik vestibüler kayıplarda test çoğu zaman normaldir; bu yüzden normal sonuç vestibüler kaybı dışlamaz."
+   ]
+  },
+  {
+   "id": "zor_durus",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Duruş testleri",
+   "baslik": "Testi *zorlaştırmak*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Tandem Romberg",
+     "metin": "Topuk parmak ucuna",
+     "cumle": 0
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Yaş etkisi",
+     "metin": "Yaşlıda dikkatli yorum",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Köpük zemin",
+     "metin": "Vestibüler katkı öne çıkar",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Tek ayak",
+     "metin": "Düşme riski için",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Testi zorlaştırmak için bir ayağın topuğu diğerinin parmak ucuna değecek biçimde tek çizgide durulur; buna tandem Romberg denir.",
+    "Tandem duruş yaşla zorlaşır; yaşlı bireylerde sonuç dikkatli yorumlanır.",
+    "Köpük zeminde gözler kapalı duruş vestibüler katkıyı daha belirgin sınar; bunu dört koşullu duyusal denge testinde görmüştük.",
+    "Tek ayak üzerinde durma da düşme riskini değerlendirmede kullanılan basit bir testtir.",
+    "Tüm bu testlerde süre, salınımın yönü ve düşme eğilimi kaydedilir."
+   ]
+  },
+  {
+   "id": "fukuda",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Duruş testleri",
+   "baslik": "*Fukuda* adım testi",
+   "cumleler": [
+    "Fukuda adım testi (Fukuda stepping test), Unterberger testi olarak da bilinir.",
+    "Hasta kollarını öne uzatır, gözlerini kapatır ve olduğu yerde dizlerini kaldırarak elli adım atar.",
+    "Test sırasında hastanın yön bulmasını sağlayabilecek ses ve ışık ipuçları en aza indirilir.",
+    "Testin sonunda vücudun başlangıca göre ne kadar döndüğüne ve ne kadar ilerlediğine bakılır.",
+    "Elli adımda kırk beş dereceden fazla dönme genellikle anormal kabul edilir.",
+    "Dönme çoğu zaman etkilenen tarafa doğrudur."
+   ],
+   "cizim": "fukuda",
+   "ayar": {
+    "aci": 60,
+    "yon": "sag",
+    "adim_cumle": 1,
+    "donme_cumle": 3,
+    "esik_cumle": 4,
+    "taraf_cumle": 5
+   },
+   "notlar": [
+    {
+     "metin": "Hazırlık: _Kollar önde, gözler kapalı_",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "İpucu yok: _Ses ve ışık azaltılır_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Yorum: _45 dereceden fazla dönme_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ]
+  },
+  {
+   "id": "fukuda_yorum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Duruş testleri",
+   "baslik": "Fukuda'yı *yorumlamak*",
+   "maddeler": [
+    {
+     "metin": "Duyarlılık ve özgüllük _sınırlı_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tekrarda sonuç _değişebilir_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Taraf belirlemede _tek başına_ değil",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "İzlemde _yardımcı_ olabilir",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "DİKKAT",
+    "metin": "Fukuda *diğer bulgularla* birlikte yorumlanır",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Fukuda testinin yorumunda dikkatli olmak gerekir.",
+    "Çalışmalar, testin tek taraflı vestibüler kaybı saptamada duyarlılığının ve özgüllüğünün sınırlı olduğunu göstermiştir.",
+    "Aynı kişide tekrarlanan testlerde dönme açısı ve yönü değişebilir.",
+    "Bu yüzden Fukuda tek başına taraf belirlemek için kullanılmaz; diğer bulgularla birlikte yorumlanır.",
+    "Yine de bazı klinisyenler testi kompanzasyon sürecini izlemek için yararlı bulur."
+   ]
+  },
+  {
+   "id": "bas_sallama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Baş sallama testi",
+   "baslik": "Baş sallama *testi*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Gözlük",
+     "metin": "Fiksasyon kaldırılır",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Baş öne",
+     "metin": "Yaklaşık 30 derece",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Sallama",
+     "metin": "10 ile 20 saniye",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Ani dur",
+     "metin": "Gözler hemen izlenir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Baş sallama testi, iki taraf arasındaki gizli bir dengesizliği ortaya çıkarmayı amaçlar.",
+    "Hasta Frenzel ya da video gözlük takar ve başı yaklaşık otuz derece öne eğilir.",
+    "Muayene eden kişi başı yaklaşık on ile yirmi saniye, saniyede yaklaşık iki kez sağa sola sallar.",
+    "Sallama aniden durdurulur ve gözler hemen izlenir.",
+    "Sağlıklı kişide belirgin nistagmus görülmez ya da yalnız birkaç vuruş olur.",
+    "Boyun sorunları olan hastalarda bu test uygulanmaz ya da çok dikkatli yapılır."
+   ]
+  },
+  {
+   "id": "bas_sallama_yorum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Baş sallama testi",
+   "baslik": "Sallamadan *sonra* nistagmus",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sag",
+    "yavas_cumle": 1,
+    "hizli_cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "iz",
+     "cumle": 0
+    },
+    {
+     "parca": "hizli_faz",
+     "cumle": 1
+    },
+    {
+     "parca": "yon",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Çoğunlukla _sağlam kulağa_ vurur",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Neden: _hız depolama_ asimetrisi",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Dikey nistagmus: _santral_ işaret",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Tek taraflı vestibüler kayıpta sallamadan sonra yatay bir nistagmus ortaya çıkabilir.",
+    "Bu nistagmus çoğunlukla sağlam kulağa doğru vurur; örnek izde sağa vuran nistagmus sol taraftaki kayıpla uyumludur.",
+    "Sallama sırasında iki taraftan gelen sinyaller eşit değildir ve beyin sapındaki hız depolama mekanizması bu farkı biriktirir.",
+    "Bazen kısa bir süre sonra ters yönde, daha zayıf ikinci bir faz izlenebilir.",
+    "Yatay sallamadan sonra dikey nistagmus görülmesi ise santral bir işarettir ve hekime iletilmelidir."
+   ]
+  },
+  {
+   "id": "periferik_merkezi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve kayıt",
+   "baslik": "*Santral* nedeni düşündürenler",
+   "cumleler": [
+    "Yatak başı bulgularını periferik ve santral örüntüler açısından birlikte değerlendirelim.",
+    "Periferik kendiliğinden nistagmus yatay-torsiyoneldir; saf dikey ya da saf torsiyonel nistagmus santral örüntüdür.",
+    "Periferik nistagmus fiksasyonla azalır; santral nistagmus azalmayabilir.",
+    "Periferik nistagmus bakışla yön değiştirmez; yön değiştiren bakış nistagmusu santral açıdan önemlidir.",
+    "Baş sallamadan sonra yatay nistagmus periferik, dikey nistagmus santral bir işarettir.",
+    "Akut periferik kayıpta hasta yardımla yürüyebilir; ağır duruş ve yürüme bozukluğu santral nedenleri düşündürür."
+   ],
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Saf dikey",
+     "metin": "Ya da saf torsiyonel",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Fiksasyon etkisiz",
+     "metin": "Nistagmus azalmaz",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yön değiştiren",
+     "metin": "Bakışla yön değişir",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Dikey sallama nistagmusu",
+     "metin": "Yatay sallamadan sonra",
+     "cumle": 4
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Ağır duruş bozukluğu",
+     "metin": "Yardımla bile yürüyememe",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "diger_testler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve kayıt",
+   "baslik": "Muayenenin *diğer* parçaları",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Baş itme testi",
+     "metin": "Sonraki ders",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Dinamik görme",
+     "metin": "Baş hareketinde okuma",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Göz hareketleri",
+     "metin": "Takip ve sakkad",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Pozisyonel testler",
+     "metin": "Ayrı derste",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Yatak başı muayenenin başka önemli parçaları da vardır.",
+    "Baş itme testi, vestibülo-oküler refleksi, kısaca VOR'u, iki taraf için ayrı ayrı sınar; bunu bir sonraki derste göreceğiz.",
+    "Dinamik görme keskinliği testinde baş sallanırken okunabilen satır, baş sabitken okunan satırla karşılaştırılır.",
+    "Takip ve sakkad gibi göz hareketleri de santral bulgular açısından gözlenir.",
+    "Pozisyonel testleri ise ilerideki bir derste ayrıntılı olarak ele alacağız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Muayeneyi her hastada aynı sırayla yapın ve bulguları standart bir formda kaydedin. Mümkünse göz bulgularını video gözlükle kaydedin.",
+   "cumleler": [
+    "Bir klinik ipucu: yatak başı muayeneyi her hastada aynı sırayla yapın.",
+    "Standart bir sıra, hiçbir adımın atlanmamasını ve sonuçların zaman içinde karşılaştırılabilmesini sağlar.",
+    "Bulguları standart bir formda kaydedin; testin yapılamadığı durumları da nedeniyle not edin.",
+    "Mümkünse göz bulgularını video gözlükle kaydedin; kayıt, hekim ve sonraki değerlendirme için çok değerlidir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Nistagmus: _fiksasyonla ve fiksasyonsuz_ bak",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Romberg normal: kaybı _dışlamaz_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Fukuda: _50 adımda 45 derece_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Baş sallama sonrası dikey: _santral_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kendiliğinden ve bakışa bağlı nistagmus hem fiksasyonla hem de fiksasyon kaldırılarak değerlendirilir.",
+    "Romberg testi konum duyusunu ve akut vestibüler kaybı gösterebilir, ancak normal sonuç kaybı dışlamaz.",
+    "Fukuda testinde elli adımda kırk beş dereceden fazla dönme anormal kabul edilir; test tek başına yorumlanmaz.",
+    "Baş sallama sonrası yatay nistagmus tek taraflı kaybı, dikey nistagmus ise santral bir nedeni düşündürür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Fukuda testinde hangi sonuç genellikle anormaldir?",
+   "secenekler": [
+    "10 derece dönme",
+    "30 derece dönme",
+    "45 dereceden fazla dönme"
+   ],
+   "dogru": 2,
+   "aciklama": "Elli adımda _45 dereceden fazla_ dönme genellikle anormal kabul edilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Elli adımlık Fukuda testinde hangi sonuç genellikle anormal kabul edilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: kırk beş dereceden fazla dönme.",
+    "Yine de testin duyarlılığı sınırlıdır; sonuç diğer bulgularla birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Baş itme testi ve *HINTS*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste baş itme testini ve onu nistagmus ve skew testiyle birleştiren HINTS muayenesini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

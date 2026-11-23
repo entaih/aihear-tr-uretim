@@ -1,0 +1,649 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D010_Ses_Nedir_TR",
+ "kapak": {
+  "ust": "DERS 10",
+  "baslik": "Ses *nedir?*",
+  "alt": "Titreşim, dalga ve ortam",
+  "cizim": "ses_dalgasi",
+  "ayar": {
+   "frekans_hz": 1000
+  }
+ },
+ "youtube": {
+  "baslik": "Ses Nedir? Titreşim, Dalga ve Ortam | Ders 10 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Sesin ne olduğunu temelden anlatıyoruz: titreşim, sıkışma ve seyrelme, boyuna dalga, sesin farklı ortamlardaki hızı ve boşlukta neden yayılmadığı. Kulağın içinde sesin havadan katıya ve sıvıya geçişine de kısaca bakıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Speaks, Introduction to Sound: Acoustics for the Hearing and Speech Sciences; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "sesfiziği",
+   "akustik"
+  ],
+  "etiketler": [
+   "ses nedir",
+   "ses fiziği",
+   "titreşim",
+   "boyuna dalga",
+   "longitudinal wave",
+   "sıkışma",
+   "seyrelme",
+   "rarefaction",
+   "ses hızı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 10",
+   "baslik": "Ses *nedir?*",
+   "alt": "Titreşim, dalga ve ortam",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu dersle ses fiziğine başlıyoruz: sesin ne olduğunu, nasıl oluştuğunu ve nasıl yayıldığını öğreneceğiz.",
+    "Titreşimi, sıkışma ve seyrelmeyi, boyuna dalgayı ve sesin neden boşlukta yayılamadığını göreceğiz."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Titreşim",
+   "baslik": "Ses için *üç şey* gerekir",
+   "adimlar": [
+    {
+     "ikon": "diyapazon",
+     "baslik": "Kaynak",
+     "cumle": 1,
+     "metin": "Titreşen bir cisim"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ortam",
+     "cumle": 2,
+     "metin": "Hava, su, kemik"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Alıcı",
+     "cumle": 3,
+     "metin": "Kulak ya da mikrofon"
+    }
+   ],
+   "cumleler": [
+    "Ses, bir ortamdaki moleküllerin titreşimiyle yayılan bir enerji biçimidir.",
+    "Sesin oluşması için önce titreşen bir kaynak gerekir: bir diyapazon, bir hoparlör zarı ya da ses telleri gibi.",
+    "İkinci koşul, titreşimi taşıyacak bir ortamdır (medium); hava, su ya da kemik gibi.",
+    "İşitme söz konusuysa üçüncü olarak bu titreşimi algılayacak bir alıcı gerekir: kulak ya da bir mikrofon.",
+    "Fizikte ses, onu duyan biri olmasa da vardır; işitme ise sesin bir canlı tarafından algılanmasıdır."
+   ]
+  },
+  {
+   "id": "titresim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Titreşim",
+   "baslik": "Titreşim *nedir?*",
+   "cizim": "diyapazon",
+   "ayar": {
+    "test": "rinne"
+   },
+   "etiketler": [
+    {
+     "parca": "diyapazon",
+     "metin": "Diyapazon: titreşen kaynak",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "diyapazon",
+     "cumle": 1
+    },
+    {
+     "parca": "kulak",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Esneklik: _geri çeker_",
+     "cumle": 4,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Kütle: _denge konumunu aşar_",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Sürtünme: _sönümleme_",
+     "cumle": 6,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Titreşim, bir cismin denge konumu çevresinde ileri geri hareket etmesidir.",
+    "Bir diyapazona vurduğumuzda kolları dışa ve içe doğru hızla salınmaya başlar.",
+    "Kollar dışa giderken bitişikteki hava moleküllerini iter ve onları birbirine yaklaştırır.",
+    "Kollar içe dönerken ise arkalarında moleküllerin daha seyrek olduğu bir bölge bırakır.",
+    "Salınım iki özellik sayesinde sürer: esneklik cismi denge konumuna geri çeker, kütlesi ise denge konumunu aşmasına neden olur.",
+    "Bu düzenli, tek frekanslı salınıma basit harmonik hareket (simple harmonic motion) denir; diyapazon böylece saf bir ton üretir.",
+    "Sürtünme her salınımda biraz enerji harcar; bu yüzden titreşim zamanla söner, buna sönümleme (damping) denir."
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dalga",
+   "baslik": "Sıkışma ve *seyrelme*",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "dalga",
+     "metin": "Basınç değişimi",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tepe: _sıkışma_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Çukur: _seyrelme_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Basınç, _atmosfer basıncı_ çevresinde dalgalanır",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Diyapazon titreşmeye devam ettikçe sıkışma ve seyrelme bölgeleri birbirini izleyerek kaynaktan uzaklaşır.",
+    "Moleküllerin birbirine yaklaştığı, basıncın biraz arttığı bölgeye sıkışma (condensation) denir.",
+    "Moleküllerin seyrekleştiği, basıncın biraz düştüğü bölgeye ise seyrelme (rarefaction) denir.",
+    "Ekranın üstünde moleküllerin dağılımını, altında ise aynı anda ölçülen basınç değişimini görüyorsunuz.",
+    "Basınç eğrisinin tepeleri sıkışmalara, çukurları ise seyrelmelere karşılık gelir.",
+    "Bu eğri sesi göstermenin en yaygın yoludur; ama sesin kendisi kıvrımlı bir çizgi değil, havadaki basınç dalgalanmasıdır."
+   ]
+  },
+  {
+   "id": "molekul",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dalga",
+   "baslik": "Moleküller *yolculuk etmez*",
+   "maddeler": [
+    {
+     "metin": "Molekül _yerinde_ salınır",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "İlerleyen: _enerji_ ve düzen",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Stadyum dalgası: _seyirci yerinde_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Ses _rüzgar değildir_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ses_dalgasi",
+    "cumle": 0,
+    "ayar": {
+     "frekans_hz": 500
+    },
+    "vurgula": [
+     {
+      "parca": "dalga",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Burada önemli bir nokta var: ses ilerlerken hava molekülleri kaynaktan kulağa kadar yolculuk etmez.",
+    "Her molekül yalnız kendi denge konumu çevresinde küçük bir mesafede ileri geri salınır ve hareketi komşusuna aktarır.",
+    "İlerleyen şey moleküllerin kendisi değil, sıkışma ve seyrelme düzeni, yani enerjidir.",
+    "Bunu stadyumdaki dalga hareketine benzetebiliriz: seyirciler yerinde kalkıp oturur, ama dalga tribün boyunca ilerler.",
+    "Bu yüzden ses rüzgar gibi bir hava akımı değildir; rüzgar, havanın bir yerden başka bir yere taşınmasıdır.",
+    "Yaylı bir oyuncakta da aynısını görürüz: halkalar yerinde salınır, sıkışma bölgesi ise yay boyunca ilerler."
+   ]
+  },
+  {
+   "id": "boyuna",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dalga",
+   "baslik": "Boyuna ve *enine* dalga",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Boyuna dalga",
+     "cumle": 1,
+     "metin": "Salınım ilerleme yönünde"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Havada ses",
+     "cumle": 2,
+     "metin": "Sıkışma ve seyrelme"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Enine dalga",
+     "cumle": 3,
+     "metin": "Salınım yöne dik"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Koklea",
+     "cumle": 5,
+     "metin": "Membran yukarı aşağı"
+    }
+   ],
+   "cumleler": [
+    "Dalgalar, parçacıkların hangi yönde salındığına göre iki gruba ayrılır.",
+    "Boyuna dalgada (longitudinal wave) parçacıklar, dalganın ilerleme yönüyle aynı doğrultuda ileri geri salınır.",
+    "Havadaki ses boyuna bir dalgadır; sıkışma ve seyrelme ancak bu tür bir salınımla oluşur.",
+    "Enine dalgada (transverse wave) ise parçacıklar ilerleme yönüne dik salınır; gerilmiş bir ipte oluşan dalga buna örnektir.",
+    "Sıvılarda ve gazlarda ses yalnız boyuna dalga olarak yayılır; katılarda ise enine dalgalar da oluşabilir.",
+    "Kokleadaki yürüyen dalgada ise baziler membran yukarı aşağı hareket eder; bunu ilerideki derslerde göreceğiz."
+   ]
+  },
+  {
+   "id": "ozellik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dalga",
+   "baslik": "Bir sesi *tanımlamak*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frekans",
+     "cumle": 1,
+     "metin": "Pes ya da tiz"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Genlik",
+     "cumle": 2,
+     "metin": "Ses yüksekliğiyle ilişkili"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Dalga boyu",
+     "cumle": 3,
+     "metin": "Sıkışmadan sıkışmaya mesafe"
+    }
+   ],
+   "cumleler": [
+    "Bir ses dalgasını tanımlamak için birkaç temel özelliğe bakarız.",
+    "Frekans, saniyedeki titreşim sayısıdır ve sesin pes ya da tiz algılanmasıyla ilişkilidir.",
+    "Genlik, basınç değişiminin büyüklüğüdür ve algılanan ses yüksekliğiyle ilişkilidir.",
+    "Dalga boyu ise bir sıkışmadan bir sonraki sıkışmaya kadar olan mesafedir.",
+    "Bu özellikleri sonraki iki derste ayrıntılı olarak inceleyeceğiz."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ortam",
+   "baslik": "Sesin *hızı*",
+   "sutunlar": [
+    "Ortam",
+    "Yaklaşık hız"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Hava, 0 °C",
+      "331 m/s"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Hava, 20 °C",
+      "343 m/s"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Su",
+      "1480 m/s"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Çelik",
+      "5000 m/s üzeri"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ses her ortamda aynı hızla yayılmaz; hızı ortamın esnekliği ve yoğunluğu belirler.",
+    {
+     "yazi": "Yirmi derece sıcaklıktaki havada ses saniyede yaklaşık 343 metre yol alır.",
+     "ses": "Yirmi derece sıcaklıktaki havada ses saniyede yaklaşık üç yüz kırk üç metre yol alır."
+    },
+    {
+     "yazi": "Hava ısındıkça hız artar; sıfır derecede yaklaşık 331 metreye düşer ve her derecede yaklaşık 0,6 metre değişir.",
+     "ses": "Hava ısındıkça hız artar; sıfır derecede yaklaşık üç yüz otuz bir metreye düşer ve her derecede yaklaşık sıfır virgül altı metre değişir."
+    },
+    {
+     "yazi": "Suda ses yaklaşık dört kat daha hızlıdır: saniyede yaklaşık 1480 metre.",
+     "ses": "Suda ses yaklaşık dört kat daha hızlıdır: saniyede yaklaşık bin dört yüz seksen metre."
+    },
+    "Çelik gibi sert katılarda ise hız saniyede beş bin metrenin üzerine çıkar.",
+    "Katılar daha yoğun olsa da çok daha sert, yani zor sıkıştırılır; bu yüzden ses onlarda daha hızlı ilerler.",
+    "Şimşekten sonra gök gürültüsüne kadar saymak bu hızın günlük bir örneğidir: her üç saniye yaklaşık bir kilometredir."
+   ]
+  },
+  {
+   "id": "hiz_klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ortam",
+   "baslik": "Hız *klinikte*",
+   "maddeler": [
+    {
+     "metin": "Insert tüpü: yaklaşık _0,9 ms_ gecikme",
+     "cumle": 1,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "ABR gibi testlerde _hesaba katılır_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "1 metre hava: yaklaşık _3 ms_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Kulaklar arası zaman farkı: _yön_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "ayar": {
+     "insert": true
+    },
+    "etiketler": [
+     {
+      "parca": "ses_tupu",
+      "metin": "Ses tüpü",
+      "cumle": 1
+     },
+     {
+      "parca": "transduser",
+      "metin": "Transdüser",
+      "cumle": 1
+     }
+    ],
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.5
+    }
+   },
+   "cumleler": [
+    "Ses hızını bilmek klinikte de işe yarar.",
+    {
+     "yazi": "Insert kulaklıklarda ses, transdüserden kulağa ince bir tüple gelir; bu yol yaklaşık 0,9 milisaniyelik gecikme yaratır.",
+     "ses": "Insert kulaklıklarda ses, transdüserden kulağa ince bir tüple gelir; bu yol yaklaşık sıfır virgül dokuz milisaniyelik gecikme yaratır."
+    },
+    "Bu gecikme, işitsel beyin sapı yanıtı, kısaca ABR gibi milisaniyelerle ölçülen testlerde hesaba katılır.",
+    "Serbest alan testinde hoparlör ile baş arasındaki bir metrelik mesafe ise yaklaşık üç milisaniyelik gecikme demektir.",
+    "Sesin iki kulağa farklı zamanlarda ulaşması, beynin sesin yönünü bulmasında da kullanılır; bunu ilerideki derslerde göreceğiz."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ortam",
+   "baslik": "Boşlukta *ses yok*",
+   "maddeler": [
+    {
+     "metin": "Molekül yok: _ses yok_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Fanus deneyi: zil _sessizleşir_",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Uzayda iletişim: _telsiz_",
+     "cumle": 3,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Ses _mekanik_ bir dalgadır",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "İKİ TÜR DALGA",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "ses_dalgasi",
+      "baslik": "Mekanik dalga",
+      "cumle": 4,
+      "metin": "Ortam gerekir"
+     },
+     {
+      "ikon": "telefon",
+      "baslik": "Elektromanyetik",
+      "cumle": 4,
+      "metin": "Boşlukta da yayılır"
+     }
+    ]
+   },
+   "cumleler": [
+    "Ses moleküllerin titreşimiyle taşındığına göre, molekül olmayan bir yerde ses de yayılamaz.",
+    "On yedinci yüzyılda yapılan klasik bir deneyde, cam bir fanusun havası boşaltıldıkça içindeki zilin sesi giderek kaybolur.",
+    "Zil titreşmeye devam eder, ama titreşimi kulağa taşıyacak hava kalmamıştır.",
+    "Uzay boşluğunda da bu yüzden ses yayılmaz; astronotlar telsizle, yani elektromanyetik dalgalarla haberleşir.",
+    "Işık ve radyo dalgaları elektromanyetik dalgalardır ve boşlukta yayılabilir; ses ise mekanik bir dalgadır.",
+    "Kısacası ses için bir ortam şarttır: hava, su, kemik ya da başka bir madde."
+   ]
+  },
+  {
+   "id": "kulakta",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kulakta ses",
+   "baslik": "Kulakta *üç ortam*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Hava",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "metin": "Katı: kemikçikler",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "metin": "Sıvı: koklea",
+     "cumle": 3
+    },
+    {
+     "parca": "temporal_kemik",
+     "metin": "Kemik yolu",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "cumle": 2
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    },
+    {
+     "parca": "temporal_kemik",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kulağın kendisi de sesin farklı ortamlardan geçtiği bir yoldur.",
+    "Ses dış kulak yolunda havada ilerler ve timpanik membranı, yani kulak zarını titreştirir.",
+    "Orta kulakta titreşim, katı yapılar olan kemikçik zinciriyle taşınır.",
+    "İç kulakta ise titreşim kokleanın içindeki sıvıya geçer.",
+    "Havadan sıvıya geçerken enerjinin çoğu yansıyabilir; orta kulağın bu sorunu nasıl çözdüğünü ilerideki derslerde göreceğiz.",
+    "Ses kafatası kemikleri yoluyla da doğrudan iç kulağa ulaşabilir; kemik yolu ile işitme buna dayanır.",
+    "Kendi sesimizi kayıtta yabancı bulmamızın bir nedeni de budur: konuşurken sesimizi hem havadan hem kemikten duyarız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinik ipucu",
+   "metin": "Diyapazonu yalnız sapından tutun; kollara dokunmak titreşimi söndürür. Sert yüzeye değil, lastik bir pede ya da dizinize hafifçe vurun.",
+   "cumleler": [
+    "Diyapazonla çalışırken işe yarayan bir ipucu: diyapazonu yalnız sapından tutun.",
+    "Kollara dokunduğunuz anda titreşim sönümlenir ve ses hemen kaybolur.",
+    "Diyapazona sert bir yüzeyde değil, lastik bir pede ya da dizinize hafifçe vurun; sert vuruş istenmeyen ek tonlar üretebilir.",
+    "Diyapazon testlerini ilerideki derslerde ayrıntılı olarak göreceğiz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Ses: ortamda yayılan _titreşim enerjisi_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sıkışma ve seyrelme: _boyuna dalga_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Havada yaklaşık _343 m/s_",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Boşlukta _ses yayılmaz_",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "Ses, titreşen bir kaynağın bir ortamdaki moleküller aracılığıyla yaydığı enerjidir.",
+    "Havada ses, sıkışma ve seyrelmelerden oluşan boyuna bir dalgadır; moleküller yerinde salınır.",
+    {
+     "yazi": "Sesin hızı ortama bağlıdır: yirmi derecelik havada yaklaşık 343, suda yaklaşık 1480 metre bölü saniye.",
+     "ses": "Sesin hızı ortama bağlıdır: yirmi derecelik havada yaklaşık üç yüz kırk üç, suda yaklaşık bin dört yüz seksen metre bölü saniye."
+    },
+    "Ses mekanik bir dalga olduğu için boşlukta yayılamaz."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Ses hangi ortamda yayılamaz?",
+   "secenekler": [
+    "Su",
+    "Hava",
+    "Boşluk",
+    "Kemik"
+   ],
+   "dogru": 2,
+   "aciklama": "Ses _mekanik_ bir dalgadır; titreşimi taşıyacak moleküller olmadan yayılamaz.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: ses hangi ortamda yayılamaz?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: boşluk.",
+    "Ses mekanik bir dalgadır; titreşimi taşıyacak moleküller olmadan yayılamaz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Frekans, periyot ve *dalga boyu*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste frekansı, periyodu ve dalga boyunu, aralarındaki basit formüllerle birlikte öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

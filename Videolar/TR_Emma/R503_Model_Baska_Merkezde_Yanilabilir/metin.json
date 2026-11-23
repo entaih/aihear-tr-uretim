@@ -1,0 +1,102 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R503_Model_Baska_Merkezde_Yanilabilir_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #503",
+  "baslik": "Başka merkezde *yanılabilir*",
+  "alt": "Makine öğrenmesinin sınırları",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Bir merkezde çok iyi çalışan model başka merkezde yanılabilir mi? #shorts",
+  "aciklama": "Makine öğrenmesi modelleri etiketli örneklerden öğrenir ve eğitildikleri veriye benzeyen hastalarda iyi çalışır. Eğitim verisini ezberleyen, yani aşırı uyum gösteren bir model yeni hastalarda beklenenden kötü sonuç verir; belirli bir yaş ya da dil grubu eksikse o grupta yanılabilir; bir merkezin cihazı ve protokolüyle eğitilen model başka bir merkezde daha düşük başarı gösterebilir. Bu yüzden dış doğrulama asıl önemli adımdır; klinik karar desteği yalnız öneri sunar, sorumluluk odyoloğundur.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "makineöğrenmesi",
+   "dijitalsağlık"
+  ],
+  "etiketler": [
+   "makine öğrenmesi",
+   "dış doğrulama",
+   "aşırı uyum",
+   "klinik karar desteği",
+   "odyogram sınıflama",
+   "veri yanlılığı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Bir merkezde çok iyi çalışan model başka merkezde yanılabilir mi?",
+  "bilgiler": [
+   "Ezberleyen model yeni hastalarda kötü sonuç verir.",
+   "Eksik yaş ya da dil grubunda model yanılabilir.",
+   "Başka merkezin verisiyle dış doğrulama şarttır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "makineöğrenmesi",
+   "dijitalsağlık"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #503",
+   "metin": "Başka yerde *de iyi mi?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Bir merkezde çok iyi çalışan model başka merkezde yanılabilir mi?"
+   ]
+  },
+  {
+   "id": "tuzak",
+   "tur": "zincir",
+   "baslik": "Üç *tuzak*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Aşırı uyum",
+     "tr": "veriyi ezberler",
+     "cumle": 0
+    },
+    {
+     "ad": "Eksik grup",
+     "tr": "yaş ya da dil",
+     "cumle": 1
+    },
+    {
+     "ad": "Başka merkez",
+     "tr": "cihaz, protokol",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Eğitim verisini ezberleyen model yeni hastalarda beklenenden kötü sonuç verir.",
+    "Belirli bir yaş ya da dil grubu eksikse model o grupta yanılabilir.",
+    "Bir merkezin cihazıyla eğitilen model başka merkezde daha düşük başarı gösterebilir.",
+    "Bu yüzden asıl önemli adım, başka merkezin verisiyle dış doğrulamadır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D295",
+ "kaynak_baslik": "Otomasyon ve makine öğrenmesi"
+}

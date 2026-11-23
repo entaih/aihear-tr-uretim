@@ -1,0 +1,981 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D228_Odyologlar_Icin_Farmakoloji_TR",
+ "kapak": {
+  "ust": "DERS 228",
+  "baslik": "Odyologlar için<br>*farmakoloji*",
+  "alt": "İlaçlar kulağa nasıl ulaşır?",
+  "cizim": "koklea_kesit",
+  "vurgula": [
+   "stria_vaskularis"
+  ]
+ },
+ "youtube": {
+  "baslik": "Odyologlar için farmakolojiye giriş | Ders 228 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İlaçlar iç kulağa nasıl ulaşır ve neden bazı kişilerde daha zararlıdır? Bu derste farmakokinetik ve farmakodinamiği, yarılanma süresini, kan-labirent bariyerini, toplam doz, süre ve böbrek işlevinin önemini ve intratimpanik uygulama kavramını öğreniyoruz. Derste ilaç ya da doz önerisi yoktur.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Campbell (ed.), Pharmacology and Ototoxicity for Audiologists; Salt ve Plontke, Principles of local drug delivery to the inner ear, Audiology and Neurotology (2009); American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "farmakoloji",
+   "ototoksisite"
+  ],
+  "etiketler": [
+   "farmakoloji",
+   "farmakokinetik",
+   "pharmacokinetics",
+   "kan-labirent bariyeri",
+   "blood-labyrinth barrier",
+   "yarılanma süresi",
+   "intratimpanik",
+   "intratympanic",
+   "ototoksisite",
+   "böbrek işlevi",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 228",
+   "baslik": "Odyologlar için *farmakoloji*",
+   "alt": "İlaçlar kulağa nasıl ulaşır?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste ototoksisite bölümüne başlıyor ve odyologların bilmesi gereken farmakoloji temellerini öğreniyoruz.",
+    "Farmakokinetiği, kan-labirent bariyerini, doz, süre ve böbrek işlevinin önemini ve intratimpanik uygulama kavramını ele alacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "Odyolog neden *bilmeli?*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "İlaç öyküsü",
+     "metin": "Doğru soruları sormak",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "İzlem planı",
+     "metin": "Zamanlamayı anlamak",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Ekiple iletişim",
+     "metin": "Ortak dil",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Odyolog ilaç yazmaz ve ilaç tedavisine karar vermez; bu kararlar her zaman hekime aittir.",
+    "Ama bir ilacın kulağa nasıl ulaştığını bilmek, doğru ilaç öyküsü almak için gereklidir.",
+    "Örneğin bir ilacın böbrekle atıldığını bilen odyolog, böbrek hastalığı olan kişide neden daha dikkatli izlem gerektiğini anlar.",
+    "Hasarın ilaç kesildikten sonra da sürebileceğini bilmek, izlemin ne zamana kadar sürdürüleceğini açıklar.",
+    "Tedavi ekibiyle aynı dili konuşmak da bulguların doğru anlaşılmasını kolaylaştırır.",
+    "Bu derste ilaç ya da doz önerisi yok; yalnız temel kavramlar var."
+   ]
+  },
+  {
+   "id": "kinetik_dinamik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "İki temel *soru*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Farmakokinetik",
+     "metin": "Vücut ilaca ne yapar?",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Farmakodinamik",
+     "metin": "İlaç vücuda ne yapar?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Farmakolojide iki temel soru vardır.",
+    "Birincisi farmakokinetiktir (pharmacokinetics): vücut ilaca ne yapar?",
+    "Yani ilaç nasıl emilir, dokulara nasıl dağılır, nasıl dönüştürülür ve vücuttan nasıl atılır?",
+    "İkincisi farmakodinamiktir: ilaç vücuda ne yapar?",
+    "Yani ilaç hangi hücreye bağlanır, hangi etkiyi ve hangi yan etkiyi oluşturur?",
+    "Ototoksisite, bir ilacın istenen etkisinin yanında iç kulak hücrelerinde oluşturduğu istenmeyen bir farmakodinamik etkidir."
+   ]
+  },
+  {
+   "id": "adme",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "İlacın *yolculuğu*",
+   "adimlar": [
+    {
+     "ikon": "ilac",
+     "baslik": "Emilim",
+     "metin": "Kana geçiş",
+     "cumle": 0
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Dağılım",
+     "metin": "Dokulara ulaşma",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Metabolizma",
+     "metin": "Dönüştürülme",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Atılım",
+     "metin": "Böbrek ve karaciğer",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İlacın vücuttaki yolculuğu dört aşamada özetlenir: emilim, dağılım, metabolizma ve atılım.",
+    "Ağızdan alınan ilaç önce sindirim kanalından kana geçer; damar içine verilen ilaç ise doğrudan kana ulaşır.",
+    "Kan yoluyla dokulara dağılan ilacın ne kadarının iç kulağa geçeceğini, birazdan göreceğimiz bariyerler belirler.",
+    "Pek çok ilaç karaciğerde başka maddelere dönüştürülür.",
+    "Son olarak ilaç ya da dönüşüm ürünleri büyük ölçüde böbrekler ya da safra yoluyla vücuttan atılır.",
+    "Aminoglikozidler ve sisplatin gibi ototoksik ilaçların atılımında böbrekler başlıca rolü oynar."
+   ]
+  },
+  {
+   "id": "yarilanma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "*Yarılanma* süresi",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Zaman (saat, şematik)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 110,
+     "adim": 25,
+     "ad": "Kandaki düzey (yüzde)"
+    },
+    "seriler": [
+     {
+      "ad": "duzey",
+      "noktalar": [
+       [
+        0,
+        100.0
+       ],
+       [
+        1,
+        70.5
+       ],
+       [
+        2,
+        49.7
+       ],
+       [
+        3,
+        35.0
+       ],
+       [
+        4,
+        24.7
+       ],
+       [
+        5,
+        17.4
+       ],
+       [
+        6,
+        12.2
+       ],
+       [
+        8,
+        6.1
+       ],
+       [
+        10,
+        3.0
+       ],
+       [
+        12,
+        1.5
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yari",
+      "x": 1.98,
+      "y": 50,
+      "dus": "xy",
+      "etiket": "yarılanma süresi",
+      "cumle": 2
+     },
+     {
+      "ad": "ceyrek",
+      "x": 3.96,
+      "y": 25,
+      "dus": "xy",
+      "etiket": "iki yarılanma",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Aynı oranda azalma",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yarılanma: düzey yarıya iner",
+     "cumle": 2,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Bu şematik grafikte, damar içine tek bir doz verildikten sonra ilacın kandaki düzeyinin zamanla nasıl düştüğünü görüyoruz.",
+    "Düzey her saat aynı miktarda değil, aynı oranda azalır; bu yüzden eğri giderek yataylaşır.",
+    "Kandaki düzeyin yarıya inmesi için geçen süreye yarılanma süresi (half-life) denir.",
+    "İki yarılanma süresi sonunda düzey dörtte bire iner; pratikte dört ile beş yarılanma süresi sonra ilacın büyük bölümü atılmış olur.",
+    "Ancak kandaki düzey düştüğünde, iç kulaktaki düzey aynı hızla düşmeyebilir; bunu bariyer bölümünde göreceğiz.",
+    "Değerler şematiktir; her ilacın yarılanma süresi farklıdır ve kişiden kişiye değişir."
+   ]
+  },
+  {
+   "id": "bariyer",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kan-labirent bariyeri",
+   "baslik": "*Kan-labirent* bariyeri",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "stria vascularis",
+     "cumle": 2
+    },
+    {
+     "parca": "perilenf",
+     "metin": "perilenf",
+     "cumle": 3
+    },
+    {
+     "parca": "endolenf",
+     "metin": "endolenf",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 2
+    },
+    {
+     "parca": "perilenf",
+     "cumle": 3
+    },
+    {
+     "parca": "endolenf",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Beyni kandaki zararlı maddelerden koruyan bir kan-beyin bariyeri olduğu gibi, iç kulağın da bir koruma düzeni vardır.",
+    "Buna kan-labirent bariyeri (blood-labyrinth barrier) denir.",
+    "Bariyerin en çok incelenen bölümü stria vascularisteki kılcal damarlardır; bu damarların hücreleri birbirine sıkı bağlantılarla tutunur.",
+    "Böylece kandaki pek çok madde perilenfe ve endolenfe serbestçe geçemez; iç kulak sıvılarının özel bileşimi korunur.",
+    "Ama bariyer tam bir duvar değildir: bazı ilaçlar, özellikle uzun süre ve yüksek düzeyde verildiğinde iç kulak sıvılarına ulaşır.",
+    "Enflamasyon, yüksek düzeyde gürültü ve bazı ilaçlar bariyerin geçirgenliğini artırabilir."
+   ]
+  },
+  {
+   "id": "birikim_kulak",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kan-labirent bariyeri",
+   "baslik": "İç kulakta *uzun kalış*",
+   "maddeler": [
+    {
+     "metin": "İç kulağa yavaş girer",
+     "cumle": 0,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Tüy hücresinde birikebilir",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kandakinden uzun kalır",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Hasar sonradan ilerleyebilir",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "dis_tuy_hucreleri",
+      "cumle": 2
+     },
+     {
+      "parca": "ic_tuy_hucresi",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Ototoksik ilaçlar iç kulak sıvılarına genellikle kandakinden daha yavaş girer.",
+    "İç kulaktan atılımları da yavaştır; bu yüzden kandaki düzey düştükten sonra bile iç kulakta kalabilirler.",
+    "Bazı ilaçlar tüy hücrelerinin içinde birikir; aminoglikozidlerin tüy hücresine nasıl girdiğini bir sonraki derste göreceğiz.",
+    "Sisplatinin koklea dokusunda aylarca, hatta yıllarca saptanabildiği gösterilmiştir.",
+    "Bu nedenle işitme kaybı tedavi bittikten sonra başlayabilir ya da ilerleyebilir.",
+    "Bu bilgi, izlemin tedavi bitince sona ermemesinin farmakolojik gerekçesidir."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Doz, süre ve böbrek",
+   "baslik": "Riski *değiştiren* etkenler",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Toplam doz",
+     "metin": "Birikimli miktar",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Süre",
+     "metin": "Uzun ve tekrarlanan",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Böbrek işlevi",
+     "metin": "Atılımı belirler",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Yaş",
+     "metin": "Çok küçük ve çok yaşlı",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetik yatkınlık",
+     "metin": "Bazı varyantlar",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü",
+     "metin": "Hasarı artırabilir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ototoksisite riski çoğu ilaçta toplam, yani birikimli dozla artar.",
+    "Tedavinin süresi ve aynı ilacın tekrarlanan kürlerle verilmesi de riski artırır.",
+    "Böbrek işlevi, ilacın vücuttan ne hızla atılacağını belirler; bu yüzden en önemli etkenlerden biridir.",
+    "Yenidoğanlarda böbrekler henüz olgunlaşmamıştır; yaşlılarda ise böbrek işlevi sıklıkla azalır.",
+    "Aminoglikozidlere aşırı duyarlılık yapan mitokondriyal değişiklik gibi genetik etkenler de riski belirgin artırabilir.",
+    "Gürültü ve başka ototoksik ilaçlarla birlikte kullanım, hasarı birbirine ekleyebilir."
+   ]
+  },
+  {
+   "id": "birikim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Doz, süre ve böbrek",
+   "baslik": "Böbrek işlevi ve *birikim*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "ad": "Zaman (şematik)",
+     "isaretler": [
+      0,
+      6,
+      12,
+      18,
+      24
+     ],
+     "yazilar": {
+      "0": "1. doz",
+      "6": "2.",
+      "12": "3.",
+      "18": "4."
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 140,
+     "adim": 20,
+     "ad": "Kandaki düzey (şematik)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        60.0
+       ],
+       [
+        1,
+        38.3
+       ],
+       [
+        2,
+        24.4
+       ],
+       [
+        3,
+        15.6
+       ],
+       [
+        4,
+        9.9
+       ],
+       [
+        5,
+        6.3
+       ],
+       [
+        6,
+        64.0
+       ],
+       [
+        7,
+        40.8
+       ],
+       [
+        8,
+        26.0
+       ],
+       [
+        9,
+        16.6
+       ],
+       [
+        10,
+        10.6
+       ],
+       [
+        11,
+        6.7
+       ],
+       [
+        12,
+        64.3
+       ],
+       [
+        13,
+        41.0
+       ],
+       [
+        14,
+        26.1
+       ],
+       [
+        15,
+        16.7
+       ],
+       [
+        16,
+        10.6
+       ],
+       [
+        17,
+        6.8
+       ],
+       [
+        18,
+        64.3
+       ],
+       [
+        19,
+        41.0
+       ],
+       [
+        20,
+        26.2
+       ],
+       [
+        21,
+        16.7
+       ],
+       [
+        22,
+        10.6
+       ],
+       [
+        23,
+        6.8
+       ],
+       [
+        24,
+        4.3
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "normal böbrek işlevi",
+      "cumle": 1
+     },
+     {
+      "ad": "azalmis",
+      "noktalar": [
+       [
+        0,
+        60.0
+       ],
+       [
+        1,
+        53.2
+       ],
+       [
+        2,
+        47.2
+       ],
+       [
+        3,
+        41.9
+       ],
+       [
+        4,
+        37.1
+       ],
+       [
+        5,
+        32.9
+       ],
+       [
+        6,
+        89.2
+       ],
+       [
+        7,
+        79.1
+       ],
+       [
+        8,
+        70.2
+       ],
+       [
+        9,
+        62.2
+       ],
+       [
+        10,
+        55.2
+       ],
+       [
+        11,
+        49.0
+       ],
+       [
+        12,
+        103.4
+       ],
+       [
+        13,
+        91.7
+       ],
+       [
+        14,
+        81.4
+       ],
+       [
+        15,
+        72.2
+       ],
+       [
+        16,
+        64.0
+       ],
+       [
+        17,
+        56.8
+       ],
+       [
+        18,
+        110.3
+       ],
+       [
+        19,
+        97.9
+       ],
+       [
+        20,
+        86.8
+       ],
+       [
+        21,
+        77.0
+       ],
+       [
+        22,
+        68.3
+       ],
+       [
+        23,
+        60.6
+       ],
+       [
+        24,
+        53.7
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": true,
+      "etiket": "azalmış böbrek işlevi",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yuksek",
+      "y": [
+       100,
+       140
+      ],
+      "renk": "sari",
+      "etiket": "istenmeyen yüksek düzey",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: birikim yok",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Azalmış: birikim",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Bu şematik grafikte aynı ilacın aynı aralıklarla tekrarlanan dozlarını görüyoruz.",
+    "Lacivert eğride böbrekler normal çalışır; her yeni doz gelmeden ilacın büyük bölümü atılmıştır.",
+    "Kandaki düzey her dozda yükselir ve düşer, ama giderek birikmez.",
+    "Kırmızı eğride böbrek işlevi azalmıştır; ilaç yavaş atıldığı için her yeni doz bir öncekinin üzerine eklenir.",
+    "Düzey giderek yükselir ve istenmeyen yüksek düzeylere ulaşabilir; ototoksisite riski de buna paralel artar.",
+    "Bu nedenle böbrek işlevi azalmış kişilerde hekim dozu ve aralığı buna göre düzenler; odyolog ise izlemi daha sık planlayabilir."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Doz, süre ve böbrek",
+   "baslik": "Kanda *düzey* ölçümü",
+   "maddeler": [
+    {
+     "metin": "Bazı ilaçlarda kan düzeyi izlenir",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Amaç: etkili ama güvenli düzey",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Normal kan düzeyi kulağı garanti etmez",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Odyolojik izlem yine gerekli",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Kan düzeyi",
+      "metin": "Hekim ve eczacı",
+      "cumle": 0
+     },
+     {
+      "ikon": "odyogram",
+      "baslik": "İşitme izlemi",
+      "metin": "Odyolog",
+      "cumle": 4
+     }
+    ],
+    "ust": "İKİ İZLEM"
+   },
+   "cumleler": [
+    "Bazı antibiyotiklerde, örneğin aminoglikozidlerde, ilacın kandaki düzeyi düzenli olarak ölçülür.",
+    "Amaç, enfeksiyona etkili olacak ama gereksiz yüksek olmayan bir düzeyi korumaktır.",
+    "Bu ölçümleri ve dozla ilgili kararları hekim ve klinik eczacı yönetir.",
+    "Ancak kandaki düzeyin uygun aralıkta olması, iç kulağın etkilenmeyeceğini garanti etmez.",
+    "Bu yüzden kan düzeyi izlemi, odyolojik izlemin yerini tutmaz; ikisi birbirini tamamlar."
+   ]
+  },
+  {
+   "id": "intratimpanik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İntratimpanik uygulama",
+   "baslik": "Doğrudan *orta kulağa*",
+   "cizim": "orta_kulak_ic_duvar",
+   "etiketler": [
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "yuvarlak pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "oval pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Östaki borusu",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bazı durumlarda ilaç kan yoluyla değil, doğrudan orta kulağa verilir; buna intratimpanik (intratympanic) uygulama denir.",
+    "İlaç, hekim tarafından kulak zarından geçirilen ince bir iğneyle orta kulak boşluğuna verilir.",
+    "Orta kulaktaki ilaç başlıca yuvarlak pencere zarından geçerek perilenfe ulaşır.",
+    "Oval pencere çevresinden de bir miktar geçiş olabileceği düşünülür.",
+    "Bu yolla iç kulakta, kan yoluyla verilen ilaca göre çok daha yüksek bir düzey elde edilebilir, vücudun geri kalanı ise az etkilenir.",
+    "Ancak geçiş kişiden kişiye değişir; yuvarlak pencere zarının kalınlığı ve ilacın Östaki borusundan akıp gitmesi sonucu etkiler."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İntratimpanik uygulama",
+   "baslik": "İntratimpanik *kullanım* örnekleri",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kortikosteroid",
+     "metin": "Ani işitme kaybında",
+     "cumle": 0
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Gentamisin",
+     "metin": "Meniere'de denge organı",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Yeni ilaçlar",
+     "metin": "Araştırma aşamasında",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ani işitme kaybında kortikosteroidlerin intratimpanik uygulanması, hekimin değerlendirmesiyle seçeneklerden biri olabilir.",
+    "Hangi kişide hangi ilacın kullanılacağına her zaman hekim karar verir.",
+    "Meniere hastalığında baş dönmesi ataklarını kontrol etmek için ototoksik bir ilaç olan gentamisin intratimpanik olarak kullanılabilir.",
+    "Burada ilacın denge organına zarar verme özelliği bilinçli olarak kullanılır; işitmenin de etkilenme riski vardır.",
+    "Ayrıca iç kulağı korumaya ya da onarmaya yönelik yeni ilaçların bu yolla verilmesi araştırılmaktadır.",
+    "Bu uygulamalar öncesinde ve sonrasında yapılan odyolojik ve vestibüler testler, etkinin izlenmesinde temel bilgiyi sağlar."
+   ]
+  },
+  {
+   "id": "damla",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İntratimpanik uygulama",
+   "baslik": "Kulak *damlaları*",
+   "maddeler": [
+    {
+     "metin": "Sağlam zar: iç kulağa geçmez",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Delik zar: geçiş olabilir",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Damla da ilaç öyküsüne girer",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_zari_otoskopik",
+    "cumle": 0,
+    "ayar": {
+     "patoloji": {
+      "tur": "perforasyon_santral",
+      "cumle": 1
+     }
+    },
+    "vurgula": [
+     {
+      "parca": "pars_tensa",
+      "cumle": 0
+     },
+     {
+      "parca": "on_alt_kadran",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Sağlam bir kulak zarı, dış kulak yoluna damlatılan ilacın orta kulağa geçmesini engeller.",
+    "Zarda delik ya da ventilasyon tüpü varsa damla orta kulağa ulaşabilir ve yuvarlak pencereden iç kulağa geçebilir.",
+    "Bu nedenle bazı kılavuzlar, zarı delik kulaklarda ototoksik olabilen damlaların seçiminde dikkatli olunmasını vurgular.",
+    "Kulak damlaları da ilaç öyküsünün bir parçasıdır; kişi çoğu zaman bunları ilaç olarak saymaz.",
+    "Damla seçimi hekimin kararıdır; odyoloğun görevi öyküyü eksiksiz almak ve bulguları paylaşmaktır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "İlaç öyküsünde ilacın adını, başlangıç tarihini, süresini, kürlerini, kulak damlalarını, böbrek hastalığını ve ailede ilaçla işitme kaybını sorun.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: iyi bir ilaç öyküsü, ilacın adını sormakla bitmez.",
+    "Başlangıç tarihini, süresini, kaç kür alındığını ve önceki yıllarda benzer bir tedavi olup olmadığını sorun.",
+    "Böbrek hastalığını, kulak damlalarını ve ailede ilaç sonrası işitme kaybı öyküsünü de mutlaka kaydedin.",
+    "Bu bilgiler, izlem bulgularını yorumlamanızı ve ekibe doğru bilgi vermenizi sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Farmakokinetik: emilim, dağılım, metabolizma, atılım",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Kan-labirent bariyeri: stria damarları",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Böbrek işlevi ve toplam doz riski belirler",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "İntratimpanik: yuvarlak pencereden perilenfe",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Farmakokinetik, ilacın emilimini, dağılımını, metabolizmasını ve atılımını inceler; yarılanma süresi atılımın hızını gösterir.",
+    "Kan-labirent bariyeri iç kulak sıvılarını korur; ancak bazı ilaçlar iç kulağa geçer ve orada uzun süre kalabilir.",
+    "Toplam doz, tedavi süresi ve özellikle böbrek işlevi ototoksisite riskini belirler.",
+    "İntratimpanik uygulamada ilaç orta kulağa verilir ve başlıca yuvarlak pencereden perilenfe geçer."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "İntratimpanik verilen ilaç iç kulağa başlıca nereden geçer?",
+   "secenekler": [
+    "Östaki borusu",
+    "Yuvarlak pencere zarı",
+    "Stria vascularis",
+    "İç kulak yolu"
+   ],
+   "dogru": 1,
+   "aciklama": "Orta kulağa verilen ilaç başlıca yuvarlak pencere zarından perilenfe geçer.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: intratimpanik olarak verilen bir ilaç iç kulağa başlıca hangi yoldan geçer?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yuvarlak pencere zarı.",
+    "İlaç başlıca yuvarlak pencere zarından perilenfe geçer; Östaki borusu ise ilacın orta kulaktan akıp gitmesine yol açabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ototoksik ilaçlar: aminoglikozidler, sisplatin ve diğerleri",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kulağa zarar verebilen başlıca ilaçları, yani aminoglikozidleri, sisplatini ve diğerlerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

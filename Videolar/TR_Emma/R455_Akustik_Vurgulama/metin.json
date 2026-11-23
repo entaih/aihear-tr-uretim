@@ -1,0 +1,104 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "reels",
+ "dosya": "R455_Akustik_Vurgulama_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #455",
+  "baslik": "Sözcüğü *öne çıkarmak*",
+  "alt": "Akustik vurgulama",
+  "cizim": "koklear_implant",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Bir sözcüğü çocuk için daha kolay duyulur kılmanın yolu nedir? #shorts",
+  "aciklama": "Akustik vurgulama (acoustic highlighting), hedef sözcüğü ya da sesi çocuk için daha kolay duyulur kılmaktır: hedef sözcük biraz daha vurgulu, biraz daha uzun ve ezgili söylenir, ondan önce kısa bir durak verilir. Hedef sözcüğü cümlenin sonuna yerleştirmek de vurguyu artırır, çünkü son sözcük en kolay hatırlananıdır. Çocuk ilerledikçe vurgu azaltılır; amaç, çocuğun sonunda doğal hızdaki günlük konuşmayı anlamasıdır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "çocuk",
+   "terapi"
+  ],
+  "etiketler": [
+   "akustik vurgulama",
+   "işitsel sözel terapi",
+   "dinleme",
+   "dil gelişimi",
+   "koklear implant",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Bir sözcüğü çocuk için daha kolay duyulur kılmanın yolu nedir?",
+  "bilgiler": [
+   "Hedef sözcük biraz vurgulu, uzun ve ezgili söylenir.",
+   "Önce kısa bir durak verilir; sözcük cümle sonuna konur.",
+   "Çocuk ilerledikçe vurgu azaltılır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "çocuk",
+   "terapi"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #455",
+   "metin": "Daha kolay *nasıl?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Bir sözcüğü çocuk için daha kolay duyulur kılmanın yolu nedir?"
+   ]
+  },
+  {
+   "id": "vurgu",
+   "tur": "zincir",
+   "baslik": "Akustik *vurgulama*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Durak",
+     "tr": "sözcükten önce",
+     "cumle": 1
+    },
+    {
+     "ad": "Vurgu",
+     "tr": "uzun ve ezgili",
+     "cumle": 1,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Cümle sonu",
+     "tr": "en kolay hatırlanır",
+     "cumle": 2
+    }
+   ],
+   "alt": "Sonra _azaltılır_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Akustik vurgulama, hedef sözcüğü çocuk için daha kolay duyulur kılar.",
+    "Sözcükten önce kısa bir durak verilir; sözcük uzun ve ezgili söylenir.",
+    "Hedef sözcük cümlenin sonuna konur; son sözcük en kolay hatırlanandır.",
+    "Çocuk ilerledikçe vurgu azaltılır; hedef doğal hızdaki günlük konuşmadır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D266",
+ "kaynak_baslik": "İşitsel sözel terapi oturumu"
+}

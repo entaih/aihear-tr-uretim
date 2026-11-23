@@ -1,0 +1,1045 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D080_Ses_Yuksekligi_Fon_Son_TR",
+ "kapak": {
+  "ust": "DERS 80",
+  "baslik": "*Fon* ve son",
+  "alt": "Eşit ses yüksekliği eğrileri",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Ses Yüksekliği Algısı: Fon ve Son | Ders 80 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Şiddet fiziksel, ses yüksekliği algısaldır. Bu derste eşit ses yüksekliği eğrilerini, fon ve son birimlerini, 40 fonun neden 1 son olduğunu, yaklaşık 10 fonluk artışın ses yüksekliğini neden iki katına çıkardığını ve bu bilgilerin klinikteki karşılığını inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ISO 226:2003, Acoustics: Normal equal-loudness-level contours; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Moore, An Introduction to the Psychology of Hearing; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "psikoakustik",
+   "sesyüksekliği"
+  ],
+  "etiketler": [
+   "ses yüksekliği",
+   "loudness",
+   "fon",
+   "phon",
+   "son",
+   "sone",
+   "eşit ses yüksekliği eğrileri",
+   "equal-loudness contours",
+   "Stevens yasası",
+   "psikoakustik",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 80",
+   "baslik": "Ses yüksekliği: *fon ve son*",
+   "alt": "Şiddet fiziksel, ses yüksekliği algısal",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir sesin ne kadar yüksek duyulduğunu, yani ses yüksekliği algısını öğreneceğiz.",
+    "Eşit ses yüksekliği eğrilerini, fon ve son birimlerini ve bunların klinikteki karşılığını göreceğiz."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Şiddet ve algı",
+   "baslik": "Şiddet mi, *ses yüksekliği* mi?",
+   "sol": {
+    "ust": "Şiddet (fiziksel)",
+    "maddeler": [
+     {
+      "metin": "Ses basıncı ya da enerjisi",
+      "cumle": 0
+     },
+     {
+      "metin": "Cihazla _ölçülür_: dB SPL",
+      "cumle": 1
+     },
+     {
+      "metin": "Frekanstan _bağımsız_ tanımlanır",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Ses yüksekliği (algısal)",
+    "maddeler": [
+     {
+      "metin": "Dinleyicinin _duyduğu_ büyüklük",
+      "cumle": 3
+     },
+     {
+      "metin": "Dinleyiciye _sorularak_ ölçülür",
+      "cumle": 4
+     },
+     {
+      "metin": "Frekansa ve süreye _bağlıdır_",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Şiddet, sesin fiziksel büyüklüğüdür; ses basıncı ya da taşıdığı enerjiyle ilgilidir.",
+    "Şiddet bir ses düzeyi ölçeriyle ölçülür ve genellikle desibel SPL olarak verilir.",
+    "Aynı desibel SPL değeri, frekans ne olursa olsun aynı fiziksel büyüklüğü anlatır.",
+    "Ses yüksekliği (loudness) ise dinleyicinin o sesi ne kadar güçlü duyduğudur; yani algısal bir büyüklüktür.",
+    "Ses yüksekliğini cihaz ölçemez; dinleyiciye sorarak, yani psikoakustik yöntemlerle ölçeriz.",
+    "Ses yüksekliği şiddetle artar, ama frekansa, süreye ve sesin yapısına da bağlıdır."
+   ]
+  },
+  {
+   "id": "olcek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Şiddet ve algı",
+   "baslik": "Kulağın *geniş* aralığı",
+   "cizim": "desibel_olcegi",
+   "vurgula": [
+    {
+     "parca": "fisilti",
+     "cumle": 1
+    },
+    {
+     "parca": "konusma",
+     "cumle": 2
+    },
+    {
+     "parca": "agri_esigi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Eşikten ağrıya yaklaşık _120 dB_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Algı _oranlarla_ çalışır",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "İnsan kulağı çok geniş bir şiddet aralığında çalışır.",
+    "En duyarlı frekanslarda işitme eşiği sıfır desibel SPL civarındadır; fısıltı bunun biraz üzerindedir.",
+    "Gündelik konuşma yaklaşık altmış desibel SPL civarındadır.",
+    "Ses yüksekliği, ağrı eşiğine kadar yaklaşık yüz yirmi desibellik bir aralıkta değişir.",
+    "Bu aralıkta algı doğrusal değildir; şiddeti iki katına çıkarmak sesi iki kat yüksek duyurmaz.",
+    "Bu ilişkiyi anlamak için iki birime ihtiyacımız var: fon ve son."
+   ]
+  },
+  {
+   "id": "esitleme",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Eşit ses yüksekliği",
+   "baslik": "Eğriler *nasıl* çıkarılır?",
+   "maddeler": [
+    {
+     "metin": "Referans: _1000 Hz_ ton",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Başka frekansta ton _ayarlanır_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Eşit duyulan düzeyler _birleştirilir_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Fletcher ve Munson, _1933_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "ses_dalgasi",
+    "ayar": {
+     "frekans_hz": 1000,
+     "karsilastir": 250
+    },
+    "cumle": 1
+   },
+   "cumleler": [
+    "Ses yüksekliğinin frekansa nasıl bağlı olduğunu eşleştirme deneyleriyle buluruz.",
+    "Dinleyiciye referans olarak bin hertzlik bir ton dinletilir.",
+    "Sonra başka bir frekanstaki ton, dinleyici onu referansla eşit yükseklikte duyana kadar ayarlanır.",
+    "Eşit yükseklikte duyulan bu düzeyler birleştirildiğinde bir eşit ses yüksekliği eğrisi (equal-loudness contour) elde edilir.",
+    {
+     "yazi": "İlk kapsamlı eğrileri 1933'te Fletcher ve Munson yayımladı; bugün kullanılan eğriler ISO 226 standardındadır.",
+     "ses": "İlk kapsamlı eğrileri 1933'te Fleçır ve Manson yayımladı; bugün kullanılan eğriler ISO 226 standardındadır."
+    },
+    "Standart eğriler, genç ve normal işiten dinleyicilerin serbest alandaki ortalama yargılarına dayanır."
+   ]
+  },
+  {
+   "id": "fon",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Eşit ses yüksekliği",
+   "baslik": "*Fon*: ses yüksekliği düzeyi",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tanım",
+     "metin": "1000 Hz'e eşit duyulan dB SPL",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "1000 Hz'de",
+     "metin": "Fon, dB SPL'ye eşit",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Her eğri",
+     "metin": "Bir fon değeri",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bir sesin fon (phon) değeri, onunla eşit yükseklikte duyulan bin hertzlik tonun desibel SPL değeridir.",
+    "Yani fon, ses yüksekliği düzeyinin birimidir ve bin hertzi ortak bir cetvel olarak kullanır.",
+    "Bu tanım gereği bin hertzde fon değeri ile desibel SPL değeri birbirine eşittir; kırk desibel SPL, kırk fondur.",
+    "Her eşit ses yüksekliği eğrisi bir fon değeriyle adlandırılır; örneğin kırk fonluk eğri.",
+    "O eğri üzerindeki bütün tonlar, frekansları ve desibel değerleri farklı olsa da aynı yükseklikte duyulur.",
+    "Fon bize hangi seslerin eşit duyulduğunu söyler, ama bir sesin ötekinden kaç kat yüksek olduğunu söylemez."
+   ]
+  },
+  {
+   "id": "degerler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Eşit ses yüksekliği",
+   "baslik": "Aynı ses yüksekliği, *farklı* desibel",
+   "sutunlar": [
+    "Frekans",
+    "40 fon",
+    "90 fon"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "100 Hz",
+      "yaklaşık 64 dB SPL",
+      "yaklaşık 99 dB SPL"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "yaklaşık 43 dB SPL",
+      "yaklaşık 90 dB SPL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "40 dB SPL",
+      "90 dB SPL"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "3150 Hz",
+      "yaklaşık 36 dB SPL",
+      "yaklaşık 87 dB SPL"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "yaklaşık 52 dB SPL",
+      "yaklaşık 101 dB SPL"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "ISO 226 eğrilerinden alınmış birkaç değere bakalım.",
+    "Kırk fonluk ses yüksekliği için yüz hertzde yaklaşık altmış dört desibel SPL gerekir.",
+    "Beş yüz hertzde bu değer yaklaşık kırk üç desibel SPL'ye iner.",
+    "Bin hertzde tanım gereği kırk desibel SPL'dir.",
+    "Üç ile dört bin hertz arasında kulak en duyarlıdır; aynı ses yüksekliği için daha az şiddet yeter.",
+    "Sekiz bin hertzde ise yeniden daha fazla şiddet gerekir.",
+    "Doksan fonda yüz hertz ile bin hertz arasındaki fark, kırk fondaki yaklaşık yirmi dört desibelden dokuz desibel civarına iner."
+   ]
+  },
+  {
+   "id": "dersler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Eşit ses yüksekliği",
+   "baslik": "Eğrilerden *çıkan* dersler",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 31.5,
+     "max": 12500,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      63,
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Düzey (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "fon_20",
+      "noktalar": [
+       [
+        31.5,
+        76
+       ],
+       [
+        63,
+        59
+       ],
+       [
+        125,
+        44
+       ],
+       [
+        250,
+        32
+       ],
+       [
+        500,
+        23
+       ],
+       [
+        1000,
+        20
+       ],
+       [
+        2000,
+        18
+       ],
+       [
+        3150,
+        14
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        5000,
+        19
+       ],
+       [
+        6300,
+        25
+       ],
+       [
+        8000,
+        32
+       ],
+       [
+        10000,
+        34
+       ],
+       [
+        12500,
+        33
+       ]
+      ],
+      "renk": "acik",
+      "yumusak": true,
+      "etiket": "20 fon",
+      "etiket_konum": [
+       1000,
+       20
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 0
+     },
+     {
+      "ad": "fon_40",
+      "noktalar": [
+       [
+        31.5,
+        88
+       ],
+       [
+        63,
+        73
+       ],
+       [
+        125,
+        61
+       ],
+       [
+        250,
+        50
+       ],
+       [
+        500,
+        43
+       ],
+       [
+        1000,
+        40
+       ],
+       [
+        2000,
+        39
+       ],
+       [
+        3150,
+        36
+       ],
+       [
+        4000,
+        37
+       ],
+       [
+        5000,
+        40
+       ],
+       [
+        6300,
+        46
+       ],
+       [
+        8000,
+        52
+       ],
+       [
+        10000,
+        54
+       ],
+       [
+        12500,
+        51
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "40 fon",
+      "etiket_konum": [
+       1000,
+       40
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 0
+     },
+     {
+      "ad": "fon_60",
+      "noktalar": [
+       [
+        31.5,
+        99
+       ],
+       [
+        63,
+        86
+       ],
+       [
+        125,
+        76
+       ],
+       [
+        250,
+        68
+       ],
+       [
+        500,
+        62
+       ],
+       [
+        1000,
+        60
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3150,
+        56
+       ],
+       [
+        4000,
+        58
+       ],
+       [
+        5000,
+        61
+       ],
+       [
+        6300,
+        66
+       ],
+       [
+        8000,
+        72
+       ],
+       [
+        10000,
+        73
+       ],
+       [
+        12500,
+        69
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "60 fon",
+      "etiket_konum": [
+       1000,
+       60
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 2
+     },
+     {
+      "ad": "fon_80",
+      "noktalar": [
+       [
+        31.5,
+        110
+       ],
+       [
+        63,
+        98
+       ],
+       [
+        125,
+        90
+       ],
+       [
+        250,
+        84
+       ],
+       [
+        500,
+        81
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        81
+       ],
+       [
+        3150,
+        77
+       ],
+       [
+        4000,
+        78
+       ],
+       [
+        5000,
+        82
+       ],
+       [
+        6300,
+        87
+       ],
+       [
+        8000,
+        91
+       ],
+       [
+        10000,
+        92
+       ],
+       [
+        12500,
+        85
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "80 fon",
+      "etiket_konum": [
+       1000,
+       80
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -12,
+      "etiket_hiza": "middle",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "en_duyarli",
+      "x": [
+       3000,
+       4000
+      ],
+      "renk": "sari",
+      "etiket": "en duyarlı",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "fon_20",
+     "cumle": 0
+    },
+    {
+     "parca": "en_duyarli",
+     "cumle": 1
+    },
+    {
+     "parca": "fon_80",
+     "cumle": 2
+    },
+    {
+     "parca": "fon_20",
+     "cumle": 3
+    },
+    {
+     "parca": "fon_40",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Düşük düzeyde _pes_ zayıf duyulur",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "3-4 kHz: _en duyarlı_ bölge",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Yüksek düzeyde eğriler _düzleşir_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Eğrilerden ilk ders şudur: düşük düzeylerde kulak pes seslere çok daha az duyarlıdır.",
+    "En duyarlı bölge yaklaşık üç ile dört bin hertz arasıdır; bunda dış kulak yolunun rezonansı da rol oynar.",
+    "Düzey yükseldikçe eğriler düzleşir; pes seslerin ses yüksekliği şiddetle daha hızlı artar.",
+    "Bu yüzden müziği kısık sesle dinlediğimizde bas sesler kaybolmuş gibi gelir, sesi açınca geri gelir.",
+    "Ses düzeyi ölçerlerdeki A ağırlıklandırma da kulağın düşük düzeylerdeki bu duyarlılığını taklit eder.",
+    "A ağırlığı yaklaşık kırk fonluk eğrinin tersine benzer; pes frekansları ölçümde zayıflatır."
+   ]
+  },
+  {
+   "id": "odyogram_bag",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Eşit ses yüksekliği",
+   "baslik": "Odyogram neden *düz*?",
+   "maddeler": [
+    {
+     "metin": "Eşik eğrisi SPL'de _kavislidir_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "dB HL eşiği _sıfıra_ çeker",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Normal işitme: _düz_ çizgi",
+     "cumle": 2,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        5,
+        5,
+        0,
+        5,
+        5,
+        10
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Eşik eğrisi de en alttaki eşit duyulma eğrisi gibidir ve desibel SPL cinsinden çizilince pes frekanslarda yükselir.",
+    "Odyometre her frekansta normal işitenlerin ortalama eşiğini sıfır desibel HL kabul eder; yani bu kavisi düzeltir.",
+    "Bu yüzden normal işiten birinin odyogramı, kavisli değil sıfır desibel HL civarında düz bir çizgi olarak görünür.",
+    "Ancak bu düzeltme yalnız eşik içindir; eşiğin üstündeki ses yüksekliği frekanslar arasında yine farklı büyür."
+   ]
+  },
+  {
+   "id": "son",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Son ölçeği",
+   "baslik": "*Son*: ses yüksekliğinin oranı",
+   "sutunlar": [
+    "Fon",
+    "Son",
+    "Algı"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "40",
+      "1",
+      "Referans"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "50",
+      "2",
+      "İki kat yüksek"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "60",
+      "4",
+      "Dört kat"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "70",
+      "8",
+      "Sekiz kat"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "80",
+      "16",
+      "On altı kat"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Bir sesin ötekinden kaç kat yüksek duyulduğunu söylemek için Stevens'ın önerdiği son (sone) birimi kullanılır.",
+     "ses": "Bir sesin ötekinden kaç kat yüksek duyulduğunu söylemek için Stivıns'ın önerdiği son birimi kullanılır."
+    },
+    "Bir son, bin hertzlik kırk desibel SPL'lik bir tonun, yani kırk fonluk bir sesin ses yüksekliğidir.",
+    "İki kat yüksek duyulan ses iki son, yarısı kadar yüksek duyulan ses ise yarım sondur.",
+    "Kırk fonun üzerinde, düzey yaklaşık on fon arttıkça ses yüksekliği iki katına çıkar: elli fon iki, altmış fon dört, yetmiş fon sekiz son.",
+    "Seksen fonluk bir ses, kırk fonluk sesten on altı kat yüksek duyulur.",
+    "Kısacası şiddette on kat artış, yani on desibel, algıda yalnızca iki katlık bir artış yaratır."
+   ]
+  },
+  {
+   "id": "stevens",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Son ölçeği",
+   "baslik": "Stevens'ın *üs yasası*",
+   "maddeler": [
+    {
+     "metin": "Ses yüksekliği şiddetin _üssüyle_ artar",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Üs yaklaşık _0,3_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "10 dB artış: _iki kat_ ses yüksekliği",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Eşiğe yakın ses yüksekliği _hızlı_ değişir",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FORMÜL",
+    "metin": "Son = *2* üzeri (fon eksi 40) bölü 10",
+    "cumle": 3
+   },
+   "cumleler": [
+    {
+     "yazi": "Stevens'ın üs yasasına göre ses yüksekliği, şiddetin bir üssüyle orantılı olarak artar.",
+     "ses": "Stivıns'ın üs yasasına göre ses yüksekliği, şiddetin bir üssüyle orantılı olarak artar."
+    },
+    "Bin hertzlik ton için bu üs, şiddet üzerinden yaklaşık sıfır virgül üçtür.",
+    "On desibel, şiddette on kat artış demektir; on üzeri sıfır virgül üç ise yaklaşık ikidir, yani ses yüksekliği iki katına çıkar.",
+    "Bu ilişki kırk fonun üzerinde, son değerinin, iki üzeri fon eksi kırk bölü on formülüyle hesaplanmasını sağlar.",
+    "Eşiğe yakın düzeylerde ise ses yüksekliği bu yasanın öngördüğünden daha hızlı değişir.",
+    "Bu kural, koklear hasarlı kulakta ses yüksekliğinin nasıl farklı büyüdüğünü anlamak için de temel oluşturur."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Son ölçeği",
+   "baslik": "Ses yüksekliğini *başka* neler artırır?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Bant genişliği",
+     "metin": "Kritik banttan geniş ses",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Süre",
+     "metin": "Yaklaşık 200 ms'ye kadar",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "İki kulak",
+     "metin": "Binaural toplama",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ses yüksekliğini yalnız şiddet ve frekans belirlemez.",
+    "Toplam şiddet aynı kalsa da, sesin enerjisi kritik bant denen genişliği aşan bir aralığa yayılırsa ses daha yüksek duyulur.",
+    "Bu olaya ses yüksekliği toplaması denir; kritik bandı maskeleme dersinde ayrıntılı göreceğiz.",
+    "Çok kısa sesler ise daha hafif duyulur; ses yüksekliği yaklaşık iki yüz milisaniyeye kadar süreyle birlikte artar.",
+    "Aynı ses iki kulakla dinlendiğinde de tek kulağa göre daha yüksek duyulur; buna binaural toplama denir."
+   ]
+  },
+  {
+   "id": "olcekleme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte ses yüksekliği",
+   "baslik": "Kategorik *ses yüksekliği* ölçekleme",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Çok hafif",
+     "metin": "Zor duyulur",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Rahat",
+     "metin": "Dinlemesi kolay",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Yüksek ama tamam",
+     "metin": "Yine de katlanılır",
+     "cumle": 3
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Rahatsız edici",
+     "metin": "Katlanılmaz yüksek",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Klinikte ses yüksekliği çoğu zaman kategorik ölçeklemeyle değerlendirilir.",
+    "Hastaya çok hafiften başlayan, sıralı ve tanımlı kategorilerden oluşan bir kart verilir.",
+    "Sesler adım adım yükseltilir ve hasta her sesin hangi kategoriye girdiğini gösterir; rahat dinleme bölgesi böyle bulunur.",
+    {
+     "yazi": "Cox ve arkadaşlarının Contour testi gibi yöntemler, yedi kategoriyle bu ölçümü standart hale getirir.",
+     "ses": "Koks ve arkadaşlarının Kontur testi gibi yöntemler, yedi kategoriyle bu ölçümü standart hale getirir."
+    },
+    "En üst kategori rahatsız edici yüksekliktir; bu düzey rahatsız edici ses düzeyi, kısaca UCL olarak kaydedilir.",
+    "Böylece eşikten rahatsızlığa kadar ses yüksekliğinin nasıl büyüdüğü, yani ses yüksekliği büyüme eğrisi görülür."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte ses yüksekliği",
+   "baslik": "Bu bilgi *nerede* işe yarar?",
+   "maddeler": [
+    {
+     "metin": "En rahat düzey: _MCL_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Rahatsız edici düzey: _UCL_",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Aradaki alan: _dinamik aralık_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cihaz çıkışını _sınırlamak_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "KLİNİK",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Koklear kayıp",
+      "metin": "Ses yüksekliği hızlı artar",
+      "cumle": 2
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Kompresyon",
+      "metin": "Sesi aralığa sığdırır",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Ses yüksekliği kavramı en çok MCL, yani en rahat dinleme düzeyi ve UCL, yani rahatsız edici ses düzeyi ölçümlerinde karşımıza çıkar.",
+    "Eşik ile UCL arasındaki alana dinamik aralık denir; kullanılabilir işitme bu alandadır.",
+    "Koklear hasarlı kulakta eşik yükselir ama UCL çoğu zaman pek değişmez; bu yüzden ses yüksekliği daha hızlı büyür.",
+    "İşitme cihazının en yüksek çıkışı, sesin UCL'yi aşmayacağı biçimde ayarlanmalıdır.",
+    "Cihazlardaki kompresyon da geniş bir ses aralığını bu daralmış alana sığdırmak için kullanılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinik ipucu",
+   "metin": "UCL ölçerken ağrıyı değil, rahatsız edici yüksekliği sorduğunuzu açıkça söyleyin. Yönergeyi standart tutmak, sonucu tekrarlanabilir kılar.",
+   "cumleler": [
+    "Sahadan bir ipucu: ses yüksekliği ölçümleri, hastaya verilen yönergeye çok duyarlıdır.",
+    "UCL ölçerken hastaya ağrı veren sesi değil, uzun süre dinlemek istemeyeceği kadar rahatsız edici sesi sorduğunuzu açıkça söyleyin.",
+    "Yönerge belirsiz kalırsa, aynı hastada sonuçlar belirgin biçimde farklı çıkabilir.",
+    "Kategori kartını ve yönergeyi her hastada aynı biçimde kullanın; böylece kontroller arası karşılaştırma güvenilir olur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Ses yüksekliği _algısal_ bir büyüklüktür",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Fon: 1000 Hz'e _eşit duyulan_ düzey",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "40 fon = _1 son_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "+10 fon: ses yüksekliği _iki kat_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Şiddet fiziksel, ses yüksekliği algısaldır; ses yüksekliği frekansa, süreye ve bant genişliğine de bağlıdır.",
+    "Fon, bir sesle eşit duyulan bin hertzlik tonun desibel SPL değeridir; eşit ses yüksekliği eğrileri fonla adlandırılır.",
+    "Son ise oransal ölçektir; kırk fonluk ses bir son olarak tanımlanır.",
+    "Kırk fonun üzerinde yaklaşık on fonluk artış, ses yüksekliğini iki katına çıkarır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "60 fonluk bir ses kaç son yüksekliğindedir?",
+   "secenekler": [
+    "1 son",
+    "2 son",
+    "4 son",
+    "6 son"
+   ],
+   "dogru": 2,
+   "aciklama": "40 fon 1 son; her 10 fonda iki kat: 50 fon 2 son, 60 fon _4 son_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Altmış fonluk bir ses kaç son yüksekliğindedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: dört son.",
+    "Kırk fon bir sondur; elli fonda iki, altmış fonda dört son olur, çünkü her on fon ses yüksekliğini iki katına çıkarır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Perde algısı ve *frekans* ayırt etme",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ses yüksekliğinden perdeye geçiyor ve kulağın frekansı nasıl ayırt ettiğini öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,969 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D252_APD_Test_Bataryasi_TR",
+ "kapak": {
+  "ust": "DERS 252",
+  "baslik": "APD test<br>*bataryası*",
+  "alt": "Dikotik, zamansal, düşük fazlalıklı",
+  "cizim": "beyin_ustten",
+  "ayar": {
+   "mod": "dikotik",
+   "sozcukler": [
+    "yedi",
+    "dört"
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "APD test bataryası: dikotik, zamansal, düşük fazlalıklı | Ders 252 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitsel işlemleme bozukluğu tek bir testle değil, farklı süreçleri ölçen bir test bataryasıyla değerlendirilir. Bu derste dikotik dinleme testlerini (sayılar, heceler, yarışan cümleler, SSW), frekans ve süre örüntü testlerini, filtrelenmiş ve sıkıştırılmış konuşma testlerini ve sonuçların bütün olarak nasıl yorumlandığını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: American Speech-Language-Hearing Association, (Central) Auditory Processing Disorders, Technical Report (2005); American Academy of Audiology, Clinical Practice Guidelines: Diagnosis, Treatment and Management of Children and Adults with Central Auditory Processing Disorder (2010); Musiek ve Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology; Musiek, Assessment of central auditory dysfunction: the dichotic digit test revisited, Ear and Hearing (1983); Musiek ve Pinheiro, Frequency patterns in cochlear, brainstem, and cerebral lesions, Audiology (1987).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "APD",
+   "işitselişlemleme"
+  ],
+  "etiketler": [
+   "APD test bataryası",
+   "işitsel işlemleme bozukluğu",
+   "dikotik dinleme",
+   "dichotic listening",
+   "dikotik sayılar testi",
+   "frekans örüntü testi",
+   "frequency pattern test",
+   "süre örüntü testi",
+   "düşük fazlalıklı konuşma",
+   "filtrelenmiş konuşma",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 252",
+   "baslik": "APD *test bataryası*",
+   "alt": "Dikotik, zamansal ve düşük fazlalıklı testler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel işlemleme bozukluğu, kısaca APD değerlendirmesinde kullanılan test bataryasını öğreneceğiz.",
+    "Dikotik dinleme testlerini, zamansal örüntü testlerini ve düşük fazlalıklı konuşma testlerini sırayla ele alacağız."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Batarya mantığı",
+   "baslik": "Neden *batarya?*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Periferik test",
+     "cumle": 0,
+     "metin": "Önce tam işitme değerlendirmesi"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Ön koşullar",
+     "cumle": 1,
+     "metin": "Yaş, dikkat, dil"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Test seçimi",
+     "cumle": 2,
+     "metin": "Farklı süreçler"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Yorum",
+     "cumle": 4,
+     "metin": "Yaşa göre normlar"
+    }
+   ],
+   "cumleler": [
+    "Merkezi testlerden önce saf ses, konuşma ve immitans testleriyle periferik işitme mutlaka değerlendirilir.",
+    "Çocuğun yaşı, dikkati, dil düzeyi ve bilişsel durumu da sonuçları etkileyeceği için baştan not edilir.",
+    "Tek bir test bütün işitsel süreçleri ölçemez; bu yüzden farklı süreçlere duyarlı birkaç test birlikte seçilir.",
+    "Bataryanın gereğinden uzun olmaması da önemlidir; yorgunluk ve dikkat kaybı sonuçları bozar.",
+    "Sonuçlar, kişinin yaşına ve kullanılan test sürümüne göre çıkarılmış normlarla karşılaştırılır.",
+    "Amerikan Odyoloji Akademisinin 2010 kılavuzunda sık atıf yapılan bir ölçüt vardır.",
+    "Buna göre en az iki farklı testte, en az bir kulakta normun iki standart sapma ya da daha fazla altında kalmak tanıyı destekler."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Batarya mantığı",
+   "baslik": "Test *koşulları*",
+   "maddeler": [
+    {
+     "metin": "Kalibre edilmiş _kayıtlı_ uyaran",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Rahat duyulan düzey",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Önce örnek maddeler",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Kulak ve yanıt ayrı kaydedilir",
+     "cumle": 4,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Davranış gözlemi notu",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Merkezi testler canlı sesle değil, kalibre edilmiş kayıtlı uyaranlarla yapılır; böylece her uygulama aynı olur.",
+    "Uyaranlar genellikle kulaklıkla ve kişinin rahat duyduğu, eşiğin belirgin biçimde üzerindeki bir düzeyde verilir.",
+    "Uygulanan düzey test sürümünün yönergesinde tanımlanır ve normlar bu düzeye göre çıkarılmıştır.",
+    "Her testten önce birkaç örnek maddeyle görevin anlaşıldığı kontrol edilir.",
+    "Yanıtlar kulak kulak ve madde madde kaydedilir; yalnız toplam skor değil, kulaklar arası fark da hesaplanır.",
+    "Test sırasındaki dikkat, yorgunluk ve motivasyon gözlemleri de rapora not edilir."
+   ]
+  },
+  {
+   "id": "kategoriler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Batarya mantığı",
+   "baslik": "Test *kategorileri*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dikotik",
+     "cumle": 1,
+     "metin": "İki kulağa farklı uyaran"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Zamansal",
+     "cumle": 2,
+     "metin": "Örüntü ve boşluk"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Düşük fazlalıklı",
+     "cumle": 3,
+     "metin": "Bozulmuş konuşma"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Binaural etkileşim",
+     "cumle": 4,
+     "metin": "İki kulağın birlikte çalışması"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ayırt etme",
+     "cumle": 5,
+     "metin": "Benzer sesleri ayırma"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Elektrofizyolojik",
+     "cumle": 6,
+     "metin": "Yollardaki yanıtlar"
+    }
+   ],
+   "cumleler": [
+    "Amerikan Konuşma, Dil ve İşitme Derneği, yani ASHA'nın 2005 raporu, merkezi testleri ölçtükleri sürece göre kategorilere ayırır.",
+    "Dikotik testler, iki kulağa aynı anda farklı uyaran verilerek yapılır.",
+    "Zamansal testler, seslerin sırasını ya da kısa boşlukları algılamayı ölçer.",
+    "Düşük fazlalıklı konuşma testleri, tek kulağa bozulmuş bir konuşma verir.",
+    "Binaural etkileşim testleri iki kulaktan gelen bilginin beyin sapında birleştirilmesini değerlendirir; bunları ayrı bir derste göreceğiz.",
+    "Ayırt etme testleri, frekans, şiddet ya da süre bakımından birbirine çok yakın sesleri ayırma becerisini ölçer.",
+    "Elektrofizyolojik ölçümler ise davranışsal yanıt gerektirmeden yollardaki sinirsel yanıtları gösterir."
+   ]
+  },
+  {
+   "id": "dikotik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dikotik testler",
+   "baslik": "Bütünleştirme ve *ayırma*",
+   "cizim": "beyin_ustten",
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "yedi",
+     "dört"
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "sag_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "capraz_yol_sag",
+     "cumle": 1
+    },
+    {
+     "parca": "capraz_yol_sol",
+     "cumle": 1
+    },
+    {
+     "parca": "kallozal_yol",
+     "cumle": 4
+    },
+    {
+     "parca": "corpus_callosum",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sag_kulak",
+     "metin": "Sağ kulağa bir sayı",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_kulak",
+     "metin": "Sol kulağa başka sayı",
+     "cumle": 0
+    },
+    {
+     "parca": "corpus_callosum",
+     "metin": "Corpus callosum",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bütünleştirme: _ikisini_ de tekrarla",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Ayırma: _tek kulağa_ dikkat",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Yarıküreler arası aktarıma duyarlı",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Dikotik testler, iki kulağa aynı anda farklı sözcük, sayı ya da cümle verilmesine dayanır.",
+    "İki kulaktan gelen bilgi yarışırken çapraz yollar baskın hale gelir; bunu işitsel korteks dersinde görmüştük.",
+    "Binaural bütünleştirme (binaural integration) görevinde kişi iki kulaktan duyduklarının hepsini tekrarlar.",
+    "Binaural ayırma (binaural separation) görevinde ise yalnız bir kulağa dikkat eder, diğerini görmezden gelir.",
+    "Sol kulağa verilen sözel bilgi, dil için baskın sol yarıküreye ulaşmak için corpus callosumdan geçmek zorundadır.",
+    "Bu yüzden dikotik testler hem yarıkürelerin işlevine hem de iki yarıküre arasındaki aktarıma duyarlıdır."
+   ]
+  },
+  {
+   "id": "dikotik_testler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dikotik testler",
+   "baslik": "Sık kullanılan *dikotik testler*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Dikotik sayılar",
+     "cumle": 0,
+     "metin": "Her kulağa iki sayı"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Dikotik heceler",
+     "cumle": 2,
+     "metin": "Ünsüz ünlü heceleri"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Yarışan cümleler",
+     "cumle": 3,
+     "metin": "Tek kulağı tekrarla"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "SSW",
+     "cumle": 4,
+     "metin": "Kaydırılmış spondi sözcükler"
+    }
+   ],
+   "cumleler": [
+    "Dikotik sayılar testinde her kulağa aynı anda iki sayı verilir ve kişi duyduğu dört sayıyı söyler.",
+    {
+     "yazi": "Musiek 1983 yılında bu testin kısa sürede uygulanabildiğini ve merkezi lezyonlara duyarlı olduğunu gösterdi."
+    },
+    "Dikotik hece testlerinde iki kulağa aynı anda farklı ünsüz ünlü heceleri, örneğin ba ve ga verilir.",
+    "Yarışan cümleler testinde iki kulağa farklı cümleler gelir ve kişiden yalnız bir kulaktaki cümleyi tekrarlaması istenir.",
+    {
+     "yazi": "Kaydırılmış spondi sözcük testi, kısaca SSW, Katz tarafından geliştirildi ve sözcükleri kısmen üst üste bindirir."
+    },
+    "Dile dayalı testlerin, kullanılan dilde hazırlanmış ve normları çıkarılmış sürümleri gerekir.",
+    "Sayılar dilin en az yük getiren öğeleri olduğu için dikotik sayılar testi farklı dillere görece kolay uyarlanır."
+   ]
+  },
+  {
+   "id": "kulak_farki",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dikotik testler",
+   "baslik": "Örnek: *kulak* farkı",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 2.6,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Sağ kulak",
+      "2": "Sol kulak"
+     },
+     "ad": "Örnek çocuk"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Doğru yüzdesi"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        92
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "yüzde 92",
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        58
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "yüzde 58",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "norm",
+      "x": 0.5,
+      "y": 75,
+      "cizgi": "yatay",
+      "etiket": "örnek norm sınırı",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Değerler _örnektir_, norm teste göre",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sol kulak düşük: _aktarım_ sorusu",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "İki kulak düşük: dikkat ve dil",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, on yaşında bir çocukta dikotik sayılar testinin örnek sonuçlarını gösteriyor.",
+    "Sağ kulak skoru yaş normunun içinde, sol kulak skoru ise belirgin biçimde düşük.",
+    "Sağ kulak üstünlüğü normalde de vardır, ama bu örnekteki fark yaş normunun beklediğinden büyüktür.",
+    "Sol kulakta düşük skor, yarıküreler arası aktarımda ya da sağ yarıkürede verimsizliği düşündürebilir.",
+    "Sol yarıküreyi etkileyen bir lezyonda ise çoğu zaman sağ kulak skoru düşer.",
+    "İki kulakta birlikte düşük skor da görülebilir; bu tablo dikkat ve dil etkenlerinin de sorgulanmasını gerektirir."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Zamansal örüntü",
+   "baslik": "Frekans ve *süre* örüntüsü",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 4,
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "1. ton",
+      "2": "2. ton",
+      "3": "3. ton"
+     },
+     "ad": "Zaman"
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "kalın",
+      "2": "ince"
+     },
+     "ad": "Perde"
+    },
+    "seriler": [
+     {
+      "ad": "dizi",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        2
+       ],
+       [
+        2,
+        1
+       ],
+       [
+        3,
+        2
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "ince, kalın, ince",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Frekans örüntüsü: _ince_ ve _kalın_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Süre örüntüsü: _uzun_ ve _kısa_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Her kulak ayrı test edilir",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Zamansal örüntü testleri, art arda gelen seslerin sırasını tanımayı ölçer.",
+    "Frekans örüntü testinde biri ince, biri kalın iki ton kullanılır ve üçlü diziler oluşturulur.",
+    "Bu örnekte dizi ince, kalın, ince; kişi bunu sözcüklerle söyler.",
+    "Süre örüntü testinde ise tonların frekansı aynıdır, ama uzun ve kısa sürelerle sıralanır.",
+    "Testler genellikle her kulağa ayrı ayrı ve kişinin rahat duyduğu bir düzeyde uygulanır.",
+    {
+     "yazi": "Frekans örüntü testi 1987 yılında Musiek ve Pinheiro tarafından tanımlandı ve korteks lezyonlarına duyarlı bulundu."
+    }
+   ]
+  },
+  {
+   "id": "oruntu_yorum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Zamansal örüntü",
+   "baslik": "Örüntü testlerini *yorumlamak*",
+   "maddeler": [
+    {
+     "metin": "Adlandırma: _iki yarıküre_ birlikte",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Tek taraflı korteks lezyonu: _iki kulak_ düşer",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Mırıldanarak taklit: ek bilgi",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Beyin sapı lezyonlarında görece korunur",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Periferik kayıptan az etkilenir",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kallozal"
+    },
+    "vurgula": [
+     {
+      "parca": "sag_yarikure",
+      "cumle": 0
+     },
+     {
+      "parca": "corpus_callosum",
+      "cumle": 0
+     },
+     {
+      "parca": "sol_yarikure",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Örüntüyü sözcüklerle adlandırmak için sağ yarıkürenin örüntüyü algılaması ve bilginin dil için sol yarıküreye aktarılması gerekir.",
+    "Bu yüzden tek bir yarıkürenin korteks lezyonunda bile sonuçlar çoğu zaman iki kulakta birden düşer.",
+    "Bu bulgu, kulak farkı bekleyen dikotik testlerden önemli bir ayrımdır.",
+    "Kişi örüntüyü adlandıramayıp mırıldanarak doğru taklit edebiliyorsa, sorun daha çok yarıküreler arası aktarımı düşündürür.",
+    "Beyin sapı lezyonlarında örüntü testlerinde performans genellikle görece iyi korunur.",
+    "Uyaranlar rahat duyulduğu sürece hafif bir periferik kayıp bu testleri çok az etkiler; bu da yorumda bir avantajdır."
+   ]
+  },
+  {
+   "id": "fazlalik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Düşük fazlalıklı konuşma",
+   "baslik": "Fazlalık *ne demek?*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Dışsal fazlalık",
+     "cumle": 0,
+     "metin": "Konuşmadaki fazla ipuçları"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "İçsel fazlalık",
+     "cumle": 2,
+     "metin": "Yolların çok sayıda bağlantısı"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "İkisi azalınca",
+     "cumle": 4,
+     "metin": "Güçlük ortaya çıkar"
+    }
+   ],
+   "cumleler": [
+    "Konuşma sinyali, anlamak için gereğinden çok bilgi taşır; buna dışsal fazlalık (extrinsic redundancy) denir.",
+    "Bu yüzden sinyalin bir bölümü kaybolsa bile normal işiten kişi konuşmayı büyük ölçüde anlar.",
+    "İşitme yolları da çok sayıda paralel ve çapraz bağlantı içerir; buna içsel fazlalık (intrinsic redundancy) denir.",
+    "Hafif bir merkezi sorun, sinyal zengin olduğunda bu içsel fazlalık sayesinde gizli kalabilir.",
+    "Düşük fazlalıklı konuşma testleri sinyalin dışsal fazlalığını bilerek azaltır ve gizli kalan sorunu ortaya çıkarmaya çalışır."
+   ]
+  },
+  {
+   "id": "dusuk_testler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Düşük fazlalıklı konuşma",
+   "baslik": "Bozulmuş *konuşma* testleri",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Filtrelenmiş",
+     "cumle": 0,
+     "metin": "Tiz bileşenler süzülür"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Sıkıştırılmış",
+     "cumle": 3,
+     "metin": "Konuşma hızlandırılır"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüde",
+     "cumle": 5,
+     "metin": "Konuşma gürültüyle verilir"
+    }
+   ],
+   "cumleler": [
+    "Filtrelenmiş konuşma testinde sözcükler, tiz frekansları süzen bir alçak geçiren filtreden geçirilir.",
+    {
+     "yazi": "Bocca ve arkadaşları 1954 yılında, temporal lob tümörü olan kişilerde bu tür konuşmanın karşı kulakta zor anlaşıldığını gösterdi."
+    },
+    "Bu çalışma, merkezi işitsel testlerin başlangıcı olarak kabul edilir.",
+    "Sıkıştırılmış konuşma testinde konuşma, perdesi değiştirilmeden zaman bakımından kısaltılır, yani hızlandırılır.",
+    "Örneğin yüzde kırk beş ya da yüzde altmış beş sıkıştırma oranları kullanılır; bazı sürümlere yankı da eklenir.",
+    "Gürültüde konuşma testleri ise sözcük ya da cümleleri aynı kulağa verilen bir gürültüyle birlikte sunar.",
+    "Bu testler periferik kayıptan da etkilendiği için sonuç mutlaka saf ses eşikleriyle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "filtre",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Düşük fazlalıklı konuşma",
+   "baslik": "Alçak geçiren *filtre*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -40,
+     "max": 5,
+     "adim": 10,
+     "ad": "Geçen düzey (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "filtre",
+      "noktalar": [
+       [
+        250,
+        0
+       ],
+       [
+        700,
+        0
+       ],
+       [
+        1000,
+        -3
+       ],
+       [
+        1400,
+        -12
+       ],
+       [
+        2000,
+        -25
+       ],
+       [
+        2800,
+        -38
+       ],
+       [
+        8000,
+        -40
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "alçak geçiren filtre",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "suzulen",
+      "x": [
+       1000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "süzülen tiz bölge",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesim",
+      "x": 1000,
+      "y": -3,
+      "dus": "x",
+      "etiket": "kesim frekansı",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tiz ipuçları _azalır_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sağlam yollar eksiği _tamamlar_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, filtrelenmiş konuşma testinde kullanılan alçak geçiren bir filtreyi örnek olarak gösteriyor.",
+    "Belirli bir kesim frekansının altındaki bileşenler geçer, üstündekiler hızla zayıflatılır.",
+    "Kesim frekansı test sürümüne göre değişir; çoğu zaman bin hertz ya da daha düşük bir değer kullanılır.",
+    "Ünsüzlerin ayırt edici tiz ipuçları azaldığı için sözcük boğuk ve belirsiz duyulur.",
+    "Merkezi işitme yolları sağlamsa beyin eksik bilgiyi tamamlar; sorun varsa skorlar düşer."
+   ]
+  },
+  {
+   "id": "elektro",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sonuçları yorumlamak",
+   "baslik": "Elektrofizyolojik *destek*",
+   "cizim": "isitme_yolu",
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "mgb",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "ABR: beyin sapı",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "metin": "Orta latans: talamus, korteks",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "P300: korteks",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Davranışsal testler dikkat ve dilden etkilendiği için elektrofizyolojik ölçümler bataryaya nesnel bir katkı sağlayabilir.",
+    "İşitsel beyin sapı yanıtı, yani ABR, beyin sapına kadar olan yolun bütünlüğünü gösterir.",
+    "Orta latans yanıtı, talamus ve işitsel korteks düzeyindeki etkinliği yansıtır; elektrot yerleşimiyle iki yarıküre karşılaştırılabilir.",
+    "P300 gibi geç yanıtlar ise dikkat ve uyaranı ayırt etme gibi daha üst düzey süreçlerle ilişkilidir.",
+    "Bu ölçümlerin APD tanısındaki yeri tartışmalıdır; tek başlarına tanı koydurmazlar.",
+    "En çok, davranışsal sonuçlar belirsiz kaldığında ya da nörolojik bir neden düşünüldüğünde değerlidirler."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sonuçları yorumlamak",
+   "baslik": "Bataryayı *bütün* olarak okumak",
+   "maddeler": [
+    {
+     "metin": "Tek düşük sonuçla _tanı_ konmaz",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Hangi test, hangi kulak: _profil_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Dil ve dikkat etkisini ayır",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Elektrofizyoloji _destekler_",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Türkçe normlar kontrol edilmeli",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 4,
+    "vurgula": [
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 4
+     },
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Tek bir testte düşük sonuç tanı için yeterli değildir; tekrar, yorgunluk ya da dikkat dağınıklığı tek bir sonucu kolayca bozabilir.",
+    "Hangi testlerin ve hangi kulağın etkilendiğine bakmak, bir profil çıkarmaya yardım eder.",
+    "Örneğin dikotik ve örüntü testlerinin birlikte düşmesi, yarıküreler arası aktarım sorusunu güçlendirir.",
+    "Dile dayalı testlerde düşük, dil yükü az testlerde normal sonuç, dil ve dikkat etkenlerini düşündürür.",
+    "Elektrofizyolojik bulgular, davranışsal profille uyumlu olup olmadıklarına göre değerlendirilir.",
+    "Her testin Türkçe sürümü ve yaşa göre norm durumu, kullanmadan önce ayrıca kontrol edilmelidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Her testten önce örnek maddelerle görevi öğretin. Dikotik testte yanıt biçimini, örüntü testinde ince ve kalın sözcüklerini doğru kullandığından emin olun.",
+   "cumleler": [
+    "Sahadan bir ipucu: her testten önce örnek maddelerle görevin anlaşıldığını mutlaka kontrol edin.",
+    "Örüntü testinde çocuğun ince ve kalın sözcüklerini gerçekten perde için kullandığından emin olun; bazı çocuklar bunları şiddetle karıştırır.",
+    "Dikotik testte yönergeyi, iki kulağı birden mi yoksa tek kulağı mı tekrarlayacağını açıkça belirterek verin.",
+    "Bataryayı dikkatin en iyi olduğu saatlerde ve gerekirse iki oturumda tamamlamak sonuçların güvenilirliğini artırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Batarya: _farklı süreçler_, yaşa göre normlar",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Dikotik: bütünleştirme ve ayırma",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Örüntü testleri: _iki yarıküre_ birlikte",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Düşük fazlalıklı: filtrelenmiş, sıkıştırılmış",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "APD değerlendirmesi, periferik testlerden sonra farklı süreçleri ölçen birkaç testten oluşan bir bataryayla yapılır.",
+    "Dikotik testler iki kulağa aynı anda farklı uyaran verir; bütünleştirme ve ayırma görevleri olarak uygulanır.",
+    "Frekans ve süre örüntü testleri, iki yarıkürenin ve aralarındaki aktarımın birlikte çalışmasını gerektirir.",
+    "Filtrelenmiş, sıkıştırılmış ve gürültüdeki konuşma, sinyalin fazlalığını azaltarak gizli bir merkezi sorunu ortaya çıkarmayı amaçlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Tek taraflı korteks lezyonunda frekans örüntü testinde genellikle ne görülür?",
+   "secenekler": [
+    "Yalnız karşı kulakta düşüş",
+    "İki kulakta da düşüş",
+    "Yalnız aynı kulakta düşüş",
+    "Değişiklik olmaz"
+   ],
+   "dogru": 1,
+   "aciklama": "Adlandırma iki yarıküreyi ve _aktarımı_ gerektirir; bu yüzden iki kulak birlikte etkilenir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: tek taraflı bir korteks lezyonunda frekans örüntü testinde genellikle ne görülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: iki kulakta da düşüş.",
+    "Örüntüyü adlandırmak iki yarıkürenin ve aralarındaki aktarımın birlikte çalışmasını gerektirir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Zamansal işlemleme testleri: *GIN* ve RGDT",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste zamansal çözünürlüğü ölçen iki testi, gürültüde boşluklar testini ve rastgele boşluk saptama testini ayrıntılı göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

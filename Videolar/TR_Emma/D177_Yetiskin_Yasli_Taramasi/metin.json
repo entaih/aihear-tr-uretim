@@ -1,0 +1,855 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D177_Yetiskin_Yasli_Taramasi_TR",
+ "kapak": {
+  "ust": "DERS 177",
+  "baslik": "Yetişkinde<br>*işitme taraması*",
+  "alt": "HHIE-S ve gürültüde rakam testi",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 24,
+    "ad": "Rakam üçlüsü sırası",
+    "isaretler": [
+     1,
+     5,
+     10,
+     15,
+     20,
+     23
+    ]
+   },
+   "y": {
+    "min": -14,
+    "max": 2,
+    "adim": 2,
+    "ad": "SNR (dB)"
+   },
+   "seriler": [
+    {
+     "ad": "iz",
+     "noktalar": [
+      [
+       1,
+       0
+      ],
+      [
+       2,
+       -2
+      ],
+      [
+       3,
+       -4
+      ],
+      [
+       4,
+       -6
+      ],
+      [
+       5,
+       -8
+      ],
+      [
+       6,
+       -10
+      ],
+      [
+       7,
+       -8
+      ],
+      [
+       8,
+       -10
+      ],
+      [
+       9,
+       -12
+      ],
+      [
+       10,
+       -10
+      ],
+      [
+       11,
+       -8
+      ],
+      [
+       12,
+       -10
+      ],
+      [
+       13,
+       -12
+      ],
+      [
+       14,
+       -10
+      ],
+      [
+       15,
+       -12
+      ],
+      [
+       16,
+       -10
+      ],
+      [
+       17,
+       -8
+      ],
+      [
+       18,
+       -10
+      ],
+      [
+       19,
+       -12
+      ],
+      [
+       20,
+       -10
+      ],
+      [
+       21,
+       -12
+      ],
+      [
+       22,
+       -10
+      ],
+      [
+       23,
+       -12
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "sure": 3,
+     "etiket": "uyarlamalı iz",
+     "cumle": 1
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "dalgalanma",
+     "y": [
+      -12,
+      -8
+     ],
+     "renk": "sari",
+     "etiket": "dalgalanma bölgesi",
+     "cumle": 3
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "srt",
+     "x": 18,
+     "y": -10,
+     "cizgi": "yatay",
+     "etiket": "SRT yaklaşık -10 dB",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Yetişkin ve yaşlılarda işitme taraması | Ders 177 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Yetişkinlerde işitme nasıl taranır? Bu derste 25 dB HL tarama odyometrisini, HHIE-S anketinin puanlanmasını, gürültüde rakam testini ve uyarlamalı yöntemi, Dünya Sağlık Örgütünün hearWHO uygulamasını, fısıltı testini ve USPSTF 2021 değerlendirmesini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ASHA, Guidelines for Audiologic Screening; US Preventive Services Task Force, Screening for Hearing Loss in Older Adults (2021); Ventry ve Weinstein, Identification of elderly people with hearing problems (Asha, 1983); Smits, Kapteyn ve Houtgast, Development and validation of an automatic speech-in-noise screening test by telephone (Int J Audiol, 2004); WHO, hearWHO; Pirozzo ve ark., Whispered voice test for screening for hearing impairment (BMJ, 2003).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmetaraması",
+   "presbiakuzi"
+  ],
+  "etiketler": [
+   "yetişkin işitme taraması",
+   "HHIE-S",
+   "Hearing Handicap Inventory for the Elderly",
+   "gürültüde rakam testi",
+   "digits-in-noise",
+   "hearWHO",
+   "tarama odyometrisi",
+   "fısıltı testi",
+   "USPSTF",
+   "yaşa bağlı işitme kaybı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 177",
+   "baslik": "Yetişkin ve yaşlıda *tarama*",
+   "alt": "Odyometri, HHIE-S ve gürültüde rakam testi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste tarama programları bölümünü yetişkin ve yaşlılarda işitme taramasıyla tamamlıyoruz.",
+    "Tarama odyometrisini, yaşlılar için işitme engeli envanterinin tarama formunu, gürültüde rakam testini ve hearWHO uygulamasını göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden ve kim?",
+   "baslik": "Yetişkinde tarama *neden* zor?",
+   "ogeler": [
+    {
+     "ikon": "yasli",
+     "baslik": "Sık ama sinsi",
+     "metin": "Yavaş başlar, geç fark edilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Kanıt tartışması",
+     "metin": "USPSTF 2021: kanıt yetersiz",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "DSÖ yaklaşımı",
+     "metin": "Yaşlı bakımında işitme",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Dünya Sağlık Örgütüne göre, altmış yaş üstündekilerin dörtte birinden fazlasında engelleyici bir işitme kaybı vardır.",
+    "Kayıp yavaş ilerlediği için kişi çoğu zaman uzun süre fark etmez ya da kabullenmez; yardım arayışı yıllarca gecikebilir.",
+    "Tarama, yakınması olmayan kişilerde kaybı erkenden bulup değerlendirmeye yönlendirmeyi amaçlar.",
+    "ABD Önleyici Hizmetler Görev Gücü, kısaca USPSTF, 2021'de bu konuda bir bildirim yayımladı.",
+    "Bildirime göre elli yaş ve üzeri belirtisiz yetişkinlerde taramanın yarar ve zararını değerlendirmek için kanıt yetersizdir.",
+    "Bu, taramanın yararsız olduğu anlamına gelmez; Amerikan Konuşma Dil İşitme Derneği, kısaca ASHA ise taramanın önerilmesini savundu.",
+    "Dünya Sağlık Örgütü de yaşlılar için entegre bakım yaklaşımında işitmeyi düzenli olarak sorgulanması gereken temel işlevler arasında sayar."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tarama odyometrisi",
+   "baslik": "Tarama düzeyi: *25 dB HL*",
+   "lejant": [
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "25 dB HL tarama sınırı",
+     "cumle": 1
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: 4000 Hz'de kalır",
+     "cumle": 3
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: geçer",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       20,
+       40,
+       50
+      ],
+      "cumle": 3
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       20,
+       25,
+       40
+      ],
+      "cumle": 4
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Tarama",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Yetişkin taramasının en yaygın yöntemi tarama odyometrisidir: eşik aranmaz, yalnız belirli bir düzeyde tonun duyulup duyulmadığına bakılır.",
+    "ASHA'nın yetişkin tarama kılavuzunda her kulakta bin, iki bin ve dört bin hertzde yirmi beş desibel HL kullanılır.",
+    "Bu üç frekansın herhangi birinde, herhangi bir kulakta tona yanıt alınamazsa kişi taramadan kalır.",
+    "Örnekte sağ kulak bin ve iki bin hertzde tonu duyar, ama dört bin hertzde kırk desibelle sınırın dışında kalır.",
+    "Sol kulak ise test edilen üç frekansın hepsinde sınırın içindedir.",
+    "Yaşlılarda dört bin hertzde kalma çok sıktır.",
+    "Kılavuz, herkes için tek ve anlaşılır bir ölçüt uğruna daha yüksek bir yönlendirme oranını kabul eder."
+   ]
+  },
+  {
+   "id": "pratik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tarama odyometrisi",
+   "baslik": "Tarama odyometrisinde *pratik*",
+   "maddeler": [
+    {
+     "metin": "Önce otoskopi ve kısa öykü",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "En sessiz oda, biyolojik kontrol",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Kalan kişi: tanısal değerlendirme",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Yakınma varsa geçse de değerlendir",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Taramadan önce kısa bir öykü alınır ve kulak yolu otoskopla kontrol edilir; tıkayıcı kulak kiri sonucu bozabilir.",
+    "Tarama, kalibrasyonu güncel bir cihazla ve mümkün olan en sessiz odada yapılır; gün biyolojik kontrolle başlar.",
+    "Ortam gürültüsü yüksekse insert kulaklık ya da gürültü azaltıcı kulaklık yanlış kalma oranını azaltır.",
+    "Taramadan kalan kişi tanı almış sayılmaz; tam odyolojik değerlendirmeye yönlendirilir.",
+    "Taramadan geçse bile işitme yakınması olan, tek taraflı belirti, çınlama ya da baş dönmesi tarif eden kişi de değerlendirilmelidir.",
+    "Tarama sonucu ve yönlendirme önerisi kişiye yazılı olarak verilir; böylece takip kaybı azalır."
+   ]
+  },
+  {
+   "id": "hhie_yapi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "HHIE-S anketi",
+   "baslik": "*HHIE-S*: kısa anket",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "On soru",
+     "metin": "Beşi duygusal, beşi sosyal",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Üç yanıt",
+     "metin": "Evet 4, bazen 2, hayır 0",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Toplam puan",
+     "metin": "0 ile 40",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Odyometri işitmenin düzeyini ölçer; ama kaybın kişinin yaşamına etkisini göstermez.",
+    "Bu amaçla en sık kullanılan araç, yaşlılar için işitme engeli envanterinin tarama formu, kısaca HHIE-S'dir.",
+    "Form on sorudan oluşur.",
+    "Soruların beşi duygusal etkiyi, örneğin utanma ve sinirlilik duygusunu, beşi sosyal ve durumsal etkiyi sorar.",
+    "Her soruya evet, bazen ya da hayır yanıtı verilir; evet dört, bazen iki, hayır sıfır puan alır.",
+    "Puanlar toplanır; toplam sıfır ile kırk arasında değişir ve puan arttıkça algılanan engel artar.",
+    "Form, Ventry ve Weinstein'ın yirmi beş soruluk asıl envanterinden 1983'te kısaltılmıştır."
+   ]
+  },
+  {
+   "id": "hhie_puan",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "HHIE-S anketi",
+   "baslik": "HHIE-S *puanı*",
+   "sutunlar": [
+    "Toplam puan",
+    "Yaygın yorum"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0 ile 8",
+      "Belirgin engel yok"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "10 ile 24",
+      "Hafif ile orta engel"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "26 ile 40",
+      "Belirgin engel"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "8'in üstü",
+      "İleri değerlendirme önerilir"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Puanlar dörder ya da ikişer arttığı için toplam her zaman çift sayıdır.",
+    "Sık kullanılan bir sınıflamada sıfır ile sekiz puan arası belirgin bir işitme engeli olmadığını gösterir.",
+    "On ile yirmi dört puan hafif ile orta derecede, yirmi altı ile kırk puan belirgin bir engeli düşündürür.",
+    "ASHA'nın yetişkin tarama kılavuzunda da anketin, odyometriyle birlikte kullanılması önerilir.",
+    "Pek çok tarama programında sekizin üzerindeki puan, ileri değerlendirme için yönlendirme ölçütü olarak kullanılır.",
+    "Anketin Türkçe kullanımında geçerlik ve güvenirliği gösterilmiş bir çeviri tercih edilmelidir."
+   ]
+  },
+  {
+   "id": "birlikte",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "HHIE-S anketi",
+   "baslik": "Neden *ikisi* birlikte?",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Odyometri",
+     "metin": "Kaybın düzeyi",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Anket",
+     "metin": "Yaşama etkisi",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Birlikte",
+     "metin": "Doğru kişiyi doğru zamanda",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Tarama odyometrisi, işitme eşiğinin belirli bir düzeyin altında olup olmadığını nesnel olarak gösterir.",
+    "Anket ise kişinin bu kaybı günlük yaşamında nasıl yaşadığını gösterir.",
+    "Aynı düzeyde kaybı olan iki kişiden biri hiç sorun yaşamadığını söylerken, diğeri belirgin zorlanma tarif edebilir.",
+    "İkisinin birlikte kullanılması hem gizli kayıpları yakalar hem de yardım almaya hazır kişileri belirlemeye yardım eder.",
+    "Yüksek anket puanı, kişinin rehabilitasyona motivasyonu hakkında da ipucu verir."
+   ]
+  },
+  {
+   "id": "din",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültüde rakam testi",
+   "baslik": "Gürültüde *rakam* testi",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Rakam üçlüleri",
+     "metin": "Örneğin 2, 5, 1",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü",
+     "metin": "Konuşma biçimli",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Uyarlamalı SNR",
+     "metin": "Doğruysa zorlaşır",
+     "cumle": 2
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Uzaktan",
+     "metin": "Telefon ya da uygulama",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Sonuç: SRT",
+     "metin": "dB SNR",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Gürültüde rakam testinde (digits-in-noise test), kişi gürültü içinde üçer rakamdan oluşan diziler dinler ve duyduğu rakamları tuşlar.",
+    "Gürültü, konuşmanın uzun süreli spektrumuna benzeyen ve rakamları maskeleyen bir gürültüdür.",
+    "Üçlü doğru girilirse bir sonraki üçlüde sinyal-gürültü oranı düşürülür, yanlış girilirse yükseltilir; buna uyarlamalı yöntem denir.",
+    "Test, 2004'te Hollanda'da Smits ve arkadaşlarının geliştirdiği telefonla yapılan bir tarama testine dayanır ve yaklaşık üç dakika sürer.",
+    "Rakamlar az sayıda tanıdık sözcük olduğu için dil düzeyinden az etkilenir; test telefonla ya da uygulamayla yapılabilir.",
+    "Sonuç, üçlülerin yarısının doğru anlaşıldığı sinyal-gürültü oranıdır; buna konuşmayı alma eşiği denir ve desibel SNR olarak verilir."
+   ]
+  },
+  {
+   "id": "din_iz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültüde rakam testi",
+   "baslik": "Uyarlamalı iz: *örnek*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "ad": "Rakam üçlüsü sırası",
+     "isaretler": [
+      1,
+      5,
+      10,
+      15,
+      20,
+      23
+     ]
+    },
+    "y": {
+     "min": -14,
+     "max": 2,
+     "adim": 2,
+     "ad": "SNR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "iz",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        -2
+       ],
+       [
+        3,
+        -4
+       ],
+       [
+        4,
+        -6
+       ],
+       [
+        5,
+        -8
+       ],
+       [
+        6,
+        -10
+       ],
+       [
+        7,
+        -8
+       ],
+       [
+        8,
+        -10
+       ],
+       [
+        9,
+        -12
+       ],
+       [
+        10,
+        -10
+       ],
+       [
+        11,
+        -8
+       ],
+       [
+        12,
+        -10
+       ],
+       [
+        13,
+        -12
+       ],
+       [
+        14,
+        -10
+       ],
+       [
+        15,
+        -12
+       ],
+       [
+        16,
+        -10
+       ],
+       [
+        17,
+        -8
+       ],
+       [
+        18,
+        -10
+       ],
+       [
+        19,
+        -12
+       ],
+       [
+        20,
+        -10
+       ],
+       [
+        21,
+        -12
+       ],
+       [
+        22,
+        -10
+       ],
+       [
+        23,
+        -12
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "sure": 3,
+      "etiket": "uyarlamalı iz",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "dalgalanma",
+      "y": [
+       -12,
+       -8
+      ],
+      "renk": "sari",
+      "etiket": "dalgalanma bölgesi",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "srt",
+      "x": 18,
+      "y": -10,
+      "cizgi": "yatay",
+      "etiket": "SRT yaklaşık -10 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Doğru: oran düşer",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yanlış: oran yükselir",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Ortalama: SRT",
+     "cumle": 4,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, gürültüde rakam testinde örnek bir uyarlamalı izi gösteriyor; değerler öğretim amaçlıdır.",
+    "Test kolay bir oranla başlar; kişi doğru yanıt verdikçe sinyal-gürültü oranı iki desibellik adımlarla düşer.",
+    "Kişi bir üçlüyü kaçırınca oran yeniden yükselir.",
+    "Bir süre sonra iz, kişinin üçlülerin yaklaşık yarısını anladığı düzeyin çevresinde aşağı yukarı dalgalanır.",
+    "Bu dalgalanmanın ortalaması konuşmayı alma eşiğini verir; bu örnekte yaklaşık eksi on desibeldir.",
+    "Eşik ne kadar düşük, yani eksi yönde ne kadar büyükse, kişinin gürültüde anlama becerisi o kadar iyidir."
+   ]
+  },
+  {
+   "id": "hearwho",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültüde rakam testi",
+   "baslik": "DSÖ'nün *hearWHO* uygulaması",
+   "ogeler": [
+    {
+     "ikon": "telefon",
+     "baslik": "Ücretsiz uygulama",
+     "metin": "Rakam üçlüleri, 23 dizi",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "50'nin altı",
+     "metin": "Uzmana başvurun",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "50 ile 75",
+     "metin": "Yılda bir yeniden test",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "75'in üstü",
+     "metin": "İyi işitme, yıllık kontrol",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Dünya Sağlık Örgütünün hearWHO uygulaması, gürültüde rakam testi teknolojisini kullanan ücretsiz bir tarama aracıdır.",
+    "Kişi kulaklıkla yirmi üç rakam üçlüsünü gürültü içinde dinler; sonuç sıfır ile yüz arasında bir puanla verilir.",
+    "Elliden düşük puan bir derece işitme kaybını düşündürür ve kişiye bir uzmana başvurması önerilir.",
+    "Elli ile yetmiş beş arası puanda yaklaşık yılda bir yeniden test ve yüksek seslerden korunma önerilir.",
+    "Yetmiş beşin üzerindeki puan iyi işitmeyi gösterir; testin yıllık ya da bir değişiklik fark edildiğinde tekrarlanması önerilir.",
+    "Uygulama on iki yaş ve üzeri kişiler için tasarlanmıştır; sonucu bir tanı değil, yönlendirme için bir işarettir."
+   ]
+  },
+  {
+   "id": "basit",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültüde rakam testi",
+   "baslik": "Daha *basit* yöntemler",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Fısıltı testi",
+     "metin": "Arkadan, tek tek kulak",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Tek soru",
+     "metin": "İşitme sorununuz var mı?",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sınırlılık",
+     "metin": "Standart dışı, değişken",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cihaz olmadığında fısıltı testi kullanılabilir.",
+    "Test eden kişinin arkasında durur, diğer kulağı kapatır ve fısıltıyla rakam ya da harfler söyler.",
+    "Bir sistematik derlemede fısıltı testinin yetişkinlerde duyarlılığı yüzde doksan ile yüz, özgüllüğü yetmiş ile seksen yedi bulundu.",
+    "Duyarlılık ve özgüllüğü araştırma dersinde ayrıntılı görmüştük; bu değerler testin taramada oldukça başarılı olabildiğini gösterir.",
+    "Kişiye doğrudan işitme sorunu olup olmadığını sormak da basit ama değerli bir ilk adımdır.",
+    "Ancak fısıltının şiddeti kişiden kişiye değiştiği için bu yöntemler standart değildir; mümkünse odyometrik tarama tercih edilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Taramadan kalan kişiye sonucun tanı olmadığını, yalnızca tam değerlendirme gerektiğini açıkça anlatın ve randevuyu birlikte planlayın.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: yetişkin taramasının en zayıf halkası, taramadan kalan kişinin tanısal değerlendirmeye gelmemesidir.",
+    "Kişiye sonucun bir tanı olmadığını, yalnızca işitmesinin ayrıntılı ölçülmesi gerektiğini sakin ve açık bir dille anlatın.",
+    "Mümkünse randevuyu tarama sırasında birlikte planlayın ve kişinin bir yakınını da sürece katın.",
+    "Anket puanı yüksek olan kişilerde kendi yakınmalarını hatırlatmak, değerlendirmeye gelme motivasyonunu artırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "1, 2, 4 kHz'de _25 dB HL_",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "HHIE-S: 10 soru, 0 ile 40 puan",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Rakam testi: gürültüde _SRT_",
+     "cumle": 2,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Kalan kişi tanısal değerlendirmeye",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Yetişkin tarama odyometrisinde her kulakta bin, iki bin ve dört bin hertzde yirmi beş desibel HL kullanılır.",
+    "HHIE-S on soruluk kısa bir ankettir; sekizin üzerindeki puan ileri değerlendirme için sık kullanılan ölçüttür.",
+    "Gürültüde rakam testi uyarlamalı yöntemle gürültüdeki konuşmayı alma eşiğini ölçer; hearWHO bu teknolojiyi kullanır.",
+    "Tarama tanı koymaz; taramadan kalan ya da yakınması olan kişi tam odyolojik değerlendirmeye yönlendirilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "HHIE-S puanı 14: ne önerilir?",
+   "secenekler": [
+    "Sonuç normaldir",
+    "İleri değerlendirme",
+    "Yalnız yıllık anket",
+    "Test geçersizdir"
+   ],
+   "dogru": 1,
+   "aciklama": "Sekizin üzerindeki puan _ileri değerlendirme_ için ölçüttür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: bir yaşlı bireyin HHIE-S puanı on dört. Sık kullanılan ölçüte göre ne önerilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: ileri değerlendirme.",
+    "On dört puan hafif ile orta derecede algılanan engeli düşündürür; kişi tam odyolojik değerlendirmeye yönlendirilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*İşitme cihazı* nasıl çalışır?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste işitme cihazları bölümüne başlıyor ve bir işitme cihazının temel bileşenlerini öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

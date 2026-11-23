@@ -1,0 +1,826 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D254_LiSN_S_ve_MLD_TR",
+ "kapak": {
+  "ust": "DERS 254",
+  "baslik": "*LiSN-S*<br>ve MLD",
+  "alt": "İki kulakla gürültüde dinlemek",
+  "cizim": "bas_ustten",
+  "ayar": {
+   "mod": "golge"
+  }
+ },
+ "youtube": {
+  "baslik": "Binaural etkileşim ve uzamsal işlemleme: LiSN-S ve MLD | Ders 254 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bazı çocuklar odyogramları normal olduğu halde yarışan konuşmalar arasında dinlemekte zorlanır. Bu derste uzamsal işlemleme bozukluğunu, uzamsal gürültüde dinleme testinin (LiSN-S) dört koşulunu ve avantaj ölçülerini, maskeleme düzey farkı (MLD) testini ve iki testin klinikte birlikte yorumlanmasını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Cameron ve Dillon, Development of the Listening in Spatialized Noise-Sentences Test (LISN-S), Ear and Hearing (2007); Cameron ve Dillon, The Listening in Spatialized Noise-Sentences Test (LISN-S): comparison to the prototype LISN and results from children with either a suspected (central) auditory processing disorder or a confirmed language disorder, Journal of the American Academy of Audiology (2008); Pillsbury, Grose ve Hall, Otitis media with effusion in children: binaural hearing before and after corrective surgery, Archives of Otolaryngology Head and Neck Surgery (1991); Hogan, Meyer ve Moore, Binaural unmasking returns to normal in teenagers who had otitis media in infancy, Audiology and Neuro-Otology (1996); Musiek ve Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "APD",
+   "binauralişitme"
+  ],
+  "etiketler": [
+   "LiSN-S",
+   "uzamsal gürültüde dinleme testi",
+   "uzamsal işlemleme bozukluğu",
+   "spatial processing disorder",
+   "maskeleme düzey farkı",
+   "masking level difference",
+   "MLD",
+   "uzamsal ayrışma",
+   "binaural işitme",
+   "işitsel işlemleme bozukluğu",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 254",
+   "baslik": "Uzamsal işlemleme: *LiSN-S* ve MLD",
+   "alt": "İki kulağın birlikte çalışmasını ölçmek",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iki kulağın birlikte çalışmasını ve sesleri uzayda ayırma becerisini ölçen testleri öğreneceğiz.",
+    "Uzamsal işlemleme bozukluğunu, uzamsal gürültüde dinleme testini ve maskeleme düzey farkı testini ele alacağız."
+   ]
+  },
+  {
+   "id": "uzamsal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Uzamsal işlemleme",
+   "baslik": "Konuşma önde, gürültü *yanda*",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "lisn",
+    "gurultu": "sag",
+    "kosul_cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "konusma",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    },
+    {
+     "parca": "bas_golgesi",
+     "cumle": 3
+    },
+    {
+     "parca": "iyi_kulak",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "konusma",
+     "metin": "Konuşma: önden",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Gürültü: yandan",
+     "cumle": 1
+    },
+    {
+     "parca": "iyi_kulak",
+     "metin": "Gürültüden uzak kulak",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Baş gölgesi: _fiziksel_ kazanç",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Binaural işlem: _merkezi_ kazanç",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Sınıfta öğretmeni _ayırmak_",
+     "cumle": 6,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "Gürültülü bir ortamda konuşanı anlamak, büyük ölçüde konuşma ile gürültünün farklı yönlerden gelmesine bağlıdır.",
+    "Gürültü yana kaydığında aynı konuşma daha düşük bir sinyal-gürültü oranında anlaşılır.",
+    "Bu kazanca uzamsal ayrışma (spatial release from masking) denir.",
+    "Bu kazancın bir bölümü baş gölgesinden, yani gürültüden uzak kulağın fiziksel avantajından gelir.",
+    "Bir bölümü de beyin sapının iki kulak arasındaki zaman ve şiddet farklarını kullanmasından gelir.",
+    "Uzamsal işlemleme, bu ipuçlarını kullanarak dinlenen sesi diğer seslerden ayırma becerisidir.",
+    "Sınıfta öğretmeni dinlerken arkadaşlarının konuşmasını bastırabilmek, bu becerinin günlük karşılığıdır."
+   ]
+  },
+  {
+   "id": "maskeleme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Uzamsal işlemleme",
+   "baslik": "İki tür *maskeleme*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Enerjetik maskeleme",
+     "cumle": 0,
+     "metin": "Gürültü sinyali örter"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Bilgisel maskeleme",
+     "cumle": 2,
+     "metin": "Başka konuşma dikkati çeker"
+    }
+   ],
+   "cumleler": [
+    "Bir sesin başka bir sesi örtmesine maskeleme denir ve günlük yaşamda iki biçimde karşımıza çıkar.",
+    "Enerjetik maskelemede gürültü, konuşmayla aynı frekans bölgesinde güç olarak onu bastırır.",
+    "Bilgisel maskelemede ise arka plandaki ses de anlamlı bir konuşmadır; sorun duyulabilirlikte değil, ayırmada ve dikkattedir.",
+    "Kalabalık bir sınıfta çocukların konuşmaları, öğretmenin sesi için tipik bir bilgisel maskeleyicidir.",
+    "Uzamsal ipuçları özellikle bilgisel maskelemeyi aşmada çok değerlidir.",
+    "Bu yüzden uzamsal işlemleme testleri arka planda gürültü yerine çoğu zaman yarışan konuşma kullanır."
+   ]
+  },
+  {
+   "id": "upb",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Uzamsal işlemleme",
+   "baslik": "Uzamsal işlemleme *bozukluğu*",
+   "maddeler": [
+    {
+     "metin": "Odyogram _normal_, gürültüde güçlük",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Uzamsal ipuçlarından _az yarar_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Cameron ve Dillon tanımladı",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Orta kulak sıvısı öyküsüyle ilişki",
+     "cumle": 4,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Hedefe özgü eğitim önerildi",
+     "cumle": 5,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        5,
+        10,
+        5,
+        10,
+        10
+       ]
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        5,
+        10,
+        5,
+        10,
+        5,
+        10
+       ]
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "Bazı çocukların odyogramı normaldir, ama özellikle birden çok kişinin konuştuğu ortamlarda dinlemekte zorlanırlar.",
+    "Bu çocukların bir bölümü, sesin geldiği yönden kaynaklanan ipuçlarından yaşıtları kadar yararlanamaz.",
+    {
+     "yazi": "Avustralyalı araştırmacılar Cameron ve Dillon bu tabloyu uzamsal işlemleme bozukluğu (spatial processing disorder) olarak tanımladı."
+    },
+    "Tanım, işitsel işlemleme bozukluğu içinde belirli bir alt grubu ve ölçülebilir bir beceriyi işaret eder.",
+    "Erken çocuklukta uzun süren ya da sık tekrarlayan orta kulak sıvısı öyküsü olan çocuklarda daha sık bildirilmiştir.",
+    "Aynı araştırma grubu, bu beceriye yönelik bilgisayar tabanlı bir işitsel eğitim programı da geliştirdi."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "LiSN-S testi",
+   "baslik": "Dört *dinleme koşulu*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Aynı ses, önden",
+     "cumle": 2,
+     "metin": "En az ipucu"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Farklı ses, önden",
+     "cumle": 3,
+     "metin": "Yalnız ses farkı"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Aynı ses, yanlardan",
+     "cumle": 4,
+     "metin": "Yalnız yön farkı"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Farklı ses, yanlardan",
+     "cumle": 5,
+     "metin": "İki ipucu birlikte"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Uzamsal gürültüde dinleme testi (LiSN-S), Cameron ve Dillon tarafından 2007 yılında yayımlandı."
+    },
+    "Çocuk tam önden geliyormuş gibi duyulan hedef cümleleri tekrarlar; arka planda iki kişi sürekli hikaye anlatır.",
+    "İlk koşulda dikkat dağıtan hikayeler hedefle aynı kişinin sesiyle ve aynı yönden, yani önden gelir.",
+    "İkinci koşulda hikayeler önden gelir, ama hedeften farklı kişilerin sesiyledir.",
+    "Üçüncü koşulda ses aynıdır, ama hikayeler sağdan ve soldan, yani doksan derece yanlardan gelir.",
+    "Dördüncü koşulda hem sesler farklıdır hem de hikayeler yanlardan gelir; bu, en kolay koşuldur.",
+    "Yönler gerçek hoparlörlerle değil, kulaklıkla verilen ve başa bağlı aktarım fonksiyonlarıyla oluşturulan sanal bir uzayla sağlanır."
+   ]
+  },
+  {
+   "id": "lisn_ornek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "LiSN-S testi",
+   "baslik": "Örnek: *uzamsal kazanç* düşük",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "isaretler": [
+      1.5,
+      3.5
+     ],
+     "yazilar": {
+      "1.5": "1. çocuk",
+      "3.5": "2. çocuk"
+     },
+     "ad": "Örnek çocuklar"
+    },
+    "y": {
+     "min": -16,
+     "max": 2,
+     "adim": 4,
+     "ad": "Örnek eşik (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "zor1",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        -1
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "aynı ses, önden",
+      "cumle": 2
+     },
+     {
+      "ad": "kolay1",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        -12
+       ]
+      ],
+      "renk": "yesil",
+      "etiket": "yön ipucu",
+      "cumle": 3
+     },
+     {
+      "ad": "zor2",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        3,
+        -1
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "aynı ses, önden",
+      "cumle": 4
+     },
+     {
+      "ad": "kolay2",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        4,
+        -4
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "yön ipucu",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Düşük eşik: _daha iyi_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yön ipucundan _az kazanç_",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Değerler _örnektir_",
+     "cumle": 2,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Her koşulda, çocuğun cümlelerin yarısını doğru tekrarlayabildiği konuşma alma eşiği uyarlamalı bir yöntemle bulunur.",
+    "Eşik desibel cinsinden bir sinyal-gürültü oranıdır; daha düşük değer daha iyi performans demektir.",
+    "Grafikte iki örnek çocuğun en zor koşuldaki ve aynı sesin yanlardan geldiği koşuldaki eşiklerini görüyoruz.",
+    "Birinci çocukta hikayeler yanlardan geldiğinde eşik belirgin biçimde iyileşiyor; bu, uzamsal avantajdır.",
+    "İkinci çocukta ise en zor koşuldaki eşik benzer, ama yön ipucu eklendiğinde iyileşme çok küçük kalıyor.",
+    "Bu çocuğun konuşmacı avantajı normalse, sesleri ayırt edebildiği ama yön farkından yeterince yararlanamadığı düşünülür.",
+    "Bu örüntü, uzamsal işlemleme bozukluğu için tipik kabul edilir."
+   ]
+  },
+  {
+   "id": "turetilmis",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "LiSN-S testi",
+   "baslik": "Türetilmiş *ölçüler*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Konuşmacı avantajı",
+     "cumle": 1,
+     "metin": "Ses farkından kazanç"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Uzamsal avantaj",
+     "cumle": 2,
+     "metin": "Yön farkından kazanç"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Toplam avantaj",
+     "cumle": 3,
+     "metin": "İki ipucu birlikte"
+    }
+   ],
+   "cumleler": [
+    "Dört koşulun eşiklerinden, karşılaştırma yoluyla avantaj ölçüleri hesaplanır.",
+    "Konuşmacı avantajı, hikayelerin farklı seslerle anlatılmasının en zor koşula göre sağladığı kazançtır.",
+    "Uzamsal avantaj, hikayelerin yanlardan gelmesinin sağladığı kazançtır ve testin temel ölçüsüdür.",
+    "Toplam avantaj ise iki ipucunun birlikte sağladığı kazancı gösterir.",
+    "Avantaj ölçüleri iki koşulun farkı olduğu için dikkat ve dil gibi genel etkenlerden görece daha az etkilenir."
+   ]
+  },
+  {
+   "id": "lisn_yorum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "LiSN-S testi",
+   "baslik": "LiSN-S sonucunu *okumak*",
+   "maddeler": [
+    {
+     "metin": "Yalnız uzamsal ölçüler düşük: _uzamsal_ örüntü",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Hepsi düşük: genel etkenleri düşün",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Yaşa göre normlar",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Dil sürümü önemli",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Eşikler normal ve simetrik olmalı",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖRÜNTÜ",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Uzamsal düşük",
+      "cumle": 0,
+      "metin": "Yön ipucu sorunu"
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Hepsi düşük",
+      "cumle": 1,
+      "metin": "Genel etkenler"
+     }
+    ]
+   },
+   "cumleler": [
+    "Yön ipucunu içeren ölçüler düşük, konuşmacı avantajı normalse örüntü uzamsal işlemleme bozukluğunu düşündürür.",
+    "Bütün ölçüler birlikte düşükse dikkat, dil, bellek ya da işitme gibi daha genel etkenler ayrıca sorgulanır.",
+    "Test başlangıçta yaklaşık 6 ile 11 yaş arasındaki çocuklar için geliştirildi ve performans yaşla birlikte iyileşir.",
+    "Bu yüzden sonuçlar mutlaka çocuğun yaşına uygun normlarla karşılaştırılır.",
+    "Test İngilizce cümlelerle hazırlandı; farklı ülkeler için uyarlanmış sürümleri vardır ve başka dillerde kullanım için uyarlama gerekir.",
+    "Asimetrik bir periferik kayıp uzamsal ipuçlarını zaten bozacağı için testten önce iki kulağın eşikleri kontrol edilir."
+   ]
+  },
+  {
+   "id": "mld",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "MLD testi",
+   "baslik": "Maskeleme düzey farkı *nasıl* ölçülür?",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Aynı fazda",
+     "cumle": 1,
+     "metin": "Ton ve gürültü iki kulakta aynı"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İlk eşik",
+     "cumle": 2,
+     "metin": "Gürültüde ton eşiği"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Faz ters",
+     "cumle": 3,
+     "metin": "Bir kulakta ton ters"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Fark",
+     "cumle": 4,
+     "metin": "İki eşiğin farkı"
+    }
+   ],
+   "cumleler": [
+    "Maskeleme düzey farkı (masking level difference), kısaca MLD, binaural işitme dersinde tanıdığımız bir testtir.",
+    "Önce dar bant gürültü ve pes bir ton, çoğu zaman 500 hertz, iki kulağa tamamen aynı fazda verilir.",
+    "Bu koşulda tonun gürültü içindeki eşiği bulunur.",
+    "Sonra gürültü aynı kalırken bir kulaktaki ton ters faza çevrilir ve eşik yeniden ölçülür.",
+    "İki eşik arasındaki fark MLD değeridir; normal işitenlerde 500 hertzde genellikle on ile on beş desibel civarındadır.",
+    "Klinik uygulamada bu ölçüm, kayıtlı tonlar ve gürültüyle kısa sürede yapılabilir."
+   ]
+  },
+  {
+   "id": "mld_ornek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "MLD testi",
+   "baslik": "Örnek *MLD* sonucu",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 2.6,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "1. kişi",
+      "2": "2. kişi"
+     },
+     "ad": "Örnek"
+    },
+    "y": {
+     "min": 0,
+     "max": 16,
+     "adim": 4,
+     "ad": "MLD (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "mld1",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        13
+       ]
+      ],
+      "renk": "yesil",
+      "etiket": "13 dB",
+      "cumle": 1
+     },
+     {
+      "ad": "mld2",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        3
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "3 dB",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "tipik",
+      "y": [
+       10,
+       15
+      ],
+      "renk": "yesil",
+      "etiket": "tipik aralık",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal: _yaklaşık 10 ile 15 dB_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Küçük MLD: _beyin sapı_ sorusu",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Önce eşikleri karşılaştır",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik iki örnek kişinin MLD sonucunu gösteriyor.",
+    "Birinci kişide ton ters faza çevrildiğinde eşik yaklaşık on üç desibel iyileşiyor; bu normal bir binaural kazançtır.",
+    "İkinci kişide aynı işlemle eşik yalnız birkaç desibel iyileşiyor.",
+    "Küçük bir MLD, iki kulaktan gelen faz bilgisinin beyin sapında yeterince karşılaştırılamadığını düşündürür.",
+    "Ancak sonuç, iki kulağın saf ses eşikleri birlikte değerlendirilmeden yorumlanmaz."
+   ]
+  },
+  {
+   "id": "mld_klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "MLD testi",
+   "baslik": "MLD *klinikte*",
+   "maddeler": [
+    {
+     "metin": "Alt beyin sapına _duyarlı_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Multipl sklerozda azalabilir",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Orta kulak sıvısı sonrası _düşük_ kalabilir",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Asimetrik kayıp da düşürür",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Korteks lezyonlarında çoğu zaman normal",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Superior oliver kompleks",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "MLD, iki kulağın bilgisinin ilk karşılaştırıldığı superior oliver kompleks düzeyindeki işlemeye duyarlıdır.",
+    "Beyin sapını etkileyen multipl skleroz gibi durumlarda MLD'nin azalabildiği bildirilmiştir.",
+    "Orta kulak sıvısı nedeniyle tüp takılan çocuklarda, işitme normale döndükten sonra da MLD'nin bir süre küçük kalabildiği gösterildi.",
+    "Ergenlik döneminde yapılan çalışmalarda ise bu farkın büyük ölçüde kapandığı bildirilmiştir.",
+    "İki kulak arasında belirgin eşik farkı olan periferik kayıplarda da MLD düşer.",
+    "Korteksle sınırlı lezyonlarda ise MLD çoğu zaman normal kalır; bu, lezyonun düzeyini düşünmeye yardım eder."
+   ]
+  },
+  {
+   "id": "iki_test",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İki testi birlikte okumak",
+   "baslik": "LiSN-S ve MLD *birlikte*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "LiSN-S",
+     "cumle": 0,
+     "metin": "Konuşma, yarışan hikayeler"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "MLD",
+     "cumle": 2,
+     "metin": "Ton, gürültü, faz farkı"
+    }
+   ],
+   "cumleler": [
+    "Uzamsal gürültüde dinleme testi, gerçek yaşama yakın bir görevle uzamsal ipuçlarını kullanma becerisinin bütününü ölçer.",
+    "Bu görev, beyin sapındaki binaural işlemin yanında dikkat ve üst düzey ayırma süreçlerini de içerir.",
+    "MLD ise ton ve gürültüyle, daha temel düzeyde beyin sapındaki binaural işlemi ölçer.",
+    "İki test birlikte kullanıldığında sorunun temel binaural düzeyde mi, yoksa üst düzey dinlemede mi olduğuna dair ipucu verebilir.",
+    "Her ikisi de bataryanın parçasıdır; tek başına tanı koydurmaz."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İki testi birlikte okumak",
+   "baslik": "Örnek: *sınıfta* zorlanan çocuk",
+   "adimlar": [
+    {
+     "ikon": "okul",
+     "baslik": "Öykü",
+     "cumle": 0,
+     "metin": "Gürültülü sınıfta güçlük"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Odyogram",
+     "cumle": 1,
+     "metin": "İki kulak normal"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "LiSN-S",
+     "cumle": 2,
+     "metin": "Uzamsal avantaj düşük"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ekip",
+     "cumle": 4,
+     "metin": "Öneriler ve izlem"
+    }
+   ],
+   "cumleler": [
+    "Örnek olarak, öğretmenin sınıfta sık sık dalgın göründüğünü bildirdiği dokuz yaşında bir çocuğu düşünelim.",
+    "Odyogram, timpanometri ve akustik refleksler iki kulakta normal bulunur.",
+    "Uzamsal gürültüde dinleme testinde konuşmacı avantajı normal, uzamsal avantaj ise yaş normunun belirgin altındadır.",
+    "Öyküde erken çocuklukta tekrarlayan orta kulak sıvısı vardır.",
+    "Bulgular ekip içinde dil ve dikkat değerlendirmeleriyle birlikte ele alınır ve ortam düzenlemeleri konuşulur.",
+    "Bu örnek, odyogramın tek başına çocuğun günlük dinleme güçlüğünü açıklayamayabileceğini gösterir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Binaural testlerden önce iki kulağın eşiklerini karşılaştırın. Asimetrik kayıp, LiSN-S ve MLD sonucunu merkezi bir sorun gibi gösterebilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: binaural testleri yorumlamadan önce iki kulağın saf ses eşiklerini mutlaka karşılaştırın.",
+    "İki kulak arasında belirgin bir fark varsa, düşük uzamsal avantaj ya da küçük MLD periferik nedenle açıklanabilir.",
+    "Testten önce timpanometri yapın; o gün var olan bir orta kulak sıvısı sonucu kolayca bozabilir.",
+    "Kulaklıkların doğru kulağa ve doğru yönde takıldığını kontrol edin; sanal uzay bu yerleşime dayanır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Uzamsal işlemleme: _yön ipuçlarıyla_ ayırma",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "LiSN-S: dört koşul, _uzamsal avantaj_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "MLD: faz farkıyla _beyin sapı_ işlemi",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Önce eşikler simetrik mi, kontrol et",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Uzamsal işlemleme, konuşmayı yarışan seslerden yön ipuçlarıyla ayırma becerisidir; bozukluğu odyogramda görünmez.",
+    "Uzamsal gürültüde dinleme testi, ses ve yön ipuçlarını değiştiren dört koşulla konuşmacı avantajını ve uzamsal avantajı ölçer.",
+    "MLD, bir kulaktaki tonun fazı ters çevrildiğinde eşiğin ne kadar iyileştiğini ölçer ve alt beyin sapına duyarlıdır.",
+    "İki test de iki kulağın eşikleri normal ya da simetrik olduğunda en güvenilir bilgiyi verir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Uzamsal işlemleme bozukluğunda LiSN-S'te tipik örüntü nedir?",
+   "secenekler": [
+    "Bütün eşikler normal",
+    "Uzamsal avantaj düşük",
+    "Yalnız konuşmacı avantajı düşük",
+    "Bütün ölçüler düşük"
+   ],
+   "dogru": 1,
+   "aciklama": "Konuşmacı avantajı normalken _uzamsal avantajın_ düşük olması tipiktir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: uzamsal işlemleme bozukluğunda uzamsal gürültüde dinleme testinin tipik örüntüsü nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: uzamsal avantaj düşük.",
+    "Çocuk konuşmacının sesini ayırt edebilir, ama hikayelerin yanlardan gelmesinden yaşıtları kadar yararlanamaz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Çocuklarda APD *taraması* ve anketler",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste çocuklarda işitsel işlemleme bozukluğunun taranmasını, tarama testlerini ve öğretmen ile aile anketlerini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

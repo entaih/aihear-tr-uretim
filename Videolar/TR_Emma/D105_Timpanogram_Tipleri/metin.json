@@ -1,0 +1,737 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D105_Timpanogram_Tipleri_TR",
+ "kapak": {
+  "ust": "DERS 105",
+  "baslik": "Timpanogram<br>*tipleri*",
+  "alt": "Jerger: A, As, Ad, B ve C",
+  "cizim": "timpanogram"
+ },
+ "youtube": {
+  "baslik": "Timpanogram Tipleri: Jerger A, As, Ad, B ve C | Ders 105 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Jerger sınıflaması, timpanogramları tepe basıncına ve tepe yüksekliğine göre A, As, Ad, B ve C tiplerine ayırır. Bu derste her tipin hangi orta kulak durumlarını düşündürdüğünü ve B tipi timpanogramda dış kulak yolu hacmine (ECV) göre efüzyon, perforasyon ve tıkanıklık ayrımının nasıl yapıldığını örneklerle inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jerger J (1970), Clinical experience with impedance audiometry, Archives of Otolaryngology; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "timpanometri",
+   "timpanogram"
+  ],
+  "etiketler": [
+   "timpanogram tipleri",
+   "Jerger sınıflaması",
+   "B tipi timpanogram",
+   "C tipi timpanogram",
+   "dış kulak yolu hacmi",
+   "ECV",
+   "timpanometri",
+   "efüzyonlu otitis media",
+   "immitansmetri",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 105",
+   "baslik": "Timpanogram *tipleri*",
+   "alt": "Jerger sınıflaması: A, As, Ad, B ve C",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste Jerger sınıflamasına göre timpanogram tiplerini ve her tipin hangi orta kulak durumlarını düşündürdüğünü öğreneceğiz.",
+    "B tipi timpanogramda dış kulak yolu hacminin neden belirleyici olduğunu da göreceğiz."
+   ]
+  },
+  {
+   "id": "jerger",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Sınıflama",
+   "baslik": "Jerger *sınıflaması*",
+   "maddeler": [
+    {
+     "metin": "_Jerger sınıflaması_ (Jerger classification)",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Beş tip: _A, As, Ad, B, C_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ölçüt 1: _tepe basıncı_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ölçüt 2: _tepe yüksekliği_",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tepesiz eğride: _kulak yolu hacmi_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Timpanogramları yorumlamak için en yaygın kullanılan sistem Jerger sınıflamasıdır (Jerger classification).",
+    "James Jerger bu sınıflamayı bin dokuz yüz yetmiş yılında yayımladı.",
+    "Sınıflamada beş temel tip vardır: A, As, Ad, B ve C.",
+    "Sınıflama önce tepenin hangi basınçta olduğuna bakar.",
+    "Sonra tepenin yüksekliğine, yani tepe statik admitansa bakar.",
+    "B tipi gibi tepesiz eğrilerde ise dış kulak yolu hacmi yorumu tamamlar.",
+    "Harfler eğrinin şeklini anlatır; tanı koymaz, olası orta kulak durumlarını düşündürür."
+   ]
+  },
+  {
+   "id": "tip_a",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tepeli eğriler",
+   "baslik": "*A tipi*: normal",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tepe sıfır civarında",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tepe yüksekliği normal",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sensörinöral kaybı dışlamaz",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "A tipi timpanogramda belirgin, tek bir tepe vardır.",
+    {
+     "yazi": "Tepe sıfır dekapaskal civarında, normal basınç aralığı içindedir.",
+     "ses": "Bu eğride tepe noktası sıfır dekapaskal civarındadır ve normal basınç aralığının içinde yer alır."
+    },
+    "Tepe yüksekliği de yaş grubunun normal aralığındadır.",
+    "Bu görünüm, orta kulak basıncının ve hareketliliğinin normal olduğunu düşündürür.",
+    "Ancak A tipi, sensörinöral işitme kaybını dışlamaz; koklear kayıplarda timpanogram genellikle A tipidir.",
+    "Hava-kemik aralığı olan bir hastada A tipi görülürse, otoskleroz gibi durumlar da akla gelmelidir."
+   ]
+  },
+  {
+   "id": "tip_as",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tepeli eğriler",
+   "baslik": "*As tipi*: sığ tepe",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "As",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Basınç normal, tepe düşük",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sertlik artışını düşündürür",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Karşılaştırma için normal A tipi eğriyi yerinde bırakalım.",
+    "As tipinde tepe yine normal basınçtadır, ancak yüksekliği normalin altındadır; s harfi shallow, yani sığ kelimesinden gelir.",
+    "Düşük admitans, orta kulak sisteminin sertleştiğini düşündürür.",
+    "Otoskleroz, timpanoskleroz ya da kalınlaşmış bir timpanik membran bu tabloya yol açabilir.",
+    "Bazen orta kulak efüzyonunun başlangıç ya da iyileşme döneminde de sığ ama tepeli bir eğri görülebilir.",
+    "As ile normal A arasındaki sınır, kullanılan norm aralığına göre belirlenir."
+   ]
+  },
+  {
+   "id": "tip_ad",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tepeli eğriler",
+   "baslik": "*Ad tipi*: derin tepe",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "Ad",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Basınç normal, tepe çok yüksek",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Aşırı hareketlilik",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Odyogramla birlikte yorumla",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Şimdi tepenin normalden çok yüksek olduğu duruma bakalım.",
+    "Ad tipinde tepe normal basınçtadır ama yüksekliği normalin belirgin üzerindedir; d harfi deep, yani derin kelimesinden gelir.",
+    "Yüksek admitans, sistemin aşırı hareketli ya da gevşek olduğunu düşündürür.",
+    "Kemikçik zinciri kopukluğu bu tabloya yol açabilir; bu durumda genellikle büyük bir hava-kemik aralığı da vardır.",
+    "İnce ya da gevşek bir timpanik membran da tek başına Ad tipi eğriye neden olabilir.",
+    "Bu durumda işitme normal olabilir; bu yüzden eğri her zaman odyogramla birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "tip_c",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tepeli eğriler",
+   "baslik": "*C tipi*: negatif basınç",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "C",
+      "cumle": 0
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tepe belirgin negatif basınçta",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Östaki borusu işlevini sorgulat",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "C tipinde de belirgin bir tepe vardır, ancak tepe negatif basınca kaymıştır.",
+    "Jerger ölçütünde tepe basıncı eksi yüz dekapaskaldan daha negatifse eğri C tipi sayılır; bazı klinikler farklı bir sınır kullanır.",
+    "Negatif tepe basıncı, orta kulaktaki havanın emildiğini ve Östaki borusunun bu havayı yenileyemediğini düşündürür.",
+    "Bu tablo Östaki borusu işlev bozukluğunda, timpanik membran retraksiyonunda ve efüzyonun başlangıç ya da iyileşme döneminde görülebilir.",
+    "Negatif basınç, özellikle pes frekanslarda hafif bir iletim kaybına eşlik edebilir.",
+    "Çocuklarda C tipi sık görülür ve zaman içinde kendiliğinden değişebilir; bu yüzden izlem önemlidir."
+   ]
+  },
+  {
+   "id": "tip_b",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "B tipi ve hacim",
+   "baslik": "*B tipi*: düz eğri",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "B",
+      "cumle": 0
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Belirgin tepe yok",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Anlamı tek değil",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "İlk adım: ECV'ye bak",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "B tipi timpanogram düzdür; basınç değişse de admitansta belirgin bir tepe oluşmaz.",
+    "Yani timpanik membran, basınç değişikliklerine karşı hareket etmiyor gibi görünür.",
+    "B tipinin anlamı tek değildir; aynı düz eğri birbirinden çok farklı durumlarda görülebilir.",
+    "Bazen eğride çok hafif bir yuvarlaklık olabilir; belirgin bir tepe yoksa eğri yine B tipi kabul edilir.",
+    "Bu yüzden B tipi gördüğümüzde ilk iş, dış kulak yolu hacmine bakmaktır."
+   ]
+  },
+  {
+   "id": "ecv",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "B tipi ve hacim",
+   "baslik": "B tipinde *hacme* göre yorum",
+   "sutunlar": [
+    "ECV",
+    "Olası durum",
+    "Otoskopide"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Yaşa göre normal",
+      "Orta kulakta sıvı",
+      "Zar arkasında sıvı"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Çok büyük",
+      "Perforasyon ya da tüp",
+      "Zarda açıklık"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Çok küçük",
+      "Buşon, tıkalı uç",
+      "Kulak yolu tıkalı"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "B tipi eğride dış kulak yolu hacmi yaş için normal aralıktaysa, en sık olasılık orta kulakta sıvı, yani efüzyondur.",
+    "Orta kulağı dolduran kolesteatom gibi bir kitle de benzer bir tablo oluşturabilir.",
+    "Hacim normalin belirgin üzerindeyse, prob tonu timpanik membrandaki bir açıklıktan geçip orta kulak boşluğunu da ölçüyordur.",
+    "Bu durum perforasyonu ya da açık bir ventilasyon tüpünü düşündürür; tüplü bir çocukta bu, tüpün açık olduğunu gösterir.",
+    "Hacim normalin belirgin altındaysa, prob ucu tıkalı ya da duvara dayanmış olabilir ya da kulak yolu buşonla dolu olabilir.",
+    "Bu son durumda ilk adım, probu kontrol edip ölçümü tekrarlamak ve otoskopiye geri dönmektir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "B tipi ve hacim",
+   "baslik": "Örnek: B tipi ve *iletim* kaybı",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: 25 ile 35 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Maskeli kemik yolu_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "B",
+     "renk": "yesil",
+     "metin": "Timpanogram: _B tipi_, ECV normal",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       30,
+       25,
+       25,
+       30,
+       35
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       5,
+       5,
+       10,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      5,
+      30
+     ],
+     "etiket": "25 dB",
+     "cumle": 4
+    }
+   },
+   "cumleler": [
+    "Bu örnekte bir çocuğun sağ kulağında hafif derecede iletim tipi kayıp görüyoruz.",
+    "Hava yolu eşikleri yirmi beş ile otuz beş desibel arasında, kemik yolu eşikleri ise normal.",
+    "Aynı kulakta timpanogram B tipi ve dış kulak yolu hacmi yaş için normal.",
+    "Bu bulgular birlikte, orta kulakta sıvı ile uyumlu bir tablo oluşturur.",
+    "Efüzyonda hava-kemik aralığı genellikle hafif ile orta derece arasında kalır.",
+    "Efüzyon düzelirken timpanogramın önce C, sonra A tipine dönmesi sık görülebilen bir seyirdir."
+   ]
+  },
+  {
+   "id": "hepsi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bir arada",
+   "baslik": "Tüm tipler *bir arada*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "As",
+      "cumle": 1
+     },
+     {
+      "tip": "Ad",
+      "cumle": 1
+     },
+     {
+      "tip": "B",
+      "cumle": 2
+     },
+     {
+      "tip": "C",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Şimdi tüm tipleri bir arada görelim: referansımız normal A tipi.",
+    "As ve Ad tiplerinde tepe normal basınçtadır, ama biri alçak, diğeri çok yüksektir.",
+    "B tipi düz, C tipi ise negatif basınca kaymış bir tepe gösterir.",
+    "Tepenin yeri basıncı, yüksekliği ise admitansı anlatır; B tipinde yorumu hacim tamamlar.",
+    "Bu görüntüyü aklınızda tutmak, ekrandaki eğriyi hızla sınıflandırmanızı sağlar."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bir arada",
+   "baslik": "Özet *tablo*",
+   "sutunlar": [
+    "Tip",
+    "Tepe basıncı",
+    "Tepe yüksekliği",
+    "Olası durum"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "A",
+      "Normal",
+      "Normal",
+      "Normal orta kulak"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "As",
+      "Normal",
+      "Düşük",
+      "Sertlik, otoskleroz"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Ad",
+      "Normal",
+      "Çok yüksek",
+      "Zincir kopukluğu"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "B",
+      "Tepe yok",
+      "Düz",
+      "ECV'ye göre yorum"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "C",
+      "Belirgin negatif",
+      "Çoğunlukla normal",
+      "Östaki işlev bozukluğu"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "A tipinde tepe basıncı ve yüksekliği normaldir.",
+     "ses": "Bu tipte, yani a tipinde, tepe basıncı da tepe yüksekliği de normal sınırlardadır."
+    },
+    {
+     "yazi": "As tipinde basınç normal, tepe düşüktür ve sertlik artışını düşündürür.",
+     "ses": "A se tipinde basınç normaldir, ancak tepe düşüktür; bu durum sertlik artışını düşündürür."
+    },
+    "Ad tipinde basınç normal, tepe çok yüksektir ve aşırı hareketliliği düşündürür.",
+    "B tipinde tepe yoktur; yorum dış kulak yolu hacmine göre yapılır.",
+    "C tipinde tepe belirgin negatif basınçtadır ve Östaki borusu işlevini sorgulatır."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bir arada",
+   "baslik": "Sınıflama *akışı*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Tepe var mı?",
+     "metin": "Önce tepeye bakılır",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Yoksa B",
+     "metin": "ECV'ye bakılır",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tepe basıncı",
+     "metin": "Belirgin negatifse C",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tepe yüksekliği",
+     "metin": "A, As ya da Ad",
+     "cumle": 3
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Birleştir",
+     "metin": "Otoskopi ve odyogramla",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ekrandaki bir eğriyi sınıflamak için basit bir akış izleyebiliriz: önce belirgin bir tepe olup olmadığına bakarız.",
+    "Belirgin bir tepe yoksa eğri B tipidir ve hemen dış kulak yolu hacmine geçeriz.",
+    "Tepe varsa, tepe basıncının normal aralıkta olup olmadığına bakarız; belirgin negatifse eğri C tipidir.",
+    {
+     "yazi": "Basınç normalse tepe yüksekliğine bakarız: normalse A, düşükse As, çok yüksekse Ad tipi.",
+     "ses": "Önce basınca bakarız. Basınç normalse tepe yüksekliğine geçeriz: normalse a, düşükse a se, çok yüksekse a de tipidir."
+    },
+    "C tipinde tepe yüksekliğini de not etmek faydalıdır; tepe ayrıca düşükse bu bilgi raporda belirtilir.",
+    "Son adımda sonucu otoskopi ve odyogram ile birleştirerek yorumlarız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "B tipi gördüğünüzde önce ECV'ye bakın, sonra otoskopiyle karşılaştırın. Aynı düz eğri sıvıyı, perforasyonu ya da tıkalı probu gösterebilir.",
+   "cumleler": [
+    "Klinikte sık yapılan bir yorum hatası, her düz eğriyi efüzyon olarak okumaktır.",
+    "B tipi gördüğünüzde önce dış kulak yolu hacmine, yani ECV'ye bakın, sonra sonucu otoskopi ile karşılaştırın.",
+    "Aynı düz eğri sıvıyı, perforasyonu, açık bir tüpü ya da yalnızca tıkalı bir probu gösterebilir.",
+    "Eğri, hacim ve otoskopiyi birlikte değerlendirmek, yorumun güvenilirliğini belirgin biçimde artırır."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bir arada",
+   "baslik": "Timpanogram ve *odyogram*",
+   "maddeler": [
+    {
+     "metin": "A ya da As + aralık: _fiksasyon_ olasılığı",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Ad + büyük aralık: _zincir kopukluğu_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ad + normal işitme: _gevşek zar_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "B + iletim kaybı: _efüzyonla_ uyumlu",
+     "cumle": 3,
+     "ikon": "akinti"
+    }
+   ],
+   "cumleler": [
+    "A ya da As tipi bir eğri ile hava-kemik aralığı birlikteyse, kemikçik zincirinde fiksasyon olasılığı düşünülür.",
+    "Ad tipi eğri ile büyük bir hava-kemik aralığı birlikteyse, kemikçik zinciri kopukluğu akla gelir.",
+    "Ad tipi eğri ile normal işitme birlikteyse, bulgu çoğu zaman gevşek ya da ince bir timpanik membrana bağlıdır.",
+    "Normal hacimli B tipi ile hafif ya da orta derecede iletim kaybı, efüzyonla uyumlu bir tablodur.",
+    "Her durumda kesin değerlendirme hekime aittir; bizim görevimiz bulguları tutarlı ve eksiksiz sunmaktır."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bir arada",
+   "baslik": "Sınıflamanın *sınırları*",
+   "maddeler": [
+    {
+     "metin": "Nitel bir sistem, _sayısal_ değil",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Sınırlar _norma_ bağlı",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Sayısal değerlerle _birlikte_ raporla",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Bebeklerde _226 Hz_ yanıltıcı",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Jerger sınıflaması eğrinin şekline dayanan, nitel bir sistemdir.",
+    "As ile A ya da Ad ile A arasındaki sınır, kullanılan norm tablosuna göre değişir.",
+    "Bu nedenle günümüzde harf tipiyle birlikte tepe admitans, tepe basıncı ve genişlik gibi sayısal değerler de raporlanır.",
+    "Altı aydan küçük bebeklerde iki yüz yirmi altı hertzlik timpanogram, efüzyon olsa bile normal görünebilir; bu yaşta bin hertz tercih edilir.",
+    "Sonuç olarak harf iyi bir başlangıç noktasıdır; yorumu sayısal değerler ve diğer testler tamamlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_A_: normal basınç ve yükseklik",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_As_ sığ, Ad derin tepe",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_C_: belirgin negatif tepe basıncı",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_B_: düz eğri, ECV'ye göre yorum",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "A tipinde tepe normal basınçta ve normal yüksekliktedir.",
+    "As tipinde tepe alçak, Ad tipinde ise çok yüksektir; ikisinde de basınç normaldir.",
+    "C tipinde tepe belirgin negatif basınçtadır ve Östaki borusu işlevini sorgulatır.",
+    "B tipi düz bir eğridir; dış kulak yolu hacmine göre sıvı, perforasyon ya da tıkanıklık düşünülür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "B tipi timpanogram, ECV çok büyük. Önce ne düşünülür?",
+   "secenekler": [
+    "Orta kulakta sıvı",
+    "Perforasyon ya da açık tüp",
+    "Buşon",
+    "Otoskleroz"
+   ],
+   "dogru": 1,
+   "aciklama": "Prob tonu zardaki açıklıktan geçer ve _orta kulak boşluğunu_ da ölçer; bu yüzden hacim büyük çıkar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Timpanogram B tipi ve dış kulak yolu hacmi çok büyük. Önce ne düşünülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: perforasyon ya da açık bir ventilasyon tüpü.",
+    "Prob tonu timpanik membrandaki açıklıktan geçer ve orta kulak boşluğunu da ölçer; bu yüzden hacim büyük çıkar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Timpanometrik *değerler*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste tepe admitans, tepe basıncı, genişlik ve hacim değerlerini sayısal normlarıyla inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

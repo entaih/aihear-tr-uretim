@@ -1,0 +1,3061 @@
+{
+ "dil": "tr",
+ "seslendirici": "emma",
+ "bicim": "ders",
+ "dosya": "D132_ABR_Artefaktlar_TR",
+ "kapak": {
+  "ust": "DERS 132",
+  "baslik": "ABR'de<br>*artefaktlar*",
+  "alt": "Tanımak, ayırmak, gidermek",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "ABR'de Artefaktlar ve Sorun Giderme | Ders 132 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitsel beyin sapı yanıtı (ABR) kaydını bozan kas, şebeke ve uyaran artefaktlarını, artefakt reddini ve kalan gürültüyü anlatıyoruz. Uyaran artefaktını koklear mikrofonikten polarite değiştirme ve kapalı tüp kaydıyla ayırmayı ve adım adım sorun gidermeyi ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ABR",
+   "elektrofizyoloji"
+  ],
+  "etiketler": [
+   "ABR",
+   "artefakt",
+   "artifact rejection",
+   "artefakt reddi",
+   "koklear mikrofonik",
+   "cochlear microphonic",
+   "uyaran artefaktı",
+   "stimulus artifact",
+   "residual noise",
+   "işitsel beyin sapı yanıtı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 132",
+   "baslik": "ABR'de *artefaktlar*",
+   "alt": "Tanımak, ayırmak, gidermek",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel beyin sapı yanıtı, kısaca ABR kaydını bozan artefaktları tanımayı ve gidermeyi öğreneceğiz.",
+    "Uyaran artefaktını koklear mikrofonikten ayırmayı ve adım adım sorun gidermeyi de göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Artefakt nedir?",
+   "baslik": "Yanıt olmayan *sinyal*",
+   "maddeler": [
+    {
+     "metin": "Artefakt: kayda giren _yanıt dışı_ sinyal",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Kaynak 1: _hastanın kendisi_",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Kaynak 2: _ortam ve elektrik_",
+     "cumle": 2,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Kaynak 3: _uyaran ve cihaz_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SONUÇ",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "yanlis",
+      "baslik": "Sahte dalga",
+      "metin": "Yanıt varmış gibi",
+      "cumle": 4
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Gizlenen yanıt",
+      "metin": "Yanıt yokmuş gibi",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Artefakt (artifact), kayda giren ama işitme yolundan gelmeyen her türlü elektriksel sinyaldir.",
+     "ses": "Artefakt, kayda giren ama işitme yolundan gelmeyen her türlü elektriksel sinyaldir."
+    },
+    "Bir kısmı hastanın kendisinden gelir: kas gerginliği, göz hareketleri ve beynin olağan elektriksel etkinliği gibi.",
+    "Bir kısmı ortamdan gelir: şebeke elektriği, aydınlatma ve yakındaki elektronik cihazlar gibi.",
+    "Bir kısmı da uyaranın ve cihazın kendisinden, örneğin kulaklığın yaydığı elektromanyetik alandan kaynaklanır.",
+    "Artefakt, yanıt yokken varmış gibi bir dalga oluşturabilir ya da gerçek bir yanıtı gizleyebilir; iki hata da yanlış karara götürür.",
+    "Bu yüzden iyi bir ABR kaydı, yanıtı aramadan önce artefaktı tanımakla başlar."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Artefakt nedir?",
+   "baslik": "Artefakt *türleri*",
+   "ogeler": [
+    {
+     "ikon": "agri",
+     "baslik": "Kas",
+     "metin": "Boyun, çene, kulak arkası",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Göz",
+     "metin": "Kırpma ve göz hareketi",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "EEG",
+     "metin": "Uyanıklıkta artar",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Şebeke",
+     "metin": "50 Hz parazit",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Uyaran",
+     "metin": "Dönüştürücü alanı",
+     "cumle": 4
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Elektrot",
+     "metin": "Gevşek, kopuk, köprü",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En sık artefakt kas kaynaklıdır: boyun, çene ve kulak arkasındaki kasların gerginliği büyük gerilimler üretir.",
+    "Göz kırpma ve göz hareketleri, özellikle alına yakın elektrotlarda yavaş ve büyük dalgalanmalara yol açar.",
+    "Beynin kendi elektriksel etkinliği, yani elektroensefalografi, kısaca EEG, uyanık ve huzursuz kişide belirgin artar.",
+    {
+     "yazi": "Şebeke elektriği, Türkiye'de olduğu gibi 50 Hz frekansında düzenli bir parazit oluşturur.",
+     "ses": "Şebeke elektriği, Türkiye'de olduğu gibi elli Hz frekansında düzenli bir parazit oluşturur."
+    },
+    "Kulaklık ya da kemik vibratörü, uyaranı verirken elektromanyetik bir alan yayar ve uyaran artefaktı oluşturur.",
+    "Son olarak gevşek, kopuk ya da jelle birbirine köprülenmiş elektrotlar da kaydı bozar."
+   ]
+  },
+  {
+   "id": "kas",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hasta kaynaklı",
+   "baslik": "Kas *artefaktı*",
+   "maddeler": [
+    {
+     "metin": "Boyun ve çene _gerginliği_",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Bebekte _emme_ ve kıpırdanma",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Başı destekle, _çeneyi gevşet_",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Kas etkinliği varsa _kaydı durdur_",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÇÖZÜM",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "hasta",
+      "baslik": "Rahat yatış",
+      "metin": "Baş yastıkta, boyun gevşek",
+      "cumle": 3
+     },
+     {
+      "ikon": "sessizlik",
+      "baslik": "Uyku",
+      "metin": "En temiz kayıt",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Kas artefaktı genellikle boyun, çene ve kulak arkası kaslarının gerginliğinden kaynaklanır.",
+    {
+     "yazi": "Kulak arkası kası (postauricular muscle) yüksek seslerde refleks olarak kasılabilir ve geç zaman penceresinde büyük bir dalga oluşturabilir.",
+     "ses": "Kulak arkası kası yüksek seslerde refleks olarak kasılabilir ve geç zaman penceresinde büyük bir dalga oluşturabilir."
+    },
+    "Bebeklerde emme, yutkunma ve kıpırdanma aynı etkiyi yapar.",
+    "Yetişkinde baş bir yastıkla desteklenir, kişiden çenesini gevşetmesi ve dişlerini sıkmaması istenir.",
+    "En temiz kayıt doğal uykuda alınır; bu yüzden yetişkinler de loş odada gözleri kapalı dinlenmeye teşvik edilir.",
+    "Bebek kıpırdanıyorsa kayıt duraklatılır ve sakinleşmesi beklenir; aksi halde ortalamaya çok fazla gürültü girer."
+   ]
+  },
+  {
+   "id": "red",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hasta kaynaklı",
+   "baslik": "Artefakt *reddi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 41,
+     "adim": 10,
+     "ad": "Tarama sırası (örnek)"
+    },
+    "y": {
+     "min": -50,
+     "max": 50,
+     "adim": 25,
+     "ad": "Tepe genliği (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "taramalar",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        1,
+        -2.5
+       ],
+       [
+        2,
+        -2.6
+       ],
+       [
+        3,
+        11.1
+       ],
+       [
+        4,
+        11.1
+       ],
+       [
+        5,
+        -5.4
+       ],
+       [
+        6,
+        9.8
+       ],
+       [
+        7,
+        12.8
+       ],
+       [
+        8,
+        9.4
+       ],
+       [
+        9,
+        -35.4
+       ],
+       [
+        10,
+        40.6
+       ],
+       [
+        11,
+        13.2
+       ],
+       [
+        12,
+        -7.1
+       ],
+       [
+        13,
+        4.5
+       ],
+       [
+        14,
+        12.6
+       ],
+       [
+        15,
+        -0.1
+       ],
+       [
+        16,
+        11.5
+       ],
+       [
+        17,
+        11.1
+       ],
+       [
+        18,
+        8.3
+       ],
+       [
+        19,
+        10.6
+       ],
+       [
+        20,
+        8.9
+       ],
+       [
+        21,
+        1.7
+       ],
+       [
+        22,
+        -3.5
+       ],
+       [
+        23,
+        -34.5
+       ],
+       [
+        24,
+        8.3
+       ],
+       [
+        25,
+        1.3
+       ],
+       [
+        26,
+        2.9
+       ],
+       [
+        27,
+        8.4
+       ],
+       [
+        28,
+        4.9
+       ],
+       [
+        29,
+        4.7
+       ],
+       [
+        30,
+        10.7
+       ],
+       [
+        31,
+        43.4
+       ],
+       [
+        32,
+        -6.8
+       ],
+       [
+        33,
+        8.1
+       ],
+       [
+        34,
+        3.9
+       ],
+       [
+        35,
+        6.8
+       ],
+       [
+        36,
+        11.7
+       ],
+       [
+        37,
+        -7.5
+       ],
+       [
+        38,
+        -11.1
+       ],
+       [
+        39,
+        -10.5
+       ],
+       [
+        40,
+        -8.4
+       ]
+      ],
+      "renk": "mavi",
+      "r": 6,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ust_sinir",
+      "x": 40,
+      "y": 25,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "kirmizi",
+      "etiket": "ret sınırı",
+      "cumle": 1,
+      "dx": -40,
+      "dy": -12
+     },
+     {
+      "ad": "alt_sinir",
+      "x": 40,
+      "y": -25,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "kirmizi",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kabul",
+      "y": [
+       -25,
+       25
+      ],
+      "renk": "yesil",
+      "opak": 0.06,
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sınırı aşan tarama _ortalamaya girmez_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Çok sık ret: _kaynağı bul_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Artefakt reddi (artifact rejection), çok büyük gerilim içeren taramaların ortalamaya katılmamasını sağlar.",
+     "ses": "Artefakt reddi, çok büyük gerilim içeren taramaların ortalamaya katılmamasını sağlar."
+    },
+    "Cihazda bir ret sınırı belirlenir; bu örnekte sınır, yukarıda ve aşağıda kırmızı çizgilerle gösteriliyor.",
+    "Sınırı aşan taramalar, örneğin bir kas sıçraması sırasında alınanlar, otomatik olarak dışarıda bırakılır.",
+    "Sınır çok sıkı seçilirse taramaların çoğu reddedilir ve test gereksiz uzar; çok gevşek seçilirse gürültü ortalamaya girer.",
+    "Reddedilen tarama oranı yüksekse sınırı gevşetmek yerine artefaktın kaynağını bulmak gerekir.",
+    "Çünkü ret yalnız büyük sıçramaları ayıklar; sürekli ve küçük gürültüyü temizleyemez."
+   ]
+  },
+  {
+   "id": "sebeke",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Elektriksel parazit",
+   "baslik": "*50 Hz* şebeke paraziti",
+   "cizim": "dalga_bicimi",
+   "ayar": {
+    "seriler": [
+     "ton"
+    ],
+    "cumleler": [
+     0
+    ],
+    "frekans_hz": 50
+   },
+   "etiketler": [
+    {
+     "parca": "ton",
+     "metin": "düzenli 50 Hz dalgalanma",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Empedansları _dengele_, kabloları ör",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Gereksiz cihazları _kapat, uzaklaştır_",
+     "cumle": 3,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Çentik filtre: _son çare_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Şebeke paraziti kayıtta her 20 milisaniyede bir tekrarlayan düzenli bir dalgalanma olarak görülür.",
+     "ses": "Şebeke paraziti kayıtta her yirmi milisaniyede bir tekrarlayan düzenli bir dalgalanma olarak görülür."
+    },
+    "Kaynağı floresan lambalar, uzatma kabloları, monitörler ve yakındaki elektrikli cihazlar olabilir.",
+    "İlk çözüm, elektrot empedanslarını düşük ve dengeli tutmak ve elektrot kablolarını birbirine örmektir.",
+    "Gereksiz cihazlar kapatılır ya da uzaklaştırılır; hasta yatağının ve kabloların konumu değiştirilir.",
+    {
+     "yazi": "Uyaran hızının 21,1 gibi kesirli seçilmesi, parazitin ortalamada sönmesine yardım eder.",
+     "ses": "Uyaran hızının yirmi bir virgül bir gibi kesirli seçilmesi, parazitin ortalamada sönmesine yardım eder."
+    },
+    {
+     "yazi": "Cihazdaki 50 Hz çentik filtre (notch filter) paraziti azaltır, ama dalga biçimini de bozabileceği için son çare olarak düşünülmelidir.",
+     "ses": "Cihazdaki elli Hz çentik filtre paraziti azaltır, ama dalga biçimini de bozabileceği için son çare olarak düşünülmelidir."
+    }
+   ]
+  },
+  {
+   "id": "cm_artefakt",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uyaran artefaktı ve CM",
+   "baslik": "Ters dönen *erken* dalga",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Zaman (ms)"
+    },
+    "y": {
+     "min": -1.0,
+     "max": 2.2,
+     "ad": "Gerilim (göreli)",
+     "isaretler": []
+    },
+    "seriler": [
+     {
+      "ad": "seyrelme",
+      "noktalar": [
+       [
+        0.0,
+        1.2
+       ],
+       [
+        0.04,
+        1.2
+       ],
+       [
+        0.08,
+        1.2
+       ],
+       [
+        0.12,
+        1.2
+       ],
+       [
+        0.16,
+        1.2
+       ],
+       [
+        0.2,
+        1.2
+       ],
+       [
+        0.24,
+        1.2
+       ],
+       [
+        0.28,
+        1.2
+       ],
+       [
+        0.32,
+        1.2
+       ],
+       [
+        0.36,
+        1.2
+       ],
+       [
+        0.4,
+        1.2
+       ],
+       [
+        0.44,
+        1.2
+       ],
+       [
+        0.48,
+        1.2
+       ],
+       [
+        0.52,
+        1.2
+       ],
+       [
+        0.56,
+        1.2
+       ],
+       [
+        0.6,
+        1.2
+       ],
+       [
+        0.64,
+        1.2
+       ],
+       [
+        0.68,
+        1.2
+       ],
+       [
+        0.72,
+        1.2
+       ],
+       [
+        0.76,
+        1.2
+       ],
+       [
+        0.8,
+        1.2
+       ],
+       [
+        0.84,
+        1.2
+       ],
+       [
+        0.88,
+        1.2
+       ],
+       [
+        0.92,
+        1.279
+       ],
+       [
+        0.96,
+        1.411
+       ],
+       [
+        1.0,
+        1.486
+       ],
+       [
+        1.04,
+        1.488
+       ],
+       [
+        1.08,
+        1.421
+       ],
+       [
+        1.12,
+        1.303
+       ],
+       [
+        1.16,
+        1.168
+       ],
+       [
+        1.2,
+        1.049
+       ],
+       [
+        1.24,
+        0.976
+       ],
+       [
+        1.28,
+        0.968
+       ],
+       [
+        1.32,
+        1.029
+       ],
+       [
+        1.36,
+        1.146
+       ],
+       [
+        1.4,
+        1.296
+       ],
+       [
+        1.44,
+        1.447
+       ],
+       [
+        1.48,
+        1.569
+       ],
+       [
+        1.52,
+        1.638
+       ],
+       [
+        1.56,
+        1.641
+       ],
+       [
+        1.6,
+        1.581
+       ],
+       [
+        1.64,
+        1.475
+       ],
+       [
+        1.68,
+        1.349
+       ],
+       [
+        1.72,
+        1.234
+       ],
+       [
+        1.76,
+        1.153
+       ],
+       [
+        1.8,
+        1.122
+       ],
+       [
+        1.84,
+        1.14
+       ],
+       [
+        1.88,
+        1.193
+       ],
+       [
+        1.92,
+        1.262
+       ],
+       [
+        1.96,
+        1.323
+       ],
+       [
+        2.0,
+        1.358
+       ],
+       [
+        2.04,
+        1.356
+       ],
+       [
+        2.08,
+        1.319
+       ],
+       [
+        2.12,
+        1.255
+       ],
+       [
+        2.16,
+        1.182
+       ],
+       [
+        2.2,
+        1.117
+       ],
+       [
+        2.24,
+        1.075
+       ],
+       [
+        2.28,
+        1.065
+       ],
+       [
+        2.32,
+        1.089
+       ],
+       [
+        2.36,
+        1.138
+       ],
+       [
+        2.4,
+        1.2
+       ],
+       [
+        2.44,
+        1.259
+       ],
+       [
+        2.48,
+        1.301
+       ],
+       [
+        2.52,
+        1.316
+       ],
+       [
+        2.56,
+        1.303
+       ],
+       [
+        2.6,
+        1.265
+       ],
+       [
+        2.64,
+        1.214
+       ],
+       [
+        2.68,
+        1.161
+       ],
+       [
+        2.72,
+        1.121
+       ],
+       [
+        2.76,
+        1.102
+       ],
+       [
+        2.8,
+        1.107
+       ],
+       [
+        2.84,
+        1.135
+       ],
+       [
+        2.88,
+        1.177
+       ],
+       [
+        2.92,
+        1.223
+       ],
+       [
+        2.96,
+        1.26
+       ],
+       [
+        3.0,
+        1.282
+       ],
+       [
+        3.04,
+        1.283
+       ],
+       [
+        3.08,
+        1.263
+       ],
+       [
+        3.12,
+        1.229
+       ],
+       [
+        3.16,
+        1.19
+       ],
+       [
+        3.2,
+        1.156
+       ],
+       [
+        3.24,
+        1.133
+       ],
+       [
+        3.28,
+        1.129
+       ],
+       [
+        3.32,
+        1.143
+       ],
+       [
+        3.36,
+        1.172
+       ],
+       [
+        3.4,
+        1.211
+       ],
+       [
+        3.44,
+        1.252
+       ],
+       [
+        3.48,
+        1.29
+       ],
+       [
+        3.52,
+        1.321
+       ],
+       [
+        3.56,
+        1.346
+       ],
+       [
+        3.6,
+        1.366
+       ],
+       [
+        3.64,
+        1.384
+       ],
+       [
+        3.68,
+        1.402
+       ],
+       [
+        3.72,
+        1.421
+       ],
+       [
+        3.76,
+        1.438
+       ],
+       [
+        3.8,
+        1.45
+       ],
+       [
+        3.84,
+        1.455
+       ],
+       [
+        3.88,
+        1.45
+       ],
+       [
+        3.92,
+        1.435
+       ],
+       [
+        3.96,
+        1.409
+       ],
+       [
+        4.0,
+        1.375
+       ],
+       [
+        4.04,
+        1.335
+       ],
+       [
+        4.08,
+        1.293
+       ],
+       [
+        4.12,
+        1.252
+       ],
+       [
+        4.16,
+        1.215
+       ],
+       [
+        4.2,
+        1.211
+       ],
+       [
+        4.24,
+        1.205
+       ],
+       [
+        4.28,
+        1.203
+       ],
+       [
+        4.32,
+        1.201
+       ],
+       [
+        4.36,
+        1.2
+       ],
+       [
+        4.4,
+        1.2
+       ],
+       [
+        4.44,
+        1.2
+       ],
+       [
+        4.48,
+        1.2
+       ],
+       [
+        4.52,
+        1.2
+       ],
+       [
+        4.56,
+        1.2
+       ],
+       [
+        4.6,
+        1.2
+       ],
+       [
+        4.64,
+        1.2
+       ],
+       [
+        4.68,
+        1.2
+       ],
+       [
+        4.72,
+        1.2
+       ],
+       [
+        4.76,
+        1.2
+       ],
+       [
+        4.8,
+        1.2
+       ],
+       [
+        4.84,
+        1.2
+       ],
+       [
+        4.88,
+        1.2
+       ],
+       [
+        4.92,
+        1.2
+       ],
+       [
+        4.96,
+        1.201
+       ],
+       [
+        5.0,
+        1.202
+       ],
+       [
+        5.04,
+        1.203
+       ],
+       [
+        5.08,
+        1.207
+       ],
+       [
+        5.12,
+        1.213
+       ],
+       [
+        5.16,
+        1.223
+       ],
+       [
+        5.2,
+        1.239
+       ],
+       [
+        5.24,
+        1.263
+       ],
+       [
+        5.28,
+        1.297
+       ],
+       [
+        5.32,
+        1.343
+       ],
+       [
+        5.36,
+        1.399
+       ],
+       [
+        5.4,
+        1.464
+       ],
+       [
+        5.44,
+        1.532
+       ],
+       [
+        5.48,
+        1.597
+       ],
+       [
+        5.52,
+        1.651
+       ],
+       [
+        5.56,
+        1.687
+       ],
+       [
+        5.6,
+        1.699
+       ],
+       [
+        5.64,
+        1.686
+       ],
+       [
+        5.68,
+        1.649
+       ],
+       [
+        5.72,
+        1.594
+       ],
+       [
+        5.76,
+        1.528
+       ],
+       [
+        5.8,
+        1.457
+       ],
+       [
+        5.84,
+        1.39
+       ],
+       [
+        5.88,
+        1.33
+       ],
+       [
+        5.92,
+        1.28
+       ],
+       [
+        5.96,
+        1.239
+       ],
+       [
+        6.0,
+        1.208
+       ],
+       [
+        6.04,
+        1.182
+       ],
+       [
+        6.08,
+        1.16
+       ],
+       [
+        6.12,
+        1.14
+       ],
+       [
+        6.16,
+        1.12
+       ],
+       [
+        6.2,
+        1.1
+       ],
+       [
+        6.24,
+        1.078
+       ],
+       [
+        6.28,
+        1.054
+       ],
+       [
+        6.32,
+        1.029
+       ],
+       [
+        6.36,
+        1.002
+       ],
+       [
+        6.4,
+        0.976
+       ],
+       [
+        6.44,
+        0.949
+       ],
+       [
+        6.48,
+        0.924
+       ],
+       [
+        6.52,
+        0.902
+       ],
+       [
+        6.56,
+        0.882
+       ],
+       [
+        6.6,
+        0.867
+       ],
+       [
+        6.64,
+        0.856
+       ],
+       [
+        6.68,
+        0.851
+       ],
+       [
+        6.72,
+        0.851
+       ],
+       [
+        6.76,
+        0.856
+       ],
+       [
+        6.8,
+        0.867
+       ],
+       [
+        6.84,
+        0.882
+       ],
+       [
+        6.88,
+        0.902
+       ],
+       [
+        6.92,
+        0.924
+       ],
+       [
+        6.96,
+        0.949
+       ],
+       [
+        7.0,
+        0.976
+       ],
+       [
+        7.04,
+        1.002
+       ],
+       [
+        7.08,
+        1.028
+       ],
+       [
+        7.12,
+        1.054
+       ],
+       [
+        7.16,
+        1.077
+       ],
+       [
+        7.2,
+        1.098
+       ],
+       [
+        7.24,
+        1.117
+       ],
+       [
+        7.28,
+        1.134
+       ],
+       [
+        7.32,
+        1.148
+       ],
+       [
+        7.36,
+        1.159
+       ],
+       [
+        7.4,
+        1.169
+       ],
+       [
+        7.44,
+        1.177
+       ],
+       [
+        7.48,
+        1.183
+       ],
+       [
+        7.52,
+        1.187
+       ],
+       [
+        7.56,
+        1.191
+       ],
+       [
+        7.6,
+        1.194
+       ],
+       [
+        7.64,
+        1.196
+       ],
+       [
+        7.68,
+        1.197
+       ],
+       [
+        7.72,
+        1.198
+       ],
+       [
+        7.76,
+        1.199
+       ],
+       [
+        7.8,
+        1.199
+       ],
+       [
+        7.84,
+        1.199
+       ],
+       [
+        7.88,
+        1.2
+       ],
+       [
+        7.92,
+        1.2
+       ],
+       [
+        7.96,
+        1.2
+       ],
+       [
+        8.0,
+        1.2
+       ],
+       [
+        8.04,
+        1.2
+       ],
+       [
+        8.08,
+        1.2
+       ],
+       [
+        8.12,
+        1.2
+       ],
+       [
+        8.16,
+        1.2
+       ],
+       [
+        8.2,
+        1.2
+       ],
+       [
+        8.24,
+        1.2
+       ],
+       [
+        8.28,
+        1.2
+       ],
+       [
+        8.32,
+        1.2
+       ],
+       [
+        8.36,
+        1.2
+       ],
+       [
+        8.4,
+        1.2
+       ],
+       [
+        8.44,
+        1.2
+       ],
+       [
+        8.48,
+        1.2
+       ],
+       [
+        8.52,
+        1.2
+       ],
+       [
+        8.56,
+        1.2
+       ],
+       [
+        8.6,
+        1.2
+       ],
+       [
+        8.64,
+        1.2
+       ],
+       [
+        8.68,
+        1.2
+       ],
+       [
+        8.72,
+        1.2
+       ],
+       [
+        8.76,
+        1.2
+       ],
+       [
+        8.8,
+        1.2
+       ],
+       [
+        8.84,
+        1.2
+       ],
+       [
+        8.88,
+        1.2
+       ],
+       [
+        8.92,
+        1.2
+       ],
+       [
+        8.96,
+        1.2
+       ],
+       [
+        9.0,
+        1.2
+       ],
+       [
+        9.04,
+        1.2
+       ],
+       [
+        9.08,
+        1.2
+       ],
+       [
+        9.12,
+        1.2
+       ],
+       [
+        9.16,
+        1.2
+       ],
+       [
+        9.2,
+        1.2
+       ],
+       [
+        9.24,
+        1.2
+       ],
+       [
+        9.28,
+        1.2
+       ],
+       [
+        9.32,
+        1.2
+       ],
+       [
+        9.36,
+        1.2
+       ],
+       [
+        9.4,
+        1.2
+       ],
+       [
+        9.44,
+        1.2
+       ],
+       [
+        9.48,
+        1.2
+       ],
+       [
+        9.52,
+        1.2
+       ],
+       [
+        9.56,
+        1.2
+       ],
+       [
+        9.6,
+        1.2
+       ],
+       [
+        9.64,
+        1.2
+       ],
+       [
+        9.68,
+        1.2
+       ],
+       [
+        9.72,
+        1.2
+       ],
+       [
+        9.76,
+        1.2
+       ],
+       [
+        9.8,
+        1.2
+       ],
+       [
+        9.84,
+        1.2
+       ],
+       [
+        9.88,
+        1.2
+       ],
+       [
+        9.92,
+        1.2
+       ],
+       [
+        9.96,
+        1.2
+       ],
+       [
+        10.0,
+        1.2
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 3,
+      "etiket": "seyrelme",
+      "cumle": 1,
+      "etiket_konum": [
+       10,
+       1.2
+      ],
+      "etiket_dx": -4,
+      "etiket_dy": -14,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "sikisma",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.04,
+        0.0
+       ],
+       [
+        0.08,
+        0.0
+       ],
+       [
+        0.12,
+        0.0
+       ],
+       [
+        0.16,
+        0.0
+       ],
+       [
+        0.2,
+        0.0
+       ],
+       [
+        0.24,
+        0.0
+       ],
+       [
+        0.28,
+        0.0
+       ],
+       [
+        0.32,
+        0.0
+       ],
+       [
+        0.36,
+        0.0
+       ],
+       [
+        0.4,
+        0.0
+       ],
+       [
+        0.44,
+        0.0
+       ],
+       [
+        0.48,
+        0.0
+       ],
+       [
+        0.52,
+        0.0
+       ],
+       [
+        0.56,
+        0.0
+       ],
+       [
+        0.6,
+        0.0
+       ],
+       [
+        0.64,
+        0.0
+       ],
+       [
+        0.68,
+        0.0
+       ],
+       [
+        0.72,
+        0.0
+       ],
+       [
+        0.76,
+        0.0
+       ],
+       [
+        0.8,
+        0.0
+       ],
+       [
+        0.84,
+        0.0
+       ],
+       [
+        0.88,
+        0.0
+       ],
+       [
+        0.92,
+        -0.079
+       ],
+       [
+        0.96,
+        -0.211
+       ],
+       [
+        1.0,
+        -0.286
+       ],
+       [
+        1.04,
+        -0.288
+       ],
+       [
+        1.08,
+        -0.22
+       ],
+       [
+        1.12,
+        -0.102
+       ],
+       [
+        1.16,
+        0.036
+       ],
+       [
+        1.2,
+        0.161
+       ],
+       [
+        1.24,
+        0.244
+       ],
+       [
+        1.28,
+        0.272
+       ],
+       [
+        1.32,
+        0.244
+       ],
+       [
+        1.36,
+        0.177
+       ],
+       [
+        1.4,
+        0.096
+       ],
+       [
+        1.44,
+        0.027
+       ],
+       [
+        1.48,
+        -0.007
+       ],
+       [
+        1.52,
+        0.005
+       ],
+       [
+        1.56,
+        0.058
+       ],
+       [
+        1.6,
+        0.139
+       ],
+       [
+        1.64,
+        0.225
+       ],
+       [
+        1.68,
+        0.294
+       ],
+       [
+        1.72,
+        0.329
+       ],
+       [
+        1.76,
+        0.321
+       ],
+       [
+        1.8,
+        0.269
+       ],
+       [
+        1.84,
+        0.183
+       ],
+       [
+        1.88,
+        0.08
+       ],
+       [
+        1.92,
+        -0.022
+       ],
+       [
+        1.96,
+        -0.103
+       ],
+       [
+        2.0,
+        -0.148
+       ],
+       [
+        2.04,
+        -0.152
+       ],
+       [
+        2.08,
+        -0.117
+       ],
+       [
+        2.12,
+        -0.055
+       ],
+       [
+        2.16,
+        0.018
+       ],
+       [
+        2.2,
+        0.083
+       ],
+       [
+        2.24,
+        0.125
+       ],
+       [
+        2.28,
+        0.135
+       ],
+       [
+        2.32,
+        0.111
+       ],
+       [
+        2.36,
+        0.062
+       ],
+       [
+        2.4,
+        0.0
+       ],
+       [
+        2.44,
+        -0.059
+       ],
+       [
+        2.48,
+        -0.101
+       ],
+       [
+        2.52,
+        -0.116
+       ],
+       [
+        2.56,
+        -0.103
+       ],
+       [
+        2.6,
+        -0.065
+       ],
+       [
+        2.64,
+        -0.014
+       ],
+       [
+        2.68,
+        0.039
+       ],
+       [
+        2.72,
+        0.079
+       ],
+       [
+        2.76,
+        0.098
+       ],
+       [
+        2.8,
+        0.093
+       ],
+       [
+        2.84,
+        0.065
+       ],
+       [
+        2.88,
+        0.023
+       ],
+       [
+        2.92,
+        -0.023
+       ],
+       [
+        2.96,
+        -0.06
+       ],
+       [
+        3.0,
+        -0.082
+       ],
+       [
+        3.04,
+        -0.083
+       ],
+       [
+        3.08,
+        -0.063
+       ],
+       [
+        3.12,
+        -0.029
+       ],
+       [
+        3.16,
+        0.01
+       ],
+       [
+        3.2,
+        0.045
+       ],
+       [
+        3.24,
+        0.068
+       ],
+       [
+        3.28,
+        0.073
+       ],
+       [
+        3.32,
+        0.062
+       ],
+       [
+        3.36,
+        0.039
+       ],
+       [
+        3.4,
+        0.011
+       ],
+       [
+        3.44,
+        -0.011
+       ],
+       [
+        3.48,
+        -0.018
+       ],
+       [
+        3.52,
+        -0.003
+       ],
+       [
+        3.56,
+        0.036
+       ],
+       [
+        3.6,
+        0.096
+       ],
+       [
+        3.64,
+        0.17
+       ],
+       [
+        3.68,
+        0.244
+       ],
+       [
+        3.72,
+        0.305
+       ],
+       [
+        3.76,
+        0.343
+       ],
+       [
+        3.8,
+        0.35
+       ],
+       [
+        3.84,
+        0.325
+       ],
+       [
+        3.88,
+        0.275
+       ],
+       [
+        3.92,
+        0.211
+       ],
+       [
+        3.96,
+        0.144
+       ],
+       [
+        4.0,
+        0.087
+       ],
+       [
+        4.04,
+        0.047
+       ],
+       [
+        4.08,
+        0.026
+       ],
+       [
+        4.12,
+        0.02
+       ],
+       [
+        4.16,
+        0.026
+       ],
+       [
+        4.2,
+        0.011
+       ],
+       [
+        4.24,
+        0.005
+       ],
+       [
+        4.28,
+        0.003
+       ],
+       [
+        4.32,
+        0.001
+       ],
+       [
+        4.36,
+        0.0
+       ],
+       [
+        4.4,
+        0.0
+       ],
+       [
+        4.44,
+        0.0
+       ],
+       [
+        4.48,
+        0.0
+       ],
+       [
+        4.52,
+        0.0
+       ],
+       [
+        4.56,
+        0.0
+       ],
+       [
+        4.6,
+        0.0
+       ],
+       [
+        4.64,
+        0.0
+       ],
+       [
+        4.68,
+        0.0
+       ],
+       [
+        4.72,
+        0.0
+       ],
+       [
+        4.76,
+        0.0
+       ],
+       [
+        4.8,
+        0.0
+       ],
+       [
+        4.84,
+        0.0
+       ],
+       [
+        4.88,
+        0.0
+       ],
+       [
+        4.92,
+        0.0
+       ],
+       [
+        4.96,
+        0.001
+       ],
+       [
+        5.0,
+        0.002
+       ],
+       [
+        5.04,
+        0.003
+       ],
+       [
+        5.08,
+        0.007
+       ],
+       [
+        5.12,
+        0.013
+       ],
+       [
+        5.16,
+        0.023
+       ],
+       [
+        5.2,
+        0.039
+       ],
+       [
+        5.24,
+        0.063
+       ],
+       [
+        5.28,
+        0.097
+       ],
+       [
+        5.32,
+        0.143
+       ],
+       [
+        5.36,
+        0.199
+       ],
+       [
+        5.4,
+        0.264
+       ],
+       [
+        5.44,
+        0.332
+       ],
+       [
+        5.48,
+        0.397
+       ],
+       [
+        5.52,
+        0.451
+       ],
+       [
+        5.56,
+        0.487
+       ],
+       [
+        5.6,
+        0.499
+       ],
+       [
+        5.64,
+        0.486
+       ],
+       [
+        5.68,
+        0.449
+       ],
+       [
+        5.72,
+        0.394
+       ],
+       [
+        5.76,
+        0.328
+       ],
+       [
+        5.8,
+        0.257
+       ],
+       [
+        5.84,
+        0.19
+       ],
+       [
+        5.88,
+        0.13
+       ],
+       [
+        5.92,
+        0.08
+       ],
+       [
+        5.96,
+        0.039
+       ],
+       [
+        6.0,
+        0.008
+       ],
+       [
+        6.04,
+        -0.018
+       ],
+       [
+        6.08,
+        -0.04
+       ],
+       [
+        6.12,
+        -0.06
+       ],
+       [
+        6.16,
+        -0.08
+       ],
+       [
+        6.2,
+        -0.1
+       ],
+       [
+        6.24,
+        -0.122
+       ],
+       [
+        6.28,
+        -0.146
+       ],
+       [
+        6.32,
+        -0.171
+       ],
+       [
+        6.36,
+        -0.198
+       ],
+       [
+        6.4,
+        -0.224
+       ],
+       [
+        6.44,
+        -0.251
+       ],
+       [
+        6.48,
+        -0.276
+       ],
+       [
+        6.52,
+        -0.298
+       ],
+       [
+        6.56,
+        -0.318
+       ],
+       [
+        6.6,
+        -0.333
+       ],
+       [
+        6.64,
+        -0.344
+       ],
+       [
+        6.68,
+        -0.349
+       ],
+       [
+        6.72,
+        -0.349
+       ],
+       [
+        6.76,
+        -0.344
+       ],
+       [
+        6.8,
+        -0.333
+       ],
+       [
+        6.84,
+        -0.318
+       ],
+       [
+        6.88,
+        -0.298
+       ],
+       [
+        6.92,
+        -0.276
+       ],
+       [
+        6.96,
+        -0.251
+       ],
+       [
+        7.0,
+        -0.224
+       ],
+       [
+        7.04,
+        -0.198
+       ],
+       [
+        7.08,
+        -0.172
+       ],
+       [
+        7.12,
+        -0.146
+       ],
+       [
+        7.16,
+        -0.123
+       ],
+       [
+        7.2,
+        -0.102
+       ],
+       [
+        7.24,
+        -0.083
+       ],
+       [
+        7.28,
+        -0.066
+       ],
+       [
+        7.32,
+        -0.052
+       ],
+       [
+        7.36,
+        -0.041
+       ],
+       [
+        7.4,
+        -0.031
+       ],
+       [
+        7.44,
+        -0.023
+       ],
+       [
+        7.48,
+        -0.017
+       ],
+       [
+        7.52,
+        -0.013
+       ],
+       [
+        7.56,
+        -0.009
+       ],
+       [
+        7.6,
+        -0.006
+       ],
+       [
+        7.64,
+        -0.004
+       ],
+       [
+        7.68,
+        -0.003
+       ],
+       [
+        7.72,
+        -0.002
+       ],
+       [
+        7.76,
+        -0.001
+       ],
+       [
+        7.8,
+        -0.001
+       ],
+       [
+        7.84,
+        -0.001
+       ],
+       [
+        7.88,
+        -0.0
+       ],
+       [
+        7.92,
+        -0.0
+       ],
+       [
+        7.96,
+        -0.0
+       ],
+       [
+        8.0,
+        -0.0
+       ],
+       [
+        8.04,
+        -0.0
+       ],
+       [
+        8.08,
+        -0.0
+       ],
+       [
+        8.12,
+        -0.0
+       ],
+       [
+        8.16,
+        -0.0
+       ],
+       [
+        8.2,
+        -0.0
+       ],
+       [
+        8.24,
+        -0.0
+       ],
+       [
+        8.28,
+        -0.0
+       ],
+       [
+        8.32,
+        -0.0
+       ],
+       [
+        8.36,
+        -0.0
+       ],
+       [
+        8.4,
+        -0.0
+       ],
+       [
+        8.44,
+        -0.0
+       ],
+       [
+        8.48,
+        -0.0
+       ],
+       [
+        8.52,
+        -0.0
+       ],
+       [
+        8.56,
+        -0.0
+       ],
+       [
+        8.6,
+        -0.0
+       ],
+       [
+        8.64,
+        -0.0
+       ],
+       [
+        8.68,
+        -0.0
+       ],
+       [
+        8.72,
+        -0.0
+       ],
+       [
+        8.76,
+        -0.0
+       ],
+       [
+        8.8,
+        -0.0
+       ],
+       [
+        8.84,
+        -0.0
+       ],
+       [
+        8.88,
+        -0.0
+       ],
+       [
+        8.92,
+        -0.0
+       ],
+       [
+        8.96,
+        -0.0
+       ],
+       [
+        9.0,
+        -0.0
+       ],
+       [
+        9.04,
+        -0.0
+       ],
+       [
+        9.08,
+        -0.0
+       ],
+       [
+        9.12,
+        -0.0
+       ],
+       [
+        9.16,
+        -0.0
+       ],
+       [
+        9.2,
+        -0.0
+       ],
+       [
+        9.24,
+        -0.0
+       ],
+       [
+        9.28,
+        -0.0
+       ],
+       [
+        9.32,
+        -0.0
+       ],
+       [
+        9.36,
+        -0.0
+       ],
+       [
+        9.4,
+        -0.0
+       ],
+       [
+        9.44,
+        -0.0
+       ],
+       [
+        9.48,
+        -0.0
+       ],
+       [
+        9.52,
+        -0.0
+       ],
+       [
+        9.56,
+        -0.0
+       ],
+       [
+        9.6,
+        -0.0
+       ],
+       [
+        9.64,
+        -0.0
+       ],
+       [
+        9.68,
+        -0.0
+       ],
+       [
+        9.72,
+        -0.0
+       ],
+       [
+        9.76,
+        -0.0
+       ],
+       [
+        9.8,
+        -0.0
+       ],
+       [
+        9.84,
+        -0.0
+       ],
+       [
+        9.88,
+        -0.0
+       ],
+       [
+        9.92,
+        -0.0
+       ],
+       [
+        9.96,
+        -0.0
+       ],
+       [
+        10.0,
+        -0.0
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": 3,
+      "etiket": "sıkışma",
+      "cumle": 1,
+      "etiket_konum": [
+       10,
+       0.0
+      ],
+      "etiket_dx": -4,
+      "etiket_dy": -14,
+      "etiket_hiza": "end"
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "erken",
+      "x": [
+       0.9,
+       4.2
+      ],
+      "renk": "sari",
+      "etiket": "ters dönüyor",
+      "cumle": 2
+     },
+     {
+      "ad": "dalga_v_bolge",
+      "x": [
+       5.2,
+       6.1
+      ],
+      "renk": "yesil",
+      "etiket": "dalga V",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "CM ve artefakt: polariteyle _ters döner_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sinirsel dalga V: _yerinde kalır_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Seyrelme ve sıkışma polaritelerinde ayrı ayrı alınan iki kaydı üst üste koyduğumuzu düşünelim.",
+    "Ekrandaki örnekte üstte seyrelme, altta sıkışma kaydı görülüyor.",
+    "İlk birkaç milisaniyedeki salınım iki kayıtta tam ters dönüyor; bu ya uyaran artefaktıdır ya da koklear mikrofonik, kısaca CM.",
+    "Dalga V ise iki kayıtta da aynı yönde ve hemen hemen aynı yerde; çünkü sinirsel yanıt polariteyle ters dönmez.",
+    "Ters dönen bileşenin ne olduğunu anlamak için bir adım daha gerekir; çünkü hem artefakt hem CM polariteyi izler.",
+    {
+     "yazi": "Koklear mikrofonik (cochlear microphonic), dış tüy hücrelerinin uyaranın dalga biçimini izleyen gerçek bir yanıtıdır.",
+     "ses": "Koklear mikrofonik, dış tüy hücrelerinin uyaranın dalga biçimini izleyen gerçek bir yanıtıdır."
+    }
+   ]
+  },
+  {
+   "id": "ayirma",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uyaran artefaktı ve CM",
+   "baslik": "Artefakt mı, *CM* mi?",
+   "adimlar": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Insert kulaklık",
+     "metin": "Ses tüple gecikir",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Başlangıca bak",
+     "metin": "Sıfırda mı, gecikmeli mi?",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Tüpü kapat",
+     "metin": "Ses kulağa gitmesin",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Karşılaştır",
+     "metin": "Kaybolan: CM",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Insert kulaklıkta ses, dönüştürücüden kulağa tüp içinde yaklaşık 0,8 ile 0,9 milisaniyede ulaşır.",
+     "ses": "Insert kulaklıkta ses, dönüştürücüden kulağa tüp içinde yaklaşık sıfır virgül sekiz ile sıfır virgül dokuz milisaniyede ulaşır."
+    },
+    "Uyaran artefaktı elektrik sinyaliyle aynı anda, yani sıfır anında başlar; koklear mikrofonik ise bu akustik gecikmeden sonra başlar.",
+    "Bu zaman farkı ilk ipucudur; ancak tek başına her zaman kesin değildir.",
+    "Kesin ayrım için ses tüpü sıkıştırılarak ya da dönüştürücüden ayrılarak, sesin kulağa ulaşmadığı bir kontrol kaydı alınır.",
+    "Bu kayıtta kaybolan salınım gerçek koklear mikrofoniktir; aynen kalan salınım ise elektriksel artefakttır.",
+    "Bu ayrımın klinik önemini bir sonraki derste, işitsel nöropati spektrum bozukluğunu anlatırken göreceğiz."
+   ]
+  },
+  {
+   "id": "uyaran_art",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uyaran artefaktı ve CM",
+   "baslik": "Uyaran artefaktını *azaltmak*",
+   "maddeler": [
+    {
+     "metin": "Insert kulaklık: dönüştürücü _uzakta_",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Dönüştürücü kablosu elektrotlardan _ayrı_",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Alternan polarite _söndürür_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ama CM aranıyorsa _ayrı polarite_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "ayar": {
+     "insert": true
+    },
+    "vurgula": [
+     {
+      "parca": "transduser",
+      "cumle": 0
+     },
+     {
+      "parca": "ses_tupu",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "transduser",
+      "metin": "Dönüştürücü",
+      "cumle": 0
+     },
+     {
+      "parca": "ses_tupu",
+      "metin": "Ses tüpü",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Insert kulaklıkta dönüştürücü kulaktan uzakta durduğu için elektromanyetik alanın elektrotlara etkisi azalır.",
+    "Dönüştürücü ve kablosu, elektrot kablolarından olabildiğince uzak ve onlara paralel olmayacak biçimde yerleştirilir.",
+    "Alternan polaritede artefakt iki polaritede ters işaretli olduğu için ortalamada büyük ölçüde söner.",
+    "Ancak işitsel nöropati şüphesi gibi koklear mikrofoniğin arandığı durumlarda polariteler ayrı kaydedilir.",
+    "Kemik vibratörü daha büyük bir alan yaydığı için kemik yolu ABR'de bu önlemler daha da önemlidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yanıt yok demeden önce: kulaklık takılı ve bağlı mı, uyaran açık mı, empedans iyi mi? Kuşkuda ses tüpünü kapatıp kontrol kaydı alın.",
+   "cumleler": [
+    "Bir klinik ipucu: yanıt yok kararından önce düzeneği baştan sona kontrol edin.",
+    "Kulaklığın doğru kulağa takılı ve cihaza bağlı olduğundan, uyaranın gerçekten verildiğinden emin olun.",
+    "Elektrot empedanslarına yeniden bakın ve kayıttaki kalan gürültünün yeterince düşük olduğunu doğrulayın.",
+    "Kuşkulu bir dalga görürseniz ses tüpünü kapatarak alınan kontrol kaydı, onun gerçek olup olmadığını hızla gösterir."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sorun giderme",
+   "baslik": "Belirti, neden, *çözüm*",
+   "sutunlar": [
+    "Belirti",
+    "Olası neden",
+    "İlk adım"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Düz kayıt",
+      "Köprü ya da kopukluk",
+      "Elektrotları kontrol et"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Çok sık ret",
+      "Kas, gevşek elektrot",
+      "Rahatlat, yeniden hazırla"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Düzenli dalgalanma",
+      "50 Hz parazit",
+      "Empedansı dengele"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Sıfırda büyük salınım",
+      "Uyaran artefaktı",
+      "Kabloları ayır"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Kayıtlar örtüşmüyor",
+      "Yüksek kalan gürültü",
+      "Taramayı artır"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kayıt neredeyse düz çıkıyorsa elektrotlar jel ile köprülenmiş ya da bir kablo kopmuş olabilir.",
+    "Taramaların çoğu reddediliyorsa kas gerginliği ya da gevşek bir elektrot düşünülür.",
+    "Kayıtta düzenli bir dalgalanma varsa şebeke paraziti akla gelir ve empedans dengesi kontrol edilir.",
+    "Sıfır anında başlayan büyük bir salınım çoğu zaman uyaran artefaktıdır; dönüştürücü ve elektrot kabloları ayrılır.",
+    "Tekrarlanan kayıtlar örtüşmüyorsa kalan gürültü yüksektir; tarama sayısı artırılır ve hastanın sakinleşmesi beklenir.",
+    "Her adımda tek bir değişiklik yapıp sonucu görmek, sorunun kaynağını bulmayı kolaylaştırır."
+   ]
+  },
+  {
+   "id": "ortalama",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sorun giderme",
+   "baslik": "Kalan gürültü ve *tekrar*",
+   "maddeler": [
+    {
+     "metin": "Kalan gürültü: ortalamadan _geriye kalan_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Tarama dört katına çıkınca gürültü _yarıya_ iner",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Her koşul _en az iki kez_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "İstatistik gösterge _yardımcıdır_",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0,
+      "max": 4200,
+      "adim": 1000,
+      "ad": "Tarama sayısı"
+     },
+     "y": {
+      "min": 0,
+      "max": 1.1,
+      "ad": "Kalan gürültü (göreli)",
+      "isaretler": []
+     },
+     "seriler": [
+      {
+       "ad": "gurultu_egrisi",
+       "noktalar": [
+        [
+         250,
+         1.0
+        ],
+        [
+         500,
+         0.707
+        ],
+        [
+         750,
+         0.577
+        ],
+        [
+         1000,
+         0.5
+        ],
+        [
+         1500,
+         0.408
+        ],
+        [
+         2000,
+         0.354
+        ],
+        [
+         3000,
+         0.289
+        ],
+        [
+         4000,
+         0.25
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "isaretli": true,
+       "cumle": 1
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "bin",
+       "x": 1000,
+       "y": 0.5,
+       "etiket": "yarı",
+       "cumle": 2,
+       "dy": -20
+      },
+      {
+       "ad": "dortbin",
+       "x": 4000,
+       "y": 0.25,
+       "etiket": "çeyrek",
+       "cumle": 2,
+       "dy": -20
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Kalan gürültü (residual noise), ortalama alındıktan sonra kayıtta yine de kalan arka plan etkinliğidir.",
+     "ses": "Kalan gürültü, ortalama alındıktan sonra kayıtta yine de kalan arka plan etkinliğidir."
+    },
+    "Rastgele gürültü, tarama sayısının karekökü oranında azalır; yani tarama sayısı dört katına çıkınca gürültü yarıya iner.",
+    "Bu yüzden belli bir noktadan sonra tarama eklemek yerine gürültünün kaynağını azaltmak daha verimlidir.",
+    "Her koşulda en az iki kayıt alınır; gerçek bir yanıt iki kayıtta aynı latansta görülür.",
+    "Birçok cihazın sunduğu istatistiksel göstergeler, görsel kararı destekler ama onun yerine geçmez."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sorun giderme",
+   "baslik": "Önlemek *gidermekten* kolay",
+   "maddeler": [
+    {
+     "metin": "Loş, sessiz ve _rahat_ oda",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Telefon ve gereksiz cihazlar _uzakta_",
+     "cumle": 1,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "İyi cilt hazırlığı, _dengeli_ empedans",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Kablolar düzenli, _örülmüş_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "test_kabini",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "hasta",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Artefaktların çoğu, kayıt başlamadan alınan önlemlerle engellenebilir.",
+    "Cep telefonları ve gereksiz elektronik cihazlar hastadan ve kablolardan uzak tutulur.",
+    "İyi bir cilt hazırlığı ve dengeli empedans, hem kas hem şebeke kaynaklı sorunları baştan azaltır.",
+    "Kablolar düzenli, örülmüş ve dönüştürücü kablosundan ayrı yerleştirilir.",
+    "Kayıttan önce kişiye testin ağrısız olduğunu ve yalnız dinlenmesinin yeterli olduğunu anlatmak, kaygıyı ve kas gerginliğini azaltır.",
+    "Böylece kayıt süresi kısalır ve sonucun güvenilirliği artar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kaynaklar: _hasta, ortam, uyaran_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Artefakt reddi büyük _sıçramaları_ ayıklar",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "CM ve artefakt _polariteyle_ ters döner",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tüp kapalı kayıt: _CM kaybolur_",
+     "cumle": 3,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "ABR artefaktları hastadan, ortamdan ve uyaranın kendisinden kaynaklanabilir.",
+    "Artefakt reddi büyük gerilimli taramaları ayıklar; sürekli gürültü için kaynağı bulmak gerekir.",
+    "Uyaran artefaktı ve koklear mikrofonik polarite değişince ters döner; sinirsel dalga V dönmez.",
+    "Ses tüpü kapatıldığında koklear mikrofonik kaybolur, elektriksel artefakt ise kayıtta kalır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Tüp kapatılınca salınım aynen kalıyor. Bu nedir?",
+   "secenekler": [
+    "Koklear mikrofonik",
+    "Uyaran artefaktı",
+    "Dalga V"
+   ],
+   "dogru": 1,
+   "aciklama": "Ses kulağa ulaşmadığı halde kalan salınım _elektriksel_ kaynaklıdır; gerçek CM kaybolurdu.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Ses tüpü kapatıldığında erken salınım aynen kalıyor. Bu salınım nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: uyaran artefaktı.",
+    "Ses kulağa ulaşmadığında gerçek koklear mikrofonik kaybolur; kalan salınım dönüştürücünün elektriksel etkisidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitsel nöropati spektrum *bozukluğu* (ANSD)",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste koklear mikrofoniğin var, ABR'nin yok olduğu işitsel nöropati spektrum bozukluğunu öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}
