@@ -1,0 +1,67 @@
+# AIHEAR Akademi: Türkçe ders/reels videolarını GitHub makinelerinde paralel üretir (ses: edge Emma).
+# Çalıştırma: yerelde python -X utf8 _Kaynak/github/gh_baslat.py --dil tr (dışa aktarır, listeler, gönderir, başlatır)
+#   ya da elle: gh workflow run tr_uretim.yml -f liste=sira/dersler.txt -f paket=2
+# Sonuç: her paket bir iş çıktısı (artifact) olur; yerelde _Kaynak/github/indir.py --dil tr ile indirilip Videolar/TR_Emma altına konur.
+name: TR (Emma) video uretimi
+run-name: TR ${{ inputs.liste }} ${{ inputs.etiket }}
+on:
+  workflow_dispatch:
+    inputs:
+      liste:
+        description: 'Sıra dosyası (depoda)'
+        default: 'sira/dersler.txt'
+      paket:
+        description: 'Bir işin üreteceği ders sayısı'
+        default: '2'
+      etiket:
+        description: 'Çalıştırmayı tanımak için (gh_baslat.py verir)'
+        default: ''
+permissions:
+  contents: read
+jobs:
+  plan:
+    runs-on: ubuntu-latest
+    outputs:
+      matris: ${{ steps.p.outputs.matris }}
+    steps:
+      - uses: actions/checkout@v4
+      - id: p
+        env:
+          LISTE: ${{ inputs.liste }}
+          PAKET: ${{ inputs.paket }}
+        run: python3 .github/plan.py "$LISTE" "$PAKET" >> "$GITHUB_OUTPUT"
+  uret:
+    needs: plan
+    runs-on: ubuntu-latest
+    timeout-minutes: 355
+    strategy:
+      fail-fast: false
+      max-parallel: 20
+      matrix:
+        paket: ${{ fromJSON(needs.plan.outputs.matris) }}
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.12'
+          cache: pip
+      - run: pip install -r requirements.txt
+      - uses: actions/cache@v4
+        with:
+          path: ~/.aihear_akademi
+          key: whisper-small-v1
+      - name: Tarayici
+        run: test -x /opt/microsoft/msedge/msedge || python -m playwright install --with-deps msedge
+      - name: Uret
+        env:
+          DERSLER: ${{ matrix.paket.dersler }}
+        run: |
+          export AKADEMI_DIL=TR_Emma
+          bash uret.sh $DERSLER
+      - uses: actions/upload-artifact@v4
+        if: always()
+        with:
+          name: paket-${{ matrix.paket.no }}
+          path: cikti/
+          compression-level: 0
+          retention-days: 14
