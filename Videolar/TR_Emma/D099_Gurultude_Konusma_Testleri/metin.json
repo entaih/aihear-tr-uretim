@@ -426,7 +426,10 @@
     ]
    },
    "cumleler": [
-    "Sabit SNR yönteminde cümleler önceden belirlenmiş SNR değerlerinde verilir.",
+    {
+     "yazi": "Sabit SNR yönteminde cümleler önceden belirlenmiş SNR değerlerinde verilir.",
+     "ses": "Sabit sinyal gürültü oranı yönteminde, cümleler önceden belirlenmiş oranlarda verilir."
+    },
     "Sonuç, doğru tekrar edilen kelimelerin yüzdesi ya da bu sayılardan yapılan bir hesap olarak bulunur.",
     {
      "yazi": "Az sonra göreceğimiz QuickSIN testinde SNR her cümlede önceden belirlenmiş adımlarla azalır; bu da sabit bir şemadır.",

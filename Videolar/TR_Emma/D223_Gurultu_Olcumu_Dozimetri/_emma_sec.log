@@ -1,0 +1,86 @@
+001 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Merhaba, Ey ay hiyır Odyoloji Akademisine hoş geldiniz.  || ref: -
+002 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bu derste iş yerinde gürültünün nasıl ölçüldüğünü ve çalışanın günlük maruziyetinin nasıl hesaplandığını öğreneceğiz.  || ref: -
+003 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Ses düzeyi ölçeri, frekans ve zaman ağırlıklandırmasını, eşdeğer sürekli ses düzeyini ve kişisel dozimetreyi ele alacağız.  || ref: -
+004 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Ses düzeyi ölçer, bir noktadaki ses basınç düzeyini ölçen cihazdır.  || ref: -
+005 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Mikrofon, yükselteç, frekans ve zaman ağırlıklandırma süzgeçleri ve gösterge temel parçalarıdır.  || ref: -
+006 hızlı   aday=1 önek="Türkçe:" dil=tr:0.98 pencere=0.97 (small)  || okunan: Uluslararası ı e ce altmış bir bin altı yüz yetmiş iki standardı ses düzeyi ölçerlerin performansını tanımlar.  || ref: -
+007 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Standart iki doğruluk sınıfı tanımlar: sınıf 1 daha hassastır, sınıf 2 ise genel saha ölçümlerinde kullanılır.  || ref: -
+008 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Ölçümden önce ve sonra cihaz, akustik kalibratörle kontrol edilir.  || ref: -
+009 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.92 (small)  || okunan: Kalibratör, mikrofona bilinen frekans ve düzeyde ses veren küçük bir cihazdır; örneğin 1000 hertzde 94 desibel.  || ref: -
+010 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: İki kontrol arasında belirgin bir fark varsa ölçüm güvenilir kabul edilmez ve tekrarlanır.  || ref: -
+011 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: İnsan kulağı her frekansa eşit duyarlı değildir; özellikle orta düzeylerde pes seslere daha az duyarlıdır.  || ref: -
+012 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: A ağırlıklandırma, ölçülen sesi kulağın bu duyarlılığına benzer biçimde süzer.  || ref: -
+013 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.94 (small)  || okunan: Mavi eğride görüldüğü gibi A süzgeci bin hertzde sıfırdır; yüz yirmi beş hertzde yaklaşık on altı, otuz bir buçuk hertzde yaklaşık otuz dokuz desibel azaltır.  || ref: -
+014 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: A ağırlıklı sonuç desibel A olarak yazılır ve işitme kaybı riskiyle iyi ilişki gösterdiği için mesleki maruziyette kullanılır.  || ref: -
+015 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: C ağırlıklandırma ise kesik çizgide görüldüğü gibi neredeyse düzdür; yalnız çok pes ve çok tiz uçlarda biraz azaltır.  || ref: -
+016 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu yüzden tepe ses basıncı C ağırlıklı ölçülür ve sonuç desibel C olarak yazılır.  || ref: -
+017 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Hiç süzgeç uygulanmayan ölçüme ise Z ağırlıklandırma, yani sıfır ağırlıklandırma denir.  || ref: -
+018 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Ses düzeyi zamanla dalgalanır; ölçerin bu dalgalanmayı ne hızla izlediğine zaman ağırlıklandırma denir.  || ref: -
+019 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Hızlı ayar yaklaşık 125 milisaniyelik bir zaman sabiti kullanır ve değişimleri yakından izler.  || ref: -
+020 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.96 (small)  || okunan: Yavaş ayar 1 saniyelik zaman sabitiyle daha sakin bir gösterge sağlar.  || ref: -
+021 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu ayarlar anlık düzeyi gösterir, ama bir iş günündeki toplam enerjiyi tek başına vermez.  || ref: -
+022 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Darbe seslerinin en yüksek anlık değeri ise tepe değer olarak ayrıca ölçülür.  || ref: -
+023 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Mesleki maruziyet için asıl gereken, zaman içindeki enerjinin ortalamasını alan bütünleştirici ölçümdür.  || ref: -
+024 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu nedenle mesleki ölçümlerde anlık değer yerine, sıradaki bölümde göreceğimiz eşdeğer düzey kaydedilir.  || ref: -
+025 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Ses düzeyi ölçerle yapılan sabit nokta ölçümünde de belli adımlar izlenir.  || ref: -
+026 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Önce cihaz kalibratörle kontrol edilir, ağırlıklandırma ve ölçüm türü seçilir.  || ref: -
+027 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Mikrofon çalışanın bulunduğu yerde ve kulak hizasında tutulur; ölçen kişi sesi engellememek için cihazı bedeninden uzak tutar.  || ref: -
+028 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Ölçüm, sesin değişkenliğini yansıtacak kadar uzun sürdürülür ve süre kaydedilir.  || ref: -
+029 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Hava akımı olan ortamlarda mikrofona rüzgar köpüğü takılır.  || ref: -
+030 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu yöntem makinelerin ve çalışma alanlarının gürültü haritasını çıkarmak için de kullanılır.  || ref: -
+031 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.94 (small)  || okunan: Eşdeğer sürekli ses düzeyi, kısaca el e ku, dalgalanan bir sesle aynı enerjiyi taşıyan sabit düzeydir.  || ref: -
+032 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: A ağırlıklı ölçüldüğünde el a e ku olarak yazılır.  || ref: -
+033 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu örnek grafikte çalışanın gün içindeki düzeyi seksen ile doksan beş desibel A arasında değişiyor.  || ref: -
+034 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: el e ku bu dalgalanmanın enerji ortalamasıdır; aritmetik ortalama değildir.  || ref: -
+035 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.89 (small)  || okunan: Kısa süreli yüksek düzeyler enerjiye büyük katkı yaptığı için el e ku'yu belirgin biçimde yükseltir.  || ref: -
+036 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu örnekte el e ku yaklaşık seksen dokuz desibel A çıkıyor; düzeylerin aritmetik ortalaması ise yaklaşık seksen altıdır.  || ref: -
+037 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Yani bir saatlik doksan beş desibel A çalışma, günün daha sessiz saatlerinden çok daha belirleyicidir.  || ref: -
+038 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Günlük gürültü maruziyet düzeyi, el e iks sekiz saat olarak yazılır.  || ref: -
+039 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.94 (small)  || okunan: Bu değer, gerçek çalışma süresindeki el a e ku'nun sekiz saatlik bir iş gününe normalleştirilmiş halidir.  || ref: -
+040 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Gürültülü çalışma süresi sekiz saatten kısaysa günlük düzey düşer, uzunsa yükselir.  || ref: -
+041 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Örneğin doksan bir desibel A'da dört saat çalışan ve günün geri kalanında anlamlı gürültüye maruz kalmayan birinin günlük düzeyi seksen sekiz desibel A'dır.  || ref: -
+042 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.86 (small)  || okunan: Çünkü süre yarıya indiğinde enerji de yarıya iner ve bu 3 desibellik azalma demektir.  || ref: -
+043 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Türkiye'deki yönetmeliğin eylem ve sınır değerleri bu günlük düzeye göre karşılaştırılır.  || ref: -
+044 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.96 (small)  || okunan: Yönetmelik, günlük ve haftalık düzeylerin hesabında te se iki bin altı yüz yedi iso bin dokuz yüz doksan dokuz standardına atıf yapar.  || ref: -
+045 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Çalışan gün içinde farklı yerlerde ve farklı işlerde bulunuyorsa sabit bir noktadan ölçüm yetersiz kalır.  || ref: -
+046 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Gürültü dozimetresi, çalışanın üzerine takılan ve vardiya boyunca maruziyeti biriktiren bir ölçerdir.  || ref: -
+047 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Kişisel ses maruziyet ölçerlerinin performansı ı e ce altmış bir bin iki yüz elli iki standardıyla tanımlanır.  || ref: -
+048 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Mikrofon genellikle gürültü kaynağına yakın taraftaki omzun üstüne, kulağa yakın biçimde yerleştirilir.  || ref: -
+049 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Cihaz vardiya sonunda el e ku, günlük maruziyet düzeyi, tepe değer ve doz yüzdesi gibi sonuçları verir.  || ref: -
+050 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Dozimetre çalışanın gerçek hareketlerini yansıtır; ama mikrofona çarpma ya da bağırma gibi yapay seslerden etkilenebilir.  || ref: -
+051 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Bu yüzden çalışana mikrofona dokunmaması anlatılır ve kayıt sonradan zaman içinde incelenir.  || ref: -
+052 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Dozimetre de vardiyadan önce ve sonra kalibratörle kontrol edilir.  || ref: -
+053 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.95 (small)  || okunan: Mesleki gürültü ölçümü için uluslararası iso dokuz bin altı yüz on iki standardı üç strateji tanımlar.  || ref: -
+054 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.93 (small)  || okunan: Görev temelli ölçümde iş günü görevlere bölünür ve her görevin düzeyi ile süresi ayrı ayrı belirlenir.  || ref: -
+055 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.94 (small)  || okunan: İş temelli ölçümde aynı işi yapan bir çalışan grubundan örnek ölçümler alınır.  || ref: -
+056 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Tam gün ölçümünde ise çalışan bütün vardiya boyunca dozimetreyle izlenir.  || ref: -
+057 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Seçim, işin ne kadar düzenli olduğuna ve çalışanın gün içinde ne kadar yer değiştirdiğine bağlıdır.  || ref: -
+058 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Hangi strateji seçilirse seçilsin, ölçüm belirsizliği de hesaplanır ve raporda belirtilir.  || ref: -
+059 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Görev temelli ölçüm, gürültüyü azaltmak için hangi işe öncelik verileceğini de gösterir.  || ref: -
+060 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Desibeller aritmetik olarak toplanmaz; seslerin enerjileri toplanır.  || ref: -
+061 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Örneğin seksen beş desibel A ses üreten iki makine birlikte çalıştığında toplam yaklaşık seksen sekiz desibel A olur, yüz yetmiş değil.  || ref: -
+062 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Dozimetrenin verdiği doz yüzdesi de aynı enerji ilkesine dayanır.  || ref: -
+063 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Referans seksen beş desibel A ve değişim oranı üç desibel alındığında, sekiz saat boyunca seksen beş desibel A yüzde yüz doz demektir.  || ref: -
+064 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Her üç desibellik artış dozu iki katına çıkarır: sekiz saat seksen sekiz desibel A yüzde iki yüz, doksan bir desibel A yüzde dört yüz doz demektir.  || ref: -
+065 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Dozimetrenin referans düzeyi ve değişim oranı, hangi düzenlemeye göre ölçüm yapılıyorsa ona uygun ayarlanmalıdır.  || ref: -
+066 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.92 (small)  || okunan: Birlikte çalışan kaynaklardan en gürültülüsü toplam düzeyi belirler; bu yüzden azaltmaya en gürültülü kaynaktan başlanır.  || ref: -
+067 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Gürültü ölçümü çoğunlukla iş hijyeni ve iş güvenliği uzmanlarının alanıdır.  || ref: -
+068 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Odyolog ise ölçüm sonuçlarını okuyabilmeli ve odyometrik bulgularla birlikte yorumlayabilmelidir.  || ref: -
+069 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Örneğin yüksek maruziyetli bir bölümde odyogram değişiklikleri kümeleniyorsa, programın gözden geçirilmesi gerekir.  || ref: -
+070 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Ölçüm sonuçları, ayrıca oktav bant analiziyle birlikte, kulak koruyucunun gereken zayıflatmasını belirlemek için de kullanılır.  || ref: -
+071 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Ölçüm ve odyometri sonuçlarının birlikte izlenmesi, işitme koruma programının etkinliğini değerlendirmeyi kolaylaştırır.  || ref: -
+072 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.94 (small)  || okunan: Kulak koruyucu türlerini ve gerçek koruma değerini bir sonraki derste ele alacağız.  || ref: -
+073 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Bir klinik ipucu: ölçüm raporunda yalnız sonucu değil, ölçüm koşullarını da yazın.  || ref: -
+074 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Cihazın sınıfı, kalibrasyon kontrolleri, ağırlıklandırma ayarları ve ölçüm süresi raporda yer almalıdır.  || ref: -
+075 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Dozimetrede referans düzeyinin ve değişim oranının hangi değerlere ayarlandığı da mutlaka not edilir.  || ref: -
+076 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu bilgiler olmadan iki ölçümün sonucu güvenle karşılaştırılamaz.  || ref: -
+077 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.95 (small)  || okunan: Mesleki maruziyet A ağırlıklı, tepe ses basıncı ise C ağırlıklı ölçülür.  || ref: -
+078 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: el e ku dalgalanan sesin enerji ortalamasıdır; kısa süreli yüksek düzeyler onu belirgin biçimde yükseltir.  || ref: -
+079 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Günlük maruziyet düzeyi, çalışma süresindeki düzeyin sekiz saatlik güne normalleştirilmiş halidir.  || ref: -
+080 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kişisel dozimetre vardiya boyunca maruziyeti biriktirir ve sonucu düzey ve doz yüzdesi olarak verir.  || ref: -
+081 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.95 (small)  || okunan: Kendinizi test edin: her biri seksen beş desibel A ses üreten iki makine birlikte çalışınca toplam düzey yaklaşık kaçtır?  || ref: -
+082 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Doğru cevap B: yaklaşık seksen sekiz desibel A.  || ref: -
+083 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Enerji iki katına çıkar ve bu 3 desibellik artış demektir; desibeller aritmetik olarak toplanmaz.  || ref: -
+084 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bir sonraki derste kulak koruyucu tiplerini ve sahadaki gerçek koruma değerini öğreneceğiz.  || ref: -
+085 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!  || ref: -
+== D223_Gurultu_Olcumu_Dozimetri bitti
