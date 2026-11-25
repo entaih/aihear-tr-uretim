@@ -1,0 +1,743 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D197_Isitme_Cihazi_Bakimi_Arizalar_TR",
+ "kapak": {
+  "ust": "DERS 197",
+  "baslik": "Cihaz *bakımı*<br>ve arızalar",
+  "alt": "Nem, kir filtresi, dinleme kontrolü",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "İşitme cihazı bakımı ve sık arızalar | Ders 197 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazı nasıl temizlenir, nem ve kulak kiri cihaza nasıl zarar verir? Bu derste günlük bakımı, kir filtresi değişimini, sessiz cihaz, zayıf ses, cızırtı ve ıslık gibi sık arızaların adım adım kontrolünü ve dinleme stetoskobunun kullanımını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Taylor ve Mueller, Fitting and Dispensing Hearing Aids; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "işitme"
+  ],
+  "etiketler": [
+   "işitme cihazı bakımı",
+   "işitme cihazı arızaları",
+   "kir filtresi",
+   "wax guard",
+   "dinleme stetoskobu",
+   "nem",
+   "geri besleme",
+   "işitme cihazı temizliği",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 197",
+   "baslik": "İşitme cihazı *bakımı*",
+   "alt": "Nem, kulak kiri, filtreler ve sık arızalar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme cihazının günlük bakımını; nemi, kulak kirini ve filtre değişimini öğreneceğiz.",
+    "Ardından sessiz cihaz, zayıf ses ve cızırtı gibi sık arızaları ve dinleme stetoskobuyla yapılan kontrolü ele alacağız."
+   ]
+  },
+  {
+   "id": "parcalar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Günlük bakım",
+   "baslik": "Bakım nereleri *ilgilendirir?*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "RIC"
+   },
+   "etiketler": [
+    {
+     "parca": "mikrofon",
+     "metin": "Mikrofon girişi",
+     "cumle": 2
+    },
+    {
+     "parca": "alici",
+     "metin": "Alıcı ve kir filtresi",
+     "cumle": 3
+    },
+    {
+     "parca": "pil",
+     "metin": "Pil",
+     "cumle": 4
+    },
+    {
+     "parca": "kalip",
+     "metin": "Dom ya da kalıp",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mikrofon",
+     "cumle": 2
+    },
+    {
+     "parca": "alici",
+     "cumle": 3
+    },
+    {
+     "parca": "pil",
+     "cumle": 4
+    },
+    {
+     "parca": "kalip",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Arızaların çoğu _basit_ nedenli",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Her gün _birkaç dakika_",
+     "cumle": 6,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Bir işitme cihazının çoğu arızası, elektronik bir bozukluktan değil, günlük kullanımın getirdiği basit sorunlardan kaynaklanır.",
+    "Bu örnekte kanal içi alıcılı, yani RIC tipi bir cihaz görüyoruz.",
+    "Mikrofon girişleri gövdenin üst kısmındadır; toz, saç spreyi ve kir bu küçük açıklıkları zamanla tıkayabilir.",
+    "Alıcı kulak yolunun içinde durduğu için kulak kiri ve nemle en çok karşılaşan parçadır.",
+    "Pil ya da şarjlı batarya ise bütün sisteme enerji sağlar; zayıf bir pil pek çok arızanın gizli nedenidir.",
+    "Kulak içine giren dom ya da kalıp da kir ve nemi doğrudan taşıyan bir yüzeydir.",
+    "Bu yüzden bakım, her gün birkaç dakika süren basit bir alışkanlık olarak öğretilir."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Günlük bakım",
+   "baslik": "Her gün *yapılacaklar*",
+   "maddeler": [
+    {
+     "metin": "Kuru, yumuşak bezle _silmek_",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Mikrofon girişini _fırçayla_ temizlemek",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Dom ve kalıptaki kiri almak",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Su ve _kimyasaldan_ uzak tutmak",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Gece kutusunda, _kuru_ yerde saklamak",
+     "cumle": 5,
+     "ikon": "ev"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Kuru bez",
+      "metin": "Her akşam",
+      "cumle": 0
+     },
+     {
+      "ikon": "mikrofon",
+      "baslik": "Fırça",
+      "metin": "Girişler aşağıda",
+      "cumle": 1
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Su, alkol",
+      "metin": "Cihaza değil",
+      "cumle": 4
+     }
+    ],
+    "ust": "TEMİZLİK"
+   },
+   "cumleler": [
+    "Cihaz her gün çıkarıldıktan sonra kuru ve yumuşak bir bezle silinir.",
+    "Mikrofon girişleri, cihazla birlikte verilen küçük fırçayla, girişler aşağıya bakacak biçimde hafifçe temizlenir.",
+    "Dom ya da kalıp üzerindeki kulak kiri, fırça ya da temizlik teliyle alınır.",
+    "Kalıp gövdeden ayrılabiliyorsa üreticinin önerdiği biçimde ılık suyla yıkanabilir ve tamamen kuruduktan sonra takılır.",
+    "Cihazın kendisi suya sokulmaz; alkol ya da başka temizlik ürünleri, üretici önermedikçe kullanılmaz.",
+    "Cihaz gece kutusunda, ısı kaynaklarından uzak ve çocukların ulaşamayacağı kuru bir yerde saklanır."
+   ]
+  },
+  {
+   "id": "nem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Günlük bakım",
+   "baslik": "*Nem* cihazın düşmanıdır",
+   "maddeler": [
+    {
+     "metin": "Ter, yağmur, banyo buharı",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tüpte _su damlacığı_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Kurutma kutusu ya da kapsülü",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Pilli cihazda _kapağı açık_ bırakmak",
+     "cumle": 4,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Şarjlıda _üretici_ önerisi",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NEM",
+    "metin": "Arızaların en sık *gizli* nedeni",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Nem (moisture), işitme cihazının elektronik devresine, mikrofonuna ve alıcısına zarar veren en yaygın etkendir.",
+    "Ter, yağmur, banyo buharı ve sıcak ortamdan soğuğa geçerken oluşan yoğunlaşma cihaza nem taşır.",
+    "Kulak arkası cihazlarda nem, kalıba giden tüpün içinde küçük su damlacıkları olarak görülebilir ve sesi keser.",
+    "Kurutma kutusu ya da kurutucu kapsül, geceleri cihazdaki nemi azaltmak için kullanılabilir.",
+    "Pilli cihazlarda gece pil kapağını açık bırakmak hem nemin çıkmasına yardım eder hem de pilin boşa harcanmasını önler.",
+    "Şarjlı cihazlarda ise kurutma ve şarj için üreticinin önerdiği yöntem izlenir."
+   ]
+  },
+  {
+   "id": "filtre",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Günlük bakım",
+   "baslik": "Kir filtresi *nasıl* değişir?",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Aracı hazırla",
+     "metin": "Yeni filtre çubuğu",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Domu çıkar",
+     "metin": "Alıcı ucu açıkta",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Eskiyi çek",
+     "metin": "Boş uçla",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Yeniyi tak",
+     "metin": "Dolu uçla",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Domu tak",
+     "metin": "Sesi dinle",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kir filtresi (wax guard), alıcının ses çıkışına yerleşen ve kulak kirinin alıcıya girmesini önleyen küçük bir süzgeçtir.",
+    "Değişim için üreticinin verdiği, bir ucu boş, diğer ucunda yeni filtre bulunan küçük bir araç kullanılır.",
+    "Önce dom ya da kalıp alıcının ucundan çıkarılır ve filtre açıkta kalır.",
+    "Aracın boş ucu eski filtreye bastırılır ve düz bir hareketle dışarı çekilir.",
+    "Aracın diğer ucundaki yeni filtre alıcının çıkışına yerleştirilir ve araç yavaşça geri alınır.",
+    "Dom yeniden takılır ve cihazın sesi kısa bir dinleme kontrolüyle doğrulanır.",
+    "Filtrenin ne sıklıkla değişeceği kişinin kulak kiri miktarına göre değişir; tıkandığında hemen değiştirilir."
+   ]
+  },
+  {
+   "id": "ariza_turleri",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sık arızalar",
+   "baslik": "Sık *arızalar*",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Ses yok",
+     "metin": "Cihaz hiç çalmıyor",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Zayıf ses",
+     "metin": "Eskisi kadar güçlü değil",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Cızırtı",
+     "metin": "Bozuk, kesik ses",
+     "cumle": 3
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Islık",
+     "metin": "Geri besleme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kullanıcıların getirdiği arıza şikayetleri çoğunlukla dört grupta toplanır.",
+    "Birincisi sessiz cihazdır; kullanıcı cihazdan hiç ses gelmediğini söyler.",
+    "İkincisi zayıf sestir; cihaz çalışır ama sesi eskisi kadar güçlü ya da net değildir.",
+    "Üçüncüsü cızırtı, kesilme ya da bozuk sestir; ses gelip gider ya da metalik ve kirli duyulur.",
+    "Dördüncüsü ıslıktır; bu, akustik geri besleme (feedback) ile ortaya çıkan tiz bir sestir."
+   ]
+  },
+  {
+   "id": "sessiz",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sık arızalar",
+   "baslik": "Sessiz cihaz: *adım adım*",
+   "adimlar": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Güç",
+     "metin": "Pil ya da şarj",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Ayar",
+     "metin": "Açık mı, program?",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Çıkış yolu",
+     "metin": "Filtre, dom, tüp",
+     "cumle": 3
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Giriş",
+     "metin": "Mikrofon açıklığı",
+     "cumle": 5
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Servis",
+     "metin": "Hala sessizse",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Sessiz cihazda kontrol her zaman en basit adımdan başlar: güç kaynağı.",
+    "Pilli cihazda yeni bir pil takılır ya da pil test cihazıyla ölçülür; şarjlı cihazın gerçekten şarj olduğu doğrulanır.",
+    "Sonra cihazın açık olup olmadığına, ses düzeyine ve yanlışlıkla sessiz bir programa geçip geçmediğine bakılır.",
+    "Ardından sesin çıkış yolu incelenir; kir filtresi, dom ya da kalıp kulak kiriyle tıkanmış olabilir.",
+    "Kulak arkası cihazda tüpün içinde su damlacığı, kıvrılma ya da çatlak olup olmadığı da kontrol edilir.",
+    "Son olarak mikrofon girişinin toz ya da kirle kapanıp kapanmadığına bakılır.",
+    "Bu adımlardan sonra cihaz hala sessizse, iç parçalar için servis değerlendirmesi gerekir."
+   ]
+  },
+  {
+   "id": "belirti_neden",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sık arızalar",
+   "baslik": "Şikayete göre *olası nedenler*",
+   "sutunlar": [
+    "Şikayet",
+    "Olası neden",
+    "İlk kontrol"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Zayıf ses",
+      "Kirli filtre",
+      "Filtreyi değiştir"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Zayıf ses",
+      "Tıkalı mikrofon",
+      "Fırçayla temizle"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Cızırtı, kesilme",
+      "Zayıf pil, nem",
+      "Pil, kurutma"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Cızırtı, kesilme",
+      "Hasarlı kablo",
+      "Kabloyu oynatarak dinle"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Islık",
+      "Gevşek dom, kalıp",
+      "Yerleşimi kontrol et"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Islık",
+      "Buşon",
+      "Otoskopi"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Zayıf seste en sık neden, kulak kiriyle kısmen tıkanmış bir kir filtresidir; filtre değişince ses çoğu zaman düzelir.",
+    "Tozla ya da kirle tıkanan mikrofon girişi de sesi zayıflatır ve özellikle gürültüde anlamayı bozar.",
+    "Cızırtı ve kesilmede önce zayıf pil ve nem düşünülür; pil değiştirilir, cihaz kurutulur.",
+    "Kanal içi alıcılı cihazda alıcı kablosu oynatılırken ses kesiliyorsa kablo ya da bağlantı hasarlı olabilir.",
+    "Islıkta önce dom ya da kalıbın kulakta doğru oturup oturmadığına bakılır; gevşek bir yerleşim sesi dışarı kaçırır.",
+    "Kulak yolunu tıkayan kulak kiri, yani buşon da sesi geri yansıtarak ıslığa yol açabilir; otoskopi bu yüzden atlanmaz.",
+    "Bu tablo bir başlangıç noktasıdır; şikayet sürerse cihaz test kutusunda elektroakustik olarak kontrol edilir."
+   ]
+  },
+  {
+   "id": "islik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sık arızalar",
+   "baslik": "Islık *neden* olur?",
+   "maddeler": [
+    {
+     "metin": "Kalıp ya da dom _gevşek_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kulak yolunda _buşon_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Tüpte çatlak, sertleşme",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Çene hareketiyle _kayma_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Kalıp _küçülmüş_: çocukta büyüme",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "kalip",
+      "metin": "Kalıp oturuşu",
+      "cumle": 0
+     },
+     {
+      "parca": "mikrofon",
+      "metin": "Mikrofon",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Islık, alıcıdan çıkan sesin dışarı kaçıp yeniden mikrofona ulaşmasıyla oluşur; bunu daha önce geri besleme dersinde görmüştük.",
+    "Kulak yolundaki buşon, sesi zara ulaştırmak yerine geri yansıtır ve ıslığı artırabilir.",
+    "Kulak arkası cihazda zamanla sertleşen, çatlayan ya da kalıptan gevşeyen tüp de ses kaçağına yol açar.",
+    "Konuşurken ya da çiğnerken çene hareketi kalıbı biraz yerinden oynatabilir ve ıslık yalnız bu anlarda duyulabilir.",
+    "Çocuklarda kulak yolu büyüdükçe kalıp küçük kalır; tekrarlayan ıslık çoğu zaman yeni kalıp gerektiğini gösterir.",
+    "Cihazın elde tutulurken ya da takılırken ıslık çalması ise genellikle normaldir ve arıza sayılmaz."
+   ]
+  },
+  {
+   "id": "stetoskop",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dinleme kontrolü",
+   "baslik": "Dinleme *stetoskobu*",
+   "maddeler": [
+    {
+     "metin": "Cihazı _kendi kulağınızla_ dinlemek",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "BTE: kancaya ya da _tüp ucuna_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "RIC ve kulak içi: _adaptörle_",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Sessiz ortamda, _düşük_ ses düzeyinde",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Net mi, kesik mi, _bozuk_ mu?",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "alici",
+      "metin": "Ses çıkışı",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "alici",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Dinleme stetoskobu (listening stethoscope), işitme cihazının sesini klinisyenin kendi kulağıyla dinlemesini sağlayan basit bir araçtır.",
+    "İki kulaklı bir hortum ve cihaza bağlanan küçük bir uçtan oluşur; pahalı değildir ama çok bilgi verir.",
+    "Kulak arkası cihazda uç, kancaya ya da kalıbın tüp ucuna takılır.",
+    "Kanal içi alıcılı ve kulak içi cihazlarda ses çıkışını kavrayan özel bir adaptör kullanılır.",
+    "Dinleme sessiz bir ortamda yapılır; klinisyenin kulağını korumak için cihaz önce düşük ses düzeyinde açılır.",
+    "Ses net mi, cızırtılı mı, kesik kesik mi, yoksa metalik ve bozuk mu, buna dikkat edilir.",
+    "Cihaz hafifçe oynatılırken, pil yuvasına ya da kabloya dokunulurken kesilme olup olmadığı da dinlenir."
+   ]
+  },
+  {
+   "id": "gunluk_kontrol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dinleme kontrolü",
+   "baslik": "Çocukta *günlük* dinleme kontrolü",
+   "adimlar": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Görsel kontrol",
+     "metin": "Kir, nem, çatlak",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dinleme",
+     "metin": "Stetoskopla",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Ling sesleri",
+     "metin": "Altı ses",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Kayıt",
+     "metin": "Sorun not edilir",
+     "cumle": 4
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "İletişim",
+     "metin": "Kliniğe bildirilir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cihaz kullanan bebek ve küçük çocuklar cihazın bozulduğunu söyleyemez; bu yüzden günlük kontrol ailenin ve öğretmenin görevidir.",
+    "Önce cihaz, kalıp ve tüp kir, nem ve çatlak açısından gözle incelenir.",
+    "Sonra aile, dinleme stetoskobuyla cihazın sesinin net ve kesintisiz olduğunu dinler.",
+    "Ardından Ling sesleri söylenir ve sesler stetoskopta net duyulur; çocuk büyüdükçe onun tepkisi de gözlenir.",
+    "Fark edilen sorun not edilir; böylece tekrarlayan bir arıza kolayca anlaşılır.",
+    "Çözülemeyen her sorun aynı gün kliniğe bildirilir; çocuğun cihazsız geçen her günü dil gelişimi açısından önemlidir."
+   ]
+  },
+  {
+   "id": "ne_zaman",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dinleme kontrolü",
+   "baslik": "Ne zaman *yönlendirmeli?*",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Servis",
+     "metin": "Kontrollere rağmen sessiz ya da bozuk",
+     "cumle": 1
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Hekim",
+     "metin": "Ağrı, akıntı, kaşıntı, yara",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Hekim",
+     "metin": "Tıkayan kulak kiri",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Test kutusu",
+     "metin": "Nesnel kontrol",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bakım ve basit kontroller her zaman yeterli olmaz; bazı durumlarda yönlendirme gerekir.",
+    "Pil, filtre, dom ve tüp kontrol edildiği halde ses yoksa ya da bozuksa, cihaz servise gönderilir.",
+    "Kulakta ağrı, akıntı, kaşıntı, kızarıklık ya da kalıbın yaptığı bir yara varsa kişi hekime yönlendirilir.",
+    "Kulak yolunu tıkayan kulak kiri de hekim tarafından değerlendirilir; cihazın düzgün çalışması için kanalın açık olması gerekir.",
+    "Kuşkulu durumlarda cihazın kazancı ve distorsiyonu, daha önce gördüğümüz test kutusunda nesnel olarak karşılaştırılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Şikayet edilen her arızada önce pili, filtreyi ve kulak yolunu kontrol edin; ayara dokunmadan önce cihazın gerçekten çalıştığından emin olun.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: zayıf ses şikayetinde hemen kazanç artırmaya ya da yeniden ayar yapmaya yönelmeyin.",
+    "Önce pili, kir filtresini, domu ya da tüpü ve otoskopiyle kulak yolunu kontrol edin.",
+    "Tıkalı bir filtre yerine kazanç artırılırsa, filtre değişince cihaz gereğinden yüksek ses verir ve yeni şikayetler başlar.",
+    "Bakımı, cihaz tesliminde kullanıcıyla birlikte uygulayarak öğretin ve yazılı kısa bir bakım listesi verin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Her gün kuru bez ve _fırça_",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Nem, en sık _gizli_ arıza nedeni",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sessiz cihazda önce _güç_, sonra çıkış yolu",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Dinleme stetoskobuyla _günlük_ kontrol",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Cihaz her gün kuru bir bezle silinir, mikrofon girişi fırçayla temizlenir ve dom ya da kalıptaki kir alınır.",
+    "Nem en sık gizli arıza nedenidir; kurutma ve doğru saklama cihazın ömrünü uzatır.",
+    "Sessiz ya da zayıf seste kontrol pil, ayar, kir filtresi, tüp ve mikrofon sırasıyla yapılır.",
+    "Dinleme stetoskobu, cihazın sesini klinisyenin ve ailenin kendi kulağıyla kontrol etmesini sağlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "RIC cihazda ani zayıf seste ilk kontrol?",
+   "secenekler": [
+    "Kazancı artırmak",
+    "Kir filtresini kontrol etmek",
+    "Yeni reçete formülü",
+    "Cihazı değiştirmek"
+   ],
+   "dogru": 1,
+   "aciklama": "Zayıf seste en sık neden _kulak kiriyle tıkanmış_ kir filtresidir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: kanal içi alıcılı bir cihazın sesi birden zayıfladı. İlk ne kontrol edilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kir filtresi.",
+    "Alıcı kulak yolunda durduğu için filtre kulak kiriyle kolayca tıkanır; değişince ses çoğu zaman düzelir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "ASSR: işitsel *durağan* durum yanıtı",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ileri elektrofizyolojiye geçiyor ve işitsel durağan durum yanıtını, yani ASSR'yi öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

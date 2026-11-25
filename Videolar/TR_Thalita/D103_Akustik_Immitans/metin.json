@@ -1,0 +1,761 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D103_Akustik_Immitans_TR",
+ "kapak": {
+  "ust": "DERS 103",
+  "baslik": "Akustik<br>*immitans*",
+  "alt": "Empedans, admitans ve 226 Hz",
+  "cizim": "orta_kulak"
+ },
+ "youtube": {
+  "baslik": "Akustik İmmitans: Empedans ve Admitans | Ders 103 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İmmitansmetri, orta kulağın sesi ne kadar kolay ilettiğini ölçer. Bu derste empedans, admitans ve immitans kavramlarını, kütle, sertlik ve sürtünme bileşenlerini, orta kulağın rezonans frekansını, yetişkinde 226 Hz prob tonunun neden seçildiğini ve kulak yolu ile orta kulağın ölçümdeki katkılarını inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Hunter ve Shahnaz, Acoustic Immittance Measures: Basic and Advanced Practice.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "immitansmetri",
+   "timpanometri"
+  ],
+  "etiketler": [
+   "akustik immitans",
+   "empedans",
+   "admitans",
+   "kompliyans",
+   "prob tonu",
+   "226 Hz",
+   "rezonans frekansı",
+   "kütle sertlik sürtünme",
+   "immitansmetri",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 103",
+   "baslik": "Akustik *immitans*",
+   "alt": "Empedans, admitans ve prob tonu",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste immitansmetrinin temelindeki empedans ve admitans kavramlarını öğreneceğiz.",
+    "Kütle, sertlik ve sürtünmenin rolünü ve yetişkinde neden iki yüz yirmi altı hertzlik prob tonu kullandığımızı göreceğiz."
+   ]
+  },
+  {
+   "id": "terimler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kavramlar",
+   "baslik": "Üç terim, *tek* sistem",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Empedans",
+     "metin": "Enerji akışına karşı koyma",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Admitans",
+     "metin": "Enerji akışının kolaylığı",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "İmmitans",
+     "metin": "İkisinin ortak adı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ses bir sisteme çarptığında enerjinin bir kısmı sisteme geçer, bir kısmı geri yansır.",
+    "Empedans (impedance), bir sistemin kendisine aktarılan enerjiye karşı gösterdiği toplam karşı koymadır.",
+    "Akustik empedansın birimi akustik ohmdur.",
+    "Admitans (admittance) ise bunun tersidir: enerjinin sisteme ne kadar kolay aktarıldığını anlatır.",
+    "Admitansın birimi akustik mhodur; klinik cihazlar bunun binde birini, yani milimhoyu kullanır.",
+    "Akustik immitans (acoustic immittance), empedans ve admitansı birlikte anlatan ortak bir terimdir.",
+    "Bugünkü klinik cihazların çoğu admitans ölçer; bu yüzden ekranda genellikle milimho ya da mililitre görürüz."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kavramlar",
+   "baslik": "Kütle, sertlik, *sürtünme*",
+   "cizim": "orta_kulak",
+   "yakinlastir": [
+    {
+     "parca": "kemikcikler",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kemikcikler",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 5
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kemikcikler",
+     "metin": "Kütle: kemikçikler",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Sertlik: hava boşluğu",
+     "cumle": 4
+    },
+    {
+     "parca": "stapedius",
+     "metin": "Sertlik: kas ve bağlar",
+     "cumle": 5
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Kütle ve sertlik",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sürtünme: enerjiyi ısıya çevirir",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kütle: tiz frekanslarda etkili",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sertlik: pes frekanslarda etkili",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Orta kulağın empedansını üç bileşen belirler: sürtünme, kütle ve sertlik.",
+    "Sürtünme (resistance), enerjinin bir kısmını ısıya dönüştürür ve frekansa göre pek değişmez.",
+    "Kütle bileşeni (mass), başta kemikçikler olmak üzere sistemin ağırlığından gelir.",
+    "Kütlenin karşı koyması frekans yükseldikçe artar; bu yüzden tiz frekanslarda daha etkilidir.",
+    "Sertlik bileşeni (stiffness), orta kulak boşluğundaki havadan, timpanik membrandan, bağlardan ve kas tendonlarından gelir.",
+    "Sertliğin karşı koyması ise frekans düştükçe artar; pes frekanslarda daha etkilidir.",
+    "Timpanik membran hem kütleye hem sertliğe katkıda bulunur."
+   ]
+  },
+  {
+   "id": "rezonans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kavramlar",
+   "baslik": "Orta kulağın *rezonansı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)"
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "yazisiz": true,
+     "ad": "Karşı koyma (göreli)"
+    },
+    "seriler": [
+     {
+      "ad": "sertlik",
+      "noktalar": [
+       [
+        125,
+        9.6
+       ],
+       [
+        250,
+        7.6
+       ],
+       [
+        500,
+        5.6
+       ],
+       [
+        1000,
+        3.6
+       ],
+       [
+        2000,
+        1.6
+       ],
+       [
+        4000,
+        0.4
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "sertlik",
+      "etiket_konum": [
+       125,
+       9.6
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "kutle",
+      "noktalar": [
+       [
+        125,
+        0.4
+       ],
+       [
+        250,
+        1.6
+       ],
+       [
+        500,
+        2.8
+       ],
+       [
+        1000,
+        3.6
+       ],
+       [
+        2000,
+        5.6
+       ],
+       [
+        4000,
+        8.0
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "etiket": "kütle",
+      "cumle": 1
+     },
+     {
+      "ad": "surtunme",
+      "noktalar": [
+       [
+        125,
+        2
+       ],
+       [
+        4000,
+        2
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "sürtünme",
+      "etiket_konum": [
+       3000,
+       2
+      ],
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "rezonans_noktasi",
+      "x": 1000,
+      "y": 3.6,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "rezonans",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "prob",
+      "x": [
+       200,
+       260
+      ],
+      "renk": "sari",
+      "etiket": "226 Hz",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Rezonansta kütle ve sertlik dengelenir",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Normal: yaklaşık 800 ile 1200 Hz",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "226 Hz: sertlik baskın bölge",
+     "cumle": 5,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Şemada sertliğin karşı koyması pes frekanslarda büyük, tize doğru giderek küçülüyor.",
+    "Kütlenin karşı koyması ise tersine, frekans yükseldikçe büyüyor.",
+    "Sürtünme frekansa göre büyük ölçüde sabit kalıyor.",
+    "Kütle ve sertliğin birbirini dengelediği frekansa rezonans frekansı (resonant frequency) denir; burada yalnız sürtünme kalır.",
+    "Sağlıklı yetişkinlerde orta kulağın rezonans frekansı genellikle sekiz yüz ile bin iki yüz hertz arasındadır.",
+    "İki yüz yirmi altı hertz bu frekansın çok altında, yani sertliğin baskın olduğu bölgededir.",
+    "Bu şema temsilidir; amaç eğrilerin yönünü göstermektir."
+   ]
+  },
+  {
+   "id": "formul",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kavramlar",
+   "baslik": "Bileşenler *nasıl* birleşir?",
+   "maddeler": [
+    {
+     "metin": "Kütle ve sertlik _zıt yönde_ çalışır",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Toplam: sürtünme ve _net reaktans_",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Admitansta: _kondüktans_ ve _süseptans_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Klinikte çoğu zaman _tek değer_",
+     "cumle": 5,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "FORMÜL",
+    "metin": "Empedans = karekök (sürtünme kare + *net reaktans* kare)",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Kütle ve sertlik birbirine zıt yönde çalışır; bu yüzden etkileri birbirinden çıkarılır.",
+    "Aradaki farka net reaktans (reactance) denir; toplam empedans, sürtünme ile net reaktansın birleşimidir.",
+    "Matematiksel olarak empedans, sürtünmenin karesi ile net reaktansın karesinin toplamının kareköküdür.",
+    "Admitans tarafında aynı ikili kondüktans (conductance) ve süseptans (susceptance) adlarını alır.",
+    "Bazı cihazlar bu iki bileşeni ayrı ayrı ölçebilir; bu, çok frekanslı timpanometrinin temelidir.",
+    "Rutin klinikte ise bu bileşenlerin birleşiminden çıkan tek bir admitans değeri kullanılır."
+   ]
+  },
+  {
+   "id": "neden226",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Prob tonu",
+   "baslik": "Neden *226 Hz*?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Sertlik baskın",
+     "metin": "Yorum basitleşir",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Hacim eşdeğerliği",
+     "metin": "1 ml = 1 mmho",
+     "cumle": 3
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Kulak yolu",
+     "metin": "Basit bir hava hacmi",
+     "cumle": 4
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Bebek istisnası",
+     "metin": "Altı aydan küçükte 1000 Hz",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Yetişkinde rutin timpanometrinin prob tonu iki yüz yirmi altı hertzdir; bunun birkaç nedeni vardır.",
+    "Birincisi, bu frekansta sağlıklı yetişkin orta kulağı sertlik baskın çalışır ve ölçümün yorumu basitleşir.",
+    "Sertlik baskın bir sistem, kapalı bir hava hacmi gibi davranır; bu yüzden admitansı hacim cinsinden de ifade edilebilir.",
+    "İkincisi, iki yüz yirmi altı hertzde bir mililitrelik kapalı hava hacmi, tam bir milimhoya karşılık gelir.",
+    "Üçüncüsü, bu düşük frekansta kulak yolu basit bir hava hacmi gibi davranır ve katkısı ölçümden kolayca çıkarılabilir.",
+    "Bu yüzden iki yüz yirmi altı hertzde mililitre ve milimho birbirinin yerine kullanılabilir; başka frekanslarda bu eşitlik geçerli değildir.",
+    "Altı aydan küçük bebeklerde ise orta kulakta kütlenin etkisi belirgin olduğu için bin hertzlik prob tonu tercih edilir."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Prob tonu",
+   "baslik": "Ölçülen ses *nereden* gelir?",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   },
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3,
+     "olcek": 2.3
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_hoparlor",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 4
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 5
+    },
+    {
+     "parca": "prob_pompa",
+     "cumle": 7
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "Prob tonu: 226 Hz",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Kulak yolundaki ses",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Kulak yolu hacmi",
+     "cumle": 4
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Orta kulak admitansı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İmmitans probu kulak yolunu hava sızdırmayacak biçimde kapatır.",
+    "Probdaki küçük hoparlör, prob tonu (probe tone) adı verilen sürekli bir ton verir; düzeyi genellikle seksen beş desibel SPL civarındadır.",
+    "Probdaki mikrofon, kulak yolunda oluşan ses düzeyini sürekli ölçer.",
+    "Sistem sesi kolay kabul ediyorsa kulak yolunda daha az ses kalır; yani admitans yüksektir.",
+    "Ölçülen admitansın bir bölümü kulak yolundaki havaya aittir.",
+    "Kalan bölümü ise timpanik membran ve orta kulak sistemine aittir; asıl ilgilendiğimiz kısım budur.",
+    "İkisini ayırmak için timpanometride basınç değiştirilir; bunu bir sonraki derste göreceğiz.",
+    "İmmitansmetrenin bütün testleri bu basit düzeneğe, yani hoparlör, mikrofon ve pompa üçlüsüne dayanır."
+   ]
+  },
+  {
+   "id": "esdeger",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Prob tonu",
+   "baslik": "Örnek: *iki katkıyı* ayırmak",
+   "sutunlar": [
+    "Ölçüm",
+    "Değer"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Artı 200 daPa'da",
+      "1,0 ml"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Tepe noktasında",
+      "1,7 mmho"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Orta kulak (fark)",
+      "0,7 mmho"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Bir örnekle bakalım: değerler örnektir ve iki yüz yirmi altı hertzde ölçülmüştür.",
+    "Artı iki yüz dekapaskalda timpanik membran gerilir; ölçülen değer neredeyse yalnız kulak yolu havasına aittir: bir mililitre.",
+    "Basınç orta kulak basıncına eşitlendiğinde toplam admitans en yüksek değerine, bir virgül yedi milimhoya çıkar.",
+    "İkisinin farkı olan sıfır virgül yedi milimho, orta kulağa ait admitanstır.",
+    "Bir mililitre bir milimhoya eşit olduğu için bu çıkarma işlemi doğrudan yapılabilir.",
+    "Cihazların çoğu bu çıkarmayı kendisi yapar ve ekranda doğrudan orta kulağa ait tepe değeri gösterir."
+   ]
+  },
+  {
+   "id": "kompliyans",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Prob tonu",
+   "baslik": "*Kompliyans* mı, admitans mı?",
+   "sol": {
+    "ust": "Eski kullanım",
+    "maddeler": [
+     {
+      "metin": "_Kompliyans_: sertliğin tersi",
+      "cumle": 0
+     },
+     {
+      "metin": "Birim: _eşdeğer hacim_, ml",
+      "cumle": 1
+     },
+     {
+      "metin": "Yalnız sertlik bileşenini anlatır",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Bugünkü kullanım",
+    "maddeler": [
+     {
+      "metin": "_Admitans_: tüm bileşenler",
+      "cumle": 3
+     },
+     {
+      "metin": "Birim: _mmho_",
+      "cumle": 3
+     },
+     {
+      "metin": "226 Hz'de iki birim eşdeğer",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Eski cihazlarda ve kaynaklarda kompliyans (compliance) terimi sık geçer; kompliyans sertliğin tersidir, yani esnekliği anlatır.",
+    "Kompliyans, eşdeğer hava hacmi cinsinden, mililitre ya da santimetreküp olarak verilirdi.",
+    "Ancak bu terim yalnız sertlik bileşenini anlatır ve kütle ile sürtünmeyi dışarıda bırakır.",
+    "Bugün tüm bileşenleri kapsayan admitans terimi ve milimho birimi tercih edilir.",
+    "İki yüz yirmi altı hertzde iki birim sayısal olarak eşdeğer olduğu için klinikte ikisini de görebilirsiniz."
+   ]
+  },
+  {
+   "id": "patoloji",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Patolojide",
+   "baslik": "Patoloji *bileşenleri* değiştirir",
+   "ogeler": [
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Sertlik artışı",
+     "metin": "Admitans düşer, rezonans yükselir",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sertlik azalması",
+     "metin": "Admitans artar, rezonans düşer",
+     "cumle": 3
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Sıvı, kitle",
+     "metin": "Hareket belirgin azalır",
+     "cumle": 5
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Perforasyon",
+     "metin": "Ölçülen hacim çok büyür",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Orta kulak hastalıkları bu bileşenleri değiştirir ve immitans ölçümü bu değişimi yakalar.",
+    "Otosklerozda stapes tabanı sabitlenir; sistem sertleşir, admitans düşme eğilimi gösterir ve rezonans frekansı yükselir.",
+    "Timpanosklerozda da benzer bir sertlik artışı görülebilir.",
+    "Kemikçik zinciri kopukluğunda ya da çok gevşek bir timpanik membranda ise sertlik azalır, admitans artar.",
+    "Bu durumda rezonans frekansı da düşer.",
+    "Orta kulakta sıvı ya da kitle olduğunda timpanik membranın hareketi belirgin biçimde azalır ve admitans çok düşük kalır.",
+    "Perforasyonda ise prob tonu orta kulak boşluğuna da ulaşır ve ölçülen hacim beklenenden çok büyük çıkar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ekrandaki birimi ve prob tonunu kontrol edin. Mililitre ile milimho yalnız 226 Hz'de eşdeğerdir; 1000 Hz sonuçları mmho ile okunur.",
+   "cumleler": [
+    "Raporları okurken küçük ama önemli bir ayrıntıya dikkat edin.",
+    "Değerin hangi prob tonuyla ve hangi birimle verildiğini kontrol edin.",
+    "Mililitre ile milimho yalnızca iki yüz yirmi altı hertzde birbirinin yerine kullanılabilir.",
+    "Bin hertzlik bebek timpanometrisinde sonuçlar milimho olarak okunur ve yetişkin normlarıyla karşılaştırılmaz."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Patolojide",
+   "baslik": "İmmitans *ölçümleri* ailesi",
+   "maddeler": [
+    {
+     "metin": "_Timpanometri_: basınca göre admitans",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "_Akustik refleks_: kas kasılmasıyla değişim",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Östaki_ işlev testleri",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Çok frekanslı_ ve geniş bant ölçümler",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 0
+      }
+     ]
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "Bu temel kavramlar, immitansmetrinin bütün testlerinde kullanılır; ilki basınç değiştirilirken admitansın ölçüldüğü timpanometridir.",
+    "Akustik refleks testinde, stapedius kasının kasılmasının admitansta yarattığı küçük değişim ölçülür.",
+    "Östaki borusu işlev testleri de basınç ve admitans ölçümlerine dayanır.",
+    "Çok frekanslı ve geniş bant ölçümler ise bileşenleri farklı frekanslarda inceleyerek daha ayrıntılı bilgi verir.",
+    "Bu testlerin hepsi hızlıdır ve hastanın yanıt vermesini gerektirmez; bu yüzden objektif testler arasında sayılır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Empedans karşı koyma, admitans _kolaylık_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Kütle, sertlik ve _sürtünme_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Rezonans: yaklaşık _800 ile 1200 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "226 Hz'de _1 ml = 1 mmho_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Empedans enerji akışına karşı koymayı, admitans ise akışın kolaylığını anlatır; immitans ikisinin ortak adıdır.",
+    "Orta kulağın empedansını kütle, sertlik ve sürtünme belirler.",
+    "Kütle ve sertliğin dengelendiği rezonans frekansı, sağlıklı yetişkinde yaklaşık sekiz yüz ile bin iki yüz hertzdir.",
+    "İki yüz yirmi altı hertzde orta kulak sertlik baskındır ve bir mililitre hava bir milimhoya eşittir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Otosklerozda orta kulağın rezonans frekansı nasıl değişir?",
+   "secenekler": [
+    "Düşer",
+    "Yükselir",
+    "Değişmez",
+    "Sıfıra iner"
+   ],
+   "dogru": 1,
+   "aciklama": "Stapes fiksasyonu sistemi _sertleştirir_; sertlik artışı admitansı düşürür ve rezonans frekansını yükseltir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Otosklerozda orta kulağın rezonans frekansı nasıl değişir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yükselir.",
+    "Stapes tabanının sabitlenmesi sistemi sertleştirir; sertlik artınca admitans düşer ve rezonans frekansı yükselir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Timpanometri *nasıl* yapılır?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bu kavramları uygulamaya geçirip timpanometrinin nasıl yapıldığını adım adım göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

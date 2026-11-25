@@ -1,0 +1,848 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D107_Bebek_1000Hz_Timpanometri_TR",
+ "kapak": {
+  "ust": "DERS 107",
+  "baslik": "Bebekte<br>*1000 Hz*",
+  "alt": "Altı aydan küçükte timpanometri",
+  "cizim": "timpanogram",
+  "ayar": {
+   "egriler": [
+    {
+     "tip": "A"
+    },
+    {
+     "tip": "B"
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Bebeklerde 1000 Hz Timpanometri | Ders 107 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Altı aydan küçük bebeklerde 226 Hz timpanogram, orta kulakta sıvı varken bile normal görünebilir. Bu derste yenidoğan kulak yolunun özelliklerini, 1000 Hz prob tonuyla ölçümü ve pozitif tepeye dayanan yorum ilkelerini örneklerle inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: BSA, Recommended Procedure: Tympanometry (2013); Baldwin M (2006), Choice of probe tone and classification of trace patterns in tympanometry undertaken in early infancy, International Journal of Audiology; Paradise JL, Smith CG, Bluestone CD (1976), Tympanometric detection of middle ear effusion in infants and young children, Pediatrics; Hunter LL, Shahnaz N, Acoustic Immittance Measures: Basic and Advanced Practice; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "timpanometri",
+   "bebekişitmesi"
+  ],
+  "etiketler": [
+   "1000 Hz timpanometri",
+   "bebek timpanometrisi",
+   "yüksek frekans timpanometri",
+   "prob tonu",
+   "yenidoğan kulak yolu",
+   "orta kulak efüzyonu",
+   "immitansmetri",
+   "pediatrik odyoloji",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 107",
+   "baslik": "Bebeklerde *1000 Hz* timpanometri",
+   "alt": "Altı aydan küçük bebekte orta kulak ölçümü",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste altı aydan küçük bebeklerde iki yüz yirmi altı hertzlik timpanogramın neden yanıltıcı olabildiğini öğreneceğiz.",
+    "Bin hertzlik prob tonuyla ölçümü, yorum ilkelerini ve yenidoğan kulak yolunun özelliklerini konuşacağız."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Sorun",
+   "baslik": "226 Hz neden *yanıltır?*",
+   "maddeler": [
+    {
+     "metin": "Rutin prob tonu: _226 Hz_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "6 aydan küçükte _güvenilir değil_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Sıvı varken _tepeli eğri_ olabilir",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Sonuç: _yanlış negatif_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "A",
+       "cumle": 2
+      }
+     ]
+    },
+    "cumle": 2
+   },
+   "cumleler": [
+    "Yetişkinde rutin timpanometride iki yüz yirmi altı hertzlik prob tonu kullanıldığını önceki derslerde görmüştük.",
+    "Altı aydan küçük bebeklerde ise bu prob tonuyla elde edilen sonuçlar güvenilir değildir.",
+    "En önemli sorun, orta kulakta sıvı olduğu halde tepeli, normal görünen bir timpanogram elde edilebilmesidir.",
+    "Bu durum efüzyonun gözden kaçmasına, yani yanlış negatif bir sonuca yol açar.",
+    {
+     "yazi": "Paradise ve arkadaşlarının bin dokuz yüz yetmiş altı tarihli çalışması, bu sorunu küçük bebeklerde gösteren erken çalışmalardandır.",
+     "ses": "Paradays ve arkadaşlarının bin dokuz yüz yetmiş altı tarihli çalışması, bu sorunu küçük bebeklerde gösteren erken çalışmalardandır."
+    },
+    "O çalışmada timpanogramın efüzyonu ayırt etme gücü, özellikle yedi aydan küçük bebeklerde zayıf bulunmuştu."
+   ]
+  },
+  {
+   "id": "yenidogan",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yenidoğan kulağı",
+   "baslik": "Yenidoğan *kulak yolu*",
+   "cizim": "yenidogan_kulak_yolu",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 5
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Yumuşak duvarlı kulak yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Timpanik membran",
+     "cumle": 5
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Orta kulak",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kısa, dar kulak yolu",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Yumuşak duvar basınçla hareket eder",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Daha yatay zar, küçük boşluk",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Sorunun kaynağı, yenidoğan kulak yolunun (neonatal ear canal) ve orta kulağının yetişkinden farklı yapısıdır.",
+    "Yenidoğanda dış kulak yolu kısa ve dardır; duvarları büyük ölçüde yumuşak dokudan oluşur.",
+    "Kulak yolunun kemik bölümü doğumdan sonra gelişir ve bu gelişim ilk yıllar boyunca sürer.",
+    "Yumuşak duvarlar, timpanometrideki basınç değişimiyle genişleyip daralabilir.",
+    "Bu hareket iki yüz yirmi altı hertzde ölçülen admitansa karışır ve orta kulaktan geliyormuş gibi bir tepe oluşturabilir.",
+    "Ayrıca timpanik membran yetişkine göre daha yatay durur ve orta kulak boşluğu daha küçüktür.",
+    "İlk günlerde orta kulakta doğumdan kalan sıvı ya da doku artıkları da bulunabilir."
+   ],
+   "ayar": {
+    "basinc_cumle": 3,
+    "aci_cumle": 5,
+    "sivi_cumle": 6
+   }
+  },
+  {
+   "id": "neden1000",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yenidoğan kulağı",
+   "baslik": "Neden *1000 Hz?*",
+   "maddeler": [
+    {
+     "metin": "226 Hz'de _kulak yolu duvarı_ karışır",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bebekte _kütle_ payı daha büyük",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "1000 Hz: _orta kulağa_ daha duyarlı",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "BSA: 6 aydan küçükte _1000 Hz_",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PROB TONU",
+    "metin": "6 aydan küçük bebekte *1000 Hz*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Bebek kulağında kulak yolu duvarının ve orta kulağın mekanik özellikleri yetişkinden farklıdır.",
+    "Önceki derslerde gördüğümüz gibi, iki yüz yirmi altı hertzde yetişkin orta kulağı sertlik baskın çalışır.",
+    "Yenidoğanda ise sistemde kütle ve sürtünmenin payı daha belirgindir.",
+    "Daha yüksek bir prob tonu, kulak yolu duvarının hareketinden daha az etkilenir ve orta kulaktaki değişikliğe daha duyarlıdır.",
+    "Bu yüzden altı aydan küçük bebeklerde bin hertzlik prob tonu efüzyonu daha doğru ayırt eder.",
+    "İngiliz Odyoloji Derneği, kısaca BSA da bu yaş grubunda bin hertzlik prob tonunu önerir."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yenidoğan kulağı",
+   "baslik": "Hangi yaşta *hangi ton?*",
+   "sutunlar": [
+    "Düzeltilmiş yaş",
+    "Prob tonu",
+    "Not"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0 ile 6 ay",
+      "1000 Hz",
+      "Tercih edilen"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3 ile 9 ay",
+      "İkisi birlikte",
+      "Geçiş dönemi"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "6 ay üzeri",
+      "226 Hz",
+      "Rutin ölçüm"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Yaş sınırında düzeltilmiş yaş kullanılır; prematüre doğan bebekte erken doğduğu süre takvim yaşından çıkarılır.",
+    "Düzeltilmiş yaşı altı aydan küçük bebeklerde yüksek frekans timpanometri (high-frequency tympanometry) tercih edilir.",
+    "Altı aydan sonra iki yüz yirmi altı hertz giderek güvenilir hale gelir ve rutin ölçümde kullanılır.",
+    "Bazı çalışmalar, yaklaşık üç ile dokuz ay arasındaki geçiş döneminde iki prob tonunun birlikte kullanılmasını yararlı bulmuştur.",
+    "Kliniğinizin hangi yaş sınırını kullandığı protokolde açıkça yazılı olmalıdır."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüm",
+   "baslik": "Bebekte *ölçüm* adımları",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Kulak yolu ve zar",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Sakin bebek",
+     "metin": "Uyku ya da emzirme",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Uygun uç",
+     "metin": "Sızdırmaz yerleşim",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "1000 Hz tarama",
+     "metin": "Artı 200'den eksi 400'e",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "metin": "Prob tonu ve yaş",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Ölçümden önce otoskopiyle kulak yolu ve görülebiliyorsa timpanik membran incelenir.",
+    "Bebek uyurken ya da sakin biçimde emerken ölçüm almak en kolay yoldur.",
+    "Ağlama ve güçlü emme hareketleri eğride düzensiz sapmalara yol açar.",
+    "Bebek kulak yoluna uygun küçük bir prob ucu seçilir ve hava sızdırmayacak biçimde yerleştirilir.",
+    {
+     "yazi": "Cihazda bin hertzlik prob tonu (1000 Hz probe tone) seçilir; basınç genellikle artı iki yüzden eksi dört yüz dekapaskala doğru taranır.",
+     "ses": "Cihazda bin hertzlik prob tonu seçilir; basınç genellikle artı iki yüzden eksi dört yüz dekapaskala doğru taranır."
+    },
+    "Günlük cihaz kontrolü, bin hertz için uygun boyuttaki bir test kavitesiyle yapılır.",
+    "Raporda prob tonu, bebeğin düzeltilmiş yaşı ve ölçüm sırasındaki durumu mutlaka belirtilir."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Tepe var mı, *yok mu?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Basınç (daPa)"
+    },
+    "y": {
+     "min": 0.4,
+     "max": 1.6,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitans (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        -300,
+        0.75
+       ],
+       [
+        -200,
+        0.82
+       ],
+       [
+        -150,
+        0.9
+       ],
+       [
+        -100,
+        1.05
+       ],
+       [
+        -60,
+        1.25
+       ],
+       [
+        -30,
+        1.38
+       ],
+       [
+        0,
+        1.4
+       ],
+       [
+        30,
+        1.32
+       ],
+       [
+        60,
+        1.15
+       ],
+       [
+        100,
+        1.0
+       ],
+       [
+        150,
+        0.95
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "pozitif tepe",
+      "etiket_konum": [
+       40,
+       1.42
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "taban çizgisi",
+      "etiket_konum": [
+       -330,
+       0.82
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "duz",
+      "noktalar": [
+       [
+        -400,
+        0.55
+       ],
+       [
+        -300,
+        0.57
+       ],
+       [
+        -200,
+        0.6
+       ],
+       [
+        -100,
+        0.62
+       ],
+       [
+        0,
+        0.65
+       ],
+       [
+        100,
+        0.67
+       ],
+       [
+        200,
+        0.7
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "etiket": "düz eğri",
+      "etiket_konum": [
+       -330,
+       0.5
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Pozitif tepe: olağan işlev",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Düz ya da çukur: sorun olası",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normu kaynağıyla kullan",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Bin hertzlik timpanogram iki yüz yirmi altı hertzdeki eğrilere her zaman benzemez; bu yüzden Jerger tipleri doğrudan uygulanmaz.",
+    "Yorumda temel soru basittir: eğride belirgin bir pozitif tepe var mı?",
+    "Eğrinin iki ucu arasındaki taban çizgisinin üzerine çıkan belirgin bir tepe, olağan orta kulak işleviyle uyumludur.",
+    "Düz bir eğri ya da taban çizgisinin altına inen bir çukur ise efüzyon gibi bir orta kulak sorununu düşündürür.",
+    {
+     "yazi": "Baldwin'in iki bin altı tarihli çalışmasında bu yaklaşım, efüzyonu yüksek duyarlılık ve iyi özgüllükle ayırt etmiştir.",
+     "ses": "Boldvinin iki bin altı tarihli çalışmasında bu yaklaşım, efüzyonu yüksek duyarlılık ve iyi özgüllükle ayırt etmiştir."
+    },
+    "Karmaşık ya da çentikli eğriler de görülebilir; bu durumda diğer testlerin bulguları yoruma yardım eder.",
+    "Sayısal normlar çalışmalar ve cihazlar arasında farklıdır; bu yüzden kullandığınız normun kaynağını bilin."
+   ]
+  },
+  {
+   "id": "karsilastir",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "226 Hz ile *1000 Hz*",
+   "sol": {
+    "ust": "226 Hz (6 ay üzeri)",
+    "maddeler": [
+     {
+      "metin": "Sertlik baskın orta kulak",
+      "cumle": 0
+     },
+     {
+      "metin": "Jerger tipleri uygulanır",
+      "cumle": 1
+     },
+     {
+      "metin": "ml ile mmho eşit",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "1000 Hz (6 aydan küçük)",
+    "maddeler": [
+     {
+      "metin": "Kulak yolu duvarından az etkilenir",
+      "cumle": 3
+     },
+     {
+      "metin": "Pozitif tepe var mı?",
+      "cumle": 4
+     },
+     {
+      "metin": "Sonuç mmho olarak okunur",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "İki prob tonunu yan yana koyalım: iki yüz yirmi altı hertzde orta kulak sertlik baskındır.",
+    "Bu yüzden altı aydan büyüklerde Jerger sınıflaması ve bildiğimiz normlar kullanılır.",
+    "Yalnız bu frekansta bir mililitre hava hacmi bir milimhoya eşittir.",
+    "Bin hertzlik ölçüm ise yumuşak kulak yolu duvarının hareketinden daha az etkilenir.",
+    "Yorum, harf tipinden çok pozitif bir tepenin varlığına dayanır.",
+    "Bin hertzde sonuçlar milimho olarak okunur ve yetişkin normlarıyla karşılaştırılmaz."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Örnek: *iki ton*, iki sonuç",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Basınç (daPa)"
+    },
+    "y": {
+     "min": 0.2,
+     "max": 1.4,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitans (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "t226",
+      "noktalar": [
+       [
+        -400,
+        0.45
+       ],
+       [
+        -300,
+        0.5
+       ],
+       [
+        -200,
+        0.6
+       ],
+       [
+        -120,
+        0.8
+       ],
+       [
+        -60,
+        1.05
+       ],
+       [
+        -20,
+        1.18
+       ],
+       [
+        0,
+        1.2
+       ],
+       [
+        30,
+        1.12
+       ],
+       [
+        80,
+        0.85
+       ],
+       [
+        140,
+        0.65
+       ],
+       [
+        200,
+        0.55
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "226 Hz: tepeli",
+      "etiket_konum": [
+       40,
+       1.25
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "t1000",
+      "noktalar": [
+       [
+        -400,
+        0.4
+       ],
+       [
+        -200,
+        0.42
+       ],
+       [
+        0,
+        0.44
+       ],
+       [
+        200,
+        0.46
+       ]
+      ],
+      "renk": "kirmizi",
+      "kalin": 5,
+      "etiket": "1000 Hz: düz",
+      "etiket_konum": [
+       -330,
+       0.3
+      ],
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "226 Hz tepesi yanıltabilir",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "1000 Hz: tepe yok",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bu yaşta 1000 Hz esas",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Bir örneğe bakalım: üç aylık bir bebek, yenidoğan taramasından sonra tanısal değerlendirmeye geliyor.",
+    "Aynı kulakta iki yüz yirmi altı hertzlik ölçümde tepeli, normal görünen bir eğri elde ediliyor.",
+    "Bin hertzlik ölçümde ise eğri düz; belirgin bir pozitif tepe yok.",
+    "Bu yaşta güvenilecek sonuç bin hertzlik ölçümdür; bulgu orta kulakta sıvı olasılığıyla uyumludur.",
+    "Bu bulgu otoakustik emisyon, kısaca OAE sonucunun yorumunu da doğrudan etkiler.",
+    "Örnek eğitim amaçlıdır; değerlendirme ve izlem kararı hekim ve test bataryasıyla birlikte verilir."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Test bataryası",
+   "baslik": "Bataryadaki *yeri*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "OAE",
+     "metin": "Orta kulak sorunu siler",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "İletim sorunu geciktirir",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Akustik refleks",
+     "metin": "1000 Hz probla",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Yönlendirme",
+     "metin": "Kalıcı bulguda KBB",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bin hertzlik timpanometri bebek test bataryasının küçük ama önemli bir parçasıdır.",
+    "OAE alınamadığında nedenin orta kulak mı yoksa koklea mı olduğunu ayırmaya yardım eder.",
+    "İşitsel beyin sapı yanıtı, kısaca ABR kaydında iletim sorunu dalgaları geciktirebilir; timpanogram bu yorumu destekler.",
+    "Bebeklerde akustik refleks de bin hertzlik prob tonuyla daha sık kaydedilir.",
+    "Böylece timpanometri, refleks, OAE ve ABR birlikte daha tutarlı bir tablo oluşturur.",
+    "Orta kulak bulgusu tekrarlayan ölçümlerde sürerse bebek kulak burun boğaz değerlendirmesine yönlendirilir."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Test bataryası",
+   "baslik": "Ölçümün *sınırları*",
+   "maddeler": [
+    {
+     "metin": "_Hareket_ ve emme artefaktı",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Verniks ya da artık: _tıkalı prob_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Gerekirse _tekrar_ ölçüm",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Geniş bant ölçüm: _ek bilgi_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "UNUTMAYIN",
+    "metin": "Tek ölçüm *kesin* karar değildir",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Bin hertzlik timpanometri de kusursuz değildir; hareket ve emme artefaktları sonucu bozabilir.",
+    "Kulak yolunda verniks ya da sıvı artıkları varsa prob tıkanabilir ve düz bir eğri yanlış yorumlanabilir.",
+    "Tek bir ölçüm yerine, gerekirse bir süre sonra yapılan tekrar ölçüm daha güvenilir bilgi verir.",
+    "Geniş bant timpanometri gibi yeni yöntemler bebek kulağında ek bilgi sunar; bunu ilerideki bir derste göreceğiz.",
+    "Her durumda sonuç otoskopi, OAE ve ABR bulgularıyla birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Altı aydan küçük bebekte 226 Hz'de tepeli eğri sizi rahatlatmasın. Kararı 1000 Hz ölçümüne göre verin ve prob tonunu rapora yazın.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: cihaz varsayılan olarak iki yüz yirmi altı hertzde açılıyorsa, bebek ölçümünden önce prob tonunu kontrol edin.",
+    "Altı aydan küçük bir bebekte iki yüz yirmi altı hertzde tepeli bir eğri, orta kulağın normal olduğunu göstermez.",
+    "Kararı bin hertzlik ölçüme göre verin ve hangi prob tonunu kullandığınızı rapora yazın.",
+    "Bu küçük ayrıntı, efüzyonlu bir bebeğin yanlışlıkla normal olarak kaydedilmesini önler."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "6 ay altında _226 Hz_ yanıltıcı",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yumuşak _kulak yolu duvarı_ karışır",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bu yaşta _1000 Hz_ prob tonu",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "_Pozitif tepe_ var mı?",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Altı aydan küçük bebeklerde iki yüz yirmi altı hertzlik timpanogram, sıvı varken bile normal görünebilir.",
+    "Bunun başlıca nedeni yenidoğanın yumuşak kulak yolu duvarı ve farklı orta kulak mekaniğidir.",
+    "Bu yaş grubunda bin hertzlik prob tonu kullanılır ve sonuç milimho olarak okunur.",
+    "Yorumun temeli belirgin bir pozitif tepenin varlığıdır; düz ya da çukur eğri bir sorunu düşündürür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "3 aylık bebek: 226 Hz'de tepeli, 1000 Hz'de düz eğri. Hangisi esas alınır?",
+   "secenekler": [
+    "226 Hz sonucu",
+    "1000 Hz sonucu",
+    "İkisinin ortalaması",
+    "Hiçbiri"
+   ],
+   "dogru": 1,
+   "aciklama": "Altı aydan küçükte _1000 Hz_ güvenilirdir; 226 Hz eğrisi sıvıyı gizleyebilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Üç aylık bir bebekte iki yüz yirmi altı hertzde tepeli, bin hertzde düz eğri var. Hangisi esas alınır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: bin hertzlik ölçüm.",
+    "Bu yaşta iki yüz yirmi altı hertzlik tepe yumuşak kulak yolu duvarından kaynaklanabilir ve sıvıyı gizleyebilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Akustik refleks* ve refleks arkı",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste akustik refleksi, refleks arkını ve normal refleks eşiklerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

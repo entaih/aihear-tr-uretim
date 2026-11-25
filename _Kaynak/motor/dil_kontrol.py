@@ -65,6 +65,19 @@ def main(klasor):
             # yalnız dil tespiti (kodlayıcı); tam yazıya dökme yalnız şüpheli cümlede, ne duyulduğunu göstermek için
             dil_bulunan, olasilik, _ = model.detect_language(ses_dizisi)
             iyi = dil_bulunan == dil and olasilik >= ESIK_DIL.get(dil, ESIK)
+            if sa.get('onek'):
+                # Çok dilli edge sesi (Emma/Thalita) cümle ortasında yabancı aksana kayabilir. Kullanıcı kuralı (25.11.2026):
+                # yabancı aksanlı tek cümle bile kabul edilmez. Sıkı ölçüt: tüm cümle >= 0.90 ve 4 sn'lik her pencere >= 0.85
+                # (emma_sec.py --hizli ile aynı ölçüt, videoya girecek ses dosyasının kendisinde yeniden denetlenir).
+                import emma_sec
+                pen = emma_sec.pencere(ses_dizisi, model, emma_sec.HIZLI_PENCERE) if iyi else 0.0
+                if iyi and (olasilik < emma_sec.ESIK['olas'] or pen < emma_sec.ESIK['pencere']):
+                    iyi = False
+                    print(f"SORUN  {dil_bulunan} {olasilik:.2f} pencere={pen:.2f}  {yazi[:58]}")
+                    sorunlu += 1
+                    parcalar, _ = model.transcribe(ses_dizisi, beam_size=1, language=None)
+                    print('        duyulan:', ' '.join(p.text.strip() for p in parcalar)[:110])
+                    continue
             if not iyi and dil_bulunan in YAKIN_DIL.get(dil, ()):
                 parcalar, _ = model.transcribe(ses_dizisi, beam_size=1, language=dil)
                 duyulan = ' '.join(p.text.strip() for p in parcalar)

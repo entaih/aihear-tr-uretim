@@ -1,0 +1,795 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D008_Test_Bataryasi_TR",
+ "kapak": {
+  "ust": "DERS 8",
+  "baslik": "Odyolojik<br>*test bataryası*",
+  "alt": "Hangi test neyi gösterir?",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      40,
+      40,
+      35,
+      30,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      5,
+      10,
+      10,
+      10,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Odyolojik Test Bataryası: Hangi Test Neyi Gösterir? | Ders 08 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyolojide tek bir testle sonuca varılmaz. Bu derste davranışsal ve objektif testleri, her testin işitme yolunun hangi bölümünü gösterdiğini, Jerger ve Hayes'in çapraz kontrol ilkesini, test sıralamasındaki farklı yaklaşımları ve bulguların örneklerle nasıl birleştirildiğini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jerger J, Hayes D (1976), The cross-check principle in pediatric audiometry, Archives of Otolaryngology; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "işitme"
+  ],
+  "etiketler": [
+   "test bataryası",
+   "test battery",
+   "çapraz kontrol ilkesi",
+   "cross-check principle",
+   "davranışsal test",
+   "objektif test",
+   "Jerger ve Hayes",
+   "saf ses odyometrisi",
+   "timpanometri",
+   "OAE",
+   "ABR",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 8",
+   "baslik": "Odyolojik *test bataryası*",
+   "alt": "Hangi test neyi gösterir, bulgular nasıl birleşir?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyolojik test bataryasını, yani birlikte kullanılan testler grubunu tanıyacağız.",
+    "Hangi testin neyi gösterdiğini, testlerin birbirini nasıl kontrol ettiğini ve bulguların nasıl birleştirildiğini öğreneceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden batarya?",
+   "baslik": "Tek test *yetmez*",
+   "maddeler": [
+    {
+     "metin": "_Test bataryası_ (test battery)",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Her test _farklı bir bölüme_ bakar",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Testler birbirini _tamamlar_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Amaç: kaybın _tipi_, derecesi ve yeri",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "orta_kulak",
+      "metin": "Timpanometri",
+      "cumle": 2
+     },
+     {
+      "parca": "koklea",
+      "metin": "OAE",
+      "cumle": 2
+     },
+     {
+      "parca": "isitme_siniri",
+      "metin": "ABR",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "orta_kulak",
+      "cumle": 2
+     },
+     {
+      "parca": "koklea",
+      "cumle": 2
+     },
+     {
+      "parca": "isitme_siniri",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Odyolojide tek bir testle sonuca varılmaz; birlikte kullanılan testler grubuna test bataryası (test battery) denir.",
+     "ses": "Odyolojide tek bir testle sonuca varılmaz; birlikte kullanılan testler grubuna test bataryası denir."
+    },
+    "İşitme sistemi dış kulaktan beyin sapına ve kortekse uzanan bir zincirdir; her test bu zincirin farklı bir bölümüne bakar.",
+    "Örneğin timpanometri orta kulağı, otoakustik emisyon kokleayı, işitsel beyin sapı yanıtı ise sinir yolunu değerlendirir.",
+    "Bu yüzden testler birbirinin yerine geçmez; birbirini tamamlar.",
+    "Bataryanın amacı, işitme kaybının tipini, derecesini ve sorunun yerini olabildiğince doğru belirlemektir."
+   ]
+  },
+  {
+   "id": "iki_grup",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden batarya?",
+   "baslik": "Davranışsal ve *objektif* testler",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Davranışsal testler",
+     "metin": "Hasta yanıt verir: buton, tekrar",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Örnek testler",
+     "metin": "Saf ses, konuşma, oyun odyometrisi",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Objektif testler",
+     "metin": "Yanıt gerekmez; cihaz kaydeder",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Örnek testler",
+     "metin": "İmmitansmetri, OAE, ABR",
+     "cumle": 5
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Uzman yorumu",
+     "metin": "Kayıtları deneyimli uzman değerlendirir",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Bataryadaki testler iki ana gruba ayrılır: davranışsal testler ve objektif testler.",
+    {
+     "yazi": "Davranışsal testlerde (behavioral test) hasta sesi duyduğunu bir davranışla bildirir: butona basar, tekrar eder ya da başını çevirir.",
+     "ses": "Davranışsal testlerde hasta sesi duyduğunu bir davranışla bildirir: butona basar, tekrar eder ya da başını çevirir."
+    },
+    "Saf ses odyometrisi, konuşma odyometrisi ve çocuklarda görsel pekiştirmeli ve oyun odyometrisi bu gruptadır.",
+    "Bu testler kişinin gerçekten ne duyduğunu gösterir; ancak dikkat, işbirliği ve talimatı anlama gerektirir.",
+    {
+     "yazi": "Objektif testlerde (objective test) ise hastanın yanıt vermesi gerekmez; ölçüm cihazla kaydedilir.",
+     "ses": "Objektif testlerde ise hastanın yanıt vermesi gerekmez; ölçüm cihazla kaydedilir."
+    },
+    "İmmitansmetri, otoakustik emisyon ve işitsel beyin sapı yanıtı bu gruptadır.",
+    "Objektif testler işitme sisteminin parçalarının çalışıp çalışmadığını gösterir; ama tek başına işitmenin kendisini ölçmez.",
+    "Objektif sözcüğü sonucun kendiliğinden yorumlandığı anlamına gelmez; kayıtları yine deneyimli bir uzman değerlendirir."
+   ]
+  },
+  {
+   "id": "neyi_gosterir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hangi test neyi gösterir?",
+   "baslik": "Hangi test *neyi* gösterir?",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Saf ses",
+     "metin": "Tüm yol: eşik, tip, derece",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma",
+     "metin": "SRT ve kelime tanıma",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometri",
+     "metin": "Orta kulak basıncı, hareketlilik",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Akustik refleks",
+     "metin": "Orta kulaktan beyin sapına ark",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OAE",
+     "metin": "Dış tüy hücreleri, koklear işlev",
+     "cumle": 5
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "ABR",
+     "metin": "Sinir ve beyin sapı yanıtı",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Şimdi bataryadaki temel testlerin her birinin neyi gösterdiğine bakalım.",
+    "Saf ses odyometrisi bütün işitme yolunu birlikte değerlendirir; eşikleri, kaybın tipini ve derecesini gösterir.",
+    "Konuşma odyometrisi, konuşmayı alma eşiğini, kısaca SRT'yi ve kelime tanıma becerisini ölçer.",
+    "Timpanometri orta kulak basıncını ve timpanik membranın hareketliliğini gösterir.",
+    "Akustik refleks, orta kulaktan beyin sapına uzanan refleks arkının bütününü test eder.",
+    "Otoakustik emisyon, kısaca OAE, kokleadaki dış tüy hücrelerinin işlevini yansıtır.",
+    "İşitsel beyin sapı yanıtı, kısaca ABR ise işitme siniri ve beyin sapındaki eş zamanlı sinirsel yanıtı gösterir."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Çapraz kontrol ilkesi",
+   "baslik": "Çapraz kontrol *ilkesi*",
+   "maddeler": [
+    {
+     "metin": "_Çapraz kontrol ilkesi_ (cross-check principle)",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Jerger ve Hayes, _1976_",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Sonuç _bağımsız_ bir testle doğrulanır",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Özellikle _çocuklarda_ vazgeçilmez",
+     "cumle": 3,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Uyumsuzluk: _tekrar_ ya da ek test",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        25,
+        35,
+        40,
+        45,
+        50,
+        55
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Test bataryasının temelinde çapraz kontrol ilkesi (cross-check principle) yatar.",
+     "ses": "Test bataryasının temelinde çapraz kontrol ilkesi yatar."
+    },
+    {
+     "yazi": "Bu ilke, bin dokuz yüz yetmiş altı yılında James Jerger ve Deborah Hayes tarafından çocuk odyolojisi için tanımlandı.",
+     "ses": "Bu ilke, bin dokuz yüz yetmiş altı yılında Ceyms Jerger ve Debora Heyz tarafından çocuk odyolojisi için tanımlandı."
+    },
+    "İlkeye göre tek bir testin sonucu, bağımsız bir başka testle doğrulanmadan kesin kabul edilmez.",
+    "Küçük çocuklarda davranışsal yanıtlar değişken olabildiği için bu ilke özellikle önemlidir.",
+    "Bugün ilke, yetişkinler dahil bütün yaş gruplarında iyi klinik uygulamanın bir parçasıdır.",
+    "Testler birbirini doğrulamıyorsa önce test koşulları kontrol edilir, sonra test tekrarlanır ya da ek test yapılır."
+   ]
+  },
+  {
+   "id": "srt_pta",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Çapraz kontrol ilkesi",
+   "baslik": "Örnek: SRT ile *saf ses* uyumu",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Saf ses ortalaması_: 40 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_SRT_: 40 dB HL, uyumlu",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       35,
+       40,
+       45,
+       50,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "En sık kullanılan çapraz kontrollerden biri, saf ses eşikleri ile konuşma eşiğinin karşılaştırılmasıdır.",
+    "Bu örnekte beş yüz, bin ve iki bin hertz eşiklerinin ortalaması, yani saf ses ortalaması (pure tone average) kırk desibel HL.",
+    "Konuşmayı alma eşiği, saf ses ortalamasıyla genellikle on desibel içinde uyumlu olmalıdır.",
+    "Burada konuşmayı alma eşiği de kırk desibel HL bulundu; iki test birbirini doğruluyor.",
+    "Konuşma eşiği saf ses ortalamasından çok daha iyi çıksaydı, saf ses eşiklerinin güvenilirliği sorgulanırdı.",
+    "Böyle bir uyumsuzluk, talimatın anlaşılmadığını ya da yanıtların gerçek işitmeyi yansıtmadığını düşündürebilir."
+   ]
+  },
+  {
+   "id": "objektif_kontrol",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Çapraz kontrol ilkesi",
+   "baslik": "Objektif testlerle *çapraz kontrol*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "DPOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emisyon var",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "OAE var: _ileri_ koklear kayıp beklenmez",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Eşiğe yakın refleks: beyanla _çelişir_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "ABR: _eşik tahmini_ ile karşılaştırma",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Objektif testler de davranışsal sonuçları kontrol etmenin güçlü yollarıdır.",
+    "Koklear kayıp yaklaşık otuz ile kırk desibel HL'yi aştığında otoakustik emisyon genellikle alınamaz.",
+    "Bu yüzden emisyonları belirgin biçimde kaydedilen bir kulakta, ileri derecede koklear kayıp beyanı tutarlı değildir.",
+    "Benzer biçimde, beyan edilen eşiğe çok yakın ya da onun altındaki şiddetlerde alınan akustik refleksler de bu beyanla çelişir.",
+    "İşitsel beyin sapı yanıtıyla yapılan eşik tahmini, davranışsal eşiklerin güvenilir olmadığı durumlarda karşılaştırma sağlar.",
+    "Her testin kendi sınırları vardır; bu yüzden karar tek bir teste değil, bulguların bütününe dayanır."
+   ]
+  },
+  {
+   "id": "sira",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sıralama ve birleştirme",
+   "baslik": "Test *sıralaması*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Önce immitansmetri",
+     "metin": "Hızlı, yanıt gerektirmez",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Maskeleme planı",
+     "metin": "Orta kulak baştan bilinir",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Önce saf ses",
+     "metin": "Hasta dinçken davranışsal test",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Eşikler önce",
+     "metin": "Refleks ve OAE yorumu kolaylaşır",
+     "cumle": 4
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Her zaman ilk",
+     "metin": "Öykü ve otoskopi",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Testlerin sırası klinikten kliniğe değişir ve birden fazla geçerli yaklaşım vardır.",
+    "Bazı klinikler öykü ve otoskopiden sonra immitansmetri ile başlar; bu ölçüm hızlıdır ve hastanın yanıtını gerektirmez.",
+    "Böylece orta kulak durumu baştan bilinir ve saf ses testinde maskeleme planı daha kolay yapılır.",
+    "Bazı klinikler ise saf ses odyometrisi ile başlar; dikkat isteyen davranışsal test, hasta henüz dinçken yapılır.",
+    "Bu yaklaşımda eşikler önceden bilindiği için refleks ve emisyon sonuçları da daha kolay yorumlanır.",
+    "Türkiye'de sıra çoğunlukla kliniğin düzenine ve hasta akışına göre belirlenir.",
+    "Hangi sıra seçilirse seçilsin, her hastada öykü ve otoskopi en başta yer alır."
+   ]
+  },
+  {
+   "id": "birlestir",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sıralama ve birleştirme",
+   "baslik": "Bulguları *birleştirmek*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: hafif kayıp",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Maskeli kemik yolu_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "B",
+     "renk": "yesil",
+     "metin": "Timpanogram: _B tipi_",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Refleks ve OAE: _yok_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       35,
+       30,
+       35,
+       40
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Şimdi farklı testlerin bulgularını tek bir tabloda birleştirelim; bu örnekte sağ kulağı inceliyoruz.",
+    "Hava yolu eşikleri hafif derecede düşük, maskeli kemik yolu ise normal; beş yüz hertzde aradaki fark otuz desibel.",
+    {
+     "yazi": "Aynı kulakta timpanogram B tipi ve dış kulak yolu hacmi normal.",
+     "ses": "Aynı kulakta timpanogram be tipi ve dış kulak yolu hacmi normal."
+    },
+    "Bu kulakta akustik refleks alınamıyor ve otoakustik emisyon da kaydedilemiyor.",
+    "Dört test aynı yönü gösteriyor: sorun orta kulakta ve kayıp iletim tipinde.",
+    "Emisyonun yokluğu burada kokleayı değil, sesin orta kulaktan iki yönde de iyi geçememesini yansıtır.",
+    "Örnekteki tablo orta kulakta sıvı ile uyumludur; kesin değerlendirme her zaman hekime aittir."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sıralama ve birleştirme",
+   "baslik": "Tipik bulgu *örüntüleri*",
+   "sutunlar": [
+    "Bulgu",
+    "İletim",
+    "Koklear",
+    "Sinirsel"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Hava-kemik aralığı",
+      "Var",
+      "Yok",
+      "Yok"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Timpanogram",
+      "Çoğunlukla anormal",
+      "Normal",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "OAE",
+      "Yok",
+      "Yok",
+      "Var olabilir"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Akustik refleks",
+      "Yok",
+      "Normal, ileride yükselir",
+      "Yok ya da yükselmiş"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "ABR",
+      "Tüm dalgalar gecikmiş",
+      "Latanslar çoğunlukla normal",
+      "Uzamış ya da yok"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Kelime tanıma",
+      "İyi",
+      "Kayba uygun",
+      "Beklenenden kötü"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Bu tablo, üç temel kayıp yerinde test bulgularının tipik olarak nasıl göründüğünü özetliyor.",
+    "İletim tipinde hava-kemik aralığı vardır, timpanogram çoğu zaman anormaldir; refleks ve emisyon genellikle alınamaz.",
+    "Koklear kayıplarda timpanogram normaldir ve emisyonlar kaybolur; refleksler kaybın derecesine göre var ya da yükselmiş olabilir.",
+    "Sinirsel sorunlarda emisyonlar korunabilir, ancak refleksler ve işitsel beyin sapı yanıtı bozulur.",
+    "Bu tür sorunlarda kelime tanıma skoru, saf ses eşiklerine göre beklenenden belirgin derecede kötü olabilir.",
+    "Bunlar tipik örüntülerdir; gerçek hastalarda bulgular karışık olabilir ve her zaman bir bütün olarak yorumlanır."
+   ]
+  },
+  {
+   "id": "ansd",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sıralama ve birleştirme",
+   "baslik": "Bataryanın değeri: *bir örnek*",
+   "maddeler": [
+    {
+     "metin": "OAE: _var_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "ABR: belirgin dalga _yok_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Yalnız OAE: _yanlış güven_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yalnız ABR: _yanlış yorum_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Birlikte: sorun _sinirsel iletimde_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oae",
+    "ayar": {
+     "tur": "TEOAE"
+    },
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "yanit",
+      "metin": "Emisyon kaydediliyor",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "yanit",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Bataryanın değerini en iyi gösteren örneklerden biri işitsel nöropati spektrum bozukluğudur (auditory neuropathy spectrum disorder).",
+    "Bu tabloda otoakustik emisyonlar kaydedilir; yani dış tüy hücreleri çalışmaktadır.",
+    "Buna karşın işitsel beyin sapı yanıtında yüksek şiddette bile belirgin dalgalar görülmez.",
+    "Yalnız emisyon testine bakılsaydı işitmenin normal olduğu sanılabilirdi.",
+    "Yalnız beyin sapı yanıtına bakılsaydı ise tablo yalnızca ileri bir koklear kayıp gibi yorumlanabilirdi.",
+    "İki test birlikte değerlendirildiğinde sorunun sinirsel iletimde olduğu anlaşılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sıralama ve birleştirme",
+   "baslik": "Klinikte dikkat",
+   "metin": "Sonuçlar çelişiyorsa önce test koşullarını kontrol edin: prob yerleşimi, kulaklık konumu, talimat ve maskeleme. Sonra testi tekrarlayın.",
+   "cumleler": [
+    "Sahadan bir ipucu: testler birbiriyle çelişiyorsa hemen ilginç bir sonuç aramayın.",
+    "Önce test koşullarını kontrol edin: prob doğru yerleşmiş mi, kulaklık doğru kulakta mı, talimat anlaşılmış mı?",
+    "Maskeleme gerekiyorken yapılmamış olması da tutarsızlıkların sık bir nedenidir.",
+    "Koşullar düzeltilip test tekrarlandığında çelişkilerin önemli bir kısmı kendiliğinden ortadan kalkar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Batarya: _davranışsal_ ve objektif testler",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Her test _farklı bir bölümü_ gösterir",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Çapraz kontrol: _bağımsız_ testle doğrula",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Bulgular _bir bütün_ olarak yorumlanır",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Test bataryası, hastanın yanıtına dayanan davranışsal testler ile objektif testlerden oluşur.",
+    "Her test işitme yolunun farklı bir bölümünü değerlendirir; testler birbirinin yerine geçmez.",
+    "Çapraz kontrol ilkesine göre bir sonuç, bağımsız bir başka testle doğrulanmadan kesin kabul edilmez.",
+    "Testlerin sırası klinikten kliniğe değişebilir; önemli olan bulguların bir bütün olarak yorumlanmasıdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Saf ses ortalaması 50, SRT 15 dB HL. Ne düşünülür?",
+   "secenekler": [
+    "İki test uyumlu",
+    "Saf ses eşikleri şüpheli",
+    "İletim tipi kayıp",
+    "Koklear kayıp"
+   ],
+   "dogru": 1,
+   "aciklama": "SRT, saf ses ortalamasıyla genellikle _10 dB içinde_ uyumludur; büyük fark çapraz kontrolde bir uyarıdır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Saf ses ortalaması elli, konuşmayı alma eşiği on beş desibel HL. Ne düşünülür?",
+     "sonra_bekle": 5,
+     "ses": "Kendinizi test edin. Saf ses ortalaması elli desibel, konuşmayı alma eşiği on beş desibel eyç el. Bu durumda ne düşünülür?"
+    },
+    {
+     "yazi": "Doğru cevap B: saf ses eşiklerinin güvenilirliği sorgulanır.",
+     "ses": "Doğru cevap be: saf ses eşiklerinin güvenilirliği sorgulanır."
+    },
+    "İki eşik genellikle on desibel içinde uyumludur; bu kadar büyük bir fark, testin yeniden gözden geçirilmesini gerektirir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyoloji raporundaki *kısaltmalar*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste odyoloji raporlarında sık gördüğümüz PTA, SRT, SDS ve UCL gibi kısaltmaları tek tek açacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

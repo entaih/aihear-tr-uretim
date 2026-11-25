@@ -1,0 +1,835 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D238_Ic_Kulak_Anomalileri_TR",
+ "kapak": {
+  "ust": "DERS 238",
+  "baslik": "İç kulak<br>*anomalileri*",
+  "alt": "Sennaroğlu sınıflaması",
+  "cizim": "vestibuler",
+  "vurgula": [
+   "koklea"
+  ]
+ },
+ "youtube": {
+  "baslik": "İç kulak anomalileri: Sennaroğlu sınıflaması | Ders 238 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İç kulak anomalileri nasıl sınıflanır ve implant kararını nasıl etkiler? Bu derste Sennaroğlu sınıflamasının sekiz grubunu, Michel aplazisi, koklear aplazi, ortak kavite ve koklear hipoplaziyi, inkomplet partisyon tip 1, 2 ve 3'ü, koklear açıklık anomalilerini ve koklear implant ile işitsel beyin sapı implantı arasındaki kararı öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Sennaroğlu ve Saatçi (2002), A new classification for cochleovestibular malformations, The Laryngoscope; Sennaroğlu ve Bajin (2017), Classification and Current Management of Inner Ear Malformations, Balkan Medical Journal; Jackler, Luxford ve House (1987), Congenital malformations of the inner ear: a classification based on embryogenesis, The Laryngoscope; Sosyal Güvenlik Kurumu Sağlık Uygulama Tebliği, madde 3.3.33 İşitsel implantlar.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "içkulak"
+  ],
+  "etiketler": [
+   "iç kulak anomalileri",
+   "Sennaroğlu sınıflaması",
+   "inkomplet partisyon",
+   "incomplete partition",
+   "Mondini deformitesi",
+   "ortak kavite",
+   "Michel aplazisi",
+   "koklear hipoplazi",
+   "koklear sinir yetersizliği",
+   "işitsel beyin sapı implantı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 238",
+   "baslik": "İç kulak *anomalileri*",
+   "alt": "Sennaroğlu sınıflaması ve implant kararı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iç kulak anomalilerini ve bugün en yaygın kullanılan Sennaroğlu sınıflamasını öğreneceğiz.",
+    "Her grubun işitmeye, koklear implant ya da işitsel beyin sapı implantı kararına etkisini ele alacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Sınıflamanın mantığı",
+   "baslik": "Neden *sınıflıyoruz?*",
+   "maddeler": [
+    {
+     "metin": "Doğuştan kayıpların yaklaşık beşte biri",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Görüntülemeyle tanınır: BT ve MR",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "İmplant mı, beyin sapı implantı mı?",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Cerrahi riskler ve elektrot seçimi",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "YAKLAŞIK YÜZDE 20",
+    "metin": "Doğuştan kayıplarda *görüntülemede* seçilen iç kulak anomalisi",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Doğuştan sensörinöral işitme kayıplarının yaklaşık yüzde 20'sinde görüntülemede seçilebilen bir iç kulak anomalisi bulunur.",
+    "Kalan büyük bölümde sorun zar labirenttedir; bilgisayarlı tomografi, kısaca BT ya da manyetik rezonans görüntüleme, kısaca MR ile görülmez.",
+    "Görülebilen anomaliler kokleanın, vestibülün, kanalların ve iç kulak yolunun gelişimindeki duraklamayı yansıtır.",
+    "Anomalinin tipi, koklear implantın mümkün olup olmadığını ya da işitsel beyin sapı implantı gerekip gerekmediğini belirler.",
+    "Ayrıca cerrahi riskleri, elektrot seçimini, programlamayı ve aileye verilecek beklenti bilgisini etkiler.",
+    "Bu yüzden ortak bir dil, yani güvenilir bir sınıflama, implant ekibinin her üyesi için gereklidir."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Sınıflamanın mantığı",
+   "baslik": "Sınıflamanın *tarihçesi*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Mondini",
+     "cumle": 0,
+     "metin": "On sekizinci yüzyıl"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Jackler",
+     "cumle": 1,
+     "metin": "1987, embriyolojik"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Sennaroğlu, Saatçi",
+     "cumle": 2,
+     "metin": "2002, partisyon tipleri"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Sennaroğlu, Bajin",
+     "cumle": 4,
+     "metin": "2017, sekiz grup"
+    }
+   ],
+   "cumleler": [
+    "Kokleanın tam gelişmemesi ilk kez on sekizinci yüzyılda İtalyan hekim Mondini tarafından tanımlandı.",
+    "Jackler ve arkadaşları 1987'de anomalileri, gelişimin hangi haftada durduğuna göre sıralayan bir sınıflama önerdi.",
+    "Hacettepe Üniversitesinden Sennaroğlu ve Saatçi 2002'de yeni bir sınıflama yayımladı ve inkomplet partisyon tip 1 ile tip 2'yi tanımladı.",
+    "Tip 3 daha sonra eklendi ve sınıflama yıllar içinde güncellendi.",
+    "Sennaroğlu ve Bajin'in 2017 tarihli derlemesi, anomalileri sekiz ana grupta toplar; bugün en yaygın kullanılan sistem budur."
+   ]
+  },
+  {
+   "id": "gruplar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Sınıflamanın mantığı",
+   "baslik": "*Sekiz* ana grup",
+   "sutunlar": [
+    "Grup",
+    "Kısa tanım"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Michel aplazisi",
+      "İç kulak yok"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Rudimenter otokist",
+      "Milimetrik kalıntı"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Koklear aplazi",
+      "Koklea yok"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Ortak kavite",
+      "Tek ortak boşluk"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Koklear hipoplazi",
+      "Küçük koklea, dört tip"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "İnkomplet partisyon",
+      "İç bölmeler eksik"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "EVA, koklear açıklık",
+      "Akuadukt ve sinir kanalı"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Birinci grup, iç kulağın hiç gelişmediği tam labirent aplazisi, yani Michel aplazisidir (Michel aplasia).",
+    "İkincisi rudimenter otokisttir (rudimentary otocyst); iç kulaktan yalnızca milimetrik bir kalıntı vardır.",
+    "Üçüncüsü koklear aplazidir (cochlear aplasia); koklea yoktur, vestibül ve kanallar bulunabilir.",
+    "Dördüncüsü ortak kavitedir (common cavity); koklea ile vestibül ayrışmamış, tek bir boşluk oluşturur.",
+    "Beşincisi koklear hipoplazidir (cochlear hypoplasia); koklea ayrışmıştır ama normalden küçüktür.",
+    "Altıncısı inkomplet partisyondur (incomplete partition); kokleanın dış boyutu normale yakın, iç bölmeleri eksiktir.",
+    "Son iki grup genişlemiş vestibüler akuadukt ve koklear sinirin geçtiği koklear açıklığın anomalileridir.",
+    "Gruplar kabaca gelişimin en erken durduğu anomaliden, yani yaklaşık üçüncü haftadan, daha geç dönemlere doğru sıralanır."
+   ]
+  },
+  {
+   "id": "agir",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ağır anomaliler",
+   "baslik": "İç kulak *yoksa*",
+   "cizim": "ic_kulak_anomali",
+   "vurgula": [
+    {
+     "parca": "normal_koklea",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İşitsel yanıt yok ya da titreşim",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Koklea yok: implant olmaz",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Seçenek: beyin sapı implantı",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Michel aplazisinde koklea, vestibül, yarım daire kanalları ve akuaduktlar gelişmemiştir.",
+    "Bu çocuklarda ya hiç işitsel yanıt yoktur ya da yalnızca titreşim duyusuna bağlı olabilecek alçak frekans yanıtları görülür.",
+    "Rudimenter otokistte iç kulağın küçük bir kalıntısı vardır, ama iç kulak yolu ve beyin sapına bağlantı yoktur.",
+    "Koklear aplazide koklea yoktur; vestibül normal ya da genişlemiş olabilir.",
+    "Bu üç grupta elektrotu yerleştirecek bir koklea bulunmadığı için koklear implant mümkün değildir.",
+    "Seçenek, elektrotların doğrudan beyin sapındaki koklear nükleus üzerine yerleştirildiği işitsel beyin sapı implantıdır.",
+    "Ekrandaki çizim normal labirenti gösteriyor; bu anomalilerde vurgulanan koklea bölümü hiç gelişmemiştir."
+   ],
+   "ayar": {
+    "tipler": [
+     "normal",
+     "michel",
+     "otokist",
+     "koklear_aplazi"
+    ],
+    "cumleler": [
+     0,
+     0,
+     2,
+     3
+    ]
+   }
+  },
+  {
+   "id": "ortak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ağır anomaliler",
+   "baslik": "*Ortak kavite*",
+   "cizim": "ic_kulak_anomali",
+   "ayar": {
+    "tipler": [
+     "normal",
+     "ortak_kavite",
+     "koklear_aplazi"
+    ],
+    "cumleler": [
+     0,
+     0,
+     5
+    ],
+    "genis_vestibul": true,
+    "ana": "ortak_kavite"
+   },
+   "etiketler": [
+    {
+     "parca": "ortak_kavite",
+     "metin": "tek boşluk",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "iç kulak yolu ortaya açılır",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ortak_kavite",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tek boşluk, ayrışmamış sinir",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Sinir varsa: özel elektrot",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Tonotopi beklenmez",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Ortak kavitede koklea ve vestibül tek, yuvarlak ya da oval bir boşluk halindedir.",
+    "İç kulak yolu bu boşluğun ortasına açılır ve sinir ayrışmamış ortak bir koklea-vestibüler sinirdir.",
+    "Sinir varsa koklear implant uygulanabilir; elektrotun boşluğun duvarına oturması için özel düz elektrotlar kullanılır.",
+    "Tonotopik bir düzen beklenmediği için sonuçlar normal kokleaya göre daha değişkendir.",
+    "Sinir yoksa ya da implantla ilerleme yetersizse işitsel beyin sapı implantı gündeme gelir.",
+    "Ortak kavite, vestibülü genişlemiş koklear aplaziden ayırt edilmelidir; çünkü ikincisinde koklear implant yapılmaz."
+   ]
+  },
+  {
+   "id": "hipoplazi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hipoplazi ve partisyon",
+   "baslik": "Koklear *hipoplazi*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Tip 1",
+     "cumle": 0,
+     "metin": "Tomurcuk biçimli, iç yapı yok"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Tip 2",
+     "cumle": 1,
+     "metin": "Kistik, modiolus kusurlu"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tip 3",
+     "cumle": 2,
+     "metin": "İki turdan az, kısa modiolus"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tip 4",
+     "cumle": 3,
+     "metin": "Bazal tur normal, üstü küçük"
+    }
+   ],
+   "cumleler": [
+    "Koklear hipoplazi tip 1'de koklea, iç yapısı olmayan küçük bir tomurcuk gibidir.",
+    "Tip 2'de dış hatlar korunmuştur ama koklea kistik görünür ve modiolus kusurludur; beyin omurilik sıvısı sızıntısı riski vardır.",
+    "Tip 3'te koklea ikiden az tur yapar ve modiolus kısadır.",
+    "Tip 4'te bazal tur normaldir; orta ve tepe turları küçüktür ve öne doğru yer değiştirmiştir.",
+    "Bu grupta işitme normalden çok ileri kayba kadar değişebilir; stapes fiksasyonuna bağlı iletim bileşeni de görülebilir.",
+    "Hafif ve orta kayıplarda işitme cihazı, ağır kayıplarda sinir varsa ince ve kısa elektrotlarla implant düşünülür.",
+    "Koklear sinir yoksa işitsel beyin sapı implantı seçenektir."
+   ]
+  },
+  {
+   "id": "partisyon",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hipoplazi ve partisyon",
+   "baslik": "İnkomplet partisyon: *üç tip*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Tip 1",
+     "cumle": 0,
+     "metin": "Kistik, modiolus ve bölme yok"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tip 2",
+     "cumle": 2,
+     "metin": "Tepe kistik: Mondini"
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Tip 3",
+     "cumle": 4,
+     "metin": "Modiolus yok, X'e bağlı"
+    }
+   ],
+   "cumleler": [
+    "İnkomplet partisyon tip 1'de koklea kistik görünür; modiolus ve turları ayıran bölmeler yoktur, vestibül genişlemiştir.",
+    "Bu tipte ameliyatta beyin omurilik sıvısı fışkırması sıktır ve kusurlu stapes tabanından tekrarlayan menenjit riski vardır.",
+    "Tip 2'de bazal tur normaldir; orta ve tepe turlar birleşerek kistik bir tepe oluşturur ve modiolusun tepe kısmı eksiktir.",
+    "Tip 2'ye hafifçe genişlemiş vestibül ve genişlemiş vestibüler akuadukt eşlik eder; bu üçlüye Mondini deformitesi denir.",
+    "Tip 3'te turları ayıran bölmeler vardır, ama modiolus tamamen yoktur ve koklea doğrudan iç kulak yoluna açılır.",
+    "Tip 3, X'e bağlı kalıtılan bir işitme kaybıyla ilişkilidir ve genellikle erkeklerde görülür.",
+    "İşitme tip 1'de genellikle ağır ile çok ileri, tip 2'de değişken ve ilerleyici, tip 3'te ise sıklıkla mikst tiptedir."
+   ]
+  },
+  {
+   "id": "ip2",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hipoplazi ve partisyon",
+   "baslik": "Tip 2: *Mondini*",
+   "cizim": "ic_kulak_anomali",
+   "ayar": {
+    "tipler": [
+     "normal",
+     "ip2"
+    ],
+    "cumleler": [
+     0,
+     0
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "bazal_tur",
+     "metin": "bazal tur: korunmuş",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "tepe: kistik",
+     "cumle": 3
+    },
+    {
+     "parca": "vestibuler_akuadukt",
+     "metin": "geniş akuadukt",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tepe",
+     "cumle": 3
+    },
+    {
+     "parca": "vestibuler_akuadukt",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bazal tur normal",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "İmplant sonucu genellikle iyi",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Travmayla ani kötüleşme",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "bazal_tur",
+     "cumle": 1,
+     "olcek": 1.6
+    },
+    {
+     "parca": "tepe",
+     "cumle": 3,
+     "olcek": 1.6
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Tip 2 en iyi bilinen anomalidir; vestibül ve akuadukt bulgularıyla birlikte Mondini deformitesi adını alır.",
+    "Kokleanın tabanındaki bazal tur ve oradaki sinir lifleri büyük ölçüde normaldir.",
+    "Yüksek frekansları taşıyan bu bölge korunduğu için implant sonuçları genellikle iyidir.",
+    "Tepe kısmında ise orta ve tepe turlar ayrışmamış, kistik bir boşluk oluşturur.",
+    "İşitme dalgalanabilir ve kafa travmasından sonra ani kötüleşebilir; genişlemiş akuadukt dersinde bunu görmüştük.",
+    "Önce işitme cihazı kullanılır; kayıp ilerleyip cihaz yetersiz kaldığında koklear implant uygulanır."
+   ]
+  },
+  {
+   "id": "ip3",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hipoplazi ve partisyon",
+   "baslik": "Tip 3: *dikkat* gerektiren tablo",
+   "maddeler": [
+    {
+     "metin": "Koklea iç kulak yoluna açık",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Mikst kayıp: otoskleroza benzeyebilir",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Stapes cerrahisi risklidir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Elektrot iç kulak yoluna kayabilir",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Kalıtım: X'e bağlı, _POU3F4_",
+     "cumle": 5,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ic_kulak_yolu_dibi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ic_kulak_yolu",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Tip 3'te modiolus olmadığı için koklea ile iç kulak yolu arasında kemik bir sınır bulunmaz.",
+    "Bu yüzden kayıp çoğu zaman mikst tiptedir ve iletim bileşeni otosklerozu andırabilir.",
+    "Bu kulakta stapes ameliyatı yapılırsa perilenf ve beyin omurilik sıvısı fışkırabilir; sınıflamada stapes cerrahisinden kaçınılması önerilir.",
+    "Koklear implant ameliyatında sıvı fışkırması beklenir ve elektrot yanlışlıkla iç kulak yoluna ilerleyebilir.",
+    "Bu nedenle ameliyat sırasında elektrotun yerinin görüntülemeyle doğrulanması önerilir.",
+    {
+     "yazi": "Tip 3, X kromozomundaki POU3F4 geninin değişiklikleriyle ilişkilidir; genetik danışmanlık aile için önemlidir.",
+     "ses": "Tip 3, X kromozomundaki bir genin değişiklikleriyle ilişkilidir; genetik danışmanlık aile için önemlidir."
+    }
+   ]
+  },
+  {
+   "id": "aciklik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sinir ve açıklık",
+   "baslik": "Koklear *açıklık* ve sinir",
+   "maddeler": [
+    {
+     "metin": "Koklear sinirin geçtiği kemik kanal",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Dar kanal: 1,4 mm altı",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İç kulak yolu dar olabilir",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "OAE geçebilir: taramada dikkat",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Kanal yoksa: beyin sapı implantı",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ic_kulak_yolu_dibi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "koklear_sinir",
+      "metin": "koklear sinir",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "koklear_sinir",
+      "cumle": 0
+     },
+     {
+      "parca": "traktus_spiralis",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Koklear açıklık (cochlear aperture), koklear sinirin iç kulak yolundan kokleaya geçtiği kemik kanaldır.",
+    {
+     "yazi": "Sennaroğlu ve Bajin bu kanalın 1,4 milimetreden dar olmasını hipoplazi, hiç görülmemesini aplazi olarak tanımlar.",
+     "ses": "Sennaroğlu ve Bajin bu kanalın bir virgül dört milimetreden dar olmasını hipoplazi, hiç görülmemesini aplazi olarak tanımlar."
+    },
+    "Bu durumlara sıklıkla dar bir iç kulak yolu ve az gelişmiş ya da hiç olmayan bir koklear sinir eşlik eder.",
+    "Tüy hücreleri sağlam olabildiği için otoakustik emisyon, kısaca OAE alınabilir; çocuk yalnız OAE taramasından geçebilir.",
+    "Bu çocuklarda işitme cihazı genellikle yetersiz kalır; sinir az gelişmişse cihaz denemesinin ardından implant düşünülebilir.",
+    "Kanal ve sinir hiç yoksa ilk seçenek işitsel beyin sapı implantıdır."
+   ]
+  },
+  {
+   "id": "eva",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sinir ve açıklık",
+   "baslik": "Genişlemiş vestibüler *akuadukt*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Tanım",
+     "cumle": 0,
+     "metin": "Orta noktada 1,5 mm üstü"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İşitme",
+     "cumle": 1,
+     "metin": "Dalgalanan, ilerleyici"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Kafa travması",
+     "cumle": 2,
+     "metin": "Ani kötüleşme riski"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "İmplant",
+     "cumle": 3,
+     "metin": "Sonuçlar genellikle iyi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Yedinci grupta genişlemiş vestibüler akuadukt yer alır; ölçüt, akuaduktun orta noktasında 1,5 milimetreden geniş olmasıdır.",
+     "ses": "Yedinci grupta genişlemiş vestibüler akuadukt yer alır; ölçüt, akuaduktun orta noktasında bir buçuk milimetreden geniş olmasıdır."
+    },
+    "Bu grupta koklea, vestibül ve kanallar normaldir; işitme çoğu zaman dalgalanır ve ilerler.",
+    "Kafa travması sonrası ani kötüleşme olabileceği için aile bilgilendirilir.",
+    "Kayıp çok ileri dereceye ulaştığında koklear implant iyi bir seçenektir; bunu daha önce ayrı bir derste görmüştük.",
+    "Klinik davranış açısından bu grup, inkomplet partisyon tip 2'ye benzer biçimde değerlendirilir."
+   ]
+  },
+  {
+   "id": "karar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "İmplant kararı",
+   "baslik": "Görüntülemeden *karara*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Koklea var mı?",
+     "cumle": 0,
+     "metin": "BT ile değerlendir"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Sinir var mı?",
+     "cumle": 1,
+     "metin": "MR ile değerlendir"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "İkisi de var",
+     "cumle": 2,
+     "metin": "Uygun elektrotla implant"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Biri yok",
+     "cumle": 3,
+     "metin": "Beyin sapı implantı"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Belirsiz",
+     "cumle": 4,
+     "metin": "Ekip ve aileyle karar"
+    }
+   ],
+   "cumleler": [
+    "Karar yolunda ilk soru, elektrotun yerleştirilebileceği bir koklea olup olmadığıdır.",
+    "İkinci soru, uyarılacak bir koklear sinirin bulunup bulunmadığıdır; bunu en iyi MR gösterir.",
+    "Koklea ve sinir varsa, anomaliye uygun bir elektrot seçilerek koklear implant uygulanır.",
+    "Koklea ya da koklear sinir yoksa seçenek işitsel beyin sapı implantıdır; Türkiye'de Sağlık Uygulama Tebliği bu implantı da kapsar.",
+    "Sinirin çok ince olduğu belirsiz durumlarda bazı merkezler önce implant deneyip ilerlemeyi izler.",
+    "Seçilmiş vakalarda iki yöntemin birlikte kullanılması da düşünülebilir.",
+    "Her durumda karar, odyolojik bulgular, görüntüleme ve aile görüşmesiyle ekipte verilir."
+   ]
+  },
+  {
+   "id": "cerrahi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "İmplant kararı",
+   "baslik": "Ekip için *önemi*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Sıvı fışkırması",
+     "cumle": 0,
+     "metin": "Ameliyatta beklenir"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Menenjit riski",
+     "cumle": 1,
+     "metin": "Bazı tiplerde artar"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Fasiyal sinir",
+     "cumle": 2,
+     "metin": "Seyri değişebilir"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Elektrot",
+     "cumle": 3,
+     "metin": "Tipe göre seçim"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Programlama",
+     "cumle": 4,
+     "metin": "Farklı uyarı düzeyleri"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Danışmanlık",
+     "cumle": 5,
+     "metin": "Tipe özel beklenti"
+    }
+   ],
+   "cumleler": [
+    "Bazı anomalilerde ameliyat sırasında perilenf ve beyin omurilik sıvısı fışkırabilir; cerrah buna önceden hazırlanır.",
+    "İnkomplet partisyon tip 1 gibi bazı tiplerde menenjit riski artmıştır; aşılama ve ailenin bilgilendirilmesi önemlidir.",
+    "Fasiyal sinirin seyri değişebilir; bu hem cerrahi hem de implantla fasiyal sinirin istenmeden uyarılması açısından önemlidir.",
+    "Elektrot uzunluğu ve biçimi anomali tipine göre seçilir.",
+    "Programlamada daha yüksek uyarı düzeyleri gerekebilir ve bazı elektrotlar kapatılabilir; odyolog görüntüleme raporunu bilerek çalışır.",
+    "Aileye anomali tipine özgü, gerçekçi bir beklenti tablosu sunulur."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "İletim bileşeni olan, özellikle erkek ve aile öyküsü olan bir çocukta, iç kulak anomalisinin dışlanması için görüntüleme gerekip gerekmediğini raporda hekimin dikkatine sunun.",
+   "cumleler": [
+    "Sahadan bir ipucu: mikst ya da iletim tipi kaybı olan bir çocukta her hava-kemik aralığı orta kulak sorunu değildir.",
+    "İnkomplet partisyon tip 3 ve genişlemiş vestibüler akuadukt da bir iletim bileşeni oluşturabilir.",
+    "Özellikle erkek çocukta ve ailede benzer kayıp varsa bu olasılığı raporunuzda hekimin dikkatine sunun.",
+    "Bu bulgu, olası bir orta kulak cerrahisi düşünülmeden önce görüntülemenin önemini hatırlatır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Sekiz grup: gelişimin durduğu döneme göre",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Koklea yoksa koklear implant olmaz",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Partisyon tipleri: farklı risk ve sonuç",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sinir ve açıklık: implant ya da beyin sapı",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Sennaroğlu sınıflaması iç kulak anomalilerini, gelişimin durduğu döneme göre sekiz ana grupta toplar.",
+    "Michel aplazisi, rudimenter otokist ve koklear aplazide koklea olmadığı için seçenek işitsel beyin sapı implantıdır.",
+    "İnkomplet partisyonun üç tipi farklı cerrahi riskler taşır; tip 2'de sonuçlar genellikle iyidir, tip 3'te stapes cerrahisinden kaçınılır.",
+    "Koklear açıklık ve koklear sinirin durumu, koklear implant ile beyin sapı implantı arasındaki kararı belirler."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangi anomalide koklear implant mümkün değildir?",
+   "secenekler": [
+    "İnkomplet partisyon tip 2",
+    "Genişlemiş vestibüler akuadukt",
+    "Michel aplazisi",
+    "Koklear hipoplazi tip 4"
+   ],
+   "dogru": 2,
+   "aciklama": "Michel aplazisinde iç kulak yoktur; seçenek _beyin sapı implantı_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: aşağıdaki anomalilerden hangisinde koklear implant mümkün değildir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: Michel aplazisi.",
+    "Bu anomalide iç kulak hiç gelişmemiştir; elektrot yerleştirilecek bir koklea olmadığı için seçenek işitsel beyin sapı implantıdır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Elektrot dizileri ve cerrahi: *odyolog gözüyle*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste elektrot dizilerini ve implant cerrahisini odyolog gözüyle inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

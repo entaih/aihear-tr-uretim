@@ -1,0 +1,760 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D217_THI_TFI_TR",
+ "kapak": {
+  "ust": "DERS 217",
+  "baslik": "*THI* ve<br>TFI",
+  "alt": "Tinnitus ölçekleri",
+  "cizim": "beyin_yan"
+ },
+ "youtube": {
+  "baslik": "Tinnitus Ölçekleri: THI ve TFI | Ders 217 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Tinnitusun kişinin yaşamını ne kadar etkilediği nasıl ölçülür? Bu derste tinnitus engellilik envanterinin (THI) yapısını, puanlamasını ve beş dereceli yorumunu, tinnitus fonksiyonel indeksinin (TFI) sekiz alt ölçeğini, anlamlı değişim ölçütlerini ve ölçeklerin tanı ve izlemde kullanımını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Newman, Jacobson ve Spitzer, Development of the Tinnitus Handicap Inventory, Arch Otolaryngol Head Neck Surg (1996); Newman, Sandridge ve Jacobson, Psychometric adequacy of the Tinnitus Handicap Inventory, J Am Acad Audiol (1998); Zeman ve ark., Tinnitus Handicap Inventory for evaluating treatment effects: which changes are clinically relevant?, Otolaryngology-Head and Neck Surgery (2011); McCombe ve ark., Guidelines for the grading of tinnitus severity, Clinical Otolaryngology (2001); Meikle ve ark., The Tinnitus Functional Index, Ear and Hearing (2012); Aksoy, Fırat ve Alpar, The Tinnitus Handicap Inventory: a study of validity and reliability, International Tinnitus Journal (2007); Tunkel ve ark., Clinical Practice Guideline: Tinnitus (2014); NICE NG155 (2020).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "tinnitus",
+   "kulakçınlaması"
+  ],
+  "etiketler": [
+   "tinnitus engellilik envanteri",
+   "Tinnitus Handicap Inventory",
+   "THI",
+   "tinnitus fonksiyonel indeksi",
+   "Tinnitus Functional Index",
+   "TFI",
+   "tinnitus ölçekleri",
+   "tinnitus değerlendirmesi",
+   "kulak çınlaması",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 217",
+   "baslik": "Tinnitus ölçekleri: *THI* ve TFI",
+   "alt": "Yapı, puanlama ve yorum",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste tinnitusun yaşama etkisini ölçen iki yaygın ölçeği, tinnitus engellilik envanterini ve tinnitus fonksiyonel indeksini öğreneceğiz.",
+    "Ölçeklerin yapısını, puanlarının nasıl yorumlandığını ve izlemde anlamlı değişimin nasıl belirlendiğini ele alacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "THI",
+   "baslik": "Neden *ölçek?*",
+   "maddeler": [
+    {
+     "metin": "Psikoakustik ölçüm rahatsızlığı _göstermez_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kişinin kendi doldurduğu ölçek",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Rahatsız eden ya da etmeyen",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Hedef ve izlem",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖLÇEK NE İŞE YARAR?",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dikkat",
+      "baslik": "Ayırmak",
+      "metin": "Rahatsız eden tinnitus",
+      "cumle": 2
+     },
+     {
+      "ikon": "ampul",
+      "baslik": "Hedef",
+      "metin": "Öncelikli alanlar",
+      "cumle": 3
+     },
+     {
+      "ikon": "takvim",
+      "baslik": "İzlem",
+      "metin": "Zaman içinde değişim",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Önceki derste psikoakustik ölçümlerin tinnitusun rahatsızlığını göstermediğini gördük.",
+    "Tinnitusun yaşama etkisi, kişinin kendi doldurduğu standart ölçeklerle ölçülür.",
+    "Amerikan kılavuzunun en güçlü önerilerinden biri, rahatsız edici tinnitusu rahatsız etmeyen tinnitustan ayırmaktır.",
+    "Ölçekler bu ayrımı yapmaya, tedavi hedefini belirlemeye ve değişimi izlemeye yardım eder.",
+    "En yaygın iki ölçek, tinnitus engellilik envanteri ile tinnitus fonksiyonel indeksidir."
+   ]
+  },
+  {
+   "id": "thi_yapi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "THI",
+   "baslik": "THI'nın *üç alt ölçeği*",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Fonksiyonel",
+     "metin": "11 soru",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Emosyonel",
+     "metin": "9 soru",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Katastrofik",
+     "metin": "5 soru",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Tinnitus engellilik envanteri (Tinnitus Handicap Inventory), kısaca THI, 1996'da Newman ve arkadaşları tarafından geliştirildi.",
+     "ses": "Tinnitus engellilik envanteri, kısaca THI, bin dokuz yüz doksan altıda Nyumın ve arkadaşları tarafından geliştirildi."
+    },
+    "THI, baş dönmesi engellilik envanteri, yani DHI ile aynı yapıdadır: 25 soru ve üç yanıt seçeneği.",
+    "Fonksiyonel alt ölçek 11 soruyla dikkat, uyku, iş ve sosyal yaşama etkiyi sorar.",
+    "Emosyonel alt ölçek 9 soruyla öfke, kaygı, sinirlilik ve depresif duyguları sorgular.",
+    "Katastrofik alt ölçek 5 soruyla çaresizlik, kontrolü kaybetme ve tinnitustan kaçamama hissini ölçer.",
+    "Evet yanıtı 4, bazen 2, hayır 0 puan alır; toplam puan 0 ile 100 arasındadır.",
+    "Klinikte yorum için genellikle alt ölçeklerden çok toplam puan esas alınır."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "THI",
+   "baslik": "THI'yı *uygulamak*",
+   "maddeler": [
+    {
+     "metin": "Birkaç dakikada doldurulur",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Bugünkü etki düşünülerek",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Okunabilir, ama _yönlendirilmez_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Boş soru kontrolü",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Danışmanlığın başlangıcı",
+     "cumle": 5,
+     "ikon": "ampul"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "YANITLAR",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Evet",
+      "metin": "4 puan",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Bazen",
+      "metin": "2 puan",
+      "cumle": 0
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Hayır",
+      "metin": "0 puan",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "THI kısa bir ölçektir ve çoğu kişi birkaç dakikada doldurur.",
+    "Kişiden soruları tinnitusunun bugünkü etkisini düşünerek yanıtlaması istenir.",
+    "Okuma güçlüğü olan kişilerde sorular tarafsız bir tonla okunabilir; yanıtlar yönlendirilmez.",
+    "Boş bırakılan soru toplam puanı olduğundan düşük gösterir; bu yüzden form teslim alınırken kontrol edilir.",
+    "Ölçek, yakınlarının değil, tinnitusu olan kişinin kendi algısını yansıtır.",
+    "Sonuç hastayla birlikte konuşulduğunda danışmanlığın başlangıç noktası olur."
+   ]
+  },
+  {
+   "id": "thi_derece",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "THI yorumu",
+   "baslik": "THI *dereceleri*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "yazilar": {
+      "1": "Başlangıç",
+      "2": "Altı ay sonra"
+     },
+     "isaretler": [
+      1,
+      2
+     ],
+     "ad": "Örnek izlem"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "THI toplam puanı"
+    },
+    "bolgeler": [
+     {
+      "ad": "derece1",
+      "y": [
+       0,
+       17
+      ],
+      "renk": "yesil",
+      "etiket": "1: çok hafif",
+      "cumle": 1
+     },
+     {
+      "ad": "derece2",
+      "y": [
+       17,
+       37
+      ],
+      "renk": "mavi",
+      "etiket": "2: hafif",
+      "cumle": 2
+     },
+     {
+      "ad": "derece3",
+      "y": [
+       37,
+       57
+      ],
+      "renk": "sari",
+      "etiket": "3: orta",
+      "cumle": 2
+     },
+     {
+      "ad": "derece4",
+      "y": [
+       57,
+       77
+      ],
+      "renk": "turuncu",
+      "etiket": "4: ağır",
+      "cumle": 3
+     },
+     {
+      "ad": "derece5",
+      "y": [
+       77,
+       100
+      ],
+      "renk": "kirmizi",
+      "etiket": "5: katastrofik",
+      "cumle": 3
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        1,
+        64
+       ],
+       [
+        2,
+        38
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "kalin": true,
+      "etiket": "örnek hasta",
+      "cumle": 5
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "degisim",
+      "y": [
+       38,
+       64
+      ],
+      "xk": 2.4,
+      "etiket": "26 puan",
+      "cumle": 6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Beş derece: McCombe 2001",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Puanlar çift sayı",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ağırdan orta dereceye geçiş",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "THI toplam puanı için yaygın bir derecelendirme, McCombe ve arkadaşlarının 2001'de önerdiği beş derecedir.",
+     "ses": "THI toplam puanı için yaygın bir derecelendirme, Makkum ve arkadaşlarının iki bin birde önerdiği beş derecedir."
+    },
+    "0 ile 16 puan birinci derecedir; çok hafif ya da hiç engellilik olmadığı biçiminde yorumlanır.",
+    "18 ile 36 puan hafif, 38 ile 56 puan orta derece engelliliktir.",
+    "58 ile 76 puan ağır, 78 ile 100 puan ise çok ağır, yani katastrofik derece olarak tanımlanır.",
+    "Her soru 0, 2 ya da 4 puan aldığı için toplam puan her zaman çift sayıdır; sınırlar da bu yüzden çift sayılardır.",
+    "Bu örnekte başlangıçta 64 olan puan, altı ay sonra 38'e iniyor.",
+    "Bu, ağır dereceden orta dereceye geçiş anlamına gelir."
+   ]
+  },
+  {
+   "id": "degisim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "THI yorumu",
+   "baslik": "Anlamlı *değişim*",
+   "maddeler": [
+    {
+     "metin": "İstatistiksel ölçüt: _20 puan_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hastanın fark ettiği: yaklaşık 7 puan",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "İki değer farklı soruyu yanıtlar",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Türkçe uyarlama: 2007",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖRNEK: 26 PUAN",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "20 puan ölçütü",
+      "metin": "Aşıldı",
+      "cumle": 4
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "7 puan ölçütü",
+      "metin": "Aşıldı",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "İzlemde iki puan arasındaki farkın gerçek bir değişim olup olmadığına karar vermek gerekir.",
+    "Newman ve arkadaşlarının test tekrar çalışmasında, istatistiksel olarak anlamlı değişim için en az 20 puanlık fark gerektiği bulundu.",
+    "Daha sonraki bir çalışma, hastanın fark edebileceği klinik değişimin daha küçük, yaklaşık 7 puan olabileceğini öne sürdü.",
+    "Bu iki değer farklı soruları yanıtlar: biri ölçüm hatasının sınırını, diğeri hastanın hissettiği farkı gösterir.",
+    "Örneğimizdeki 26 puanlık düşüş, her iki ölçüte göre de anlamlıdır.",
+    "THI'nın Türkçe uyarlaması 2007'de yayımlanmıştır ve yüksek iç tutarlılık göstermiştir."
+   ]
+  },
+  {
+   "id": "tfi1",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "TFI",
+   "baslik": "TFI: *sekiz alt ölçek* (1)",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Rahatsız etme",
+     "metin": "Ne kadar dikkat çekiyor",
+     "cumle": 3
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Kontrol duygusu",
+     "metin": "Tinnitus üzerinde kontrol",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Bilişsel",
+     "metin": "Dikkat ve düşünme",
+     "cumle": 5
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Uyku",
+     "metin": "Dalma ve süre",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Tinnitus fonksiyonel indeksi (Tinnitus Functional Index), kısaca TFI, 2012'de Meikle ve arkadaşları tarafından yayımlandı.",
+     "ses": "Tinnitus fonksiyonel indeksi, kısaca TFI, iki bin on ikide Mikıl ve arkadaşları tarafından yayımlandı."
+    },
+    "TFI hem etkinin şiddetini ölçmek hem de tedaviye bağlı değişime duyarlı olmak amacıyla geliştirildi.",
+    "Ölçekte 25 soru ve sekiz alt ölçek vardır; çoğu soru 0 ile 10 arasında bir ölçekle yanıtlanır.",
+    "Birinci alt ölçek tinnitusun ne kadar rahatsız edici ve sürekli dikkat çekici olduğunu sorar.",
+    "İkinci alt ölçek, kişinin tinnitusu üzerinde ne kadar kontrol hissettiğini ölçer.",
+    "Bilişsel alt ölçek dikkat ve düşünmeye etkiyi, uyku alt ölçeği ise uykuya dalma ve uyku süresine etkiyi sorar."
+   ]
+  },
+  {
+   "id": "tfi2",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "TFI",
+   "baslik": "TFI: *sekiz alt ölçek* (2)",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "İşitsel",
+     "metin": "Duyma ve anlama",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Rahatlama",
+     "metin": "Dinlenme ve sakinlik",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Yaşam kalitesi",
+     "metin": "Sosyal, iş, aile",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Emosyonel",
+     "metin": "Kaygı, üzüntü",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "İşitsel alt ölçek, tinnitusun duymayı ve konuşmayı anlamayı ne kadar zorlaştırdığını sorar.",
+    "Rahatlama alt ölçeği, dinlenme ve sakin kalabilme üzerindeki etkiyi ölçer.",
+    "Yaşam kalitesi alt ölçeği sosyal etkinliklere, işe ve aile yaşamına etkiyi sorar.",
+    "Emosyonel alt ölçek kaygı, üzüntü ve sıkıntı duygularını değerlendirir.",
+    "Alt ölçek puanları, kişinin en çok hangi alanda zorlandığını göstererek danışmanlığı yönlendirir."
+   ]
+  },
+  {
+   "id": "tfi_yorum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "TFI",
+   "baslik": "TFI puanını *yorumlamak*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "yazilar": {
+      "1": "Öncesi",
+      "2": "Sonrası"
+     },
+     "isaretler": [
+      1,
+      2
+     ],
+     "ad": "Örnek izlem"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "TFI toplam puanı"
+    },
+    "bolgeler": [
+     {
+      "ad": "hafif",
+      "y": [
+       0,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "görece hafif",
+      "cumle": 2
+     },
+     {
+      "ad": "belirgin",
+      "y": [
+       25,
+       50
+      ],
+      "renk": "sari",
+      "etiket": "belirgin sorun",
+      "cumle": 3
+     },
+     {
+      "ad": "agir",
+      "y": [
+       50,
+       100
+      ],
+      "renk": "kirmizi",
+      "etiket": "ağır sorun",
+      "cumle": 4
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        1,
+        56
+       ],
+       [
+        2,
+        38
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "kalin": true,
+      "etiket": "örnek hasta",
+      "cumle": 6
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "degisim",
+      "y": [
+       38,
+       56
+      ],
+      "xk": 2.4,
+      "etiket": "18 puan",
+      "cumle": 6
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Yüksek puan, büyük sorun",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Anlamlı iyileşme: en az 13 puan",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "TFI toplam puanı da 0 ile 100 arasındadır; yüksek puan daha büyük bir sorunu gösterir.",
+    "Toplam puan, yanıtlanan soruların ortalaması alınıp 0 ile 100 arasına dönüştürülerek hesaplanır.",
+    "Yaygın bir yoruma göre 25'in altındaki puan görece hafif bir sorunu gösterir.",
+    "25 ile 50 arası, müdahale gerektirebilecek belirgin bir sorun olarak yorumlanır.",
+    "50'nin üzerindeki puan ise daha yoğun müdahale gerektirebilecek ağır bir sorunu düşündürür.",
+    "Geliştirme çalışmasına göre en az 13 puanlık azalma, hastanın anlamlı bulacağı bir iyileşmedir.",
+    "Bu örnekte 56 olan TFI puanı sonradan 38'e iniyor; 18 puanlık bu düşüş anlamlı kabul edilir."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte kullanım",
+   "baslik": "THI mi, *TFI* mı?",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "THI",
+     "metin": "Kısa, yaygın, Türkçesi var",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "TFI",
+     "metin": "Değişime duyarlı, ayrıntılı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "İki ölçek de geçerli ve yaygın olarak kullanılır; seçim amaca göre yapılır.",
+    "THI kısadır, kolay puanlanır ve uzun yıllardır kullanıldığı için literatürde çok sayıda karşılaştırma verisi vardır.",
+    "Türkçe uyarlaması bulunduğu için Türkiye'de klinikte yaygın biçimde kullanılır.",
+    "TFI ise tedaviye bağlı değişime daha duyarlı olacak biçimde tasarlanmıştır ve alt ölçekleri daha ayrıntılıdır.",
+    "NICE kılavuzu, yetişkinlerde tinnitusun etkisini değerlendirmek için TFI'nın kullanılmasının düşünülmesini önerir.",
+    "Hangi ölçek seçilirse seçilsin, aynı kişinin izleminde hep aynı ölçek kullanılmalıdır.",
+    "TFI kullanılacaksa, geçerliği gösterilmiş bir Türkçe biçimin bulunup bulunmadığı önceden kontrol edilmelidir."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte kullanım",
+   "baslik": "Tanı ve *izlemde* ölçekler",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Başlangıç",
+     "metin": "Puan ve derece",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Danışmanlık",
+     "metin": "Öncelikli alanlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Yeniden ölç",
+     "metin": "Aynı ölçek",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Karşılaştır",
+     "metin": "Anlamlı fark mı?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Ölçekler klinik akışta birkaç noktada kullanılır.",
+    "İlk görüşmede başlangıç puanı alınır ve rahatsız edici tinnitus belirlenir.",
+    "Yüksek puan alınan alanlar, danışmanlıkta öncelikle ele alınacak konuları gösterir.",
+    "Danışmanlık ya da tedaviden sonra ölçek yeniden doldurulur ve fark, anlamlı değişim ölçütleriyle karşılaştırılır.",
+    "Ölçek tanı koymaz; yüksek puan, tinnitusun kişiyi ne kadar etkilediğini gösteren bir işarettir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yalnız toplam puana bakmayın; katastrofik maddeleri okuyun. Kendine zarar verme düşüncesi fark ederseniz açıkça sorun ve gecikmeden yönlendirin.",
+   "cumleler": [
+    "Bir klinik ipucu: ölçek doldurulduktan sonra mutlaka gözden geçirin, yalnız toplam puana bakmayın.",
+    "Özellikle katastrofik maddelere verilen evet yanıtları, kişinin ciddi bir sıkıntı içinde olabileceğini gösterir.",
+    "Umutsuzluk ya da kendine zarar verme düşüncesi fark ederseniz konuyu açıkça ve sakin bir dille sorun.",
+    "Böyle bir risk varsa kişi gecikmeden ruh sağlığı uzmanına yönlendirilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "THI: 25 soru, üç alt ölçek",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Beş derece; anlamlı fark 20 puan",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "TFI: sekiz alt ölçek, 13 puan",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "İzlemde hep aynı ölçek",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "THI, üç alt ölçekte toplanan 25 sorudan oluşur ve 0 ile 100 arasında puanlanır.",
+    "THI puanı beş derecede yorumlanır; istatistiksel olarak anlamlı değişim için yaklaşık 20 puanlık fark gerekir.",
+    "TFI sekiz alt ölçekli, değişime duyarlı bir ölçektir; en az 13 puanlık azalma anlamlı iyileşme sayılır.",
+    "Ölçek amaca göre seçilir, ama aynı kişinin izleminde hep aynı ölçek kullanılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "THI'da 46 puan hangi derecededir?",
+   "secenekler": [
+    "Hafif",
+    "Orta",
+    "Ağır",
+    "Katastrofik"
+   ],
+   "dogru": 1,
+   "aciklama": "38 ile 56 puan arası _orta_ derecedir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: tinnitus engellilik envanterinde 46 puan alan bir kişi hangi derecededir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: orta derece.",
+    "McCombe derecelendirmesinde 38 ile 56 arasındaki puanlar orta derece engellilik olarak yorumlanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tinnitus yönetimi: danışmanlık, *ses terapisi* ve cihazlar",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste tinnitus yönetimini, yani danışmanlığı, ses terapisini ve cihazları öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

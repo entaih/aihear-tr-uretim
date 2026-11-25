@@ -1,0 +1,738 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D209_Iki_Tarafli_Vestibulopati_TR",
+ "kapak": {
+  "ust": "DERS 209",
+  "baslik": "İki taraflı<br>*vestibülopati*",
+  "alt": "Osilopsi ve karanlıkta dengesizlik",
+  "cizim": "faz_egrileri",
+  "ayar": {
+   "faz": 0,
+   "kazanc": 0.3
+  }
+ },
+ "youtube": {
+  "baslik": "İki taraflı vestibülopati ve osilopsi | Ders 209 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İki iç kulağın vestibüler işlevi birlikte azalırsa ne olur? Bu derste iki taraflı vestibülopatinin belirtilerini, osilopsiyi ve karanlıkta dengesizliği, gentamisin ototoksisitesi dahil nedenleri, Barany Derneği 2017 ölçütlerini ve vHIT, kalorik ve döner sandalye bulgularını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Strupp ve ark., Bilateral vestibulopathy: Diagnostic criteria, Journal of Vestibular Research (2017) ve düzeltme yazısı (2023); Jacobson ve Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vestibüler",
+   "osilopsi"
+  ],
+  "etiketler": [
+   "iki taraflı vestibülopati",
+   "bilateral vestibulopathy",
+   "osilopsi",
+   "gentamisin",
+   "ototoksisite",
+   "vHIT",
+   "kalorik test",
+   "döner sandalye",
+   "dengesizlik",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 209",
+   "baslik": "İki taraflı *vestibülopati*",
+   "alt": "Osilopsi, karanlıkta dengesizlik ve testler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iki iç kulağın vestibüler işlevinin birlikte azaldığı iki taraflı vestibülopatiyi öğreneceğiz.",
+    "Osilopsiyi, nedenleri ve video baş itme testi, yani vHIT, kalorik ve döner sandalye bulgularını ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve belirtiler",
+   "baslik": "İki taraf *birlikte* zayıf",
+   "maddeler": [
+    {
+     "metin": "İki labirent ya da sinir _birlikte_ etkilenir",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dönme hissi _genellikle yok_",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Kronik, süreğen _dengesizlik_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Tanısı _gecikebilir_",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Toplumda _nadir_ değil",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Dönme",
+      "metin": "Genellikle yok",
+      "cumle": 1
+     },
+     {
+      "ikon": "denge",
+      "baslik": "Dengesizlik",
+      "metin": "Süreğen",
+      "cumle": 2
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Osilopsi",
+      "metin": "Hareketle",
+      "cumle": 2
+     }
+    ],
+    "ust": "BVP"
+   },
+   "cumleler": [
+    "İki taraflı vestibülopati (bilateral vestibulopathy), kısaca BVP, iki taraftaki vestibüler işlevin birlikte azalmasıdır.",
+    "İki taraf benzer biçimde etkilendiği için aralarında büyük bir dengesizlik oluşmaz; bu yüzden şiddetli dönme hissi genellikle yoktur.",
+    "Kişinin asıl yakınması, süreğen bir dengesizlik ve hareket sırasında görüntünün sallanmasıdır.",
+    "Kayıp bazen bir anda, çoğu zaman ise yavaş yavaş ve fark edilmeden gelişir.",
+    "Bu yüzden tanı yıllarca gecikebilir; yakınmalar yaşa, göze ya da kaygıya bağlanabilir.",
+    "ABD'de yapılan bir çalışmada erişkinlerde sıklığı yüz binde yaklaşık yirmi sekiz olarak tahmin edilmiştir.",
+    "Barany Derneği 2017 yılında bu tablo için tanı ölçütleri yayımladı."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve belirtiler",
+   "baslik": "Tipik *belirtiler*",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Yürürken dengesizlik",
+     "metin": "Ayakta ve yürürken",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Osilopsi",
+     "metin": "Görüntü sallanır",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Karanlıkta kötüleşme",
+     "metin": "Ve engebeli zeminde",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Otururken yok",
+     "metin": "Durağan koşullarda",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İki taraflı vestibülopatinin belirtileri hareket ve ortam koşullarıyla yakından ilişkilidir.",
+    "Kişi ayakta dururken ve yürürken dengesizlik hisseder; yürüyüşü genişlemiş ve dikkatli olabilir.",
+    "Yürürken ya da başını hızla çevirdiğinde görüntünün zıpladığını ya da bulanıklaştığını anlatır; buna osilopsi denir.",
+    "Dengesizlik karanlıkta ve engebeli zeminde belirgin biçimde artar; çünkü görme ve ayak tabanı bilgisi azalmıştır.",
+    "Oturur ya da yatarken, baş hareketsizken ise belirti genellikle yoktur; bu durum tanı ölçütlerinin bir parçasıdır.",
+    "Kişiler çoğu zaman gece tuvalete kalkarken ya da kumda yürürken yaşadıkları güçlüğü anlatır."
+   ]
+  },
+  {
+   "id": "osilopsi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve belirtiler",
+   "baslik": "*Osilopsi*: göz başa yetişemez",
+   "cizim": "faz_egrileri",
+   "ayar": {
+    "faz": 0,
+    "kazanc": 0.3,
+    "bas_cumle": 1,
+    "goz_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "bas_hizi",
+     "metin": "Baş hızı",
+     "cumle": 1
+    },
+    {
+     "parca": "goz_hizi",
+     "metin": "Göz hızı: düşük",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "VOR kazancı _düşük_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Görüntü retinada _kayar_",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Okuma ve yüz tanıma _zor_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Osilopsiyi anlamak için vestibülo-oküler refleksi, kısaca VOR'u hatırlayalım.",
+    "Baş hareket ettiğinde VOR gözü aynı hızda ve ters yönde döndürür; böylece görüntü retinada sabit kalır.",
+    "İki taraflı vestibülopatide göz hızı baş hızının çok altında kalır; yani VOR kazancı belirgin biçimde düşer.",
+    "Görüntü her baş hareketinde retina üzerinde kayar ve kişi bunu görüntünün sallanması olarak algılar.",
+    "Yürürken her adımda baş küçük hareketler yaptığı için, sokaktaki tabelaları ya da yüzleri okumak zorlaşır.",
+    "Dinamik görme keskinliği (dynamic visual acuity) testinde, baş hareket ederken okunabilen satır sayısı belirgin biçimde azalır.",
+    "Tek taraflı kayıpta sağlam taraf bu işi büyük ölçüde üstlendiği için osilopsi genellikle bu kadar belirgin değildir."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Nedenler",
+   "baslik": "*Nedenler*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "İdiyopatik",
+     "metin": "Neden bulunamaz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoksik",
+     "metin": "Özellikle gentamisin",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İki taraflı Meniere",
+     "metin": "Yıllar içinde",
+     "cumle": 3
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Menenjit",
+     "metin": "İç kulak hasarı",
+     "cumle": 4
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetik",
+     "metin": "Bazı kalıtsal tablolar",
+     "cumle": 5
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Nörodejeneratif",
+     "metin": "Beyincik ile birlikte",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "İki taraflı vestibülopatinin birçok nedeni vardır ve bir bölümünde birden fazla etken birlikte bulunur.",
+    "Büyük serilerde olguların önemli bir bölümünde, bazılarında yaklaşık yarısında belirgin bir neden bulunamaz; bunlara idiyopatik denir.",
+    "Nedeni bilinenler arasında en sık sayılanlardan biri, aminoglikozid grubu antibiyotiklerin, özellikle gentamisinin ototoksik etkisidir.",
+    "Meniere hastalığı yıllar içinde iki kulağı da etkileyebilir ve iki taraflı vestibüler kayba yol açabilir.",
+    "Bakteriyel menenjit hem işitmeyi hem de iki taraflı vestibüler işlevi aynı anda bozabilir.",
+    "İlerleyici işitme kaybıyla birlikte vestibüler kayıp yapan bazı kalıtsal tablolar da vardır.",
+    "Beyincik ataksisi, nöropati ve vestibüler kayıpla giden CANVAS gibi nörolojik sendromlar da nedenler arasındadır."
+   ]
+  },
+  {
+   "id": "gentamisin",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Nedenler",
+   "baslik": "*Gentamisin* ve ototoksisite",
+   "maddeler": [
+    {
+     "metin": "Vestibüler tüy hücrelerine _toksik_",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Belirtiler _gecikerek_ fark edilebilir",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "İşitme _korunabilir_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hasar çoğunlukla _kalıcı_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Risk altındakilerde _izlem_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OTOTOKSİSİTE",
+    "metin": "Kan düzeyi normal olsa da *hasar* gelişebilir",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Gentamisin (gentamicin), ağır enfeksiyonlarda kullanılan ve özellikle vestibüler tüy hücrelerine zarar verebilen bir antibiyotiktir.",
+    "Ototoksisite riski toplam doza ve tedavi süresine bağlıdır; ancak kan düzeyleri uygun aralıkta olsa bile hasar gelişebilir.",
+    "Hastanede yatan kişi hareketsiz olduğu için belirtiler ancak ayağa kalkıp yürümeye başladığında fark edilebilir.",
+    "Gentamisin ağırlıkla vestibüler sistemi etkilediği için işitme korunurken ağır bir vestibüler kayıp gelişebilir.",
+    "Oluşan vestibüler hasar çoğunlukla kalıcıdır; kişinin yaşamı merkezi kompanzasyona ve rehabilitasyona dayanır.",
+    "Ototoksik ilaç alan kişilerde işitmenin ve dengenin izlenmesi, hasarın erken fark edilmesine yardım eder.",
+    "İlacın kullanım kararı ve izlem planı hekime aittir; odyolog izlem ekibinin bir parçasıdır."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tanı ve testler",
+   "baslik": "Barany 2017 *ölçütleri*",
+   "sutunlar": [
+    "Ölçüt",
+    "Koşul"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Belirti",
+      "Ayakta, yürürken dengesizlik"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Ek belirti",
+      "Osilopsi ya da karanlık"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Durağan koşul",
+      "Otururken belirti yok"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "vHIT",
+      "İki tarafta 0,6 altı"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Kalorik",
+      "Toplam 6 °/sn altı"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Döner sandalye",
+      "Kazanç 0,1 ve altı"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kesin tanı için önce ayakta dururken ya da yürürken süreğen dengesizlik bulunmalıdır.",
+    "Buna osilopsi ya da karanlıkta veya engebeli zeminde artan dengesizlikten en az biri eşlik etmelidir.",
+    "Kişi otururken ya da yatarken, durağan koşullarda belirti göstermemelidir.",
+    "Laboratuvar kanıtı olarak vHIT, yani video baş itme testinde iki tarafta yatay kazancın sıfır virgül altıdan düşük olması yeterlidir.",
+    "Ya da kalorik testte her tarafın sıcak ve soğuk yanıtlarının toplamı saniyede altı derecenin altında olmalıdır.",
+    "Ya da döner sandalyede sıfır virgül bir hertzde kazanç sıfır virgül bir ve altında, faz önü de on beş derece ve üstünde olmalıdır.",
+    "Bu üç testten birinin ölçütü karşılaması yeterlidir; tablo başka bir hastalıkla daha iyi açıklanamamalıdır.",
+    "Yatak başı baş itme testi iki tarafta bozuksa ve belirtiler uygunsa olası iki taraflı vestibülopati tanımı kullanılır."
+   ]
+  },
+  {
+   "id": "vhit",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tanı ve testler",
+   "baslik": "Örnek *vHIT* sonucu",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 6.6,
+     "ad": "Kanal",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6
+     ],
+     "yazilar": {
+      "1": "Sağ lat.",
+      "2": "Sol lat.",
+      "3": "Sağ ön",
+      "4": "Sol ön",
+      "5": "Sağ arka",
+      "6": "Sol arka"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "adim": 0.2,
+     "ad": "vHIT kazancı",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "kazanc",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0.35
+       ],
+       [
+        2,
+        0.3
+       ],
+       [
+        3,
+        0.4
+       ],
+       [
+        4,
+        0.45
+       ],
+       [
+        5,
+        0.38
+       ],
+       [
+        6,
+        0.42
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "örnek kazançlar",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "normal_sinir",
+      "x": 0.5,
+      "y": 0.8,
+      "cizgi": "yatay",
+      "etiket": "lateral normal: yaklaşık 0,8",
+      "cumle": 2
+     },
+     {
+      "ad": "bvp_siniri",
+      "x": 0.5,
+      "y": 0.6,
+      "cizgi": "yatay",
+      "etiket": "ölçüt: 0,6",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Altı kanalda _düşük_ kazanç",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kalorik yanıt _çok küçük_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, iki taraflı vestibülopatisi olan bir kişiden alınmış örnek vHIT kazançlarını gösteriyor.",
+    "Altı kanalın tamamında kazanç belirgin biçimde düşük ve her itmede düzeltici sakkadlar görülüyor.",
+    "vHIT dersinde, lateral kanal kazancının normalde yaklaşık sıfır virgül sekizin üzerinde olmasını beklediğimizi görmüştük.",
+    "Bu örnekte iki lateral kanal kazancı da sıfır virgül altıdan düşük; yani vHIT ölçütü karşılanıyor.",
+    "Kalorik testte dört yanıtın tamamı çok küçüktür; bazen buzlu suyla bile belirgin yanıt alınamaz.",
+    "Döner sandalye testi, iki kulağı birlikte uyardığı için iki taraflı kaybı doğrulamada ve kalan işlevi ölçmede değerlidir.",
+    "Otolit işlevi kısmen korunabildiği için vestibüler uyarılmış miyojenik potansiyel, yani VEMP sonuçları değişken olabilir."
+   ]
+  },
+  {
+   "id": "yatak_basi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tanı ve testler",
+   "baslik": "Yatak başında *ipuçları*",
+   "maddeler": [
+    {
+     "metin": "İki yöne baş itme: _iki tarafta sakkad_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Dinamik görme keskinliği _düşük_",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Köpükte, gözler kapalı: _düşme eğilimi_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "İşitme: _odyogram_ mutlaka",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "salinim",
+      "cumle": 2
+     },
+     {
+      "parca": "destek_yuzeyi",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Yatak başı baş itme testinde iki yöne yapılan itmelerde de düzeltici sakkad görülür.",
+    "Basit bir göz tablosuyla, baş sağa sola sallanırken okunabilen satır sayısındaki düşüş değerlendirilebilir.",
+    "Köpük zemin üzerinde gözler kapalı Romberg testinde kişi dengesini koruyamaz; bu, vestibüler girdinin yetersiz olduğunu gösterir.",
+    "Bu durumda kişi dengesini neredeyse tamamen görme ve ayak tabanı bilgisiyle sağlamaktadır.",
+    "Odyogram da her zaman alınır; işitme kaybının eşlik etmesi Meniere hastalığı, menenjit ya da kalıtsal nedenleri düşündürebilir."
+   ]
+  },
+  {
+   "id": "yasam",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yaşam ve izlem",
+   "baslik": "Günlük yaşam ve *güvenlik*",
+   "maddeler": [
+    {
+     "metin": "Düşme riski _yüksek_",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Geceleri _ışık_ açık",
+     "cumle": 1,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Suda yön kaybı: _dikkat_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Rehabilitasyonla _ikame_ stratejileri",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Vestibüler implant: _araştırma_ aşaması",
+     "cumle": 6,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ampul",
+      "baslik": "Aydınlatma",
+      "metin": "Gece kalkışında",
+      "cumle": 1
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Su altı",
+      "metin": "Yön kaybı",
+      "cumle": 2
+     },
+     {
+      "ikon": "denge",
+      "baslik": "Rehabilitasyon",
+      "metin": "İkame",
+      "cumle": 4
+     }
+    ],
+    "ust": "GÜVENLİK"
+   },
+   "cumleler": [
+    "İki taraflı vestibülopatisi olan kişilerde düşme riski belirgin biçimde artmıştır.",
+    "Gece kalkarken ortamın aydınlatılması ve evdeki engellerin kaldırılması basit ama etkili önlemlerdir.",
+    "Karanlıkta ya da su altında görme ve ayak tabanı bilgisi azaldığı için yön kaybı tehlikeli olabilir; yüzerken dikkat edilmesi gerekir.",
+    "Araç kullanma gibi etkinliklerde kişinin güvenliği hekimle birlikte değerlendirilir.",
+    "Vestibüler rehabilitasyon, görme ve vücut duyusu gibi diğer bilgileri daha etkin kullanmayı öğreterek ikame stratejileri geliştirir.",
+    "Kalan vestibüler işlevi kullanmaya yönelik bakış egzersizleri de programın parçası olabilir.",
+    "Vestibüler siniri elektrikle uyaran vestibüler implantlar ise henüz araştırma aşamasındadır."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yaşam ve izlem",
+   "baslik": "Odyoloğun *rolü*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Öykü",
+     "metin": "Osilopsi, karanlık",
+     "cumle": 0
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "İlaç öyküsü",
+     "metin": "Ototoksik ilaçlar",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Test bataryası",
+     "metin": "vHIT, kalorik, sandalye",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "İşitme",
+     "metin": "Eşlik eden kayıp",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Ekip",
+     "metin": "Neden araştırması",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kronik dengesizlik yakınmasında osilopsi ve karanlıkta artan dengesizlik özellikle sorgulanır.",
+    "Geçmişte hastanede yatış ve uzun süreli antibiyotik kullanımı gibi ototoksik ilaç öyküsü mutlaka sorulur.",
+    "vHIT, kalorik test ve mümkünse döner sandalye ile iki taraflı kayıp gösterilir ve derecelendirilir.",
+    "İşitme değerlendirmesi, nedeni araştırmaya yardım eder ve işitme rehabilitasyonu gereksinimini ortaya koyar.",
+    "Nedenin araştırılması için kişi hekime yönlendirilir ve vestibüler rehabilitasyon planı ekiple birlikte yapılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Karanlıkta artan dengesizlik ve yürürken görüntünün sallanmasından yakınan kişide iki taraflı kaybı düşünün; ototoksik ilaç öyküsünü sorun.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: dönme hissi olmayan, ama karanlıkta ve yürürken artan dengesizlik iki taraflı kaybın klasik öyküsüdür.",
+    "Bu kişilere geçmişte uzun süre hastanede yatıp yatmadıklarını ve damardan antibiyotik alıp almadıklarını sorun.",
+    "Kalorik testte bütün yanıtlar küçükse önce teknik bir sorunu dışlayın, ardından iki taraflı kaybı vHIT ile doğrulayın.",
+    "Tek bir testle değil, birbirini tamamlayan testlerle karar vermek yanlış tanıyı önler."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "İki taraf zayıf: _dönme yok_, dengesizlik var",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Osilopsi ve _karanlıkta_ kötüleşme",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "vHIT kazancı _0,6'nın_ altında",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sık idiyopatik; _gentamisin_ önemli neden",
+     "cumle": 3,
+     "ikon": "ilac"
+    }
+   ],
+   "cumleler": [
+    "İki taraflı vestibülopatide şiddetli dönme hissi beklenmez; asıl yakınma süreğen dengesizliktir.",
+    "Yürürken görüntünün sallanması, yani osilopsi ve karanlıkta ya da engebeli zeminde artan dengesizlik tipiktir.",
+    "Tanı için iki tarafta vHIT kazancının sıfır virgül altıdan düşük olması ya da çok küçük kalorik ya da sandalye yanıtları gerekir.",
+    "Olguların önemli bir bölümü idiyopatiktir; bilinen nedenler arasında gentamisin ototoksisitesi öne çıkar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "İki taraflı vestibülopatinin tipik yakınması?",
+   "secenekler": [
+    "Saniyeler süren dönme",
+    "Karanlıkta artan dengesizlik",
+    "Dalgalanan pes kaybı",
+    "Kulakta dolgunluk"
+   ],
+   "dogru": 1,
+   "aciklama": "İki taraflı kayıpta görme ve ayak tabanı bilgisi azalınca _dengesizlik artar_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: iki taraflı vestibülopatinin tipik yakınması hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: karanlıkta artan dengesizlik.",
+    "Vestibüler girdi iki tarafta azaldığı için kişi dengesini görmeyle sağlar; karanlıkta bu destek kalkınca dengesizlik artar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Santral vestibüler bozukluklar ve *inme* uyarı bulguları",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste santral vestibüler bozuklukları ve acil yönlendirme gerektiren inme uyarı bulgularını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

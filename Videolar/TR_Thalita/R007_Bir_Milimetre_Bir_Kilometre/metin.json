@@ -1,0 +1,97 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R007_Bir_Milimetre_Bir_Kilometre_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #7",
+  "baslik": "1 mm'den *1 km'ye*",
+  "alt": "Kulağın duyduğu dev basınç aralığı",
+  "cizim": "desibel_olcegi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "En zayıf ses 1 mm olsaydı, en yüksek ses kaç olurdu? #shorts",
+  "aciklama": "Duyabildiğimiz en zayıf ses ile çok yüksek ses arasında basınçta yaklaşık bir milyon katlık fark vardır. Cetvelde en zayıf ses 1 mm olsaydı, en yüksek ses 1 km tutardı; desibel bu aralığı 0 ile 120 dB SPL arasına sığdırır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "desibel",
+   "bilgi"
+  ],
+  "etiketler": [
+   "desibel",
+   "dB SPL",
+   "ses basıncı",
+   "logaritmik ölçek",
+   "işitme",
+   "odyoloji",
+   "ses fiziği",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "En zayıf ses bir milimetre ise, en yükseği ne kadar?",
+  "bilgiler": [
+   "En zayıf ses ile çok yüksek ses arasında basınçta yaklaşık bir milyon kat fark var.",
+   "En zayıf ses 1 mm olsaydı, en yüksek ses 1 km tutardı.",
+   "Desibel bu aralığı 0 ile 120 dB SPL arasına sığdırır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "desibel",
+   "bilgi"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #7",
+   "metin": "En zayıf ses 1 mm ise en yükseği *ne kadar?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "En zayıf ses bir milimetre ise, en yükseği ne kadar?"
+   ]
+  },
+  {
+   "id": "km",
+   "tur": "buyuk_sayi",
+   "ust": "En yüksek ses *bir kilometre*",
+   "sayi": "1",
+   "birim": "km",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Basınçta bu fark yaklaşık bir milyon kattır.",
+    "Bu aralık cetvelde bir milimetreden bir kilometreye uzanırdı."
+   ]
+  },
+  {
+   "id": "db",
+   "tur": "buyuk_sayi",
+   "ust": "Desibelde *sıfır ile yüz yirmi*",
+   "sayi": "120",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Desibel bu aralığı sıfır ile yüz yirmi desibel SPL arasına sığdırır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D013",
+ "kaynak_baslik": "Desibel nedir?"
+}

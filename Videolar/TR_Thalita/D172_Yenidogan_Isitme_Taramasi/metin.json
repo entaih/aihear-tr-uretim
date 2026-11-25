@@ -1,0 +1,603 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D172_Yenidogan_Isitme_Taramasi_TR",
+ "kapak": {
+  "ust": "DERS 172",
+  "baslik": "Yenidoğan<br>*işitme taraması*",
+  "alt": "Neden her bebek taranır?",
+  "cizim": "oae"
+ },
+ "youtube": {
+  "baslik": "Yenidoğan işitme taraması neden yapılır? | Ders 172 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Doğumsal işitme kaybı ne sıklıkta görülür ve neden her yenidoğan taranır? Bu derste riske dayalı tarama ile evrensel taramanın farkını, 1-3-6 ve JCIH 2019'un 1-2-3 hedeflerini, OAE ve AABR testlerinin rolünü ve Türkiye'deki ulusal yenidoğan işitme taraması programını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Joint Committee on Infant Hearing, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Joint Committee on Infant Hearing, Year 2007 Position Statement; World Health Organization, World Report on Hearing (2021); Yoshinaga-Itano ve ark., Language of early- and later-identified children with hearing loss, Pediatrics (1998); Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "yenidoğantaraması",
+   "işitme"
+  ],
+  "etiketler": [
+   "yenidoğan işitme taraması",
+   "newborn hearing screening",
+   "UNHS",
+   "JCIH",
+   "EHDI",
+   "1-3-6",
+   "OAE",
+   "AABR",
+   "doğumsal işitme kaybı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 172",
+   "baslik": "Yenidoğan *işitme taraması*",
+   "alt": "Neden her bebek taranır? 1-3-6 ve 1-2-3 hedefleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste yenidoğan işitme taramasının neden yapıldığını ve hangi hedeflere dayandığını öğreneceğiz.",
+    "Ayrıca Türkiye'deki ulusal tarama programına kısaca bakacağız."
+   ]
+  },
+  {
+   "id": "siklik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Doğumsal işitme kaybı",
+   "baslik": "Ne kadar *sık* görülür?",
+   "maddeler": [
+    {
+     "metin": "Sağlıklı yenidoğan: _binde 1 ile 3_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Yoğun bakım: yaklaşık _yüzde 2 ile 4_",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "En sık doğumsal durumlardan biri",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Doğumda dışarıdan _görülmez_",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "UNHS",
+    "metin": "*Evrensel* yenidoğan işitme taraması (universal newborn hearing screening)",
+    "cumle": 6
+   },
+   "cumleler": [
+    "Kalıcı doğumsal işitme kaybı, sağlıklı yenidoğanlarda yaklaşık binde 1 ile 3 sıklığında görülür.",
+    "Bu oran, fenilketonüri gibi yenidoğanda taranan bazı metabolik hastalıklardan çok daha yüksektir.",
+    {
+     "yazi": "Yenidoğan yoğun bakım ünitesinde yatan bebeklerde ise sıklık yaklaşık yüzde 2 ile 4'e çıkar.",
+     "ses": "Yenidoğan yoğun bakım ünitesinde yatan bebeklerde ise sıklık yaklaşık yüzde iki ile dörde çıkar."
+    },
+    "Yani yoğun bakım geçmişi olan bebeklerde kayıp riski belirgin biçimde daha yüksektir.",
+    "Bu nedenle işitme kaybı, yenidoğanda en sık görülen doğumsal durumlardan biri olarak kabul edilir.",
+    "Sorun şu ki işitme kaybı doğumda dışarıdan görülmez; bebek sağlıklı görünür ve seslere tepki veriyormuş gibi davranabilir.",
+    "Bu yüzden her bebeğin test edildiği evrensel yenidoğan işitme taraması, İngilizce kısaltmasıyla UNHS, geliştirilmiştir."
+   ]
+  },
+  {
+   "id": "kritik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Doğumsal işitme kaybı",
+   "baslik": "Dil için *kritik dönem*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "koklea (salyangoz)",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "işitsel korteks",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ses girdisi yolları olgunlaştırır",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kritik dönem: ilk yıllar",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "6 aydan önce müdahale",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Peki erken tanı neden bu kadar önemli?",
+    "İşitme sistemi, koklea, yani salyangozdan başlar ve beyin sapı yoluyla işitsel kortekse kadar uzanır.",
+    "Bu yolların olgunlaşması, yaşamın ilk yıllarında gelen ses uyaranına bağlıdır.",
+    "Ses girdisi yoksa merkezi işitsel yollar bu dönemde beklendiği gibi olgunlaşamaz.",
+    "Konuşma ve dil gelişimi için en verimli zaman yaşamın ilk yıllarıdır; buna kritik dönem denir.",
+    "Çalışmalar, 6 aydan önce tanı alıp müdahaleye başlayan çocukların dil gelişiminin belirgin biçimde daha iyi olduğunu gösterdi.",
+    "Bu bulgu özellikle Yoshinaga-Itano ve arkadaşlarının 1998 yılında yayımlanan çalışmasıyla öne çıktı."
+   ]
+  },
+  {
+   "id": "evrensel",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Neden evrensel tarama?",
+   "baslik": "Riske dayalı mı, *evrensel* mi?",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Riske dayalı",
+     "metin": "Kayıpların yarısını kaçırır",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Evrensel",
+     "metin": "Her yenidoğan taranır",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Eskiden yalnız risk etkeni taşıyan bebekler, örneğin aile öyküsü ya da yoğun bakım geçmişi olanlar test edilirdi.",
+    "Ancak doğumsal işitme kaybı olan bebeklerin yaklaşık yarısında bilinen hiçbir risk etkeni yoktur.",
+    "Bu yüzden evrensel tarama öncesinde tanı yaşı çoğu ülkede 2 ile 3 yaşa kadar uzuyordu.",
+    "Evrensel taramada ise risk durumuna bakılmaksızın her yenidoğan test edilir.",
+    "Böylece risk etkeni olmayan bebeklerdeki kayıplar da erken dönemde yakalanır.",
+    "Tarama programlarının yaygınlaşmasıyla tanı yaşı birkaç aya kadar indi.",
+    "Aile gözlemi ya da davranış izlemi ise tarama için güvenilir değildir; hafif ya da tek taraflı kayıplar kolayca gözden kaçar."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Neden evrensel tarama?",
+   "baslik": "Taramanın *amacı*",
+   "maddeler": [
+    {
+     "metin": "Tarama tanı _koymaz_",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Amaç: ileri test gerekeni ayırmak",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Objektif, hızlı ve ağrısız",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Geçti sonucu sonraki kaybı _dışlamaz_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Burada önemli bir ayrımı netleştirelim: tarama bir tanı testi değildir.",
+    "Taramanın amacı, ileri tanısal değerlendirme gereken bebekleri hızlıca ayırmaktır.",
+    "Tarama testleri objektiftir; bebeğin bir yanıt vermesine ya da işbirliğine gerek yoktur.",
+    "Test genellikle uyuyan ya da sakin bir bebekte birkaç dakika içinde tamamlanır.",
+    "Taramadan geçmek, işitmenin ömür boyu normal kalacağı anlamına gelmez.",
+    "Sitomegalovirüs enfeksiyonu gibi nedenlerle kayıp sonradan ortaya çıkabilir ya da ilerleyebilir."
+   ]
+  },
+  {
+   "id": "hedefler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "1-3-6 ve 1-2-3 hedefleri",
+   "baslik": "Erken tanı *hedefleri*",
+   "sutunlar": [
+    "Basamak",
+    "1-3-6 hedefi",
+    "1-2-3 hedefi"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Tarama",
+      "1. ay sonu",
+      "1. ay sonu"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Tanı",
+      "3. ay sonu",
+      "2. ay sonu"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Müdahale",
+      "6. ay sonu",
+      "3. ay sonu"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Erken işitme tespiti ve müdahale programları, İngilizce kısaltmasıyla EHDI, ölçülebilir zaman hedefleriyle çalışır.",
+    "Bu hedefleri, Bebek İşitmesi Ortak Komitesi, yani Joint Committee on Infant Hearing, kısaca JCIH belirler.",
+    {
+     "yazi": "JCIH uzun yıllar 1-3-6 hedefini önerdi: tarama ilk 1 ayda tamamlanır.",
+     "ses": "JCIH uzun yıllar bir, üç, altı hedefini önerdi: tarama ilk bir ayda tamamlanır."
+    },
+    {
+     "yazi": "Tanı 3. ayın sonuna kadar konur.",
+     "ses": "Tanı üçüncü ayın sonuna kadar konur."
+    },
+    {
+     "yazi": "Müdahale ise 6. ayın sonuna kadar başlar.",
+     "ses": "Müdahale ise altıncı ayın sonuna kadar başlar."
+    },
+    {
+     "yazi": "JCIH'nin 2019 tutum bildirgesi, bu hedefe ulaşmış programlar için daha iddialı bir 1-2-3 hedefi önerdi.",
+     "ses": "JCIH'nin 2019 tutum bildirgesi, bu hedefe ulaşmış programlar için daha iddialı bir bir, iki, üç hedefi önerdi."
+    },
+    {
+     "yazi": "Buna göre tarama 1 ayda, tanı 2 ayda, müdahale ise 3 ayda tamamlanmalıdır.",
+     "ses": "Buna göre tarama bir ayda, tanı iki ayda, müdahale ise üç ayda tamamlanmalıdır."
+    },
+    "Burada müdahale, uygun cihaz uygulamasının ve aileye yönelik erken müdahale hizmetlerinin başlaması demektir."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "1-3-6 ve 1-2-3 hedefleri",
+   "baslik": "Programın *bileşenleri*",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "Tarama",
+     "metin": "Gerekirse yeniden tarama",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tanı",
+     "metin": "Tanısal odyolojik değerlendirme",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Erken müdahale",
+     "metin": "Cihaz, eğitim, aile desteği",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Takip ve veri",
+     "metin": "Basamakları birbirine bağlar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bir tarama programı yalnız testten ibaret değildir; ilk halka tarama ve gerekirse yeniden taramadır.",
+    "İkinci halka, taramadan kalan bebeğin tanısal odyolojik değerlendirmesidir.",
+    "Üçüncü halka; cihaz uygulaması, eğitim ve aile desteğini kapsayan erken müdahaledir.",
+    "Bütün bu basamakları birbirine bağlayan bir takip ve veri sistemi de gerekir.",
+    "Çünkü taramadan kalan bebeklerin bir kısmı tanı basamağına hiç ulaşmaz; buna takip kaybı denir.",
+    {
+     "yazi": "Kalite göstergesi olarak, bebeklerin en az yüzde 95'inin ilk bir ayda taranması hedeflenir.",
+     "ses": "Kalite göstergesi olarak, bebeklerin en az yüzde doksan beşinin ilk bir ayda taranması hedeflenir."
+    },
+    {
+     "yazi": "Tanıya yönlendirilen bebek oranının da genellikle yüzde 4'ün altında kalması beklenir.",
+     "ses": "Tanıya yönlendirilen bebek oranının da genellikle yüzde dördün altında kalması beklenir."
+    }
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tarama testleri",
+   "baslik": "Otoakustik emisyon ile *tarama*",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "uyaran (klik)",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "koklear yanıt",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dış tüy hücresi işlevi",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hızlı ve kolay",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sinir yolunu değerlendirmez",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Yenidoğan taramasında iki temel test kullanılır; ilki otoakustik emisyon, kısaca OAE testidir.",
+    "Kulak yoluna yerleştirilen küçük bir prob, kısa ses uyaranları gönderir.",
+    "Sağlıklı bir kokleada dış tüy hücreleri, kulak yolunda ölçülebilen zayıf bir akustik yanıt üretir.",
+    "Test hızlıdır, maliyeti düşüktür ve uygulaması kolaydır; bu yüzden sağlıklı bebeklerde sık tercih edilir.",
+    "Ancak orta kulakta sıvı ya da kulak yolunda doğum artığı, yani verniks varsa yanıt alınamayabilir.",
+    "Ayrıca OAE, işitme sinirini ve beyin sapını değerlendirmez."
+   ]
+  },
+  {
+   "id": "aabr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tarama testleri",
+   "baslik": "Otomatik *ABR* ile tarama",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "dalga V",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Beyin sapına kadar yol",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Otomatik geçti ya da kaldı",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yoğun bakımda önerilir",
+     "cumle": 5,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "İkinci test, otomatik işitsel beyin sapı yanıtı, kısaca AABR testidir.",
+     "ses": "İkinci test, otomatik işitsel beyin sapı yanıtı testi, yani a a be re testidir."
+    },
+    "Bebeğin başına yerleştirilen elektrotlar, ses uyaranına beyin sapının verdiği elektriksel yanıtı kaydeder.",
+    {
+     "yazi": "Cihaz, özellikle dalga V'e benzeyen yanıtı istatistiksel olarak arar.",
+     "ses": "Cihaz, özellikle beşinci dalgaya benzeyen yanıtı istatistiksel olarak arar."
+    },
+    {
+     "yazi": "Uyaran genellikle 35 dB nHL düzeyindedir; bu düzeyde yanıt yoksa sonuç kaldı olur.",
+     "ses": "Uyaran genellikle otuz beş desibel en eyç el düzeyindedir; bu düzeyde yanıt yoksa sonuç kaldı olur."
+    },
+    "Sonuç, uzman yorumu gerektirmeden otomatik olarak geçti ya da kaldı biçiminde verilir.",
+    "AABR, işitme sinirini ve beyin sapı yolunu da kapsadığı için yoğun bakım bebeklerinde önerilir.",
+    "Çünkü bu bebeklerde, OAE'nin yakalayamayacağı işitsel nöropati (auditory neuropathy) daha sık görülür."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "İlk 24 saatte OAE ile kalma oranı daha yüksektir. Bebek sakin ve tok olsun; probun iyi oturduğunu kontrol edin.",
+   "cumleler": [
+    "Sahadan bir ipucu: doğumdan sonraki ilk 24 saatte OAE ile kalma oranı daha yüksektir.",
+    "Bunun nedeni çoğu zaman kulak yolundaki verniks ve orta kulakta henüz çekilmemiş sıvıdır.",
+    "Taramayı mümkünse beslenmeden sonra, bebek uyurken ve ortam sessizken yapın.",
+    "Prob ucunun kulak yoluna iyi oturduğunu kontrol etmek, gereksiz kaldı sonuçlarını azaltır.",
+    "Kaldı sonucunu aileye işitme kaybı var diye değil, ileri test gerekiyor diye açıklayın."
+   ]
+  },
+  {
+   "id": "turkiye",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Türkiye'de tarama",
+   "baslik": "Ulusal *tarama programı*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Ulusal program",
+     "metin": "Sağlık Bakanlığı",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "İlk tarama",
+     "metin": "Taburculuk öncesi",
+     "cumle": 2
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Yeniden tarama",
+     "metin": "Kalan bebeklere",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Tanı",
+     "metin": "Odyoloji birimlerinde",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt ve takip",
+     "metin": "Takip kaybını azaltır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Türkiye'de yenidoğan işitme taraması, Sağlık Bakanlığının ulusal yenidoğan işitme taraması programı kapsamında yürütülür.",
+    {
+     "yazi": "Program 2004 yılında başlatıldı ve zamanla ülke genelinde doğum yapılan hastanelere yayıldı.",
+     "ses": "Program iki bin dört yılında başlatıldı ve zamanla ülke genelinde doğum yapılan hastanelere yayıldı."
+    },
+    "Bebekler genellikle doğumdan sonra, hastaneden taburcu olmadan önce taranır.",
+    "İlk taramadan kalan bebekler için kısa süre içinde yeniden tarama yapılır.",
+    "Yeniden taramadan da kalan bebekler, tanısal değerlendirme için odyoloji birimlerine yönlendirilir.",
+    "Sonuçların kayıt altına alınması, takip kaybını azaltmak için kritik bir adımdır.",
+    "Dünya Sağlık Örgütü de 2021 tarihli Dünya İşitme Raporunda yenidoğan işitme taramasını tüm ülkeler için önerir."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Türkiye'de tarama",
+   "baslik": "Sonuç ne *anlatır?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Geçti",
+     "metin": "Tarama düzeyinde yanıt var",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Kaldı",
+     "metin": "Tanı değil, ileri değerlendirme",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Geçti sonucu, bebeğin tarama düzeyinde yanıt verdiğini gösterir.",
+    "Yine de ailenin, bebeğin seslere tepkisini ve dil gelişimini izlemeye devam etmesi gerekir.",
+    "Risk etkeni olan bebekler, taramadan geçmiş olsalar bile belirli aralıklarla odyolojik kontrole çağrılır.",
+    "Kaldı sonucu ise işitme kaybı tanısı değildir; yalnızca ileri değerlendirme gerektiğini söyler.",
+    "Bu bebeklerin tanısal değerlendirmesi, hedeflere uygun olarak ilk aylar içinde tamamlanmalıdır.",
+    "Ailenin zamanında randevuya gelmesi, programın başarısını belirleyen en önemli adımlardan biridir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Doğumsal kayıp: binde 1 ile 3",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Riske dayalı tarama yarısını kaçırır",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Hedef 1-3-6, yeni öneri 1-2-3",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Tarama tanı değildir, takip şarttır",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Bu derste doğumsal işitme kaybının sık görüldüğünü ve doğumda fark edilmediğini gördük.",
+    "Yalnız risk etkenine bakan tarama, kayıpların yaklaşık yarısını kaçırır.",
+    {
+     "yazi": "Erken tanı için 1-3-6 hedefi, güncel öneride ise 1-2-3 hedefi kullanılır.",
+     "ses": "Erken tanı için bir, üç, altı hedefi, güncel öneride ise bir, iki, üç hedefi kullanılır."
+    },
+    "Tarama tanı koymaz; asıl başarı, kalan bebeklerin takibinin eksiksiz tamamlanmasıdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "JCIH 2019'un 1-2-3 hedefinde tanı ne zamana kadar konmalı?",
+   "secenekler": [
+    "1. ayın sonuna kadar",
+    "2. ayın sonuna kadar",
+    "3. ayın sonuna kadar",
+    "6. ayın sonuna kadar"
+   ],
+   "dogru": 1,
+   "aciklama": "1-2-3: tarama 1 ay, _tanı 2 ay_, müdahale 3 ay.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: JCIH 2019'un 1-2-3 hedefinde tanı hangi ayın sonuna kadar konmalıdır?",
+     "ses": "Kendinizi test edin: JCIH 2019'un bir, iki, üç hedefinde tanı hangi ayın sonuna kadar konmalıdır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: tanı ikinci ayın sonuna kadar konmalıdır.",
+    "Tarama birinci ayda tamamlanır, müdahale ise üçüncü ayın sonuna kadar başlar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tarama protokolleri: OAE, AABR ve *iki aşamalı* tarama",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste sağlıklı bebek ve yoğun bakım tarama protokollerini, geçti ve kaldı kararlarıyla birlikte inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

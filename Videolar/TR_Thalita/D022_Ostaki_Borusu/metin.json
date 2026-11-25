@@ -1,0 +1,731 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D022_Ostaki_Borusu_TR",
+ "kapak": {
+  "ust": "DERS 22",
+  "baslik": "*Östaki*<br>borusu",
+  "alt": "Tuba auditiva: yapı ve işlev",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "ostaki_borusu"
+  ]
+ },
+ "youtube": {
+  "baslik": "Tuba Auditiva: Östaki Borusu Anatomisi ve İşlevi | Ders 22 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Östaki borusu orta kulağı burun yutağına bağlar. Bu derste borunun kemik ve kıkırdak bölümlerini, açılmasını sağlayan kasları, havalandırma, drenaj ve koruma işlevlerini, çocuklardaki farklı yapısını, işlev bozukluklarını ve klinikte nasıl değerlendirildiğini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Bluestone, Eustachian Tube: Structure, Function, Role in Otitis Media; Gray's Anatomy; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "anatomi",
+   "ortakulak"
+  ],
+  "etiketler": [
+   "Östaki borusu",
+   "tuba auditiva",
+   "Eustachian tube",
+   "tensor veli palatini",
+   "nazofarenks",
+   "orta kulak havalandırması",
+   "C tipi timpanogram",
+   "otitis media",
+   "Valsalva",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 22",
+   "baslik": "Tuba auditiva: *Östaki borusu*",
+   "alt": "Anatomisi, işlevleri ve çocuktaki farkları",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste orta kulağı burun yutağına bağlayan kanalı, yani Östaki borusunu inceleyeceğiz.",
+    "Yapısını, nasıl açılıp kapandığını, üç temel işlevini ve çocuklarda neden daha kolay sorun çıkardığını öğreneceğiz."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Anatomi",
+   "baslik": "Orta kulaktan *burun yutağına*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Tuba auditiva (Östaki borusu)",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Orta kulak",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Nasopharynx (burun yutağı)",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Yetişkinde yaklaşık _36 mm_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Öne, içe ve _aşağıya_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Orta kulak boşluğunun ön duvarından çıkan kanalın anatomik adı tuba auditiva, yani Östaki borusudur.",
+    {
+     "yazi": "Adını, onu tanımlayan on altıncı yüzyıl İtalyan anatomisti Bartolomeo Eustachi'den alır.",
+     "ses": "Adını, onu tanımlayan on altıncı yüzyıl İtalyan anatomisti Bartolomeo Östaki'den alır."
+    },
+    {
+     "yazi": "Boru, orta kulağı nasopharynx, yani burun yutağı ile birleştirir.",
+     "ses": "Boru, orta kulağı nazofarinks, yani burun yutağı ile birleştirir."
+    },
+    "Yetişkinde uzunluğu yaklaşık otuz altı milimetredir.",
+    "Orta kulaktan başlayarak öne, içe ve aşağıya doğru uzanır; burun yutağındaki ağzı orta kulaktaki ağzından daha aşağıdadır.",
+    "Burun yutağındaki ağzı yan duvarda yer alır ve kıkırdak bir kabarıklıkla çevrilidir."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "bolumler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Anatomi",
+   "baslik": "Kemik ve *kıkırdak* bölüm",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Kemik bölüm: _üçte bir_, 12 mm",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kemik bölüm _her zaman açık_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kıkırdak bölüm: _üçte iki_, 24 mm",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Kıkırdak bölüm dinlenmede _kapalı_",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Birleşim yeri: _isthmus_, en dar nokta",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "ostaki_borusu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    "vurgula": [
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 0
+     },
+     {
+      "parca": "tensor_timpani_kas",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ostaki_borusu",
+      "metin": "Östaki borusu",
+      "cumle": 0
+     },
+     {
+      "parca": "tensor_timpani_kas",
+      "metin": "Tensor tympani kanalı",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Östaki borusu, tıpkı dış kulak yolu gibi iki farklı bölümden oluşur; ama düzen terstir.",
+    "Orta kulağa yakın üçte birlik bölüm kemiktir ve yaklaşık on iki milimetre uzunluğundadır.",
+    "Kemik bölüm temporal kemiğin içinde, tensor tympani kanalının hemen altında uzanır ve her zaman açıktır.",
+    "Burun yutağına yakın üçte ikilik bölüm kıkırdak ve zardan oluşur; uzunluğu yaklaşık yirmi dört milimetredir.",
+    "Kıkırdak bölüm dinlenme sırasında kapalıdır ve yalnız belirli anlarda kısa süreliğine açılır.",
+    {
+     "yazi": "İki bölümün birleştiği yer borunun en dar noktasıdır ve isthmus olarak adlandırılır.",
+     "ses": "İki bölümün birleştiği yer borunun en dar noktasıdır ve istmus olarak adlandırılır."
+    },
+    "Dış kulak yolunda dıştaki üçte bir kıkırdaktı; Östaki borusunda ise burun yutağı tarafındaki üçte iki kıkırdaktır."
+   ]
+  },
+  {
+   "id": "kaslar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Anatomi",
+   "baslik": "Boruyu açan *kaslar*",
+   "maddeler": [
+    {
+     "metin": "_Tensor veli palatini_: asıl açıcı",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Yutkunma ve _esneme_ ile açılır",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Levator veli palatini: _destek_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Damak yarığında işlev _bozulur_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ostaki_kaslari",
+    "cumle": 0,
+    "ayar": {
+     "acilma": 1,
+     "acilma_cumle": 2
+    },
+    "etiketler": [
+     {
+      "parca": "tensor_veli_palatini",
+      "metin": "Tensor veli palatini",
+      "cumle": 0
+     },
+     {
+      "parca": "lumen",
+      "metin": "Lümen",
+      "cumle": 2
+     },
+     {
+      "parca": "levator_veli_palatini",
+      "metin": "Levator veli palatini",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "tensor_veli_palatini",
+      "cumle": 0
+     },
+     {
+      "parca": "kikirdak",
+      "cumle": 2
+     },
+     {
+      "parca": "lumen",
+      "cumle": 2
+     },
+     {
+      "parca": "levator_veli_palatini",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Kıkırdak bölümü açan asıl kas musculus tensor veli palatini, yani yumuşak damak gerici kasıdır.",
+     "ses": "Kıkırdak bölümü açan asıl kas muskulus tensor veli palatini, yani yumuşak damak gerici kasıdır."
+    },
+    "Bu kas, tıpkı tensor tympani gibi trigeminal sinirin mandibular dalıyla uyarılır.",
+    "Yutkunma ve esneme sırasında kasılarak borunun kıkırdak duvarını çeker ve boruyu kısa süreliğine açar.",
+    "Levator veli palatini de yumuşak damağı kaldırırken borunun açılmasına yardım eder.",
+    "Damak yarığı olan çocuklarda bu kasların yapışma yeri farklı olduğu için boru iyi açılamaz ve orta kulakta sıvı çok sık görülür."
+   ]
+  },
+  {
+   "id": "islevler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Üç işlev",
+   "baslik": "Üç temel *işlev*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Havalandırma",
+     "metin": "Basıncı eşitler; bozulursa negatif basınç",
+     "cumle": 1
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Drenaj",
+     "metin": "Salgıyı boşaltır; bozulursa sıvı birikir",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Koruma",
+     "metin": "Kapalı kalır; salgı ve sesi engeller",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Östaki borusunun üç temel işlevi vardır: havalandırma, drenaj ve koruma.",
+    "Havalandırma, orta kulağa düzenli olarak hava girmesini ve basıncın dış ortamla eşitlenmesini sağlar.",
+    "Drenaj, orta kulakta oluşan salgıların kirpikli hücreler ve kas hareketleriyle burun yutağına taşınmasıdır.",
+    "Koruma işlevi, borunun dinlenmede kapalı kalmasına dayanır.",
+    "Kapalı boru, burun yutağındaki salgıların ve mikropların orta kulağa geçmesini zorlaştırır.",
+    "Aynı zamanda kişinin kendi sesinin ve solunum seslerinin orta kulağa doğrudan ulaşmasını engeller."
+   ]
+  },
+  {
+   "id": "havalandirma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Üç işlev",
+   "baslik": "Havalandırma ve *basınç*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "C",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Mukoza _gazı emer_",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Açılma: basınç _eşitlenir_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Açılmazsa: _C tipi_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Sağlıklı bir kulakta orta kulak basıncı dış ortama yakındır ve timpanogramın tepesi sıfır civarındadır.",
+    "Ancak orta kulak mukozası boşluktaki gazı sürekli olarak emer.",
+    "Boru yutkunmalarda kısa süreliğine açılarak eksilen havayı yerine koyar ve basıncı eşitler.",
+    "Boru yeterince açılamazsa orta kulakta negatif basınç oluşur ve timpanogramın tepesi negatif basınca kayar.",
+    "Uçağın inişinde kulakta hissedilen dolgunluk da bununla ilgilidir; dış basınç artarken boru açılıp basıncı eşitleyemez.",
+    "Yutkunmak, esnemek ya da sakız çiğnemek boruyu açarak bu hissi azaltır."
+   ]
+  },
+  {
+   "id": "sivi",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Üç işlev",
+   "baslik": "Örnek: işlev bozukluğu ve *sıvı*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: 25 ile 30 dB HL",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Maskeli kemik yolu_: normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "B",
+     "renk": "yesil",
+     "metin": "Timpanogram: _B tipi_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       30,
+       25,
+       25,
+       25,
+       30
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       5,
+       5,
+       10,
+       10
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      5,
+      30
+     ],
+     "etiket": "25 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Negatif basınç uzun sürerse, orta kulak mukozası boşluğa sıvı salgılamaya başlayabilir.",
+    "Bu örnekte bir çocuğun sağ kulağında hava yolu eşikleri hafif derecede düşük, maskeli kemik yolu ise normal.",
+    {
+     "yazi": "Timpanogram B tipi ve dış kulak yolu hacmi normal; bu tablo orta kulakta sıvı ile uyumludur.",
+     "ses": "Timpanogram be tipi ve dış kulak yolu hacmi normal; bu tablo orta kulakta sıvı ile uyumludur."
+    },
+    "Aradaki yaklaşık yirmi beş desibellik hava-kemik aralığı, sıvının sesin iletimini engellemesinden kaynaklanır.",
+    {
+     "yazi": "Boru işlevi düzeldikçe sıvı çoğu zaman azalır ve timpanogram önce C, sonra A tipine dönebilir.",
+     "ses": "Boru işlevi düzeldikçe sıvı çoğu zaman azalır ve timpanogram önce ce, sonra a tipine dönebilir."
+    },
+    "Kesin değerlendirme ve izlem kararı her zaman hekime aittir."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Çocuk ve yetişkin",
+   "baslik": "Çocukta *farklı* bir boru",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Uzunluk",
+     "metin": "Bebek 18 mm, yetişkin 36 mm",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Yetişkin açısı",
+     "metin": "Yatayla yaklaşık 45 derece",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Bebek açısı",
+     "metin": "Yaklaşık 10 derece, neredeyse yatay",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Kıkırdak ve kas",
+     "metin": "Bebekte kıkırdak yumuşak, kas zayıf",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Yedi yaş",
+     "metin": "Yetişkin uzunluğuna ulaşır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Çocuklarda Östaki borusu yetişkindekinden belirgin biçimde farklıdır.",
+    "Bebekte boru yaklaşık on sekiz milimetre uzunluğundadır; yani yetişkindekinin yaklaşık yarısı kadardır.",
+    "Yetişkinde boru yatay düzlemle yaklaşık kırk beş derecelik bir açı yapar.",
+    "Bebekte ise bu açı yaklaşık on derecedir; boru neredeyse yataydır.",
+    "Bebeğin boru kıkırdağı daha yumuşaktır ve açıcı kas daha az verimli çalışır.",
+    "Boru genellikle yedi yaş civarında yetişkin uzunluğuna ulaşır."
+   ]
+  },
+  {
+   "id": "otitis",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Çocuk ve yetişkin",
+   "baslik": "Çocukta *otitis* neden sık?",
+   "maddeler": [
+    {
+     "metin": "Kısa, yatay boru: _kolay geçiş_",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Zayıf açılma: _negatif basınç_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Büyük _adenoid_ dokusu",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sık üst solunum yolu enfeksiyonu",
+     "cumle": 3,
+     "ikon": "enfeksiyon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "C",
+       "cumle": 1
+      },
+      {
+       "tip": "B",
+       "cumle": 4
+      }
+     ]
+    },
+    "cumle": 1
+   },
+   "cumleler": [
+    "Kısa ve yatay boru, burun yutağındaki salgıların ve mikropların orta kulağa ulaşmasını kolaylaştırır.",
+    "Boru zayıf açıldığı için havalandırma yetersiz kalır ve negatif basınç daha kolay gelişir.",
+    "Burun yutağındaki geniş adenoid dokusu da borunun ağzını daraltabilir ve mikroplar için bir kaynak olabilir.",
+    "Küçük çocuklarda sık görülen üst solunum yolu enfeksiyonları borunun mukozasını şişirerek işlevini bozar.",
+    "Bu etkenler bir arada, otitis media, yani orta kulak iltihabının çocuklarda neden bu kadar sık görüldüğünü açıklar.",
+    "Boru büyüdükçe ve dikleştikçe orta kulak sorunları genellikle azalır."
+   ]
+  },
+  {
+   "id": "bozukluk",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bozukluklar ve değerlendirme",
+   "baslik": "Açılmayan ve *kapanmayan* boru",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Açılmayan boru",
+     "metin": "Negatif basınç, C tipi, dolgunluk",
+     "cumle": 1
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Uzarsa",
+     "metin": "Orta kulakta sıvı birikebilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Sürekli açık (patulous)",
+     "metin": "Otofoni: kendi sesini yankılı duyar",
+     "cumle": 3
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometride",
+     "metin": "Solunumla eş zamanlı dalgalanma",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Östaki borusunun işlev bozukluğu iki zıt biçimde görülebilir.",
+    {
+     "yazi": "Daha sık olanı borunun yeterince açılamamasıdır; orta kulakta negatif basınç ve C tipi timpanogram görülür.",
+     "ses": "Daha sık olanı borunun yeterince açılamamasıdır; orta kulakta negatif basınç ve ce tipi timpanogram görülür."
+    },
+    "Kişi kulakta dolgunluk hisseder; durum uzarsa orta kulakta sıvı birikebilir.",
+    "Daha nadir durumda ise boru normalden fazla açık kalır; buna sürekli açık (patulous) Östaki borusu denir.",
+    "Bu kişiler kendi seslerini ve nefes alıp vermelerini kulaklarında yankılı ve rahatsız edici biçimde duyar; buna otofoni denir.",
+    "Timpanometri sırasında derin nefes alıp verildiğinde eğride solunumla eş zamanlı dalgalanmalar görülebilir."
+   ]
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bozukluklar ve değerlendirme",
+   "baslik": "Boru işlevi *nasıl değerlendirilir?*",
+   "maddeler": [
+    {
+     "metin": "_Valsalva_: burun kapalı, hava itilir",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Toynbee_: burun kapalı, yutkunma",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Öncesi ve sonrası _timpanogram_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Özel testler: _tubomanometri_, sonotubometri",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "C",
+       "cumle": 3
+      },
+      {
+       "tip": "A",
+       "cumle": 3
+      }
+     ]
+    },
+    "cumle": 3
+   },
+   "cumleler": [
+    "Östaki borusunun işlevini değerlendirmek için birden fazla yöntem vardır ve her birinin avantajı farklıdır.",
+    "Valsalva manevrasında kişi ağzını ve burnunu kapatıp hafifçe ıkınarak orta kulağa hava göndermeye çalışır.",
+    {
+     "yazi": "Toynbee manevrasında ise burun kapalıyken yutkunulur; bu, orta kulakta genellikle hafif negatif basınç oluşturur.",
+     "ses": "Toynbi manevrasında ise burun kapalıyken yutkunulur; bu, orta kulakta genellikle hafif negatif basınç oluşturur."
+    },
+    "Manevralardan önce ve sonra alınan timpanogramlarda tepe basıncının değişmesi, borunun açılabildiğini gösterir.",
+    "Sonotubometri ve tubomanometri gibi özel testler ise borunun açılmasını daha doğrudan ölçer; ancak her klinikte bulunmaz.",
+    "Türkiye'deki rutin uygulamada değerlendirme çoğunlukla timpanometri ve bu basit manevralarla yapılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bozukluklar ve değerlendirme",
+   "baslik": "Klinikte dikkat",
+   "metin": "Timpanometride C tipi eğri gördüğünüzde hastadan birkaç kez yutkunmasını isteyip ölçümü tekrarlayın. Tepenin sıfıra doğru kayması borunun açılabildiğini gösterir.",
+   "cumleler": [
+    {
+     "yazi": "Sahadan bir ipucu: C tipi bir timpanogram gördüğünüzde sonucu hemen yazmayın.",
+     "ses": "Sahadan bir ipucu: ce tipi bir timpanogram gördüğünüzde sonucu hemen yazmayın."
+    },
+    "Hastadan birkaç kez yutkunmasını isteyin ve ölçümü tekrarlayın.",
+    "Tepenin sıfıra doğru kayması borunun açılabildiğini gösterir; bu bilgi raporda değerlidir.",
+    "Çocuklarda ağlama ve burun çekme de tepe basıncını değiştirebilir; bu yüzden ölçüm sakin bir anda yapılmalıdır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kemik _üçte bir_, kıkırdak üçte iki",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Açıcı kas: _tensor veli palatini_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Havalandırma, drenaj ve _koruma_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Çocukta _kısa ve yatay_",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Östaki borusunun orta kulak tarafındaki üçte biri kemik, burun yutağı tarafındaki üçte ikisi kıkırdaktır.",
+    "Dinlenmede kapalı olan boru, yutkunma ve esnemede tensor veli palatini kasıyla açılır.",
+    "Boru orta kulağı havalandırır, salgıları boşaltır ve orta kulağı burun yutağından korur.",
+    "Çocukta boru kısa, yataya yakın ve daha zayıf açıldığı için orta kulak sorunları daha sıktır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Östaki borusunu açan asıl kas hangisidir?",
+   "secenekler": [
+    "Tensor tympani",
+    "Stapedius",
+    "Tensor veli palatini",
+    "Levator veli palatini"
+   ],
+   "dogru": 2,
+   "aciklama": "_Tensor veli palatini_ yutkunma ve esnemede borunun kıkırdak duvarını çekerek açar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Yutkunma sırasında Östaki borusunu açan asıl kas hangisidir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap C: tensor veli palatini.",
+     "ses": "Doğru cevap ce: tensor veli palatini."
+    },
+    "Bu kas trigeminal sinirle çalışır; damak yarığında işlevi bozulduğu için orta kulak sorunları sık görülür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İç kulak: kemik ve *zar labirent*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste orta kulağın iç duvarının ötesine geçip iç kulağı, yani kemik ve zar labirenti inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

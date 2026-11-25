@@ -1,0 +1,784 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D003_Kulaktan_Beyne_TR",
+ "kapak": {
+  "ust": "DERS 3",
+  "baslik": "Kulaktan<br>*beyne*",
+  "alt": "İşitme yoluna ilk bakış",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "Ses Kulaktan Beyne Nasıl Ulaşır? İşitme Yoluna İlk Bakış | Ders 03 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bir sesin kulak kepçesinden işitsel kortekse kadar izlediği yolu adım adım takip ediyoruz. Dış, orta ve iç kulağın görevlerini, titreşimin sinir sinyaline dönüşümünü ve beyin sapı ile korteksin rolünü anlatıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gelfand, Essentials of Audiology; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitme",
+   "kulak"
+  ],
+  "etiketler": [
+   "işitme yolu",
+   "işitme fizyolojisi",
+   "dış kulak",
+   "orta kulak",
+   "iç kulak",
+   "koklea",
+   "işitme siniri",
+   "işitsel korteks",
+   "auditory pathway",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 3",
+   "baslik": "Ses kulaktan beyne *nasıl ulaşır?*",
+   "alt": "Dış, orta ve iç kulak, beyin sapı ve korteks",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir sesin kulak kepçesinden beyne kadar izlediği yolu baştan sona takip edeceğiz.",
+    "Dış, orta ve iç kulağın görevlerini, titreşimin sinir sinyaline nasıl dönüştüğünü ve beynin bu sinyali nasıl işlediğini göreceğiz."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Genel bakış",
+   "baslik": "Kulağın *üç bölümü*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak",
+     "metin": "Auris externa (dış kulak)",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Auris media (orta kulak)",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_kulak",
+     "metin": "Auris interna (iç kulak)",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hava, titreşim, sıvı, elektrik",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Kulak, anatomik olarak üç bölüme ayrılır.",
+    "Birincisi auris externa, yani dış kulak; kulak kepçesi ve dış kulak yolundan oluşur.",
+    "İkincisi auris media, yani orta kulak; timpanik membranın arkasındaki hava dolu boşluktur.",
+    "Üçüncüsü auris interna, yani iç kulak; temporal kemiğin derinliğinde, sıvı dolu bir yapıdır.",
+    "İç kulakta işitme organı olan koklea ile denge organı olan vestibüler sistem bir arada bulunur.",
+    "Ses bu yolculukta önce hava titreşimi, sonra mekanik titreşim, ardından sıvı dalgası ve en sonunda sinir sinyali olur."
+   ]
+  },
+  {
+   "id": "dis_kulak",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dış kulak",
+   "baslik": "Dış kulak: *toplama ve yönlendirme*",
+   "maddeler": [
+    {
+     "metin": "Kulak kepçesi: sesi _toplar_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dış kulak yolu: yaklaşık _2,5 cm_",
+     "cumle": 1,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Rezonans: _2000 ile 4000 Hz_ kazancı",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "_Yön_ bulmaya yardım",
+     "cumle": 4,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Koruma: _kulak kiri_",
+     "cumle": 5,
+     "ikon": "enfeksiyon"
+    }
+   ],
+   "cumleler": [
+    "Ses dalgası önce kulak kepçesine ulaşır; kepçe sesi toplar ve dış kulak yoluna yönlendirir.",
+    "Dış kulak yolu yaklaşık iki buçuk santimetre uzunluğunda, hafif S şeklinde bir kanaldır.",
+    "Bu kanal bir ucu kapalı bir boru gibi davranır ve yaklaşık iki bin ile dört bin hertz arasındaki sesleri güçlendirir.",
+    "Kulak kepçesi ve kanal birlikte bu bölgede yaklaşık on ile yirmi desibellik bir kazanç sağlar.",
+    "Kepçenin kıvrımları, sesin önden mi arkadan mı geldiğini ayırt etmemize yardım eden ipuçları oluşturur.",
+    "Kulak kiri ve kanalın yapısı ise kulağı yabancı cisimlerden ve enfeksiyondan korur.",
+    "Konuşmanın anlaşılmasında önemli olan birçok ünsüz de bu güçlendirilen frekans bölgesindedir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kulak_kepcesi",
+      "metin": "Auricula (kulak kepçesi)",
+      "cumle": 0
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Dış kulak yolu",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "orta_kulak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Orta kulak",
+   "baslik": "Orta kulak: *mekanik iletim*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Timpanik membran (kulak zarı)",
+     "cumle": 0
+    },
+    {
+     "parca": "malleus",
+     "metin": "Malleus (çekiç)",
+     "cumle": 2
+    },
+    {
+     "parca": "incus",
+     "metin": "Incus (örs)",
+     "cumle": 2
+    },
+    {
+     "parca": "stapes",
+     "metin": "Stapes (üzengi)",
+     "cumle": 3
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "Oval pencere",
+     "cumle": 4
+    },
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Östaki borusu",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Dış kulak yolunun sonunda timpanik membran, yani kulak zarı bulunur.",
+    "Ses dalgası çarptığında timpanik membran, sesin frekansına uygun biçimde titreşir.",
+    "Bu titreşimi ossiküller, yani kulak kemikçikleri iletir: önce malleus, yani çekiç, sonra incus, yani örs.",
+    "Zincirin son halkası stapes, yani üzengidir; vücudumuzun en küçük kemiğidir.",
+    "Stapesin tabanı, iç kulağın girişi olan oval pencereye oturur ve titreşimi iç kulak sıvısına aktarır.",
+    "Orta kulak hava doludur ve Östaki borusu ile burnun arka bölümüne, yani burun yutağına bağlanır.",
+    "Östaki borusu, orta kulaktaki hava basıncını dış ortamla eşitler."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 0,
+     "olcek": 2.3
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 4,
+     "olcek": 3.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kemikcikler",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 4
+    },
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Orta kulak",
+   "baslik": "Orta kulak neden *gerekli?*",
+   "maddeler": [
+    {
+     "metin": "Hava ile sıvı arasında _empedans farkı_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Alan oranı: yaklaşık _17'ye 1_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kaldıraç: yaklaşık _1,3'e 1_",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Kazanç: yaklaşık _25 ile 30 dB_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "İç kulak sıvı doludur ve ses havadan sıvıya geçerken enerjisinin büyük kısmı geri yansır.",
+    "Orta kulak olmasaydı bu yansıma nedeniyle yaklaşık otuz desibellik bir kayıp yaşanırdı.",
+    "Orta kulak bu sorunu iki yolla çözer; birincisi timpanik membranın stapes tabanından yaklaşık on yedi kat geniş olmasıdır.",
+    "İkincisi kemikçik zincirinin küçük bir kaldıraç gibi çalışarak kuvveti yaklaşık bir virgül üç kat artırmasıdır.",
+    "Bu mekanizmalar birlikte yaklaşık yirmi beş ile otuz desibellik bir kazanç sağlar; buna empedans uyumu denir.",
+    "Bu konuyu fizyoloji derslerinde ayrıntılı olarak ele alacağız."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 2
+     },
+     {
+      "parca": "stapes",
+      "cumle": 2
+     },
+     {
+      "parca": "kemikcikler",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "Timpanik membran",
+      "cumle": 2
+     },
+     {
+      "parca": "stapes",
+      "metin": "Stapes tabanı",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "koklea",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İç kulak",
+   "baslik": "Koklea: *sıvı dalgası*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Oval pencere",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Yuvarlak pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "Baziler membran",
+     "cumle": 2
+    },
+    {
+     "parca": "taban",
+     "metin": "Taban: tiz sesler",
+     "cumle": 4
+    },
+    {
+     "parca": "tepe",
+     "metin": "Tepe: pes sesler",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Stapes oval pencereyi içe itip geri çektikçe koklea, yani salyangoz içindeki sıvıda basınç dalgaları oluşur.",
+    "Sıvı sıkıştırılamadığı için bu hareket, kokleanın tabanındaki yuvarlak pencerenin karşı yönde esnemesiyle dengelenir.",
+    "Koklea boyunca uzanan baziler membran bu sıvı hareketiyle titreşmeye başlar.",
+    "Titreşim tabandan tepeye doğru ilerleyen bir yürüyen dalga oluşturur.",
+    "Tiz sesler en büyük titreşimi kokleanın tabanına yakın bir yerde yapar.",
+    "Pes sesler ise kokleanın tepesine kadar ilerler; bu frekans düzenine tonotopi denir.",
+    "Böylece koklea, gelen sesi bir frekans analizörü gibi bileşenlerine ayırır."
+   ]
+  },
+  {
+   "id": "tuy_hucre",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İç kulak",
+   "baslik": "Titreşimden *sinir sinyaline*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "baziler_membran",
+     "metin": "Baziler membran",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "İç tüy hücresi",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Dış tüy hücreleri",
+     "cumle": 4
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Sinir lifleri",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Baziler membranın üzerinde Corti organı yer alır; asıl dönüşüm burada gerçekleşir.",
+    "Corti organındaki iç tüy hücreleri, işitsel bilgiyi sinire aktaran asıl duyu hücreleridir.",
+    "Membran titreştiğinde tüy hücrelerinin tepesindeki ince uzantılar, yani stereosiller eğilir.",
+    "Bu eğilme hücrede iyon kanallarını açar ve mekanik enerji elektriksel sinyale dönüşür.",
+    "Dış tüy hücreleri ise boylarını uzatıp kısaltarak zayıf sesleri güçlendirir ve frekans seçiciliğini keskinleştirir.",
+    "İç tüy hücrelerinin uyardığı sinir lifleri bu sinyali işitme sinirine taşır."
+   ]
+  },
+  {
+   "id": "kodlama",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İç kulak",
+   "baslik": "Sinir sesi nasıl *kodlar?*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Yer kodu",
+     "metin": "Hangi lif uyarıldı?",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Zaman kodu",
+     "metin": "Dalgaya kilitlenme",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Şiddet",
+     "metin": "Ateşleme hızı ve lif sayısı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "İşitme siniri frekansı öncelikle yer koduyla taşır; her lif kokleanın belirli bir bölgesinden bilgi getirir.",
+    "Yaklaşık otuz bin lifin her biri bu şekilde kendi frekansına ayarlanmıştır.",
+    "Pes seslerde lifler ayrıca ses dalgasının belirli evrelerinde ateşlenir; buna faz kilitlenmesi denir.",
+    "Ses şiddetlendikçe liflerin ateşleme hızı artar ve daha fazla lif devreye girer.",
+    "Böylece beyin hem sesin perdesini hem de ses yüksekliğini bu kodlardan çözer."
+   ]
+  },
+  {
+   "id": "kemik_yolu",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İç kulak",
+   "baslik": "Kestirme yol: *kemik yolu*",
+   "maddeler": [
+    {
+     "metin": "Kafatası titreşimi _kokleaya_ ulaşır",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Dış ve orta kulak _büyük ölçüde atlanır_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Odyogramda _iç kulak_ bilgisi",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Ses kokleaya yalnız hava yoluyla değil, kafatası kemiklerinin titreşimiyle de ulaşabilir.",
+    "Buna kemik yolu denir; bu yolda dış ve orta kulak büyük ölçüde devre dışı kalır.",
+    "Kendi sesimizi kayıtta farklı duymamızın bir nedeni, konuşurken kendimizi kemik yoluyla da duymamızdır.",
+    "Klinikte kemik yolu ölçümü, kokleanın ve sonrasının durumunu hava yolundan ayrı olarak görmemizi sağlar.",
+    "Bu fark, sonraki dersin konusu olan kayıp tiplerini ayırmanın temelidir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "temporal_kemik",
+      "cumle": 0
+     },
+     {
+      "parca": "koklea",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "temporal_kemik",
+      "metin": "Temporal kemik",
+      "cumle": 0
+     },
+     {
+      "parca": "koklea",
+      "metin": "Koklea",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Beyne giden yol",
+   "baslik": "Merkezi *işitme yolu*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "İşitme siniri (VIII)",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "Koklear nükleus",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Superior oliver kompleks",
+     "cumle": 2
+    },
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "Lateral lemniskus",
+     "cumle": 3
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "İnferior kollikulus",
+     "cumle": 3
+    },
+    {
+     "parca": "mgb",
+     "metin": "Medial genikulat cisim",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "İşitsel korteks",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sinyal, sekizinci kafa siniri olan işitme siniriyle beyin sapına ulaşır.",
+    "İlk durak koklear nükleus, yani koklear çekirdektir; buraya gelen lifler yalnız aynı taraftaki kulaktan gelir.",
+    "Ardından superior oliver kompleks, yani üst zeytin çekirdekleri gelir; burada iki kulaktan gelen bilgi ilk kez karşılaştırılır.",
+    "Sinyal lateral lemniskus boyunca yükselerek orta beyindeki inferior kollikulusa, yani alt tepeciğe ulaşır.",
+    "Talamustaki medial genikulat cisim, sinyali kortekse aktaran son ara istasyondur.",
+    "Son olarak sinyal, temporal lobdaki birincil işitsel kortekse ulaşır.",
+    "Yol boyunca liflerin çoğu karşı tarafa geçer; bu yüzden her kulak beynin her iki yarısında temsil edilir."
+   ]
+  },
+  {
+   "id": "beyin_sapi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Beyne giden yol",
+   "baslik": "Beyin sapı *ne yapar?*",
+   "maddeler": [
+    {
+     "metin": "İki kulak arası _zaman ve şiddet_ farkı",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Sesin _yönünü_ belirleme",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Refleksler_: akustik refleks",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Gürültüde _seçici dinlemeye_ katkı",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "Beyin sapı sinyali yalnız iletmez, aynı zamanda işler.",
+    "Superior oliver komplekste iki kulağa ulaşan sesin zaman ve şiddet farkları karşılaştırılır.",
+    "Bu sayede sesin hangi yönden geldiğini bulabiliriz.",
+    "Yüksek seslerde orta kulaktaki stapedius kasını kasan akustik refleks de beyin sapı düzeyinde çalışır.",
+    "Beyinden kulağa doğru inen lifler ise dış tüy hücrelerini etkileyerek gürültüde dinlemeye katkıda bulunur.",
+    "İleride göreceğimiz işitsel beyin sapı yanıtı, kısaca ABR, bu yolun ilk bölümlerindeki elektriksel etkinliği ölçer."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Superior oliver kompleks",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "korteks",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Beyne giden yol",
+   "baslik": "Birincil *işitsel korteks*",
+   "maddeler": [
+    {
+     "metin": "_Primary auditory cortex_ (birincil işitsel korteks)",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Yer: temporal lob, _Heschl girusu_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "_Tonotopik_ düzen korunur",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Anlam: _ilişkili alanlarla_ birlikte",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Yolun son durağı primary auditory cortex, yani birincil işitsel kortekstir.",
+    "Bu alan temporal lobun üst yüzünde, Heschl girusu, yani transvers temporal girus adı verilen bölgede bulunur.",
+    "Kokleada başlayan frekans düzeni burada da korunur; farklı frekanslar korteksin farklı bölgelerinde temsil edilir.",
+    "Sesin bir kelime mi yoksa müzik mi olduğunu anlamak, çevredeki işitsel ilişkili alanlarla birlikte gerçekleşir.",
+    "Konuşmanın anlamlandırılmasında, çoğu kişide sol yarımküredeki Wernicke alanı önemli rol oynar.",
+    "Kısacası kulak sesi alır ve kodlar, ama duyduğumuzu anlayan beynimizdir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "isitme_korteksi",
+      "metin": "Birincil işitsel korteks",
+      "cumle": 0
+     }
+    ]
+   }
+  },
+  {
+   "id": "tablo",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Beyne giden yol",
+   "baslik": "Yolculuğun *özeti*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Dış kulak",
+     "metin": "Akustik: toplama, rezonans",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Orta kulak",
+     "metin": "Mekanik: empedans uyumu",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "İç kulak",
+     "metin": "Sıvı ve elektrik: frekans analizi",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Sinir ve beyin",
+     "metin": "İletim, yorumlama",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Şimdi yolculuğu tek bir tabloda toparlayalım.",
+    "Dış kulakta ses henüz havadaki akustik bir dalgadır; kepçe ve kanal onu toplar ve güçlendirir.",
+    "Orta kulakta enerji mekanik titreşime dönüşür ve sıvıya aktarılmak üzere uyumlanır.",
+    "İç kulakta sıvı dalgası baziler membranı titreştirir ve tüy hücreleri bunu elektriksel sinyale çevirir.",
+    "Sinir yolları ve korteks ise bu sinyali iletir, işler ve anlamlandırır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Her testin yolun hangi bölümünü ölçtüğünü düşünün: timpanometri orta kulağı, OAE dış tüy hücrelerini, ABR işitme sinirini ve beyin sapını gösterir.",
+   "cumleler": [
+    "Bu yol haritası klinikte çok işe yarar.",
+    "Bir test sonucunu yorumlarken, testin yolun hangi bölümünü ölçtüğünü düşünün.",
+    "Timpanometri orta kulağı, otoakustik emisyon, kısaca OAE, dış tüy hücrelerini değerlendirir.",
+    "ABR ise işitme sinirini ve beyin sapı yollarını değerlendirir.",
+    "Bu testleri birlikte yorumlamak, sorunun yerini bulmanın en güvenilir yoludur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Dış kulak toplar ve *güçlendirir*",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Orta kulak *empedans uyumu* sağlar",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Koklea frekansları *ayırır* ve dönüştürür",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Beyin sapı ve korteks *yorumlar*",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Dış kulak sesi toplar, yönlendirir ve konuşma için önemli frekansları güçlendirir.",
+    "Orta kulak, havadaki sesi sıvı dolu iç kulağa verimli biçimde aktarır.",
+    "Koklea sesi frekanslarına ayırır ve tüy hücreleri titreşimi sinir sinyaline çevirir.",
+    "Beyin sapı sesi işler ve yönünü bulur; korteks ise duyduğumuzu anlamlandırır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "İki kulaktan gelen bilgi ilk kez nerede karşılaştırılır?",
+   "secenekler": [
+    "Koklear nükleus",
+    "Superior oliver kompleks",
+    "İnferior kollikulus",
+    "İşitsel korteks"
+   ],
+   "dogru": 1,
+   "aciklama": "_Superior oliver kompleks_, iki kulağın bilgisinin ilk birleştiği duraktır; yön bulmada kritik rol oynar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: İki kulaktan gelen bilgi işitme yolunda ilk kez nerede karşılaştırılır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B, superior oliver kompleks. Koklear nükleus yalnız aynı taraftaki kulaktan bilgi alır.",
+    "İki kulağın bilgisi ilk kez superior oliver komplekste buluşur ve yön bulmada kullanılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İletim tipi, sensörinöral ve *mikst* kayıp",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bu yolun hangi bölümünün etkilendiğine göre işitme kaybı tiplerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

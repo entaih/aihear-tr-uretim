@@ -1,0 +1,751 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D244_Bimodal_Iki_Tarafli_Implant_TR",
+ "kapak": {
+  "ust": "DERS 244",
+  "baslik": "Bimodal ve<br>*iki taraflı*",
+  "alt": "İki kulakla işitmeye yeniden ulaşmak",
+  "cizim": "bas_ustten",
+  "ayar": {
+   "mod": "golge"
+  }
+ },
+ "youtube": {
+  "baslik": "Bimodal İşitme ve İki Taraflı Koklear İmplant | Ders 244 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bir kulakta implant, diğerinde işitme cihazı mı; yoksa iki kulağa implant mı? Bu derste bimodal işitmenin yararlarını ve ayar adımlarını, eş zamanlı ve ardışık iki taraflı implantasyonu, baş gölgesi, toplama ve baskılama etkilerini ve iki kulak arasındaki ayar uyumunu öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Ching, Incerti ve Hill (2004), Binaural benefits for adults who use hearing aids and cochlear implants in opposite ears, Ear and Hearing; Litovsky ve arkadaşları (2006), Bilateral cochlear implants in children: localization acuity measured with minimum audible angle, Ear and Hearing; Gifford, Cochlear Implant Patient Assessment; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "bimodal"
+  ],
+  "etiketler": [
+   "bimodal işitme",
+   "bimodal hearing",
+   "iki taraflı koklear implant",
+   "bilateral cochlear implants",
+   "ardışık implantasyon",
+   "sequential implantation",
+   "baş gölgesi",
+   "binaural toplama",
+   "binaural baskılama",
+   "ses yüksekliği dengeleme",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 244",
+   "baslik": "Bimodal ve *iki taraflı* implant",
+   "alt": "İki kulakla işitmeye yeniden ulaşmak",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste tek implantın ötesine geçiyor ve iki kulakla işitmeye yeniden ulaşmanın yollarını öğreniyoruz.",
+    "Bir kulakta implant ile diğerinde işitme cihazı kullanımını, iki taraflı implantı ve iki kulak arasındaki ayar uyumunu ele alacağız."
+   ]
+  },
+  {
+   "id": "iki_kulak",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden iki kulak?",
+   "baslik": "İki kulağın *kazançları*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Baş gölgesi",
+     "cumle": 1,
+     "metin": "İyi taraftaki kulak"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Toplama",
+     "cumle": 2,
+     "metin": "Ses daha yüksek"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Baskılama",
+     "cumle": 3,
+     "metin": "Gürültüden ayırma"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Yön bulma",
+     "cumle": 4,
+     "metin": "Sesin yeri"
+    }
+   ],
+   "cumleler": [
+    "İşitme cihazları dersinde iki kulakla işitmenin avantajlarını görmüştük; aynı avantajlar implant kullanıcıları için de geçerlidir.",
+    "Baş gölgesi etkisi sayesinde kişi, gürültünün karşı tarafında kalan ve sinyal-gürültü oranı daha iyi olan kulağı kullanabilir.",
+    "Binaural toplama ile aynı ses iki kulakla biraz daha yüksek algılanır.",
+    "Binaural baskılama, beynin iki kulaktaki farkları kullanarak konuşmayı gürültüden ayırmasıdır.",
+    "Yön bulma ise iki kulak arasındaki zaman ve şiddet farklarına dayanır.",
+    "Tek implantla bu avantajların çoğu kaybolur; ikinci kulağa bir cihaz ya da implant eklemek bunları kısmen geri getirmeyi amaçlar."
+   ]
+  },
+  {
+   "id": "golge",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden iki kulak?",
+   "baslik": "Tek implantla *gölge* sorunu",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "golge",
+    "gurultu_yonu": "sol"
+   },
+   "etiketler": [
+    {
+     "parca": "konusma",
+     "metin": "konuşma",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "gürültü",
+     "cumle": 0
+    },
+    {
+     "parca": "bas_golgesi",
+     "metin": "baş gölgesi",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "bas_golgesi",
+     "cumle": 2
+    },
+    {
+     "parca": "iyi_kulak",
+     "cumle": 3
+    },
+    {
+     "parca": "kotu_kulak",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bu çizimde konuşma bir taraftan, gürültü ise öbür taraftan geliyor.",
+    "Kişinin yalnızca bir kulağında implant olduğunu düşünelim.",
+    "Konuşma implantsız taraftan geliyorsa, baş konuşmayı gölgeler ve implantlı kulağa zayıflamış olarak ulaştırır.",
+    "Konuşma implantlı taraftan, gürültü öbür taraftan gelirse durum çok daha iyidir.",
+    "Yani tek implant kullanan kişinin başarısı, konuşmacının hangi tarafta oturduğuna güçlü biçimde bağlıdır.",
+    "İkinci kulağa bir cihaz ya da implant eklemek, kişiye her zaman iyi konumda bir kulak sağlar."
+   ]
+  },
+  {
+   "id": "bimodal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bimodal işitme",
+   "baslik": "Bimodal: *iki yol*, bir beyin",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "cihazli_kulak",
+      "noktalar": [
+       [
+        250,
+        50
+       ],
+       [
+        500,
+        60
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        2000,
+        100
+       ],
+       [
+        4000,
+        115
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "cihaz kulağı, cihazsız",
+      "cumle": 1
+     },
+     {
+      "ad": "implant_kulagi",
+      "noktalar": [
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        25
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        2000,
+        25
+       ],
+       [
+        4000,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "implantla cihazlı",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "akustik_bolge",
+      "x": [
+       250,
+       1000
+      ],
+      "renk": "sari",
+      "etiket": "akustik katkı",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "akustik_bolge",
+     "cumle": 2
+    },
+    {
+     "parca": "implant_kulagi",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bimodal işitme (bimodal hearing), bir kulakta koklear implant, karşı kulakta işitme cihazı kullanılmasıdır.",
+    "Bu örnekte işitme cihazı kullanılan kulağın pes frekanslarda orta ile ileri derece, tiz frekanslarda çok ileri derece kaybı var.",
+    "Bu kulak tiz frekanslarda pek yararlanamaz, ama pes frekanslarda yükseltilmiş sesi yine de akustik olarak işleyebilir.",
+    "İmplantlı kulak ise bütün frekanslarda, özellikle tizlerde konuşmayı duyulabilir kılar.",
+    "Beyin iki farklı türde bilgiyi, yani elektriksel ve akustik bilgiyi birleştirmeyi öğrenir.",
+    "Bimodal kullanım çoğu adayda ilk ve doğal seçenektir; çünkü karşı kulakta çoğu zaman bir miktar işitme kalmıştır.",
+    "Grafikteki değerler örnektir; her kişinin karşı kulak işitmesi farklıdır."
+   ]
+  },
+  {
+   "id": "yararlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bimodal işitme",
+   "baslik": "Pes akustik bilginin *katkısı*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Ses perdesi",
+     "cumle": 0,
+     "metin": "Konuşmacının sesi"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüde",
+     "cumle": 2,
+     "metin": "Konuşmacıyı ayırma"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Müzik",
+     "cumle": 3,
+     "metin": "Melodi ve tını"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Doğallık",
+     "cumle": 4,
+     "metin": "Daha dolgun ses"
+    }
+   ],
+   "cumleler": [
+    "Pes frekanslardaki akustik işitme, ses perdesini ve temel frekansı implanttan çok daha iyi taşır.",
+    "Bu bilgi, konuşmanın tonlamasını, vurgusunu ve konuşmacının kim olduğunu anlamaya yardım eder.",
+    "Gürültüde iki konuşmacıyı perdeleriyle ayırmak kolaylaşır; birçok çalışmada bimodal kullanım gürültüde konuşmayı iyileştirmiştir.",
+    "Müzik dinlemede melodi ve tını algısı, yalnız implantla dinlemeye göre genellikle daha iyidir.",
+    "Kullanıcılar çoğu zaman iki cihazla sesi daha doğal ve dolgun bulduklarını söyler.",
+    "Yön bulmada katkı ise daha sınırlıdır; çünkü iki kulağa ulaşan bilgi türü ve zamanlaması birbirinden farklıdır.",
+    "Yararın büyüklüğü kişiden kişiye çok değişir; en iyi yol, her kişide ölçerek karar vermektir."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bimodal işitme",
+   "baslik": "Bimodal *ayar* adımları",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "İmplant haritası",
+     "cumle": 0,
+     "metin": "Önce dengelenir"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz ayarı",
+     "cumle": 1,
+     "metin": "Reçete ve doğrulama"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Denge",
+     "cumle": 3,
+     "metin": "İki kulak eşit"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Bant genişliği",
+     "cumle": 4,
+     "metin": "Gerekirse sınırla"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ölçüm",
+     "cumle": 6,
+     "metin": "Tek ve iki kulak"
+    }
+   ],
+   "cumleler": [
+    "Bimodal ayarda genellikle önce implant haritası belirli ölçüde dengelenir.",
+    "Karşı kulaktaki işitme cihazı, kalan işitmeye uygun bir reçete formülüyle ayarlanır ve gerçek kulak ölçümüyle doğrulanır.",
+    "Pes frekanslarda yeterli kazanç sağlamak, bimodal yararın temelidir; bu bölge çoğu zaman yetersiz yükseltilir.",
+    "Ardından iki kulak birlikte dinlenirken ses yüksekliği dengelenir; kişi sesi başının ortasında duymalıdır.",
+    "Bazı kişilerde cihazın tiz frekanslardaki çıkışı yarar sağlamaz ve sesi bozabilir; o zaman bu bölge azaltılabilir.",
+    "İki cihazın sesi işleme süreleri birkaç milisaniye farklı olabilir; bazı sistemlerde bu fark ayarlanabilir.",
+    "Son olarak her kulak tek başına ve iki kulak birlikte, sessizde ve gürültüde test edilerek bimodal yarar ölçülür."
+   ]
+  },
+  {
+   "id": "kimde",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Bimodal işitme",
+   "baslik": "Bimodal *ne zaman* yetmez?",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Kalan işitme",
+     "cumle": 0,
+     "metin": "Çok azsa yarar az"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ölçüm",
+     "cumle": 1,
+     "metin": "Cihazlı skor düşük"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Girişim",
+     "cumle": 3,
+     "metin": "İki kulak daha kötü"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Seçenek",
+     "cumle": 4,
+     "metin": "İkinci implant"
+    }
+   ],
+   "cumleler": [
+    "Karşı kulaktaki işitme çok azsa, cihaz pes frekanslarda bile yeterli bilgi sağlayamayabilir.",
+    "Karşı kulağın cihazla konuşma tanıma skoru zamanla düşüyorsa ya da çok düşükse, bu kulak da implant açısından değerlendirilebilir.",
+    "Kişi cihaz kulağını yararsız, rahatsız edici ya da yalnızca gürültü getiren bir kulak olarak tarif edebilir.",
+    "Nadiren iki kulakla dinleme, yalnız implantla dinlemeden daha kötü sonuç verir; bu bir girişim işaretidir.",
+    "Bu durumlarda ikinci kulağa implant seçeneği, kişinin bulguları ve ülkenin geri ödeme kurallarıyla birlikte ekipte konuşulur.",
+    "Karar verilmeden önce cihazın gerçekten uygun ayarlandığından emin olmak gerekir."
+   ]
+  },
+  {
+   "id": "bilateral",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İki taraflı implant",
+   "baslik": "Eş zamanlı mı, *ardışık* mı?",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "Eş zamanlı",
+     "cumle": 0,
+     "metin": "Tek ameliyatta iki kulak"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Ardışık",
+     "cumle": 2,
+     "metin": "İki ayrı ameliyat"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Aralık",
+     "cumle": 4,
+     "metin": "Kısa olması önemli"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocuklar",
+     "cumle": 5,
+     "metin": "Erken ve kısa aralık"
+    }
+   ],
+   "cumleler": [
+    "İki taraflı koklear implant (bilateral cochlear implants), iki kulağa da implant uygulanmasıdır.",
+    "Eş zamanlı implantasyonda iki kulak aynı ameliyatta implante edilir; iki kulak işitsel deneyime aynı anda başlar.",
+    "Ardışık implantasyonda (sequential implantation) ise iki kulak farklı zamanlarda, iki ayrı ameliyatla implante edilir.",
+    "Ardışık yaklaşım, birinci implantın sonucunu görmeye ya da sonradan ortaya çıkan bir ihtiyacı karşılamaya olanak tanır.",
+    "Ancak iki implant arasındaki süre uzadıkça ikinci kulağın sonuçları genellikle daha sınırlı kalır.",
+    "Bu nedenle çok ileri kayıplı küçük çocuklarda, iki taraflı implant planlanıyorsa eş zamanlı ya da kısa aralıklı uygulama önerilir.",
+    "Hangi yolun seçileceği ekip kararıdır ve ülkenin geri ödeme koşullarından da etkilenir."
+   ]
+  },
+  {
+   "id": "aralik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İki taraflı implant",
+   "baslik": "Aralık uzadıkça *ikinci kulak*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "ad": "İki implant arası süre (yıl)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "İkinci kulak, göreli başarı"
+    },
+    "seriler": [
+     {
+      "ad": "egilim",
+      "noktalar": [
+       [
+        0,
+        88
+       ],
+       [
+        1,
+        82
+       ],
+       [
+        2,
+        75
+       ],
+       [
+        4,
+        64
+       ],
+       [
+        6,
+        56
+       ],
+       [
+        8,
+        51
+       ],
+       [
+        10,
+        48
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 4,
+      "etiket": "şematik eğilim",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kisa",
+      "x": [
+       0,
+       2
+      ],
+      "renk": "yesil",
+      "etiket": "kısa aralık",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kisa",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Bu şematik grafik, çocuklarda yapılan çalışmalarda görülen genel eğilimi özetliyor; değerler gerçek veri değildir.",
+    "İkinci implant ne kadar geç yapılırsa, ikinci kulağın tek başına konuşma tanıma başarısı genellikle o kadar sınırlı kalır.",
+    "Kısa aralıkta iki kulağın sonuçları birbirine daha çok yaklaşır.",
+    "Nedeni, uzun süre uyarı almayan işitme yolunun ve korteksin, diğer kulağın baskın hale gelmesiyle yeniden düzenlenmesidir.",
+    "Uzun aralıkta bile ikinci implant iki kulakla işitmeye katkı sağlayabilir; ama beklentiler buna göre konuşulur.",
+    "Yetişkinlerde de ikinci kulaktaki ağır kaybın süresi, o kulağın sonucunu etkileyen önemli bir etkendir."
+   ]
+  },
+  {
+   "id": "bi_yarar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İki taraflı implant",
+   "baslik": "İki implantla *neler* kazanılır?",
+   "maddeler": [
+    {
+     "metin": "Baş gölgesi: en büyük kazanç",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Toplama ve baskılama: daha küçük",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Yön bulma: belirgin iyileşme",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Zaman farkları zayıf iletilir",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "ayar": {
+     "mod": "ild",
+     "frekanslar": [
+      4000,
+      500
+     ]
+    },
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "bas_golgesi",
+      "metin": "şiddet farkı",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "İki taraflı implantta en büyük ve en tutarlı kazanç baş gölgesi etkisinden gelir; kişi her zaman iyi taraftaki kulağı kullanabilir.",
+    "Binaural toplama ve baskılama da görülür, ama katkıları genellikle birkaç desibelle sınırlıdır.",
+    "Yön bulma, tek implanta göre belirgin biçimde iyileşir; ancak normal işiten kişilerin düzeyine çoğu zaman ulaşmaz.",
+    "İmplant kullanıcıları yön bulmada çoğunlukla iki kulak arasındaki şiddet farklarından yararlanır.",
+    "Litovsky ve arkadaşlarının çalışmalarının gösterdiği gibi, iki kulak arası zaman farkları implantlarda zayıf iletilir.",
+    "Bunun nedenlerinden biri, iki işlemcinin darbelerinin birbirine göre zamanlanmaması ve ince yapının iletilmemesidir.",
+    "İki implant ayrıca bir cihaz arızasında kişinin tamamen işitmesiz kalmamasını sağlar."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ayar uyumu",
+   "baslik": "İki implantın *uyumu*",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Her kulak",
+     "cumle": 0,
+     "metin": "Ayrı harita"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Denge",
+     "cumle": 1,
+     "metin": "Ses ortada"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Eşleştirme",
+     "cumle": 3,
+     "metin": "Program ve ses düzeyi"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Yeni kulak",
+     "cumle": 4,
+     "metin": "Tek başına pratik"
+    }
+   ],
+   "cumleler": [
+    "İki taraflı implantta her kulağın haritası önce kendi başına oluşturulur.",
+    "Sonra iki işlemci birlikte açılır ve ses yüksekliği dengelenir; kişi konuşmayı başının ortasında duymalıdır.",
+    "Ses bir tarafa kayıyorsa, o taraftaki üst düzeyler biraz indirilir ya da öbür taraf yükseltilir.",
+    "İki işlemcinin programları ve ses düzeyi kontrolleri, kişinin kolayca kullanabileceği biçimde eşleştirilir.",
+    "Ardışık implantasyonda yeni kulak başlangıçta zayıf kalır; bazı merkezler günde bir süre yalnız yeni implantla dinleme pratiği önerir.",
+    "Bu pratik, beynin yeni kulağa da dikkat etmesine yardım eder; ama kişinin günlük iletişimini zorlamayacak biçimde planlanır."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ayar uyumu",
+   "baslik": "Yararı *nasıl ölçeriz?*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Uzamsal test",
+     "cumle": 0,
+     "metin": "Konuşma ve gürültü ayrı"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Yön bulma",
+     "cumle": 2,
+     "metin": "Hoparlör dizisi"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Anket",
+     "cumle": 3,
+     "metin": "SSQ gibi ölçekler"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Karşılaştırma",
+     "cumle": 4,
+     "metin": "Tek ve iki kulak"
+    }
+   ],
+   "cumleler": [
+    "İki kulağın yararını görmek için konuşma ve gürültü ayrı hoparlörlerden, farklı yönlerden verilir.",
+    "Konuşma önden, gürültü yandan verildiğinde baş gölgesi ve baskılama etkileri ayrı ayrı hesaplanabilir.",
+    "Yön bulma testi için kişinin çevresine yerleştirilmiş bir hoparlör dizisi kullanılır.",
+    "Konuşma, uzamsal ve nitelik ölçeği, kısaca SSQ gibi anketler, kişinin günlük yaşamdaki deneyimini değerlendirir.",
+    "Sonuçlar her kulak tek başına ve iki kulak birlikte karşılaştırılır; bu, bimodal ile iki taraflı implant kararında da kullanılır.",
+    "Her merkez bu testlerin tamamını yapamayabilir; ama en azından gürültüde konuşma testi önerilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Bimodal kullanıcıda karşı kulaktaki cihazı ihmal etmeyin. Her kontrolde cihazı ve ayarını gerçek kulak ölçümüyle doğrulayın; pes frekans kazancı çoğu zaman yetersizdir.",
+   "cumleler": [
+    "Sahadan bir ipucu: implant kontrolüne gelen bimodal kullanıcının karşı kulaktaki işitme cihazını da her seferinde kontrol edin.",
+    "Pek çok kişide implant sonrası bu cihaz eski ayarıyla kalır, bozulur ya da kullanılmaz hale gelir.",
+    "Cihazın ayarını gerçek kulak ölçümüyle doğrulayın; pes frekanslardaki kazanç çoğu zaman hedefin altındadır.",
+    "Kişi cihazı bırakmak istiyorsa, kararı ölçülmüş bir bimodal karşılaştırmadan sonra birlikte verin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Bimodal: implant ve karşı kulakta cihaz",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Pes akustik bilgi: perde ve müzik",
+     "cumle": 1,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "İki taraflı: kısa aralık önemli",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "İki kulak arasında denge şart",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Bimodal işitme, bir kulakta implantı karşı kulakta işitme cihazıyla birleştirir ve çoğu adayda ilk seçenektir.",
+    "Karşı kulaktaki pes frekans işitmesi perde, müzik ve gürültüde ayrım için implantın eksik bıraktığı bilgiyi tamamlar.",
+    "İki taraflı implant eş zamanlı ya da ardışık yapılır; özellikle çocuklarda iki implant arası sürenin kısa olması sonucu iyileştirir.",
+    "Her iki yaklaşımda da iki kulak arasında ses yüksekliği dengesi ve ölçülmüş yarar, ayarın temelidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "En büyük iki kulak kazancı hangisi?",
+   "secenekler": [
+    "Baş gölgesi etkisi",
+    "Binaural baskılama",
+    "Zaman farkı algısı",
+    "Binaural toplama"
+   ],
+   "dogru": 0,
+   "aciklama": "Kişi her zaman _iyi taraftaki_ kulağı kullanabilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: iki taraflı implant kullanıcılarında en büyük ve en tutarlı iki kulak kazancı hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: baş gölgesi etkisi.",
+    "İki implantla kişi her zaman gürültünün gölgesinde kalan, sinyal-gürültü oranı iyi olan kulağı kullanabilir; diğer etkiler daha küçüktür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Elektroakustik stimülasyon (*EAS*) ve hibrit sistemler",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste aynı kulakta akustik ve elektriksel uyarımın birlikte kullanıldığı elektroakustik stimülasyonu öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

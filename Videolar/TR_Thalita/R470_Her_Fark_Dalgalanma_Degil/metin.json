@@ -1,0 +1,146 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R470_Her_Fark_Dalgalanma_Degil_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #470",
+  "baslik": "Her fark *dalgalanma değil*",
+  "alt": "Seri odyogramları karşılaştırmak",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      35,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      40,
+      40,
+      30,
+      25,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İki odyogram arasındaki her fark dalgalanma mıdır? #shorts",
+  "aciklama": "Aynı kişide tekrarlanan ölçümler arasındaki fark genellikle beş desibel içinde kalır; bu kadar küçük farklar dalgalanma sayılmaz. Komşu frekanslarda on desibel ve üzerinde, aynı yönde ve tekrarlayan değişiklikler gerçek bir dalgalanmayı daha güçlü gösterir; kemik yolunun da hava yoluyla aynı yönde değişmesi değişimin sensörinöral olduğunu doğrular. Seri ölçümler aynı cihaz, aynı kulaklık ve aynı yöntemle yapılır ve her ölçümün atağa göre zamanı kaydedilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "Meniere",
+   "odyogram"
+  ],
+  "etiketler": [
+   "seri odyogram",
+   "dalgalanan işitme kaybı",
+   "Meniere hastalığı",
+   "test tekrar farkı",
+   "kemik yolu",
+   "vaka",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İki odyogram arasındaki her fark dalgalanma mıdır?",
+  "bilgiler": [
+   "Tekrarlanan ölçümler arasındaki fark genellikle 5 dB içindedir.",
+   "Komşu frekanslarda 10 dB ve üzeri, aynı yönde değişim daha güçlüdür.",
+   "Her ölçümün atağa göre zamanı kaydedilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "Meniere",
+   "odyogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #470",
+   "metin": "Her fark *dalgalanma mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İki odyogram arasındaki her fark dalgalanma mıdır?"
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "zincir",
+   "baslik": "Gerçek *dalgalanma*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "5 dB içinde",
+     "tr": "dalgalanma değil",
+     "cumle": 0
+    },
+    {
+     "ad": "10 dB ve üzeri",
+     "tr": "komşu frekanslar",
+     "cumle": 1
+    },
+    {
+     "ad": "Kemik yolu",
+     "tr": "aynı yönde",
+     "cumle": 2
+    }
+   ],
+   "alt": "Aynı cihaz, _aynı yöntem_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Aynı kişide tekrarlanan ölçümler genellikle beş desibel içinde kalır.",
+    "Komşu frekanslarda on desibel ve üzeri, aynı yönde değişim daha güçlüdür.",
+    "Kemik yolunun da aynı yönde değişmesi, değişimin sensörinöral olduğunu doğrular.",
+    "Her ölçümün atağa göre zamanı da kaydedilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D275",
+ "kaynak_baslik": "Vaka: dalgalanan pes kayıp"
+}

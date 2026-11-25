@@ -1,0 +1,115 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R210_Tek_Sol_Cift_Sag_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #210",
+  "baslik": "Tek sol, *çift sağ*",
+  "alt": "10-20 sisteminde elektrot adları",
+  "cizim": "abr",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Elektrot adlarındaki harf ve sayılar ne anlatır? #shorts",
+  "aciklama": "Elektrot yerleri uluslararası 10-20 sistemiyle standartlaştırılır: burun kökü ile ense arası yüzde 10 ve yüzde 20'lik parçalara bölünür. Tek sayılar başın sol, çift sayılar sağ tarafını gösterir; küçük z harfi orta hattı belirtir. Bu yüzden M1 sol, M2 sağ mastoiddir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "ABR",
+   "elektrofizyoloji"
+  ],
+  "etiketler": [
+   "10-20 sistemi",
+   "elektrot yerleşimi",
+   "Cz",
+   "mastoid",
+   "ABR",
+   "elektrot empedansı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Elektrot adlarındaki harf ve sayılar ne anlatır?",
+  "bilgiler": [
+   "Oranlar yüzde 10 ve yüzde 20 olduğu için sisteme 10-20 denir.",
+   "Tek sayılar sol, çift sayılar sağ tarafı gösterir.",
+   "Küçük z harfi orta hattı, Cz ise tepe noktasını belirtir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "ABR",
+   "elektrofizyoloji"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #210",
+   "metin": "Elektrot adları *ne anlatır?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Elektrot adlarındaki harf ve sayılar ne anlatır?"
+   ]
+  },
+  {
+   "id": "elektrot",
+   "tur": "zincir",
+   "baslik": "*10-20* sistemi",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Tek sayı",
+     "tr": "sol taraf",
+     "cumle": 2
+    },
+    {
+     "ad": "Çift sayı",
+     "tr": "sağ taraf",
+     "cumle": 2,
+     "gecikme": 0.9
+    },
+    {
+     "ad": "z harfi",
+     "tr": "orta hat",
+     "cumle": 3
+    }
+   ],
+   "alt": "Karıştırmamak için _tek sol, çift sağ_",
+   "alt_cumle": 4,
+   "cumleler": [
+    {
+     "yazi": "Elektrot yerleri uluslararası 10-20 sistemiyle standartlaştırılır.",
+     "ses": "Elektrot yerleri uluslararası on yirmi sistemiyle standartlaştırılır."
+    },
+    "Burun kökü ile ense arası yüzde on ve yirmilik parçalara bölünür.",
+    "Tek sayılar başın sol tarafını, çift sayılar sağ tarafını gösterir.",
+    {
+     "yazi": "Küçük z harfi orta hattı belirtir; Cz tepe noktasıdır.",
+     "ses": "Küçük ze harfi orta hattı belirtir; ce ze tepe noktasıdır."
+    },
+    {
+     "yazi": "Bu yüzden M1 sol mastoid, M2 sağ mastoiddir.",
+     "ses": "Bu yüzden me bir sol mastoid, me iki sağ mastoiddir."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D126",
+ "kaynak_baslik": "Elektrot yerleşimi ve 10-20 sistemi"
+}

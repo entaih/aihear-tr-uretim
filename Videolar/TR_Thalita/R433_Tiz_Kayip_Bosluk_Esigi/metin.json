@@ -1,0 +1,109 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R433_Tiz_Kayip_Bosluk_Esigi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #433",
+  "baslik": "Uzun eşik, *kulaktan mı?*",
+  "alt": "Gürültüde boşluklar testi",
+  "cizim": "dalga_bicimi",
+  "ayar": {
+   "seriler": [
+    "gurultu"
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Uzun bir boşluk saptama eşiği her zaman beyindeki bir sorunu mu gösterir? #shorts",
+  "aciklama": "Gürültüde boşluklar testinde (GIN) altı saniyelik gürültü parçalarına 2 ile 20 milisaniyelik boşluklar yerleştirilir; normal yetişkinde yaklaşık eşik 5 milisaniye civarındadır. Geniş bant gürültüde boşluk saptama tiz frekans bilgisinden de yararlandığı için tiz frekanslarda kaybı olan kişide eşik uzayabilir; bu yüzden zamansal testler saf ses eşikleriyle birlikte yorumlanır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "APD",
+   "zamansalişlemleme"
+  ],
+  "etiketler": [
+   "gürültüde boşluklar testi",
+   "GIN",
+   "boşluk saptama",
+   "zamansal çözünürlük",
+   "periferik işitme kaybı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Uzun bir boşluk saptama eşiği her zaman beyindeki bir sorunu mu gösterir?",
+  "bilgiler": [
+   "Normal yetişkinde yaklaşık eşik 5 milisaniye civarındadır.",
+   "Tiz frekans kaybında eşik uzayabilir.",
+   "Sonuç saf ses eşikleriyle birlikte yorumlanır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "APD",
+   "zamansalişlemleme"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #433",
+   "metin": "Her zaman *beyin mi?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Uzun bir boşluk saptama eşiği her zaman beyindeki bir sorunu mu gösterir?"
+   ]
+  },
+  {
+   "id": "gin",
+   "tur": "zincir",
+   "baslik": "Boşluk *eşiği*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Normal",
+     "tr": "yaklaşık 5 ms",
+     "cumle": 1
+    },
+    {
+     "ad": "Tiz kayıp",
+     "tr": "eşik uzayabilir",
+     "cumle": 2
+    },
+    {
+     "ad": "Yorum",
+     "tr": "odyogramla birlikte",
+     "cumle": 4
+    }
+   ],
+   "alt": "Önce _odyogram_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Gürültüde boşluklar testinde gürültünün içine kısa sessizlikler yerleştirilir.",
+    "Normal yetişkinde yaklaşık eşik beş milisaniye civarındadır.",
+    "Tiz frekanslarda kaybı olan kişide bu eşik uzayabilir.",
+    "Çünkü geniş bant gürültüde boşluk saptama tiz bilgiden de yararlanır.",
+    "Bu yüzden sonuç, saf ses eşikleriyle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D253",
+ "kaynak_baslik": "Zamansal testler: GIN ve RGDT"
+}

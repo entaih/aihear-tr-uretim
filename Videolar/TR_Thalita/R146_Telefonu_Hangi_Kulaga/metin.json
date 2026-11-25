@@ -1,0 +1,102 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R146_Telefonu_Hangi_Kulaga_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #146",
+  "baslik": "Telefon *hangi kulakta?*",
+  "alt": "Anamnezde basit ama değerli bir soru",
+  "cizim": "kulak_kesit",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Telefonla konuşurken ahizeyi hangi kulağınıza tutuyorsunuz? #shorts",
+  "aciklama": "Çoğu kişi telefonla konuşurken farkında olmadan daha iyi duyan kulağını kullanır. Anamnezde bu basit soru, hasta iki kulağı arasında fark tarif etmese bile önemli bir ipucu verir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitme",
+   "anamnez"
+  ],
+  "etiketler": [
+   "odyolojik anamnez",
+   "öykü alma",
+   "işitme kaybı",
+   "iyi duyan kulak",
+   "saf ses odyometrisi",
+   "klinik ipucu",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Telefonla konuşurken ahizeyi hangi kulağınıza tutuyorsunuz?",
+  "bilgiler": [
+   "Çoğu kişi farkında olmadan daha iyi duyan kulağını kullanır.",
+   "Hasta fark tarif etmese bile bu soru önemli bir ipucu verir.",
+   "Saf ses testine daha iyi duyan kulaktan başlamak için de yararlıdır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitme",
+   "anamnez"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #146",
+   "metin": "Ahizeyi *hangi kulağınıza* tutuyorsunuz?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Telefonla konuşurken ahizeyi hangi kulağınıza tutuyorsunuz?"
+   ]
+  },
+  {
+   "id": "soru",
+   "tur": "zincir",
+   "baslik": "Basit ama *değerli* bir soru",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Soru",
+     "tr": "ahize hangi kulakta?",
+     "cumle": 0
+    },
+    {
+     "ad": "İpucu",
+     "tr": "daha iyi duyan kulak",
+     "cumle": 1
+    },
+    {
+     "ad": "Test",
+     "tr": "iyi kulaktan başla",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Anamnezde hastaya ahizeyi hangi kulağına tuttuğunu sorun.",
+    "Çoğu kişi farkında olmadan daha iyi duyan kulağını kullanır.",
+    "Hasta iki kulağı arasında fark tarif etmese bile bu önemli bir ipucudur.",
+    "Saf ses testine daha iyi duyan kulaktan başlamak için de yararlıdır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D056",
+ "kaynak_baslik": "Odyolojik anamnez"
+}

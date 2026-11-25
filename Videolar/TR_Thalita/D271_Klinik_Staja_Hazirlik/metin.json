@@ -1,0 +1,734 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D271_Klinik_Staja_Hazirlik_TR",
+ "kapak": {
+  "ust": "DERS 271",
+  "baslik": "Klinik staja<br>*hazırlık*",
+  "alt": "İlk gün kontrol listesi",
+  "cizim": "test_kabini"
+ },
+ "youtube": {
+  "baslik": "Klinik Staja Hazırlık: İlk Gün Kontrol Listesi | Ders 271 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyoloji klinik stajının ilk gününe hazırlık için bir kontrol listesi: profesyonel davranış ve hastayla iletişim, kimlik doğrulama ve talimat, günlük biyolojik kontrol ve test odasının hazırlığı, hijyen, kayıt tutma ve kişisel sağlık verisinin gizliliği. Stajyerin sık hatalarını ve gün sonu değerlendirmesini de ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; ASHA, Code of Ethics; 6698 sayılı Kişisel Verilerin Korunması Kanunu; WHO, Guidelines on Hand Hygiene in Health Care.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "klinikstaj",
+   "odyolog"
+  ],
+  "etiketler": [
+   "klinik staj",
+   "clinical placement",
+   "odyoloji stajı",
+   "profesyonellik",
+   "kayıt tutma",
+   "documentation",
+   "biyolojik kontrol",
+   "hasta iletişimi",
+   "KVKK",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 271",
+   "baslik": "Klinik staja *hazırlık*",
+   "alt": "İlk gün kontrol listesi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu dersle birlikte klinik hazırlık ve erişkin vakaları bölümüne başlıyoruz.",
+    "Klinik stajın ilk gününe nasıl hazırlanacağımızı davranış, iletişim, test öncesi hazırlık ve kayıt başlıklarıyla ele alacağız."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Staja başlamadan",
+   "baslik": "Klinik staj *neden* önemli?",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Bilgiden beceriye",
+     "metin": "Ders bilgisi hastada uygulanır",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Gözetim altında",
+     "metin": "Sorumlu odyolog yanınızda",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Öğrenme hedefi",
+     "metin": "Her gün küçük bir hedef",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Klinik staj (clinical placement), ders bilgisini gerçek hastalarla, gerçek bir klinik ortamında uygulamaya dönüştürdüğümüz dönemdir.",
+    "Sınıfta bir odyogramı okumak ile kabinde onu adım adım elde etmek arasında büyük bir fark vardır.",
+    "Stajyer her zaman bir sorumlu odyoloğun gözetiminde çalışır; hasta güvenliği ve sonuçların doğruluğu bu kişinin onayıyla sağlanır.",
+    "Bu yüzden ilk gün kendi başınıza karar vermek yerine gözlemlemek, sormak ve yönlendirmeyi izlemek beklenir.",
+    "Staj başında sorumlu odyologla birlikte birkaç öğrenme hedefi belirlemek, ilerlemenizi görünür kılar.",
+    "Örneğin ilk hafta otoskopi ve günlük kontrol, sonraki haftalarda maskeli kemik yolunu bağımsız yapmak hedeflenebilir."
+   ]
+  },
+  {
+   "id": "once",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Staja başlamadan",
+   "baslik": "Gitmeden *önce*",
+   "maddeler": [
+    {
+     "metin": "Kurum kurallarını ve saatleri öğren",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Kıyafet ve _kimlik kartı_ hazır",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Kurumun istediği _sağlık belgeleri_",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Cep defteri: kısaltmalar ve kurallar",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Odyogram sembollerini tekrar et",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hastane",
+      "baslik": "Kurallar",
+      "metin": "Saat ve kıyafet",
+      "cumle": 0
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Belgeler",
+      "metin": "Son güne bırakma",
+      "cumle": 2
+     },
+     {
+      "ikon": "kitap",
+      "baslik": "Tekrar",
+      "metin": "Semboller ve kurallar",
+      "cumle": 4
+     }
+    ],
+    "ust": "ÇANTANDA"
+   },
+   "cumleler": [
+    "İlk günden önce kurumun çalışma saatlerini, kılık kıyafet kuralını ve stajyerden beklenen sorumlulukları öğrenin.",
+    "Temiz ve sade bir kıyafet, görünür bir kimlik kartı ve kapalı ayakkabı hem hasta güvenliği hem de güven için önemlidir.",
+    "Birçok kurum stajdan önce aşı kaydı gibi bazı sağlık belgelerini ister; bunları son güne bırakmayın.",
+    "Yanınızda küçük bir defter bulundurun; kısaltmalar, maskeleme kuralları ve kliniğin protokolleri için kısa notlar alırsınız.",
+    "Bir önceki akşam odyogram sembollerini, maskeleme kurallarını ve timpanogram tiplerini kısaca tekrar etmek ilk günü çok rahatlatır."
+   ]
+  },
+  {
+   "id": "profesyonel",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Davranış ve iletişim",
+   "baslik": "*Profesyonellik*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Dakiklik",
+     "metin": "Hastadan önce hazır olun",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Kendini tanıt",
+     "metin": "Adınız ve stajyer olduğunuz",
+     "cumle": 2
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Telefon yok",
+     "metin": "Hasta yanında sessizde",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Sınırını bil",
+     "metin": "Sonucu gözetmen açıklar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Profesyonellik (professionalism), bilginin yanında tutum ve davranışla da ilgilidir; hasta, kliniği önce sizin tavrınızla tanır.",
+    "Randevu saatinden önce odada olmak, cihazları ve formları hazırlamış olmak dakikliğin ta kendisidir.",
+    "Hastanın yanına girdiğinizde adınızı ve stajyer odyoloji öğrencisi olduğunuzu söyleyin.",
+    "Kişisel telefon hasta yanında sessizde ve görünmez olmalıdır; dikkat dağınıklığı test hatalarının sık nedenlerinden biridir.",
+    "Sonuçları ve olası anlamlarını hastaya açıklamak, gözetmeniniz izin vermedikçe sizin göreviniz değildir.",
+    "Emin olmadığınız bir soruda, bunu birlikte değerlendireceğiz demek, tahmin yürütmekten her zaman daha doğrudur."
+   ]
+  },
+  {
+   "id": "ilk_dakika",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Davranış ve iletişim",
+   "baslik": "Hastayla ilk *dakikalar*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Karşıla",
+     "metin": "Adınızı söyleyin",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Kimliği doğrula",
+     "metin": "Ad ve doğum tarihi",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Amacı anlat",
+     "metin": "Ne yapılacak, ne kadar sürecek",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Onayı al",
+     "metin": "Soruları yanıtla",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Talimat ver",
+     "metin": "Kısa, net, örnekli",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hastayı bekleme alanından adıyla çağırın, kendinizi tanıtın ve test odasına birlikte yürüyün.",
+    "Hasta güvenliği için kimlik, ad soyad ve doğum tarihi gibi iki ayrı bilgiyle doğrulanır ve dosyayla karşılaştırılır.",
+    "Ardından hangi testlerin yapılacağı ve yaklaşık ne kadar süreceği kısaca anlatılır.",
+    "Hastanın soruları yanıtlanır ve teste devam etmek için sözlü onayı alınır.",
+    "Talimat kısa ve net verilir; çok hafif sesi bile duyunca butona basın gibi tek bir cümle, uzun açıklamalardan iyi anlaşılır.",
+    "Talimatın anlaşıldığını, hastaya ne yapacağını kendi sözleriyle tekrar ettirerek kontrol edebilirsiniz."
+   ]
+  },
+  {
+   "id": "iletisim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Davranış ve iletişim",
+   "baslik": "İşitme kayıplı bireyle *iletişim*",
+   "maddeler": [
+    {
+     "metin": "Yüzünüz ona dönük, ışık yüzünüzde",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yavaş ve net, bağırmadan",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Gürültüden uzak bir köşe",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Anlaşıldı mı? _Geri anlatma_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yakını değil, hastayla konuşun",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sosyal_izolasyon",
+    "cumle": 0,
+    "ayar": {
+     "yalniz_cumle": 4
+    }
+   },
+   "cumleler": [
+    "Konuşurken yüzünüz hastaya dönük olsun; ışık arkanızda değil yüzünüzde olmalı, böylece dudak okuma kolaylaşır.",
+    "Yavaş ve net konuşun ama bağırmayın; bağırmak hem sesi bozar hem de rahatsız edici gelebilir.",
+    "Öykü alırken kapıyı kapatın ve havalandırma ya da bilgisayar gürültüsünden uzak bir yer seçin.",
+    "Önemli bir bilgiyi verdikten sonra hastadan kendi sözleriyle özetlemesini isteyin; buna geri anlatma yöntemi denir.",
+    "Hasta bir yakınıyla gelmiş olsa bile soruları önce hastanın kendisine yöneltin; yakını gerektiğinde ek bilgi verir."
+   ]
+  },
+  {
+   "id": "gun_basi",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test öncesi hazırlık",
+   "baslik": "Güne *başlarken*",
+   "adimlar": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Cihazları aç",
+     "metin": "Isınma süresi",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Biyolojik kontrol",
+     "metin": "Kendi kulağınızla dinleyin",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "İmmitans kontrolü",
+     "metin": "Test kavitesiyle",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Forma işle",
+     "metin": "Tarih ve imza",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Gün, cihazların açılmasıyla başlar; birçok cihaz kararlı çalışmak için kısa bir ısınma süresi ister.",
+    "Ardından odyometrenin günlük biyolojik kontrolü yapılır; kulaklıklar, kemik vibratörü ve hoparlör kendi kulağınızla dinlenir.",
+    "Kablolarda cızırtı, kanallar arasında sızma ve hasta butonunun çalışması da bu kontrolün parçasıdır.",
+    "İmmitans cihazının hacim değeri üreticinin test kavitesiyle kontrol edilir; otoakustik emisyon probu da klinik protokole göre denetlenir.",
+    "Her kontrol tarih ve imzayla forma işlenir; bir sorun varsa cihaz o gün kullanılmaz ve sorumluya bildirilir.",
+    "Bu adımların ayrıntılarını günlük biyolojik kontrol dersinde görmüştük; stajda bu listeyi her sabah siz uygulayacaksınız."
+   ]
+  },
+  {
+   "id": "oda",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test öncesi hazırlık",
+   "baslik": "Test odasının *hazırlığı*",
+   "cizim": "test_kabini",
+   "etiketler": [
+    {
+     "parca": "pencere",
+     "metin": "Hastayı görün",
+     "cumle": 1
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "Buton elinin altında",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kapi",
+     "cumle": 0
+    },
+    {
+     "parca": "havalandirma",
+     "cumle": 0
+    },
+    {
+     "parca": "pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "hasta",
+     "cumle": 1
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 3
+    },
+    {
+     "parca": "interkom",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Test odasında önce genel düzene bakın: kapı tam kapanıyor mu, havalandırma ya da klima gürültü yapıyor mu?",
+    "Hasta koltuğu, hastayı pencereden görebileceğiniz ama hastanın odyometre panelini göremeyeceği biçimde yerleştirilir.",
+    "Kulaklıklar, insert uçlar ve kemik vibratörü yerinde ve temiz olmalıdır.",
+    "Hasta butonu elinin altında olmalı, interkomun çalıştığı da test başlamadan denenmelidir.",
+    "Kabin içindeki gereksiz eşyalar kaldırılır; hastanın telefonu kapatılır, gözlük ve takılar gerekirse çıkarılır.",
+    "Bu küçük ayrıntılar, eşiklerin doğruluğunu ve testin akıcılığını doğrudan etkiler."
+   ]
+  },
+  {
+   "id": "hijyen",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test öncesi hazırlık",
+   "baslik": "Hijyen ve *güvenlik*",
+   "maddeler": [
+    {
+     "metin": "Her hastadan önce ve sonra _el hijyeni_",
+     "cumle": 0,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Yastık ve vibratör: _silerek temizlik_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Prob ve insert uçları: _tek kullanımlık_",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Akıntı veya yara: önce gözetmene",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dokunma",
+      "baslik": "El hijyeni",
+      "metin": "Önce ve sonra",
+      "cumle": 0
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Temizlik",
+      "metin": "Her hastadan sonra",
+      "cumle": 1
+     },
+     {
+      "ikon": "otoskop",
+      "baslik": "Otoskopi",
+      "metin": "Teste geçmeden",
+      "cumle": 3
+     }
+    ],
+    "ust": "HER HASTADA"
+   },
+   "cumleler": [
+    "Her hastadan önce ve sonra el hijyeni sağlanır; bu, kliniğin en basit ama en etkili enfeksiyon önlemidir.",
+    "Kulaklık yastıkları, kemik vibratörü ve hasta butonu her hastadan sonra kurumun onayladığı bir ürünle silinir.",
+    "İnsert köpük uçları gibi parçalar tek kullanımlıktır; prob uçları da protokole göre değiştirilir ya da temizlenir.",
+    "Otoskopide kulak yolunda akıntı, yara ya da yabancı cisim görürseniz teste geçmeden önce gözetmeninize danışın.",
+    "Enfeksiyon kontrolünün ayrıntılarını ilerideki bir derste ayrıca ele alacağız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Teste otoskopiyle başlayın; kulak yolunu görmeden kulaklık takmayın.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: her teste otoskopiyle başlayın ve kulak yolunu görmeden kulaklık takmayın.",
+    "Kulak kiri tıkacı, akıntı ya da kulak yolu çökmesi, en dikkatli ölçümü bile yanıltabilir.",
+    "Otoskopide gördüğünüzü hemen kısa bir notla kaydedin; rapor yazarken bu not çok işinize yarar.",
+    "Emin olamadığınız bir görünümü gözetmeninize gösterin; birlikte bakmak en hızlı öğrenme yoludur."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kayıt ve gizlilik",
+   "baslik": "Kayıt *tutma*",
+   "maddeler": [
+    {
+     "metin": "Tarih, saat, test eden, gözetmen",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Kulaklık türü, _maskeleme düzeyleri_",
+     "cumle": 1,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Yanıt güvenilirliği: iyi, orta, düşük",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Beklenmeyen her bulgu: _not düş_",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Kayıt aynı gün tamamlanır",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        15,
+        20,
+        25,
+        35,
+        40
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        15,
+        20,
+        20,
+        30,
+        40,
+        45
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Kayıt tutma (documentation), yapılan her işlemin sonradan okunabilir ve doğrulanabilir biçimde yazılmasıdır.",
+    "Tarih, saat, testi yapan stajyer ve gözetmen, kullanılan kulaklık türü ve maskeleme düzeyleri mutlaka yazılır.",
+    "Hastanın yanıtlarının ne kadar tutarlı olduğu, yani test güvenilirliği de kaydın önemli bir parçasıdır.",
+    "Hastanın testi yarıda bırakması ya da baş dönmesi tarif etmesi gibi beklenmeyen durumlar kısa bir notla eklenir.",
+    "Kayıt aynı gün, belleğiniz tazeyken tamamlanır ve gözetmeninizin onayına sunulur.",
+    "Yazılmamış bir işlem, sonradan bakan biri için yapılmamış sayılır."
+   ]
+  },
+  {
+   "id": "gizlilik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kayıt ve gizlilik",
+   "baslik": "*Gizlilik* ve kişisel veri",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "KVKK",
+     "metin": "Sağlık verisi özel niteliklidir",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Koridorda değil",
+     "metin": "Ad ve bulgu konuşulmaz",
+     "cumle": 2
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Fotoğraf yok",
+     "metin": "Ekran, dosya, odyogram",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Ekranı kilitle",
+     "metin": "Oturumu açık bırakma",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kimliksizleştir",
+     "metin": "Vaka sunumunda ad yok",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Türkiye'de 6698 sayılı Kişisel Verilerin Korunması Kanunu, kısaca KVKK, sağlık verilerini özel nitelikli kişisel veri sayar.",
+     "ses": "Türkiye'de altı bin altı yüz doksan sekiz sayılı Kişisel Verilerin Korunması Kanunu, kısaca KVKK, sağlık verilerini özel nitelikli kişisel veri sayar."
+    },
+    "Bu yüzden bir odyogram ya da rapor, özenle korunması gereken bir bilgidir.",
+    "Hastaların adı ve bulguları koridorda, asansörde ya da kafeteryada konuşulmaz.",
+    "Hasta dosyasının, ekranın ya da odyogramın fotoğrafı kişisel telefonla çekilmez ve sosyal medyada paylaşılmaz.",
+    "Bilgisayardan kalkarken ekran kilitlenir; açık bırakılan bir oturum başkasının veriye erişmesine yol açabilir.",
+    "Staj sonrası vaka sunumlarında kimlik bilgileri çıkarılır, yani veriler kimliksizleştirilir."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kayıt ve gizlilik",
+   "baslik": "Stajyerin *sık hataları*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Tanı koymak",
+     "metin": "Bu tümör olabilir demek",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Maskelemeyi atlamak",
+     "metin": "Kuralı her kulakta uygula",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Kaydı ertelemek",
+     "metin": "Ayrıntı unutulur",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Sormamak",
+     "metin": "Emin değilsen danış",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En sık hatalardan biri bulguyu hastaya tanı gibi sunmaktır; bu tümör olabilir gibi bir cümle hem yanlış hem de zarar vericidir.",
+    "Zaman baskısında maskeleme kuralını atlamak tüm odyogramı yanıltabilir; kuralları her kulakta ve her frekansta uygulayın.",
+    "Kaydı gün sonuna ya da ertesi güne bırakmak ayrıntıların unutulmasına yol açar.",
+    "Emin olmadığı halde sormamak da sık görülür; staj, sormanın en doğal karşılandığı dönemdir."
+   ]
+  },
+  {
+   "id": "gun_sonu",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kayıt ve gizlilik",
+   "baslik": "Gün *sonunda*",
+   "adimlar": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Cihazlar",
+     "metin": "Temizle, kapat",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıtlar",
+     "metin": "Eksiksiz ve onaylı",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Geri bildirim",
+     "metin": "Gözetmenle kısa görüşme",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Öğrenme günlüğü",
+     "metin": "Bugün ne öğrendim?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Gün sonunda kullanılan parçalar temizlenir, cihazlar kurumun kuralına göre kapatılır ve oda ertesi güne hazır bırakılır.",
+    "Bütün kayıtların tamamlandığı ve gözetmen tarafından onaylandığı kontrol edilir.",
+    "Gözetmeninizle yapacağınız kısa bir değerlendirme, neyi iyi yaptığınızı ve neyi geliştirmeniz gerektiğini gösterir.",
+    "Bir öğrenme günlüğüne o gün öğrendiklerinizi, hiçbir kimlik bilgisi yazmadan not edin.",
+    "Ertesi gün için küçük bir hedef koyun; örneğin yarın kemik yolu maskelemesini gözetmenim izlerken ben yapacağım gibi."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Staj: gözetim altında bilgiden beceriye",
+     "cumle": 0,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Tanıt, kimliği doğrula, talimatı netleştir",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Gün biyolojik kontrolle, test otoskopiyle başlar",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kayıt aynı gün, veriler gizli",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Klinik staj, sorumlu bir odyoloğun gözetiminde ders bilgisini klinik beceriye dönüştürdüğümüz dönemdir.",
+    "Hastayla ilk dakikalarda kendinizi tanıtır, kimliği iki bilgiyle doğrular ve talimatı kısa ve net verirsiniz.",
+    "Gün, cihazların biyolojik kontrolü ve test odasının hazırlığıyla başlar; her test otoskopiyle başlar.",
+    "Kayıtlar aynı gün tamamlanır ve sağlık verisi olarak gizli tutulur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hasta odyogramının anlamını sorarsa?",
+   "secenekler": [
+    "Olası tanıyı söylerim",
+    "Gözetmenle birlikte açıklarız",
+    "Hiçbir şey söylemem",
+    "İnternete bakmasını öneririm"
+   ],
+   "dogru": 1,
+   "aciklama": "Sonuçlar _gözetmenin onayıyla_ açıklanır; stajyer tanı koymaz.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Stajın ilk haftasında hasta size odyogramının ne anlama geldiğini soruyor. En doğru yaklaşım hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: sonucu gözetmeninizle birlikte açıklamak.",
+    "Stajyer tanı koymaz ve tek başına yorum yapmaz; bunu birlikte değerlendireceğiz demek hem dürüst hem de güven vericidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: tek taraflı *iletim tipi* kayıp",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ilk erişkin vakamızı inceleyeceğiz: tek taraflı iletim tipi kayıp ve B tipi timpanogram.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

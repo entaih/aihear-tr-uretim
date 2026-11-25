@@ -1,0 +1,1258 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D079_Mutlak_Esik_Fark_Esigi_TR",
+ "kapak": {
+  "ust": "DERS 79",
+  "baslik": "Mutlak eşik,<br>*fark eşiği*",
+  "alt": "Psikoakustiğe giriş",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Psikoakustik: Mutlak Eşik ve Fark Eşiği | Ders 79 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bir sesi ne zaman duyarız, iki sesin farkını ne zaman fark ederiz? Bu derste psikoakustiğin temelini, psikometrik fonksiyonu ve eşik tanımını, psikofizik yöntemleri, minimum işitilebilir alan ve basınç eğrilerini, ayırt edilebilir en küçük farkı, Weber yasasını ve bu kavramların klinikteki karşılığını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Fechner (1860), Elemente der Psychophysik; Jesteadt, Wier ve Green (1977), Intensity discrimination as a function of frequency and sensation level, Journal of the Acoustical Society of America; ISO 389-7, Reference threshold of hearing under free-field and diffuse-field listening conditions.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "psikoakustik",
+   "işitme"
+  ],
+  "etiketler": [
+   "psikoakustik",
+   "mutlak eşik",
+   "absolute threshold",
+   "fark eşiği",
+   "JND",
+   "Weber oranı",
+   "Weber fraction",
+   "minimum işitilebilir alan",
+   "MAF",
+   "psikometrik fonksiyon",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 79",
+   "baslik": "Mutlak eşik ve *fark eşiği*",
+   "alt": "Psikoakustiğe giriş",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste psikoakustiğe giriyor ve iki temel kavramı öğreniyoruz: mutlak eşik ve fark eşiği.",
+    "Eşiğin nasıl tanımlandığını, nasıl ölçüldüğünü, frekansa göre nasıl değiştiğini ve Weber yasasını göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Psikoakustik nedir?",
+   "baslik": "Fizikten *algıya*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Fiziksel uyaran",
+     "metin": "Frekans, şiddet, süre",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Algı",
+     "metin": "Perde, ses yüksekliği",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Psikofizik",
+     "metin": "İkisi arasındaki ilişki",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Odyometri",
+     "metin": "Bir psikofizik ölçüm",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Psikoakustik (psychoacoustics), sesin fiziksel özellikleri ile oluşturduğu algı arasındaki ilişkiyi inceleyen bilim dalıdır.",
+    "Frekans, şiddet ve süre fiziksel büyüklüklerdir; bir ölçüm cihazıyla ölçülürler.",
+    "Perde, ses yüksekliği ve algılanan süre ise dinleyicinin deneyimidir; ancak dinleyiciye sorarak ölçülebilir.",
+    "Uyaran ile duyum arasındaki ilişkiyi ölçen yöntemlere psikofizik denir; temelleri 1860'ta Gustav Fechner tarafından atıldı.",
+    "Odyolojideki birçok test, örneğin saf ses odyometrisi, aslında bir psikofizik ölçümdür.",
+    "Bu derste iki temel soruyu ele alıyoruz: bir sesi ne zaman duyarız ve iki ses arasındaki farkı ne zaman fark ederiz?"
+   ]
+  },
+  {
+   "id": "mutlak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Psikoakustik nedir?",
+   "baslik": "Eşik bir *olasılıktır*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 20,
+     "adim": 5,
+     "ad": "Uyaran düzeyi (dB, göreli)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Duyulma oranı (%)"
+    },
+    "seriler": [
+     {
+      "ad": "psikometrik",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.25,
+        0.1
+       ],
+       [
+        0.5,
+        0.1
+       ],
+       [
+        0.75,
+        0.1
+       ],
+       [
+        1.0,
+        0.1
+       ],
+       [
+        1.25,
+        0.1
+       ],
+       [
+        1.5,
+        0.1
+       ],
+       [
+        1.75,
+        0.2
+       ],
+       [
+        2.0,
+        0.2
+       ],
+       [
+        2.25,
+        0.3
+       ],
+       [
+        2.5,
+        0.3
+       ],
+       [
+        2.75,
+        0.4
+       ],
+       [
+        3.0,
+        0.5
+       ],
+       [
+        3.25,
+        0.6
+       ],
+       [
+        3.5,
+        0.7
+       ],
+       [
+        3.75,
+        0.8
+       ],
+       [
+        4.0,
+        1.0
+       ],
+       [
+        4.25,
+        1.2
+       ],
+       [
+        4.5,
+        1.4
+       ],
+       [
+        4.75,
+        1.7
+       ],
+       [
+        5.0,
+        2.1
+       ],
+       [
+        5.25,
+        2.5
+       ],
+       [
+        5.5,
+        3.0
+       ],
+       [
+        5.75,
+        3.7
+       ],
+       [
+        6.0,
+        4.4
+       ],
+       [
+        6.25,
+        5.3
+       ],
+       [
+        6.5,
+        6.3
+       ],
+       [
+        6.75,
+        7.6
+       ],
+       [
+        7.0,
+        9.0
+       ],
+       [
+        7.25,
+        10.8
+       ],
+       [
+        7.5,
+        12.8
+       ],
+       [
+        7.75,
+        15.0
+       ],
+       [
+        8.0,
+        17.7
+       ],
+       [
+        8.25,
+        20.6
+       ],
+       [
+        8.5,
+        24.0
+       ],
+       [
+        8.75,
+        27.7
+       ],
+       [
+        9.0,
+        31.7
+       ],
+       [
+        9.25,
+        36.0
+       ],
+       [
+        9.5,
+        40.5
+       ],
+       [
+        9.75,
+        45.2
+       ],
+       [
+        10.0,
+        50.0
+       ],
+       [
+        10.25,
+        54.8
+       ],
+       [
+        10.5,
+        59.5
+       ],
+       [
+        10.75,
+        64.0
+       ],
+       [
+        11.0,
+        68.3
+       ],
+       [
+        11.25,
+        72.3
+       ],
+       [
+        11.5,
+        76.0
+       ],
+       [
+        11.75,
+        79.4
+       ],
+       [
+        12.0,
+        82.3
+       ],
+       [
+        12.25,
+        85.0
+       ],
+       [
+        12.5,
+        87.2
+       ],
+       [
+        12.75,
+        89.2
+       ],
+       [
+        13.0,
+        91.0
+       ],
+       [
+        13.25,
+        92.4
+       ],
+       [
+        13.5,
+        93.7
+       ],
+       [
+        13.75,
+        94.7
+       ],
+       [
+        14.0,
+        95.6
+       ],
+       [
+        14.25,
+        96.3
+       ],
+       [
+        14.5,
+        97.0
+       ],
+       [
+        14.75,
+        97.5
+       ],
+       [
+        15.0,
+        97.9
+       ],
+       [
+        15.25,
+        98.3
+       ],
+       [
+        15.5,
+        98.6
+       ],
+       [
+        15.75,
+        98.8
+       ],
+       [
+        16.0,
+        99.0
+       ],
+       [
+        16.25,
+        99.2
+       ],
+       [
+        16.5,
+        99.3
+       ],
+       [
+        16.75,
+        99.4
+       ],
+       [
+        17.0,
+        99.5
+       ],
+       [
+        17.25,
+        99.6
+       ],
+       [
+        17.5,
+        99.7
+       ],
+       [
+        17.75,
+        99.7
+       ],
+       [
+        18.0,
+        99.8
+       ],
+       [
+        18.25,
+        99.8
+       ],
+       [
+        18.5,
+        99.9
+       ],
+       [
+        18.75,
+        99.9
+       ],
+       [
+        19.0,
+        99.9
+       ],
+       [
+        19.25,
+        99.9
+       ],
+       [
+        19.5,
+        99.9
+       ],
+       [
+        19.75,
+        99.9
+       ],
+       [
+        20.0,
+        100.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esik",
+      "x": 10,
+      "y": 50,
+      "dus": "xy",
+      "dolu": true,
+      "etiket": "eşik: yüzde 50",
+      "dx": 80,
+      "dy": 6,
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "belirsiz",
+      "x": [
+       7,
+       13
+      ],
+      "renk": "sari",
+      "etiket": "bazen duyulur",
+      "cumle": 1,
+      "opak": 0.15
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "belirsiz",
+     "cumle": 1
+    },
+    {
+     "parca": "esik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Mutlak eşik (absolute threshold), sessiz bir ortamda bir sesin algılanabildiği en düşük düzeydir.",
+    "Eşik keskin bir sınır değildir; eşiğin çevresinde ses bazen duyulur, bazen duyulmaz.",
+    "Düzeye göre doğru algılama oranını gösteren eğriye psikometrik fonksiyon (psychometric function) denir.",
+    {
+     "yazi": "Eğri çok düşük düzeylerde sıfıra, yüksek düzeylerde yüzde yüze yakındır; arada S biçiminde yükselir.",
+     "ses": "Eğri çok düşük düzeylerde sıfıra, yüksek düzeylerde yüzde yüze yakındır; arada es biçiminde yükselir."
+    },
+    "Eşik genellikle bu eğrinin yüzde elli noktası olarak tanımlanır.",
+    "Klinik odyometride de eşik, sesin denemelerin en az yarısında duyulduğu en düşük düzey olarak kabul edilir.",
+    "Eşiği dinleyicinin dikkati, yönerge ve yanıt verme eğilimi de etkiler; bu yüzden ölçümde yöntem önemlidir."
+   ]
+  },
+  {
+   "id": "yontemler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Psikoakustik nedir?",
+   "baslik": "Eşik *nasıl* ölçülür?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Sınırlar yöntemi",
+     "metin": "Adım adım artır, azalt",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Ayarlama yöntemi",
+     "metin": "Dinleyici kendisi ayarlar",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Sabit uyaranlar",
+     "metin": "Rastgele, çok tekrar",
+     "cumle": 4
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Uyarlamalı",
+     "metin": "Yanıta göre düzey",
+     "cumle": 5
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Zorunlu seçim",
+     "metin": "Hangi aralıkta?",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Eşiği ölçmek için klasik olarak üç psikofizik yöntem kullanılır.",
+    "Sınırlar yönteminde (method of limits) ses adım adım artırılır ya da azaltılır ve yanıtın değiştiği düzey kaydedilir.",
+    "Klinikteki Hughson-Westlake yöntemi, sınırlar yönteminin değiştirilmiş bir biçimidir.",
+    "Ayarlama yönteminde dinleyici sesi kendisi duyulur duyulmaz bir düzeye ayarlar; Békésy odyometrisi bu mantığa dayanır.",
+    "Sabit uyaranlar yönteminde birkaç düzey rastgele sırayla birçok kez verilir; en kesin ama en uzun yöntemdir.",
+    "Araştırmalarda bugün çoğunlukla uyarlamalı yöntemler kullanılır; düzey her yanıta göre otomatik olarak artırılır ya da azaltılır.",
+    "Zorunlu seçim tekniğinde dinleyici, sesin hangi aralıkta verildiğini seçer; böylece yanıt verme eğiliminin etkisi azalır."
+   ]
+  },
+  {
+   "id": "maf_map",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Eşik eğrisi",
+   "baslik": "Kulaklıkla mı, *serbest alanda* mı?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 50,
+     "adim": 10,
+     "ad": "Eşik (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "maf",
+      "noktalar": [
+       [
+        125,
+        22
+       ],
+       [
+        250,
+        11
+       ],
+       [
+        500,
+        4
+       ],
+       [
+        1000,
+        2
+       ],
+       [
+        2000,
+        -1
+       ],
+       [
+        3000,
+        -6
+       ],
+       [
+        4000,
+        -5
+       ],
+       [
+        6000,
+        4
+       ],
+       [
+        8000,
+        13
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 1,
+      "etiket": "MAF: serbest alan",
+      "etiket_konum": [
+       250,
+       11
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": 26
+     },
+     {
+      "ad": "map",
+      "noktalar": [
+       [
+        125,
+        45
+       ],
+       [
+        250,
+        25.5
+       ],
+       [
+        500,
+        11.5
+       ],
+       [
+        1000,
+        7
+       ],
+       [
+        2000,
+        9
+       ],
+       [
+        3000,
+        10
+       ],
+       [
+        4000,
+        9.5
+       ],
+       [
+        6000,
+        15.5
+       ],
+       [
+        8000,
+        13
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 3,
+      "etiket": "MAP: kulaklık",
+      "etiket_konum": [
+       250,
+       25.5
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": -12
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "duyarli",
+      "x": [
+       2000,
+       5000
+      ],
+      "renk": "sari",
+      "etiket": "en duyarlı bölge",
+      "cumle": 4,
+      "opak": 0.18
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "maf",
+     "cumle": 1
+    },
+    {
+     "parca": "map",
+     "cumle": 3
+    },
+    {
+     "parca": "duyarli",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Mutlak eşik frekansa göre değişir ve iki farklı yolla ölçülür; grafikteki değerler yaklaşıktır.",
+    "Minimum işitilebilir alan (minimum audible field), kısaca MAF, önden gelen sesi iki kulakla dinleyerek ölçülen eşiktir.",
+    "Ses düzeyi, dinleyici yokken başının ortasına denk gelen noktada ölçülür.",
+    "Minimum işitilebilir basınç, kısaca MAP ise kulaklıkla, tek kulakta ölçülür ve kuplördeki ya da kulak yolundaki basınca göre verilir.",
+    "İki eğri benzer biçimdedir; ama MAF eğrisi genellikle daha aşağıdadır ve aradaki fark frekansa göre değişir.",
+    "Farkın bir kısmı iki kulakla dinlemeden, bir kısmı da baş ve dış kulağın serbest alanda sesi güçlendirmesinden kaynaklanır.",
+    "Odyometredeki sıfır desibel HL çizgisi, kulaklığa özgü bu tür ortalama eşiklere dayanır."
+   ]
+  },
+  {
+   "id": "egri_ders",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Eşik eğrisi",
+   "baslik": "Eşik eğrisinin *dersleri*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "En duyarlı",
+     "metin": "Yaklaşık 2 ile 5 kHz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Pes sesler",
+     "metin": "Eşik hızla yükselir",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "İşitme alanı",
+     "metin": "20 Hz ile 20 kHz",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Üst sınır",
+     "metin": "Yaklaşık 120 dB aralık",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Eşik eğrisinden birkaç önemli ders çıkar.",
+    "Kulak en duyarlı olduğu bölgeye yaklaşık iki ile beş kilohertz arasında ulaşır; bunda dış kulak yolu rezonansının da payı vardır.",
+    "Pes frekanslarda eşik hızla yükselir; yüz hertzin altında bir sesin duyulması için çok daha yüksek bir düzey gerekir.",
+    "İşitme alanının alt sınırı yaklaşık yirmi hertz, üst sınırı gençlerde yaklaşık yirmi kilohertzdir; üst sınır yaşla düşer.",
+    "Eşiğin üstünde algı, ağrı eşiğine kadar yaklaşık yüz yirmi desibellik bir aralığa yayılır.",
+    "Bu eşik eğrisi, bir sonraki derste göreceğimiz eşit ses yüksekliği eğrilerinin en alttakidir."
+   ]
+  },
+  {
+   "id": "jnd",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Fark eşiği",
+   "baslik": "Ayırt edilebilir *en küçük fark*",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Standart ses",
+     "metin": "Referans uyaran",
+     "cumle": 3
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Karşılaştırma",
+     "metin": "Biraz farklı ses",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Karar",
+     "metin": "Farklı mı?",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Fark eşiği",
+     "metin": "Ölçüt doğrulukta fark",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İkinci temel soru şudur: iki ses arasındaki farkı ne zaman fark ederiz?",
+    "İki uyaran arasında algılanabilen en küçük farka ayırt edilebilir en küçük fark (just noticeable difference), kısaca JND denir.",
+    "Buna fark eşiği de denir ve her boyut için ayrı ölçülür: şiddet, frekans ve süre için ayrı fark eşikleri vardır.",
+    "Ölçümde dinleyiciye bir standart ses ve ondan biraz farklı bir karşılaştırma sesi verilir.",
+    "Dinleyicinin farkı belirli bir doğrulukla, örneğin iki seçenekli bir görevde yüzde yetmiş beş oranında bulduğu fark, eşik kabul edilir.",
+    "Fark eşiği küçüldükçe ayırt etme becerisi daha iyidir."
+   ]
+  },
+  {
+   "id": "tipik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Fark eşiği",
+   "baslik": "Tipik *fark eşikleri*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Şiddet",
+     "metin": "Yaklaşık 0,5 ile 1 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frekans",
+     "metin": "1 kHz için birkaç Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Süre",
+     "metin": "Süre uzadıkça büyür",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Alıştırma",
+     "metin": "Eşikleri küçültür",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Normal işiten genç yetişkinlerde bazı tipik fark eşikleri bilinmektedir.",
+    "Şiddet için orta düzeylerde fark eşiği yaklaşık yarım ile bir desibeldir.",
+    "Frekans için orta frekanslarda fark eşiği çok küçüktür; bin hertzde yalnız birkaç hertz, yani binde iki ile binde üç civarındadır.",
+    "Süre için fark eşiği, sesin süresine bağlıdır; süre uzadıkça fark eşiği de büyür.",
+    "Bu değerler dinleyicinin deneyimine göre de değişir; alıştırmayla fark eşikleri belirgin biçimde küçülebilir.",
+    "Frekans ayırt etmeyi bir sonraki derslerde perde algısıyla birlikte ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "weber",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Fark eşiği",
+   "baslik": "*Weber* yasası",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Standart uyaran (göreli)"
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "adim": 1,
+     "ad": "Fark eşiği (göreli)"
+    },
+    "seriler": [
+     {
+      "ad": "dogru",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        10,
+        2.5
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "cumle": 1,
+      "etiket": "oran sabit: 0,25",
+      "etiket_konum": [
+       8,
+       2
+      ],
+      "etiket_dx": -20,
+      "etiket_dy": -20,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kucuk",
+      "x": 2,
+      "y": 0.5,
+      "dus": "xy",
+      "dolu": true,
+      "cumle": 3
+     },
+     {
+      "ad": "buyuk",
+      "x": 8,
+      "y": 2,
+      "dus": "xy",
+      "dolu": true,
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "dogru",
+     "cumle": 2
+    },
+    {
+     "parca": "buyuk",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "1834'te Ernst Heinrich Weber, fark eşiğinin standart uyaranın büyüklüğüyle orantılı olduğunu gösterdi.",
+     "ses": "1834'te Ernst Haynrih Veber, fark eşiğinin standart uyaranın büyüklüğüyle orantılı olduğunu gösterdi."
+    },
+    "Bu ilkeye Weber yasası denir: fark eşiğinin standart uyarana oranı sabittir.",
+    "Bu sabit orana Weber oranı (Weber fraction) denir.",
+    "Örneğin bir kiloluk ağırlığa elli gram eklemek fark ediliyorsa, iki kiloluk ağırlıkta yaklaşık yüz gram gerekir.",
+    "Ses şiddetinde Weber oranı yaklaşık sıfır virgül yirmi beş ise şiddette yüzde yirmi beşlik bir artış fark edilir.",
+    "Bu artış yaklaşık bir desibele karşılık gelir; çünkü on çarpı bir virgül yirmi beşin logaritması, yaklaşık birdir.",
+    "Bu yüzden şiddet fark eşiğini genellikle doğrudan desibel olarak ifade ederiz."
+   ]
+  },
+  {
+   "id": "yakin_iska",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Fark eşiği",
+   "baslik": "Weber yasasına *yakın ıska*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 90,
+     "adim": 10,
+     "ad": "Duyum düzeyi (dB SL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 2,
+     "isaretler": [
+      0,
+      0.5,
+      1,
+      1.5,
+      2
+     ],
+     "ond": 1,
+     "ad": "Şiddet fark eşiği (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        20,
+        0.75
+       ],
+       [
+        30,
+        0.65
+       ],
+       [
+        40,
+        0.6
+       ],
+       [
+        50,
+        0.6
+       ],
+       [
+        60,
+        0.6
+       ],
+       [
+        70,
+        0.6
+       ],
+       [
+        80,
+        0.6
+       ],
+       [
+        90,
+        0.6
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "kalin": 4,
+      "cumle": 1,
+      "etiket": "geniş bant gürültü",
+      "etiket_konum": [
+       90,
+       0.6
+      ],
+      "etiket_dx": -6,
+      "etiket_dy": 26,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "ton",
+      "noktalar": [
+       [
+        10,
+        1.6
+       ],
+       [
+        20,
+        1.25
+       ],
+       [
+        30,
+        1.05
+       ],
+       [
+        40,
+        0.9
+       ],
+       [
+        50,
+        0.8
+       ],
+       [
+        60,
+        0.7
+       ],
+       [
+        70,
+        0.6
+       ],
+       [
+        80,
+        0.5
+       ],
+       [
+        90,
+        0.45
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 2,
+      "etiket": "saf ses",
+      "etiket_konum": [
+       10,
+       1.6
+      ],
+      "etiket_dx": 12,
+      "etiket_dy": -8
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    },
+    {
+     "parca": "ton",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Weber yasası seste her zaman tam olarak geçerli değildir.",
+    "Geniş bant gürültüde şiddet fark eşiği, orta ve yüksek düzeylerde hemen hemen sabittir; yani Weber yasası iyi işler.",
+    "Saf seslerde ise fark eşiği düzey arttıkça bir miktar küçülür; eşiğe yakın düzeylerde daha büyük, yüksek düzeylerde daha küçüktür.",
+    "Bu küçük sapmaya Weber yasasına yakın ıska (near miss to Weber's law) denir.",
+    "Grafikteki eğriler temsilidir; değerler yönteme ve dinleyiciye göre değişir.",
+    "Pratikte orta düzeylerde normal bir kulağın yaklaşık bir desibellik şiddet farkını ayırt edebildiğini söyleyebiliriz."
+   ]
+  },
+  {
+   "id": "sisi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte",
+   "baslik": "Klinikte fark eşiği: *SISI*",
+   "maddeler": [
+    {
+     "metin": "Sürekli ton içinde _1 dB_ artışlar",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Eşiğin _20 dB_ üzerinde",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Koklear kayıpta _yüksek_ puan",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bugün _tek başına_ kullanılmaz",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "giris_cikis",
+    "cumle": 4,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "saglikli",
+       "cumle": 4
+      },
+      {
+       "tip": "hasarli",
+       "cumle": 4
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Fark eşiği kavramı klinikte de karşımıza çıkar.",
+    "Kısa artış duyarlılık indeksi, kısaca SISI testi, sürekli bir tonun içine eklenen bir desibellik kısa artışların fark edilmesine dayanır.",
+    "Test genellikle eşiğin yirmi desibel üzerinde yapılır; normal kulakta bu küçük artışlar çoğunlukla fark edilmez.",
+    "Koklear kayıplı kulaklarda ise aynı duyum düzeyinde artışlar daha sık fark edilir ve yüksek puanlar elde edilebilir.",
+    "Bu bulgu, eşiğin üstünde ses yüksekliğinin hızla büyümesiyle, yani rekruitmentle ilişkilendirilir.",
+    "SISI bugün tek başına lezyon yeri belirlemede kullanılmaz; ama psikofizik ilkelerin klinikteki ilk uygulamalarındandır."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikte",
+   "baslik": "Odyogramı *psikofizikle* okumak",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Tekrar farkı",
+     "metin": "Yaklaşık 5 dB olağan",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "5 dB adım",
+     "metin": "Hız ve kesinlik",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "2 dB adım",
+     "metin": "İnce ölçüm gerekince",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Yanıt eğilimi",
+     "metin": "Temkinli ya da aceleci",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Temel koşullar",
+     "metin": "Yönerge, sessizlik, düzen",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Psikofizik bilgisi odyogramı doğru yorumlamamıza da yardım eder.",
+    "Eşik keskin bir çizgi olmadığı için aynı kişide tekrar ölçümlerde yaklaşık beş desibellik fark olağandır.",
+    "Odyometride beş desibellik adım kullanılır; bu, hız ile kesinlik arasında bir uzlaşmadır.",
+    "Daha ince ölçüm gereken testlerde, örneğin ölü bölge testinde, iki desibellik adımlar tercih edilir.",
+    "Hastanın yanıt verme eğilimi eşiği değiştirebilir; temkinli bir hasta geç, aceleci bir hasta erken yanıt verebilir.",
+    "Bu yüzden açık yönerge, sessiz ortam ve uygun sunum düzeni güvenilir bir eşiğin temelidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ses yokken de yanıt veren hastada aralara sessiz denemeler koyun ve tonları düzenli bir ritimle vermeyin. Sınırda kalan eşiği tekrar ölçün.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: eşiğin bir olasılık noktası olduğunu unutmayın.",
+    "Hasta ses yokken de yanıt veriyorsa, aralara sessiz denemeler yerleştirerek yanıt verme eğilimini kontrol edin.",
+    "Tonları düzenli bir ritimle vermeyin; böylece hastanın ritme göre tahmin yürütmesini önlersiniz.",
+    "Sınırda kalan eşiklerde ölçümü tekrarlamak, tek bir yanıta dayanmaktan daha güvenilirdir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Eşik: psikometrik eğrinin _yüzde 50_ noktası",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "MAF serbest alan, MAP _kulaklık_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "JND: algılanan _en küçük fark_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Weber: fark eşiği _orantılı_ büyür",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Mutlak eşik keskin bir sınır değil, psikometrik fonksiyonun genellikle yüzde elli noktasıdır.",
+    "MAF serbest alanda iki kulakla, MAP ise kulaklıkla ölçülür; kulak en duyarlı iki ile beş kilohertz arasındadır.",
+    "Ayırt edilebilir en küçük fark, iki uyaran arasında algılanan en küçük farktır ve her boyut için ayrı ölçülür.",
+    "Weber yasasına göre fark eşiği standart uyaranla orantılıdır; şiddette bu fark yaklaşık bir desibeldir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Weber oranı 0,25 ise fark eşiği kaç dB?",
+   "secenekler": [
+    "0,25 dB",
+    "Yaklaşık 1 dB",
+    "2,5 dB",
+    "25 dB"
+   ],
+   "dogru": 1,
+   "aciklama": "10 x log(1,25) _yaklaşık 1 dB_ eder.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Şiddette Weber oranı sıfır virgül yirmi beş ise fark eşiği yaklaşık kaç desibeldir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yaklaşık bir desibel.",
+    "Şiddette yüzde yirmi beşlik artış, on çarpı bir virgül yirmi beşin logaritması kadar, yani yaklaşık bir desibellik artış demektir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ses yüksekliği: *fon ve son*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste eşiğin üstüne çıkıyor ve ses yüksekliği algısını, fon ve son birimlerini öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

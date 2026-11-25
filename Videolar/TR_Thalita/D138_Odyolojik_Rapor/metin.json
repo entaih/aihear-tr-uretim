@@ -1,0 +1,874 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D138_Odyolojik_Rapor_TR",
+ "kapak": {
+  "ust": "DERS 138",
+  "baslik": "Odyolojik<br>*rapor*",
+  "alt": "Bulgu, yorum ve öneri",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      30,
+      40,
+      50,
+      55
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      20,
+      25,
+      30,
+      45,
+      50,
+      60
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Odyolojik Rapor Nasıl Yazılır? | Ders 138 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Test bulgularını açık ve düzenli bir odyolojik rapora dönüştürmeyi anlatıyoruz. Raporun bölümleri, test koşulları ve güvenilirlik, yorum ile tanı arasındaki fark, öneri yazımı ve hasta ile hekim için anlaşılır dil, tamamen örnek bir olgu üzerinden ele alınıyor.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Preferred Practice Patterns for the Profession of Audiology; 6698 sayılı Kişisel Verilerin Korunması Kanunu.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "rapor",
+   "işitme"
+  ],
+  "etiketler": [
+   "odyolojik rapor",
+   "audiological report",
+   "rapor yazımı",
+   "yorum",
+   "interpretation",
+   "öneri",
+   "recommendation",
+   "odyogram",
+   "işitme kaybı derecesi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 138",
+   "baslik": "Odyolojik *rapor* yazımı",
+   "alt": "Bulgular, yorum ve öneri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste test bulgularını açık, düzenli ve anlaşılır bir odyolojik rapora nasıl dönüştüreceğimizi öğreneceğiz.",
+    "Raporun bölümlerini, yorum ile tanı arasındaki farkı ve öneri yazmayı tamamen örnek bir olgu üzerinden göreceğiz."
+   ]
+  },
+  {
+   "id": "okur",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Raporun amacı",
+   "baslik": "Rapor *kimin* için?",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Hekim",
+     "metin": "Karar için özet bilgi",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Hasta ve aile",
+     "metin": "Anlaşılır açıklama",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Başka odyolog",
+     "metin": "Karşılaştırma için ayrıntı",
+     "cumle": 3
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Kurumlar",
+     "metin": "Okul, işveren, sağlık kurulu",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Odyolojik rapor (audiological report), test sonuçlarının, bunların yorumunun ve önerilerin yazılı kaydıdır.",
+     "ses": "Odyolojik rapor, test sonuçlarının, bunların yorumunun ve önerilerin yazılı kaydıdır."
+    },
+    "Raporu en sık okuyan kişi, kararını bu bilgilere dayandıracak olan hekimdir.",
+    "Hasta ve ailesi de raporu okur; onlar için sonucun günlük yaşamdaki anlamı önemlidir.",
+    "Bir başka odyolog, yıllar sonra aynı kişiyi test ettiğinde karşılaştırma için ayrıntılara ihtiyaç duyar.",
+    "Okul, işveren ya da sağlık kurulu gibi kurumlar da raporu farklı amaçlarla kullanabilir.",
+    "İyi bir rapor bu okurların her birinin ihtiyacını göz önünde tutar; açık, kısa, doğru ve tarafsızdır."
+   ]
+  },
+  {
+   "id": "bolumler",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Raporun yapısı",
+   "baslik": "Raporun *bölümleri*",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Kimlik ve neden",
+     "metin": "Kim, ne zaman, neden?",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Öykü",
+     "metin": "Kısa ve ilgili",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Bulgular",
+     "metin": "Düzenli özet",
+     "cumle": 2
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Yorum",
+     "metin": "Bulgular ne anlatıyor?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Öneriler",
+     "metin": "Ne yapılmalı?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Rapor kimlik bilgileri, test tarihi ve başvuru nedeniyle başlar: kişiyi kim, hangi soruyla gönderdi?",
+    "Ardından yakınmalar ve ilgili öykü kısaca özetlenir.",
+    "Bulgular bölümü, yapılan testlerin sonuçlarını düzenli ve tutarlı bir sırayla verir.",
+    "Yorum bölümü bulguların birlikte ne anlattığını açıklar.",
+    "Öneriler bölümü ise bundan sonra ne yapılması gerektiğini açıkça yazar.",
+    "Bu sıra, raporu okuyan herkesin aradığı bilgiyi hızla bulmasını sağlar."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Raporun yapısı",
+   "baslik": "Başvuru nedeni ve *öykü*",
+   "maddeler": [
+    {
+     "metin": "Yönlendiren ve _sorulan soru_",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Yakınmalar: _taraf, süre, seyir_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Yalnız _ilgili_ öykü",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Kişisel veri: _gizlilik_ esastır",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖRNEK SORU",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Yönlendiren",
+      "metin": "Kulak burun boğaz hekimi",
+      "cumle": 0
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Soru",
+      "metin": "İşitme düzeyi ve tipi?",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Başvuru nedeni, kişiyi kimin yönlendirdiğini ve hangi soruya yanıt arandığını belirtir.",
+    "Yakınmalar yazılırken tarafı, başlangıç zamanı ve seyri gibi ayrıntılar kısa cümlelerle verilir.",
+    "Öyküde yalnız sonucu etkileyen bilgiler yer alır; örneğin gürültü maruziyeti, kulak ameliyatı ya da ailede işitme kaybı.",
+    "Gereksiz kişisel ayrıntılar rapora yazılmaz.",
+    {
+     "yazi": "Türkiye'de 6698 sayılı Kişisel Verilerin Korunması Kanunu, sağlık verilerini özel nitelikli kişisel veri olarak korur.",
+     "ses": "Türkiye'de altı bin altı yüz doksan sekiz sayılı Kişisel Verilerin Korunması Kanunu, sağlık verilerini özel nitelikli kişisel veri olarak korur."
+    },
+    "Bu yüzden raporlar yalnız yetkili kişilerle paylaşılır ve güvenli biçimde saklanır."
+   ]
+  },
+  {
+   "id": "bulgular",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Raporun yapısı",
+   "baslik": "Bulguların *düzenli* özeti",
+   "sutunlar": [
+    "Test",
+    "Raporda yer alan"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Otoskopi",
+      "Kanal ve zar görünümü"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Saf ses",
+      "Tip, derece, konfigürasyon"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Konuşma",
+      "SRT, kelime skoru"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "İmmitans",
+      "Timpanogram, refleksler"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Diğer testler",
+      "OAE, ABR gibi"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Güvenilirlik",
+      "İyi, orta, düşük"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Bulgular bölümü genellikle otoskopi ile başlar: dış kulak yolu ve kulak zarının görünümü kısaca yazılır.",
+    "Saf ses sonuçları her kulak için kaybın tipi, derecesi ve konfigürasyonuyla özetlenir; odyogram rapora eklenir.",
+    "Konuşma odyometrisinde konuşmayı alma eşiği, yani SRT ve kelime tanıma skoru, test edildikleri düzeyle birlikte verilir.",
+    "İmmitans bölümünde timpanogram tipi, ilgili değerler ve akustik refleks bulguları yer alır.",
+    "Yapıldıysa otoakustik emisyon, kısaca OAE ya da işitsel beyin sapı yanıtı, kısaca ABR sonuçları da eklenir.",
+    "Son olarak test güvenilirliği belirtilir; kişinin yanıtlarının tutarlı olup olmadığı okur için çok önemlidir."
+   ]
+  },
+  {
+   "id": "kosullar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Raporun yapısı",
+   "baslik": "Test *koşullarını* yaz",
+   "maddeler": [
+    {
+     "metin": "Dönüştürücü: _insert ya da supra-aural_",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Maskeleme _yapıldı mı_, nerede?",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Konuşma materyali: _kayıtlı ya da canlı_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Yöntem ve _sapmalar_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 0
+     },
+     {
+      "parca": "kemik_vibratoru",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Sonuçların doğru karşılaştırılabilmesi için test koşulları kısaca kaydedilir; örneğin kullanılan kulaklık türü.",
+    "Maskeleme yapıldıysa hangi kulakta ve hangi testte yapıldığı belirtilir.",
+    "Konuşma testinde kayıtlı materyal mi, izlenen canlı ses mi kullanıldığı ve hangi listenin seçildiği yazılır.",
+    "Standart yöntemden bir sapma olduysa, örneğin çocukta oyun odyometrisi kullanıldıysa, bu da not edilir.",
+    "Bu ayrıntılar, başka bir merkezde yapılan sonraki testin gerçekten karşılaştırılabilir olmasını sağlar."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yorum",
+   "baslik": "Yorum *nasıl* yazılır?",
+   "maddeler": [
+    {
+     "metin": "Tip: iletim, _sensörinöral_, mikst",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Derece: _sınıflamaya_ göre",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Konfigürasyon ve _simetri_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Önceki testle _karşılaştırma_",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Bulguların _birbiriyle uyumu_",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        30,
+        40,
+        50,
+        55
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        30,
+        45,
+        50,
+        60
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Yorum (interpretation), önce her kulaktaki kaybın tipini belirtir: iletim tipi, sensörinöral ya da mikst.",
+     "ses": "Yorum, önce her kulaktaki kaybın tipini belirtir: iletim tipi, sensörinöral ya da mikst."
+    },
+    "Ardından derece, merkezin kullandığı sınıflamaya göre yazılır; örneğin hafif, orta ya da ileri derece.",
+    "Konfigürasyon, yani eğimli, düz ya da çentikli olması ve iki kulak arasındaki simetri de tanımlanır.",
+    "Önceki bir test varsa değişim olup olmadığı açıkça belirtilir.",
+    "Son olarak konuşma, immitans ve diğer test sonuçlarının odyogramla uyumlu olup olmadığı yazılır.",
+    "Yorum kısa olmalıdır; okuyan kişi birkaç cümlede durumu anlayabilmelidir."
+   ]
+  },
+  {
+   "id": "tani_degil",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yorum",
+   "baslik": "Yorum *tanı* değildir",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Uygun",
+     "metin": "Sol kulakta orta derece sensörinöral kayıp",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Uygun",
+     "metin": "Retrokoklear süreçle uyumlu olabilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Uygun değil",
+     "metin": "Hastada tümör var",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Odyolojik yorum, işitme işlevini tanımlar; tıbbi tanı koymaz.",
+    "Örneğin sol kulakta orta derecede sensörinöral işitme kaybı, uygun bir odyolojik yorumdur.",
+    "Bulgular bir olasılığa işaret ediyorsa, retrokoklear bir süreçle uyumlu olabilir gibi temkinli bir dil kullanılır.",
+    "Hastada tümör var ya da şu ilaç kullanılmalı gibi ifadeler ise odyolojik raporun sınırlarını aşar.",
+    "Tıbbi tanı ve tedavi kararı hekime aittir; rapor bu karara güvenilir bilgi sağlar."
+   ]
+  },
+  {
+   "id": "oneriler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Öneriler",
+   "baslik": "*Öneri* örnekleri",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Hekime yönlendirme",
+     "metin": "Neden açıkça yazılır",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz değerlendirmesi",
+     "metin": "Uygunsa",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Kontrol testi",
+     "metin": "Zamanı belirtilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ek test",
+     "metin": "Örneğin ABR, OAE",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "İletişim",
+     "metin": "Stratejiler, danışmanlık",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Öneri (recommendation) bölümünde, gerekiyorsa hekime yönlendirme ve bunun nedeni açıkça yazılır.",
+     "ses": "Öneri bölümünde, gerekiyorsa hekime yönlendirme ve bunun nedeni açıkça yazılır."
+    },
+    "İşitme kaybı uygunsa işitme cihazı değerlendirmesi önerilir.",
+    "Kontrol testi önerildiğinde zamanı belirtilir; belirsiz bir gerekirse yerine, örneğin altı ay sonra diye yazılır.",
+    "Yanıtlanmamış bir soru kaldıysa ABR ya da OAE gibi ek testler önerilir.",
+    "İletişim stratejileri ve danışmanlık önerileri de kişinin günlük yaşamına doğrudan katkı sağlar."
+   ]
+  },
+  {
+   "id": "dil",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Öneriler",
+   "baslik": "*Anlaşılır* dil",
+   "maddeler": [
+    {
+     "metin": "Kısaltmaları _ilk geçişte aç_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Kısa cümle, _tek fikir_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Hasta için _günlük dil_ özeti",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Sayılar ile yorum _çelişmesin_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "AYNI BULGU",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "hekim",
+      "baslik": "Hekime",
+      "metin": "İki taraflı hafif-orta sensörinöral kayıp",
+      "cumle": 2
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Hastaya",
+      "metin": "Bazı konuşma seslerini duymakta zorlanıyorsunuz",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Raporda kısaltmalar ilk geçtiğinde açılır; her okurun SRT ya da ABR'nin ne olduğunu bilmesi beklenmez.",
+    "Kısa cümleler ve tek fikirli paragraflar okumayı kolaylaştırır.",
+    "Hekime yazılan teknik özet, hasta için günlük dille yazılmış kısa bir açıklamayla desteklenebilir.",
+    "Örneğin hastaya, işitme kaybınız özellikle ince ve tiz konuşma seslerini duymanızı zorlaştırıyor diye anlatılabilir.",
+    "Rapordaki sayılar ile yorum birbiriyle çelişmemelidir; çelişki okurun güvenini sarsar."
+   ]
+  },
+  {
+   "id": "ornek_odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Örnek rapor",
+   "baslik": "Örnek olgu: *odyogram*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Sağ hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Sol hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Sağ kemik yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "Sol kemik yolu",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       40,
+       50,
+       55
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       45,
+       50,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       25,
+       30,
+       40,
+       50
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       25,
+       30,
+       45,
+       50
+      ],
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Şimdi tamamen örnek bir olgu üzerinden rapor yazalım; bu veriler gerçek bir hastaya ait değildir.",
+    "Altmış sekiz yaşında örnek bir kişi, kalabalıkta konuşmaları anlamakta zorlandığını söylüyor; iki kulakta eşikler benzer.",
+    "Kemik yolu eşikleri hava yoluyla örtüşüyor; yani hava-kemik aralığı yok.",
+    "Kayıp yüksek frekanslara doğru artıyor ve iki kulak arasında anlamlı bir asimetri yok.",
+    {
+     "yazi": "Saf ses ortalaması her iki kulakta yaklaşık 30 ile 35 dB HL arasında; bu, hafif dereceye karşılık geliyor.",
+     "ses": "Saf ses ortalaması her iki kulakta yaklaşık otuz ile otuz beş dB HL arasında; bu, hafif dereceye karşılık geliyor."
+    }
+   ]
+  },
+  {
+   "id": "ornek_rapor",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Örnek rapor",
+   "baslik": "Örnek rapor: *özet*",
+   "sutunlar": [
+    "Bölüm",
+    "Örnek ifade"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Başvuru nedeni",
+      "Kalabalıkta anlama güçlüğü"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Saf ses",
+      "İki taraflı sensörinöral kayıp"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Derece, biçim",
+      "Hafif-orta, tize eğimli"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Konuşma",
+      "Skorlar kayıpla uyumlu"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "İmmitans",
+      "A tipi, refleksler beklenen"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Öneri 1",
+      "KBB muayenesi"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Öneri 2",
+      "Cihaz değerlendirmesi, kontrol"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Örnek raporda başvuru nedeni, kalabalık ortamda konuşmayı anlama güçlüğü olarak yazılır.",
+    "Yorum: iki taraflı, simetrik, yüksek frekanslara doğru eğimli, hafif ile orta derece sensörinöral işitme kaybı.",
+    "Kelime tanıma skorları her iki kulakta kaybın derecesiyle uyumludur.",
+    "Timpanogramlar her iki kulakta A tipidir ve akustik refleksler işitme düzeyine göre beklenen düzeylerde alınmıştır.",
+    "Öneri olarak önce kulak burun boğaz, kısaca KBB muayenesi yazılır; tıbbi değerlendirme hekime aittir.",
+    "Ardından işitme cihazı değerlendirmesi, iletişim stratejileri ve bir yıl sonra kontrol odyogramı önerilir.",
+    "Bu örnek yalnız rapor dilini göstermek içindir; gerçek bir olguda öneriler kişinin tüm bulgularına göre belirlenir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Raporu bitirince teste hiç katılmamış bir meslektaşın gözüyle okuyun: yalnız rapora bakarak durumu ve ne yapılacağını anlayabiliyor mu?",
+   "cumleler": [
+    "Bir klinik ipucu: raporu bitirdikten sonra, teste hiç katılmamış bir meslektaşınızın gözüyle yeniden okuyun.",
+    "Yalnız rapora bakarak kişinin işitme durumunu ve bundan sonra ne yapılacağını anlayabiliyor mu?",
+    "Yanıt hayırsa eksik olan çoğu zaman yorum ya da açık bir öneridir.",
+    "Rapora tarih, imza ve iletişim bilgisi eklemeyi de unutmayın."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Örnek rapor",
+   "baslik": "Sık *hatalar*",
+   "maddeler": [
+    {
+     "metin": "Yalnız sayılar, _yorum yok_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Belirsiz ya da _eksik_ öneri",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Tanı koyan _ifadeler_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Güvenilirlik ve _koşullar_ yazılmamış",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "KONTROL",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Son okuma",
+      "metin": "Tutarlı mı, eksiksiz mi?",
+      "cumle": 4
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Tarih, imza",
+      "metin": "İletişim bilgisi eklendi mi?",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "En sık hata, yalnız sayıların listelendiği ve hiçbir yorumun yapılmadığı raporlardır.",
+    "Öneri bölümünün boş bırakılması ya da belirsiz yazılması da okuru yönsüz bırakır.",
+    "Tıbbi tanı koyan ifadeler hem meslek sınırlarını aşar hem de yanlış anlaşılmaya yol açabilir.",
+    "Test güvenilirliğinin ve koşulların yazılmaması, sonraki karşılaştırmaları zorlaştırır.",
+    "Kısa bir son okuma, bu hataların çoğunu önler."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Bölümler: neden, öykü, _bulgular_, yorum, öneri",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Koşullar ve _güvenilirlik_ yazılır",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Yorum işlevi tanımlar, _tanı koymaz_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Öneriler _açık_ ve zamanlı",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "İyi bir rapor başvuru nedeni, öykü, bulgular, yorum ve öneriler bölümlerinden oluşur.",
+    "Test koşulları ve yanıtların güvenilirliği, sonuçların doğru karşılaştırılması için yazılır.",
+    "Odyolojik yorum işitme işlevini tanımlar; tıbbi tanı ve tedavi kararı hekime aittir.",
+    "Öneriler açık, uygulanabilir ve gerekiyorsa zamanı belirtilmiş biçimde yazılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangisi uygun bir odyolojik yorumdur?",
+   "secenekler": [
+    "Hastada tümör var",
+    "Orta derece sensörinöral kayıp",
+    "Şu ilaç kullanılmalı"
+   ],
+   "dogru": 1,
+   "aciklama": "Odyolojik yorum işitme işlevini _tanımlar_; tanı ve tedavi hekime aittir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Aşağıdakilerden hangisi uygun bir odyolojik yorumdur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: orta derecede sensörinöral işitme kaybı.",
+    "Diğer iki ifade tıbbi tanı ve tedaviye girer; bunlar hekimin sorumluluğundadır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Presbiakuzi: *yaşa bağlı* işitme kaybı",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste yaşa bağlı işitme kaybını, yani presbiakuziyi öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

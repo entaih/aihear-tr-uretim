@@ -1,0 +1,148 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R475_Kanalin_Agzinda_Kalan_Tikac_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #475",
+  "baslik": "Kanalın *ağzında*",
+  "alt": "Kulak tıkacını doğru takmak",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      30,
+      40,
+      35,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      20,
+      25,
+      25,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Köpük kulak tıkacı kullanılırken eşik kayması neden sürebilir? #shorts",
+  "aciklama": "Kaymanın en sık nedenlerinden biri koruyucunun yanlış takılması ya da düzensiz kullanılmasıdır. Örnek vakada çalışandan tıkacını odyoloğun önünde takması istendiğinde tıkacın kanalın yalnız ağzında kaldığı görülüyor; köpük tıkaç ince bir silindir olacak biçimde yuvarlanmalı, kulak kepçesi yukarı ve geriye çekilerek kanala derin yerleştirilmelidir. Gerçek korumayı tahmin etmek yerine ölçmenin yolu bireysel uyum testidir; vardiya içinde koruyucuyu kısa süreler çıkarmak bile etkin korumayı belirgin biçimde azaltır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "gürültü",
+   "işsağlığı"
+  ],
+  "etiketler": [
+   "kulak tıkacı",
+   "işitme koruyucu",
+   "bireysel uyum testi",
+   "standart eşik kayması",
+   "gürültüye bağlı işitme kaybı",
+   "vaka",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Köpük kulak tıkacı kullanılırken eşik kayması neden sürebilir?",
+  "bilgiler": [
+   "Kanalın ağzında kalan tıkaç, etiketteki değerin çok altında korur.",
+   "Tıkaç ince bir silindir yapılır; kepçe yukarı ve geriye çekilerek takılır.",
+   "Gerçek koruma bireysel uyum testiyle ölçülür."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "gürültü",
+   "işsağlığı"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #475",
+   "metin": "Tıkaç var, *kayma neden?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Köpük kulak tıkacı kullanılırken eşik kayması neden sürebilir?"
+   ]
+  },
+  {
+   "id": "takma",
+   "tur": "zincir",
+   "baslik": "Doğru *takma*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Yuvarla",
+     "tr": "ince silindir",
+     "cumle": 2
+    },
+    {
+     "ad": "Çek",
+     "tr": "kepçe yukarı, geri",
+     "cumle": 2,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Yerleştir",
+     "tr": "kanala derin",
+     "cumle": 2,
+     "gecikme": 1.2
+    }
+   ],
+   "alt": "Bireysel _uyum testi_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Çalışandan tıkacını odyoloğun önünde takması istenir.",
+    "Örnekte tıkaç kanalın yalnız ağzında kalıyor; koruma etiketin çok altında.",
+    "Tıkaç ince silindir yapılır, kepçe yukarı ve geriye çekilerek derin yerleştirilir.",
+    "Gerçek koruma tahmin edilmez, bireysel uyum testiyle ölçülür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D278",
+ "kaynak_baslik": "Vaka: yıllık odyogramlar"
+}

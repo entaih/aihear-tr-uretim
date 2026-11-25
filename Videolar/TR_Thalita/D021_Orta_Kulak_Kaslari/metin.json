@@ -1,0 +1,822 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D021_Orta_Kulak_Kaslari_TR",
+ "kapak": {
+  "ust": "DERS 21",
+  "baslik": "Orta kulak<br>*kasları*",
+  "alt": "Stapedius ve tensor tympani",
+  "cizim": "orta_kulak",
+  "vurgula": [
+   "stapedius",
+   "tensor_timpani"
+  ]
+ },
+ "youtube": {
+  "baslik": "Orta Kulak Kasları: Stapedius ve Tensor Tympani | Ders 21 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Orta kulakta kemikçik zincirine tutunan iki küçük kas vardır: stapedius ve tensor tympani. Bu derste kasların yerlerini ve yapışma noktalarını, fasiyal ve trigeminal sinirle uyarılmalarının embriyolojik nedenini, akustik refleks arkını ve kasların klinikteki önemini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gray's Anatomy; Gelfand, Essentials of Audiology; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Zemlin, Speech and Hearing Science: Anatomy and Physiology; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "anatomi",
+   "ortakulak"
+  ],
+  "etiketler": [
+   "orta kulak kasları",
+   "stapedius",
+   "tensor tympani",
+   "musculus stapedius",
+   "nervus facialis",
+   "trigeminal sinir",
+   "akustik refleks",
+   "acoustic reflex",
+   "refleks arkı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 21",
+   "baslik": "Orta kulak *kasları*",
+   "alt": "Stapedius, tensor tympani ve akustik refleks",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste orta kulaktaki iki küçük kası, stapedius ve tensor tympaniyi tanıyacağız.",
+    "Kasların nereye yapıştığını, hangi sinirlerle çalıştığını ve akustik refleksle ilişkisini öğreneceğiz."
+   ]
+  },
+  {
+   "id": "iki_kas",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İki kas",
+   "baslik": "İki küçük *kas*",
+   "cizim": "orta_kulak",
+   "etiketler": [
+    {
+     "parca": "stapedius",
+     "metin": "Musculus stapedius (üzengi kası)",
+     "cumle": 1
+    },
+    {
+     "parca": "tensor_timpani",
+     "metin": "Musculus tensor tympani (kulak zarı gerici kası)",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stapedius",
+     "cumle": 1
+    },
+    {
+     "parca": "tensor_timpani",
+     "cumle": 2
+    },
+    {
+     "parca": "kemikcikler",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İkisi de _kemik kanalda_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kasılınca zincir _sertleşir_",
+     "cumle": 4,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Etkisi en çok _pes seslerde_",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Orta kulakta kemikçik zincirine tutunan iki küçük iskelet kası vardır.",
+    {
+     "yazi": "Birincisi musculus stapedius, yani üzengi kasıdır; stapese tutunur.",
+     "ses": "Birincisi muskulus stapedius, yani üzengi kasıdır; stapese tutunur."
+    },
+    {
+     "yazi": "İkincisi musculus tensor tympani, yani kulak zarı gerici kasıdır; malleusa tutunur.",
+     "ses": "İkincisi muskulus tensor tympani, yani kulak zarı gerici kasıdır; malleusa tutunur."
+    },
+    "İki kas da kemik bir kanalın içinde yer alır; boşluğa yalnız tendonları uzanır.",
+    "Kaslar kasıldığında kemikçik zinciri ve timpanik membran gerilir; zincir daha sert hale gelir.",
+    "Bu sertleşme, orta kulağın özellikle pes sesleri iletme biçimini değiştirir."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stapedius",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "tensor_timpani",
+     "cumle": 2,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "stapedius",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İki kas",
+   "baslik": "*Stapedius*: en küçük kas",
+   "maddeler": [
+    {
+     "metin": "Vücudun _en küçük_ iskelet kası",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Yeri: _piramidal çıkıntı_ içi",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tendon: _stapes boynuna_",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Stapesi _arkaya_ çeker",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "stapedius",
+      "metin": "Stapedius",
+      "cumle": 1
+     },
+     {
+      "parca": "stapes",
+      "metin": "Stapes",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "stapedius",
+      "cumle": 1
+     },
+     {
+      "parca": "stapes",
+      "cumle": 2
+     }
+    ],
+    "yakinlastir": {
+     "parca": "stapedius",
+     "cumle": 1,
+     "olcek": 1.9
+    }
+   },
+   "cumleler": [
+    "Stapedius, vücudumuzdaki en küçük iskelet kasıdır.",
+    "Orta kulağın arka duvarındaki piramidal çıkıntının içindeki kemik kanalda yer alır.",
+    "Tendonu çıkıntının tepesinden çıkar ve stapesin boynuna, arka yüzden yapışır.",
+    "Kasıldığında stapesi arkaya doğru çeker ve tabanının oval penceredeki hareketini kısıtlar.",
+    "Böylece iç kulağa iletilen enerji, özellikle pes frekanslarda azalır."
+   ]
+  },
+  {
+   "id": "tensor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İki kas",
+   "baslik": "*Tensor tympani*: zarı geren kas",
+   "maddeler": [
+    {
+     "metin": "Kanal: _Östaki borusunun üstünde_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tendon kemik çıkıntıda _döner_",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Yapışma: _malleus sapının_ üst kısmı",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Malleusu _içe_ çeker",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "tensor_timpani",
+      "metin": "Tensor tympani",
+      "cumle": 0
+     },
+     {
+      "parca": "malleus",
+      "metin": "Malleus",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "tensor_timpani_kas",
+      "cumle": 0
+     },
+     {
+      "parca": "tensor_timpani",
+      "cumle": 0
+     },
+     {
+      "parca": "malleus",
+      "cumle": 3
+     }
+    ],
+    "yakinlastir": {
+     "parca": "tensor_timpani",
+     "cumle": 0,
+     "olcek": 1.7
+    }
+   },
+   "cumleler": [
+    "Tensor tympani daha uzun bir kastır ve Östaki borusunun hemen üstündeki kemik kanalda uzanır.",
+    "Kas, Östaki borusunun kıkırdak bölümünden ve çevresindeki kemikten başlar.",
+    "Tendonu orta kulağa girerken, iç duvardaki küçük bir kemik çıkıntının etrafında dik açıyla döner.",
+    "Ardından boşluğu içten dışa geçerek malleus sapının üst kısmına yapışır.",
+    "Kasıldığında malleusu içe çeker ve timpanik membranı gerer; kasın adı da bu işlevden gelir."
+   ]
+  },
+  {
+   "id": "sinirler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sinirler ve köken",
+   "baslik": "Farklı *sinirler*, farklı kökenler",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Stapedius: _nervus facialis_ (VII)",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tensor tympani: _trigeminal sinir_ (V)",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Stapedius: _2. faringeal_ ark",
+     "cumle": 3,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Tensor tympani: _1. faringeal_ ark",
+     "cumle": 4,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Akustik refleks: _stapedius_; irkilme: tensor",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "stapedius",
+      "cumle": 1
+     },
+     {
+      "parca": "fasiyal_sinir",
+      "cumle": 1
+     },
+     {
+      "parca": "tensor_timpani_kas",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "fasiyal_sinir",
+      "metin": "Fasiyal sinir (VII)",
+      "cumle": 1
+     },
+     {
+      "parca": "stapedius",
+      "metin": "Stapedius",
+      "cumle": 1
+     },
+     {
+      "parca": "tensor_timpani_kas",
+      "metin": "Tensor tympani",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "İki kas farklı kafa sinirleriyle çalışır; bunun nedeni embriyolojik kökenlerindeki farktır.",
+    {
+     "yazi": "Stapedius, yedinci kafa siniri olan nervus facialis, yani yüz siniri tarafından uyarılır.",
+     "ses": "Stapedius, yedinci kafa siniri olan nervus fasialis, yani yüz siniri tarafından uyarılır."
+    },
+    "Tensor tympani ise beşinci kafa siniri olan trigeminal sinirin mandibular dalıyla uyarılır.",
+    "Stapedius ikinci faringeal arktan gelişir; bu arkın siniri fasiyal sinirdir.",
+    "Tensor tympani ise birinci faringeal arktan gelişir; bu arkın siniri de trigeminal sinirdir.",
+    "İnsanda sese karşı oluşan akustik refleksin asıl kası stapediustur.",
+    "Tensor tympani ise daha çok irkilme tepkisinde ve yüze hava üflenmesi gibi ses dışı uyaranlarda kasılır."
+   ]
+  },
+  {
+   "id": "fasiyal_yol",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sinirler ve köken",
+   "baslik": "Fasiyal sinirin *yolu*",
+   "cizim": "orta_kulak_ic_duvar",
+   "vurgula": [
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "fasiyal_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "stapedius_dali",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 2
+    },
+    {
+     "parca": "chorda_tympani",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "genikulat_ganglion",
+     "metin": "İç kulak yolundan gelir",
+     "cumle": 0
+    },
+    {
+     "parca": "fasiyal_kanal",
+     "metin": "Oval pencerenin üstü",
+     "cumle": 1
+    },
+    {
+     "parca": "stapedius_dali",
+     "metin": "Stapedius dalı",
+     "cumle": 2
+    },
+    {
+     "parca": "chorda_tympani",
+     "metin": "Chorda tympani",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İnen bölümde _stapedius dalı_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Sonra _chorda tympani_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Refleksle _yer tahmini_",
+     "cumle": 4,
+     "ikon": "tarama"
+    }
+   ],
+   "cumleler": [
+    "Fasiyal sinir, işitme siniriyle birlikte iç kulak yolundan temporal kemiğe girer.",
+    "Ardından orta kulağın iç duvarında oval pencerenin üstünden geçer ve arka duvarda aşağı doğru iner.",
+    "Bu inen bölümde stapedius kasına küçük bir dal verir.",
+    {
+     "yazi": "Sinir daha sonra chorda tympaniyi verir ve kafatası tabanındaki bir delikten çıkarak yüz kaslarına gider.",
+     "ses": "Sinir daha sonra korda tympaniyi verir ve kafatası tabanındaki bir delikten çıkarak yüz kaslarına gider."
+    },
+    "Bu uzun yol, fasiyal sinirdeki bir sorunun yerini stapedius refleksiyle tahmin etmeye yardım eder."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stapedius_dali",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "ark",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Akustik refleks",
+   "baslik": "Akustik refleks *arkı*",
+   "cizim": "akustik_refleks_arki",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "Koklear nükleus (koklear çekirdek)",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Superior oliver kompleks",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_motor_cekirdek",
+     "metin": "Fasiyal motor çekirdek",
+     "cumle": 4
+    },
+    {
+     "parca": "stapedius",
+     "metin": "Stapedius",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_motor_cekirdek",
+     "cumle": 4
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 5
+    },
+    {
+     "parca": "karsi_stapedius",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Fasiyal motor _çekirdek_",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Sonuç: _iki kulakta_ kasılma",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Yüksek şiddetli bir ses, iki kulakta da stapedius kasının kasılmasına yol açar; buna akustik refleks (acoustic reflex) denir.",
+    "Refleks kokleada başlar; uyarı işitme siniriyle beyin sapına taşınır.",
+    "İlk durak koklear nükleus, yani koklear çekirdektir.",
+    "Buradan uyarı iki taraftaki superior oliver kompleks, yani üst zeytin çekirdekleri bölgesine iletilir.",
+    "Sonra iki taraftaki fasiyal motor çekirdeklere ulaşır ve fasiyal sinir yoluyla stapedius kaslarını kastırır.",
+    "Bu yüzden tek kulağa verilen ses, normalde her iki kulakta refleks oluşturur."
+   ],
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 4,
+    "kontra_cumle": 5
+   }
+  },
+  {
+   "id": "olcum",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Akustik refleks",
+   "baslik": "Aynı taraf ve *karşı taraf*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Ölçüm",
+     "metin": "Prob, admitans değişikliğini ölçer",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İpsilateral (aynı taraf)",
+     "metin": "Aynı kulak; karşıya geçmeyen yol",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Kontralateral (karşı taraf)",
+     "metin": "Karşı kulak; çapraz yol",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Birlikte yorum",
+     "metin": "İki ölçüm birbirini tamamlar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Refleks, timpanometri probuyla kulak yolundaki küçük admitans değişikliği olarak ölçülür.",
+    "İpsilateral, yani aynı taraf ölçümde uyaran da ölçüm de aynı kulaktadır.",
+    "Bu ölçüm, arkın beyin sapında karşı tarafa geçmeyen bölümünü değerlendirir.",
+    "Kontralateral, yani karşı taraf ölçümde uyaran bir kulağa verilir, kasılma diğer kulakta ölçülür.",
+    "Bu ölçüm, beyin sapında karşı tarafa geçen yolu da test eder.",
+    "İki ölçüm birbirini tamamlar ve sonuçlar bir arada yorumlanır."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Akustik refleks",
+   "baslik": "Refleks *eşiği*",
+   "maddeler": [
+    {
+     "metin": "Normal: yaklaşık _70 ile 100 dB HL_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Ortalama: yaklaşık _85 dB HL_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Geniş bant gürültüde _daha düşük_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Prob kulağında iletim sorunu: _refleks yok_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "konser",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Refleksin ortaya çıktığı en düşük uyaran düzeyine akustik refleks eşiği denir.",
+    "Normal işitenlerde saf tonlar için bu eşik genellikle yetmiş ile yüz desibel HL arasında, ortalama seksen beş civarındadır.",
+    "Geniş bant gürültü ile refleks daha düşük düzeylerde ortaya çıkar.",
+    "Probun bulunduğu kulakta küçük bir iletim sorunu bile refleksin kaydedilmesini çoğu zaman engeller.",
+    "Ayrıntılı ölçüm ve yorum kurallarını immitansmetri derslerinde göreceğiz."
+   ]
+  },
+  {
+   "id": "islev",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Akustik refleks",
+   "baslik": "Kaslar *ne işe* yarar?",
+   "maddeler": [
+    {
+     "metin": "Güçlü _pes seslere_ karşı koruma",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Ani patlamaya _yetişemez_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Gürültüde _konuşmaya_ katkı",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Kendi sesimizi _azaltır_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 500
+    },
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "tepe",
+      "metin": "Pes sesler",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "yuruyen_dalga",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Kasların en çok bilinen işlevi, iç kulağı güçlü ve uzun süren pes seslere karşı bir ölçüde korumaktır.",
+    "Ancak refleks gecikmeyle çalışır; bu yüzden silah sesi gibi ani patlamaların ilk anına yetişemez.",
+    "Pes sesleri azaltması, gürültülü ortamda pes gürültünün tiz konuşma seslerini örtmesini de azaltır.",
+    "Böylece refleksin gürültüde konuşmayı anlamaya katkı sağladığı düşünülür.",
+    "Stapedius konuşmaya başlamadan hemen önce de kasılır ve kendi sesimizin kulağımızda daha hafif duyulmasına katkıda bulunur."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Klinikte *kaslar*",
+   "maddeler": [
+    {
+     "metin": "Fasiyal felç: _refleks yok_, hiperakuzi",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Stapes cerrahisi: tendon _kesilebilir_",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Otoskleroz: refleks _kaybolur_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Orta kulak miyoklonusu: _tıklama_ sesi",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "stapedius",
+      "cumle": 0
+     },
+     {
+      "parca": "stapes",
+      "cumle": 3
+     }
+    ],
+    "yakinlastir": {
+     "parca": "stapes",
+     "cumle": 0,
+     "olcek": 1.9
+    }
+   },
+   "cumleler": [
+    "Fasiyal sinir felcinde sorun stapedius dalının ayrıldığı yerden önceyse, o taraftaki kas çalışmaz ve refleks alınamaz.",
+    {
+     "yazi": "Bazı hastalar bu dönemde seslerin rahatsız edici derecede yüksek geldiğini anlatır; buna hiperakuzi (hyperacusis) denir.",
+     "ses": "Bazı hastalar bu dönemde seslerin rahatsız edici derecede yüksek geldiğini anlatır; buna hiperakuzi denir."
+    },
+    "Stapes cerrahisinde stapedius tendonu kesilebilir; bu durumda ameliyat edilen kulakta refleks ölçülemez.",
+    "Otosklerozda stapes tabanı sabitlendiği için kasılma ölçülebilir bir değişiklik oluşturmaz ve refleks çoğu zaman alınamaz.",
+    "Nadir görülen orta kulak miyoklonusunda kaslar istemsiz ve ritmik kasılır; kişi kulağında tıklama sesi duyabilir.",
+    "Bu kasılmalar bazen timpanometri sırasında eğri üzerinde ritmik dalgalanmalar olarak görülebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Klinikte dikkat",
+   "metin": "Refleks her zaman probun bulunduğu kulaktaki stapedius kasından kaydedilir. Fasiyal felçte felçli taraftaki kası değerlendirmek için prob o kulağa yerleştirilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: refleks, uyaran hangi kulağa verilirse verilsin, her zaman probun bulunduğu kulakta kaydedilir.",
+    "Yani ölçülen kasılma, probun takılı olduğu taraftaki stapedius kasına aittir.",
+    "Fasiyal felçte felçli taraftaki kası değerlendirmek için prob o kulağa yerleştirilir ve uyaran iki kulaktan sırayla verilir.",
+    "Bu küçük ayrıntı, refleks sonuçlarının yanlış tarafa yazılmasını önler."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Stapedius: _stapes boynu_, fasiyal sinir",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tensor tympani: _malleus_, trigeminal sinir",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Akustik refleksin asıl kası: _stapedius_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Refleks _iki kulakta_ oluşur",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Stapedius, piramidal çıkıntıdan stapesin boynuna uzanır ve fasiyal sinirle çalışır.",
+    "Tensor tympani, Östaki borusunun üstündeki kanaldan malleusa uzanır ve trigeminal sinirin mandibular dalıyla çalışır.",
+    "İnsanda sese karşı oluşan akustik refleksin asıl kası stapediustur.",
+    "Tek kulağa verilen yüksek şiddetli ses, normalde iki kulakta da refleks oluşturur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Tensor tympani kasını hangi sinir uyarır?",
+   "secenekler": [
+    "Fasiyal sinir",
+    "Trigeminal sinir",
+    "Glossofaringeal sinir",
+    "İşitme siniri"
+   ],
+   "dogru": 1,
+   "aciklama": "Tensor tympani birinci faringeal arktan gelişir; _trigeminal sinirin_ mandibular dalıyla uyarılır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Tensor tympani kasını hangi kafa siniri uyarır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: trigeminal sinir.",
+     "ses": "Doğru cevap be: trigeminal sinir."
+    },
+    "Tensor tympani birinci faringeal arktan gelişir ve bu arkın siniri olan trigeminal sinirin mandibular dalıyla çalışır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tuba auditiva: *Östaki borusu*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste tensor tympaninin hemen altında uzanan Östaki borusunu, yapısını ve işlevlerini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

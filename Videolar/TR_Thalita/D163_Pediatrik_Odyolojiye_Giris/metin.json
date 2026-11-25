@@ -1,0 +1,603 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D163_Pediatrik_Odyolojiye_Giris_TR",
+ "kapak": {
+  "ust": "DERS 163",
+  "baslik": "Pediatrik<br>*odyoloji*",
+  "alt": "Çocuk küçük bir yetişkin değildir",
+  "cizim": "vra_odasi"
+ },
+ "youtube": {
+  "baslik": "Pediatrik Odyolojiye Giriş: Çocuk Küçük Bir Yetişkin Değildir | Ders 163 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Pediatrik odyolojinin temel ilkelerini anlatıyoruz: çocuğun kulağının akustik farkları, gelişimsel yaşa göre test seçimi ve düzeltilmiş yaş, aile merkezli bakım, çocukta öykü ve çapraz kontrol ilkesi.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jerger ve Hayes, The cross-check principle in pediatric audiometry, Archives of Otolaryngology (1976); ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age (2004); Moeller ve ark., Best practices in family-centered early intervention for children who are deaf or hard of hearing, Journal of Deaf Studies and Deaf Education (2013); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "pediatrikodyoloji",
+   "çocukişitmesi"
+  ],
+  "etiketler": [
+   "pediatrik odyoloji",
+   "pediatric audiology",
+   "gelişimsel yaş",
+   "developmental age",
+   "aile merkezli bakım",
+   "family-centered care",
+   "çapraz kontrol ilkesi",
+   "cross-check principle",
+   "düzeltilmiş yaş",
+   "çocukta işitme testi",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 163",
+   "baslik": "Pediatrik *odyolojiye* giriş",
+   "alt": "Çocuk küçük bir yetişkin değildir",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu dersle pediatrik değerlendirme bölümüne başlıyor ve çocuğun işitmesini değerlendirmenin temel ilkelerini öğreniyoruz.",
+    "Gelişimsel yaşa göre test seçimini, aile merkezli yaklaşımı ve çapraz kontrol ilkesini ele alacağız."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Çocuk farklıdır",
+   "baslik": "Çocuk neden *farklı?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Küçük kulak",
+     "metin": "Aynı ses, kulak yolunda daha yüksek basınç oluşturur.",
+     "cumle": 1
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Gelişim",
+     "metin": "Sese verilen yanıt yaşla değişir.",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Kısa dikkat",
+     "metin": "Bir oturumda sınırlı bilgi alınır.",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Dil gelişimi",
+     "metin": "İşitme kaybı dil gelişimini etkiler.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Pediatrik odyolojide sık duyulan bir söz vardır: çocuk küçük bir yetişkin değildir.",
+    "Çocuğun kulağı yalnız küçük değil, akustik olarak da farklıdır ve bu fark ölçümleri doğrudan etkiler.",
+    "Çocuğun sese verdiği yanıt, gelişim düzeyine göre irkilmeden baş çevirmeye, oradan oyuna ve sözel yanıta kadar değişir.",
+    "Dikkat süresi kısadır; bu yüzden bir oturumda alınabilecek bilgi sınırlıdır ve test sırası önceden planlanır.",
+    "En önemlisi, bu dönemde fark edilmeyen bir işitme kaybı konuşma ve dil gelişimini etkileyebilir.",
+    "Bu nedenle pediatrik değerlendirmenin amacı, en kısa sürede ve her kulak için güvenilir bilgi elde etmektir.",
+    "Şimdi bu farkların ölçümlere ve test seçimine nasıl yansıdığına bakalım."
+   ]
+  },
+  {
+   "id": "kulak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Çocuk farklıdır",
+   "baslik": "Küçük kulak, *büyük* fark",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "insert": true
+   },
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Kısa ve dar kulak yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "kopuk_uc",
+     "metin": "Insert kulaklık",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Orta kulak: sıvı sık",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Aynı ayar: _daha yüksek_ basınç",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "6 ay altı: _1000 Hz_ timpanometri",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Bebeğin dış kulak yolu yetişkine göre daha kısa ve daha dardır, hacmi de çok daha küçüktür.",
+    "Aynı odyometre ayarı, küçük bir kulak yolunda yetişkine göre daha yüksek bir ses basıncı oluşturur.",
+    "Bu fark, özellikle işitme cihazı ayarında gerçek kulak ile kuplör farkı ölçülerek hesaba katılır.",
+    "Yaşamın ilk aylarında kulak yolu duvarı daha yumuşaktır; bu yüzden altı aydan küçük bebeklerde bin hertz prob tonlu timpanometri kullanılır.",
+    "Okul öncesi dönemde orta kulakta sıvı sık görülür ve geçici iletim tipi kayıplara yol açabilir.",
+    "Bu nedenle çocukta her değerlendirmede orta kulak durumu da ayrıca incelenir."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Gelişimsel yaş",
+   "baslik": "Gelişimsel yaşa göre *test*",
+   "adimlar": [
+    {
+     "ikon": "bebek",
+     "baslik": "Bebek",
+     "metin": "0 ile 6 ay: BOA, objektif",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Küçük çocuk",
+     "metin": "6 ile 24 ay: VRA",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Okul öncesi",
+     "metin": "2,5 ile 5 yaş: CPA",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Okul çağı",
+     "metin": "5 yaş üstü: geleneksel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Test seçiminde belirleyici olan takvim yaşı değil, çocuğun gelişimsel yaşıdır (developmental age).",
+    "Gelişimsel olarak altı aydan küçük bebeklerde davranış gözlemi yapılabilir, ama eşik tahmini objektif testlerle yapılır.",
+    "Yaklaşık altı ile yirmi dört ay arasında görsel pekiştirmeli odyometri, yani VRA kullanılır.",
+    "Yaklaşık iki buçuk ile beş yaş arasında çocuk oyunla yanıt vermeye koşullanır; buna koşullu oyun odyometrisi, yani CPA denir.",
+    "Beş yaş civarından sonra çoğu çocuk, düğmeye basarak ya da el kaldırarak geleneksel odyometriyle test edilebilir.",
+    "Bu sınırlar kesin değildir; gelişimi ileri ya da geri olan çocukta yöntem çocuğa göre seçilir.",
+    "Objektif testler, yani timpanometri, otoakustik emisyon, kısaca OAE ve işitsel beyin sapı yanıtı, kısaca ABR her yaşta bataryada olabilir."
+   ]
+  },
+  {
+   "id": "duzeltilmis",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Gelişimsel yaş",
+   "baslik": "Örnek: *düzeltilmiş* yaş",
+   "sutunlar": [
+    "Bilgi",
+    "Değer"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Takvim yaşı",
+      "9 ay"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Doğum haftası",
+      "32. hafta"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Erken doğum",
+      "8 hafta, 2 ay"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Düzeltilmiş yaş",
+      "7 ay"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Prematüre doğan bebeklerde gelişim, düzeltilmiş yaşa (corrected age) göre değerlendirilir.",
+    "Tamamen örnek bir bebek düşünelim: takvim yaşı dokuz ay.",
+    "Bebek kırk haftalık beklenen süre yerine otuz ikinci haftada doğmuş.",
+    "Yani sekiz hafta, yaklaşık iki ay erken doğmuş.",
+    "Bu bebeğin düzeltilmiş yaşı yaklaşık yedi aydır ve test seçimi buna göre yapılır.",
+    "Düzeltilmiş yaş genellikle yaklaşık iki yaşına kadar dikkate alınır.",
+    "Bu düzeltme yapılmazsa prematüre bir bebeğin yanıtları, yaşına göre yanlışlıkla geri sanılabilir."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Aile merkezli bakım",
+   "baslik": "Aile merkezli *bakım*",
+   "maddeler": [
+    {
+     "metin": "Aile _karar ortağıdır_",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Ebeveyn gözlemi _değerlidir_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Bilgi _açık ve anlaşılır_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ailenin _önceliklerine_ saygı",
+     "cumle": 3,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Duygusal sürece _destek_",
+     "cumle": 4,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Ortaklık",
+      "metin": "Karar birlikte",
+      "cumle": 0
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Gözlem",
+      "metin": "Ebeveyn bilgisi",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalp",
+      "baslik": "Saygı",
+      "metin": "Dil ve kültür",
+      "cumle": 3
+     }
+    ],
+    "ust": "İLKELER"
+   },
+   "cumleler": [
+    "Aile merkezli bakım (family-centered care), aileyi bilgi alan değil, kararlara katılan bir ortak olarak görür.",
+    "Ebeveynler çocuğu en iyi tanıyan kişilerdir; çocuğun evde seslere nasıl tepki verdiğine dair gözlemleri çok değerlidir.",
+    "Test sonuçları aileye teknik terimlere boğulmadan, açık ve anlaşılır bir dille anlatılır.",
+    "Ailenin dili, kültürü ve öncelikleri gözetilir; seçenekler sunulur ve karar birlikte verilir.",
+    "İşitme kaybı olasılığı aile için zor bir süreç olabilir; bu duygusal süreç anlayışla karşılanır.",
+    "Uluslararası uzlaşı bildirgeleri de erken müdahalede aile ile ortaklığı temel ilke olarak kabul eder."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Aile merkezli bakım",
+   "baslik": "Çocukta *öykü*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Gebelik, doğum",
+     "metin": "Prematürite, yoğun bakım",
+     "cumle": 1
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Aile öyküsü",
+     "metin": "Çocuklukta başlayan kayıp",
+     "cumle": 2
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Tarama",
+     "metin": "Yenidoğan tarama sonucu",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Gelişim",
+     "metin": "Dil ve motor basamaklar",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak",
+     "metin": "Enfeksiyon, akıntı",
+     "cumle": 5
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Kaygı",
+     "metin": "Ailenin işitme kaygısı",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Çocukta öykü, risk etkenlerini ve gelişimi kapsayan sistemli bir görüşmedir.",
+    "Gebelik ve doğum öyküsünde prematürite, yenidoğan yoğun bakımı ve doğumsal enfeksiyonlar sorulur.",
+    "Ailede çocukluk çağında başlayan işitme kaybı olup olmadığı öğrenilir.",
+    "Yenidoğan işitme taramasının yapılıp yapılmadığı ve sonucu kaydedilir.",
+    "Konuşma, dil ve motor gelişim basamakları, yaşıtlarıyla karşılaştırılarak değerlendirilir.",
+    "Sık kulak enfeksiyonu ve kulak akıntısı öyküsü de sorgulanır.",
+    "Ailenin işitmeyle ilgili kaygısı tek başına bile ciddiye alınması gereken bir bulgudur."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Çapraz kontrol",
+   "baslik": "*Çapraz kontrol* ilkesi",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Davranışsal",
+     "metin": "BOA, VRA, CPA",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Fizyolojik",
+     "metin": "OAE, ABR, ASSR",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "İmmitans",
+     "metin": "Timpanometri, refleks",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Çapraz kontrol ilkesi (cross-check principle), Jerger ve Hayes tarafından 1976 yılında tanımlanmıştır.",
+     "ses": "Çapraz kontrol ilkesi, Cerger ve Heyz tarafından bin dokuz yüz yetmiş altı yılında tanımlanmıştır."
+    },
+    "Bu ilkeye göre tek bir testin sonucu, bağımsız bir başka testle doğrulanmadan kesin kabul edilmez.",
+    "Çocukta davranışsal testler, farklı mekanizmalara dayanan fizyolojik testlerle karşılaştırılır.",
+    "Timpanometri ve akustik refleks, orta kulak durumunu ve dolaylı olarak işitme yolunu gösterir.",
+    "Sonuçlar birbiriyle uyumluysa güven artar; uyumsuzsa neden araştırılır ve gerekirse test tekrarlanır.",
+    "Bu ilke özellikle çocukta önemlidir; çünkü davranışsal yanıtlar dikkat, yorgunluk ve gelişimden kolayca etkilenir.",
+    "Çapraz kontrol, hem gözden kaçan kayıpları hem de gereksiz yere kayıp tanımlamayı önlemeye yardım eder."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Çapraz kontrol",
+   "baslik": "Örnek: *uyumsuz* bulgular",
+   "sutunlar": [
+    "Test",
+    "Sonuç"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "VRA, ses alanı",
+      "20 ile 25 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Timpanometri",
+      "İki kulak normal"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "OAE",
+      "Sağ var, sol yok"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sonraki adım",
+      "Insert ve ABR"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek, on sekiz aylık bir çocuğun bulgularına bakalım.",
+    "Ses alanında yapılan VRA'da yanıtlar yirmi ile yirmi beş desibel civarında, yani normal görünüyor.",
+    "Timpanometri iki kulakta da normal.",
+    "Ancak otoakustik emisyon sağ kulakta var, sol kulakta yok.",
+    "Ses alanı yanıtları daha iyi işiten kulağı yansıttığı için sol kulaktaki bir kayıp gizlenmiş olabilir.",
+    "Çapraz kontrol bu uyumsuzluğu ortaya koyar; sonraki adım insert kulaklıkla kulağa özgü test ve gerekirse ABR'dir."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Çapraz kontrol",
+   "baslik": "Teste *hazırlık*",
+   "maddeler": [
+    {
+     "metin": "Çocuğa uygun, _sakin_ ortam",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Önemli bilgi _önce_ alınır",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Gerekirse _iki test eden_",
+     "cumle": 2,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Uyku saatine göre _randevu_",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Birden çok _oturum_ olağandır",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vra_odasi",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "test_eden",
+      "metin": "Test eden",
+      "cumle": 2
+     },
+     {
+      "parca": "dikkat_dagitici",
+      "metin": "Dikkat dağıtıcı",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "test_eden",
+      "cumle": 2
+     },
+     {
+      "parca": "dikkat_dagitici",
+      "cumle": 2
+     },
+     {
+      "parca": "ebeveyn",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Test odası çocuğun kendini güvende hissedeceği, sakin ve dikkat dağıtıcı nesnelerden arınmış bir ortam olmalıdır.",
+    "Oturuma başlamadan önce hangi bilginin en önemli olduğu belirlenir ve test bu öncelikle planlanır.",
+    "Küçük çocuklarda çoğu zaman biri testi yöneten, diğeri çocuğun dikkatini yönlendiren iki kişi birlikte çalışır.",
+    "Uyku gerektiren objektif testler için randevu, çocuğun olağan uyku saatine göre ayarlanır.",
+    "Tüm bilgiyi tek oturumda almak her zaman mümkün değildir; değerlendirmenin birden çok oturuma yayılması olağandır.",
+    "Her oturumda alınan bilgi ve çocuğun iş birliği düzeyi kayda geçirilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ses alanında normal yanıt alınan çocukta da kulağa özgü bilgi arayın. Tek bir testle karar vermeyin; çapraz kontrol yapın.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: ses alanında normal yanıt veren bir çocuğu tek bu bulguyla normal işitiyor diye raporlamayın.",
+    "Ses alanı yanıtları iki kulağın daha iyisini yansıtır; tek taraflı bir kayıp bu yolla görülemez.",
+    "Mümkün olan en erken oturumda insert kulaklıkla kulağa özgü test yapmayı ve OAE ile çapraz kontrolü hedefleyin.",
+    "Ailenin kaygısı ve gelişim öyküsü de bulgulara eşlik eden önemli bilgilerdir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Çocuğun kulağı _akustik olarak_ farklıdır",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Test seçimi _gelişimsel yaşa_ göre",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Aile, kararlarda _ortaktır_",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Tek teste dayanılmaz: _çapraz kontrol_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Çocuğun kulak yolu küçüktür ve aynı ayar daha yüksek ses basıncı oluşturur; bu ölçümleri etkiler.",
+    "Test seçimi takvim yaşına değil gelişimsel yaşa göre yapılır; prematürelerde düzeltilmiş yaş kullanılır.",
+    "Aile merkezli bakımda aile bilgi verilen değil, kararlara katılan bir ortaktır.",
+    "Çapraz kontrol ilkesine göre davranışsal sonuçlar fizyolojik testlerle doğrulanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Pediatrik test seçiminde belirleyici olan nedir?",
+   "secenekler": [
+    "Takvim yaşı",
+    "Gelişimsel yaş",
+    "Ebeveynin tercihi"
+   ],
+   "dogru": 1,
+   "aciklama": "Test, çocuğun _gelişimsel yaşına_ göre seçilir; prematürelerde düzeltilmiş yaş kullanılır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Çocukta davranışsal test yöntemini seçerken belirleyici olan nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: gelişimsel yaş.",
+    "Örneğin gelişimi geri olan iki yaşındaki bir çocuk için VRA, oyun odyometrisinden daha uygun olabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Bebeklerde davranış *gözlem* odyometrisi (BOA)",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste en küçük bebeklerde kullanılan davranış gözlem odyometrisini, yani BOA'yı öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

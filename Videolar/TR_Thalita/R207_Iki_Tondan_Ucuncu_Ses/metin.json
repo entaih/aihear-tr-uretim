@@ -1,0 +1,115 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R207_Iki_Tondan_Ucuncu_Ses_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #207",
+  "baslik": "İki ton, *üçüncü ses*",
+  "alt": "Distorsiyon ürünü otoakustik emisyon",
+  "cizim": "koklea_acik",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kulağa iki ton verilince, kulak neden üçüncü bir ses üretir? #shorts",
+  "aciklama": "DPOAE ölçümünde kulak yoluna f1 ve f2 adlı iki ton aynı anda verilir. Sağlıklı koklea doğrusal çalışmadığı için yeni frekanslarda sesler üretir; insanda en büyüğü 2f1-f2 frekansındadır. Örneğin f2 2000 Hz ise ürün yaklaşık 1280 Hz'de aranır; bu doğrusal olmama dış tüy hücrelerine bağlıdır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "OAE",
+   "koklea"
+  ],
+  "etiketler": [
+   "DPOAE",
+   "distorsiyon ürünü",
+   "otoakustik emisyon",
+   "2f1-f2",
+   "DP-gram",
+   "dış tüy hücreleri",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kulağa iki ton verilince, kulak neden üçüncü bir ses üretir?",
+  "bilgiler": [
+   "DPOAE'de kulağa aynı anda iki ton verilir: f1 ve f2.",
+   "Koklea doğrusal çalışmadığı için yeni bir ses üretir.",
+   "f2 2000 Hz ise ürün yaklaşık 1280 Hz'dedir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "OAE",
+   "koklea"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #207",
+   "metin": "Kulak neden *üçüncü ses* üretir?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kulağa iki ton verilince, kulak neden üçüncü bir ses üretir?"
+   ]
+  },
+  {
+   "id": "dp",
+   "tur": "zincir",
+   "baslik": "İki tondan *üçüncü ses*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "f2",
+     "tr": "2000 Hz",
+     "cumle": 1
+    },
+    {
+     "ad": "f1",
+     "tr": "1640 Hz",
+     "cumle": 1,
+     "gecikme": 0.8
+    },
+    {
+     "ad": "Ürün",
+     "tr": "1280 Hz",
+     "cumle": 2
+    }
+   ],
+   "alt": "Ürün _iki tonun altında_ çıkar",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Distorsiyon ürünü otoakustik emisyonda, kısaca DPOAE, kulağa iki ton verilir.",
+    {
+     "yazi": "Örneğin f2 2000 Hz, f1 ise yaklaşık 1640 Hz olsun.",
+     "ses": "Örneğin fe iki iki bin hertz, fe bir ise yaklaşık bin altı yüz kırk hertz olsun."
+    },
+    {
+     "yazi": "Sağlıklı koklea yaklaşık 1280 Hz'de üçüncü bir ses üretir.",
+     "ses": "Sağlıklı koklea yaklaşık bin iki yüz seksen hertzde üçüncü bir ses üretir."
+    },
+    {
+     "yazi": "Bu frekans 2f1-f2'dir; insanda en büyük ürün budur.",
+     "ses": "Bu frekans iki fe bir eksi fe ikidir; insanda en büyük ürün budur."
+    },
+    "Bu doğrusal olmama dış tüy hücrelerine bağlıdır; hasarda ürün azalır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D123",
+ "kaynak_baslik": "DPOAE"
+}

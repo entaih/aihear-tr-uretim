@@ -1,0 +1,835 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D113_Odyometre_Kalibrasyonu_TR",
+ "kapak": {
+  "ust": "DERS 113",
+  "baslik": "Odyometre<br>*kalibrasyonu*",
+  "alt": "Standartlar, kuplör ve kontrol düzeyleri",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Odyometre Kalibrasyonu Neden ve Nasıl Yapılır? | Ders 113 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyometre kalibrasyonu, kulaklık, vibratör ve hoparlörün ürettiği sesin ISO 389 ve IEC 60645 gibi standartlarla uyumlu olduğunu doğrular. Bu derste RETSPL kavramını, yapay kulak, kuplör ve ses düzeyi ölçerin görevini, ölçülen özellikleri ve günlük, periyodik ve kapsamlı kalibrasyon düzeylerini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ISO 389 serisi, Acoustics: Reference zero for the calibration of audiometric equipment; IEC 60645-1, Electroacoustics: Audiometric equipment, Part 1; ANSI/ASA S3.6, Specification for Audiometers; IEC 60318 serisi, Simulators of human head and ear; ISO 8253-1, Acoustics: Audiometric test methods, Part 1; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kalibrasyon",
+   "odyometri"
+  ],
+  "etiketler": [
+   "odyometre kalibrasyonu",
+   "kalibrasyon",
+   "RETSPL",
+   "yapay kulak",
+   "kuplör",
+   "ses düzeyi ölçer",
+   "ISO 389",
+   "IEC 60645",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 113",
+   "baslik": "Odyometre *kalibrasyonu*",
+   "alt": "Neden gerekli, nasıl yapılır?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyometre kalibrasyonunun neden gerekli olduğunu, hangi standartlara dayandığını ve nasıl yapıldığını öğreneceğiz.",
+    "Yapay kulak, kuplör ve ses düzeyi ölçerin görevini ve kalibrasyonun üç düzeyini konuşacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden?",
+   "baslik": "Kalibrasyon *neden* gerekli?",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Doğru eşik",
+     "metin": "Yazan değer gerçek mi?",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Yıpranma",
+     "metin": "Düşme, kablo, parça",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sistematik hata",
+     "metin": "Bütün hastalar etkilenir",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Karşılaştırma",
+     "metin": "Klinikler ve yıllar arası",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Odyometrenin ekranında kırk desibel HL yazıyorsa, kulaklığın gerçekten o düzeyi üretmesi gerekir.",
+    "Kalibrasyon, cihazın ürettiği sesin standart değerlerle uyumunu ölçmek ve gerekirse düzeltmektir.",
+    "Kulaklıklar düşebilir, kablolar yıpranabilir ve elektronik parçalar zamanla değişebilir.",
+    "Bu küçük değişiklikler fark edilmezse bütün hastaların eşikleri sistematik olarak yanlış çıkar.",
+    "Aynı hastanın farklı kliniklerdeki ya da yıllar içindeki sonuçlarını karşılaştırabilmek de kalibrasyona bağlıdır.",
+    "Bu yüzden kalibrasyon hem klinik doğruluğun hem de mesleki sorumluluğun bir parçasıdır."
+   ]
+  },
+  {
+   "id": "standartlar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden?",
+   "baslik": "Temel *standartlar*",
+   "sutunlar": [
+    "Standart",
+    "Konu"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "ISO 389 serisi",
+      "Referans sıfır düzeyleri"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "IEC 60645-1",
+      "Odyometre özellikleri"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "ANSI S3.6",
+      "ABD odyometre standardı"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "IEC 60318 serisi",
+      "Kulak simülatörleri, kuplörler"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "ISO 8253-1",
+      "Test yöntemi, kontroller"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kalibrasyon, uluslararası standartlarda tanımlanan değerlere göre yapılır.",
+    {
+     "yazi": "ISO 389 serisi, her kulaklık ve frekans için sıfır desibel HL'nin karşılığı olan referans değerleri verir.",
+     "ses": "İso üç yüz seksen dokuz serisi, her kulaklık ve frekans için sıfır desibel HL'nin karşılığı olan referans değerleri verir."
+    },
+    {
+     "yazi": "IEC 60645-1, odyometrenin frekans, düzey ve bozulma gibi teknik özelliklerini tanımlar.",
+     "ses": "ı e ce altmış bin altı yüz kırk beş bir, odyometrenin frekans, düzey ve bozulma gibi teknik özelliklerini tanımlar."
+    },
+    {
+     "yazi": "ABD'de aynı konuları ANSI S3.6 standardı düzenler.",
+     "ses": "Amerika Birleşik Devletlerinde aynı konuları ansi es üç nokta altı standardı düzenler."
+    },
+    {
+     "yazi": "IEC 60318 serisi, ölçümde kullanılan kulak simülatörlerini ve kuplörleri tanımlar.",
+     "ses": "ı e ce altmış bin üç yüz on sekiz serisi, ölçümde kullanılan kulak simülatörlerini ve kuplörleri tanımlar."
+    },
+    {
+     "yazi": "ISO 8253-1 ise test yöntemini ve cihazın hangi aralıklarla kontrol edileceğini ele alır.",
+     "ses": "İso sekiz bin iki yüz elli üç bir ise test yöntemini ve cihazın hangi aralıklarla kontrol edileceğini ele alır."
+    }
+   ]
+  },
+  {
+   "id": "retspl",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ölçüm düzeneği",
+   "baslik": "Referans sıfır: *RETSPL*",
+   "maddeler": [
+    {
+     "metin": "0 dB HL: _ortalama normal eşik_",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Karşılığı: _RETSPL_ (dB SPL)",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "TDH-39, 1000 Hz: _yaklaşık 7 dB SPL_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kemik yolu: _RETFL_ (kuvvet)",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 200,
+      "max": 9000,
+      "log": true,
+      "hz": true,
+      "isaretler": [
+       250,
+       500,
+       1000,
+       2000,
+       4000,
+       8000
+      ],
+      "ad": "Frekans (Hz)"
+     },
+     "y": {
+      "min": 0,
+      "max": 30,
+      "adim": 10,
+      "ad": "0 dB HL (dB SPL)"
+     },
+     "seriler": [
+      {
+       "ad": "retspl",
+       "noktalar": [
+        [
+         250,
+         25.5
+        ],
+        [
+         500,
+         11.5
+        ],
+        [
+         1000,
+         7
+        ],
+        [
+         2000,
+         9
+        ],
+        [
+         4000,
+         9.5
+        ],
+        [
+         8000,
+         13
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "yumusak": true,
+       "etiket": "TDH-39",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Önceki derslerden hatırlayalım: sıfır desibel HL, normal işiten genç yetişkinlerin ortalama eşiğidir.",
+    "Bu eşiğin her frekansta karşılık geldiği ses basınç düzeyine referans eşdeğer eşik ses basınç düzeyi, kısaca RETSPL denir.",
+    "Örneğin TDH-39 kulaklıkta bin hertzde sıfır desibel HL, yaklaşık yedi desibel SPL'ye karşılık gelir.",
+    "Kemik vibratöründe ses basıncı değil kuvvet ölçülür; buna referans eşdeğer eşik kuvvet düzeyi, kısaca RETFL denir.",
+    "Kalibrasyonda amaç, odyometrenin her ayarda bu referans değerlerin üzerine doğru miktarı eklediğini doğrulamaktır.",
+    "Referans değerler transdüsere ve ölçüm düzeneğine bağlı olduğu için kullanılan kulaklığa ait tablo seçilmelidir."
+   ]
+  },
+  {
+   "id": "yapay_kulak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ölçüm düzeneği",
+   "baslik": "Yapay kulak ve *kuplör*",
+   "cizim": "kuplor",
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "bosluk",
+     "cumle": 3
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 5
+    },
+    {
+     "parca": "olcum_mikrofonu",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "Kuplöre yerleşir",
+     "cumle": 1
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Yapay mastoidde ölçülür",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yapay kulak: kulağı taklit eder",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kuplör: 6 ml ya da 2 ml",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Okunan değer: dB SPL",
+     "cumle": 6,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "Kulaklığın ürettiği sesi ölçmek için insan kulağının yerine geçen bir düzenek kullanılır.",
+    "Yapay kulak (artificial ear), kulaklığın kapattığı kulak hacmini ve akustik özelliklerini taklit eden bir ölçüm boşluğudur.",
+    "Daha basit, sert duvarlı ve belirli hacimli ölçüm boşluklarına kuplör (coupler) denir.",
+    "Kulak üstü kulaklıklar için yaygın bir örnek altı mililitrelik kuplördür.",
+    "Kulak içi insert kulaklıklar için iki mililitrelik kuplör ya da tıkalı kulak simülatörü kullanılır.",
+    "Kemik vibratörü ise insan başını taklit eden yapay mastoid (artificial mastoid) üzerinde ölçülür.",
+    "Kuplörün içindeki hassas mikrofon sesi ses düzeyi ölçere iletir ve düzey desibel SPL olarak okunur."
+   ],
+   "ayar": {
+    "mod": "kalibrasyon",
+    "goster": {
+     "yapay_mastoid": 5
+    }
+   }
+  },
+  {
+   "id": "olcer",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ölçüm düzeneği",
+   "baslik": "Ses düzeyi *ölçer*",
+   "maddeler": [
+    {
+     "metin": "_Ses düzeyi ölçer_: sinyali dB SPL'ye çevirir",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Genellikle _sınıf 1_ cihaz",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Oktav filtreleri_: gürültü ölçümü",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Önce _akustik kalibratörle_ kontrol",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KALİBRATÖR",
+    "metin": "1000 Hz'de *94 dB SPL* gibi sabit referans",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Ses düzeyi ölçer (sound level meter), mikrofondan gelen sinyali ses basınç düzeyine çeviren ölçüm cihazıdır.",
+    {
+     "yazi": "Kalibrasyonda genellikle IEC 61672 standardındaki en yüksek doğruluk sınıfı olan sınıf bir cihaz kullanılır.",
+     "ses": "Kalibrasyonda genellikle ı e ce altmış bir bin altı yüz yetmiş iki standardındaki en yüksek doğruluk sınıfı olan sınıf bir cihaz kullanılır."
+    },
+    "Oktav ya da üçte bir oktav filtreleri, gürültü sinyallerinin ve ortam gürültüsünün ölçümünde gerekir.",
+    "Ölçümden önce ses düzeyi ölçerin kendisi, bilinen düzeyde ses üreten bir akustik kalibratörle kontrol edilir.",
+    "Örneğin akustik kalibratör bin hertzde doksan dört desibel SPL gibi sabit bir referans ses üretir.",
+    "Kalibratör, mikrofon ve ses düzeyi ölçer de düzenli olarak yetkili bir laboratuvarda doğrulanır."
+   ]
+  },
+  {
+   "id": "neler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ne ölçülür?",
+   "baslik": "Kalibrasyonda *neler* ölçülür?",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Çıkış düzeyi",
+     "metin": "Her frekans, her transdüser",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frekans",
+     "metin": "Ton doğru frekansta mı?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bozulma",
+     "metin": "Harmonikler düşük olmalı",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Zayıflatıcı",
+     "metin": "Adımlar doğrusal mı?",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Maskeleme gürültüsü",
+     "metin": "Bant ve düzey",
+     "cumle": 5
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Zamanlama",
+     "metin": "Açılma, kapanma, darbe",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Kapsamlı bir kalibrasyonda önce her frekansta ve her transdüserde çıkış düzeyi ölçülür.",
+    "Standartlar bu düzey için genellikle artı eksi üç desibel, yüksek frekanslarda ise biraz daha geniş bir tolerans tanır.",
+    "Frekans doğruluğu kontrol edilir; bin hertz yazan ton gerçekten bin hertz civarında olmalıdır.",
+    "Tonun saflığı, yani harmonik bozulmanın düşük olduğu doğrulanır.",
+    "Zayıflatıcının, yani düzey ayarının doğrusal çalıştığı kontrol edilir: beş desibellik her adım gerçekten beş desibel olmalıdır.",
+    "Maskeleme gürültülerinin bant genişliği ve düzeyi de ölçülür.",
+    "Tonun açılma ve kapanma süreleri ile darbeli tonun zamanlaması da standartla karşılaştırılır."
+   ]
+  },
+  {
+   "id": "duzeyler",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ne ölçülür?",
+   "baslik": "Kalibrasyonun *üç düzeyi*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Günlük kontrol",
+     "metin": "Dinleme ve gözle",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Periyodik ölçüm",
+     "metin": "Temel akustik ölçümler",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kapsamlı kalibrasyon",
+     "metin": "Tüm özellikler",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kalibrasyon tek bir işlem değil, üç düzeyde düşünülen bir süreçtir.",
+    "Birinci düzey, her gün test öncesinde yapılan dinleme ve gözle kontroldür; bunu bir sonraki derste ayrıntılı göreceğiz.",
+    "İkinci düzey periyodik akustik kontrollerdir; çıkış düzeyleri ve temel özellikler ölçüm cihazlarıyla kontrol edilir.",
+    "Bu ara kontroller, cihazın kullanım yoğunluğuna göre yıl içinde birkaç kez yapılabilir.",
+    "Üçüncü düzey, bütün teknik özelliklerin standartla karşılaştırıldığı kapsamlı kalibrasyondur.",
+    "Pek çok klinikte kapsamlı kalibrasyon yılda en az bir kez ve her onarımdan sonra yapılır.",
+    {
+     "yazi": "ISO 8253-1 de kontrolleri A, B ve C aşamaları olarak tanımlar; önerilen aralıklar standartlar arasında farklıdır.",
+     "ses": "İso sekiz bin iki yüz elli üç bir de kontrolleri a, be ve ce aşamaları olarak tanımlar; önerilen aralıklar standartlar arasında farklıdır."
+    }
+   ]
+  },
+  {
+   "id": "kemik_serbest",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Diğer kanallar",
+   "baslik": "Kemik yolu ve *serbest alan*",
+   "sol": {
+    "ust": "Kemik vibratörü",
+    "maddeler": [
+     {
+      "metin": "Yapay mastoidde ölçülür",
+      "cumle": 0
+     },
+     {
+      "metin": "Birim: kuvvet düzeyi",
+      "cumle": 1
+     },
+     {
+      "metin": "Baskı kuvveti önemli",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Serbest alan",
+    "maddeler": [
+     {
+      "metin": "Hastanın baş konumunda ölçüm",
+      "cumle": 3
+     },
+     {
+      "metin": "Hasta odada yokken",
+      "cumle": 4
+     },
+     {
+      "metin": "Modülasyonlu ton, dar bant",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Kemik vibratörünün çıkışı yapay mastoid üzerinde ölçülür.",
+    "Burada ses basıncı değil, vibratörün uyguladığı titreşim kuvveti ölçülür; referans RETFL değerleridir.",
+    "Vibratörü başa bastıran bandın kuvveti de önemlidir; standartlarda belirli bir baskı kuvveti tanımlanır.",
+    "Serbest alan kalibrasyonunda ölçüm mikrofonu, hasta başının bulunacağı noktaya yerleştirilir.",
+    {
+     "yazi": "Bu ölçüm hasta odada yokken yapılır; referans değerler ISO 389-7 gibi standartlarda verilir.",
+     "ses": "Bu ölçüm hasta odada yokken yapılır; referans değerler iso üç yüz seksen dokuz yedi gibi standartlarda verilir."
+    },
+    "Hoparlör testlerinde odada duran dalgaları önlemek için modülasyonlu ton ya da dar bant gürültü kullanılır."
+   ]
+  },
+  {
+   "id": "hata",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Diğer kanallar",
+   "baslik": "Kayık kalibrasyonun *bedeli*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 9000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ],
+     "ad": "Frekans (Hz)"
+    },
+    "y": {
+     "min": -10,
+     "max": 40,
+     "adim": 10,
+     "ters": true,
+     "ad": "İşitme düzeyi (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "gercek",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "gerçek eşik",
+      "cumle": 1
+     },
+     {
+      "ad": "olculen",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "kayık cihazla",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "centik",
+      "x": [
+       3000,
+       6000
+      ],
+      "renk": "sari",
+      "etiket": "sahte çentik",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "4000 Hz çıkışı 10 dB düşük",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Sahte çentik",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Erken yakalamak: düzenli kontrol",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Kalibrasyon hatasının sonucunu bir örnekle görelim.",
+    "Mavi çizgi, normal işiten bir kişinin gerçek eşiklerini gösteriyor.",
+    "Bu cihazda dört bin hertzde kulaklığın çıkışı on desibel düşük kalmış; kişinin eşiği on desibel daha kötü ölçülüyor.",
+    "Sonuç, gürültüye bağlı kaybı düşündüren sahte bir dört bin hertz çentiğidir.",
+    "Aynı hata o cihazla test edilen bütün hastalarda tekrarlanır ve fark edilmesi zordur.",
+    "Günlük kontroller ve düzenli ölçümlü kalibrasyon bu tür hataları erken yakalar."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Diğer kanallar",
+   "baslik": "Kalibrasyonu *kim* yapar?",
+   "maddeler": [
+    {
+     "metin": "Teknik servis ya da _laboratuvar_",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Ölçüm cihazları da _izlenebilir_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Klinisyen: _günlük kontrol_",
+     "cumle": 2,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Şüphede: _cihazı kullanma_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 0
+     },
+     {
+      "parca": "kulaklik",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Kapsamlı kalibrasyon, gerekli ölçüm donanımına sahip yetkin bir teknik servis ya da laboratuvar tarafından yapılır.",
+    "Kullanılan ölçüm cihazlarının kendileri de izlenebilir bir kalibrasyon zincirine bağlı olmalıdır.",
+    "Odyolog ve odyometristin görevi günlük kontrolleri yapmak ve olağan dışı bir durumu fark etmektir.",
+    "Kalibrasyon raporunu okuyabilmek ve değerlerin tolerans içinde olduğunu görebilmek de bu sorumluluğun parçasıdır.",
+    "Şüpheli bir bulguda cihaz kullanımdan çekilir ve servis çağrılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kulaklık ve vibratör odyometreyle birlikte kalibre edilir. Kulaklığı değiştirirseniz ölçümlü kontrol yapılmadan hasta testine başlamayın.",
+   "cumle": 0,
+   "cumleler": [
+    "Pratik bir ipucu: kalibrasyon odyometre ile ona bağlı kulaklık ve vibratör için birlikte yapılır.",
+    "Kulaklıkları başka bir cihazınkiyle değiştirmek ya da yeni bir kulaklık takmak kalibrasyonu geçersiz kılabilir.",
+    "Böyle bir değişiklikten sonra ölçümlü kontrol yapılmadan hasta testine başlamayın.",
+    "Kulaklık ve vibratörün seri numarasını kalibrasyon belgesinde kontrol etmek iyi bir alışkanlıktır."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kayıt",
+   "baslik": "Kalibrasyon *kaydı*",
+   "maddeler": [
+    {
+     "metin": "Tarih ve _ölçümü yapan_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Ölçülen ve _hedef_ değerler",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Cihazda _kalibrasyon etiketi_",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Süresi geçmiş cihazla _test yok_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KAYIT",
+    "metin": "Belgelenmeyen kalibrasyon *yapılmamış* sayılır",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Her kalibrasyonun sonucu yazılı bir belgeyle kaydedilir.",
+    "Belgede tarih, ölçümü yapan kişi ya da kurum, kullanılan ölçüm cihazları ve onların kalibrasyon tarihleri yer alır.",
+    "Ölçülen değerler, standarttaki hedef değerler ve yapılan düzeltmeler tablo halinde yazılır.",
+    "Cihazın üzerine son kalibrasyon tarihini gösteren bir etiket yapıştırmak yaygın bir uygulamadır.",
+    "Kalibrasyon süresi geçmiş bir cihazla ölçüm yapılmamalıdır.",
+    "Bu kayıtlar, kalite denetimlerinde ve olası bir sorgulamada kliniğin güvencesidir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kalibrasyon: _standarda_ göre doğrulama",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Yapay kulak, _kuplör_, ses düzeyi ölçer",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Düzey, frekans, bozulma, _zayıflatıcı_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Günlük, periyodik, _yıllık kapsamlı_",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Kalibrasyon, odyometrenin ürettiği sesi ISO 389 ve IEC 60645 gibi standartlara göre doğrulamaktır.",
+     "ses": "Kalibrasyon, odyometrenin ürettiği sesi iso üç yüz seksen dokuz ve ı e ce altmış bin altı yüz kırk beş gibi standartlara göre doğrulamaktır."
+    },
+    "Kulaklık çıkışı yapay kulak ya da kuplör içinde, ses düzeyi ölçerle desibel SPL olarak ölçülür.",
+    "Çıkış düzeyi, frekans doğruluğu, bozulma ve zayıflatıcının doğrusallığı kontrol edilir.",
+    "Günlük dinleme, periyodik ölçüm ve genellikle yılda bir kapsamlı kalibrasyon birlikte uygulanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Kulak üstü kulaklığın çıkışı kalibrasyonda ne üzerinde ölçülür?",
+   "secenekler": [
+    "Yapay mastoid",
+    "Yapay kulak ya da kuplör",
+    "Hastanın kulağı",
+    "Serbest alan mikrofonu"
+   ],
+   "dogru": 1,
+   "aciklama": "Kulaklık, kulağı taklit eden _yapay kulak ya da kuplöre_ yerleştirilir ve düzey dB SPL olarak okunur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Kulak üstü bir kulaklığın çıkış düzeyi kalibrasyonda ne üzerinde ölçülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yapay kulak ya da kuplör.",
+    "Yapay mastoid kemik vibratörü içindir; kulaklık ise kulağı taklit eden bir ölçüm boşluğuna yerleştirilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Günlük *biyolojik* kontrol",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste her sabah beş dakikada yapılan günlük biyolojik kontrolü adım adım göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

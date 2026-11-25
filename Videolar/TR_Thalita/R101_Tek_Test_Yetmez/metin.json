@@ -1,0 +1,109 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R101_Tek_Test_Yetmez_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #101",
+  "baslik": "Tek test *yetmez*",
+  "alt": "Her test işitme yolunun bir bölümüne bakar",
+  "cizim": "kulak_kesit",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Neden tek bir işitme testi yetmez? #shorts",
+  "aciklama": "Odyolojide tek bir testle sonuca varılmaz: timpanometri orta kulağı, otoakustik emisyon kokleayı, işitsel beyin sapı yanıtı sinir yolunu değerlendirir. Jerger ve Hayes'in 1976'da tanımladığı çapraz kontrol ilkesine göre bir sonuç, bağımsız başka bir testle doğrulanmadan kesin kabul edilmez.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitmetesti",
+   "bilgi"
+  ],
+  "etiketler": [
+   "test bataryası",
+   "çapraz kontrol ilkesi",
+   "timpanometri",
+   "otoakustik emisyon",
+   "ABR",
+   "Jerger",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Neden tek bir işitme testi yetmez?",
+  "bilgiler": [
+   "Her test işitme yolunun farklı bir bölümüne bakar.",
+   "Timpanometri orta kulağı, OAE kokleayı, ABR sinir yolunu değerlendirir.",
+   "Çapraz kontrol ilkesi (Jerger ve Hayes, 1976): bir sonuç başka testle doğrulanır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitmetesti",
+   "bilgi"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #101",
+   "metin": "Neden tek bir işitme testi *yetmez?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Neden tek bir işitme testi yetmez?"
+   ]
+  },
+  {
+   "id": "zincir",
+   "tur": "zincir",
+   "baslik": "Her test *bir bölüme* bakar",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Orta kulak",
+     "tr": "timpanometri",
+     "cumle": 1
+    },
+    {
+     "ad": "Koklea",
+     "tr": "OAE",
+     "cumle": 1,
+     "gecikme": 1.3
+    },
+    {
+     "ad": "Sinir yolu",
+     "tr": "ABR",
+     "cumle": 1,
+     "gecikme": 2.4
+    }
+   ],
+   "alt": "_Çapraz kontrol_: testler birbirini doğrular.",
+   "alt_cumle": 2,
+   "cumleler": [
+    "İşitme sistemi, dış kulaktan kortekse uzanan bir zincirdir.",
+    "Timpanometri orta kulağı, OAE kokleayı, ABR ise sinir yolunu değerlendirir.",
+    {
+     "yazi": "1976'da Jerger ve Hayes çapraz kontrol ilkesini tanımladı.",
+     "ses": "Bin dokuz yüz yetmiş altıda Cerger ve Heyz çapraz kontrol ilkesini tanımladı."
+    },
+    "Bir sonuç, bağımsız başka bir testle doğrulanmadan kesin kabul edilmez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D008",
+ "kaynak_baslik": "Odyolojik test bataryası"
+}

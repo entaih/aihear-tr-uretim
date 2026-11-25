@@ -1,0 +1,922 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D229_Ototoksik_Ilaclar_TR",
+ "kapak": {
+  "ust": "DERS 229",
+  "baslik": "Ototoksik<br>*ilaçlar*",
+  "alt": "Sisplatin, aminoglikozidler ve diğerleri",
+  "cizim": "koklea_kesit",
+  "vurgula": [
+   "dis_tuy_hucreleri",
+   "stria_vaskularis"
+  ]
+ },
+ "youtube": {
+  "baslik": "Ototoksik ilaçlar: aminoglikozidler, sisplatin ve diğerleri | Ders 229 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Hangi ilaçlar kulağa zarar verir ve nasıl? Bu derste sisplatin ve aminoglikozidlere bağlı kalıcı işitme kaybını, aminoglikozidlerin denge organına etkisini, MT-RNR1 değişikliğinde aşırı duyarlılığı ve kıvrım diüretikleri ile salisilatların çoğunlukla geri dönüşlü etkilerini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Campbell, Pharmacology and Ototoxicity for Audiologists; American Academy of Audiology (2009), Position Statement and Clinical Practice Guidelines: Ototoxicity Monitoring; McDermott ve ark. (2022), CPIC Guideline for the Use of Aminoglycosides Based on MT-RNR1 Genotype, Clinical Pharmacology and Therapeutics; Brock ve ark. (2018), Sodium thiosulfate for protection from cisplatin-induced hearing loss, New England Journal of Medicine.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ototoksisite",
+   "işitmekaybı"
+  ],
+  "etiketler": [
+   "ototoksisite",
+   "ototoxicity",
+   "ototoksik ilaçlar",
+   "sisplatin",
+   "cisplatin",
+   "aminoglikozid",
+   "aminoglycosides",
+   "MT-RNR1",
+   "kıvrım diüretikleri",
+   "salisilat",
+   "vestibülotoksisite",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 229",
+   "baslik": "Ototoksik *ilaçlar*",
+   "alt": "Sisplatin, aminoglikozidler ve diğerleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste kulağa zarar verebilen başlıca ilaçları, yani sisplatini, aminoglikozidleri ve geri dönüşlü etki yapan ilaçları öğreneceğiz.",
+    "Hangi yapıların etkilendiğini, risk etkenlerini ve bu süreçte odyoloğun rolünü ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ototoksisite",
+   "baslik": "Ototoksisite *nedir?*",
+   "maddeler": [
+    {
+     "metin": "İlaca bağlı iç kulak hasarı",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Koklea: _kokleotoksisite_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Denge organı: _vestibülotoksisite_",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Genellikle iki taraflı, tizden başlar",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kalıcı ya da geri dönüşlü",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "OTOTOKSİSİTE",
+    "metin": "İlaca bağlı *iç kulak* hasarı: koklea, denge organı ya da ikisi",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Ototoksisite (ototoxicity), bir ilacın ya da kimyasalın iç kulağa zarar vermesidir.",
+    "Zarar kokleayı etkiliyorsa kokleotoksisite söz konusudur; sonuç işitme kaybı ve çınlamadır.",
+    "Denge organını etkiliyorsa vestibülotoksisite söz konusudur; sonuç dengesizlik ve görme bulanıklığıdır.",
+    "İlaç kan yoluyla iki kulağa da ulaştığı için kayıp genellikle iki taraflı ve simetriktir; tipik olarak yüksek frekanslardan başlar.",
+    "Çoğu zaman ilk yakınma çınlamadır; kayıp konuşma frekanslarına inene kadar fark edilmeyebilir.",
+    "Bazı ilaçların etkisi kalıcıdır; bazılarınınki ise ilaç kesilince büyük ölçüde geri döner.",
+    "Bu ilaçların çoğu hayat kurtarıcıdır; tedaviye ilişkin her karar hekim ve tedavi ekibine aittir."
+   ]
+  },
+  {
+   "id": "taban",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ototoksisite",
+   "baslik": "Neden önce *tiz* sesler?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 8000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "taban: yüksek frekans",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "tepe: alçak frekans",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Taban hücreleri daha duyarlı",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Hasar tabandan tepeye ilerler",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İlk iz: 8000 Hz üstü",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ototoksik hasarın neden önce yüksek frekanslarda görüldüğüne bakalım.",
+    "Kokleanın tabanı yüksek frekanslara, tepesi alçak frekanslara yanıt verir.",
+    "Tabandaki dış tüy hücreleri, bu ilaçların oluşturduğu oksidatif strese karşı daha duyarlıdır.",
+    "Bu nedenle hasar çoğunlukla tabanda başlar ve zamanla tepeye, yani daha alçak frekanslara doğru ilerler.",
+    "İlk değişiklikler çoğu zaman standart odyogramın üzerinde, 8000 Hz'in de üstündeki genişletilmiş yüksek frekanslarda görülür.",
+    "Bu yüzden izlemde yüksek frekanslara özel önem verilir; bunu bir sonraki derste ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "sisplatin",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sisplatin",
+   "baslik": "Sisplatin",
+   "maddeler": [
+    {
+     "metin": "Platin temelli kemoterapi ilacı",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Çocuk ve yetişkin kanserlerinde",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "İki taraflı, tizden başlayan, _kalıcı_",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Tedavi bittikten sonra ilerleyebilir",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SİSPLATİN",
+    "metin": "Etkisi doza bağlı *birikir* ve tedavi sonrası sürebilir",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Sisplatin (cisplatin), pek çok katı tümörün tedavisinde kullanılan platin temelli bir kemoterapi ilacıdır.",
+    "Testis, baş boyun, akciğer ve yumurtalık kanserleri ile çocukluk çağının bazı tümörleri bunlara örnektir.",
+    "Çocuklarda hepatoblastom, nöroblastom, osteosarkom ve medulloblastom tedavisinde sık kullanılır.",
+    "Sisplatine bağlı işitme kaybı genellikle iki taraflı, yüksek frekanslardan başlayan ve kalıcıdır.",
+    "Sıklığı çalışmaya ve kullanılan ölçüte göre değişir; çocuklarda tedavi görenlerin yaklaşık yarısında ya da daha fazlasında bildirilmiştir.",
+    "Sisplatin koklea dokusunda aylar, hatta yıllar boyunca kalabilir; bu yüzden kayıp tedavi bittikten sonra da ilerleyebilir.",
+    "Benzer bir ilaç olan karboplatin genellikle daha az ototoksiktir; ancak çok yüksek dozlarda o da kayba yol açabilir."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sisplatin",
+   "baslik": "Sisplatin *nereye* zarar verir?",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "dış tüy hücreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "stria_vaskularis",
+     "metin": "stria vascularis",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "spiral ganglion",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Serbest radikal artışı",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Önce dış tüy hücreleri",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "OAE erken azalabilir",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Sisplatin koklea içinde reaktif oksijen türlerinin, yani serbest radikallerin artmasına yol açar.",
+    "En çok etkilenen hücreler, özellikle bazal turdaki dış tüy hücreleridir.",
+    "Stria vascularis da etkilenir; bu yapının, ilacın kokleaya girişinde ve birikiminde rol oynadığı düşünülmektedir.",
+    "Hasar ilerledikçe iç tüy hücreleri ve spiral ganglion nöronları da etkilenebilir.",
+    "Dış tüy hücreleri insanda yeniden oluşmadığı için bu kayıp kalıcıdır.",
+    "Dış tüy hücresi hasarı erken dönemde otoakustik emisyonların azalmasıyla da kendini gösterebilir."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sisplatin",
+   "baslik": "Sisplatinde *risk etkenleri*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Toplam doz",
+     "cumle": 0,
+     "metin": "Birikimli doz arttıkça"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Küçük yaş",
+     "cumle": 1,
+     "metin": "Özellikle beş yaş altı"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Kafaya ışınlama",
+     "cumle": 2,
+     "metin": "Kokleayı içeren alan"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Böbrek işlevi",
+     "cumle": 3,
+     "metin": "İlaç atılımı azalır"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Birlikte ilaçlar",
+     "cumle": 4,
+     "metin": "Diğer ototoksik ilaçlar"
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetik yatkınlık",
+     "cumle": 5,
+     "metin": "Bazı gen varyantları"
+    }
+   ],
+   "cumleler": [
+    "Riski artıran en önemli etken, tedavi boyunca alınan toplam, yani birikimli dozdur.",
+    "Küçük yaş, özellikle beş yaşın altı, daha yüksek riskle ilişkilidir; bu yaş dil gelişimi için de en kritik dönemdir.",
+    "Kokleanın ışın alanında kaldığı kafa bölgesine radyoterapi, sisplatinin etkisini artırır.",
+    "Böbrek işlevi azalmışsa ilaç vücuttan daha yavaş atılır ve iç kulağa daha uzun süre etki eder.",
+    "Aminoglikozid ya da kıvrım diüretiği gibi başka ototoksik ilaçların birlikte kullanılması riski artırır.",
+    "Bazı genetik varyantların da duyarlılığı artırdığı gösterilmiştir; bu konu henüz tam anlaşılmamıştır."
+   ]
+  },
+  {
+   "id": "koruma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sisplatin",
+   "baslik": "Kulağı korumak *mümkün mü?*",
+   "maddeler": [
+    {
+     "metin": "Sodyum tiyosülfat: çocuklarda onaylı",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Sınırlı kullanım alanı",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Zamanlama tümör etkisi için önemli",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Karar onkoloji ekibinin",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ODYOLOĞUN YERİ",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "odyogram",
+      "baslik": "İzlem",
+      "cumle": 4,
+      "metin": "Başlangıç ve seri test"
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Bildirim",
+      "cumle": 4,
+      "metin": "Ekiple hızlı iletişim"
+     }
+    ]
+   },
+   "cumleler": [
+    "ABD'de 2022'de sodyum tiyosülfat, sisplatin alan bazı çocuklarda işitme kaybı riskini azaltmak için onay aldı.",
+    "Onay, yayılmamış katı tümörü olan, bir aylık ve daha büyük çocukları kapsar.",
+    "İlaç sisplatinden belirli bir süre sonra verilir; amaç tümöre karşı etkiyi azaltmadan kulağı korumaktır.",
+    "Çalışmalarda işitme kaybı sıklığı azalmış, ancak tamamen önlenmemiştir; yetişkinlerde kullanım araştırma konusudur.",
+    "Hangi hastada kullanılacağına onkoloji ekibi karar verir; odyoloğun görevi, işitmeyi düzenli ve güvenilir biçimde izlemektir."
+   ]
+  },
+  {
+   "id": "aminoglikozid",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Aminoglikozidler",
+   "baslik": "Aminoglikozid *antibiyotikler*",
+   "maddeler": [
+    {
+     "metin": "Ağır bakteriyel enfeksiyonlarda",
+     "cumle": 0,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Gentamisin, tobramisin, amikasin...",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Bazısı daha çok _denge organını_ etkiler",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Bazısı daha çok _kokleayı_ etkiler",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Etki ilaç kesildikten sonra başlayabilir",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "ampulla",
+      "cumle": 2
+     },
+     {
+      "parca": "koklea",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Aminoglikozidler (aminoglycosides), ağır bakteriyel enfeksiyonlarda, yenidoğan sepsisinde ve kistik fibroziste kullanılan antibiyotiklerdir.",
+    "Gentamisin, tobramisin, amikasin, streptomisin, neomisin ve kanamisin bu gruptadır.",
+    "Gentamisin ve streptomisin daha çok denge organına zarar verme eğilimindedir.",
+    "Amikasin, neomisin ve kanamisin ise daha çok kokleaya zarar verme eğilimindedir; ancak her ilaç iki yapıyı da etkileyebilir.",
+    "Risk; tedavi süresi, toplam doz, böbrek işlevi, önceki kullanım ve kıvrım diüretikleriyle birlikte kullanımla artar.",
+    "Önemli bir özellik: hasar ilaç kesildikten günler ya da haftalar sonra başlayabilir veya ilerleyebilir.",
+    "Bu yüzden izlem tedavi bitince sona ermez."
+   ]
+  },
+  {
+   "id": "giris",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Aminoglikozidler",
+   "baslik": "İlaç tüy hücresine *nasıl girer?*",
+   "cizim": "stereosil_demeti",
+   "ayar": {
+    "iyon": true,
+    "egilme": 0.6,
+    "egilme_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "iyon_kanali",
+     "metin": "dönüşüm kanalı: giriş kapısı",
+     "cumle": 1
+    },
+    {
+     "parca": "stereosil",
+     "metin": "stereosil",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "iyon_kanali",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kanaldan hücre içine giriş",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Serbest radikal ve mitokondri",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Sonuç: tüy hücresi ölümü",
+     "cumle": 3,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Aminoglikozidlerin tüy hücresine girişini bir stereosil demeti üzerinde görelim.",
+    "Stereosillerin uçlarında, ses titreşimiyle açılan mekanoelektriksel dönüşüm kanalları bulunur.",
+    "Endolenften gelen aminoglikozid molekülleri, büyük ölçüde bu kanallardan hücre içine girer.",
+    "Hücre içinde serbest radikallerin artması ve mitokondrinin etkilenmesi, tüy hücresinin ölümüne yol açar.",
+    "Mitokondrinin bu süreçteki rolü, birazdan göreceğimiz genetik duyarlılığı da açıklar."
+   ]
+  },
+  {
+   "id": "vestibulo",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Aminoglikozidler",
+   "baslik": "Sessiz *denge kaybı*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "ampulla",
+     "metin": "ampulla: krista",
+     "cumle": 0
+    },
+    {
+     "parca": "makula",
+     "metin": "maküla",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ampulla",
+     "cumle": 0
+    },
+    {
+     "parca": "makula",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İki taraflı: atak olmayabilir",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Karanlıkta dengesizlik",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Osilopsi: görüntü sıçrar",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Vestibülotoksisitede ampullalardaki ve makülalardaki tüy hücreleri zarar görür.",
+    "Hasar iki tarafta benzer olduğu için çoğu zaman belirgin bir baş dönmesi atağı yaşanmaz.",
+    "Kişi daha çok karanlıkta ve düzgün olmayan zeminde artan dengesizlikten yakınır.",
+    "Baş hareketi sırasında görüntünün sıçraması ya da bulanıklaşması, yani osilopsi, tipik bir yakınmadır.",
+    "Yatağa bağlı hastalarda bu tablo taburculuğa kadar fark edilmeyebilir.",
+    "Değerlendirmede video baş itme testi ve kalorik test gibi testler kullanılır; izlemi ayrı bir derste ele alacağız."
+   ]
+  },
+  {
+   "id": "mtrnr1",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Aminoglikozidler",
+   "baslik": "Genetik *aşırı duyarlılık*",
+   "maddeler": [
+    {
+     "metin": "Mitokondriyal _MT-RNR1_ geni",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Örnek: _m.1555A&gt;G_ değişikliği",
+     "cumle": 1,
+     "ikon": "dna"
+    },
+    {
+     "metin": "Tek doz bile ağır kayıp yapabilir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Anneden geçer",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Kılavuz: taşıyıcıda kaçınmayı önerir",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "AİLE ÖYKÜSÜ",
+    "metin": "Anne tarafında *antibiyotik sonrası* işitme kaybı var mı?",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "Bazı kişilerde aminoglikozide aşırı duyarlılık, mitokondriyal MT-RNR1 genindeki değişikliklerden kaynaklanır.",
+     "ses": "Bazı kişilerde aminoglikozide aşırı duyarlılık, mitokondriyal bir gendeki değişikliklerden kaynaklanır."
+    },
+    {
+     "yazi": "En iyi bilinen örnek, bu genin 1555. konumundaki değişikliktir; genetik dersinde de görmüştük.",
+     "ses": "En iyi bilinen örnek, bu genin bin beş yüz elli beşinci konumundaki değişikliktir; genetik dersinde de görmüştük."
+    },
+    "Bu değişiklik mitokondri ribozomunu bakteri ribozomuna benzetir; ilaç bu yüzden insan hücresine de bağlanır.",
+    "Sonuçta olağan dozlar, hatta tek bir doz bile ağır ve kalıcı işitme kaybına yol açabilir.",
+    "Mitokondriyal kalıtım nedeniyle değişiklik anneden çocuklara geçer; bazı toplumlarda yaklaşık beş yüz kişide bir görüldüğü bildirilmiştir.",
+    "Uluslararası bir farmakogenetik kılavuz, taşıyıcılarda bu ilaçlardan kaçınılmasını önerir.",
+    "İstisna, enfeksiyonun çok ağır olduğu ve güvenli başka bir seçeneğin bulunmadığı durumlardır; bu karar hekime aittir.",
+    "Bazı ülkelerde yenidoğan yoğun bakımında bu değişikliği hızla saptayan genetik testler denenmektedir."
+   ]
+  },
+  {
+   "id": "donuslu",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Diğer ilaçlar",
+   "baslik": "Çoğunlukla *geri dönüşlü* etkiler",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Kıvrım diüretikleri",
+     "cumle": 0,
+     "metin": "Yüksek doz, hızlı damar içi"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Salisilatlar",
+     "cumle": 2,
+     "metin": "Yüksek doz aspirin"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Kinin",
+     "cumle": 4,
+     "metin": "Sıtma ilacı"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Bazı makrolidler",
+     "cumle": 5,
+     "metin": "Yüksek doz damar içi"
+    }
+   ],
+   "cumleler": [
+    "Kıvrım diüretikleri (loop diuretics), yani furosemid gibi idrar söktürücüler, stria vascularis işlevini geçici olarak bozabilir.",
+    "Risk yüksek dozda, hızlı damar içi verilişte ve böbrek yetmezliğinde artar; aminoglikozidlerle birlikte hasarı belirgin artırabilir.",
+    "Salisilatlar (salicylates), yani yüksek doz aspirin, çınlama ve genellikle hafif ile orta derece, düz bir kayıp yapabilir.",
+    "Bu etki ilaç kesildikten sonra çoğunlukla birkaç gün içinde düzelir.",
+    "Sıtma tedavisinde kullanılan kinin de çınlama ve işitme kaybı yapabilir; etki genellikle geri dönüşlüdür.",
+    "Eritromisin gibi bazı makrolid antibiyotikler yüksek doz damar içi kullanımda nadiren geçici işitme kaybı yapabilir.",
+    "Geri dönüşlü denmesi, bu etkilerin önemsiz olduğu anlamına gelmez; yakınma her zaman hekime bildirilir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Diğer ilaçlar",
+   "baslik": "Örnek: *ototoksik* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ bölge",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       25,
+       40,
+       55,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       30,
+       45,
+       55,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sisplatin tedavisi sonrası bir çocuğun odyogramını görüyoruz.",
+    "İki kulakta da eşikler 2000 Hz'e kadar normal; 3000 Hz'den sonra tize doğru giderek kötüleşiyor.",
+    "Kayıp iki taraflı ve simetrik; hasarın kokleanın tabanından başladığını gösteren tipik bir görünüm.",
+    "Bu düzeyde bir kayıp bile s, ş ve f gibi tiz ünsüzlerin duyulmasını zorlaştırır; çocukta dil ve okul başarısını etkileyebilir.",
+    "Gürültüye bağlı kayıptan farklı olarak burada 8000 Hz'de toparlanma görülmez.",
+    "Değerler örnektir; kaybın derecelendirilmesi ve izlemi sonraki iki dersin konusudur."
+   ]
+  },
+  {
+   "id": "ozet_tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Diğer ilaçlar",
+   "baslik": "İlaç grupları: *özet*",
+   "sutunlar": [
+    "İlaç grubu",
+    "Başlıca hedef",
+    "Kalıcılık"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sisplatin",
+      "Dış tüy hücresi, stria",
+      "Genellikle kalıcı"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Aminoglikozidler",
+      "Tüy hücreleri, vestibül",
+      "Genellikle kalıcı"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Kıvrım diüretikleri",
+      "Stria vascularis",
+      "Çoğunlukla geri döner"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Salisilatlar",
+      "Dış tüy hücresi işlevi",
+      "Geri döner"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Kinin",
+      "Koklea",
+      "Çoğunlukla geri döner"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tabloda gördüğümüz ilaç gruplarını özetleyelim: sisplatin dış tüy hücrelerini ve striayı etkiler, kaybı genellikle kalıcıdır.",
+    "Aminoglikozidler kokleadaki ve denge organındaki tüy hücrelerini etkiler; kayıp genellikle kalıcıdır.",
+    "Kıvrım diüretiklerinin etkisi daha çok stria vascularis üzerindedir ve çoğunlukla geri döner.",
+    "Salisilatlar dış tüy hücrelerinin işlevini geçici olarak bozar; ilaç kesilince etki düzelir.",
+    "Kininin etkisi de çoğunlukla geri dönüşlüdür.",
+    "Bu liste tam değildir; başka ilaçlar ve bazı kimyasallar da ototoksik olabilir, bu yüzden ilaç öyküsü her zaman alınır."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Odyoloğun rolü",
+   "baslik": "Odyoloğun *rolü*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Öykü",
+     "cumle": 0,
+     "metin": "İlaç ve aile öyküsü"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Başlangıç testi",
+     "cumle": 1,
+     "metin": "Tedavi başlamadan"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Seri izlem",
+     "cumle": 2,
+     "metin": "Tedavi boyunca ve sonra"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Ekiple iletişim",
+     "cumle": 3,
+     "metin": "Değişikliği hızla bildir"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Rehabilitasyon",
+     "cumle": 5,
+     "metin": "Cihaz ve danışmanlık"
+    }
+   ],
+   "cumleler": [
+    "Odyoloğun ilk görevi ayrıntılı bir ilaç ve aile öyküsü almaktır.",
+    "Ototoksik tedavi başlamadan önce başlangıç işitme değerlendirmesi yapılır.",
+    "Tedavi boyunca ve sonrasında seri testlerle işitme izlenir.",
+    "Anlamlı bir değişiklik saptanırsa tedavi ekibine hızla ve açık bir dille bildirilir.",
+    "İlacın değiştirilmesi, dozun ayarlanması ya da sürdürülmesi kararı ise yalnız hekime aittir; odyolog bu konuda öneride bulunmaz.",
+    "Kayıp geliştiğinde işitme cihazı ve iletişim danışmanlığı ile rehabilitasyon planlanır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ototoksik tedavi alan hastalara, tedavi süresince ve sonrasındaki aylarda yüksek sesten kaçınmalarını önerin. Gürültü ve bu ilaçlar iç kulak hasarını birbirine ekleyebilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: ototoksik tedavi alan hastalara tedavi süresince ve sonrasındaki aylarda yüksek sesten kaçınmalarını önerin.",
+    "Hayvan çalışmaları, gürültü ile sisplatin ya da aminoglikozidlerin iç kulak hasarını birbirine ekleyebildiğini göstermiştir.",
+    "Özellikle gürültülü bir işte çalışan ya da yüksek sesle müzik dinleyen gençlere bu bilgiyi açıkça verin.",
+    "Bu öneri ilaç tedavisine karışmaz; tamamen kulağı koruyan, güvenli bir yaşam tarzı önerisidir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Hasar tabanda, yüksek frekansta başlar",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sisplatin: birikimli, kalıcı kayıp",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Aminoglikozid: koklea, denge, genetik risk",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Diüretik ve salisilat: çoğunlukla geri döner",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Ototoksik hasar genellikle iki taraflıdır ve kokleanın tabanında, yani yüksek frekanslarda başlar.",
+    "Sisplatin dozla birikerek kalıcı kayıp yapar; küçük yaş, kafaya ışınlama ve böbrek işlevi riski artırır.",
+    "Aminoglikozidler kokleaya ve denge organına zarar verebilir; mitokondriyal gen değişikliği taşıyanlarda tek doz bile tehlikelidir.",
+    "Kıvrım diüretikleri, salisilatlar ve kinin çoğunlukla geri dönüşlü etki yapar; tedavi kararları her zaman hekime aittir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Aminoglikozide bağlı ağır kayba yatkınlık yapan genetik değişiklik nasıl kalıtılır?",
+   "secenekler": [
+    "Otozomal dominant",
+    "Otozomal resesif",
+    "X'e bağlı",
+    "Anneden, mitokondriyal"
+   ],
+   "dogru": 3,
+   "aciklama": "MT-RNR1 mitokondriyal bir gendir; değişiklik _anneden_ geçer.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: aminoglikozide bağlı ağır işitme kaybına yatkınlık yapan genetik değişiklik nasıl kalıtılır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap D: anneden, mitokondriyal kalıtımla.",
+    "Değişiklik mitokondriyal bir gende bulunur; bu yüzden anne tarafındaki akrabaların ilaç sonrası işitme kaybı öyküsü özellikle önemlidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ototoksisite izlemi ve *ASHA ölçütleri*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste izlem planını, Amerikan Konuşma Dil İşitme Derneği ölçütlerini ve genişletilmiş yüksek frekans odyometrisini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

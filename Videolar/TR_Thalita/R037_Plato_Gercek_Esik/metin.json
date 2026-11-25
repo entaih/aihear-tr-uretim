@@ -1,0 +1,157 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R037_Plato_Gercek_Esik_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #37",
+  "baslik": "*Plato*: gerçek eşik",
+  "alt": "Maskesiz 50, maskeli 70 dB HL",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      50,
+      55,
+      60,
+      60
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      65,
+      65,
+      70,
+      70,
+      75,
+      75
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Maskesiz ölçülen eşik ne kadar yanıltabilir? #shorts",
+  "aciklama": "Bu örnekte sol kulağın maskesiz eşiği 50 dB, plato yöntemiyle bulunan gerçek eşiği ise 70 dB HL'dir. Gürültü artırıldığı halde eşiğin sabit kaldığı aralığa plato denir; orada ölçülen eşik test kulağına aittir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ],
+  "etiketler": [
+   "plato yöntemi",
+   "maskeleme",
+   "Hood yöntemi",
+   "aşırı maskeleme",
+   "yetersiz maskeleme",
+   "odyometri",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Maskesiz ölçülen eşik ne kadar yanıltabilir?",
+  "bilgiler": [
+   "Örnekte maskesiz eşik 50 dB, gerçek eşik 70 dB HL.",
+   "Gürültü artsa da eşik değişmiyorsa plato bulunmuştur.",
+   "Gürültü çok fazlaysa test kulağına geçer: aşırı maskeleme."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #37",
+   "metin": "Maskesiz ölçülen eşik *ne kadar* yanıltabilir?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Maskesiz ölçülen eşik ne kadar yanıltabilir?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Sol kulağın *gerçek* eşiği",
+   "sayi": "70",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Bu örnekte sol kulağın maskesiz eşiği elli desibel.",
+    "Plato yöntemiyle bulunan gerçek eşik ise yetmiş desibel HL."
+   ]
+  },
+  {
+   "id": "bolge",
+   "tur": "zincir",
+   "baslik": "Gürültü arttıkça *üç bölge*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Yetersiz",
+     "tr": "eşik yükselir",
+     "cumle": 0
+    },
+    {
+     "ad": "Plato",
+     "tr": "eşik sabit",
+     "cumle": 1
+    },
+    {
+     "ad": "Aşırı",
+     "tr": "eşik yeniden yükselir",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Gürültü az olursa karşı kulak tonu duymaya devam eder.",
+    "Platoda gürültü artsa da eşik değişmez; bu gerçek eşiktir.",
+    "Gürültü çok fazlaysa test kulağına geçer ve eşiği yükseltir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D091",
+ "kaynak_baslik": "Plato yöntemi adım adım"
+}

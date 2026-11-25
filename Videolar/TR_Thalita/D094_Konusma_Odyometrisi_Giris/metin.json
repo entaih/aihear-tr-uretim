@@ -1,0 +1,749 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D094_Konusma_Odyometrisi_Giris_TR",
+ "kapak": {
+  "ust": "DERS 94",
+  "baslik": "Konuşma<br>*odyometrisi*",
+  "alt": "Amaç ve test türleri",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Konuşma Odyometrisi Neden Yapılır? Amaç ve Test Türleri | Ders 94 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Saf ses odyogramı sesleri ne kadar hafif duyduğumuzu gösterir; konuşma odyometrisi ise konuşmayı ne kadar iyi anladığımızı ölçer. Bu derste konuşma odyometrisinin amaçlarını, eşik testlerini (SDT, SRT), eşik üstü testleri (SDS, MCL, UCL), test materyallerini ve açık ile kapalı set kavramlarını tanıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin ve Clark, Introduction to Audiology; ASHA, Guidelines for Determining Threshold Level for Speech.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "konuşmaodyometrisi",
+   "işitme"
+  ],
+  "etiketler": [
+   "konuşma odyometrisi",
+   "speech audiometry",
+   "SDT",
+   "konuşmayı fark etme eşiği",
+   "SRT",
+   "konuşmayı alma eşiği",
+   "SDS",
+   "kelime tanıma",
+   "açık set kapalı set",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 94",
+   "baslik": "Konuşma *odyometrisi*",
+   "alt": "Neden yapılır, hangi testlerden oluşur?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste konuşma odyometrisinin neden yapıldığını ve hangi testlerden oluştuğunu öğreneceğiz.",
+    "Eşik ve eşik üstü testleri, test materyallerini ve açık ile kapalı set kavramlarını tanıyacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Amaç",
+   "baslik": "Neden *konuşma* testi?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Doğrulama",
+     "metin": "Saf ses eşiklerinin çapraz kontrolü",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Anlama",
+     "metin": "Konuşma ne kadar net?",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Danışmanlık",
+     "metin": "Cihazdan beklenen fayda",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Ayırıcı ipucu",
+     "metin": "Orantısız düşük skor",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "İşlevsel kayıp",
+     "metin": "Eşikler arası uyumsuzluk",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Konuşma odyometrisi (speech audiometry), konuşma uyaranlarıyla yapılan işitme testlerinin genel adıdır.",
+    "İlk amacı, saf ses eşiklerinin güvenilir olup olmadığını konuşma eşiğiyle karşılaştırarak kontrol etmektir.",
+    "İkinci amacı, kişinin konuşmayı yalnız duyup duymadığını değil, ne kadar net anladığını göstermektir.",
+    "Üçüncüsü, işitme cihazı ya da koklear implant kararlarında ve danışmanlıkta gerçekçi beklenti oluşturmaktır.",
+    "Kaybın derecesine göre beklenenden düşük skorlar, koklea dışı bir sorunu düşündürebildiği için test bataryasına ipucu verir.",
+    "Saf ses ve konuşma eşikleri arasındaki belirgin uyumsuzluk ise işlevsel işitme kaybı şüphesinde önemli bir bulgudur.",
+    "Kısacası saf ses odyogramı sesin duyulabilirliğini, konuşma testleri ise işitmenin günlük iletişimdeki karşılığını gösterir."
+   ]
+  },
+  {
+   "id": "yetmez",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Amaç",
+   "baslik": "Saf ses neden *yetmez?*",
+   "maddeler": [
+    {
+     "metin": "Konuşma _hızla değişen_ karmaşık bir sinyal",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kayıp yalnız _sessizleştirmez_, bozar da",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Aynı odyogram, _farklı_ anlama",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Beyin de _sürece katılır_",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Saf ses, tek frekanslı ve sabit bir uyarandır; konuşma ise frekansı ve şiddeti hızla değişen karmaşık bir sinyaldir.",
+    "Konuşmanın anlaşılmasında, özellikle tiz frekanslardaki hafif ünsüzler büyük rol oynar.",
+    "Plomp'un modeline göre işitme kaybının iki bileşeni vardır: sesleri hafifleten bileşen ve sesleri bozan bileşen.",
+    "Sesi yükselterek ilkini büyük ölçüde telafi edebiliriz; ikincisi ise yükseltmeyle düzelmez.",
+    "Bu yüzden odyogramları birbirine benzeyen iki kişi, konuşmayı çok farklı düzeyde anlayabilir.",
+    "Konuşmayı anlamak işitsel yolların, dilin ve dikkatin birlikte çalışmasını da gerektirir."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test türleri",
+   "baslik": "Konuşma testlerinin *dört ailesi*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Eşik testleri",
+     "metin": "SDT ve SRT",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Eşik üstü",
+     "metin": "SDS, MCL ve UCL",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Gürültüde",
+     "metin": "QuickSIN, HINT, matris testleri",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Özel testler",
+     "metin": "Merkezi işitsel değerlendirme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Konuşma testlerini amaçlarına göre dört ailede toplayabiliriz.",
+    "Eşik testleri, konuşmanın fark edildiği ya da anlaşılmaya başladığı en düşük düzeyi arar.",
+    "Eşik üstü testler, konuşma rahatça duyulabilecek düzeyde verildiğinde ne kadar iyi anlaşıldığını ya da ne kadar rahatsız ettiğini ölçer.",
+    "Gürültüde konuşma testleri, günlük hayatın en zor koşulunu, yani arka plan gürültüsünü taklit eder.",
+    "Özel testler ise merkezi işitsel işlemlemeyi değerlendirmek için dikotik ya da bozulmuş konuşma uyaranları kullanır.",
+    "Bu derste ilk iki aileye genel bir bakış atacağız; her birini sonraki derslerde ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "sdt_srt",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test türleri",
+   "baslik": "Fark etmek ve *anlamak*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 50,
+     "adim": 10,
+     "ad": "Konuşma düzeyi (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Doğru yanıt (%)"
+    },
+    "seriler": [
+     {
+      "ad": "fark_etme",
+      "noktalar": [
+       [
+        0,
+        2
+       ],
+       [
+        5,
+        15
+       ],
+       [
+        10,
+        50
+       ],
+       [
+        15,
+        85
+       ],
+       [
+        20,
+        98
+       ],
+       [
+        25,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "fark etme",
+      "cumle": 1
+     },
+     {
+      "ad": "alma",
+      "noktalar": [
+       [
+        9,
+        2
+       ],
+       [
+        14,
+        15
+       ],
+       [
+        19,
+        50
+       ],
+       [
+        24,
+        85
+       ],
+       [
+        29,
+        98
+       ],
+       [
+        34,
+        100
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "anlama",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sdt",
+      "x": 10,
+      "y": 50,
+      "dus": "x",
+      "etiket": "SDT",
+      "cumle": 1
+     },
+     {
+      "ad": "srt",
+      "x": 19,
+      "y": 50,
+      "dus": "x",
+      "etiket": "SRT",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "x": [
+       10,
+       19
+      ],
+      "y": 35,
+      "etiket": "8 ile 10 dB",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "SDT: konuşmanın _varlığını_ fark etme",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "SRT: kelimelerin _yarısını_ tekrar etme",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "SDT genellikle 8 ile 10 dB iyi",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Eşik testlerinin ikisi arasındaki farkı bu şematik grafikle görelim.",
+    {
+     "yazi": "Konuşmayı fark etme eşiği (speech detection threshold), kısaca SDT, kişinin konuşmanın varlığını fark ettiği en düşük düzeydir.",
+     "ses": "Konuşmayı fark etme eşiği (speech detection threshold), kısaca es di ti, kişinin konuşmanın varlığını fark ettiği en düşük düzeydir."
+    },
+    {
+     "yazi": "SDT'de hastanın kelimeyi anlaması gerekmez; konuşma sesi duyduğunu belirtmesi yeterlidir.",
+     "ses": "Es di ti'de hastanın kelimeyi anlaması gerekmez; konuşma sesi duyduğunu belirtmesi yeterlidir."
+    },
+    "Konuşmayı alma eşiği, kısaca SRT ise kelimelerin yüzde ellisinin doğru tekrar edildiği en düşük düzeydir.",
+    "Anlamak, yalnız fark etmekten daha fazla ses enerjisi gerektirir; bu yüzden SRT eğrisi sağa kayar.",
+    {
+     "yazi": "Sonuç olarak SDT, SRT'den genellikle yaklaşık sekiz ile on desibel daha iyi çıkar.",
+     "ses": "Sonuç olarak es di ti, SRT'den genellikle yaklaşık sekiz ile on desibel daha iyi çıkar."
+    },
+    {
+     "yazi": "SDT, SRT yapılamayan küçük çocuklarda, dil engeli olan ya da konuşamayan hastalarda değerli bir seçenektir.",
+     "ses": "Es di ti, SRT yapılamayan küçük çocuklarda, dil engeli olan ya da konuşamayan hastalarda değerli bir seçenektir."
+    }
+   ]
+  },
+  {
+   "id": "esik_ustu",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test türleri",
+   "baslik": "Eşik üstü *testler*",
+   "maddeler": [
+    {
+     "metin": "_SDS_: rahat düzeyde doğru kelime yüzdesi",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_MCL_: en rahat dinleme düzeyi",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_UCL_: rahatsız edici ses düzeyi",
+     "cumle": 3,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Birkaç düzeyde ölçüm: _performans eğrisi_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SORU",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Eşik testi",
+      "metin": "Ne kadar hafif duyuyor?",
+      "cumle": 0
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Eşik üstü",
+      "metin": "Duyunca ne kadar anlıyor?",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Eşik üstü testlerin en bilineni, konuşmayı ayırt etme skoru, yani SDS'dir.",
+    "Bu testte kelimeler rahat duyulabilecek bir düzeyde verilir ve doğru tekrar edilenlerin yüzdesi hesaplanır.",
+    "En rahat dinleme düzeyi (most comfortable level), kısaca MCL, konuşmanın en rahat dinlendiği düzeydir.",
+    "Rahatsız edici ses düzeyi (uncomfortable loudness level), kısaca UCL ise konuşmanın rahatsız edici hale geldiği düzeydir.",
+    "Bu iki ölçüm, özellikle işitme cihazı ayarında ve sese aşırı duyarlılık değerlendirmesinde kullanılır.",
+    "Kelime tanıma birkaç farklı düzeyde ölçülürse, şiddete göre değişen bir performans eğrisi elde edilir."
+   ]
+  },
+  {
+   "id": "materyal",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Materyal ve sunum",
+   "baslik": "Test *materyalleri*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Hece",
+     "metin": "Tek ses farkını yakalar",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Tek heceli kelime",
+     "metin": "Kelime tanıma testleri",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Çok heceli kelime",
+     "metin": "Eşik testleri",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Cümle",
+     "metin": "Günlük konuşmaya en yakın",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Rakam",
+     "metin": "Dil bilgisinden az etkilenir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Konuşma testlerinde kullanılan materyaller, en küçük birimden en büyüğüne doğru sıralanabilir.",
+    "Anlamsız heceler, tek bir ses farkının ayırt edilip edilmediğini incelemek için kullanılır.",
+    "Tek heceli kelimeler, kelime tanıma testlerinin temel materyalidir.",
+    "Çok heceli kelimeler daha kolay tanınır ve eşik testlerinde tercih edilir.",
+    "Cümleler, bağlam içerdikleri için günlük konuşmaya en yakın materyaldir ve gürültüde testlerde sık kullanılır.",
+    "Rakamlar ise herkesin bildiği küçük bir kümeden oluştuğu için dil ve kelime bilgisinden daha az etkilenir."
+   ]
+  },
+  {
+   "id": "set",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Materyal ve sunum",
+   "baslik": "Açık set mi, *kapalı set* mi?",
+   "sol": {
+    "ust": "Açık set",
+    "maddeler": [
+     {
+      "metin": "Seçenek verilmez, _tekrar edilir_",
+      "cumle": 0
+     },
+     {
+      "metin": "Daha zor, gerçek hayata yakın",
+      "cumle": 1
+     },
+     {
+      "metin": "Konuşabilen hasta gerekir",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Kapalı set",
+    "maddeler": [
+     {
+      "metin": "Seçenekler arasından _işaret edilir_",
+      "cumle": 3
+     },
+     {
+      "metin": "Küçük çocuk ve konuşamayan hasta",
+      "cumle": 4
+     },
+     {
+      "metin": "Şans başarısı skoru yükseltir",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Açık set (open set) testlerde hastaya seçenek verilmez; duyduğu kelimeyi tekrar eder ya da yazar.",
+    "Bu biçim daha zordur ve günlük iletişime daha yakın bir tablo verir.",
+    "Ancak hastanın konuşabilmesi ve yanıtının doğru anlaşılabilmesi gerekir.",
+    "Kapalı set (closed set) testlerde hasta, birkaç resim ya da kelime arasından duyduğunu gösterir.",
+    {
+     "yazi": "Bu biçim küçük çocuklarda ve konuşma bozukluğu olanlarda kullanışlıdır; İngilizcede resimle kelime anlaşılırlığı testi WIPI bir örnektir.",
+     "ses": "Bu biçim küçük çocuklarda ve konuşma bozukluğu olanlarda kullanışlıdır; İngilizcede resimle kelime anlaşılırlığı testi Vipi bir örnektir."
+    },
+    "Kapalı sette tahminle doğru bulma şansı vardır; bu yüzden skorlar açık sete göre daha yüksek çıkar ve doğrudan karşılaştırılmaz."
+   ]
+  },
+  {
+   "id": "sunum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Materyal ve sunum",
+   "baslik": "Sunum ve *yanıt*",
+   "cizim": "test_kabini",
+   "vurgula": [
+    {
+     "parca": "odyometre",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 2
+    },
+    {
+     "parca": "interkom",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "odyometre",
+     "metin": "konuşma kanalı",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "her kulak ayrı",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "serbest alan",
+     "cumle": 2
+    },
+    {
+     "parca": "interkom",
+     "metin": "geri dinleme",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kayıtlı materyal daha standart",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Yanıt: tekrar, yazma, gösterme",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Konuşma uyaranları odyometrenin konuşma kanalından verilir ve bu kanal da düzenli olarak kalibre edilir.",
+    "Kulaklıkla yapılan testlerde her kulak ayrı değerlendirilir.",
+    "Hoparlörden yapılan serbest alan testleri ise iki kulağın birlikte işlevini ya da cihazlı performansı gösterir.",
+    "Uyaran kayıtlı materyalden ya da izlenen canlı sesle verilebilir; kayıtlı materyal daha standart sonuç verir.",
+    "Odyolog, hastanın sözel yanıtını kabindeki geri dinleme sistemiyle duyar.",
+    "Yanıt, kelimeyi tekrar etme, yazma ya da resim gösterme biçiminde alınabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Anadili farklı, okuryazar olmayan ya da yöresel söyleyişi belirgin hastalarda materyal ve yanıt biçimini uyarlayın; durumu rapora yazın.",
+   "cumleler": [
+    "Konuşma testleri dile bağlıdır; bu, saf ses testinden en önemli farklarıdır.",
+    "Anadili Türkçe olmayan bir hastada düşük skor, işitmeden değil dilden kaynaklanabilir.",
+    "Böyle durumlarda rakamlar ya da kapalı set gibi dilden daha az etkilenen materyaller tercih edilebilir.",
+    "Hangi uyarlamayı yaptıysanız raporda belirtin; sonraki test aynı koşullarla karşılaştırılabilsin."
+   ]
+  },
+  {
+   "id": "birlikte",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Birlikte yorum",
+   "baslik": "Saf ses ve konuşma *birlikte*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: tize eğimli kayıp",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_SRT_: 25 dB HL, PTA ile uyumlu",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_SDS_: yüzde 76, 70 dB HL'de",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       25,
+       40,
+       60,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta tize doğru eğimli bir işitme kaybı görüyoruz.",
+    "Beş yüz, bin ve iki bin hertz eşiklerinin ortalaması, yani saf ses ortalaması yaklaşık yirmi sekiz desibel.",
+    "SRT yirmi beş desibel HL bulunmuş; iki değer arasındaki fark on desibelin içinde, sonuçlar birbirini doğruluyor.",
+    "Kelime tanıma skoru yetmiş desibel HL'de yüzde yetmiş altı.",
+    "Hasta sessiz ortamda konuşmayı duyduğunu, ama bazı kelimeleri karıştırdığını söylüyorsa bu tablo onunla uyumludur.",
+    "Saf ses ve konuşma sonuçları birlikte, hem kaybın derecesini hem de günlük iletişime etkisini anlatır."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Birlikte yorum",
+   "baslik": "Raporda *neler* yazılır?",
+   "maddeler": [
+    {
+     "metin": "Test türü ve _kullanılan liste_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Sunum düzeyi ve _dönüştürücü_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kayıtlı ya da _canlı ses_",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Karşı kulağa _maskeleme düzeyi_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KURAL",
+    "metin": "Sunum koşulu bilinmeyen skor *yorumlanamaz*",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Raporda önce hangi testin ve hangi kelime listesinin kullanıldığı yazılır.",
+    "Sunum düzeyi ve testin kulaklıkla mı, serbest alanda mı yapıldığı belirtilir.",
+    "Kayıtlı materyal mi, izlenen canlı ses mi kullanıldığı da sonucu etkilediği için not edilir.",
+    "Karşı kulağa maskeleme yapıldıysa, kullanılan gürültü düzeyi de yazılır.",
+    "Bu bilgiler olmadan bir konuşma skoru doğru yorumlanamaz ve sonraki testlerle karşılaştırılamaz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Konuşma testi _anlamayı_ ölçer",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Eşik testleri: _SDT ve SRT_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "SDT, SRT'den _8 ile 10 dB_ iyi",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Açık ve kapalı set _karşılaştırılmaz_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Konuşma odyometrisi, saf ses eşiklerini doğrular ve konuşmanın ne kadar net anlaşıldığını gösterir.",
+    {
+     "yazi": "Eşik testleri SDT ve SRT, eşik üstü testler ise SDS, MCL ve UCL'dir.",
+     "ses": "Eşik testleri es di ti ve SRT, eşik üstü testler ise SDS, MCL ve UCL'dir."
+    },
+    "Konuşmayı fark etme eşiği, alma eşiğinden genellikle yaklaşık sekiz ile on desibel daha iyidir.",
+    "Kapalı set testler küçük çocuklarda kullanışlıdır, ama skorları açık set skorlarıyla doğrudan karşılaştırılmaz."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "SRT 40 dB HL. SDT'nin yaklaşık nerede olması beklenir?",
+   "secenekler": [
+    "40 ile 50 dB HL",
+    "30 ile 32 dB HL",
+    "10 dB HL",
+    "60 dB HL"
+   ],
+   "dogru": 1,
+   "aciklama": "Konuşmayı fark etmek anlamaktan daha az enerji ister; SDT, SRT'den _yaklaşık 8 ile 10 dB_ iyidir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Bir hastanın SRT'si kırk desibel HL. SDT'nin yaklaşık nerede olması beklenir?",
+     "sonra_bekle": 5,
+     "ses": "Kendinizi test edin: Bir hastanın SRT'si kırk desibel HL. es di ti'nin yaklaşık nerede olması beklenir?"
+    },
+    "Doğru cevap B: otuz ile otuz iki desibel HL civarında.",
+    {
+     "yazi": "Konuşmayı fark etmek anlamaktan daha az ses enerjisi gerektirir; bu yüzden SDT yaklaşık sekiz ile on desibel daha iyidir.",
+     "ses": "Konuşmayı fark etmek anlamaktan daha az ses enerjisi gerektirir; bu yüzden es di ti yaklaşık sekiz ile on desibel daha iyidir."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Konuşmayı alma eşiği: *SRT*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste konuşmayı alma eşiğinin, yani SRT'nin nasıl bulunduğunu adım adım öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

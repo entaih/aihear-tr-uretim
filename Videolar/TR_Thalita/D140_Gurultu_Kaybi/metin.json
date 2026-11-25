@@ -1,0 +1,830 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D140_Gurultu_Kaybi_TR",
+ "kapak": {
+  "ust": "DERS 140",
+  "baslik": "Gürültü:<br>*4 kHz* çentiği",
+  "alt": "TTS, PTS ve koklear sinaptopati",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Gürültüye Bağlı İşitme Kaybı ve 4 kHz Çentiği | Ders 140 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Gürültüye bağlı işitme kaybını (NIHL) geçici ve kalıcı eşik kayması, odyogramdaki 3 ile 6 kHz çentiği ve 8 kHz'de toparlanma üzerinden anlatıyoruz. Çentiğin nedenini, zaman içindeki seyri ve koklear sinaptopati (gizli işitme kaybı) kavramını ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ACOEM, Occupational Noise-Induced Hearing Loss bildirgesi; Kujawa ve Liberman (2009), Journal of Neuroscience; WHO, World Report on Hearing (2021).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "gürültü",
+   "işitmekaybı"
+  ],
+  "etiketler": [
+   "gürültüye bağlı işitme kaybı",
+   "noise-induced hearing loss",
+   "NIHL",
+   "4 kHz çentiği",
+   "noise notch",
+   "geçici eşik kayması",
+   "kalıcı eşik kayması",
+   "koklear sinaptopati",
+   "gizli işitme kaybı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 140",
+   "baslik": "Gürültü ve *4 kHz* çentiği",
+   "alt": "Gürültüye bağlı işitme kaybı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste gürültüye bağlı işitme kaybını ve odyogramdaki dört bin hertz çentiğini öğreneceğiz.",
+    "Geçici ve kalıcı eşik kaymasını, çentiğin nedenini ve koklear sinaptopati kavramını ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Gürültü ve kulak",
+   "baslik": "Gürültüye bağlı *işitme kaybı*",
+   "maddeler": [
+    {
+     "metin": "Uzun süreli, _tekrarlayan_ gürültü",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Sensörinöral_, genellikle iki taraflı",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tipik iz: _3 ile 6 kHz_ çentiği",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Tek ani patlama: _akustik travma_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "NIHL",
+    "metin": "Noise-induced hearing loss: *gürültüye bağlı* kayıp",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Gürültüye bağlı işitme kaybı, kısaca NIHL, yüksek sese uzun süre ve tekrar tekrar maruz kalınmasıyla gelişen bir kayıptır.",
+    "Kayıp sensörinöraldir ve gürültü iki kulağa benzer ulaştığı için genellikle iki taraflı ve simetriktir.",
+    "Odyogramdaki tipik iz, üç bin ile altı bin hertz arasında bir çentik ve sekiz bin hertzde kısmi toparlanmadır.",
+    "Patlama ya da silah sesi gibi tek bir çok yüksek ses ise ani hasar oluşturabilir; buna akustik travma denir.",
+    "Yetişkinlerde önlenebilir işitme kayıplarının en önemli nedenlerinden biridir.",
+    "Bu yüzden gürültü öyküsü, her yetişkin odyolojik değerlendirmesinin rutin bir parçası olmalıdır."
+   ]
+  },
+  {
+   "id": "hasar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Gürültü ve kulak",
+   "baslik": "Gürültü *neye* zarar verir?",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Dış tüy hücreleri: en hassas",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "İç tüy hücresi",
+     "cumle": 2
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Sinapslar ve sinir lifleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Mekanik hasar ve oksidatif stres",
+     "cumle": 1,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Gürültüden ilk ve en çok etkilenen yapılar, koklear amplifikasyonu sağlayan dış tüy hücreleridir.",
+    "Yüksek ses, tüy hücrelerinin stereosillerine, yani tüycüklerine mekanik zarar verir ve hücre içinde oksidatif strese yol açar.",
+    "Hasar ilerledikçe iç tüy hücreleri ve destek hücreleri de etkilenebilir.",
+    "Ayrıca iç tüy hücresi ile sinir lifleri arasındaki sinapslar, tüy hücrelerinden bile önce zarar görebilir.",
+    "Ölen tüy hücreleri insanda yeniden oluşmadığı için bu kayıp kalıcıdır.",
+    "Aynı gürültüye maruz kalan kişilerde bile hasarın derecesi değişir; bazı kulaklar gürültüye daha duyarlıdır."
+   ]
+  },
+  {
+   "id": "kaynaklar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Gürültü ve kulak",
+   "baslik": "Gürültü *nereden* gelir?",
+   "ogeler": [
+    {
+     "ikon": "is_yeri",
+     "baslik": "İş yeri",
+     "metin": "Sanayi, inşaat, maden",
+     "cumle": 0
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Eğlence",
+     "metin": "Konser, gece kulübü",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kişisel müzik",
+     "metin": "Uzun süre yüksek sesle",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ateşli silah",
+     "metin": "Tek atış bile zarar verebilir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En iyi bilinen kaynak iş yeri gürültüsüdür; sanayi, inşaat, maden ve askeri ortamlar başta gelir.",
+    "Konserler, gece kulüpleri ve spor etkinlikleri de kısa sürede yüksek bir doz oluşturabilir.",
+    "Kişisel müzik çalarlarla uzun süre yüksek sesle dinleme, gençler için önemli bir risk kaynağıdır.",
+    "Ateşli silahların tepe ses düzeyleri çok yüksektir ve tek bir atış bile kalıcı hasar bırakabilir.",
+    "Uzun süre kullanılan bazı hobi ve bahçe aletleri de toplam doza katkıda bulunabilir.",
+    "Dünya Sağlık Örgütü, güvenli olmayan dinleme alışkanlıkları nedeniyle bir milyardan fazla gencin risk altında olduğunu bildirmiştir."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Gürültü ve kulak",
+   "baslik": "Kişi *ne* fark eder?",
+   "maddeler": [
+    {
+     "metin": "_Tinnitus_, yani kulak çınlaması",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Gürültüde _anlama_ güçlüğü",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Tiz sesleri _kaçırma_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Çoğu zaman _geç_ fark edilir",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "En erken ve en sık yakınmalardan biri tinnitus, yani kulak çınlamasıdır.",
+    "Çentik konuşma için en önemli frekansların üzerinde başladığı için kişi ilk yıllarda sessiz ortamda pek zorlanmaz.",
+    "Ancak gürültülü ortamlarda konuşmayı anlamak ve tiz ünsüzleri ayırt etmek giderek zorlaşır.",
+    "Kuş cıvıltısı, kapı zili ya da cihaz uyarı sesleri gibi tiz sesler kaçırılmaya başlar.",
+    "Kayıp yavaş geliştiği için çoğu zaman ancak belirgin hale geldiğinde fark edilir."
+   ]
+  },
+  {
+   "id": "tts_pts",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Geçici ve kalıcı kayma",
+   "baslik": "*TTS* ve PTS",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Geçici kayma (TTS)",
+     "metin": "Saatler ya da günlerde düzelir",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Kalıcı kayma (PTS)",
+     "metin": "Düzelmez, kalıcı hasar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Geçici eşik kayması (temporary threshold shift), kısaca TTS, yüksek sesten hemen sonra eşiklerin geçici olarak kötüleşmesidir.",
+    "Gürültülü bir konserden sonra kulakta çınlama ve dolgunlukla birlikte sesleri boğuk duymak buna tipik bir örnektir.",
+    "TTS genellikle saatler, bazen birkaç gün içinde düzelir.",
+    "Kalıcı eşik kayması (permanent threshold shift), kısaca PTS ise düzelmeyen eşik değişikliğidir.",
+    "Tekrarlayan geçici kaymalar zamanla kalıcı hasara dönüşebilir.",
+    "Eşiklerin düzelmesi kulağın tamamen sağlam kaldığı anlamına gelmez; bunu sinaptopati bölümünde göreceğiz."
+   ]
+  },
+  {
+   "id": "doz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Geçici ve kalıcı kayma",
+   "baslik": "Doz: *şiddet* ve süre",
+   "maddeler": [
+    {
+     "metin": "Risk: şiddet ve _süre_ birlikte",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Referans: _85 dB(A)_, 8 saat",
+     "cumle": 1,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Her _3 dB_ artış: süre yarıya",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ayrıntı: _endüstriyel odyoloji_ dersleri",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "trafik",
+      "metin": "yoğun trafik",
+      "cumle": 1
+     },
+     {
+      "parca": "konser",
+      "metin": "konser",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "trafik",
+      "cumle": 1
+     },
+     {
+      "parca": "konser",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Gürültünün zararı, sesin şiddeti ile maruz kalınan sürenin birlikte oluşturduğu toplam doza bağlıdır.",
+    "Pek çok iş sağlığı düzenlemesinde sekiz saatlik iş günü için seksen beş desibel A önemli bir referans düzeydir.",
+    "Eşit enerji ilkesine göre ses her üç desibel arttığında, aynı dozu oluşturan süre yarıya iner.",
+    "Örneğin seksen sekiz desibel A için bu süre yaklaşık dört saate, doksan bir desibel A için yaklaşık iki saate düşer.",
+    "Eğlence amaçlı dinleme için de ses düzeyini ve süreyi birlikte sınırlayan haftalık dinleme önerileri bulunmaktadır.",
+    "Yasal sınırlar ve eylem değerleri endüstriyel odyoloji derslerinde ayrıca ele alınacaktır."
+   ]
+  },
+  {
+   "id": "centik",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "4 kHz çentiği",
+   "baslik": "Tipik *4 kHz* çentiği",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: sağ kulak",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "frekanslar": [
+     250,
+     500,
+     1000,
+     2000,
+     3000,
+     4000,
+     6000,
+     8000
+    ],
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       30,
+       50,
+       40,
+       25
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       30,
+       45
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       35,
+       55,
+       45,
+       25
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta iki bin hertze kadar eşikler normal; üç binde başlayan düşüş dört bin hertzde en derin noktaya ulaşıyor.",
+    "Kemik yolu hava yoluyla örtüşüyor; yani kayıp sensörinöral.",
+    "Sol kulakta da benzer bir çentik var; gürültüye bağlı kayıpta iki kulağın benzer olması beklenir.",
+    "Bazı ölçütler, çentik frekansındaki eşiğin hem alçak hem yüksek komşu frekanslardan en az on desibel kötü olmasını arar.",
+    "Altı bin ve özellikle sekiz bin hertzde eşiklerin yeniden iyileşmesi, çentiği yaşa bağlı kayıptan ayıran önemli bir ipucudur.",
+    "Yaşa bağlı kayıpta ise eşikler sekiz bin hertze doğru kötüleşmeye devam eder ve bu toparlanma görülmez."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "4 kHz çentiği",
+   "baslik": "Neden *4 kHz?*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kanal rezonansı",
+     "metin": "2,5 ile 3 kHz güçlenir",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Yarım oktav",
+     "metin": "Hasar biraz daha yukarıda",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "3-6 kHz bölgesi",
+     "metin": "En büyük hasar burada",
+     "cumle": 2
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Yapısal duyarlılık",
+     "metin": "Tüy hücreleri ve dolaşım",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Dış kulak kanalı, yaklaşık iki bin beş yüz ile üç bin hertz arasındaki sesleri doğal rezonansıyla güçlendirir.",
+    "Yüksek şiddetli bir ses, koklea üzerinde en çok, kendi frekansının yaklaşık yarım oktav üzerindeki bölgeye zarar verir.",
+    "Bu iki etki birleşince geniş bantlı gürültüde en büyük hasar üç bin ile altı bin hertz bölgesinde ortaya çıkar.",
+    "Bu bölgedeki tüy hücrelerinin ve kan dolaşımının özelliklerinin de duyarlılığa katkıda bulunduğu düşünülmektedir.",
+    "Çentiğin tam yeri kişiye ve gürültünün spektrumuna göre üç, dört ya da altı bin hertz olabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Gürültü öyküsü varsa 3000 ve 6000 Hz'i de test edin; çentik yalnız bu ara frekanslarda görünebilir.",
+   "cumleler": [
+    "Bir klinik ipucu: gürültü öyküsü olan herkeste ara frekansları, yani üç bin ve altı bin hertzi de test edin.",
+    "Yalnız oktav frekanslarına bakıldığında, örneğin altı bin hertzdeki bir çentik tamamen gözden kaçabilir.",
+    "Altı bin hertzde tek başına görülen bir düşüşü yorumlarken dikkatli olun; kulaklık kalibrasyonu bu frekansta sonucu etkileyebilir.",
+    "Şüphe varsa testi tekrarlayın ve bulguyu öykü ile birlikte değerlendirin."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "4 kHz çentiği",
+   "baslik": "Zaman içinde *seyir*",
+   "maddeler": [
+    {
+     "metin": "İlk yıllarda _hızlı_ ilerleme",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sonra _yavaşlama_ ve yayılma",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tizde genellikle _75 dB_ civarını aşmaz",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Maruziyet bitince genellikle _ilerlemez_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yaşla birlikte çentik _silikleşebilir_",
+     "cumle": 4,
+     "ikon": "yasli"
+    }
+   ],
+   "cumleler": [
+    "Sürekli maruziyette kaybın büyük kısmı genellikle ilk on ile on beş yılda gelişir.",
+    "Sonra ilerleme yavaşlar ve kayıp komşu frekanslara, zamanla iki bin hertz ve altına yayılır.",
+    "Amerikan iş hekimliği kılavuzuna göre gürültü tek başına genellikle tizde yetmiş beş, alçak frekanslarda kırk desibeli aşan kayıp yapmaz.",
+    "Aynı kılavuza göre maruziyet bitince gürültüye bağlı kayıp genellikle ilerlemez; sonraki kötüleşme çoğu zaman yaşa bağlıdır.",
+    "Yaş ilerledikçe sekiz bin hertz de kötüleşir ve çentik yaşa bağlı kaybın içinde silikleşebilir.",
+    "Bu yüzden ileri yaşta gürültünün ve yaşın katkısını birbirinden ayırmak zorlaşır."
+   ]
+  },
+  {
+   "id": "asimetri",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "4 kHz çentiği",
+   "baslik": "*Asimetrik* bulgular",
+   "maddeler": [
+    {
+     "metin": "Tüfek: _namluya yakın_ kulak",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sağ elle atış: _sol kulak_ daha kötü",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tek taraflı _mesleki_ kaynaklar",
+     "cumle": 2,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Açıklanamayan asimetri: _hekime_ yönlendir",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Gürültüye bağlı kayıp genellikle simetriktir; ancak bazı maruziyetlerde bir kulak daha çok etkilenir.",
+    "Tüfekle atış yapan ve sağ elini kullanan kişilerde, namluya daha yakın olan sol kulak genellikle daha çok etkilenir.",
+    "Sürekli tek tarafta duran bir makine ya da sirenli araç kullanımı da asimetriye yol açabilir.",
+    "Ancak gürültü öyküsü ile açıklanamayan bir asimetri, retrokoklear nedenler açısından hekime yönlendirme gerektirir.",
+    "Asimetrik bir kaybı otomatik olarak gürültüye bağlamak, önemli bir tanının gecikmesine yol açabilir."
+   ]
+  },
+  {
+   "id": "sinaptopati",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Koklear sinaptopati",
+   "baslik": "Koklear *sinaptopati*",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "İç tüy hücresi",
+     "cumle": 0
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Kaybolan sinapslar",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Eşikler normale dönebilir",
+     "cumle": 2
+    },
+    {
+     "metin": "Yüksek eşikli lifler etkilenir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Koklear sinaptopati (cochlear synaptopathy), iç tüy hücresi ile işitme siniri lifleri arasındaki sinapsların kaybıdır.",
+    "Kujawa ve Liberman, farelerde yalnız geçici eşik kayması yapan bir gürültünün sinapsların önemli bir kısmını yok ettiğini gösterdi.",
+    "Eşikler tamamen normale dönmesine rağmen bu sinapslar geri gelmemiştir.",
+    "En çok etkilenen lifler, yüksek şiddette ve gürültülü ortamda sesi kodlamaya katkı veren yüksek eşikli liflerdir.",
+    "Bu liflerin kaybı odyogramı değiştirmez; çünkü eşiği belirleyen düşük eşikli lifler korunur."
+   ]
+  },
+  {
+   "id": "gizli",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Koklear sinaptopati",
+   "baslik": "*Gizli* işitme kaybı",
+   "maddeler": [
+    {
+     "metin": "Odyogram _normal_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Gürültüde anlama _zorluğu_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Olası işaret: dalga I _genliği_ düşük",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İnsanda kanıtlar _henüz tartışmalı_",
+     "cumle": 3,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "dalga I genliği",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "metin": "dalga V",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Bu nedenle sinaptopati gizli işitme kaybı olarak da adlandırılır; odyogram normal görünür.",
+    "Kişinin yakınması ise çoğu zaman gürültüde konuşmayı anlamakta zorlanma ve tinnitustur.",
+    {
+     "yazi": "Hayvan çalışmalarında yüksek şiddette işitsel beyin sapı yanıtı, kısaca ABR dalga I genliğinin azalması sinaptopati belirtisi sayılmıştır.",
+     "ses": "Hayvan çalışmalarında yüksek şiddette işitsel beyin sapı yanıtı, kısaca ABR dalga bir genliğinin azalması sinaptopati belirtisi sayılmıştır."
+    },
+    "İnsanlarda ise bulgular çelişkilidir ve güvenilir bir klinik test henüz yerleşmemiştir.",
+    "Yine de bu kavram, normal bir odyogramın kulağın gürültüden hiç etkilenmediği anlamına gelmediğini hatırlatır."
+   ]
+  },
+  {
+   "id": "korunma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Korunma ve izlem",
+   "baslik": "*Korunma* ilkeleri",
+   "maddeler": [
+    {
+     "metin": "Önce kaynakta _gürültüyü azalt_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Süreyi kısalt, _mesafeyi_ artır",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Doğru takılmış _kulak koruyucu_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Gerçek koruma _etikettekinden_ düşük",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Gürültüye bağlı işitme kaybı önlenebilir bir kayıptır ve en etkili yol gürültüyü kaynağında azaltmaktır.",
+    "Bunun mümkün olmadığı durumlarda maruziyet süresi kısaltılır ve sessiz molalar verilir.",
+    "Ses kaynağıyla aradaki mesafeyi artırmak da maruziyeti belirgin biçimde azaltır.",
+    "Kulak tıkacı ya da manşon gibi koruyucular ancak doğru seçilip doğru takıldığında işe yarar.",
+    "Gerçek kullanımda sağlanan koruma, ambalajda yazan değerden çoğu zaman daha düşüktür."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Korunma ve izlem",
+   "baslik": "Odyometrik *izlem*",
+   "maddeler": [
+    {
+     "metin": "Temel odyogram: _işe girişte_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Test öncesi _gürültüsüz_ dönem",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Seri odyogramlarda _değişim_ takibi",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Testten önce son gürültü maruziyetini sorgulayın; geçici kayma kalıcı kayıp gibi görünebilir.",
+    "cumle": 2
+   },
+   "cumleler": [
+    "İşe giriş sırasında alınan temel odyogram, sonraki tüm karşılaştırmaların başlangıç noktasıdır.",
+    "Örneğin ABD iş sağlığı düzenlemesinde, temel odyogramdan önce en az on dört saat iş yeri gürültüsünden uzak kalınması istenir.",
+    "Aksi halde geçici eşik kayması kalıcı kayıp gibi görünür ve yanlış bir başlangıç değeri kaydedilir.",
+    "Sonraki odyogramlar temel odyogramla karşılaştırılır; belirgin bir eşik değişikliği varsa koruma önlemleri gözden geçirilir.",
+    "Hangi değişikliğin anlamlı sayılacağı, ilgili mevzuat ve kılavuzlarla belirlenir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Hasar: önce _dış tüy hücreleri_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "TTS düzelir, _PTS_ kalıcıdır",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "3 ile 6 kHz çentik, _8 kHz'de_ toparlanma",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Normal odyogram, olası _sinaptopati_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Gürültü önce dış tüy hücrelerine zarar verir ve sensörinöral kayba yol açar.",
+    "Geçici eşik kayması düzelir; tekrarlayan maruziyet ise kalıcı eşik kaymasına dönüşebilir.",
+    "Tipik odyogramda üç bin ile altı bin hertz arasında çentik ve sekiz bin hertzde toparlanma görülür.",
+    "Koklear sinaptopati, normal odyograma rağmen sinapsların kaybolabileceğini gösteren önemli bir araştırma kavramıdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Gürültüye bağlı kaybı yaşa bağlı kayıptan ayıran ipucu?",
+   "secenekler": [
+    "Hava-kemik aralığı",
+    "8 kHz'de toparlanma",
+    "Alçak frekansta kayıp",
+    "Tek taraflı kayıp"
+   ],
+   "dogru": 1,
+   "aciklama": "Çentik 3 ile 6 kHz'de; _8 kHz'de_ eşikler yeniden iyileşir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Gürültüye bağlı kaybı yaşa bağlı kayıptan ayıran tipik odyogram ipucu hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: sekiz bin hertzde toparlanma.",
+    "Yaşa bağlı kayıpta ise eşikler sekiz bin hertze doğru kötüleşmeye devam eder."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ani sensörinöral kayıpta *odyoloğun* rolü",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ani sensörinöral işitme kaybında odyoloğun rolünü ve hızlı yönlendirmenin önemini konuşacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

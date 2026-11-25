@@ -1,0 +1,729 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D044_Oda_Akustigi_TR",
+ "kapak": {
+  "ust": "DERS 44",
+  "baslik": "Yankılanma ve<br>*SNR*",
+  "alt": "Oda akustiği ve konuşmayı anlama",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "Oda Akustiği: Yankılanma ve Sinyal-Gürültü Oranı | Ders 44 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bir odanın akustiği konuşmayı anlamayı nasıl etkiler? Bu derste doğrudan ses ve yansımaları, yankılanma süresini (RT60), sinyal-gürültü oranını (SNR), kritik mesafeyi ve sınıf akustiği hedeflerini (35 dBA, 0,6 saniye, SNR en az +15 dB) inceliyoruz. Odayı ve sinyali iyileştiren yaklaşımları da karşılaştırıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ANSI/ASA S12.60, Acoustical Performance Criteria, Design Requirements, and Guidelines for Schools; ASHA, Guidelines for Addressing Acoustics in Educational Settings (2005); World Health Organization, Guidelines for Community Noise (1999); Crandell CC ve Smaldino JJ, Classroom acoustics for children with normal hearing and with hearing impairment (Language, Speech, and Hearing Services in Schools, 2000); ISO 3382, Measurement of room acoustic parameters.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "akustik",
+   "sınıfakustiği"
+  ],
+  "etiketler": [
+   "oda akustiği",
+   "yankılanma süresi",
+   "reverberation time",
+   "RT60",
+   "sinyal-gürültü oranı",
+   "signal-to-noise ratio",
+   "kritik mesafe",
+   "critical distance",
+   "sınıf akustiği",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 44",
+   "baslik": "*Oda akustiği*: yankı ve SNR",
+   "alt": "Yankılanma süresi, sinyal-gürültü oranı, kritik mesafe",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odaların konuşmayı anlamayı nasıl etkilediğini; yankılanmayı ve sinyal-gürültü oranını öğreneceğiz.",
+    "Kritik mesafe kavramını ve sınıflar için önerilen akustik hedefleri de göreceğiz."
+   ]
+  },
+  {
+   "id": "yansimalar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odada ses",
+   "baslik": "Doğrudan ses ve *yansımalar*",
+   "cumleler": [
+    "Kapalı bir odada konuşan birinin sesi dinleyiciye önce en kısa yoldan, doğrudan ulaşır.",
+    "Ses aynı zamanda duvarlara, tavana ve tabana çarpar; yansıyan sesler dinleyiciye biraz daha geç ulaşır.",
+    "Yaklaşık ilk elli milisaniye içinde gelen erken yansımalar doğrudan sesle kaynaşır ve konuşmayı güçlendirebilir.",
+    "Daha geç gelen ve giderek sönen yansımaların oluşturduğu ses bulutuna yankılanma (reverberation) denir.",
+    "Yankılanma konuşma seslerini birbirinin üzerine bulaştırır ve anlaşılırlığı azaltır."
+   ],
+   "cizim": "oda_plani",
+   "ayar": {
+    "mod": "yansima",
+    "dogrudan_cumle": 0,
+    "yansima_cumle": 1,
+    "ekogram_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "dogrudan_ses",
+     "metin": "Doğrudan ses",
+     "cumle": 0
+    },
+    {
+     "parca": "yansimalar",
+     "metin": "Yansımalar",
+     "cumle": 1
+    },
+    {
+     "parca": "erken_yansimalar",
+     "metin": "İlk 50 ms",
+     "cumle": 2
+    },
+    {
+     "parca": "yankilanma",
+     "metin": "Yankılanma",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dogrudan_ses",
+     "cumle": 0
+    },
+    {
+     "parca": "yansimalar",
+     "cumle": 1
+    },
+    {
+     "parca": "erken_yansimalar",
+     "cumle": 2
+    },
+    {
+     "parca": "yankilanma",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Önce _doğrudan_ ses",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Erken yansıma _güçlendirir_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Yankılanma _anlaşılırlığı_ azaltır",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ]
+  },
+  {
+   "id": "rt60",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odada ses",
+   "baslik": "Yankılanma süresi: *RT60*",
+   "maddeler": [
+    {
+     "metin": "Ses kesildikten sonra _60 dB_ düşüş süresi",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Hacim _uzatır_, emilim kısaltır",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Sert yüzey uzatır, _yumuşak_ kısaltır",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Ölçüm: _kesik gürültü_ ya da darbe",
+     "cumle": 4,
+     "ikon": "mikrofon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sonum_egrisi",
+    "cumle": 0,
+    "ayar": {
+     "rt60": 0.8,
+     "rt60_cumle": 0,
+     "kesilme_cumle": 0
+    },
+    "vurgula": [
+     {
+      "parca": "rt60",
+      "cumle": 0
+     },
+     {
+      "parca": "altmis_db_ok",
+      "cumle": 1
+     },
+     {
+      "parca": "sonum",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "kesilme",
+      "metin": "ses kesilir",
+      "cumle": 0,
+      "yer": "alt"
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Yankılanma süresi (reverberation time), kısaca RT60, kaynak sustuktan sonra ses düzeyinin altmış desibel düşmesi için geçen süredir.",
+     "ses": "Yankılanma süresi, kısaca re te altmış, kaynak sustuktan sonra ses düzeyinin altmış desibel düşmesi için geçen süredir."
+    },
+    "Altmış desibellik düşüş, ses şiddetinin milyonda birine inmesi demektir.",
+    {
+     "yazi": "Sabine formülüne göre yankılanma süresi odanın hacmiyle artar, yüzeylerin toplam ses emilimiyle azalır.",
+     "ses": "Seybin formülüne göre yankılanma süresi odanın hacmiyle artar, yüzeylerin toplam ses emilimiyle azalır."
+    },
+    "Beton, cam ve fayans gibi sert yüzeyler süreyi uzatır; akustik tavan, halı ve perde ise sesi emip süreyi kısaltır.",
+    "Süre, kesik gürültü yöntemiyle ya da bir darbe sesinin sönümünü kaydeden yöntemle ölçülebilir; ikisi de standartlarda tanımlıdır."
+   ]
+  },
+  {
+   "id": "ornekler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odada ses",
+   "baslik": "Yankılanma süresi *örnekleri*",
+   "ogeler": [
+    {
+     "ikon": "okul",
+     "baslik": "Düzenlenmiş sınıf",
+     "metin": "0,4 ile 0,6 saniye",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Düzenlenmemiş sınıf",
+     "metin": "Sıklıkla 1 saniye üstü",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Konser salonu",
+     "metin": "Yaklaşık 2 saniye",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Büyük ibadet yeri",
+     "metin": "Birkaç saniye",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Farklı ortamların yankılanma süreleri birbirinden çok farklıdır.",
+    "Akustik olarak düzenlenmiş bir sınıfta süre yaklaşık yarım saniye civarında tutulur.",
+    "Sert yüzeyli, düzenlenmemiş sınıflarda ise süre sıklıkla bir saniyeyi aşabilir.",
+    "Konser salonlarında müziğin dolgun duyulması için yaklaşık iki saniyelik bir süre istenir.",
+    "Büyük ibadet yerlerinde süre birkaç saniyeye çıkabilir; bu ortamlarda konuşmayı anlamak zorlaşır.",
+    "Yani müzik için iyi olan bir oda, konuşmayı anlamak için kötü olabilir."
+   ]
+  },
+  {
+   "id": "bulasma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odada ses",
+   "baslik": "Yankı ünsüzü *örter*",
+   "cizim": "konusma_muzu",
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Güçlü ünlünün _kuyruğu_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Zayıf ünsüz _örtülür_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Gürültü ve yankı birlikte: _daha kötü_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "unluler",
+     "metin": "ünlüler: güçlü",
+     "cumle": 0
+    },
+    {
+     "parca": "unsuzler",
+     "metin": "ünsüzler: zayıf",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Yankılanmanın etkisini anlamak için bir sözcüğü düşünelim: güçlü bir ünlü sustuktan sonra da odada bir süre sürer.",
+    "Bu kuyruk, hemen ardından gelen zayıf ünsüzün üzerine biner ve onu örter.",
+    "Konuşma muzunda gördüğümüz gibi ünlüler güçlü, ünsüzler ise zayıftır; bu yüzden en çok ünsüzler kaybolur.",
+    "Sonuçta hece sınırları ve sözcüklerin sonları bulanıklaşır.",
+    "Gürültü ve yankılanma birlikte olduğunda, etkileri ayrı ayrı olduklarından çok daha büyük bir kayba yol açabilir."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sinyal-gürültü oranı",
+   "baslik": "Sinyal-gürültü oranı: *SNR*",
+   "maddeler": [
+    {
+     "metin": "Konuşma düzeyi _eksi_ gürültü düzeyi",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "65 ve 55 dB: _+10 dB_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Gürültü daha yüksekse _negatif_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Sınıflarda sıklıkla _yetersiz_",
+     "cumle": 4,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 1
+     },
+     {
+      "parca": "trafik",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "konusma",
+      "metin": "konuşma",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Sinyal-gürültü oranı (signal-to-noise ratio), kısaca SNR, dinlenen sesin düzeyi ile arka plan gürültüsünün düzeyi arasındaki farktır.",
+     "ses": "Sinyal-gürültü oranı, kısaca SNR, dinlenen sesin düzeyi ile arka plan gürültüsünün düzeyi arasındaki farktır."
+    },
+    "Örneğin öğretmenin sesi kulakta altmış beş, gürültü elli beş desibelse SNR artı on desibeldir.",
+    "Gürültü konuşmadan daha yüksekse SNR negatif olur.",
+    "Desibeller logaritmik olduğu için iki düzeyin farkı aslında iki şiddetin oranını anlatır; adı da buradan gelir.",
+    "Ölçümler, sınıflarda SNR'nin sıklıkla öğrenme için önerilen düzeyin altında kaldığını gösteriyor."
+   ]
+  },
+  {
+   "id": "kim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sinyal-gürültü oranı",
+   "baslik": "Kim daha *iyi SNR* ister?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal işiten yetişkin",
+     "metin": "Eksikleri bağlamla tamamlar",
+     "cumle": 0
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocuklar",
+     "metin": "Eksik sesi tamamlayamaz",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İşitme kaybı olanlar",
+     "metin": "Daha yüksek SNR gerekir",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Yaşlılar ve diğerleri",
+     "metin": "Dili yeni öğrenenler, dikkat güçlüğü",
+     "cumle": 4
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Sınıf hedefi",
+     "metin": "Çocukta en az +15 dB",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Normal işiten bir yetişkin, olumlu bir SNR ile konuşmayı genellikle rahatça anlar.",
+    "Çünkü dil bilgisi ve bağlam sayesinde eksik kalan sesleri kolayca tamamlar.",
+    "Çocuklar ise dili henüz öğrenmekte oldukları için eksik sesleri tamamlayamaz; aynı başarı için daha iyi bir SNR'ye ihtiyaç duyarlar.",
+    "İşitme kaybı olan kişiler de aynı başarı için çoğu zaman belirgin biçimde daha yüksek bir SNR'ye ihtiyaç duyar.",
+    "Yaşlılar, dili yeni öğrenenler ve dikkat ya da dil güçlüğü olan çocuklar da gürültüden daha fazla etkilenir.",
+    "Bu yüzden çocuklar için sınıfta, kulakta en az artı on beş desibellik bir SNR önerilir."
+   ]
+  },
+  {
+   "id": "kritik_mesafe",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kritik mesafe",
+   "baslik": "*Kritik mesafe*",
+   "maddeler": [
+    {
+     "metin": "Uzaklık iki katı: yaklaşık _6 dB_ azalma",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yankılanan ses _her yerde_ benzer",
+     "cumle": 1,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Kritik mesafe: ikisi _eşit_",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Ötesinde yankılanma _baskın_",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sınıfta yalnız _bir iki_ metre",
+     "cumle": 5,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "Açık alanda kaynaktan uzaklık iki katına çıktığında doğrudan sesin düzeyi yaklaşık altı desibel azalır; buna ters kare yasası denir.",
+    "Kapalı bir odada ise yankılanan ses odanın her yerinde aşağı yukarı benzer düzeydedir.",
+    "Kaynağa yakınken doğrudan ses baskındır; uzaklaştıkça doğrudan ses zayıflar, yankılanan ses ise aynı kalır.",
+    "Doğrudan ses ile yankılanan sesin düzeylerinin eşit olduğu uzaklığa kritik mesafe (critical distance) denir.",
+    "Kritik mesafenin ötesinde dinleyici ağırlıklı olarak yankılanan sesi duyar ve konuşmanın netliği belirgin biçimde azalır.",
+    "Oda büyüdükçe ve yankılanma azaldıkça kritik mesafe uzar; tipik bir sınıfta yalnız birkaç metredir."
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oda_plani",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kritik_mesafe",
+     "kritik_mesafe_m": 1.5,
+     "halka_cumle": 3
+    },
+    "vurgula": [
+     {
+      "parca": "dogrudan_alan",
+      "cumle": 2
+     },
+     {
+      "parca": "kritik_mesafe",
+      "cumle": 3
+     },
+     {
+      "parca": "yankilanan_alan",
+      "cumle": 4
+     },
+     {
+      "parca": "on_siralar",
+      "cumle": 5
+     }
+    ]
+   }
+  },
+  {
+   "id": "hedefler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınıf ve klinik",
+   "baslik": "Sınıf akustiği *hedefleri*",
+   "sutunlar": [
+    "Kaynak",
+    "Arka plan gürültüsü",
+    "Yankılanma süresi"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "ANSI S12.60",
+      "35 dBA",
+      "0,6 saniye"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "ANSI, büyük sınıf",
+      "35 dBA",
+      "0,7 saniye"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "DSÖ (WHO)",
+      "35 dBA",
+      "Yaklaşık 0,6 saniye"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "ASHA",
+      "35 dBA, SNR +15",
+      "0,6 saniye"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Sınıflarda konuşmanın iyi anlaşılması için akustik hedefler tanımlanmıştır.",
+    {
+     "yazi": "Amerikan standardı ANSI S12.60, orta büyüklükte boş bir sınıf için gürültüyü 35 dBA, yankılanma süresini 0,6 saniye ile sınırlar.",
+     "ses": "Amerikan sınıf akustiği standardı, orta büyüklükte boş bir sınıf için gürültüyü otuz beş desibel A, yankılanma süresini sıfır virgül altı saniye ile sınırlar."
+    },
+    {
+     "yazi": "Daha büyük sınıflar için yankılanma sınırı 0,7 saniyedir.",
+     "ses": "Daha büyük sınıflar için yankılanma sınırı sıfır virgül yedi saniyedir."
+    },
+    {
+     "yazi": "Dünya Sağlık Örgütü de sınıfta gürültünün 35 dBA'yı aşmamasını ve yankılanma süresinin yaklaşık 0,6 saniye olmasını önerir.",
+     "ses": "Dünya Sağlık Örgütü de sınıfta gürültünün otuz beş desibel A'yı aşmamasını ve yankılanma süresinin yaklaşık sıfır virgül altı saniye olmasını önerir."
+    },
+    "Amerikan Konuşma Dil İşitme Derneği, kısaca ASHA, bu hedeflere ek olarak, çocuğun kulağında en az artı on beş desibellik bir SNR önerir.",
+    "Başka ülkelerin de benzer kılavuzları vardır; Türkiye'de de binaların gürültüye karşı korunmasını düzenleyen bir yönetmelik bulunur.",
+    "Ancak gerçek sınıfların önemli bir bölümünün bu hedeflerin gerisinde kaldığı bildirilmektedir."
+   ]
+  },
+  {
+   "id": "cozumler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınıf ve klinik",
+   "baslik": "Odayı ya da *sinyali* iyileştirmek",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Yumuşak yüzeyler",
+     "metin": "Akustik tavan, halı, perde",
+     "cumle": 1
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Gürültü kontrolü",
+     "metin": "Pencere, havalandırma, koridor",
+     "cumle": 2
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Herkese yarar",
+     "metin": "Tüm öğrenciler kazanır",
+     "cumle": 3
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Uzak mikrofon",
+     "metin": "Ses doğrudan cihaza",
+     "cumle": 5
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Ses alanı sistemi",
+     "metin": "Sesi eşit dağıtır",
+     "cumle": 6
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Yakın oturmak",
+     "metin": "Kritik mesafe içinde",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Sınıfı iyileştirmek için birbirini tamamlayan iki yaklaşım vardır; ilki odanın kendisini düzenlemektir.",
+    "Akustik tavan, halı ve perdeler yankılanma süresini kısaltır.",
+    "Pencerelerin, havalandırmanın ve koridor gürültüsünün kontrolü arka plan gürültüsünü düşürür.",
+    "Oda düzenlemesi sınıftaki tüm öğrencilere yarar.",
+    "İkinci yaklaşım sinyali iyileştirmektir.",
+    "Öğretmenin taktığı mikrofondan sesi doğrudan öğrencinin cihazına ileten uzak mikrofon sistemleri SNR'yi belirgin biçimde artırır.",
+    "Sınıfa yerleştirilen hoparlörlerle sesi eşit dağıtan ses alanı sistemleri de kullanılabilir.",
+    "Öğretmenin yüzünü görebileceği, kritik mesafe içinde bir yerde oturmak da basit ama etkili bir önlemdir.",
+    "Bu yaklaşımlar birbirinin yerine değil, birlikte düşünülmelidir."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınıf ve klinik",
+   "baslik": "Klinikte *oda akustiği*",
+   "maddeler": [
+    {
+     "metin": "Test odası: düşük _gürültü_ ve yankı",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Yönlü mikrofon SNR'yi _iyileştirebilir_",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Yankılanmayı cihaz _tam çözemez_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Danışmanlıkta _iletişim_ stratejileri",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "mikrofon",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Odyometri yapılan test odaları da düşük arka plan gürültüsü ve kısa yankılanma süresi için özel olarak tasarlanır.",
+    "İşitme cihazlarındaki yönlü mikrofonlar, önden gelen konuşmayı öne çıkararak SNR'yi bir miktar iyileştirebilir.",
+    "Ancak yankılanan ses her yönden geldiği için cihazlar yankılanmanın etkisini tam olarak ortadan kaldıramaz.",
+    "Danışmanlıkta gürültü kaynağından uzak ve konuşanın yüzünü görebileceği bir yerde oturmak gibi basit stratejiler anlatılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınıf ve klinik",
+   "baslik": "Klinik ipucu",
+   "metin": "Gürültüde anlama şikayetinde ortamı da sorun: oda, yüzeyler, uzaklık, gürültü kaynağı. Konuşanla mesafeyi yarıya indirmek doğrudan sesi yaklaşık 6 dB artırır.",
+   "cumle": 2,
+   "cumleler": [
+    "Sahadan bir ipucu: gürültüde anlama güçlüğü anlatan bir hastaya, zorlandığı ortamı ayrıntılı olarak sorun.",
+    "Odanın büyüklüğü, yüzeylerin sertliği, konuşana uzaklık ve gürültü kaynağının yeri önemli ipuçları verir.",
+    "Konuşanla mesafeyi yarıya indirmek doğrudan sesi yaklaşık altı desibel artırır ve kritik mesafe içinde SNR'yi iyileştirir.",
+    "Bu basit değişiklikler, cihaz ayarından bağımsız olarak günlük yaşamda belirgin fark yaratabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "RT60: _60 dB_ sönüm süresi",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "SNR: konuşma eksi _gürültü_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kritik mesafe: doğrudan ses ve yankı _eşit_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Sınıf: _35 dBA_, 0,6 s, SNR +15 dB",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "Yankılanma süresi, ses kesildikten sonra düzeyin altmış desibel düşmesi için geçen süredir.",
+    "Sinyal-gürültü oranı, konuşma düzeyi ile gürültü düzeyi arasındaki farktır; çocuklar ve işitme kaybı olanlar daha iyi bir oran ister.",
+    "Kritik mesafenin ötesinde yankılanan ses baskın hale gelir ve konuşmanın netliği azalır.",
+    {
+     "yazi": "Sınıflar için arka plan gürültüsü 35 dBA, yankılanma süresi 0,6 saniye ve SNR en az artı on beş desibel hedeflenir.",
+     "ses": "Sınıflar için arka plan gürültüsü otuz beş desibel A, yankılanma süresi sıfır virgül altı saniye ve SNR en az artı on beş desibel hedeflenir."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Orta büyüklükte boş bir sınıf için yankılanma süresi hedefi nedir?",
+   "secenekler": [
+    "0,3 saniye",
+    "0,6 saniye",
+    "1,2 saniye",
+    "2 saniye"
+   ],
+   "dogru": 1,
+   "aciklama": "ANSI S12.60 ve ASHA, sınıflar için _0,6 saniye_ ve 35 dBA arka plan gürültüsü önerir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Orta büyüklükte boş bir sınıf için yankılanma süresi hedefi nedir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: 0,6 saniye.",
+     "ses": "Doğru cevap be: sıfır virgül altı saniye."
+    },
+    "Daha uzun yankılanma, ünlülerin kuyruğunun ünsüzleri örtmesine ve konuşmanın bulanıklaşmasına yol açar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Santral* işitsel yol",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kokleadan kortekse uzanan santral işitsel yolu istasyon istasyon inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

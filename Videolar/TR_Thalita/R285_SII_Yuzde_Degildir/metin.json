@@ -1,0 +1,105 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R285_SII_Yuzde_Degildir_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #285",
+  "baslik": "SII *yüzde değildir*",
+  "alt": "Konuşma anlaşılırlık indeksi",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "SII sıfır virgül beş ise kişi kelimelerin yarısını mı anlar? #shorts",
+  "aciklama": "Konuşma anlaşılırlık indeksi (SII), konuşmanın ne kadarının duyulur olduğunu bant önemine göre 0 ile 1 arasında özetler; 1000 ve 2000 Hz bantları bilginin yaklaşık yarısını taşır. Ama SII bir anlaşılırlık yüzdesi değildir; 0,5'lik bir değer kelimelerin yarısının anlaşılacağı anlamına gelmez.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitmecihazı",
+   "SII"
+  ],
+  "etiketler": [
+   "SII",
+   "konuşma anlaşılırlık indeksi",
+   "duyulurluk",
+   "bant önem ağırlığı",
+   "konuşma haritalama",
+   "ANSI S3.5",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "SII sıfır virgül beş ise kişi kelimelerin yarısını mı anlar?",
+  "bilgiler": [
+   "SII, duyulur konuşmayı 0 ile 1 arasında özetler.",
+   "1000 ve 2000 Hz bantları bilginin yaklaşık yarısını taşır.",
+   "0,5'lik SII, kelimelerin yarısının anlaşılacağı demek değildir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "SII"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #285",
+   "metin": "Yarısını *anlar mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "SII sıfır virgül beş ise kişi kelimelerin yarısını mı anlar?"
+   ]
+  },
+  {
+   "id": "sii",
+   "tur": "zincir",
+   "baslik": "SII *nasıl* okunur?",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "0 ile 1",
+     "tr": "duyulurluk özeti",
+     "cumle": 0
+    },
+    {
+     "ad": "Bant önemi",
+     "tr": "1 ve 2 kHz yarısı",
+     "cumle": 2
+    },
+    {
+     "ad": "Yüzde değil",
+     "tr": "anlamayı söylemez",
+     "cumle": 3
+    }
+   ],
+   "alt": "Duyulurluk, _anlama değil_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "SII, konuşmanın ne kadarının duyulur olduğunu sıfır ile bir arasında özetler.",
+    "Her bantta duyulur kısım, o bandın önem ağırlığıyla çarpılır.",
+    "Bin ve iki bin hertz bantları bilginin yaklaşık yarısını taşır.",
+    "Ama sıfır virgül beşlik değer, kelimelerin yarısının anlaşılacağı demek değildir.",
+    "SII bir duyulurluk özetidir; gerçek anlamayı tek başına söylemez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D191",
+ "kaynak_baslik": "Konuşma haritalama ve ISTS"
+}

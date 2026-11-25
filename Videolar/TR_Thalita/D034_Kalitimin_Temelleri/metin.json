@@ -1,0 +1,885 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D034_Kalitimin_Temelleri_TR",
+ "kapak": {
+  "ust": "DERS 34",
+  "baslik": "Kalıtımın<br>*temelleri*",
+  "alt": "Gen, alel ve kalıtım kalıpları",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 3.5,
+    "ad": "Her çocuk için",
+    "isaretler": [
+     1,
+     2,
+     3
+    ],
+    "yazilar": {
+     "1": "Etkilenmiş",
+     "2": "Taşıyıcı",
+     "3": "Taşımıyor"
+    }
+   },
+   "y": {
+    "min": 0,
+    "max": 60,
+    "adim": 25,
+    "ad": "Olasılık (%)"
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       1,
+       25
+      ]
+     ],
+     "renk": "kirmizi",
+     "etiket": "yüzde 25",
+     "etiket_konum": [
+      1,
+      25
+     ]
+    },
+    {
+     "ad": "b",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       2,
+       50
+      ]
+     ],
+     "renk": "sari",
+     "etiket": "yüzde 50",
+     "etiket_konum": [
+      2,
+      50
+     ]
+    },
+    {
+     "ad": "c",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       3,
+       25
+      ]
+     ],
+     "renk": "mavi",
+     "etiket": "yüzde 25",
+     "etiket_konum": [
+      3,
+      25
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Kalıtımın Temelleri: Gen, Alel ve Kalıtım Kalıpları | Ders 34 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Genetik işitme kayıplarını anlamak için gereken temel kavramları anlatıyoruz: DNA, gen, kromozom, alel, genotip ve fenotip. Otozomal resesif ve dominant, X'e bağlı ve mitokondriyal kalıtımı, soy ağacı sembollerini, penetrans ve değişken ifadeyi örneklerle görüyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Thompson and Thompson Genetics in Medicine; Toriello ve Smith, Hereditary Hearing Loss and Its Syndromes; Katz, Handbook of Clinical Audiology; Bennett RL ve ark., Standardized human pedigree nomenclature, Journal of Genetic Counseling (2008); Hacettepe Üniversitesi Nüfus Etütleri Enstitüsü, Türkiye Nüfus ve Sağlık Araştırması 2018.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "genetik",
+   "kalıtım"
+  ],
+  "etiketler": [
+   "kalıtım",
+   "genetik",
+   "otozomal resesif",
+   "autosomal recessive",
+   "otozomal dominant",
+   "X'e bağlı kalıtım",
+   "soy ağacı",
+   "pedigree",
+   "alel",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 34",
+   "baslik": "Kalıtımın *temelleri*",
+   "alt": "Gen, alel ve kalıtım kalıpları",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste genetik işitme kayıplarını anlamak için gereken temel kavramları öğreneceğiz: gen, kromozom ve alel.",
+    "Otozomal dominant ve resesif, X'e bağlı ve mitokondriyal kalıtımı ve bir soy ağacının nasıl okunduğunu göreceğiz."
+   ]
+  },
+  {
+   "id": "dna",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "DNA'dan *proteine*",
+   "adimlar": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "DNA",
+     "cumle": 1,
+     "metin": "Kalıtsal bilgi metni"
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Gen",
+     "cumle": 2,
+     "metin": "Bir protein tarifi"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Protein",
+     "cumle": 4,
+     "metin": "Hücrede iş görür"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Doku",
+     "cumle": 5,
+     "metin": "Örneğin koklea"
+    }
+   ],
+   "cumleler": [
+    "Kalıtımı anlamak için önce birkaç temel kavramı tanıyalım.",
+    "DNA, hücrelerimizdeki kalıtsal bilgiyi taşıyan moleküldür; dört harfli bir alfabeyle yazılmış çok uzun bir metin gibidir.",
+    "Bu metnin belli bir görevi kodlayan bölümüne gen denir; bir gen çoğunlukla bir proteinin yapım tarifini taşır.",
+    "İnsanda proteinleri kodlayan yaklaşık yirmi bin gen bulunur.",
+    "Proteinler hücrenin işini yapar; örneğin kokleadaki bazı proteinler potasyum iyonlarının hücreler arasında geçişini sağlar.",
+    "Bir gendeki değişiklik proteinin yapısını ya da miktarını bozarsa, o proteinin görev yaptığı dokuda sorun ortaya çıkabilir."
+   ]
+  },
+  {
+   "id": "kromozom",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "46 *kromozom*",
+   "maddeler": [
+    {
+     "metin": "_23 çift_ kromozom",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Biri anneden, biri _babadan_",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "22 çift _otozom_",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Kadın XX, erkek _XY_",
+     "cumle": 4,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Mitokondri DNA'sı: _anneden_",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "KROMOZOMLAR",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "gen_dna",
+      "baslik": "Otozomlar",
+      "cumle": 3,
+      "metin": "22 çift"
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Cinsiyet",
+      "cumle": 4,
+      "metin": "XX ya da XY"
+     },
+     {
+      "ikon": "laboratuvar",
+      "baslik": "Mitokondri",
+      "cumle": 5,
+      "metin": "Anneden gelen DNA"
+     }
+    ]
+   },
+   "cumleler": [
+    "DNA, hücre çekirdeğinde kromozom adı verilen paketler halinde bulunur.",
+    "İnsanda kırk altı kromozom, yani yirmi üç çift vardır.",
+    "Her çiftin bir kromozomu anneden, diğeri babadan gelir.",
+    "Yirmi iki çift cinsiyetten bağımsız olan otozomlardır; son çift ise cinsiyet kromozomlarıdır.",
+    "Kadınlarda iki X kromozomu, erkeklerde bir X ve bir Y kromozomu bulunur.",
+    "Hücrenin enerji üreten bölümleri olan mitokondrilerin de kendi küçük DNA'sı vardır ve bu DNA anneden gelir."
+   ]
+  },
+  {
+   "id": "alel",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "Alel, genotip, *fenotip*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Alel",
+     "cumle": 1,
+     "metin": "Genin bir biçimi"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Homozigot",
+     "cumle": 2,
+     "metin": "İki kopya aynı"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Heterozigot",
+     "cumle": 2,
+     "metin": "İki kopya farklı"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Fenotip",
+     "cumle": 4,
+     "metin": "Örneğin odyogram"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Varyant",
+     "cumle": 5,
+     "metin": "Gendeki değişiklik"
+    }
+   ],
+   "cumleler": [
+    "Otozomlardaki her genin, biri anneden biri babadan gelen iki kopyası vardır.",
+    "Bir genin farklı biçimlerine alel (allele) denir.",
+    "Kişinin iki kopyası aynı alelse homozigot, farklı alellerse heterozigot olduğu söylenir.",
+    "Genotip kişinin taşıdığı alellerin bileşimidir; fenotip ise bunun dışarıdan görülen ya da ölçülen sonucudur.",
+    "Odyolojide fenotip çoğu zaman odyogramdır: kaybın derecesi, biçimi ve başlama yaşı.",
+    "Genetik literatürde hastalığa yol açan değişikliklere mutasyon yerine giderek daha çok patojenik varyant (pathogenic variant) deniyor.",
+    "Bu derste anlaşılır olması için değişmiş gen ya da değişiklik ifadelerini kullanacağız."
+   ]
+  },
+  {
+   "id": "dominant_resesif",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "Dominant ve *resesif*",
+   "maddeler": [
+    {
+     "metin": "Dominant: _tek kopya_ yeter",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Resesif: _iki kopya_ gerekir",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Taşıyıcı: _genellikle etkilenmez_",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Herkes bazı değişikliklerin _taşıyıcısı_",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "TAŞIYICI",
+    "metin": "Resesif alelden *bir kopya* taşıyan, genellikle etkilenmeyen kişi",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Bir alelin etkisini göstermesi için tek kopyanın yetip yetmediği, kalıtım biçimini belirler.",
+    "Tek kopyası bile etkisini gösteren alele baskın, yani dominant alel denir.",
+    "Etkisini göstermesi için iki kopyası da gereken alele ise çekinik, yani resesif alel denir.",
+    "Resesif bir alelden yalnız bir kopya taşıyan kişiye taşıyıcı (carrier) denir; taşıyıcılar genellikle etkilenmez.",
+    "Herkes birkaç resesif değişikliğin taşıyıcısıdır; çoğumuz bunu hiç bilmeyiz."
+   ]
+  },
+  {
+   "id": "resesif",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kalıtım kalıpları",
+   "baslik": "Otozomal *resesif* kalıtım",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": "Her çocuk için",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Etkilenmiş",
+      "2": "Taşıyıcı",
+      "3": "Taşımıyor"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 25,
+     "ad": "Olasılık (%)"
+    },
+    "seriler": [
+     {
+      "ad": "etkilenmis",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        1,
+        25
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "yüzde 25",
+      "etiket_konum": [
+       1,
+       25
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "tasiyici",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        2,
+        50
+       ]
+      ],
+      "renk": "sari",
+      "etiket": "yüzde 50",
+      "etiket_konum": [
+       2,
+       50
+      ],
+      "cumle": 3
+     },
+     {
+      "ad": "tasimiyor",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        3,
+        25
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "yüzde 25",
+      "etiket_konum": [
+       3,
+       25
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "İki taşıyıcı ebeveyn",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Her gebelikte _aynı_ olasılık",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Kardeşlerde, _yatay_ dağılım",
+     "cumle": 5,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Otozomal resesif (autosomal recessive) kalıtımda çocuğun etkilenmesi için iki değişmiş kopya alması gerekir.",
+    "Çoğu zaman anne ve baba işiten taşıyıcılardır; her biri bir değişmiş ve bir sağlam kopya taşır.",
+    "Böyle iki taşıyıcının her çocuğunun etkilenme olasılığı yüzde yirmi beştir.",
+    "Çocuğun taşıyıcı olma olasılığı yüzde elli, hiç değişmiş kopya taşımama olasılığı ise yüzde yirmi beştir.",
+    "Bu olasılıklar her gebelikte yeniden geçerlidir; bir çocuğun etkilenmiş olması sonrakileri değiştirmez.",
+    "Soy ağacında resesif hastalıklar çoğu zaman aynı kuşaktaki kardeşlerde görülür, önceki kuşaklarda ise görülmeyebilir.",
+    "Kız ve erkek çocuklar eşit sıklıkta etkilenir."
+   ]
+  },
+  {
+   "id": "soy_agaci",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kalıtım kalıpları",
+   "baslik": "Akraba evliliği ve *resesif risk*",
+   "cizim": "pedigri",
+   "ayar": {
+    "tip": "resesif",
+    "akraba_cumle": 1,
+    "tasiyici_cumle": 2,
+    "etkilenmis_cumle": 3
+   },
+   "notlar": [
+    {
+     "metin": "Kare _erkek_, daire _kadın_",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Çift çizgi: _akraba eşler_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Türkiye: yaklaşık _yüzde 24_",
+     "cumle": 5,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Ekranda sade bir soy ağacı (pedigree) görüyorsunuz; Roma rakamları kuşakları gösterir.",
+    "Birinci kuşakta anne ile baba arasındaki çift çizgi, eşlerin birbirinin akrabası olduğunu gösterir.",
+    "İkisi de aynı değişmiş genin taşıyıcısıdır ve işitmeleri normaldir.",
+    "İkinci kuşakta dört çocuktan birinde işitme kaybı var; dolu işaret etkilenmiş kişiyi gösterir.",
+    "Akraba eşlerin ortak bir atadan gelen aynı değişmiş geni taşıma olasılığı daha yüksektir; bu yüzden resesif hastalık riski artar.",
+    {
+     "yazi": "Türkiye'de akraba evliliği oranı, Türkiye Nüfus ve Sağlık Araştırması 2018'e göre yaklaşık yüzde yirmi dörttür.",
+     "ses": "Türkiye'de akraba evliliği oranı, Türkiye Nüfus ve Sağlık Araştırması iki bin on sekize göre yaklaşık yüzde yirmi dörttür."
+    },
+    "Akraba evliliğini ve genetik danışmanlığı ilerideki bir derste ayrıntılı olarak göreceğiz."
+   ],
+   "etiketler": [
+    {
+     "parca": "tasiyicilar",
+     "metin": "taşıyıcı",
+     "cumle": 2
+    },
+    {
+     "parca": "etkilenmis",
+     "metin": "etkilenmiş",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "dominant",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kalıtım kalıpları",
+   "baslik": "Otozomal *dominant* kalıtım",
+   "maddeler": [
+    {
+     "metin": "_Tek kopya_ yeterli",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Her çocuk için _yüzde 50_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Kuşaktan kuşağa _dikey_ geçiş",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "De novo: _yeni_ değişiklik",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0.5,
+      "max": 2.5,
+      "ad": "Her çocuk için",
+      "isaretler": [
+       1,
+       2
+      ],
+      "yazilar": {
+       "1": "Etkilenmiş",
+       "2": "Etkilenmemiş"
+      }
+     },
+     "y": {
+      "min": 0,
+      "max": 60,
+      "adim": 25,
+      "ad": "Olasılık (%)"
+     },
+     "seriler": [
+      {
+       "ad": "etkilenmis",
+       "tur": "cubuk",
+       "genislik": 0.5,
+       "noktalar": [
+        [
+         1,
+         50
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "yüzde 50",
+       "etiket_konum": [
+        1,
+        50
+       ],
+       "cumle": 1
+      },
+      {
+       "ad": "etkilenmemis",
+       "tur": "cubuk",
+       "genislik": 0.5,
+       "noktalar": [
+        [
+         2,
+         50
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "yüzde 50",
+       "etiket_konum": [
+        2,
+        50
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Otozomal dominant (autosomal dominant) kalıtımda tek bir değişmiş kopya etkilenme için yeterlidir.",
+    "Etkilenmiş bir ebeveynin her çocuğunun değişmiş kopyayı alma olasılığı yüzde ellidir.",
+    "Bu yüzden dominant hastalıklar soy ağacında kuşaktan kuşağa, dikey bir çizgide izlenir.",
+    "Kız ve erkekler eşit sıklıkta etkilenir ve hastalık babadan oğula da geçebilir.",
+    "Sendromik olmayan dominant işitme kayıpları çoğunlukla doğumdan sonra başlar ve zamanla ilerler.",
+    "Bazen ailede hiç öykü yoktur; değişiklik çocukta yeni ortaya çıkmıştır ve buna de novo değişiklik denir."
+   ]
+  },
+  {
+   "id": "x_mito",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kalıtım kalıpları",
+   "baslik": "X'e bağlı ve *mitokondriyal*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "X'e bağlı",
+     "cumle": 1,
+     "metin": "Erkekler daha sık etkilenir"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Taşıyıcı anne",
+     "cumle": 3,
+     "metin": "Oğullara yüzde 50"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Etkilenmiş baba",
+     "cumle": 4,
+     "metin": "Kızlar taşıyıcı, oğullar değil"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Mitokondriyal",
+     "cumle": 5,
+     "metin": "Yalnız anneden"
+    }
+   ],
+   "cumleler": [
+    "X'e bağlı (X-linked) kalıtımda değişmiş gen X kromozomundadır.",
+    "Erkeklerin tek X kromozomu olduğu için X'e bağlı resesif bir değişiklik erkekte doğrudan etkisini gösterir.",
+    "Kadınlar ikinci X kromozomundaki sağlam kopya sayesinde çoğunlukla taşıyıcıdır ya da hafif etkilenir.",
+    "Taşıyıcı bir annenin her oğlu için etkilenme olasılığı yüzde ellidir.",
+    "Etkilenmiş bir baba bu değişikliği oğullarına geçiremez, ama bütün kızları taşıyıcı olur.",
+    "Mitokondriyal kalıtımda ise değişiklik yalnız anneden geçer; etkilenmiş annenin bütün çocukları değişikliği taşır.",
+    "Babanın mitokondriyal DNA'sı çocuklara geçmez; ilaçla ilişkili bir örneği ilerideki genetik derslerinde göreceğiz."
+   ]
+  },
+  {
+   "id": "semboller",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Soy ağacı",
+   "baslik": "Soy ağacı *sembolleri*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Kare, daire",
+     "cumle": 1,
+     "metin": "Erkek ve kadın"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Dolu sembol",
+     "cumle": 1,
+     "metin": "Etkilenmiş kişi"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Çift çizgi",
+     "cumle": 2,
+     "metin": "Akraba eşler"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Kardeşler",
+     "cumle": 3,
+     "metin": "Doğum sırasına göre"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Ok",
+     "cumle": 4,
+     "metin": "İndeks olgu"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Roma rakamları",
+     "cumle": 5,
+     "metin": "Kuşaklar"
+    }
+   ],
+   "cumleler": [
+    "Soy ağacı, ailedeki kişileri ve aralarındaki ilişkileri standart sembollerle gösteren bir çizimdir.",
+    "Kareler erkekleri, daireler kadınları gösterir; dolu sembol etkilenmiş kişidir.",
+    "Eşler yatay bir çizgiyle bağlanır; akraba eşler arasında çift çizgi kullanılır.",
+    "Çocuklar bu çizgiden inen dikey bir çizgiyle gösterilir ve doğum sırasına göre soldan sağa dizilir.",
+    "Aileyi kliniğe getiren ilk kişi, yani indeks olgu (proband), bir okla işaretlenir.",
+    "Kuşaklar Roma rakamlarıyla, kişiler ise her kuşakta soldan sağa numaralandırılır."
+   ]
+  },
+  {
+   "id": "karmasik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Soy ağacı",
+   "baslik": "Neden her zaman *basit değil?*",
+   "maddeler": [
+    {
+     "metin": "Penetrans: taşıyan _herkes etkilenmez_",
+     "cumle": 1,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Değişken ifade: _farklı ağırlık_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Aynı kayıp, _farklı genler_",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Aile öyküsü _tek başına yetmez_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "AYNI AİLEDE",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Bir kişide",
+      "cumle": 3,
+      "metin": "Ağır işitme kaybı"
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Diğerinde",
+      "cumle": 3,
+      "metin": "Yalnız beyaz perçem"
+     }
+    ]
+   },
+   "cumleler": [
+    "Gerçek ailelerde kalıtım her zaman ders kitabındaki kadar düzenli görünmez.",
+    "Penetrans (penetrance), değişikliği taşıyanlardan ne kadarının gerçekten etkilendiğidir; bazı taşıyıcılar hiç belirti göstermez.",
+    "Değişken ifade (variable expressivity) ise aynı değişikliği taşıyan kişilerde bulguların ağırlığının farklı olmasıdır.",
+    "Örneğin Waardenburg sendromunda aynı ailede bir kişide ağır işitme kaybı, diğerinde yalnız saçta beyaz perçem görülebilir.",
+    "Ayrıca aynı işitme kaybı farklı genlerden kaynaklanabilir; aynı gen de farklı kalıtım biçimleri gösterebilir.",
+    "Bu yüzden aile öyküsü tek başına kesin sonuç vermez; genetik değerlendirme ve danışmanlık gerekir."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İşitme ve genetik",
+   "baslik": "Odyoloji için *önemi*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Tüy hücreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_hucreleri",
+     "metin": "Destek hücreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Sinir lifleri",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tuy_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Doğumsal kayıpların _yarısından fazlası_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "_100'ün üzerinde_ gen",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Aile için _risk tahmini_",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "Genetik, odyolojinin en hızlı gelişen alanlarından biridir.",
+    "Gelişmiş ülkelerde doğumsal işitme kayıplarının yarısından fazlası genetik nedenlidir.",
+    "Bugün işitme kaybıyla ilişkili yüzün üzerinde gen tanımlanmıştır.",
+    "Bu genlerin çoğu kokleada görev yapar: tüy hücrelerinde, iyon dengesini sağlayan yapılarda ve sinir bağlantılarında.",
+    "Kalıtım biçimini bilmek, ailedeki diğer çocuklar için riski tahmin etmeye yardım eder.",
+    "Sendromik ve sendromik olmayan kayıpları, en sık genleri ve genetik danışmanlığı ilerideki derslerde ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinik ipucu",
+   "metin": "Soy ağacına işitme durumu bilinmeyen akrabaları da çizin ve bilinmiyor diye işaretleyin. Etkilenenlerin altına başlama yaşını ve cihaz kullanımını yazın.",
+   "cumleler": [
+    "Anamnezde işe yarayan bir ipucu: soy ağacını çizerken işitme durumu bilinmeyen akrabaları boş bırakmayın.",
+    "Bu kişileri de çizin ve durumlarının bilinmediğini not edin; bilinmeyen ile normal aynı şey değildir.",
+    "Etkilenmiş kişilerin sembolü altına kaybın başlama yaşını, tek ya da iki kulakta olduğunu ve cihaz kullanımını yazın.",
+    "Böyle bir soy ağacı, genetik değerlendirmeyi büyük ölçüde kolaylaştırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Gen, _iki kopya_: anneden ve babadan",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Resesif: iki taşıyıcı, _yüzde 25_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Dominant: her çocuğa _yüzde 50_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "X'e bağlı: erkekler; mitokondri: _anne_",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    "Her genin biri anneden biri babadan gelen iki kopyası vardır; bir genin farklı biçimlerine alel denir.",
+    "Otozomal resesif kalıtımda iki taşıyıcı ebeveynin her çocuğu için etkilenme olasılığı yüzde yirmi beştir.",
+    "Otozomal dominant kalıtımda etkilenmiş ebeveynin her çocuğu için olasılık yüzde ellidir.",
+    "X'e bağlı kalıtımda erkekler daha sık etkilenir; mitokondriyal değişiklikler yalnız anneden geçer."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "İki taşıyıcı ebeveynin her çocuğunda risk nedir?",
+   "secenekler": [
+    "Yüzde 0",
+    "Yüzde 25",
+    "Yüzde 50",
+    "Yüzde 100"
+   ],
+   "dogru": 1,
+   "aciklama": "Otozomal resesif kalıtımda iki taşıyıcının her çocuğu için etkilenme olasılığı _yüzde 25_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: otozomal resesif bir kayıpta iki taşıyıcı ebeveynin her çocuğu için etkilenme olasılığı nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yüzde yirmi beş.",
+    "Çocuğun taşıyıcı olma olasılığı ise yüzde ellidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Kulak nasıl *gelişir?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kulağın anne karnında nasıl geliştiğini, iç, orta ve dış kulağın embriyolojisini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

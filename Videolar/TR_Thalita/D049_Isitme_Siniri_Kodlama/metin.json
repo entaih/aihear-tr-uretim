@@ -1,0 +1,895 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D049_Isitme_Siniri_Kodlama_TR",
+ "kapak": {
+  "ust": "DERS 49",
+  "baslik": "İşitme siniri<br>*nasıl kodlar?*",
+  "alt": "Yer, zaman ve şiddet kodlaması",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 4000
+  }
+ },
+ "youtube": {
+  "baslik": "İşitme Siniri Frekansı ve Şiddeti Nasıl Kodlar? | Ders 49 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme siniri lifleri bir sesin frekansını hangi lifin ateşlediğiyle (yer kodlaması) ve atımların zamanlamasıyla (faz kilitlenmesi), şiddetini ise ateşleme hızıyla ve etkinleşen lif sayısıyla kodlar. Bu derste ayar eğrilerini, hız-düzey fonksiyonunu, spontan hızına göre üç lif grubunu ve bu ilkelerin klinikteki karşılıklarını inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Moore, An Introduction to the Psychology of Hearing; Liberman (1978), Auditory-nerve response from cats raised in a low-noise chamber, Journal of the Acoustical Society of America; Kujawa ve Liberman (2009), Adding insult to injury: cochlear nerve degeneration after temporary noise-induced hearing loss, Journal of Neuroscience.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitme",
+   "fizyoloji"
+  ],
+  "etiketler": [
+   "işitme siniri",
+   "yer kodlaması",
+   "place coding",
+   "faz kilitlenmesi",
+   "phase locking",
+   "spontan ateşleme hızı",
+   "rate-level function",
+   "ayar eğrisi",
+   "koklear sinaptopati",
+   "işitme fizyolojisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 49",
+   "baslik": "İşitme siniri *nasıl kodlar?*",
+   "alt": "Frekans ve şiddetin sinirsel kodu",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme siniri liflerinin bir sesin frekansını ve şiddetini beyne nasıl ilettiğini öğreneceğiz.",
+    "Yer kodlamasını, faz kilitlenmesini, ateşleme hızını ve farklı lif gruplarını sırayla göreceğiz."
+   ]
+  },
+  {
+   "id": "lifler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Sinirin dili",
+   "baslik": "İşitme siniri *lifleri*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "sinir_lifleri",
+     "metin": "sinir lifleri",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "iç tüy hücresi",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "dış tüy hücreleri",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yaklaşık 30.000 lif",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tip I: iç tüy hücresi",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tip II: dış tüy hücreleri",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 4,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kokleadaki tüy hücrelerinin ürettiği sinyal, işitme siniri lifleri aracılığıyla beyin sapına taşınır.",
+    "İnsanda işitme sinirinde yaklaşık otuz bin afferent lif bulunur.",
+    "Bu liflerin yaklaşık yüzde doksan ile doksan beşi tip bir liflerdir ve iç tüy hücrelerine bağlanır.",
+    "Her tip bir lif yalnız bir iç tüy hücresinden bilgi alır; bir iç tüy hücresine ise birden çok lif bağlanır.",
+    "Geri kalan ince tip iki lifler çok sayıda dış tüy hücresine bağlanır; görevleri henüz tam bilinmemektedir.",
+    "Bu yüzden sesin ayrıntılı bilgisini büyük ölçüde iç tüy hücrelerine bağlı tip bir lifler taşır."
+   ]
+  },
+  {
+   "id": "aksiyon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Sinirin dili",
+   "baslik": "Bilgi *nasıl* taşınır?",
+   "maddeler": [
+    {
+     "metin": "Aksiyon potansiyeli: _hep ya da hiç_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Bilgi 1: _ateşleme hızı_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bilgi 2: _ateşleme zamanı_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Bilgi 3: _hangi lifin_ ateşlediği",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÜÇ BİLGİ KAYNAĞI",
+    "metin": "Atım *sayısı*, atım zamanı ve atan lifin yeri",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Sinir lifleri bilgiyi aksiyon potansiyeli denen kısa elektriksel atımlarla taşır.",
+    "Her atım hep ya da hiç ilkesine uyar; yani atımın büyüklüğü sesin şiddetine göre değişmez.",
+    "Bu durumda bilgi önce birim zamandaki atım sayısında, yani ateşleme hızında saklanır.",
+    "İkinci bilgi kaynağı atımların zamanlamasıdır; atımların ses dalgasının belirli anlarına denk gelmesi.",
+    "Üçüncü kaynak ise hangi liflerin ateşlediğidir; çünkü her lif kokleanın belirli bir yerinden gelir.",
+    "Şimdi bu üç kaynağın frekansı ve şiddeti nasıl temsil ettiğine bakalım."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Frekans kodlaması",
+   "baslik": "*Yer* kodlaması",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "en büyük titreşim",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "metin": "taban: tiz",
+     "cumle": 2
+    },
+    {
+     "parca": "tepe",
+     "metin": "tepe: pes",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hangi lif, hangi frekans",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tonotopi kortekse kadar",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Örnek: 4000 Hz tabana yakın",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Frekansı kodlamanın ilk yolu yer kodlamasıdır (place coding).",
+    "Yürüyen dalga, her frekans için baziler membranın belirli bir yerinde en büyük genliğe ulaşır.",
+    "Tiz sesler kokleanın tabanında, pes sesler tepesinde en güçlü titreşimi oluşturur.",
+    "O bölgedeki iç tüy hücrelerine bağlı lifler en çok ateşlenir; böylece hangi lifin aktif olduğu frekansı bildirir.",
+    "Bu frekans haritasına tonotopi (tonotopy) denir ve koklear nükleustan kortekse kadar korunur.",
+    "Bu örnekte dört bin hertzlik bir ses, kokleanın tabana yakın bölümünde en büyük titreşimi oluşturuyor."
+   ]
+  },
+  {
+   "id": "ayar_egrisi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Frekans kodlaması",
+   "baslik": "Karakteristik frekans ve *ayar eğrisi*",
+   "maddeler": [
+    {
+     "metin": "_Karakteristik frekans_: en düşük eşik",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "V biçimli _ayar eğrisi_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Keskin uç: _dış tüy hücreleri_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hasarda uç kaybolur, eğri _genişler_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ayar_egrisi",
+    "cumle": 0,
+    "ayar": {
+     "cf": 2000,
+     "egriler": [
+      {
+       "tip": "saglikli",
+       "cumle": 2
+      },
+      {
+       "tip": "hasarli",
+       "cumle": 4
+      }
+     ],
+     "cf_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "karakteristik_frekans",
+      "metin": "karakteristik frekans",
+      "cumle": 1
+     },
+     {
+      "parca": "hasarli",
+      "metin": "dış tüy hücresi hasarı",
+      "cumle": 4,
+      "yer": "ust"
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "uc",
+      "cumle": 3
+     },
+     {
+      "parca": "hasarli",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Her lif her frekansa aynı duyarlılıkla yanıt vermez.",
+    "Lifin en düşük şiddette yanıt verdiği frekansa karakteristik frekans (characteristic frequency) denir.",
+    "Farklı frekanslardaki eşikleri işaretlersek V harfine benzeyen bir ayar eğrisi (tuning curve) elde ederiz.",
+    "Eğrinin keskin ucu, koklear amplifikatör olarak çalışan dış tüy hücrelerinin katkısıyla oluşur.",
+    "Dış tüy hücreleri hasar gördüğünde uç kaybolur; lifin eşiği yükselir ve ayar eğrisi genişler.",
+    "Bu da sensörinöral kayıplı kişilerin sesleri ayırmakta ve gürültüde anlamakta neden zorlandığını kısmen açıklar."
+   ]
+  },
+  {
+   "id": "faz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Frekans kodlaması",
+   "baslik": "*Faz* kilitlenmesi",
+   "cizim": "atim_dizisi",
+   "ayar": {
+    "frekans_hz": 250,
+    "periyot": 6,
+    "ates": [
+     1,
+     0,
+     1,
+     1,
+     0,
+     1
+    ],
+    "cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "atimlar",
+     "metin": "Lifin atımları",
+     "cumle": 3
+    },
+    {
+     "parca": "periyot",
+     "metin": "Periyot: 4 ms",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "evre",
+     "cumle": 2
+    },
+    {
+     "parca": "atimlar",
+     "cumle": 3
+    },
+    {
+     "parca": "aralik",
+     "cumle": 4
+    },
+    {
+     "parca": "periyot",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Atım hep aynı evrede",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Her periyotta değil",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Aralıklar periyodun katları",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Frekansı kodlamanın ikinci yolu zamanlamadır.",
+    "Pes bir ses dalgası, her periyotta bir kez tüy hücresini en çok uyaran evreye ulaşır.",
+    "İşitme siniri lifleri tam bu evrede ateşlenme eğilimindedir; buna faz kilitlenmesi (phase locking) denir.",
+    "Bir lif her periyotta ateşlemek zorunda değildir; ama ateşlediğinde bunu dalganın hep aynı evresinde yapar.",
+    "Böylece atımlar arasındaki süreler periyodun katları olur ve beyin bu düzenden frekansı çıkarabilir.",
+    "Bu örnekte iki yüz elli hertzlik bir tonun periyodu dört milisaniyedir."
+   ]
+  },
+  {
+   "id": "salvo",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Frekans kodlaması",
+   "baslik": "Salvo ilkesi ve *üst sınır*",
+   "maddeler": [
+    {
+     "metin": "Tek lif: saniyede _birkaç yüz_ atım",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Lif grupları birlikte: _salvo ilkesi_",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "1000 Hz üstünde _zayıflar_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yaklaşık 4 ile 5 kHz'de _kaybolur_",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "etiketler": [
+     {
+      "parca": "isitme_siniri",
+      "metin": "işitme siniri",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "isitme_siniri",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Tek bir lif saniyede en fazla birkaç yüz atım yapabilir; bu da tek başına bin hertzlik bir dalgayı izlemeye yetmez.",
+    {
+     "yazi": "Wever'in salvo ilkesine (volley principle) göre farklı lifler farklı periyotlarda ateşler ve grup olarak her periyodu işaretler.",
+     "ses": "Viver'in salvo ilkesine göre farklı lifler farklı periyotlarda ateşler ve grup olarak her periyodu işaretler."
+    },
+    "Böylece lif topluluğu, tek bir lifin yetişemeyeceği frekanslarda da dalganın zamanlamasını taşıyabilir.",
+    "Ancak faz kilitlenmesi yaklaşık bin hertzin üzerinde giderek zayıflar.",
+    "Memelilerde yaklaşık dört ile beş kilohertzin üzerinde belirgin bir faz kilitlenmesi görülmez.",
+    "İnsanda bu üst sınırın tam değeri tartışmalıdır; ama tiz frekanslarda zaman bilgisinin azaldığı kabul edilir."
+   ]
+  },
+  {
+   "id": "yer_zaman",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Frekans kodlaması",
+   "baslik": "Yer mi, *zaman* mı?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Yer kodu",
+     "metin": "Tüm frekans aralığında çalışır",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tiz frekanslar",
+     "metin": "Bilgi büyük ölçüde yer kodundan",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Keskinlik",
+     "metin": "Dış tüy hücrelerine bağlı",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Zaman kodu",
+     "metin": "Pes ve orta frekanslarda",
+     "cumle": 3
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Perde ayrımı",
+     "metin": "İnce ayrıma zaman katkısı",
+     "cumle": 4
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Koklear implant",
+     "metin": "Ağırlıkla yer kodu, zaman sınırlı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Yer kodlaması tüm frekans aralığında bilgi verir.",
+    "Faz kilitlenmesi kaybolduğu için tiz frekanslarda frekans bilgisi büyük ölçüde yer kodlamasına dayanır.",
+    "Yer kodunun keskinliği ise dış tüy hücrelerinin sağlıklı çalışmasına bağlıdır.",
+    "Pes ve orta frekanslarda yer ve zaman bilgisi birlikte kullanılır.",
+    "Bu frekanslarda perde ayrımının daha ince olması, kısmen zaman bilgisine bağlanır.",
+    "Koklear implantlar frekansı ağırlıkla elektrotların yeriyle, yani yer koduyla iletir; ince zaman bilgisi sınırlı kalır."
+   ]
+  },
+  {
+   "id": "hiz_seviye",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Şiddet kodlaması",
+   "baslik": "Hız-düzey *fonksiyonu*",
+   "maddeler": [
+    {
+     "metin": "Ses yükselir, _ateşleme hızı_ artar",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Eşik, artış ve _doyma_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tek lif: yaklaşık _20 ile 40 dB_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kulak: yaklaşık _120 dB_ aralık",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 4
+     },
+     {
+      "parca": "agri_esigi",
+      "cumle": 4
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Şiddeti kodlamanın temel yolu ateşleme hızıdır: ses yükseldikçe lif saniyede daha çok atım yapar.",
+    "Ateşleme hızının ses düzeyine göre değişimini gösteren eğriye hız-düzey fonksiyonu (rate-level function) denir.",
+    "Eğri eşikte yükselmeye başlar, belirli bir aralıkta artar ve sonra doyar; yani ses artsa da hız artmaz.",
+    "Tek bir lifin bu dinamik aralığı (dynamic range) genellikle yalnız yaklaşık yirmi ile kırk desibeldir.",
+    "Oysa insan kulağı yaklaşık yüz yirmi desibellik bir şiddet aralığını işleyebilir.",
+    "Bu farkın nasıl kapandığını anlamak için liflerin spontan ateşleme hızına bakmamız gerekir."
+   ]
+  },
+  {
+   "id": "spontan",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Şiddet kodlaması",
+   "baslik": "Spontan hıza göre *üç grup*",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Yüksek spontan",
+     "metin": "18 üstü: düşük eşik, dar aralık",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Orta spontan",
+     "metin": "0,5 ile 18: eşik, aralık orta",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Düşük spontan",
+     "metin": "0,5 altı: yüksek eşik, geniş aralık",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Lifler ses yokken de kendiliğinden ateşler; bu hıza spontan ateşleme hızı (spontaneous rate) denir.",
+    "Liberman'ın kedilerde yaptığı klasik çalışmada lifler spontan hızlarına göre üç gruba ayrılmıştır.",
+    "Saniyede on sekizden fazla atım yapan yüksek spontan hızlı lifler, liflerin yaklaşık yüzde altmışını oluşturur.",
+    "Bu lifler çok düşük şiddetlere yanıt verir, ama dar bir aralıktan sonra çabuk doyar.",
+    "Orta spontan hızlı lifler yaklaşık dörtte birlik, düşük spontan hızlı lifler ise yaklaşık yüzde on beşlik bir paya sahiptir.",
+    "Düşük spontan hızlı liflerin eşiği daha yüksektir; ama yüksek şiddetlerde doymadan çalışmaya devam ederler.",
+    "Oranlar türe ve çalışmaya göre değişir; ama ilke aynıdır: farklı lifler farklı şiddet aralıklarını üstlenir."
+   ]
+  },
+  {
+   "id": "genis_aralik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Şiddet kodlaması",
+   "baslik": "Geniş aralık nasıl *kapsanır?*",
+   "maddeler": [
+    {
+     "metin": "Farklı eşikli lifler _sırayla_ devreye girer",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Yüksek seste titreşim _yayılır_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Daha çok lif _ateşlenir_",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Beyin hızı ve lif sayısını _birleştirir_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 1000
+    },
+    "vurgula": [
+     {
+      "parca": "baziler_membran",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Geniş şiddet aralığı, farklı eşiklere sahip liflerin sırayla devreye girmesiyle karşılanır.",
+    "Ayrıca ses yükseldikçe baziler membranın titreşimi, karakteristik yerden komşu bölgelere doğru yayılır.",
+    "Bu yayılma nedeniyle daha geniş bir bölgedeki lifler, yani toplamda daha çok lif ateşlenir.",
+    "Beyin, liflerin hızlarını ve kaç lifin etkinleştiğini birlikte değerlendirerek ses şiddetini algılar.",
+    "Yüksek şiddetlerde bu yayılma, frekans seçiciliğinin bir miktar azalmasına da yol açar."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Şiddet kodlaması",
+   "baslik": "Başlangıç yanıtı ve *uyum*",
+   "maddeler": [
+    {
+     "metin": "Ses başında _çok yüksek_ ateşleme",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sonra hız düşer: _uyum_",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Değişen sesler _öne çıkar_",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Eş zamanlı başlangıç: _ABR dalga I_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "dalga I: işitme siniri",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 3
+     }
+    ],
+    "cumle": 3
+   },
+   "cumleler": [
+    "Bir ses başladığında lifler ilk birkaç milisaniyede çok yüksek bir hızla ateşler.",
+    "Ses sürdükçe ateşleme hızı azalır ve daha düşük bir düzeye yerleşir; buna uyum (adaptation) denir.",
+    "Uyum, sesin başlangıcını vurgular ve değişen seslerin daha kolay fark edilmesine yardım eder.",
+    "Kısa bir uyaranla çok sayıda lifin aynı anda ateşlemesi, işitsel beyin sapı yanıtının, kısaca ABR'nin ilk dalgasını oluşturur.",
+    "Bu yüzden ABR'nin birinci dalgası, işitme sinirinin eş zamanlı etkinliğini yansıtır."
+   ]
+  },
+  {
+   "id": "sinaptopati",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Normal odyogram, *gürültüde* zorluk",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: normal eşikler",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: normal eşikler",
+     "cumle": 0
+    },
+    {
+     "isaret": "?",
+     "renk": "yesil",
+     "metin": "Yakınma: _gürültüde_ anlama",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       5,
+       10,
+       10,
+       15,
+       20
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte iki kulağın hava yolu eşikleri normal sınırlarda.",
+    "Ancak kişi, kalabalık ve gürültülü ortamlarda konuşmayı anlamakta zorlandığını söylüyor.",
+    "Hayvan çalışmaları, gürültünün eşikleri kalıcı bozmadan tüy hücresi ile sinir lifi arasındaki sinapsları azaltabildiğini gösterdi.",
+    "Bu duruma koklear sinaptopati denir; yani tüy hücresi ile sinir lifi arasındaki bağlantıların kaybı.",
+    "Kaybın özellikle düşük spontan hızlı lifleri etkilediği düşünülür; eşiği belirleyen lifler korunduğu için odyogram normal kalabilir.",
+    "İnsanda bu durumun sıklığı ve ölçüm yöntemleri henüz tartışmalıdır; bu örnek yalnız kavramı göstermek içindir."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Kodlama ve *klinik*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Tüy hücresi kaybı",
+     "metin": "Dış tüy hücresi: ayar eğrisi genişler",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Rekruitment",
+     "metin": "Ses yüksekliği hızlı artar",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Yaşlanma",
+     "metin": "Zaman bilgisi zayıflayabilir",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Koklear implant",
+     "metin": "Ağırlıkla yer kodu",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Koklear sinaptopati",
+     "metin": "Normal eşik, gürültüde güçlük",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bu kodlama ilkeleri, klinikte gördüğümüz birçok yakınmayı anlamamıza yardım eder.",
+    "Dış tüy hücresi kaybında ayar eğrileri genişler ve sesler birbirinden daha zor ayrılır.",
+    {
+     "yazi": "Aynı kayıpta koklear sıkıştırma da azalır; ses yüksekliği eşiğin üstünde anormal hızlı artar, buna rekruitment (recruitment) denir.",
+     "ses": "Aynı kayıpta koklear sıkıştırma da azalır; ses yüksekliği eşiğin üstünde anormal hızlı artar, buna rekruitment denir."
+    },
+    "Yaşlanmayla sinir liflerinin zamanlama hassasiyetinin azalabildiği ve gürültüde anlamayı zorlaştırabildiği bildirilmiştir.",
+    "Koklear implant kullanıcılarında frekans bilgisi ağırlıkla elektrotların yeriyle, yani yer koduyla iletilir.",
+    "Koklear sinaptopatide ise eşikler normal kalırken gürültüde anlama güçlüğü ön plana çıkabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Klinikte dikkat",
+   "metin": "Normal odyogram, gürültüde anlama yakınmasını dışlamaz. Yakınmayı ciddiye alın, gürültüde konuşma testleriyle değerlendirmeyi genişletin ve sonuçları birlikte raporlayın.",
+   "cumleler": [
+    "Bir klinik ipucu: normal bir odyogram, işitme sisteminin her bölümünün sağlıklı olduğunu garanti etmez.",
+    "Odyogram esas olarak eşiği, yani en duyarlı liflerin yanıtını ölçer.",
+    "Gürültüde anlama yakınması olan kişide, gürültüde konuşma testleri gibi ek testlerle değerlendirmeyi genişletin.",
+    "Yakınmayı ve test sonuçlarını raporda birlikte belirtmek, sonraki değerlendirmeler için değerli bir kayıttır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_Yer kodu_: hangi lif ateşliyor",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Faz kilitlenmesi_: pes ve orta frekanslar",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Şiddet: _ateşleme hızı_ ve lif sayısı",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Spontan hıza göre _üç_ lif grubu",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Frekans, hangi liflerin ateşlendiğiyle, yani yer kodlamasıyla temsil edilir.",
+    "Pes ve orta frekanslarda faz kilitlenmesi zaman bilgisini ekler; yaklaşık dört ile beş kilohertzin üzerinde bu bilgi kaybolur.",
+    "Şiddet, ateşleme hızındaki artışla ve etkinleşen lif sayısıyla kodlanır.",
+    "Yüksek, orta ve düşük spontan hızlı lifler birlikte geniş bir şiddet aralığını kapsar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Faz kilitlenmesi yaklaşık hangi frekansın üzerinde kaybolur?",
+   "secenekler": [
+    "250 Hz",
+    "500 Hz",
+    "4 ile 5 kHz",
+    "Hiç kaybolmaz"
+   ],
+   "dogru": 2,
+   "aciklama": "Faz kilitlenmesi 1000 Hz üstünde zayıflar; _tiz frekanslarda_ frekans bilgisi yer koduna dayanır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Faz kilitlenmesi yaklaşık hangi frekansın üzerinde kaybolur?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap C: yaklaşık dört ile beş kilohertz.",
+     "ses": "Doğru cevap ce: yaklaşık dört ile beş kilohertz."
+    },
+    "Faz kilitlenmesi bin hertzin üzerinde zayıflamaya başlar; daha tiz frekanslarda frekans bilgisi yer koduna dayanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Binaural işitme: iki kulak neden *tek kulaktan* iyidir?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iki kulakla işitmenin, yani binaural işitmenin sağladığı avantajları öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

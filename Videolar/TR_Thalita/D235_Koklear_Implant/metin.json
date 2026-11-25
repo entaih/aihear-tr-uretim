@@ -1,0 +1,703 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D235_Koklear_Implant_TR",
+ "kapak": {
+  "ust": "DERS 235",
+  "baslik": "Koklear implant<br>*nasıl çalışır?*",
+  "alt": "Dış ünite, iç ünite, elektrik uyarım",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Koklear implant nasıl çalışır? | Ders 235 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Koklear implant sesi nasıl elektrik sinyaline çevirir ve işitme sinirini nasıl uyarır? Bu derste dış üniteyi (mikrofon, ses işlemcisi, verici bobin), iç üniteyi (alıcı-uyarıcı, elektrot dizisi), sinyal işleme adımlarını, tonotopik uyarımı ve implantla işitmenin doğal işitmeden farklarını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Wilson ve Dorman, Cochlear implants: a remarkable past and a brilliant future, Hearing Research (2008); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Ling, Speech and the Hearing-Impaired Child.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "işitme"
+  ],
+  "etiketler": [
+   "koklear implant",
+   "cochlear implant",
+   "koklear implant nasıl çalışır",
+   "elektrot dizisi",
+   "ses işlemcisi",
+   "işitme siniri",
+   "tonotopi",
+   "implant programlama",
+   "Ling altı ses testi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 235",
+   "baslik": "Koklear implant *nasıl çalışır?*",
+   "alt": "Dış ünite, iç ünite ve elektriksel uyarım",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste koklear implantın parçalarını ve sesi nasıl elektriksel bir uyarıya dönüştürdüğünü öğreneceğiz.",
+    "Ardından implantla işitmenin doğal işitmeden hangi yönlerden farklı olduğunu konuşacağız."
+   ]
+  },
+  {
+   "id": "fikir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel fikir",
+   "baslik": "Cihazdan *farkı* ne?",
+   "maddeler": [
+    {
+     "metin": "İşitme cihazı: sesi _yükseltir_",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "İmplant: tüy hücrelerini _atlar_",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "İşitme sinirini doğrudan uyarır",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ağır ve çok ileri kayıplarda",
+     "cumle": 6,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KOKLEAR İMPLANT",
+    "metin": "İşitme sinirini *elektriksel* olarak uyaran cihaz",
+    "cumle": 3
+   },
+   "cumleler": [
+    "İşitme cihazı sesi yükseltir ve kulağa akustik olarak verir.",
+    "Bunun yararlı olabilmesi için koklear tüy hücrelerinin bir bölümünün çalışıyor olması gerekir.",
+    "Ağır ve çok ileri kayıplarda tüy hücrelerinin çoğu kaybolduğu için, ses ne kadar yükseltilse de anlaşılır olmayabilir.",
+    "Koklear implant (cochlear implant), bu noktada farklı bir yol izler: hasarlı tüy hücrelerini atlar.",
+    "Koklea içine yerleştirilen elektrotlar, işitme siniri liflerini ve spiral ganglion hücrelerini doğrudan elektrik akımıyla uyarır.",
+    "Yani implant sesi yükseltmez; sesi, sinirin anlayabileceği elektriksel bir koda dönüştürür.",
+    "Bu nedenle implant, işitme cihazından sınırlı yarar gören ağır ve çok ileri derecede kaybı olan kişiler için geliştirilmiştir.",
+    "Kimlerin implant için uygun aday olduğu ise ayrı bir değerlendirme konusudur; bir sonraki derste ele alacağız."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel fikir",
+   "baslik": "Örnek: *çok ileri* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ bölge",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       80,
+       90,
+       100,
+       105,
+       110,
+       110
+      ],
+      "cumle": 0,
+      "yanitsiz": [
+       5
+      ]
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       85,
+       95,
+       105,
+       110,
+       115,
+       110
+      ],
+      "cumle": 0,
+      "yanitsiz": [
+       5
+      ]
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnekte iki kulakta da ağır ile çok ileri derece arasında bir işitme kaybı görülüyor.",
+    "Eşikler alçak frekanslarda 80 dB civarından başlıyor, 4000 Hz'de 110 dB ve üzerine iniyor; 8000 Hz'de yanıt yok.",
+    "Ortalama konuşma sesleri ise odyogramda yaklaşık 20 ile 60 dB HL arasındaki bölgeye düşer; yani bu eşiklerin çok üzerinde kalır.",
+    "Böyle bir kayıpta güçlü bir cihaz bile konuşma seslerini, özellikle yüksek frekanslı ünsüzleri yeterince duyuramayabilir.",
+    "Duyulan sesler de bozuk algılanabilir; çünkü kalan tüy hücreleri sesi ayrıntılı biçimde işleyemez.",
+    "İşte implant, sesi bu hasarlı bölgeyi atlayarak sinire iletmek için tasarlanmıştır.",
+    "Buradaki değerler örnektir; gerçek kararlar çok daha kapsamlı bir değerlendirmeye dayanır."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel fikir",
+   "baslik": "Kısa *tarihçe*",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "İlk deneyler",
+     "metin": "1950'lerin sonu",
+     "cumle": 0
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Çok kanallı",
+     "metin": "1980'li yıllar",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Nöral protez",
+     "metin": "En başarılı örnek",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Bugün",
+     "metin": "Bir milyonu aşkın implant",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "İşitme sinirinin elektrikle uyarılmasına yönelik ilk deneyler 1950'lerin sonuna uzanır.",
+     "ses": "İşitme sinirinin elektrikle uyarılmasına yönelik ilk deneyler bin dokuz yüz ellilerin sonuna uzanır."
+    },
+    {
+     "yazi": "Günümüzdekilere benzeyen çok kanallı implantlar ise 1980'li yıllarda klinik kullanıma girdi.",
+     "ses": "Günümüzdekilere benzeyen çok kanallı implantlar ise bin dokuz yüz seksenli yıllarda klinik kullanıma girdi."
+    },
+    "Avustralya'da Graeme Clark ve Avusturya'da Hochmair çifti gibi araştırmacılar bu gelişmede öncü rol oynadı.",
+    "Koklear implant bugün, bir duyuyu kısmen yerine koyan en başarılı nöral protez olarak kabul edilir.",
+    "Dünya genelinde bugüne kadar bir milyonu aşkın koklear implant uygulandığı tahmin edilmektedir."
+   ]
+  },
+  {
+   "id": "parcalar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dış ve iç ünite",
+   "baslik": "İmplantın *parçaları*",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "dis_islemci",
+     "metin": "ses işlemcisi (sound processor)",
+     "cumle": 1
+    },
+    {
+     "parca": "verici_bobin",
+     "metin": "verici bobin",
+     "cumle": 2
+    },
+    {
+     "parca": "alici_uyarici",
+     "metin": "alıcı-uyarıcı",
+     "cumle": 4
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "metin": "elektrot dizisi (electrode array)",
+     "cumle": 5
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "işitme siniri",
+     "cumle": 7
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_islemci",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dış ünite: mikrofon, işlemci, bobin",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "İç ünite: alıcı-uyarıcı, elektrotlar",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Deri üzerinden radyo frekansı",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 5,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Koklear implant, dışarıda takılan bir dış ünite ile cerrahi olarak yerleştirilen bir iç üniteden oluşur.",
+    "Dış ünitede mikrofonlar ve ses işlemcisi (sound processor) bulunur; çoğu zaman kulak arkasında taşınır.",
+    "İşlemciden çıkan ince bir kablo, başın yan tarafında deriye oturan verici bobine bağlanır.",
+    "Bobin, sinyali ve enerjiyi deri üzerinden, radyo frekansı ile iç üniteye aktarır; bobini yerinde tutan bir mıknatıstır.",
+    "İç ünitede, kulağın arkasında deri altına yerleştirilen bir alıcı-uyarıcı bulunur; bunun kendi pili yoktur.",
+    "Alıcı-uyarıcıdan çıkan elektrot dizisi (electrode array), koklea içine yerleştirilir.",
+    "Dizi genellikle yuvarlak pencereden ya da yakınında açılan küçük bir delikten skala timpaniye ilerletilir.",
+    "Elektrotlardan verilen akım, çevredeki işitme siniri liflerini uyarır ve sinyal beyne iletilir."
+   ]
+  },
+  {
+   "id": "uniteler",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dış ve iç ünite",
+   "baslik": "Dış ünite ve *iç ünite*",
+   "sol": {
+    "ust": "Dış ünite",
+    "maddeler": [
+     {
+      "metin": "Mikrofon ve ses işlemcisi",
+      "cumle": 0
+     },
+     {
+      "metin": "Pil ya da şarjlı batarya",
+      "cumle": 1
+     },
+     {
+      "metin": "Çıkarılabilir, yenilenebilir",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "İç ünite",
+    "maddeler": [
+     {
+      "metin": "Alıcı-uyarıcı ve mıknatıs",
+      "cumle": 3
+     },
+     {
+      "metin": "Üreticiye göre 12 ile 22 elektrot",
+      "cumle": 4
+     },
+     {
+      "metin": "Kalıcı, enerjiyi dışarıdan alır",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Dış ünite sesi toplar ve işler; tüm akıllı işlem burada yapılır.",
+    "Enerjisini pil ya da şarjlı bataryadan alır ve bu enerjiyi bobin yoluyla iç üniteye de iletir.",
+    "Dış ünite istendiğinde çıkarılabilir; uyurken ya da banyoda genellikle çıkarılır ve yıllar içinde daha yeni modellerle değiştirilebilir.",
+    "İç ünite, alıcı-uyarıcı gövdesi, mıknatıs ve koklea içindeki elektrot dizisinden oluşur.",
+    "Koklea içindeki elektrot sayısı üreticiye göre genellikle 12 ile 22 arasında değişir.",
+    "Ayrıca koklea dışında, akımın dönüş yolu için bir referans elektrot bulunur.",
+    "İç ünite kalıcıdır ve kendi enerji kaynağı yoktur; dış ünite takılı değilse çalışmaz.",
+    "Bu yüzden dış ünite çıkarıldığında kişi implant yoluyla hiçbir şey duymaz."
+   ]
+  },
+  {
+   "id": "isleme",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sesten elektriğe",
+   "baslik": "Sesten *elektriğe* adım adım",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Kanallara ayırma",
+     "metin": "Filtre bankası",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Zarf",
+     "metin": "Genlik değişimi çıkarılır",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Sıkıştırma",
+     "metin": "Dar aralık: T ile C",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Elektrik darbeleri",
+     "metin": "Elektrotlara sırayla",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Şimdi bir sesin implantın içinde nasıl işlendiğini izleyelim.",
+    "Mikrofonun aldığı ses, ses işlemcisinde bir filtre bankasıyla çok sayıda frekans kanalına ayrılır.",
+    "Her kanalda sesin zaman içindeki genlik değişimi, yani zarfı çıkarılır; ince zamansal ayrıntının büyük kısmı burada kaybolur.",
+    "Doğal kulağın yaklaşık 120 dB'lik geniş ses aralığı, çok daha dar bir elektriksel aralığa sıkıştırılır.",
+    "Bu sıkıştırma, her elektrot için ölçülen kişiye özel iki düzey arasında yapılır.",
+    {
+     "yazi": "Bu düzeyler, uyarının ilk fark edildiği T düzeyi ve rahatça dinlenebildiği C düzeyidir; ikisi birlikte haritayı oluşturur.",
+     "ses": "Bu düzeyler, uyarının ilk fark edildiği te düzeyi ve rahatça dinlenebildiği ce düzeyidir; ikisi birlikte haritayı oluşturur."
+    },
+    "Sonuçta her kanalın bilgisi, ilgili elektroda kısa elektrik darbeleri olarak ve genellikle sırayla, üst üste binmeden verilir.",
+    "Darbelerin sırayla verilmesi, komşu elektrotların akımlarının birbirine karışmasını azaltmak içindir."
+   ]
+  },
+  {
+   "id": "tonotopi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sesten elektriğe",
+   "baslik": "Koklea boyunca *frekans haritası*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "taban: tiz sesler",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "tepe: pes sesler",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "yuvarlak pencere",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tabandaki elektrot: yüksek frekans",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Dizi tepeye kadar ulaşmayabilir",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Beyin zamanla uyum sağlar",
+     "cumle": 7,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "İmplant, kokleanın doğal frekans haritasından yararlanır; buna tonotopi denir.",
+    "Kokleanın tabanı, yani oval pencereye yakın bölümü, yüksek frekanslara karşılık gelir.",
+    "Tepe bölümü ise alçak frekanslara karşılık gelir.",
+    "Bu yüzden yüksek frekans kanalının bilgisi tabana yakın elektroda, alçak frekans kanalının bilgisi daha derindeki elektroda verilir.",
+    "Elektrot dizisi yuvarlak pencere bölgesinden girerek tabandan tepeye doğru ilerler.",
+    "Koklea yaklaşık iki buçuk tur yapar ve elektrot dizisi çoğu zaman tepeye kadar ulaşmaz.",
+    "Bu da verilen frekans ile uyarılan sinir bölgesi arasında bir uyumsuzluk yaratabilir.",
+    "Bu nedenle ilk günlerde sesler tiz ya da mekanik gelebilir; beyin zamanla bu yeni koda büyük ölçüde uyum sağlar."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Doğal işitmeden farkları",
+   "baslik": "Doğal işitme ve *implant*",
+   "sutunlar": [
+    "Özellik",
+    "Doğal işitme",
+    "Koklear implant"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Frekans ayrımı",
+      "Binlerce tüy hücresi",
+      "Sınırlı etkin kanal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Dinamik aralık",
+      "Yaklaşık 120 dB",
+      "Dar elektriksel aralık"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "İnce zamansal yapı",
+      "Korunur",
+      "Büyük ölçüde kaybolur"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Müzik ve perde",
+      "Ayrıntılı",
+      "Sınırlı"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Gürültüde konuşma",
+      "Görece iyi",
+      "Çoğu zaman zor"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Doğal kulakta frekans ayrımını binlerce tüy hücresi ve sinir lifi sağlar.",
+    "İmplantta ise elektrot sayısı sınırlıdır ve akım çevreye yayıldığı için etkin kanal sayısı çoğu zaman elektrot sayısından da azdır.",
+    "Doğal kulağın geniş dinamik aralığı, implantta dar bir elektriksel aralığa sıkıştırılır.",
+    "Sesin ince zamansal yapısı implantta büyük ölçüde iletilmez; bu bilgi perde ve tını algısı için önemlidir.",
+    "Bu yüzden müzik dinlemek, melodiyi ve farklı çalgıları ayırt etmek implant kullanıcıları için çoğu zaman zordur.",
+    "Gürültülü ortamda konuşmayı anlamak da sessiz ortama göre belirgin biçimde zorlaşır.",
+    "Buna karşın pek çok kullanıcı sessiz ortamda, dudak okumadan konuşmayı anlayabilecek düzeye ulaşır.",
+    "Bu farkları bilmek, kullanıcıya ve ailesine gerçekçi beklentiler anlatmak için önemlidir."
+   ]
+  },
+  {
+   "id": "uyum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Doğal işitmeden farkları",
+   "baslik": "Aktivasyon ve *uyum süreci*",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "Aktivasyon",
+     "metin": "Ameliyattan haftalar sonra",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Programlama",
+     "metin": "Eşik ve konfor düzeyleri",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "İlk sesler",
+     "metin": "Mekanik, zamanla doğallaşır",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Rehabilitasyon",
+     "metin": "Düzenli işitsel eğitim",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Dış ünite genellikle ameliyattan birkaç hafta sonra ilk kez takılır ve sistem çalıştırılır; buna aktivasyon denir.",
+    "Odyolog her elektrot için eşik ve konfor düzeylerini belirler; bu işleme programlama ya da haritalama denir.",
+    "Harita ilk aylarda sık aralıklarla güncellenir; çünkü kişinin elektriksel uyarıya alışmasıyla düzeyler değişir.",
+    "Kullanıcılar ilk sesleri çoğu zaman robotik, metalik ya da tiz olarak tarif eder.",
+    "Beyin bu yeni sinyali zamanla anlamlandırmayı öğrenir; bu süreç haftalar ile aylar arasında sürebilir.",
+    "Düzenli kullanım ve işitsel rehabilitasyon, bu öğrenme sürecinin temelidir.",
+    "Sonuçlar kişiden kişiye değişir; işitme kaybının süresi, implant yaşı ve işitme sinirinin durumu belirleyici etkenler arasındadır."
+   ]
+  },
+  {
+   "id": "rezidual",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Doğal işitmeden farkları",
+   "baslik": "Kalan işitme: *hibrit* ve bimodal",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kalan işitme",
+     "metin": "Alçak frekanslar korunabilir",
+     "cumle": 0
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Hibrit",
+     "metin": "Elektrik ve akustik birlikte",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Bimodal",
+     "metin": "İmplant ve karşı kulakta cihaz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bazı kişilerde alçak frekanslarda kullanılabilir bir kalan işitme bulunur ve uygun cerrahi teknikle bu işitme korunmaya çalışılır.",
+    "Bu durumda aynı kulakta yüksek frekanslar elektrikle, alçak frekanslar akustik olarak uyarılabilir.",
+    "Elektrik ve akustik uyarımın birlikte kullanılmasına elektroakustik stimülasyon ya da hibrit uygulama denir.",
+    "Bir kulağında implant, diğer kulağında işitme cihazı kullanan kişilerin uyumuna ise bimodal uyum denir.",
+    "Akustik işitmenin taşıdığı perde ve zamansal bilgi, implantın eksik bıraktığı bazı ayrıntıları tamamlayabilir.",
+    "Bu nedenle kalan işitmenin değerlendirilmesi ve korunması, implant sürecinin önemli bir parçasıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "İmplantlı çocukta günlük dinleme kontrolü için Ling altı ses testini kullanın: m, u, a, i, ş, s. Yanıtsız ses, cihaz ya da harita sorununa işaret edebilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: implantlı çocuklarda günlük dinleme kontrolü için Ling altı ses testi pratik bir araçtır.",
+    {
+     "yazi": "Test, dudaklar görünmeden söylenen altı sesten oluşur: m, u, a, i, ş ve s.",
+     "ses": "Test, dudaklar görünmeden söylenen altı sesten oluşur: mmm, uu, aa, ii, şşş ve sss."
+    },
+    "Bu sesler, konuşma frekans aralığının alçaktan yükseğe büyük bölümünü temsil eder.",
+    "Çocuk daha önce algıladığı bir sese yanıt vermiyorsa, bir donanım arızası ya da harita güncelleme ihtiyacı olabilir.",
+    "Aileye bu testi her sabah uygulamayı öğretmek, sorunların erken fark edilmesini sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "İmplant tüy hücrelerini atlar",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Dış ünite işler, iç ünite uyarır",
+     "cumle": 1,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Tabanda tiz, tepede pes uyarım",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sınırlı kanal, dar dinamik aralık",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Bu derste koklear implantın hasarlı tüy hücrelerini atlayarak işitme sinirini doğrudan uyardığını gördük.",
+    "Dış ünite sesi toplar ve işler; iç ünite enerjiyi ve bilgiyi deri üzerinden alarak elektrotlara aktarır.",
+    "Elektrotlar kokleanın frekans haritasına göre uyarım verir: tabanda yüksek, tepeye doğru alçak frekanslar.",
+    "Sınırlı kanal sayısı, dar dinamik aralık ve kaybolan ince zamansal yapı, implantla işitmeyi doğal işitmeden ayırır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Koklear implantta yüksek frekans bilgisi hangi elektroda verilir?",
+   "secenekler": [
+    "Tepeye en yakın elektroda",
+    "Tabana yakın elektroda",
+    "Koklea dışındaki elektroda",
+    "Tüm elektrotlara eşit"
+   ],
+   "dogru": 1,
+   "aciklama": "Koklea tabanı yüksek frekanslara karşılık gelir: _tonotopi_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: koklear implantta yüksek frekans kanalının bilgisi hangi elektroda verilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kokleanın tabanına yakın elektroda.",
+    "Kokleanın tabanı yüksek, tepesi alçak frekanslara karşılık gelir; implant bu tonotopik düzeni kullanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Koklear implant *adaylığı*: çocuk ve yetişkin",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste çocuklarda ve yetişkinlerde koklear implant adaylığını ve genişleyen ölçütleri inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

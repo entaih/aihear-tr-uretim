@@ -1,0 +1,883 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D061_Kemik_Yolu_Odyometrisi_TR",
+ "kapak": {
+  "ust": "DERS 61",
+  "baslik": "*Kemik yolu*<br>odyometrisi",
+  "alt": "Vibratör yerleşimi ve tuzaklar",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      40,
+      40,
+      35,
+      40,
+      45,
+      50
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      15
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Kemik Yolu Odyometrisi Nasıl Yapılır? | Ders 61 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kemik yolu eşikleri, kaybın iletim tipi mi sensörinöral mi olduğunu anlamamızı sağlar. Bu derste kemik vibratörünün mastoid ve alın yerleşimini, test frekanslarını, kulaklar arası zayıflamayı, titreşim duyumu yanıtını, akustik yayılımı ve oklüzyon etkisini örnek bir odyogramla inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); British Society of Audiology, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kemikyolu",
+   "işitme"
+  ],
+  "etiketler": [
+   "kemik yolu",
+   "kemik yolu odyometrisi",
+   "bone conduction",
+   "kemik vibratörü",
+   "mastoid",
+   "vibrotaktil yanıt",
+   "akustik yayılım",
+   "oklüzyon etkisi",
+   "hava-kemik aralığı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 61",
+   "baslik": "*Kemik yolu* odyometrisi",
+   "alt": "Vibratör yerleşimi, test frekansları ve tuzaklar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste kemik yolu odyometrisinin nasıl yapıldığını öğreneceğiz.",
+    "Vibratörün yerleşimini, test frekanslarını ve sonuçları yanıltabilecek tuzakları adım adım göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden kemik yolu?",
+   "baslik": "Hava yolu ve *kemik yolu*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "orta_kulak",
+     "metin": "hava yolu: dış ve orta kulaktan geçer",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "metin": "kemik yolu: doğrudan koklea",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Fark: hava-kemik aralığı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Hava yolu testinde ses, dış kulak ve orta kulaktan geçerek kokleaya ulaşır.",
+    "Kemik yolu testinde ise kafatasına verilen titreşim, dış ve orta kulağı büyük ölçüde atlayarak kokleayı doğrudan uyarır.",
+    "Bu yüzden kemik yolu eşikleri büyük ölçüde iç kulağın ve işitme sinirinin, yani sensörinöral sistemin duyarlılığını yansıtır.",
+    "İki eşiği karşılaştırdığımızda, kaybın iletim tipi mi, sensörinöral mi, yoksa mikst mi olduğunu anlarız.",
+    "Hava yolu ile kemik yolu eşikleri arasındaki farka hava-kemik aralığı dendiğini hatırlayalım.",
+    "Kemik yolu ile işitmenin mekanizmalarını önceki derslerde ele almıştık; bu derste ölçümün kendisine odaklanacağız."
+   ]
+  },
+  {
+   "id": "ne_zaman",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden kemik yolu?",
+   "baslik": "Ne zaman ve hangi *frekanslarda?*",
+   "maddeler": [
+    {
+     "metin": "Hava yolu _normal değilse_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Frekanslar: _250 ile 4000 Hz_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "8000 Hz rutin değil",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Kulaklar _açık_, kulaklıklar çıkarılmış",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu genellikle hava yolu eşikleri normal sınırın üzerinde, yani yaklaşık yirmi ile yirmi beş desibel HL'den kötü olduğunda ölçülür.",
+    "Birçok klinik ise kemik yolunu tüm hastalarda rutin olarak ölçer.",
+    "Test frekansları genellikle iki yüz elli ile dört bin hertz arasındaki oktav frekanslarıdır.",
+    "Sekiz bin hertz rutin olarak test edilmez; çünkü vibratörlerin bu frekanstaki çıkışı sınırlıdır ve akustik yayılım artar.",
+    "Maskesiz kemik yolu ölçülürken kulaklıklar çıkarılır ve iki kulak da açık bırakılır."
+   ]
+  },
+  {
+   "id": "vibrator",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vibratör ve yerleşim",
+   "baslik": "Kemik *vibratörü*",
+   "cizim": "odyometre",
+   "vurgula": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "kemik vibratörü",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kafa bandı: yaklaşık 5,4 N baskı",
+     "cumle": 2
+    },
+    {
+     "metin": "Yaygın modeller: B-71, B-81",
+     "cumle": 3
+    },
+    {
+     "metin": "Her vibratör kendi kalibrasyonuyla",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu testinde ses, kemik vibratörü adı verilen küçük bir titreştiriciyle verilir.",
+    "Vibratör, odyometrenin elektrik sinyalini kafatasına iletilen mekanik titreşime dönüştürür.",
+    "Vibratör bir kafa bandıyla, standartlarda tanımlanan yaklaşık beş virgül dört newtonluk bir baskı kuvvetiyle tutturulur.",
+    {
+     "yazi": "Klinikte yaygın kullanılan modeller arasında B-71 ve B-81 bulunur.",
+     "ses": "Klinikte yaygın kullanılan modeller arasında be yetmiş bir ve be seksen bir bulunur."
+    },
+    "Her vibratör kendi kalibrasyon değerleriyle odyometreye tanıtılmış olmalıdır."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vibratör ve yerleşim",
+   "baslik": "Mastoid ve *alın* yerleşimi",
+   "sol": {
+    "ust": "Mastoid",
+    "maddeler": [
+     {
+      "metin": "Aynı güçle _daha yüksek_ duyum",
+      "cumle": 1
+     },
+     {
+      "metin": "Klinikte daha yaygın",
+      "cumle": 1
+     },
+     {
+      "metin": "Kulak kepçesine _değmemeli_",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Alın",
+    "maddeler": [
+     {
+      "metin": "Test-tekrar test _daha tutarlı_",
+      "cumle": 3
+     },
+     {
+      "metin": "Daha fazla güç gerekir",
+      "cumle": 4
+     },
+     {
+      "metin": "Ölçülebilen en yüksek düzey _daha düşük_",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Vibratör iki yere yerleştirilebilir: mastoid kemiğe ya da alnın orta hattına.",
+    "Mastoid yerleşimi, aynı elektrik gücüyle daha yüksek bir duyum sağladığı için klinikte daha yaygın kullanılır.",
+    "Vibratör mastoid çıkıntının en düz bölümüne, kulak kepçesine değmeyecek biçimde konur.",
+    "Alın yerleşimi, yerleştirmeden kaynaklanan farklara daha az duyarlıdır ve test-tekrar test tutarlılığı daha iyidir.",
+    "Ancak alından aynı duyumu sağlamak için daha fazla güç gerekir; bu yüzden ölçülebilen en yüksek düzey daha düşüktür.",
+    "Her iki yerleşimde de odyometre, o yerleşime ait kalibrasyon değerleriyle kullanılmalıdır."
+   ]
+  },
+  {
+   "id": "ia",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vibratör ve yerleşim",
+   "baslik": "Titreşim *iki kokleaya* ulaşır",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 0
+   },
+   "vurgula": [
+    {
+     "parca": "kafatasi",
+     "cumle": 0
+    },
+    {
+     "parca": "test_kulagi",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "kulaklar arası zayıflama: yaklaşık 0 dB",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Maskesiz kemik yolu: daha iyi koklea",
+     "cumle": 3
+    },
+    {
+     "metin": "Kesin kulak için: karşı kulağı maskele",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kemik yolunun önemli bir özelliği, titreşimin tüm kafatasını titreştirmesidir.",
+    "Vibratör hangi tarafa konursa konsun, iki koklea da neredeyse aynı düzeyde uyarılır.",
+    "Bu nedenle kemik yolunda kulaklar arası zayıflama genellikle yaklaşık sıfır desibel kabul edilir.",
+    "Yani maskesiz kemik yolu eşiği, aslında iki kokleadan daha iyi olanının eşiğini gösterir.",
+    "Eşiğin hangi kulağa ait olduğunu kesinleştirmek için karşı kulak maskelenir; bunu klinik maskeleme derslerinde göreceğiz."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uygulama",
+   "tur": "akis",
+   "baslik": "Adım adım *uygulama*",
+   "adimlar": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Hazırlık",
+     "metin": "Saç, gözlük sapı, küpe çekilir",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Yerleştirme",
+     "metin": "Kafa bandı sabitlenir",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Eşik araması",
+     "metin": "10 dB aşağı, 5 dB yukarı",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Talimat",
+     "metin": "Titreşim yanıt sayılmaz",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frekans sırası",
+     "metin": "1000 Hz, tizler, sonra pesler",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Önce mastoid bölgedeki saç aralanır; gözlük sapı ve küpe gibi temas edebilecek nesneler çıkarılır.",
+    "Vibratör yerleştirilir ve kafa bandı kaymayacak biçimde sabitlenir.",
+    "Eşik araması, hava yolunda olduğu gibi modifiye Hughson-Westlake yöntemiyle yapılır: on desibel aşağı, beş desibel yukarı.",
+    "Talimat aynıdır; ancak hastaya titreşimi hissetmenin yanıt sayılmadığını, sesi duyduğunda basması gerektiğini söyleyin.",
+    "Frekans sırası genellikle hava yolundaki gibidir: bin hertzden başlanır, tizlere çıkılır, sonra pes frekanslara geçilir.",
+    "Hasta testin sonuna kadar vibratörü oynatmamalı ve kafa bandına dokunmamalıdır."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uygulama",
+   "baslik": "Çıkış *sınırları*",
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "kemik",
+       "degerler": [
+        45,
+        65,
+        65,
+        65
+       ],
+       "yanitsiz": true,
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "maddeler": [
+    {
+     "metin": "250 Hz: yaklaşık _40 ile 50 dB HL_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Orta frekanslar: yaklaşık _60 ile 70 dB HL_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sınırda yanıt yok: _ok_ ile kayıt",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kemik vibratörlerinin verebileceği en yüksek düzey, hava yolu kulaklıklarına göre çok daha düşüktür.",
+    "Sınır cihaza göre değişir; genellikle iki yüz elli hertzde kırk ile elli, orta frekanslarda altmış ile yetmiş desibel HL civarındadır.",
+    "Bu düzeyde de yanıt yoksa, kemik yolu yanıt yok işaretiyle cihazın sınır düzeyine kaydedilir.",
+    "Bu nedenle ileri derecede kayıplarda kaybın tipini kemik yoluyla kesinleştirmek her zaman mümkün olmayabilir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uygulama",
+   "baslik": "Örnek: *maskesiz* kemik yolu",
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       35,
+       40,
+       45,
+       50
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      5,
+      35
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: sağ kulak",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: maskesiz, sağ mastoid",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Hava yolu_: sol kulak",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Bu örnek odyogramda sağ kulağın hava yolu eşikleri kırk desibel HL civarında.",
+    "Sağ mastoidden ölçülen maskesiz kemik yolu eşikleri ise normal sınırlarda.",
+    "Sol kulağın hava yolu eşikleri de bu örnekte normal.",
+    "Sağ kulakta yaklaşık otuz desibellik bir hava-kemik aralığı görünüyor.",
+    "Ancak bu maskesiz kemik yolunun sağ kokleaya mı, sol kokleaya mı ait olduğunu henüz bilmiyoruz.",
+    "Test kulağında genellikle on beş desibel ya da daha büyük bir aralık varsa, karşı kulak maskelenerek kemik yolu yeniden ölçülür."
+   ]
+  },
+  {
+   "id": "tipler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uygulama",
+   "baslik": "Kemik yolu ve *kayıp tipi*",
+   "sutunlar": [
+    "Kayıp tipi",
+    "Hava yolu",
+    "Kemik yolu",
+    "Hava-kemik aralığı"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "Normal",
+      "Normal",
+      "Yok"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "İletim tipi",
+      "Kötü",
+      "Normal",
+      "Var"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Sensörinöral",
+      "Kötü",
+      "Kötü",
+      "Yok"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Mikst",
+      "Kötü",
+      "Kötü",
+      "Var"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu sonucunu hava yoluyla birlikte okuyarak kaybın tipini belirleriz.",
+    "İletim tipi kayıpta hava yolu kötü, kemik yolu normaldir ve aralarında belirgin bir aralık vardır.",
+    "Sensörinöral kayıpta hava ve kemik yolu birlikte kötüleşir ve aralarında anlamlı bir aralık yoktur.",
+    "Mikst kayıpta ise kemik yolu da kötüdür, ama hava yolu ondan daha da kötüdür.",
+    "Genellikle on desibele kadar olan farklar ölçüm değişkenliği sayılır ve aralık olarak yorumlanmaz."
+   ]
+  },
+  {
+   "id": "mikst",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uygulama",
+   "baslik": "Örnek: *mikst* kayıp",
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       55,
+       60,
+       60,
+       65,
+       70,
+       75
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       30,
+       30,
+       30,
+       40,
+       45
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    },
+    "aralik": {
+     "konum": [
+      2,
+      30,
+      60
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: sağ kulak",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Maskeli kemik yolu_: sağ kulak",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Bu örnek odyogramda sağ kulağın hava yolu eşikleri elli beş ile yetmiş beş desibel HL arasında.",
+    "Maskeleme ile ölçülen kemik yolu eşikleri de normal sınırın dışında, otuz ile kırk beş desibel HL arasında.",
+    "Bin hertzde iki eşik arasında yaklaşık otuz desibellik bir aralık var.",
+    "Kemik yolunun da etkilenmiş olması sensörinöral bir bileşeni, aralığın varlığı ise iletim bileşenini gösterir.",
+    "Bu örnekteki tablo mikst tip işitme kaybı ile uyumludur."
+   ]
+  },
+  {
+   "id": "vibrotaktil",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tuzaklar",
+   "baslik": "Tuzak 1: *titreşim* hissi",
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "VİBROTAKTİL YANIT",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dokunma",
+      "baslik": "Hissetme",
+      "metin": "Titreşim deride algılanır",
+      "cumle": 1
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Sahte aralık",
+      "metin": "Gerçek eşik değildir",
+      "cumle": 2
+     },
+     {
+      "ikon": "soru",
+      "baslik": "Hastaya sorun",
+      "metin": "Duydu mu, hissetti mi?",
+      "cumle": 4
+     }
+    ]
+   },
+   "maddeler": [
+    {
+     "metin": "Pes frekanslarda, _yüksek_ şiddette",
+     "cumle": 0
+    },
+    {
+     "metin": "Hasta sesi değil titreşimi algılar",
+     "cumle": 1
+    },
+    {
+     "metin": "Sahte _hava-kemik aralığı_",
+     "cumle": 2
+    },
+    {
+     "metin": "Sorun ve odyogramda _not edin_",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kemik vibratörü yüksek şiddette, özellikle iki yüz elli ve beş yüz hertzde, deride hissedilebilen bir titreşim üretir.",
+    "Hasta bu titreşimi sesle karıştırıp yanıt verebilir; buna titreşim duyumu yanıtı ya da vibrotaktil yanıt denir.",
+    "Böyle bir yanıt gerçek bir işitme eşiği değildir ve sahte bir hava-kemik aralığı yaratabilir.",
+    "Bu durum özellikle ileri derecede sensörinöral kayıplarda, pes frekanslarda bir iletim bileşeni varmış gibi bir görüntüye yol açar.",
+    "Şüphelendiğinizde hastaya sesi mi duyduğunu, titreşimi mi hissettiğini sorun ve odyogramda bunu not edin."
+   ]
+  },
+  {
+   "id": "yayilim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tuzaklar",
+   "baslik": "Tuzak 2: *akustik yayılım*",
+   "maddeler": [
+    {
+     "metin": "Vibratör havaya da _ses_ yayar",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Özellikle _2000 ile 4000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kemik yolu olduğundan _iyi_ çıkar",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kontrol: köpük tıkaçla yeniden ölçüm",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Kemik vibratörü titreşirken çevresindeki havaya da bir miktar ses yayar; buna akustik yayılım denir.",
+    "Bu yayılım özellikle tiz frekanslarda, iki bin ile dört bin hertz bölgesinde belirgindir.",
+    "Kulak yolu açık olduğu için yayılan ses hava yoluyla duyulabilir ve kemik yolu eşiği olduğundan iyi çıkar.",
+    "Sonuçta, özellikle dört bin hertzde, gerçekte olmayan bir hava-kemik aralığı görülebilir.",
+    "Şüpheli durumda test kulağı köpük bir tıkaçla kapatılıp dört bin hertz yeniden ölçülebilir.",
+    "Tiz frekanslarda oklüzyon etkisi ihmal edilebilir düzeyde olduğu için bu kontrol eşiği yapay olarak iyileştirmez."
+   ]
+  },
+  {
+   "id": "okluzyon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tuzaklar",
+   "baslik": "Tuzak 3: *oklüzyon etkisi*",
+   "maddeler": [
+    {
+     "metin": "Kulak yolu kapanınca pes seslerde _artış_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Özellikle _250 ile 1000 Hz_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İletim tipi kayıpta _az ya da yok_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Maskesiz ölçüm: kulaklar _açık_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Kulak yolu kapatıldığında kemik yoluyla duyulan pes sesler daha yüksek algılanır; buna oklüzyon etkisi denir.",
+    "Etki en çok iki yüz elli ile bin hertz arasında görülür ve normal ya da sensörinöral kulaklarda belirgindir.",
+    "İletim tipi kaybı olan kulaklarda ise oklüzyon etkisi genellikle azdır ya da hiç görülmez.",
+    "Bu yüzden maskesiz kemik yolu, kulaklar açıkken ölçülür.",
+    "Maskeleme için karşı kulağa kulaklık takıldığında bu etki hesaba katılmalıdır.",
+    "Derin yerleştirilen insert kulaklıklar oklüzyon etkisini belirgin biçimde azaltır."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tuzaklar",
+   "tur": "ikonlar",
+   "baslik": "Diğer *yerleşim* hataları",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kepçeye temas",
+     "metin": "Güvenilmez eşik",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Gevşek bant",
+     "metin": "Eşik olduğundan kötü",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Saç, gözlük sapı",
+     "metin": "Temas zayıflar",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Kayan vibratör",
+     "metin": "Yeniden yerleştirip tekrarlayın",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu sonuçları yerleşime çok duyarlıdır; küçük hatalar eşikleri birkaç desibel değiştirebilir.",
+    "Vibratör kulak kepçesine değerse kepçe de titreşir ve sonuçlar güvenilmez olur.",
+    "Gevşek bir kafa bandı temas kuvvetini azaltır ve eşiklerin olduğundan kötü çıkmasına yol açar.",
+    "Araya giren saç ya da gözlük sapı da teması zayıflatır.",
+    "Test sırasında vibratör kayarsa, yeniden yerleştirip son ölçülen frekansları tekrarlayın."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tuzaklar",
+   "baslik": "Klinik ipucu",
+   "metin": "Kemik yolu eşiği hava yolundan 10 dB'den fazla kötü çıkarsa önce vibratör yerleşimini, kafa bandını ve kalibrasyonu kontrol edin.",
+   "cumleler": [
+    "Sahadan bir ipucu: kemik yolu eşiği normalde hava yolu eşiğinden belirgin biçimde kötü olamaz.",
+    "Çünkü hava yoluyla verilen ses de sonunda aynı kokleaya ulaşır.",
+    "On desibele kadar farklar ölçüm değişkenliği içinde kabul edilir.",
+    "Kemik yolu hava yolundan on desibelden fazla kötü çıkıyorsa, önce vibratörün yerleşimini ve kafa bandını kontrol edin.",
+    "Sorun sürüyorsa kemik yolu kalibrasyonunun gözden geçirilmesi gerekebilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kemik yolu _kokleayı_ doğrudan uyarır",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Mastoid yaygın, alın _daha tutarlı_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Kulaklar arası zayıflama yaklaşık _0 dB_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Tuzaklar: titreşim, yayılım, _oklüzyon_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu, dış ve orta kulağı büyük ölçüde atlayarak kokleayı doğrudan uyarır.",
+    "Vibratör mastoide ya da alna yerleştirilir; mastoid daha yaygın, alın daha tutarlıdır.",
+    "Kemik yolunda kulaklar arası zayıflama yaklaşık sıfırdır; maskesiz eşik daha iyi kokleayı gösterir.",
+    "Titreşim duyumu, akustik yayılım ve oklüzyon etkisi, kemik yolu sonuçlarını yanıltabilecek üç temel tuzaktır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Kemik yolunda kulaklar arası zayıflama yaklaşık kaç dB'dir?",
+   "secenekler": [
+    "0 dB",
+    "20 dB",
+    "40 dB",
+    "60 dB"
+   ],
+   "dogru": 0,
+   "aciklama": "Titreşim tüm kafatasını titreştirir; iki koklea _neredeyse eşit_ uyarılır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Kemik yolu testinde kulaklar arası zayıflama yaklaşık kaç desibeldir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap A: yaklaşık sıfır desibel.",
+     "ses": "Doğru cevap a: yaklaşık sıfır desibel."
+    },
+    "Titreşim tüm kafatasına yayıldığı için iki koklea neredeyse eşit uyarılır; bu yüzden maskesiz kemik yolu hangi kulağa ait olduğunu söylemez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyogram *sembolleri* ve kayıt standartları",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste odyogram sembollerini, maskeli kayıtları ve yanıt yok işaretini ayrıntılı olarak göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,118 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R028_Kemik_Yolunda_Sifir_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #28",
+  "baslik": "Kemik yolunda *sıfır*",
+  "alt": "Kulaklar arası zayıflama yaklaşık 0 dB",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      40,
+      40,
+      35,
+      40,
+      45,
+      50
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kemik vibratörü hangi kulağı test eder? #shorts",
+  "aciklama": "Kemik vibratörü kafatasını bütün olarak titreştirir ve iki koklea neredeyse eşit uyarılır. Bu yüzden kemik yolunda kulaklar arası zayıflama yaklaşık 0 dB'dir; maskesiz kemik yolu eşiği iki kokleadan iyi olanını gösterir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "odyometri",
+   "işitmetesti"
+  ],
+  "etiketler": [
+   "kemik yolu",
+   "kemik vibratörü",
+   "kulaklar arası zayıflama",
+   "maskeleme",
+   "odyometri",
+   "odyoloji",
+   "işitme testi",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kemik vibratörü hangi kulağı test eder?",
+  "bilgiler": [
+   "Kemik vibratörü kafatasını bütün olarak titreştirir.",
+   "Kulaklar arası zayıflama yaklaşık 0 dB'dir.",
+   "Maskesiz kemik yolu eşiği iki kokleadan iyi olanını gösterir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "işitmetesti"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #28",
+   "metin": "Kemik vibratörü *hangi kulağı* test eder?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kemik vibratörü hangi kulağı test eder?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Kemik yolunda *kulaklar arası zayıflama*",
+   "sayi": "0",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Kemik vibratörü kafatasını bütün olarak titreştirir.",
+    "Titreşim iki kokleaya, yani iki salyangoza da neredeyse eşit ulaşır.",
+    "Bu yüzden kulaklar arası zayıflama yaklaşık sıfır desibeldir.",
+    "Maskesiz kemik yolu eşiği, iki kokleadan iyi olanını gösterir.",
+    "Hangi kulağa ait olduğunu bulmak için karşı kulak maskelenir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D061",
+ "kaynak_baslik": "Kemik yolu odyometrisi"
+}

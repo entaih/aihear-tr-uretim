@@ -1,0 +1,983 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D115_Test_Ortami_Ortam_Gurultusu_TR",
+ "kapak": {
+  "ust": "DERS 115",
+  "baslik": "Test odası<br>*ortam gürültüsü*",
+  "alt": "İzin verilen en yüksek düzeyler",
+  "cizim": "test_kabini"
+ },
+ "youtube": {
+  "baslik": "Test ortamı: izin verilen maksimum ortam gürültüsü | Ders 115 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyometri odasında ortam gürültüsü ne kadar olabilir? Bu derste MPANL kavramını, ANSI S3.1 ve ISO 8253-1 sınırlarını, kulak üstü kulaklık, insert kulaklık ve kulakların açık olduğu koşul için farklı değerleri ve oktav bantlarda gürültü ölçümünü öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ANSI/ASA S3.1-1999 (R2018), Maximum Permissible Ambient Noise Levels for Audiometric Test Rooms; ISO 8253-1, Acoustics: Audiometric test methods, Part 1; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kalibrasyon",
+   "odyometri"
+  ],
+  "etiketler": [
+   "ortam gürültüsü",
+   "MPANL",
+   "maximum permissible ambient noise level",
+   "ANSI S3.1",
+   "ISO 8253-1",
+   "oktav bant",
+   "test kabini",
+   "insert kulaklık",
+   "kemik yolu",
+   "ses düzeyi ölçer",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 115",
+   "baslik": "Test ortamı ve *ortam gürültüsü*",
+   "alt": "İzin verilen en yüksek gürültü düzeyleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste test odasında izin verilen en yüksek ortam gürültüsü düzeylerini ve bunların nasıl ölçüldüğünü öğreneceğiz.",
+    "ANSI ve ISO standartlarındaki sınırları, kulaklık türüne göre değişen değerleri ve oktav bantlarda ölçümü adım adım göreceğiz."
+   ]
+  },
+  {
+   "id": "kabin",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden önemli?",
+   "baslik": "Sessiz oda *neden* şart?",
+   "cizim": "test_kabini",
+   "etiketler": [
+    {
+     "parca": "cift_duvar",
+     "metin": "çift duvar",
+     "cumle": 1
+    },
+    {
+     "parca": "havalandirma",
+     "metin": "havalandırma",
+     "cumle": 1
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "kulaklık",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta",
+     "metin": "hasta",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "test_odasi",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Önceki derslerde odyometrenin doğru ses ürettiğini kalibrasyonla güvenceye almayı gördük; ama doğru ses, sessiz bir ortamda anlam kazanır.",
+    "Ortam gürültüsü (ambient noise), test sırasında odada bulunan istenmeyen arka plan sesidir.",
+    "Bu gürültü test tonunu kısmen maskeler ve kişinin eşiğini olduğundan kötü gösterir.",
+    "Etkilenen kişiler en çok, eşikleri sıfır desibel HL civarında olan normal işiten bireylerdir.",
+    "Çünkü onların eşiği, gürültünün maskeleme etkisinin başladığı düzeye en yakın olanıdır.",
+    "Bu yüzden standartlar, test odasında hangi gürültü düzeyinin aşılmaması gerektiğini sayısal olarak tanımlar."
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden önemli?",
+   "baslik": "Gürültü *nereden* gelir?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Havalandırma",
+     "metin": "Sürekli, pes ağırlıklı uğultu",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Cihaz fanları",
+     "metin": "Bilgisayar ve odyometre fanı",
+     "cumle": 2
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Bina ve trafik",
+     "metin": "Koridor, asansör, sokak",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşmalar",
+     "metin": "Kontrol odası, bekleme salonu",
+     "cumle": 4
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Aydınlatma",
+     "metin": "Bazı lambaların vızıltısı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Test odasındaki gürültünün kaynakları çoğu zaman gündelik ve fark edilmesi zor seslerdir.",
+    "İlk sırada havalandırma ve iklimlendirme sistemleri gelir; bunların uğultusu sürekli ve pes ağırlıklıdır.",
+    "Kontrol odasındaki bilgisayarın ve cihazların fanları da düşük ama sürekli bir gürültü oluşturur.",
+    "Koridordaki ayak sesleri, asansör, kapılar ve dışarıdaki trafik bina yoluyla odaya taşınır.",
+    "Bekleme salonundaki ya da kontrol odasındaki konuşmalar, kapı iyi kapanmadığında kabine sızabilir.",
+    "Bazı lambaların vızıltısı ve titreşen yüzeyler de küçük ama ölçülebilir katkılar yapar."
+   ]
+  },
+  {
+   "id": "mpanl",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Standart sınırlar",
+   "baslik": "*MPANL* nedir?",
+   "maddeler": [
+    {
+     "metin": "Kabul edilen en yüksek gürültü düzeyi",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Oktav ya da üçte bir oktav bantta",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sıfır desibel HL'ye kadar test için",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Eşik kayması _2 dB_ ile sınırlı",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "STANDARTLAR",
+    "metin": "ANSI S3.1 ve *ISO 8253-1*",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Temel kavramımız izin verilen maksimum ortam gürültü düzeyidir (maximum permissible ambient noise level), kısaca MPANL.",
+    "MPANL, test sırasında odada bulunabilecek ve eşiği anlamlı biçimde değiştirmeyecek en yüksek gürültü düzeyidir.",
+    "Değerler tek bir sayı olarak değil, frekans bantlarına ayrılarak, oktav ya da üçte bir oktav bant (octave band) düzeyleri olarak verilir.",
+    "Tablolar, eşiklerin sıfır desibel HL'ye kadar ölçülebileceği varsayımıyla hazırlanır.",
+    "ANSI sınırları, ortam gürültüsünün test tonunu en fazla yaklaşık iki desibel maskeleyeceği düzeylerdir.",
+    "Yani sınırın altında kalan bir odada gürültünün eşiğe etkisi, ölçüm adımımız olan beş desibelin çok altında kalır."
+   ]
+  },
+  {
+   "id": "kosul",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Standart sınırlar",
+   "baslik": "Üç farklı *test koşulu*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kulak üstü",
+     "metin": "Yastık gürültüyü kısmen azaltır",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "İnsert kulaklık",
+     "metin": "Yalıtım en yüksek",
+     "cumle": 3
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kulaklar açık",
+     "metin": "Kemik yolu, serbest alan",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Sınır değerler test koşuluna göre değişir; çünkü kulağa ulaşan gürültü, kulağı neyin örttüğüne bağlıdır.",
+    "Kulak üstü (supra-aural) kulaklığın yastığı dış gürültüyü bir miktar azaltır.",
+    "Bu azaltma pes frekanslarda zayıf, tiz frekanslarda daha belirgindir.",
+    "İnsert kulaklığın köpük ucu kulak yolunu kapattığı için dış gürültüyü, özellikle pes frekanslarda, çok daha iyi yalıtır.",
+    "Kemik yolu ve serbest alan testlerinde ise kulaklar açıktır; gürültü kulağa hiç azalmadan ulaşır.",
+    "Bu yüzden en sıkı sınırlar kulakların açık olduğu koşul için geçerlidir."
+   ]
+  },
+  {
+   "id": "egriler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Standart sınırlar",
+   "baslik": "Kulaklığa göre *sınırlar*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Oktav bant merkez frekansı (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 70,
+     "adim": 10,
+     "ad": "İzin verilen düzey (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "insert",
+      "noktalar": [
+       [
+        125,
+        59
+       ],
+       [
+        250,
+        53
+       ],
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        47
+       ],
+       [
+        2000,
+        49
+       ],
+       [
+        4000,
+        50
+       ],
+       [
+        8000,
+        56
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "insert kulaklık",
+      "cumle": 2
+     },
+     {
+      "ad": "supra",
+      "noktalar": [
+       [
+        125,
+        35
+       ],
+       [
+        250,
+        25
+       ],
+       [
+        500,
+        21
+       ],
+       [
+        1000,
+        26
+       ],
+       [
+        2000,
+        34
+       ],
+       [
+        4000,
+        37
+       ],
+       [
+        8000,
+        37
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "kulak üstü kulaklık",
+      "cumle": 3
+     },
+     {
+      "ad": "acik",
+      "noktalar": [
+       [
+        125,
+        29
+       ],
+       [
+        250,
+        21
+       ],
+       [
+        500,
+        16
+       ],
+       [
+        1000,
+        13
+       ],
+       [
+        2000,
+        14
+       ],
+       [
+        4000,
+        11
+       ],
+       [
+        8000,
+        14
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "kulaklar açık",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "İnsert: en geniş tolerans",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Kulak üstü: pes bantlar sıkı",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kulaklar açık: en sıkı",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Bu grafik, ANSI S3.1 standardındaki oktav bant sınırlarını, yüz yirmi beş ile sekiz bin hertz arası test için gösteriyor.",
+     "ses": "Bu grafik, ansi es üç nokta bir standardındaki oktav bant sınırlarını, yüz yirmi beş ile sekiz bin hertz arası test için gösteriyor."
+    },
+    "Yatay eksende oktav bantların merkez frekansları, dikey eksende izin verilen düzey desibel SPL olarak yer alıyor.",
+    "En üstteki mavi çizgi insert kulaklıkla testi gösteriyor; burada izin verilen gürültü en yüksektir.",
+    "Ortadaki lacivert çizgi kulak üstü kulaklık içindir; pes bantlarda sınır belirgin biçimde düşer.",
+    "En alttaki kırmızı çizgi kulakların açık olduğu koşuldur; bin ile dört bin hertz arasında sınır on bir ile on dört desibel SPL'dir.",
+    "Kulakların açık olduğu koşulda sınırın en düşük olduğu yer, kulağımızın en duyarlı olduğu orta ve tiz frekans bölgesidir.",
+    "İki kulaklık arasındaki fark ise en çok iki yüz elli ve beş yüz hertz bantlarında, yani pes bölgede görülür."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Standart sınırlar",
+   "baslik": "ANSI S3.1 *oktav bant* sınırları",
+   "sutunlar": [
+    "Bant (Hz)",
+    "Kulak üstü",
+    "İnsert",
+    "Kulaklar açık"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "125",
+      "35",
+      "59",
+      "29"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "250",
+      "25",
+      "53",
+      "21"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "500",
+      "21",
+      "50",
+      "16"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "1000",
+      "26",
+      "47",
+      "13"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000",
+      "34",
+      "49",
+      "14"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "4000",
+      "37",
+      "50",
+      "11"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "8000",
+      "37",
+      "56",
+      "14"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Aynı değerleri tablo olarak görelim; bütün değerler desibel SPL cinsinden oktav bant düzeyleridir.",
+    "Yüz yirmi beş hertz bandında sınır kulak üstü kulaklıkta otuz beş, insertte elli dokuz, kulaklar açıkken yirmi dokuz desibeldir.",
+    "İki yüz elli hertz bandında bu değerler sırasıyla yirmi beş, elli üç ve yirmi bir desibeldir.",
+    "Beş yüz hertz bandında yirmi bir, elli ve on altı desibel sınırları geçerlidir.",
+    "Bin hertz bandında kulak üstü kulaklık için yirmi altı, kulaklar açıkken yalnızca on üç desibeldir.",
+    "İki bin, dört bin ve sekiz bin hertz bantlarında kulaklar açıkken sınır on bir ile on dört desibel arasında kalır.",
+    "Bu değerler sıfır desibel HL'ye kadar ve yüz yirmi beş hertzden başlayan test içindir.",
+    "Test beş yüz hertzden başlıyorsa standart, yüz yirmi beş ve iki yüz elli hertz bantlarında daha yüksek düzeylere izin verir."
+   ]
+  },
+  {
+   "id": "ansi_iso",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Standart sınırlar",
+   "baslik": "ANSI ve *ISO* yaklaşımı",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "ANSI S3.1",
+     "metin": "ABD standardı, oktav bantlar",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Üç aralık",
+     "metin": "125, 250 ya da 500 Hz'den",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "ISO 8253-1",
+     "metin": "Uluslararası test yöntemi",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Belirsizlik",
+     "metin": "Gürültüden en fazla +2 dB",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "ANSI S3.1, Amerika Birleşik Devletlerinde kullanılan ve sınırları oktav ve üçte bir oktav bantlarda veren standarttır.",
+     "ses": "ansi es üç nokta bir, Amerika Birleşik Devletlerinde kullanılan ve sınırları oktav ve üçte bir oktav bantlarda veren standarttır."
+    },
+    "Testin yüz yirmi beş, iki yüz elli ya da beş yüz hertzden başlamasına göre üç ayrı frekans aralığı için tablolar içerir.",
+    {
+     "yazi": "ISO 8253-1 ise saf ses odyometrisinin yöntemini tanımlayan uluslararası standarttır; test ortamı için de sınır verir.",
+     "ses": "İso sekiz bin iki yüz elli üç bir ise saf ses odyometrisinin yöntemini tanımlayan uluslararası standarttır; test ortamı için de sınır verir."
+    },
+    "ISO yaklaşımında amaç, sıfır desibel HL'de ortam gürültüsünün ölçüme en fazla artı iki desibellik bir belirsizlik eklemesidir.",
+    "İki standardın tabloları birebir aynı değildir; ölçüm raporunda hangi standarda göre değerlendirme yapıldığı yazılmalıdır."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüm",
+   "baslik": "Ortam gürültüsü *nasıl* ölçülür?",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Ölçer hazırlanır",
+     "metin": "Hassas, oktav filtreli",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Doğru nokta",
+     "metin": "Hastanın baş konumu",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gerçek koşul",
+     "metin": "Fanlar ve havalandırma açık",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bant bant ölçüm",
+     "metin": "125 ile 8000 Hz",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Karşılaştır, kaydet",
+     "metin": "Standart tabloyla",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ölçüm için oktav ya da üçte bir oktav filtreleri olan, yüksek doğruluk sınıfında bir ses düzeyi ölçer kullanılır.",
+    "Ölçerin kendisi ölçümden önce akustik kalibratörle kontrol edilir.",
+    "Mikrofon, test sırasında hastanın başının bulunacağı noktaya, kulak hizasına yerleştirilir.",
+    "Ölçüm, test sırasındaki gerçek koşulları yansıtmalıdır: kapı kapalı, havalandırma, ışıklar ve bilgisayarlar çalışır durumda.",
+    "Ardından yüz yirmi beş hertzden sekiz bin hertze kadar her oktav bandının düzeyi ayrı ayrı okunur.",
+    "Her bant değeri, kullanılan test koşulunun sınırıyla karşılaştırılır ve sonuçlar tarih ve cihaz bilgisiyle kaydedilir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüm",
+   "baslik": "Örnek: *pes bantlar* aşıyor",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 10000,
+     "log": true,
+     "hz": true,
+     "ad": "Oktav bant merkez frekansı (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 60,
+     "adim": 10,
+     "ad": "Oktav bant düzeyi (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "olculen",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        125,
+        42
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        22
+       ],
+       [
+        1000,
+        18
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        12
+       ],
+       [
+        8000,
+        10
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "ölçülen gürültü",
+      "cumle": 1
+     },
+     {
+      "ad": "supra",
+      "noktalar": [
+       [
+        125,
+        35
+       ],
+       [
+        250,
+        25
+       ],
+       [
+        500,
+        21
+       ],
+       [
+        1000,
+        26
+       ],
+       [
+        2000,
+        34
+       ],
+       [
+        4000,
+        37
+       ],
+       [
+        8000,
+        37
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "kulak üstü sınırı",
+      "cumle": 2
+     },
+     {
+      "ad": "insert",
+      "noktalar": [
+       [
+        125,
+        59
+       ],
+       [
+        250,
+        53
+       ],
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        47
+       ],
+       [
+        2000,
+        49
+       ],
+       [
+        4000,
+        50
+       ],
+       [
+        8000,
+        56
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "etiket": "insert sınırı",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "asim",
+      "x": [
+       110,
+       600
+      ],
+      "renk": "sari",
+      "etiket": "sınır aşılıyor",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Kulak üstü: pes bantlar aşıyor",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "İnsert: bütün bantlarda uygun",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kemik yolu: uygun değil",
+     "cumle": 5,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek bir test odasının ölçüm sonucunu inceleyelim.",
+    "Gri çubuklar, her oktav bantta ölçülen gürültü düzeyini gösteriyor; enerji pes bantlarda toplanmış.",
+    "Lacivert çizgi kulak üstü kulaklık sınırıdır; bin hertz ve üzerindeki bantlarda ölçülen değerler sınırın belirgin biçimde altında.",
+    "Ancak yüz yirmi beş, iki yüz elli ve beş yüz hertz bantlarında ölçülen gürültü sınırı aşıyor.",
+    "Kesik mavi çizgi insert kulaklık sınırıdır; aynı oda insert kulaklık için bütün bantlarda uygundur.",
+    "Kulakların açık olduğu kemik yolu testi için ise bu oda pek çok bantta uygun değildir; sınırlar çok daha düşüktür."
+   ]
+  },
+  {
+   "id": "dikkat",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüm",
+   "baslik": "Ölçümde *dikkat* edilecekler",
+   "maddeler": [
+    {
+     "metin": "Her bant _ayrı_ değerlendirilir",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yoğun saatlerde de ölç",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Yılda bir ve her değişiklikten sonra",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Yüksek test düzeyi, daha geniş sınır",
+     "cumle": 3,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "havalandirma",
+      "cumle": 1
+     },
+     {
+      "parca": "kapi",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Tek bir A ağırlıklı desibel değeri bu değerlendirme için yeterli değildir; çünkü sınırlar her bant için ayrıdır.",
+    "Gürültü gün içinde değişebilir; ölçümü kliniğin en yoğun saatlerinde de tekrarlamak gerçekçi bir tablo verir.",
+    "Ölçüm genellikle yıllık kontrollerle birlikte ve havalandırma değişikliği, inşaat ya da taşınma gibi her değişiklikten sonra yinelenir.",
+    "Tablolar sıfır desibel HL'ye kadar ölçüm içindir; yalnız daha yüksek düzeylerde tarama yapılıyorsa sınırlar aynı miktarda yükseltilebilir."
+   ]
+  },
+  {
+   "id": "asim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınır aşılırsa",
+   "baslik": "Sınır *aşılırsa* ne yapılır?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Kaynağı bul",
+     "metin": "Fan, havalandırma, kapı",
+     "cumle": 0
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "İnsert kullan",
+     "metin": "Pes bantlarda güçlü yalıtım",
+     "cumle": 2
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Yalıtımı artır",
+     "metin": "Kapı contası, çift duvar",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Rapora yaz",
+     "metin": "Etkilenebilecek frekanslar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Sınır aşıldığında ilk adım kaynağı bulmaktır; çoğu zaman bir fan, havalandırma ağzı ya da iyi kapanmayan bir kapıdır.",
+    "Havalandırmayı test sırasında kısmak ya da cihazı kabinden uzaklaştırmak bazen sorunu tek başına çözer.",
+    "Kulaklıkla testte insert kulaklık kullanmak, pes bantlardaki gürültünün etkisini büyük ölçüde azaltır.",
+    "Kalıcı çözüm için kapı contaları yenilenir, kabin daha sessiz bir yere taşınır ya da çift duvarlı kabine geçilir.",
+    "Sorun çözülene kadar test yapılıyorsa, etkilenebilecek frekanslar ve test koşulu raporda açıkça belirtilir."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Sınır aşılırsa",
+   "baslik": "Gürültünün *odyogramdaki* izi",
+   "maddeler": [
+    {
+     "metin": "Pes eşikler beklenmedik kötü",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Hava-kemik aralığı küçük görünebilir",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Tekrar testte eşik değişkenliği",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        25,
+        20,
+        10,
+        5,
+        5,
+        10
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "Ortam gürültüsünün odyogramdaki izi tanınabilir bir desen oluşturur.",
+    "Örnek odyogramda normal işiten bir kişinin iki yüz elli ve beş yüz hertz eşikleri, tiz frekanslara göre beklenmedik biçimde kötü çıkmış.",
+    "Kemik yolu kulaklar açıkken ölçüldüğü için daha çok etkilenir; bu da hava-kemik aralığını olduğundan küçük gösterebilir.",
+    "Aynı kişinin eşikleri günün farklı saatlerinde tutarsız çıkıyorsa, ortam gürültüsü akla gelmelidir.",
+    "Böyle bir desen görüldüğünde önce odanın gürültüsünü ve kulaklığın yerleşimini kontrol edin."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Pes eşikler beklenmedik kötüyse, testi insert kulaklıkla tekrarlayın; eşik düzeliyorsa kabin gürültüsünü ölçtürün.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: ses düzeyi ölçeriniz olmasa da basit bir kontrol yapabilirsiniz.",
+    "Normal işiten bir çalışma arkadaşınızın eşiklerini önce kulak üstü kulaklıkla, sonra insert kulaklıkla ölçün.",
+    "İnsert kulaklıkla pes frekans eşikleri belirgin biçimde iyileşiyorsa, odadaki pes ağırlıklı gürültü sınırı aşıyor olabilir.",
+    "Bu basit gözlem ölçümün yerini tutmaz; ama oktav bant ölçümünün ne zaman gerektiğini gösterir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "MPANL: eşiği bozmayan _en yüksek_ gürültü",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Sınırlar kulaklık türüne göre değişir",
+     "cumle": 1,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Kulaklar açıkken sınırlar _en sıkı_",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Oktav bantlarda, hasta başında ölçülür",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "MPANL, ortam gürültüsünün sıfır desibel HL'deki eşikleri anlamlı biçimde değiştirmeyeceği en yüksek düzeydir.",
+    "İnsert kulaklık en geniş, kulak üstü kulaklık daha dar bir tolerans tanır; fark en çok pes bantlardadır.",
+    "Kemik yolu ve serbest alan testinde kulaklar açık olduğu için sınırlar en düşüktür.",
+    "Gürültü, hassas bir ses düzeyi ölçerle, oktav bantlarda ve hastanın baş konumunda ölçülür; sonuç kayda geçirilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangi koşulda sınırlar en sıkıdır?",
+   "secenekler": [
+    "Kulak üstü kulaklıkla test",
+    "İnsert kulaklıkla test",
+    "Kulaklar açık test",
+    "Hepsinde aynıdır"
+   ],
+   "dogru": 2,
+   "aciklama": "Kulaklar açıkken gürültü kulağa _hiç azalmadan_ ulaşır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: izin verilen ortam gürültüsü sınırları hangi test koşulunda en düşüktür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: kulakların açık olduğu test koşulu.",
+    "Kemik yolu ve serbest alan testlerinde kulağı örten bir kulaklık yoktur; bu yüzden aynı gürültü eşiği çok daha kolay bozar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*İmmitans*, OAE ve ABR cihazlarında kalibrasyon",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste immitans, otoakustik emisyon ve işitsel beyin sapı yanıtı cihazlarının kalibrasyonunu öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

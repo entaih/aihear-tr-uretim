@@ -1,0 +1,789 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D006_Isitme_Kaybi_Yayginligi_TR",
+ "kapak": {
+  "ust": "DERS 6",
+  "baslik": "Ne kadar<br>*yaygın?*",
+  "alt": "Dünyada ve Türkiye'de işitme kaybı",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 2.5,
+    "ad": "Dönem",
+    "isaretler": [
+     1,
+     2
+    ],
+    "yazilar": {
+     "1": "Bugün",
+     "2": "2050"
+    }
+   },
+   "y": {
+    "min": 0,
+    "max": 3,
+    "adim": 1,
+    "ad": "Milyar kişi"
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       1,
+       1.5
+      ]
+     ],
+     "renk": "mavi",
+     "etiket": "1,5 milyar",
+     "etiket_konum": [
+      1,
+      1.5
+     ]
+    },
+    {
+     "ad": "b",
+     "tur": "cubuk",
+     "genislik": 0.5,
+     "noktalar": [
+      [
+       2,
+       2.5
+      ]
+     ],
+     "renk": "kirmizi",
+     "etiket": "2,5 milyar",
+     "etiket_konum": [
+      2,
+      2.5
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Dünyada ve Türkiye'de İşitme Kaybı Ne Kadar Yaygın? | Ders 6 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme kaybı ne kadar yaygın? Yaygınlık ve insidans kavramlarını, DSÖ Dünya İşitme Raporunun (2021) temel rakamlarını, engelleyici işitme kaybının tanımını, yaşla artışı ve önlenebilir nedenleri anlatıyoruz. Türkiye verilerini okurken nelere dikkat edileceğini de konuşuyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: WHO, World Report on Hearing (2021); WHO, Deafness and hearing loss (bilgi notu); Chadha S, Kamenov K, Cieza A, The world report on hearing, 2021, Bulletin of the World Health Organization (2021); Hacettepe Üniversitesi Nüfus Etütleri Enstitüsü, Türkiye Nüfus ve Sağlık Araştırması 2018.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmekaybı",
+   "halksağlığı"
+  ],
+  "etiketler": [
+   "işitme kaybı yaygınlığı",
+   "prevalence",
+   "incidence",
+   "World Report on Hearing",
+   "Dünya İşitme Raporu",
+   "disabling hearing loss",
+   "engelleyici işitme kaybı",
+   "DSÖ",
+   "önlenebilir işitme kaybı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 6",
+   "baslik": "İşitme kaybı *ne kadar* yaygın?",
+   "alt": "Dünyada ve Türkiye'de rakamlarla işitme kaybı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Önceki derste işitme kaybının derecelerini gördük; bu derste işitme kaybının ne kadar yaygın olduğunu rakamlarla inceleyeceğiz.",
+    "Yaygınlık ve insidans kavramlarını, Dünya İşitme Raporunun temel bulgularını ve önlenebilir nedenleri öğreneceğiz."
+   ]
+  },
+  {
+   "id": "kavram",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "Yaygınlık ve *insidans*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Yaygınlık",
+     "cumle": 1,
+     "metin": "Belli bir andaki oran"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İnsidans",
+     "cumle": 2,
+     "metin": "Bir sürede yeni olgular"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Birikim",
+     "cumle": 4,
+     "metin": "Kalıcı kayıp yaşla birikir"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Doğumda",
+     "cumle": 5,
+     "metin": "Bin doğumda kaç bebek?"
+    }
+   ],
+   "cumleler": [
+    "Bir sağlık sorununun ne kadar sık görüldüğünü anlatmak için epidemiyolojide iki temel ölçü kullanılır.",
+    "Yaygınlık (prevalence), belli bir anda bir toplumda o durumu yaşayan kişilerin oranıdır.",
+    "İnsidans (incidence) ise belli bir süre içinde ortaya çıkan yeni olguların oranıdır.",
+    "Yaygınlık bir fotoğrafa, insidans ise bir filme benzetilebilir: biri o anki durumu, diğeri yeni katılanları gösterir.",
+    "İşitme kaybı çoğu zaman kalıcı olduğu ve yıllar içinde biriktiği için yaygınlık ileri yaşlarda belirgin biçimde artar.",
+    "Doğumsal işitme kaybında ise genellikle bin doğumda kaç bebeğin etkilendiği verilir; bu, doğumdaki yaygınlığı gösterir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel kavramlar",
+   "baslik": "Bin kişilik bir *kasaba*",
+   "adimlar": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "1000 kişi",
+     "cumle": 0,
+     "metin": "Bugün 50 kişide kayıp"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Yaygınlık",
+     "cumle": 1,
+     "metin": "Yüzde 5"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Bir yıl",
+     "cumle": 2,
+     "metin": "5 yeni olgu"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İnsidans",
+     "cumle": 3,
+     "metin": "Yaklaşık binde 5"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Tanıma bakın",
+     "cumle": 5,
+     "metin": "Yaş, derece, yöntem"
+    }
+   ],
+   "cumleler": [
+    "Bunu küçük bir örnekle düşünelim: bin kişilik bir kasabada bugün elli kişide işitme kaybı olsun.",
+    "Bu durumda yaygınlık binde elli, yani yüzde beştir.",
+    "Sonraki bir yıl içinde, kaybı olmayan kişiler arasında beş kişide yeni bir kayıp ortaya çıksın.",
+    "Bu, yaklaşık binde beşlik yıllık insidans demektir.",
+    "Kayıp çoğu zaman kalıcı olduğu için yıl sonunda yaygınlık da yaklaşık binde elli beşe yükselir.",
+    "Bu yüzden rakamları okurken hangi ölçünün, hangi yaş grubunda ve hangi kayıp tanımıyla verildiğine bakmak gerekir."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dünya İşitme Raporu",
+   "baslik": "Dünya İşitme *Raporu* 2021",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": "Dönem",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Bugün",
+      "2": "2050"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Milyar kişi"
+    },
+    "seriler": [
+     {
+      "ad": "bugun_her",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        0.8,
+        1.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "1,5 milyar",
+      "etiket_konum": [
+       0.8,
+       1.5
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "bugun_eng",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        1.2,
+        0.43
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "430 milyon",
+      "etiket_konum": [
+       1.2,
+       0.43
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "gelecek_her",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        1.8,
+        2.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "2,5 milyar",
+      "etiket_konum": [
+       1.8,
+       2.5
+      ],
+      "cumle": 4
+     },
+     {
+      "ad": "gelecek_eng",
+      "tur": "cubuk",
+      "genislik": 0.3,
+      "noktalar": [
+       [
+        2.2,
+        0.7
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "700 milyon",
+      "etiket_konum": [
+       2.2,
+       0.7
+      ],
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Mavi: _her derece_ kayıp",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kırmızı: _rehabilitasyon_ gerekli",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Neden: _büyüyen ve yaşlanan_ nüfus",
+     "cumle": 6,
+     "ikon": "yasli"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Dünya Sağlık Örgütü, kısaca DSÖ, 2021 yılında ilk Dünya İşitme Raporunu (World Report on Hearing) yayımladı.",
+     "ses": "Dünya Sağlık Örgütü, kısaca DSÖ, iki bin yirmi bir yılında ilk Dünya İşitme Raporunu (World Report on Hearing) yayımladı."
+    },
+    {
+     "yazi": "Rapora göre dünyada 1,5 milyardan fazla kişi bir derece işitme kaybıyla yaşıyor; bu, yaklaşık her beş kişiden biri demektir.",
+     "ses": "Rapora göre dünyada bir buçuk milyardan fazla kişi bir derece işitme kaybıyla yaşıyor; bu, yaklaşık her beş kişiden biri demektir."
+    },
+    {
+     "yazi": "Bunların yaklaşık 430 milyonunda kayıp engelleyici düzeydedir ve rehabilitasyon gerektirir.",
+     "ses": "Bunların yaklaşık dört yüz otuz milyonunda kayıp engelleyici düzeydedir ve rehabilitasyon gerektirir."
+    },
+    "Bu sayı dünya nüfusunun yüzde beşinden fazlasına karşılık gelir.",
+    {
+     "yazi": "Rapora göre 2050 yılına kadar bu sayı yaklaşık 2,5 milyara, yani her dört kişiden birine çıkabilir.",
+     "ses": "Rapora göre iki bin elli yılına kadar bu sayı yaklaşık iki buçuk milyara, yani her dört kişiden birine çıkabilir."
+    },
+    {
+     "yazi": "Aynı yıl en az 700 milyon kişinin işitme rehabilitasyonuna ihtiyaç duyacağı tahmin edilir.",
+     "ses": "Aynı yıl en az yedi yüz milyon kişinin işitme rehabilitasyonuna ihtiyaç duyacağı tahmin edilir."
+    },
+    "Bu artışın başlıca nedeni, dünya nüfusunun hem büyümesi hem de yaşlanmasıdır."
+   ]
+  },
+  {
+   "id": "engelleyici",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dünya İşitme Raporu",
+   "baslik": "Engelleyici kayıp *nedir?*",
+   "maddeler": [
+    {
+     "metin": "İyi kulakta _35 dB HL_ üstü",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Orta ve daha ileri _dereceler_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Tek taraflı kayıp _bu sayıda yok_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "1,5 milyar geniş, _430 milyon_ dar",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        30,
+        35,
+        35,
+        40,
+        50,
+        55
+       ],
+       "cumle": 5
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        50,
+        55,
+        60,
+        70,
+        75
+       ],
+       "cumle": 5
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 20,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "Rapordaki engelleyici işitme kaybı (disabling hearing loss), daha iyi duyan kulakta otuz beş desibelden büyük kayıptır.",
+    "Bu tanımı önceki dersteki DSÖ derecelerinden hatırlıyoruz: orta ve daha ileri dereceler bu gruba girer.",
+    "İyi kulağın esas alınması, kişinin günlük iletişimde yaşadığı güçlüğü daha iyi yansıtır.",
+    "Bu yüzden bir kulağında ileri kaybı olan ama diğer kulağı normal duyan bir kişi bu sayıya girmez.",
+    {
+     "yazi": "Yani 1,5 milyarlık büyük sayı hafif ve tek taraflı kayıpları da kapsar; 430 milyon ise daha dar bir gruptur.",
+     "ses": "Yani bir buçuk milyarlık büyük sayı hafif ve tek taraflı kayıpları da kapsar; dört yüz otuz milyon ise daha dar bir gruptur."
+    },
+    "Ekrandaki örnekte iyi duyan sağ kulağın dört frekans ortalaması kırk desibel; bu kişi engelleyici kayıp grubundadır."
+   ]
+  },
+  {
+   "id": "yas",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kimler etkileniyor?",
+   "baslik": "Her yaşta, *yaşla artan*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Doğumda",
+     "cumle": 1,
+     "metin": "Binde 1 ile 3"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocuklar",
+     "cumle": 2,
+     "metin": "34 milyon engelleyici kayıp"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "60 yaş üstü",
+     "cumle": 3,
+     "metin": "Dörtte birden fazlası"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Yaşlanan toplum",
+     "cumle": 4,
+     "metin": "Yük giderek artıyor"
+    }
+   ],
+   "cumleler": [
+    "İşitme kaybı yaşamın her döneminde görülebilir, ama yaygınlığı yaşla birlikte hızla artar.",
+    "Kalıcı doğumsal işitme kaybı, her bin yenidoğandan yaklaşık bir ile üçünde görülür.",
+    {
+     "yazi": "DSÖ'ye göre engelleyici kaybı olanların yaklaşık 34 milyonu çocuktur.",
+     "ses": "DSÖ'ye göre engelleyici kaybı olanların yaklaşık otuz dört milyonu çocuktur."
+    },
+    "Altmış yaşın üzerindeki kişilerin dörtte birinden fazlasında engelleyici işitme kaybı vardır.",
+    "Yani rehabilitasyon ihtiyacının büyük bölümü ileri yaştadır ve yaşlanan toplumlarda bu yük artmaya devam eder.",
+    "Yine de her yaşın kendi önceliği vardır: çocukta dil gelişimi, yetişkinde iş yaşamı, ileri yaşta iletişim ve bağımsızlık öne çıkar."
+   ]
+  },
+  {
+   "id": "erisim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kimler etkileniyor?",
+   "baslik": "Hizmete erişimde *büyük açık*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 2.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Düşük-orta gelirde",
+      "2": "Cihaz kullanmayan"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Yaklaşık oran (%)"
+    },
+    "seriler": [
+     {
+      "ad": "gelir",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1,
+        80
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "yaklaşık yüzde 80",
+      "etiket_konum": [
+       1,
+       80
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "cihaz_acigi",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        2,
+        83
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "yaklaşık yüzde 83",
+      "etiket_konum": [
+       2,
+       83
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Odyolog: _milyonda birden az_",
+     "cumle": 2,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Maliyet: _yaklaşık 1 trilyon dolar_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Engelleyici işitme kaybı olanların yaklaşık yüzde sekseni düşük ve orta gelirli ülkelerde yaşıyor.",
+    "Bu ülkelerde işitme hizmeti veren uzman sayısı çok sınırlıdır.",
+    "Rapora göre düşük gelirli ülkelerin büyük çoğunluğunda milyon kişi başına birden az odyolog düşüyor.",
+    "Hizmete erişimdeki açık da büyüktür: işitme cihazından yararlanabilecek kişilerin yaklaşık yüzde seksen üçü cihaz kullanmıyor.",
+    "Ele alınmayan işitme kaybının dünyaya yıllık maliyeti ise yaklaşık bir trilyon dolar olarak hesaplanmıştır.",
+    "Bu maliyet sağlık harcamalarını, eğitim desteğini, iş gücü kaybını ve yaşam kalitesindeki düşüşü kapsar."
+   ]
+  },
+  {
+   "id": "onlenebilir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Önleme ve Türkiye",
+   "baslik": "Önlenebilir *nedenler*",
+   "ogeler": [
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Aşıyla önlenebilir",
+     "cumle": 2,
+     "metin": "Kızamık, kabakulak, kızamıkçık"
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Doğum çevresi",
+     "cumle": 3,
+     "metin": "Oksijensizlik, ağır sarılık"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Orta kulak",
+     "cumle": 4,
+     "metin": "Kronik enfeksiyonlar"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Ototoksik ilaçlar",
+     "cumle": 5,
+     "metin": "Dikkatli kullanım ve izlem"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Yüksek ses",
+     "cumle": 6,
+     "metin": "İş ve eğlence"
+    }
+   ],
+   "cumleler": [
+    "Raporun en önemli mesajlarından biri, işitme kaybının önemli bir bölümünün önlenebilir olmasıdır.",
+    "DSÖ'ye göre çocuklardaki işitme kayıplarının yaklaşık yüzde altmışı önlenebilir nedenlerden kaynaklanır.",
+    "Kızamık, kabakulak ve kızamıkçık gibi enfeksiyonlar aşıyla önlenebilir; menenjit de önemli bir nedendir.",
+    "Doğum sırasında oksijensiz kalma ve ağır yenidoğan sarılığı gibi doğum çevresindeki sorunlar da kayba yol açabilir.",
+    {
+     "yazi": "Kronik orta kulak enfeksiyonları dünyada yaklaşık 200 milyon kişiyi etkiler ve çoğu önlenebilir ya da tedavi edilebilir.",
+     "ses": "Kronik orta kulak enfeksiyonları dünyada yaklaşık iki yüz milyon kişiyi etkiler ve çoğu önlenebilir ya da tedavi edilebilir."
+    },
+    "Bazı ilaçların kulağa zararlı, yani ototoksik etkisi de dikkatli kullanım ve izlemle azaltılabilir.",
+    {
+     "yazi": "Gürültü de önlenebilir bir nedendir; kişisel müzik çalarlar ve eğlence mekanları nedeniyle 1 milyardan fazla genç risk altındadır.",
+     "ses": "Gürültü de önlenebilir bir nedendir; kişisel müzik çalarlar ve eğlence mekanları nedeniyle bir milyardan fazla genç risk altındadır."
+    }
+   ]
+  },
+  {
+   "id": "yasam_boyu",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Önleme ve Türkiye",
+   "baslik": "Yaşam boyu *önlem*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Doğum çevresi",
+     "cumle": 1,
+     "metin": "Güvenli doğum, yenidoğan bakımı"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocukluk",
+     "cumle": 2,
+     "metin": "Aşı, tedavi, tarama"
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Yetişkinlik",
+     "cumle": 3,
+     "metin": "Gürültü ve ilaç"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "İleri yaş",
+     "cumle": 4,
+     "metin": "Düzenli kontrol"
+    }
+   ],
+   "cumleler": [
+    "DSÖ bu nedenleri yaşam boyu bir yaklaşımla ele alır; her dönemin kendi riskleri vardır.",
+    "Doğumdan önce annenin enfeksiyonlardan korunması, doğum çevresinde ise güvenli doğum ve iyi yenidoğan bakımı önemlidir.",
+    "Çocuklukta aşılama, orta kulak sorunlarının erken tedavisi ve işitme taraması öne çıkar.",
+    "Yetişkinlikte gürültüden korunma ve kulağa zararlı ilaçların izlenmesi gelir.",
+    "İleri yaşta ise düzenli işitme kontrolü ve kaybın zamanında ele alınması önemlidir."
+   ]
+  },
+  {
+   "id": "turkiye",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Önleme ve Türkiye",
+   "baslik": "Türkiye'de *veriler*",
+   "maddeler": [
+    {
+     "metin": "Anket ve ölçüm: _farklı sonuçlar_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Rakamı _tanımıyla_ birlikte okuyun",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Yenidoğan ve _okul taraması_",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Akraba evliliği: _resesif risk_",
+     "cumle": 5,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "TÜRKİYE",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Yenidoğan",
+      "cumle": 3,
+      "metin": "Ulusal tarama programı"
+     },
+     {
+      "ikon": "okul",
+      "baslik": "Okul çağı",
+      "cumle": 4,
+      "metin": "İşitme taraması"
+     },
+     {
+      "ikon": "gen_dna",
+      "baslik": "Akraba evliliği",
+      "cumle": 5,
+      "metin": "Yaklaşık yüzde 24"
+     }
+    ]
+   },
+   "cumleler": [
+    "Türkiye'de işitme kaybının ne kadar yaygın olduğuna dair rakamlar, kullanılan yönteme göre farklılık gösterir.",
+    "Kişinin kendi beyanına dayanan anketler ile odyometrik ölçüm yapılan çalışmalar aynı sonucu vermez.",
+    "Derece tanımı, yaş grubu ve bölge de oranı değiştirir; bu yüzden bir rakamı kaynağı ve tanımıyla birlikte kullanmak gerekir.",
+    "Türkiye'de Sağlık Bakanlığının ulusal yenidoğan işitme taraması programı yürütülmektedir.",
+    "Okul çağında da Sağlık Bakanlığı ile Milli Eğitim Bakanlığı iş birliğiyle işitme taraması yapılmaktadır.",
+    {
+     "yazi": "Türkiye Nüfus ve Sağlık Araştırması 2018 verilerine göre evliliklerin yaklaşık yüzde yirmi dördü akraba evliliğidir.",
+     "ses": "Türkiye Nüfus ve Sağlık Araştırması iki bin on sekiz verilerine göre evliliklerin yaklaşık yüzde yirmi dördü akraba evliliğidir."
+    },
+    "Bu durum resesif genetik kayıplar açısından önemli bir risk etkenidir; konuyu ilerideki genetik derslerinde ele alacağız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinik ipucu",
+   "metin": "Rakamları korkutmak için değil, kişiye yalnız olmadığını göstermek için kullanın. Kaynağı, yılı ve kayıp tanımını birlikte söyleyin.",
+   "cumleler": [
+    "Danışmanlıkta işe yarayan bir ipucu: yaygınlık rakamlarını korkutmak için değil, kişiye yalnız olmadığını göstermek için kullanın.",
+    "Örneğin altmış yaş üzerindeki her dört kişiden birinde engelleyici kayıp olduğunu bilmek, damgalanma kaygısını azaltabilir.",
+    "Bir rakam aktarırken kaynağını, yılını ve hangi kayıp tanımına dayandığını da belirtin.",
+    "Böylece hastanız ya da meslektaşınız aynı sayıyı doğru yorumlayabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Yaygınlık o an, insidans _yeni olgular_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1,5 milyar kişi, _430 milyon_ engelleyici",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "60 yaş üstü: _dörtte birden fazlası_",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Çocuklarda yaklaşık _yüzde 60_ önlenebilir",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Yaygınlık belli bir andaki oranı, insidans ise bir süre içinde ortaya çıkan yeni olguları gösterir.",
+    {
+     "yazi": "DSÖ 2021 raporuna göre 1,5 milyardan fazla kişide kayıp var; yaklaşık 430 milyonunda kayıp engelleyicidir.",
+     "ses": "DSÖ iki bin yirmi bir raporuna göre bir buçuk milyardan fazla kişide kayıp var; yaklaşık dört yüz otuz milyonunda kayıp engelleyicidir."
+    },
+    "Yaygınlık yaşla artar; altmış yaşın üzerinde dörtte birden fazla kişide engelleyici kayıp görülür.",
+    "Çocuklardaki kayıpların yaklaşık yüzde altmışı önlenebilir nedenlerden kaynaklanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "DSÖ'ye göre engelleyici işitme kaybı nedir?",
+   "secenekler": [
+    "Kötü kulakta 20 dB üstü",
+    "İyi kulakta 35 dB üstü",
+    "İki kulakta 15 dB üstü",
+    "Yalnız total kayıp"
+   ],
+   "dogru": 1,
+   "aciklama": "Ölçüt _daha iyi duyan kulaktır_: 35 dB HL'den büyük kayıp engelleyici kabul edilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: DSÖ'ye göre engelleyici işitme kaybı nasıl tanımlanır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: daha iyi duyan kulakta otuz beş desibelden büyük kayıp.",
+    "Ölçütün iyi kulak olması, kişinin günlük iletişimde yaşadığı güçlüğü yansıtır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyoloji kliniği: *test kabini*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bir odyoloji kliniğini gezecek, test kabinini ve temel cihazları tanıyacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

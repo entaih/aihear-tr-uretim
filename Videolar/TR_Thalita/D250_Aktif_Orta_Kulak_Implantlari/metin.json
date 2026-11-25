@@ -1,0 +1,704 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D250_Aktif_Orta_Kulak_Implantlari_TR",
+ "kapak": {
+  "ust": "DERS 250",
+  "baslik": "Aktif orta kulak<br>*implantları*",
+  "alt": "Titreşimi doğrudan kemikçiklere vermek",
+  "cizim": "orta_kulak",
+  "vurgula": [
+   "incus"
+  ]
+ },
+ "youtube": {
+  "baslik": "Aktif orta kulak implantları | Ders 250 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Aktif orta kulak implantları, yükseltilmiş sesi kulak yoluna değil, titreşim olarak kemikçiklere ya da yuvarlak pencereye verir. Bu derste elektromanyetik ve piezoelektrik dönüştürücüleri, yarı ve tam implante sistemleri, yuvarlak pencere vibroplastisini, adaylık ölçütlerini, avantajları ve sınırlılıkları öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Dillon, Hearing Aids; Colletti ve ark., Treatment of mixed hearing losses via implantation of a vibratory transducer on the round window, International Journal of Audiology (2006); Shohet ve Bibee, New considerations for a totally implantable active middle ear implant, Frontiers in Neurology (2021).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ortakulakimplantı",
+   "işitmeimplantları"
+  ],
+  "etiketler": [
+   "aktif orta kulak implantı",
+   "active middle ear implant",
+   "AMEI",
+   "yüzen kütle dönüştürücü",
+   "floating mass transducer",
+   "yuvarlak pencere vibroplastisi",
+   "round window vibroplasty",
+   "piezoelektrik",
+   "tam implante işitme cihazı",
+   "mikst işitme kaybı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 250",
+   "baslik": "Aktif orta kulak *implantları*",
+   "alt": "Kemikçikleri doğrudan titreştiren cihazlar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste sesi kulak yoluna değil, doğrudan kemikçiklere ya da iç kulağın pencerelerine titreşim olarak veren implantları öğreneceğiz.",
+    "Çalışma ilkesini, bağlantı yerlerini, adaylık ölçütlerini, avantajlarını ve sınırlılıklarını ele alacağız."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Çalışma ilkesi",
+   "baslik": "Ses yerine *titreşim*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 2,
+     "olcek": 2.3
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "kemikcikler",
+     "cumle": 3
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Timpanik membran",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "metin": "Incus (örs)",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Yuvarlak pencere",
+     "cumle": 3
+    },
+    {
+     "parca": "donusturucu",
+     "metin": "Titreşim dönüştürücü",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Klasik işitme cihazı sesi alır, yükseltir ve kulak yoluna yine ses olarak verir.",
+    "Bu ses timpanik membranı ve kemikçik zincirini titreştirerek iç kulağa ulaşır.",
+    "Aktif orta kulak implantı (active middle ear implant) ise yükseltilmiş sinyali doğrudan mekanik titreşime çevirir.",
+    "Bu titreşim, kemikçik zincirine ya da iç kulağın pencerelerinden birine uygulanır.",
+    "Böylece kulak yolu açık kalır ve ses, hoparlör ile kulak zarı aşaması atlanarak iç kulağa iletilir.",
+    "Aktif denmesinin nedeni, sistemin bir güç kaynağı ve titreşimi üreten bir dönüştürücü içermesidir.",
+    "Kemik yolu implantlarından farkı ise titreşimin kafatası kemiğine değil, orta kulaktaki yapılara verilmesidir."
+   ],
+   "ayar": {
+    "implant": "orta_kulak",
+    "implant_cumle": 2,
+    "titresim_cumle": 3
+   }
+  },
+  {
+   "id": "parcalar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Çalışma ilkesi",
+   "baslik": "Sistemin *parçaları*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Ses işlemcisi",
+     "cumle": 1,
+     "metin": "Mikrofon, işlemci, pil"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Alıcı",
+     "cumle": 2,
+     "metin": "Deri altında, sinyali çözer"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "İletken kablo",
+     "cumle": 3,
+     "metin": "Alıcıdan orta kulağa"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Dönüştürücü",
+     "cumle": 4,
+     "metin": "Sinyali titreşime çevirir"
+    }
+   ],
+   "cumleler": [
+    "Yarı implante sistemlerin tipik olarak dört temel parçası vardır.",
+    "Kulak arkasında, saçın altında duran dış ses işlemcisi mikrofonu, işlemciyi ve pili taşır; deriye mıknatısla tutunur.",
+    "İşlemcinin sinyali deri üzerinden, deri altına yerleştirilen alıcıya kablosuz olarak aktarılır.",
+    "Alıcıdan çıkan ince bir kablo, mastoid kemiğinin içinden orta kulağa ulaşır.",
+    "Kablonun ucundaki dönüştürücü, elektrik sinyalini kemikçikleri ya da pencereyi titreştiren harekete çevirir.",
+    "Tam implante sistemlerde ise bütün parçalar deri altındadır ve dışarıdan görünen bir parça yoktur."
+   ]
+  },
+  {
+   "id": "yari_tam",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Çalışma ilkesi",
+   "baslik": "Yarı implante mi, *tam implante* mi?",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Yarı implante",
+     "cumle": 0,
+     "metin": "Dış işlemci, kolay pil değişimi"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Tam implante",
+     "cumle": 3,
+     "metin": "Görünmez, pil deri altında"
+    }
+   ],
+   "cumleler": [
+    "Yarı implante sistemlerde mikrofon ve pil, kulak arkasındaki dış işlemcidedir.",
+    "Pil gerektiğinde kolayca değiştirilir ve işlemci yeni teknolojiyle güncellenebilir.",
+    "Ancak işlemci banyo ve yüzme gibi durumlarda çıkarılır; bu sırada kişi o kulakla duymaz.",
+    "Tam implante sistemler dışarıdan görünmez ve gün boyu, uykuda ve suda bile kullanılabilir.",
+    "Bu sistemlerde ses, deri altındaki bir mikrofonla ya da kemikçik titreşimini algılayan bir algılayıcıyla alınır.",
+    "Pil ise sistemine göre dışarıdan şarj edilir ya da birkaç yılda bir küçük bir ameliyatla değiştirilir."
+   ]
+  },
+  {
+   "id": "donusturucu",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dönüştürücü ve bağlantı",
+   "baslik": "İki tür *dönüştürücü*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Elektromanyetik",
+     "cumle": 1,
+     "metin": "Bobindeki akım mıknatısı titreştirir"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Piezoelektrik",
+     "cumle": 4,
+     "metin": "Kristal gerilimle biçim değiştirir"
+    }
+   ],
+   "cumleler": [
+    "Dönüştürücü, implantın kalbidir ve iki temel ilkeyle çalışabilir.",
+    "Elektromanyetik dönüştürücüde bir bobin ve onun içinde ya da yanında bir mıknatıs bulunur.",
+    "Bobinden geçen değişken akım manyetik alan oluşturur ve mıknatısı sesle aynı ritimde titreştirir.",
+    "Yüzen kütle dönüştürücü (floating mass transducer) bu türün bilinen bir örneğidir; birkaç milimetrelik bir silindirdir.",
+    "Piezoelektrik dönüştürücüde ise özel bir kristal ya da seramik, uygulanan gerilimle çok küçük ölçüde biçim değiştirir.",
+    "Aynı malzeme tersine de çalışır: titreşimle gerilim üretir; bu yüzden bazı tam implante sistemlerde algılayıcı olarak kullanılır."
+   ]
+  },
+  {
+   "id": "baglanti",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dönüştürücü ve bağlantı",
+   "baslik": "Titreşim *nereye* verilir?",
+   "cizim": "orta_kulak",
+   "yakinlastir": [
+    {
+     "parca": "incus",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "stapes",
+     "cumle": 3,
+     "olcek": 2.2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 4,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "incus",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "stapes",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "incus",
+     "metin": "Incus uzun kolu",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "metin": "Stapes",
+     "cumle": 3
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Yuvarlak pencere",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Dönüştürücünün titreşimi orta kulakta birkaç farklı noktaya uygulanabilir.",
+    "İlk ve en yaygın yöntemde dönüştürücü, incus, yani örsün uzun koluna bir kelepçeyle tutturulur.",
+    "Kemikçik zinciri sağlamsa titreşim zincir boyunca stapese ve oval pencereye iletilir.",
+    "Zincirin bir bölümü eksikse dönüştürücü, özel bağlantı parçalarıyla stapesin başına ya da tabanına bağlanabilir.",
+    "Bir başka seçenek, dönüştürücünün yuvarlak pencereye yerleştirilmesidir.",
+    "Bağlantı yeri; kişinin kayıp tipine, orta kulak anatomisine ve cerrahın değerlendirmesine göre seçilir.",
+    "Her durumda amaç, titreşimin iç kulak sıvılarına mümkün olduğunca verimli aktarılmasıdır."
+   ]
+  },
+  {
+   "id": "vibroplasti",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dönüştürücü ve bağlantı",
+   "baslik": "Yuvarlak pencere *vibroplastisi*",
+   "maddeler": [
+    {
+     "metin": "Dönüştürücü _yuvarlak pencerede_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İleri mikst kayıp için tanımlandı",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Kemikçik zinciri kullanılamıyorsa",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "İç kulak sıvıları _ters yönden_ uyarılır",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kemik yolu eşiği kapasiteyi sınırlar",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "yuvarlak_pencere",
+      "cumle": 0
+     },
+     {
+      "parca": "oval_pencere",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "yuvarlak_pencere",
+      "metin": "yuvarlak pencere",
+      "cumle": 0
+     },
+     {
+      "parca": "oval_pencere",
+      "metin": "oval pencere",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Yuvarlak pencere vibroplastisi (round window vibroplasty), dönüştürücünün yuvarlak pencere zarına yerleştirilmesidir.",
+    {
+     "yazi": "Yöntem 2000'li yılların ortasında, özellikle ileri derecede mikst kaybı olan ve önceki ameliyatlardan yarar görmeyenler için tanımlandı.",
+     "ses": "Yöntem iki binli yılların ortasında, özellikle ileri derecede mikst kaybı olan ve önceki ameliyatlardan yarar görmeyenler için tanımlandı."
+    },
+    "Kemikçik zinciri hasarlı ya da tekrarlayan ameliyatlarla kullanılamaz hale gelmişse bu yol bir seçenek olabilir.",
+    "Titreşim iç kulak sıvılarını, oval pencerenin tersi yönden harekete geçirir.",
+    "İki pencere arasında bir basınç farkı oluştuğu sürece baziler membran yine titreşir ve ses algılanır.",
+    "Sinyal kokleaya doğrudan ulaştığı için kemik yolu eşikleri, yani kokleanın kalan işlevi, sağlanabilecek kazancı belirler."
+   ]
+  },
+  {
+   "id": "aday_odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adaylık",
+   "baslik": "Örnek: *aday* odyogramı",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "<",
+     "renk": "sag",
+     "metin": "Kemik yolu: hava yoluyla _aynı_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       45,
+       50,
+       60,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       35,
+       45,
+       50,
+       55,
+       65,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       40,
+       45,
+       50,
+       60,
+       65,
+       null
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": 40,
+     "alt": 70,
+     "etiket": "Orta ile orta-ileri",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnek odyogramda iki kulakta tize doğru artan, simetrik bir işitme kaybı görülüyor.",
+    "Kemik yolu eşikleri hava yoluyla aynı düzeyde; yani kayıp sensörinöral tiptedir.",
+    "Kayıp orta ile orta-ileri derece arasındadır; bu, sensörinöral kayıpta aday aralığının içinde kalır.",
+    "Bu kişi teknik olarak işitme cihazıyla da desteklenebilir.",
+    "İmplant ancak cihaz kullanılamıyorsa ya da cihazdan yeterli yarar görülmüyorsa gündeme gelir.",
+    "Örneğin sık tekrarlayan dış kulak yolu iltihabı, kanal darlığı ya da kalıba alerji cihaz kullanımını engelleyebilir."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Adaylık",
+   "baslik": "Adaylık *ölçütleri*",
+   "maddeler": [
+    {
+     "metin": "Durağan, orta ile ileri kayıp",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Yeterli _konuşmayı ayırt etme_ skoru",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sağlıklı orta kulak ve Östaki işlevi",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Uygun anatomi: görüntüleme",
+     "cumle": 3,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Gerçekçi _beklenti_",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 2
+     },
+     {
+      "parca": "orta_kulak",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "ostaki_borusu",
+      "metin": "Östaki borusu",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Adaylıkta ilk koşul, işitme kaybının durağan olması ve cihazın kapasitesine uygun bir derecede bulunmasıdır.",
+    "Konuşmayı ayırt etme skoru da yeterli olmalıdır; alt sınır cihaza göre değişir, örneğin yüzde kırk ya da yüzde elli.",
+    "Sensörinöral kayıp için orta kulak sağlıklı olmalı; tekrarlayan orta kulak enfeksiyonu ya da Östaki borusu sorunu engel olabilir.",
+    "Orta kulak ve mastoidin yapısı, cerrahi öncesi görüntülemeyle değerlendirilir.",
+    "Kişinin beklentisi, ameliyat ve izlem süreci açıkça konuşulur; sistemlerin çoğu öncelikle yetişkinler için tasarlanmıştır.",
+    "Dalgalanan işitme kaybı, Meniere hastalığı ya da retrokoklear bir patoloji genellikle adaylığı dışlar.",
+    "İletim tipi ve mikst kayıpta ölçütler, bağlantı yerine ve kemik yolu eşiklerine göre üretici tarafından ayrıca tanımlanır."
+   ]
+  },
+  {
+   "id": "arti_eksi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Avantaj ve sınırlılıklar",
+   "baslik": "Avantajlar ve *sınırlılıklar*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak yolu açık",
+     "cumle": 0,
+     "metin": "Tıkanma ve tahriş yok"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Az geri besleme",
+     "cumle": 1,
+     "metin": "Çıkış titreşim, ses değil"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Konfor",
+     "cumle": 3,
+     "metin": "Görünmezlik, gün boyu kullanım"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Ameliyat",
+     "cumle": 4,
+     "metin": "Cerrahi riskler, yüksek maliyet"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "MR kısıtları",
+     "cumle": 6,
+     "metin": "İmplanta göre değişir"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Kalıcı müdahale",
+     "cumle": 7,
+     "metin": "Zincir ayrılabilir"
+    }
+   ],
+   "cumleler": [
+    "En önemli avantaj kulak yolunun açık kalmasıdır; tıkanma etkisi ve kanal tahrişi ortadan kalkar.",
+    "Çıkış ses değil titreşim olduğu için akustik geri besleme sorunu klasik cihazlara göre çok daha azdır.",
+    "Doğrudan mekanik sürüş, özellikle tiz frekanslarda sinyalin daha az bozularak iletilmesine yardım edebilir.",
+    "Görünmezlik ve gün boyu kullanım, özellikle tam implante sistemlerde önemli bir konfor sağlar.",
+    "Buna karşılık her sistem bir ameliyat gerektirir ve cerrahinin kendi riskleri vardır.",
+    "Cihaz ve ameliyat maliyeti yüksektir; tam implante sistemlerde pil için ek ameliyat gerekebilir.",
+    "Manyetik rezonans görüntüleme, yani MR çekilebilirliği implanta göre değişir; bazılarında koşullu ya da kısıtlıdır.",
+    "Bazı sistemlerde kemikçik zinciri kalıcı olarak ayrılır; implant çıkarılırsa doğal iletim tam olarak geri gelmeyebilir."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Avantaj ve sınırlılıklar",
+   "baslik": "Adaylıktan *izleme*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Değerlendirme",
+     "cumle": 0,
+     "metin": "Odyolojik ve cerrahi"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Ameliyat",
+     "cumle": 2,
+     "metin": "Dönüştürücü yerleştirilir"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İyileşme",
+     "cumle": 3,
+     "metin": "Birkaç hafta"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Etkinleştirme",
+     "cumle": 4,
+     "metin": "Programlama ve ölçüm"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İzlem",
+     "cumle": 5,
+     "metin": "Eşik ve konuşma testleri"
+    }
+   ],
+   "cumleler": [
+    "Süreç, odyolojik değerlendirme ve kulak burun boğaz hekiminin muayenesiyle başlar.",
+    "İşitme cihazıyla iyi yapılmış bir deneme, karşılaştırma için değerli bir başlangıç noktasıdır.",
+    "Ameliyatta dönüştürücü seçilen noktaya yerleştirilir ve alıcı deri altına sabitlenir.",
+    "Orta kulak ve yaranın iyileşmesi için genellikle birkaç hafta beklenir.",
+    "Ardından sistem etkinleştirilir; eşikler cihaz üzerinden ölçülür ve kazanç bunlara göre ayarlanır.",
+    "İzlemde implantlı serbest alan eşikleri, konuşma testleri ve öz bildirim ölçekleriyle yarar düzenli olarak değerlendirilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ameliyat öncesi ve sonrası kemik yolu eşiklerini karşılaştırın. Kalan işitmenin korunduğunu belgeler ve programlamaya temel oluşturur.",
+   "cumleler": [
+    "Sahadan bir ipucu: ameliyat öncesinde ve sonrasında kemik yolu eşiklerini dikkatle ölçüp kaydedin.",
+    "Bu karşılaştırma, cerrahi sırasında kokleanın kalan işlevinin korunduğunu belgeler.",
+    "Dönüştürücü takılan kulakta implantsız hava yolu eşiklerinin biraz değişebildiği bildirilmiştir; bunu da kaydedin.",
+    "Bu ölçümler, programlama ve sonraki yıllardaki izlem için güvenilir bir başlangıç oluşturur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Sinyal _titreşim_ olarak orta kulağa verilir",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Elektromanyetik ya da piezoelektrik dönüştürücü",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Incus, stapes ya da yuvarlak pencere",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kulak yolu açık; ameliyat ve maliyet sınırlar",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Aktif orta kulak implantı, yükseltilmiş sinyali kulak yoluna değil, titreşim olarak orta kulaktaki yapılara verir.",
+    "Titreşim elektromanyetik ya da piezoelektrik bir dönüştürücüyle üretilir; sistem yarı ya da tam implante olabilir.",
+    "Dönüştürücü incusa, stapese ya da yuvarlak pencereye bağlanabilir; seçim kayıp tipine ve anatomiye göre yapılır.",
+    "Kulak yolunun açık kalması önemli bir avantajdır; ameliyat, maliyet ve MR kısıtları ise başlıca sınırlılıklardır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Yuvarlak pencere vibroplastisi en çok hangi durumda düşünülür?",
+   "secenekler": [
+    "Hafif sensörinöral kayıp",
+    "Zinciri kullanılamayan mikst kayıp",
+    "Dalgalanan işitme kaybı",
+    "Normal işitme"
+   ],
+   "dogru": 1,
+   "aciklama": "Dönüştürücü _yuvarlak pencereye_ konur; zincir kullanılamadığında iç kulağa ulaşmanın bir yoludur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: yuvarlak pencere vibroplastisi en çok hangi durumda düşünülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kemikçik zinciri kullanılamayan mikst kayıp.",
+    "Dönüştürücü yuvarlak pencereye yerleştirildiğinde titreşim, zinciri atlayarak doğrudan iç kulak sıvılarına ulaşır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitsel işlemleme *bozukluğu* (APD) nedir?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste yeni bir modüle geçiyor ve işitsel işlemleme bozukluğunun ne olduğunu öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

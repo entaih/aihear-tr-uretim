@@ -1,0 +1,873 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D137_Asimetrik_Kayip_Schwannom_TR",
+ "kapak": {
+  "ust": "DERS 137",
+  "baslik": "Asimetri ve<br>*schwannom*",
+  "alt": "Asimetrik kayıpta yönlendirme",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      20,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      30,
+      45,
+      55,
+      60
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Asimetrik İşitme Kaybı ve Vestibüler Schwannom Şüphesi | Ders 137 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Asimetrik sensörinöral işitme kaybının ölçütlerini, vestibüler schwannomun belirtilerini ve odyolojik profilini, odyoloğun bulguları doğrulayıp hekime yönlendirme sürecini anlatıyoruz. Asimetri ölçütlerinin duyarlılık ve özgüllük dengesi, MR ve ABR'nin yeri ve danışmanlık dili örneklerle ele alınıyor.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Saliba ve arkadaşları (2009), asimetrik sensörinöral işitme kaybında Rule 3000 çalışması; AAO-HNSF, Clinical Practice Guideline: Sudden Hearing Loss (Update), 2019.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "schwannom",
+   "işitme"
+  ],
+  "etiketler": [
+   "asimetrik işitme kaybı",
+   "asymmetric sensorineural hearing loss",
+   "vestibüler schwannom",
+   "vestibular schwannoma",
+   "akustik nörinom",
+   "serebellopontin köşe",
+   "cerebellopontine angle",
+   "Rule 3000",
+   "MR",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 137",
+   "baslik": "Asimetri ve *schwannom*",
+   "alt": "Asimetrik kayıpta odyoloğun yaklaşımı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    {
+     "yazi": "Bu derste asimetrik sensörinöral işitme kaybını ve vestibüler schwannom şüphesinde odyoloğun yaklaşımını öğreneceğiz.",
+     "ses": "Bu derste asimetrik sensörinöral işitme kaybını ve vestibüler şvannom şüphesinde odyoloğun yaklaşımını öğreneceğiz."
+    },
+    "Asimetri ölçütlerini, eşlik eden uyarı bulgularını ve hekime yönlendirme sürecini adım adım göreceğiz."
+   ]
+  },
+  {
+   "id": "asimetri",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Asimetri",
+   "baslik": "Asimetrik *sensörinöral* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Sağ hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Sol hava yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "Sol kemik, maskeli",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "4000 Hz'de _30 dB_ fark",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       20,
+       25,
+       30
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       45,
+       55,
+       60
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       15,
+       20,
+       30,
+       45,
+       55
+      ],
+      "cumle": 2
+     }
+    ],
+    "aralik": {
+     "konum": [
+      4,
+      25,
+      55
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Asimetrik sensörinöral işitme kaybı (asymmetric sensorineural hearing loss), iki kulak arasında belirgin eşik farkı olan kayıptır.",
+     "ses": "Asimetrik sensörinöral işitme kaybı, iki kulak arasında belirgin eşik farkı olan kayıptır."
+    },
+    "Bu örnekte sağ kulak, yaşla uyumlu sayılabilecek hafif bir yüksek frekans düşüşü gösteriyor.",
+    {
+     "yazi": "Sol kulakta ise 1000 Hz'den sonra belirgin biçimde artan bir kayıp var; kemik yolu da hava yoluyla örtüşüyor.",
+     "ses": "Sol kulakta ise bin Hz'den sonra belirgin biçimde artan bir kayıp var; kemik yolu da hava yoluyla örtüşüyor."
+    },
+    {
+     "yazi": "4000 Hz'de iki kulak arasındaki fark 30 desibel; 2000 ve 8000 Hz'de de fark 20 desibel ve üzerinde.",
+     "ses": "dört bin Hz'de iki kulak arasındaki fark otuz desibel; iki bin ve sekiz bin Hz'de de fark yirmi desibel ve üzerinde."
+    },
+    "Yaşa bağlı kayıp ve çoğu gürültüye bağlı kayıp genellikle iki kulakta benzer, yani simetrik seyreder.",
+    "Bu yüzden açıklanamayan bir asimetri, nedeninin araştırılmasını gerektiren bir bulgudur.",
+    "Asimetri saptandığında ilk soru, bu farkın bilinen bir nedenle açıklanıp açıklanamayacağıdır."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Asimetri",
+   "baslik": "Asimetri *ölçütleri*",
+   "sutunlar": [
+    "Ölçüt örneği",
+    "Eşik farkı",
+    "Not"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "İki ardışık frekans",
+      "15 dB ve üzeri",
+      "Sık kullanılır"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3000 kuralı",
+      "3000 Hz'de 15 dB",
+      "Saliba, 2009"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Tek frekans",
+      "20 dB ve üzeri",
+      "Bazı protokoller"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Asimetrinin ne kadar büyük olunca anlamlı sayılacağı konusunda tek bir evrensel ölçüt yoktur.",
+    {
+     "yazi": "Sık kullanılan bir yaklaşım, iki ardışık frekansta 15 desibel ve üzerindeki farkı anlamlı kabul eder.",
+     "ses": "Sık kullanılan bir yaklaşım, iki ardışık frekansta on beş desibel ve üzerindeki farkı anlamlı kabul eder."
+    },
+    {
+     "yazi": "3000 kuralı olarak bilinen ölçüt, yalnız 3000 Hz'deki 15 desibel ve üzeri farka bakar.",
+     "ses": "Üç bin kuralı olarak bilinen ölçüt, yalnız üç bin hertzdeki on beş desibel ve üzeri farka bakar."
+    },
+    {
+     "yazi": "Bazı protokoller ise tek bir frekansta 20 desibel ve üzerindeki farkı yeterli sayar.",
+     "ses": "Bazı protokoller ise tek bir frekansta yirmi desibel ve üzerindeki farkı yeterli sayar."
+    },
+    "Ölçütler farklı olduğu için aynı odyogram bir protokolde anlamlı, ötekinde sınırda sayılabilir.",
+    "Her kurum kendi protokolünü belirler; odyolog çalıştığı merkezin ölçütünü bilmeli ve raporda hangi ölçütü kullandığını belirtmelidir."
+   ]
+  },
+  {
+   "id": "denge",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Asimetri",
+   "baslik": "Duyarlılık ve *özgüllük*",
+   "maddeler": [
+    {
+     "metin": "Gevşek ölçüt: _daha çok_ MR",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Sıkı ölçüt: tümör _kaçabilir_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "MR'ların _küçük bir kısmında_ tümör",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tinnitus ya da dengesizlik _olasılığı artırır_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DENGE",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "tarama",
+      "baslik": "Duyarlılık",
+      "metin": "Tümörü kaçırmamak",
+      "cumle": 0
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Özgüllük",
+      "metin": "Gereksiz tetkikten kaçınmak",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Ölçüt gevşek tutulursa tümörlerin çoğu yakalanır, ama çok sayıda kişi gereksiz yere görüntülemeye gönderilir.",
+    "Ölçüt sıkı tutulursa gereksiz tetkik azalır, ama bazı tümörlerin gözden kaçma olasılığı artar.",
+    "Görüntüleme için en sık manyetik rezonans görüntüleme, kısaca MR kullanılır.",
+    {
+     "yazi": "Asimetrik kayıp nedeniyle MR çekilenlerin çoğu çalışmada yalnız küçük bir kısmında, yaklaşık yüzde 1 ile 3 arasında tümör bulunur.",
+     "ses": "Asimetrik kayıp nedeniyle MR çekilenlerin çoğu çalışmada yalnız küçük bir kısmında, yaklaşık yüzde bir ile üç arasında tümör bulunur."
+    },
+    "Bu düşük oran, ölçütlerin neden tartışıldığını açıklar; ama tümörü kaçırmanın bedeli de yüksektir.",
+    "Asimetriye tek taraflı tinnitus ya da baş dönmesi eşlik ettiğinde anlamlı bir bulgu çıkma olasılığının arttığı bildirilmiştir."
+   ]
+  },
+  {
+   "id": "konusma_asim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Asimetri",
+   "baslik": "Konuşmada *asimetri*",
+   "maddeler": [
+    {
+     "metin": "Kelime skorları _iki kulakta_ karşılaştırılır",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Benzer duyum düzeyinde _test et_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Belirgin skor farkı: _ek uyarı_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Skor farkı eşik farkından _büyükse_ dikkat",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 2,
+    "ayar": {
+     "x": {
+      "min": 0.4,
+      "max": 2.6,
+      "ad": "Kulak",
+      "isaretler": [
+       1,
+       2
+      ],
+      "yazilar": {
+       "1": "Sağ",
+       "2": "Sol"
+      }
+     },
+     "y": {
+      "min": 0,
+      "max": 100,
+      "adim": 20,
+      "ad": "Kelime skoru (%)"
+     },
+     "seriler": [
+      {
+       "ad": "skor",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1,
+         92
+        ],
+        [
+         2,
+         60
+        ]
+       ],
+       "renk": "mavi",
+       "genislik": 0.5,
+       "cumle": 2
+      }
+     ],
+     "araliklar": [
+      {
+       "ad": "skor_farki",
+       "y": [
+        60,
+        92
+       ],
+       "xk": 2.35,
+       "etiket": "32 puan",
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Asimetri yalnız eşiklerde değil, konuşma skorlarında da aranır.",
+    "İki kulağın kelime tanıma skoru, benzer duyum düzeylerinde ve tercihen kayıtlı materyalle ölçülerek karşılaştırılır.",
+    "Bu örnekte sağ kulakta skor yüzde doksan iki, sol kulakta ise yüzde altmış.",
+    "Skor farkının eşik farkının açıklayabileceğinden belirgin büyük olması, retrokoklear açıdan ek bir uyarı bulgusudur.",
+    "Bazı protokoller iki kulak arasındaki belirgin skor farkını da yönlendirme ölçütlerine ekler."
+   ]
+  },
+  {
+   "id": "schwannom",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vestibüler schwannom",
+   "baslik": "Vestibüler schwannom *nedir?*",
+   "cizim": "kulak_kesit",
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Vestibüler sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Koklear sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_kulak_yolu",
+     "metin": "İç kulak yolu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İyi huylu, _yavaş büyür_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Serebellopontin köşeye _uzanabilir_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Vestibüler schwannom (vestibular schwannoma), sekizinci kafa sinirinin denge bölümünü saran Schwann hücrelerinden gelişen bir tümördür.",
+     "ses": "Vestibüler şvannom, sekizinci kafa sinirinin denge bölümünü saran Şvan hücrelerinden gelişen bir tümördür."
+    },
+    "Çoğunlukla iç kulak yolunda, vestibüler sinir üzerinde başlar; eski adı akustik nörinomdur.",
+    "İyi huyludur ve genellikle yavaş büyür; bazıları yıllarca boyut değiştirmeden kalabilir.",
+    "Büyüdükçe komşu koklear sinire ve kokleanın kan akımına bası yaparak işitmeyi etkiler.",
+    {
+     "yazi": "Daha büyük tümörler iç kulak yolundan beyin sapına doğru, serebellopontin köşeye (cerebellopontine angle) uzanabilir.",
+     "ses": "Daha büyük tümörler iç kulak yolundan beyin sapına doğru, serebellopontin köşeye uzanabilir."
+    },
+    "Genellikle tek taraflıdır; iki taraflı olması ise ayrı bir genetik durumu düşündürür ve ileriki bir derste ele alınacaktır."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vestibüler schwannom",
+   "baslik": "Sık *belirtiler*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Tek taraflı kayıp",
+     "metin": "Çoğunlukla yavaş ilerleyen",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "metin": "Aynı kulakta",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Dengesizlik",
+     "metin": "Vertigo daha seyrek",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ani kayıp",
+     "metin": "Bazı kişilerde ilk belirti",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Dolgunluk",
+     "metin": "Kulakta basınç hissi",
+     "cumle": 4
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Yüz bulguları",
+     "metin": "Büyük tümörlerde",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "En sık belirti, tek taraflı ve çoğu zaman yavaş ilerleyen bir işitme kaybıdır; kişi bunu telefonu öbür kulağa alınca fark edebilir.",
+    "Aynı kulakta tinnitus sık eşlik eder ve bazen ilk yakınmadır.",
+    "Denge siniri yavaş etkilendiği için beyin uyum sağlar; bu yüzden belirgin vertigo yerine hafif dengesizlik daha sıktır.",
+    "Bazı kişilerde ilk belirti ani bir işitme kaybıdır; bu yüzden ani kayıplarda da retrokoklear değerlendirme önerilir.",
+    "Kulakta dolgunluk ya da basınç hissi de tarif edilebilir.",
+    "Yüzde uyuşma ya da güçsüzlük genellikle büyük tümörlerde görülür ve gecikmeden hekime bildirilmelidir.",
+    "Belirtilerin yavaş ilerlemesi, kişinin yıllarca başvurmamasına ve kaybın rastlantısal bir odyogramda fark edilmesine yol açabilir."
+   ]
+  },
+  {
+   "id": "profil",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vestibüler schwannom",
+   "baslik": "Odyolojik *profil*",
+   "maddeler": [
+    {
+     "metin": "Sıklıkla _tiz ağırlıklı_ asimetri",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Ama _her konfigürasyon_ olabilir",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Konuşma skoru _orantısız düşük_ olabilir",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Refleks ve ABR _retrokoklear_ yönde",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 3,
+    "ayar": {
+     "i_v_uzama": 0.7
+    },
+    "vurgula": [
+     {
+      "parca": "latans_I_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Odyogramda en sık yüksek frekanslarda daha belirgin, tek taraflı bir sensörinöral kayıp görülür.",
+    "Ancak düz, alçak frekans ağırlıklı ya da çentikli kayıplar da görülebilir; normal bir odyogram bile tümörü dışlamaz.",
+    "Kelime tanıma skoru, kaybın derecesine göre beklenenden düşük olabilir; ama birçok kişide skor kayıpla uyumludur.",
+    "Akustik refleksler yok ya da yükselmiş olabilir; işitsel beyin sapı yanıtı, kısaca ABR'de I-V aralığı uzayabilir.",
+    "Bu bulguların hiçbiri her kişide bulunmaz; profil bir olasılığı güçlendirir ama tek başına sonuç koydurmaz."
+   ]
+  },
+  {
+   "id": "aciklama",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vestibüler schwannom",
+   "baslik": "Asimetrinin *başka* nedenleri",
+   "maddeler": [
+    {
+     "metin": "Tek taraflı gürültü, örneğin _atış sporları_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Geçirilmiş kulak hastalığı ya da _cerrahi_",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Meniere hastalığı, _ani kayıp_ öyküsü",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Açıklama yoksa: _yönlendirme_",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖYKÜ",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Sorun",
+      "metin": "Ne zamandan beri?",
+      "cumle": 0
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Kaydet",
+      "metin": "Gürültü, cerrahi, ataklar",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Asimetrinin bilinen nedenleri de vardır: örneğin tüfekle atış yapan bir kişide, namluya yakın kulak daha çok etkilenebilir.",
+    "Geçirilmiş kronik kulak hastalıkları ve kulak cerrahisi de bir kulakta daha fazla kayba yol açabilir.",
+    "Meniere hastalığı ya da önceki bir ani işitme kaybı da tek taraflı sensörinöral kayıp bırakabilir.",
+    "Bu yüzden öyküde gürültü maruziyetinin hangi tarafta yoğunlaştığı, geçmiş hastalıklar ve ataklar ayrıntılı kaydedilir.",
+    "Bununla birlikte bilinen bir neden bulunması, kararı her zaman değiştirmez; açıklama yetersizse yönlendirme yine yapılır."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yönlendirme",
+   "baslik": "Yönlendirme *süreci*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Doğrula",
+     "metin": "Maskeleme, tekrar ölçüm",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Bataryayı tamamla",
+     "metin": "Konuşma, refleks, gerekirse ABR",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Raporla",
+     "metin": "Ölçüt ve bulgular",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Hekime yönlendir",
+     "metin": "KBB değerlendirmesi",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Hekim karar verir",
+     "metin": "Görüntüleme ya da izlem",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İlk adım asimetriyi doğrulamaktır: maskeleme doğru yapılmış mı, eşikler tekrarlandığında aynı mı?",
+    "Ardından konuşma testleri ve akustik refleksler tamamlanır; merkezin protokolüne göre ABR de eklenebilir.",
+    "Rapor, kullanılan asimetri ölçütünü, eşlik eden belirtileri ve test bulgularını açıkça içerir.",
+    "Kişi, bulgularıyla birlikte kulak burun boğaz, kısaca KBB hekimine yönlendirilir.",
+    "Görüntüleme yapılıp yapılmayacağına ve hangi yöntemin seçileceğine hekim karar verir.",
+    "Odyoloğun sorumluluğu, bulguyu fark etmek, doğrulamak ve gecikmeden doğru kişiye iletmektir."
+   ]
+  },
+  {
+   "id": "mr",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yönlendirme",
+   "baslik": "MR ve *ABR*",
+   "maddeler": [
+    {
+     "metin": "Altın standart: _MR_",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Birkaç milimetrelik tümörü _gösterir_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "MR yapılamıyorsa: _ABR_ seçeneği",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal ABR küçük tümörü _dışlamaz_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "ic_kulak_yolu_dibi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "ust_vestibuler_sinir",
+      "cumle": 1
+     },
+     {
+      "parca": "alt_vestibuler_sinir",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Vestibüler schwannomu göstermede altın standart, kontrastlı ya da özel sekanslarla çekilen MR'dır.",
+     "ses": "Vestibüler şvannomu göstermede altın standart, kontrastlı ya da özel sekanslarla çekilen MR'dır."
+    },
+    "MR, iç kulak yolundaki birkaç milimetrelik tümörleri bile gösterebilir.",
+    "Kalp pili gibi nedenlerle MR çekilemeyen kişilerde ABR, işlevsel bir tarama seçeneği olarak kullanılabilir.",
+    "Önceki derslerde gördüğümüz gibi küçük tümörlerde ABR normal çıkabilir; bu sınır kişiye ve hekime açıkça bildirilmelidir.",
+    "Yöntem seçimi her zaman hekimin değerlendirmesine bağlıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kişiye tümör olasılığından korkutucu biçimde söz etmeyin. Bulgunun neden ek değerlendirme gerektirdiğini sakin ve açık anlatın; tümörlerin çoğunun iyi huylu olduğunu unutmayın.",
+   "cumleler": [
+    "Bir klinik ipucu: yönlendirme yaparken kişiyi korkutmadan, ama bulgunun önemini de küçümsemeden konuşun.",
+    "Örneğin, iki kulağınız arasındaki fark beklenenden büyük, bunun nedenini anlamak için hekiminizin değerlendirmesi önemli diyebilirsiniz.",
+    "Tanı koymak ya da olasılık yüzdesi vermek odyoloğun görevi değildir.",
+    "Kişinin hekime gidip gitmediğini izlemek ve kontrol randevusunu planlamak da sürecin parçasıdır."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yönlendirme",
+   "baslik": "Sonrasında *odyolog*",
+   "maddeler": [
+    {
+     "metin": "MR normalse: _izlem_ odyogramları",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Tümör varsa: kararlar _hekim ekibinde_",
+     "cumle": 1,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Seri odyogram ve _konuşma skoru_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "İşitme desteği ve _danışmanlık_",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "İZLEM",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "odyogram",
+      "baslik": "Seri ölçüm",
+      "metin": "Değişimi belgeler",
+      "cumle": 2
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Rehabilitasyon",
+      "metin": "Cihaz, CROS seçenekleri",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "MR normal çıkarsa kişi yine de belirli aralıklarla odyolojik izleme alınabilir; kaybın ilerleyip ilerlemediği izlenir.",
+    "Tümör saptanırsa izlem, cerrahi ya da radyoterapi gibi seçenekler hekim ekibi tarafından değerlendirilir.",
+    "Bu süreçte odyolog seri odyogramlar ve konuşma skorlarıyla işitmenin seyrini belgeler.",
+    "Bu ölçümler, ekibin karar vermesine ve kişinin işitme durumunu anlamasına yardımcı olur.",
+    "Kalan işitmeye göre işitme cihazı ya da karşı tarafa sinyal yönlendiren CROS sistemleri gibi seçenekler konuşulabilir.",
+    "Tek taraflı tinnitus ve dengesizlik yakınmaları da izlemde sorgulanır ve gerekirse ilgili değerlendirmelere yönlendirilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Asimetri ölçütleri _kuruma göre_ değişir",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Schwannom: _iyi huylu_, tek taraflı belirtiler",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normal ABR ya da odyogram _dışlamaz_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Odyolog doğrular, _hekime yönlendirir_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Asimetrik sensörinöral kayıp için tek bir evrensel ölçüt yoktur; iki ardışık frekansta 15 desibel sık kullanılan bir örnektir.",
+     "ses": "Asimetrik sensörinöral kayıp için tek bir evrensel ölçüt yoktur; iki ardışık frekansta on beş desibel sık kullanılan bir örnektir."
+    },
+    {
+     "yazi": "Vestibüler schwannom iyi huylu bir tümördür ve en sık tek taraflı kayıp, tinnitus ve dengesizlikle kendini gösterir.",
+     "ses": "Vestibüler şvannom iyi huylu bir tümördür ve en sık tek taraflı kayıp, tinnitus ve dengesizlikle kendini gösterir."
+    },
+    "Normal bir odyogram ya da normal bir ABR küçük bir tümörü dışlamaz; altın standart MR'dır.",
+    "Odyoloğun rolü asimetriyi doğrulamak, bulguları raporlamak ve kişiyi hekime yönlendirmektir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Asimetrik kayıpta görüntüleme kararını kim verir?",
+   "secenekler": [
+    "Odyolog",
+    "Hekim",
+    "Hasta yakını"
+   ],
+   "dogru": 1,
+   "aciklama": "Odyolog bulguları _doğrular ve raporlar_; görüntüleme ve tedavi kararı hekime aittir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Asimetrik sensörinöral kayıpta MR çekilip çekilmeyeceğine kim karar verir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: hekim.",
+    "Odyoloğun görevi asimetriyi doğrulamak, bulguları raporlamak ve kişiyi gecikmeden hekime yönlendirmektir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyolojik rapor *nasıl* yazılır?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bulgularımızı açık ve anlaşılır bir odyolojik rapora nasıl dönüştüreceğimizi öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

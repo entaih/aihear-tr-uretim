@@ -1,0 +1,135 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R029_Dort_Bin_Hertz_Centigi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #29",
+  "baslik": "4000 Hz'de *çentik*",
+  "alt": "Gürültü öyküsünü sorgulatan ipucu",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      25,
+      55,
+      30
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      15,
+      30,
+      60,
+      35
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Odyogramdaki 4000 Hz çentiği neyi anlatır? #shorts",
+  "aciklama": "Eşiklerin 4000 Hz'de düşüp 8000 Hz'de yeniden iyileştiği çentik, gürültüye bağlı işitme kaybında tipik olarak görülür. Yine de tanı yalnız odyogramla konmaz; ayrıntılı gürültü öyküsü gerekir. Görseldeki odyogram örnektir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "odyogram",
+   "gürültü"
+  ],
+  "etiketler": [
+   "gürültü çentiği",
+   "4000 Hz çentiği",
+   "gürültüye bağlı işitme kaybı",
+   "odyogram konfigürasyonu",
+   "odyogram",
+   "odyoloji",
+   "işitme",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Odyogramdaki çentik neyi anlatır?",
+  "bilgiler": [
+   "Eşik 4000 Hz'de düşer, 8000 Hz'de yeniden iyileşir.",
+   "Bu çentik gürültüye bağlı işitme kaybında tipik olarak görülür.",
+   "Tanı yalnız odyogramla konmaz; gürültü öyküsü gerekir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "odyogram",
+   "gürültü"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #29",
+   "metin": "Odyogramdaki *çentik* neyi anlatır?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Odyogramdaki çentik neyi anlatır?"
+   ]
+  },
+  {
+   "id": "centik",
+   "tur": "zincir",
+   "baslik": "Çentik ve *toparlanma*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "4000 Hz",
+     "tr": "düşüş",
+     "cumle": 0
+    },
+    {
+     "ad": "8000 Hz",
+     "tr": "toparlanma",
+     "cumle": 1
+    },
+    {
+     "ad": "Öykü",
+     "tr": "gürültü sorgusu",
+     "cumle": 2
+    }
+   ],
+   "alt": "Bir _ipucu_, tek başına tanı değil",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Eşik dört bin hertzde belirgin biçimde düşer.",
+    "Sekiz bin hertzde yeniden iyileşir; buna toparlanma denir.",
+    "Böyle bir çentik, gürültüye bağlı işitme kaybında tipik olarak görülür.",
+    "Yine de tanı yalnız odyogramla konmaz; öykü de gerekir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D063",
+ "kaynak_baslik": "Odyogram konfigürasyonları"
+}

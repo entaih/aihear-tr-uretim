@@ -1,0 +1,733 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D168_Objektif_Test_Bataryasi_TR",
+ "kapak": {
+  "ust": "DERS 168",
+  "baslik": "Objektif test<br>*bataryası*",
+  "alt": "Bebek ve çocukta eşik tahmini",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Bebek ve Çocukta Objektif Test Bataryası | Ders 168 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bebek ve küçük çocukta objektif test bataryasını anlatıyoruz: bin hertz timpanometri ve akustik refleks, otoakustik emisyon, frekansa özgü ABR, ASSR, bulguların birlikte yorumu, oturum planı, doğal uyku ve sedasyon ve davranışsal doğrulama.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Joint Committee on Infant Hearing, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age (2004); Hall, eHandbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "pediatrikodyoloji",
+   "ABR"
+  ],
+  "etiketler": [
+   "objektif test bataryası",
+   "objective test battery",
+   "1000 Hz timpanometri",
+   "otoakustik emisyon",
+   "ABR",
+   "ASSR",
+   "frekansa özgü eşik",
+   "frequency-specific threshold",
+   "sedasyon",
+   "pediatrik odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 168",
+   "baslik": "Objektif test *bataryası*",
+   "alt": "Bebek ve çocukta immitans, OAE, ABR ve ASSR",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bebek ve küçük çocukta kullanılan objektif test bataryasını öğreneceğiz.",
+    "Bin hertz timpanometri, akustik refleks, otoakustik emisyon, işitsel beyin sapı ve durağan durum yanıtlarının yerini ve yorumunu göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden objektif?",
+   "baslik": "Neden *objektif* testler?",
+   "maddeler": [
+    {
+     "metin": "Çocuğun _yanıt vermesi_ gerekmez",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "6 aydan küçükte _eşik tahmini_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Davranışsal test _yapılamıyorsa_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "İşitmeyi değil, _işlevi_ ölçer",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Küçük bebek",
+      "metin": "6 aydan küçük",
+      "cumle": 1
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "Test zor",
+      "metin": "Tutarsız yanıt",
+      "cumle": 2
+     }
+    ],
+    "ust": "KİMLER İÇİN?"
+   },
+   "cumleler": [
+    "Objektif testler, çocuğun bir davranışla yanıt vermesini gerektirmeyen fizyolojik ölçümlerdir.",
+    "Gelişimsel olarak altı aydan küçük bebeklerde kulağa ve frekansa özgü eşik tahmini bu testlerle yapılır.",
+    "Daha büyük çocuklarda da davranışsal test yapılamıyor ya da sonuçlar tutarsızsa objektif bataryaya başvurulur.",
+    "Örneğin gelişimsel gecikmesi ya da çoklu yetersizliği olan çocuklarda bu testler özellikle değerlidir.",
+    "Ancak objektif testler işitme algısını değil, işitme sisteminin belirli bölümlerinin işlevini ölçer.",
+    "Bu yüzden her test, sistemin farklı bir bölümünü gösteren bir parça olarak düşünülür ve birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden objektif?",
+   "baslik": "Bataryanın *parçaları*",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "İmmitans",
+     "metin": "1000 Hz timpanometri, refleks: orta kulak",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "OAE",
+     "metin": "Dış tüy hücreleri",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "Sinir ve beyin sapı, eşik",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "ASSR",
+     "metin": "Frekansa özgü, yüksek düzeyler",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Objektif test bataryasının dört temel parçası vardır.",
+    "İmmitans ölçümleri, yani timpanometri ve akustik refleks, orta kulağın durumunu ve refleks yolunu gösterir.",
+    "Otoakustik emisyon, kısaca OAE, koklea içindeki dış tüy hücrelerinin işlevini yansıtır.",
+    "İşitsel beyin sapı yanıtı, kısaca ABR, işitme siniri ve beyin sapı yolunu değerlendirir ve frekansa özgü eşik tahmini sağlar.",
+    "İşitsel durağan durum yanıtı, kısaca ASSR, frekansa özgü ve otomatik değerlendirilen bir başka eşik tahmini yöntemidir.",
+    "Hiçbir test tek başına yeterli değildir; çapraz kontrol ilkesi burada da geçerlidir."
+   ]
+  },
+  {
+   "id": "immitans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Orta kulak ve koklea",
+   "baslik": "*1000 Hz* timpanometri ve refleks",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 2
+     },
+     {
+      "tip": "B",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "6 ay altı: _1000 Hz_ prob tonu",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "226 Hz tepesi _yanıltabilir_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Refleks yoksa _dikkat_",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Altı aydan küçük bebeklerde orta kulak, bin hertz prob tonuyla değerlendirilir.",
+    "Bu yaşta iki yüz yirmi altı hertzlik timpanogram, orta kulakta sıvı olsa bile tepeli ve normal görünebilir.",
+    "Bin hertzde net bir tepe orta kulağın büyük olasılıkla sağlıklı olduğunu, düz bir eğri ise sıvı ya da başka bir iletim sorununu düşündürür.",
+    "Bebeklerde akustik refleks de bin hertzlik prob tonuyla daha sık kaydedilir.",
+    "Normal timpanograma rağmen refleksin alınamaması, işitme kaybı ya da sinir yolu sorunu açısından dikkat gerektirir.",
+    "Altı aydan büyük çocuklarda ise rutin iki yüz yirmi altı hertzlik timpanometriye geçilir."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Orta kulak ve koklea",
+   "baslik": "*OAE* ne söyler?",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "Emisyon",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Gürültü",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Var: _dış tüy hücreleri_ çalışıyor",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yok: koklea _ya da_ orta kulak",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Sinir yolunu _göstermez_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Otoakustik emisyonun varlığı, test edilen frekans bölgesinde dış tüy hücrelerinin çalıştığını gösterir.",
+    "Koklear kayıp yaklaşık otuz ile kırk desibel HL düzeyini aştığında emisyon genellikle alınamaz.",
+    "Ancak emisyonun yokluğu her zaman koklear kayıp demek değildir; orta kulakta sıvı ve kulak yolunda kalıntı da emisyonu engeller.",
+    "OAE işitme sinirini ve beyin sapını değerlendirmez.",
+    "Bu yüzden işitsel nöropati spektrum bozukluğunda emisyon olduğu halde işitme bozuk olabilir.",
+    "Test hızlıdır ve bebek sakin ya da uyurken birkaç dakikada tamamlanabilir.",
+    "Bataryada OAE, ABR sonucunun koklear mi yoksa sinirsel bir sorunla mı ilişkili olduğunu ayırmaya yardım eder."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik tahmini",
+   "baslik": "*ABR*: sinir yolu ve eşik",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Dalga I",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Dalga V: eşikte izlenir",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Klik: _sinir yolu_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tonburst: _frekansa özgü_ eşik",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kemik yolu ABR: _kayıp tipi_",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Yüksek şiddette klik ile alınan ABR, işitme siniri ve beyin sapı yolunun bütünlüğünü gösterir.",
+    "Dalga I, III ve V'in varlığı ve latansları, yolun normal çalışıp çalışmadığı hakkında bilgi verir.",
+    "Eşik tahmini için ise frekansa özgü tonburst ABR kullanılır; dalga V'in izlenebildiği en düşük şiddet aranır.",
+    "Normalize işitme düzeyinde, yani nHL olarak bulunan eşikler, önceki derslerde gördüğümüz düzeltmelerle tahmini işitme düzeyine çevrilir.",
+    "Hava yolu eşikleri yüksekse kemik yolu ABR ile kaybın iletim tipi mi sensörinöral mi olduğu anlaşılır.",
+    "Birçok kılavuz, bebekte eşik tahmininin temeli olarak frekansa özgü ABR'yi kabul eder."
+   ]
+  },
+  {
+   "id": "assr",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik tahmini",
+   "baslik": "*ASSR*",
+   "maddeler": [
+    {
+     "metin": "Modüle edilen sese _ritmik_ yanıt",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Yanıt _istatistikle_ saptanır",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Birden çok frekans _aynı anda_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İleri kayıpta _yüksek düzey_ bilgisi",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Tek başına_ kullanılmaz",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Güçlü yanı",
+      "metin": "İleri kayıpta bilgi",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Dikkat",
+      "metin": "Hafif kayıpta kesinlik",
+      "cumle": 4
+     }
+    ],
+    "ust": "ASSR"
+   },
+   "cumleler": [
+    "ASSR, genliği ya da frekansı düzenli olarak değişen, yani modüle edilen sürekli bir sese beyinde oluşan ritmik yanıttır.",
+    "Yanıtın varlığına görsel yorumla değil, istatistiksel bir hesapla karar verilir.",
+    "Bazı sistemlerde birden çok frekans ve iki kulak aynı anda test edilebilir; bu da zaman kazandırabilir.",
+    "ASSR, tonburst ABR'nin ulaşamadığı yüksek şiddetlere çıkabildiği için ileri ve çok ileri kayıplarda ek bilgi verir.",
+    "Buna karşılık normal işitmede ve hafif kayıplarda eşik tahmini daha az kesin olabilir; işitsel nöropatide de yanıltıcı sonuç verebilir.",
+    "Bu nedenle ASSR genellikle tek başına değil, ABR ile birlikte bataryanın tamamlayıcı bir parçası olarak kullanılır."
+   ]
+  },
+  {
+   "id": "oruntu",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eşik tahmini",
+   "baslik": "Bulguları *birleştirmek*",
+   "sutunlar": [
+    "Timpanometri",
+    "OAE",
+    "ABR",
+    "Örüntü"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "Var",
+      "Eşik normal",
+      "Normal işitme olası"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Düz",
+      "Yok",
+      "Kemik normal",
+      "İletim tipi"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Normal",
+      "Yok",
+      "Eşik yüksek",
+      "Sensörinöral"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Normal",
+      "Var",
+      "Yok, bozuk",
+      "ANSD kuşkusu"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Şimdi bulguların birlikte nasıl yorumlandığına bakalım; bu örüntüler yol göstericidir.",
+    "Normal timpanogram, var olan OAE ve normal ABR eşikleri, test edilen frekanslarda normal işitmeyle uyumludur.",
+    "Düz timpanogram, alınamayan OAE ve yüksek hava yolu ama normal kemik yolu ABR eşikleri iletim tipi bir kaybı düşündürür.",
+    "Normal timpanogram, alınamayan OAE ve yüksek ABR eşikleri sensörinöral bir kaybı düşündürür.",
+    "OAE varken ABR'nin hiç alınamaması ya da belirgin bozuk olması, işitsel nöropati spektrum bozukluğu, kısaca ANSD açısından önemlidir.",
+    "Bu son durumda koklear mikrofonik de değerlendirilir ve tanısal süreç hekim ve ekip ile birlikte yürütülür."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bataryayı uygulamak",
+   "baslik": "Oturumu *planlamak*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Hazırlık",
+     "metin": "Öykü ve otoskopi",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "OAE",
+     "metin": "Sakin bebekte hızlı",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "Uyurken, öncelikli",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "İmmitans",
+     "metin": "Çoğu zaman sona",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Rapor",
+     "metin": "Bulgular bir arada",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Oturum öykü ve otoskopiyle başlar; kulak yolundaki kalıntı OAE ve ABR'yi etkileyebilir.",
+    "OAE hızlıdır ve bebek sakinken ilk başta alınabilir.",
+    "Bebek uykuya daldığında en değerli zaman ABR'ye ayrılır; önce her kulakta en kritik frekanslar alınır.",
+    "Uyku bölünmezse frekanslar tamamlanır, gerekirse kemik yolu ABR ya da ASSR eklenir.",
+    "Timpanometri kulakta basınç değişimi yarattığı ve bebeği uyandırabildiği için birçok merkezde sona bırakılır.",
+    "Sıra merkezin protokolüne göre değişebilir; önemli olan bebek uyandığında en kritik bilginin alınmış olmasıdır."
+   ]
+  },
+  {
+   "id": "uyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bataryayı uygulamak",
+   "baslik": "Doğal uyku ve *sedasyon*",
+   "maddeler": [
+    {
+     "metin": "İlk aylarda _doğal uyku_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Randevu _uyku saatine_ göre",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Büyüdükçe _sedasyon_ gerekebilir",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Sedasyon: _hekim_ kararı",
+     "cumle": 3,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Plan _önceden_ hazır",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Sedasyonlu oturumdan önce test sırasını yazılı hazırlayın; uyku süresi sınırlıdır ve her dakika değerlidir.",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Yaşamın ilk birkaç ayında ABR ve ASSR çoğu zaman doğal uykuda, yani ilaç kullanmadan yapılabilir.",
+    "Randevu bebeğin olağan uyku ve beslenme saatine göre verilir ve aileye bebeği yorgun getirmeleri önerilir.",
+    "Bebek büyüdükçe, genellikle altı aydan sonra, uzun ve sakin bir kayıt için sedasyon (sedation) gerekebilir.",
+    "Sedasyonun gerekip gerekmediği ve nasıl uygulanacağı hekimin kararı ve gözetimindedir.",
+    "Odyoloğun görevi, sedasyon süresini en iyi kullanacak test planını önceden hazırlamaktır.",
+    "Bazı çocuklarda test, başka bir nedenle planlanan genel anestezi sırasında da yapılabilir."
+   ]
+  },
+  {
+   "id": "davranissal",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bataryayı uygulamak",
+   "baslik": "Davranışsal *doğrulama*",
+   "maddeler": [
+    {
+     "metin": "Objektif eşik bir _tahmindir_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hazır olunca _VRA_ ile doğrula",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Cihaz ayarı _tahmini_ eşiklerle başlar",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "ANSD'de _davranışsal_ eşik şart",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vra_odasi",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "odul_kutusu",
+      "metin": "VRA ile doğrulama",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cocuk",
+      "cumle": 1
+     },
+     {
+      "parca": "odul_kutusu",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Objektif testlerle bulunan eşikler, davranışsal eşiğin yerine geçen kesin değerler değil, tahminlerdir.",
+    "Bebek gelişimsel olarak hazır olduğunda, genellikle altı aydan sonra, eşikler görsel pekiştirmeli odyometri, yani VRA ile doğrulanır.",
+    "Davranışsal ve objektif sonuçlar uyumluysa güven artar; uyumsuzsa neden araştırılır.",
+    "Gerekli görülürse işitme cihazı uygulaması beklemeden, frekansa özgü tahmini eşiklerle başlatılabilir.",
+    "Cihaz ayarı daha sonra davranışsal bulgularla güncellenir.",
+    "İşitsel nöropati spektrum bozukluğunda ise ABR eşik tahmini için kullanılamaz; davranışsal eşikler alınabildiği anda ölçülür.",
+    "Bütün bu süreç aileyle paylaşılır ve izlem randevuları birlikte planlanır."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Bataryayı uygulamak",
+   "baslik": "Raporda *neler* olmalı?",
+   "maddeler": [
+    {
+     "metin": "Her test için _uyaran_ ve prob tonu",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "nHL ve _eHL_ ayrı ayrı",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Uyku, sedasyon ve _kayıt kalitesi_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Eksik frekanslar ve _izlem planı_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        35,
+        40,
+        50,
+        55,
+        null
+       ],
+       "cumle": 3
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        null,
+        30,
+        40,
+        45,
+        55,
+        null
+       ],
+       "cumle": 3
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "Raporda her test için kullanılan uyaran, prob tonu ve test edilen frekanslar açıkça yazılır.",
+    "ABR ve ASSR eşikleri hem ölçüldüğü birimle hem de hesaplanan tahmini işitme düzeyiyle verilir.",
+    "Bebeğin uyku durumu, sedasyon kullanılıp kullanılmadığı ve kayıt kalitesi de belirtilir.",
+    "Tahmini eşikler, sağdaki örnekte olduğu gibi bir tahmini odyogram üzerinde gösterilebilir.",
+    "Tamamlanamayan frekanslar ve bir sonraki adım, örneğin VRA ile doğrulama randevusu, yazılır.",
+    "Böyle bir rapor, başka bir merkezin ve ailenin sonucu doğru anlamasını sağlar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "OAE'nin varlığı tek başına normal işitme demek değildir. ABR olmadan, özellikle yoğun bakım geçmişi olan bebekte, sinir yolunu atlamayın.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: OAE var diye bebeğin işitmesinin normal olduğuna karar vermeyin.",
+    "OAE yalnız dış tüy hücrelerini gösterir; sinir yolu bozuksa emisyon olduğu halde ciddi bir işitme sorunu olabilir.",
+    "Özellikle yoğun bakım geçmişi ve prematürite gibi risk etkenleri olan bebeklerde bataryaya mutlaka ABR'yi ekleyin.",
+    "Bulgular uyumsuzsa bunu raporda açıkça yazın ve ekibe iletin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "6 ay altı: _1000 Hz_ timpanometri",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "OAE: dış tüy hücreleri, _sinir yolu yok_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Eşik tahmini: _tonburst ABR_, ASSR destek",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Bulgular _birlikte_ yorumlanır",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Altı aydan küçük bebeklerde orta kulak bin hertz prob tonuyla değerlendirilir; refleks de bu prob tonuyla daha sık alınır.",
+    "OAE dış tüy hücrelerinin işlevini gösterir, ama sinir yolunu değerlendirmez.",
+    "Frekansa özgü eşik tahmininin temeli tonburst ABR'dir; ASSR özellikle ileri kayıplarda tamamlayıcı bilgi verir.",
+    "Testler çapraz kontrol ilkesiyle birlikte yorumlanır ve davranışsal testlerle doğrulanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "OAE var, ABR yok: hangisi düşünülür?",
+   "secenekler": [
+    "İletim tipi kayıp",
+    "İşitsel nöropati spektrum bozukluğu",
+    "Normal işitme"
+   ],
+   "dogru": 1,
+   "aciklama": "OAE dış tüy hücrelerini gösterir; ABR yoksa _sinir yolu_ sorunu, yani ANSD akla gelir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Timpanogramı normal bir bebekte OAE alınıyor, ama ABR hiç alınamıyor. Hangisi düşünülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: işitsel nöropati spektrum bozukluğu.",
+    "Bu durumda koklear mikrofonik değerlendirilir ve tanısal süreç ekip ile birlikte yürütülür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tek taraflı ve *hafif* işitme kaybı neden önemli?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste tek taraflı ve hafif işitme kaybının çocukta neden önemli olduğunu öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

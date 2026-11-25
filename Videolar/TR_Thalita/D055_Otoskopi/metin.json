@@ -1,0 +1,744 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D055_Otoskopi_TR",
+ "kapak": {
+  "ust": "DERS 55",
+  "baslik": "*Otoskopi*<br>nasıl yapılır?",
+  "alt": "Tutuş, kulak kepçesi ve normal zar",
+  "cizim": "kulak_kesit"
+ },
+ "youtube": {
+  "baslik": "Otoskopi Nedir, Nasıl Yapılır? | Ders 55 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Otoskopi, her odyolojik değerlendirmenin ilk adımıdır. Bu derste otoskopun parçalarını, doğru tutuşu ve el desteğini, yetişkin ve bebekte kulak kepçesinin çekiliş yönünü, normal timpanik membran bulgularını, ışık refleksini ve buşonu tanımayı inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: British Society of Audiology, Recommended Procedure: Ear Examination; Katz, Handbook of Clinical Audiology; Martin ve Clark, Introduction to Audiology; AAO-HNS Clinical Practice Guideline: Earwax (Cerumen Impaction).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "otoskopi",
+   "kulak"
+  ],
+  "etiketler": [
+   "otoskopi",
+   "otoskop",
+   "otoscope",
+   "kulak zarı",
+   "timpanik membran",
+   "ışık refleksi",
+   "light reflex",
+   "buşon",
+   "cerumen impaction",
+   "spekulum",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 55",
+   "baslik": "*Otoskopi* nasıl yapılır?",
+   "alt": "Otoskop tutuşu, kulak kepçesi ve normal timpanik membran",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste otoskopiyi, yani kulak yolunun ve timpanik membranın, yani kulak zarının ışıklı bir aletle incelenmesini öğreneceğiz.",
+    "Doğru tutuşu, kulak kepçesinin çekiliş yönünü, normal zar görünümünü ve buşonu tanımayı adım adım göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden otoskopi?",
+   "baslik": "Odyolog neden *otoskopi* yapar?",
+   "maddeler": [
+    {
+     "metin": "Testten önce kulak yolunu _görmek_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Buşon, akıntı, yabancı cisim",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Prob ve kalıp öncesi _güvenlik_",
+     "cumle": 3,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Bulguyu _kaydetmek_ ve yönlendirmek",
+     "cumle": 5,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     },
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Dış kulak yolu",
+      "cumle": 0
+     },
+     {
+      "parca": "timpanik_membran",
+      "metin": "Timpanik membran",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Otoskopi, dış kulak yolunun ve timpanik membranın ışıklı bir büyüteçle incelenmesidir.",
+    "Odyolojik değerlendirmenin ilk adımıdır ve kulağa herhangi bir şey yerleştirmeden önce yapılır.",
+    "Kulak yolunu tıkayan buşon, akıntı ya da yabancı cisim test sonuçlarını doğrudan etkiler.",
+    "Timpanometri, otoakustik emisyon ölçümü ve kulak kalıbı ölçüsünden önce kulak yolunu görmek bir güvenlik adımıdır.",
+    "Kalıp ölçüsü alındıktan sonra da kulak yolunda malzeme kalmadığından emin olmak için otoskopi tekrarlanır.",
+    "Odyolog otoskopiyle tanı koymaz; olağan dışı bir bulguyu kaydeder ve hekime yönlendirir."
+   ]
+  },
+  {
+   "id": "otoskop",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Otoskop ve tutuş",
+   "baslik": "*Otoskopun* parçaları",
+   "maddeler": [
+    {
+     "metin": "Pilli sap ve ışıklı başlık",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "_Büyüteç_: birkaç kat büyütme",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Kulak yoluna giren uç: _spekulum_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Pnömatik otoskopi: zar hareketi",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SPEKULUM",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "Boy seçimi",
+      "metin": "Rahat giren en geniş uç",
+      "cumle": 3
+     },
+     {
+      "ikon": "enfeksiyon",
+      "baslik": "Hijyen",
+      "metin": "Tek kullanımlık ya da temizlenir",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Otoskop; pilli bir sap ve üzerine takılan, ışık kaynağı ile büyüteç içeren bir başlıktan oluşur.",
+    "Büyüteç, kulak yolunu ve zarı birkaç kat büyütülmüş görmemizi sağlar.",
+    "Başlığın ucuna takılan huniye spekulum denir; kulak yoluna giren tek parça budur.",
+    "Kulak yoluna rahatça giren en geniş spekulumu seçmek, hem görüş alanını hem de konforu artırır.",
+    "Bazı otoskoplara takılan bir pompa ile zarın basınca karşı hareketi de incelenebilir; buna pnömatik otoskopi denir.",
+    "Enfeksiyon kontrolü için spekulumlar tek kullanımlık olmalı ya da her hastadan sonra uygun biçimde temizlenmelidir."
+   ]
+  },
+  {
+   "id": "tutus",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Otoskop ve tutuş",
+   "baslik": "Doğru *tutuş*",
+   "maddeler": [
+    {
+     "metin": "Kalem tutar gibi, _ters_ tutuş",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "El kenarı hastanın _yanağında_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Boştaki el kulak kepçesini çeker",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Önce _anlatın_, sonra yaklaşın",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EL DESTEĞİ",
+    "metin": "Baş oynarsa otoskop da *birlikte* oynar",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Otoskop çoğu zaman sapı yukarı bakacak biçimde ters çevrilip bir kalem gibi tutulur.",
+    "Tutan elin serçe parmağı ya da elin yan kenarı, hastanın yanağına veya başına hafifçe dayanır.",
+    "Bu el desteği çok önemlidir: hasta aniden başını oynatırsa otoskop da onunla birlikte hareket eder ve kulak yolu yaralanmaz.",
+    "Genellikle sağ kulak sağ elle, sol kulak sol elle incelenir; boşta kalan el kulak kepçesini çeker.",
+    "Hastaya ne yapacağınızı önceden anlatmak, ani hareketleri ve kaygıyı azaltır.",
+    "Spekulum ilerlerken gözünüz her zaman büyüteçte olmalıdır; kulak yoluna körlemesine ilerleme yapılmaz."
+   ]
+  },
+  {
+   "id": "kanal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kulak kepçesi ve kulak yolu",
+   "baslik": "Dış kulak *yolu*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "dış kulak yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "metin": "auricula (kulak kepçesi)",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran (kulak zarı)",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dış üçte bir: kıkırdak",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İç üçte iki: kemik, çok hassas",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yetişkin: kepçe yukarı ve geri",
+     "cumle": 3,
+     "ikon": "dokunma"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 6,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "Dış kulak yolu yetişkinde yaklaşık iki buçuk santimetre uzunluğunda, hafif kıvrımlı bir kanaldır.",
+    "Dış üçte birlik bölümü kıkırdak, iç üçte ikilik bölümü ise kemik yapıdadır ve çok hassastır.",
+    "Kanalı düzleştirmek için auricula, yani kulak kepçesi, nazikçe çekilir.",
+    "Yetişkinde kulak kepçesi yukarı ve geriye doğru çekilir.",
+    "Spekulum yalnızca kıkırdak bölüme, yavaşça ve göz kontrolünde ilerletilir; kemik bölüme dokunulmaz.",
+    "Kemik bölüme dokunmak ağrıya ve bazı kişilerde öksürük refleksine yol açabilir.",
+    "Kanalın sonunda timpanik membran görülür."
+   ]
+  },
+  {
+   "id": "bebek",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kulak kepçesi ve kulak yolu",
+   "baslik": "Yetişkin ve *bebek*",
+   "sol": {
+    "ust": "Yetişkin",
+    "maddeler": [
+     {
+      "metin": "Kepçe _yukarı ve geri_",
+      "cumle": 0
+     },
+     {
+      "metin": "Kanal uzun ve kıvrımlı",
+      "cumle": 0
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Bebek ve küçük çocuk",
+    "maddeler": [
+     {
+      "metin": "Kepçe _aşağı ve geri_",
+      "cumle": 1
+     },
+     {
+      "metin": "Kanal kısa ve yumuşak",
+      "cumle": 2
+     },
+     {
+      "metin": "Küçük spekulum, az ilerletme",
+      "cumle": 4
+     },
+     {
+      "metin": "Baş nazikçe _sabitlenir_",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Yetişkinde kulak kepçesini yukarı ve geri çekmek, kanalın kıvrımını düzleştirir.",
+    "Bebeklerde ve küçük çocuklarda ise kulak kepçesi aşağı ve geriye doğru çekilir.",
+    "Çünkü bebeklerde kemik kanal henüz gelişmemiştir; kanal kısadır ve büyük ölçüde yumuşak dokudan oluşur.",
+    "Bu yaklaşım genellikle yaklaşık üç yaşına kadar uygulanır; daha büyük çocuklarda yetişkin yöntemine geçilir.",
+    "Bebeklerde küçük boy spekulum seçilir ve spekulum çok az ilerletilir.",
+    "Çocuğun başı ebeveynin kucağında nazikçe sabitlenir; bu yaşta ani bir hareket daha olasıdır."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kulak kepçesi ve kulak yolu",
+   "baslik": "Adım adım *inceleme*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Dıştan bakış",
+     "metin": "Kepçe ve çevresi",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sağlam kulak",
+     "metin": "Yakınması olmayandan başlayın",
+     "cumle": 2
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Kanal duvarları",
+     "metin": "Önce duvarları inceleyin",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Zarı tarayın",
+     "metin": "Tüm bölümler, sistematik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İncelemeye kulak kepçesine ve çevresine dışarıdan bakarak başlayın.",
+    "Şekil bozukluğu, kızarıklık, ameliyat izi ya da akıntı izi olup olmadığını not edin.",
+    "Yakınması olmayan kulaktan başlamak hem karşılaştırma imkanı verir hem de enfeksiyonun taşınma riskini azaltır.",
+    "Spekulumu yerleştirdikten sonra önce kulak yolunun duvarlarını inceleyin.",
+    "Ardından spekulumun açısını hafifçe değiştirerek zarın tüm bölümlerini sistematik biçimde tarayın.",
+    "Hastadan, inceleme sırasında ağrı ya da rahatsızlık hissederse hemen söylemesini isteyin."
+   ]
+  },
+  {
+   "id": "zar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Normal timpanik membran",
+   "baslik": "Normal *timpanik membran*",
+   "cizim": "kulak_zari_otoskopik",
+   "vurgula": [
+    {
+     "parca": "timpanik_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "manubrium",
+     "cumle": 1
+    },
+    {
+     "parca": "umbo",
+     "cumle": 2
+    },
+    {
+     "parca": "processus_lateralis",
+     "cumle": 3
+    },
+    {
+     "parca": "pars_flaccida",
+     "cumle": 4
+    },
+    {
+     "parca": "pars_tensa",
+     "cumle": 4
+    },
+    {
+     "parca": "anulus",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Timpanik membran: inci grisi",
+     "cumle": 0
+    },
+    {
+     "parca": "manubrium",
+     "metin": "Manubrium (malleus sapı)",
+     "cumle": 1
+    },
+    {
+     "parca": "umbo",
+     "metin": "Umbo",
+     "cumle": 2
+    },
+    {
+     "parca": "processus_lateralis",
+     "metin": "Kısa çıkıntı",
+     "cumle": 3
+    },
+    {
+     "parca": "pars_flaccida",
+     "metin": "Pars flaccida",
+     "cumle": 4
+    },
+    {
+     "parca": "anulus",
+     "metin": "Anulus",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Umbo: zarın en çökük noktası",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Pars flaccida (gevşek bölüm), pars tensa (gergin bölüm)",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Anulus: zarın halka biçimli kenarı",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Normal timpanik membran inci grisi renkte, yarı saydam ve parlak görünür.",
+    "Zarın arkasından manubrium, yani malleusun sapı, yukarıdan aşağı doğru uzanan bir çizgi gibi seçilir.",
+    "Manubriumun alt ucunda zarın en çökük noktası olan umbo, yani zar göbeği bulunur.",
+    "Manubriumun üst ucunda ise malleusun processus lateralisi, yani kısa çıkıntısı küçük bir kabarıklık gibi görülür.",
+    "Processus lateralisin üstündeki küçük gevşek bölgeye pars flaccida, geri kalan geniş ve gergin bölgeye pars tensa denir.",
+    "Zarın çevresinde onu kemiğe bağlayan halka biçimli kenara anulus, yani zar halkası denir."
+   ]
+  },
+  {
+   "id": "isik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Normal timpanik membran",
+   "baslik": "*Işık* refleksi",
+   "maddeler": [
+    {
+     "metin": "Umbodan başlayan _üçgen_ parlaklık",
+     "cumle": 0,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Zarın _ön alt_ çeyreğinde",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Kayması tek başına tanı koydurmaz",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SAAT YÖNÜ",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Sağ kulak",
+      "metin": "Yaklaşık saat 5",
+      "cumle": 3
+     },
+     {
+      "ikon": "saat",
+      "baslik": "Sol kulak",
+      "metin": "Yaklaşık saat 7",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Otoskopun ışığı zardan yansıyarak üçgen biçiminde bir parlaklık oluşturur.",
+    "Buna ışık refleksi ya da ışık konisi denir; umbodan başlar ve öne, aşağıya doğru uzanır.",
+    "Bu nedenle ışık refleksi zarın ön alt çeyreğinde görülür.",
+    "Saat kadranıyla düşünürsek, sağ kulakta yaklaşık saat beş, sol kulakta yaklaşık saat yedi yönündedir.",
+    "Işık refleksinin kayması ya da kaybolması, zarın içe çekilmesi veya dışa bombeleşmesi gibi durumlarda görülebilir.",
+    "Ancak tek başına bir bulgu değildir; diğer görünüm özellikleriyle birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "buson",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Buşon ve diğer bulgular",
+   "baslik": "*Buşon* (serumen tıkacı)",
+   "maddeler": [
+    {
+     "metin": "Sarı, kahverengi ya da siyah kitle",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Zarı kısmen ya da _tamamen_ örter",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Tam tıkanmada _iletim tipi_ kayıp",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Prob ve kalıp ölçüsünü _bozar_",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SERUMEN",
+    "metin": "Kulak yolunu *koruyan* doğal salgı",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Serumen, yani kulak kiri, kulak yolunu koruyan doğal bir salgıdır ve normalde kendiliğinden dışarı atılır.",
+    "Serumen birikip kulak yolunu tıkadığında buna buşon ya da serumen tıkacı denir.",
+    "Otoskopta sarı, kahverengi ya da siyah renkte, zarı kısmen veya tamamen örten bir kitle olarak görülür.",
+    "Kulak yolu tamamen tıkanmadıkça işitme genellikle belirgin etkilenmez; tam tıkanmada iletim tipi kayıp oluşabilir.",
+    "Buşon; timpanometri, otoakustik emisyon ve kalıp ölçüsü gibi işlemlerin sonuçlarını da bozabilir.",
+    "Bu durumda bulgu kaydedilir, temizlik için hekime yönlendirilir ve gerekirse test ertelenir."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Buşon ve diğer bulgular",
+   "baslik": "Diğer sık *bulgular*",
+   "maddeler": [
+    {
+     "metin": "Kızarık, şiş kulak yolu",
+     "cumle": 1,
+     "ikon": "enfeksiyon"
+    },
+    {
+     "metin": "Kulak yolunda _akıntı_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Zarda delik: _perforasyon_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Beyaz plaklar: _timpanoskleroz_",
+     "cumle": 4,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Zarda küçük boru: ventilasyon tüpü",
+     "cumle": 5,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Otoskopide buşon dışında da sık karşılaşılan bulgular vardır.",
+    "Kızarık, şiş ve dokunmakla ağrıyan bir kulak yolu, otitis externa, yani dış kulak yolu iltihabını düşündürebilir.",
+    "Kulak yolundaki akıntı dış kulaktan ya da delik bir zarın arkasındaki orta kulaktan kaynaklanabilir.",
+    "Zarda bir delik, yani perforasyon, arkasındaki orta kulak boşluğunun koyu görünümüyle fark edilebilir.",
+    "Zarda tebeşir beyazı plaklar timpanoskleroz olarak adlandırılır ve çoğu zaman eski bir otitis medianın, yani orta kulak iltihabının izidir.",
+    "Zar üzerinde küçük bir boru görürseniz bu bir ventilasyon tüpü olabilir; bunu da kayda geçirin."
+   ]
+  },
+  {
+   "id": "bulgular",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Buşon ve diğer bulgular",
+   "baslik": "Bulgu ve *yapılacak*",
+   "sutunlar": [
+    "Bulgu",
+    "Ne yapılır?"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal görünüm",
+      "Teste devam"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Buşon",
+      "Kayıt, hekime yönlendirme"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Akıntı veya kanama",
+      "Prob yok, yönlendirme"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Perforasyon şüphesi",
+      "Kayıt, yönlendirme"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Yabancı cisim",
+      "Dokunmadan yönlendirme"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Otoskopi sonunda bulgular rapora kısa ve net biçimde yazılır.",
+    "Kulak yolu ve zar normal görünüyorsa teste devam edilir.",
+    "Buşon görüldüğünde bulgu kaydedilir ve kişi hekime yönlendirilir.",
+    "Kulak yolunda akıntı ya da kanama varsa kulağa kulaklık veya prob yerleştirilmez ve kişi yönlendirilir.",
+    "Zarda bir delik, yani perforasyon şüphesi de kaydedilir; bu bulgu timpanometri yorumunu da etkiler.",
+    "Yabancı cisim görülürse çıkarılmaya çalışılmaz; kişi hekime yönlendirilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Buşon ve diğer bulgular",
+   "baslik": "Klinik ipucu",
+   "metin": "Mümkünse video otoskop kullanın: görüntüyü hastayla birlikte izlemek yönlendirmeyi anlamasını kolaylaştırır, kayıt da sonraki kontroller için belge olur.",
+   "cumleler": [
+    "Sahadan bir ipucu: mümkünse video otoskop kullanın.",
+    "Görüntüyü hastayla birlikte izlemek, buşon ya da zar bulgusunu ve neden yönlendirildiğini anlamasını kolaylaştırır.",
+    "Kaydedilen görüntü, hekime yönlendirmede ve sonraki kontrollerde karşılaştırma için belge olur.",
+    "Çocuklarda ekranda kendi kulağını görmek, iş birliğini de belirgin biçimde artırabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Otoskopi her testin _ilk adımı_",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Ters tutuş ve _el desteği_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Yetişkin yukarı-geri, bebek _aşağı-geri_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Normal zar: inci grisi, _ışık refleksi_",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Otoskopi, kulağa herhangi bir şey yerleştirmeden önce yapılan ilk adımdır.",
+    "Otoskop kalem gibi tutulur ve el hastanın başına dayanarak güvenlik sağlanır.",
+    "Kulak kepçesi yetişkinde yukarı ve geri, bebekte ise aşağı ve geri çekilir.",
+    "Normal zar inci grisi ve yarı saydamdır; ışık refleksi ön alt çeyrekte görülür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Bebekte otoskopide kulak kepçesi hangi yöne çekilir?",
+   "secenekler": [
+    "Yukarı ve geri",
+    "Aşağı ve geri",
+    "Yalnızca öne",
+    "Hiç çekilmez"
+   ],
+   "dogru": 1,
+   "aciklama": "Bebekte kanal kısa ve yumuşaktır; kepçe _aşağı ve geri_ çekilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Bir bebekte otoskopi yaparken kulak kepçesi hangi yöne çekilir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: aşağı ve geri.",
+     "ses": "Doğru cevap be şıkkı: aşağı ve geri."
+    },
+    "Bebeklerde kemik kanal henüz gelişmediği için kanal kısa ve yumuşaktır; yukarı çekmek kanalı düzleştirmez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyolojik *anamnez* nasıl alınır?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, değerlendirmenin bir diğer temel adımı olan odyolojik anamnezin nasıl alındığını göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

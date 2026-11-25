@@ -1,0 +1,117 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R034_Carhart_Centigi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #34",
+  "baslik": "*Carhart* çentiği",
+  "alt": "2000 Hz'de mekanik bir kemik yolu düşüşü",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      45,
+      45,
+      40,
+      45
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      15,
+      30,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kemik yolundaki düşüş her zaman iç kulaktan mı gelir? #shorts",
+  "aciklama": "Otosklerozda kemik yolu 2000 Hz civarında genellikle yaklaşık 15 dB düşebilir; buna Carhart çentiği denir. Bu gerçek bir koklear kayıp değil, mekanik bir orta kulak etkisidir ve başarılı stapes cerrahisinden sonra çoğu zaman düzelir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "otoskleroz",
+   "odyogram"
+  ],
+  "etiketler": [
+   "Carhart çentiği",
+   "otoskleroz",
+   "kemik yolu",
+   "stapes",
+   "iletim tipi işitme kaybı",
+   "odyogram",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kemik yolundaki düşüş her zaman iç kulaktan mı gelir?",
+  "bilgiler": [
+   "Otosklerozda kemik yolu 2000 Hz civarında yaklaşık 15 dB düşebilir.",
+   "Buna Carhart çentiği denir; mekanik bir etkidir.",
+   "Başarılı stapes cerrahisinden sonra çoğu zaman düzelir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "otoskleroz",
+   "odyogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #34",
+   "metin": "Kemik yolu düşüşü *her zaman* iç kulaktan mı?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kemik yolundaki düşüş her zaman iç kulaktan mı gelir?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "*2000 Hz* civarında kemik yolu düşüşü",
+   "sayi": "15",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Otosklerozda kemik yolu iki bin hertz civarında düşebilir.",
+    "Düşüş genellikle yaklaşık on beş desibeldir; buna Carhart çentiği denir.",
+    "Bu gerçek bir koklear kayıp değil, mekanik bir etkidir.",
+    "Başarılı stapes cerrahisinden sonra çoğu zaman düzelir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D070",
+ "kaynak_baslik": "Otoskleroz ve Carhart çentiği"
+}

@@ -1,0 +1,851 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D069_Kolesteatom_TR",
+ "kapak": {
+  "ust": "DERS 69",
+  "baslik": "*Kolesteatom*<br>nedir?",
+  "alt": "Odyolog neden bilmeli?",
+  "cizim": "orta_kulak_ic_duvar",
+  "vurgula": [
+   "epitympanum"
+  ]
+ },
+ "youtube": {
+  "baslik": "Kolesteatom Nedir? Odyolog Neden Bilmeli? | Ders 69 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bu derste kolesteatomu inceliyoruz: doğumsal ve edinsel türleri, retraksiyon cebinden gelişimi, kemikçik erozyonu ve iletim tipi kayıp. Komplikasyon belirtilerini, hekime yönlendirme gereken durumları ve mastoidektomi sonrası odyolojik izlemi de konuşuyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Cummings Otolaryngology Head and Neck Surgery; Scott-Brown's Otorhinolaryngology Head and Neck Surgery.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kolesteatom",
+   "ortakulak"
+  ],
+  "etiketler": [
+   "kolesteatom",
+   "cholesteatoma",
+   "retraksiyon cebi",
+   "retraction pocket",
+   "mastoidektomi",
+   "mastoidectomy",
+   "kemikçik erozyonu",
+   "labirent fistülü",
+   "kronik otitis media",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 69",
+   "baslik": "*Kolesteatom* nedir?",
+   "alt": "Odyolog neden bilmeli?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste orta kulağın ciddi bir hastalığı olan kolesteatomu ve odyoloğun bu hastalıkta neden dikkatli olması gerektiğini öğreneceğiz.",
+    "Kolesteatomun türlerini, kemikçiklere ve işitmeye etkisini, komplikasyon belirtilerini ve ameliyat sonrası izlemi göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım",
+   "baslik": "Yanlış yerde *deri*",
+   "maddeler": [
+    {
+     "metin": "Orta kulakta _keratin üreten_ deri",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tümör değil, ama _büyür_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kemiği _aşındırır_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tedavi _cerrahidir_",
+     "cumle": 5,
+     "ikon": "hastane"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak_ic_duvar",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "epitympanum",
+      "cumle": 0
+     },
+     {
+      "parca": "mastoid_hucreleri",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "epitympanum",
+      "metin": "atik (epitympanum)",
+      "cumle": 0
+     },
+     {
+      "parca": "mastoid_hucreleri",
+      "metin": "mastoid",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Kolesteatom (cholesteatoma), orta kulak ya da mastoid boşluğunda keratin üreten çok katlı yassı epitelin, yani derinin bulunmasıdır.",
+    "Bu deri, ölü hücrelerden oluşan keratin döküntüsünü sürekli üretir ve bir kese içinde biriktirir.",
+    "Adı yanıltıcıdır; bir tümör değildir ve kolesterolle de doğrudan ilgisi yoktur, ama zamanla büyür.",
+    "Büyürken çevresindeki iltihap ve salgılanan enzimler kemikçikleri ve çevredeki kemiği aşındırır.",
+    "Bu yüzden kolesteatom, işitmeyi ve yakın komşulukları tehdit edebilen ciddi bir hastalıktır.",
+    "İlaçla kalıcı olarak geçmez; tedavisi KBB hekiminin planladığı cerrahidir."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım",
+   "baslik": "Kolesteatomun *türleri*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Doğumsal",
+     "cumle": 1,
+     "metin": "Sağlam zar arkasında"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Edinsel birincil",
+     "cumle": 2,
+     "metin": "Retraksiyon cebinden"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Edinsel ikincil",
+     "cumle": 3,
+     "metin": "Perforasyon kenarından"
+    }
+   ],
+   "cumleler": [
+    "Kolesteatom kökenine göre doğumsal ve edinsel olarak ikiye ayrılır.",
+    "Doğumsal kolesteatom, gelişim sırasında orta kulakta kalan epitel artığından gelişir ve sağlam bir zarın arkasında bulunur.",
+    "Edinsel kolesteatomun en sık biçimi, içe çekilen zarın oluşturduğu bir retraksiyon cebinden gelişir; buna birincil edinsel denir.",
+    "İkincil edinsel kolesteatomda ise zar derisi, özellikle marjinal bir perforasyonun kenarından orta kulağa doğru göç eder.",
+    "Edinsel kolesteatom, doğumsal olandan çok daha sık görülür."
+   ]
+  },
+  {
+   "id": "cep",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım",
+   "baslik": "Retraksiyon cebinden *kolesteatoma*",
+   "cizim": "orta_kulak",
+   "ayar": {
+    "kolesteatom": true,
+    "retraksiyon_cumle": 1,
+    "cep_cumle": 2,
+    "keratin_cumle": 3,
+    "atik_cumle": 4,
+    "yayilim_cumle": 5,
+    "katlar": true,
+    "katlar_cumle": 4
+   },
+   "yakinlastir": [
+    {
+     "parca": "retraksiyon_cebi",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "kolesteatom",
+     "cumle": 4,
+     "olcek": 1.5
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 0
+    },
+    {
+     "parca": "epitympanum",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Östaki borusu",
+     "cumle": 0
+    },
+    {
+     "parca": "pars_flaccida",
+     "metin": "pars flaccida",
+     "cumle": 1
+    },
+    {
+     "parca": "retraksiyon_cebi",
+     "metin": "retraksiyon cebi",
+     "cumle": 2
+    },
+    {
+     "parca": "keratin",
+     "metin": "keratin birikimi",
+     "cumle": 3
+    },
+    {
+     "parca": "kolesteatom",
+     "metin": "kolesteatom: atik (epitympanum)",
+     "cumle": 4
+    },
+    {
+     "parca": "yayilim",
+     "metin": "arkaya: aditus ad antrum, mastoid",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Negatif basınç: zar _içe çekilir_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Derin cep: keratin _birikir_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yayılım: atik, antrum, _mastoid_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Edinsel kolesteatomun hikayesi çoğu zaman Östaki borusu işlev bozukluğuyla başlar.",
+    "Orta kulaktaki uzun süreli negatif basınç, zarın en zayıf bölümü olan pars flaccidayı, yani gevşek bölümü içe doğru çeker.",
+    "Böylece zarda içe doğru bir çukur, yani retraksiyon cebi (retraction pocket) oluşur.",
+    "Sığ bir cep keratini dışarı atabilir; ama cep derinleşip ağzı daraldığında keratin içeride birikmeye başlar.",
+    {
+     "yazi": "Pars flaccida cepleri Prussak boşluğundan atiğe, yani epitympanuma doğru ilerler.",
+     "ses": "Pars flaksida cepleri Prusak boşluğundan atiğe, yani epitimpanuma doğru ilerler."
+    },
+    "Kolesteatom buradan aditus ad antrum yoluyla mastoid antruma ve mastoid hücrelerine yayılabilir.",
+    "Pars flaccida retraksiyonlarında Tos, pars tensa, yani gergin bölüm retraksiyonlarında Sade sınıflaması yaygın kullanılır."
+   ]
+  },
+  {
+   "id": "dogumsal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım",
+   "baslik": "Doğumsal *kolesteatom*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "kadranlar": true,
+    "kadran_cumle": 1,
+    "patoloji": "kolesteatom_dogumsal"
+   },
+   "vurgula": [
+    {
+     "parca": "kolesteatom",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kolesteatom",
+     "metin": "zar arkasında beyaz kitle",
+     "cumle": 0
+    },
+    {
+     "parca": "on_ust_kadran",
+     "metin": "ön üst kadran",
+     "cumle": 1
+    },
+    {
+     "parca": "pars_tensa",
+     "metin": "zar sağlam",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Doğumsal kolesteatom genellikle çocukluk çağında, sağlam bir timpanik membranın arkasında beyaz bir kitle olarak görülür.",
+    "Kitle en sık zarın ön üst bölümünün arkasında yerleşir.",
+    "Klasik tanımda zar sağlamdır ve daha önce perforasyon ya da kulak ameliyatı öyküsü yoktur.",
+    "Çoğu zaman belirti vermez ve rutin bir otoskopide ya da işitme taramasında fark edilir.",
+    "Büyüdükçe kemikçikleri etkileyerek iletim tipi kayba yol açabilir; bu yüzden zar arkasındaki beyaz bir görüntü mutlaka hekime bildirilir."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "kolesteatom",
+     "cumle": 1,
+     "olcek": 1.5
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "belirti",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Belirtiler ve işitme",
+   "baslik": "Edinsel kolesteatomda *belirtiler*",
+   "ogeler": [
+    {
+     "ikon": "akinti",
+     "baslik": "Kötü kokulu akıntı",
+     "cumle": 0,
+     "metin": "Ağrısız, tekrarlayan"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İşitme kaybı",
+     "cumle": 2,
+     "metin": "Çoğunlukla iletim tipi"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Dolgunluk",
+     "cumle": 3,
+     "metin": "Kulakta tıkanıklık hissi"
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sessiz seyir",
+     "cumle": 4,
+     "metin": "Belirti vermeyebilir"
+    }
+   ],
+   "cumleler": [
+    "Edinsel kolesteatomun en tipik belirtisi, kötü kokulu, ağrısız ve tedaviye rağmen tekrarlayan kulak akıntısıdır.",
+    "Akıntı, keratin döküntüsünün enfekte olmasından kaynaklanır.",
+    "İşitme kaybı genellikle iletim tipidir ve hastalık ilerledikçe artar.",
+    "Kulakta dolgunluk hissi de sık bir yakınmadır.",
+    "Bazı hastalarda kolesteatom uzun süre belirti vermez; bu yüzden düzenli otoskopi önemlidir."
+   ]
+  },
+  {
+   "id": "erozyon",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Belirtiler ve işitme",
+   "baslik": "Kemikçik *erozyonu*",
+   "cizim": "kemikcikler",
+   "ayar": {
+    "adlar": true
+   },
+   "yakinlastir": [
+    {
+     "parca": "incus_uzun_kol",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "stapes",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "incus_uzun_kol",
+     "cumle": 1
+    },
+    {
+     "parca": "incus_lentikuler",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "cumle": 2
+    },
+    {
+     "parca": "incudostapedial_eklem",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "incus_uzun_kol",
+     "metin": "incus uzun kolu",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes_bas",
+     "metin": "stapes üst yapısı",
+     "cumle": 2
+    },
+    {
+     "parca": "incudostapedial_eklem",
+     "metin": "kopan bağlantı",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "En sık: _incus uzun kolu_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kopuk zincir: _iletim_ kaybı",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "İyi işitme _hafif hastalık_ demek değil",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Kolesteatomun işitmeye en önemli etkisi, kemikçik zincirini aşındırmasıdır.",
+    "En sık aşınan bölüm incusun uzun kolu ve stapese bağlanan ucudur.",
+    "Stapesin üst yapısı da aşınabilir; malleus ise genellikle daha geç etkilenir.",
+    "Zincirin bağlantısı koptuğunda titreşim iç kulağa iletilemez ve belirgin bir iletim tipi kayıp ortaya çıkar.",
+    "Bazen kolesteatom kitlesinin kendisi kopan iki uç arasında köprü kurar ve sesi bir ölçüde iletir.",
+    "Bu durumda işitme, hastalığın yaygınlığına göre beklenenden iyi olabilir; bu yüzden iyi işitme hastalığın hafif olduğunu göstermez."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Belirtiler ve işitme",
+   "baslik": "Örnek: kolesteatomda *odyogram*",
+   "lejant": [
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli kemik yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: normal",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       50,
+       45,
+       45,
+       50,
+       55
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       20
+      ],
+      "cumle": 1,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    },
+    "aralik": {
+     "konum": [
+      1,
+      10,
+      50
+     ],
+     "etiket": "40 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sol kulakta hava yolu eşikleri kırk beş ile elli beş desibel HL arasında, sağ kulak ise normal.",
+    "Maskeli kemik yolu eşikleri normal sınırlarda.",
+    "Yaklaşık kırk desibellik hava-kemik aralığı, iletim tipi kayıpla ve kemikçik zincirinin etkilenmesiyle uyumlu olabilir.",
+    "Timpanogram, kitle orta kulağı doldurmuşsa düz ve normal hacimli, perforasyon varsa düz ve büyük hacimli olabilir.",
+    "Kolesteatom iç kulağı da etkilerse kemik yolu düşer ve kayıp mikst tipe dönebilir.",
+    "Bu nedenle her kontrolde maskeli kemik yolunu ölçmek, iç kulağın durumunu izlemenin en basit yoludur."
+   ]
+  },
+  {
+   "id": "komplikasyon",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Komplikasyonlar",
+   "baslik": "Olası *komplikasyonlar*",
+   "ogeler": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Labirent fistülü",
+     "cumle": 1,
+     "metin": "Baş dönmesi, en sık lateral kanal"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sensörinöral kayıp",
+     "cumle": 2,
+     "metin": "Kemik yolu düşer"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yüz felci",
+     "cumle": 3,
+     "metin": "Fasiyal kanal aşınması"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Mastoidit",
+     "cumle": 4,
+     "metin": "Kulak arkasında şişlik"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Kafa içi",
+     "cumle": 5,
+     "metin": "Menenjit, beyin apsesi"
+    }
+   ],
+   "cumleler": [
+    "Kolesteatom tedavi edilmezse komşu yapılara yayılarak ciddi komplikasyonlara yol açabilir.",
+    "Kemik labirentin aşınmasına labirent fistülü denir; en sık lateral yarım daire kanalında görülür ve baş dönmesi yapabilir.",
+    "Çalışmalara göre fistül, kolesteatomlu hastaların yaklaşık yüzde üç ile on ikisinde bildirilmiştir.",
+    "Fasiyal sinirin kemik kanalı aşınırsa yüz felci gelişebilir.",
+    "Enfeksiyon mastoide yayılırsa kulak arkasında ağrılı şişlik, yani mastoidit ortaya çıkabilir.",
+    "Daha nadir ama hayatı tehdit eden komplikasyonlar arasında menenjit ve beyin apsesi gibi kafa içi enfeksiyonlar vardır.",
+    "Bu yüzden kolesteatom şüphesi olan her hasta KBB hekimi tarafından değerlendirilmelidir."
+   ]
+  },
+  {
+   "id": "alarm",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Komplikasyonlar",
+   "baslik": "Hemen *yönlendir*",
+   "maddeler": [
+    {
+     "metin": "Yeni baş dönmesi ya da _dengesizlik_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Kemik yolunda _yeni düşüş_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Yüzde _güçsüzlük_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ateş, şiddetli baş ağrısı, _ense sertliği_",
+     "cumle": 3,
+     "ikon": "agri"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ODYOLOG NE YAPAR?",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "rapor",
+      "baslik": "Kaydet",
+      "cumle": 4,
+      "metin": "Bulgu ve tarih"
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Yönlendir",
+      "cumle": 4,
+      "metin": "Aynı gün"
+     }
+    ]
+   },
+   "cumleler": [
+    "Kolesteatomlu ya da kronik akıntılı bir hastada yeni başlayan baş dönmesi labirentin etkilendiğini düşündürebilir.",
+    "Önceki odyograma göre kemik yolunda yeni bir düşüş iç kulağın etkilendiğini gösterebilir.",
+    "Yüzde güçsüzlük, gözü tam kapatamama ya da ağız kenarının düşmesi fasiyal sinirin etkilendiğini düşündürür.",
+    "Ateş, şiddetli baş ağrısı, ense sertliği ya da bilinç değişikliği kafa içi bir komplikasyonun belirtisi olabilir.",
+    "Bu bulgulardan biri varsa hasta vakit kaybetmeden hekime yönlendirilir ve bulgu rapora yazılır."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Odyoloğun rolü",
+   "baslik": "Odyolog neden *bilmeli?*",
+   "ogeler": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Fark etmek",
+     "cumle": 1,
+     "metin": "Cep, akıntı, beyaz kitle"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Ölçmek",
+     "cumle": 2,
+     "metin": "Maskeli kemik yolu"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Dikkat etmek",
+     "cumle": 3,
+     "metin": "Basınçlı testlerde"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İzlemek",
+     "cumle": 4,
+     "metin": "Ameliyat sonrası rehabilitasyon"
+    }
+   ],
+   "cumleler": [
+    "Kolesteatomun tanısı ve tedavisi hekime aittir; ama odyolog bu hastalıkla çoğu zaman ilk karşılaşanlardan biridir.",
+    "Otoskopide derin bir retraksiyon cebi, kabuklu bir atik, tekrarlayan akıntı ya da zar arkasında beyaz bir görüntü hekime bildirilir.",
+    "Maskeli kemik yolunu doğru ölçmek, iç kulağın durumunu ve ameliyattan beklenebilecek kazancı gösterir.",
+    "Basınç uygulanan testlerde fistül olasılığına karşı hasta dikkatle izlenir.",
+    "Ameliyattan sonra işitmenin izlenmesi ve uygun işitme cihazının seçilmesi de odyoloğun görevidir.",
+    "Kronik akıntılı bir kulakta akıntıyı yalnız işitme cihazına bağlamak, gözden kaçan bir kolesteatomun nedeni olabilir."
+   ]
+  },
+  {
+   "id": "cerrahi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Tedavi ve izlem",
+   "baslik": "Cerrahide *temel kavramlar*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "Mastoidektomi",
+     "cumle": 0,
+     "metin": "Mastoid hücrelerinin temizlenmesi"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kanal duvarı korunur",
+     "cumle": 1,
+     "metin": "Kanal yapısı korunur"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Kanal duvarı kaldırılır",
+     "cumle": 2,
+     "metin": "Açık mastoid kavitesi"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Tekrar kontrol",
+     "cumle": 4,
+     "metin": "İkinci bakış ya da MR"
+    }
+   ],
+   "cumleler": [
+    "Kolesteatom cerrahisinde amaç hastalığı tamamen temizlemek, güvenli bir kulak elde etmek ve mümkünse işitmeyi korumaktır.",
+    "Mastoidektomi (mastoidectomy), mastoid hücrelerinin açılıp temizlendiği ameliyattır; kanal duvarı korunarak yapılabilir.",
+    "Bazı hastalarda dış kulak yolunun arka duvarı kaldırılır ve mastoid ile kanal tek bir açık kaviteye dönüştürülür.",
+    "Kanal duvarını korumak doğal anatomiyi korur; açık kavite ise geride kalan hastalığın görülmesini kolaylaştırır.",
+    "Geride kalan ya da yeniden oluşan hastalık için ikinci bir ameliyat ya da difüzyon ağırlıklı manyetik rezonans kullanılabilir.",
+    "Hangi yöntemin seçileceği hastalığın yaygınlığına göre cerrahın kararıdır."
+   ]
+  },
+  {
+   "id": "kavite",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Tedavi ve izlem",
+   "baslik": "Ameliyat sonrası *odyolog*",
+   "maddeler": [
+    {
+     "metin": "Ameliyat sonrası _maskeli_ kemik yolu",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Açık kavitede _büyük_ eşdeğer hacim",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Kalıp ölçüsü ve geri besleme _zor_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Kalorikte su _kullanılmaz_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak_ic_duvar",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "mastoid_hucreleri",
+      "cumle": 1
+     },
+     {
+      "parca": "antrum",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "antrum",
+      "metin": "açılan mastoid",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Ameliyattan sonra hava ve kemik yolu ölçülür; kemik yolunun korunup korunmadığı ameliyat öncesiyle karşılaştırılır.",
+    "Açık kavitede timpanometride ölçülen eşdeğer hacim çok büyük olabilir; bu bulgu ameliyatla uyumludur.",
+    "Geniş ve düzensiz kavite kalıp ölçüsünü zorlaştırır; cihazda geri besleme ve kavitede nem sorun olabilir.",
+    "Kavitede akıntı sürüyorsa kemik yoluyla çalışan işitme cihazları da seçenekler arasında değerlendirilir.",
+    "Açık kavitede su ile kalorik test yapılmaz; gerekirse hava kullanılır ve yanıt beklenenden güçlü çıkabilir.",
+    "Kavitenin düzenli temizliği hekim kontrolünde yapılır; odyolog her ölçümden önce otoskopiyle kaviteyi değerlendirir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Timpanometri ya da kanala basınç sırasında baş dönmesi veya göz kayması olursa testi durdurun. Labirent fistülü olabilir; bulguyu kaydedip hekime bildirin.",
+   "cumleler": [
+    "Sahadan bir ipucu: kronik akıntılı ya da kolesteatomlu bir kulakta timpanometri yaparken hastayı izleyin.",
+    "Basınç değişikliği sırasında baş dönmesi, bulantı ya da gözlerde kayma olursa testi hemen durdurun.",
+    "Bu, labirent fistülünün bir işareti olabilir; basınçla oluşan bu tepki fistül testinin de temelidir.",
+    "Bulguyu raporunuza yazın ve hekime bildirin; aynı kulakta basınçlı testleri tekrarlamayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kolesteatom: orta kulakta _keratin_ birikimi",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Edinsel tür _retraksiyon cebinden_ gelişir",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "İncus uzun kolu aşınır: _iletim_ kaybı",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Fistül, yüz felci, kafa içi: _yönlendir_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kolesteatom, orta kulak ya da mastoidde keratin üreten deri ve keratin döküntüsünün birikimidir.",
+    "Edinsel kolesteatom çoğunlukla pars flaccidadaki bir retraksiyon cebinden gelişir; doğumsal olan sağlam zarın arkasındadır.",
+    "Kemikçik erozyonu, özellikle incusun uzun kolunda, iletim tipi kayba yol açar.",
+    "Baş dönmesi, kemik yolunda düşüş ve yüz felci gibi belirtiler komplikasyonu düşündürür ve hekime yönlendirilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Kolesteatomda en sık aşınan kemikçik bölümü hangisidir?",
+   "secenekler": [
+    "Malleus başı",
+    "İncus uzun kolu",
+    "Stapes tabanı",
+    "Malleus sapı"
+   ],
+   "dogru": 1,
+   "aciklama": "Kolesteatomda en sık _incusun uzun kolu_ aşınır; bu da zincirin bağlantısını koparır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Kolesteatomda en sık aşınan kemikçik bölümü hangisidir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: incusun uzun kolu.",
+     "ses": "Doğru cevap be: incusun uzun kolu."
+    },
+    "İncusun stapese bağlanan uzun kolu ince ve kanlanması zayıf bir bölümdür; aşındığında zincir kopar ve iletim tipi kayıp gelişir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Otoskleroz* ve Carhart çentiği",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste zar sağlamken stapesin hareketini yitirdiği bir hastalığı, otosklerozu ve Carhart çentiğini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

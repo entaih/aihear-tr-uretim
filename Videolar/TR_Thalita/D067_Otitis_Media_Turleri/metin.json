@@ -1,0 +1,828 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D067_Otitis_Media_Turleri_TR",
+ "kapak": {
+  "ust": "DERS 67",
+  "baslik": "Otitis media<br>*türleri*",
+  "alt": "Akut, efüzyonlu ve kronik",
+  "cizim": "orta_kulak"
+ },
+ "youtube": {
+  "baslik": "Otitis Media Türleri: Akut, Efüzyonlu ve Kronik | Ders 67 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Otitis media, yani orta kulak iltihabı, çocukluk çağında çok sık görülür ve iletim tipi işitme kaybının başlıca nedenlerindendir. Bu derste akut otitis media (AOM), efüzyonlu otitis media (OME) ve kronik süpüratif otitis mediayı (KSOM); odyogram, timpanogram bulgularını ve ventilasyon tüpünü örnek verilerle inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: AAP Clinical Practice Guideline: The Diagnosis and Management of Acute Otitis Media (2013); AAO-HNS Clinical Practice Guideline: Otitis Media with Effusion (Update, 2016); WHO, Chronic Suppurative Otitis Media: Burden of Illness and Management Options (2004); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "otitismedia",
+   "işitme"
+  ],
+  "etiketler": [
+   "otitis media",
+   "akut otitis media",
+   "efüzyonlu otitis media",
+   "OME",
+   "kronik süpüratif otitis media",
+   "ventilasyon tüpü",
+   "tympanostomy tube",
+   "B tipi timpanogram",
+   "iletim tipi işitme kaybı",
+   "orta kulak iltihabı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 67",
+   "baslik": "Otitis media *türleri*",
+   "alt": "Akut, efüzyonlu ve kronik süpüratif otitis media",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste otitis media, yani orta kulak iltihabının üç temel türünü öğreneceğiz.",
+    "Her türün işitmeye etkisini, odyogram ve timpanogram bulgularını da örneklerle göreceğiz."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Genel bakış",
+   "baslik": "Orta kulak ve *Östaki borusu*",
+   "cizim": "orta_kulak",
+   "vurgula": [
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Östaki borusu",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran (kulak zarı)",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Çocukta: kısa, yatay, daha az sert",
+     "cumle": 3
+    },
+    {
+     "metin": "Sıvı: zar titreşimi azalır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Otitis media, orta kulağın iltihabıdır ve özellikle çocukluk çağında çok sık görülür.",
+    "Orta kulak normalde hava ile doludur ve basıncı Östaki borusu sayesinde dış ortamla dengelenir.",
+    "Östaki borusu iyi çalışmadığında orta kulakta negatif basınç oluşur ve zamanla sıvı birikebilir.",
+    "Çocuklarda Östaki borusu yetişkinlere göre daha kısa, daha yatay ve daha az serttir.",
+    "Bu nedenle üst solunum yolu enfeksiyonları çocuklarda orta kulağa daha kolay ulaşır.",
+    "Orta kulak sıvıyla dolduğunda timpanik membranın, yani kulak zarının titreşimi azalır ve iletim tipi işitme kaybı ortaya çıkar."
+   ]
+  },
+  {
+   "id": "turler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Genel bakış",
+   "tur": "ikonlar",
+   "baslik": "Üç temel *tür*",
+   "ogeler": [
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "AOM",
+     "metin": "Akut otitis media",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "OME",
+     "metin": "Efüzyonlu otitis media",
+     "cumle": 1
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "KSOM",
+     "metin": "Kronik süpüratif otitis media",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Geçiş",
+     "metin": "Türler arasında geçiş olabilir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bu derste üç temel türü inceleyeceğiz: ilki akut otitis media, kısaca AOM.",
+    "İkincisi efüzyonlu otitis media, kısaca OME; efüzyon, orta kulakta sıvı birikmesi demektir.",
+    "Üçüncüsü kronik süpüratif otitis media, kısaca KSOM; süpüratif, iltihaplı akıntıyla seyreden anlamına gelir.",
+    "Bu türler arasında geçişler olabilir; örneğin akut bir ataktan sonra sıvı haftalarca orta kulakta kalabilir."
+   ]
+  },
+  {
+   "id": "aom",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Akut otitis media",
+   "baslik": "Akut otitis media (*AOM*)",
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 3
+     },
+     {
+      "parca": "orta_kulak",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "Timpanik membran",
+      "cumle": 3
+     },
+     {
+      "parca": "orta_kulak",
+      "metin": "Orta kulak",
+      "cumle": 4
+     }
+    ]
+   },
+   "maddeler": [
+    {
+     "metin": "_Ani_ başlangıç",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Kulak ağrısı, ateş, huzursuzluk",
+     "cumle": 1,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Zarda kızarıklık ve _bombeleşme_",
+     "cumle": 3,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Sıvıya bağlı _iletim tipi_ kayıp",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Akut otitis media, orta kulakta hızla başlayan bir enfeksiyondur ve çoğu zaman bir soğuk algınlığının ardından gelişir.",
+    "Tipik belirtiler kulak ağrısı, ateş ve huzursuzluktur; küçük çocuklar sık sık kulağını tutabilir.",
+    "Özellikle altı ay ile iki yaş arasındaki çocuklarda sıktır.",
+    "Otoskopide timpanik membran kızarık, mat ve orta kulaktaki iltihaplı sıvı nedeniyle dışa doğru bombeleşmiş görünebilir.",
+    "Orta kulaktaki sıvı, geçici bir iletim tipi işitme kaybına yol açar.",
+    "Bazen zar kendiliğinden delinir ve kulaktan akıntı gelir; bu sırada ağrı çoğu zaman azalır."
+   ]
+  },
+  {
+   "id": "risk",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Akut otitis media",
+   "tur": "ikonlar",
+   "baslik": "*Risk* etkenleri",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Kreş, kalabalık",
+     "metin": "Solunum enfeksiyonları artar",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sigara dumanı",
+     "metin": "Pasif maruziyet de risktir",
+     "cumle": 1
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Yatarak biberon",
+     "metin": "Anne sütü koruyucudur",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Geniz eti",
+     "metin": "Ve damak yarığı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kreşe gitmek ve kalabalık ortamlar, üst solunum yolu enfeksiyonlarını ve dolayısıyla otitis mediayı artırır.",
+    "Pasif sigara dumanına maruz kalmak da bilinen bir risk etkenidir.",
+    "Bebeğin yatarak biberonla beslenmesi risk etkenleri arasında sayılır; anne sütü ise koruyucu kabul edilir.",
+    "Adenoid hipertrofisi, yani geniz eti büyümesi ve damak yarığı Östaki borusunun işlevini bozabilir.",
+    "Bu bilgiler, anamnezde hangi soruların sorulacağına yol gösterir."
+   ]
+  },
+  {
+   "id": "aom_odyolog",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Akut otitis media",
+   "baslik": "AOM'de *odyoloğun* rolü",
+   "maddeler": [
+    {
+     "metin": "Tanı ve tedavi _hekimin_ işidir",
+     "cumle": 0,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Ağrılı dönemde test genellikle _ertelenir_",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Ataklar arasında _işitme kontrolü_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Akut otitis medianın tanısı ve tedavisi KBB hekimi ya da çocuk hekimi tarafından yapılır.",
+    "Ağrılı akut dönemde rutin işitme testleri genellikle ertelenir.",
+    "Ağrı varken prob yerleştirmek ya da kulak yolundaki basıncı değiştirmek çocuğu rahatsız eder.",
+    "Tekrarlayan ataklar geçiren çocuklarda ataklar arasında işitmenin kontrol edilmesi önemlidir.",
+    "Çünkü ataktan sonra sıvı orta kulakta kalabilir ve işitme kaybı sessizce sürebilir."
+   ]
+  },
+  {
+   "id": "ome",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Efüzyonlu otitis media",
+   "baslik": "Efüzyonlu otitis media (*OME*)",
+   "maddeler": [
+    {
+     "metin": "Sıvı var, akut enfeksiyon belirtisi yok",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Çoğu zaman _belirtisiz_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Çoğunlukla _kendiliğinden_ düzelir",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Okul öncesi çocuklarda _çok sık_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Efüzyonlu otitis media, orta kulakta akut enfeksiyon belirtileri olmadan sıvı bulunmasıdır.",
+    "Ağrı ve ateş genellikle yoktur; bu yüzden çoğu zaman fark edilmez.",
+    "Ailenin fark ettiği tek belirti, çocuğun seslenince geç dönmesi ya da televizyonun sesini açması olabilir.",
+    "Sıvı çoğu çocukta birkaç ay içinde kendiliğinden kaybolur.",
+    "Çocukların yaklaşık yüzde doksanı, okul çağından önce en az bir kez efüzyonlu otitis media geçirir.",
+    "Down sendromu ya da damak yarığı olan çocuklarda daha sık ve daha uzun süreli görülür."
+   ]
+  },
+  {
+   "id": "ome_odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Efüzyonlu otitis media",
+   "baslik": "Örnek: *OME* odyogramı",
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       30,
+       25,
+       25,
+       30,
+       35
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       30,
+       35,
+       30,
+       25,
+       30,
+       35
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       5,
+       10,
+       10
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      1,
+      5,
+      30
+     ],
+     "etiket": "25 dB",
+     "cumle": 3
+    }
+   },
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: sağ kulak",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Hava yolu_: sol kulak",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: normal sınırlarda",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Bu örnek odyogram, iki kulakta efüzyonlu otitis media ile uyumlu olabilecek bir tabloyu gösteriyor.",
+    "Hava yolu eşikleri iki kulakta da yirmi beş ile otuz beş desibel HL arasında.",
+    "Kemik yolu eşikleri ise normal sınırlarda.",
+    "Aradaki yaklaşık yirmi ile yirmi beş desibellik fark, hafif derecede iletim tipi kaybı gösterir.",
+    "Efüzyonda kayıp genellikle hafiftir; kılavuzlarda ortalama kayıp yaklaşık yirmi sekiz desibel HL olarak bildirilir, daha büyük de olabilir.",
+    "Kayıp, sıvının miktarına ve kıvamına göre zaman içinde dalgalanabilir."
+   ]
+  },
+  {
+   "id": "timpanogram",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Efüzyonlu otitis media",
+   "baslik": "*Timpanogram* bulguları",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "C",
+      "cumle": 1
+     },
+     {
+      "tip": "B",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "A: normal orta kulak basıncı",
+     "cumle": 0
+    },
+    {
+     "metin": "C: negatif basınç",
+     "cumle": 1
+    },
+    {
+     "metin": "B: düz eğri, normal hacim: sıvı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Efüzyonun en değerli objektif bulgusu timpanometride görülür; önce normal A tipi eğriyi hatırlayalım.",
+    "Östaki borusu iyi çalışmadığında tepe negatif basınca kayar; buna C tipi denir ve sıvı birikiminden önce görülebilir.",
+    "Orta kulak sıvıyla dolduğunda zar rahat hareket edemez ve eğri düzleşir; bu B tipi timpanogramdır.",
+    "B tipi eğride kulak yolu hacmi normalse bulgu genellikle orta kulakta sıvı ile uyumludur.",
+    "Akustik refleksler de bu durumda genellikle alınamaz.",
+    "Timpanogram tiplerini ileride immitansmetri derslerinde ayrıntılı olarak ele alacağız."
+   ]
+  },
+  {
+   "id": "ome_onem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Efüzyonlu otitis media",
+   "baslik": "OME neden *önemli?*",
+   "maddeler": [
+    {
+     "metin": "Dalgalanan kayıp: _tutarsız_ işitsel girdi",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Dil gelişimine olası etki",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Riskli çocuklarda _yakın_ izlem",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Üç ay ve üzeri: _işitme testi_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Efüzyonlu otitis media hafif bir kayıp yapsa da, aylarca sürdüğünde çocuğun işitsel girdisi tutarsız hale gelir.",
+    "Bu durum özellikle dil gelişiminin hızlı olduğu dönemde konuşma ve dil gelişimini etkileyebilir.",
+    "Sınıfta öğretmeni duymakta zorlanmak, dikkat ya da öğrenme sorunu gibi görünebilir.",
+    "Kalıcı işitme kaybı, gelişimsel gecikme ya da görme sorunu olan çocuklarda etkisi daha belirgin olabilir; bu çocuklar yakından izlenir.",
+    "Kılavuzlar, efüzyon üç ay ya da daha uzun sürdüğünde yaşa uygun bir işitme testi yapılmasını önerir."
+   ]
+  },
+  {
+   "id": "tup",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ventilasyon tüpü",
+   "baslik": "*Ventilasyon* tüpü",
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 1
+     },
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "Timpanik membran",
+      "cumle": 1
+     },
+     {
+      "parca": "ostaki_borusu",
+      "metin": "Östaki borusu",
+      "cumle": 2
+     }
+    ]
+   },
+   "maddeler": [
+    {
+     "metin": "Timpanostomi tüpü (ventilasyon tüpü)",
+     "cumle": 0
+    },
+    {
+     "metin": "Zarda küçük kesi: _miringotomi_",
+     "cumle": 1
+    },
+    {
+     "metin": "Tüp orta kulağı _havalandırır_",
+     "cumle": 2
+    },
+    {
+     "metin": "Genellikle kendiliğinden _düşer_",
+     "cumle": 3
+    },
+    {
+     "metin": "Karar _KBB hekimine_ aittir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Efüzyon uzun sürdüğünde ya da ataklar sık tekrarladığında KBB hekimi timpanostomi tüpü, yani ventilasyon tüpü önerebilir.",
+    "Timpanik membranda küçük bir kesi yapılır; buna miringotomi denir.",
+    "Kesiye yerleştirilen küçük tüp, Östaki borusunun yerine orta kulağın havalanmasını sağlar.",
+    "Kısa süreli tüpler çoğunlukla altı ile on sekiz ay arasında kendiliğinden düşer ve zar çoğu zaman kendiliğinden kapanır.",
+    "Tüp takılıp takılmayacağı kararı, kılavuzlar ışığında KBB hekimi tarafından verilir."
+   ]
+  },
+  {
+   "id": "tup_bulgu",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ventilasyon tüpü",
+   "baslik": "Tüplü kulakta *bulgular*",
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "timpanogram",
+    "cumle": 1,
+    "ayar": {
+     "egriler": [
+      {
+       "tip": "B",
+       "cumle": 1
+      }
+     ]
+    },
+    "etiketler": [
+     {
+      "parca": "B",
+      "metin": "düz eğri",
+      "cumle": 1
+     }
+    ]
+   },
+   "maddeler": [
+    {
+     "metin": "Açık tüp: düz eğri, _büyük_ hacim",
+     "cumle": 1
+    },
+    {
+     "metin": "Tıkalı tüp: düz eğri, normal hacim",
+     "cumle": 2
+    },
+    {
+     "metin": "Sıvıya bağlı kayıp genellikle _düzelir_",
+     "cumle": 3
+    },
+    {
+     "metin": "Prob ve insert yerleştirirken _nazik_ olun",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tüplü bir kulakta timpanometri, tüpün açık olup olmadığını anlamak için kullanılır.",
+    "Tüp açıksa eğri düzdür ama ölçülen hacim normalden büyüktür; çünkü cihaz orta kulak boşluğunu da ölçer.",
+    "Düz bir eğri ile normal hacim birlikte görülürse tüp tıkanmış olabilir.",
+    "Tüp işlevini sürdürdüğü sürece, sıvıya bağlı iletim tipi kayıp genellikle düzelir.",
+    "Tüplü çocuklarda insert kulaklık ve prob yerleştirirken nazik olunmalıdır."
+   ]
+  },
+  {
+   "id": "ksom",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kronik süpüratif otitis media",
+   "baslik": "*KSOM*: kronik süpüratif tip",
+   "maddeler": [
+    {
+     "metin": "Kalıcı _perforasyon_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tekrarlayan ya da sürekli _akıntı_",
+     "cumle": 0,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "İletim tipi, bazen _mikst_ kayıp",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kolesteatom gelişebilir",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kronik süpüratif otitis media, timpanik membranda kalıcı bir delik ve bu delikten gelen tekrarlayan ya da sürekli akıntı ile tanımlanır.",
+    "Dünya Sağlık Örgütü tanımında akıntının en az iki hafta sürmesi ölçüt alınır; bazı kaynaklar daha uzun süre kullanır.",
+    "Genellikle ağrısızdır; hastanın asıl yakınması akıntı ve işitme azlığıdır.",
+    "İşitme kaybı genellikle iletim tipidir ve deliğin büyüklüğüne, kemikçik hasarına göre değişir.",
+    "Uzun süren iltihap iç kulağı da etkileyebilir ve kayıp mikst hale gelebilir.",
+    "Bazı hastalarda kolesteatom gelişebilir; bu konuyu ayrı bir derste ele alacağız."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kronik süpüratif otitis media",
+   "baslik": "Üç türün *karşılaştırması*",
+   "sutunlar": [
+    "Özellik",
+    "AOM",
+    "OME",
+    "KSOM"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Başlangıç",
+      "Ani",
+      "Sessiz",
+      "Uzun süreli"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Ağrı, ateş",
+      "Var",
+      "Genellikle yok",
+      "Genellikle yok"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Timpanik membran",
+      "Kızarık, bombe",
+      "Mat, hareketi azalmış",
+      "Kalıcı delik"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Akıntı",
+      "Zar delinirse",
+      "Yok",
+      "Tekrarlayan"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Timpanogram",
+      "Genellikle B",
+      "Genellikle B",
+      "Düz, büyük hacim"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Üç türü yan yana karşılaştıralım: AOM ani başlar, OME sessiz seyreder, KSOM ise uzun sürelidir.",
+    "Ağrı ve ateş daha çok akut otitis mediada görülür.",
+    "Timpanik membran akut dönemde kızarık ve bombeli, efüzyonda mat ve hareketi azalmış, kronik süpüratif tipte ise deliktir.",
+    "Akıntı, akut tipte ancak zar delinirse, kronik tipte ise tekrarlayan biçimde görülür.",
+    "Timpanogram ilk ikisinde genellikle normal hacimli B tipidir; açık bir delikte ise eğri düz, hacim büyüktür."
+   ]
+  },
+  {
+   "id": "izlem",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kronik süpüratif otitis media",
+   "tur": "akis",
+   "baslik": "Odyolojik *izlem*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "İşitme testi",
+     "metin": "Yaşa uygun yöntem",
+     "cumle": 1
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometri",
+     "metin": "Testle birlikte",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Küçük çocuk",
+     "metin": "Görsel pekiştirme, oyun",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Paylaşım",
+     "metin": "Aile ve hekimle",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Kontrol",
+     "metin": "Tedaviden sonra",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Otitis medialı çocuklarda odyoloğun rolü, işitmeyi ölçmek ve zaman içindeki değişimi izlemektir.",
+    "Yaşa uygun bir işitme testi timpanometri ile birlikte yapılır.",
+    "Küçük çocuklarda görsel pekiştirmeli ya da oyun odyometrisi kullanılır.",
+    "Sonuçlar aileye anlaşılır biçimde anlatılır ve hekimle paylaşılır.",
+    "Tedaviden sonra işitmenin normale dönüp dönmediği yeniden kontrol edilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kronik süpüratif otitis media",
+   "baslik": "Klinik ipucu",
+   "metin": "Düz timpanogramda hacmi mutlaka okuyun: normal hacim sıvıyı, büyük hacim delik ya da açık tüpü, çok küçük hacim buşon ya da duvara dayanan probu düşündürür.",
+   "cumleler": [
+    "Sahadan bir ipucu: düz bir timpanogram gördüğünüzde yalnızca eğriye değil, ölçülen kulak yolu hacmine de bakın.",
+    "Hacim normalse bulgu genellikle orta kulakta sıvı ile uyumludur.",
+    "Hacim belirgin biçimde büyükse zarda bir delik ya da açık bir tüp düşünülür.",
+    "Hacim çok küçükse probun kulak yolu duvarına dayandığını ya da buşonu düşünün ve otoskopiyle kontrol edin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "AOM: _ani_, ağrılı, bombe zar",
+     "cumle": 0,
+     "ikon": "agri"
+    },
+    {
+     "metin": "OME: _sessiz_ sıvı, B tipi eğri",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "KSOM: kalıcı delik ve _akıntı_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Ventilasyon tüpü: _havalandırma_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Akut otitis media ani başlar; ağrı, ateş ve bombeli bir timpanik membranla seyreder.",
+    "Efüzyonlu otitis media çoğu zaman sessizdir; hafif ve dalgalanan iletim tipi kayıp ile B tipi timpanogram yapar.",
+    "Kronik süpüratif otitis mediada kalıcı bir delik ve tekrarlayan akıntı vardır; kayıp bazen mikst olabilir.",
+    "Ventilasyon tüpü orta kulağı havalandırır; açık tüpte timpanogram düz, hacim büyüktür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Düz timpanogram ve büyük kulak yolu hacmi neyi düşündürür?",
+   "secenekler": [
+    "Orta kulakta sıvı",
+    "Açık tüp ya da delik",
+    "Buşon",
+    "Normal orta kulak"
+   ],
+   "dogru": 1,
+   "aciklama": "Cihaz deliğin ya da _açık tüpün_ arkasındaki orta kulak boşluğunu da ölçer; hacim büyür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Düz bir timpanogram ile birlikte büyük bir kulak yolu hacmi ölçülürse ne düşünülür?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: açık bir tüp ya da zarda delik.",
+     "ses": "Doğru cevap be: açık bir tüp ya da zarda delik."
+    },
+    "Cihaz bu durumda orta kulak boşluğunu da ölçtüğü için hacim normalden büyük çıkar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Timpanik membran *perforasyonu* ve işitmeye etkisi",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste timpanik membran perforasyonunun işitmeye etkisini ve onarım yöntemlerini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

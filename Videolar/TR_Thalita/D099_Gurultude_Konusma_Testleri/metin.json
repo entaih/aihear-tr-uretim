@@ -1,0 +1,994 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D099_Gurultude_Konusma_Testleri_TR",
+ "kapak": {
+  "ust": "DERS 99",
+  "baslik": "Gürültüde<br>*konuşma* testleri",
+  "alt": "QuickSIN, HINT ve matris testleri",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -6,
+    "max": 24,
+    "adim": 6,
+    "ad": "SNR (dB)"
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 25,
+    "ad": "Doğru (%)"
+   },
+   "seriler": [
+    {
+     "ad": "normal",
+     "noktalar": [
+      [
+       -6,
+       2
+      ],
+      [
+       -2,
+       15
+      ],
+      [
+       0,
+       30
+      ],
+      [
+       2,
+       50
+      ],
+      [
+       4,
+       70
+      ],
+      [
+       6,
+       85
+      ],
+      [
+       10,
+       97
+      ],
+      [
+       24,
+       100
+      ]
+     ],
+     "renk": "yesil",
+     "yumusak": true
+    },
+    {
+     "ad": "kayip",
+     "noktalar": [
+      [
+       2,
+       2
+      ],
+      [
+       6,
+       15
+      ],
+      [
+       8,
+       30
+      ],
+      [
+       10,
+       50
+      ],
+      [
+       12,
+       70
+      ],
+      [
+       14,
+       85
+      ],
+      [
+       18,
+       97
+      ],
+      [
+       24,
+       100
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kesik": true
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Gürültüde Konuşma Testleri: QuickSIN, HINT, Matris | Ders 99 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme kaybı olan kişilerin en sık yakınması gürültüde konuşmayı anlamaktır ve sessiz ortamdaki kelime skoru bunu tam göstermez. Bu derste sinyal-gürültü oranı ve SNR kaybı kavramlarını, QuickSIN, HINT ve matris testlerinin yapısını, sonuçların yorumunu ve cihaz danışmanlığında kullanımını inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Killion ve ark. (2004), Development of a quick speech-in-noise test, Journal of the Acoustical Society of America; Nilsson, Soli ve Sullivan (1994), Development of the Hearing in Noise Test, Journal of the Acoustical Society of America; Kollmeier ve ark. (2015), The multilingual matrix test, International Journal of Audiology; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "gürültüdekonuşma",
+   "işitmecihazı"
+  ],
+  "etiketler": [
+   "gürültüde konuşma testi",
+   "QuickSIN",
+   "HINT",
+   "matris testi",
+   "SNR kaybı",
+   "sinyal-gürültü oranı",
+   "SRT50",
+   "işitme cihazı danışmanlığı",
+   "konuşma odyometrisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 99",
+   "baslik": "Gürültüde *konuşma* testleri",
+   "alt": "QuickSIN, HINT ve matris testleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste gürültüde konuşma testlerini ve bu testlerin ölçtüğü SNR kaybı kavramını öğreneceğiz.",
+    {
+     "yazi": "QuickSIN, HINT ve matris testlerinin nasıl uygulandığını ve sonuçların danışmanlıkta nasıl kullanıldığını göreceğiz.",
+     "ses": "Kuik Sin, hint ve matris testlerinin nasıl uygulandığını ve sonuçların danışmanlıkta nasıl kullanıldığını göreceğiz."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden gürültü?",
+   "baslik": "Duyuyorum ama *anlamıyorum*",
+   "maddeler": [
+    {
+     "metin": "En sık yakınma: _kalabalıkta_ anlamamak",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Sessiz skor gürültüyü _öngörmez_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Aynı odyogram, _farklı_ gürültü performansı",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Ölçüt: _sinyal-gürültü oranı_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ORTAM",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "sessizlik",
+      "baslik": "Sessiz kabin",
+      "metin": "Skor yüksek olabilir",
+      "cumle": 1
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "Kalabalık ortam",
+      "metin": "Anlama belirgin düşer",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "İşitme kaybı olan kişilerin en sık yakınması, kalabalık ve gürültülü ortamlarda konuşmayı anlayamamaktır.",
+    "Sessiz kabinde ölçülen kelime tanıma skoru, gürültüdeki performansı güvenilir biçimde öngörmez.",
+    "Odyogramları neredeyse aynı olan iki kişi, gürültüde konuşmayı çok farklı düzeylerde anlayabilir.",
+    "Bu yüzden saf ses ve sessiz ortam testlerine ek olarak gürültüde konuşma testleri yapılır.",
+    "Bu testlerin temel ölçütü, konuşma düzeyi ile gürültü düzeyi arasındaki farktır.",
+    "Bu farka sinyal-gürültü oranı (signal-to-noise ratio), kısaca SNR denir ve desibel olarak ifade edilir."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden gürültü?",
+   "baslik": "Sinyal-gürültü *oranı*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Pozitif SNR",
+     "metin": "Konuşma gürültüden yüksek",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Sıfır SNR",
+     "metin": "İkisi eşit düzeyde",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Negatif SNR",
+     "metin": "Gürültü konuşmadan yüksek",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "SNR hesabı basittir: konuşma düzeyinden gürültü düzeyi çıkarılır.",
+    "Konuşma altmış beş, gürültü altmış desibel ise SNR artı beş desibeldir; konuşma gürültüden yüksektir.",
+    "İkisi eşitse SNR sıfırdır.",
+    "Gürültü konuşmadan yüksekse SNR negatiftir; normal işiten genç yetişkinler cümleleri bu koşulda bile kısmen anlayabilir.",
+    "Gürültüde konuşma testleri, kişinin konuşmanın yarısını anlayabilmesi için ne kadar SNR'ye ihtiyaç duyduğunu ölçer."
+   ]
+  },
+  {
+   "id": "snr_kaybi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden gürültü?",
+   "baslik": "SNR *kaybı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -6,
+     "max": 24,
+     "adim": 6,
+     "ad": "Sinyal-gürültü oranı (dB)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Doğru kelime (%)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        -6,
+        2
+       ],
+       [
+        -2,
+        15
+       ],
+       [
+        0,
+        30
+       ],
+       [
+        2,
+        50
+       ],
+       [
+        4,
+        70
+       ],
+       [
+        6,
+        85
+       ],
+       [
+        10,
+        97
+       ],
+       [
+        24,
+        100
+       ]
+      ],
+      "renk": "yesil",
+      "yumusak": true,
+      "etiket": "normal işiten",
+      "etiket_konum": [
+       10,
+       97
+      ],
+      "cumle": 0
+     },
+     {
+      "ad": "hasta",
+      "noktalar": [
+       [
+        2,
+        2
+       ],
+       [
+        6,
+        15
+       ],
+       [
+        8,
+        30
+       ],
+       [
+        10,
+        50
+       ],
+       [
+        12,
+        70
+       ],
+       [
+        14,
+        85
+       ],
+       [
+        18,
+        97
+       ],
+       [
+        24,
+        100
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "örnek hasta",
+      "etiket_konum": [
+       18,
+       80
+      ],
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "snr_kaybi",
+      "x": [
+       2,
+       10
+      ],
+      "y": 50,
+      "etiket": "SNR kaybı: 8 dB",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Yarı anlama için gereken SNR: SNR-50",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normalden fark: SNR kaybı",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sesi açmak kaybı kapatmaz",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Grafikte yeşil eğri, normal işiten kişilerde doğru kelime yüzdesinin SNR'ye göre değişimini gösteriyor.",
+    "Kırmızı eğri, gürültüde zorlanan örnek bir hastanın eğrisi; aynı yüzdeye ulaşmak için daha yüksek SNR gerekiyor.",
+    "İki eğrinin yüzde elli noktaları arasındaki farka SNR kaybı (SNR loss) denir; bu örnekte sekiz desibel.",
+    "Yani bu hasta, normal işiten birinin anladığı kadar anlamak için konuşmanın gürültüden sekiz desibel daha yüksek olmasına ihtiyaç duyar.",
+    "Önemli nokta şu: hem konuşmayı hem gürültüyü birlikte yükseltmek SNR'yi değiştirmez, bu yüzden SNR kaybını kapatmaz.",
+    "SNR kaybını azaltmak için konuşmayı gürültüden ayıran yönlü mikrofon ya da uzak mikrofon gibi çözümler gerekir."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Testler",
+   "baslik": "Sabit SNR mı, *uyarlamalı* mı?",
+   "sol": {
+    "ust": "Sabit SNR",
+    "maddeler": [
+     {
+      "metin": "Her cümle _belirli_ bir SNR'de",
+      "cumle": 0
+     },
+     {
+      "metin": "Sonuç: doğru yüzdesi ya da hesap",
+      "cumle": 1
+     },
+     {
+      "metin": "Örnek: _QuickSIN_ adımları",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Uyarlamalı",
+    "maddeler": [
+     {
+      "metin": "SNR yanıta göre _değişir_",
+      "cumle": 3
+     },
+     {
+      "metin": "Doğruysa zorlaşır, yanlışsa kolaylaşır",
+      "cumle": 4
+     },
+     {
+      "metin": "Sonuç: _SRT50_, dB SNR",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Sabit SNR yönteminde cümleler önceden belirlenmiş SNR değerlerinde verilir.",
+     "ses": "Sabit sinyal gürültü oranı yönteminde, cümleler önceden belirlenmiş oranlarda verilir."
+    },
+    "Sonuç, doğru tekrar edilen kelimelerin yüzdesi ya da bu sayılardan yapılan bir hesap olarak bulunur.",
+    {
+     "yazi": "Az sonra göreceğimiz QuickSIN testinde SNR her cümlede önceden belirlenmiş adımlarla azalır; bu da sabit bir şemadır.",
+     "ses": "Az sonra göreceğimiz Kuik Sin testinde SNR her cümlede önceden belirlenmiş adımlarla azalır; bu da sabit bir şemadır."
+    },
+    "Uyarlamalı yöntemde ise bir sonraki cümlenin SNR'si, hastanın önceki yanıtına göre belirlenir.",
+    "Hasta doğru yanıt verirse test zorlaşır, yanlış yanıt verirse kolaylaşır; böylece yüzde elli noktası çevresinde gidip gelinir.",
+    {
+     "yazi": "Sonuç, konuşmanın yüzde ellisinin anlaşıldığı SNR, yani SRT50 olarak desibel cinsinden verilir.",
+     "ses": "Sonuç, konuşmanın yüzde ellisinin anlaşıldığı SNR, yani SRT elli olarak desibel cinsinden verilir."
+    }
+   ]
+  },
+  {
+   "id": "quicksin",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Testler",
+   "baslik": "QuickSIN *adım adım*",
+   "adimlar": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Uğultu",
+     "metin": "Dört konuşmacılı gürültü",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Altı cümle",
+     "metin": "Her birinde 5 anahtar kelime",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "SNR azalır",
+     "metin": "25'ten 0'a, 5 dB adım",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Doğruları say",
+     "metin": "En fazla 30 kelime",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Hesapla",
+     "metin": "25,5 eksi toplam doğru",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Hızlı gürültüde konuşma testi (Quick Speech-in-Noise), kısaca QuickSIN, Killion ve arkadaşları tarafından 2004'te yayımlandı.",
+     "ses": "Hızlı gürültüde konuşma testi, kısaca Kuik Sin, Kilyın ve arkadaşları tarafından iki bin dört yılında yayımlandı."
+    },
+    "Cümleler, bir kadın konuşmacı tarafından okunur ve dört kişinin aynı anda konuştuğu bir uğultu gürültüsü içinde verilir.",
+    "Bir listede altı cümle vardır ve her cümlede beş anahtar kelime puanlanır.",
+    "İlk cümle artı yirmi beş desibel SNR'de verilir; sonraki her cümlede SNR beş desibel azalır ve son cümle sıfır SNR'dedir.",
+    "Hastanın doğru tekrar ettiği anahtar kelimeler sayılır; en yüksek toplam otuzdur.",
+    {
+     "yazi": "SNR kaybı, yirmi beş virgül beşten toplam doğru sayısı çıkarılarak bulunur.",
+     "ses": "SNR kaybı, yirmi beş virgül beşten toplam doğru sayısı çıkarılarak bulunur."
+    },
+    "Ortalama eşik kırk beş desibel HL'ye kadarsa test yetmiş desibel HL'de, daha kötüyse yüksek ama rahat bulunan düzeyde yapılır."
+   ]
+  },
+  {
+   "id": "quicksin_yorum",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Testler",
+   "baslik": "QuickSIN *yorumu*",
+   "sutunlar": [
+    "SNR kaybı (dB)",
+    "Yorum"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0 ile 3",
+      "Normal ya da yakın"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "3 ile 7",
+      "Hafif SNR kaybı"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "7 ile 15",
+      "Orta SNR kaybı"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "15 üzeri",
+      "İleri SNR kaybı"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Test kılavuzuna göre sıfır ile üç desibel arası SNR kaybı normal ya da normale yakın kabul edilir.",
+    "Üç ile yedi desibel arası hafif SNR kaybıdır.",
+    "Yedi ile on beş desibel arası orta, on beşin üzeri ileri derecede SNR kaybıdır.",
+    "Bu son grupta konuşmayı gürültüde anlamak, cihazla bile çok güçtür.",
+    "Bir örnek: hasta otuz anahtar kelimenin yirmisini doğru tekrar etti; yirmi beş virgül beş eksi yirmi, beş virgül beş desibel eder.",
+    "Bu hastada hafif derecede SNR kaybı vardır."
+   ]
+  },
+  {
+   "id": "hint",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "HINT ve matris",
+   "baslik": "*HINT*: gürültüde işitme testi",
+   "maddeler": [
+    {
+     "metin": "Kısa, günlük cümleler; _bütün cümle_ puanlanır",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Gürültü _sabit_, konuşma düzeyi değişir",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Önce büyük, sonra _küçük_ adımlar",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Gürültü önden, sağdan ya da soldan",
+     "cumle": 5,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SONUÇ",
+    "metin": "Cümlelerin yarısının anlaşıldığı *SNR*, dB olarak",
+    "cumle": 4
+   },
+   "cumleler": [
+    {
+     "yazi": "Gürültüde işitme testi (Hearing in Noise Test), kısaca HINT, 1994 yılında Nilsson, Soli ve Sullivan tarafından yayımlandı.",
+     "ses": "Gürültüde işitme testi, kısaca hint, bin dokuz yüz doksan dört yılında Nilsson, Soli ve Salivın tarafından yayımlandı."
+    },
+    "Testte kısa ve günlük cümleler kullanılır; cümle ancak bütün kelimeleri doğru tekrar edilirse doğru sayılır.",
+    "Konuşma biçimli gürültü sabit bir düzeyde verilir, cümlelerin düzeyi ise hastanın yanıtına göre artırılıp azaltılır.",
+    "İlk cümlelerde dört desibellik, sonra iki desibellik adımlar kullanılır.",
+    "Sonuç, cümlelerin yarısının doğru anlaşıldığı SNR olarak desibel cinsinden verilir.",
+    "Serbest alanda gürültü önden ya da yanlardan verilerek iki kulakla işitmenin katkısı da değerlendirilebilir.",
+    {
+     "yazi": "Türkçe HINT ve onun çocuk sürümü de bulunmaktadır.",
+     "ses": "Türkçe hint ve onun çocuk sürümü de bulunmaktadır."
+    }
+   ]
+  },
+  {
+   "id": "matris",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "HINT ve matris",
+   "baslik": "Matris testinde *uyarlamalı* ölçüm",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 20,
+     "adim": 5,
+     "isaretler": [
+      1,
+      5,
+      10,
+      15,
+      20
+     ],
+     "ad": "Cümle sırası"
+    },
+    "y": {
+     "min": -12,
+     "max": 2,
+     "adim": 2,
+     "ad": "SNR (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "iz",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        -2
+       ],
+       [
+        3,
+        -4
+       ],
+       [
+        4,
+        -6
+       ],
+       [
+        5,
+        -8
+       ],
+       [
+        6,
+        -6.5
+       ],
+       [
+        7,
+        -7.5
+       ],
+       [
+        8,
+        -8.5
+       ],
+       [
+        9,
+        -7
+       ],
+       [
+        10,
+        -7.5
+       ],
+       [
+        11,
+        -6.5
+       ],
+       [
+        12,
+        -7.5
+       ],
+       [
+        13,
+        -7
+       ],
+       [
+        14,
+        -8
+       ],
+       [
+        15,
+        -7
+       ],
+       [
+        16,
+        -7.5
+       ],
+       [
+        17,
+        -6.8
+       ],
+       [
+        18,
+        -7.4
+       ],
+       [
+        19,
+        -7
+       ],
+       [
+        20,
+        -7.2
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "r": 6,
+      "sure": 3,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "srt50",
+      "x": 20,
+      "y": -7.2,
+      "cizgi": "yatay",
+      "nokta": false,
+      "renk": "yesil",
+      "etiket": "SRT50",
+      "hiza": "end",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Beş kelimelik, tahmin edilemeyen cümleler",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "SNR yanıta göre ayarlanır",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İlk listede öğrenme etkisi",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Matris testlerinin ilki İsveççe için geliştirildi; bugün Almanca, Türkçe ve birçok dilde karşılaştırılabilir sürümleri vardır.",
+    "Cümleler beş kelimelik sabit bir kalıptadır ve kelimeler on seçenekli bir tablodan rastgele seçildiği için tahmin edilemez.",
+    "Grafikte bir ölçümün izini görüyoruz: hasta doğru yanıt verdikçe SNR düşüyor, hata yaptıkça yükseliyor.",
+    "Her cümlede doğru tekrar edilen kelime sayısına göre bir sonraki SNR adımı belirlenir.",
+    {
+     "yazi": "Yirmi cümle sonunda iz, yüzde elli anlama noktasında sabitleniyor; bu nokta SRT50 olarak raporlanır.",
+     "ses": "Yirmi cümle sonunda iz, yüzde elli anlama noktasında sabitleniyor; bu nokta SRT elli olarak raporlanır."
+    },
+    "Hasta kelime kümesini tanıdıkça skoru iyileştiği için ölçümden önce alıştırma listesi uygulanır."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "SNR kaybına göre *beklenti*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normale yakın",
+     "metin": "Gürültüde normal işitenlere yakın",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Hafif",
+     "metin": "Yönlü mikrofonla normale yakın",
+     "cumle": 2
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Orta",
+     "metin": "Yönlü mikrofon belirgin yarar",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "İleri",
+     "metin": "Uzak mikrofon sistemi düşünülür",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "SNR kaybı, cihaz danışmanlığında hastaya gerçekçi bir beklenti çizmek için kullanılır.",
+    "SNR kaybı normale yakınsa, kişi gürültüde de normal işitenlere yakın bir anlama gösterir.",
+    "Hafif SNR kaybında yönlü mikrofonlu bir cihazla gürültüde normale yakın performans beklenebilir.",
+    "Orta SNR kaybında yönlü mikrofonlar belirgin yarar sağlar, ama tek başına yetmeyebilir.",
+    "İleri SNR kaybında en büyük SNR iyileştirmesi gerekir; konuşmacıya yakın yerleştirilen uzak mikrofon sistemleri düşünülür.",
+    "Bu öneriler genel bir çerçevedir; karar hastanın ihtiyacı, odyogramı ve tercihiyle birlikte verilir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "Aynı odyogram, *farklı* gürültü",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Odyogram_: iki hastada benzer",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Hasta A_: SNR kaybı 2 dB",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "sag",
+     "metin": "_Hasta B_: SNR kaybı 12 dB",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       45,
+       55,
+       60
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Bu örnekte iki hastanın odyogramları neredeyse aynı: tize doğru eğimli, hafif ile orta derece arası bir kayıp.",
+    "Sessiz ortamdaki kelime tanıma skorları da birbirine yakın.",
+    "Hasta A'nın SNR kaybı iki desibel; gürültüde normale yakın performans gösteriyor.",
+    "Hasta B'nin SNR kaybı on iki desibel; gürültüde orta derecede zorlanıyor.",
+    "Aynı cihaz önerilse bile bu iki hastanın gürültüdeki deneyimi çok farklı olacaktır.",
+    "Gürültüde konuşma testi bu farkı ölçülebilir hale getirir ve danışmanlığı kişiye özel kılar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Tek bir QuickSIN listesi yaklaşık ±2,7 dB belirsizlik taşır. Karar vermeden önce en az iki listenin ortalamasını alın.",
+   "cumleler": [
+    "Kısa testlerin güvenilirliği sınırlıdır; bunu hesaba katın.",
+    {
+     "yazi": "Geliştiricilerine göre tek bir QuickSIN listesi, yüzde doksan beş güvenle yaklaşık artı eksi iki virgül yedi desibel belirsizlik taşır.",
+     "ses": "Geliştiricilerine göre tek bir Kuik Sin listesi, yüzde doksan beş güvenle yaklaşık artı eksi iki virgül yedi desibel belirsizlik taşır."
+    },
+    "Bu yüzden karar vermeden önce en az iki listenin ortalamasını almak sonucu güçlendirir.",
+    "Cihazsız ve cihazlı karşılaştırmada da her koşulda farklı ama eşdeğer listeler kullanın."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "Yorumda *dikkat* edilecekler",
+   "maddeler": [
+    {
+     "metin": "Dil ve _kelime bilgisi_ etkiler",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Bellek_ ve dikkat de rol oynar",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Sonuç _sunum düzeyine_ bağlı",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Norm: _aynı dil ve sürüm_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "vurgula": [
+     {
+      "parca": "hoparlor",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Cümle testleri dile bağlıdır; hastanın dil ve kelime bilgisi sonucu etkiler.",
+    "Cümleleri akılda tutmak çalışma belleği ve dikkat gerektirir; yaşlı hastalarda bu da sonuca yansır.",
+    "Sonuç kulaklıkla ya da serbest alanda, hangi düzeyde ve hangi gürültüyle ölçüldüğüne bağlıdır.",
+    "Bu yüzden her test, yalnız kendi dilindeki ve kendi sürümündeki normlarla karşılaştırılır.",
+    "Raporda test adı, liste, gürültü türü, düzey ve dinleme koşulu açıkça yazılmalıdır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Sessiz skor gürültüyü _göstermez_",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "SNR kaybı: _normalden_ fazla gereken SNR",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "QuickSIN: _25,5 eksi doğru_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "HINT ve matris: _uyarlamalı_ SRT50",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Sessiz ortamdaki kelime skoru, gürültüdeki konuşmayı anlama performansını güvenilir biçimde göstermez.",
+    "SNR kaybı, kişinin normal işitenlere göre konuşmayı anlamak için ne kadar fazla SNR'ye ihtiyaç duyduğunu gösterir.",
+    {
+     "yazi": "QuickSIN'de SNR kaybı, yirmi beş virgül beşten toplam doğru kelime sayısı çıkarılarak hesaplanır.",
+     "ses": "Kuik Sinde SNR kaybı, yirmi beş virgül beşten toplam doğru kelime sayısı çıkarılarak hesaplanır."
+    },
+    {
+     "yazi": "HINT ve matris testleri uyarlamalı yöntemle yüzde elli anlama noktasını, yani SRT50'yi bulur.",
+     "ses": "Hint ve matris testleri uyarlamalı yöntemle yüzde elli anlama noktasını, yani SRT elliyi bulur."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "QuickSIN'de toplam 16 kelime doğru. SNR kaybı kaçtır?",
+   "secenekler": [
+    "6,5 dB, hafif",
+    "9,5 dB, orta",
+    "16 dB, ileri",
+    "2 dB, normal"
+   ],
+   "dogru": 1,
+   "aciklama": "25,5 eksi 16, _9,5 dB_ eder; 7 ile 15 dB arası orta derecede SNR kaybıdır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: QuickSIN listesinde hasta toplam on altı anahtar kelimeyi doğru tekrar etti. SNR kaybı kaçtır?",
+     "ses": "Kendinizi test edin: Kuik Sin listesinde hasta toplam on altı anahtar kelimeyi doğru tekrar etti. SNR kaybı kaçtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: dokuz virgül beş desibel, yani orta derecede SNR kaybı.",
+    "Yirmi beş virgül beş eksi on altı, dokuz virgül beş eder; bu değer yedi ile on beş arasında kalır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Konuşma testlerinde *maskeleme*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste konuşma testlerinde maskelemenin ne zaman gerektiğini ve gürültü düzeyinin nasıl hesaplandığını göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

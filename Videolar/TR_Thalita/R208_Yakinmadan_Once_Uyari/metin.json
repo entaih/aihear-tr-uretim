@@ -1,0 +1,107 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R208_Yakinmadan_Once_Uyari_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #208",
+  "baslik": "Yakınmadan önce *uyarı*",
+  "alt": "Ototoksisite izleminde DPOAE",
+  "cizim": "corti",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kulağa zarar veren bir ilacın etkisi, kişi fark etmeden görülebilir mi? #shorts",
+  "aciklama": "Sisplatin gibi bazı kemoterapi ilaçları ve aminoglikozid antibiyotikler kulağa zarar verebilir; bu etki genellikle önce yüksek frekansları etkiler. İzlemde tedavi öncesi bir başlangıç ölçümü alınır; DPOAE'deki düşüş, hasta yakınma bildirmeden ve bazen odyogramda değişiklik görülmeden ortaya çıkabilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "OAE",
+   "ototoksisite"
+  ],
+  "etiketler": [
+   "ototoksisite",
+   "DPOAE",
+   "otoakustik emisyon",
+   "sisplatin",
+   "aminoglikozid",
+   "DP-gram",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kulağa zarar veren bir ilacın etkisi, kişi fark etmeden görülebilir mi?",
+  "bilgiler": [
+   "Bazı ilaçlar kulağa zarar verebilir; önce yüksek frekanslar etkilenir.",
+   "İzlemde tedavi öncesi bir başlangıç ölçümü alınır.",
+   "DPOAE düşüşü, odyogram değişmeden ortaya çıkabilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "OAE",
+   "ototoksisite"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #208",
+   "metin": "İlacın etkisi *önceden* görülür mü?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kulağa zarar veren bir ilacın etkisi, kişi fark etmeden görülebilir mi?"
+   ]
+  },
+  {
+   "id": "ototoks",
+   "tur": "zincir",
+   "baslik": "Ototoksisite *izlemi*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Başlangıç",
+     "tr": "tedavi öncesi",
+     "cumle": 1
+    },
+    {
+     "ad": "İzlem",
+     "tr": "tiz düşüş",
+     "cumle": 2
+    },
+    {
+     "ad": "Uyarı",
+     "tr": "yakınmadan önce",
+     "cumle": 3
+    }
+   ],
+   "alt": "Değişiklik _odyogramdan önce_ görülebilir",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Bazı kemoterapi ilaçları ve aminoglikozid antibiyotikler kulağa zarar verebilir.",
+    "İzlemde tedavi başlamadan önce bir başlangıç ölçümü alınır.",
+    {
+     "yazi": "Distorsiyon ürünü otoakustik emisyonda, kısaca DPOAE, tiz yanıtlar azalabilir.",
+     "ses": "Distorsiyon ürünü otoakustik emisyonda, yani de pe o a e testinde, tiz yanıtlar azalabilir."
+    },
+    "Bu düşüş, hasta yakınmadan ve bazen odyogram değişmeden ortaya çıkabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D124",
+ "kaynak_baslik": "OAE klinikte"
+}

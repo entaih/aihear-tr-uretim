@@ -1,0 +1,656 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D282_Mesleki_Etik_TR",
+ "kapak": {
+  "ust": "DERS 282",
+  "baslik": "Mesleki<br>*etik*",
+  "alt": "Dört ilke ve çıkar çatışması",
+  "cizim": "isitme_cihazi"
+ },
+ "youtube": {
+  "baslik": "Odyolojide Mesleki Etik İlkeler | Ders 282 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyolog zor bir kararda neye dayanır? Bu derste özerklik, yararlılık, zarar vermeme ve adalet ilkelerini, çıkar çatışmasını, satış baskısını, meslek örgütlerinin etik kodlarını ve etik karar verme adımlarını örneklerle öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Beauchamp TL, Childress JF. Principles of Biomedical Ethics; American Speech-Language-Hearing Association (ASHA), Code of Ethics (2023); American Academy of Audiology, Code of Ethics; Katz J ve ark. Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "etik",
+   "odyolog"
+  ],
+  "etiketler": [
+   "mesleki etik",
+   "professional ethics",
+   "özerklik",
+   "autonomy",
+   "yararlılık",
+   "beneficence",
+   "zarar vermeme",
+   "non-maleficence",
+   "çıkar çatışması",
+   "conflict of interest",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 282",
+   "baslik": "Odyolojide mesleki *etik*",
+   "alt": "Dört ilke, çıkar çatışması, etik kodlar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu dersle birlikte etik ve mevzuat bölümüne başlıyor ve odyolojide mesleki etik ilkeleri ele alıyoruz.",
+    "Dört temel ilkeyi, çıkar çatışmasını, satış baskısını ve meslek örgütlerinin etik kodlarını örneklerle göreceğiz."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Etik *nedir?*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Etik",
+     "metin": "Doğru davranışın ilkeleri",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Hukuk",
+     "metin": "Uyulması zorunlu kurallar",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Etik kod",
+     "metin": "Mesleğin ortak sözü",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Sorumluluk",
+     "metin": "Hastaya ve topluma",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Etik (ethics), bir durumda neyin doğru ve neyin iyi olduğunu ilkelere dayanarak sorgulayan düşünme biçimidir.",
+    "Mesleki etik ise bu soruyu belirli bir mesleğin günlük uygulamasına taşır: odyolog hastasına karşı nasıl davranmalıdır?",
+    "Hukuk uyulması zorunlu kuralları koyar; etik çoğu zaman hukukun gerektirdiğinden fazlasını ister.",
+    "Meslek örgütlerinin etik kodları, bir mesleğin üyelerinin topluma verdiği ortak bir söz gibidir.",
+    "Odyolog yalnız hastasına değil, meslektaşlarına, öğrencilere ve topluma karşı da sorumludur.",
+    "Etik ikilem ise iki doğru gibi görünen seçeneğin çatıştığı ve kolay bir yanıtın olmadığı durumdur."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Dört *temel* ilke",
+   "cumleler": [
+    "Sağlık etiğinde yaygın kullanılan çerçeve, Beauchamp ve Childress'in tanımladığı dört temel ilkedir.",
+    "Özerklik (autonomy), bilgilendirilmiş bir kişinin kendi bedeni ve sağlığıyla ilgili kararı kendisinin vermesidir.",
+    "Yararlılık (beneficence), hastanın iyiliği için etkin biçimde çalışmak, yani gerçek bir yarar sağlamaktır.",
+    "Zarar vermeme (non-maleficence), gereksiz risk ve zarardan kaçınmaktır; tıptaki önce zarar verme sözü bunu anlatır.",
+    "Adalet (justice), hizmetin ve kaynakların hakkaniyetle, ayrımcılık yapılmadan dağıtılmasıdır.",
+    "İlkeler bir sıra izlemez; bir vakada birbiriyle çatışabilir ve klinisyen bunları birlikte tartmak zorunda kalır.",
+    "Örneğin hastanın cihazı reddetmesi özerkliktir; ama yararlılık ilkesi, kararın bilgiye dayanmasını ister."
+   ],
+   "cizim": "etik_ilkeler",
+   "ayar": {
+    "cumleler": [
+     1,
+     2,
+     3,
+     4
+    ],
+    "denge_cumle": 5
+   }
+  },
+  {
+   "id": "ozerklik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Özerklik *klinikte*",
+   "maddeler": [
+    {
+     "metin": "Seçenekleri tarafsız anlat",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Anlaşıldığını kontrol et",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Karar için zaman tanı",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Reddetme hakkına saygı",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yakını değil, hastayı dinle",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hasta",
+      "baslik": "Bilgi",
+      "metin": "Seçenekler ve riskler",
+      "cumle": 0
+     },
+     {
+      "ikon": "saat",
+      "baslik": "Zaman",
+      "metin": "Baskısız karar",
+      "cumle": 2
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Kayıt",
+      "metin": "Karar ve gerekçe",
+      "cumle": 3
+     }
+    ],
+    "ust": "ÖZERKLİK"
+   },
+   "cumleler": [
+    "Özerkliğe saygı, önce hastaya bütün seçenekleri avantaj ve sınırlarıyla tarafsız biçimde anlatmakla başlar.",
+    "Bilginin anlaşıldığı, hastanın kendi sözleriyle özetlemesi istenerek kontrol edilir.",
+    "Pahalı bir cihaz gibi önemli bir karar için hastaya düşünme süresi tanınır; aynı gün karar beklenmez.",
+    "Hasta önerilen bir testi ya da cihazı reddedebilir; bu karar sonuçlarıyla birlikte kayda geçirilir.",
+    "Yaşlı bir hasta yakınıyla gelse bile, karar verme yeterliliği olan kişinin sözü hastanın kendisidir.",
+    "Çocuklarda karar aileye aittir; ama çocuğun görüşü yaşına ve anlama düzeyine göre mutlaka alınır."
+   ]
+  },
+  {
+   "id": "yarar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Yararlılık ve *zarar vermeme*",
+   "maddeler": [
+    {
+     "metin": "Kanıta dayalı öneri",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Gereksiz testten kaçın",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Kırmızı bayrakta yönlendir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Güvenli uygulama",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Abartısız beklenti",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 3,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "vurgula": [
+     {
+      "parca": "alici",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Yararlılık, önerinin hastaya gerçek bir katkı sağlayacağına dair kanıta dayanmasını gerektirir.",
+    "Sonucu değiştirmeyecek gereksiz testler zaman, para ve emek kaybıdır; zarar vermeme ilkesiyle de çelişir.",
+    "Ani işitme kaybı ya da tek taraflı belirtiler gibi kırmızı bayraklarda hastayı gecikmeden hekime yönlendirmek de zarardan korur.",
+    "Kulak ölçüsü alırken ya da yüksek çıkışlı bir cihaz ayarlarken güvenlik kurallarına uymak bu ilkenin günlük yüzüdür.",
+    "Cihazdan gerçekçi olmayan sonuçlar vaat etmek, hayal kırıklığına ve güven kaybına yol açar.",
+    "Kısacası iyi niyet yetmez; yararın kanıtı ve zararın önlenmesi birlikte düşünülür."
+   ]
+  },
+  {
+   "id": "adalet",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "*Adalet* ilkesi",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ayrımcılık yok",
+     "metin": "Herkese aynı özen",
+     "cumle": 0
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Erişim",
+     "metin": "Uzak bölge, düşük gelir",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "İletişim",
+     "metin": "Dil ve işaret dili",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Sıra",
+     "metin": "Hakkaniyetli randevu",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Adalet, hastalara yaşı, cinsiyeti, dini, etnik kökeni ya da ekonomik durumu nedeniyle farklı davranmamaktır.",
+    "Hizmete erişimi zor olan kırsal bölgelerdeki ya da düşük gelirli kişileri gözetmek de adaletin bir parçasıdır.",
+    "Türkçeyi iyi bilmeyen ya da işaret dili kullanan bir hastaya iletişim desteği sağlamak eşit hizmetin koşuludur.",
+    "Randevu ve sıra düzeninde kayırmacılık yapılmaz; acil öncelik ise klinik gerekçeye dayanır.",
+    "Kaynaklar kısıtlı olduğunda kimin önce hizmet alacağına dair kurallar açık ve herkes için aynı olmalıdır."
+   ]
+  },
+  {
+   "id": "cikar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Çıkar çatışması",
+   "baslik": "Çıkar *çatışması*",
+   "maddeler": [
+    {
+     "metin": "Kişisel kazanç ve hasta yararı",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Prim ve satış hedefi",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hediye ve sponsorluk",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Açıklık: beyan et",
+     "cumle": 4,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Karar ölçütü: hastanın yararı",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Cihaz seçimi",
+      "metin": "Gereksinime göre",
+      "cumle": 0
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Satış hedefi",
+      "metin": "Kararı etkilememeli",
+      "cumle": 2
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Beyan",
+      "metin": "Açıklık güven verir",
+      "cumle": 4
+     }
+    ],
+    "ust": "DENGE"
+   },
+   "cumleler": [
+    "Çıkar çatışması (conflict of interest), klinisyenin kişisel ya da kurumsal çıkarının hastanın yararıyla çeliştiği durumdur.",
+    "Çatışmanın varlığı tek başına etik ihlal değildir; asıl sorun, kararın bu çıkardan etkilenmesidir.",
+    "Satılan cihaz sayısına ya da fiyatına bağlı prim, öneriyi hastanın gereksiniminden uzaklaştırabilir.",
+    "Bir üreticiden gelen hediye, eğitim desteği ya da yolculuk, fark edilmeden tercihleri etkileyebilir.",
+    "Çatışmayı yönetmenin ilk adımı açıklıktır: hasta ve kurum, ilişkiden haberdar edilir.",
+    "Son ölçüt her zaman aynıdır: bu öneri, aynı koşulda kendi yakınıma da yapacağım öneri mi?"
+   ]
+  },
+  {
+   "id": "baski",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Çıkar çatışması",
+   "baslik": "Satış *baskısı*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Acele ettirme",
+     "metin": "Bugüne özel fiyat",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Gereğinden fazla",
+     "metin": "Hep en üst düzey",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Korkutma",
+     "metin": "Bunama riski abartısı",
+     "cumle": 2
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Israrlı arama",
+     "metin": "Kararı zorlamak",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Doğru yol",
+     "metin": "Seçenek ve deneme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bugüne özel fiyat gibi acele ettiren teklifler, hastanın düşünme ve karşılaştırma hakkını kısıtlar.",
+    "Her hastaya en üst teknoloji düzeyini önermek, gereksinimle değil satış hedefiyle açıklanıyorsa sorunludur.",
+    "İşitme kaybı ile bilişsel gerileme ilişkisini korku yaratacak biçimde abartmak, bilgilendirme değil baskıdır.",
+    "Karar vermeyen hastayı ısrarla aramak ya da yakınları üzerinden baskı kurmak da özerkliği zedeler.",
+    "Doğru yol, gereksinime uygun birkaç seçeneği fiyatlarıyla sunmak ve deneme ile izlem olanağını açıklamaktır.",
+    "Kurumda satış hedefi varsa bile, odyoloğun önerisi hastanın odyolojik ve yaşamsal gereksinimine dayanmalıdır."
+   ]
+  },
+  {
+   "id": "karar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Çıkar çatışması",
+   "baslik": "Etik karar *adımları*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Sorunu tanımla",
+     "metin": "Hangi ilkeler çatışıyor?",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Bilgi topla",
+     "metin": "Olgular, mevzuat, kod",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Seçenekleri sırala",
+     "metin": "Herkes için sonuçlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Danış",
+     "metin": "Meslektaş, kurul",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Karar ve kayıt",
+     "metin": "Gerekçesiyle yaz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Etik bir ikilemde önce sorun açıkça tanımlanır: hangi ilkeler ya da kimlerin çıkarları çatışıyor?",
+    "Ardından olgular, hastanın tercihleri, ilgili mevzuat ve meslek örgütünün etik kodu gözden geçirilir.",
+    "Olası seçenekler sıralanır ve her birinin hasta, aile, kurum ve meslek için sonuçları düşünülür.",
+    "Zor durumlarda deneyimli bir meslektaşa ya da kurumun etik kuruluna danışmak hem kararı hem de klinisyeni korur.",
+    "Verilen karar gerekçesiyle birlikte kayda geçirilir ve sonucu izlenir.",
+    "Bu adımlar kesin bir yanıt garanti etmez; ama kararın keyfi değil, gerekçeli olmasını sağlar."
+   ]
+  },
+  {
+   "id": "kodlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Etik kodlar",
+   "baslik": "Meslek örgütlerinin *etik kodları*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Hizmet alanın refahı",
+     "metin": "Önce hasta",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Mesleki yeterlilik",
+     "metin": "Sürekli öğrenme",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Topluma karşı",
+     "metin": "Doğru bilgi, dürüst tanıtım",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Meslektaşlar",
+     "metin": "Saygı ve iş birliği",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Amerikan Konuşma, Dil ve İşitme Derneği, kısaca ASHA, etik kodunu dört temel ilke altında toplar.",
+    "Birinci ilke, hizmet alan kişinin refahını her şeyin üstünde tutmaktır.",
+    "İkinci ilke, en yüksek mesleki yeterliliği kazanmak ve sürdürmektir; yani sürekli öğrenme bir etik yükümlülüktür.",
+    "Üçüncü ilke topluma karşı sorumluluktur: mesleği ve hizmetleri doğru ve dürüst biçimde tanıtmak bunun parçasıdır.",
+    "Dördüncü ilke ise meslektaşlar, öğrenciler ve diğer meslek mensuplarıyla ilişkilerdeki sorumluluğu kapsar.",
+    "Amerikan Odyoloji Akademisinin etik kodu da benzer biçimde dürüstlüğü, yeterliliği ve hastanın yararını öne çıkarır.",
+    "Türkiye'de çalışırken bu kodların yanında yasal mevzuat ve kurumunuzun kuralları da bağlayıcıdır; bunları sonraki derslerde göreceğiz."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Etik kodlar",
+   "baslik": "Yetkinlik ve *sınırlar*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Yetkinlik alanı",
+     "metin": "Bilmediğini uygulama",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Yönlendirme",
+     "metin": "Gerektiğinde ekibe",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Doğru kayıt",
+     "metin": "Değiştirme, uydurma yok",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Gizlilik",
+     "metin": "Bilgi hastanındır",
+     "cumle": 3
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Profesyonel sınır",
+     "metin": "Hediye, ilişki, sosyal medya",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Odyolog yalnız eğitimini aldığı ve yeterli olduğu alanlarda hizmet verir; yeni bir yöntem önce gözetim altında öğrenilir.",
+    "Yetkinlik alanını aşan bir bulguda hastayı ilgili uzmana yönlendirmek, hem etik hem de yasal bir sorumluluktur.",
+    "Test sonuçlarını değiştirmek, yapılmayan bir testi kaydetmek ya da raporu süslemek ağır bir etik ihlaldir.",
+    "Hastanın bilgileri gizlidir; gizlilik ve kişisel verilerin korunmasını bir sonraki derste ayrıntılı göreceğiz.",
+    "Değerli hediyeler, kişisel ilişkiler ve sosyal medyada hastayla iletişim, profesyonel sınırlar içinde düşünülmelidir.",
+    "Bir meslektaşın hastaya zarar verebilecek bir uygulamasını fark etmek de sessiz kalınmaması gereken bir durumdur."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Etik kodlar",
+   "baslik": "Örnek bir *ikilem*",
+   "adimlar": [
+    {
+     "ikon": "yasli",
+     "baslik": "Durum",
+     "metin": "Hasta cihaz istemiyor",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Aile",
+     "metin": "Kızı ısrar ediyor",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Dinle",
+     "metin": "Kaygıları ve hedefleri",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Seçenekler",
+     "metin": "Deneme, iletişim stratejisi",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Karar",
+     "metin": "Hastanın kararı, kayıt",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Örnek bir durum düşünelim: orta derece kaybı olan yetmiş beş yaşında bir kişi işitme cihazı istemiyor.",
+    "Yanındaki kızı ise annesinin cihaz kullanması için ısrar ediyor ve hemen satın almak istiyor.",
+    "Odyolog önce hastanın kaygılarını dinler: belki görünüm, belki maliyet, belki de önceki kötü bir deneyim.",
+    "Ardından deneme kullanımı, iletişim stratejileri ya da uzak mikrofon gibi seçenekler tarafsız biçimde anlatılır.",
+    "Karar verme yeterliliği olan hastanın kararı geçerlidir; kızının isteği bunu değiştirmez.",
+    "Görüşme kayda geçirilir ve hastaya fikrini değiştirirse kapının açık olduğu söylenir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Zor bir kararda kendinize sorun: Bu öneriyi gerekçesiyle hastanın dosyasına yazabilir ve bir meslektaşa açıklayabilir miyim?",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: emin olmadığınız bir kararda kendinize basit bir soru sorun.",
+    "Bu öneriyi gerekçesiyle birlikte hastanın dosyasına yazabilir ve bir meslektaşıma rahatça açıklayabilir miyim?",
+    "Yanıt hayırsa, karar büyük olasılıkla hastanın yararından başka bir etkene dayanıyordur.",
+    "Böyle durumlarda kararı ertelemek ve danışmak, her zaman acele etmekten daha güvenlidir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Dört ilke: özerklik, yararlılık, zarar vermeme, adalet",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Çıkar çatışması: beyan et, hastayı öne koy",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Satış baskısı özerkliği zedeler",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Etik kodlar ve gerekçeli karar",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Sağlık etiğinin dört temel ilkesi özerklik, yararlılık, zarar vermeme ve adalettir; bir vakada birbiriyle çatışabilirler.",
+    "Çıkar çatışması açıkça beyan edilir ve kararın ölçütü her zaman hastanın yararı olur.",
+    "Acele ettirme, gereğinden fazla teknoloji önerme ve korkutma, hastanın özerkliğini zedeleyen satış baskılarıdır.",
+    "Meslek örgütlerinin etik kodları ve adım adım düşünme, zor kararların gerekçeli verilmesini sağlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangi ilke ihlal ediliyor?",
+   "secenekler": [
+    "Adalet",
+    "Özerklik",
+    "Yararlılık",
+    "Gizlilik"
+   ],
+   "dogru": 1,
+   "aciklama": "Acele ettirme, hastanın _bilgiye dayalı ve özgür_ karar hakkını kısıtlar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Hastaya bugüne özel fiyat denilerek aynı gün cihaz alması için baskı yapılıyor. En doğrudan hangi ilke zedelenir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: özerklik.",
+    "Hasta seçenekleri karşılaştırma ve düşünme fırsatı bulamadan karar vermeye zorlanıyor; bu, özgür ve bilgilendirilmiş kararı engeller."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Aydınlatılmış onam ve *hasta mahremiyeti*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste aydınlatılmış onamı ve Kişisel Verilerin Korunması Kanunu çerçevesinde hasta mahremiyetini ele alacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

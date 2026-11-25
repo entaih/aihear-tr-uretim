@@ -1,0 +1,563 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D178_Isitme_Cihazi_Bilesenleri_TR",
+ "kapak": {
+  "ust": "DERS 178",
+  "baslik": "İşitme cihazı<br>*nasıl çalışır?*",
+  "alt": "Mikrofon, işlemci, alıcı ve pil",
+  "cizim": "isitme_cihazi"
+ },
+ "youtube": {
+  "baslik": "İşitme cihazı nasıl çalışır? Temel bileşenler | Ders 178 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bir işitme cihazının içinde neler var ve ses cihazın içinde nasıl yol alır? Bu derste mikrofonu, dijital sinyal işlemciyi (DSP), alıcıyı, pil ve şarjlı sistemleri tanıyor; sesin mikrofondan kulak yoluna kadar izlediği yolu adım adım takip ediyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; Mueller, Ricketts ve Bentler, Modern Hearing Aids.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "işitme"
+  ],
+  "etiketler": [
+   "işitme cihazı",
+   "hearing aid",
+   "işitme cihazı nasıl çalışır",
+   "dijital sinyal işlemci",
+   "DSP",
+   "receiver",
+   "mikrofon",
+   "işitme cihazı pili",
+   "telebobin",
+   "amplifikasyon",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 178",
+   "baslik": "İşitme cihazı *nasıl çalışır?*",
+   "alt": "Temel bileşenler ve sesin cihaz içindeki yolu",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir işitme cihazının temel bileşenlerini ve her birinin görevini öğreneceğiz.",
+    "Sonra sesi mikrofondan kulak yoluna kadar adım adım takip edeceğiz."
+   ]
+  },
+  {
+   "id": "gorev",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel yapı",
+   "baslik": "Cihazın *görevi*",
+   "maddeler": [
+    {
+     "metin": "Sesi _işitilebilir_ kılmak",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Yüksek sesi _rahatsız etmeden_ vermek",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Üç ana parça: mikrofon, işlemci, alıcı",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Hepsine enerji veren pil",
+     "cumle": 5,
+     "ikon": "ampul"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "İŞİTME CİHAZI (HEARING AID)",
+    "metin": "Sesi alır, *işler* ve kulağa yükseltilmiş olarak verir",
+    "cumle": 0
+   },
+   "cumleler": [
+    "İşitme cihazı (hearing aid), sesi alan, işleyen ve kulağa yükseltilmiş olarak veren küçük bir elektronik sistemdir.",
+    "İlk görevi, kişinin eşiğinin altında kalan yumuşak sesleri işitilebilir hale getirmektir.",
+    "İkinci görevi ise yüksek sesleri rahatsız edici düzeye çıkarmadan vermektir.",
+    "Yani amaç her sesi eşit miktarda artırmak değil, sesi kişinin kalan işitme alanına sığdırmaktır.",
+    "Bunu yapmak için cihazda üç ana parça bulunur: mikrofon, dijital sinyal işlemci ve alıcı.",
+    "Bu parçaların hepsine enerjiyi bir pil ya da şarj edilebilir bir batarya sağlar.",
+    "Bu nedenle modern cihazlar, sesi yalnız büyüten değil, onu kişinin işitmesine göre şekillendiren sistemlerdir."
+   ]
+  },
+  {
+   "id": "parcalar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel yapı",
+   "baslik": "Kulak arkası cihazın *parçaları*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "BTE"
+   },
+   "etiketler": [
+    {
+     "parca": "mikrofon",
+     "metin": "mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "islemci",
+     "metin": "dijital sinyal işlemci",
+     "cumle": 2
+    },
+    {
+     "parca": "alici",
+     "metin": "alıcı (receiver)",
+     "cumle": 3
+    },
+    {
+     "parca": "pil",
+     "metin": "pil",
+     "cumle": 4
+    },
+    {
+     "parca": "kalip",
+     "metin": "kulak kalıbı (earmold)",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "islemci",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sıra: mikrofon, işlemci, alıcı",
+     "cumle": 6,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Parçaları bir kulak arkası cihaz üzerinde görelim.",
+    "Mikrofon, cihazın üst kısmında yer alır ve çevredeki sesi toplar.",
+    "Gövdenin içinde, cihazın beyni sayılan dijital sinyal işlemci bulunur.",
+    "Alıcı (receiver), işlenmiş sinyali yeniden sese çeviren küçük bir hoparlördür.",
+    "Pil yuvası genellikle gövdenin alt kısmındadır.",
+    "Kulak arkası cihazda ses, bir tüp aracılığıyla kişiye özel kulak kalıbına (earmold) ulaşır.",
+    "Kulak içi cihazlarda aynı parçalar, kişinin kulağına göre yapılmış tek bir kabuğun içine yerleştirilir.",
+    "Kısacası ses mikrofona girer, işlemcide düzenlenir ve alıcıdan kulak yoluna çıkar."
+   ]
+  },
+  {
+   "id": "mikrofon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Mikrofon ve girişler",
+   "baslik": "Mikrofon: sesin *giriş kapısı*",
+   "maddeler": [
+    {
+     "metin": "Akustik sesi _elektrik sinyaline_ çevirir",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Çok yönlü: her yönden eşit alır",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_Yönlü_: öndeki sesi öne çıkarır",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Telebobin ve kablosuz girişler",
+     "cumle": 5,
+     "ikon": "telefon"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "YÖNLÜ MİKROFON",
+    "metin": "Arkadan gelen gürültüyü azaltır, *öndeki* konuşmacıyı korur",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Mikrofon, havadaki basınç değişimlerini, yani akustik sinyali, elektriksel bir sinyale çevirir.",
+    "Günümüz cihazlarında genellikle çok küçük elektret ya da mikro elektromekanik mikrofonlar kullanılır.",
+    "Çok yönlü (omnidirectional) mikrofon, her yönden gelen sesi yaklaşık eşit duyarlılıkla alır.",
+    "Yönlü (directional) mikrofon sisteminde ise iki mikrofon arasındaki zaman farkı kullanılarak öndeki ses öne çıkarılır.",
+    "Böylece kişi konuşmacıya bakarken, arkadan gelen gürültü bir miktar azaltılır.",
+    "Mikrofona ek olarak telebobin (telecoil), döngü sistemlerinden gelen manyetik sinyali alabilir.",
+    "Pek çok cihaz ayrıca telefon ve televizyondan kablosuz ses aktarımını da destekler."
+   ]
+  },
+  {
+   "id": "dsp",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dijital sinyal işlemci",
+   "baslik": "*DSP* ne yapar?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Kanallara ayırma",
+     "metin": "Frekans bantları oluşturur",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Kompresyon",
+     "metin": "Yumuşak sese fazla kazanç",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü azaltma",
+     "metin": "Sabit gürültüyü bastırır",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Geri besleme yönetimi",
+     "metin": "Islığı önler",
+     "cumle": 5
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Programlar",
+     "metin": "Ortama göre ayar",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Cihazın merkezi, dijital sinyal işlemci (digital signal processor), kısaca DSP'dir.",
+    "DSP, sayıya çevrilmiş ses sinyali üzerinde çok hızlı matematiksel işlemler yapan küçük bir bilgisayardır.",
+    "İlk iş olarak sinyali frekans kanallarına ayırır; böylece her frekans bölgesine ayrı kazanç verilebilir.",
+    "Kompresyon sayesinde yumuşak seslere daha çok, yüksek seslere daha az kazanç uygulanır.",
+    "Gürültü azaltma algoritmaları, klima uğultusu gibi sabit gürültüleri bir miktar bastırır.",
+    "Geri besleme yönetimi, kulaktan sızan sesin yeniden mikrofona girmesiyle oluşan ıslığı önlemeye çalışır.",
+    "Ayrıca sessiz ortam, gürültülü ortam ya da müzik için farklı programlar tanımlanabilir."
+   ]
+  },
+  {
+   "id": "donusum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dijital sinyal işlemci",
+   "baslik": "Analogdan *dijitale* ve geri",
+   "maddeler": [
+    {
+     "metin": "Analog-dijital dönüştürücü: örnekleme",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "İşlem sayılar üzerinde yapılır",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Dijital-analog dönüştürme ve çıkış",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "İşlem gecikmesi: _birkaç milisaniye_",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Mikrofondan gelen elektrik sinyali önce analog-dijital dönüştürücüye girer.",
+    "Bu dönüştürücü sinyalden saniyede on binlerce örnek alır ve her örneği bir sayıya çevirir.",
+    "DSP bütün ayarları bu sayılar üzerinde yapar; bu da çok esnek bir programlama olanağı verir.",
+    "İşlenmiş sinyal daha sonra yeniden analog bir elektrik sinyaline dönüştürülür ve alıcıyı sürer.",
+    "Bu dijital adımların hepsi, kullanıcının fark etmeyeceği kadar hızlı gerçekleşir.",
+    "Yine de bir miktar işlem gecikmesi oluşur; bu süre genellikle birkaç milisaniye düzeyindedir.",
+    "Gecikme çok uzarsa, özellikle açık uyumlarda kişi kendi sesini yankılı duyabilir."
+   ]
+  },
+  {
+   "id": "alici",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Alıcı ve ses yolu",
+   "baslik": "Alıcı: sesin *çıkış kapısı*",
+   "maddeler": [
+    {
+     "metin": "Elektrik sinyalini _yeniden sese_ çevirir",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Kulak arkası: alıcı gövdede, ses tüpte",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "RIC: alıcı kulak yolunda",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kalıp ya da dom, vent",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "GERİ BESLEME (FEEDBACK)",
+    "metin": "Kulaktan sızan ses mikrofona dönerse *ıslık* oluşur",
+    "cumle": 6
+   },
+   "cumleler": [
+    "Alıcı, işlenmiş elektrik sinyalini yeniden akustik sese çeviren minyatür bir hoparlördür.",
+    "Adı yanıltıcı olabilir; burada alıcı, sesi alan değil, kulağa veren parçadır.",
+    "Kulak arkası cihazda alıcı gövdenin içindedir; ses bir kanca, tüp ve kulak kalıbından geçerek kulak yoluna ulaşır.",
+    "Kanal içi alıcılı cihazlarda ise alıcı ince bir kabloyla doğrudan kulak yoluna yerleştirilir.",
+    "Kulak yolundaki uç, kişiye özel bir kalıp ya da hazır bir silikon dom olabilir; vent denilen havalandırma kanalı da eklenebilir.",
+    "Vent, kişinin kendi sesini boğuk duymasını azaltır ama sesin dışarı kaçmasını da kolaylaştırır.",
+    "Dışarı kaçan ses yeniden mikrofona ulaşırsa, akustik geri besleme (feedback) denilen ıslık oluşur."
+   ]
+  },
+  {
+   "id": "sesyolu",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Alıcı ve ses yolu",
+   "baslik": "Sesin yolu *baştan sona*",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Mikrofon",
+     "metin": "Ses elektrik sinyaline",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Analog-dijital",
+     "metin": "Sinyal sayılara çevrilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "DSP",
+     "metin": "Kanallar, kazanç, kompresyon",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Dijital-analog",
+     "metin": "Yeniden analog sinyal",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Alıcı ve kulak",
+     "metin": "Ses kulak yoluna",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Şimdi bir konuşma sesini cihazın içinde baştan sona takip edelim.",
+    "Konuşmacının sesi mikrofona ulaşır ve elektriksel bir sinyale dönüşür.",
+    "Bu sinyal analog-dijital dönüştürücüde sayılara çevrilir.",
+    "DSP sinyali kanallara ayırır, her kanala ayarlanan kazancı ve kompresyonu uygular, gürültüyü azaltır.",
+    "İşlenmiş sinyal yeniden analog forma döner ve alıcıyı sürer.",
+    "Alıcıdan çıkan ses, tüp ve kalıp ya da doğrudan kulak yolu üzerinden timpanik membrana, yani kulak zarına ulaşır.",
+    "Buradan sonrası doğal işitme yoludur: orta kulak, koklea ve işitme siniri."
+   ]
+  },
+  {
+   "id": "piller",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Pil ve şarjlı sistemler",
+   "baslik": "Çinko-hava *pil boyutları*",
+   "sutunlar": [
+    "Boyut",
+    "Renk kodu",
+    "Sık kullanım"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "10",
+      "Sarı",
+      "Kanal içi küçük"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "312",
+      "Kahverengi",
+      "RIC, kanal içi"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "13",
+      "Turuncu",
+      "RIC, kulak arkası"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "675",
+      "Mavi",
+      "Güçlü kulak arkası"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Pilli cihazlarda genellikle çinko-hava (zinc-air) piller kullanılır.",
+    "Bu piller, yapışkan etiketi çıkarıldığında havadaki oksijenle tepkimeye girerek çalışmaya başlar.",
+    "Boyutlar uluslararası bir renk koduyla ayırt edilir: en küçük olan 10 numara sarıdır.",
+    "312 numara kahverengidir ve kanal içi alıcılı ile kanal içi cihazlarda sık kullanılır.",
+    "13 numara turuncudur; daha büyük kanal içi alıcılı ve kulak arkası cihazlarda görülür.",
+    "675 numara ise mavidir ve en çok güçlü kulak arkası cihazlarda kullanılır.",
+    "Genel kural basittir: pil büyüdükçe kullanım süresi uzar, ama cihaz da büyür.",
+    "Etiketi çıkardıktan sonra pili takmadan önce yaklaşık bir dakika beklemek, üreticilerin sık verdiği bir öneridir."
+   ]
+  },
+  {
+   "id": "sarj",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Pil ve şarjlı sistemler",
+   "baslik": "Pil mi, *şarjlı* mı?",
+   "sol": {
+    "ust": "Çinko-hava pil",
+    "maddeler": [
+     {
+      "metin": "Birkaç günde bir değişir",
+      "cumle": 0
+     },
+     {
+      "metin": "Yedek taşımak kolay",
+      "cumle": 1
+     },
+     {
+      "metin": "Küçük pil, ince el becerisi",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Şarjlı batarya",
+    "maddeler": [
+     {
+      "metin": "Gece şarj, gün boyu kullanım",
+      "cumle": 3
+     },
+     {
+      "metin": "Pil değiştirme yok",
+      "cumle": 4
+     },
+     {
+      "metin": "Kablosuz aktarım süreyi kısaltır",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Çinko-hava pillerin süresi boyuta ve kullanıma göre değişir; genellikle birkaç gün ile birkaç hafta arasındadır.",
+    "Avantajları, her yerde bulunabilmeleri ve yedeğinin kolayca taşınabilmesidir.",
+    "Ancak küçük pilleri değiştirmek, el becerisi ya da görmesi zayıf kişiler için zor olabilir.",
+    "Şarjlı cihazlarda genellikle lityum iyon batarya bulunur; gece şarj edilen cihaz çoğu zaman gün boyu yeterlidir.",
+    "Pil değiştirme gerekmediği için özellikle ince el becerisi azalmış kullanıcılar için kolaylık sağlar.",
+    "Her iki sistemde de kablosuz ses aktarımı enerji tüketimini artırır ve kullanım süresini kısaltır.",
+    "Şarjlı bataryalar da zamanla kapasite kaybeder; bu yüzden birkaç yıl içinde değişim gerekebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Cihazı her kontrolde dinleme stetoskobuyla dinleyin: cızırtı, kesilme ya da zayıf ses varsa önce pil, tüp, kalıp ve mikrofon girişini kontrol edin.",
+   "cumleler": [
+    "Sahadan bir ipucu: cihazı her kontrolde dinleme stetoskobuyla kendiniz dinleyin.",
+    "Cızırtı, kesilme ya da beklenenden zayıf ses, çoğu zaman basit bir sorunun işaretidir.",
+    "Önce pili, sonra tüpte nem ya da kıvrılmayı, kalıpta ya da alıcı ucunda kulak kirini kontrol edin.",
+    "Mikrofon girişinin kir ya da toz ile tıkanması da sesi belirgin biçimde azaltabilir.",
+    "Çocuk kullanıcılarda bu dinleme kontrolünü ailenin her gün yapmasını öğretmek çok yararlıdır.",
+    "Pilleri ve küçük parçaları çocukların ve evcil hayvanların ulaşamayacağı yerde saklamayı da mutlaka hatırlatın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Mikrofon sesi elektrik sinyaline çevirir",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "DSP kanallara ayırır, kazanç uygular",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Alıcı sinyali yeniden sese çevirir",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Pil ya da şarjlı batarya enerji verir",
+     "cumle": 3,
+     "ikon": "ampul"
+    }
+   ],
+   "cumleler": [
+    "Bu derste mikrofonun sesi elektrik sinyaline çevirdiğini gördük.",
+    "Dijital sinyal işlemci sinyali kanallara ayırır, kazanç ve kompresyon uygular, gürültüyü ve geri beslemeyi yönetir.",
+    "Alıcı, işlenmiş sinyali yeniden sese çevirip kulak yoluna verir.",
+    "Bütün sisteme enerjiyi ise çinko-hava pil ya da şarjlı batarya sağlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Ses yolunda DSP'den hemen önce hangi adım vardır?",
+   "secenekler": [
+    "Alıcı",
+    "Analog-dijital dönüştürücü",
+    "Kulak kalıbı",
+    "Dijital-analog dönüştürücü"
+   ],
+   "dogru": 1,
+   "aciklama": "Mikrofon sinyali önce _analog-dijital dönüştürücüde_ sayılara çevrilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: işitme cihazında ses, DSP'ye ulaşmadan hemen önce hangi aşamadan geçer?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: analog-dijital dönüştürücü.",
+    "Mikrofondan gelen sinyal önce sayılara çevrilir; DSP ancak bu sayılar üzerinde çalışabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitme cihazı tipleri: *BTE, RIC, ITE, ITC, CIC*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kulak arkası, kanal içi alıcılı ve kulak içi cihaz tiplerini ve tip seçimini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,767 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D068_Timpanik_Membran_Perforasyonu_TR",
+ "kapak": {
+  "ust": "DERS 68",
+  "baslik": "Kulak zarı<br>*perforasyonu*",
+  "alt": "İşitmeye etkisi ve onarımı",
+  "cizim": "kulak_zari_otoskopik",
+  "ayar": {
+   "kulak": "sag"
+  }
+ },
+ "youtube": {
+  "baslik": "Timpanik Membran Perforasyonu ve İşitmeye Etkisi | Ders 68 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bu derste timpanik membran perforasyonunu inceliyoruz: nedenleri, kaybın büyüklüğünü belirleyen etkenler, odyogram ve timpanometri bulguları. Travmatik deliklerin iyileşmesini, miringoplasti ve timpanoplasti kavramlarını ve odyoloğun ameliyat öncesi ve sonrası rolünü konuşuyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Mehta ve ark. (2006), Determinants of hearing loss in perforations of the tympanic membrane, Otology and Neurotology; Committee on Hearing and Equilibrium (1995), Guidelines for the evaluation of results of treatment of conductive hearing loss; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kulakzarı",
+   "perforasyon"
+  ],
+  "etiketler": [
+   "timpanik membran perforasyonu",
+   "tympanic membrane perforation",
+   "kulak zarı delinmesi",
+   "miringoplasti",
+   "myringoplasty",
+   "timpanoplasti",
+   "tympanoplasty",
+   "iletim tipi işitme kaybı",
+   "B tipi timpanogram",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 68",
+   "baslik": "Timpanik membran *perforasyonu*",
+   "alt": "Nedenleri, işitmeye etkisi ve onarımı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste timpanik membran perforasyonunu, yani kulak zarındaki deliği ve işitmeye etkisini öğreneceğiz.",
+    "Kaybın büyüklüğünü neyin belirlediğini, timpanometri bulgularını, miringoplasti ve timpanoplasti kavramlarını göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Perforasyon",
+   "baslik": "Zarda *delik*",
+   "cizim": "kulak_zari_otoskopik",
+   "ayar": {
+    "kulak": "sag",
+    "kadranlar": true,
+    "kadran_cumle": 1,
+    "patoloji": [
+     {
+      "tur": "perforasyon_santral",
+      "cumle": 2,
+      "bitis": 5
+     },
+     {
+      "tur": "perforasyon_marjinal",
+      "cumle": 3,
+      "bitis": 5
+     },
+     {
+      "tur": "perforasyon_atik",
+      "cumle": 4,
+      "bitis": 5
+     },
+     {
+      "tur": "perforasyon_total",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "pars_tensa",
+     "cumle": 0
+    },
+    {
+     "parca": "arka_ust_kadran",
+     "cumle": 1
+    },
+    {
+     "parca": "anulus",
+     "cumle": 3
+    },
+    {
+     "parca": "pars_flaccida",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "anulus",
+     "metin": "anulus (zar halkası)",
+     "cumle": 3
+    },
+    {
+     "parca": "pars_flaccida",
+     "metin": "pars flaccida",
+     "cumle": 4
+    },
+    {
+     "parca": "umbo",
+     "metin": "umbo",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Timpanik membran perforasyonu (tympanic membrane perforation), kulak zarının bütünlüğünün bozulması, yani zarda bir delik oluşmasıdır.",
+    "Perforasyonun yeri, malleus sapı ve ona dik bir çizgiyle ayrılan dört kadrana göre tarif edilir: ön üst, ön alt, arka üst, arka alt.",
+    "Çevresinde sağlam zar dokusu kalan deliğe santral perforasyon denir.",
+    "Deliğin zar halkasına, yani anulusa kadar uzandığı duruma ise marjinal perforasyon denir.",
+    "Pars flaccida bölgesindeki, yani atikteki delikler ve marjinal delikler kolesteatom açısından daha dikkatle izlenir.",
+    "Delik küçük bir nokta kadar olabileceği gibi zarın neredeyse tamamını da kaplayabilir; buna total perforasyon denir."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Perforasyon",
+   "baslik": "Perforasyonun *nedenleri*",
+   "ogeler": [
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Akut otitis media",
+     "cumle": 1,
+     "metin": "Basınçla kendiliğinden delinme"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Kronik otitis media",
+     "cumle": 2,
+     "metin": "Kalıcı delik ve akıntı"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Basınç travması",
+     "cumle": 3,
+     "metin": "Tokat, patlama, dalış"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Delici travma",
+     "cumle": 4,
+     "metin": "Kulak çubuğu, yabancı cisim"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tüp sonrası",
+     "cumle": 5,
+     "metin": "Kapanmayan tüp deliği"
+    }
+   ],
+   "cumleler": [
+    "Perforasyonun nedenlerini enfeksiyon ve travma olarak iki ana grupta toplayabiliriz.",
+    "Akut otitis mediada orta kulaktaki iltihaplı sıvının basıncı zarı kendiliğinden delebilir.",
+    "Kronik süpüratif otitis mediada ise kalıcı bir delik ve tekrarlayan akıntı vardır.",
+    "Kulağa tokat, yakın patlama ya da dalış ve uçuştaki ani basınç değişiklikleri zarı yırtabilir.",
+    "Kulak çubuğu, firkete ya da kaynak kıvılcımı gibi kanala giren cisimler zarı doğrudan delebilir.",
+    "Ventilasyon tüpü düştükten sonra deliğin kapanmaması da bir perforasyon nedenidir."
+   ]
+  },
+  {
+   "id": "belirti",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Perforasyon",
+   "baslik": "Hangi *belirtiler*?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "İşitme azlığı",
+     "cumle": 1,
+     "metin": "Çoğu zaman hafif"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Akıntı",
+     "cumle": 2,
+     "metin": "Enfeksiyonda ya da su kaçınca"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Ani ağrı",
+     "cumle": 3,
+     "metin": "Travma anında"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Çınlama",
+     "cumle": 4,
+     "metin": "Bazen eşlik eder"
+    }
+   ],
+   "cumleler": [
+    "Perforasyonun belirtileri nedene ve deliğin büyüklüğüne göre değişir.",
+    "En sık yakınma işitme azlığıdır; küçük deliklerde kişi kaybı hiç fark etmeyebilir.",
+    "Enfeksiyonla oluşan deliklerde ya da kulağa su kaçtığında akıntı görülür.",
+    "Travmatik deliklerde travma anında ani bir ağrı ve bazen az miktarda kanama olur.",
+    "Kulak çınlaması da eşlik edebilir; bazı kişilerde ise delik yalnız rutin otoskopide fark edilir."
+   ]
+  },
+  {
+   "id": "etki",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İşitmeye etkisi",
+   "baslik": "Kaybı ne *belirler*?",
+   "maddeler": [
+    {
+     "metin": "Kayıp _pes frekanslarda_ daha büyük",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Delik büyüdükçe _kayıp artar_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Küçük orta kulak hacmi: _daha fazla_ kayıp",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Deliğin yeri: _belirleyici değil_",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "yuvarlak_pencere",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "timpanik membran",
+      "cumle": 0
+     },
+     {
+      "parca": "yuvarlak_pencere",
+      "metin": "yuvarlak pencere",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Delik, zarın iki yüzü arasındaki ses basıncı farkını azaltır; zarı titreştiren asıl etken bu farktır.",
+    "Delikten geçen ses yuvarlak pencereye de ulaşır; ancak çalışmalar bunun kayıpta daha küçük bir rol oynadığını gösterir.",
+    "Mehta ve arkadaşlarının iki bin altı yılındaki çalışmasına göre kayıp en çok pes frekanslardadır ve tize doğru azalır.",
+    "Kayıp, perforasyonun büyüklüğü arttıkça artar.",
+    "Orta kulak ve mastoid hava hacmi küçükse aynı delik daha büyük bir kayba yol açar.",
+    "Yaygın inancın aksine, aynı çalışmada deliğin zar üzerindeki yeri kaybın büyüklüğünü belirgin biçimde etkilememiştir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İşitmeye etkisi",
+   "baslik": "Örnek: *küçük* ve büyük delik",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: küçük santral delik",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: büyük delik",
+     "cumle": 2
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli kemik yolu",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       25,
+       20,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       45,
+       40,
+       35,
+       30,
+       30,
+       35
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 2,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    },
+    "aralik": {
+     "konum": [
+      0,
+      10,
+      45
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta küçük bir santral perforasyon var; eşikler yalnız pes frekanslarda hafifçe düşük.",
+    "Kemik yolu iki kulakta da normal, yani kayıp iletim tipidir.",
+    "Sol kulakta ise büyük bir perforasyon var ve hava yolu eşikleri belirgin biçimde daha kötü.",
+    "Hava-kemik aralığı iki yüz elli hertzde en büyük, tize doğru giderek küçülüyor.",
+    "Zar deliğine bağlı aralık genellikle hafif ile orta derece arasındadır.",
+    "Deliğin büyüklüğüyle açıklanamayacak kadar büyük bir aralık, kemikçik zincirinde de bir sorun olabileceğini düşündürür."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İşitmeye etkisi",
+   "baslik": "Timpanometride *perforasyon*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     },
+     {
+      "tip": "B",
+      "cumle": 0
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "B tipi + _büyük_ hacim",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Tıkalı küçük delik: hacim _normal_ olabilir",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Akustik refleks _ölçülemez_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Açık bir perforasyonda timpanogram düzdür, yani B tipidir.",
+    "Ölçülen eşdeğer hacim ise yaşa göre normalin belirgin üzerindedir; çünkü prob tonu delikten geçip orta kulak ve mastoidi de ölçer.",
+    "Bu durumda ölçülen hacim, kabaca orta kulak ve mastoid hava boşluğunun büyüklüğü hakkında da fikir verir.",
+    "Çok küçük bir delik akıntıyla tıkanmışsa hacim normal görünebilir; bu yüzden sonuç her zaman otoskopiyle birlikte yorumlanır.",
+    "Perforasyonlu kulakta akustik refleks probla ölçülemez; çünkü basınç değişikliği oluşturacak kapalı bir boşluk yoktur.",
+    "Taze travmatik bir perforasyonda kulağa prob yerleştirme ve basınç uygulama kararı hekimle birlikte verilir."
+   ]
+  },
+  {
+   "id": "iyilesme",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Travmatik delik",
+   "baslik": "Travmatik delik *iyileşir mi?*",
+   "maddeler": [
+    {
+     "metin": "Çoğu _kendiliğinden_ kapanır",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kulak _kuru_ tutulur",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "İyileşme sonrası _yeniden_ odyogram",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Baş dönmesi, ani kayıp: _acil_",
+     "cumle": 5,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_zari_otoskopik",
+    "cumle": 0,
+    "ayar": {
+     "kulak": "sag"
+    },
+    "vurgula": [
+     {
+      "parca": "pars_tensa",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "pars_tensa",
+      "metin": "kapanan zar",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Travmatik perforasyonların büyük çoğunluğu, çalışmalara göre yaklaşık yüzde seksen ile doksanı, kendiliğinden kapanır.",
+    "Kapanma çoğu zaman birkaç hafta ile üç ay arasında gerçekleşir ve büyük deliklerde daha uzun sürer.",
+    "İyileşme sürecinde kulağa su kaçmaması önemlidir; enfeksiyon ve akıntı kapanmayı belirgin biçimde geciktirir.",
+    "Zar kapandıktan sonra işitme yeniden ölçülür ve ilk odyogramla karşılaştırılır.",
+    "Zar kapandığı halde iletim tipi kayıp sürüyorsa, kemikçik zincirinde bir hasar düşünülür.",
+    "Travmadan sonra baş dönmesi, ani sensörinöral kayıp ya da yüz felci varsa kişi vakit kaybetmeden hekime yönlendirilir."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Travmatik delik",
+   "baslik": "Travmatik delikte *izlem*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "cumle": 0,
+     "metin": "Deliğin yeri ve boyutu"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "İlk odyogram",
+     "cumle": 1,
+     "metin": "Hava ve kemik yolu"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Kuru kulak",
+     "cumle": 2,
+     "metin": "Su koruması"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Kontrol",
+     "cumle": 3,
+     "metin": "Kapanma izlenir"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Yeni odyogram",
+     "cumle": 4,
+     "metin": "İlk ölçümle karşılaştırma"
+    }
+   ],
+   "cumleler": [
+    "Travmatik bir delikte izlem, hekimin muayenesinden sonra basit bir akışla ilerler.",
+    "İlk odyogramda hava ve kemik yolu birlikte ölçülür; kemik yolu iç kulağın etkilenip etkilenmediğini gösterir.",
+    "İyileşme süresince kulak kuru tutulur ve kulağa bir şey sokulmaz.",
+    "Kontrollerde zarın kapanması otoskopiyle izlenir.",
+    "Kapanmadan sonra yapılan odyogram ilk ölçümle karşılaştırılır; kalan bir aralık ileri değerlendirme gerektirir."
+   ]
+  },
+  {
+   "id": "onarim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Onarım",
+   "baslik": "Onarımda *temel kavramlar*",
+   "ogeler": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Kağıt yama",
+     "cumle": 1,
+     "metin": "Küçük travmatik delikte"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Miringoplasti",
+     "cumle": 2,
+     "metin": "Yalnız zar onarılır"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Timpanoplasti",
+     "cumle": 3,
+     "metin": "Zar ve orta kulak"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Greft",
+     "cumle": 5,
+     "metin": "Fasya, kıkırdak, perikondriyum"
+    }
+   ],
+   "cumleler": [
+    "Kapanmayan perforasyonlarda onarım kararı ve yöntemi KBB hekimine aittir; biz yalnız temel kavramları tanıyacağız.",
+    "Küçük travmatik deliklerde, deliğin üzerine ince bir yama yerleştirilerek kapanma desteklenebilir.",
+    "Miringoplasti (myringoplasty), yalnız timpanik membranın onarıldığı, orta kulağa müdahale edilmeyen ameliyattır.",
+    "Timpanoplasti (tympanoplasty) ise zarın onarımına ek olarak orta kulağın ve gerekirse kemikçik zincirinin onarımını içerir.",
+    {
+     "yazi": "Wullstein sınıflamasındaki tip bir timpanoplasti, zincir sağlamken yalnız zarın onarılmasıdır ve miringoplastiyle eş anlamlıdır.",
+     "ses": "Vulştayn sınıflamasındaki tip bir timpanoplasti, zincir sağlamken yalnız zarın onarılmasıdır ve miringoplastiyle eş anlamlıdır."
+    },
+    "Greft olarak genellikle temporal kas fasyası, kulak kıkırdağı ya da kıkırdak zarı, yani perikondriyum kullanılır."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Onarım",
+   "baslik": "Odyoloğun *rolü*",
+   "maddeler": [
+    {
+     "metin": "Ameliyat öncesi _maskeli_ kemik yolu",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Aralık: _500, 1000, 2000, 3000 Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sonrası: aralık kapanıyor mu?",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kemik yolu _korunuyor_ mu?",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        40,
+        35,
+        30,
+        30,
+        35
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        10
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava_maskeli",
+       "degerler": [
+        20,
+        20,
+        15,
+        15,
+        20,
+        25
+       ],
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Ameliyat öncesi odyogramda maskeli kemik yolu, kokleanın durumunu ve ameliyattan beklenebilecek kazancı gösterir.",
+    "Hava-kemik aralığının büyüklüğü, onarımla kazanılabilecek işitmenin üst sınırına yaklaşık bir fikir verir.",
+    "Amerikan KBB Akademisinin bin dokuz yüz doksan beş önerisinde aralık, beş yüz, bin, iki bin ve üç bin hertz ortalamasıyla raporlanır.",
+    "Ameliyat sonrası kontrollerde zarın kapanması kadar hava-kemik aralığının küçülmesi de değerlendirilir.",
+    "Kemik yolu eşiklerinin korunup korunmadığı da her kontrolde karşılaştırılır."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Onarım",
+   "baslik": "Delikli kulakta *günlük yaşam*",
+   "ogeler": [
+    {
+     "ikon": "akinti",
+     "baslik": "Su koruması",
+     "cumle": 0,
+     "metin": "Duş ve yüzmede dikkat"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İşitme cihazı",
+     "cumle": 1,
+     "metin": "Akıntı izlenir, kalıp havalandırılır"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Kalorik test",
+     "cumle": 2,
+     "metin": "Su yerine hava"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Kalıp ölçüsü",
+     "cumle": 3,
+     "metin": "Delik kapatılarak, dikkatle"
+    }
+   ],
+   "cumleler": [
+    "Delikli kulağa su kaçması orta kulakta enfeksiyona ve akıntıya yol açabilir; hekim önerisine göre kulak korunur.",
+    "İşitme cihazı kullanılabilir; ancak kalıp kulağı kapattığında akıntı artabilir, bu yüzden havalandırma ve kontrol önemlidir.",
+    "Perforasyonlu kulakta su ile kalorik test yapılmaz; gerekiyorsa hava kalorik kullanılır ve sonuç dikkatle yorumlanır.",
+    "Kalıp ölçüsünden önce ölçü malzemesinin orta kulağa geçmemesi için kanala uygun bir tampon dikkatle yerleştirilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Perforasyonda timpanogram düz, hacim büyük çıkar. Hacim normal görünse bile otoskopide delik varsa delik kabul edin; küçük delik akıntıyla tıkanmış olabilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: timpanogram ile otoskopi çeliştiğinde ikisini birlikte değerlendirin.",
+    "Otoskopide delik gördüğünüz halde hacim normalse, küçük deliğin akıntı ya da kabukla tıkanmış olabileceğini düşünün.",
+    "Hacim büyük çıktığı halde delik göremiyorsanız, küçük bir deliği ya da açık bir tüpü yeniden ve dikkatle arayın.",
+    "Bu uyumsuzluğu rapora not etmek, hekimin değerlendirmesine yardımcı olur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Perforasyon: zarda _delik_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kayıp _pes_ frekansta ve büyük delikte fazla",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "B tipi ve _büyük_ eşdeğer hacim",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Miringoplasti zar, timpanoplasti _orta kulak_",
+     "cumle": 3,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "Perforasyon, enfeksiyon ya da travma sonucu timpanik membranda oluşan deliktir.",
+    "Kayıp iletim tipidir; en çok pes frekansları etkiler, delik büyüdükçe ve orta kulak hacmi küçüldükçe artar.",
+    "Açık perforasyonda timpanogram B tipidir ve eşdeğer hacim büyüktür.",
+    "Miringoplasti yalnız zarı, timpanoplasti ise zarla birlikte orta kulağı da onarır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Perforasyona bağlı iletim kaybı en çok hangi frekanslarda olur?",
+   "secenekler": [
+    "Pes frekanslarda",
+    "Tiz frekanslarda",
+    "Yalnız 4000 Hz'de",
+    "Tüm frekanslarda eşit"
+   ],
+   "dogru": 0,
+   "aciklama": "Perforasyonda kayıp en çok _pes_ frekanslardadır ve tize doğru azalır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Timpanik membran perforasyonuna bağlı iletim tipi kayıp en çok hangi frekanslarda görülür?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap A: pes frekanslarda.",
+     "ses": "Doğru cevap a: pes frekanslarda."
+    },
+    "Kayıp pes frekanslarda en büyüktür ve tize doğru azalır; deliğin büyüklüğü arttıkça kayıp da artar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Kolesteatom* nedir?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste marjinal ve atik perforasyonlarla ilişkili olabilen bir hastalığı, kolesteatomu inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,742 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D212_Yaslilarda_Denge_Dusme_TR",
+ "kapak": {
+  "ust": "DERS 212",
+  "baslik": "Yaşlılarda<br>*düşme* riski",
+  "alt": "TUG ve dinamik yürüme indeksi",
+  "cizim": "denge_durus"
+ },
+ "youtube": {
+  "baslik": "Yaşlılarda Denge ve Düşme Riski: TUG ve DGI | Ders 212 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Yaşlılarda düşmeler neden bu kadar önemli, denge yaşla neden zorlaşır ve kulağın bu tablodaki payı nedir? Bu derste düşme risk etkenlerini, üç soruluk taramayı, zamanlı kalk ve yürü testini (TUG) ve dinamik yürüme indeksini (DGI) öğreniyor, odyoloğun düşme riskindeki rolünü ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; CDC, STEADI: Stopping Elderly Accidents, Deaths and Injuries (TUG değerlendirme formu); WHO, Falls fact sheet (2021); Podsiadlo ve Richardson, The Timed Up and Go, J Am Geriatr Soc (1991); Shumway-Cook ve ark., Predicting the probability for falls in community-dwelling older adults using the Timed Up and Go Test, Physical Therapy (2000); Agrawal ve ark., Disorders of balance and vestibular function in US adults, Arch Intern Med (2009); Lin ve Ferrucci, Hearing loss and falls among older adults in the United States, Arch Intern Med (2012); Oghalai ve ark., Unrecognized benign paroxysmal positional vertigo in elderly patients, Otolaryngol Head Neck Surg (2000).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "denge",
+   "düşmeriski"
+  ],
+  "etiketler": [
+   "düşme riski",
+   "fall risk",
+   "yaşlılarda denge",
+   "zamanlı kalk ve yürü testi",
+   "Timed Up and Go",
+   "dinamik yürüme indeksi",
+   "Dynamic Gait Index",
+   "STEADI",
+   "vestibüler bozukluk",
+   "BPPV",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 212",
+   "baslik": "Yaşlılarda denge ve *düşme* riski",
+   "alt": "Risk etkenleri, TUG ve dinamik yürüme indeksi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste yaşlılarda düşmelerin neden önemli olduğunu ve dengenin yaşla neden zorlaştığını öğreneceğiz.",
+    "Düşme riskini taramak için kullanılan üç soruyu, zamanlı kalk ve yürü testini ve dinamik yürüme indeksini de ele alacağız."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Düşme ve denge",
+   "baslik": "Düşme: *sık* ve ciddi",
+   "ogeler": [
+    {
+     "ikon": "yasli",
+     "baslik": "Sık",
+     "metin": "Her yıl dörtte birden fazlası",
+     "cumle": 1
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Yaralanma",
+     "metin": "Kalça kırığı, kafa travması",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ölüm nedeni",
+     "metin": "Kaza ölümlerinde ikinci sırada",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Düşme korkusu",
+     "metin": "Hareketi kısıtlar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Düşme, kişinin istemeden yere ya da daha alçak bir yüzeye inmesidir; yaşlılarda en sık yaralanma nedenlerinden biridir.",
+    "ABD'nin hastalık kontrol merkezine göre 65 yaş üstündeki her dört kişiden birinden fazlası her yıl düşer.",
+    "Düşmelerin bir kısmı kalça kırığı ve kafa travması gibi ciddi yaralanmalarla sonuçlanır.",
+    "Dünya Sağlık Örgütüne göre düşmeler, istem dışı yaralanmaya bağlı ölümlerde trafik kazalarından sonra ikinci sıradadır.",
+    "Dünyada her yıl yaklaşık 684 bin kişi düşmeye bağlı nedenlerle hayatını kaybeder ve risk yaşla birlikte artar.",
+    "Yaralanma olmasa bile düşme korkusu kişinin hareketini kısıtlar; az hareket de kas gücünü ve dengeyi azaltır.",
+    "Böylece düşme, korku ve hareketsizlik birbirini besleyen bir döngüye dönüşebilir."
+   ]
+  },
+  {
+   "id": "yaslanma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Düşme ve denge",
+   "baslik": "Denge yaşla neden *zorlaşır?*",
+   "cizim": "denge_durus",
+   "etiketler": [
+    {
+     "parca": "salinim",
+     "metin": "Artan salınım",
+     "cumle": 5
+    },
+    {
+     "parca": "agirlik_merkezi",
+     "metin": "Ağırlık merkezi",
+     "cumle": 5
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "metin": "Destek yüzeyi",
+     "cumle": 6
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kisi",
+     "cumle": 1
+    },
+    {
+     "parca": "salinim",
+     "cumle": 5
+    },
+    {
+     "parca": "destek_yuzeyi",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vestibüler tüy hücreleri azalır",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Görme ve ayak duyusu zayıflar",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Kas gücü ve tepki süresi düşer",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Dengeyi görme, vestibüler sistem ve vücut duyusu birlikte sağlar; bunu denge sistemleri dersinde görmüştük.",
+    "Yaşla birlikte bu üç sistemin her birinde yavaş bir gerileme olur.",
+    "Vestibüler organlarda tüy hücrelerinin ve vestibüler sinir liflerinin sayısı yaşla azalır.",
+    "Görme keskinliği ve derinlik algısı azalır; ayak tabanı duyusu ve propriosepsiyon zayıflar.",
+    "Kas gücü, tepki süresi ve beynin duyusal bilgileri birleştirme hızı da düşer.",
+    "Sonuçta ayakta dururken salınım artar ve ağırlık merkezini destek yüzeyinin içinde tutmak zorlaşır.",
+    "Ani bir itme ya da takılmada adım atarak toparlanmak yavaşlar; bu da düşme riskini artırır."
+   ]
+  },
+  {
+   "id": "riskler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Risk etkenleri",
+   "baslik": "Başlıca *risk etkenleri*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Önceki düşme",
+     "metin": "En güçlü işaret",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Kas ve yürüyüş",
+     "metin": "Güçsüzlük, yavaş yürüme",
+     "cumle": 2
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "İlaçlar",
+     "metin": "Çok sayıda ilaç",
+     "cumle": 3
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Görme",
+     "metin": "Katarakt, uygun olmayan gözlük",
+     "cumle": 4
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Ortostatik hipotansiyon",
+     "metin": "Ayağa kalkınca tansiyon düşmesi",
+     "cumle": 4
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Ev ortamı",
+     "metin": "Halı, ışık, merdiven",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Düşme riski tek bir nedene bağlı değildir; çoğu zaman birden çok etken bir araya gelir.",
+    "En güçlü göstergelerden biri, son bir yıl içinde daha önce düşmüş olmaktır.",
+    "Bacak kaslarında güçsüzlük, yavaş yürüme ve denge bozukluğu da önemli risk etkenleridir.",
+    "Çok sayıda ilaç kullanımı ve uyku verici ya da sakinleştirici etkili bazı ilaçlar riski artırabilir; ilaç değerlendirmesi hekime aittir.",
+    "Görme sorunları ve ayağa kalkınca tansiyonun düşmesi, yani ortostatik hipotansiyon da sorgulanır.",
+    "Kaygan zemin, yetersiz ışık ve merdivenler gibi ev ortamındaki etkenler de düşmelere katkıda bulunur.",
+    "Bu nedenle düşme riski değerlendirmesi, hekim, fizyoterapist ve odyoloğun birlikte çalıştığı bir ekip işidir."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Risk etkenleri",
+   "baslik": "Kulağın *payı*: vestibüler sistem",
+   "maddeler": [
+    {
+     "metin": "Vestibüler bozukluk riski _artırır_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "40 yaş üstünde yaklaşık yüzde 35 bulgu",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "BPPV sık, çoğu zaman _atlanır_",
+     "cumle": 3,
+     "ikon": "vertigo"
+    },
+    {
+     "metin": "Yakınma belirsiz: dengesizlik, sersemlik",
+     "cumle": 5,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Karanlıkta artan dengesizlik",
+     "cumle": 6,
+     "ikon": "goz"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 3,
+    "etiketler": [
+     {
+      "parca": "posterior_kanal",
+      "metin": "posterior kanal",
+      "cumle": 3
+     },
+     {
+      "parca": "utrikul",
+      "metin": "utrikül",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "posterior_kanal",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Vestibüler bozukluklar, yaşlılarda düşme riskine önemli katkıda bulunur.",
+    "ABD'de yapılan geniş bir ulusal araştırmada, 40 yaş üstü yetişkinlerin yaklaşık yüzde 35'inde vestibüler işlev bozukluğu bulgusu saptandı.",
+    "Aynı çalışmada baş dönmesi yakınması olanlarda düşme öyküsü belirgin biçimde daha sık bulundu.",
+    "Yaşlılarda en sık görülen periferik vestibüler bozukluk benign paroksismal pozisyonel vertigo, kısaca BPPV'dir.",
+    "Bir geriatri polikliniğinde hastaların yaklaşık yüzde 9'unda tanı almamış BPPV bulundu; bu kişilerde yakın zamanda düşme daha sıktı.",
+    "Yaşlılar dönme hissini her zaman tarif etmez; yalnız dengesizlik ya da ayağa kalkınca sersemlik anlatabilir.",
+    "İki taraflı vestibüler kayıpta ise dengesizlik özellikle karanlıkta ve engebeli zeminde belirginleşir."
+   ]
+  },
+  {
+   "id": "isitme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Risk etkenleri",
+   "baslik": "İşitme kaybı ve *düşme*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Her 10 dB",
+     "metin": "Düşme olasılığı yaklaşık 1,4 kat",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Çevre farkındalığı",
+     "metin": "Uyarı sesleri kaçırılır",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Bilişsel yük",
+     "metin": "Dikkat duymaya harcanır",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Ortak yaşlanma",
+     "metin": "İşitme ve denge birlikte",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İşitme kaybı da düşme riskiyle ilişkilidir.",
+    {
+     "yazi": "ABD verileriyle yapılan bir analizde, işitme kaybındaki her 10 desibellik artış, düşme olasılığında yaklaşık 1,4 kat artışla ilişkiliydi.",
+     "ses": "ABD verileriyle yapılan bir analizde, işitme kaybındaki her on desibellik artış, düşme olasılığında yaklaşık bir virgül dört kat artışla ilişkiliydi."
+    },
+    "Bu ilişkinin bir açıklaması, çevredeki seslerle yön bulmanın ve uyarı seslerini fark etmenin zorlaşmasıdır.",
+    "Bir diğer açıklama bilişsel yüktür: duymak için harcanan çaba, dengeye ayrılan dikkati azaltabilir.",
+    "İç kulakta işitme ve denge organlarının birlikte yaşlanması da ortak bir etken olabilir.",
+    "Bu çalışmalar kesitseldir; işitme cihazı kullanımının düşmeleri azaltıp azaltmadığı henüz kesin olarak bilinmemektedir."
+   ]
+  },
+  {
+   "id": "uc_soru",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tarama ve testler",
+   "baslik": "Taramada *üç soru*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Düştünüz mü?",
+     "metin": "Son bir yıl içinde",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Dengesiz misiniz?",
+     "metin": "Ayakta ya da yürürken",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Korkuyor musunuz?",
+     "metin": "Düşmekten endişe",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Düşme riskini taramak için ABD'de geliştirilen STEADI programı üç basit soru önerir.",
+    "Birinci soru: son bir yıl içinde düştünüz mü?",
+    "İkinci soru: ayakta dururken ya da yürürken kendinizi dengesiz hissediyor musunuz?",
+    "Üçüncü soru: düşmekten endişe ediyor musunuz?",
+    "Sorulardan birine evet yanıtı, daha ayrıntılı bir yürüme, güç ve denge değerlendirmesi gerektiğini gösterir.",
+    "Odyoloji kliniğinde bu üç soru, baş dönmesi öyküsünün sonuna kolayca eklenebilir."
+   ]
+  },
+  {
+   "id": "tug",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tarama ve testler",
+   "baslik": "Zamanlı kalk ve yürü: *TUG*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Otur",
+     "metin": "Kollu sandalye, sırt dayalı",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Kalk",
+     "metin": "Başla komutuyla süre başlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "3 metre yürü",
+     "metin": "Normal hızında",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Dön ve otur",
+     "metin": "Oturunca süre durur",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Zamanlı kalk ve yürü testi (Timed Up and Go), kısaca TUG, yaygın kullanılan hızlı bir hareketlilik testidir.",
+    "Kişi kollu bir sandalyede sırtı dayalı oturur; her zamanki ayakkabısını ve gerekiyorsa bastonunu kullanır.",
+    "Başla komutuyla kalkar ve yerdeki 3 metrelik işarete kadar normal hızında yürür.",
+    "İşaretin üzerinde döner, sandalyeye geri yürür ve yeniden oturur.",
+    "Kronometre başla komutuyla çalıştırılır ve kişi tamamen oturduğunda durdurulur.",
+    "Sürenin yanında yürüme biçimi de gözlenir: kısa adımlar, ayak sürüme, duvara tutunma ve dönüşte duraksama not edilir.",
+    "Testten önce bir deneme yaptırılabilir; güvenlik için değerlendiren kişi hastanın yanında yürür."
+   ]
+  },
+  {
+   "id": "tug_yorum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tarama ve testler",
+   "baslik": "TUG süresini *yorumlamak*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 24,
+     "adim": 4,
+     "ad": "Süre (saniye)"
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "yazilar": {
+      "1": "Örnek A",
+      "2": "Örnek B"
+     },
+     "isaretler": [
+      1,
+      2
+     ],
+     "ad": "Örnek kişi"
+    },
+    "seriler": [
+     {
+      "ad": "ornek_a",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        9,
+        1
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "9 sn",
+      "cumle": 0
+     },
+     {
+      "ad": "ornek_b",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        16,
+        2
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "16 sn",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "risk",
+      "x": [
+       12,
+       24
+      ],
+      "renk": "sari",
+      "etiket": "12 sn ve üzeri",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir_135",
+      "x": 13.5,
+      "y": 2.7,
+      "cizgi": "dikey",
+      "etiket": "13,5 sn",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "STEADI: 12 saniye ve üzeri riskli",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sınırlar çalışmalara göre değişir",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Uzun süre tanı değil, işarettir",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "STEADI programı, testi 12 saniye ya da daha uzun sürede tamamlayan yaşlı bireyi düşme açısından riskli kabul eder.",
+     "ses": "Stedi programı, testi on iki saniye ya da daha uzun sürede tamamlayan yaşlı bireyi düşme açısından riskli kabul eder."
+    },
+    {
+     "yazi": "Toplumda yaşayan yaşlılarla yapılan bir çalışmada ise 13,5 saniye ve üzeri, düşme riskini ayırt etmek için kullanılmıştır.",
+     "ses": "Toplumda yaşayan yaşlılarla yapılan bir çalışmada ise on üç buçuk saniye ve üzeri, düşme riskini ayırt etmek için kullanılmıştır."
+    },
+    "Farklı çalışmalarda farklı sınırlar bildirildiği için tek bir sayıya kesin bir sınır gibi bakmamak gerekir.",
+    "TUG süresi yaşa, sandalye yüksekliğine ve yardımcı araç kullanımına göre değişir.",
+    "Bu nedenle aynı kişide aynı koşullarla tekrarlanan ölçümler izlemde daha değerlidir.",
+    "Uzun süre tek başına bir tanı değildir; ayrıntılı değerlendirme gerektiğini gösteren bir işarettir."
+   ]
+  },
+  {
+   "id": "dgi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yürürken denge",
+   "baslik": "Dinamik yürüme *indeksi*",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Düz yürüme",
+     "metin": "Hız değiştirme dahil",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Baş çevirme",
+     "metin": "Yatay ve dikey",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Dönüp durma",
+     "metin": "Hızlı dönüş",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Engel",
+     "metin": "Üzerinden ve etrafından",
+     "cumle": 3
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Merdiven",
+     "metin": "Çıkma ve inme",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Puan",
+     "metin": "Toplam en fazla 24",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Dinamik yürüme indeksi (Dynamic Gait Index), kısaca DGI, yürürken dengeyi sekiz görevle değerlendirir.",
+    "Görevler arasında düz yürüme ve yürürken hızı değiştirme vardır.",
+    "Kişiden yürürken başını sağa sola ve yukarı aşağı çevirmesi istenir; bu görevler vestibüler sistemi özellikle zorlar.",
+    "Yürürken hızla dönüp durma, bir engelin üzerinden geçme ve etrafından dolanma da görevler arasındadır.",
+    "Son görev merdiven çıkıp inmektir.",
+    "Her görev 0 ile 3 arasında puanlanır; toplam puan en fazla 24'tür.",
+    "Toplam 19 ve altındaki puan, birçok çalışmada yaşlılarda düşme riskiyle ilişkili bulunmuştur."
+   ]
+  },
+  {
+   "id": "diger_testler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yürürken denge",
+   "baslik": "Diğer *denge* testleri",
+   "maddeler": [
+    {
+     "metin": "Fonksiyonel yürüme değerlendirmesi: on görev",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Tandem duruş ve tek ayak",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "30 saniyede kalk otur",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Tek test _yetmez_: birlikte yorum",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "denge_durus",
+    "cumle": 2,
+    "etiketler": [
+     {
+      "parca": "ayak_izi",
+      "metin": "ayak yerleşimi",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "ayak_izi",
+      "cumle": 2
+     },
+     {
+      "parca": "salinim",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Dinamik yürüme indeksinden uyarlanan on görevli biçime fonksiyonel yürüme değerlendirmesi (Functional Gait Assessment) denir.",
+    "Bu biçim, kolay görevlerde çoğu kişinin tam puan alması sorununu, yani tavan etkisini azaltmak için geliştirilmiştir.",
+    "Tandem duruş ve tek ayak üzerinde durma da hızlı uygulanan statik denge testleridir.",
+    "STEADI programı ayrıca 30 saniyede sandalyeden kalkıp oturma testini ve dört aşamalı denge testini önerir.",
+    "Hiçbir test tek başına düşmeyi kesin olarak öngörmez; öykü ve birkaç testin birlikte yorumu daha güvenilirdir.",
+    "Odyolog bu testleri vestibüler değerlendirmenin bir parçası olarak kullanabilir ve sonuçları ekiple paylaşır."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yürürken denge",
+   "baslik": "Odyoloğun *rolü*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Tara",
+     "metin": "Üç soru, düşme öyküsü",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Değerlendir",
+     "metin": "Vestibüler ve işlevsel testler",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Birleştir",
+     "metin": "İşitme ve denge bulguları",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Yönlendir",
+     "metin": "Hekim, fizyoterapi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Odyoloğun düşme riskindeki rolünü bir akış olarak özetleyelim.",
+    "İlk adım taramadır: üç soru ve düşme öyküsü.",
+    "İkinci adımda vestibüler testlerle birlikte TUG gibi işlevsel testler yapılır.",
+    "Üçüncü adımda işitme ve vestibüler bulgular birlikte yorumlanır; örneğin saptanan bir BPPV, ele alınabilir bir risk etkenidir.",
+    "Son adımda kişi hekime, fizyoterapiste ve gerekiyorsa vestibüler rehabilitasyon programına yönlendirilir.",
+    "Egzersiz programlarının yaşlılarda düşmeleri azalttığı güçlü kanıtlarla gösterilmiştir; rehabilitasyonu ilerideki derslerde göreceğiz."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Pozisyonel ya da kalorik testten sonra yaşlı hastayı hemen ayağa kaldırmayın. Önce oturtun, bekleyin, sonra yardımla kaldırın.",
+   "cumleler": [
+    "Bir klinik ipucu: yaşlı hastayı kalorik ya da pozisyonel testlerden sonra hemen ayağa kaldırmayın.",
+    "Önce oturtun, birkaç dakika bekleyin ve baş dönmesi geçtikten sonra yardımla kaldırın.",
+    "Yürüme testlerinde hastanın hafifçe arkasında ve yanında yürüyün; gerekiyorsa yürüme kemeri kullanın.",
+    "Düşme öyküsü olan hastanın bulgularını açık bir raporla hekime iletin; bu bilgi düşme önleme planının parçası olur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Düşme sık, ciddi ve çok nedenli",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Vestibüler bozukluk ve işitme kaybı katkıda",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Üç soru ve TUG ile tarama",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "DGI: sekiz görev, en fazla 24",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Yaşlılarda düşme sıktır, ciddi sonuçlar doğurabilir ve çoğu zaman birden çok etkene bağlıdır.",
+    "Vestibüler bozukluklar, özellikle BPPV ve işitme kaybı, düşme riskine katkıda bulunur.",
+    "Tarama üç soruyla başlar; TUG'da 12 saniye ve üzeri süre STEADI programına göre risk işaretidir.",
+    "Dinamik yürüme indeksi sekiz görevle yürürken dengeyi değerlendirir ve en fazla 24 puan alır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "STEADI'ye göre TUG'da risk işareti hangisi?",
+   "secenekler": [
+    "8 saniye ve üzeri",
+    "12 saniye ve üzeri",
+    "20 saniye ve üzeri",
+    "30 saniye ve üzeri"
+   ],
+   "dogru": 1,
+   "aciklama": "12 saniye ve üzeri süre, ayrıntılı değerlendirme gerektiğini gösterir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: STEADI programına göre zamanlı kalk ve yürü testinde hangi süre düşme riski işaretidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: 12 saniye ve üzeri.",
+    "Yine de süre tek başına tanı değildir; öykü ve diğer testlerle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Baş Dönmesi Engellilik Envanteri (*DHI*) ve öz bildirim ölçekleri",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste baş dönmesi engellilik envanterini ve diğer öz bildirim ölçeklerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

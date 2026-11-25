@@ -1,0 +1,858 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D193_Ilk_Uygulama_ve_Ince_Ayar_TR",
+ "kapak": {
+  "ust": "DERS 193",
+  "baslik": "İlk uygulama,<br>*ince ayar*",
+  "alt": "Şikayete göre çözüm",
+  "cizim": "rem_duzenegi"
+ },
+ "youtube": {
+  "baslik": "İlk uygulama ve ince ayar: şikayete göre çözüm | Ders 193 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazı takıldıktan sonra gelen boğuk, metalik, yankılı ya da kendi sesim şikayetleri nasıl çözülür? Bu derste ilk uygulama adımlarını, alışma sürecini, şikayeti frekans bölgesi ve giriş düzeyiyle ilişkilendirmeyi ve adım adım ince ayar mantığını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Mueller, Ricketts ve Bentler, Modern Hearing Aids; Jenstad, Van Tasell ve Ewert (2003), Hearing aid troubleshooting based on patients' descriptions, Journal of the American Academy of Audiology; American Academy of Audiology, Guidelines for the Audiologic Management of Adult Hearing Impairment.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "inceayar"
+  ],
+  "etiketler": [
+   "ince ayar",
+   "fine-tuning",
+   "sorun giderme",
+   "troubleshooting",
+   "kendi ses algısı",
+   "own voice",
+   "alışma",
+   "acclimatization",
+   "veri kaydı",
+   "datalogging",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 193",
+   "baslik": "İlk uygulama ve *ince ayar*",
+   "alt": "Şikayete göre çözüm",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste cihazın ilk takıldığı günü ve sonraki kontrollerde kullanıcının şikayetlerine göre ince ayar yapmayı öğreneceğiz.",
+    "Boğuk, metalik, yankılı ve kendi sesim şikayetlerini frekans bölgeleri ve kazançla ilişkilendireceğiz."
+   ]
+  },
+  {
+   "id": "ilk",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İlk uygulama",
+   "baslik": "İlk uygulama *günü*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Fiziksel uyum",
+     "cumle": 0,
+     "metin": "Rahat ve sızdırmaz"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Yazılım",
+     "cumle": 2,
+     "metin": "Eşik ve deneyim"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Geri besleme",
+     "cumle": 3,
+     "metin": "Yol ölçümü"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Doğrulama",
+     "cumle": 4,
+     "metin": "Gerçek kulak ölçümü"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Eğitim",
+     "cumle": 5,
+     "metin": "Takma, bakım, beklenti"
+    }
+   ],
+   "cumleler": [
+    "İlk uygulama, cihazın kulağa fiziksel olarak uyduğunun kontrolüyle başlar: rahat mı, yerinde duruyor mu, sızıntı var mı?",
+    "Kişi cihazı birkaç kez kendisi takıp çıkarır; bu adım atlanırsa sonraki şikayetlerin çoğu buradan çıkar.",
+    "Yazılıma odyogram, yaş ve cihaz deneyimi doğru girilir ve reçete formülü seçilir.",
+    "Cihazın geri besleme yolu yazılımla ölçülür; böylece iptal sistemi o kulağa göre ayarlanır.",
+    "Ardından gerçek kulak ölçümüyle hedefe uyum doğrulanır.",
+    "Son olarak takma, temizlik, pil ya da şarj ve ilk haftalarda neler beklenebileceği anlatılır.",
+    "İyi geçen bir ilk uygulama, sonraki kontrollerde karşılaşılacak şikayetleri belirgin biçimde azaltır."
+   ]
+  },
+  {
+   "id": "alisma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İlk uygulama",
+   "baslik": "İlk haftalar: *alışma*",
+   "maddeler": [
+    {
+     "metin": "Yeni kullanıcıda başlangıç kazancı düşük",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Kazanç haftalar içinde artırılır",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Sesler önce _yapay_ gelebilir",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Düzenli, gün boyu kullanım",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "İLK GÜNLER",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "muzik",
+      "baslik": "Hışırtı",
+      "cumle": 3,
+      "metin": "Kağıt, poşet"
+     },
+     {
+      "ikon": "ev",
+      "baslik": "Ev sesleri",
+      "cumle": 4,
+      "metin": "Su, buzdolabı"
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Kendi ses",
+      "cumle": 4,
+      "metin": "Farklı gelir"
+     }
+    ]
+   },
+   "cumleler": [
+    "Beynin yeniden duyulan seslere uyum sağlamasına alışma (acclimatization) denir.",
+    "İlk kez cihaz kullanan kişilerde, özellikle orta ve ileri kayıpta, başlangıç kazancı hedefin biraz altında tutulabilir.",
+    "Birçok yazılım kazancı haftalar içinde kendiliğinden ya da kontrollerde adım adım artırma olanağı sunar.",
+    "İlk günlerde kağıt hışırtısı, musluk suyu ve ayak sesleri olağandışı yüksek ve yapay gelebilir.",
+    "Bu seslerin bir kısmı, yıllardır duyulmayan ama aslında normal olan çevre sesleridir.",
+    "Alışmanın en etkili yolu, cihazı yalnız zor ortamlarda değil, gün boyu düzenli kullanmaktır."
+   ]
+  },
+  {
+   "id": "dil",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Şikayetin dili",
+   "baslik": "Kullanıcının *kelimeleri*",
+   "ogeler": [
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Boğuk",
+     "cumle": 1,
+     "metin": "Kapalı, pamuklu"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Metalik",
+     "cumle": 2,
+     "metin": "Teneke, robot gibi"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Yankılı",
+     "cumle": 3,
+     "metin": "Varilde, kendi sesim"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Keskin",
+     "cumle": 4,
+     "metin": "Batıyor, tiz"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültülü",
+     "cumle": 5,
+     "metin": "Her şey çok yüksek"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Zayıf",
+     "cumle": 6,
+     "metin": "Duyuyorum ama anlamıyorum"
+    }
+   ],
+   "cumleler": [
+    "Kullanıcılar sorunlarını teknik terimlerle değil, kendi kelimeleriyle anlatır; sorun giderme (troubleshooting) bu kelimelerle başlar.",
+    "Boğuk, kapalı ya da pamuklu gibi ifadeler sık duyulur.",
+    "Bazı kullanıcılar sesleri metalik, teneke gibi ya da robot sesi gibi bulur.",
+    "Kendi sesini varilin içinden konuşuyormuş gibi yankılı duyduğunu anlatanlar da çoktur.",
+    "Keskin, batan ya da tiz bir rahatsızlık ise başka bir şikayet grubudur.",
+    "Her şeyin çok gürültülü olması ya da sesin duyulup anlaşılmaması da sık karşılaşılan şikayetlerdir.",
+    "İnce ayarın (fine-tuning) ilk adımı, bu kelimelerin hangi akustik soruna karşılık geldiğini çözmektir."
+   ]
+  },
+  {
+   "id": "bolgeler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Şikayetin dili",
+   "baslik": "Şikayetin *frekans adresi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Örnek kazanç (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "kazanc",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        18
+       ],
+       [
+        2000,
+        26
+       ],
+       [
+        3000,
+        30
+       ],
+       [
+        4000,
+        30
+       ],
+       [
+        6000,
+        26
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "örnek kazanç",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "pes",
+      "x": [
+       250,
+       750
+      ],
+      "renk": "mavi",
+      "etiket": "boğuk, yankılı, kendi ses",
+      "cumle": 1
+     },
+     {
+      "ad": "orta",
+      "x": [
+       750,
+       2000
+      ],
+      "renk": "gri",
+      "etiket": "burundan, kutudan",
+      "cumle": 2
+     },
+     {
+      "ad": "tiz",
+      "x": [
+       2000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "metalik, keskin, cızırtı",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Şikayetlerin çoğu kabaca bir frekans bölgesine bağlanabilir.",
+    "Boğuk, yankılı ve kendi sesim şikayetleri çoğu zaman pes bölgeyle, yani yaklaşık 750 Hz'in altıyla ilgilidir.",
+    "Burundan konuşur gibi ya da kutudan geliyor gibi şikayetler ise sıklıkla orta frekanslarla ilişkilendirilir.",
+    "Metalik, keskin, cızırtılı ya da sibilant seslerin batması ise genellikle tiz bölgeyi, yani 2000 Hz'in üstünü gösterir.",
+    "Ancak aynı kelime farklı kişilerde farklı anlama gelebilir; boğukluk, tiz kazancın azlığından da kaynaklanabilir.",
+    "Bu yüzden harita bir başlangıç noktasıdır; karar ölçümle ve kişiyle birlikte verilir."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Şikayetten ayara",
+   "baslik": "Şikayet ve *örnek ayar*",
+   "sutunlar": [
+    "Şikayet",
+    "Olası neden",
+    "Örnek ayar"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Boğuk",
+      "Az tiz, fazla pes",
+      "Tizi artır"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Metalik, teneke",
+      "Fazla tiz",
+      "Tizi azalt"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Kendi sesim yankılı",
+      "Oklüzyon, fazla pes",
+      "Vent, pesi azalt"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Yüksek sesler rahatsız",
+      "Yüksek girişte fazla",
+      "Yüksek giriş, MPO"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Yumuşak sesler yok",
+      "Yumuşak girişte az",
+      "Yumuşak girişi artır"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Gürültüde zor",
+      "Ortam, beklenti",
+      "Program, yönlü mikrofon"
+     ],
+     "cumle": 6,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Şimdi sık şikayetleri olası nedenleri ve örnek ayarlarla bir tabloda toplayalım; bunlar kesin reçete değil, örnektir.",
+    "Boğuk şikayetinde tiz kazanç yetersiz ya da pes kazanç görece fazla olabilir; çoğu zaman tiz kazanç artırılır.",
+    "Metalik ya da teneke gibi şikayetinde tiz kazanç fazla olabilir; tiz kazanç azaltılır ya da pes biraz artırılır.",
+    "Kendi ses algısı (own voice) ile ilgili yankı şikayetinde önce oklüzyon düşünülür; vent büyütülür ya da pes kazanç azaltılır.",
+    "Yüksek seslerin rahatsız etmesi, yüksek girişlerdeki kazancın ya da en yüksek çıkış düzeyinin fazla olduğunu gösterebilir.",
+    "Yumuşak seslerin duyulmaması ise yumuşak girişlerdeki kazancın yetersizliğine işaret eder.",
+    "Gürültüde zorlanma her zaman ayar sorunu değildir; gürültü programı, yönlü mikrofon ve gerçekçi beklenti birlikte ele alınır.",
+    "Her ayardan sonra sonucun yeniden ölçülmesi, şikayeti çözerken konuşmanın duyulurluğunu kaybetmemeyi sağlar."
+   ]
+  },
+  {
+   "id": "giris",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Şikayetten ayara",
+   "baslik": "Yumuşak mı, *yüksek* mi?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 40,
+     "max": 100,
+     "ad": "Giriş (dB SPL)",
+     "isaretler": [
+      40,
+      55,
+      65,
+      80,
+      100
+     ]
+    },
+    "y": {
+     "min": 60,
+     "max": 120,
+     "adim": 10,
+     "ad": "Çıkış (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "noktalar": [
+       [
+        40,
+        75
+       ],
+       [
+        55,
+        88
+       ],
+       [
+        65,
+        95
+       ],
+       [
+        80,
+        104
+       ],
+       [
+        100,
+        110
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "önce",
+      "cumle": 1
+     },
+     {
+      "ad": "sonra",
+      "noktalar": [
+       [
+        40,
+        82
+       ],
+       [
+        55,
+        93
+       ],
+       [
+        65,
+        97
+       ],
+       [
+        80,
+        104
+       ],
+       [
+        100,
+        110
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "yumuşak giriş artırıldı",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "mpo",
+      "x": 100,
+      "y": 112,
+      "cizgi": "yatay",
+      "etiket": "en yüksek çıkış",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Kompresyonlu cihazlarda kazanç her giriş düzeyi için ayrı ayarlanabilir.",
+    "Bu grafik, giriş düzeyine göre cihazın kulak yolundaki çıkışını örnek olarak gösteriyor.",
+    "Kişi fısıltıyı ve uzaktan konuşmayı duymadığını söylüyorsa, yalnız yumuşak girişlerin kazancı artırılabilir.",
+    "Mavi eğride yumuşak girişlerin çıkışı yükselmiş, yüksek girişlerin çıkışı ise değişmemiş.",
+    "Bu ayar, yumuşak sesleri duyulur kılarken yüksek seslerin rahatsızlığını artırmaz.",
+    "Tersine, yalnız yüksek sesler rahatsız ediyorsa yüksek girişlerin kazancı azaltılır; yumuşak girişlere dokunulmaz.",
+    "En üstteki çizgi en yüksek çıkış düzeyidir (maximum power output), kısaca MPO; bu düzey kişinin rahatsızlık düzeyini aşmamalıdır."
+   ]
+  },
+  {
+   "id": "veri",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Şikayetten ayara",
+   "baslik": "Cihaz *ne diyor?*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Kullanım saati",
+     "cumle": 0,
+     "metin": "Günde kaç saat?"
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ortamlar",
+     "cumle": 1,
+     "metin": "Sessiz, gürültülü, müzik"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Ses düzeyi",
+     "cumle": 2,
+     "metin": "Kişi kısıyor mu?"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Programlar",
+     "cumle": 3,
+     "metin": "Hangisi kullanılıyor?"
+    }
+   ],
+   "cumleler": [
+    "Kontrol randevusunda cihazın veri kaydı (datalogging) şikayeti anlamaya yardımcı olur.",
+    "Veri kaydı, cihazın günde kaç saat kullanıldığını ve kişinin hangi ses ortamlarında zaman geçirdiğini gösterir.",
+    "Kişi ses düzeyini sürekli kısıyorsa, genel kazanç ya da yüksek seslerin kazancı fazla olabilir.",
+    "Hiç kullanılmayan bir program, ya gereksizdir ya da kişi ona nasıl geçeceğini bilmiyordur.",
+    "Bazı cihazlar kişinin ses düzeyi tercihlerinden öğrenerek kazancı zamanla değiştirebilir; bu değişim de kayıtta izlenir.",
+    "Kısa kullanım süresi ise rahatsızlık, beklenti ya da fiziksel bir sorunun işareti olabilir; nedeni mutlaka sorulur."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Şikayetten ayara",
+   "baslik": "Örnek: *metalik* sesler",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Sağ kulak hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Sol kulak hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Normal bölge",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       55,
+       60,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte iki kulakta da tizlere doğru eğimli, simetrik bir kayıp görülüyor; kişi ilk kez cihaz kullanıyor.",
+    "İkinci haftada, çatal bıçak seslerinin ve kendi sesinin metalik geldiğini söylüyor.",
+    "Gerçek kulak ölçümünde orta şiddetteki konuşma hedefe uygun, ama yüksek girişlerde tiz çıkış hedefin biraz üzerinde.",
+    "Bu örnekte yalnız yüksek girişlerin tiz kazancı birkaç desibel azaltılabilir; orta ve yumuşak girişlere dokunulmaz.",
+    "Kişiye, alışmanın sürdüğü ve birkaç hafta sonra tiz kazancın yeniden gözden geçirileceği anlatılır.",
+    "Böylece hem rahatlık sağlanır hem de konuşmanın tiz ünsüzleri kaybedilmez."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Adım adım ince ayar",
+   "baslik": "Adım adım *ince ayar*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Somutlaştır",
+     "cumle": 0,
+     "metin": "Ne zaman, nerede?"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Fiziksel kontrol",
+     "cumle": 1,
+     "metin": "Kir, kalıp, takma"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Tek değişiklik",
+     "cumle": 2,
+     "metin": "Küçük adım"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ölç",
+     "cumle": 4,
+     "metin": "Hedefle karşılaştır"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kaydet",
+     "cumle": 5,
+     "metin": "Neden ve sonuç"
+    }
+   ],
+   "cumleler": [
+    "İlk adım şikayeti somutlaştırmaktır: ses ne zaman, nerede, hangi seste ve kiminle konuşurken rahatsız ediyor?",
+    "İkinci adım fiziksel nedenleri dışlamaktır: kulak kiri, tıkalı filtre, yanlış takılan kalıp ya da yanlış program.",
+    "Üçüncü adımda aynı anda yalnız bir şey değiştirilir ve değişiklik küçük adımlarla, örneğin birkaç desibel yapılır.",
+    "Birden fazla parametreyi aynı anda değiştirmek, hangisinin işe yaradığını anlamayı imkansız kılar.",
+    "Dördüncü adımda sonuç gerçek kulak ölçümüyle kontrol edilir; şikayeti çözerken duyulurluğun kaybolmadığından emin olunur.",
+    "Son adımda yapılan değişiklik ve gerekçesi kayda geçirilir; bir sonraki görüşmede kişiye etkisi sorulur.",
+    "Bu döngü bazen birkaç randevu sürebilir; sabır ve düzenli takip, başarının bir parçasıdır."
+   ]
+  },
+  {
+   "id": "ayar_disi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Adım adım ince ayar",
+   "baslik": "Her şey *ayar* değildir",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kalıp ve vent",
+     "cumle": 0,
+     "metin": "Akustik çözüm"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Program ekle",
+     "cumle": 1,
+     "metin": "Müzik, gürültü, telefon"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Takma eğitimi",
+     "cumle": 2,
+     "metin": "Doğru yerleşim"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Yardımcı cihaz",
+     "cumle": 3,
+     "metin": "Uzak mikrofon"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Danışmanlık",
+     "cumle": 4,
+     "metin": "Gerçekçi beklenti"
+    }
+   ],
+   "cumleler": [
+    "Bazı şikayetlerin çözümü yazılımda değil kalıptadır; vent, kalıp boyu ya da dom türü değiştirilebilir.",
+    "Müzik, gürültü ya da telefon için ayrı programlar, tek ayarın her ortamda uymadığı kişilere yardımcı olur.",
+    "Yanlış takılan bir kalıp ya da dom, hem boğukluğa hem ıslığa yol açabilir; takma eğitimi yinelenir.",
+    "Gürültüde ve uzaktan anlamada ayar sınırına gelindiyse uzak mikrofon gibi yardımcı cihazlar önerilir.",
+    "Son olarak, cihazdan beklenenle mümkün olan arasındaki farkı konuşmak, birçok şikayeti ayar yapmadan hafifletir."
+   ]
+  },
+  {
+   "id": "denge",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Adım adım ince ayar",
+   "baslik": "Hedeften *sapma* dengesi",
+   "maddeler": [
+    {
+     "metin": "İnce ayar hedeften uzaklaştırabilir",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Duyulurluğu konuşma haritasıyla kontrol et",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sapmayı ve gerekçesini kaydet",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Alışmadan sonra yeniden değerlendir",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 2,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 2
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Şikayete göre yapılan her ayar, cihazı reçete hedefinden biraz uzaklaştırabilir.",
+    "Rahatlık için kabul edilebilir küçük sapmalar olağandır; sorun, sapmanın konuşmanın önemli bölümlerini duyulmaz hale getirmesidir.",
+    "Bu yüzden ayardan sonra konuşma haritasına bakılır ve tiz ünsüzlerin hala eşiğin üzerinde olup olmadığı kontrol edilir.",
+    "Hedeften bilinçli olarak ayrılındığında bunun nedeni dosyaya yazılır.",
+    "Böylece başka bir klinisyen de ayarın neden böyle olduğunu anlayabilir.",
+    "Kişi alıştıktan sonra, kısılan bölgelerin yeniden hedefe yaklaştırılması denenebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Şikayeti kişinin kendi cümlesiyle ve yaşadığı anla birlikte yazın. Mümkünse benzer bir sesi klinikte canlandırıp ayarı o seste deneyin, sonra ölçümle doğrulayın.",
+   "cumleler": [
+    "Sahadan bir ipucu: şikayeti kişinin kendi cümlesiyle ve yaşadığı somut anla birlikte not edin.",
+    "Mutfakta tabaklar çok batıyor demek, sesler rahatsız ediyor demekten çok daha fazla bilgi verir.",
+    "Mümkünse benzer bir sesi klinikte canlandırın; örneğin anahtar şıngırtısı ya da kayıtlı bir ortam sesi kullanın.",
+    "Ayarı bu ses çalarken birlikte deneyin ve kişiye farkı sorun.",
+    "Ardından değişikliği gerçek kulak ölçümüyle doğrulayın; çünkü kulağa iyi gelen her ayar, konuşma için doğru ayar olmayabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "İlk uygulama: uyum, doğrulama, eğitim",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Şikayeti frekans bölgesine bağla",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tek değişiklik, küçük adım, yeniden ölç",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Her şikayet ayarla çözülmez",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Bu derste ilk uygulamanın fiziksel uyum, hedefe doğrulama ve kullanıcı eğitimiyle tamamlandığını gördük.",
+    "Boğuk, metalik, yankılı ve kendi sesim şikayetleri kabaca pes, orta ve tiz frekans bölgelerine bağlanabilir.",
+    "İnce ayarda aynı anda tek değişiklik yapılır, adımlar küçük tutulur ve sonuç yeniden ölçülür.",
+    "Kalıp, program, eğitim, yardımcı cihaz ve beklenti danışmanlığı da ince ayarın parçasıdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sesler metalik geliyor diyen kişide ilk akla gelen?",
+   "secenekler": [
+    "Pes kazanç az",
+    "Tiz kazanç fazla",
+    "Vent çok küçük",
+    "Pil zayıf"
+   ],
+   "dogru": 1,
+   "aciklama": "Metalik ve teneke gibi tarifler çoğu zaman _tiz bölgede fazla kazanca_ işaret eder; sonuç ölçümle kontrol edilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: sesleri metalik ve teneke gibi duyduğunu söyleyen bir kullanıcıda ilk akla gelen olasılık hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: tiz kazancın fazla olması.",
+    "Bu tarif çoğu zaman tiz bölgede fazla kazanca işaret eder; ayar küçük adımla yapılır ve konuşma haritasıyla kontrol edilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İki kulağa cihaz, *CROS* ve BiCROS",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iki kulağa uygulamanın avantajlarını ve karşı tarafa sinyal yönlendiren CROS ve BiCROS sistemlerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

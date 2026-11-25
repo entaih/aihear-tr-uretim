@@ -1,0 +1,125 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R203_Sahte_Centik_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #203",
+  "baslik": "Cihazın çizdiği *çentik*",
+  "alt": "Kalibrasyon hatası sahte bulgu üretir",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      15,
+      15,
+      25,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Bozuk bir odyometre sahte bir işitme kaybı çizebilir mi? #shorts",
+  "aciklama": "Bu örnekte kulaklığın 4000 Hz çıkışı 10 dB düşük kalmış; normal işiten kişinin eşiği 10 dB daha kötü ölçülüyor. Sonuç, gürültüye bağlı kaybı düşündüren sahte bir çentiktir ve aynı hata o cihazla test edilen bütün hastalarda tekrarlanır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "odyometri",
+   "kalibrasyon"
+  ],
+  "etiketler": [
+   "odyometre kalibrasyonu",
+   "kalibrasyon",
+   "ISO 389",
+   "IEC 60645",
+   "yapay kulak",
+   "kuplör",
+   "saf ses odyometrisi",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Bozuk bir odyometre sahte bir işitme kaybı çizebilir mi?",
+  "bilgiler": [
+   "Bu örnekte 4000 Hz çıkışı 10 dB düşük kalmış.",
+   "Normal işiten kişide gürültü kaybını düşündüren sahte bir çentik çıkar.",
+   "Günlük kontrol ve düzenli kalibrasyon bu hatayı erken yakalar."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "kalibrasyon"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #203",
+   "metin": "Odyometre sahte kayıp *çizer mi?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Bozuk bir odyometre sahte bir işitme kaybı çizebilir mi?"
+   ]
+  },
+  {
+   "id": "centik",
+   "tur": "zincir",
+   "baslik": "Sahte *çentik*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "4000 Hz",
+     "tr": "10 dB düşük",
+     "cumle": 0
+    },
+    {
+     "ad": "Eşik",
+     "tr": "10 dB kötü",
+     "cumle": 1
+    },
+    {
+     "ad": "Çentik",
+     "tr": "sahte bulgu",
+     "cumle": 2
+    }
+   ],
+   "alt": "Sorun _kulakta değil, cihazda_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Bu örnekte kulaklığın dört bin hertz çıkışı on desibel düşük kalmış.",
+    "Normal işiten kişinin eşiği bu frekansta on desibel kötü ölçülüyor.",
+    "Sonuç, gürültüye bağlı kaybı düşündüren sahte bir çentiktir.",
+    "Aynı hata o cihazla test edilen bütün hastalarda tekrarlanır.",
+    "Günlük kontroller ve düzenli kalibrasyon bu hatayı erken yakalar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D113",
+ "kaynak_baslik": "Odyometre kalibrasyonu"
+}

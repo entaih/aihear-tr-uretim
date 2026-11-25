@@ -1,0 +1,653 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D294_Tele_Odyoloji_TR",
+ "kapak": {
+  "ust": "DERS 294",
+  "baslik": "*Tele*-odyoloji",
+  "alt": "Uzaktan test ve cihaz ayarı",
+  "cizim": "test_kabini"
+ },
+ "youtube": {
+  "baslik": "Tele-Odyoloji: Uzaktan Test ve Cihaz Ayarı | Ders 294 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyolojik hizmet uzaktan nasıl sunulur? Bu derste eş zamanlı ve eş zamansız tele-odyolojiyi, kolaylaştırıcılı modeli, uzaktan test ve ince ayarı, kalibrasyon ve ortam gürültüsü sınırlılıklarını ve Türkiye'deki Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmeliği öğreniyoruz. Bu video hukuki danışmanlık değildir; güncel mevzuatı kontrol edin.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Swanepoel DW, Hall JW. A systematic review of telehealth applications in audiology. Telemedicine and e-Health (2010); ASHA, Telepractice (Practice Portal); World Health Organization, World Report on Hearing (2021); Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik (Resmi Gazete 10.2.2022, sayı 31746).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "teleodyoloji",
+   "uzaktansağlık"
+  ],
+  "etiketler": [
+   "tele-odyoloji",
+   "tele-audiology",
+   "telehealth",
+   "uzaktan ince ayar",
+   "remote fitting",
+   "eş zamansız hizmet",
+   "asynchronous",
+   "uzaktan sağlık yönetmeliği",
+   "kolaylaştırıcı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 294",
+   "baslik": "*Tele-odyoloji*: uzaktan test ve ayar",
+   "alt": "Eş zamanlı, eş zamansız, uzaktan ince ayar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu dersle güncel konular ve mesleki gelişim bölümüne başlıyor ve tele-odyolojiyi ele alıyoruz.",
+    "Eş zamanlı ve eş zamansız hizmeti, uzaktan test ve cihaz ayarını, sınırlılıkları ve Türkiye'deki mevzuatı göreceğiz."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Modeller",
+   "baslik": "Tele-odyoloji *nedir?*",
+   "ogeler": [
+    {
+     "ikon": "telefon",
+     "baslik": "Uzaktan hizmet",
+     "metin": "İletişim teknolojisiyle",
+     "cumle": 0
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Erişim",
+     "metin": "Uzak bölge, hareket güçlüğü",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Zaman",
+     "metin": "Yolculuk ve bekleme azalır",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Uzman desteği",
+     "metin": "Az uzmanlı bölgelere",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tele-odyoloji (tele-audiology), odyolojik hizmetin iletişim teknolojileri aracılığıyla uzaktan sunulmasıdır.",
+    "Daha geniş adıyla uzaktan sağlık hizmetinin (telehealth) odyolojideki uygulamasıdır.",
+    "En önemli amacı erişimdir: uzak bölgelerde yaşayan, hareket güçlüğü olan ya da çalıştığı için kliniğe gelemeyen kişilere ulaşmak.",
+    "Kısa bir ayar için saatlerce yol gitmek yerine evden yapılan bir görüşme, zaman ve maliyeti azaltır.",
+    "Odyoloğun az olduğu bölgelerde, uzmanın bilgisi yerel bir sağlık çalışanı aracılığıyla hastaya ulaştırılabilir.",
+    "Tele-odyoloji yüz yüze hizmetin yerini almaz; doğru hastada ve doğru amaçla kullanıldığında onu tamamlar."
+   ]
+  },
+  {
+   "id": "modeller",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Modeller",
+   "baslik": "Eş zamanlı ve *eş zamansız*",
+   "ogeler": [
+    {
+     "ikon": "telefon",
+     "baslik": "Eş zamanlı",
+     "metin": "Canlı, aynı anda",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Eş zamansız",
+     "metin": "Kaydet ve gönder",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Karma",
+     "metin": "İkisi birlikte",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Eş zamanlı hizmette (synchronous) odyolog ve hasta aynı anda bağlantıdadır; görüntülü görüşme ya da canlı uzaktan test buna örnektir.",
+    "Odyolog uzaktaki bilgisayarı ve test cihazını kendi ekranından yönetir, hastayı kamerayla izler.",
+    "Eş zamansız hizmette (asynchronous) veriler önce toplanır, kaydedilir ve daha sonra uzman tarafından değerlendirilir.",
+    "Örneğin bir tarama merkezinde alınan video otoskopi görüntüleri ve otomatik odyogramlar odyoloğa gönderilip ertesi gün yorumlanabilir.",
+    "Karma modelde iki yaklaşım birlikte kullanılır: veri önceden toplanır, sonuç ise canlı bir görüşmede hastayla paylaşılır.",
+    "Model seçimi; hizmetin türüne, bağlantı kalitesine ve hastanın gereksinimine göre yapılır."
+   ]
+  },
+  {
+   "id": "kolay",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Modeller",
+   "baslik": "Kolaylaştırıcılı *model*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Hasta",
+     "metin": "Uzak merkezde",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Kolaylaştırıcı",
+     "metin": "Eğitimli yerel çalışan",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Cihaz",
+     "metin": "Uzaktan yönetilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Odyolog",
+     "metin": "Testi yapar, yorumlar",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Rapor",
+     "metin": "Öneri ve yönlendirme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Uzaktan testlerin önemli bir bölümünde hasta yerel bir sağlık merkezindedir.",
+    "Orada eğitimli bir kolaylaştırıcı (facilitator) kulaklıkları ve probu yerleştirir ve hastaya yardımcı olur.",
+    "Test cihazı, uzaktaki odyolog tarafından bilgisayar bağlantısıyla yönetilir.",
+    "Odyolog testi yapar, yanıtları izler ve sonucu yorumlar; klinik karar odyoloğun sorumluluğundadır.",
+    "Sonuçta hasta için rapor, öneri ve gerekirse yüz yüze değerlendirmeye yönlendirme yapılır.",
+    "Kolaylaştırıcının eğitimi ve yazılı bir iş akışı, bu modelin güvenilirliğinin temelidir."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uzaktan test",
+   "baslik": "Uzaktan *hangi testler?*",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "Tarama",
+     "metin": "Okul, iş yeri, toplum",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Saf ses",
+     "metin": "Kalibre cihazla",
+     "cumle": 1
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Video otoskopi",
+     "metin": "Görüntü gönderimi",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "İmmitans ve OAE",
+     "metin": "Kolaylaştırıcı yerleştirir",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma testleri",
+     "metin": "Bağlantı kalitesine bağlı",
+     "cumle": 4
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "Uzaktan yönetim",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İşitme taraması, tele-odyolojinin en yaygın kullanım alanıdır; okulda, iş yerinde ya da toplumda yapılabilir.",
+    "Kalibre bir odyometre ve uygun bir ortamla saf ses eşikleri uzaktan elde edilebilir.",
+    "Video otoskopi görüntüleri kaydedilip gönderilebilir; kulak kiri ya da akıntı gibi bulgular uzman tarafından görülür.",
+    "Timpanometri ve otoakustik emisyon için prob, yerel kolaylaştırıcı tarafından yerleştirilir.",
+    "Konuşma testleri ses kalitesine ve bağlantıya duyarlıdır; sunum düzeyinin doğruluğu ayrıca kontrol edilir.",
+    "İşitsel beyin sapı yanıtı, kısaca ABR de elektrotları yerleştiren yerel bir çalışanla uzaktan yönetilebilir.",
+    "Bu tür uzaktan ABR uygulamaları özellikle uzman sayısının az olduğu bazı ülkelerde bildirilmiştir.",
+    "Sistematik derlemeler, uygun koşullarda uzaktan elde edilen sonuçların yüz yüze testlerle benzer olabildiğini göstermiştir."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uzaktan test",
+   "baslik": "Ortam ve *kalibrasyon*",
+   "cizim": "test_kabini",
+   "etiketler": [
+    {
+     "parca": "ses_emici",
+     "metin": "ses emici",
+     "cumle": 1
+    },
+    {
+     "parca": "cift_duvar",
+     "metin": "yalıtımlı duvar",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "test_odasi",
+     "cumle": 0
+    },
+    {
+     "parca": "ses_emici",
+     "cumle": 1
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ortam gürültüsü ölç",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Gürültülü frekansı işaretle",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kulaklık cihazla kalibre",
+     "cumle": 5,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Uzaktan testin en büyük sınırlılığı, testin her zaman ses yalıtımlı bir kabinde yapılamamasıdır.",
+    "Kabin duvarları ve ses emici malzeme, ortam gürültüsünü izin verilen düzeyin altında tutar.",
+    "Okulda ya da evde yapılan bir testte bu güvence yoktur; pes frekanslardaki eşikler özellikle gürültüden etkilenir.",
+    "Bu yüzden dış gürültüyü daha iyi zayıflatan kulaklıklar kullanılır ve test sırasında ortam gürültüsü ölçülür.",
+    "Gürültü sınırı aşıldığında o frekanstaki sonuç geçersiz sayılır ya da işaretlenir.",
+    "Kalibrasyon da kritik bir konudur: kullanılan kulaklık, o cihazla birlikte kalibre edilmiş olmalıdır.",
+    "Kalibre edilmemiş bir kulaklık ya da sıradan bir tüketici kulaklığıyla elde edilen sonuç bir eşik değil, yalnız bir tahmindir."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uzaktan test",
+   "baslik": "Diğer *sınırlılıklar*",
+   "maddeler": [
+    {
+     "metin": "Bağlantı kopması ve gecikme",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Maskeleme ve kemik yolu zor",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Küçük çocukta güçlük",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Veri güvenliği",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Hastanın teknolojiye erişimi",
+     "cumle": 4,
+     "ikon": "telefon"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "yazilim",
+      "baslik": "Teknik",
+      "metin": "Bağlantı, kalibrasyon",
+      "cumle": 0
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "Klinik",
+      "metin": "Maskeleme, küçük çocuk",
+      "cumle": 1
+     },
+     {
+      "ikon": "telefon",
+      "baslik": "Hasta",
+      "metin": "Erişim ve beceri",
+      "cumle": 4
+     }
+    ],
+    "ust": "SINIRLAR"
+   },
+   "cumleler": [
+    "Bağlantı kopması ya da gecikmesi, sesin ve hasta yanıtının zamanlamasını bozabilir; bu yüzden yanıt zamanları izlenir.",
+    "Kemik yolu ve maskeleme gerektiren ölçümler uzaktan daha zordur; vibratörün yerleşimi kolaylaştırıcıya bağlıdır.",
+    "Görsel pekiştirmeli odyometri gibi küçük çocuk testleri iki kişilik ekip ve deneyim gerektirir; uzaktan uygulanması güçtür.",
+    "Görüntü ve sağlık verisi internet üzerinden aktarıldığı için güvenli ve kurumca onaylanmış bir sistem kullanılır.",
+    "Hastanın cihazı, internet bağlantısı ve dijital becerisi olmayabilir; bu da hizmette yeni bir eşitsizlik yaratabilir.",
+    "Etik dersinde gördüğümüz adalet ilkesi burada da geçerlidir: teknoloji erişimi artırmalı, kimseyi dışarıda bırakmamalıdır.",
+    "Bu nedenle uzaktan hizmet seçilirken hastanın bu olanaklara sahip olup olmadığı önceden sorulur."
+   ]
+  },
+  {
+   "id": "ayar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uzaktan ayar",
+   "baslik": "Uzaktan *ince ayar*",
+   "adimlar": [
+    {
+     "ikon": "telefon",
+     "baslik": "Talep",
+     "metin": "Hasta yakınmasını iletir",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Bağlantı",
+     "metin": "Uygulama ya da bilgisayar",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Ayar",
+     "metin": "Odyolog değiştirir",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Deneme",
+     "metin": "Hasta anında dinler",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "metin": "Değişiklik ve sonuç",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Uzaktan ince ayar (remote fitting) çoğu zaman hastanın bir yakınması ile başlar: örneğin kendi sesinin boğuk gelmesi.",
+    "Günümüzdeki birçok işitme cihazı, hastanın telefonundaki bir uygulama üzerinden odyoloğun yazılımına bağlanabilir.",
+    "Odyolog bağlantı kurulduktan sonra cihazın ayarlarını kendi ekranından değiştirir.",
+    "Hasta değişikliği hemen kendi ortamında dinler ve geri bildirim verir; bu, klinikte yapılamayan bir avantajdır.",
+    "Yapılan her değişiklik, gerekçesi ve hastanın tepkisi kayda geçirilir.",
+    "İlk uygulama ve gerçek kulak ölçümüyle doğrulama ise çoğunlukla yüz yüze yapılır; uzaktan ayar bunları tamamlar."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uzaktan ayar",
+   "baslik": "Uzaktan *takip*",
+   "ogeler": [
+    {
+     "ikon": "tablo",
+     "baslik": "Veri kaydı",
+     "metin": "Kullanım süresi, ortamlar",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Anketler",
+     "metin": "Yarar ve memnuniyet",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Görüntülü görüşme",
+     "metin": "Danışmanlık, eğitim",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Sorun giderme",
+     "metin": "Bakım ve kullanım",
+     "cumle": 3
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "İmplant",
+     "metin": "Uzaktan programlama",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Rehabilitasyon",
+     "metin": "İşitsel eğitim oturumu",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cihazın veri kaydı uzaktan incelenerek günlük kullanım süresi ve sık karşılaşılan ortamlar görülebilir.",
+    "Cihaz yararını ve memnuniyeti ölçen anketler, randevudan önce çevrim içi doldurulabilir.",
+    "Görüntülü görüşme, yeni kullanıcıya danışmanlık ve iletişim stratejisi eğitimi için uygundur.",
+    "Pil, kir filtresi ya da bağlantı gibi basit sorunlar çoğu zaman kamerayla birlikte çözülebilir.",
+    "Koklear implant kullanıcılarında uzaktan programlama, bazı merkezlerde araştırılmış ve uygulanan bir yöntemdir.",
+    "İşitsel eğitim ve işitsel sözel terapi oturumları da aileyle görüntülü olarak yürütülebilir."
+   ]
+  },
+  {
+   "id": "uygun",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uzaktan ayar",
+   "baslik": "Kimler için *uygun?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Uygun",
+     "metin": "Kontrol, küçük ayar, danışmanlık",
+     "cumle": 0
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Uygun",
+     "metin": "Uzakta yaşayan, düzenli kullanıcı",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yüz yüze",
+     "metin": "Ani kayıp, akıntı, ağrı",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Yüz yüze",
+     "metin": "Bebekte tanısal değerlendirme",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Yüz yüze",
+     "metin": "Yeni baş dönmesi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kontrol randevuları, küçük ayar değişiklikleri ve danışmanlık, tele-odyolojinin en uygun olduğu durumlardır.",
+    "Uzakta yaşayan ve cihazını düzenli kullanan, teknolojiye alışkın kişiler de iyi adaylardır.",
+    "Ani işitme kaybı, kulak akıntısı ya da ağrı gibi durumlar ise yüz yüze ve hızlı değerlendirme gerektirir.",
+    "Bebeklerde tanısal değerlendirme, ayrıntılı ve uzun bir test bataryası gerektirdiği için genellikle yüz yüze yapılır.",
+    "Yeni başlayan baş dönmesi de muayene ve vestibüler testler için kliniğe yönlendirilir.",
+    "Kural basittir: uzaktan görüşmede bir kırmızı bayrak fark edilirse hasta yüz yüze değerlendirmeye çağrılır."
+   ]
+  },
+  {
+   "id": "mevzuat",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Uzaktan ayar",
+   "baslik": "Türkiye'de *mevzuat*",
+   "maddeler": [
+    {
+     "metin": "2022 yönetmeliği",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Sağlık tesisine Bakanlık izni",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Kayıt için iki tarafın açık rızası",
+     "cumle": 4,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Hasta uzaktan hizmete zorlanamaz",
+     "cumle": 5,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Yüz yüze hizmetin muadili değil",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "hastane",
+      "baslik": "İzin",
+      "metin": "Bakanlıktan faaliyet izni",
+      "cumle": 3
+     },
+     {
+      "ikon": "dikkat",
+      "baslik": "Rıza",
+      "metin": "Kayıt için açık rıza",
+      "cumle": 4
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Seçim",
+      "metin": "Zorlama yok",
+      "cumle": 5
+     }
+    ],
+    "ust": "YÖNETMELİK"
+   },
+   "cumleler": [
+    {
+     "yazi": "Türkiye'de uzaktan sağlık hizmetleri, 10 Şubat 2022 tarihli ve 31746 sayılı Resmi Gazetede yayımlanan bir yönetmelikle düzenlenir.",
+     "ses": "Türkiye'de uzaktan sağlık hizmetleri, on şubat iki bin yirmi iki tarihli ve otuz bir bin yedi yüz kırk altı sayılı Resmi Gazetede yayımlanan bir yönetmelikle düzenlenir."
+    },
+    "Uzaktan Sağlık Hizmetlerinin Sunumu Hakkında Yönetmelik, kapsamına bu hizmette yer alan tüm sağlık meslek mensuplarını alır.",
+    "Yönetmelik uzaktan sağlık hizmetini, sağlık meslek mensubunun uzaktan sağlık bilgi sistemi üzerinden sunduğu hizmet olarak tanımlar.",
+    "Yönetmeliğin 8. maddesine göre uzaktan hizmet sunmak isteyen sağlık tesisine, şartları sağlarsa Bakanlıkça faaliyet izin belgesi verilir.",
+    "12. maddeye göre görüşme, iki tarafın açık rızası olmadan görüntülü ya da sesli olarak kayda alınamaz.",
+    "14. madde, randevu alacak kişinin uzaktan hizmet almaya zorlanmasını yasaklar.",
+    "9. maddeye göre hastaya, uzaktan hizmetin yüz yüze hizmetin muadili olamayacağı önceden bildirilir.",
+    "Bu ders hukuki danışmanlık değildir; uzaktan hizmet planlıyorsanız yönetmeliğin güncel metnini ve kurumunuzun iznini kontrol edin."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Uzaktan görüşmeden önce hastayla kısa bir bağlantı denemesi yapın ve görüşme kesilirse sizi hangi numaradan arayacağınızı söyleyin.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: ilk uzaktan görüşmeden bir gün önce hastayla kısa bir bağlantı denemesi yapın.",
+    "Kamera, mikrofon ve işitme cihazı uygulamasının çalıştığını bu denemede kontrol edin.",
+    "Görüşme kesilirse hastayı hangi numaradan arayacağınızı baştan söyleyin.",
+    "İşitme kaybı olan bir hastada altyazı ya da yazılı sohbet penceresi, görüntülü görüşmeyi çok kolaylaştırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Eş zamanlı, eş zamansız ve karma model",
+     "cumle": 0,
+     "ikon": "telefon"
+    },
+    {
+     "metin": "Kalibrasyon ve ortam gürültüsü kritik",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Uzaktan ince ayar ve takip",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Kırmızı bayrakta yüz yüze",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Tele-odyoloji eş zamanlı, eş zamansız ya da karma modelle sunulur; yerel kolaylaştırıcı birçok uzaktan testin anahtarıdır.",
+    "Uzaktan eşiklerin güvenilirliği kalibre kulaklığa, ortam gürültüsünün izlenmesine ve bağlantı kalitesine bağlıdır.",
+    "Uzaktan ince ayar ve takip, kontrol randevularını ve danışmanlığı hastanın kendi ortamına taşır.",
+    "Ani kayıp, akıntı, ağrı ya da yeni baş dönmesi gibi durumlarda hasta yüz yüze değerlendirmeye yönlendirilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Eş zamansız hizmet örneği?",
+   "secenekler": [
+    "Canlı görüntülü ince ayar",
+    "Kaydedilen otoskopi görüntüsünün sonradan yorumu",
+    "Canlı uzaktan ABR",
+    "Telefonla anlık danışma"
+   ],
+   "dogru": 1,
+   "aciklama": "Eş zamansız hizmette veri _önce kaydedilir_, uzman daha sonra değerlendirir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Aşağıdakilerden hangisi eş zamansız tele-odyoloji hizmetine örnektir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kaydedilen otoskopi görüntüsünün sonradan yorumlanması.",
+    "Diğer seçeneklerde odyolog ve hasta aynı anda bağlantıdadır; bu nedenle onlar eş zamanlı hizmettir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyolojide otomasyon ve *makine öğrenmesi*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste otomatik odyometriyi ve odyolojide makine öğrenmesinin olanaklarını ve sınırlarını ele alacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

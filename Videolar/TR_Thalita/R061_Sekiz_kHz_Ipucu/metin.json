@@ -1,0 +1,132 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R061_Sekiz_kHz_Ipucu_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #61",
+  "baslik": "Gürültü çentiği: *8 kHz*",
+  "alt": "3 ile 6 kHz çentik, 8 kHz'de toparlanma",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Gürültüye bağlı kayıp odyogramda nasıl tanınır? #shorts",
+  "aciklama": "Gürültüye bağlı kaybın tipik izi 3 ile 6 kHz arasında bir çentik ve 8 kHz'de kısmi toparlanmadır. Yaşa bağlı kayıpta bu toparlanma görülmez; eşikler 8 kHz'e doğru kötüleşmeye devam eder.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "gürültü",
+   "odyogram"
+  ],
+  "etiketler": [
+   "gürültüye bağlı işitme kaybı",
+   "NIHL",
+   "4 kHz çentiği",
+   "noise notch",
+   "8 kHz toparlanma",
+   "odyogram",
+   "presbiakuzi",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Gürültüye bağlı kayıp odyogramda nasıl tanınır?",
+  "bilgiler": [
+   "Tipik iz 3 ile 6 kHz arasında bir çentiktir.",
+   "8 kHz'de eşikler yeniden toparlanır.",
+   "Yaşa bağlı kayıpta bu toparlanma görülmez."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "gürültü",
+   "odyogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #61",
+   "metin": "Gürültü kaybı odyogramda *nasıl tanınır?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Gürültüye bağlı kayıp odyogramda nasıl tanınır?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "İpucu: *8 kHz'de* toparlanma",
+   "sayi": "8",
+   "birim": "kHz",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Tipik iz, üç bin ile altı bin hertz arasında bir çentiktir.",
+    "Sekiz bin hertzde ise eşikler yeniden toparlanır.",
+    "Yaşa bağlı kayıpta bu toparlanma görülmez; eşikler kötüleşmeye devam eder."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D140",
+ "kaynak_baslik": "Gürültü ve 4 kHz çentiği"
+}

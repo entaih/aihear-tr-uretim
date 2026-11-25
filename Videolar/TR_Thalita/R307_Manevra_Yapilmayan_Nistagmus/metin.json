@@ -1,0 +1,107 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R307_Manevra_Yapilmayan_Nistagmus_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #307",
+  "baslik": "Bu nistagmusa *manevra yok*",
+  "alt": "Tipik BPPV'ye uymayan bulgular",
+  "cizim": "nistagmus_izi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Her pozisyonel baş dönmesine manevra yapılır mı? #shorts",
+  "aciklama": "Repozisyon manevrasının başarısı tanının doğruluğuna bağlıdır. Nistagmus tipik BPPV'ye uymuyorsa, örneğin latanssız, yorulmayan ya da saf aşağı vuran ise manevra yapılmaz; bulgular kaydedilir ve hasta hekim değerlendirmesine yönlendirilir. Aşağı vuran pozisyonel nistagmus santral nedenlerle de görülebilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "BPPV",
+   "vestibüler"
+  ],
+  "etiketler": [
+   "BPPV",
+   "pozisyonel nistagmus",
+   "repozisyon manevrası",
+   "santral pozisyonel nistagmus",
+   "aşağı vuran nistagmus",
+   "hekime yönlendirme",
+   "vestibüler",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Her pozisyonel baş dönmesine manevra yapılır mı?",
+  "bilgiler": [
+   "Manevranın başarısı tanının doğruluğuna bağlıdır.",
+   "Latanssız, yorulmayan ya da saf aşağı vuran nistagmusta manevra yapılmaz.",
+   "Bulgular kaydedilir ve hasta hekime yönlendirilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "BPPV",
+   "vestibüler"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #307",
+   "metin": "Her vertigoya *manevra mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Her pozisyonel baş dönmesine manevra yapılır mı?"
+   ]
+  },
+  {
+   "id": "uyari",
+   "tur": "zincir",
+   "baslik": "Tipik *değilse* durun",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Latanssız",
+     "tr": "gecikmesiz başlar",
+     "cumle": 1
+    },
+    {
+     "ad": "Yorulmayan",
+     "tr": "azalmadan sürer",
+     "cumle": 1,
+     "gecikme": 0.8
+    },
+    {
+     "ad": "Saf aşağı vuran",
+     "tr": "santral olabilir",
+     "cumle": 2
+    }
+   ],
+   "alt": "Manevra değil: _hekime yönlendirme_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Manevranın başarısı, tanının doğruluğuna bağlıdır.",
+    "Nistagmus latanssız ya da yorulmayan ise tipik BPPV'ye uymaz.",
+    "Saf aşağı vuran pozisyonel nistagmus santral nedenlerle de görülebilir.",
+    "Böyle bir tabloda manevra yapılmaz; bulgular kaydedilir.",
+    "Hasta hekim değerlendirmesine yönlendirilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D205",
+ "kaynak_baslik": "BPPV repozisyon manevraları"
+}

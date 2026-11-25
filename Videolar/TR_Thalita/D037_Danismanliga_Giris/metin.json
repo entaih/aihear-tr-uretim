@@ -1,0 +1,605 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D037_Danismanliga_Giris_TR",
+ "kapak": {
+  "ust": "DERS 37",
+  "baslik": "Hasta ile<br>*iletişim*",
+  "alt": "Odyolojide danışmanlığa giriş",
+  "cizim": "konusma_muzu"
+ },
+ "youtube": {
+  "baslik": "Hasta ile İletişim: Odyolojide Danışmanlığa Giriş | Ders 37 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyolojide danışmanlık, testin ayrılmaz bir parçasıdır. Bu derste bilgilendirici danışmanlık ile uyum danışmanlığı arasındaki farkı, aktif dinleme ve empatiyi, terim yerine sade dil kullanmayı, bilgiyi parçalara bölmeyi ve geri anlatma yöntemini örneklerle inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Clark JG ve English K, Counseling-Infused Audiologic Care; Luterman D, Counseling Persons with Communication Disorders and Their Families; Kessels RPC, Patients' memory for medical information (Journal of the Royal Society of Medicine, 2003); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "danışmanlık",
+   "hastailetişimi"
+  ],
+  "etiketler": [
+   "odyolojide danışmanlık",
+   "bilgilendirici danışmanlık",
+   "informational counseling",
+   "uyum danışmanlığı",
+   "adjustment counseling",
+   "aktif dinleme",
+   "active listening",
+   "empati",
+   "hasta iletişimi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 37",
+   "baslik": "Odyolojide *danışmanlık*",
+   "alt": "Aktif dinleme, empati ve anlaşılır dil",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyolojide danışmanlığın temellerini; aktif dinlemeyi, empatiyi ve bilgiyi anlaşılır biçimde aktarmayı öğreneceğiz.",
+    "Bilgilendirici danışmanlık ile uyum danışmanlığı arasındaki farkı da örneklerle göreceğiz."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Danışmanlık nedir?",
+   "baslik": "Danışmanlık testin *parçası*",
+   "maddeler": [
+    {
+     "metin": "Her görüşmede, _her_ aşamada",
+     "cumle": 1,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Bilgi vermek ve _dinlemek_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ortak _karar_ verme",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sınırı bilmek, _yönlendirmek_",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        35,
+        50,
+        60,
+        65
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        30,
+        35,
+        50,
+        65,
+        70
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Odyolojide danışmanlık, testten sonra yapılan ayrı bir iş değil, hastayla geçen her dakikanın bir parçasıdır.",
+    "Öykü alırken, test sonuçlarını anlatırken ve cihaz sürecini açıklarken de danışmanlık yaparız.",
+    "Danışmanlığın iki yönü vardır: doğru bilgiyi vermek ve kişinin duygularını dinlemek.",
+    "Amaç, kişinin durumunu anlaması ve kendi hedeflerine uygun kararlara ortak olarak katılmasıdır.",
+    "Odyoloğun danışmanlığı iletişim ve işitmeyle ilgilidir; derin psikolojik sorunlar fark edilirse uygun uzmana yönlendirme yapılır.",
+    "Türkiye'de tanıyı hekim koyar; odyolog test bulgularını ve rehabilitasyon sürecini kendi alanı içinde açıklar."
+   ]
+  },
+  {
+   "id": "unutma",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Danışmanlık nedir?",
+   "baslik": "Söylenenin çoğu *unutulur*",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Çabuk unutulur",
+     "metin": "Bilginin büyük bölümü kısa sürede",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Kaygı",
+     "metin": "Söyleneni duymayı zorlaştırır",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "İşitme kaybı",
+     "metin": "Konuşmamızı anlamayı zorlaştırır",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Nasıl söylediğimiz",
+     "metin": "Ne söylediğimiz kadar önemli",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Araştırmalar, sağlık çalışanlarının verdiği bilginin büyük bölümünün kısa süre içinde unutulduğunu gösteriyor.",
+    "Kaygılı bir hasta ya da yeni tanı almış bir çocuğun ailesi, ilk cümlelerden sonra söyleneni pek duymayabilir.",
+    "Üstelik karşımızdaki kişinin işitme kaybı vardır; bu da konuşmamızı anlamasını ayrıca zorlaştırır.",
+    "Bu yüzden ne söylediğimiz kadar nasıl söylediğimiz de önemlidir.",
+    "Dersin geri kalanında bunun için kullanabileceğimiz yöntemleri göreceğiz."
+   ]
+  },
+  {
+   "id": "iki_tur",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İki tür danışmanlık",
+   "baslik": "Bilgilendirici ve *uyum* danışmanlığı",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Bilgilendirici",
+     "metin": "Sonuçlar, kaybın türü, seçenekler",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Bilgi soruları",
+     "metin": "Ne, nasıl, ne zaman?",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Uyum",
+     "metin": "Duygular: üzüntü, öfke, inkar, kaygı",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Neden ben?",
+     "metin": "Anlaşılma ihtiyacını gösterir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Odyolojide danışmanlık genellikle iki türe ayrılır.",
+    "Bilgilendirici danışmanlık (informational counseling), test sonuçlarını, kaybın türünü ve olası seçenekleri anlatmaktır.",
+    "Bu aşamada kişi genellikle ne, nasıl ve ne zaman sorularını sorar.",
+    "Uyum danışmanlığı (adjustment counseling) ise kişinin duygusal tepkilerini dinlemeyi ve desteklemeyi kapsar.",
+    "Üzüntü, öfke, inkar ve kaygı, kaybı kabullenme sürecinin doğal parçalarıdır.",
+    "Neden ben ya da bu benim suçum mu gibi sorular çoğu zaman bilgi değil, anlaşılma ihtiyacını gösterir."
+   ]
+  },
+  {
+   "id": "tuzak",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İki tür danışmanlık",
+   "baslik": "Sık yapılan *hata*",
+   "maddeler": [
+    {
+     "metin": "Duyguya _bilgiyle_ yanıt vermek",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Örnek: ağlayan anneye _anatomi_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Önce _duyguyu_ fark et",
+     "cumle": 3,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Sonra bilgiye _dön_",
+     "cumle": 4,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "koklea",
+      "cumle": 1
+     }
+    ],
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "koklea",
+      "metin": "teknik bilgi: koklea",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Danışmanlıkta en sık yapılan hata, duygusal bir soruya teknik bilgiyle yanıt vermektir.",
+    "Örneğin bebeğinin işitme kaybını yeni öğrenen bir anne neden diye sorduğunda, hemen kokleanın yapısını anlatmaya başlayabiliriz.",
+    "Oysa annenin o anda ihtiyaç duyduğu şey çoğu zaman anatomi bilgisi değil, duygusunun görülmesidir.",
+    "Bunun yerine önce duyguyu fark edip adını koymak, örneğin bunun çok zor bir haber olduğunu söylemek gerekir.",
+    "Kişi hazır olduğunda bilgiye geri dönülür; bilgi o zaman çok daha kolay anlaşılır."
+   ]
+  },
+  {
+   "id": "aktif_dinleme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Aktif dinleme ve empati",
+   "baslik": "*Aktif dinleme* teknikleri",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Açık soru",
+     "metin": "En çok nerede zorlanıyorsunuz?",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Yansıtma",
+     "metin": "Bu sizi çok yormuş",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Özetleme",
+     "metin": "Yani en çok toplantılarda...",
+     "cumle": 3
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sessizlik",
+     "metin": "Düşünmesine zaman tanımak",
+     "cumle": 4
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Beden dili",
+     "metin": "Yüz yüze, göz teması",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Aktif dinleme (active listening), karşımızdakini yalnız duymak değil, anladığımızı ona göstermektir.",
+    "Açık sorular, kişinin deneyimini kendi sözcükleriyle anlatmasına olanak verir.",
+    "Yansıtmada, kişinin anlattığı duyguyu ona geri yansıtırız; böylece anlaşıldığını hisseder.",
+    "Özetlemede anlattıklarını kısaca toparlar ve doğru anlayıp anlamadığımızı kontrol ederiz.",
+    "Kısa sessizlikler de değerlidir; kişiye düşünme ve duygusunu ifade etme zamanı tanır.",
+    "Yüzümüzü hastaya dönmek ve göz teması kurmak, hem dinlediğimizi gösterir hem de dudak okumayı kolaylaştırır."
+   ]
+  },
+  {
+   "id": "empati",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Aktif dinleme ve empati",
+   "baslik": "Empati ve *acıma* farkı",
+   "ogeler": [
+    {
+     "ikon": "kalp",
+     "baslik": "Empati",
+     "metin": "Duyguyu anlar, baş etmeyi destekler",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Örnek cümle",
+     "metin": "Bunun sizin için zor olduğunu görüyorum",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Acıma, geçiştirme",
+     "metin": "Merak etmeyin, alışırsınız",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sonuç",
+     "metin": "Kişi kendini yalnız hissedebilir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Empati ile acımayı birbirinden ayırmak önemlidir.",
+    "Empati, kişinin duygusunu onun bakış açısından anlamak ve bunu kabul ettiğimizi göstermektir.",
+    "Bunun sizin için zor olduğunu görüyorum gibi bir cümle, kişiye anlaşıldığını hissettirir.",
+    "Empati, kişinin sorunla baş etme gücünü destekler.",
+    "Acıma ya da merak etmeyin, alışırsınız gibi hızlı teselliler ise duyguyu geçiştirir.",
+    "Bu tür yanıtlar iyi niyetli olsa da kişinin kendini yalnız hissetmesine yol açabilir."
+   ]
+  },
+  {
+   "id": "sade_dil",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Anlaşılır bilgi",
+   "baslik": "Terim yerine *sade dil*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Sensörinöral kayıp",
+     "metin": "İç kulak kaynaklı kayıp",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "İletim tipi kayıp",
+     "metin": "Sesin iletilmesinde sorun",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Eşik",
+     "metin": "Duyulan en hafif ses",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşmayı ayırt etme",
+     "metin": "Kelimeleri doğru anlama",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Klinikte her gün kullandığımız terimler hastaya çoğu zaman yabancıdır.",
+    "Sensörinöral kayıp yerine, iç kulaktan ya da işitme sinirinden kaynaklanan kayıp demek daha anlaşılırdır.",
+    "İletim tipi kayıp, sesin dış ya da orta kulaktan iç kulağa iletilmesindeki bir sorun olarak anlatılabilir.",
+    "Eşik yerine, her frekansta duyabildiğiniz en hafif ses demek yeterlidir.",
+    "Konuşmayı ayırt etme skoru, duyduğunuz kelimeleri ne kadar doğru anlayabildiğiniz biçiminde açıklanabilir.",
+    "Terimi saklamak gerekmez; önce sade anlatıp sonra terimi söylemek, kişinin raporu okurken de işine yarar."
+   ]
+  },
+  {
+   "id": "parcala",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Anlaşılır bilgi",
+   "baslik": "Bilgiyi *parçalara* bölmek",
+   "cizim": "konusma_muzu",
+   "ayar": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       35,
+       50,
+       60,
+       65
+      ],
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "unluler",
+     "cumle": 3
+    },
+    {
+     "parca": "unsuzler",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bir görüşmede _iki üç_ ana mesaj",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Görselle _somutlaştır_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Geri anlatma (teach-back)",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Bilgiyi küçük parçalara bölmek akılda kalmasını kolaylaştırır; bir görüşmede iki ya da üç ana mesaj genellikle yeterlidir.",
+    "Her parçadan sonra durup kişinin anlayıp anlamadığını kontrol etmek gerekir.",
+    "Odyogramı anlatırken konuşma muzu gibi görsellerden yararlanmak, soyut sayıları somutlaştırır.",
+    "Bu örnek odyogramda ünlülerin duyulabildiğini, ama tiz ünsüzlerin kaçabileceğini doğrudan gösterebiliriz.",
+    "Geri anlatma yöntemi (teach-back) ise kişiden öğrendiklerini kendi sözcükleriyle anlatmasını istemektir.",
+    "Bu yöntem kişiyi sınamak için değil, bizim ne kadar açık anlattığımızı görmek için kullanılır."
+   ]
+  },
+  {
+   "id": "iki_yol",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Anlaşılır bilgi",
+   "baslik": "Bilgiyi pekiştirmenin *iki yolu*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Sözlü, etkileşimli",
+     "metin": "Geri anlatma, anında düzeltme",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Yazılı, görsel",
+     "metin": "Evde tekrar, aileyle paylaşım",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "İkisi birlikte",
+     "metin": "Çoğu zaman en iyi sonuç",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bilgiyi pekiştirmek için birbirini tamamlayan iki geçerli yol vardır.",
+    "Sözlü ve etkileşimli yolda, geri anlatma sayesinde yanlış anlaşılmalar hemen fark edilir ve düzeltilir.",
+    "Bu yol, kişinin sorularına ve kaygılarına göre anında uyarlanabilir.",
+    "Yazılı ve görsel materyaller ise kişinin evde tekrar okuyabileceği kalıcı bir kaynak sağlar.",
+    "Odyogramın bir kopyası ya da kısa bir bilgi notu, kişinin ailesiyle paylaşmasını da kolaylaştırır.",
+    "İkisi birlikte kullanıldığında çoğu zaman en iyi sonuç alınır; ağırlığı kişinin ihtiyacı ve klinik koşullar belirler."
+   ]
+  },
+  {
+   "id": "konusma_kurallari",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Anlaşılır bilgi",
+   "baslik": "İşitme kaybı olan kişiyle *konuşmak*",
+   "maddeler": [
+    {
+     "metin": "Önce _dikkatini_ çek, yüzüne dön",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yüzün aydınlık, ortam _sessiz_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Bağırma, _biraz yavaş_ ve net konuş",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Anlaşılmazsa _başka sözcüklerle_ söyle",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Maske dudak okumayı _engeller_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Konuşmaya başlamadan önce kişinin dikkatini çekin ve yüzünüzü ona dönün.",
+    "Yüzünüz iyi aydınlatılmış olsun ve mümkünse gürültülü ortamdan uzaklaşın.",
+    "Bağırmayın; bağırmak sesi bozar ve dudak hareketlerini değiştirir, bunun yerine biraz yavaş ve net konuşun.",
+    "Bir cümle anlaşılmadığında aynı sözcükleri tekrarlamak yerine, aynı şeyi başka sözcüklerle söyleyin.",
+    "Yüz maskesi hem sesi azaltır hem de dudak okumayı engeller; gerekirse şeffaf maske ya da yazılı not kullanın."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Anlaşılır bilgi",
+   "baslik": "Klinik ipucu",
+   "metin": "Görüşmeyi bitirmeden önce kişiye aklında kalan en önemli iki şeyi sorun. Yanıt, anlatımınızın neresinin açık kaldığını gösterir.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: görüşmeyi bitirmeden önce kişiye, bugün aklında kalan en önemli iki şeyin ne olduğunu sorun.",
+    "Bu soru bir sınav değildir; sizin anlatımınızın ne kadar anlaşıldığını gösteren bir aynadır.",
+    "Eksik kalan noktayı o anda kısaca yeniden anlatın ve yazılı bir notla destekleyin.",
+    "Kişinin bir sonraki adımı bilerek klinikten ayrılması, iş birliğini ve memnuniyeti artırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Danışmanlık _her_ görüşmenin parçası",
+     "cumle": 0,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Bilgilendirici ve _uyum_ danışmanlığı",
+     "cumle": 1,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Aktif dinleme ve _empati_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sade dil, parçalara bölme, _geri anlatma_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Danışmanlık, testten ayrı bir iş değil, her görüşmenin doğal bir parçasıdır.",
+    "Bilgilendirici danışmanlık bilgiyi, uyum danışmanlığı ise duyguları ele alır; duygusal soruya önce duyguyla yanıt verilir.",
+    "Açık sorular, yansıtma, özetleme ve empati, kişinin anlaşıldığını hissetmesini sağlar.",
+    "Sade dil, bilgiyi parçalara bölmek ve geri anlatma, bilginin akılda kalmasını kolaylaştırır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Yeni tanı alan bebeğin annesi neden ben diye soruyor. İlk adım ne olmalı?",
+   "secenekler": [
+    "Kokleanın yapısını anlatmak",
+    "Duygusunu fark edip kabul etmek",
+    "Cihaz seçeneklerini sıralamak",
+    "Merak etmeyin, demek"
+   ],
+   "dogru": 1,
+   "aciklama": "Bu soru çoğu zaman bilgi değil, _anlaşılma_ ihtiyacıdır: önce uyum danışmanlığı, sonra bilgi.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Yeni tanı alan bebeğin annesi neden ben diye soruyor. İlk adım ne olmalı?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: duygusunu fark edip kabul etmek.",
+     "ses": "Doğru cevap be: duygusunu fark edip kabul etmek."
+    },
+    "Bu soru çoğu zaman bilgi değil, anlaşılma ihtiyacını gösterir; bilgiye anne hazır olduğunda geçilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "dB SPL, dB HL ve *dB SL*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste akustiğe dönüyor ve dB SPL, dB HL ile dB SL arasındaki farkı öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

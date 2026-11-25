@@ -1,0 +1,103 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R452_McGurk_Etkisi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #452",
+  "baslik": "Ba duyup *da algılamak*",
+  "alt": "McGurk etkisi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kulağınız ba, gözünüz ga alırsa ne duyarsınız? #shorts",
+  "aciklama": "McGurk ve MacDonald 1976 yılında, kulağa ba hecesi verilirken ekranda ga diyen bir yüz gösterdi. Dinleyicilerin çoğu ne ba ne de ga, ikisinin arasındaki da hecesini duyduğunu söyledi. Kişi bunun bir yanılsama olduğunu bilse bile algı değişmez; bu etki, beynin konuşmayı işitme ve görmeyi birlikte kullanarak çözdüğünü gösterir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "algı",
+   "beyin"
+  ],
+  "etiketler": [
+   "McGurk etkisi",
+   "işitsel-görsel bütünleşme",
+   "dudak okuma",
+   "konuşma algısı",
+   "algı yanılsaması",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kulağınız ba, gözünüz ga alırsa ne duyarsınız?",
+  "bilgiler": [
+   "Kulağa ba verilirken ekranda ga diyen bir yüz gösterildi.",
+   "Çoğu dinleyici da hecesini duyduğunu söyledi.",
+   "Yanılsama olduğunu bilmek algıyı değiştirmez."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "algı",
+   "beyin"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #452",
+   "metin": "Ba mı, *ga mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kulağınız ba, gözünüz ga alırsa ne duyarsınız?"
+   ]
+  },
+  {
+   "id": "mcgurk",
+   "tur": "zincir",
+   "baslik": "McGurk *etkisi*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Kulak",
+     "tr": "ba",
+     "cumle": 0
+    },
+    {
+     "ad": "Göz",
+     "tr": "ga",
+     "cumle": 0,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Algı",
+     "tr": "da",
+     "cumle": 1
+    }
+   ],
+   "alt": "Bütünleşme _otomatik_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "McGurk ve MacDonald, kulağa ba hecesi verirken ekranda ga diyen yüz gösterdi.",
+    "Dinleyicilerin çoğu ikisinin arasındaki da hecesini duyduğunu söyledi.",
+    "Kişi bunun bir yanılsama olduğunu bilse bile algı değişmez.",
+    "Beyin konuşmayı işitme ve görmeyi birlikte kullanarak çözer."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D264",
+ "kaynak_baslik": "Dudak okuma ve görsel ipuçları"
+}

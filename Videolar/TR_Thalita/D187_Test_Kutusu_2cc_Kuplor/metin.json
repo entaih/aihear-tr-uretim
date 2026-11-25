@@ -1,0 +1,988 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D187_Test_Kutusu_2cc_Kuplor_TR",
+ "kapak": {
+  "ust": "DERS 187",
+  "baslik": "*Test kutusu*<br>ölçümleri",
+  "alt": "ANSI S3.22 ve kalite kontrol",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  }
+ },
+ "youtube": {
+  "baslik": "Test kutusu ölçümleri ve 2 cc kuplör (ANSI S3.22) | Ders 187 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazının elektroakustik ölçümleri nerede ve nasıl yapılır? Bu derste test kutusunun parçalarını ve eşitlemeyi, HA-1 ve HA-2 kuplörlerini, kuplör ile kulak yolu arasındaki farkı, ANSI S3.22 ve IEC 60118-7 standartlarını ve teslim öncesi kalite kontrol adımlarını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Katz, Handbook of Clinical Audiology; ANSI/ASA S3.22, Specification of Hearing Aid Characteristics; IEC 60118-7, Electroacoustics, Hearing aids, Part 7; IEC 60318-5, Electroacoustics, Simulators of human head and ear, Part 5: 2 cm3 coupler.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "ANSI"
+  ],
+  "etiketler": [
+   "test kutusu",
+   "test box",
+   "2 cc kuplör",
+   "2 cc coupler",
+   "HA-1",
+   "HA-2",
+   "ANSI S3.22",
+   "IEC 60118-7",
+   "kalite kontrol",
+   "elektroakustik ölçüm",
+   "işitme cihazı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 187",
+   "baslik": "Test kutusu ve *2 cc* kuplör",
+   "alt": "ANSI S3.22 ile teslim öncesi kalite kontrol",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    {
+     "yazi": "Bu derste işitme cihazının elektroakustik ölçümlerinin yapıldığı test kutusunu ve 2 cc kuplörü yakından tanıyacağız.",
+     "ses": "Bu derste işitme cihazının elektroakustik ölçümlerinin yapıldığı test kutusunu ve iki santimetreküplük kuplörü yakından tanıyacağız."
+    },
+    {
+     "yazi": "HA-1 ve HA-2 kuplörlerini, ANSI ve IEC standartlarını ve cihaz teslim edilmeden önce yapılan kalite kontrolünü ele alacağız.",
+     "ses": "he a bir ve he a iki kuplörlerini, ANSI ve IEC standartlarını ve cihaz teslim edilmeden önce yapılan kalite kontrolünü ele alacağız."
+    }
+   ]
+  },
+  {
+   "id": "kutu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Test kutusu",
+   "baslik": "Test kutusunun *parçaları*",
+   "cumleler": [
+    "Elektroakustik özellikler dersinde maksimum çıkışı, yani OSPL90'ı ve distorsiyonu tanımlamıştık; şimdi ölçüm düzeneğine bakalım.",
+    "Test kutusu (test box), dış gürültüden yalıtılmış, içi ses emici malzemeyle kaplı küçük bir ölçüm odacığıdır.",
+    "Kutunun içinde, test sesini üreten küçük bir hoparlör bulunur.",
+    "Cihaz mikrofonunun hemen yanında duran referans mikrofon, cihaza ulaşan giriş düzeyini ölçer.",
+    {
+     "yazi": "Cihazın çıkışı 2 cc kuplöre verilir; kuplörün içindeki ölçüm mikrofonu çıkış ses basınç düzeyini kaydeder.",
+     "ses": "Cihazın çıkışı iki santimetreküplük kuplöre verilir; kuplörün içindeki ölçüm mikrofonu çıkış ses basınç düzeyini kaydeder."
+    },
+    "Analizör sinyali üretir, iki mikrofondan gelen değerleri karşılaştırır ve sonuçları eğri olarak çizer."
+   ],
+   "cizim": "kuplor",
+   "ayar": {
+    "mod": "test_kutusu",
+    "goster": {
+     "ses_emici": 1,
+     "hoparlor": 2,
+     "referans_mikrofon": 3,
+     "kuplor": 4,
+     "analizor": 5
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "kutu",
+     "metin": "Yalıtımlı kutu",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "Hoparlör",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofon",
+     "metin": "Referans mikrofon",
+     "cumle": 3
+    },
+    {
+     "parca": "kuplor",
+     "metin": "Kuplör ve mikrofonu",
+     "cumle": 4
+    },
+    {
+     "parca": "analizor",
+     "metin": "Analizör",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kutu",
+     "cumle": 1
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofon",
+     "cumle": 3
+    },
+    {
+     "parca": "kuplor",
+     "cumle": 4
+    },
+    {
+     "parca": "analizor",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "esitleme",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Test kutusu",
+   "baslik": "Girişi sabit tutmak: *eşitleme*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Ses verilir",
+     "metin": "Her frekansta aynı hedef",
+     "cumle": 0
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Ölçülür",
+     "metin": "Referans mikrofonla",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Düzeltilir",
+     "metin": "Hoparlör sapması dengelenir",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sabit giriş",
+     "metin": "Ör. 60 dB SPL",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Küçük bir hoparlör her frekansta aynı ses düzeyini üretmez; kutunun kendi yansımaları da düzeyi değiştirir.",
+    "Bu yüzden ölçümden önce ya da ölçüm sırasında, test noktasındaki ses düzeyi referans mikrofonla ölçülür.",
+    "Analizör, hoparlörün çıkışını her frekansta düzelterek hedef düzeyi sağlar; bu işleme eşitleme (leveling) denir.",
+    "Eşitleme bazı sistemlerde önceden yapılıp kaydedilir, bazılarında ise ölçüm boyunca eş zamanlı olarak sürdürülür.",
+    "Sonuçta cihaz mikrofonu, örneğin her frekansta altmış desibel SPL gibi bilinen ve sabit bir giriş alır.",
+    "Böylece kuplörde ölçülen çıkıştaki değişikliklerin hoparlörden değil, cihazdan kaynaklandığından emin oluruz."
+   ]
+  },
+  {
+   "id": "yerlesim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Test kutusu",
+   "baslik": "Cihaz *nereye* konur?",
+   "maddeler": [
+    {
+     "metin": "Mikrofon test noktasında",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Referans mikrofon hemen yanında",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Kapak kapalı, çevre sessiz",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Kablo ve tüp gergin değil",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "vurgula": [
+     {
+      "parca": "mikrofon",
+      "cumle": 0
+     },
+     {
+      "parca": "alici",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Kutunun içinde, üreticinin işaretlediği bir test noktası bulunur; cihaz mikrofonu bu noktaya yerleştirilir.",
+    "Referans mikrofon, cihaz mikrofonuna olabildiğince yakın, ama ona değmeyecek biçimde durur.",
+    "Cihazın hoparlöre göre yönü de önemlidir; özellikle yönlü mikrofonlu cihazlarda yanlış yön sonucu değiştirir.",
+    "Ölçüm sırasında kutunun kapağı kapatılır ve çevredeki konuşma ya da titreşim en aza indirilir.",
+    "Kuplöre giden tüp ya da kablo bükülmemeli ve gerilmemelidir; aksi halde yüksek frekans yanıtı bozulabilir."
+   ]
+  },
+  {
+   "id": "kuplor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "2 cc kuplör",
+   "baslik": "*2 cc* kuplör nedir?",
+   "maddeler": [
+    {
+     "metin": "Sert duvarlı, 2 cc boşluk",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İçinde ölçüm mikrofonu",
+     "cumle": 1,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Basit, ucuz, tekrarlanabilir",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kulak değil: farklı empedans",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Karşılaştırılabilir",
+      "metin": "Her merkezde aynı",
+      "cumle": 2
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Kulak değil",
+      "metin": "Kulak yolundan farklı",
+      "cumle": 3
+     }
+    ],
+    "ust": "2 cc KUPLÖR"
+   },
+   "cumleler": [
+    "Kuplör (coupler), cihazın çıkışını ölçmek için kullanılan, sert duvarlı ve hacmi iki santimetreküp olan küçük bir boşluktur.",
+    "Boşluğun dibinde, ses basıncını ölçen hassas bir mikrofon bulunur.",
+    "Basit yapısı sayesinde her yerde aynı biçimde üretilebilir ve ölçüm sonuçları merkezler arasında karşılaştırılabilir.",
+    "Ancak sert duvarları, kulak zarı ve kulak yolu dokusunun akustik özelliklerini taklit etmez.",
+    "Bu yüzden kuplör, cihazın kendi özelliklerini ölçmek için idealdir, ama kulaktaki sesi doğrudan göstermez."
+   ]
+  },
+  {
+   "id": "ha",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "2 cc kuplör",
+   "baslik": "*HA-1* ve HA-2",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "HA-1",
+     "metin": "Kulak içi; macunla doğrudan bağlanır",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "HA-2",
+     "metin": "Kulak arkası; kanca ve tüple",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Cihazın kuplöre nasıl bağlandığı sonucu değiştirir; bu yüzden standartlar farklı bağlantı türleri tanımlar.",
+    {
+     "yazi": "HA-1 kuplörü, kulak içi cihazlar ve kalıplar için kullanılır; cihazın ses çıkış ağzı doğrudan kuplörün girişine oturtulur.",
+     "ses": "he a bir kuplörü, kulak içi cihazlar ve kalıplar için kullanılır; cihazın ses çıkış ağzı doğrudan kuplörün girişine oturtulur."
+    },
+    "Bağlantı yeri, ses kaçmasın diye özel bir macunla sızdırmaz hale getirilir.",
+    {
+     "yazi": "HA-2 kuplörü ise kulak arkası cihazlar içindir.",
+     "ses": "he a iki kuplörü ise kulak arkası cihazlar içindir."
+    },
+    "Bu kuplörde kalıbın yerine, standart boyutta bir kalıp benzeri bağlantı ve belirli uzunlukta bir tüp bulunur.",
+    "Böylece kulak arkası cihazın kancası ve tüpü de ölçüme katılır; sonuç standart bir kalıpla kullanımı yansıtır."
+   ]
+  },
+  {
+   "id": "ha_pratik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "2 cc kuplör",
+   "baslik": "Bağlantıda *pratik*",
+   "maddeler": [
+    {
+     "metin": "İnce tüp ve RIC: HA-1 ve adaptör",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Kuplör türü raporda yazılır",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Sızıntı: alçak frekans düşer",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tıkalı tüp: tiz düşer",
+     "cumle": 4,
+     "ikon": "yanlis"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "vurgula": [
+     {
+      "parca": "alici",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "İnce tüplü ve alıcısı kulak içinde olan cihazlar çoğunlukla HA-1 kuplörüne, üreticinin önerdiği bir adaptörle bağlanır.",
+     "ses": "İnce tüplü ve alıcısı kulak içinde olan cihazlar çoğunlukla he a bir kuplörüne, üreticinin önerdiği bir adaptörle bağlanır."
+    },
+    "Aynı cihaz farklı kuplörlerle biraz farklı eğriler verir; bu fark yüksek frekanslarda daha belirgindir.",
+    "Bu yüzden karşılaştırma yaparken üreticinin teknik belgesindeki kuplör türüyle ölçmek ve bunu kayda geçirmek gerekir.",
+    "Bağlantıdaki küçük bir sızıntı, özellikle alçak frekanslarda çıkışın düşük ölçülmesine yol açar.",
+    "Tüpteki su damlası, kir ya da büküm ise yüksek frekans çıkışını azaltır ve yanıltıcı bir arıza görüntüsü verir."
+   ]
+  },
+  {
+   "id": "kulak_fark",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "2 cc kuplör",
+   "baslik": "Kuplör ve *kulak yolu*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 60,
+     "max": 110,
+     "adim": 10,
+     "ad": "Çıkış (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "kuplor",
+      "noktalar": [
+       [
+        250,
+        78
+       ],
+       [
+        500,
+        86
+       ],
+       [
+        1000,
+        95
+       ],
+       [
+        1600,
+        99
+       ],
+       [
+        2000,
+        98
+       ],
+       [
+        3000,
+        94
+       ],
+       [
+        4000,
+        88
+       ],
+       [
+        6000,
+        76
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "2 cc kuplör",
+      "cumle": 1
+     },
+     {
+      "ad": "kulak",
+      "noktalar": [
+       [
+        250,
+        80
+       ],
+       [
+        500,
+        89
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        1600,
+        106
+       ],
+       [
+        2000,
+        106
+       ],
+       [
+        3000,
+        104
+       ],
+       [
+        4000,
+        100
+       ],
+       [
+        6000,
+        90
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "yetişkin kulak yolu",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       88,
+       100
+      ],
+      "xk": 4000,
+      "etiket": "yaklaşık 12 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Küçük hacim, daha yüksek basınç",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Çocukta fark daha büyük",
+     "cumle": 5,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Kuplörle kulak yolu arasındaki farkı bir örnek üzerinde görelim; değerler öğretim amaçlıdır.",
+    {
+     "yazi": "Lacivert eğri, bir cihazın 2 cc kuplörde ölçülen çıkışını gösteriyor.",
+     "ses": "Lacivert eğri, bir cihazın iki santimetreküplük kuplörde ölçülen çıkışını gösteriyor."
+    },
+    "Kesik kırmızı eğri, aynı cihazın bir yetişkinin kalıplı kulak yolunda ürettiği çıkışı gösteriyor.",
+    "Kulak yolundaki çıkış, özellikle yüksek frekanslarda kuplördekinden daha yüksektir; örnekte dört bin hertzde fark yaklaşık on iki desibel.",
+    "Bunun başlıca nedeni, kalıp ile kulak zarı arasında kalan hacmin iki santimetreküpten küçük olmasıdır.",
+    "Bu farka gerçek kulak ile kuplör farkı (real-ear-to-coupler difference), kısaca RECD denir; çocuklarda daha da büyüktür.",
+    "RECD'nin ölçümünü ve çocuklardaki önemini ilerideki bir derste ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "simulator",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "2 cc kuplör",
+   "baslik": "Daha *gerçekçi* bir boşluk",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "2 cc kuplör",
+     "metin": "Basit, sert duvarlı",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Kulak simülatörü",
+     "metin": "Kulak empedansını taklit eder",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Kullanım",
+     "metin": "Kalite kontrolde kuplör",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "2 cc kuplör kulağın akustik özelliklerini taklit etmediği için zamanla daha gerçekçi ölçüm boşlukları da geliştirildi.",
+     "ses": "iki santimetreküplük kuplör kulağın akustik özelliklerini taklit etmediği için zamanla daha gerçekçi ölçüm boşlukları da geliştirildi."
+    },
+    "Bunlardan biri, sıkça Zwislocki tipi olarak anılan tıkalı kulak simülatörüdür (occluded ear simulator).",
+    "Bu düzenekte ek küçük hacimler ve dar kanallar, yetişkin kulak yolunun ve kulak zarının akustik davranışını taklit eder.",
+    "Kulak simülatörü bu nedenle kulaktaki sese daha yakın bir sonuç verir, ama daha karmaşık ve pahalıdır.",
+    {
+     "yazi": "Günlük kalite kontrolde ise basit ve standart olduğu için 2 cc kuplör kullanılmaya devam eder.",
+     "ses": "Günlük kalite kontrolde ise basit ve standart olduğu için iki santimetreküplük kuplör kullanılmaya devam eder."
+    }
+   ]
+  },
+  {
+   "id": "standart",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Standartlar",
+   "baslik": "Hangi *standart*?",
+   "sutunlar": [
+    "Standart",
+    "Kapsam"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "ANSI S3.22",
+      "Özellik ve tolerans (ABD)"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "IEC 60118-7",
+      "Kalite kontrol (uluslararası)"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "IEC 60318-5",
+      "2 cc kuplör tanımı"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "IEC 60318-4",
+      "Tıkalı kulak simülatörü"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ölçümlerin her yerde aynı biçimde yapılması için uluslararası standartlar kullanılır.",
+    {
+     "yazi": "ABD'de temel standart ANSI S3.22'dir; cihaz özelliklerinin nasıl ölçüleceğini ve toleranslarını tanımlar.",
+     "ses": "ABD'de temel standart ansi es üç nokta yirmi ikidir; cihaz özelliklerinin nasıl ölçüleceğini ve toleranslarını tanımlar."
+    },
+    "Üreticiler cihazın teknik belgesini bu standarda göre hazırlar; teslimde ölçülen değerler bu belgeyle karşılaştırılır.",
+    {
+     "yazi": "Uluslararası alanda IEC 60118 serisi kullanılır; kalite kontrol ölçümleri yedinci bölümde tanımlanır.",
+     "ses": "Uluslararası alanda ı e ce altı sıfır bir bir sekiz serisi kullanılır; kalite kontrol ölçümleri yedinci bölümde tanımlanır."
+    },
+    {
+     "yazi": "2 cc kuplörün kendisi IEC 60318 serisinin beşinci bölümünde tanımlanır.",
+     "ses": "İki santimetreküplük kuplörün kendisi ı e ce altı sıfır üç bir sekiz serisinin beşinci bölümünde tanımlanır."
+    },
+    "Tıkalı kulak simülatörü ise aynı serinin dördüncü bölümündedir; standartlar zaman içinde güncellenir, en son sürüm izlenmelidir."
+   ]
+  },
+  {
+   "id": "neden_standart",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Standartlar",
+   "baslik": "Standart ölçüm *ne sağlar?*",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Teknik belgeyle uyum",
+     "metin": "Söz verilen performans",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Karşılaştırma",
+     "metin": "Cihazlar ve zaman arası",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Arıza tespiti",
+     "metin": "Bozulmayı erken gösterir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Standart ölçüm, cihazın üreticinin teknik belgesinde söz verilen özelliklere sahip olup olmadığını gösterir.",
+    "Yeni bir cihaz, taşıma ya da üretim sırasında zarar görmüş olabilir; bu ancak ölçümle anlaşılır.",
+    "Aynı koşullarda yapılan ölçümler, iki cihazı ya da aynı cihazın farklı zamanlardaki durumunu karşılaştırmayı sağlar.",
+    "Standart, cihazın kişiye uygun olup olmadığını söylemez; bu sorunun cevabı gerçek kulak ölçümüyle verilir.",
+    "Ama cihaz bozulduğunda, standart ölçüm bunu çoğu zaman kullanıcı fark etmeden gösterir."
+   ]
+  },
+  {
+   "id": "teslim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kalite kontrol",
+   "baslik": "Teslim öncesi *adımlar*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dinleme kontrolü",
+     "metin": "Stetoklip ile",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Test ayarı",
+     "metin": "Özellikler kapalı",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Ölçüm",
+     "metin": "Standart eğriler",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Karşılaştırma",
+     "metin": "Teknik belgeyle",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Kayıt",
+     "metin": "Dosyada saklanır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Teslimden önce cihaz bir dinleme borusuna, yani stetoklipe takılarak dinlenir; cızırtı ya da kesilme aranır.",
+    "Ardından gürültü azaltma ve geri besleme yönetimi gibi uyarlanabilir özellikler kapatılır ve cihaz test ayarına getirilir.",
+    "Pil yerine, bazı ölçümlerde sabit gerilim veren bir pil simülatörü kullanılabilir.",
+    "Cihaz kuplöre bağlanır; OSPL90, tam açık kazanç, frekans yanıtı, distorsiyon, eşdeğer giriş gürültüsü ve pil akımı ölçülür.",
+    "Ölçülen değerler, cihazın teknik belgesindeki değerlerle standardın toleransları içinde karşılaştırılır.",
+    "Ölçüm çıktısı tarihiyle birlikte kişinin dosyasında saklanır; bu kayıt ileride arıza şüphesinde başvuru noktasıdır."
+   ]
+  },
+  {
+   "id": "tolerans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kalite kontrol",
+   "baslik": "Tolerans içinde *mi?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 200,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 90,
+     "max": 130,
+     "adim": 10,
+     "ad": "OSPL90 (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "uretici",
+      "noktalar": [
+       [
+        200,
+        100
+       ],
+       [
+        500,
+        108
+       ],
+       [
+        1000,
+        114
+       ],
+       [
+        1600,
+        118
+       ],
+       [
+        2500,
+        116
+       ],
+       [
+        4000,
+        110
+       ],
+       [
+        6000,
+        101
+       ],
+       [
+        8000,
+        94
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "üretici eğrisi",
+      "cumle": 0
+     },
+     {
+      "ad": "olcum",
+      "noktalar": [
+       [
+        200,
+        99
+       ],
+       [
+        500,
+        107
+       ],
+       [
+        1000,
+        113
+       ],
+       [
+        1600,
+        116
+       ],
+       [
+        2500,
+        115
+       ],
+       [
+        4000,
+        108
+       ],
+       [
+        6000,
+        99
+       ],
+       [
+        8000,
+        92
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "teslim ölçümü",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hfa",
+      "x": [
+       1000,
+       2500
+      ],
+      "renk": "sari",
+      "etiket": "HFA frekansları",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ortalama",
+      "x": 1600,
+      "y": 114.7,
+      "cizgi": "yatay",
+      "etiket": "HFA: 4 dB içinde",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ortalama: en fazla 4 dB fark",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Eğri biçimi de benzemeli",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Bu örnekte lacivert eğri, üreticinin bildirdiği OSPL90 eğrisini gösteriyor.",
+    "Mavi eğri ise teslimden önce test kutusunda ölçülen eğridir; değerler öğretim amaçlıdır.",
+    "Karşılaştırma, standartta tanımlı yüksek frekans ortalaması, yani bin, bin altı yüz ve iki bin beş yüz hertz için yapılır.",
+    "Daha önce gördüğümüz gibi bu ortalama, teknik belgedeki değerden en fazla dört desibel sapabilir; örnekte fark yaklaşık bir desibel.",
+    "Eğrinin biçimi de üreticinin eğrisine benzemelidir; tek bir frekansta derin bir çukur ya da sivri bir tepe dikkat ister.",
+    "Bu cihaz teslim için uygundur; sonraki adım cihazı kişiye göre ayarlamak ve gerçek kulakta doğrulamaktır."
+   ]
+  },
+  {
+   "id": "ariza",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kalite kontrol",
+   "baslik": "Ölçüm *neyi* gösterir?",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Düşük kazanç",
+     "metin": "Tıkalı alıcı ya da mikrofon",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Yüksek distorsiyon",
+     "metin": "Zayıf pil, hasarlı alıcı",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Yüksek pil akımı",
+     "metin": "Pil çabuk biter",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Test kutusu ölçümü yalnız teslimde değil, kullanıcı bir sorun bildirdiğinde de ilk başvurulan araçtır.",
+    "Kazancın beklenenden düşük çıkması çoğu zaman kirle tıkanmış bir alıcıyı ya da mikrofon girişini düşündürür.",
+    "Distorsiyonun artması zayıf bir pili ya da hasar görmüş bir alıcıyı akla getirir.",
+    "Pil akımının yüksek ölçülmesi, kullanıcının pilin çabuk bittiği yakınmasını açıklayabilir.",
+    "Bu bulgular cihazın temizlik, bakım ya da onarım için doğru yere yönlendirilmesine yardım eder."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Teslim ölçümünü kuplör türü ve test ayarıyla birlikte saklayın. Arıza şüphesinde aynı koşullarda tekrarlayıp iki eğriyi üst üste karşılaştırın.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: teslim ölçümünü yalnız sonuç olarak değil, kullanılan kuplör türü ve test ayarıyla birlikte saklayın.",
+    "Kullanıcı aylar sonra sesin azaldığından yakındığında, ölçümü aynı kuplör, aynı program ve aynı ayarla tekrarlayın.",
+    "İki eğriyi üst üste koymak, sorunun cihazda mı yoksa kulakta ya da beklentide mi olduğunu çoğu zaman hemen gösterir.",
+    "Farklı koşullarda yapılan iki ölçümü karşılaştırmak ise sizi yanlış bir arıza kararına götürebilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Test kutusu: hoparlör, referans mikrofon, kuplör",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "HA-1 kulak içi, HA-2 kulak arkası için",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Kulak yolu, kuplörden daha yüksek basınç üretir",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Teslim ölçümü teknik belgeyle karşılaştırılır",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Test kutusu, eşitlenmiş bir hoparlörle cihaza sabit bir giriş verir ve çıkışı 2 cc kuplördeki mikrofonla ölçer.",
+     "ses": "Test kutusu, eşitlenmiş bir hoparlörle cihaza sabit bir giriş verir ve çıkışı iki santimetreküplük kuplördeki mikrofonla ölçer."
+    },
+    {
+     "yazi": "HA-1 kuplörü kulak içi cihazlar, HA-2 kuplörü ise kancası ve tüpüyle kulak arkası cihazlar için kullanılır.",
+     "ses": "he a bir kuplörü kulak içi cihazlar, he a iki kuplörü ise kancası ve tüpüyle kulak arkası cihazlar için kullanılır."
+    },
+    "Kuplör kulak değildir; kulak yolundaki çıkış, özellikle yüksek frekanslarda kuplördekinden yüksektir.",
+    "Teslim öncesi ölçüm standarda göre yapılır ve teknik belgedeki değerlerle karşılaştırılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "HA-2 kuplörü hangi cihazlar için kullanılır?",
+   "secenekler": [
+    "Kulak içi cihazlar",
+    "Kulak arkası cihazlar",
+    "Kemik yolu cihazları",
+    "Koklear implantlar"
+   ],
+   "dogru": 1,
+   "aciklama": "HA-2'de kalıp yerine standart bir bağlantı ve tüp bulunur; kulak arkası cihaz kancası ve tüpüyle birlikte ölçülür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: HA-2 kuplörü hangi cihazların ölçümü için tasarlanmıştır?",
+     "sonra_bekle": 5,
+     "ses": "Kendinizi test edin: he a iki kuplörü hangi cihazların ölçümü için tasarlanmıştır?"
+    },
+    "Doğru cevap B: kulak arkası cihazlar.",
+    {
+     "yazi": "HA-2'de kalıbın yerine standart bir bağlantı ve tüp bulunur; kulak içi cihazlar ise HA-1 kuplörüne doğrudan bağlanır.",
+     "ses": "he a iki'de kalıbın yerine standart bir bağlantı ve tüp bulunur; kulak içi cihazlar ise he a bir kuplörüne doğrudan bağlanır."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitme cihazı adayı kimdir? İhtiyaç değerlendirmesi",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste işitme cihazı adayının nasıl belirlendiğini ve ihtiyaç değerlendirmesini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,990 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D291_Vaka_Okulda_Zorlanan_Cocuk_APD_TR",
+ "kapak": {
+  "ust": "DERS 291",
+  "baslik": "Vaka: okulda<br>*zorlanan* çocuk",
+  "alt": "Odyogram normal, APD değerlendirmesi",
+  "cizim": "beyin_ustten"
+ },
+ "youtube": {
+  "baslik": "Vaka: Okulda Zorlanan, Odyogramı Normal Çocuk | Ders 291 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir vakada okulda zorlanan ve odyogramı normal olan dokuz yaşındaki bir çocuğu değerlendiriyoruz: periferik işitme, anket ve tarama, dikotik, örüntü, boşluk saptama ve düşük fazlalıklı konuşma testleri, AAA 2010 ölçütü, eş tanılara yönlendirme ve sınıf düzenlemeleri.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: American Academy of Audiology, Clinical Practice Guidelines: Diagnosis, Treatment and Management of Children and Adults with Central Auditory Processing Disorder (2010); ASHA, (Central) Auditory Processing Disorders, Technical Report (2005); Musiek ve Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitselişlemleme",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "işitsel işlemleme bozukluğu",
+   "auditory processing disorder",
+   "APD",
+   "dikotik sayılar",
+   "frekans örüntü testi",
+   "eş tanı",
+   "comorbidity",
+   "sınıf düzenlemeleri",
+   "classroom accommodations",
+   "odyoloji vaka",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 291",
+   "baslik": "Vaka: okulda *zorlanan* çocuk",
+   "alt": "Odyogram normal, işitsel işlemleme değerlendirmesi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste okulda zorlanan, ama odyogramı normal çıkan dokuz yaşında bir çocuğu adım adım değerlendiriyoruz.",
+    "İşitsel işlemleme tarama ve test bataryasını, dikkat ve dil değerlendirmesine yönlendirmeyi ve sınıf önerilerini ele alacağız."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Dokuz yaşında, örnek bir çocuk",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Öğretmen: _dinlemiyor_ gibi",
+     "cumle": 1,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Gürültüde sık sık ne diyor",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Evde, sessizde sorun az",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Küçükken sık orta kulak sıvısı",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "okul",
+      "baslik": "Okulda",
+      "metin": "Yönergeleri kaçırıyor",
+      "cumle": 1
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "Gürültüde",
+      "metin": "Sık tekrar istiyor",
+      "cumle": 2
+     },
+     {
+      "ikon": "ev",
+      "baslik": "Evde",
+      "metin": "Sessizde iyi",
+      "cumle": 3
+     }
+    ],
+    "ust": "ÖYKÜDE"
+   },
+   "cumleler": [
+    "Vakamız tamamen kurgusal bir örnektir: dokuz yaşında, ilkokula giden bir çocuk, öğretmeninin önerisiyle getiriliyor.",
+    "Öğretmen çocuğun derste dinlemiyor gibi göründüğünü, yönergeleri yarım bıraktığını söylemiş.",
+    "Kalabalık sınıfta ve teneffüs sonrasında sık sık ne dediğini soruyor; telefonda da zorlanıyor.",
+    "Aile evde, sessiz ortamda ve yüz yüze konuşurken belirgin bir sorun görmüyor.",
+    "Küçükken sık orta kulak sıvısı geçirmiş; konuşması da yaşıtlarından biraz geç başlamış.",
+    "Daha önce dikkat ya da dil açısından bir değerlendirme yapılmamış."
+   ]
+  },
+  {
+   "id": "gozlem",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Öğretmenin *gözlemleri*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Okuma",
+     "metin": "Yavaş, ses hataları",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Yönergeler",
+     "metin": "Çok adımlıda kopuyor",
+     "cumle": 1
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Dikkat",
+     "metin": "Çabuk dağılıyor",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Grup çalışması",
+     "metin": "En zor ortam",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Öğretmenin gözlemlerine göre çocuk sesli okumada yavaş ve benzer sesleri karıştırıyor.",
+    "Tek adımlı yönergeleri yapabiliyor, ama çok adımlı yönergelerde kopuyor.",
+    "Dikkati çabuk dağılıyor; özellikle uzun dersin sonuna doğru zorlanması artıyor.",
+    "Sınıfın en zor ortamı, birden çok grubun aynı anda konuştuğu grup çalışmaları.",
+    "Bu yakınmalar işitsel işlemleme güçlüğüyle uyumlu olabilir; ama dikkat, dil ve öğrenme güçlüklerinde de aynı biçimde görülür."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periferik işitme",
+   "baslik": "Saf ses: iki kulak *normal*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_ hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_ hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Kemik yolu",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       5,
+       5,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       5,
+       5,
+       10,
+       5,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       5,
+       5,
+       10
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       5,
+       10,
+       5
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Merkezi testlerden önce periferik işitme mutlaka değerlendirilir; iki kulakta hava yolu eşikleri beş ile on beş desibel HL arasında.",
+    "Kemik yolu eşikleri de normal ve hava yoluyla örtüşüyor.",
+    "Konuşmayı alma eşiği iki kulakta beş desibel HL; saf ses ortalamasıyla uyumlu.",
+    "Sessiz ortamda kelime tanıma skoru iki kulakta yüzde yüz.",
+    "Normal odyogram işitsel işlemleme bozukluğu, kısaca APD tanısı koydurmaz; yalnız periferik bir kaybın yakınmaları açıklamadığını gösterir."
+   ]
+  },
+  {
+   "id": "immitans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periferik işitme",
+   "baslik": "İmmitans ve *OAE*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0,
+      "kulak": "sag"
+     },
+     {
+      "tip": "A",
+      "cumle": 0,
+      "kulak": "sol"
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "İki kulak: _A tipi_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Refleks ve OAE: _var_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Gürültüde: _sınırda_",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "Timpanogramlar iki kulakta A tipi; orta kulak işlevi normal.",
+    "İpsilateral ve kontralateral akustik refleksler beklenen düzeylerde alınıyor.",
+    "Otoakustik emisyon, kısaca OAE, iki kulakta var.",
+    "Normal refleksler ve emisyonlar, işitsel nöropati gibi gizli bir periferik ya da sinirsel sorunu da daha az olası kılar.",
+    "Gürültüde cümle testinde ise sonuç, kullanılan testin yaş normuna göre sınırda."
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tarama ve batarya",
+   "baslik": "Tarama ve *anketler*",
+   "maddeler": [
+    {
+     "metin": "Öğretmen ve aile anketi",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Kısa tarama testleri",
+     "cumle": 1,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Tarama tanı değildir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tanısal testler yedi yaştan sonra",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Anket",
+      "metin": "Öğretmen ve aile",
+      "cumle": 0
+     },
+     {
+      "ikon": "tarama",
+      "baslik": "Tarama",
+      "metin": "Kısa testler",
+      "cumle": 1
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Sonuç",
+      "metin": "Ayrıntılı değerlendirme",
+      "cumle": 2
+     }
+    ],
+    "ust": "TARAMA"
+   },
+   "cumleler": [
+    "Periferik işitme normal olduğu için öğretmen ve aileye çocuk işitsel performans ölçeği, kısaca CHAPS gibi bir anket veriliyor.",
+    "Anket ve kısa tarama testleri, gürültüde dinleme ve işitsel bellek alanlarında güçlük olduğunu düşündürüyor.",
+    "Tarama sonucu tanı değildir; yalnız ayrıntılı değerlendirmeye gerek olduğunu gösterir.",
+    "Pek çok kılavuz, sonuçlar değişken olduğu için tanısal testleri yaklaşık yedi yaşından sonra önerir; çocuğumuz dokuz yaşında.",
+    "Bataryaya geçmeden önce çocuğun dikkat, dil ve bilişsel durumu hakkında bilinenler not edilir."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tarama ve batarya",
+   "baslik": "Test *bataryası*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dikotik",
+     "metin": "İki kulağa sayılar",
+     "cumle": 0
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Örüntü",
+     "metin": "İnce kalın dizileri",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Boşluk saptama",
+     "metin": "Gürültüde boşluklar",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Düşük fazlalık",
+     "metin": "Filtrelenmiş konuşma",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüde konuşma",
+     "metin": "Aynı kulağa gürültü",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Dikotik sayılar testinde her kulağa aynı anda iki sayı verilir ve çocuk duyduğu dört sayıyı söyler.",
+    "Frekans örüntü testinde çocuk, ince ve kalın tonlardan oluşan üçlü dizileri sözcüklerle adlandırır.",
+    "Gürültüde boşluklar testi, kısaca GIN, sesin zaman içindeki kısa değişimlerini algılamayı ölçer.",
+    "Filtrelenmiş konuşma testi, tiz bileşenleri süzülmüş sözcüklerle düşük fazlalıklı dinlemeyi değerlendirir.",
+    "Gürültüde konuşma testi de profili tamamlar.",
+    "Testler kayıtlı uyaranlarla, örnek maddelerle görev anlaşıldıktan sonra ve çocuğun dinlenmiş olduğu sabah saatlerinde uygulanıyor."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tarama ve batarya",
+   "baslik": "Test *profili*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 7.6,
+     "ad": "Test",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7
+     ],
+     "yazilar": {
+      "1": "Dikotik sağ",
+      "2": "Dikotik sol",
+      "3": "Örüntü sağ",
+      "4": "Örüntü sol",
+      "5": "GIN",
+      "6": "Filtreli",
+      "7": "Gürültüde"
+     }
+    },
+    "y": {
+     "min": -4,
+     "max": 1,
+     "adim": 1,
+     "ad": "Yaş normuna göre (SS)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        -0.5
+       ],
+       [
+        5,
+        -0.4
+       ],
+       [
+        6,
+        -0.8
+       ],
+       [
+        7,
+        -1.5
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "norm içinde",
+      "cumle": 1
+     },
+     {
+      "ad": "dusuk",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        -3.0
+       ],
+       [
+        3,
+        -2.6
+       ],
+       [
+        4,
+        -2.8
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "iki SS altı",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sinir",
+      "y": [
+       -4,
+       -2
+      ],
+      "renk": "sari",
+      "etiket": "iki standart sapma altı",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Dikotik: _sol kulak_ düşük",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Örüntü: _iki kulak_ düşük",
+     "cumle": 2,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Dikkat: _korundu_",
+     "cumle": 6,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Grafik her testin sonucunu, çocuğun yaşına göre normdan kaç standart sapma uzakta olduğuna göre gösteriyor.",
+    "Mavi çubuklar norm içinde kalan sonuçlar: dikotik sayılarda sağ kulak, GIN, filtrelenmiş konuşma ve gürültüde konuşma.",
+    "Kırmızı çubuklar iki standart sapmanın altında kalanlar: dikotik sayılarda sol kulak ve frekans örüntü testinde iki kulak.",
+    "Dikotik testte sağ kulak üstünlüğü normalde de vardır; ama buradaki fark yaş normunun beklediğinden büyüktür.",
+    "Frekans örüntü testinde iki kulakta birden düşük sonuç sık görülür; çünkü sözel adlandırma iki yarıkürenin birlikte çalışmasını gerektirir.",
+    "Gürültüde konuşma sonucu sınırda; tek başına anlamlı sayılmaz.",
+    "Çocuk test boyunca istekliydi ve dikkati görevlerde iyi korundu; bu gözlem de rapora yazılıyor."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tarama ve batarya",
+   "baslik": "Ölçütü *uygula*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "İki test",
+     "metin": "Farklı süreçler",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Bir kulak",
+     "metin": "En az birinde",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İki SS",
+     "metin": "Ya da daha fazla",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Bu çocukta",
+     "metin": "Dikotik ve örüntü",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Amerikan Odyoloji Akademisinin 2010 kılavuzunda sık atıf yapılan bir ölçüt vardır.",
+     "ses": "Amerikan Odyoloji Akademisinin iki bin on kılavuzunda sık atıf yapılan bir ölçüt vardır."
+    },
+    "Buna göre en az iki farklı testte, en az bir kulakta sonuç normun altında kalmalıdır.",
+    "Bu fark, normun iki standart sapma ya da daha fazla altında olmalıdır.",
+    "Vakamızda dikotik sayılar ve frekans örüntü testleri bu ölçütü karşılıyor.",
+    "Ölçüt APD ile uyumlu bir profili destekler; ama tanı, eş tanılar değerlendirildikten sonra ekip ve hekimle birlikte konur."
+   ]
+  },
+  {
+   "id": "profil",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Tarama ve batarya",
+   "baslik": "Profil ne *düşündürür*?",
+   "cizim": "beyin_ustten",
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "yedi",
+     "dört"
+    ],
+    "yol_cumleleri": {
+     "capraz_yol_sag": 0,
+     "capraz_yol_sol": 0,
+     "kallozal_yol": 1
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "corpus_callosum",
+     "metin": "Corpus callosum",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "corpus_callosum",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sol kulak: _kallozal yol_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Örüntü: _iki yarıküre_",
+     "cumle": 2,
+     "ikon": "muzik"
+    }
+   ],
+   "cumleler": [
+    "Dikotik testte sol kulağa gelen sözel bilgi önce sağ yarıküreye ulaşır.",
+    "Dil için baskın olan sol yarıküreye geçmek için corpus callosumdan geçmesi gerekir.",
+    "Frekans örüntüsünü sözcüklerle adlandırmak da iki yarıküre arasındaki aktarımı gerektirir.",
+    "Bu yüzden dikotik testte sol kulağın ve örüntü testinde iki kulağın birlikte düşmesi, yarıküreler arası aktarım sorusunu güçlendirir.",
+    "Bu bir yorum yönüdür, tanı değildir; profil, müdahaleyi planlarken yol gösterir."
+   ]
+  },
+  {
+   "id": "es_tani",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yönlendirme ve sınıf",
+   "baslik": "Eş tanıları *araştır*",
+   "ogeler": [
+    {
+     "ikon": "dikkat",
+     "baslik": "Dikkat",
+     "metin": "Ruh sağlığı hekimi",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Dil",
+     "metin": "Dil ve konuşma terapisti",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Okuma, öğrenme",
+     "metin": "Eğitsel değerlendirme",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Genel sağlık",
+     "metin": "Çocuk hekimi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "APD sıklıkla başka gelişimsel durumlarla birlikte görülür; buna eş tanı (comorbidity) denir.",
+    "En sık birliktelik dikkat eksikliği ve hiperaktivite bozukluğu, kısaca DEHB ile görülür.",
+    "Çocuk, dikkat değerlendirmesi için çocuk ve ergen ruh sağlığı hekimine; dil değerlendirmesi için dil ve konuşma terapistine yönlendiriliyor.",
+    "Okuma güçlüğü için okul ve Rehberlik ve Araştırma Merkezi, kısaca RAM ile eğitsel değerlendirme konuşuluyor.",
+    "Çocuk hekimi de genel sağlık ve gelişim açısından sürecin içinde yer alır.",
+    "Bu değerlendirmeler APD'yi dışlamak için değil, çocuğun bütün gereksinimlerini görmek için yapılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Düşük bir skoru hemen APD saymayın. Dikkat, yorgunluk ve dil, merkezi testleri kolayca bozar.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: işitsel işlemleme testleri dikkat, motivasyon ve dil becerilerine çok duyarlıdır.",
+    "Yorgun ya da isteksiz bir çocuğun düşük skoru, işitsel bir sorundan çok o anki durumu yansıtabilir.",
+    "Bataryayı dinlenmiş bir saatte uygulayın, gerekirse iki oturuma bölün ve test sırasındaki davranışı not edin.",
+    "Dile dayalı testlerde düşük, dil yükü az testlerde normal sonuç, dil ve dikkat etkenlerini düşündürür."
+   ]
+  },
+  {
+   "id": "sinif",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yönlendirme ve sınıf",
+   "baslik": "Sınıf *düzenlemeleri*",
+   "maddeler": [
+    {
+     "metin": "Öğretmene yakın, ön sıra",
+     "cumle": 0,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Sınıf gürültüsünü azaltma",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Uzak mikrofon sistemi denemesi",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Yazılı ve görsel yönergeler",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Anladığını kontrol etme",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "oda_plani",
+    "cumle": 0,
+    "ayar": {
+     "mod": "kritik_mesafe",
+     "kritik_mesafe_m": 1.5,
+     "oda": [
+      9,
+      7
+     ],
+     "halka_cumle": 0
+    },
+    "vurgula": [
+     {
+      "parca": "on_siralar",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Çocuğun öğretmene yakın, ama kapı ve pencere gibi gürültü kaynaklarından uzak bir yerde oturması önerilir.",
+    "Sınıf gürültüsü azaltılmalıdır; Amerikan Konuşma, Dil ve İşitme Derneği sınıfta en az artı on beş desibellik sinyal-gürültü oranı önerir.",
+    "Öğretmenin sesini doğrudan çocuğa ileten uzak mikrofon sistemi, bir deneme süreciyle değerlendirilebilir.",
+    "Önemli yönergelerin tahtaya da yazılması ve çok adımlı yönergelerin bölünmesi yararlıdır.",
+    "Öğretmen, çocuğa yönergeyi kendi sözcükleriyle tekrar ettirerek anlayıp anlamadığını kontrol edebilir.",
+    "Bu sınıf düzenlemeleri (classroom accommodations), öğretmene kısa ve yazılı bir liste olarak verilir."
+   ]
+  },
+  {
+   "id": "plan",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yönlendirme ve sınıf",
+   "baslik": "Aile ve *izlem* planı",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Aileyle paylaşım",
+     "metin": "Sade ve somut",
+     "cumle": 0
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Öğretmene liste",
+     "metin": "Üç beş öneri",
+     "cumle": 1
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Mikrofon denemesi",
+     "metin": "Yarar ölçülür",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "İşitsel eğitim",
+     "metin": "Hedefli çalışma",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzlem",
+     "metin": "Altı ay sonra",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Sonuçlar aileye, çocuğun duymasında değil, gürültüde ve hızlı konuşmada duyduğunu işlemesinde güçlük olabileceği biçiminde anlatılıyor.",
+    "Öğretmene hemen uygulanabilecek üç beş somut öneri yazılı olarak veriliyor.",
+    "Uzak mikrofon denemesi, öğretmen ve aile anketleriyle denemeden önce ve sonra değerlendiriliyor.",
+    "Profile göre dikotik dinlemeyi hedefleyen işitsel eğitim de planlanabilir.",
+    "Eş tanı değerlendirmelerinin sonuçlarıyla birlikte, yaklaşık altı ay sonra yeniden değerlendirme yapılır."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yönlendirme ve sınıf",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "Periferik işitme normal",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Dikotik sol ve örüntü düşük",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Dikkat test boyunca korundu",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Eş tanı değerlendirmesi önerildi",
+     "cumle": 3,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Sınıf önerileri eklendi",
+     "cumle": 4,
+     "ikon": "okul"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0.4,
+      "max": 7.6,
+      "ad": "Test",
+      "isaretler": [
+       1,
+       2,
+       3,
+       4,
+       5,
+       6,
+       7
+      ],
+      "yazilar": {
+       "1": "Dikotik sağ",
+       "2": "Dikotik sol",
+       "3": "Örüntü sağ",
+       "4": "Örüntü sol",
+       "5": "GIN",
+       "6": "Filtreli",
+       "7": "Gürültüde"
+      }
+     },
+     "y": {
+      "min": -4,
+      "max": 1,
+      "adim": 1,
+      "ad": "Yaş normuna göre (SS)"
+     },
+     "seriler": [
+      {
+       "ad": "normal",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1,
+         -0.5
+        ],
+        [
+         5,
+         -0.4
+        ],
+        [
+         6,
+         -0.8
+        ],
+        [
+         7,
+         -1.5
+        ]
+       ],
+       "renk": "mavi",
+       "etiket": "norm içinde",
+       "cumle": 1
+      },
+      {
+       "ad": "dusuk",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         2,
+         -3.0
+        ],
+        [
+         3,
+         -2.6
+        ],
+        [
+         4,
+         -2.8
+        ]
+       ],
+       "renk": "kirmizi",
+       "etiket": "iki SS altı",
+       "cumle": 1
+      }
+     ],
+     "bolgeler": [
+      {
+       "ad": "sinir",
+       "y": [
+        -4,
+        -2
+       ],
+       "renk": "sari",
+       "etiket": "iki standart sapma altı",
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Örnek rapor dili: iki kulakta saf ses eşikleri, immitans bulguları ve OAE normal sınırlardadır.",
+    "Dikotik sayılarda sol kulakta ve frekans örüntü testinde iki kulakta yaş normunun iki standart sapma altında performans saptanmıştır.",
+    "Test boyunca dikkat ve iş birliği iyi düzeydeydi; GIN ve filtrelenmiş konuşma normal sınırlardaydı.",
+    "Bulgular işitsel işlemleme güçlüğüyle uyumlu bir profil göstermektedir; dikkat, dil ve eğitsel değerlendirme önerilir.",
+    "Sınıf önerileri ve uzak mikrofon denemesi ekte sunulmuştur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Önce periferik işitmeyi tam değerlendir",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Batarya: farklı süreçler, yaş normu",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Eş tanılar ekip içinde araştırılır",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Sınıf önerileri kısa ve yazılı",
+     "cumle": 3,
+     "ikon": "okul"
+    }
+   ],
+   "cumleler": [
+    "Okulda zorlanan çocukta önce periferik işitme saf ses, konuşma, immitans ve OAE ile tam olarak değerlendirilir.",
+    "APD bataryası farklı süreçleri ölçer; en az iki testte, en az bir kulakta iki standart sapma altı performans tanıyı destekler.",
+    "Dikkat, dil ve öğrenme güçlükleri sık eşlik eder ve ilgili uzmanlarca değerlendirilir; tanı ekip kararıdır.",
+    "Sınıf önerileri ve uzak mikrofon, öğretmene kısa ve yazılı bir listeyle iletilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "AAA 2010'a göre APD'yi hangi bulgu destekler?",
+   "secenekler": [
+    "Tek testte düşük skor",
+    "İki testte iki SS altı",
+    "Normal odyogram",
+    "Öğretmen yakınması"
+   ],
+   "dogru": 1,
+   "aciklama": "En az _iki testte_, en az bir kulakta iki standart sapma altı.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Amerikan Odyoloji Akademisinin 2010 ölçütüne göre hangi bulgu APD tanısını destekler?",
+     "sonra_bekle": 5,
+     "ses": "Kendinizi test edin: Amerikan Odyoloji Akademisinin iki bin on ölçütüne göre hangi bulgu APD tanısını destekler?"
+    },
+    "Doğru cevap B: en az iki testte, en az bir kulakta normun iki standart sapma altında performans.",
+    "Tek bir düşük skor dikkat ya da yorgunlukla kolayca açıklanabilir; normal odyogram ise tek başına tanı koydurmaz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: yataktan kalkarken dönme: *posterior kanal* BPPV",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki vakada yataktan kalkarken başı dönen bir erişkini ve posterior kanal benign paroksismal pozisyonel vertigosunu inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

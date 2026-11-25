@@ -1,0 +1,649 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D251_Isitsel_Islemleme_Bozuklugu_TR",
+ "kapak": {
+  "ust": "DERS 251",
+  "baslik": "İşitsel işlemleme<br>*bozukluğu*",
+  "alt": "APD nedir, neden tartışmalıdır?",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "İşitsel işlemleme bozukluğu (APD) nedir? | Ders 251 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyogramı normal olduğu halde gürültüde konuşmayı anlamakta zorlanan bir çocukta ne düşünmeliyiz? Bu derste ASHA (2005) ve BSA tanımlarıyla işitsel işlemleme bozukluğunu (APD), belirtilerini, dikkat, dil ve öğrenme güçlükleriyle ilişkisini ve tanıdaki tartışmalı noktaları öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: American Speech-Language-Hearing Association, (Central) Auditory Processing Disorders, Technical Report (2005); British Society of Audiology, Position Statement and Practice Guidance: Auditory Processing Disorder (2018); American Academy of Audiology, Clinical Practice Guidelines: Diagnosis, Treatment and Management of Children and Adults with Central Auditory Processing Disorder (2010); Musiek ve Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "APD",
+   "işitselişlemleme"
+  ],
+  "etiketler": [
+   "işitsel işlemleme bozukluğu",
+   "auditory processing disorder",
+   "APD",
+   "santral işitsel işlemleme",
+   "CAPD",
+   "dikkat eksikliği",
+   "gürültüde konuşmayı anlama",
+   "eş tanı",
+   "ASHA",
+   "BSA",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 251",
+   "baslik": "İşitsel işlemleme *bozukluğu*",
+   "alt": "APD: tanımlar, belirtiler ve tartışmalar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel işlemleme bozukluğunun ne olduğunu, kılavuzlarda nasıl tanımlandığını öğreneceğiz.",
+    "Ardından dikkat, dil ve öğrenme güçlükleriyle ilişkisini ve tanıdaki tartışmalı noktaları ele alacağız."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanımlar",
+   "baslik": "APD *nedir?*",
+   "maddeler": [
+    {
+     "metin": "Duymak ile _anlamak_ arasındaki sorun",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Odyogram çoğu zaman normal",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Merkezi işitme yollarında işlemleme",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Konuşma ve konuşma dışı seslerde",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "APD",
+    "metin": "*İşitsel işlemleme* bozukluğu (auditory processing disorder)",
+    "cumle": 0
+   },
+   "cumleler": [
+    "İşitsel işlemleme bozukluğu (auditory processing disorder), kısaca APD olarak anılır.",
+    "En basit anlatımla APD, sesin duyulmasında değil, duyulan sesin beyinde işlenmesinde yaşanan bir güçlüktür.",
+    "Bu kişilerin saf ses odyogramı çoğu zaman normaldir; yani sorun kulağın eşik duyarlılığında değildir.",
+    "Güçlük, işitme sinirinden işitsel kortekse kadar uzanan merkezi işitme yollarındaki işlemlemeyle ilgilidir.",
+    "Bu yüzden literatürde santral işitsel işlemleme bozukluğu (central auditory processing disorder) terimi de kullanılır.",
+    "Sorun yalnız konuşmada değil, ton dizileri gibi konuşma dışı seslerin işlenmesinde de görülebilir.",
+    "Ancak tanımı, sınırları ve hatta ayrı bir bozukluk olup olmadığı uzun süredir tartışılmaktadır."
+   ]
+  },
+  {
+   "id": "asha",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanımlar",
+   "baslik": "ASHA 2005: *işitsel süreçler*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Lokalizasyon",
+     "metin": "Sesin yerini bulma",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ayırt etme",
+     "metin": "Benzer sesleri ayırma",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Zamansal işlemleme",
+     "metin": "Örüntü tanıma",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Yarışan sinyaller",
+     "metin": "İki kulak, arka plan",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Bozulmuş sinyal",
+     "metin": "Filtrelenmiş, hızlandırılmış",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Amerikan Konuşma, Dil ve İşitme Derneği, yani ASHA, 2005 tarihli teknik raporunda APD'yi bir dizi işitsel sürece göre tanımlar.",
+     "ses": "Amerikan Konuşma, Dil ve İşitme Derneği, yani Aşa, 2005 tarihli teknik raporunda APD'yi bir dizi işitsel sürece göre tanımlar."
+    },
+    "Bunların ilki, ses kaynağının yerini bulma ve sesi başın içinde bir yana yerleştirme becerileridir.",
+    "İkincisi, birbirine benzeyen sesleri ayırt edebilme, yani işitsel ayırt etmedir.",
+    "Ardından seslerin örüntüsünü tanıma ve sesin zaman içindeki özelliklerini işleme becerileri gelir.",
+    "Bir başka süreç, iki kulağa aynı anda farklı sinyaller geldiğinde ya da arka planda yarışan bir ses varken dinleyebilmektir.",
+    "Sonuncusu ise filtrelenmiş ya da hızlandırılmış gibi bozulmuş bir sinyali anlayabilmektir.",
+    {
+     "yazi": "ASHA'ya göre APD, bu süreçlerin birinde ya da birkaçında zayıf performansla görülür; yalnız dil ya da bilişsel sorunlarla açıklanamaz.",
+     "ses": "Aşa'ya göre APD, bu süreçlerin birinde ya da birkaçında zayıf performansla görülür; yalnız dil ya da bilişsel sorunlarla açıklanamaz."
+    }
+   ]
+  },
+  {
+   "id": "bsa",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanımlar",
+   "baslik": "ASHA ve *BSA* yaklaşımı",
+   "sol": {
+    "ust": "ASHA (2005)",
+    "maddeler": [
+     {
+      "metin": "Merkezi sinir sisteminde işlemleme",
+      "cumle": 0
+     },
+     {
+      "metin": "Tanımlı işitsel süreçler",
+      "cumle": 1
+     },
+     {
+      "metin": "Test bataryasına dayalı tanı",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "BSA",
+    "maddeler": [
+     {
+      "metin": "Bozulmuş sinirsel işlev",
+      "cumle": 3
+     },
+     {
+      "metin": "Günlük dinleme güçlüğü vurgusu",
+      "cumle": 5
+     },
+     {
+      "metin": "Üç alt tür tanımlar",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "ASHA, APD'yi merkezi sinir sistemindeki işitsel bilginin algısal işlenmesinde yaşanan bir güçlük olarak tanımlar.",
+     "ses": "Aşa, APD'yi merkezi sinir sistemindeki işitsel bilginin algısal işlenmesinde yaşanan bir güçlük olarak tanımlar."
+    },
+    "Bu tanım, az önce saydığımız ölçülebilir işitsel süreçleri temel alır.",
+    "Tanı da bu süreçleri ölçen davranışsal ve gerekirse elektrofizyolojik testlerden oluşan bir bataryaya dayanır.",
+    "İngiliz Odyoloji Derneği, yani BSA ise APD'yi bozulmuş sinirsel işlevden kaynaklanan bir durum olarak tanımlar.",
+    "BSA tanımına göre konuşma ve konuşma dışı seslerin tanınması, ayırt edilmesi, ayrıştırılması, yerinin bulunması ya da sıralanması zayıftır.",
+    "BSA, kişinin günlük yaşamdaki dinleme güçlüğünü ve bu güçlüğün dikkat ve dil gibi üst düzey süreçlerle etkileşimini özellikle vurgular.",
+    "Ayrıca APD'yi kökenine göre üç alt türe ayırır."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanımlar",
+   "baslik": "BSA'ya göre *alt türler*",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Gelişimsel",
+     "metin": "Belirgin neden yok",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Edinsel",
+     "metin": "Nörolojik olay sonrası",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "İkincil",
+     "metin": "Periferik işitme sorunu sonrası",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Gelişimsel APD, belirgin bir neden olmadan çocuklukta ortaya çıkan ve normal işitmeyle birlikte görülen türdür.",
+    "Klinikte en sık karşılaşılan ve en çok tartışılan tür budur.",
+    "Edinsel APD, kafa travması, inme ya da nörodejeneratif bir hastalık gibi bir olaydan sonra gelişir.",
+    "İkincil APD ise periferik bir işitme sorununa bağlıdır; örneğin erken çocuklukta uzun süren orta kulak sıvısı sonrasında görülebilir.",
+    "Bu ayrım, nedenin anlaşılmasına ve uygun yönlendirmenin yapılmasına yardımcı olur."
+   ]
+  },
+  {
+   "id": "yollar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Belirtiler",
+   "baslik": "İşlemleme *nerede* olur?",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "superior_oliver",
+     "metin": "superior oliver kompleks",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior kollikulus",
+     "cumle": 3
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "işitsel korteks",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İki kulak bilgisi beyin sapında birleşir",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Korteks: anlam ve sıralama",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Hemisferler arası aktarım",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "İşitsel işlemleme tek bir noktada değil, koklear nükleustan, yani koklear çekirdekten kortekse uzanan bütün bir ağda gerçekleşir.",
+    "Kokleadan gelen sinyal, beyin sapında hızla ve çok kez yeniden işlenir.",
+    "Superior oliver kompleks, yani üst zeytin çekirdekleri, iki kulağın bilgisini ilk kez karşılaştırır; bu, ses kaynağını bulmanın temelidir.",
+    "İnferior kollikulus, yani alt tepecik gibi orta beyin merkezleri, zamansal ve frekans bilgisini birleştirir.",
+    "İşitsel korteks ise seslerin örüntüsünü, sırasını ve anlamını çözer.",
+    "İki kulağa farklı sesler verildiğinde, iki beyin yarımküresi arasındaki aktarım da önem kazanır.",
+    "Bu ağın herhangi bir bölümünde verimsizlik, odyogramı etkilemeden dinleme güçlüğüne yol açabilir."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Belirtiler",
+   "baslik": "Sık görülen *şikayetler*",
+   "maddeler": [
+    {
+     "metin": "_Gürültüde_ konuşmayı anlamakta güçlük",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Çok basamaklı yönergeleri izleyememe",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sık tekrar isteme, geç yanıt",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Kolay dikkat dağılması",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Okuma, yazma ve müzikte güçlük",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "En sık şikayet, sessiz ortamda sorun yaşamayan çocuğun kalabalık sınıfta ya da gürültüde konuşmayı anlamakta zorlanmasıdır.",
+    "Arka arkaya verilen çok basamaklı sözel yönergeleri izlemek zor olabilir.",
+    "Çocuk sık sık ne, efendim diye tekrar isteyebilir ya da sözlü sorulara geç yanıt verebilir.",
+    "Dikkati kolay dağılır ve uzun süre dinlemesi gereken etkinliklerde çabuk yorulur.",
+    "Ses kaynağının yerini bulmakta zorlanma da bildirilebilir.",
+    "Bazı çocuklarda okuma, yazım ve müzikle ilgili güçlükler de eşlik eder.",
+    "Bu belirtilerin hiçbiri APD'ye özgü değildir; aynı şikayetler başka pek çok durumda da görülebilir."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Belirtiler",
+   "baslik": "Örnek: *normal* odyogram",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Tüm eşikler _normal_ bölgede",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       5,
+       5,
+       10,
+       5,
+       10
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       5,
+       10,
+       5,
+       5,
+       10,
+       10
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Bu örnekte, gürültüde anlamakta zorlandığı bildirilen bir çocuğun odyogramını görüyoruz.",
+    "İki kulakta da bütün eşikler normal bölgede.",
+    "Yani bu çocuk sesleri duyuyor; ancak bu odyogram, sesin beyinde nasıl işlendiği hakkında bilgi vermez.",
+    "Normal bir odyogram APD tanısı koydurmaz; yalnızca periferik bir kaybın şikayetleri açıklamadığını gösterir.",
+    "Bir sonraki adım, şikayetlerin nedenini anlamak için daha kapsamlı bir değerlendirme planlamaktır."
+   ]
+  },
+  {
+   "id": "es_tani",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eş tanılar",
+   "baslik": "Dikkat, dil ve *öğrenme*",
+   "maddeler": [
+    {
+     "metin": "Dikkat eksikliği ve hiperaktivite (DEHB)",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Gelişimsel dil bozukluğu",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Disleksi ve öğrenme güçlükleri",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Otizm spektrum bozukluğu",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EŞ TANI (COMORBIDITY)",
+    "metin": "İki ya da daha fazla durumun *birlikte* görülmesi",
+    "cumle": 0
+   },
+   "cumleler": [
+    "APD sıklıkla başka gelişimsel durumlarla birlikte görülür; buna eş tanı (comorbidity) denir.",
+    "En sık birliktelik, dikkat eksikliği ve hiperaktivite bozukluğu, kısaca DEHB ile görülür.",
+    "Gelişimsel dil bozukluğu olan çocuklarda da işitsel işlemleme testlerinde zayıf performans sık bildirilir.",
+    "Disleksi ve diğer öğrenme güçlükleri de APD ile sık birlikte görülen durumlardır.",
+    "Otizm spektrum bozukluğu olan bazı çocuklarda da benzer dinleme güçlükleri tanımlanır.",
+    "Bu birliktelik iki yönlüdür: APD diğer güçlükleri artırabilir, diğer durumlar da işitsel test performansını düşürebilir.",
+    "Bu yüzden değerlendirme, odyolog, dil ve konuşma terapisti, psikolog ve öğretmenin birlikte çalıştığı bir ekip işidir."
+   ]
+  },
+  {
+   "id": "ayirim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Eş tanılar",
+   "baslik": "Periferik kayıp mı, *APD* mi?",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Periferik kayıp",
+     "metin": "Eşik kaybı, sessizde de güçlük",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "APD",
+     "metin": "Odyogram normal, sorun işlemlemede",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Periferik işitme kaybında odyogramda eşik kaybı görülür.",
+    "Kayıp derecesine göre kişi sessiz ortamda da yumuşak sesleri kaçırabilir.",
+    "Amplifikasyon, eksik duyulan sesleri yeniden duyulur hale getirebilir.",
+    "APD'de ise odyogram çoğu zaman normaldir.",
+    "Güçlük özellikle gürültüde, yankılı ortamlarda ve hızlı konuşmada belirginleşir.",
+    "Sorun sesin ulaşmasında değil, işlenmesindedir; bu yüzden yalnız sesi yükseltmek çoğu zaman yeterli olmaz."
+   ]
+  },
+  {
+   "id": "tartisma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tartışmalı noktalar",
+   "baslik": "Tanıdaki *tartışmalar*",
+   "maddeler": [
+    {
+     "metin": "Altın standart test yok",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Testler dikkat ve dilden etkilenir",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Sadece işitsel mi? _Modaliteye özgüllük_",
+     "cumle": 4,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Tanı ölçütleri ve sıklık tahminleri değişken",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "APD tanısındaki en temel sorun, kabul görmüş bir altın standart testin olmamasıdır.",
+    "Tanı, birden fazla testten oluşan bir bataryanın sonuçlarına ve bunların nasıl yorumlandığına dayanır.",
+    "Bu testlerin çoğu davranışsaldır; yani çocuğun dikkatinden, belleğinden, dil becerisinden ve motivasyonundan etkilenir.",
+    "Bazı araştırmacılar, testlerdeki zayıf performansın işitsel bir sorundan çok dikkat ve bilişsel etkenleri yansıttığını öne sürmüştür.",
+    "Bu tartışmanın merkezinde modaliteye özgüllük sorusu vardır: güçlük yalnız işitsel mi, yoksa görsel alanda da var mı?",
+    "Tanı ölçütleri merkezler arasında farklılık gösterdiği için çocuklardaki sıklık tahminleri de geniş bir aralıkta değişir.",
+    {
+     "yazi": "Sık atıf yapılan tahmin yaklaşık yüzde 2 ile 5'tir; ama çok daha düşük değerler de bildirilmiştir.",
+     "ses": "Sık atıf yapılan tahmin yaklaşık yüzde iki ile beştir; ama çok daha düşük değerler de bildirilmiştir."
+    },
+    "Bu nedenle APD tanısı dikkatle, ekip içinde ve sınırları bilinerek konmalıdır."
+   ]
+  },
+  {
+   "id": "yaklasim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tartışmalı noktalar",
+   "baslik": "Değerlendirme *yaklaşımı*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Periferik değerlendirme",
+     "metin": "Önce tam işitme testi",
+     "cumle": 0
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Yaş",
+     "metin": "Yaklaşık 7 yaş ve üzeri",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tanı ölçütü",
+     "metin": "İki testte 2 standart sapma",
+     "cumle": 4
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Destek",
+     "metin": "Ortam düzenlemesi, uzak mikrofon",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Değerlendirme her zaman tam bir periferik işitme değerlendirmesiyle başlar.",
+    "Bu değerlendirme saf ses ve konuşma testlerini, timpanometriyi, akustik refleksleri ve otoakustik emisyonu kapsar.",
+    "Bu adım, şikayetleri açıklayabilecek bir periferik kaybı ya da işitsel nöropati gibi bir durumu dışlamak için gereklidir.",
+    "Pek çok kılavuz, sonuçların değişkenliği nedeniyle tanısal testlerin yaklaşık 7 yaşından itibaren yapılmasını önerir.",
+    "Sık kullanılan bir ölçüte göre, en az iki testte yaşa göre normun 2 standart sapma altında performans tanıyı destekler.",
+    "Test sonuçları; öykü, öğretmen ve aile gözlemleri ve diğer uzmanların değerlendirmeleriyle birlikte yorumlanır.",
+    "Destek tarafında sınıfta ön sıraya oturma, gürültüyü azaltma ve uzak mikrofon sistemleri gibi ortam düzenlemeleri öne çıkar.",
+    "Bunlara ek olarak işitsel beceri eğitimi ve dil temelli stratejiler de ekip kararıyla planlanabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "APD testlerinde çocuğun dikkat ve yorgunluğunu izleyin. Kısa aralar verin, yönergenin anlaşıldığını kontrol edin; dikkatsiz bir oturumun sonucu yanıltıcıdır.",
+   "cumleler": [
+    "Sahadan bir ipucu: işitsel işlemleme testleri dikkat ve motivasyona çok duyarlıdır.",
+    "Uzun bir oturumun sonunda yorulan bir çocuk, işitsel bir sorunu olmasa bile düşük puan alabilir.",
+    "Bu yüzden testleri kısa bölümlere ayırın, ara verin ve her testten önce yönergenin anlaşıldığını örnek maddelerle kontrol edin.",
+    "Çocuğun test sırasındaki davranışını not etmek, sonuçların yorumunda çok değerlidir.",
+    "Dikkatin açıkça dağıldığı bir oturumun sonuçlarına dayanarak tanı konmamalı; gerekirse test başka bir gün tekrarlanmalıdır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "APD: duyulan sesin işlenmesinde güçlük",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "ASHA ve BSA tanımları",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "DEHB, dil ve öğrenme güçlükleriyle iç içe",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Altın standart yok, ekip yaklaşımı şart",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "Bu derste APD'nin, odyogram çoğu zaman normalken duyulan sesin merkezi işitme yollarında işlenmesinde yaşanan bir güçlük olduğunu gördük.",
+    {
+     "yazi": "ASHA tanımı ölçülebilir işitsel süreçlere, BSA tanımı ise sinirsel işleve ve günlük dinleme güçlüğüne odaklanır.",
+     "ses": "Aşa tanımı ölçülebilir işitsel süreçlere, BSA tanımı ise sinirsel işleve ve günlük dinleme güçlüğüne odaklanır."
+    },
+    "APD, dikkat, dil ve öğrenme güçlükleriyle sık birlikte görülür ve bunlardan ayırt edilmesi zordur.",
+    "Altın standart bir test olmadığı için tanı, bir test bataryası ve ekip değerlendirmesiyle dikkatle konmalıdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "APD değerlendirmesinde ilk adım hangisidir?",
+   "secenekler": [
+    "Dikotik dinleme testi",
+    "Tam periferik işitme değerlendirmesi",
+    "Uzak mikrofon denemesi",
+    "Zamansal örüntü testi"
+   ],
+   "dogru": 1,
+   "aciklama": "Önce _periferik bir kayıp_ dışlanmalıdır; merkezi testler ancak sonra yorumlanır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: işitsel işlemleme bozukluğu şüphesinde değerlendirmenin ilk adımı hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: tam bir periferik işitme değerlendirmesi.",
+    "Periferik bir kayıp dışlanmadan merkezi işitsel testlerin sonuçları doğru yorumlanamaz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "APD test bataryası: *dikotik*, zamansal ve düşük fazlalıklı testler",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste APD test bataryasını; dikotik dinleme, zamansal örüntü ve düşük fazlalıklı konuşma testlerini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

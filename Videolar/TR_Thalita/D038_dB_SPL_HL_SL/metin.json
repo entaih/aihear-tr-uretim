@@ -1,0 +1,691 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D038_dB_SPL_HL_SL_TR",
+ "kapak": {
+  "ust": "DERS 38",
+  "baslik": "SPL, HL<br>ve *SL*",
+  "alt": "Hangi desibel, ne zaman?",
+  "cizim": "desibel_olcegi"
+ },
+ "youtube": {
+  "baslik": "dB SPL, dB HL ve dB SL: Hangisi Ne Zaman Kullanılır? | Ders 38 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Desibel her zaman bir referansa göre ölçülür. Bu derste ses basınç düzeyi (dB SPL), işitme düzeyi (dB HL) ve duyum düzeyi (dB SL) arasındaki farkı, RETSPL değerlerini ve odyogramdaki 0 dB HL çizgisinin anlamını örneklerle inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; ISO 389-1, Acoustics: Reference zero for the calibration of audiometric equipment; ANSI S3.6, Specification for Audiometers.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "desibel",
+   "işitme"
+  ],
+  "etiketler": [
+   "dB SPL",
+   "dB HL",
+   "dB SL",
+   "desibel",
+   "RETSPL",
+   "ses basınç düzeyi",
+   "işitme düzeyi",
+   "duyum düzeyi",
+   "sensation level",
+   "odyogram",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 38",
+   "baslik": "dB SPL, dB HL ve *dB SL*",
+   "alt": "Hangi desibel, ne zaman ve neden kullanılır?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyolojide en sık karıştırılan üç desibel ölçeğini, yani SPL, HL ve SL ölçeklerini ayırt etmeyi öğreneceğiz.",
+    "Ayrıca odyogramdaki sıfır desibel çizgisinin gerçekte ne anlama geldiğini göreceğiz."
+   ]
+  },
+  {
+   "id": "oran",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Desibel bir orandır",
+   "baslik": "Desibel *her zaman* bir orandır",
+   "maddeler": [
+    {
+     "metin": "Logaritmik bir _oran_ ölçeği",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Her zaman bir _referansa_ göre",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Geniş aralığı _kullanışlı sayılara_ indirir",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Referans: SPL, HL ya da SL etiketi",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KURAL",
+    "metin": "Etiketi yazılmayan desibel *eksik* bilgidir",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Desibel, iki değerin oranını logaritmik olarak ifade eden bir ölçektir.",
+    "Bu yüzden desibel tek başına anlamsızdır; her zaman neye göre ölçüldüğünü söylememiz gerekir.",
+    "Kulağın algıladığı basınç aralığı çok geniş olduğu için logaritmik ölçek bu aralığı kullanışlı sayılara indirir.",
+    "Desibelin yanındaki SPL, HL ya da SL etiketi, bu referansın ne olduğunu gösterir.",
+    "Referansı yazılmamış bir desibel değeri, klinik açıdan eksik bir bilgidir.",
+    "Şimdi bu üç referansı sırayla inceleyelim."
+   ]
+  },
+  {
+   "id": "spl",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "dB SPL",
+   "baslik": "dB SPL: *ses basınç* düzeyi",
+   "cizim": "ses_dalgasi",
+   "ayar": {
+    "frekans_hz": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "genlik",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "genlik",
+     "metin": "genlik: basınç değişimi",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Referans: 20 µPa = 0 dB SPL",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "10 kat basınç: +20 dB",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "2 kat basınç: yaklaşık +6 dB",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "dB SPL, ses basınç düzeyi demektir ve tamamen fiziksel bir ölçektir.",
+    "Ses dalgasının genliği, havadaki basınç değişiminin büyüklüğünü gösterir.",
+    "dB SPL ölçeğinde referans yirmi mikropaskallık basınçtır; bu değer sıfır desibel SPL kabul edilir.",
+    "Yirmi mikropaskal, sağlıklı genç bir kulağın en duyarlı frekanslarda algılayabildiği en küçük basınca yakındır.",
+    "Basınç on kat arttığında düzey yirmi desibel, iki katına çıktığında ise yaklaşık altı desibel artar.",
+    "Ses düzeyi ölçerler ve kalibrasyon cihazları dB SPL cinsinden ölçüm yapar."
+   ]
+  },
+  {
+   "id": "olcek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "dB SPL",
+   "baslik": "Günlük sesler *dB SPL* ile",
+   "cizim": "desibel_olcegi",
+   "etiketler": [
+    {
+     "parca": "fisilti",
+     "metin": "fısıltı: yaklaşık 30",
+     "cumle": 0
+    },
+    {
+     "parca": "konusma",
+     "metin": "konuşma: yaklaşık 60",
+     "cumle": 1
+    },
+    {
+     "parca": "trafik",
+     "metin": "yoğun trafik: yaklaşık 80",
+     "cumle": 2
+    },
+    {
+     "parca": "konser",
+     "metin": "konser: 100 ve üzeri",
+     "cumle": 3
+    },
+    {
+     "parca": "agri_esigi",
+     "metin": "ağrı eşiği: 120 ile 140",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Günlük seslere bakalım: hafif bir fısıltı yaklaşık otuz desibel SPL civarındadır.",
+    "Bir metre uzaklıktaki olağan bir konuşma yaklaşık altmış desibel SPL düzeyindedir.",
+    "Yoğun trafik gürültüsü seksen desibel SPL ve üzerine çıkabilir.",
+    "Bir konserde ya da gece kulübünde düzey yüz desibel SPL'yi aşabilir.",
+    "Ağrı eşiği ise kaynaklarda genellikle yüz yirmi ile yüz kırk desibel SPL arasında verilir.",
+    "Bu değerler yaklaşıktır ve ölçüm uzaklığına göre değişir."
+   ]
+  },
+  {
+   "id": "duyarlilik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "dB SPL",
+   "baslik": "Kulak her frekansı *eşit duymaz*",
+   "maddeler": [
+    {
+     "metin": "En duyarlı: yaklaşık _1000 ile 4000 Hz_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Pes ve çok tizde _daha yüksek_ SPL",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "SPL'de normal eşik eğrisi _düz değil_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Kulağımız tüm frekanslara aynı duyarlılıkta değildir.",
+    "Normal işiten genç bir yetişkin, yaklaşık bin ile dört bin hertz arasında en duyarlıdır.",
+    "Pes seslerde ve çok tiz seslerde eşiğe ulaşmak için daha yüksek ses basıncı gerekir.",
+    "Bu yüzden normal eşikleri dB SPL ile çizersek düz bir çizgi değil, U harfine benzeyen bir eğri elde ederiz.",
+    "Bu eğri, ölçüm koşuluna göre en küçük duyulabilir basınç ya da en küçük duyulabilir alan eğrisi olarak adlandırılır.",
+    "Klinikte her frekansta bu eğriyle uğraşmamak için başka bir ölçek kullanırız: dB HL."
+   ]
+  },
+  {
+   "id": "hl",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "dB HL ve RETSPL",
+   "baslik": "dB HL: *normale* göre ölçek",
+   "maddeler": [
+    {
+     "metin": "Referans: normal işitenlerin _ortalama eşiği_",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Her frekansta _ayrı_ bir ses basıncı",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Bu değere _RETSPL_ denir",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Odyometre farkı _kendisi_ ekler",
+     "cumle": 5,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "0 dB HL",
+    "metin": "Genç, normal işitenlerin o frekanstaki *ortalama* eşiği",
+    "cumle": 1
+   },
+   "cumleler": [
+    "dB HL, işitme düzeyi demektir ve referansı insan kulağıdır.",
+    "Sıfır desibel HL, otolojik olarak normal genç yetişkinlerin o frekanstaki ortalama eşiğidir.",
+    "Bu ortalama eşik her frekansta farklı bir ses basıncına karşılık gelir.",
+    "Her frekanstaki bu karşılığa referans eşdeğer eşik ses basınç düzeyi, kısaca RETSPL denir.",
+    {
+     "yazi": "RETSPL değerleri ISO 389 gibi uluslararası standartlarda, kulaklık tipine göre ayrı tablolar halinde verilir.",
+     "ses": "RETSPL değerleri iso üç yüz seksen dokuz gibi uluslararası standartlarda, kulaklık tipine göre ayrı tablolar halinde verilir."
+    },
+    "Odyometrede HL cinsinden bir düzey seçtiğinizde, cihaz bu farkı kendisi ekleyerek doğru ses basıncını üretir."
+   ]
+  },
+  {
+   "id": "retspl",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "dB HL ve RETSPL",
+   "baslik": "Örnek *RETSPL* (TDH-39)",
+   "sutunlar": [
+    "Frekans",
+    "0 dB HL karşılığı"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "25,5 dB SPL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "11,5 dB SPL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "7 dB SPL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "9 dB SPL"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "9,5 dB SPL"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "8000 Hz",
+      "13 dB SPL"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tabloda kulak üstü tipte, yaygın kullanılan bir kulaklık için RETSPL değerlerini görüyorsunuz.",
+    "İki yüz elli hertzde sıfır desibel HL, yaklaşık yirmi beş virgül beş desibel SPL'ye karşılık gelir.",
+    "Bin hertzde ise aynı sıfır desibel HL yalnızca yaklaşık yedi desibel SPL'dir.",
+    "Yani pes frekansta eşiğe ulaşmak için yaklaşık on sekiz desibel daha fazla ses basıncı gerekir.",
+    "Değerler kulaklığa ve ölçüm düzeneğine göre değişir; örneğin insert kulaklıkların değerleri farklıdır."
+   ]
+  },
+  {
+   "id": "hesap",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "dB HL ve RETSPL",
+   "baslik": "HL'den SPL'ye *hesap*",
+   "maddeler": [
+    {
+     "metin": "_dB SPL = dB HL + RETSPL_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "250 Hz'de 40 dB HL: _65,5 dB SPL_",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "1000 Hz'de 40 dB HL: _47 dB SPL_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        40,
+        null,
+        null,
+        null,
+        null,
+        null
+       ],
+       "cizgi": false,
+       "cumle": 1
+      },
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        null,
+        40,
+        null,
+        null,
+        null
+       ],
+       "cizgi": false,
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Basit bir formül akılda tutulabilir: desibel SPL, desibel HL ile RETSPL değerinin toplamıdır.",
+    "Örneğin iki yüz elli hertzde kırk desibel HL'lik bir ton, bu kulaklıkta yaklaşık altmış beş virgül beş desibel SPL üretir.",
+    "Bin hertzde aynı kırk desibel HL ise yaklaşık kırk yedi desibel SPL'dir.",
+    "Odyogramda iki eşik aynı yükseklikte görünür, ama kulaklığın ürettiği fiziksel basınç farklıdır.",
+    "Kalibrasyon sırasında ölçülen değer SPL, odyometrenin ekranındaki değer ise HL'dir."
+   ]
+  },
+  {
+   "id": "sifir",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "dB HL ve RETSPL",
+   "baslik": "Sıfır çizgisinin *anlamı*",
+   "lejant": [
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_0 dB HL_: ortalama normal eşik",
+     "cumle": 0
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: örnek",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: örnek",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       5,
+       0,
+       5,
+       0,
+       5,
+       10
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       0,
+       5,
+       0,
+       5,
+       10,
+       5
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "RETSPL farkları düzeltildiği için odyogramda ortalama normal eşik her frekansta aynı düz çizgiye, sıfır desibel HL'ye denk gelir.",
+    "Böylece SPL'de eğri olan normal işitme, HL'de düz bir referansa dönüşür.",
+    "Bu örnekte iki kulağın eşikleri sıfır ile on desibel HL arasında; yani ortalama normal düzeye çok yakın.",
+    "Sıfır bir ortalama olduğu için, bazı kişilerin eşikleri eksi beş ya da eksi on desibel HL çıkabilir.",
+    "Eksi değer sesin olmadığı anlamına gelmez; kişinin ortalamadan biraz daha duyarlı olduğunu gösterir.",
+    "Odyogramdaki her sapma, ortalama normal işitmeden ne kadar uzaklaşıldığını doğrudan gösterir."
+   ]
+  },
+  {
+   "id": "sl",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "dB SL",
+   "baslik": "dB SL: *kişinin* eşiğine göre",
+   "maddeler": [
+    {
+     "metin": "Referans: _kişinin kendi eşiği_",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Her kulak ve frekansta _farklı_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Eşiğin kaç dB _üzerinde_?",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Eşiğin altı: _negatif_ SL",
+     "cumle": 5,
+     "ikon": "sessizlik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÖRNEK",
+    "metin": "Eşik 30 dB HL, uyaran 70 dB HL: *40 dB SL*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "dB SL, duyum düzeyi demektir ve referansı kişinin kendi eşiğidir.",
+    "Bu yüzden aynı uyaran, farklı kişilerde ve farklı kulaklarda çok farklı duyum düzeylerine karşılık gelebilir.",
+    "dB SL, bir sesin o kişinin eşiğinin kaç desibel üzerinde olduğunu söyler.",
+    "Örneğin eşiği otuz desibel HL olan bir kulağa yetmiş desibel HL'de ses verirsek, bu kırk desibel SL'dir.",
+    "Eşiği on desibel HL olan bir kulakta aynı yetmiş desibel HL, altmış desibel SL'ye karşılık gelir.",
+    "Eşiğin altındaki bir uyaran ise negatif SL düzeyindedir ve kişi tarafından duyulmaz."
+   ]
+  },
+  {
+   "id": "sl_kullanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "dB SL",
+   "baslik": "SL *nerede* kullanılır?",
+   "maddeler": [
+    {
+     "metin": "Eşik üstü testler",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kelime testi: eşiğin _30 ile 40 dB_ üstü",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Raporda referans eşiği _belirtin_",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "SL özellikle eşik üstü testlerde kullanılır.",
+    "Örneğin konuşmayı ayırt etme testleri çoğu zaman konuşmayı alma eşiğinin otuz ile kırk desibel üzerinde uygulanır.",
+    "Bu yaklaşım, testin her hastada kendi eşiğine göre benzer bir duyulabilirlikte yapılmasını sağlar.",
+    "Normal işitenlerde akustik refleks de genellikle eşiğin yaklaşık yetmiş ile yüz desibel üzerinde ortaya çıkar.",
+    "Raporda SL yazarken hangi eşiğe göre hesaplandığını belirtmek, sonucun doğru yorumlanmasını sağlar."
+   ]
+  },
+  {
+   "id": "karsilastirma",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Üç ölçek bir arada",
+   "baslik": "Ölçekler *yan yana*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "dB SPL",
+     "metin": "Referans 20 µPa basınç; kalibrasyon, gürültü ölçümü",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "dB HL",
+     "metin": "Ortalama normal eşik; odyogram",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "dB SL",
+     "metin": "Kişinin kendi eşiği; eşik üstü testler",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "dB nHL",
+     "metin": "Normal grubun eşiği; kısa uyaranlar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Toparlayalım: dB SPL fiziksel basınca göredir ve kalibrasyonda, gürültü ölçümünde kullanılır.",
+    "dB HL ortalama normal işitmeye göredir ve odyogramın dilidir.",
+    "dB SL ise kişinin kendi eşiğine göredir ve eşik üstü testlerde kullanılır.",
+    {
+     "yazi": "Bir de dB nHL vardır: tıklama gibi kısa uyaranlarda, normal işiten bir grubun eşiğine göre belirlenir.",
+     "ses": "Bir de desibel en eyç el vardır: tıklama gibi kısa uyaranlarda, normal işiten bir grubun eşiğine göre belirlenir."
+    },
+    "Bu ölçeği işitsel beyin sapı yanıtı, kısaca ABR derslerinde sıkça göreceğiz."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Üç ölçek bir arada",
+   "baslik": "Sık yapılan *hatalar*",
+   "maddeler": [
+    {
+     "metin": "SPL ile HL'yi _karıştırmak_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Cihaz çıkışı SPL, eşik HL",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "SL'de referans eşiği _yazmamak_",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Bu ölçeklerle ilgili en sık hatalardan biri, SPL ve HL değerlerini aynı sayıymış gibi okumaktır.",
+    "Örneğin işitme cihazının çıkışı SPL ile, hastanın eşikleri ise HL ile ifade edilir; ikisi arasında dönüşüm gerekir.",
+    "Bu dönüşüm, cihaz uygulama derslerinde göreceğimiz SPL tabanlı odyogram gösterimlerinin de temelidir.",
+    "Bir diğer sık hata, SL değerini hangi eşiğe göre hesapladığını belirtmemektir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Üç ölçek bir arada",
+   "baslik": "Klinik ipucu",
+   "metin": "Farklı ölçeklerdeki desibelleri doğrudan karşılaştırmayın: iş yerinde ölçülen 85 dB gürültü ile odyogramdaki 85 dB HL aynı şey değildir.",
+   "cumleler": [
+    "Sahadan bir ipucu: farklı ölçeklerdeki desibel değerlerini doğrudan karşılaştırmayın.",
+    "Örneğin iş yerinde ölçülen seksen beş desibellik gürültü, ses düzeyi ölçerle elde edilmiş fiziksel bir değerdir.",
+    "Odyogramdaki seksen beş desibel HL ise bambaşka bir referansa göredir.",
+    "Raporlarınızda da desibelin yanına her zaman SPL, HL ya da SL etiketini yazın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_dB SPL_: fiziksel basınç, 20 µPa",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_dB HL_: ortalama normal eşik",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_RETSPL_: HL ile SPL arasındaki köprü",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "_dB SL_: kişinin kendi eşiği",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "dB SPL, yirmi mikropaskal referanslı fiziksel bir ölçektir.",
+    "dB HL, normal işitenlerin ortalama eşiğini sıfır kabul eder ve odyogramda kullanılır.",
+    "RETSPL değerleri, her frekansta sıfır desibel HL'nin kaç desibel SPL olduğunu gösterir.",
+    "dB SL ise bir sesin kişinin kendi eşiğinin ne kadar üzerinde olduğunu anlatır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Eşik 20 dB HL, uyaran 60 dB HL. Duyum düzeyi kaçtır?",
+   "secenekler": [
+    "20 dB SL",
+    "40 dB SL",
+    "60 dB SL",
+    "80 dB SL"
+   ],
+   "dogru": 1,
+   "aciklama": "SL, uyaranın kişinin _kendi eşiğinin_ ne kadar üzerinde olduğudur: 60 eksi 20.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Eşiği yirmi desibel HL olan bir kulağa altmış desibel HL ton verilirse duyum düzeyi kaçtır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: kırk desibel SL.",
+     "ses": "Doğru cevap be: kırk desibel SL."
+    },
+    "Duyum düzeyi, uyaranın kişinin kendi eşiğinin ne kadar üzerinde olduğudur; altmıştan yirmiyi çıkarırız."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Saf ses ve karmaşık ses: *Fourier* analizine giriş",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste saf sesi karmaşık seslerden ayıran özellikleri ve Fourier analizinin temellerini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

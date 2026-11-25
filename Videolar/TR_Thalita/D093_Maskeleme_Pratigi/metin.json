@@ -1,0 +1,1324 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D093_Maskeleme_Pratigi_TR",
+ "kapak": {
+  "ust": "DERS 93",
+  "baslik": "Maskeleme<br>*pratiği*",
+  "alt": "Üç örnek odyogram, adım adım çözüm",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      55,
+      55,
+      55,
+      60,
+      65,
+      70
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      65,
+      70,
+      75,
+      80,
+      85,
+      90
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Maskeleme Pratiği: Örnek Odyogramlarla Çözümlü Vakalar | Ders 93 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Klinik maskelemenin kurallarını üç örnek odyogram üzerinde adım adım uyguluyoruz: tek taraflı ileri derecede sensörinöral kayıp, tek taraflı iletim tipi kayıp ve mikst kayıp. Her vakada hava ve kemik yolu maskeleme kararını, başlangıç maskeleme düzeyini, plato yöntemini ve aşırı maskeleme sınırını birlikte hesaplıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin ve Clark, Introduction to Audiology; BSA, Recommended Procedure: Pure-tone Air-conduction and Bone-conduction Threshold Audiometry with and without Masking.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "maskeleme",
+   "odyogram"
+  ],
+  "etiketler": [
+   "klinik maskeleme",
+   "maskeleme örnekleri",
+   "plato yöntemi",
+   "tek taraflı işitme kaybı",
+   "maskeli eşik",
+   "mikst işitme kaybı",
+   "kemik yolu maskeleme",
+   "aşırı maskeleme",
+   "odyometri",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 93",
+   "baslik": "Maskeleme *pratiği*",
+   "alt": "Üç örnek odyogram, adım adım çözüm",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste maskeleme kurallarını üç örnek odyogram üzerinde baştan sona uygulayacağız.",
+    "Tek taraflı sensörinöral kayıp, tek taraflı iletim tipi kayıp ve mikst kayıp vakalarını birlikte çözeceğiz."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hatırlatma",
+   "baslik": "Elimizdeki *beş kural*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Hava yolu",
+     "metin": "TE hava ile NTE kemik farkı",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik yolu",
+     "metin": "TE'de aralık 10 dB'den büyükse",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Başlangıç",
+     "metin": "NTE hava eşiği artı 10 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Plato",
+     "metin": "15 dB gürültü artışında sabit eşik",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Üst sınır",
+     "metin": "TE kemik artı IA eksi 5 dB",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Vakalara geçmeden önce önceki derslerde öğrendiğimiz kuralları tek ekranda toplayalım.",
+    "Hava yolunda test kulağı hava eşiği ile karşı kulak kemik eşiği arasındaki fark, kulaklar arası zayıflamaya, yani IA'ya ulaşırsa maskeleriz.",
+    "Kemik yolunda IA yaklaşık sıfırdır; test kulağında on desibelden büyük hava-kemik aralığı varsa maskeleme gerekir.",
+    "Başlangıç gürültüsü, karşı kulağın hava yolu eşiğinin on desibel üzeridir; kemik yolunda gerekirse oklüzyon düzeltmesi eklenir.",
+    "Gürültü üç kez beşer desibel artırıldığı halde eşik değişmiyorsa plato bulunmuştur.",
+    "En fazla gürültü, test kulağının kemik yolu eşiği ile IA toplamından beş desibel eksiktir; aşılırsa aşırı maskeleme olur."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hatırlatma",
+   "baslik": "Her vakada *aynı sıra*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Maskesiz eşikler",
+     "metin": "İki kulak, hava ve kemik",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Hava kuralı",
+     "metin": "Her frekansta ayrı",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik kuralı",
+     "metin": "Aralık varsa maskele",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Plato",
+     "metin": "Gerçek eşiği bul",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "metin": "Maskeli işaret ve düzey",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Her vakada önce iki kulağın maskesiz hava ve kemik yolu eşiklerini görürüz.",
+    "Sonra her frekansta hava yolu kuralını uygular, maskeleme gereken frekansları işaretleriz.",
+    "Ardından her kulakta hava-kemik aralığına bakar, kemik yolunda maskeleme gerekip gerekmediğine karar veririz.",
+    "Maskeleme gereken her ölçümde plato yöntemiyle gerçek eşiği buluruz.",
+    "Son adımda maskeli eşikleri doğru işaretle odyograma işler ve gürültü düzeyini kaydederiz."
+   ]
+  },
+  {
+   "id": "vaka1",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vaka 1: tek taraflı kayıp",
+   "baslik": "Vaka 1: *maskesiz* tablo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Sağ_: kemik yolu normal",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: maskesiz hava yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Sol_: maskesiz kemik yolu",
+     "cumle": 5
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       55,
+       55,
+       55,
+       60,
+       65,
+       70
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 5
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "İlk vakamız, sol kulağında işitme azlığı yakınması olan bir yetişkin; değerler örnektir ve testte supra-aural kulaklık kullanılıyor.",
+    "Sağ kulağın hava ve kemik yolu eşikleri normal bölgede.",
+    "Sol kulağın maskesiz hava yolu eşikleri ise elli beş ile yetmiş desibel arasında.",
+    "Dikkat edin: sol eğri, sağ eğriyi yaklaşık kırk beş ile elli desibel aşağıda, ona paralel izliyor.",
+    "Bu görünüm, önceki derslerde gördüğümüz gölge eğrisini akla getirir.",
+    "Sol kulağın maskesiz kemik yolu eşikleri de sağ kulağınkiyle neredeyse aynı çıktı.",
+    "Bu haliyle odyogram sol kulakta iletim tipi kayıp gibi görünebilir; şimdi kuralları uygulayalım."
+   ]
+  },
+  {
+   "id": "vaka1_karar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vaka 1: tek taraflı kayıp",
+   "baslik": "Hava yolu *kararı*",
+   "sutunlar": [
+    "Frekans (Hz)",
+    "Sol hava",
+    "Sağ kemik",
+    "Fark (dB)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250",
+      "55",
+      "5",
+      "50"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "500",
+      "55",
+      "10",
+      "45"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000",
+      "55",
+      "10",
+      "45"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000",
+      "60",
+      "10",
+      "50"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "4000",
+      "65",
+      "15",
+      "50"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "8000",
+      "70",
+      "20 (hava)",
+      "50"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Sol kulak test kulağı, yani TE; sağ kulak ise test edilmeyen kulak, yani NTE.",
+    "İki yüz elli hertzde sol hava yolu elli beş, sağ kemik yolu beş desibel; fark elli.",
+    "Beş yüz ve bin hertzde fark kırk beş desibel; supra-aural kulaklıkta kullandığımız kırk desibellik IA'yı aşıyor.",
+    "İki bin ve dört bin hertzde de fark elli desibel.",
+    "Sekiz bin hertzde kemik yolu ölçülmediği için sağ kulağın hava yolu eşiğini kullanırız; fark yine elli.",
+    "Sonuç: sol kulağın bütün hava yolu eşikleri, sağ kulak maskelenerek yeniden ölçülmelidir.",
+    "Kemik yolunda da sol kulakta büyük bir hava-kemik aralığı göründüğü için maskeleme gerekecek."
+   ]
+  },
+  {
+   "id": "vaka1_plato",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vaka 1: tek taraflı kayıp",
+   "baslik": "Bin hertzde *plato*",
+   "sutunlar": [
+    "Sağa gürültü (dB EM)",
+    "Sol eşik (dB HL)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Yok (maskesiz)",
+      "55"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "20",
+      "65"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "25",
+      "70"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "30",
+      "75"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "35",
+      "75"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "40",
+      "75"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "45",
+      "75"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Bin hertzde başlangıç gürültüsü, sağ hava yolu eşiği olan ona on eklenerek yirmi dB EM, yani yirmi desibel etkin maskeleme olur.",
+    "Yirmi dB EM gürültüyle sol eşik elli beşten altmış beşe kayıyor; demek ki önceki yanıt sağ kulaktan geliyordu.",
+    "Gürültüyü yirmi beşe ve otuza çıkarınca eşik de yetmiş ve yetmiş beşe yükseliyor.",
+    "Otuz beş ve kırk dB EM'de eşik yetmiş beşte sabit kalıyor.",
+    "Kırk beş dB EM'de de yetmiş beş; gürültü on beş desibel arttığı halde eşik değişmedi, plato bulundu.",
+    "Kırk beş, maskesiz kemik yolu on artı IA kırk eksi beşe, yani en fazla düzeye eşit; sol kulağın gerçek eşiği yetmiş beş desibel HL."
+   ]
+  },
+  {
+   "id": "vaka1_sonuc",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Vaka 1: tek taraflı kayıp",
+   "baslik": "Vaka 1: *gerçek* tablo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli kemik, yanıt yok",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       65,
+       70,
+       75,
+       80,
+       85,
+       90
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       null,
+       60,
+       70,
+       70,
+       65
+      ],
+      "yanitsiz": true,
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Aynı işlemi her frekansta tekrarladığımızda tablo tamamen değişiyor.",
+    "Sol kulağın maskeli hava yolu eşikleri altmış beş ile doksan desibel arasında; mavi kareler bu gerçek eşikleri gösteriyor.",
+    "Kemik yolunu maskelerken sağ kulağa gürültü verdik ve sol kemik yolunu yeniden aradık.",
+    "Vibratörün en yüksek çıkış düzeylerinde bile sol kulaktan yanıt alınamadı; aşağı oklar bunu gösteriyor.",
+    "Maskesiz ölçümdeki hava-kemik aralığı sahteydi; tablo, sol kulakta ileri derecede sensörinöral kayıpla uyumlu.",
+    "Maskeleme yapılmasaydı bu kulak, iletim tipi kayıp olarak rapor edilebilirdi.",
+    "Tek taraflı ileri kayıp ileri değerlendirme gerektirebileceği için bu doğru tablo ayrıca önemlidir."
+   ]
+  },
+  {
+   "id": "vaka2",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Vaka 2: iletim tipi",
+   "baslik": "Vaka 2: *maskesiz* tablo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Sağ_: maskesiz kemik yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu normal",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 5
+    }
+   },
+   "cumleler": [
+    "İkinci vakada sağ kulağın hava yolu eşikleri otuz beş ile kırk desibel arasında.",
+    "Sağ kulağın maskesiz kemik yolu eşikleri ise normal bölgede.",
+    "Sol kulağın hava ve kemik yolu eşikleri normal; sol kemik yolu bin hertzde on desibel.",
+    "Önce hava yolu kuralı: bin hertzde sağ hava yolu kırk, sol kemik yolu on; fark otuz desibel.",
+    "Otuz, kırkın altında kaldığı için sağ hava yolu eşikleri maskelemesiz kabul edilebilir; diğer frekanslarda da fark kırkı geçmiyor.",
+    "Ancak sağ kulakta otuz desibellik bir hava-kemik aralığı görünüyor.",
+    "Kemik yolunda IA yaklaşık sıfır olduğu için bu kemik yolu yanıtı sağ kokleadan da, sol kokleadan da gelmiş olabilir."
+   ]
+  },
+  {
+   "id": "vaka2_kemik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Vaka 2: iletim tipi",
+   "baslik": "Kemik yolunda *maskeleme*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 0,
+    "test_kulak": "sag"
+   },
+   "vurgula": [
+    {
+     "parca": "kafatasi",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: sağ, vibratör mastoidde",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: yaklaşık 0 dB",
+     "cumle": 0
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "NTE: sol kulağa gürültü",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vibratör iki kokleayı da uyarır",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Kapanan kulakta oklüzyon etkisi",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "2000 Hz'de oklüzyon düzeltmesi yok",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Vibratörü sağ mastoide yerleştiriyoruz; ama kafatası bütün olarak titreştiği için uyarı iki kokleaya da ulaşır.",
+    "Bu yüzden sağ kemik yolu eşiğinin gerçekten sağ kokleaya ait olduğunu göstermek için sol kokleayı meşgul etmeliyiz.",
+    "Gürültü, sol kulağa bir kulaklıkla verilir; sağ kulak açık kalır.",
+    "Başlangıç düzeyi, sol hava yolu eşiğine on desibel güvenlik payı eklenerek bulunur.",
+    "Sol kulak kulaklıkla kapandığı için pes frekanslarda oklüzyon etkisi oluşur ve bu frekanslarda düzeltme eklenir.",
+    "Örneği iki bin hertzde çalışacağız; bu frekansta oklüzyon etkisi ihmal edilebilir olduğu için düzeltme gerekmez."
+   ]
+  },
+  {
+   "id": "vaka2_plato",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Vaka 2: iletim tipi",
+   "baslik": "İki bin hertzde *kemik yolu*",
+   "cizim": "plato_grafigi",
+   "ayar": {
+    "esik": 10,
+    "plato": [
+     10,
+     45
+    ],
+    "bolge_cumleleri": [
+     0,
+     3,
+     4
+    ],
+    "esik_cumle": 3,
+    "cumle": 1
+   },
+   "notlar": [
+    {
+     "metin": "Başlangıç: 20 dB EM",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Eşik sabit: plato baştan var",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Üst sınır: 45 dB EM",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "İki bin hertzde sağ kulağın maskesiz kemik yolu eşiği on desibel.",
+    "Sol hava yolu eşiği on olduğu için başlangıç gürültüsü yirmi dB EM; bu gürültüyle sağ kemik yolu eşiği yine on.",
+    "Gürültüyü yirmi beşe, otuza ve otuz beşe çıkarıyoruz; eşik her adımda on desibelde kalıyor.",
+    "Plato baştan itibaren sağlandı; yani kemik yolu yanıtı gerçekten sağ kokleaya aitti.",
+    "Üst sınır, sağ kemik yolu on artı IA kırk eksi beş, yani kırk beş dB EM; bu aşılırsa gürültü sağ kokleaya ulaşır ve eşik yükselir.",
+    "Gürültü insert kulaklıkla verilseydi IA daha yüksek olacağı için bu üst sınır da yükselirdi."
+   ]
+  },
+  {
+   "id": "vaka2_sonuc",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Vaka 2: iletim tipi",
+   "baslik": "Vaka 2: *doğrulanmış* aralık",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Sağ_: maskeli kemik yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: normal işitme",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       40,
+       40,
+       40,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      10,
+      40
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Aynı işlemi kemik yolunun ölçüldüğü bütün frekanslarda tekrarlıyoruz.",
+    "Sağ kulağın maskeli kemik yolu eşikleri, maskesiz değerlerle aynı çıktı; bunları açılan köşeli parantezle işaretliyoruz.",
+    "Hava-kemik aralığı artık maskeleme ile doğrulandı.",
+    "Tablo, sağ kulakta hafif derecede iletim tipi kayıpla uyumlu.",
+    "Bu vakada hava yolu için maskeleme gerekmedi, kemik yolu için ise her frekansta gerekti."
+   ]
+  },
+  {
+   "id": "kayma",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Vaka 2: iletim tipi",
+   "baslik": "Maskeli kemik yolu *kayarsa?*",
+   "sol": {
+    "ust": "Eşik sabit kalır",
+    "maddeler": [
+     {
+      "metin": "Yanıt _test kulağına_ ait",
+      "cumle": 0
+     },
+     {
+      "metin": "Hava-kemik aralığı _gerçek_",
+      "cumle": 1
+     },
+     {
+      "metin": "İletim tipi ya da mikst",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Eşik yükselir",
+    "maddeler": [
+     {
+      "metin": "Önceki yanıt _karşı kokleadan_",
+      "cumle": 2
+     },
+     {
+      "metin": "Aralık küçülür ya da kaybolur",
+      "cumle": 3
+     },
+     {
+      "metin": "Sensörinöral ya da mikst",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Maskeli kemik yolu eşiği plato boyunca değişmiyorsa, yanıt test kulağının kokleasından geliyordur.",
+    "Bu durumda hava-kemik aralığı gerçektir ve kayıp iletim tipi ya da mikst olarak değerlendirilir.",
+    "Eşik gürültüyle birlikte yükselip daha kötü bir düzeyde platoya ulaşıyorsa, maskesiz yanıtı karşı koklea vermiştir.",
+    "Bu durumda aralık küçülür ya da tamamen kaybolur.",
+    "Sonuç, sensörinöral ya da daha küçük aralıklı bir mikst kayıp olabilir; karar her zaman maskeli eşiklerle verilir."
+   ]
+  },
+  {
+   "id": "vaka3",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Vaka 3: mikst kayıp",
+   "baslik": "Vaka 3: *maskesiz* tablo",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: maskesiz hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "&gt;",
+     "renk": "sol",
+     "metin": "_Sol_: maskesiz kemik yolu",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       50,
+       55,
+       55,
+       55,
+       60,
+       65
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik",
+      "degerler": [
+       5,
+       10,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Üçüncü vakada sağ kulağın hava ve kemik yolu eşikleri yine normal.",
+    "Sol kulağın maskesiz hava yolu eşikleri elli ile altmış beş desibel arasında.",
+    "Sol kulağın maskesiz kemik yolu eşikleri ise sağ kemik yoluyla aynı, yani normal bölgede.",
+    "İlk bakışta tablo, sol kulakta orta derecede iletim tipi kayıp gibi görünüyor.",
+    "Ancak maskesiz kemik yolu iki kokleadan iyi olanı yansıtır; bu yanıtlar sağ kokleaya ait olabilir.",
+    "Sol hava yolu eğrisi de sağ eğriyi yaklaşık kırk ile kırk beş desibel aşağıda izliyor; bu yine bir uyarı işaretidir.",
+    "Bu vakada hem hava yolunu hem kemik yolunu maskelememiz gerekecek."
+   ]
+  },
+  {
+   "id": "vaka3_adim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Vaka 3: mikst kayıp",
+   "baslik": "Vaka 3: *çözüm* adımları",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Hava kuralı",
+     "metin": "Bin hertzde fark 45",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Hava platosu",
+     "metin": "Eşik 55'ten 65'e",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik kuralı",
+     "metin": "Aralık büyük: maskele",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kemik platosu",
+     "metin": "Eşik 10'dan 40'a",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Üst sınır",
+     "metin": "75 dB EM",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Hava yolu kuralı: bin hertzde sol hava yolu elli beş, sağ kemik yolu on; fark kırk beş, maskeleme gerekir.",
+    "Sağ kulağa yirmi dB EM ile başlayan gürültüyle plato yöntemini uyguluyoruz; sol eşik altmış beşte platoya ulaşıyor.",
+    "Diğer frekanslarda da fark kırkın üzerinde olduğu için bütün hava yolu eşikleri maskeleniyor.",
+    "Kemik yolu kuralı: maskeli hava yolu ile maskesiz kemik yolu arasında büyük bir aralık var, kemik yolu da maskelenmeli.",
+    "İki bin hertzde sağ hava yolu on beş, başlangıç gürültüsü yirmi beş dB EM; sol kemik yolu gürültüyle birlikte adım adım kırka kayıyor.",
+    "Gürültü kırktan elli beş dB EM'e çıkarıldığında sol kemik yolu kırk desibelde sabit kalıyor; plato bulundu.",
+    "Üst sınır, sol kemik yolu kırk artı IA kırk eksi beş, yani yetmiş beş dB EM; elli beş dB EM bunun güvenle altında."
+   ]
+  },
+  {
+   "id": "vaka3_sonuc",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Vaka 3: mikst kayıp",
+   "baslik": "Vaka 3: *mikst* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli kemik yolu",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       65,
+       65,
+       70,
+       75,
+       80
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       25,
+       30,
+       35,
+       40,
+       45
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      35,
+      65
+     ],
+     "etiket": "30 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Maskeleme bittikten sonra sol kulağın gerçek tablosu ortaya çıkıyor.",
+    "Maskeli hava yolu eşikleri altmış ile seksen desibel arasında.",
+    "Maskeli kemik yolu eşikleri yirmi beş ile kırk beş desibel arasında; yani kemik yolu da normal değil.",
+    "Hava ve kemik yolu arasında otuz desibel civarında bir aralık var.",
+    "Hem kemik yolunun normal sınırın altında olması hem de aralığın bulunması, mikst kayıpla uyumlu bir tablodur.",
+    "Maskelemesiz odyogram ise bu kulağı yanlışlıkla saf iletim tipi kayıp olarak gösteriyordu."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kontrol ve kayıt",
+   "baslik": "Üst sınırı *hesapla*",
+   "sutunlar": [
+    "Vaka",
+    "TE kemik (dB HL)",
+    "IA (dB)",
+    "Sınır: kemik + IA - 5"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "1, hava yolu",
+      "70'ten kötü",
+      "40",
+      "105 üzeri"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "2, kemik yolu",
+      "10",
+      "40",
+      "45"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "3, kemik yolu",
+      "40",
+      "40",
+      "75"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Üç vakadaki üst sınırları yan yana koyalım; her biri, test kulağının kemik yolu artı IA eksi beştir.",
+    "Birinci vakada kırk beşlik temkinli sınır maskesiz kemik yolundandı; sol kemik yolu yanıtsız çıktı, gerçek sınır yüz beşin üzerinde.",
+    "İkinci vakada sağ kemik yolu normal olduğu için sınır kırk beş dB EM'e iniyor ve plato daralıyor.",
+    "Üçüncü vakada sınır yetmiş beş dB EM; plato yine rahatça bulunabildi.",
+    "Kural basit: test kulağının kemik yolu ne kadar iyiyse, aşırı maskeleme o kadar erken başlar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Pes frekanslarda yüksek düzeyde kemik yolu yanıtı titreşim hissi olabilir. Hastaya sesi mi duyduğunu, titreşimi mi hissettiğini sorun ve not edin.",
+   "cumleler": [
+    "Kemik yolunu yüksek düzeylerde ölçerken önemli bir tuzağa dikkat edin.",
+    "Özellikle iki yüz elli ve beş yüz hertzde, vibratör yüksek düzeyde kafatasında hissedilen bir titreşim yaratır.",
+    "Hasta bu titreşime yanıt verirse, sensörinöral kayıp olan bir kulakta sahte bir hava-kemik aralığı görülebilir.",
+    "Böyle durumlarda hastaya sesi mi duyduğunu, titreşimi mi hissettiğini sorun ve sonucu odyogramda not edin."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kontrol ve kayıt",
+   "baslik": "Sık yapılan *hatalar*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Hava farkı",
+     "metin": "NTE kemik yerine hava kullanmak",
+     "cumle": 0
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Maskesiz kemik",
+     "metin": "Hangi kulağa ait olduğunu varsaymak",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Erken durmak",
+     "metin": "Platoyu görmeden eşik yazmak",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sınırı unutmak",
+     "metin": "Gürültüyü kontrolsüz artırmak",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Birinci hata, hava yolu kuralında karşı kulağın kemik yolu yerine hava yolunu kullanmaktır.",
+    "İkinci hata, maskesiz kemik yolu eşiğini, vibratörün takıldığı kulağa aitmiş gibi yorumlamaktır.",
+    "Üçüncü hata, ilk maskeli ölçümden sonra durmak; platoyu görmek için gürültü üç kez artırılmalıdır.",
+    "Dördüncü hata, gürültüyü üst sınırı hesaplamadan artırmak ve gerçek eşiği olduğundan kötü göstermektir."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kontrol ve kayıt",
+   "baslik": "Maskeleme *kaydı*",
+   "maddeler": [
+    {
+     "metin": "Maskeli eşik: _maskeli işaret_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Platodaki _gürültü düzeyi_ yazılır",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Kullanılan _kulaklık türü_ belirtilir",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Plato yoksa: _kesin değil_ notu",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sol",
+       "tip": "hava_maskeli",
+       "degerler": [
+        60,
+        65,
+        65,
+        70,
+        75,
+        80
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        25,
+        30,
+        35,
+        40,
+        45
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Maskeleme ile bulunan her eşik, maskeli işaretle odyograma işlenir; eşik değişmemiş olsa bile.",
+    "Platonun bulunduğu gürültü düzeyi, her frekans için forma ya da odyogramın altına yazılır.",
+    "Supra-aural ya da insert kulaklık kullanıldığı da belirtilir; çünkü IA ve oklüzyon etkisi buna göre değişir.",
+    "Plato bulunamadıysa eşik kesin değildir ve bu durum raporda açıkça yazılır.",
+    "İyi bir kayıt, odyogramı sonradan okuyan meslektaşın maskelemenin yeterliliğini değerlendirmesini sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Gölge eğrisi: _maskele_, sonra yorumla",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "İletim kaybında _kemik yolu_ maskelenir",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Mikst kayıpta _iki ölçüm_ de maskelenir",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "İyi kemik yolu: _dar_ plato",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Tek taraflı ileri kayıpta maskesiz eşikler gölge eğrisi oluşturur; yorum maskeli eşiklerle yapılır.",
+    "Tek taraflı iletim tipi kayıpta hava yolu çoğu zaman maskelenmez, ama kemik yolu mutlaka maskelenir.",
+    "Mikst kayıpta hem hava hem kemik yolu maskelenir ve sonuç tabloyu tamamen değiştirebilir.",
+    "Test kulağının kemik yolu iyiyse aşırı maskeleme sınırı alçalır ve plato daralır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Sağ hava 45, maskesiz kemik 10, sol normal. Ne yapılır?",
+   "secenekler": [
+    "Maskeleme gerekmez",
+    "Sağ kemik yolu, sol maskelenerek",
+    "Sol hava yolu maskelenir",
+    "Test sonlandırılır"
+   ],
+   "dogru": 1,
+   "aciklama": "Sağda 35 dB hava-kemik aralığı var; kemik yolunda IA yaklaşık sıfır olduğu için _sol kulak maskelenir_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sağ hava yolu kırk beş, maskesiz kemik yolu on desibel, sol kulak normal. Ne yapılır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: sağ kemik yolu, sol kulak maskelenerek yeniden ölçülür.",
+    "Sağ kulakta otuz beş desibellik aralık var ve maskesiz kemik yolu hangi kokleaya ait olduğunu söylemez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Konuşma odyometrisi *neden* yapılır?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste konuşma odyometrisine geçiyoruz: neden yapıldığını ve hangi testlerden oluştuğunu göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

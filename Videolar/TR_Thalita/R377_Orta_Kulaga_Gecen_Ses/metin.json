@@ -1,0 +1,107 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R377_Orta_Kulaga_Gecen_Ses_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #377",
+  "baslik": "Absorbans *eğrisi*",
+  "alt": "Geniş bant immitans",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "prob": "timpanometri"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kulak yoluna verilen sesin ne kadarı orta kulağa geçer? #shorts",
+  "aciklama": "Geniş bant immitansta orta kulağa aktarılan gücün oranına absorbans denir; absorbans bir eksi enerji yansıtmasıdır. Normal yetişkin kulakta pes frekanslarda absorbans düşüktür ve sesin çoğu geri yansır; bin ile dört bin hertz arasında en yüksek değerlerine ulaşır. Orta kulakta sıvı olduğunda absorbans hemen bütün frekanslarda belirgin biçimde düşer.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "immitans",
+   "ortakulak"
+  ],
+  "etiketler": [
+   "geniş bant immitans",
+   "absorbans",
+   "enerji yansıtması",
+   "orta kulak efüzyonu",
+   "timpanometri",
+   "immitansmetri",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kulak yoluna verilen sesin ne kadarı orta kulağa geçer?",
+  "bilgiler": [
+   "Absorbans, orta kulağa aktarılan gücün oranıdır.",
+   "Normal kulakta en yüksek değer 1 ile 4 kHz arasındadır.",
+   "Efüzyonda hemen bütün frekanslarda düşer."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "immitans",
+   "ortakulak"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #377",
+   "metin": "Ses *içeri girer mi?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kulak yoluna verilen sesin ne kadarı orta kulağa geçer?"
+   ]
+  },
+  {
+   "id": "absorbans",
+   "tur": "zincir",
+   "baslik": "Absorbans *eğrisi*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Pes",
+     "tr": "çoğu yansır",
+     "cumle": 1
+    },
+    {
+     "ad": "1-4 kHz",
+     "tr": "en çok içeri",
+     "cumle": 2
+    },
+    {
+     "ad": "Efüzyon",
+     "tr": "her yerde düşük",
+     "cumle": 3
+    }
+   ],
+   "alt": "Bir eksi _enerji yansıtması_",
+   "alt_cumle": 0,
+   "cumleler": [
+    "Orta kulağa aktarılan gücün oranına absorbans denir.",
+    "Normal yetişkin kulakta pes frekanslarda absorbans düşüktür; sesin çoğu geri yansır.",
+    "Bin ile dört bin hertz arasında en yüksek değerlerine ulaşır.",
+    "Orta kulakta sıvı varsa absorbans hemen bütün frekanslarda belirgin biçimde düşer."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D112",
+ "kaynak_baslik": "Geniş bant immitans ve absorbans"
+}

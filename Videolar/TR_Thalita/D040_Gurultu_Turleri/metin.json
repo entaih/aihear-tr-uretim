@@ -1,0 +1,672 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D040_Gurultu_Turleri_TR",
+ "kapak": {
+  "ust": "DERS 40",
+  "baslik": "Beyaz, pembe,<br>*dar bant*",
+  "alt": "Odyolojide gürültü türleri",
+  "cizim": "maskeleme",
+  "ayar": {
+   "ia_db": 40,
+   "test_kulak": "sag"
+  }
+ },
+ "youtube": {
+  "baslik": "Gürültü Türleri: Beyaz, Pembe ve Dar Bant Gürültü | Ders 40 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Beyaz gürültü ile pembe gürültü arasındaki fark nedir, maskelemede neden dar bant gürültü kullanılır? Bu derste gürültünün spektrumunu, hertz başına ve oktav başına eşit enerji kavramlarını, kritik bandı, dar bant gürültüyü ve konuşma gürültüsünü inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ANSI S3.6, Specification for Audiometers; IEC 60645-1, Electroacoustics: Audiometric equipment; Fletcher H, Auditory patterns (Reviews of Modern Physics, 1940); Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "akustik",
+   "maskeleme"
+  ],
+  "etiketler": [
+   "beyaz gürültü",
+   "white noise",
+   "pembe gürültü",
+   "pink noise",
+   "dar bant gürültü",
+   "narrowband noise",
+   "konuşma gürültüsü",
+   "speech noise",
+   "kritik bant",
+   "maskeleme",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 40",
+   "baslik": "*Gürültü* türleri",
+   "alt": "Beyaz, pembe, dar bant ve konuşma gürültüsü",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyolojide kullanılan gürültü türlerini; beyaz, pembe, dar bant ve konuşma gürültüsünü öğreneceğiz.",
+    "Her birinin enerjisinin frekanslara nasıl dağıldığını ve maskelemede neden farklı gürültüler seçtiğimizi göreceğiz."
+   ]
+  },
+  {
+   "id": "ton_gurultu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Gürültü nedir?",
+   "baslik": "Saf ses ve *gürültü*",
+   "cizim": "dalga_bicimi",
+   "ayar": {
+    "seriler": [
+     "ton",
+     "gurultu"
+    ],
+    "cumleler": [
+     0,
+     1
+    ],
+    "frekans_hz": 500
+   },
+   "vurgula": [
+    {
+     "parca": "ton",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Saf ses: _tek_ frekans",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Gürültü: _rastgele_, düzensiz",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Spektrum: enerjinin _frekans_ dağılımı",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ton",
+     "metin": "Saf ses: sinüs dalgası",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Gürültü: rastgele dalga",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Saf ses, tek bir frekansta düzenli olarak tekrarlanan bir sinüs dalgasıdır.",
+    "Gürültü ise dalga biçimi rastgele ve düzensiz olan, kendini tekrar etmeyen bir sestir.",
+    "Gürültünün enerjisi tek bir frekansta toplanmaz, geniş bir frekans aralığına yayılır.",
+    {
+     "yazi": "Bu enerjinin frekanslara nasıl dağıldığını gösteren grafiğe spektrum (spectrum) denir.",
+     "ses": "Bu enerjinin frekanslara nasıl dağıldığını gösteren grafiğe spektrum denir."
+    },
+    "Gürültüleri adlandırırken bu spektrumun biçimine bakarız; renk adları da buradan gelir."
+   ]
+  },
+  {
+   "id": "oktav",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Gürültü nedir?",
+   "baslik": "Her oktav *iki kat* geniş",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "250-500 Hz",
+     "metin": "Genişlik 250 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "500-1000 Hz",
+     "metin": "Genişlik 500 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "1000-2000 Hz",
+     "metin": "Genişlik 1000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "2000-4000 Hz",
+     "metin": "Genişlik 2000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "4000-8000 Hz",
+     "metin": "Genişlik 4000 Hz",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Gürültü türlerini anlamak için önce oktavı hatırlayalım: bir oktav, frekansın iki katına çıkmasıdır.",
+    "İki yüz elli ile beş yüz hertz arasındaki oktav yalnız iki yüz elli hertz genişliğindedir.",
+    "Bin ile iki bin hertz arasındaki oktav ise bin hertz genişliğindedir.",
+    "Dört bin ile sekiz bin hertz arasındaki oktav dört bin hertz genişliğindedir.",
+    "Yani her oktav bir öncekinin iki katı genişliktedir; bu basit gerçek, beyaz ve pembe gürültü arasındaki farkın anahtarıdır."
+   ]
+  },
+  {
+   "id": "beyaz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Beyaz ve pembe gürültü",
+   "baslik": "*Beyaz* gürültü",
+   "maddeler": [
+    {
+     "metin": "Her hertzde _eşit_ enerji",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Oktavın enerjisi _iki katına_ çıkar",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Oktav başına _3 dB_ artış",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tiz ağırlıklı, _hışırtı_ gibi",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "gurultu_spektrumu",
+    "cumle": 0,
+    "ayar": {
+     "tur": "beyaz",
+     "hz_cumle": 0,
+     "oktav_cumle": 2
+    },
+    "vurgula": [
+     {
+      "parca": "hz_cizgisi",
+      "cumle": 0
+     },
+     {
+      "parca": "oktav_bantlari",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Beyaz gürültüde (white noise) her bir hertzlik dilimde eşit enerji bulunur; spektrumu düz bir çizgidir.",
+    "Adını, tüm renkleri eşit olarak içeren beyaz ışığa benzetilmesinden alır.",
+    "Ancak her oktav bir öncekinin iki katı genişlikte olduğu için, her oktavın toplam enerjisi de iki katına çıkar.",
+    "Enerjinin iki katına çıkması üç desibellik artış demektir; yani beyaz gürültü oktav başına üç desibel yükselir.",
+    "Bu yüzden kulağa tiz ağırlıklı, keskin bir hışırtı gibi gelir.",
+    "Beyaz gürültü geniş bant bir gürültüdür ve odyometrelerdeki geniş bant gürültünün temelini oluşturur."
+   ]
+  },
+  {
+   "id": "pembe",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Beyaz ve pembe gürültü",
+   "baslik": "*Pembe* gürültü",
+   "maddeler": [
+    {
+     "metin": "Her _oktavda_ eşit enerji",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Hertz başına enerji _azalır_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kulağa daha _dengeli_ gelir",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Oda ve ses sistemi _ölçümleri_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "gurultu_spektrumu",
+    "cumle": 0,
+    "ayar": {
+     "tur": "pembe",
+     "hz_cumle": 1,
+     "oktav_cumle": 0
+    },
+    "vurgula": [
+     {
+      "parca": "oktav_bantlari",
+      "cumle": 0
+     },
+     {
+      "parca": "hz_cizgisi",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Pembe gürültüde (pink noise) her oktavda eşit enerji bulunur.",
+     "ses": "Pembe gürültüde her oktavda eşit enerji bulunur."
+    },
+    "Bunun için hertz başına enerji, frekans iki katına çıktıkça yarıya, yani üç desibel azalır.",
+    "Kulağımız frekansları oktavlara benzer biçimde algıladığı için pembe gürültü daha dengeli ve daha az tiz gelir.",
+    "Bu özelliği nedeniyle oda akustiği, hoparlör ve ses sistemi ölçümlerinde sık kullanılır.",
+    "Hertz başına enerjisi oktavda altı desibel azalan, daha da pes ağırlıklı gürültüye ise kahverengi gürültü denir."
+   ]
+  },
+  {
+   "id": "beyaz_pembe",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Beyaz ve pembe gürültü",
+   "baslik": "Beyaz ve *pembe* yan yana",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Beyaz gürültü",
+     "metin": "Hertz başına eşit, oktavda +3 dB",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tiz ağırlıklı",
+     "metin": "Enerji tizde yoğun algılanır",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Pembe gürültü",
+     "metin": "Oktavda eşit, hertz başına azalır",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Dengeli",
+     "metin": "Her bölgede benzer enerji",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "İki gürültüyü yan yana koyalım: beyaz gürültüde hertz başına enerji sabittir, oktav bantlarında ise her oktavda üç desibel artar.",
+    "Bu yüzden beyaz gürültünün enerjisi tiz frekanslarda yoğunlaşmış gibi algılanır.",
+    "Pembe gürültüde ise oktav başına enerji sabittir; hertz başına enerji her oktavda üç desibel azalır.",
+    "Sonuçta pembe gürültü, işitme sistemimize her frekans bölgesinde benzer miktarda enerji sunar."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Beyaz ve pembe gürültü",
+   "baslik": "Günlük yaşamda *gürültüler*",
+   "maddeler": [
+    {
+     "metin": "Uyku ve odaklanma _uygulamaları_",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Bebek odasında _düzey_ ve mesafe",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Tinnitusta _ses jeneratörleri_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Ofiste _ses maskeleme_ sistemleri",
+     "cumle": 4,
+     "ikon": "is_yeri"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 2
+     },
+     {
+      "parca": "trafik",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Beyaz ve pembe gürültü, uykuyu ya da odaklanmayı kolaylaştırması amaçlanan cihaz ve uygulamalarda da kullanılır.",
+    "Bebek odalarında kullanılan bazı beyaz gürültü cihazları, en yüksek düzeyde ve yakından çalıştırıldığında yüksek ses düzeylerine ulaşabilir.",
+    "Bu yüzden düşük düzeyde ve bebekten uzakta kullanılmaları genel bir güvenlik önerisidir.",
+    "Tinnitus için kullanılan bazı ses jeneratörleri de geniş bant gürültü üretir.",
+    "Açık ofislerde ise konuşmaların anlaşılırlığını azaltmak için özel olarak süzülmüş gürültü veren ses maskeleme sistemleri kullanılır."
+   ]
+  },
+  {
+   "id": "kritik_bant",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dar bant ve maskeleme",
+   "baslik": "Neden *dar bant*?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tonu _yakın_ frekanslar maskeler",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kritik bant (critical band)",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Bant dışı enerji: yalnız _rahatsızlık_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "tonun bölgesi: kritik bant",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Saf ses testinde karşı kulağı maskelerken, bir tonu en verimli biçimde hangi gürültünün örteceğini düşünmeliyiz.",
+    "Bir tonu maskeleyen, gürültünün yalnız o tonun çevresindeki dar bir frekans bölgesine düşen kısmıdır.",
+    {
+     "yazi": "Bu bölgeye kritik bant (critical band) denir; kavram Fletcher'ın 1940 tarihli çalışmasına dayanır.",
+     "ses": "Bu bölgeye kritik bant denir; kavram Fletcher'ın bin dokuz yüz kırk tarihli çalışmasına dayanır."
+    },
+    "Kritik bandın dışındaki gürültü maskelemeye katkı yapmaz; yalnız sesi daha yüksek ve rahatsız edici yapar.",
+    "Bu yüzden saf ses maskelemesinde, test frekansını merkez alan dar bant gürültü kullanılır."
+   ]
+  },
+  {
+   "id": "nbn",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dar bant ve maskeleme",
+   "baslik": "*Dar bant* gürültü",
+   "maddeler": [
+    {
+     "metin": "Test frekansı _merkezde_",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Genişlik: yaklaşık _üçte bir ile yarım_ oktav",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Daha düşük düzeyle _aynı etki_",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Düzey: _dB EM_",
+     "cumle": 3,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Ses alanında da _uyaran_ olabilir",
+     "cumle": 4,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40,
+     "test_kulak": "sag"
+    },
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Dar bant gürültü (narrowband noise), kısaca NBN, beyaz gürültünün test frekansı çevresinde süzülmesiyle elde edilir.",
+    "Bant genişliği genellikle oktavın üçte biri ile yarısı arasındadır; sınırları odyometre standartlarında tanımlanır.",
+    "Aynı maskeleme etkisini daha düşük toplam ses düzeyiyle sağladığı için hasta için daha rahattır.",
+    "Odyometrelerde dar bant gürültünün düzeyi, etkin maskeleme desibeli, kısaca dB EM olarak ayarlanır.",
+    "Ses alanı testlerinde iki geçerli uyaran vardır: frekans modülasyonlu ton ve dar bant gürültü; ikisi de odada duran dalgaları azaltır."
+   ]
+  },
+  {
+   "id": "konusma_gurultusu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Konuşma gürültüsü",
+   "baslik": "*Konuşma* gürültüsü",
+   "cizim": "konusma_muzu",
+   "vurgula": [
+    {
+     "parca": "muz",
+     "cumle": 0
+    },
+    {
+     "parca": "unluler",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Konuşmanın _ortalama_ spektrumu",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "1000 Hz'e kadar düz, sonra _azalır_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Konuşma testlerinde _maskeleme_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "unluler",
+     "metin": "pes ve orta: enerji yoğun",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Konuşma gürültüsü (speech noise), spektrumu konuşmanın uzun süreli ortalama spektrumuna benzeyecek biçimde süzülmüş bir gürültüdür.",
+    "Konuşmada enerji pes ve orta frekanslarda yoğundur; bu gürültü de yaklaşık bin hertze kadar düz seyreder, sonra giderek azalır.",
+    "Konuşma odyometrisinde, örneğin konuşmayı alma eşiği ve kelime tanıma testlerinde karşı kulağı maskelemek için kullanılır.",
+    "Konuşmayı en verimli maskeleyen gürültü, konuşmayla aynı frekans bölgesinde enerji taşıyan gürültüdür.",
+    "Bazı klinikler konuşma testlerinde geniş bant gürültü de kullanır; iki yaklaşım da geçerlidir, önemli olan düzeyin doğru ayarlanmasıdır."
+   ]
+  },
+  {
+   "id": "bir_arada",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Konuşma gürültüsü",
+   "baslik": "Gürültüler *bir arada*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Beyaz",
+     "metin": "Hertz başına eşit; geniş bant",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Pembe",
+     "metin": "Oktav başına eşit; akustik ölçüm",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Dar bant (NBN)",
+     "metin": "Saf ses maskelemesi",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma gürültüsü",
+     "metin": "Konuşma testi maskelemesi",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Çok konuşmacılı uğultu",
+     "metin": "Gürültüde konuşma testleri",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Beyaz gürültü hertz başına eşit enerji taşır ve geniş bant maskeleme için kullanılabilir.",
+    "Pembe gürültü oktav başına eşit enerji taşır ve özellikle akustik ölçümlerde kullanılır.",
+    "Dar bant gürültü test frekansı çevresinde yoğunlaşır ve saf ses maskelemesinin standart gürültüsüdür.",
+    "Konuşma gürültüsü konuşmanın spektrumunu taklit eder ve konuşma testlerinde maskeleme için kullanılır.",
+    {
+     "yazi": "Birkaç kişinin aynı anda konuşmasıyla oluşan çok konuşmacılı uğultu (babble) ise gürültüde konuşma testlerinde gerçek hayatı taklit eder.",
+     "ses": "Birkaç kişinin aynı anda konuşmasıyla oluşan çok konuşmacılı uğultu ise gürültüde konuşma testlerinde gerçek hayatı taklit eder."
+    }
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Konuşma gürültüsü",
+   "baslik": "Klinik ipucu",
+   "metin": "Maskelemeden önce hastaya hışırtı sesini önemsememesini, yalnız tonlara yanıt vermesini söyleyin. Odyometrede tonda dar bant, konuşmada konuşma gürültüsünün seçili olduğunu kontrol edin.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: maskelemeye başlamadan önce hastaya bir kulağına hışırtı gibi bir ses vereceğinizi söyleyin.",
+    "Bu sesi önemsememesini ve yalnız bip seslerine, yani tonlara yanıt vermesini isteyin.",
+    "Talimat verilmezse hasta gürültüye de yanıt verebilir ve eşikler karışabilir.",
+    "Teste başlamadan önce odyometrede doğru gürültünün seçili olduğunu kontrol edin: tonda dar bant, konuşmada konuşma gürültüsü."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Beyaz: _hertz başına_ eşit enerji",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Pembe: _oktav başına_ eşit enerji",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Saf ses maskelemesi: _dar bant_",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Konuşma testleri: _konuşma gürültüsü_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Beyaz gürültü hertz başına eşit enerji taşır ve oktav başına üç desibel yükselir.",
+    "Pembe gürültü oktav başına eşit enerji taşır ve kulağa daha dengeli gelir.",
+    "Tonu yalnız kritik bant içindeki gürültü maskelediği için saf ses maskelemesinde dar bant gürültü kullanılır.",
+    "Konuşma testlerinde ise konuşmanın spektrumuna benzeyen konuşma gürültüsü kullanılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Saf ses testinde karşı kulağı maskelemek için standart gürültü hangisidir?",
+   "secenekler": [
+    "Beyaz gürültü",
+    "Pembe gürültü",
+    "Dar bant gürültü",
+    "Çok konuşmacılı uğultu"
+   ],
+   "dogru": 2,
+   "aciklama": "Tonu yalnız _kritik bant_ içindeki gürültü maskeler; dar bant gürültü aynı etkiyi daha düşük düzeyle sağlar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Saf ses testinde karşı kulağı maskelemek için standart gürültü hangisidir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap C: dar bant gürültü.",
+     "ses": "Doğru cevap ce şıkkı: dar bant gürültü."
+    },
+    "Tonu yalnız kritik bant içindeki gürültü maskeler; dar bant gürültü aynı etkiyi daha düşük toplam düzeyle sağlar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Rezonans ve *filtreler*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste rezonansı, filtreleri ve oktav bantlarını; yani dar bant gürültünün arkasındaki akustiği göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

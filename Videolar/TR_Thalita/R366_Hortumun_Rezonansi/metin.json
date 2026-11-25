@@ -1,0 +1,107 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R366_Hortumun_Rezonansi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #366",
+  "baslik": "Hortumun *rezonansı*",
+  "alt": "Kulak arkası cihazda sönümleyici",
+  "cizim": "isitme_cihazi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İşitme cihazının hortumu da sesi değiştirir mi? #shorts",
+  "aciklama": "Kulak arkası cihazların hortumu ve kalıp kanalı da rezonans yapan bir borudur. Bu rezonanslar cihazın frekans yanıtında genellikle yaklaşık 1000, 3000 ve 5000 Hz civarında belirgin tepeler oluşturabilir. Hortuma yerleştirilen akustik sönümleyici (damper) bu tepeleri yumuşatır; gerçek kulak ölçümünde sivri tepeler görülürse önce hortum, kalıp kanalı ve süzgeç kontrol edilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitmecihazı",
+   "akustik"
+  ],
+  "etiketler": [
+   "rezonans",
+   "işitme cihazı hortumu",
+   "akustik sönümleyici",
+   "frekans yanıtı",
+   "kulak arkası cihaz",
+   "gerçek kulak ölçümü",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İşitme cihazının hortumu da sesi değiştirir mi?",
+  "bilgiler": [
+   "Hortum ve kalıp kanalı rezonans yapan bir borudur.",
+   "Yaklaşık 1, 3 ve 5 kHz civarında tepeler oluşabilir.",
+   "Akustik sönümleyici tepeleri yumuşatır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "akustik"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #366",
+   "metin": "Hortum *ses değiştirir mi?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İşitme cihazının hortumu da sesi değiştirir mi?"
+   ]
+  },
+  {
+   "id": "hortum",
+   "tur": "zincir",
+   "baslik": "Hortum *rezonansı*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "1 kHz",
+     "tr": "tepe",
+     "cumle": 1
+    },
+    {
+     "ad": "3 kHz",
+     "tr": "tepe",
+     "cumle": 1,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "5 kHz",
+     "tr": "tepe",
+     "cumle": 1,
+     "gecikme": 1.2
+    }
+   ],
+   "alt": "Sönümleyici _tepeleri yumuşatır_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Kulak arkası cihazın hortumu ve kalıp kanalı da rezonans yapan bir borudur.",
+    "Frekans yanıtında yaklaşık bin, üç bin ve beş bin hertzde tepeler oluşabilir.",
+    "Hortuma yerleştirilen akustik sönümleyici bu tepeleri yumuşatır.",
+    "Bu, sesin daha doğal duyulmasına yardım eder.",
+    "Gerçek kulak ölçümünde sivri tepe görürseniz önce hortumu ve kalıbı kontrol edin."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D041",
+ "kaynak_baslik": "Rezonans ve filtreler"
+}

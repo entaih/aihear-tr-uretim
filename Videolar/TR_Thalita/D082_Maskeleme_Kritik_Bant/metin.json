@@ -1,0 +1,719 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D082_Maskeleme_Kritik_Bant_TR",
+ "kapak": {
+  "ust": "DERS 82",
+  "baslik": "Maskeleme ve<br>*kritik bant*",
+  "alt": "Bir ses diğerini nasıl örter?",
+  "cizim": "koklea_acik",
+  "ayar": {
+   "frekans": 500
+  }
+ },
+ "youtube": {
+  "baslik": "Maskeleme ve Kritik Bant: Bir Ses Diğerini Nasıl Örter? | Ders 82 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Gürültü bir sesi neden duyulmaz hale getirir? Bu derste psikoakustik maskelemeyi, Fletcher'ın kritik bant deneyini, işitsel filtreleri, pes seslerin tiz sesleri daha çok örtmesini, yani maskelemenin yukarı yayılımını, ileri ve geri maskelemeyi ve bilgisel maskelemeyi inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Fletcher (1940), Auditory patterns, Reviews of Modern Physics; Glasberg ve Moore (1990), Derivation of auditory filter shapes from notched-noise data, Hearing Research; Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "psikoakustik",
+   "maskeleme"
+  ],
+  "etiketler": [
+   "maskeleme",
+   "kritik bant",
+   "critical band",
+   "işitsel filtre",
+   "auditory filter",
+   "maskelemenin yukarı yayılımı",
+   "upward spread of masking",
+   "ileri maskeleme",
+   "forward masking",
+   "bilgisel maskeleme",
+   "psikoakustik",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 82",
+   "baslik": "Maskeleme ve *kritik bant*",
+   "alt": "Bir ses diğerini nasıl örter?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir sesin başka bir sesi nasıl duyulmaz hale getirdiğini, yani psikoakustik maskelemeyi öğreneceğiz.",
+    "Kritik bandı, işitsel filtreleri, maskelemenin yukarı yayılımını ve zamansal maskelemeyi adım adım göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Maskeleme nedir?",
+   "baslik": "Maskelemenin *tanımı*",
+   "maddeler": [
+    {
+     "metin": "Bir ses diğerinin _eşiğini yükseltir_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Örten ses: _maskeleyici_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Örtülen ses: _sinyal_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Miktar: _maskeli eksi sessiz eşik_",
+     "cumle": 2,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÖRNEK",
+    "metin": "Sessizde 10, gürültüde 40 dB: *30 dB* maskeleme",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Maskeleme (masking), bir sesin varlığında başka bir sesin işitme eşiğinin yükselmesidir.",
+    "Örten sese maskeleyici (masker), duyulması zorlaşan sese ise sinyal denir.",
+    "Maskeleme miktarı, sinyalin maskeleyici varken ölçülen eşiğinden sessizdeki eşiğinin çıkarılmasıyla bulunur.",
+    "Örneğin bir ton sessizde on, gürültü varken kırk desibelde duyuluyorsa maskeleme miktarı otuz desibeldir.",
+    "Günlük yaşamda gürültülü bir kafede konuşmayı zor anlamamızın temel nedeni budur.",
+    "Klinik maskelemede ise aynı ilkeyi bilerek kullanır, karşı kulağı gürültüyle meşgul ederiz."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Maskeleme nedir?",
+   "baslik": "Maskelemenin *zaman* içindeki türleri",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Eş zamanlı",
+     "metin": "Ses ve gürültü birlikte",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "İleri maskeleme",
+     "metin": "Gürültü önce, sinyal sonra",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Geri maskeleme",
+     "metin": "Sinyal önce, gürültü sonra",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Maskelemeyi, maskeleyici ile sinyalin zaman içindeki ilişkisine göre üç türe ayırırız.",
+    "Eş zamanlı maskelemede (simultaneous masking) sinyal ve maskeleyici aynı anda bulunur; en güçlü ve en çok çalışılan türdür.",
+    "İleri maskelemede (forward masking) maskeleyici sona erdikten kısa süre sonra gelen sinyal duyulmakta zorlanır.",
+    "Geri maskelemede (backward masking) ise sinyal maskeleyiciden kısa süre önce gelir ve yine de etkilenir.",
+    "İleri ve geri maskelemeye birlikte zamansal maskeleme denir.",
+    "Önce eş zamanlı maskelemeyle başlayalım; çünkü kritik bant kavramı buradan doğdu."
+   ]
+  },
+  {
+   "id": "fletcher",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kritik bant",
+   "baslik": "Fletcher'ın *bant genişletme* deneyi",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Sabit ton",
+     "metin": "Örneğin 1000 Hz",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Dar gürültü",
+     "metin": "Tonun çevresinde",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bant genişler",
+     "metin": "Eşik yükselir",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Kritik bant",
+     "metin": "Sonra eşik sabit",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Kritik bant kavramı, Harvey Fletcher'ın 1940 yılında yayımladığı deneylere dayanır.",
+     "ses": "Kritik bant kavramı, Harvi Fleçır'ın 1940 yılında yayımladığı deneylere dayanır."
+    },
+    "Deneyde frekansı sabit bir tonun, örneğin bin hertzlik bir tonun eşiği gürültü içinde ölçülür.",
+    "Gürültü önce tonun çevresinde dar bir bantla verilir; gürültünün hertz başına düzeyi sabit tutulur.",
+    "Bant genişledikçe toplam gürültü enerjisi artar ve tonun eşiği de yükselir.",
+    "Ancak bant belirli bir genişliği aştıktan sonra, gürültü artmaya devam etse de eşik artık yükselmez.",
+    "Bu sınır genişliğe kritik bant (critical band) denir; tonu yalnız bu bandın içindeki gürültü maskeler."
+   ]
+  },
+  {
+   "id": "filtre",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kritik bant",
+   "baslik": "Koklea bir *filtre bankası*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Taban: tiz",
+     "cumle": 0
+    },
+    {
+     "parca": "tepe",
+     "metin": "Tepe: pes",
+     "cumle": 0
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "1000 Hz bölgesi",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Her bölge bir _bant geçiren filtre_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kritik bant: filtrenin _genişliği_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Bu bulgunun fizyolojik temeli kokleadadır: baziler membranın tabanı tiz, tepesi pes frekanslara yanıt verir.",
+    "Bin hertzlik bir ton, yürüyen dalganın tepe yaptığı kendi bölgesini en güçlü biçimde uyarır.",
+    "Her bölge, yalnız belirli bir frekans aralığını geçiren bir filtre gibi davranır; buna işitsel filtre (auditory filter) denir.",
+    "Kritik bant, bu işitsel filtrenin etkin genişliğidir.",
+    "Bir tonu duyarken kulak, o tonun merkezindeki filtrenin çıkışını dinler; filtre dışındaki gürültü bu çıkışa pek karışmaz.",
+    "Bu yüzden bir tonu en verimli maskeleyen gürültü, o tonun çevresindeki dar bir banttır."
+   ]
+  },
+  {
+   "id": "genislik",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kritik bant",
+   "baslik": "İşitsel filtre *ne kadar* geniş?",
+   "sutunlar": [
+    "Merkez frekans",
+    "ERB (yaklaşık)",
+    "Merkezin oranı"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "250 Hz",
+      "52 Hz",
+      "yüzde 21"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "500 Hz",
+      "79 Hz",
+      "yüzde 16"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "133 Hz",
+      "yüzde 13"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "241 Hz",
+      "yüzde 12"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "456 Hz",
+      "yüzde 11"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Filtre genişliği frekansla artar; günümüzde en çok eşdeğer dikdörtgen bant genişliği, kısaca ERB ile ifade edilir.",
+    {
+     "yazi": "Tablodaki değerler Glasberg ve Moore'un 1990 tarihli formülüyle hesaplanmış, normal işiten genç yetişkinlere ait yaklaşık değerlerdir.",
+     "ses": "Tablodaki değerler Glasberg ve Mur'un 1990 tarihli formülüyle hesaplanmış, normal işiten genç yetişkinlere ait yaklaşık değerlerdir."
+    },
+    "Pes frekanslarda filtre dar görünse de, merkez frekansa oranla daha geniştir.",
+    "Bin hertzde ERB yaklaşık yüz otuz üç hertzdir; yani merkez frekansın yaklaşık yüzde on üçü.",
+    "Tiz frekanslarda genişlik yüzlerce hertze çıkar, ama oranı yaklaşık yüzde on bir ile on iki civarında kalır.",
+    {
+     "yazi": "Zwicker'in klasik kritik bant ölçeği biraz daha geniş değerler verir ve işitme alanını yaklaşık yirmi dört banda böler.",
+     "ses": "Tsviker'in klasik kritik bant ölçeği biraz daha geniş değerler verir ve işitme alanını yaklaşık yirmi dört banda böler."
+    }
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kritik bant",
+   "baslik": "Filtre *nasıl* ölçülür?",
+   "maddeler": [
+    {
+     "metin": "Çentikli gürültü: _tonun çevresi boş_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Çentik genişledikçe _eşik düşer_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Orta düzeyde filtre _yaklaşık simetrik_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ayar eğrisi: _V biçimli_ seçicilik",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "YÖNTEMLER",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "Çentikli gürültü",
+      "metin": "Filtrenin biçimi",
+      "cumle": 0
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Ayar eğrisi",
+      "metin": "Frekans seçiciliği",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "İşitsel filtrenin biçimi bugün çoğunlukla çentikli gürültü (notched noise) yöntemiyle ölçülür; tonun çevresi gürültüden boşaltılır.",
+    "Çentik genişledikçe filtreye düşen gürültü azalır ve tonun eşiği düşer.",
+    "Eşiğin çentik genişliğiyle nasıl değiştiğinden, filtrenin genişliği ve biçimi hesaplanır.",
+    "Orta düzeylerde filtre yaklaşık simetriktir; yüksek düzeylerde ise pes tarafı genişler.",
+    "Bir başka yöntem, sabit ve hafif bir tonu maskelemek için her frekansta gereken maskeleyici düzeyini çizen psikofiziksel ayar eğrisidir.",
+    "Normal kulakta bu eğri sivri, V biçimli bir yapıdadır ve kulağın frekans seçiciliğini gösterir."
+   ]
+  },
+  {
+   "id": "klinik_bant",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kritik bant",
+   "baslik": "Kritik bant *klinikte*",
+   "maddeler": [
+    {
+     "metin": "Saf ses maskelemesi: _dar bant gürültü_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Bant dışı enerji _yalnız rahatsız eder_",
+     "cumle": 1,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Geniş filtre: _daha kolay_ maskelenme",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "cumle": 0,
+    "ayar": {
+     "ia_db": 40
+    },
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "metin": "Dar bant gürültü",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Klinik odyometride saf ses testinde karşı kulağı maskelerken test frekansını merkez alan dar bant gürültü kullanmamızın nedeni budur.",
+    "Kritik bandın dışına düşen enerji maskelemeye katkı yapmaz; yalnız sesi daha yüksek ve rahatsız edici yapar.",
+    "Dar bant gürültü, aynı maskeleme etkisini daha düşük toplam ses yüksekliğiyle sağlar.",
+    "Odyometrelerdeki dar bant gürültü, kişiler arası farkları karşılamak için kritik banttan biraz daha geniş tutulur.",
+    "Koklear hasarda işitsel filtreler genişler; bu yüzden aynı gürültü, hasarlı kulakta sinyali daha kolay maskeler.",
+    "Bu konuya koklear hasarın algıyı nasıl değiştirdiğini anlattığımız derste geri döneceğiz."
+   ]
+  },
+  {
+   "id": "yayilim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Maskelemenin yayılımı",
+   "baslik": "Pes sesler *tizi* örter",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "500 Hz dalgası",
+     "cumle": 1
+    },
+    {
+     "parca": "taban",
+     "metin": "Tiz bölgeden geçer",
+     "cumle": 2
+    },
+    {
+     "parca": "tepe",
+     "metin": "Pes bölgeler: etki az",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Maskeleme simetrik değildir: pes bir ses, tiz bir sesi tiz sesin pes sesi örttüğünden çok daha güçlü maskeler.",
+    "Bunun nedeni yürüyen dalganın yapısıdır; dalga her zaman kokleanın tabanından tepesine doğru ilerler.",
+    "Beş yüz hertzlik bir ses, kendi bölgesine ulaşmadan önce tabandaki tiz frekans bölgelerinden geçer ve onları da titreştirir.",
+    "Dalga tepe yaptıktan sonra ise hızla söner; yani daha pes bölgelere pek yayılmaz.",
+    "Sonuçta pes maskeleyicinin etkisi tiz frekanslara doğru yayılır; buna maskelemenin yukarı yayılımı (upward spread of masking) denir.",
+    {
+     "yazi": "Bu asimetri ilk kez 1924'te Wegel ve Lane'in iki tonla yaptığı deneylerde gösterildi.",
+     "ses": "Bu asimetri ilk kez 1924'te Vegel ve Leyn'in iki tonla yaptığı deneylerde gösterildi."
+    }
+   ]
+  },
+  {
+   "id": "pes_tiz",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Maskelemenin yayılımı",
+   "baslik": "Pes maskeleyici, *tiz* maskeleyici",
+   "sol": {
+    "ust": "Pes maskeleyici",
+    "maddeler": [
+     {
+      "metin": "Etkisi _tize doğru_ geniş yayılır",
+      "cumle": 0
+     },
+     {
+      "metin": "Düzey arttıkça yayılım _büyür_",
+      "cumle": 1
+     },
+     {
+      "metin": "Örnek: motor, klima, kalabalık",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Tiz maskeleyici",
+    "maddeler": [
+     {
+      "metin": "Etkisi _dar_ bir alanda kalır",
+      "cumle": 3
+     },
+     {
+      "metin": "Pes seslere _pek dokunmaz_",
+      "cumle": 4
+     },
+     {
+      "metin": "Örnek: ıslık, cızırtı",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Pes bir maskeleyicinin etkisi, kendi frekansının üstünde geniş bir alana yayılır.",
+    "Maskeleyicinin düzeyi arttıkça bu yayılım orantısız biçimde büyür; çünkü işitsel filtrenin pes tarafı yüksek düzeylerde genişler.",
+    "Motor sesi, klima uğultusu ve kalabalık gürültüsü gibi pes ağırlıklı sesler bu yüzden çok etkili maskeleyicilerdir.",
+    "Tiz bir maskeleyicinin etkisi ise kendi frekansının çevresinde dar bir alanda kalır.",
+    "Tiz maskeleyici, kendisinden pes seslerin eşiğini çok az değiştirir.",
+    "Islık ya da cızırtı gibi tiz sesler rahatsız edici olabilir, ama konuşmanın pes bileşenlerini pek örtmez."
+   ]
+  },
+  {
+   "id": "konusma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Maskelemenin yayılımı",
+   "baslik": "Yukarı yayılım ve *konuşma*",
+   "maddeler": [
+    {
+     "metin": "Güçlü ünlüler _zayıf ünsüzleri_ örter",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Pes gürültü _tiz ünsüzleri_ siler",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Cihazda fazla pes kazanç _sakıncalı_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "unluler",
+      "cumle": 0
+     },
+     {
+      "parca": "unsuzler",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Konuşmada pes ve güçlü ünlüler, hemen ardından gelen zayıf ve tiz ünsüzleri kısmen maskeleyebilir.",
+    "Gürültülü bir ortamda pes ağırlıklı gürültü, konuşmanın anlaşılırlığını taşıyan tiz ünsüzleri örter.",
+    "Bu durum, gürültüde konuşmanın neden önce ünsüzlerden bozulduğunu açıklar.",
+    "İşitme cihazlarında gürültülü ortamda gereğinden fazla pes kazanç, aynı mekanizmayla tiz bilgiyi örtebilir.",
+    "Bu yüzden birçok cihaz, gürültüde pes frekans kazancını azaltan programlar ve ayarlar sunar.",
+    "Koklear hasarda filtreler genişlediği için yukarı yayılım daha da belirgin hale gelir."
+   ]
+  },
+  {
+   "id": "zamansal",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zamansal ve bilgisel maskeleme",
+   "baslik": "Zaman ekseninde *maskeleme*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Geri maskeleme",
+     "metin": "Birkaç on ms öncesi",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Maskeleyici",
+     "metin": "Eş zamanlı etki en güçlü",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "İleri maskeleme",
+     "metin": "Yaklaşık 100 ile 200 ms",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Zamansal maskelemeyi bir zaman çizgisi üzerinde düşünelim; en güçlü etki maskeleyici sürerken görülür.",
+    "Maskeleyici bittikten sonra etkisi hemen kaybolmaz; ileri maskeleme yaklaşık yüz ile iki yüz milisaniye boyunca azalarak sürer.",
+    "Sinyal maskeleyicinin sonuna ne kadar yakınsa ve maskeleyici ne kadar yüksekse ileri maskeleme o kadar fazladır.",
+    "Geri maskeleme çok daha kısa bir aralıkta, yalnız birkaç on milisaniye içinde görülür ve miktarı daha azdır.",
+    "Geri maskeleme alıştırmayla belirgin biçimde azalır; bu yüzden daha çok merkezi işlemlemeyle ilişkilendirilir.",
+    "İleri maskeleme ise kısmen kokleanın ve işitme sinirinin uyarandan sonraki toparlanma süresini yansıtır."
+   ]
+  },
+  {
+   "id": "bilgisel",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Zamansal ve bilgisel maskeleme",
+   "baslik": "Enerjetik mi, *bilgisel* mi?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Enerjetik",
+     "metin": "Aynı filtrede enerji çakışır",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Bilgisel",
+     "metin": "Benzer sesler karışır",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Merkezi süreç",
+     "metin": "Dikkat ve ayrıştırma",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Daha duyarlı",
+     "metin": "Çocuklar ve yaşlılar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Şimdiye kadar anlattığımız maskeleme, aynı işitsel filtrelere düşen enerjinin çakışmasından doğar; buna enerjetik maskeleme denir.",
+    "Ancak bazen sinyal kokleada açıkça temsil edildiği halde yine de anlaşılamaz.",
+    "Örneğin iki kişi aynı anda konuştuğunda, ikinci konuşmacının sözleri hedef konuşmayla karışır; buna bilgisel maskeleme denir.",
+    "Bilgisel maskeleme dikkat, ayrıştırma ve belirsizlik gibi merkezi süreçlerle ilgilidir.",
+    "Hedef ile maskeleyici farklı yönlerden geldiğinde ya da sesleri belirgin biçimde farklı olduğunda azalır.",
+    "Çocuklar ve yaşlı yetişkinler bilgisel maskelemeden genellikle daha çok etkilenir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Pes frekans eşikleri beklenmedik biçimde yüksekse ortam gürültüsünü düşünün. Kabin gürültüsü çoğunlukla pestir ve en çok pes frekansları maskeler.",
+   "cumleler": [
+    "Sahadan bir ipucu: odyogramda yalnız pes frekans eşikleri beklenmedik biçimde kötü çıkıyorsa ortam gürültüsünü düşünün.",
+    "Havalandırma, cihaz fanı ve trafik gibi ortam gürültüleri çoğunlukla pes ağırlıklıdır.",
+    "Bu gürültü, test sesini eş zamanlı olarak maskeler ve özellikle iki yüz elli ile beş yüz hertzde eşiği yükseltir.",
+    "Kabin kapısının kapalı olduğundan emin olun; şüphede insert kulaklık dış gürültüyü daha iyi zayıflatır.",
+    "Test odası gürültüsünün standartlarda verilen en yüksek izin verilen düzeyleri aşmadığı düzenli olarak ölçülmelidir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Maskeleme: bir sesin _eşiği yükseltmesi_",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Tonu yalnız _kritik bant_ içi gürültü örter",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Pes sesler tizi örter: _yukarı yayılım_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İleri maskeleme _100 ile 200 ms_ sürer",
+     "cumle": 3,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    "Maskeleme, bir sesin varlığında başka bir sesin eşiğinin yükselmesidir; miktarı desibel olarak ölçülür.",
+    "Bir tonu yalnız işitsel filtrenin içine, yani kritik banda düşen gürültü maskeler; bu yüzden klinikte dar bant gürültü kullanılır.",
+    "Yürüyen dalganın yapısı nedeniyle pes sesler tiz sesleri daha çok örter; buna maskelemenin yukarı yayılımı denir.",
+    "İleri maskeleme yaklaşık yüz ile iki yüz milisaniye sürer; geri maskeleme çok daha kısa ve zayıftır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Hangi durumda maskeleme en fazla olur?",
+   "secenekler": [
+    "4000 Hz gürültü, 500 Hz ton",
+    "500 Hz gürültü, 4000 Hz ton",
+    "Etki iki yönde eşit"
+   ],
+   "dogru": 1,
+   "aciklama": "Yürüyen dalga tabandan tepeye ilerler; pes maskeleyici _tiz bölgeyi de_ titreştirir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Aynı düzeyde verildiğinde hangi durumda maskeleme daha fazla olur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: beş yüz hertzlik gürültü, dört bin hertzlik tonu daha çok maskeler.",
+    "Pes sesin yürüyen dalgası kendi bölgesine ulaşmadan tiz bölgelerden geçer; bu, maskelemenin yukarı yayılımıdır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Zamansal işlemleme: *boşluk saptama*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kulağın zamanı nasıl işlediğini; boşluk saptamayı ve zamansal bütünleşmeyi öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

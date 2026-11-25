@@ -1,0 +1,930 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D129_Norolojik_ABR_TR",
+ "kapak": {
+  "ust": "DERS 129",
+  "baslik": "*Nörolojik*<br>ABR",
+  "alt": "Retrokoklear lezyonu aramak",
+  "cizim": "abr",
+  "ayar": {
+   "i_v_uzama": 0.8
+  }
+ },
+ "youtube": {
+  "baslik": "Nörolojik ABR: Retrokoklear Lezyon Değerlendirmesi | Ders 129 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitsel beyin sapı yanıtının (ABR) retrokoklear lezyon şüphesinde nasıl kullanıldığını anlatıyoruz. Dalgalar arası latanslar, kulaklar arası dalga V farkı (IT5), yüksek frekans kaybı düzeltmesi, tipik desenler ve ABR'nin MR ile karşılaştırıldığında duyarlılık sınırlarını örneklerle ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Selters ve Brackmann (1977), Acoustic tumor detection with brain stem electric response audiometry; Don ve arkadaşları, Stacked ABR çalışmaları.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ABR",
+   "retrokoklear"
+  ],
+  "etiketler": [
+   "nörolojik ABR",
+   "neurodiagnostic ABR",
+   "retrokoklear",
+   "retrocochlear",
+   "IT5",
+   "dalga V",
+   "vestibüler schwannom",
+   "vestibular schwannoma",
+   "işitsel beyin sapı yanıtı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 129",
+   "baslik": "*Nörolojik* ABR",
+   "alt": "Retrokoklear lezyon değerlendirmesi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel beyin sapı yanıtı, kısaca ABR'nin retrokoklear sorunları araştırmak için nasıl kullanıldığını öğreneceğiz.",
+    "Bakılan latans ölçütlerini, kulaklar arası dalga V farkını ve yöntemin sınırlarını örneklerle ele alacağız."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Amaç",
+   "baslik": "Retrokoklear *ne demek?*",
+   "maddeler": [
+    {
+     "metin": "Retrokoklear: _koklea sonrası_ yol",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "İşitme siniri ve _beyin sapı_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Klasik örnek: _vestibüler schwannom_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "ABR _iletimi_, görüntüleme _yapıyı_ gösterir",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "isitme_siniri",
+      "cumle": 1
+     },
+     {
+      "parca": "koklear_nukleus",
+      "cumle": 1
+     },
+     {
+      "parca": "lateral_lemniskus",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "isitme_siniri",
+      "metin": "retrokoklear bölge",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Retrokoklear (retrocochlear), koklea sonrası anlamına gelir ve işitme sinirinden beyin sapına uzanan yolu kapsar.",
+     "ses": "Retrokoklear, koklea sonrası anlamına gelir ve işitme sinirinden beyin sapına uzanan yolu kapsar."
+    },
+    "Bu bölgedeki bir sorun, sinyalin beyin sapında yavaşlamasına ya da eş zamanlılığını yitirmesine yol açabilir.",
+    {
+     "yazi": "En klasik örnek, iç kulak yolunda gelişen iyi huylu bir tümör olan vestibüler schwannomdur (vestibular schwannoma).",
+     "ses": "En klasik örnek, iç kulak yolunda gelişen iyi huylu bir tümör olan vestibüler şvannomdur."
+    },
+    "Multipl skleroz, beyin sapını etkileyen damar sorunları ve başka tümörler de ABR'yi bozabilir.",
+    "ABR sinyalin ne kadar hızlı ve düzenli iletildiğini ölçer; yapının kendisini ise görüntüleme yöntemleri gösterir.",
+    {
+     "yazi": "Bu yüzden nörolojik ABR (neurodiagnostic ABR), bir tarama ve destek testidir; tanı hekim değerlendirmesi ve görüntülemeyle konur.",
+     "ses": "Bu yüzden nörolojik ABR, bir tarama ve destek testidir; tanı hekim değerlendirmesi ve görüntülemeyle konur."
+    }
+   ]
+  },
+  {
+   "id": "ikv",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Amaç",
+   "baslik": "İç kulak yolunda *dar alan*",
+   "cizim": "ic_kulak_yolu_dibi",
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Üst vestibüler sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "Alt vestibüler sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Koklear sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Fasiyal sinir (VII)",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tümör çoğunlukla _vestibüler_ sinirden",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bası: koklear sinirde _iletim yavaşlar_",
+     "cumle": 2,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "İç kulak yolu, işitme, denge ve yüz sinirlerinin birlikte geçtiği dar bir kemik kanaldır.",
+    {
+     "yazi": "Vestibüler schwannom çoğunlukla üst ya da alt vestibüler sinirin kılıfındaki Schwann hücrelerinden gelişir.",
+     "ses": "Vestibüler şvannom çoğunlukla üst ya da alt vestibüler sinirin kılıfındaki Şvan hücrelerinden gelişir."
+    },
+    "Tümör büyüdükçe komşu koklear sinire bası yapar; sinir iletimi yavaşlar ve eş zamanlılık bozulur.",
+    "Kokleayı besleyen labirent arteri de etkilenebilir; bu yüzden bazen koklear bulgular da eşlik eder.",
+    "Aynı kanaldan geçen yüz siniri, büyük tümörlerde etkilenebilir; ancak yüz felci erken dönemde nadirdir."
+   ]
+  },
+  {
+   "id": "protokol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Protokol",
+   "baslik": "Nörolojik ABR *adımları*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Önce odyogram",
+     "metin": "Kayıp derecesi bilinmeli",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Yüksek şiddet",
+     "metin": "Klik, 80 ile 90 dB nHL",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Yavaş hız",
+     "metin": "Saniyede 11 ile 21",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Tekrar kayıt",
+     "metin": "En az iki kayıt",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "İki kulak",
+     "metin": "Aynı ayarla karşılaştır",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Nörolojik ABR'den önce güncel bir odyogram bulunmalıdır; çünkü kokleadaki kayıp latansları etkiler.",
+    {
+     "yazi": "Uyaran klik ya da geniş bantlı chirp olup yüksek şiddette, örneğin 80 ile 90 dB nHL, yani normalize işitme düzeyinde verilir.",
+     "ses": "Uyaran klik ya da geniş bantlı çörp olup yüksek şiddette, örneğin seksen ile doksan dB nHL, yani normalize işitme düzeyinde verilir."
+    },
+    {
+     "yazi": "Dalgaların net görülmesi için uyaran hızı düşük tutulur, örneğin saniyede yaklaşık 11 ile 21.",
+     "ses": "Dalgaların net görülmesi için uyaran hızı düşük tutulur, örneğin saniyede yaklaşık on bir ile yirmi bir uyaran."
+    },
+    "Her koşulda en az iki kayıt alınır ve dalgaların tekrarlanabildiği doğrulanır.",
+    "Her iki kulak aynı uyaran, aynı şiddet ve aynı ayarlarla test edilir; böylece kulaklar karşılaştırılabilir.",
+    "Kulaklar arasında belirgin asimetri varsa çapraz işitmeyi önlemek için karşı kulağa maskeleme gürültüsü verilebilir.",
+    "Hızın artırıldığı ek kayıtlar da bazı protokollerde kullanılır; çünkü bozuk iletim yüksek hızda daha belirgin hale gelebilir."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Protokol",
+   "baslik": "Bakılan *ölçütler*",
+   "sutunlar": [
+    "Ölçüt",
+    "Dikkat sınırı",
+    "Not"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Dalga V latansı",
+      "Normun üstünde",
+      "Yaklaşık 6 ms"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "I-III aralığı",
+      "Yaklaşık 2,5 ms üstü",
+      "Alt beyin sapı"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "III-V aralığı",
+      "Yaklaşık 2,4 ms üstü",
+      "Üst beyin sapı"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "I-V aralığı",
+      "Yaklaşık 4,5 ms üstü",
+      "Tüm iletim"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Kulaklar arası V",
+      "0,3 ile 0,4 ms",
+      "IT5"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Dalga yokluğu",
+      "Tekrarlanamayan yanıt",
+      "İşitmeyle uyumsuz"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "İlk bakılan ölçüt, yüksek şiddetteki dalga V latansıdır; yetişkinde üst sınır genellikle yaklaşık 6 milisaniye civarındadır.",
+     "ses": "İlk bakılan ölçüt, yüksek şiddetteki dalga V latansıdır; yetişkinde üst sınır genellikle yaklaşık altı milisaniye civarındadır."
+    },
+    {
+     "yazi": "I-III aralığının yaklaşık 2,5 milisaniyeyi aşması, işitme siniri ile alt pons arasındaki iletimde gecikmeyi düşündürür.",
+     "ses": "I-III aralığının yaklaşık iki buçuk milisaniyeyi aşması, işitme siniri ile alt pons arasındaki iletimde gecikmeyi düşündürür."
+    },
+    {
+     "yazi": "III-V aralığının yaklaşık 2,4 milisaniyeyi aşması, beyin sapının üst kısmında bir gecikmeye işaret edebilir.",
+     "ses": "III-V aralığının yaklaşık iki virgül dört milisaniyeyi aşması, beyin sapının üst kısmında bir gecikmeye işaret edebilir."
+    },
+    {
+     "yazi": "I-V aralığının yaklaşık 4,4 ile 4,5 milisaniyeyi aşması en sık kullanılan gecikme ölçütüdür.",
+     "ses": "I-V aralığının yaklaşık dört virgül dört ile dört buçuk milisaniyeyi aşması en sık kullanılan gecikme ölçütüdür."
+    },
+    {
+     "yazi": "Kulaklar arası dalga V farkının yaklaşık 0,3 ile 0,4 milisaniyeyi aşması da anormal kabul edilir.",
+     "ses": "Kulaklar arası dalga V farkının yaklaşık sıfır virgül üç ile sıfır virgül dört milisaniyeyi aşması da anormal kabul edilir."
+    },
+    "Son olarak, işitme düzeyiyle açıklanamayan dalga yokluğu ya da tekrarlanamayan bir kayıt da önemli bir bulgudur.",
+    "Tablodaki sınırlar yaklaşık değerlerdir; her klinik kendi cihazı ve protokolüyle elde ettiği normları kullanmalıdır."
+   ]
+  },
+  {
+   "id": "iv",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Örnekler",
+   "baslik": "Uzamış *I-V* aralığı",
+   "cizim": "abr",
+   "ayar": {
+    "i_v_uzama": 0.8
+   },
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "dalga I: normal yerde",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "dalga V: gecikmiş",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kesik çizgi: _normal_ kayıt",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Periferi sağlam, _iletim yavaş_",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Ekranda kesik çizgiyle normal bir kayıt, düz çizgiyle ise örnek bir kayıt görüyoruz.",
+    "Bu örnekte dalga I normal latansta; yani kokleadan sinire ilk iletim zamanında başlıyor.",
+    "Dalga V ise normal kayda göre belirgin biçimde geç geliyor.",
+    {
+     "yazi": "Bu yüzden I-V aralığı yaklaşık 4,8 milisaniyeye uzamış ve norm sınırını aşmıştır.",
+     "ses": "Bu yüzden I-V aralığı yaklaşık dört virgül sekiz milisaniyeye uzamış ve norm sınırını aşmıştır."
+    },
+    "Bu desen, gecikmenin kokleada değil, sinir ve beyin sapı iletiminde olduğunu düşündürür ve ileri değerlendirme gerektirir."
+   ]
+  },
+  {
+   "id": "it5",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Örnekler",
+   "baslik": "Kulaklar arası *dalga V farkı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 4.5,
+     "max": 7,
+     "adim": 0.5,
+     "ond": 1,
+     "ad": "Dalga V latansı (ms)"
+    },
+    "y": {
+     "min": 0.3,
+     "max": 2.7,
+     "ad": "Kulak",
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Sol",
+      "2": "Sağ"
+     }
+    },
+    "isaretler": [
+     {
+      "ad": "sag",
+      "x": 5.6,
+      "y": 2,
+      "renk": "kirmizi",
+      "dolu": true,
+      "etiket": "sağ: 5,6 ms",
+      "cumle": 1,
+      "dus": "x"
+     },
+     {
+      "ad": "sol",
+      "x": 6.1,
+      "y": 1,
+      "renk": "sol",
+      "dolu": true,
+      "etiket": "sol: 6,1 ms",
+      "cumle": 2,
+      "dus": "x"
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "x": [
+       5.6,
+       6.1
+      ],
+      "y": 1.5,
+      "etiket": "0,5 ms",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Aynı şiddet, _aynı ayar_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Fark _0,3 ile 0,4 ms_ üstü: dikkat",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kişi _kendi kontrolüdür_",
+     "cumle": 5,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Kulaklar arası dalga V farkı (interaural wave V latency difference), kısaca IT5, iki kulağın aynı şiddetteki dalga V latanslarının farkıdır.",
+     "ses": "Kulaklar arası dalga V farkı, kısaca ı te beş, iki kulağın aynı şiddetteki dalga V latanslarının farkıdır."
+    },
+    {
+     "yazi": "Bu örnekte sağ kulakta dalga V, 5,6 milisaniyede görülüyor.",
+     "ses": "Bu örnekte sağ kulakta dalga V, beş virgül altı milisaniyede görülüyor."
+    },
+    {
+     "yazi": "Sol kulakta ise aynı şiddette dalga V, 6,1 milisaniyede geliyor.",
+     "ses": "Sol kulakta ise aynı şiddette dalga V, altı virgül bir milisaniyede geliyor."
+    },
+    {
+     "yazi": "Aradaki fark 0,5 milisaniyedir.",
+     "ses": "Aradaki fark sıfır virgül beş milisaniyedir."
+    },
+    {
+     "yazi": "Fark genellikle 0,3 ile 0,4 milisaniyeyi aştığında anormal kabul edilir; bu örnek o sınırın üzerindedir.",
+     "ses": "Fark genellikle sıfır virgül üç ile sıfır virgül dört milisaniyeyi aştığında anormal kabul edilir; bu örnek o sınırın üzerindedir."
+    },
+    "Ölçütün gücü, kişiyi kendi karşı kulağıyla karşılaştırmasıdır; yaş ve cinsiyet gibi etkenler iki kulağı birlikte etkiler.",
+    "Ancak bu karşılaştırma, iki kulağın kokleadaki işitme düzeyleri birbirine yakınsa en güvenilir sonucu verir."
+   ]
+  },
+  {
+   "id": "duzeltme",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Örnekler",
+   "baslik": "Tiz kayıp *latansı uzatır*",
+   "maddeler": [
+    {
+     "metin": "Tiz koklear kayıp _dalga V'i geciktirir_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Asimetrik kayıpta IT5 _yanıltabilir_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "50 dB üstü her 10 dB: _0,1 ms_",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "En güvenlisi: _I-V aralığına_ bak",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        15,
+        20,
+        25,
+        30,
+        35
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        15,
+        20,
+        25,
+        45,
+        70,
+        75
+       ],
+       "cumle": 1
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Yüksek frekanslarda koklear bir kayıp, klikin en güçlü uyardığı bölgeyi etkilediği için dalga V'i geciktirebilir.",
+    "Bu örnekteki gibi asimetrik bir yüksek frekans kaybında, kulaklar arası fark kokleadaki farktan da kaynaklanabilir.",
+    {
+     "yazi": "Selters ve Brackmann'ın önerdiği yaygın bir düzeltmede, 4000 Hz kaybının 50 desibeli aşan her 10 desibeli için 0,1 milisaniye çıkarılır.",
+     "ses": "Selters ve Brakman'ın önerdiği yaygın bir düzeltmede, dört bin Hz kaybının elli desibeli aşan her on desibeli için sıfır virgül bir milisaniye çıkarılır."
+    },
+    {
+     "yazi": "Bu örnekte sol kulakta 4000 Hz eşiği 70 desibel olduğu için yaklaşık 0,2 milisaniyelik bir düzeltme yapılır.",
+     "ses": "Bu örnekte sol kulakta dört bin Hz eşiği yetmiş desibel olduğu için yaklaşık sıfır virgül iki milisaniyelik bir düzeltme yapılır."
+    },
+    "Düzeltmeler kaba tahminlerdir; dalga I görülebiliyorsa I-V aralığı kokleadan çok daha az etkilendiği için daha güvenilirdir.",
+    "Dalga I zayıfsa önceki derslerde gördüğümüz kulak kanalı elektrodu dalga I'i belirginleştirebilir."
+   ]
+  },
+  {
+   "id": "desenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Desenler",
+   "baslik": "Retrokoklear *desenler*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Uzamış aralıklar",
+     "metin": "I-III ya da I-V uzun",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Asimetri",
+     "metin": "Kulaklar arası V farkı",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Yalnız dalga I",
+     "metin": "Sonraki dalgalar yok",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Hiç yanıt yok",
+     "metin": "İşitme görece iyiyken",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bozuk tekrar",
+     "metin": "Kayıtlar örtüşmüyor",
+     "cumle": 4
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Düşük V/I",
+     "metin": "Dalga V çok küçük",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Retrokoklear lezyonlarda en sık desen, dalgalar arası sürelerin, özellikle I-III ve I-V aralığının uzamasıdır.",
+    "Tek taraflı lezyonlarda kulaklar arası dalga V farkı çoğu zaman ilk dikkat çeken bulgudur.",
+    "Bazen yalnız dalga I görülür ve sonraki dalgalar kaybolur; bu, sinyalin sinirin ileri kısmında bozulduğunu düşündürür.",
+    "İşitme eşikleri ABR almaya yetecek kadar iyiyken hiçbir dalganın görülmemesi de güçlü bir uyarıdır.",
+    "Aynı koşulda alınan kayıtların birbirini tutmaması da eş zamanlılığın bozulduğuna işaret edebilir.",
+    "Dalga V'in dalga I'e göre belirgin küçük olması ise ek, destekleyici bir bulgu olarak değerlendirilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yanıtsız ABR'yi yorumlamadan önce odyograma bakın: ileri kayıp dalgaları tek başına silebilir. İşitme iyiyken yanıt yoksa bu güçlü bir uyarıdır.",
+   "cumleler": [
+    "Bir klinik ipucu: dalgaların yokluğunu yorumlamadan önce mutlaka odyograma bakın.",
+    "Yüksek frekanslarda ileri derecede kayıp varsa, klik ABR'nin alınamaması kokleadan da kaynaklanabilir.",
+    "Buna karşın işitmesi görece iyi bir kulakta tekrarlanabilir hiçbir dalganın olmaması, retrokoklear açıdan çok daha anlamlıdır.",
+    "Raporda bu ayrımı açıkça yazın; okuyan hekim bulgunun ağırlığını buradan anlar."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Duyarlılık",
+   "baslik": "ABR'nin *sınırları*",
+   "maddeler": [
+    {
+     "metin": "Büyük tümörlerde duyarlılık _yüksek_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Küçük tümörlerde _belirgin düşük_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Normal ABR tümörü _dışlamaz_",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Altın standart: _kontrastlı MR_",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "KARŞILAŞTIRMA",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Büyük tümör",
+      "metin": "ABR çoğunlukla anormal",
+      "cumle": 0
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Küçük tümör",
+      "metin": "ABR normal olabilir",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Çalışmalarda klasik ABR, büyük vestibüler schwannomların büyük çoğunluğunda anormal bulunmuştur.",
+     "ses": "Çalışmalarda klasik ABR, büyük vestibüler şvannomların büyük çoğunluğunda anormal bulunmuştur."
+    },
+    "Ancak iç kulak yolunda sınırlı kalan küçük tümörlerde, özellikle bir santimetreden küçük olanlarda duyarlılık belirgin biçimde düşer.",
+    "Küçük bir tümör, sinir liflerinin bir kısmına dokunmadan büyüyebilir ve klik yanıtını değiştirmeyebilir.",
+    "Bu yüzden normal bir ABR sonucu, retrokoklear bir lezyonu kesin olarak dışlamaz.",
+    "Bugün retrokoklear değerlendirmede altın standart, manyetik rezonans görüntüleme, kısaca MR'dır; çoğu zaman kontrastlı çekilir.",
+    "ABR ise MR çekilemeyen ya da uygun olmayan kişilerde ve işlevsel bilgi gerektiğinde değerini korur."
+   ]
+  },
+  {
+   "id": "mr_abr",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Duyarlılık",
+   "baslik": "ABR ve MR *birlikte*",
+   "ogeler": [
+    {
+     "ikon": "hastane",
+     "baslik": "MR",
+     "metin": "Yapıyı gösterir, küçük tümörü yakalar",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "ABR",
+     "metin": "İşlevi ölçer, ucuz, girişimsiz",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Gelişmiş ABR",
+     "metin": "Örnek: stacked ABR",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Karar",
+     "metin": "Hekim değerlendirir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "MR, tümörün varlığını, boyutunu ve yerini doğrudan gösterir; birkaç milimetrelik lezyonları bile yakalayabilir.",
+    "ABR ise yapıyı değil işlevi ölçer; girişimsizdir, görece ucuzdur ve hastanın işitme yolunun nasıl çalıştığını anlatır.",
+    "Bu iki yöntem birbirinin yerine geçmez, birbirini tamamlar.",
+    {
+     "yazi": "Küçük tümörlere duyarlılığı artırmak için yığılmış ABR (stacked ABR) gibi gelişmiş teknikler geliştirilmiştir; ancak yaygın değildir.",
+     "ses": "Küçük tümörlere duyarlılığı artırmak için yığılmış ABR gibi gelişmiş teknikler geliştirilmiştir; ancak yaygın değildir."
+    },
+    "Hangi görüntülemenin ne zaman yapılacağına hekim karar verir; odyoloğun görevi bulguları açık biçimde ortaya koymaktır."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 6",
+   "bolum": "Uygulama",
+   "baslik": "Diğer *beyin sapı* sorunları",
+   "maddeler": [
+    {
+     "metin": "Multipl skleroz: _I-V ve III-V_ uzayabilir",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Beyin sapı inme ya da _kanama_",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Beyin sapı ya da _serebellopontin köşe_ tümörü",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Seri kayıtla _izlem_ mümkün",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 0
+     },
+     {
+      "parca": "lateral_lemniskus",
+      "cumle": 1
+     },
+     {
+      "parca": "inferior_kollikulus",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Multipl skleroz gibi miyelini etkileyen hastalıklarda özellikle III-V ve I-V aralıkları uzayabilir, dalgalar bozulabilir.",
+    "Beyin sapını etkileyen inme ya da kanamalar da lezyonun yerine göre belirli dalgaları geciktirebilir.",
+    "Serebellopontin köşe, yani beyincik ile pons arasındaki bölgede yer alan başka tümörler de benzer bulgular verebilir.",
+    "Bu durumlarda işitme eşikleri normal olsa bile ABR anormal olabilir; çünkü ABR eşiği değil iletimi ölçer.",
+    "Bazı durumlarda seri ABR kayıtları, hastalığın seyrini izlemek için de kullanılır."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 6",
+   "bolum": "Uygulama",
+   "baslik": "Rapor ve *yönlendirme*",
+   "maddeler": [
+    {
+     "metin": "Mutlak ve dalgalar arası _latansları_ yaz",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "IT5 ve _düzeltme_ yapıldıysa belirt",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Sonucu _normlara göre_ tanımla",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Anormalse _hekime yönlendir_",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "RAPOR DİLİ",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Uygun",
+      "metin": "Retrokoklear açıdan anormal ABR",
+      "cumle": 2
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "Uygun değil",
+      "metin": "Tanı koyan ifade",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Raporda her kulak için dalga I, III ve V'in mutlak latansları ile dalgalar arası aralıklar yazılır.",
+    "Kulaklar arası dalga V farkı ve yapıldıysa hangi düzeltmenin kullanıldığı belirtilir.",
+    "Sonuç, kliniğin normlarına göre normal ya da retrokoklear açıdan anormal biçiminde tanımlanır.",
+    "Anormal bir bulguda odyoloğun rolü, kişiyi ileri değerlendirme için hekime yönlendirmektir.",
+    "Rapor tanı koymaz; örneğin tümör vardır yerine, bulguların retrokoklear bir süreçle uyumlu olabileceği yazılır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Nörolojik ABR _beyin sapı iletimini_ ölçer",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "I-V uzaması ve _IT5_ temel ölçütler",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Tiz kayıp latansı uzatır: _düzelt_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Normal ABR küçük tümörü _dışlamaz_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Nörolojik ABR, yüksek şiddette klik ile işitme siniri ve beyin sapı iletimini değerlendirir.",
+    {
+     "yazi": "Uzamış dalgalar arası aralıklar ve yaklaşık 0,3 ile 0,4 milisaniyeyi aşan kulaklar arası dalga V farkı temel ölçütlerdir.",
+     "ses": "Uzamış dalgalar arası aralıklar ve yaklaşık sıfır virgül üç ile sıfır virgül dört milisaniyeyi aşan kulaklar arası dalga V farkı temel ölçütlerdir."
+    },
+    "Yüksek frekans koklear kaybı dalga V'i geciktirebilir; bu yüzden odyogram mutlaka birlikte yorumlanır.",
+    "ABR küçük tümörlere duyarlı değildir; görüntüleme kararı hekime aittir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sağ V: 5,6 ms, sol V: 6,1 ms. Fark nasıl yorumlanır?",
+   "secenekler": [
+    "Normal sınırlarda",
+    "Anormal, ileri değerlendirme",
+    "Yalnız iletim tipi kayıp"
+   ],
+   "dogru": 1,
+   "aciklama": "Fark _0,5 ms_; genellikle 0,3 ile 0,4 ms üstü anormal kabul edilir. Önce odyogram kontrol edilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sağda dalga V 5,6, solda 6,1 milisaniye. Bu fark nasıl yorumlanır?",
+     "ses": "Kendinizi test edin: Sağda dalga V beş virgül altı, solda altı virgül bir milisaniye. Bu fark nasıl yorumlanır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: anormaldir ve ileri değerlendirme gerektirir.",
+    {
+     "yazi": "Fark 0,5 milisaniyedir ve genellikle kabul edilen sınırın üzerindedir; yorumdan önce iki kulağın odyogramı da kontrol edilir.",
+     "ses": "Fark sıfır virgül beş milisaniyedir ve genellikle kabul edilen sınırın üzerindedir; yorumdan önce iki kulağın odyogramı da kontrol edilir."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "ABR ile eşik tahmini: *bebeklerde* frekansa özgü test",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ABR'yi bebeklerde frekansa özgü eşik tahmini için nasıl kullandığımızı göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

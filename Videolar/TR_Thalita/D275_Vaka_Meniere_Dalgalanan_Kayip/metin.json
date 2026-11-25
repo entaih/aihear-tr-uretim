@@ -1,0 +1,1085 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D275_Vaka_Meniere_Dalgalanan_Kayip_TR",
+ "kapak": {
+  "ust": "DERS 275",
+  "baslik": "Vaka: *Meniere*<br>hastalığı",
+  "alt": "Dalgalanan pes frekans kaybı",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      35,
+      25,
+      25,
+      30
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      40,
+      40,
+      30,
+      25,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Vaka: Meniere Hastalığında Dalgalanan Pes Frekans Kaybı | Ders 275 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir erişkin vakasında Meniere hastalığının odyolojik bulgularını adım adım inceliyoruz: pes frekans sensörinöral kaybı, Barany ölçütlerinin odyometrik koşulu, seri odyogramların karşılaştırılması, ECochG'de SP/AP oranı, kalorik ve vHIT ayrışması, VEMP ve odyoloğun danışmanlık ile rapor rolü.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Lopez-Escamez ve ark., Diagnostic criteria for Meniere's disease (Journal of Vestibular Research, 2015); Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses; Jacobson ve Shepard, Balance Function Assessment and Management.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "meniere",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "Meniere hastalığı",
+   "endolenfatik hidrops",
+   "endolymphatic hydrops",
+   "seri odyogramlar",
+   "serial audiograms",
+   "sumasyon potansiyeli",
+   "summating potential",
+   "ECochG",
+   "kalorik test",
+   "vHIT",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 275",
+   "baslik": "Vaka: *dalgalanan* pes kayıp",
+   "alt": "Meniere hastalığında seri odyogramlar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste tekrarlayan vertigo atakları ve sağ kulakta dalgalanan bir işitme kaybıyla gelen bir erişkin vakasını çözüyoruz.",
+    "Seri odyogramları karşılaştıracak, elektrofizyolojik ve vestibüler test bulgularına bakacak ve odyoloğun rolünü göreceğiz."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Kırk beş yaşında, örnek bir kişi",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Altı ayda üç _dönme atağı_",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Her atak bir ile üç saat",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Sağda dolgunluk ve _pes uğultu_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Atakta işitme azalıyor",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Vertigo atağı",
+      "metin": "Dakikalar ile saatler",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Dalgalanan kayıp",
+      "metin": "Aynı kulakta",
+      "cumle": 4
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Dolgunluk, uğultu",
+      "metin": "Atak öncesi artar",
+      "cumle": 3
+     }
+    ],
+    "ust": "ÜÇ BELİRTİ"
+   },
+   "cumleler": [
+    "Vakamız kurgusal bir örnektir: kırk beş yaşında bir kişi, tekrarlayan baş dönmesi atakları nedeniyle KBB hekiminden yönlendirilmiş.",
+    "Son altı ayda kendiliğinden başlayan üç dönme atağı geçirmiş; ataklarda bulantı ve kusma da olmuş.",
+    "Her atak bir ile üç saat sürmüş; ataklar arasında kendini büyük ölçüde iyi hissediyor.",
+    "Ataklardan önce sağ kulağında dolgunluk ve pes, uğultu benzeri bir çınlama artıyor.",
+    "Atak sırasında ve sonrasında sağ kulağında işitmenin azaldığını, sonra kısmen düzeldiğini söylüyor.",
+    "Baş ağrısı, ışığa duyarlılık ya da nörolojik bir belirti tarif etmiyor; bu ayrıntılar ayırıcı tanı için kaydedilir."
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Endolenfatik *hidrops*",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_media",
+     "metin": "scala media: endolenf artar",
+     "cumle": 1
+    },
+    {
+     "parca": "reissner_membrani",
+     "metin": "Reissner membranı",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_media",
+     "cumle": 1
+    },
+    {
+     "parca": "reissner_membrani",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Endolenf _artar_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Önce _alçak frekans_ bölgesi",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Hidrops, Meniere ile _aynı değil_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Bu belirtilerin arkasında düşünülen yapısal değişiklik endolenfatik hidropstur (endolymphatic hydrops).",
+    "Hidropsta orta skala, yani scala media içindeki endolenf artar ve Reissner membranı scala vestibuliye doğru şişer.",
+    "Hidrops genellikle önce koklea tepesine yakın bölgeyi, yani alçak frekans bölgesini etkiler.",
+    "Bu da Meniere hastalığında kaybın neden çoğu zaman pes frekanslarda başladığını açıklar.",
+    "Ancak hidrops belirti vermeden de bulunabilir; hidrops ile Meniere hastalığı aynı kavram değildir."
+   ]
+  },
+  {
+   "id": "odyo1",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İlk odyogram",
+   "baslik": "İlk test: *pes frekans* kaybı",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Sağ_: maskeli kemik yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: normal",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       35,
+       25,
+       25,
+       30
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       40,
+       40,
+       30,
+       25,
+       25
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "İlk test, son ataktan iki gün sonra yapılıyor; otoskopi iki kulakta normal.",
+    "Sağ kulakta iki yüz elli ve beş yüz hertzde kırk beş desibellik, bin hertzde otuz beş desibellik bir kayıp var.",
+    "Sol kulak maskelenerek ölçülen sağ kemik yolu, hava yoluyla örtüşüyor; kayıp sensörinöral.",
+    "İki bin hertz ve üzerinde sağ eşikler normale yakın; yani tize doğru yükselen bir kayıp biçimi görüyoruz.",
+    "Sol kulak tüm frekanslarda normal sınırlarda; sol kemik yolu da on desibel civarında.",
+    "Timpanogramlar iki kulakta A tipi; yani bu kaybı açıklayan bir orta kulak sorunu yok.",
+    "Sağ kulakta kelime tanıma skoru yüzde seksen sekiz; kayıp pes frekanslarda olduğu için skor görece iyi korunmuş."
+   ]
+  },
+  {
+   "id": "barany",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İlk odyogram",
+   "baslik": "Barany ölçütünü *uygula*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "İki komşu frekans",
+     "metin": "2000 Hz'in altında",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kemik yolu farkı",
+     "metin": "Karşı kulaktan en az 30",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Bu vakada",
+     "metin": "250 ve 500 Hz: 30 dB",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Barany Derneği ölçütleri, iki bin hertzin altındaki iki komşu frekansta odyometrik olarak belgelenmiş bir kayıp arar.",
+    "Bu kayıpta etkilenen kulağın kemik yolu eşiği, karşı kulağınkinden en az otuz desibel kötü olmalıdır.",
+    "Vakamızda iki yüz elli ve beş yüz hertzde sağ kemik yolu kırk, sol kemik yolu on desibel; fark otuz desibel.",
+    "Yani odyometrik ölçüt karşılanıyor; bu karşılaştırma için kemik yolunun doğru maskelenmiş olması şarttır.",
+    "Kesin Meniere hastalığı için ayrıca yirmi dakika ile on iki saat süren en az iki kendiliğinden vertigo atağı gerekir.",
+    "Ölçütlerin bütününü değerlendirmek ve tanıyı koymak hekimin işidir; odyolog odyometrik kanıtı sağlar."
+   ]
+  },
+  {
+   "id": "seri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Seri odyogramlar",
+   "baslik": "Seri *odyogramlar*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 20,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        10
+       ],
+       [
+        2000,
+        15
+       ],
+       [
+        4000,
+        15
+       ],
+       [
+        8000,
+        20
+       ]
+      ],
+      "renk": "gri",
+      "isaretli": true,
+      "etiket": "sol kulak",
+      "cumle": 4,
+      "kesik": true
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        45
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        35
+       ],
+       [
+        2000,
+        25
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        30
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "sağ: ilk",
+      "cumle": 1
+     },
+     {
+      "ad": "ikinci",
+      "noktalar": [
+       [
+        250,
+        25
+       ],
+       [
+        500,
+        25
+       ],
+       [
+        1000,
+        20
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        4000,
+        20
+       ],
+       [
+        8000,
+        30
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "sağ: 3. hafta",
+      "cumle": 2
+     },
+     {
+      "ad": "ucuncu",
+      "noktalar": [
+       [
+        250,
+        55
+       ],
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        40
+       ],
+       [
+        2000,
+        30
+       ],
+       [
+        4000,
+        25
+       ],
+       [
+        8000,
+        30
+       ]
+      ],
+      "renk": "mor",
+      "isaretli": true,
+      "etiket": "sağ: 2. ay",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "pes",
+      "x": [
+       220,
+       1100
+      ],
+      "renk": "sari",
+      "etiket": "dalgalanan bölge",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Atağa göre _zamanı_ yaz",
+     "cumle": 6,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Meniere hastalığının en ayırt edici özelliklerinden biri, işitmenin zaman içinde dalgalanmasıdır.",
+    "Kırmızı çizgi, son ataktan iki gün sonraki ilk ölçümü gösteriyor.",
+    "Yeşil çizgi, atak olmayan bir dönemde, üç hafta sonra yapılan kontrol testidir; pes frekanslarda eşikler yirmi desibel iyileşmiş.",
+    "Mor çizgi ise iki ay sonra, yeni bir ataktan hemen sonra yapılan testtir; pes frekans kaybı yeniden ve daha derin belirmiş.",
+    "Gri kesik çizgi sağlam sol kulağı gösteriyor; o kulakta değişiklik yok.",
+    "Tek bir odyogram bu dalgalanmayı gösteremez; bu yüzden seri odyogramlar (serial audiograms) çok değerlidir.",
+    "Her ölçümün atağa göre zamanı da kaydedilir; çünkü eşikler atağa yakınlığa göre değişir."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Seri odyogramlar",
+   "baslik": "Seri ölçümde *kurallar*",
+   "maddeler": [
+    {
+     "metin": "Aynı cihaz, aynı kulaklık",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Aynı yöntem, aynı maskeleme kuralları",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Atağa göre zaman ve belirtiler",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Kemik yolu her seferinde ölçülür",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Grafikte karşılaştırmalı göster",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        25,
+        25,
+        20,
+        20,
+        20,
+        30
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        20,
+        20,
+        20,
+        20,
+        20
+       ],
+       "cumle": 3
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Seri ölçümlerin karşılaştırılabilir olması için mümkünse aynı cihaz ve aynı kulaklık türü kullanılır.",
+    "Eşik bulma yöntemi ve maskeleme kuralları her ölçümde aynı tutulur.",
+    "Her testte son atağın ne zaman olduğu, dolgunluk ve çınlamanın o günkü durumu kısaca not edilir.",
+    "Kemik yolu her seferinde maskeli olarak ölçülür; değişikliğin sensörinöral olduğunu belgelemek için gereklidir.",
+    "Sonuçlar raporda önceki ölçümlerle karşılaştırmalı olarak gösterilir; hekim seyri tek bakışta görür."
+   ]
+  },
+  {
+   "id": "anlamli",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Seri odyogramlar",
+   "baslik": "Değişim *anlamlı mı?*",
+   "maddeler": [
+    {
+     "metin": "Test-tekrar test farkı: _yaklaşık 5 dB_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Komşu frekanslarda _10 dB ve üzeri_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kemik yolu da aynı yönde mi?",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Konuşma skoru da karşılaştırılır",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Atağa yakınlık yorumu değiştirir",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "5 dB",
+      "metin": "Ölçüm oynaması",
+      "cumle": 0
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "10 dB üstü",
+      "metin": "Komşu frekanslarda, tekrarlayan",
+      "cumle": 1
+     }
+    ],
+    "ust": "FARK"
+   },
+   "cumleler": [
+    "Aynı kişide tekrarlanan ölçümler arasındaki fark genellikle beş desibel içinde kalır; bu kadar küçük farklar dalgalanma sayılmaz.",
+    "Komşu frekanslarda on desibel ve üzerinde, aynı yönde ve tekrarlayan değişiklikler gerçek bir dalgalanmayı daha güçlü gösterir.",
+    "Kemik yolunun da hava yoluyla aynı yönde değişmesi, değişimin sensörinöral olduğunu doğrular.",
+    "Kelime tanıma skorunun önceki ölçümle karşılaştırılması da seyri anlamaya yardımcı olur.",
+    "Atağa yakın yapılan bir testin daha kötü çıkması beklenir; bu yüzden zaman bilgisi olmadan karşılaştırma yapılmaz."
+   ]
+  },
+  {
+   "id": "ecochg",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ek testler",
+   "baslik": "ECochG: *SP/AP* oranı",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Sağ",
+      "2": "Sol"
+     },
+     "ad": "Kulak"
+    },
+    "y": {
+     "min": 0,
+     "max": 0.8,
+     "adim": 0.2,
+     "ad": "SP/AP oranı",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "oran",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        0.6
+       ],
+       [
+        2,
+        0.3
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "artmis",
+      "y": [
+       0.5,
+       0.8
+      ],
+      "renk": "sari",
+      "etiket": "laboratuvar sınırının üstü",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Sağ: _0,60_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sol: _0,30_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Normal oran hidropsu dışlamaz",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "cumleler": [
+    "Hekim, ek bilgi için elektrokokleografi, kısaca ECochG istemiş.",
+    "Sumasyon potansiyeli (summating potential), kısaca SP, hidropsta büyür; aksiyon potansiyeli, kısaca AP ise aynı oranda büyümez.",
+    "Bu örnekte sağ kulakta SP/AP oranı sıfır virgül altmış, sol kulakta sıfır virgül otuz.",
+    "Örnekte laboratuvarın normal üst sınırı sıfır virgül elli; bu durumda sağ kulaktaki oran artmış kabul edilir.",
+    "Artmış oran, öykü ve odyogramla birlikte endolenfatik hidrops düşüncesini destekler.",
+    "Ancak normal bir oran hidropsu dışlamaz; Meniere hastalığı olan pek çok kişide oran normal bulunabilir."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ek testler",
+   "baslik": "Kalorik ve *vHIT* ayrışması",
+   "ogeler": [
+    {
+     "ikon": "vertigo",
+     "baslik": "Kalorik test",
+     "metin": "Sağda yüzde 40 zayıflık",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "İki tarafta kazanç normal",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "VEMP",
+     "metin": "Bulgular değişken",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Vestibüler testlerde de bu hastalığa özgü bir desen görülebilir.",
+    "Kalorik testte sağ kulakta yüzde kırk tek taraflı zayıflık var; yüzde yirmi ile yirmi beşin üzeri genellikle anlamlı sayılır.",
+    "Buna karşın video baş itme testi, yani vHIT'te iki lateral kanalın kazancı normal ve düzeltici sakkad yok.",
+    "Kalorik yanıtın azaldığı ama vHIT'in normal kaldığı bu ayrışma Meniere hastalığında sık bildirilir; hidrops bir açıklama olarak öne sürülür.",
+    "Vestibüler uyarılmış miyojenik potansiyel, kısaca VEMP yanıtları da etkilenebilir; ancak bulgular kişiden kişiye değişkendir.",
+    "Bu testlerin hiçbiri tek başına tanı koydurmaz; tanı klinik ölçütlere dayanır."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ek testler",
+   "baslik": "Ayırıcı tanıda *akla gelenler*",
+   "ogeler": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vestibüler migren",
+     "metin": "Kalıcı kayıp beklenmez",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Retrokoklear neden",
+     "metin": "Tek taraflı kayıpta araştırılır",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Pes ani kayıp",
+     "metin": "Vertigosuz, tek epizot",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Vestibüler migrende de ataklar ve kulak belirtileri olabilir; ancak belirgin ve kalıcı işitme kaybı beklenmez.",
+    "Migren öyküsü, baş ağrısı ve ışığa duyarlılık bu yüzden öyküde ayrıca sorulur.",
+    "Tek taraflı sensörinöral kayıp ve vertigo, hekimin retrokoklear nedenleri de araştırmasını gerektirebilir.",
+    "Vertigo olmadan, tek bir epizot halinde gelen pes frekans kaybı ise farklı bir tablo olarak değerlendirilir.",
+    "Tablo başka bir vestibüler tanıyla daha iyi açıklanmamalıdır; bu ayrımı hekim yapar.",
+    "Odyoloğun buradaki katkısı, öyküyü eksiksiz kaydetmek ve odyometrik bulguyu net biçimde ortaya koymaktır."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Odyoloğun rolü",
+   "baslik": "Odyoloğun *görevleri*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Belgele",
+     "metin": "Maskeli, seri ölçüm",
+     "cumle": 0
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Batarya",
+     "metin": "ECochG, VEMP, kalorik, vHIT",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Raporla",
+     "metin": "Karşılaştırmalı grafik",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "İletişim",
+     "metin": "KBB ile sürekli",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Danışmanlık",
+     "metin": "Atak, çınlama, işitme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Odyoloğun ilk görevi kaybı maskeli eşiklerle ve seri ölçümlerle doğru biçimde belgelemektir.",
+    "Hekimin istediği ECochG, VEMP, kalorik ve vHIT gibi testler standart protokollerle yapılır.",
+    "Raporda ölçümler karşılaştırmalı verilir ve her ölçümün atağa göre zamanı yazılır.",
+    "Tanı ve tedavi kararı hekime aittir; odyolog ilaç, diyet ya da işlem önermez, ama KBB hekimiyle sürekli iletişimdedir.",
+    "Odyolog ayrıca kişiye çınlama ve işitme konusunda danışmanlık verir ve gerektiğinde işitme desteği seçeneklerini konuşur.",
+    "Yeni ve kalıcı görünen bir kayıp ya da farklı nitelikte bir atak olursa kişinin hekime gecikmeden başvurması önerilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Dalgalanan kayıpta tek ölçüme güvenmeyin; her testte atağa göre zamanı yazın ve önceki ölçümle aynı koşulları sağlayın.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: dalgalanan bir kayıpta tek bir odyograma bakarak karar vermeyin.",
+    "Her testte son atağın ne zaman olduğunu ve o günkü dolgunluk hissini kaydedin.",
+    "Önceki ölçümle aynı kulaklığı ve aynı yöntemi kullanın; aksi halde farkın kaynağı belirsizleşir.",
+    "Pes frekanslardaki küçük değişiklikleri gözden kaçırmamak için iki yüz elli hertzi atlamayın."
+   ]
+  },
+  {
+   "id": "danisma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Odyoloğun rolü",
+   "baslik": "Kişiyle *konuşmak*",
+   "maddeler": [
+    {
+     "metin": "Atakta güvenli bir yere otur",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Atak günlüğü: tarih, süre, belirti",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Çınlama ve kaygı: _destek var_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İşitme desteği: dalgalanmaya göre",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "takvim",
+      "baslik": "Atak günlüğü",
+      "metin": "Hekime götür",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Danışmanlık",
+      "metin": "Çınlama ve kaygı",
+      "cumle": 2
+     }
+    ],
+    "ust": "ÖNERİLER"
+   },
+   "cumleler": [
+    "Kişiye atak başladığında düşme riskine karşı hemen güvenli bir yere oturması ya da uzanması önerilir.",
+    "Atakların tarihini, süresini ve eşlik eden kulak belirtilerini yazdığı bir günlük, hekimin değerlendirmesine çok yardımcı olur.",
+    "Belirsizlik ve ataklar kaygı yaratabilir; çınlama ve kaygı konusunda danışmanlık ve destek olduğunu anlatmak önemlidir.",
+    "Atakların ne zaman geleceğinin bilinmemesi günlük yaşamı zorlaştırır; bu yakınmayı ciddiye almak bile rahatlatıcıdır.",
+    "Kayıp kalıcılaşırsa işitme cihazı düşünülebilir; dalgalanan eşikler nedeniyle ayarların zaman zaman gözden geçirilmesi gerekebilir."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Odyoloğun rolü",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "Sağ: pes frekanslarda sensörinöral kayıp",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Önceki ölçüme göre değişim",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SP/AP sağda artmış",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Kalorik sağda zayıf, vHIT normal",
+     "cumle": 3,
+     "ikon": "vertigo"
+    },
+    {
+     "metin": "Öneri: KBB izlemi, seri odyogram",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 0,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava_maskeli",
+       "degerler": [
+        55,
+        50,
+        40,
+        30,
+        25,
+        30
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        20
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Saf ses: sağ kulakta pes frekanslarda daha belirgin, hafif ile orta derece arası sensörinöral işitme kaybı.",
+    "Seyir: önceki ölçüme göre iki yüz elli ve beş yüz hertzde yaklaşık yirmi beş ile otuz desibellik kötüleşme; test ataktan hemen sonra.",
+    {
+     "yazi": "ECochG: sağ kulakta SP/AP oranı laboratuvar sınırının üzerinde.",
+     "ses": "Elektrokokleografide sağ kulakta se pe a pe oranı laboratuvar sınırının üzerinde bulunur."
+    },
+    "Vestibüler testler: sağda kalorik zayıflık, vHIT kazançları iki tarafta normal.",
+    "Öneri: KBB hekimine bulgularla birlikte iletim, hekimin önerdiği aralıklarla seri odyometri."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Pes frekansta dalgalanan sensörinöral kayıp",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Seri odyogramlar dalgalanmayı belgeler",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SP/AP artışı, kalorik ve vHIT ayrışması",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Tanı Barany ölçütleriyle hekimde",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "Meniere hastalığında kayıp çoğu zaman pes frekanslarda başlar ve ataklarla dalgalanır.",
+    "Seri odyogramlar aynı koşullarda alınır ve dalgalanmayı belgeler; tek bir ölçüm bunu gösteremez.",
+    "Artmış SP/AP oranı ile kalorik zayıflık ve normal vHIT ayrışması tabloyu destekleyebilir, ama tek başına tanı koydurmaz.",
+    "Tanıyı Barany ölçütlerine göre hekim koyar; odyolog ölçümleri sağlar, raporlar ve danışmanlık verir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Barany ölçütünde odyometrik koşul?",
+   "secenekler": [
+    "Herhangi bir frekansta 15 dB",
+    "Pes iki komşu frekansta 30 dB",
+    "Yalnız 4 kHz'de 30 dB",
+    "Hava-kemik aralığı"
+   ],
+   "dogru": 1,
+   "aciklama": "Kemik yolu, iki bin hertzin altındaki _iki komşu frekansta_ karşı kulaktan en az 30 dB kötüdür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Barany ölçütlerinde kesin Meniere hastalığı için odyometrik koşul hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: iki bin hertzin altındaki iki komşu frekansta, karşı kulağa göre en az otuz desibel kayıp.",
+    "Karşılaştırma kemik yolu eşikleriyle yapılır; bu yüzden kemik yolunun doğru maskelenmesi şarttır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: *ani* işitme kaybıyla başvuran hasta",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki vakada ani işitme kaybıyla başvuran ve aynı gün değerlendirilmesi gereken bir hastayı inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

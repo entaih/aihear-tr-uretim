@@ -1,0 +1,692 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D090_Etkin_Maskeleme_TR",
+ "kapak": {
+  "ust": "DERS 90",
+  "baslik": "Etkin<br>*maskeleme*",
+  "alt": "En az ve en fazla gürültü",
+  "cizim": "maskeleme",
+  "ayar": {
+   "ia_db": 40
+  }
+ },
+ "youtube": {
+  "baslik": "Etkin Maskeleme Düzeyi: Minimum ve Maksimum Maskeleme | Ders 90 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Karşı kulağa ne kadar gürültü vermeliyiz? Bu derste etkin maskeleme (dB EM) kalibrasyonunu, minimum ve maksimum maskeleme hesabını, yetersiz ve aşırı maskelemeyi, merkezi maskelemeyi ve maskeleme penceresini örnek hesaplarla inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ANSI/ASA S3.6, Specification for Audiometers; BSA (2018), Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "maskeleme",
+   "odyometri"
+  ],
+  "etiketler": [
+   "etkin maskeleme",
+   "effective masking",
+   "dB EM",
+   "minimum maskeleme",
+   "maksimum maskeleme",
+   "yetersiz maskeleme",
+   "aşırı maskeleme",
+   "merkezi maskeleme",
+   "central masking",
+   "klinik maskeleme",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 90",
+   "baslik": "Etkin maskeleme: *en az* ve en fazla",
+   "alt": "dB EM, aşırı maskeleme ve merkezi maskeleme",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste karşı kulağa verilecek gürültünün en az ve en fazla ne kadar olabileceğini hesaplamayı öğreneceğiz.",
+    "Etkin maskeleme kavramını, yetersiz ve aşırı maskelemeyi ve merkezi maskelemeyi örneklerle göreceğiz."
+   ]
+  },
+  {
+   "id": "birim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Etkin maskeleme",
+   "baslik": "Gürültüyü *hangi* birimle ölçeriz?",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "dB SPL",
+     "metin": "Fiziksel düzey",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Ham gürültü düzeyi",
+     "metin": "Etkisini doğrudan söylemez",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "dB EM",
+     "metin": "Eşiği ne kadar kaydırır?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Maskeleme gürültüsünün düzeyini anlamlı bir birimle ifade etmemiz gerekir.",
+    "Desibel SPL gürültünün fiziksel düzeyini söyler, ama bir tonu ne kadar maskeleyeceğini doğrudan söylemez.",
+    "Aynı fiziksel düzeydeki gürültünün maskeleme gücü, bant genişliğine ve frekansa göre değişir.",
+    "Bu yüzden klinikte gürültü, etkin maskeleme (effective masking), kısaca dB EM olarak ayarlanır.",
+    "dB EM, gürültünün ne kadar ses ürettiğini değil, eşiği ne kadar kaydırdığını anlatır.",
+    "Kalibrasyonu doğru bir odyometrede gürültü kanalında okunan değer, doğrudan dB EM değeridir."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Etkin maskeleme",
+   "baslik": "dB EM *nasıl* tanımlanır?",
+   "maddeler": [
+    {
+     "metin": "X dB EM: eşiği _X dB HL'ye_ kaydırır",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal kulakta _yarı yarıya_ maskeleme",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bu yüzden _10 dB güvenlik payı_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Odyometre _dB EM_ ile kalibre",
+     "cumle": 4,
+     "ikon": "odyometre"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÖRNEK",
+    "metin": "30 dB EM gürültü, normal eşiği *30 dB HL'ye* taşır",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Etkin maskeleme düzeyi, gürültünün maskeleyebildiği tonun işitme düzeyiyle tanımlanır.",
+    "Örneğin otuz dB EM'lik dar bant gürültü, merkez frekansındaki tonun normal bir eşiğini yaklaşık otuz desibel HL'ye kaydırır.",
+    "Standart kalibrasyonda bu düzey, normal işitenlerde tonun denemelerin yaklaşık yarısında maskelendiği düzeydir.",
+    "Yani bazı kişilerde ton yine de duyulabilir; bu yüzden hesaplara genellikle on desibellik bir güvenlik payı eklenir.",
+    "Klinik odyometrelerde dar bant gürültünün düzeyi her frekans için dB EM olarak kalibre edilir.",
+    "Kalibrasyondan şüphe edildiğinde, normal işiten birkaç dinleyiciyle basit bir doğrulama yapılabilir."
+   ]
+  },
+  {
+   "id": "min_mantik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Minimum maskeleme",
+   "baslik": "En az gürültü: *karşıya geçen tonu* örtmek",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "test_kulagi",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "TE: 50 dB ton",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: 40 dB",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "NTE kokleası: 10 dB",
+     "cumle": 2
+    },
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "En az 10 dB EM",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Minimum maskeleme için ilk soru şudur: test kulağına, yani TE'ye verdiğimiz ton, karşı kokleaya ne düzeyde ulaşıyor?",
+    "TE'ye elli desibellik bir ton verdiğimizi ve kulaklar arası zayıflamanın, yani IA'nın kırk desibel olduğunu düşünelim.",
+    "Ton karşı kulağın, yani NTE'nin kokleasına yaklaşık on desibel olarak ulaşır.",
+    "Bu tonu örtmek için NTE kokleasında en az on dB EM'lik etkin gürültü bulunmalıdır.",
+    "NTE'de iletim tipi kayıp varsa, kulaklıkla verilen gürültü kokleaya ulaşırken bu kayıp kadar zayıflar.",
+    "Bu durumda gürültüyü NTE'deki hava-kemik aralığı kadar artırmamız gerekir."
+   ]
+  },
+  {
+   "id": "min_formul",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Minimum maskeleme",
+   "baslik": "Minimum maskeleme *formülü*",
+   "sol": {
+    "ust": "Hesap yöntemi",
+    "maddeler": [
+     {
+      "metin": "TE ton düzeyi _eksi IA_",
+      "cumle": 0
+     },
+     {
+      "metin": "Artı _NTE hava-kemik aralığı_",
+      "cumle": 1
+     },
+     {
+      "metin": "Artı _10 dB_ güvenlik payı",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Plato başlangıcı",
+    "maddeler": [
+     {
+      "metin": "NTE _hava yolu eşiği_",
+      "cumle": 4
+     },
+     {
+      "metin": "Artı _10 dB_ güvenlik payı",
+      "cumle": 4
+     },
+     {
+      "metin": "Kemik yolunda artı _oklüzyon_",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Hesap yönteminde minimum maskeleme, TE'deki ton düzeyinden IA çıkarılarak başlar.",
+    "Buna NTE'deki hava-kemik aralığı eklenir; çünkü gürültü NTE kokleasına bu engeli aşarak ulaşır.",
+    "Son olarak bireysel farkları karşılamak için on desibellik güvenlik payı eklenir.",
+    "Formül, TE'deki ton yükseldikçe gereken gürültünün de yükseldiğini açıkça gösterir.",
+    "Klinikte daha sık kullanılan plato yönteminde başlangıç düzeyi, NTE'nin hava yolu eşiğinin on desibel üzeridir.",
+    "Kemik yolu maskelemesinde pes frekanslarda bu değere oklüzyon düzeltmesi eklenir."
+   ]
+  },
+  {
+   "id": "min_ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Minimum maskeleme",
+   "baslik": "Minimum maskeleme: *örnek hesap*",
+   "sutunlar": [
+    "Adım",
+    "Değer",
+    "Ara sonuç"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "TE ton düzeyi",
+      "50 dB HL",
+      "50"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Eksi IA",
+      "40 dB",
+      "10"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Artı NTE aralığı",
+      "0 dB",
+      "10"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Artı güvenlik payı",
+      "10 dB",
+      "20 dB EM"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Bir örnek hesaplayalım: TE'de bin hertzde ton elli desibel HL'de veriliyor.",
+    "Supra-aural kulaklık için IA kırk desibel; elli eksi kırk, on desibel.",
+    "NTE normal, hava ve kemik yolu on desibel; hava-kemik aralığı sıfır, sonuç on.",
+    "On desibellik güvenlik payını ekleyince minimum maskeleme yirmi dB EM olur.",
+    "Bu, NTE'nin hava yolu eşiğinin on desibel üzeri olan plato başlangıç düzeyiyle de örtüşür.",
+    "TE'deki ton altmışa çıkarsa, minimum gürültü de otuz dB EM'e çıkar; plato yönteminin mantığı budur."
+   ]
+  },
+  {
+   "id": "max_mantik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Maksimum maskeleme",
+   "baslik": "En fazla gürültü: *geri dönen* gürültü",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40
+   },
+   "vurgula": [
+    {
+     "parca": "maskeleme_gurultusu",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 1
+    },
+    {
+     "parca": "test_kulagi",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "maskeleme_gurultusu",
+     "metin": "NTE'ye gürültü",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA kadar zayıflar",
+     "cumle": 1
+    },
+    {
+     "parca": "test_kulagi",
+     "metin": "TE kemik yolu eşiği",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Üst sınır: TE kemik + IA _eksi 5_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "TE kemik bilinmiyorsa _maskesiz kemik_",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Gürültüyü artırmanın da bir sınırı vardır; çünkü NTE'ye verilen gürültü de kafatasından TE'ye geçebilir.",
+    "Gürültü karşıya geçerken, test sesi gibi yaklaşık IA kadar zayıflar.",
+    "TE kokleasına ulaşan gürültü, TE'nin kemik yolu eşiğine ulaşırsa TE'yi de maskeler; buna aşırı maskeleme (overmasking) denir.",
+    "Bu yüzden maksimum maskeleme, TE'nin kemik yolu eşiği ile IA'nın toplamından beş desibel eksik alınır.",
+    "Hava yolunu maskelerken TE'nin gerçek kemik yolu çoğu zaman bilinmez; temkinli olmak için maskesiz kemik yolu eşiği kullanılır.",
+    "Maskesiz kemik yolu iki kokleadan iyi olanını gösterdiği için, bu seçim üst sınırı güvenli tarafta tutar."
+   ]
+  },
+  {
+   "id": "max_ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Maksimum maskeleme",
+   "baslik": "Pencere: en az ile *en fazla* arası",
+   "sutunlar": [
+    "Durum (1000 Hz)",
+    "En az",
+    "En fazla"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "NTE normal, supra-aural",
+      "20 dB EM",
+      "45 dB EM"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "NTE normal, insert",
+      "20 dB EM",
+      "60 dB EM"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "NTE iletim 50 dB",
+      "70 dB EM",
+      "45 dB EM"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Şimdi en az ve en fazla gürültüyü birlikte düşünelim; aradaki alana maskeleme penceresi diyebiliriz.",
+    "Önceki örnekte maskesiz kemik yolu on desibel; supra-aural kulaklıkla en fazla gürültü on artı kırk eksi beş, yani kırk beş dB EM.",
+    "Insert kulaklıkta IA elli beş alınırsa en fazla gürültü altmış dB EM'e çıkar; pencere belirgin biçimde genişler.",
+    "Pencere ne kadar genişse, gürültüyü artırıp platoyu görmek için o kadar çok yer vardır.",
+    "Ama NTE'de elli desibellik iletim tipi kayıp olsaydı, hava yolu altmış olur ve en az gürültü yetmiş dB EM'e çıkardı.",
+    "En az gürültü en fazlayı aştığında pencere kapanır; bu duruma maskeleme ikilemi denir ve ayrı bir derste ele alacağız."
+   ]
+  },
+  {
+   "id": "plato_ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Maksimum maskeleme",
+   "baslik": "Örnek: platodan *aşırı maskelemeye*",
+   "sutunlar": [
+    "Gürültü (dB EM)",
+    "TE eşiği (dB HL)",
+    "Yorum"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "20",
+      "50",
+      "Başlangıç"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "30",
+      "50",
+      "Plato"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "45",
+      "50",
+      "Plato sonu"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "50",
+      "55",
+      "Aşırı maskeleme"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "55",
+      "60",
+      "Aşırı maskeleme"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bir örnekle görelim: sol kulak TE, hava yolu elli, kemik yolu on desibel; yani iletim tipi kayıp var, sağ kulak ise normal.",
+    "Supra-aural kulaklıkla en az gürültü yirmi, en fazla gürültü on artı kırk eksi beş, yani kırk beş dB EM.",
+    "Gürültüyü yirmiden otuza çıkardığımızda eşik elli desibelde sabit kalıyor.",
+    "Kırk beş dB EM'e kadar eşik değişmiyor; bu plato, gerçek eşiğin elli desibel olduğunu gösterir.",
+    "Elli ve elli beş dB EM'de ise eşik gürültüyle birlikte yükseliyor; çünkü gürültü artık TE kokleasına ulaşıyor.",
+    "Burada durmayıp gürültüyü artırmaya devam etseydik, iletim tipi kaybı yanlışlıkla daha ileri bir kayıp olarak kaydedecektik."
+   ]
+  },
+  {
+   "id": "yetersiz_asiri",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Maksimum maskeleme",
+   "baslik": "Yetersiz mi, *aşırı* mı?",
+   "sol": {
+    "ust": "Yetersiz maskeleme",
+    "maddeler": [
+     {
+      "metin": "NTE tonu _duymaya devam eder_",
+      "cumle": 0
+     },
+     {
+      "metin": "Eşik olduğundan _iyi_ görünür",
+      "cumle": 1
+     },
+     {
+      "metin": "Gürültü artınca eşik _de artar_",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Aşırı maskeleme",
+    "maddeler": [
+     {
+      "metin": "Gürültü _TE'yi_ de örter",
+      "cumle": 3
+     },
+     {
+      "metin": "Eşik olduğundan _kötü_ görünür",
+      "cumle": 4
+     },
+     {
+      "metin": "Platodan sonra eşik _yeniden_ yükselir",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Gürültü minimumun altında kalırsa NTE tonu duymaya devam eder; buna yetersiz maskeleme (undermasking) denir.",
+    "Bu durumda kaydedilen eşik yine karşı kulağa aittir ve TE'nin işitmesi olduğundan iyi görünür.",
+    "Yetersiz maskelemenin işareti, gürültüyü artırdıkça eşiğin de birlikte yükselmesidir.",
+    "Gürültü maksimumu aşarsa TE de maskelenir; bu aşırı maskelemedir.",
+    "Bu kez eşik olduğundan kötü görünür; iletim tipi bir kayıp bile sensörinöral ya da mikst gibi kaydedilebilir.",
+    "Aşırı maskelemenin işareti, eşiğin bir süre sabit kaldıktan sonra gürültüyle birlikte yeniden yükselmesidir."
+   ]
+  },
+  {
+   "id": "kemik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Maksimum maskeleme",
+   "baslik": "Kemik yolunda *sınırlar*",
+   "maddeler": [
+    {
+     "metin": "En az: TE kemik + _NTE aralığı_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Pes frekansta artı _oklüzyon_",
+     "cumle": 2,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "En fazla: TE kemik + _kulaklık IA'sı_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 0
+    },
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "kafatasi",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Kemik yolunda ton için IA yaklaşık sıfır olduğundan, ton iki kokleaya da aynı düzeyde ulaşır.",
+    "Bu yüzden minimum maskeleme, TE'deki kemik yolu ton düzeyine NTE'nin hava-kemik aralığının eklenmesiyle bulunur.",
+    "Buna güvenlik payı ve pes frekanslarda, NTE kulaklıkla kapandığı için oklüzyon düzeltmesi de eklenir.",
+    "Gürültü ise NTE'ye kulaklıkla verildiği için, karşıya geçerken kulaklığın IA'sı kadar zayıflar; maksimum hesabı hava yoluyla aynıdır.",
+    "Örneğin TE'nin kemik yolu on desibel ve insert kulaklığın IA'sı elli beş ise en fazla gürültü altmış dB EM'dir.",
+    "TE'de iletim tipi kayıp varsa, yani TE'nin kemik yolu iyiyse, maksimum düşük kalır ve pencere daralır."
+   ]
+  },
+  {
+   "id": "merkezi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Merkezi maskeleme",
+   "baslik": "*Merkezi* maskeleme",
+   "maddeler": [
+    {
+     "metin": "Karşıya geçiş _olmadan_ eşik kayması",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Ortalama _yaklaşık 5 dB_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kaynağı: _merkezi_ ve efferent etkiler",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "5 dB'lik kayma: eşik _değişmedi_ say",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "İki kulak burada buluşur",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "NTE'ye verilen gürültü karşıya geçecek kadar yüksek olmasa bile TE'nin eşiği biraz kayabilir.",
+    "Bu olaya merkezi maskeleme (central masking) denir.",
+    "Bu kayma ortalama olarak yaklaşık beş desibeldir, ama kişiden kişiye değişir.",
+    "Merkezi maskeleme, iki kulağın bilgisinin beyin sapında buluşmasıyla ve kokleaya inen efferent liflerin etkisiyle açıklanır.",
+    "İlk kez 1924'te tanımlanmış olsa da mekanizması bugün de tartışılmaktadır.",
+    "Klinikte maskeleme sırasında beş desibele kadar kayma görülürse, eşik genellikle değişmemiş gibi yorumlanır.",
+    "Bu küçük kaymayı yetersiz maskeleme sanıp gürültüyü gereksiz yere artırmak, aşırı maskeleme riskini büyütür."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Maskelemeye başlamadan önce her frekans için en az ve en fazla gürültüyü forma yazın. Gürültüyü artırırken en fazla düzeye yaklaştığınızı her adımda kontrol edin.",
+   "cumleler": [
+    "Sahadan bir ipucu: maskelemeye başlamadan önce kağıda ya da forma iki sayı yazın.",
+    "Birincisi o frekanstaki en az gürültü, ikincisi aşırı maskelemenin başladığı en fazla gürültüdür.",
+    "Gürültüyü artırırken her adımda bu üst sınıra ne kadar yaklaştığınızı görün.",
+    "İki sayı birbirine çok yakınsa, insert kulaklığa geçmek pencereyi genişletmenin en pratik yoludur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "dB EM: gürültünün _eşiği kaydırma_ gücü",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "En az: ton eksi IA _artı aralık_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "En fazla: TE kemik + IA _eksi 5_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Merkezi maskeleme: _yaklaşık 5 dB_",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Etkin maskeleme, gürültünün eşiği kaç desibel HL'ye kaydırdığıyla tanımlanır; hesaplara on desibel güvenlik payı eklenir.",
+    "Minimum maskeleme, TE'deki ton düzeyinden IA çıkarılıp NTE'nin hava-kemik aralığı eklenerek bulunur.",
+    "Maksimum maskeleme, TE'nin kemik yolu ile IA'nın toplamından beş desibel eksiktir; aşılırsa aşırı maskeleme olur.",
+    "Gürültü karşıya geçmese de eşik yaklaşık beş desibel kayabilir; buna merkezi maskeleme denir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "TE kemik yolu 10 dB, IA 40 dB. En fazla gürültü kaçtır?",
+   "secenekler": [
+    "40 dB EM",
+    "45 dB EM",
+    "50 dB EM",
+    "60 dB EM"
+   ],
+   "dogru": 1,
+   "aciklama": "En fazla = TE kemik yolu + IA eksi 5: _10 + 40 - 5 = 45 dB EM_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: TE'nin kemik yolu on desibel, IA kırk desibel. Aşırı maskelemeden önce en fazla gürültü kaçtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kırk beş dB EM.",
+    "En fazla gürültü, TE'nin kemik yolu ile IA'nın toplamından beş eksiktir: on artı kırk eksi beş, kırk beş."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Plato* yöntemi adım adım",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bu sınırlar içinde gürültüyü adım adım artırarak gerçek eşiği bulduğumuz plato yöntemini çalışacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

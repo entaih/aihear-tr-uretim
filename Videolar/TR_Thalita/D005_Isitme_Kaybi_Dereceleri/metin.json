@@ -1,0 +1,754 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D005_Isitme_Kaybi_Dereceleri_TR",
+ "kapak": {
+  "ust": "DERS 5",
+  "baslik": "İşitme kaybı<br>*dereceleri*",
+  "alt": "PTA, DSÖ 2021 ve Clark ölçeği",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      20,
+      30,
+      40,
+      50,
+      60,
+      65
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "İşitme Kaybı Dereceleri: Hafiften Total Kayba Sınıflama | Ders 05 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Saf ses ortalamasını (PTA) adım adım hesaplıyoruz. Dünya Sağlık Örgütünün 2021 derece sınıflamasını, Clark ve ASHA ölçeğiyle örnek odyogramlar üzerinde karşılaştırıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: WHO, World Report on Hearing (2021); Clark JG, Uses and abuses of hearing loss classification, ASHA (1981); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmekaybı",
+   "odyogram"
+  ],
+  "etiketler": [
+   "işitme kaybı dereceleri",
+   "saf ses ortalaması",
+   "PTA",
+   "pure tone average",
+   "DSÖ işitme kaybı dereceleri",
+   "WHO grades of hearing loss",
+   "Clark sınıflaması",
+   "profound hearing loss",
+   "odyogram",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 5",
+   "baslik": "İşitme kaybı *dereceleri*",
+   "alt": "Hafiften total kayba sınıflama",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme kaybının derecesini nasıl belirlediğimizi öğreneceğiz.",
+    {
+     "yazi": "Saf ses ortalamasını hesaplayacak, Dünya Sağlık Örgütünün 2021 sınıflamasını Clark ölçeğiyle karşılaştıracağız.",
+     "ses": "Saf ses ortalamasını hesaplayacak, Dünya Sağlık Örgütünün iki bin yirmi bir sınıflamasını Clark ölçeğiyle karşılaştıracağız."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Derece neden önemli?",
+   "baslik": "Derece neden *önemli?*",
+   "maddeler": [
+    {
+     "metin": "Kaybın _ne kadar_ olduğunu söyler",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ortak bir _dil_ sağlar",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Rehabilitasyon _planına_ yön verir",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "İzlem ve _istatistik_ için temel",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Derece, işitme kaybının ne kadar büyük olduğunu tek bir ifadeyle anlatır.",
+    "Hafif, orta ya da ileri gibi terimler, meslektaşlar arasında ve hastayla iletişimde ortak bir dil sağlar.",
+    "Derece, cihaz ya da implant gibi seçeneklerin değerlendirilmesinde de yol göstericidir.",
+    "Zaman içindeki değişimi izlemek ve ülkelerin işitme kaybı istatistiklerini oluşturmak da derece sınıflamasına dayanır.",
+    "Ancak derece yalnız bir başlangıçtır; tip ve konfigürasyon olmadan tablo eksik kalır."
+   ]
+  },
+  {
+   "id": "pta",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Saf ses ortalaması",
+   "baslik": "Saf ses ortalaması: *PTA*",
+   "maddeler": [
+    {
+     "metin": "_Saf ses ortalaması_ (pure tone average)",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Üç frekans: _500, 1000, 2000 Hz_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Dört frekans: _4000 Hz_ eklenir",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Her kulak için _ayrı_ hesaplanır",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Derecenin temeli saf ses ortalamasıdır (pure tone average); kısaca PTA olarak yazılır.",
+    "Klasik yöntemde beş yüz, bin ve iki bin hertzdeki hava yolu eşiklerinin ortalaması alınır.",
+    "Bu üç frekans, konuşmanın anlaşılmasında önemli bir bölgeyi temsil ettiği için seçilmiştir.",
+    "Dünya Sağlık Örgütü ve birçok güncel kaynak, dört bin hertzi de ekleyerek dört frekans ortalaması kullanır.",
+    "Dört bin hertzin eklenmesi, tiz frekans kayıplarının dereceye daha iyi yansımasını sağlar.",
+    "Ortalama her kulak için ayrı hesaplanır ve kulaklar ayrı ayrı derecelendirilir."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ORTALAMA",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "odyogram",
+      "baslik": "Üç frekans",
+      "metin": "500, 1000, 2000 Hz",
+      "cumle": 1
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Dört frekans",
+      "metin": "4000 Hz de eklenir",
+      "cumle": 3
+     }
+    ]
+   }
+  },
+  {
+   "id": "hesap",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Saf ses ortalaması",
+   "baslik": "Örnek *hesaplama*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_PTA, 3 frekans_: 40 dB HL",
+     "cumle": 2
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_PTA, 4 frekans_: 45 dB HL",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       30,
+       40,
+       50,
+       60,
+       65
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Bu örnek odyogramda sağ kulağın hava yolu eşiklerini görüyoruz.",
+    "Beş yüz hertzde otuz, bin hertzde kırk, iki bin hertzde elli desibel.",
+    "Bu üç değerin toplamı yüz yirmi; üçe böldüğümüzde saf ses ortalaması kırk desibel çıkar.",
+    "Dört bin hertzdeki altmış desibeli de eklersek toplam yüz seksen olur.",
+    "Dörde böldüğümüzde dört frekans ortalaması kırk beş desibel çıkar.",
+    "Gördüğünüz gibi tize doğru düşen kayıplarda dört frekans ortalaması daha yüksek bir değer verir."
+   ]
+  },
+  {
+   "id": "olcekler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "DSÖ 2021 dereceleri",
+   "baslik": "Neden *birden çok* ölçek?",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Evrensel değil",
+     "metin": "Kurumlar farklı ölçek kullanır",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Halk sağlığı",
+     "metin": "DSÖ 2021",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Klinik",
+     "metin": "Clark ve ASHA",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Derece sınırları evrensel değildir; farklı kurumlar farklı ölçekler kullanır.",
+    "Bunun nedeni, ölçeklerin farklı amaçlarla hazırlanmış olmasıdır.",
+    "Halk sağlığı ve ülke karşılaştırmaları için en çok Dünya Sağlık Örgütü, kısaca DSÖ ölçeği kullanılır.",
+    "Klinikte ise Clark ölçeği ve Amerikan Konuşma Dil İşitme Derneği, kısaca ASHA kaynaklarındaki sınıflama yaygındır.",
+    "Şimdi en sık karşılaşacağınız bu iki ölçeği sırayla inceleyelim."
+   ]
+  },
+  {
+   "id": "dso",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "DSÖ 2021 dereceleri",
+   "baslik": "DSÖ 2021: *derece sınırları*",
+   "sutunlar": [
+    "Derece",
+    "İyi kulak PTA"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "&lt;20 dB HL"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Hafif",
+      "20 ile &lt;35"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Orta",
+      "35 ile &lt;50"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Orta-ileri",
+      "50 ile &lt;65"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "İleri",
+      "65 ile &lt;80"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Çok ileri",
+      "80 ile &lt;95"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Total",
+      "95 ve üstü"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Dünya Sağlık Örgütü, 2021 Dünya İşitme Raporunda yeni bir derece sınıflaması yayımladı.",
+     "ses": "Dünya Sağlık Örgütü, iki bin yirmi bir Dünya İşitme Raporunda yeni bir derece sınıflaması yayımladı."
+    },
+    "Bu sınıflamada dört frekans ortalaması kullanılır ve yirmi desibelin altı normal kabul edilir.",
+    "Yirmi ile otuz beşin altı hafif, otuz beş ile ellinin altı orta derece kayıptır.",
+    "Elli ile altmış beşin altı orta-ileri, altmış beş ile seksenin altı ileri derecedir.",
+    "Seksen ile doksan beşin altı çok ileri derece (profound) kayıptır; doksan beş ve üzeri ise total kayıptır.",
+    "Sınırların on beşer desibel arayla ilerlemesi, bu ölçeği akılda tutmayı kolaylaştırır."
+   ]
+  },
+  {
+   "id": "dso_ayrinti",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "DSÖ 2021 dereceleri",
+   "baslik": "DSÖ ölçeğinde *ayrıntılar*",
+   "maddeler": [
+    {
+     "metin": "Derece: _iyi kulağa_ göre",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Tek taraflı_ kayıp ayrıca tanımlanır",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "35 dB üstü: _engelleyici_ kayıp",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "DSÖ derecesi, iki kulaktan daha iyi duyanın ortalamasına göre belirlenir.",
+    "İyi kulak yirminin altında, diğer kulak otuz beş ve üzerindeyse durum tek taraflı işitme kaybı olarak ayrıca tanımlanır.",
+    "Bu yüzden klinik raporda her kulağın derecesini ayrı yazmak yine de önemlidir.",
+    "DSÖ, iyi kulakta otuz beş desibelden büyük kaybı, engelleyici işitme kaybı olarak kabul eder.",
+    "Bu tanım özellikle halk sağlığı planlamasında ve istatistiklerde kullanılır."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "DSÖ",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kulak",
+      "baslik": "İyi kulak",
+      "metin": "Derece buna göre",
+      "cumle": 0
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Klinik rapor",
+      "metin": "Her kulak ayrı yazılır",
+      "cumle": 2
+     },
+     {
+      "ikon": "kalabalik",
+      "baslik": "Halk sağlığı",
+      "metin": "Planlama ve istatistik",
+      "cumle": 4
+     }
+    ]
+   }
+  },
+  {
+   "id": "clark",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Clark ve karşılaştırma",
+   "baslik": "Clark ve ASHA: *klinik ölçek*",
+   "sutunlar": [
+    "Derece",
+    "PTA (dB HL)"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "-10 ile 15"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Çok hafif",
+      "16 ile 25"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Hafif",
+      "26 ile 40"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Orta",
+      "41 ile 55"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Orta-ileri",
+      "56 ile 70"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "İleri",
+      "71 ile 90"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Çok ileri",
+      "91 ve üstü"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Klinikte çok yaygın kullanılan diğer ölçek, 1981 yılında Clark tarafından önerilmiştir.",
+     "ses": "Klinikte çok yaygın kullanılan diğer ölçek, bin dokuz yüz seksen bir yılında Clark tarafından önerilmiştir."
+    },
+    "Aynı basamaklar ASHA kaynaklarında da kullanılır.",
+    "Burada normal sınır daha sıkıdır: eksi on ile on beş desibel.",
+    "On altı ile yirmi beş desibel arası, çok hafif kayıp olarak ayrı bir basamakta yer alır.",
+    "Yirmi altı ile kırk hafif, kırk bir ile elli beş orta derecedir.",
+    "Elli altı ile yetmiş orta-ileri, yetmiş bir ile doksan ileri, doksan bir ve üzeri çok ileri derecedir.",
+    "Clark ölçeği genellikle üç frekans ortalamasıyla kullanılır."
+   ]
+  },
+  {
+   "id": "karsilastir",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Clark ve karşılaştırma",
+   "baslik": "Aynı kulak, *iki ölçek*",
+   "sol": {
+    "ust": "DSÖ 2021",
+    "maddeler": [
+     {
+      "metin": "Dört frekans ortalaması",
+      "cumle": 1
+     },
+     {
+      "metin": "Normal: 20 dB altı",
+      "cumle": 1
+     },
+     {
+      "metin": "Ortalama 18 dB: normal",
+      "cumle": 2
+     },
+     {
+      "metin": "Halk sağlığı odaklı",
+      "cumle": 4
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Clark ve ASHA",
+    "maddeler": [
+     {
+      "metin": "Üç frekans ortalaması",
+      "cumle": 1
+     },
+     {
+      "metin": "Normal: 15 dB ve altı",
+      "cumle": 1
+     },
+     {
+      "metin": "Ortalama 18 dB: çok hafif",
+      "cumle": 3
+     },
+     {
+      "metin": "Klinik ve çocuk odaklı",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "İki ölçeği aynı örnek üzerinde karşılaştıralım.",
+    "DSÖ dört frekans ortalaması ve yirmi desibel sınırını, Clark ise üç frekans ortalaması ve on beş desibel sınırını kullanır.",
+    "Ortalaması on sekiz desibel olan bir kulak DSÖ ölçeğine göre normal kabul edilir.",
+    "Aynı kulak Clark ölçeğinde çok hafif kayıp olarak değerlendirilir.",
+    "Clark'ın sıkı sınırı, küçük kayıpların bile dil gelişimini etkileyebileceği çocuklar için özellikle anlamlıdır."
+   ]
+  },
+  {
+   "id": "asimetrik",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Clark ve karşılaştırma",
+   "baslik": "Örnek: *asimetrik* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: PTA 15 dB HL",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: PTA yaklaşık 59 dB HL",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       20,
+       25
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       50,
+       55,
+       60,
+       70,
+       75
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Şimdi iki kulağı farklı olan bir örneğe bakalım; sağ kulağın dört frekans ortalaması on beş desibel, yani normal.",
+    "Sol kulakta dört frekans ortalaması yaklaşık elli dokuz desibel; bu, DSÖ ölçeğinde orta-ileri derecedir.",
+    "Aynı kulağın üç frekans ortalaması elli beş desibel; Clark ölçeğinde bu değer orta derecenin üst sınırındadır.",
+    "İyi kulak normal, diğer kulak otuz beşin üzerinde olduğu için DSÖ bu durumu tek taraflı işitme kaybı olarak tanımlar.",
+    "Bu örnek, raporda hangi ortalamanın ve hangi ölçeğin kullanıldığını belirtmenin neden önemli olduğunu gösteriyor."
+   ]
+  },
+  {
+   "id": "fletcher",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Ortalamanın sınırları",
+   "baslik": "Ortalama her zaman *yeterli mi?*",
+   "maddeler": [
+    {
+     "metin": "Eğimli kayıpta _yanıltıcı_ olabilir",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Fletcher ortalaması_: en iyi iki frekans",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Derece ile _frekans aralığını_ birlikte yazın",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Ortalama, frekanslar arasında büyük fark olan kayıplarda tabloyu tam yansıtmayabilir.",
+    "Örneğin pes frekansları normal, tizleri ileri derecede kayıplı bir kulakta ortalama hafif çıkabilir; oysa kişi ünsüzleri kaçırır.",
+    "Böyle eğimli kayıplarda bazı klinikler üç frekanstan en iyi ikisinin ortalamasını kullanır; buna Fletcher ortalaması denir.",
+    "Fletcher ortalaması, bu tür kayıplarda konuşmayı alma eşiğiyle çoğu zaman daha iyi uyum gösterir.",
+    "Bu yüzden dereceyi frekans aralığıyla birlikte tarif etmek daha doğrudur; örneğin iki bin hertzden sonra ileri derecede kayıp."
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        15,
+        25,
+        60,
+        75,
+        80
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   }
+  },
+  {
+   "id": "gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Ortalamanın sınırları",
+   "baslik": "Derece ve *günlük yaşam*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Hafif",
+     "metin": "Gürültüde konuşmayı izlemek zor",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Orta",
+     "metin": "Sessizde de güçlük",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "İleri",
+     "metin": "Konuşmanın çoğu duyulmaz",
+     "cumle": 3
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Çok ileri",
+     "metin": "Yüksek sesler bile zor",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "DSÖ raporu derecelerin günlük yaşamdaki olası karşılığını da tarif eder.",
+    "Hafif kayıpta sessiz ortamda çoğu zaman sorun olmaz, ama gürültüde konuşmayı izlemek zorlaşabilir.",
+    "Orta derecede sessiz ortamda bile normal konuşmayı duymakta güçlük çekilebilir.",
+    "İleri derecede konuşmanın çoğu duyulmaz; yükseltilmiş sesle konuşulduğunda bile güçlük olabilir.",
+    "Çok ileri derecede yükseltilmiş sesle yapılan konuşmayı bile duymak ve anlamak çok zordur.",
+    "Bu tarifler genel bir rehberdir; aynı derecedeki iki kişinin yaşadığı güçlük çok farklı olabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "PTA ile konuşmayı alma eşiği (SRT) genellikle 10 dB içinde uyumludur. Fark büyükse ölçümün güvenilirliğini yeniden değerlendirin.",
+   "cumleler": [
+    "Derece hesaplarken işe yarayan bir çapraz kontrol var.",
+    "Saf ses ortalaması ile konuşmayı alma eşiği, kısaca SRT, genellikle birbirine on desibel içinde uyum gösterir.",
+    "Fark bundan büyükse talimatların anlaşılıp anlaşılmadığını, kulaklık yerleşimini ve yanıtların tutarlılığını yeniden gözden geçirin.",
+    "Bu basit karşılaştırma, hatalı bir derece yazmanın önüne geçer."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "PTA: *500, 1000, 2000* Hz ortalaması",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "DSÖ 2021: *dört frekans*, 20 dB sınırı",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Clark ve ASHA: *15 dB* normal sınırı",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Derece ve *konfigürasyon* birlikte",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Saf ses ortalaması klasik olarak beş yüz, bin ve iki bin hertzdeki hava yolu eşiklerinin ortalamasıdır.",
+    {
+     "yazi": "DSÖ 2021 ölçeği dört frekans ortalamasını kullanır ve yirmi desibelin altını normal kabul eder.",
+     "ses": "DSÖ iki bin yirmi bir ölçeği dört frekans ortalamasını kullanır ve yirmi desibelin altını normal kabul eder."
+    },
+    "Clark ve ASHA ölçeğinde normal sınır on beş desibeldir ve çok hafif kayıp ayrı bir basamaktır.",
+    "Derece tek başına yeterli değildir; kaybın frekanslara göre biçimiyle birlikte tarif edilmelidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Eşikler 25, 35, 45, 55 dB HL. Dört frekans PTA kaçtır?",
+   "secenekler": [
+    "35 dB HL",
+    "40 dB HL",
+    "45 dB HL",
+    "55 dB HL"
+   ],
+   "dogru": 1,
+   "aciklama": "Toplam 160, dörde bölünce _40 dB HL_; DSÖ ölçeğinde orta derece.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Eşikler sırasıyla 25, 35, 45 ve 55 dB HL ise dört frekans ortalaması kaçtır?",
+     "ses": "Kendinizi test edin: Eşikler sırasıyla yirmi beş, otuz beş, kırk beş ve elli beş dB HL ise dört frekans ortalaması kaçtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B, kırk desibel. Toplam yüz altmış, dörde bölünce kırk eder; bu değer DSÖ ölçeğinde orta derecedir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitme kaybı ne kadar *yaygın?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste dünyada ve Türkiye'de işitme kaybının ne kadar yaygın olduğunu rakamlarla inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

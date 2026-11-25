@@ -1,0 +1,771 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D245_Elektroakustik_Stimulasyon_TR",
+ "kapak": {
+  "ust": "DERS 245",
+  "baslik": "Elektroakustik<br>*stimülasyon*",
+  "alt": "Aynı kulakta akustik ve elektrik",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      30,
+      45,
+      70,
+      95,
+      105,
+      110
+     ],
+     "yanitsiz": [
+      5
+     ]
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  }
+ },
+ "youtube": {
+  "baslik": "Elektroakustik Stimülasyon (EAS) ve Hibrit Sistemler | Ders 245 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Pes frekanslarda işitmesi kalan ama tizleri duyamayan kişide aynı kulağa hem akustik hem elektriksel uyarı verilebilir mi? Bu derste elektroakustik stimülasyonun (EAS) adaylık mantığını, işitmeyi koruyan cerrahiyi, işitmenin korunmasının sınıflanmasını, programlamayı ve beklenen sonuçları öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: von Ilberg ve arkadaşları (1999), Electric-acoustic stimulation of the auditory system, ORL; Gantz ve Turner (2003), Combining acoustic and electrical hearing, Laryngoscope; Skarzynski ve arkadaşları (2013), Towards a consensus on a hearing preservation classification system, Acta Oto-Laryngologica; Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "EAS"
+  ],
+  "etiketler": [
+   "elektroakustik stimülasyon",
+   "electric-acoustic stimulation",
+   "EAS",
+   "hibrit implant",
+   "hybrid device",
+   "işitmenin korunması",
+   "hearing preservation",
+   "rezidüel işitme",
+   "kesişim frekansı",
+   "yuvarlak pencere",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 245",
+   "baslik": "Elektroakustik *stimülasyon*",
+   "alt": "Aynı kulakta akustik ve elektrik",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste pes frekanslarda işitmesi kalan kişilerde aynı kulağa hem akustik hem elektriksel uyarı vermeyi öğreneceğiz.",
+    "Adaylığı, işitmeyi koruyan cerrahiyi, programlamayı ve beklenen sonuçları ele alacağız."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kimler için?",
+   "baslik": "Örnek: *dik inen* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_ bölge",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       45,
+       70,
+       95,
+       105,
+       110
+      ],
+      "yanitsiz": [
+       5
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta pes frekanslarda hafif ile orta derece, tiz frekanslarda ise çok ileri derece bir kayıp görülüyor.",
+    "Böyle dik inen kayıplarda işitme cihazı pes sesleri iyi duyurur, ama konuşmanın tiz ünsüzlerini çoğu zaman duyuramaz.",
+    "Kişi sesleri duyar ama özellikle gürültüde ve tiz ünsüzlerde konuşmayı anlamakta zorlanır.",
+    "Klasik koklear implant ise tiz frekansları iyi iletir; ama elektrot yerleştirilirken pes frekanslardaki doğal işitme kaybolabilir.",
+    "Elektroakustik stimülasyon (electric-acoustic stimulation), kısaca EAS, bu iki dünyayı aynı kulakta birleştirmeyi amaçlar.",
+    "Tiz frekanslar implantla elektriksel, pes frekanslar ise yükseltilmiş sesle akustik olarak uyarılır.",
+    "Değerler örnektir; gerçek adaylık kararı kapsamlı değerlendirme ve ekip görüşmesiyle verilir."
+   ]
+  },
+  {
+   "id": "aday",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kimler için?",
+   "baslik": "EAS *adaylığı*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Pes frekanslar",
+     "cumle": 0,
+     "metin": "Kullanılabilir işitme"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Tiz frekanslar",
+     "cumle": 2,
+     "metin": "Ağır ile çok ileri"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Cihazla anlama",
+     "cumle": 3,
+     "metin": "Sınırlı yarar"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Ölçütler",
+     "cumle": 4,
+     "metin": "Ülke ve cihaza göre"
+    }
+   ],
+   "cumleler": [
+    "EAS adayında pes frekanslarda cihazla yararlanılabilen, kullanılabilir bir kalan işitme bulunur.",
+    "Örneğin ABD'deki onay çalışmalarında 500 Hz'e kadar pes eşiklerin yaklaşık 60 ile 65 dB HL'den kötü olmaması aranmıştır.",
+    "Orta ve tiz frekanslarda ise ağır ile çok ileri derece kayıp vardır.",
+    "Kişi uygun ayarlanmış cihazlarla kelime tanımada sınırlı yarar görür; bu, klasik implant adaylığındaki mantığın aynısıdır.",
+    "Ölçütler ülkeye, cihaza ve geri ödeme kurallarına göre değişir; Türkiye'deki koşullar için güncel tebliğe bakılmalıdır.",
+    "Kalan işitmenin ilerleyici olup olmadığı da önemlidir; hızla ilerleyen kayıpta korunan işitmenin ömrü kısa olabilir."
+   ]
+  },
+  {
+   "id": "tarihce",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kimler için?",
+   "baslik": "EAS'nin *kısa tarihi*",
+   "adimlar": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "1999",
+     "cumle": 0,
+     "metin": "İlk EAS bildirimi"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Kısa elektrot",
+     "cumle": 1,
+     "metin": "Tabanda sınırlı"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Yumuşak cerrahi",
+     "cumle": 2,
+     "metin": "Kokleayı koru"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Tek işlemci",
+     "cumle": 3,
+     "metin": "Akustik ve elektrik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "von Ilberg ve arkadaşları 1999'da, aynı kulakta elektriksel ve akustik uyarımı birleştiren ilk sonuçları bildirdi.",
+     "ses": "fon İlberg ve arkadaşları bin dokuz yüz doksan dokuzda, aynı kulakta elektriksel ve akustik uyarımı birleştiren ilk sonuçları bildirdi."
+    },
+    "Aynı yıllarda Gantz ve Turner, yalnız koklea tabanına yerleştirilen kısa elektrotlarla pes işitmeyi korumaya çalıştı.",
+    "Sonraki yıllarda ince ve esnek elektrotlar ile kokleaya en az zarar veren cerrahi teknikler geliştirildi.",
+    "Bugün pek çok sistemde aynı işlemci hem implant uyarısını hem de kulak yoluna akustik sesi verir.",
+    "Kalan işitmeyi koruma çabası artık yalnız EAS adaylarında değil, birçok klasik implant ameliyatında da hedeflenir."
+   ]
+  },
+  {
+   "id": "koklea",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Nasıl çalışır?",
+   "baslik": "Taban elektrik, *tepe* akustik",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "taban: elektriksel uyarı",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "metin": "tepe: akustik uyarı",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "yuvarlak pencere",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 1
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 3
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "taban",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "tepe",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "EAS'nin mantığı kokleanın frekans haritasına dayanır.",
+    "Tabandaki tüy hücreleri büyük ölçüde kaybolmuştur; bu bölge elektrot dizisiyle elektriksel olarak uyarılır.",
+    "Tepeye yakın bölgede ise tüy hücreleri büyük ölçüde çalışır; buraya pes sesler akustik olarak, yani yürüyen dalga yoluyla ulaşır.",
+    "Bu nedenle elektrot dizisi bu bölgeye zarar vermeyecek biçimde ilerletilir; dizinin uzunluğu ve yerleştirme derinliği buna göre seçilir.",
+    "Elektrot genellikle yuvarlak pencereden, kokleanın iç yapılarına en az zarar verecek biçimde yavaşça yerleştirilir.",
+    "Böylece aynı kulakta iki tür uyarı yan yana çalışır: tizler için elektrik, pesler için akustik ses."
+   ]
+  },
+  {
+   "id": "bolgeler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Nasıl çalışır?",
+   "baslik": "Kesişim *frekansı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "kalan_isitme",
+      "noktalar": [
+       [
+        125,
+        30
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        40
+       ],
+       [
+        750,
+        55
+       ],
+       [
+        1000,
+        70
+       ],
+       [
+        2000,
+        95
+       ],
+       [
+        4000,
+        105
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "kalan işitme",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "akustik",
+      "x": [
+       125,
+       750
+      ],
+      "renk": "sari",
+      "etiket": "akustik",
+      "cumle": 1
+     },
+     {
+      "ad": "elektrik",
+      "x": [
+       750,
+       8000
+      ],
+      "renk": "mavi",
+      "etiket": "elektrik",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesisim",
+      "x": 750,
+      "y": 55,
+      "cizgi": "dikey",
+      "etiket": "kesişim frekansı",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "akustik",
+     "cumle": 1
+    },
+    {
+     "parca": "elektrik",
+     "cumle": 2
+    },
+    {
+     "parca": "kesisim",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, örnek bir EAS kullanıcısının ameliyat sonrası korunmuş pes işitmesini gösteriyor.",
+    "Pes frekanslarda, akustik yükseltmenin yararlı olduğu bölgede, ses kulak yoluna bir hoparlörle verilir.",
+    "Daha yüksek frekanslar ise elektrotlara atanır ve elektriksel olarak iletilir.",
+    "İki bölgenin buluştuğu noktaya kesişim frekansı (crossover frequency) denir; kişinin odyogramına göre seçilir.",
+    "Kesişim noktası ayarlanırken iki uyarının çakışması ya da arada boşluk kalması önlenmeye çalışılır.",
+    "Akustik bölüm çoğu zaman aynı işlemciye bağlı küçük bir hoparlör ve kulak kalıbı ya da kulak içi uç ile verilir."
+   ]
+  },
+  {
+   "id": "cerrahi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İşitmenin korunması",
+   "baslik": "İşitmeyi koruyan *cerrahi*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Yuvarlak pencere",
+     "cumle": 0,
+     "metin": "Küçük, düzgün giriş"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Yavaş ilerletme",
+     "cumle": 1,
+     "metin": "Basınç artmasın"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "İnce elektrot",
+     "cumle": 2,
+     "metin": "Esnek, uygun uzunluk"
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Steroid",
+     "cumle": 3,
+     "metin": "Bazı merkezlerde"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ameliyatta izlem",
+     "cumle": 4,
+     "metin": "ECochG ile"
+    }
+   ],
+   "cumleler": [
+    "İşitmenin korunması (hearing preservation) için kokleaya mümkün olduğunca az travma verilmesi gerekir; buna yumuşak cerrahi de denir.",
+    "Elektrot genellikle yuvarlak pencereden ya da yakın küçük bir açıklıktan, çok yavaş ve kontrollü biçimde ilerletilir.",
+    "İnce, esnek ve uygun uzunlukta bir elektrot seçimi, baziler membrana ve iç yapılara zarar verme olasılığını azaltır.",
+    "Bazı merkezler iç kulağı korumak amacıyla ameliyat çevresinde steroid kullanır.",
+    "Ameliyat sırasında elektrokokleografiyle koklea yanıtının izlenmesi, cerraha zarar riskini anında gösterebilir.",
+    "Bu tekniklerin seçimi cerrahın ve ekibin kararıdır; odyolog ameliyat öncesi ve sonrası işitmeyi ayrıntılı ölçer."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İşitmenin korunması",
+   "baslik": "Ne kadar *korundu?*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 1000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "once",
+      "noktalar": [
+       [
+        125,
+        25
+       ],
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        40
+       ],
+       [
+        1000,
+        70
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "ameliyat öncesi",
+      "cumle": 0
+     },
+     {
+      "ad": "sonra",
+      "noktalar": [
+       [
+        125,
+        55
+       ],
+       [
+        250,
+        60
+       ],
+       [
+        500,
+        70
+       ],
+       [
+        1000,
+        95
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "ameliyat sonrası",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "kayma",
+      "y": [
+       30,
+       60
+      ],
+      "xk": 250,
+      "etiket": "eşik kayması",
+      "cumle": 2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "kayma",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Ameliyattan önce pes frekans eşikleri ayrıntılı ölçülür; bu örnekte lacivert çizgi ameliyat öncesi eşikleri gösteriyor.",
+    "Ameliyattan sonra eşikler yeniden ölçülür; çoğu kişide bir miktar kayma görülür.",
+    "Kaymanın büyüklüğü, ameliyat öncesi ve sonrası pes frekans ortalamalarının farkıyla hesaplanır.",
+    {
+     "yazi": "Skarzynski ve arkadaşlarının 2013 sınıflaması, kaymayı kalan işitme aralığına oranlar ve korunan işitmeyi yüzde olarak verir.",
+     "ses": "Skarjinski ve arkadaşlarının iki bin on üç sınıflaması, kaymayı kalan işitme aralığına oranlar ve korunan işitmeyi yüzde olarak verir."
+    },
+    "Yüzde 75'in üzeri tam, yüzde 25 ile 75 arası kısmi, yüzde 25'in altı ise minimal korunma olarak adlandırılır.",
+    "Hiç ölçülebilir işitme kalmamışsa korunma yok kabul edilir.",
+    "Bu ortak dil, farklı merkezlerin ve tekniklerin sonuçlarını karşılaştırmayı sağlar; bu örnek kısmi korunmaya karşılık gelir."
+   ]
+  },
+  {
+   "id": "uzun_vade",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İşitmenin korunması",
+   "baslik": "Korunan işitme *kalıcı mı?*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Geç kayıp",
+     "cumle": 0,
+     "metin": "Aylar ya da yıllar sonra"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Nedenler",
+     "cumle": 1,
+     "metin": "Tam bilinmiyor"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Esneklik",
+     "cumle": 2,
+     "metin": "Elektriğe geçiş"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Danışmanlık",
+     "cumle": 4,
+     "metin": "Önceden anlat"
+    }
+   ],
+   "cumleler": [
+    "Ameliyattan hemen sonra korunan işitme, bazı kişilerde aylar ya da yıllar içinde azalabilir.",
+    "Bunun nedeni tam bilinmemektedir; iç kulaktaki doku tepkisi ve kaybın kendi ilerleyişi olası etkenler arasındadır.",
+    "Pes işitme azalırsa, harita değiştirilerek pes frekanslar da elektrotlara verilebilir ve kişi yalnız elektriksel uyarıya geçer.",
+    "Bu yüzden elektrot seçiminde, gerekirse pes frekansları da iletebilecek bir derinliğe ulaşılması bazı ekiplerce tercih edilir.",
+    "Kişiye ameliyattan önce, kalan işitmenin korunmaya çalışılacağı ama bunun garanti olmadığı açıkça anlatılır."
+   ]
+  },
+  {
+   "id": "programlama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Programlama ve sonuçlar",
+   "baslik": "EAS *programlama*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Güncel odyogram",
+     "cumle": 0,
+     "metin": "Her kontrolde"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Kesişim",
+     "cumle": 1,
+     "metin": "Frekans seçimi"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Akustik bölüm",
+     "cumle": 2,
+     "metin": "Reçete ile"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Elektrik bölüm",
+     "cumle": 3,
+     "metin": "T ve C/M"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Doğrulama",
+     "cumle": 4,
+     "metin": "Ölçüm ve test"
+    }
+   ],
+   "cumleler": [
+    "EAS programlaması her kontrolde güncel bir odyogramla başlar; çünkü akustik bölüm doğrudan bu eşiklere göre ayarlanır.",
+    "Kesişim frekansı, pes işitmenin akustik yükseltmeden yararlanabildiği üst sınıra göre seçilir.",
+    "Akustik bölüm bir işitme cihazı gibi, reçete formülüyle ayarlanır ve mümkünse gerçek kulak ölçümüyle doğrulanır.",
+    {
+     "yazi": "Elektrik bölümünde ise klasik implanttaki gibi T ve C/M düzeyleri belirlenir.",
+     "ses": "Elektrik bölümünde ise klasik implanttaki gibi te ve ce ya da me düzeyleri belirlenir."
+    },
+    "Son olarak iki bölümün birlikte doğal ve dengeli duyulup duyulmadığına bakılır ve konuşma testleri yapılır.",
+    "Kalan işitme değiştikçe kesişim frekansı ve akustik kazanç da güncellenir."
+   ]
+  },
+  {
+   "id": "sonuclar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Programlama ve sonuçlar",
+   "baslik": "EAS ile *neler* beklenir?",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüde",
+     "cumle": 0,
+     "metin": "Yalnız elektriğe göre iyi"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Müzik",
+     "cumle": 2,
+     "metin": "Melodi ve tını"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Doğallık",
+     "cumle": 3,
+     "metin": "Daha doğal ses"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Birlikte",
+     "cumle": 4,
+     "metin": "İkisinin toplamından iyi"
+    }
+   ],
+   "cumleler": [
+    "Çalışmalar, korunmuş pes işitmenin özellikle gürültüde konuşmayı anlamaya belirgin katkı yaptığını gösterir.",
+    "Bu katkı, pes frekanslardaki perde bilgisinin konuşmayı arka plandan ayırmaya yardım etmesiyle açıklanır.",
+    "Müzik dinlemede melodi ve tını algısı, yalnız elektriksel uyarıya göre genellikle daha iyidir.",
+    "Kullanıcılar çoğu zaman sesi daha doğal ve daha az mekanik bulur.",
+    "Birçok kişide akustik ve elektriksel uyarının birlikte sağladığı yarar, her birinin tek başına sağladığından fazladır.",
+    "Yarar kişiden kişiye değişir ve korunan işitmenin miktarına bağlıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "EAS kullanıcısının her kontrolünde pes frekans eşiklerini yeniden ölçün. Eşikler değiştiyse akustik kazancı ve kesişim frekansını aynı gün güncelleyin.",
+   "cumleler": [
+    "Sahadan bir ipucu: EAS kullanıcısının her kontrolünde implantlı kulağın pes frekans eşiklerini yeniden ölçün.",
+    "Eşik değişimini fark etmeden eski akustik ayarla devam etmek, pes bölgede ya yetersiz ya da aşırı yükseltmeye yol açar.",
+    "Eşikler kötüleştiyse akustik kazancı ve kesişim frekansını aynı gün güncelleyin ve kişiye nedenini açıklayın.",
+    "Kişiye işitmesinde ani bir değişiklik fark ederse beklemeden merkeze başvurmasını söyleyin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Tizler elektrik, pesler akustik",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Aday: pes işitme var, tiz yok",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Yumuşak cerrahi ile korunma",
+     "cumle": 2,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Gürültü ve müzikte katkı",
+     "cumle": 3,
+     "ikon": "muzik"
+    }
+   ],
+   "cumleler": [
+    "Elektroakustik stimülasyon, aynı kulakta tiz frekansları elektriksel, pes frekansları akustik olarak uyarır.",
+    "Aday, pes frekanslarda kullanılabilir işitmesi olan ama tiz frekanslarda ağır ile çok ileri kaybı bulunan kişidir.",
+    "İşitmeyi koruyan cerrahi ve uygun elektrot seçimi pes işitmeyi korumayı amaçlar; korunma tam, kısmi ya da minimal olabilir.",
+    "Korunan pes işitme gürültüde konuşmaya, müziğe ve ses doğallığına katkı sağlar; eşikler her kontrolde yeniden ölçülür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "EAS'de pes frekanslar nasıl iletilir?",
+   "secenekler": [
+    "Elektriksel uyarıyla",
+    "Akustik yükseltmeyle",
+    "Kemik yoluyla",
+    "İletilmez"
+   ],
+   "dogru": 1,
+   "aciklama": "Pes frekanslardaki kalan işitme _akustik_ olarak, tizler elektrikle uyarılır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: EAS sisteminde pes frekanslar genellikle nasıl iletilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: akustik yükseltmeyle.",
+    "Korunan pes işitme kulak yoluna verilen yükseltilmiş sesle uyarılır; tiz frekanslar ise elektrotlara atanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tek taraflı sağırlık ve *koklear implant*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste tek taraflı sağırlıkta koklear implantı ve diğer seçeneklerle karşılaştırmasını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

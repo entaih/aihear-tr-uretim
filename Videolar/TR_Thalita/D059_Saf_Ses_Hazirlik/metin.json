@@ -1,0 +1,753 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D059_Saf_Ses_Hazirlik_TR",
+ "kapak": {
+  "ust": "DERS 59",
+  "baslik": "Teste<br>*hazırlık*",
+  "alt": "Talimat, kulak yolu çökmesi ve kulaklık yerleşimi",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak_yolu"
+  ]
+ },
+ "youtube": {
+  "baslik": "Saf Ses Odyometrisine Hazırlık: Talimat ve Kulaklık Yerleşimi | Ders 59 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Doğru eşik, iyi bir hazırlıkla başlar. Bu derste test ortamını, teste başlamadan önceki kontrolleri, hastaya verilen standart talimatı ve yanıt biçimlerini, kulak yolu çökmesini ve yalancı tiz kaybı, supra-aural kulaklığın ve insert köpük ucun doğru yerleşimini adım adım inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); British Society of Audiology, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking; ISO 8253-1, Acoustics - Audiometric test methods - Part 1; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "işitme"
+  ],
+  "etiketler": [
+   "saf ses odyometrisi",
+   "test hazırlığı",
+   "talimat",
+   "kulak yolu çökmesi",
+   "ear canal collapse",
+   "insert kulaklık",
+   "köpük uç",
+   "foam tip",
+   "supra-aural kulaklık",
+   "otoskopi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 59",
+   "baslik": "Saf ses odyometrisine *hazırlık*",
+   "alt": "Talimat, otoskopi ve kulaklık yerleşimi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste saf ses odyometrisinden önce yapılması gereken hazırlığı öğreneceğiz.",
+    "Ortamı, hastaya verilen talimatı, kulak yolu çökmesi kontrolünü ve kulaklıkların doğru yerleşimini adım adım göreceğiz."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ortam ve hasta",
+   "baslik": "Test *ortamı*",
+   "maddeler": [
+    {
+     "metin": "Ses yalıtımlı _kabin_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Ortam gürültüsü _standart_ sınırlarda",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Hasta test edeni _görmemeli_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Rahat oturuş, telefon kapalı",
+     "cumle": 4,
+     "ikon": "telefon"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Saf ses odyometrisi, ses yalıtımlı bir kabinde ya da ortam gürültüsü yeterince düşük bir odada yapılır.",
+    "Ortam gürültüsü için izin verilen en yüksek düzeyler standartlarda tanımlanmıştır; aşılırsa eşikler olduğundan kötü çıkabilir.",
+    "Hasta, test eden kişinin ellerini ve cihaz ekranını görmeyecek biçimde, genellikle yan ya da çapraz oturtulur.",
+    "Böylece hasta görsel ipuçlarına göre değil, yalnız duyduğu sese göre yanıt verir.",
+    "Hastanın rahat oturması, telefonunu kapatması ve sakız gibi ses çıkaran şeyleri bırakması istenir.",
+    "Test eden de hastanın yüzünü ve yanıtlarını rahatça görebilecek bir konumda olmalıdır."
+   ]
+  },
+  {
+   "id": "on_kontrol",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ortam ve hasta",
+   "baslik": "Teste başlamadan *önce*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Anamnez",
+     "metin": "Daha iyi kulağı öğrenmek",
+     "cumle": 0
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Buşon, akıntı, perforasyon",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Çökme kontrolü",
+     "metin": "Yalancı tiz kayıp",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Gözlük, küpe, toka",
+     "metin": "Kulaklık iyi otursun",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İşitme cihazı",
+     "metin": "Kapatılıp çıkarılır",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Talimat",
+     "metin": "Doğru yanıt için",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Teste anamnezle başlanır; hastanın daha iyi duyduğunu düşündüğü kulak öğrenilir.",
+    "Ardından iki kulağa otoskopi yapılır; buşon, akıntı ya da zar deliği gibi durumlar teste başlamadan fark edilir.",
+    "Otoskopi sırasında kulak yolunun kulaklık baskısıyla çökme eğilimi de kontrol edilir.",
+    "Gözlük, küpe ve saç tokası gibi kulaklığın oturmasını bozacak eşyalar çıkarılır.",
+    "İşitme cihazı kullanan hastanın cihazları kapatılıp çıkarılır.",
+    "Son olarak talimat verilir; bu adımlar atlanırsa en iyi yöntem bile yanlış sonuç verebilir."
+   ]
+  },
+  {
+   "id": "talimat",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Talimat",
+   "baslik": "Açık ve *standart* talimat",
+   "maddeler": [
+    {
+     "metin": "Kalın ve ince _bip_ sesleri",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ne kadar hafif olsa da _basın_",
+     "cumle": 1,
+     "ikon": "hasta_butonu"
+    },
+    {
+     "metin": "Duyunca basın, kesilince bırakın",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Kulaklar _ayrı ayrı_ test edilir",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Anlaşıldığını _soruyla_ kontrol",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ÖNCE TALİMAT",
+    "metin": "Kulaklık takılmadan *yüz yüze* anlatın",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Talimatta önce hastaya ne duyacağı anlatılır: kalın ve ince, farklı perdelerde kısa bip sesleri.",
+    "Ses çok hafif de olsa, duyduğu her an butona basması istenir.",
+    "Sesi duyar duymaz basması, ses kesildiğinde ise bırakması söylenir.",
+    "Kulakların ayrı ayrı test edileceği ve önce hangi kulakla başlanacağı belirtilir.",
+    "Talimat kulaklıklar takılmadan önce, hastayla yüz yüze ve sade bir dille verilir.",
+    "Son olarak kısa bir soruyla talimatın anlaşılıp anlaşılmadığı kontrol edilir."
+   ]
+  },
+  {
+   "id": "yanit",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Talimat",
+   "baslik": "Yanıt *biçimleri*",
+   "ogeler": [
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Buton",
+     "metin": "Işık, net zaman; basılı tutma alışkanlığı",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "El kaldırma",
+     "metin": "Basit; sürekli gözlem gerekir",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Sözlü yanıt",
+     "metin": "Doğal; kendi sesi karışabilir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Hasta sese farklı biçimlerde yanıt verebilir; her yöntemin kendine göre avantajı vardır.",
+    "Yanıt butonu cihazda bir ışık yakar ve yanıtın zamanını net gösterir.",
+    "El kaldırma basittir ve butonu kullanmakta zorlanan kişilerde uygundur; ancak test eden hastayı sürekli görmelidir.",
+    "Evet demek gibi sözlü yanıtlar da kullanılabilir; ama hastanın kendi sesi kısa bir süre dinlemeyi bozabilir.",
+    "Klinikte en sık yanıt butonu kullanılır; hangi yöntem seçildiyse test boyunca aynı kalmalıdır."
+   ]
+  },
+  {
+   "id": "ozel",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Talimat",
+   "baslik": "Özel *durumlar*",
+   "maddeler": [
+    {
+     "metin": "Yaşlılarda _yavaş_ ve net anlatım",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Tinnitusta _kesik kesik_ ton bilgisi",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Çocukta _oyunlu_ yanıt",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Gerekirse _alıştırma_ tekrarı",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "hasta_butonu",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Yaşlı hastalarda talimatı daha yavaş, net ve gerektiğinde yazılı olarak da vermek yardımcı olur.",
+    "Tinnitusu olan hastaya, test sesinin çınlamadan farklı olacağını ve kesik kesik geleceğini önceden anlatmak yanıtları kolaylaştırır.",
+    "Küçük çocuklarda butona basmak yerine, sesi duyunca bir oyuncağı kutuya atmak gibi oyunlu yanıtlar kullanılır.",
+    "Talimatın anlaşılmadığı izlenimi doğarsa test durdurulur, talimat yinelenir ve alıştırma tekrarlanır.",
+    "Hastanın dikkatini ve yorgunluğunu izlemek, güvenilir yanıt almanın bir parçasıdır."
+   ]
+  },
+  {
+   "id": "kollaps",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kulak yolu çökmesi",
+   "baslik": "Kulak yolu *çökmesi*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "kulaklik_yastigi",
+     "metin": "Supra-aural kulaklık",
+     "cumle": 0
+    },
+    {
+     "parca": "kollaps",
+     "metin": "Çöken kıkırdak bölüm",
+     "cumle": 0
+    },
+    {
+     "parca": "yarik_agiz",
+     "metin": "Yarık biçimli ağız",
+     "cumle": 4
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "metin": "Kulak kepçesi (auricula)",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kollaps",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 2
+    },
+    {
+     "parca": "yarik_agiz",
+     "cumle": 4
+    },
+    {
+     "parca": "kulak_kepcesi",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yaşlılarda daha sık",
+     "cumle": 1,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Yalancı tiz kayıp",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Yarık biçimli kanal ağzı",
+     "cumle": 4,
+     "ikon": "otoskop"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kulak yolu çökmesi (collapsing ear canal), supra-aural kulaklığın baskısıyla kulak yolunun kıkırdak bölümünün kapanmasıdır.",
+    "Kıkırdağın esnekliği azaldığı için özellikle yaşlılarda daha sık görülür; bebeklerde de yumuşak kanal nedeniyle olabilir.",
+    "Çöken kanal sesin timpanik membrana ulaşmasını engeller ve özellikle tiz frekanslarda eşikleri yalancı biçimde kötüleştirir.",
+    "Sonuçta odyogramda gerçekte olmayan bir hava-kemik aralığı ortaya çıkabilir.",
+    "Otoskopide kulak yolu ağzının dar ya da yarık biçiminde olması bir uyarı işaretidir.",
+    "Kulak kepçesini parmakla hafifçe başa doğru bastırıp kanalın kapanıp kapanmadığına bakmak basit bir kontroldür."
+   ],
+   "ayar": {
+    "kollaps": true,
+    "kollaps_cumle": 0
+   }
+  },
+  {
+   "id": "kollaps_ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kulak yolu çökmesi",
+   "baslik": "Örnek: *yalancı* tiz kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: supra-aural",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: normal",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       45,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       15,
+       10,
+       15,
+       null
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      4,
+      15,
+      45
+     ],
+     "etiket": "30 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnekte yaşlı bir hastanın sağ kulağı supra-aural kulaklıkla test edilmiş.",
+    "Kemik yolu eşikleri normal sınırlarda.",
+    "Hava yolunda ise iki bin ve dört bin hertzde yaklaşık yirmi beş ile otuz desibellik bir aralık görülüyor.",
+    "Otoskopide kulak yolu ağzı yarık biçiminde ve kulak kepçesine bastırınca kanal kapanıyor.",
+    "Yalnız tiz frekanslarda görülen bu iletim tipi aralık beklenmedik bir bulgudur ve çökme şüphesini güçlendirir.",
+    "Doğrulamak için hava yolu, çökmeyi önleyen bir yöntemle yeniden ölçülür."
+   ]
+  },
+  {
+   "id": "kollaps_cozum",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kulak yolu çökmesi",
+   "baslik": "Insert ile *yeniden* ölçüm",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: insert kulaklık",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: aynı",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       15,
+       20,
+       25
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       15,
+       10,
+       15,
+       null
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Aynı kulak insert kulaklıkla yeniden test edildiğinde hava yolu eşikleri kemik yoluna yaklaşıyor.",
+    "Tiz frekanslardaki aralık kayboluyor; demek ki ilk ölçümdeki aralık çökmeden kaynaklanıyordu.",
+    "Bu örnekte hastanın işitmesi normal sınırlar içindedir.",
+    "Çökmeyi önlemenin en etkili yolu insert kulaklık kullanmaktır.",
+    "Insert yoksa kulaklığın yerini ayarlamak ya da kanala kısa bir destek tüpü yerleştirmek gibi yöntemler de tanımlanmıştır.",
+    "Hangi yöntem kullanıldıysa raporda belirtilir."
+   ]
+  },
+  {
+   "id": "supra_yer",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kulaklık yerleşimi",
+   "baslik": "Supra-aural kulaklığı *takmak*",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "kırmızı sağ, mavi sol",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Diyafram kanal ağzının karşısında",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bant başın tepesinde",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Arada saç, küpe, gözlük yok",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "kulaklik",
+     "cumle": 1,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Supra-aural kulaklıkta kırmızı taraf sağ kulağa, mavi taraf sol kulağa takılır.",
+    "Kulaklığın diyaframı, yani sesin çıktığı merkez, kulak yolu ağzının tam karşısına gelmelidir.",
+    "Merkez kaydığında özellikle tiz frekanslarda eşikler olduğundan kötü çıkabilir.",
+    "Baş bandı başın tepesine oturacak biçimde ayarlanır ve yastıklar kulak kepçesine eşit baskıyla yerleşir.",
+    "Yastık ile kulak arasında saç, küpe ya da gözlük sapı kalmamalıdır.",
+    "Kulaklığı test eden kişi takar ve hastadan test sırasında kulaklığa dokunmaması istenir."
+   ]
+  },
+  {
+   "id": "insert_yer",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kulaklık yerleşimi",
+   "baslik": "Insert ucunu *yerleştirmek*",
+   "adimlar": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Uç seç",
+     "metin": "Uygun boy köpük uç",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Sıkıştır",
+     "metin": "Köpüğü yuvarlayıp incelt",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kanalı düzleştir",
+     "metin": "Kepçe yukarı ve geriye",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Yerleştir, tut",
+     "metin": "Hemen tak, genişleyene kadar tut",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Kontrol et",
+     "metin": "Dış yüz kanal ağzında",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Insert kulaklıkta önce kulak yoluna uygun boyda bir köpük uç (foam tip) seçilir; çoğu üreticinin standart ve küçük boyu vardır.",
+     "ses": "Insert kulaklıkta önce kulak yoluna uygun boyda bir köpük uç seçilir; çoğu üreticinin standart ve küçük boyu vardır."
+    },
+    "Köpük parmaklar arasında yuvarlanarak inceltilir ve sıkıştırılır.",
+    "Yetişkinde kulak kepçesi yukarı ve geriye çekilerek kanal düzleştirilir.",
+    "Sıkıştırılmış uç vakit kaybetmeden kulak yoluna yerleştirilir.",
+    "Köpük genişleyip kanalı doldurana kadar uç parmakla yerinde tutulur.",
+    "Doğru yerleşimde köpüğün dış yüzü kulak yolu ağzıyla aynı hizada ya da biraz içeride kalır."
+   ]
+  },
+  {
+   "id": "insert_hata",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kulaklık yerleşimi",
+   "baslik": "Yerleşim *hataları*",
+   "maddeler": [
+    {
+     "metin": "Sığ yerleşim: IA _azalır_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Oklüzyon etkisi _artar_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Uç duvara _dayanmasın_",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Tüp _bükülmesin_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Her hastaya _yeni_ uç",
+     "cumle": 4,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.0
+    }
+   },
+   "cumleler": [
+    "Uç yeterince derine yerleştirilmezse kulaklar arası zayıflama azalır ve çapraz işitme riski artar.",
+    "Sığ yerleşim ayrıca, kemik yolu sırasında karşı kulak kapatıldığında oklüzyon etkisini artırır.",
+    "Uç kanal duvarına dayanırsa ya da köpük tam genişlemezse sesin bir kısmı kaybolabilir.",
+    "Tüpün bükülmesi ya da sıkışması sesin kulağa ulaşmasını azaltır; tüp serbest bırakılmalıdır.",
+    "Köpük uçlar tek kullanımlıktır ve her hastada yenisi kullanılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kulaklık yerleşimi",
+   "baslik": "Klinik ipucu",
+   "metin": "Kulaklıkları taktıktan sonra her kulağa açıkça duyulan kısa bir ton verip hangi kulakta duyulduğunu sorun. Bu kontrol, sağ ve solun karışmasını teste başlamadan yakalar.",
+   "cumleler": [
+    "Bir klinik ipucu: kulaklıkları taktıktan sonra teste geçmeden kısa bir yön kontrolü yapın.",
+    "Önce sağ, sonra sol kulağa açıkça duyulacak bir ton verin ve hastaya sesi hangi kulağında duyduğunu sorun.",
+    "Bu basit kontrol, kulaklıkların ters takılmasını ya da yanlış kanal seçimini teste başlamadan yakalar.",
+    "Ters takılmış bir kulaklık fark edilmezse iki kulağın sonuçları birbirine karışır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Sessiz ortam, _otoskopi_, eşyalar çıkarılır",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Talimat _kulaklıktan önce_, yüz yüze",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Çökme: _yalancı_ tiz aralık",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Insert uç: dış yüzü _kanal ağzında_",
+     "cumle": 3,
+     "ikon": "insert_kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Teste sessiz bir ortamda, anamnez ve otoskopiden sonra ve kulaklığı bozacak eşyalar çıkarılarak başlanır.",
+    "Talimat kulaklıklar takılmadan önce, yüz yüze ve sade bir dille verilir ve anlaşıldığı kontrol edilir.",
+    "Kulak yolu çökmesi, özellikle yaşlılarda tiz frekanslarda yalancı bir hava-kemik aralığı yaratabilir.",
+    "Insert ucun dış yüzü kulak yolu ağzıyla aynı hizada ya da biraz içeride olmalıdır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Yaşlı hasta, supra-aural kulaklık, yalnız tizde hava-kemik aralığı. Önce ne düşünülür?",
+   "secenekler": [
+    "Otoskleroz",
+    "Kulak yolu çökmesi",
+    "Orta kulakta sıvı",
+    "Kemikçik zinciri kopukluğu"
+   ],
+   "dogru": 1,
+   "aciklama": "Çökme tiz frekanslarda _yalancı aralık_ yaratır; insert kulaklıkla yeniden ölçülür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Yaşlı bir hastada supra-aural kulaklıkla yalnız tiz frekanslarda hava-kemik aralığı bulundu. Önce ne düşünülür?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: kulak yolu çökmesi.",
+     "ses": "Doğru cevap be: kulak yolu çökmesi."
+    },
+    "Insert kulaklıkla yapılan yeni ölçüm, aralığın kaybolup kaybolmadığını gösterir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Hava yolu *eşiği* nasıl bulunur?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste hava yolu eşiğinin modifiye Hughson-Westlake yöntemiyle nasıl bulunduğunu öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,256 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R510_I_Kare_ve_Heterojenlik_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #510",
+  "baslik": "Çalışmalar *uyuşuyor mu?*",
+  "alt": "Heterojenlik ve I²",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 14,
+    "adim": 2,
+    "ad": "Ortalama fark (puan); sağ taraf cihaz lehine"
+   },
+   "y": {
+    "min": 0,
+    "max": 7,
+    "adim": 1,
+    "ters": true,
+    "yazilar": {
+     "1": "Çalışma A",
+     "2": "Çalışma B",
+     "3": "Çalışma C",
+     "4": "Çalışma D",
+     "5": "Çalışma E",
+     "6": "Toplam"
+    }
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "noktalar": [
+      [
+       1,
+       1
+      ],
+      [
+       7,
+       1
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "b",
+     "noktalar": [
+      [
+       2.5,
+       2
+      ],
+      [
+       9.5,
+       2
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "c",
+     "noktalar": [
+      [
+       -2,
+       3
+      ],
+      [
+       6,
+       3
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 3
+    },
+    {
+     "ad": "d",
+     "noktalar": [
+      [
+       3,
+       4
+      ],
+      [
+       7,
+       4
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "e",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       13,
+       5
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "tahminler",
+     "tur": "nokta",
+     "noktalar": [
+      [
+       4,
+       1
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       2,
+       3
+      ],
+      [
+       5,
+       4
+      ],
+      [
+       7,
+       5
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 1
+    },
+    {
+     "ad": "elmas",
+     "noktalar": [
+      [
+       3.4,
+       6
+      ],
+      [
+       4.8,
+       5.7
+      ],
+      [
+       6.2,
+       6
+      ],
+      [
+       4.8,
+       6.3
+      ],
+      [
+       3.4,
+       6
+      ]
+     ],
+     "renk": "sari",
+     "dolgu": true,
+     "cumle": 5
+    }
+   ],
+   "bolgeler": [],
+   "isaretler": [
+    {
+     "ad": "sifir",
+     "x": 0,
+     "cizgi": "dikey",
+     "etiket": "etki yok",
+     "cumle": 2
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Meta-analizdeki çalışmaların ne kadar uyuştuğu nasıl ölçülür? #shorts",
+  "aciklama": "Heterojenlik, meta-analizdeki çalışmaların sonuçlarının şansla açıklanamayacak kadar farklı olmasıdır. Sayısal ölçü olarak I² istatistiği verilir; farklılığın ne kadarının gerçek farklardan kaynaklandığını yüzde olarak gösterir. Cochrane el kitabına göre yüzde 40'ın altındaki I² çoğu zaman önemsiz olabilir, yüzde 75'in üzeri ise çok yüksek heterojenlik olarak yorumlanır ve tek bir ortak sonucu sorgulatır; bu sınırlar kaba bir rehberdir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "kanıtadayalı",
+   "araştırma"
+  ],
+  "etiketler": [
+   "meta-analiz",
+   "heterojenlik",
+   "I kare",
+   "Cochrane",
+   "sistematik derleme",
+   "kanıta dayalı odyoloji",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Meta-analizdeki çalışmaların ne kadar uyuştuğu nasıl ölçülür?",
+  "bilgiler": [
+   "Heterojenlik, şansla açıklanamayan farklılıktır.",
+   "I² yüzde 40 altında çoğu zaman önemsiz olabilir.",
+   "Yüzde 75 üzeri çok yüksek heterojenliktir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "kanıtadayalı",
+   "araştırma"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #510",
+   "metin": "Ne kadar *uyuşuyor?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Meta-analizdeki çalışmaların ne kadar uyuştuğu nasıl ölçülür?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Çok yüksek *heterojenlik*",
+   "sayi": "75",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Heterojenlik, sonuçların şansla açıklanamayacak kadar farklı olmasıdır.",
+    {
+     "yazi": "Sayısal ölçüsü I² istatistiğidir; farklılığın gerçek farklardan gelen payını gösterir.",
+     "ses": "Sayısal ölçüsü i kare istatistiğidir; farklılığın gerçek farklardan gelen payını gösterir."
+    },
+    "Cochrane el kitabına göre yüzde kırkın altındaki değer çoğu zaman önemsiz olabilir.",
+    "Yüzde yetmiş beşin üzeri çok yüksektir ve tek ortak sonucu sorgulatır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D299",
+ "kaynak_baslik": "Kanıta dayalı odyoloji: sistematik derleme"
+}

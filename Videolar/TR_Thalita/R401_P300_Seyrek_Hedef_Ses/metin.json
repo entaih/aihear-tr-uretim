@@ -1,0 +1,214 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R401_P300_Seyrek_Hedef_Ses_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #401",
+  "baslik": "Saymanın *dalgası*",
+  "alt": "P300 ve seyrek hedef ses",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -100,
+    "max": 600,
+    "ad": "Zaman (ms)",
+    "isaretler": [
+     0,
+     100,
+     200,
+     300,
+     400,
+     500,
+     600
+    ]
+   },
+   "y": {
+    "min": -6,
+    "max": 12,
+    "adim": 3,
+    "ad": "Genlik (µV)"
+   },
+   "seriler": [
+    {
+     "ad": "sik",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -3.5
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       250,
+       0.5
+      ],
+      [
+       350,
+       0.5
+      ],
+      [
+       450,
+       0
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "cumle": 1
+    },
+    {
+     "ad": "seyrek",
+     "noktalar": [
+      [
+       -100,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       50,
+       0.5
+      ],
+      [
+       100,
+       -4
+      ],
+      [
+       180,
+       2.5
+      ],
+      [
+       230,
+       -1
+      ],
+      [
+       320,
+       9
+      ],
+      [
+       400,
+       5
+      ],
+      [
+       480,
+       1
+      ],
+      [
+       600,
+       0
+      ]
+     ],
+     "renk": "kirmizi",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 2
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "p300",
+     "x": 320,
+     "y": 9,
+     "etiket": "P300",
+     "dus": "x",
+     "cumle": 3
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Seyrek sesleri saymak beyin dalgasını nasıl değiştirir? #shorts",
+  "aciklama": "P300 kaydında kişiden seyrek sesleri sayması ya da her seyrek seste bir düğmeye basması istenir; dikkat edilen hedef seste yaklaşık 300 milisaniye civarında büyük bir pozitif dalga belirir. Hedef ses ne kadar seyrekse P300 o kadar büyük olur; kişi görevi yapmaz ya da dikkati dağılırsa yanıt küçülür veya kaybolur.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "elektrofizyoloji",
+   "beyin"
+  ],
+  "etiketler": [
+   "P300",
+   "oddball paradigması",
+   "bilişsel potansiyeller",
+   "dikkat",
+   "endojen yanıt",
+   "işitsel uyarılmış potansiyel",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Seyrek sesleri saymak beyin dalgasını nasıl değiştirir?",
+  "bilgiler": [
+   "Kişiden seyrek hedef sesleri sayması istenir.",
+   "Hedef seste yaklaşık 300 milisaniyede büyük bir pozitif dalga belirir.",
+   "Dikkat dağılırsa P300 küçülür ya da kaybolur."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "elektrofizyoloji",
+   "beyin"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #401",
+   "metin": "Saymak *ne değiştirir?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Seyrek sesleri saymak beyin dalgasını nasıl değiştirir?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "P300 *latansı*",
+   "sayi": "300",
+   "birim": "ms",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "P300 kaydında kişiden seyrek sesleri sayması istenir.",
+    "Hedef seste yaklaşık üç yüz milisaniyede büyük bir pozitif dalga belirir.",
+    "Hedef ses ne kadar seyrekse bu dalga o kadar büyür.",
+    "Dikkat dağılırsa P300 küçülür ya da kaybolur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D202",
+ "kaynak_baslik": "P300 ve MMN"
+}

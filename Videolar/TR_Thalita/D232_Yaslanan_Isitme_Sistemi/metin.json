@@ -1,0 +1,773 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D232_Yaslanan_Isitme_Sistemi_TR",
+ "kapak": {
+  "ust": "DERS 232",
+  "baslik": "Yaşlanan<br>*işitme sistemi*",
+  "alt": "Periferik ve santral değişiklikler",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "Yaşlanan işitme sistemi: periferik ve santral değişiklikler | Ders 232 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Yaşlanma işitmeyi yalnız kokleada mı etkiler? Bu derste stria vascularis ve sinaps kaybını, santral presbiakuziyi, zamansal işlemlemedeki gerilemeyi, dikotik dinlemedeki değişiklikleri ve yaşlı bireylerin gürültüde konuşmayı anlamakta neden zorlandığını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gates ve Mills (2005), Presbycusis, The Lancet; Dubno ve ark. (2013), Classifying human audiometric phenotypes of age-related hearing loss from animal models, JARO; Committee on Hearing, Bioacoustics and Biomechanics (CHABA, 1988), Speech understanding and aging, JASA; Gordon-Salant ve ark. (ed.), The Aging Auditory System, Springer; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "presbiakuzi",
+   "işitselyaşlanma"
+  ],
+  "etiketler": [
+   "işitsel yaşlanma",
+   "auditory aging",
+   "santral presbiakuzi",
+   "central presbycusis",
+   "zamansal işlemleme",
+   "temporal processing",
+   "presbiakuzi",
+   "koklear sinaptopati",
+   "gürültüde konuşma",
+   "dikotik dinleme",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 232",
+   "baslik": "Yaşlanan *işitme sistemi*",
+   "alt": "Periferik ve santral değişiklikler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste yaşlanmanın kokleadan beyne kadar işitme sistemini nasıl etkilediğini öğreneceğiz.",
+    "Zamansal işlemlemedeki gerilemeyi ve yaşlı bireylerin gürültüde konuşmayı anlamakta neden zorlandığını ele alacağız."
+   ]
+  },
+  {
+   "id": "sistem",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Bütün sistem yaşlanır",
+   "baslik": "Yaşlanma *her basamakta*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Dış, orta kulak",
+     "cumle": 1,
+     "metin": "Buşon, kanal çökmesi"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Koklea",
+     "cumle": 2,
+     "metin": "Tüy hücresi, stria"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Sinir",
+     "cumle": 3,
+     "metin": "Sinaps, ganglion"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Merkezi yollar",
+     "cumle": 4,
+     "metin": "Zamanlama, ketleme"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Biliş",
+     "cumle": 5,
+     "metin": "Bellek, işlem hızı"
+    }
+   ],
+   "cumleler": [
+    "Presbiakuziyi daha önce koklea açısından tanımıştık; bu derste işitsel yaşlanmaya (auditory aging) bütün bir sistem olarak bakacağız.",
+    "Dış kulakta kulak kiri tıkacı ve kanal çökmesi sıklaşır; bunlar kaybın nedeni değil, ama test sonuçlarını bozabilir.",
+    "Koklea, yaşlanmanın en iyi bilinen hedefidir: tüy hücreleri ve stria vascularis etkilenir.",
+    "Tüy hücresi ile sinir lifi arasındaki sinapslar ve spiral ganglion nöronları da yaşla azalır.",
+    "Beyin sapından kortekse uzanan merkezi yollarda zamanlama hassasiyeti ve ketleyici denge değişir.",
+    "Son olarak çalışma belleği ve işlem hızı gibi bilişsel işlevler, duyulan sesin anlamlandırılmasını etkiler."
+   ]
+  },
+  {
+   "id": "stria",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periferik değişiklikler",
+   "baslik": "Yaşlanan *pil*: stria vascularis",
+   "cizim": "koklea_kesit",
+   "ayar": {
+    "potasyum": true,
+    "potasyum_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "stria_vaskularis",
+     "metin": "stria vascularis",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenf",
+     "metin": "endolenf",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "stria_vaskularis",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Endokoklear potansiyel düşer",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Güçlendirme zayıflar",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Gürültü olmadan da görülür",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "Stria vascularis, endolenfteki yüksek potasyumu ve endokoklear potansiyeli üreten dokudur.",
+    "Ekrandaki oklar potasyumun koklea içindeki döngüsünü gösteriyor; stria bu döngünün pompasıdır.",
+    "Sessiz ortamda yaşlandırılmış hayvanlarda strianın damarları ve hücreleri azalır, endokoklear potansiyel düşer.",
+    "Potansiyel düştüğünde dış tüy hücrelerinin güçlendirmesi geniş bir frekans aralığında zayıflar.",
+    "Bu durum gürültü hasarı olmadan da görülebildiği için yaşlanmanın kendine özgü bir bileşeni sayılır.",
+    {
+     "yazi": "Gates ve Mills'in 2005 tarihli derlemesi, bu metabolik bileşeni yaşa bağlı işitme kaybının önemli bir nedeni olarak öne çıkarır.",
+     "ses": "Geyts ve Mils'in 2005 tarihli derlemesi, bu metabolik bileşeni yaşa bağlı işitme kaybının önemli bir nedeni olarak öne çıkarır."
+    }
+   ]
+  },
+  {
+   "id": "sinaps",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periferik değişiklikler",
+   "baslik": "Önce *sinapslar* gider",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "iç tüy hücresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "sinapslar ve sinir lifleri",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "dış tüy hücreleri",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sinaps kaybı erken başlar",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Odyogram değişmeyebilir",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Gürültüde anlama zorlaşır",
+     "cumle": 4,
+     "ikon": "gurultu"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Uzun süre yaşlanmanın en erken izinin tüy hücresi kaybı olduğu düşünüldü.",
+    "Hayvan çalışmaları ve insan temporal kemik incelemeleri ise iç tüy hücresi sinapslarının, tüy hücrelerinden önce azalabildiğini gösterdi.",
+    "Bu kayba yaşa bağlı koklear sinaptopati denir; ardından spiral ganglion nöronları da azalır.",
+    "Sinaps kaybı odyogramı tek başına pek değiştirmez; çünkü eşiği belirleyen lifler büyük ölçüde korunur.",
+    "Ancak gürültüde ve yüksek şiddette sesi kodlayan lifler azaldığı için konuşmayı anlamak zorlaşabilir.",
+    "Bu bulgular, odyogramı benzer iki yaşlı kişinin günlük yaşamda neden çok farklı zorlandığını açıklamaya yardım eder."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periferik değişiklikler",
+   "baslik": "Elektrofizyolojide *iz*",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "dalga I: işitme siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "dalga V",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dalga I genliği azalabilir",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bireysel değişkenlik büyük",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Şimdilik araştırma göstergesi",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "Yaşlanmanın sinirsel bileşeni elektrofizyolojik testlerde de izlenebilir.",
+    "İşitsel beyin sapı yanıtının, kısaca ABR'nin birinci dalgası işitme sinirinden kaynaklanır.",
+    "Hayvanlarda ve bazı insan çalışmalarında, yüksek şiddette bu dalganın genliği yaşla birlikte azalır.",
+    "Genlik azalması, eşikler benzer olsa bile, sinire ulaşan eş zamanlı yanıtın zayıfladığını düşündürür.",
+    "Ancak genlik kişiden kişiye çok değişir ve kulak yolu, cinsiyet gibi etkenlerden de etkilenir.",
+    "Bu yüzden bu bulgu bugün bireysel tanıdan çok araştırmada kullanılan bir göstergedir."
+   ]
+  },
+  {
+   "id": "fenotip",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periferik değişiklikler",
+   "baslik": "Odyogramdaki *izler*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Metabolik",
+     "cumle": 1,
+     "metin": "Düz, hafif eğimli kayıp"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Duyusal",
+     "cumle": 2,
+     "metin": "Tizde dik düşüş"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Karışık",
+     "cumle": 3,
+     "metin": "İkisi birlikte"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Yaşlı ama normal",
+     "cumle": 4,
+     "metin": "Eşikler korunmuş"
+    }
+   ],
+   "cumleler": [
+    "Hayvan modellerinden yola çıkan araştırmacılar, insan odyogramlarını da benzer gruplara ayırmayı denemiştir.",
+    "Dubno ve arkadaşlarının 2013 çalışmasında metabolik görünüm, alçak frekanslarda hafif ve tize doğru yavaşça artan kayıpla tanımlandı.",
+    "Duyusal görünümde alçak frekanslar korunurken yüksek frekanslarda dik bir düşüş vardır; bu görünüm gürültü öyküsüyle ilişkilidir.",
+    "Pek çok kişide iki görünüm birlikte bulunur.",
+    "Yaşlı olduğu halde eşikleri büyük ölçüde korunan kişiler de vardır; yaş tek başına kaderi belirlemez.",
+    "Bu yaklaşım, daha önce gördüğümüz Schuknecht tiplerini insan odyogramıyla ilişkilendirmeye çalışan güncel bir bakıştır."
+   ]
+  },
+  {
+   "id": "santral",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Santral değişiklikler",
+   "baslik": "*Santral* presbiakuzi",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "işitsel korteks",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "metin": "koklea",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ketleyici iletim azalır",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Eş zamanlılık bozulur",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Odyogram açıklamaz",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Yaşlanma yalnızca kokleayı değil, kokleadan kortekse uzanan merkezi işitme yollarını da etkiler.",
+    "Hayvan çalışmalarında yaşla birlikte inferior kollikulus ve işitsel kortekste ketleyici, yani baskılayıcı iletimin azaldığı gösterilmiştir.",
+    "Ketlemenin azalması, nöronların zamanlamasını ve yanıtlarının keskinliğini bozar.",
+    "Nöral yanıtların zaman içindeki eş zamanlılığı da azalır; bu da sesin hızlı değişen özelliklerinin kodlanmasını zorlaştırır.",
+    "Santral presbiakuzi (central presbycusis), kişinin odyogramıyla açıklanamayan işitsel işlemleme güçlüğünü anlatmak için kullanılır.",
+    "Ancak periferik kayıp, santral değişiklikler ve bilişsel yaşlanma çoğu kişide iç içedir; bunları birbirinden ayırmak kolay değildir."
+   ]
+  },
+  {
+   "id": "zamansal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Santral değişiklikler",
+   "baslik": "*Zamansal* işlemleme",
+   "cizim": "atim_dizisi",
+   "ayar": {
+    "frekans_hz": 500,
+    "periyot": 6,
+    "ates": [
+     1,
+     0,
+     1,
+     1,
+     0,
+     1
+    ],
+    "cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "atimlar",
+     "metin": "sinir atımları",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga",
+     "metin": "ses dalgası",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "evre",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Zamansal işlemleme (temporal processing), sesin zaman içindeki değişimlerini algılama ve kullanma yeteneğidir.",
+    "Sinir lifleri alçak frekanslı seslerde dalganın belirli evresine kilitlenerek ateşlenir; buna faz kilitlenmesi denir.",
+    "Bu kilitlenme, sesin zamansal ince yapısını taşır; perde algısı ve gürültüde konuşmayı ayırmak için önemlidir.",
+    "Yaşla birlikte bu kilitlenmenin hassasiyeti azalır; atımlar dalganın evresine daha gevşek bağlanır.",
+    "Çalışmalar, zamansal ince yapıya duyarlılığın odyogramı normal olan yaşlılarda bile azalabildiğini göstermiştir.",
+    "Yani yaşlanmanın bir kısmı, odyogramın hiç ölçmediği bir boyutta gerçekleşir."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Santral değişiklikler",
+   "baslik": "Boşluğu *duymak*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 3.5,
+     "ad": " ",
+     "isaretler": [
+      1,
+      2,
+      3
+     ],
+     "yazilar": {
+      "1": "Genç",
+      "2": "Yaşlı, eşik normal",
+      "3": "Yaşlı, kayıplı"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Boşluk eşiği (temsili, ms)"
+    },
+    "seriler": [
+     {
+      "ad": "genc",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        1,
+        3
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "kısa",
+      "etiket_konum": [
+       1,
+       3
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "yasli_normal",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        2,
+        5.5
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "daha uzun",
+      "etiket_konum": [
+       2,
+       5.5
+      ],
+      "cumle": 3
+     },
+     {
+      "ad": "yasli_kayip",
+      "tur": "cubuk",
+      "genislik": 0.5,
+      "noktalar": [
+       [
+        3,
+        6.5
+       ]
+      ],
+      "renk": "kirmizi",
+      "etiket": "daha uzun",
+      "etiket_konum": [
+       3,
+       6.5
+      ],
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Zamansal çözünürlüğün klasik ölçüsü boşluk saptamadır: bir gürültünün içindeki çok kısa sessizliği fark etmek.",
+    "Grafikteki çubuklar temsili değerlerdir; kişinin fark edebildiği en kısa boşluğu, yani boşluk eşiğini gösterir.",
+    "Gençlerde bu eşik genellikle birkaç milisaniyedir.",
+    "Yaşlı dinleyicilerde, odyogramları benzer olsa bile, eşik ortalama olarak daha uzundur.",
+    "Benzer bir gerileme süre ayırt etmede, hızlandırılmış konuşmayı ve yankılı ortamdaki konuşmayı anlamada da görülür.",
+    "Konuşmadaki ünsüzlerin ayrılması, örneğin kapanma sesindeki kısa sessizlik, bu zamansal ipuçlarına dayanır."
+   ]
+  },
+  {
+   "id": "dikotik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Santral değişiklikler",
+   "baslik": "İki kulak, *bir beyin*",
+   "cizim": "beyin_ustten",
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "yedi",
+     "dört"
+    ],
+    "yol_cumleleri": {
+     "capraz_yol_sag": 1,
+     "capraz_yol_sol": 2,
+     "kallozal_yol": 2
+    }
+   },
+   "etiketler": [
+    {
+     "parca": "corpus_callosum",
+     "metin": "corpus callosum",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "corpus_callosum",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Dikotik dinlemede iki kulağa aynı anda farklı sözcükler verilir.",
+    "Sağ kulaktan gelen sözcük çapraz yolla doğrudan dil işlemlemesinin baskın olduğu sol yarıküreye ulaşır.",
+    "Sol kulaktan gelen sözcük ise önce sağ yarıküreye gider ve sol yarıküreye ulaşmak için corpus callosumu geçmek zorundadır.",
+    "Yaşla birlikte corpus callosumdaki değişikliklerle sol kulak performansı daha çok düşer ve sağ kulak üstünlüğü artar.",
+    "Bu bulgu, yaşlanmanın yalnız kulağı değil, iki yarıküre arasındaki iletişimi de etkilediğini gösterir.",
+    "Dikotik testler bu nedenle yaşlı bireylerde santral işlemlemeyi değerlendirmede kullanılan araçlardandır."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültüde konuşma",
+   "baslik": "Gürültüde neden *zorlanır?*",
+   "maddeler": [
+    {
+     "metin": "Duyulabilirlik: tiz ünsüzler kaybolur",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Zamansal ipuçları bulanıklaşır",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Ses kaynaklarını ayırmak zorlaşır",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Bilişsel kaynaklar zorlanır",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Dinleme çabası ve yorgunluk",
+     "cumle": 4,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 2,
+    "ayar": {
+     "mod": "golge",
+     "gurultu_yonu": "sol"
+    }
+   },
+   "cumleler": [
+    "Gürültüde konuşmayı anlama güçlüğünün ilk nedeni, tiz ünsüzlerin yeterince duyulmamasıdır.",
+    "İkinci neden, zamansal ipuçlarının ve ince yapının daha az hassas kodlanmasıdır.",
+    "Bu ipuçları, aynı anda konuşan iki kişinin seslerini birbirinden ayırmak için gereklidir.",
+    "Üçüncüsü, eksik duyulanı bağlamdan tamamlamak için çalışma belleği ve işlem hızı gibi bilişsel kaynaklara daha çok ihtiyaç duyulmasıdır.",
+    "Bütün bunlar dinleme çabasını artırır; kalabalık bir akşam yemeğinden sonra yaşlı kişinin yorgun düşmesi bu yüzdendir.",
+    "Bu nedenle iki kişinin odyogramı aynı olsa da gürültüdeki performansları çok farklı olabilir."
+   ]
+  },
+  {
+   "id": "bilis",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Gürültüde konuşma",
+   "baslik": "Bilişin *payı*",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Çalışma belleği",
+     "cumle": 0,
+     "metin": "Duyulanı aklında tutmak"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "İşlem hızı",
+     "cumle": 1,
+     "metin": "Hızlı konuşmayı izlemek"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Dikkat ve ketleme",
+     "cumle": 2,
+     "metin": "Arka planı bastırmak"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Dil bilgisi",
+     "cumle": 3,
+     "metin": "Bağlamı kullanmak"
+    }
+   ],
+   "cumleler": [
+    "Çalışma belleği, duyulan cümleyi anlamı oluşana kadar akılda tutmayı sağlar ve yaşla genellikle azalır.",
+    "İşlem hızı yavaşladığında hızlı konuşmayı izlemek zorlaşır.",
+    "Dikkat ve ketleme, arka plandaki konuşmayı bastırıp hedef konuşmacıya odaklanmayı sağlar.",
+    "Buna karşın sözcük bilgisi ve bağlamı kullanma becerisi yaşla çoğu zaman korunur, hatta güçlenir.",
+    "Bu yüzden yaşlı dinleyiciler anlamlı ve tahmin edilebilir cümlelerden belirgin biçimde daha çok yararlanır.",
+    "İşitme ile biliş arasındaki bu sıkı ilişki, bir sonraki dersin konusu olan demans tartışmasının da temelidir."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinikte",
+   "baslik": "Değerlendirmede *neler?*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Saf ses",
+     "cumle": 0,
+     "metin": "Yüksek frekanslar dahil"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Sessizde konuşma",
+     "cumle": 1,
+     "metin": "Kelime tanıma"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültüde konuşma",
+     "cumle": 2,
+     "metin": "Günlük zorluğa en yakın"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Santral testler",
+     "cumle": 3,
+     "metin": "Dikotik, zamansal"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Anket",
+     "cumle": 4,
+     "metin": "Kişinin kendi bakışı"
+    }
+   ],
+   "cumleler": [
+    "Değerlendirme, mümkünse 8000 Hz'in üzerini de içeren saf ses odyometrisiyle başlar.",
+    "Sessiz ortamda kelime tanıma skoru, en iyi koşuldaki anlama kapasitesini gösterir.",
+    "Gürültüde konuşma testleri ise yaşlı bireyin günlük yaşamdaki zorluğunu çok daha iyi yansıtır.",
+    "Gerekli görülen kişilerde dikotik testler ve boşluk saptama gibi zamansal testler eklenebilir.",
+    "Kişinin kendi bildirdiği zorluklar standart anketlerle kaydedilir; çünkü testler her durumu yakalayamaz.",
+    "Bu bilgiler, yalnız işitme cihazı değil, iletişim stratejileri ve uzak mikrofon gibi destekleri de planlamaya yardım eder."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yaşlı bireyle konuşurken daha yüksek değil, daha yavaş ve net konuşun; cümleler arasında kısa duraklar verin. Bunu aileye de öğretin.",
+   "cumleler": [
+    "Sahadan bir ipucu: yaşlı bir bireyle konuşurken sesinizi yükseltmek yerine daha yavaş ve net konuşun.",
+    "Cümleler arasında kısa duraklar vermek, zamansal işlemleme ve çalışma belleğine zaman tanır.",
+    "Bağırmak sesi bozar ve rahatsızlık verir; yavaş ve net konuşma ise anlamayı çoğu zaman belirgin biçimde artırır.",
+    "Bu stratejiyi aile bireylerine görüşmede uygulamalı olarak gösterin; evdeki iletişime en hızlı katkıyı sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Yaşlanma kokleadan kortekse uzanır",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Stria ve sinaps kaybı önemli bileşenler",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Zamansal işlemleme yaşla geriler",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Gürültüde zorluk: işitme ve biliş",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "cumleler": [
+    "İşitsel yaşlanma yalnızca kokleayı değil, sinir liflerini, merkezi yolları ve bilişsel işlevleri de kapsar.",
+    "Stria vascularis zayıflaması ve sinaps kaybı, tüy hücresi kaybının yanında yaşlanmanın önemli bileşenleridir.",
+    "Faz kilitlenmesi, boşluk saptama ve dikotik dinleme gibi zamansal ve santral beceriler yaşla geriler.",
+    "Gürültüde konuşmayı anlama güçlüğü; duyulabilirlik, zamansal işlemleme ve bilişsel kaynakların birlikte etkisidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Odyogramı normal olan yaşlı bir kişide gürültüde anlama güçlüğünü en iyi hangisi açıklayabilir?",
+   "secenekler": [
+    "Orta kulak sertliği",
+    "Sinaps kaybı ve zamansal gerileme",
+    "Kulak kiri",
+    "Dış kulak rezonansı"
+   ],
+   "dogru": 1,
+   "aciklama": "Sinaps kaybı ve zamansal işlemleme gerilemesi _odyogramda görünmeyebilir_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: odyogramı normal olan yaşlı bir kişide gürültüde anlama güçlüğünü en iyi hangisi açıklayabilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: sinaps kaybı ve zamansal işlemlemedeki gerileme.",
+    "Bu değişiklikler eşikleri belirgin biçimde etkilemeden konuşmanın gürültüde kodlanmasını bozabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitme kaybı ve *demans*: kanıtlar ne diyor?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste işitme kaybı ile demans arasındaki ilişkiye dair kanıtları birlikte okuyacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

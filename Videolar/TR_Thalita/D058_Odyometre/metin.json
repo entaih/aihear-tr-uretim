@@ -1,0 +1,710 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D058_Odyometre_TR",
+ "kapak": {
+  "ust": "DERS 58",
+  "baslik": "Odyometre nasıl<br>*çalışır?*",
+  "alt": "Kontroller ve transdüserler",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Odyometre Nasıl Çalışır? Kontroller ve Transdüserler | Ders 58 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyometre, kalibre edilmiş test sesleri üreten ve bunları kulaklık, kemik vibratörü ya da hoparlörle ileten bir cihazdır. Bu derste frekans, şiddet, sunum ve çıkış kontrollerini, sıfır dB HL ve kalibrasyonu, sürekli ve darbeli tonu, supra-aural ve insert kulaklıkları, kemik vibratörünü ve serbest alan hoparlörünü karşılaştırıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; IEC 60645-1, Electroacoustics - Audiometric equipment - Part 1: Equipment for pure-tone and speech audiometry; ANSI S3.6, Specification for Audiometers; ISO 389 serisi, Acoustics - Reference zero for the calibration of audiometric equipment.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "işitme"
+  ],
+  "etiketler": [
+   "odyometre",
+   "audiometer",
+   "supra-aural kulaklık",
+   "insert kulaklık",
+   "insert earphone",
+   "kemik vibratörü",
+   "bone vibrator",
+   "serbest alan",
+   "kalibrasyon",
+   "saf ses odyometrisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 58",
+   "baslik": "Odyometre nasıl *çalışır?*",
+   "alt": "Kontroller ve transdüserler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste saf ses odyometrisinin temel aracı olan odyometreyi ve kontrollerini tanıyacağız.",
+    "Sesi kulağa ileten transdüserleri, yani kulaklıkları, kemik vibratörünü ve hoparlörü karşılaştıracağız."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odyometre",
+   "baslik": "*Odyometre* nedir?",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "odyometre",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "kulaklık: hava yolu",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "kemik vibratörü",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "hasta yanıt butonu",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "cihaz",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 2
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Odyometre (audiometer), belirli frekans ve şiddette, kalibre edilmiş test sesleri üreten elektronik bir cihazdır.",
+     "ses": "Odyometre, belirli frekans ve şiddette, kalibre edilmiş test sesleri üreten elektronik bir cihazdır."
+    },
+    "Ürettiği sesler transdüserler, yani dönüştürücüler aracılığıyla kulağa ya da kafatasına iletilir.",
+    "Hava yolu testinde kulaklıklar, kemik yolu testinde kemik vibratörü kullanılır.",
+    "Hasta sesi duyduğunda yanıt butonuna basar ve cihazdaki ışık yanar.",
+    "Odyometrelerin özellikleri ve doğruluğu uluslararası standartlarla tanımlanır.",
+    "Standartlar odyometreleri, en kapsamlı klinik cihazlardan yalnız hava yolu ölçen tarama cihazlarına kadar farklı tiplere ayırır."
+   ]
+  },
+  {
+   "id": "kontroller",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odyometre",
+   "baslik": "Temel *kontroller*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frekans",
+     "metin": "Tonun frekansı (Hz)",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Şiddet (attenuatör)",
+     "metin": "Düzey, dB HL",
+     "cumle": 2
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Ton sunum tuşu",
+     "metin": "Sesi verir, keser",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Çıkış seçici",
+     "metin": "Sağ, sol, kemik, hoparlör",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "İkinci kanal",
+     "metin": "Karşı kulağa gürültü",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Her odyometrede birkaç temel kontrol bulunur.",
+    "Frekans kontrolü test tonunun frekansını seçer; hava yolunda genellikle yüz yirmi beş ile sekiz bin hertz arası kullanılabilir.",
+    "Şiddet kontrolü, yani attenuatör, düzeyi desibel HL cinsinden ve çoğu cihazda beşer desibellik adımlarla değiştirir.",
+    "Ton sunum tuşu sesi istenen anda ve istenen süre boyunca verir.",
+    "Çıkış seçici sesin sağ ya da sol kulaklığa, kemik vibratörüne ya da hoparlöre gönderilmesini sağlar.",
+    "İki kanallı cihazlarda ikinci kanal, karşı kulağa maskeleme gürültüsü vermek için kullanılır."
+   ]
+  },
+  {
+   "id": "sifir_db",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odyometre",
+   "baslik": "Sıfır dB HL ve *kalibrasyon*",
+   "maddeler": [
+    {
+     "metin": "0 dB HL: normal işitenlerin _ortalama_ eşiği",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Her frekans ve transdüserin _kendi_ referansı",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Her gün kısa _dinleme_ kontrolü",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Düzenli _ölçümlü_ kalibrasyon",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "vurgula": [
+     {
+      "parca": "fisilti",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Odyometrenin sıfır desibel HL değeri sessizlik değil, genç ve normal işiten kişilerin ortalama eşiğidir.",
+    "Bu sıfır noktası her frekans ve her transdüser için farklı bir ses basınç düzeyine karşılık gelir; bu değerler standartlarda verilir.",
+    "Böylece odyogramda normal işitme, tüm frekanslarda sıfır çizgisi çevresinde düz bir eğri olarak görünür.",
+    "Cihazın her gün kısa bir dinleme kontrolüyle denetlenmesi önerilir.",
+    "Ayrıca odyometre genellikle yılda en az bir kez ölçüm cihazlarıyla kalibre edilir.",
+    "Kalibrasyonu bozuk bir cihazla bulunan eşikler, yöntem ne kadar doğru olursa olsun yanlış olur."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odyometre",
+   "baslik": "Konuşma ve *iletişim* bölümleri",
+   "maddeler": [
+    {
+     "metin": "Konuşma girişi: _mikrofon_ ve kayıt",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "VU göstergesi: konuşma _düzeyi_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Maskeleme _gürültüleri_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Kabinle _konuşma_ düzeneği",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Klinik odyometrelerde konuşma testleri için mikrofon girişi ve kayıtlı materyal girişi de bulunur.",
+    "Konuşmanın düzeyi, VU göstergesi denen bir ölçerle izlenir ve ayarlanır.",
+    "Maskeleme için dar bant gürültü, konuşma gürültüsü ve geniş bant gürültü gibi seçenekler vardır.",
+    "Kabin ile kontrol odası arasında karşılıklı konuşmayı sağlayan bir düzenek de bulunur.",
+    "Bu bölümleri konuşma odyometrisi ve maskeleme derslerinde ayrıntılı kullanacağız."
+   ]
+  },
+  {
+   "id": "sunum",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odyometre",
+   "baslik": "Ton *sunum* biçimleri",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Sürekli ton",
+     "metin": "Tuş basılıyken kesintisiz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Darbeli ton",
+     "metin": "Kısa aralıklarla açılıp kapanır",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Fark etme",
+     "metin": "Darbeli ton fark etmeyi kolaylaştırır",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitusta",
+     "metin": "Çınlamadan ayırt etmeye yardım",
+     "cumle": 4
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Serbest alan",
+     "metin": "Frekans modülasyonlu ton",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Test tonu sürekli ya da darbeli olarak verilebilir; iki biçim de klinikte kullanılır.",
+    "Sürekli ton, ton tuşu basılı kaldığı sürece kesintisiz çalar.",
+    "Darbeli tonda ise ses, saniyede birkaç kez kısa aralıklarla açılıp kapanır.",
+    "Darbeli tonlar birçok hastada sesin fark edilmesini kolaylaştırır.",
+    "Özellikle tinnitusu olan hastalarda darbeli ton, test sesinin çınlamadan ayırt edilmesine yardım eder.",
+    "Hoparlörden yapılan testlerde ise frekansı hafifçe salınan, frekans modülasyonlu tonlar kullanılır.",
+    "Ton her zaman yumuşak açılıp kapanır, böylece tık sesi oluşmaz; önemli olan aynı hastada tutarlı bir biçim kullanmaktır."
+   ]
+  },
+  {
+   "id": "supra",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Transdüserler",
+   "baslik": "*Supra-aural* kulaklık",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kulaklik",
+     "metin": "supra-aural kulaklık",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "IA yaklaşık 40 dB",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Çökme riski",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sınırlı gürültü yalıtımı",
+     "cumle": 5,
+     "ikon": "gurultu"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "kulaklik",
+     "cumle": 0,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Supra-aural kulaklık (supra-aural earphone), yani kulak üstü kulaklık, kulak kepçesinin üzerine oturan yastıklı bir kulaklıktır.",
+    {
+     "yazi": "Klinikte uzun yıllardır kullanılan modeller arasında TDH-39 ve DD45 bulunur.",
+     "ses": "Klinikte uzun yıllardır kullanılan modeller arasında te de ha otuz dokuz ve de de kırk beş bulunur."
+    },
+    "Takması kolay ve hızlıdır; kulak yoluna bir şey yerleştirilmediği için kulak yolu hassas olan kişilerde de rahatça kullanılır.",
+    "Kulaklar arası zayıflaması düşüktür, yaklaşık kırk desibel; bu yüzden maskeleme daha sık gerekir.",
+    "Kulaklığın baskısı bazı kişilerde kulak yolunun çökmesine (collapsing ear canal) yol açabilir.",
+    "Kulak yastığı ortam gürültüsünü ancak sınırlı ölçüde azaltır."
+   ]
+  },
+  {
+   "id": "insert",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Transdüserler",
+   "baslik": "*Insert* kulaklık",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "kopuk_uc",
+     "metin": "Köpük uç kulak yolunda",
+     "cumle": 0
+    },
+    {
+     "parca": "ses_tupu",
+     "metin": "İnce ses tüpü",
+     "cumle": 0
+    },
+    {
+     "parca": "transduser",
+     "metin": "Transdüser",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kopuk_uc",
+     "cumle": 0
+    },
+    {
+     "parca": "transduser",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "IA yaklaşık 55 dB",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Çökmeyi önler",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Tek kullanımlık uç",
+     "cumle": 4,
+     "ikon": "enfeksiyon"
+    }
+   ],
+   "cumleler": [
+    "Insert kulaklık (insert earphone), yani kulak içi kulaklık, sesi ince bir tüp ve köpük bir uç aracılığıyla kulak yoluna verir.",
+    {
+     "yazi": "Klinikte yaygın modeller arasında ER-3A ve IP30 bulunur.",
+     "ses": "Klinikte yaygın modeller arasında e re üç a ve ı pe otuz bulunur."
+    },
+    "Kulaklar arası zayıflaması daha yüksektir; temkinli değer yaklaşık elli beş desibeldir ve pes frekanslarda daha da yüksektir.",
+    "Kulak yolunu açık tuttuğu için çökmeyi önler ve ortam gürültüsünü daha iyi yalıtır.",
+    "Köpük uçlar tek kullanımlıktır; bu hijyen açısından da bir avantajdır.",
+    "Ancak kulak yolunda akıntı varsa ya da kulak yolu gelişmemişse, yani atrezi varsa kullanılamayabilir."
+   ],
+   "ayar": {
+    "insert": true
+   }
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Transdüserler",
+   "baslik": "Supra-aural mı, *insert* mi?",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Supra-aural",
+     "metin": "Takması hızlı ve kolay",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Düşük IA",
+     "metin": "Yaklaşık 40 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Çökme riski",
+     "metin": "Kulak yolu çökebilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Insert",
+     "metin": "IA yaklaşık 55 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "İyi yalıtım",
+     "metin": "Çökmeyi önler",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Doğru yerleşim",
+     "metin": "Uç boyu ve derinliği önemli",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İki kulaklık türünün de klinikte yeri vardır; seçim hastaya ve teste göre yapılır.",
+    "Supra-aural kulaklık hızlı takılır ve kulak yoluna bir şey yerleştirmek gerekmez.",
+    "Buna karşılık kulaklar arası zayıflaması düşüktür ve çökme riski taşır.",
+    "Insert kulaklık maskeleme ihtiyacını azaltır, çökmeyi önler ve ortam gürültüsünü daha iyi yalıtır.",
+    "Ancak doğru boyda uç seçmek ve ucu yeterli derinlikte yerleştirmek gerekir.",
+    "Supra-aural kulaklıklar uzun süredir yaygın olarak kullanılır; insert kulaklıkların kullanımı da giderek artmaktadır."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Transdüserler",
+   "baslik": "Kulaklık ve *çapraz işitme*",
+   "cizim": "maskeleme",
+   "ayar": {
+    "ia_db": 40,
+    "test_kulak": "sag"
+   },
+   "etiketler": [
+    {
+     "parca": "test_kulagi",
+     "metin": "test kulağı",
+     "cumle": 0
+    },
+    {
+     "parca": "karsi_kulak",
+     "metin": "karşı kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "metin": "IA: 40 dB",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklar_arasi_zayiflama",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Kulaklık türü, test sesinin karşı kulağa ne kadar kolay geçtiğini belirler.",
+    "Supra-aural kulaklıkta yetmiş desibellik bir ses, kırk desibellik zayıflamayla karşı kokleaya yaklaşık otuz desibel olarak ulaşabilir.",
+    "Insert kulaklıkta aynı ses en az elli beş desibel zayıflar ve karşıya yaklaşık on beş desibel olarak ulaşır.",
+    "Bu yüzden insert kulaklıkla, özellikle asimetrik kayıplarda maskeleme gereken frekans sayısı azalır.",
+    "Maskeleme kurallarını ileride ayrı derslerde ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "vibrator",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Transdüserler",
+   "baslik": "Kemik *vibratörü*",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "kemik vibratörü",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Mastoid ya da alın",
+     "cumle": 2,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Genellikle 250 ile 4000 Hz",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "IA yaklaşık 0 dB",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 0,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Kemik vibratörü (bone vibrator), elektrik sinyalini kafatasına iletilen mekanik titreşime dönüştürür.",
+     "ses": "Kemik vibratörü, elektrik sinyalini kafatasına iletilen mekanik titreşime dönüştürür."
+    },
+    {
+     "yazi": "Klinikte yaygın modeller arasında B-71 ve B-81 bulunur.",
+     "ses": "Klinikte yaygın modeller arasında be yetmiş bir ve be seksen bir bulunur."
+    },
+    "Vibratör bir kafa bandıyla mastoide ya da alına yerleştirilir.",
+    "Verebileceği en yüksek düzey hava yolu kulaklıklarından çok daha düşüktür ve test aralığı genellikle iki yüz elli ile dört bin hertzdir.",
+    "Kemik yolunda kulaklar arası zayıflama yaklaşık sıfırdır; bu yüzden maskesiz kemik yolu iki kokleadan daha iyi olanını yansıtır."
+   ]
+  },
+  {
+   "id": "hoparlor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Transdüserler",
+   "baslik": "*Serbest alan* hoparlörü",
+   "maddeler": [
+    {
+     "metin": "Ses kabindeki _hoparlörden_",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Modülasyonlu ton ya da _dar bant_ gürültü",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sonuç _iyi kulağı_ yansıtır",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Çocuklar ve _cihazlı_ ölçüm",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SERBEST ALAN",
+    "metin": "Sonuç *daha iyi duyan* kulağı gösterir",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Serbest alan testinde ses, kulaklık yerine kabindeki hoparlörden verilir.",
+    "Hasta hoparlöre belirli bir uzaklıkta ve açıda oturur; kalibrasyon da bu dinleme noktasına göre yapılır.",
+    "Odada duran dalgalar oluşmasın diye saf ton yerine frekans modülasyonlu ton ya da dar bant gürültü kullanılır.",
+    "Ses iki kulağa birden ulaştığı için sonuç, daha iyi duyan kulağın işitmesini yansıtır.",
+    "Serbest alan, kulaklık takmayan küçük çocuklarda ve işitme cihazı ya da implantla yapılan ölçümlerde kullanılır.",
+    "Hastanın başının konumu değişirse kulağa ulaşan ses düzeyi de değişir; bu yüzden oturma yeri sabit tutulur."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Transdüserler",
+   "baslik": "Klinik ipucu",
+   "metin": "Güne başlamadan her kulaklığı ve vibratörü kısa bir dinleme kontrolünden geçirin. Kablo çıtırtısı, sağ ve solun karışması ya da ses kaybı sonuçları sessizce bozabilir.",
+   "cumleler": [
+    "Bir klinik ipucu: her sabah ilk hastadan önce odyometreye kısa bir dinleme kontrolü yapın.",
+    "Her kulaklıkta ve vibratörde birkaç frekansı düşük düzeyde dinleyin ve sağ ile solun doğru taraftan geldiğini doğrulayın.",
+    "Kabloları hafifçe oynatarak çıtırtı ya da ses kesilmesi olup olmadığını kontrol edin.",
+    "Bu kısa kontrol, gün boyu yapılacak tüm ölçümlerin güvenilirliğini korur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kontroller: _frekans_, şiddet, sunum, çıkış",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "0 dB HL: normal işitenlerin _ortalama_ eşiği",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Insert: _daha yüksek_ IA, çökme yok",
+     "cumle": 2,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Kemik vibratöründe IA _yaklaşık 0 dB_",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "cumleler": [
+    "Odyometrenin temel kontrolleri frekans, şiddet, ton sunumu ve çıkış seçimidir.",
+    "Sıfır desibel HL, normal işiten gençlerin ortalama eşiğidir ve her transdüser için ayrı kalibre edilir.",
+    "Insert kulaklık, supra-aural kulaklığa göre daha yüksek kulaklar arası zayıflama sağlar ve çökmeyi önler.",
+    "Kemik vibratöründe kulaklar arası zayıflama yaklaşık sıfırdır; serbest alan sonucu ise daha iyi duyan kulağı yansıtır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Hangi transdüserde kulaklar arası zayıflama en yüksektir?",
+   "secenekler": [
+    "Supra-aural kulaklık",
+    "Insert kulaklık",
+    "Kemik vibratörü",
+    "Serbest alan hoparlörü"
+   ],
+   "dogru": 1,
+   "aciklama": "Temkinli IA değeri insertte yaklaşık _55 dB_, supra-auralda 40 dB, vibratörde 0 dB.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Hangi transdüserde kulaklar arası zayıflama en yüksektir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: insert kulaklık.",
+     "ses": "Doğru cevap be: insert kulaklık."
+    },
+    "Temkinli değer insert kulaklıkta yaklaşık elli beş, supra-aural kulaklıkta kırk, kemik vibratöründe sıfır desibeldir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Saf ses odyometrisine *hazırlık*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste teste hazırlığı, hastaya verilen talimatı ve kulaklıkların doğru yerleşimini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

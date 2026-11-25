@@ -1,0 +1,857 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D216_Tinnitus_Degerlendirmesi_MML_TR",
+ "kapak": {
+  "ust": "DERS 216",
+  "baslik": "Tinnitusu<br>*ölçmek*",
+  "alt": "Perde, şiddet ve MML",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Tinnitus Değerlendirmesi: Perde, Şiddet ve MML | Ders 216 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Tinnitus öznel bir algıdır; peki perdesi, şiddeti ve maskelenebilirliği nasıl ölçülür? Bu derste perde eşleştirme ve oktav karışıklığını, şiddet eşleştirmesinin neden düşük duyum düzeyinde çıktığını, en az maskeleme düzeyini (MML), rezidüel inhibisyonu ve bu psikoakustik ölçümlerin sınırlılıklarını ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Tyler, Tinnitus Handbook; Henry ve ark., Computer-automated tinnitus assessment: noise-band matching, maskability, and residual inhibition, J Am Acad Audiol (2013); Vernon ve Meikle, Tinnitus: clinical measurement, Otolaryngologic Clinics of North America (2003); NICE, Tinnitus: assessment and management (NG155, 2020); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "tinnitus",
+   "kulakçınlaması"
+  ],
+  "etiketler": [
+   "tinnitus değerlendirmesi",
+   "perde eşleştirme",
+   "pitch matching",
+   "şiddet eşleştirme",
+   "loudness matching",
+   "en az maskeleme düzeyi",
+   "minimum masking level",
+   "rezidüel inhibisyon",
+   "residual inhibition",
+   "psikoakustik ölçüm",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 216",
+   "baslik": "Tinnitus değerlendirmesi: perde, şiddet ve *MML*",
+   "alt": "Psikoakustik ölçümler ve sınırlılıkları",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste tinnitusun perdesini ve şiddetini dış seslerle nasıl eşleştirdiğimizi öğreneceğiz.",
+    "En az maskeleme düzeyini, rezidüel inhibisyonu ve bu ölçümlerin neyi gösterip neyi göstermediğini de ele alacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Başlarken",
+   "baslik": "Öznel bir sesi *ölçmek*",
+   "maddeler": [
+    {
+     "metin": "Doğrudan ölçülebilen sinyal _yok_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Dış sesle karşılaştırma",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Perde, şiddet, MML, rezidüel inhibisyon",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Danışmanlıkta somut başlangıç",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Rahatsızlığı _göstermez_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "isitme_korteksi",
+      "metin": "algının oluştuğu yer",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "isitme_korteksi",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Tinnitus öznel bir algıdır; kulakta ya da beyinde doğrudan ölçebileceğimiz bir sinyal yoktur.",
+    "Psikoakustik ölçümler (psychoacoustic measures), kişinin tinnitusunu dışarıdan verilen seslerle karşılaştırarak tarif etmesini sağlar.",
+    "En sık kullanılanlar perde eşleştirme, şiddet eşleştirme, en az maskeleme düzeyi ve rezidüel inhibisyondur.",
+    "Bu ölçümler kişiye tinnitusunun ciddiye alındığını hissettirir ve danışmanlıkta somut bir başlangıç noktası sağlar.",
+    "Ses terapisi ya da cihaz ayarı planlanırken de yol gösterici olabilirler.",
+    "Ancak bu ölçümlerin tinnitusun ne kadar rahatsız ettiğini göstermediğini baştan bilmek gerekir."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Başlarken",
+   "baslik": "Değerlendirme *sırası*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Öykü ve ölçek",
+     "metin": "Yaşama etkisi",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Odyogram",
+     "metin": "Mümkünse 8 kHz üstü",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Perde ve şiddet",
+     "metin": "Eşleştirme",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "MML ve inhibisyon",
+     "metin": "Maskelenebilirlik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Psikoakustik ölçümler, eksiksiz bir odyolojik değerlendirmeden sonra yapılır.",
+    "Önce öykü alınır ve tinnitusun yaşama etkisi bir ölçekle kaydedilir.",
+    "Sonra saf ses odyometrisi yapılır; mümkünse 8000 hertz üstündeki frekanslar da test edilir.",
+    "Eşikler bilinmeden şiddet eşleştirmesi yorumlanamaz; çünkü sonuç o frekanstaki eşiğe göre ifade edilir.",
+    "Ardından perde ve şiddet eşleştirmesi, son olarak en az maskeleme düzeyi ve rezidüel inhibisyon ölçülür.",
+    "Tek taraflı tinnitusta eşleştirme sesi genellikle karşı kulağa verilir; böylece dış ses tinnitusun kendisini etkilemez."
+   ]
+  },
+  {
+   "id": "tarif",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Perde eşleştirme",
+   "baslik": "Önce *tarif*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tonal",
+     "metin": "Islık, çınlama",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü benzeri",
+     "metin": "Hışırtı, cızırtı",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Çok bileşenli",
+     "metin": "Birden çok ses",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Eşleştirmeden önce kişiden tinnitusunu kendi sözcükleriyle tarif etmesi istenir.",
+    "Tonal tinnitus tek bir perdede ıslık ya da çınlama gibidir.",
+    "Gürültü benzeri tinnitus hışırtı, cızırtı ya da rüzgar sesi gibi tarif edilir.",
+    "Bazı kişiler birden çok sesi aynı anda duyar; bu durumda genellikle en rahatsız edici olan eşleştirilir.",
+    "Tarif, eşleştirmede ton mu yoksa dar bant gürültü mü kullanılacağını belirler."
+   ]
+  },
+  {
+   "id": "perde",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Perde eşleştirme",
+   "baslik": "Perde *eşleştirme*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "İki ton",
+     "metin": "Art arda dinletilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Hangisi benzer?",
+     "metin": "Kişi seçer",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Daralt",
+     "metin": "Aralık küçülür",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Oktav kontrolü",
+     "metin": "Bir üst, bir alt",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Perde eşleştirme (pitch matching), tinnitusa en çok benzeyen sesin frekansının bulunmasıdır.",
+    "Yaygın yöntemde kişiye iki ton art arda dinletilir ve hangisinin tinnitusa daha çok benzediği sorulur.",
+    "Seçilen tona göre frekans aralığı adım adım daraltılır; buna iki seçenekli zorunlu seçim yöntemi denir.",
+    "Tonlar, kişinin rahat duyacağı ve tinnitusa yakın bir şiddette verilir.",
+    "Sık görülen bir hata oktav karışıklığıdır: kişi gerçek perdenin bir oktav altını ya da üstünü seçebilir.",
+    "Bu yüzden bulunan frekansın bir oktav üstü ve bir oktav altı da dinletilerek kontrol edilir.",
+    "Gürültü benzeri tinnitusta ton yerine dar bant gürültüyle eşleştirme yapılır.",
+    "Eşleştirmede kullanılan ses düzeyi de not edilir; çünkü düzey değişince algılanan perde biraz değişebilir."
+   ]
+  },
+  {
+   "id": "perde_kayip",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Perde eşleştirme",
+   "baslik": "Perde ve *işitme kaybı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ters": true,
+     "ad": "Düzey (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        3000,
+        35
+       ],
+       [
+        4000,
+        45
+       ],
+       [
+        6000,
+        50
+       ],
+       [
+        8000,
+        55
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "örnek eşikler",
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kayip_bolgesi",
+      "x": [
+       3000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "kayıp bölgesi",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "perde",
+      "x": 6000,
+      "y": 50,
+      "cizgi": "dikey",
+      "etiket": "perde: 6 kHz",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Perde çoğu zaman kayıp bölgesinde",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Tekrarlanabilirlik düşük",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sonuç bir aralık olarak yazılır",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Bu örnek grafikte eşikler 2000 hertzden sonra düşmeye başlıyor.",
+    "Kişinin tinnitus perdesi 6000 hertz civarında eşleştirildi.",
+    "Çoğu kişide tinnitus perdesi, işitme kaybının bulunduğu tiz frekans bölgesine düşer.",
+    "Ancak perde eşleştirmesinin tekrarlanabilirliği düşüktür; aynı gün içinde bile sonuçlar belirgin biçimde değişebilir.",
+    "Bu nedenle ölçüm birkaç kez tekrarlanır ve sonuç tek bir sayı yerine bir aralık olarak kaydedilir.",
+    "Perdenin bilinmesi, örneğin ses terapisinde kullanılacak sesin seçilmesine yardımcı olabilir."
+   ]
+  },
+  {
+   "id": "siddet",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Şiddet eşleştirme",
+   "baslik": "Şiddet *eşleştirme*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 80,
+     "adim": 10,
+     "ters": true,
+     "ad": "Düzey (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        10
+       ],
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        20
+       ],
+       [
+        3000,
+        35
+       ],
+       [
+        4000,
+        45
+       ],
+       [
+        6000,
+        50
+       ],
+       [
+        8000,
+        55
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "eşik",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "eslesme",
+      "x": 6000,
+      "y": 55,
+      "dolu": true,
+      "etiket": "eşleşme 55 dB HL",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "sl",
+      "y": [
+       50,
+       55
+      ],
+      "xk": 7000,
+      "etiket": "5 dB SL",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Eşikten başla, küçük adımlarla artır",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sonuç duyum düzeyi: dB SL",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Düşük SL, hafif tinnitus _demek değil_",
+     "cumle": 6,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Şiddet eşleştirme (loudness matching), tinnitusun ne kadar yüksek algılandığını bir dış sesle karşılaştırır.",
+    "Eşleştirilen frekansta ton eşikten başlayarak küçük adımlarla artırılır; kişi tinnitusuyla eşit yükseklikte bulunca durulur.",
+    "Sonuç o frekanstaki eşiğe göre, yani duyum düzeyi olarak desibel SL ile ifade edilir.",
+    "Bu örnekte eşik 50, eşleşme 55 desibel HL; yani tinnitus yalnızca 5 desibel SL düzeyinde eşleşiyor.",
+    "Çoğu kişide şiddet eşleşmesi eşiğin yalnızca birkaç desibel üzerinde çıkar; bu klinikte sık karşılaşılan bir bulgudur.",
+    "Bunun bir nedeni rekruitmenttir: kayıplı frekansta eşiğin hemen üzerindeki küçük bir artış bile yüksek algılanır.",
+    "Bu yüzden düşük bir SL değeri, tinnitusun hafif olduğu anlamına gelmez."
+   ]
+  },
+  {
+   "id": "rahatsizlik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Şiddet eşleştirme",
+   "baslik": "Şiddet ve *rahatsızlık* farklıdır",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Şiddet eşleşmesi",
+     "metin": "Algının dış sesteki karşılığı",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Rahatsızlık",
+     "metin": "Dikkat ve duygu belirler",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Ölçmek için",
+     "metin": "Öz bildirim ölçekleri",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Şiddet eşleşmesi ile tinnitusun kişiyi ne kadar rahatsız ettiği arasında güçlü bir ilişki yoktur.",
+    "Şiddeti düşük eşleşen bir kişi ağır rahatsızlık bildirebilir; yüksek eşleşen biri ise iyi uyum sağlamış olabilir.",
+    "Bunun nedeni, rahatsızlığı büyük ölçüde dikkat ve duygu ağlarının belirlemesidir.",
+    "Rahatsızlığı ölçmek için psikoakustik testler değil, bir sonraki derste göreceğimiz ölçekler kullanılır.",
+    "Yine de aynı kişide zaman içindeki şiddet değişimi izlemde ek bilgi verebilir.",
+    "Bu ayrımı anlatmak, danışmanlıkta kişinin yaşadığı rahatsızlığı doğrulamak için de önemlidir."
+   ]
+  },
+  {
+   "id": "mml",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Maskeleme ölçümleri",
+   "baslik": "En az maskeleme *düzeyi*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü eşiği",
+     "metin": "Önce bulunur",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Artır",
+     "metin": "Küçük adımlarla",
+     "cumle": 2
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Tinnitus örtüldü",
+     "metin": "Kişi bildirir",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "MML kaydı",
+     "metin": "dB SL olarak",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "En az maskeleme düzeyi (minimum masking level), kısaca MML, tinnitusu tam örtmek için gereken en düşük gürültü düzeyidir.",
+    "Genellikle geniş bant gürültü kullanılır ve önce kişinin bu gürültüyü duyma eşiği bulunur.",
+    "Ardından gürültü küçük adımlarla artırılır; kişi tinnitusunu artık duymadığını söylediğinde durulur.",
+    "Sonuç, gürültü eşiğine göre desibel SL olarak kaydedilir.",
+    "MML çoğu kişide düşüktür, ama bazı kişilerde tinnitus yüksek düzeyde gürültüyle bile örtülemez.",
+    "Ölçüm iki kulağa birlikte ya da ayrı ayrı yapılabilir; hangi yöntemin kullanıldığı kayda geçirilir.",
+    "MML, tinnitusun dış seslerle ne kadar kolay örtüldüğünü gösterir ve ses terapisi planına bilgi verebilir.",
+    "MML bulunduktan sonra genellikle aynı gürültüyle rezidüel inhibisyon ölçümüne geçilir."
+   ]
+  },
+  {
+   "id": "ri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Maskeleme ölçümleri",
+   "baslik": "Rezidüel *inhibisyon*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -60,
+     "max": 180,
+     "adim": 60,
+     "ad": "Zaman (saniye)"
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Tinnitus yüksekliği (0 ile 10)"
+    },
+    "bolgeler": [
+     {
+      "ad": "gurultu",
+      "x": [
+       -60,
+       0
+      ],
+      "renk": "sari",
+      "etiket": "gürültü: MML + 10 dB, 60 sn",
+      "cumle": 1
+     }
+    ],
+    "seriler": [
+     {
+      "ad": "tinnitus",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        30,
+        0
+       ],
+       [
+        60,
+        2
+       ],
+       [
+        90,
+        4
+       ],
+       [
+        120,
+        6
+       ],
+       [
+        150,
+        6
+       ],
+       [
+        180,
+        6
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "örnek tinnitus",
+      "cumle": 3
+     },
+     {
+      "ad": "onceki",
+      "noktalar": [
+       [
+        -60,
+        6
+       ],
+       [
+        180,
+        6
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "başlangıç düzeyi",
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kesilme",
+      "x": 0,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "gürültü kesildi",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Gürültü kesilince tinnitus azalır",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Süre kronometreyle kaydedilir",
+     "cumle": 4,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Geçici; kalıcı tedavi _değil_",
+     "cumle": 6,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Rezidüel inhibisyon (residual inhibition), maskeleme gürültüsü kesildikten sonra tinnitusun geçici olarak azalması ya da kaybolmasıdır.",
+    "Yaygın protokolde gürültü, MML'nin 10 desibel üzerinde, 60 saniye boyunca verilir.",
+    "Gürültü kesilince kişiye tinnitusunun aynı mı, daha hafif mi, yoksa tamamen yok mu olduğu sorulur.",
+    "Bu örnekte tinnitus gürültüden hemen sonra kayboluyor ve yaklaşık iki dakika içinde eski düzeyine dönüyor.",
+    "Tinnitusun azaldığı süre kronometreyle kaydedilir; azalma kısmi ise bu da not edilir.",
+    "Pek çok kişide kısmi ya da tam rezidüel inhibisyon görülür, ama etki genellikle saniyeler ile dakikalar sürer.",
+    "Bu ölçüm tinnitusun geçici olarak bastırılabildiğini gösterir; kalıcı bir tedavi anlamına gelmez."
+   ]
+  },
+  {
+   "id": "sinirlilik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sınırlılıklar",
+   "baslik": "Sınırlılıklar ve *kılavuzlar*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Tekrarlanabilirlik",
+     "metin": "Özellikle perdede düşük",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Rahatsızlık",
+     "metin": "Güvenilir biçimde göstermez",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "NICE 2020",
+     "metin": "Tinnitus için önermez",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Psikoakustik ölçümlerin önemli sınırlılıkları vardır.",
+    "Sonuçlar aynı kişide gün içinde değişebilir ve tekrarlanabilirlik, özellikle perde için, düşüktür.",
+    "Tinnitusun rahatsızlık düzeyini ve tedaviye yanıtı güvenilir biçimde göstermezler.",
+    {
+     "yazi": "İngiltere'nin NICE kılavuzu 2020'de, tinnitusu değerlendirmek için perde ve şiddet eşleştirmesi gibi psikoakustik testleri önermemiştir.",
+     "ses": "İngiltere'nin Nays kılavuzu iki bin yirmide, tinnitusu değerlendirmek için perde ve şiddet eşleştirmesi gibi psikoakustik testleri önermemiştir."
+    },
+    "Aynı kılavuz, tinnitusun araştırılmasında rahatsız edici ses düzeyi ölçümünü ve akustik refleks testini de önermez.",
+    "Bu ölçümler bazı kliniklerde ve araştırmalarda kullanılır; yapıldıklarında sınırlılıkları akılda tutularak yorumlanır."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Sınırlılıklar",
+   "baslik": "Sonuçları *kaydetmek*",
+   "maddeler": [
+    {
+     "metin": "Test edilen kulak ve ses türü",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Şiddet: hem dB HL hem dB SL",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "MML ve inhibisyonun süresi, türü",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Aynı cihaz, aynı yöntem",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "kulaklik",
+      "metin": "kulaklık",
+      "cumle": 1
+     },
+     {
+      "parca": "hasta_butonu",
+      "metin": "yanıt düğmesi",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Psikoakustik sonuçlar standart bir formda kaydedilir.",
+    "Formda test edilen kulak, eşleştirme sesinin verildiği kulak, kullanılan ses türü ve frekans yer alır.",
+    "Şiddet eşleşmesi hem desibel HL hem de desibel SL olarak yazılır.",
+    "MML ile rezidüel inhibisyonun süresi ve türü, yani kısmi mi tam mı olduğu not edilir.",
+    "Aynı cihaz ve aynı yöntemle yapılan tekrar ölçümler ancak bu şekilde karşılaştırılabilir.",
+    "Ölçümün tarihi ve kişinin o günkü tinnitus durumu da kaydın parçasıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Şiddet eşleşmesini hastaya tek bir sayı olarak vermeyin. Ölçümün işitme sistemindeki karşılığı gösterdiğini, rahatsızlığın ayrıca ele alınacağını anlatın.",
+   "cumleler": [
+    "Bir klinik ipucu: şiddet eşleşmesini hastayla paylaşırken sayıyı tek başına vermeyin.",
+    "Tinnitusunuz yalnızca 5 desibel gibi bir ifade, kişinin yaşadığı rahatsızlığı küçümsüyormuş gibi algılanabilir.",
+    "Bunun yerine ölçümün sesin işitme sistemindeki karşılığını gösterdiğini ve rahatsızlığın ayrıca ele alınacağını anlatın.",
+    "Rezidüel inhibisyon görülmesi ise birçok kişi için tinnitusun değişebildiğini gösteren rahatlatıcı bir deneyim olabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Perde: iki seçenekli yöntem, oktav kontrolü",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Şiddet: çoğu zaman birkaç dB SL",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "MML ve rezidüel inhibisyon",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Rahatsızlığı göstermez, NICE önermez",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Perde eşleştirmede iki seçenekli yöntem kullanılır ve oktav karışıklığı mutlaka kontrol edilir.",
+    "Şiddet eşleşmesi çoğu zaman eşiğin yalnız birkaç desibel üzerinde çıkar; bunun bir nedeni rekruitmenttir.",
+    "MML tinnitusu örten en düşük gürültü düzeyidir; rezidüel inhibisyon ise gürültüden sonraki geçici azalmadır.",
+    "Bu ölçümler tinnitusun rahatsızlığını göstermez ve NICE kılavuzu bunları tinnitus değerlendirmesinde önermez."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Şiddet eşleşmesi neden çoğu zaman düşük SL çıkar?",
+   "secenekler": [
+    "Rekruitment",
+    "İletim tipi kayıp",
+    "Maskeleme hatası",
+    "Tinnitusun hafif olması"
+   ],
+   "dogru": 0,
+   "aciklama": "Kayıplı frekansta küçük bir artış bile _yüksek_ algılanır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: tinnitusun şiddet eşleşmesi neden çoğu zaman eşiğin yalnız birkaç desibel üzerinde çıkar?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap A: rekruitment.",
+     "ses": "Doğru cevap a şıkkı: rekruitment."
+    },
+    "Kayıplı frekansta eşiğin hemen üzerindeki küçük bir artış bile yüksek algılanır; bu yüzden düşük SL, hafif tinnitus demek değildir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Tinnitus ölçekleri: *THI* ve TFI",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste tinnitusun yaşama etkisini ölçen tinnitus engellilik envanterini ve tinnitus fonksiyonel indeksini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

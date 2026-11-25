@@ -1,0 +1,1383 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D086_Olu_Bolge_TEN_TR",
+ "kapak": {
+  "ust": "DERS 86",
+  "baslik": "Koklear<br>*ölü bölgeler*",
+  "alt": "TEN testi ve cihaz uygulaması",
+  "cizim": "corti",
+  "vurgula": [
+   "ic_tuy_hucresi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Koklear Ölü Bölgeler ve TEN Testi | Ders 86 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İç tüy hücreleri işlev görmediğinde ne olur? Bu derste koklear ölü bölge kavramını, frekans dışı dinlemeyi, odyogramdaki ipuçlarını, TEN(HL) testinin mantığını, uygulanışını ve yorum ölçütlerini, psikofiziksel ayar eğrilerini ve ölü bölgenin işitme cihazı uygulamasındaki önemini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Moore ve ark. (2000), A test for the diagnosis of dead regions in the cochlea, British Journal of Audiology; Moore, Glasberg ve Stone (2004), New version of the TEN test with calibrations in dB HL, Ear and Hearing; Moore (2004), Dead regions in the cochlea: conceptual foundations, diagnosis, and clinical applications, Ear and Hearing; Vickers, Moore ve Baer (2001), Effects of low-pass filtering on the intelligibility of speech in quiet for people with and without dead regions at high frequencies, Journal of the Acoustical Society of America; Cox ve ark. (2011), Cochlear dead regions in typical hearing aid candidates: prevalence and implications for use of high-frequency speech cues, Ear and Hearing.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "psikoakustik",
+   "TENtesti"
+  ],
+  "etiketler": [
+   "koklear ölü bölge",
+   "dead region",
+   "TEN testi",
+   "threshold equalizing noise",
+   "frekans dışı dinleme",
+   "off-frequency listening",
+   "iç tüy hücresi",
+   "psikofiziksel ayar eğrisi",
+   "işitme cihazı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 86",
+   "baslik": "Koklear ölü bölgeler ve *TEN* testi",
+   "alt": "İç tüy hücresi kaybını saptamak",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iç tüy hücrelerinin işlev görmediği bölgeleri, yani koklear ölü bölgeleri öğreneceğiz.",
+    "Frekans dışı dinlemeyi, eşik eşitleyici gürültü, yani TEN testinin mantığını ve yorumunu, son olarak işitme cihazına etkilerini göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ölü bölge nedir?",
+   "baslik": "İç tüy hücresi *kaybı*",
+   "cizim": "corti",
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "İç tüy hücresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "Afferent sinir lifleri",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Titreşim var, _iletim yok_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tanım _işlevseldir_",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Sınır: _kenar frekansı_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Önceki derste dış tüy hücresi hasarının algıyı nasıl değiştirdiğini gördük; bu derste iç tüy hücrelerine odaklanıyoruz.",
+    "İç tüy hücreleri, baziler membranın titreşimini sinir sinyaline çeviren asıl alıcı hücrelerdir.",
+    "Bir bölgede iç tüy hücreleri ya da onlara bağlı sinir lifleri işlev görmüyorsa, o bölgeye koklear ölü bölge (dead region) denir.",
+    "Bu bölgede baziler membran titreşse bile bilgi sinire aktarılamaz.",
+    "Tanım işlevseldir; bölgede hiç hücre kalmamış olması gerekmez, iletimin yeterince yapılamaması yeterlidir.",
+    "Ölü bölgenin başladığı sınır frekansa kenar frekansı (edge frequency) denir.",
+    {
+     "yazi": "Ölü bölge kavramını ve TEN testini büyük ölçüde Brian Moore ve arkadaşlarının çalışmalarına borçluyuz.",
+     "ses": "Ölü bölge kavramını ve TEN testini büyük ölçüde Brayın Mur ve arkadaşlarının çalışmalarına borçluyuz."
+    }
+   ]
+  },
+  {
+   "id": "frekans_disi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ölü bölge nedir?",
+   "baslik": "Frekans *dışı* dinleme",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "taban",
+     "cumle": 3
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Ölü bölge: 4 kHz",
+     "cumle": 3
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "Komşu sağlam bölge algılar",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yüksek ses _komşuyu_ da titreştirir",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Eşik, _komşu bölgenin_ eşiği",
+     "cumle": 4,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Ton _bozuk ya da gürültülü_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Peki ölü bölgeye düşen bir ses hiç duyulmaz mı? Çoğu zaman duyulur, ama başka bir yerden.",
+    "Yeterince yüksek bir ses, baziler membranın yalnız kendi bölgesini değil, komşu bölgeleri de titreştirir.",
+    "Komşu sağlam bölgedeki iç tüy hücreleri bu titreşimi algılar; buna frekans dışı dinleme (off-frequency listening) denir.",
+    "Örneğin dört bin hertz bölgesi ölüyse, dört bin hertzlik bir ton daha pes ve sağlam bir bölgede algılanabilir.",
+    "Bu yüzden ölü bölgedeki frekansta odyogramda bir eşik ölçülür; ama bu eşik o bölgenin değil, komşu bölgenin eşiğidir.",
+    "Hasta bu tonu çoğu zaman saf bir ses gibi değil, gürültülü, bozuk ya da farklı perdede duyduğunu anlatır.",
+    "Yani odyogram, ölü bölgenin varlığını kendiliğinden göstermez."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ölü bölge nedir?",
+   "baslik": "Odyogramdaki *ipuçları*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: sağ kulak",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: sağ kulak",
+     "cumle": 1
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "_Dik eğim_: olasılık artar",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       75,
+       90,
+       95
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       15,
+       25,
+       25,
+       70,
+       70
+      ],
+      "cumle": 1,
+      "yanitsiz": [
+       4
+      ]
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Ölü bölgeyi düşündüren bazı odyogram ipuçları vardır; bu örnek öğretim amaçlıdır.",
+    "Bu örnekte pes frekanslarda kayıp hafif; bin hertzden sonra kayıp çok dik biçimde artıyor ve kemik yolu hava yoluna eşlik ediyor.",
+    "Oktav başına elli desibele yaklaşan dik eğimler ölü bölge olasılığını artırır.",
+    "Eşiğin yaklaşık yetmiş desibel HL ya da daha kötü olduğu frekanslarda da ölü bölge olasılığı belirgin biçimde yükselir.",
+    "Ancak bu ipuçları yalnız olasılık bildirir; aynı odyogramda ölü bölge olabilir de, olmayabilir de.",
+    "Ölü bölgeyi göstermek için özel bir test gerekir; en yaygın klinik test TEN testidir."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "TEN testi",
+   "baslik": "Eşik eşitleyici *gürültü*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal kulak",
+     "metin": "Maskeli eşik gürültüye yakın",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Koklear kayıp",
+     "metin": "Yine gürültüye yakın",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Ölü bölge",
+     "metin": "Gürültünün çok üstünde",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "TEN testinin adı eşik eşitleyici gürültüden (threshold equalizing noise) gelir.",
+    "Bu gürültünün spektrumu, normal işiten bir kulakta bütün frekanslarda aynı maskeli eşiği oluşturacak biçimde ayarlanmıştır.",
+    "Normal kulakta tonun maskeli eşiği, gürültünün düzeyine yaklaşık eşit çıkar.",
+    "Ölü bölgesi olmayan koklear kayıpta da, gürültü kişinin eşiğinin üzerindeyse maskeli eşik gürültü düzeyine yakın kalır.",
+    "Ölü bölgede ise durum farklıdır; ton ancak komşu sağlam bölgede algılanabilir.",
+    "Ama gürültü geniş bantlı olduğu için o komşu bölgeyi de maskeler; ton ancak çok daha yüksek bir düzeyde duyulabilir.",
+    "Sonuçta ölü bölgede maskeli eşik, gürültü düzeyinin belirgin biçimde üzerine çıkar."
+   ]
+  },
+  {
+   "id": "surum",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "TEN testi",
+   "baslik": "TEN(SPL) ve *TEN(HL)*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "2000: TEN(SPL)",
+     "metin": "Düzeyler dB SPL",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "2004: TEN(HL)",
+     "metin": "Düzeyler dB HL",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Frekanslar",
+     "metin": "500 ile 4000 Hz",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Gürültü düzeyi",
+     "metin": "Bir filtre başına dB HL",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Testin ilk biçimi TEN(SPL), 2000 yılında yayımlandı ve düzeyleri desibel SPL olarak veriyordu.",
+     "ses": "Testin ilk biçimi TEN es pi el, 2000 yılında yayımlandı ve düzeyleri desibel SPL olarak veriyordu."
+    },
+    {
+     "yazi": "2004'te yayımlanan TEN(HL) sürümünde ise düzeyler, odyometreden alışık olduğumuz desibel HL cinsinden verilir.",
+     "ses": "2004'te yayımlanan TEN eyç el sürümünde ise düzeyler, odyometreden alışık olduğumuz desibel HL cinsinden verilir."
+    },
+    {
+     "yazi": "TEN(HL) testi beş yüz ile dört bin hertz arasındaki frekanslarda yapılır.",
+     "ses": "TEN eyç el testi beş yüz ile dört bin hertz arasındaki frekanslarda yapılır."
+    },
+    "Gürültü düzeyi, bir işitsel filtrenin genişliği başına desibel HL olarak tanımlanır; yani kulağın tek bir filtresine düşen düzeydir.",
+    "Test, odyometreye bağlanan bir kayıttan ya da bazı odyometrelerde yerleşik bir programla uygulanır.",
+    {
+     "yazi": "Bu derste klinikte daha yaygın olan TEN(HL) sürümünü anlatıyoruz.",
+     "ses": "Bu derste klinikte daha yaygın olan TEN eyç el sürümünü anlatıyoruz."
+    }
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "TEN testi",
+   "baslik": "Test *adımları*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Sessiz eşik",
+     "metin": "Aynı kulaklık ve yöntem",
+     "cumle": 1
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü düzeyi",
+     "metin": "Eşiğin 10 dB üstü",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Maskeli eşik",
+     "metin": "2 dB adımlarla",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Konfor, karşı kulak",
+     "metin": "Rahatsızlık, çapraz işitme",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Testin uygulanışı birkaç adımdan oluşur.",
+    "Önce test edilecek frekanslarda sessiz ortamdaki eşikler, aynı kulaklık ve aynı yöntemle ölçülür.",
+    "Sonra gürültü düzeyi seçilir; gürültü, mümkünse test frekansındaki eşiğin en az on desibel üzerinde olmalıdır.",
+    "Gürültü ve ton aynı kulağa birlikte verilir ve tonun maskeli eşiği bulunur.",
+    "Eşiğe yaklaşırken beş yerine iki desibellik adımlar kullanılır; ölçütler küçük farklara dayandığı için bu önemlidir.",
+    "Gürültü yüksek olabileceği için hastaya rahatsız olup olmadığı sorulur; rahatsız edici düzeylere çıkılmaz.",
+    "Gerekirse karşı kulak da maskelenir; tonun karşı kulakta duyulması sonucu bozabilir."
+   ]
+  },
+  {
+   "id": "olcut",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "TEN testi",
+   "baslik": "Sonucu *yorumlamak*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 400,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      1500,
+      2000,
+      3000,
+      4000
+     ]
+    },
+    "y": {
+     "min": 10,
+     "max": 110,
+     "adim": 10,
+     "ad": "Düzey (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sessiz_esik",
+      "noktalar": [
+       [
+        500,
+        20
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        1500,
+        30
+       ],
+       [
+        2000,
+        50
+       ],
+       [
+        3000,
+        65
+       ],
+       [
+        4000,
+        70
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "cumle": 0,
+      "etiket": "sessiz eşik",
+      "etiket_konum": [
+       500,
+       20
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": -14
+     },
+     {
+      "ad": "maskeli_esik",
+      "noktalar": [
+       [
+        500,
+        81
+       ],
+       [
+        1000,
+        80
+       ],
+       [
+        1500,
+        82
+       ],
+       [
+        2000,
+        83
+       ],
+       [
+        3000,
+        95
+       ],
+       [
+        4000,
+        99
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "isaretli": true,
+      "cumle": 4,
+      "etiket": "TEN içinde maskeli eşik",
+      "etiket_konum": [
+       500,
+       81
+      ],
+      "etiket_dx": 0,
+      "etiket_dy": 30
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ten_duzeyi",
+      "x": 450,
+      "y": 80,
+      "cizgi": "yatay",
+      "renk": "gri",
+      "nokta": false,
+      "etiket": "TEN: 80 dB HL",
+      "dx": 60,
+      "dy": -10,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "olu_bolge",
+      "x": [
+       2500,
+       5000
+      ],
+      "renk": "sari",
+      "etiket": "ölü bölge",
+      "cumle": 6,
+      "opak": 0.22
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "xk": 3000,
+      "y": [
+       80,
+       95
+      ],
+      "etiket": "15 dB",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ten_duzeyi",
+     "cumle": 1
+    },
+    {
+     "parca": "sessiz_esik",
+     "cumle": 2
+    },
+    {
+     "parca": "fark",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sonucu yorumlamak için iki ölçüt birlikte kullanılır.",
+    "Birinci ölçüt: maskeli eşik, gürültü düzeyinin en az on desibel üzerinde olmalıdır.",
+    "İkinci ölçüt: maskeli eşik, sessiz ortamdaki eşiğin de en az on desibel üzerinde olmalıdır; bu, gürültünün gerçekten maskelediğini gösterir.",
+    "İki ölçüt birlikte karşılanırsa o frekansta ölü bölge olduğu düşünülür.",
+    "Bu örnekte gürültü seksen desibel HL; beş yüz ile iki bin hertz arasında maskeli eşikler gürültü düzeyine çok yakın.",
+    "Üç ve dört bin hertzde ise maskeli eşikler gürültünün on beş ve on dokuz desibel, sessiz eşiklerin de yirmi desibelden fazla üzerinde.",
+    "Yani bu örnekte ölü bölge yaklaşık üç bin hertzde başlıyor; kenar frekansı iki ile üç bin hertz arasında olabilir.",
+    "Maskeli eşik sessiz eşiğin on desibel üzerine çıkmıyorsa sonuç kesin değildir; gerekirse daha yüksek bir gürültüyle tekrarlanır."
+   ]
+  },
+  {
+   "id": "ptc",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "TEN testi",
+   "baslik": "Psikofiziksel *ayar eğrisi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Maskeleyici frekansı (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 20,
+     "max": 100,
+     "adim": 20,
+     "ad": "Gereken maskeleyici düzeyi (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        1226.5,
+        99.0
+       ],
+       [
+        1254.6,
+        96.6
+       ],
+       [
+        1283.4,
+        94.2
+       ],
+       [
+        1312.8,
+        91.8
+       ],
+       [
+        1342.9,
+        89.5
+       ],
+       [
+        1373.7,
+        87.3
+       ],
+       [
+        1405.2,
+        85.1
+       ],
+       [
+        1437.5,
+        83.0
+       ],
+       [
+        1470.5,
+        80.9
+       ],
+       [
+        1504.2,
+        78.8
+       ],
+       [
+        1538.7,
+        76.8
+       ],
+       [
+        1574.0,
+        74.8
+       ],
+       [
+        1610.1,
+        72.9
+       ],
+       [
+        1647.0,
+        71.1
+       ],
+       [
+        1684.8,
+        69.2
+       ],
+       [
+        1723.5,
+        67.5
+       ],
+       [
+        1763.0,
+        65.7
+       ],
+       [
+        1803.4,
+        64.1
+       ],
+       [
+        1844.8,
+        62.4
+       ],
+       [
+        1887.1,
+        60.8
+       ],
+       [
+        1930.4,
+        59.3
+       ],
+       [
+        1974.7,
+        57.8
+       ],
+       [
+        2020.0,
+        56.4
+       ],
+       [
+        2066.3,
+        55.0
+       ],
+       [
+        2113.7,
+        53.6
+       ],
+       [
+        2162.2,
+        52.3
+       ],
+       [
+        2211.8,
+        51.1
+       ],
+       [
+        2262.6,
+        49.9
+       ],
+       [
+        2314.5,
+        48.7
+       ],
+       [
+        2367.6,
+        47.6
+       ],
+       [
+        2421.9,
+        46.5
+       ],
+       [
+        2477.4,
+        45.5
+       ],
+       [
+        2534.3,
+        44.5
+       ],
+       [
+        2592.4,
+        43.6
+       ],
+       [
+        2651.9,
+        42.7
+       ],
+       [
+        2712.7,
+        41.9
+       ],
+       [
+        2774.9,
+        41.1
+       ],
+       [
+        2838.6,
+        40.4
+       ],
+       [
+        2903.7,
+        39.7
+       ],
+       [
+        2970.3,
+        39.1
+       ],
+       [
+        3038.4,
+        38.5
+       ],
+       [
+        3108.1,
+        37.9
+       ],
+       [
+        3179.4,
+        37.4
+       ],
+       [
+        3252.4,
+        37.0
+       ],
+       [
+        3327.0,
+        36.6
+       ],
+       [
+        3403.3,
+        36.2
+       ],
+       [
+        3481.4,
+        35.9
+       ],
+       [
+        3561.2,
+        35.6
+       ],
+       [
+        3642.9,
+        35.4
+       ],
+       [
+        3726.5,
+        35.2
+       ],
+       [
+        3812.0,
+        35.1
+       ],
+       [
+        3899.4,
+        35.0
+       ],
+       [
+        3988.9,
+        35.0
+       ],
+       [
+        4080.4,
+        36.6
+       ],
+       [
+        4174.0,
+        39.3
+       ],
+       [
+        4269.7,
+        42.4
+       ],
+       [
+        4367.7,
+        45.9
+       ],
+       [
+        4467.9,
+        49.7
+       ],
+       [
+        4570.4,
+        53.8
+       ],
+       [
+        4675.2,
+        58.0
+       ],
+       [
+        4782.5,
+        62.5
+       ],
+       [
+        4892.2,
+        67.1
+       ],
+       [
+        5004.4,
+        71.8
+       ],
+       [
+        5119.2,
+        76.8
+       ],
+       [
+        5236.6,
+        81.8
+       ],
+       [
+        5356.7,
+        87.0
+       ],
+       [
+        5479.6,
+        92.3
+       ],
+       [
+        5605.3,
+        97.8
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "yumusak": true,
+      "cumle": 2,
+      "etiket": "normal: uç sinyalde",
+      "etiket_konum": [
+       4000,
+       35
+      ],
+      "etiket_dx": -14,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     },
+     {
+      "ad": "kaymis",
+      "noktalar": [
+       [
+        1000.0,
+        94.5
+       ],
+       [
+        1022.9,
+        93.3
+       ],
+       [
+        1046.4,
+        92.1
+       ],
+       [
+        1070.4,
+        91.0
+       ],
+       [
+        1095.0,
+        89.9
+       ],
+       [
+        1120.1,
+        88.8
+       ],
+       [
+        1145.8,
+        87.7
+       ],
+       [
+        1172.1,
+        86.7
+       ],
+       [
+        1198.9,
+        85.7
+       ],
+       [
+        1226.5,
+        84.8
+       ],
+       [
+        1254.6,
+        83.9
+       ],
+       [
+        1283.4,
+        83.0
+       ],
+       [
+        1312.8,
+        82.1
+       ],
+       [
+        1342.9,
+        81.3
+       ],
+       [
+        1373.7,
+        80.4
+       ],
+       [
+        1405.2,
+        79.7
+       ],
+       [
+        1437.5,
+        78.9
+       ],
+       [
+        1470.5,
+        78.2
+       ],
+       [
+        1504.2,
+        77.5
+       ],
+       [
+        1538.7,
+        76.9
+       ],
+       [
+        1574.0,
+        76.2
+       ],
+       [
+        1610.1,
+        75.6
+       ],
+       [
+        1647.0,
+        75.1
+       ],
+       [
+        1684.8,
+        74.5
+       ],
+       [
+        1723.5,
+        74.0
+       ],
+       [
+        1763.0,
+        73.6
+       ],
+       [
+        1803.4,
+        73.1
+       ],
+       [
+        1844.8,
+        72.7
+       ],
+       [
+        1887.1,
+        72.3
+       ],
+       [
+        1930.4,
+        71.9
+       ],
+       [
+        1974.7,
+        71.6
+       ],
+       [
+        2020.0,
+        71.3
+       ],
+       [
+        2066.3,
+        71.1
+       ],
+       [
+        2113.7,
+        70.8
+       ],
+       [
+        2162.2,
+        70.6
+       ],
+       [
+        2211.8,
+        70.4
+       ],
+       [
+        2262.6,
+        70.3
+       ],
+       [
+        2314.5,
+        70.2
+       ],
+       [
+        2367.6,
+        70.1
+       ],
+       [
+        2421.9,
+        70.0
+       ],
+       [
+        2477.4,
+        70.0
+       ],
+       [
+        2534.3,
+        70.4
+       ],
+       [
+        2592.4,
+        71.3
+       ],
+       [
+        2651.9,
+        72.4
+       ],
+       [
+        2712.7,
+        73.7
+       ],
+       [
+        2774.9,
+        75.1
+       ],
+       [
+        2838.6,
+        76.6
+       ],
+       [
+        2903.7,
+        78.2
+       ],
+       [
+        2970.3,
+        79.8
+       ],
+       [
+        3038.4,
+        81.5
+       ],
+       [
+        3108.1,
+        83.3
+       ],
+       [
+        3179.4,
+        85.1
+       ],
+       [
+        3252.4,
+        87.0
+       ],
+       [
+        3327.0,
+        89.0
+       ],
+       [
+        3403.3,
+        90.9
+       ],
+       [
+        3481.4,
+        93.0
+       ],
+       [
+        3561.2,
+        95.0
+       ],
+       [
+        3642.9,
+        97.1
+       ],
+       [
+        3726.5,
+        99.3
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "cumle": 3,
+      "etiket": "ölü bölge: uç kaymış",
+      "etiket_konum": [
+       2500,
+       70
+      ],
+      "etiket_dx": -10,
+      "etiket_dy": 30,
+      "etiket_hiza": "end"
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinyal",
+      "x": 4000,
+      "y": 25,
+      "cizgi": "dikey",
+      "renk": "kirmizi",
+      "nokta": false,
+      "etiket": "sinyal: 4 kHz",
+      "dx": 10,
+      "dy": 0,
+      "hiza": "start",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "sinyal",
+     "cumle": 1
+    },
+    {
+     "parca": "kaymis",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Ölü bölgeyi göstermenin daha ayrıntılı bir yolu psikofiziksel ayar eğrisidir (psychophysical tuning curve).",
+    "Sabit ve hafif bir sinyali maskelemek için her frekansta gereken gürültü düzeyi ölçülür.",
+    "Normalde eğrinin ucu, yani en az gürültünün yettiği frekans, sinyal frekansındadır.",
+    "Ölü bölgede ise uç sinyal frekansından uzağa kayar; uç, sinyalin aslında algılandığı sağlam bölgeyi gösterir.",
+    "Bu kayma, kenar frekansını tahmin etmeye de yardım eder; grafikteki eğriler temsilidir.",
+    "Hızlı ölçüm yöntemleri geliştirilmiş olsa da bu test klinikte TEN testinden daha uzun ve zahmetlidir."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinik önemi",
+   "baslik": "Ölü bölge ve *cihaz* kazancı",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "yararli",
+      "x": [
+       250,
+       3400
+      ],
+      "renk": "mavi",
+      "etiket": "kazanç: yaklaşık 1,7 x kenar",
+      "cumle": 1,
+      "opak": 0.15
+     },
+     {
+      "ad": "olu",
+      "x": [
+       2000,
+       8000
+      ],
+      "renk": "kirmizi",
+      "etiket": "ölü bölge",
+      "cumle": 0,
+      "opak": 0.1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kenar",
+      "x": 2000,
+      "y": 5,
+      "cizgi": "dikey",
+      "etiket": "kenar: 2 kHz",
+      "dx": -10,
+      "dy": 40,
+      "hiza": "end",
+      "cumle": 0
+     },
+     {
+      "ad": "ust_sinir",
+      "x": 3400,
+      "y": 5,
+      "cizgi": "dikey",
+      "renk": "lacivert",
+      "etiket": "3,4 kHz",
+      "dx": 10,
+      "dy": 70,
+      "hiza": "start",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "yararli",
+     "cumle": 1
+    },
+    {
+     "parca": "olu",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Ölü bölgenin bilinmesi işitme cihazı uygulamasında yol gösterici olabilir.",
+    "Tiz ölü bölgesi olan kişilerde, kazancı kenar frekansının yaklaşık bir virgül yedi katına kadar vermenin yararlı olabildiği gösterilmiştir.",
+    "Ölü bölgenin daha derinine verilen kazanç bazı kişilerde anlaşılırlığa katkı vermeyebilir, hatta sesi bozabilir.",
+    "Ancak bazı çalışmalar, ölü bölgesi olan cihaz kullanıcılarının da tiz frekans kazancından yarar görebildiğini bildirmiştir.",
+    "Bu yüzden kazanç yalnız TEN sonucuna göre kesilmez; karar kişinin yanıtına ve doğrulama ölçümlerine göre verilir.",
+    "Geniş ölü bölgelerde frekans düşürme gibi seçenekler de değerlendirilebilir; bunu ileride cihaz derslerinde göreceğiz.",
+    "Ölü bölge bilgisi, hastanın beklentilerini gerçekçi kılmak için danışmanlıkta da değerlidir."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Klinik önemi",
+   "baslik": "Bilmemiz gereken *diğer noktalar*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Pes ölü bölge",
+     "metin": "Yükselen odyogramlarda bildirildi",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocuklar",
+     "metin": "Güvenilirlik sınırlı",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Birlikte yorum",
+     "metin": "Odyogram, konuşma, yakınma",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ölü bölgeler yalnız tiz frekanslarda görülmez.",
+    "Pes frekanslarda kaybı olan, örneğin yükselen konfigürasyonlu odyogramlarda pes frekans ölü bölgeleri de bildirilmiştir.",
+    "Bu durumda pes sesler daha tiz ve sağlam bir bölgede algılanır.",
+    "Ölü bölge testi çocuklarda ve dikkatini uzun süre sürdüremeyen kişilerde güvenilir biçimde yapılamayabilir.",
+    "Test bulguları her zaman odyogram, konuşma testleri ve hastanın yakınmalarıyla birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Tiz tonu bozuk ya da hışırtı gibi duyduğunu söyleyen ve odyogramı dik düşen hastada TEN testini düşünün. İki desibellik adım ve konforlu gürültü düzeyi kullanın.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: tiz frekanslarda tonu ıslık gibi değil de hışırtı gibi ya da bozuk duyduğunu söyleyen hastayı not edin.",
+    "Bu tür yakınmalar dik düşen bir odyogramla birlikteyse TEN testi yapmayı düşünün.",
+    "Testte iki desibellik adımları ve gürültünün rahatsızlık düzeyini aşmamasını unutmayın.",
+    "Sonucu raporda kenar frekansı tahminiyle birlikte yazın; cihaz ayarında ve takipte bu bilgi işe yarar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Ölü bölge: _iç tüy hücresi_ kaybı",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ton _komşu bölgede_ algılanır",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "TEN: maskeli eşik _10 dB_ ölçütü",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kazanç kararı _kişiye göre_",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Koklear ölü bölge, iç tüy hücrelerinin ya da sinir liflerinin işlev görmediği bölgedir.",
+    "Ölü bölgeye düşen ton, frekans dışı dinlemeyle komşu sağlam bölgede algılanır; odyogram bunu kendiliğinden göstermez.",
+    {
+     "yazi": "TEN(HL) testinde maskeli eşik hem gürültünün hem sessiz eşiğin en az on desibel üzerindeyse ölü bölge düşünülür.",
+     "ses": "TEN eyç el testinde maskeli eşik hem gürültünün hem sessiz eşiğin en az on desibel üzerindeyse ölü bölge düşünülür."
+    },
+    "Tiz ölü bölgelerde kenar frekansının yaklaşık bir virgül yedi katına kadar kazanç yararlı bulunmuştur; karar kişiye göre verilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "TEN 80, sessiz eşik 70, maskeli eşik 94 dB HL: sonuç?",
+   "secenekler": [
+    "Ölü bölge düşündürür",
+    "Ölü bölge yok",
+    "Sonuç kesin değil"
+   ],
+   "dogru": 0,
+   "aciklama": "Maskeli eşik gürültünün _14 dB_, sessiz eşiğin _24 dB_ üzerinde.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Gürültü seksen, sessiz eşik yetmiş, maskeli eşik doksan dört desibel HL ise sonuç nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: ölü bölge düşündürür.",
+    "Maskeli eşik gürültünün on dört, sessiz eşiğin yirmi dört desibel üzerinde; yani iki ölçüt de karşılanıyor."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Neden *maskeleme* yaparız?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste klinik maskelemeye geçiyor ve kulaklar arası zayıflamayı öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,108 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R300_Zayif_Ses_Once_Filtre_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #300",
+  "baslik": "Zayıf ses: *önce filtre*",
+  "alt": "Kazanç artırmadan önce bakım kontrolü",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İşitme cihazının sesi zayıfladıysa önce kazanç mı artırılır? #shorts",
+  "aciklama": "Zayıf ses şikayetinde en sık neden, kulak kiriyle kısmen tıkanmış bir kir filtresidir; filtre değişince ses çoğu zaman düzelir. Tıkalı filtre yerine kazanç artırılırsa, filtre değişince cihaz gereğinden yüksek ses verir; bu yüzden önce pil, kir filtresi, dom ya da tüp ve otoskopiyle kulak yolu kontrol edilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitmecihazı",
+   "bakım"
+  ],
+  "etiketler": [
+   "işitme cihazı bakımı",
+   "kir filtresi",
+   "zayıf ses",
+   "arıza giderme",
+   "kulak kiri",
+   "dinleme stetoskobu",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İşitme cihazının sesi zayıfladıysa önce kazanç mı artırılır?",
+  "bilgiler": [
+   "Zayıf seste en sık neden, kirle tıkanmış bir kir filtresidir.",
+   "Filtre değişince ses çoğu zaman düzelir.",
+   "Kazancı artırmadan önce pil, filtre, dom ve kulak yolu kontrol edilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "bakım"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #300",
+   "metin": "Ses zayıf, *kazanç mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İşitme cihazının sesi zayıfladıysa önce kazanç mı artırılır?"
+   ]
+  },
+  {
+   "id": "kontrol",
+   "tur": "zincir",
+   "baslik": "Önce *bakım*, sonra ayar",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Pil",
+     "tr": "güç kaynağı",
+     "cumle": 1
+    },
+    {
+     "ad": "Kir filtresi",
+     "tr": "tıkanmış mı?",
+     "cumle": 2
+    },
+    {
+     "ad": "Kulak yolu",
+     "tr": "otoskopi",
+     "cumle": 3
+    }
+   ],
+   "alt": "Ayar değil: _önce bakım_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Zayıf ses şikayetinde hemen kazancı artırmaya yönelmeyin.",
+    "Önce pili kontrol edin; zayıf pil pek çok arızanın gizli nedenidir.",
+    "En sık neden, kulak kiriyle kısmen tıkanmış bir kir filtresidir.",
+    "Dom, tüp ve otoskopiyle kulak yolu da mutlaka kontrol edilir.",
+    "Kazanç artırılırsa, filtre değişince cihaz gereğinden yüksek ses verir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D197",
+ "kaynak_baslik": "İşitme cihazı bakımı ve sık arızalar"
+}

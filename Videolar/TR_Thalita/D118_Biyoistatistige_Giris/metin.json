@@ -1,0 +1,1545 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D118_Biyoistatistige_Giris_TR",
+ "kapak": {
+  "ust": "DERS 118",
+  "baslik": "Ortalama ve<br>*standart sapma*",
+  "alt": "Biyoistatistiğe giriş",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 4.8,
+    "max": 6.4,
+    "ad": "Dalga V latansı (ms)",
+    "isaretler": [
+     5.0,
+     5.2,
+     5.4,
+     5.6,
+     5.8,
+     6.0,
+     6.2
+    ],
+    "ond": 1
+   },
+   "y": {
+    "min": 0,
+    "max": 1.15,
+    "adim": 0.5,
+    "yazisiz": true,
+    "ad": "Kişi sayısı (göreli)"
+   },
+   "seriler": [
+    {
+     "ad": "egri",
+     "noktalar": [
+      [
+       4.8,
+       0.0003
+      ],
+      [
+       4.82,
+       0.0005
+      ],
+      [
+       4.84,
+       0.0007
+      ],
+      [
+       4.86,
+       0.0011
+      ],
+      [
+       4.88,
+       0.0015
+      ],
+      [
+       4.9,
+       0.0022
+      ],
+      [
+       4.92,
+       0.0031
+      ],
+      [
+       4.94,
+       0.0043
+      ],
+      [
+       4.96,
+       0.006
+      ],
+      [
+       4.98,
+       0.0082
+      ],
+      [
+       5.0,
+       0.0111
+      ],
+      [
+       5.02,
+       0.0149
+      ],
+      [
+       5.04,
+       0.0198
+      ],
+      [
+       5.06,
+       0.0261
+      ],
+      [
+       5.08,
+       0.034
+      ],
+      [
+       5.1,
+       0.0439
+      ],
+      [
+       5.12,
+       0.0561
+      ],
+      [
+       5.14,
+       0.071
+      ],
+      [
+       5.16,
+       0.0889
+      ],
+      [
+       5.18,
+       0.1103
+      ],
+      [
+       5.2,
+       0.1353
+      ],
+      [
+       5.22,
+       0.1645
+      ],
+      [
+       5.24,
+       0.1979
+      ],
+      [
+       5.26,
+       0.2357
+      ],
+      [
+       5.28,
+       0.278
+      ],
+      [
+       5.3,
+       0.3247
+      ],
+      [
+       5.32,
+       0.3753
+      ],
+      [
+       5.34,
+       0.4296
+      ],
+      [
+       5.36,
+       0.4868
+      ],
+      [
+       5.38,
+       0.5461
+      ],
+      [
+       5.4,
+       0.6065
+      ],
+      [
+       5.42,
+       0.667
+      ],
+      [
+       5.44,
+       0.7261
+      ],
+      [
+       5.46,
+       0.7827
+      ],
+      [
+       5.48,
+       0.8353
+      ],
+      [
+       5.5,
+       0.8825
+      ],
+      [
+       5.52,
+       0.9231
+      ],
+      [
+       5.54,
+       0.956
+      ],
+      [
+       5.56,
+       0.9802
+      ],
+      [
+       5.58,
+       0.995
+      ],
+      [
+       5.6,
+       1.0
+      ],
+      [
+       5.62,
+       0.995
+      ],
+      [
+       5.64,
+       0.9802
+      ],
+      [
+       5.66,
+       0.956
+      ],
+      [
+       5.68,
+       0.9231
+      ],
+      [
+       5.7,
+       0.8825
+      ],
+      [
+       5.72,
+       0.8353
+      ],
+      [
+       5.74,
+       0.7827
+      ],
+      [
+       5.76,
+       0.7261
+      ],
+      [
+       5.78,
+       0.667
+      ],
+      [
+       5.8,
+       0.6065
+      ],
+      [
+       5.82,
+       0.5461
+      ],
+      [
+       5.84,
+       0.4868
+      ],
+      [
+       5.86,
+       0.4296
+      ],
+      [
+       5.88,
+       0.3753
+      ],
+      [
+       5.9,
+       0.3247
+      ],
+      [
+       5.92,
+       0.278
+      ],
+      [
+       5.94,
+       0.2357
+      ],
+      [
+       5.96,
+       0.1979
+      ],
+      [
+       5.98,
+       0.1645
+      ],
+      [
+       6.0,
+       0.1353
+      ],
+      [
+       6.02,
+       0.1103
+      ],
+      [
+       6.04,
+       0.0889
+      ],
+      [
+       6.06,
+       0.071
+      ],
+      [
+       6.08,
+       0.0561
+      ],
+      [
+       6.1,
+       0.0439
+      ],
+      [
+       6.12,
+       0.034
+      ],
+      [
+       6.14,
+       0.0261
+      ],
+      [
+       6.16,
+       0.0198
+      ],
+      [
+       6.18,
+       0.0149
+      ],
+      [
+       6.2,
+       0.0111
+      ],
+      [
+       6.22,
+       0.0082
+      ],
+      [
+       6.24,
+       0.006
+      ],
+      [
+       6.26,
+       0.0043
+      ],
+      [
+       6.28,
+       0.0031
+      ],
+      [
+       6.3,
+       0.0022
+      ],
+      [
+       6.32,
+       0.0015
+      ],
+      [
+       6.34,
+       0.0011
+      ],
+      [
+       6.36,
+       0.0007
+      ],
+      [
+       6.38,
+       0.0005
+      ],
+      [
+       6.4,
+       0.0003
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "dolgu": true,
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "ortalama",
+     "x": 5.6,
+     "y": 1.08,
+     "cizgi": "dikey",
+     "etiket": "ortalama 5,6",
+     "cumle": 2
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "bir_sd",
+     "x": [
+      5.4,
+      5.8
+     ],
+     "renk": "sari",
+     "etiket": "±1 SD: %68",
+     "cumle": 4
+    },
+    {
+     "ad": "iki_sd",
+     "x": [
+      5.2,
+      6.0
+     ],
+     "renk": "gri",
+     "etiket": "±2 SD: %95",
+     "cumle": 5
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Biyoistatistiğe giriş: ortalama, SD, normal dağılım | Ders 118 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bir odyoloji makalesindeki sayıları nasıl okuruz? Bu derste veri türlerini, ortalama ve ortancayı, standart sapmanın hesaplanmasını, normal dağılımı, normatif veri ve z puanını, yüzdelikleri ve güven aralığını ABR latansı gibi odyoloji örnekleriyle öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Altman, Practical Statistics for Medical Research; Petrie ve Sabin, Medical Statistics at a Glance; Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "biyoistatistik",
+   "araştırma"
+  ],
+  "etiketler": [
+   "biyoistatistik",
+   "ortalama",
+   "ortanca",
+   "standart sapma",
+   "standard deviation",
+   "normal dağılım",
+   "normal distribution",
+   "güven aralığı",
+   "confidence interval",
+   "yüzdelik",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 118",
+   "baslik": "Biyoistatistiğe *giriş*",
+   "alt": "Ortalama, standart sapma, normal dağılım",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir makalenin bulgular bölümünü okuyabilmek için gereken temel istatistik kavramlarını öğreneceğiz.",
+    "Ortalama ve ortancayı, standart sapmayı, normal dağılımı, normatif veriyi, yüzdelikleri ve güven aralığını odyoloji örnekleriyle göreceğiz."
+   ]
+  },
+  {
+   "id": "turler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Veriyi tanımak",
+   "baslik": "Üç tür *veri*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kategorik",
+     "metin": "Kulak, cinsiyet, tarama sonucu",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Sıralı",
+     "metin": "Hafif, orta, ileri kayıp",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sürekli",
+     "metin": "Latans, eşik, skor",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İstatistikte ilk adım, elimizdeki verinin türünü tanımaktır; çünkü hangi özetin ve hangi testin kullanılacağı buna bağlıdır.",
+    "Kategorik veri adlardan oluşur: test edilen kulak, cinsiyet ya da taramada geçti ve kaldı sonucu gibi.",
+    "Bu veriler sayılarak ve yüzdelerle özetlenir; ortalamaları alınamaz.",
+    "Sıralı veride kategoriler arasında bir sıra vardır: hafif, orta ve ileri işitme kaybı gibi; ama aralıklar eşit değildir.",
+    "Sürekli veri ise ölçümle elde edilir: işitsel beyin sapı yanıtı latansı milisaniye, eşik desibel, kelime tanıma skoru yüzde olarak.",
+    "Odyogramdaki eşikler beş desibellik adımlarla ölçülse de, çoğu analizde sürekli veri gibi ele alınır.",
+    "Sürekli veriler, birazdan göreceğimiz ortalama, ortanca ve standart sapma gibi ölçülerle özetlenir."
+   ]
+  },
+  {
+   "id": "merkez",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Veriyi tanımak",
+   "baslik": "Ortalama mı, *ortanca* mı?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 42,
+     "ad": "Tinnitus süresi (yıl)",
+     "isaretler": [
+      0,
+      10,
+      20,
+      30,
+      40
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 3,
+     "adim": 1,
+     "ad": "Kişi sayısı"
+    },
+    "seriler": [
+     {
+      "ad": "veri",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        1
+       ],
+       [
+        3,
+        2
+       ],
+       [
+        4,
+        1
+       ],
+       [
+        5,
+        1
+       ],
+       [
+        6,
+        1
+       ],
+       [
+        40,
+        1
+       ]
+      ],
+      "renk": "lacivert",
+      "etiket": "7 kişi",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "medyan",
+      "x": 4,
+      "y": 2.6,
+      "cizgi": "dikey",
+      "etiket": "ortanca 4",
+      "cumle": 3
+     },
+     {
+      "ad": "ortalama",
+      "x": 9,
+      "y": 2.6,
+      "cizgi": "dikey",
+      "etiket": "ortalama 9",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Ortalama: 63 / 7 = 9",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Ortanca: 4 yıl",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Uç değer ortalamayı çeker",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Bir veri kümesinin merkezini üç ölçüyle anlatırız: ortalama, ortanca ve tepe değer.",
+    "Örnek olarak tinnitus yakınması olan yedi kişinin yakınma sürelerine bakalım: iki, üç, üç, dört, beş, altı ve kırk yıl.",
+    "Ortalama (mean), değerlerin toplamının kişi sayısına bölünmesidir; burada altmış üç bölü yedi, yani dokuz yıldır.",
+    "Ortanca (median), değerler sıralandığında tam ortada kalan değerdir; burada dördüncü değer, yani dört yıldır.",
+    "Tepe değer (mode) en sık görülen değerdir; burada üç yıl.",
+    "Tek bir uç değer, yani kırk yıl, ortalamayı dokuza çekmiş; ortanca ise grubu çok daha iyi temsil ediyor.",
+    "Bu yüzden çarpık, yani bir yana uzayan dağılımlarda ortanca tercih edilir.",
+    "Simetrik bir dağılımda ise ortalama ile ortanca birbirine çok yakın çıkar."
+   ]
+  },
+  {
+   "id": "sd",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yayılım",
+   "baslik": "Standart sapma *adım adım*",
+   "adimlar": [
+    {
+     "ikon": "tablo",
+     "baslik": "Farkları al",
+     "metin": "Her değer eksi ortalama",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Karesini al",
+     "metin": "Eksiler ortadan kalkar",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Topla, böl",
+     "metin": "n eksi bire böl",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Karekök",
+     "metin": "Standart sapma",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Merkez tek başına yetmez; değerlerin ortalama etrafında ne kadar yayıldığını da bilmemiz gerekir.",
+    "Örnek olarak, ileride göreceğimiz işitsel beyin sapı yanıtı, kısaca ABR'de beş kişinin dalga V latanslarını alalım.",
+    "Değerler beş virgül dört, beş virgül beş, beş virgül altı, beş virgül yedi ve beş virgül sekiz milisaniye; ortalama beş virgül altı.",
+    "Her değerin ortalamadan farkı alınır ve bu farkların karesi hesaplanır; kareler toplamı sıfır virgül on bulunur.",
+    "Bu toplam, örneklemde n eksi bire, yani dörde bölünür; sonuç sıfır virgül sıfır yirmi beştir ve buna varyans (variance) denir.",
+    "Varyansın birimi milisaniyenin karesi olduğu için yorumlaması zordur.",
+    "Bu yüzden karekökü alınır: yaklaşık sıfır virgül on altı milisaniye; bu değer standart sapmadır (standard deviation), kısaca SD.",
+    "Standart sapma büyüdükçe değerler ortalamadan daha uzağa dağılmış demektir."
+   ]
+  },
+  {
+   "id": "yayilim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yayılım",
+   "baslik": "Diğer *yayılım* ölçüleri",
+   "maddeler": [
+    {
+     "metin": "Açıklık: en büyük eksi en küçük",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Çeyrekler arası açıklık: ortadaki %50",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Ortalama ± SD: simetrik veride",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ortanca ve çeyrekler: çarpık veride",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "İPUCU",
+    "metin": "SD ortalamaya göre çok büyükse, veri *çarpık* olabilir",
+    "cumle": 4
+   },
+   "cumleler": [
+    "En basit yayılım ölçüsü açıklıktır (range): en büyük değerden en küçük değerin çıkarılmasıyla bulunur.",
+    "Açıklık tek bir uç değerden çok etkilenir; tinnitus örneğimizde otuz sekiz yıldır.",
+    "Çeyrekler arası açıklık (interquartile range) ise değerlerin ortadaki yüzde ellisinin kapladığı aralıktır ve uç değerlerden az etkilenir.",
+    "Simetrik dağılan veriler makalelerde genellikle ortalama artı eksi standart sapma olarak verilir.",
+    "Çarpık verilerde ise ortanca ve çeyrekler arası açıklık birlikte bildirilir.",
+    "Makale okurken hangi özetin kullanıldığına bakmak, verinin biçimi hakkında ilk ipucunu verir."
+   ]
+  },
+  {
+   "id": "normal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normal dağılım",
+   "baslik": "Normal *dağılım*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 4.8,
+     "max": 6.4,
+     "ad": "Dalga V latansı (ms)",
+     "isaretler": [
+      5.0,
+      5.2,
+      5.4,
+      5.6,
+      5.8,
+      6.0,
+      6.2
+     ],
+     "ond": 1
+    },
+    "y": {
+     "min": 0,
+     "max": 1.15,
+     "adim": 0.5,
+     "yazisiz": true,
+     "ad": "Kişi sayısı (göreli)"
+    },
+    "seriler": [
+     {
+      "ad": "egri",
+      "noktalar": [
+       [
+        4.8,
+        0.0003
+       ],
+       [
+        4.82,
+        0.0005
+       ],
+       [
+        4.84,
+        0.0007
+       ],
+       [
+        4.86,
+        0.0011
+       ],
+       [
+        4.88,
+        0.0015
+       ],
+       [
+        4.9,
+        0.0022
+       ],
+       [
+        4.92,
+        0.0031
+       ],
+       [
+        4.94,
+        0.0043
+       ],
+       [
+        4.96,
+        0.006
+       ],
+       [
+        4.98,
+        0.0082
+       ],
+       [
+        5.0,
+        0.0111
+       ],
+       [
+        5.02,
+        0.0149
+       ],
+       [
+        5.04,
+        0.0198
+       ],
+       [
+        5.06,
+        0.0261
+       ],
+       [
+        5.08,
+        0.034
+       ],
+       [
+        5.1,
+        0.0439
+       ],
+       [
+        5.12,
+        0.0561
+       ],
+       [
+        5.14,
+        0.071
+       ],
+       [
+        5.16,
+        0.0889
+       ],
+       [
+        5.18,
+        0.1103
+       ],
+       [
+        5.2,
+        0.1353
+       ],
+       [
+        5.22,
+        0.1645
+       ],
+       [
+        5.24,
+        0.1979
+       ],
+       [
+        5.26,
+        0.2357
+       ],
+       [
+        5.28,
+        0.278
+       ],
+       [
+        5.3,
+        0.3247
+       ],
+       [
+        5.32,
+        0.3753
+       ],
+       [
+        5.34,
+        0.4296
+       ],
+       [
+        5.36,
+        0.4868
+       ],
+       [
+        5.38,
+        0.5461
+       ],
+       [
+        5.4,
+        0.6065
+       ],
+       [
+        5.42,
+        0.667
+       ],
+       [
+        5.44,
+        0.7261
+       ],
+       [
+        5.46,
+        0.7827
+       ],
+       [
+        5.48,
+        0.8353
+       ],
+       [
+        5.5,
+        0.8825
+       ],
+       [
+        5.52,
+        0.9231
+       ],
+       [
+        5.54,
+        0.956
+       ],
+       [
+        5.56,
+        0.9802
+       ],
+       [
+        5.58,
+        0.995
+       ],
+       [
+        5.6,
+        1.0
+       ],
+       [
+        5.62,
+        0.995
+       ],
+       [
+        5.64,
+        0.9802
+       ],
+       [
+        5.66,
+        0.956
+       ],
+       [
+        5.68,
+        0.9231
+       ],
+       [
+        5.7,
+        0.8825
+       ],
+       [
+        5.72,
+        0.8353
+       ],
+       [
+        5.74,
+        0.7827
+       ],
+       [
+        5.76,
+        0.7261
+       ],
+       [
+        5.78,
+        0.667
+       ],
+       [
+        5.8,
+        0.6065
+       ],
+       [
+        5.82,
+        0.5461
+       ],
+       [
+        5.84,
+        0.4868
+       ],
+       [
+        5.86,
+        0.4296
+       ],
+       [
+        5.88,
+        0.3753
+       ],
+       [
+        5.9,
+        0.3247
+       ],
+       [
+        5.92,
+        0.278
+       ],
+       [
+        5.94,
+        0.2357
+       ],
+       [
+        5.96,
+        0.1979
+       ],
+       [
+        5.98,
+        0.1645
+       ],
+       [
+        6.0,
+        0.1353
+       ],
+       [
+        6.02,
+        0.1103
+       ],
+       [
+        6.04,
+        0.0889
+       ],
+       [
+        6.06,
+        0.071
+       ],
+       [
+        6.08,
+        0.0561
+       ],
+       [
+        6.1,
+        0.0439
+       ],
+       [
+        6.12,
+        0.034
+       ],
+       [
+        6.14,
+        0.0261
+       ],
+       [
+        6.16,
+        0.0198
+       ],
+       [
+        6.18,
+        0.0149
+       ],
+       [
+        6.2,
+        0.0111
+       ],
+       [
+        6.22,
+        0.0082
+       ],
+       [
+        6.24,
+        0.006
+       ],
+       [
+        6.26,
+        0.0043
+       ],
+       [
+        6.28,
+        0.0031
+       ],
+       [
+        6.3,
+        0.0022
+       ],
+       [
+        6.32,
+        0.0015
+       ],
+       [
+        6.34,
+        0.0011
+       ],
+       [
+        6.36,
+        0.0007
+       ],
+       [
+        6.38,
+        0.0005
+       ],
+       [
+        6.4,
+        0.0003
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "dolgu": true,
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "ortalama",
+      "x": 5.6,
+      "y": 1.08,
+      "cizgi": "dikey",
+      "etiket": "ortalama 5,6",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "bir_sd",
+      "x": [
+       5.4,
+       5.8
+      ],
+      "renk": "sari",
+      "etiket": "±1 SD: %68",
+      "cumle": 4
+     },
+     {
+      "ad": "iki_sd",
+      "x": [
+       5.2,
+       6.0
+      ],
+      "renk": "gri",
+      "etiket": "±2 SD: %95",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "±1 SD: yaklaşık %68",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "±2 SD: yaklaşık %95",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "±3 SD: yaklaşık %99,7",
+     "cumle": 6,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Birçok biyolojik ölçüm, ortalama etrafında simetrik ve çan biçimli bir dağılım gösterir; buna normal dağılım (normal distribution) denir.",
+    "Ekranda normal işiten yetişkinlerden elde edilmiş örnek bir dalga V latans dağılımı görüyoruz.",
+    "Bu örnekte ortalama beş virgül altı, standart sapma sıfır virgül iki milisaniyedir.",
+    "Değerlerin çoğu ortalama çevresinde toplanır; ortalamadan uzaklaştıkça kişi sayısı azalır.",
+    "Normal dağılımda değerlerin yaklaşık yüzde altmış sekizi, ortalamanın bir standart sapma altı ile üstü arasında kalır.",
+    "Yaklaşık yüzde doksan beşi ortalamadan iki standart sapma uzaklık içindedir; tam değer bir virgül doksan altı standart sapmadır.",
+    "Üç standart sapma içinde ise değerlerin yaklaşık yüzde doksan dokuz virgül yedisi bulunur.",
+    "Bu örnekte normal kişilerin yaklaşık yüzde doksan beşinin latansı beş virgül iki ile altı virgül sıfır milisaniye arasındadır."
+   ]
+  },
+  {
+   "id": "z",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normal dağılım",
+   "baslik": "Normatif veri ve *z puanı*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Normatif veri",
+     "metin": "Normal grubun ortalama ve SD'si",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "z puanı",
+     "metin": "Fark bölü SD",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Normal sınır",
+     "metin": "Çoğu zaman ±2 SD",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Klinikte bir hastanın sonucunu, normal işiten bir gruptan elde edilen normatif veriyle karşılaştırırız.",
+    "Örneğin bir hastanın dalga V latansı altı virgül bir milisaniye olsun.",
+    "Bu değerin ortalamadan kaç standart sapma uzak olduğunu z puanı (z score) gösterir: değer eksi ortalama, bölü standart sapma.",
+    "Burada altı virgül bir eksi beş virgül altı, yani sıfır virgül beş; bunu sıfır virgül ikiye böldüğümüzde z puanı iki virgül beş bulunur.",
+    "Birçok klinik norm, ortalamadan iki standart sapmadan fazla uzaklaşan değeri normal sınırın dışında sayar.",
+    "Bazı normlar ise iki buçuk ya da üç standart sapmalık bir sınır kullanır.",
+    "Unutmayın, bu tanımla normal kişilerin de yaklaşık yüzde beşi normal sınırın dışında kalır."
+   ]
+  },
+  {
+   "id": "yuzdelik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normal dağılım",
+   "baslik": "*Yüzdelikler*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "50. yüzdelik",
+     "metin": "Ortanca ile aynı",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "25. ve 75.",
+     "metin": "Ortadaki yarıyı sınırlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Üst sınır",
+     "metin": "90. ya da 95. yüzdelik",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Veri normal dağılmıyorsa normal sınır yüzdeliklerle (percentile) tanımlanır.",
+    "Bir değerin ellinci yüzdelikte olması, grubun yarısının bu değerin altında kaldığını gösterir; ellinci yüzdelik ortancadır.",
+    "Yirmi beşinci ve yetmiş beşinci yüzdelikler, değerlerin ortadaki yarısını sınırlar.",
+    "Odyolojide üst sınır olarak çoğu zaman doksanıncı ya da doksan beşinci yüzdelik kullanılır.",
+    "Akustik refleks normlarında da doksanıncı yüzdelik değerlerinin kullanıldığını önceki derslerde görmüştük.",
+    "Yüzdelikler, dağılımın biçimi ne olursa olsun doğrudan yorumlanabildiği için normatif tablolarda çok kullanılır.",
+    "Çocukların boy ve kilo gelişim eğrilerinde kullanılan mantık da tam olarak budur."
+   ]
+  },
+  {
+   "id": "ga",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Güven aralığı",
+   "baslik": "Güven aralığı ve *n*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 110,
+     "ad": "Örneklem büyüklüğü (n)",
+     "isaretler": [
+      10,
+      25,
+      50,
+      100
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 0.15,
+     "adim": 0.05,
+     "ad": "%95 GA yarı genişliği (ms)",
+     "ond": 2
+    },
+    "seriler": [
+     {
+      "ad": "genislik",
+      "noktalar": [
+       [
+        10,
+        0.124
+       ],
+       [
+        12,
+        0.1132
+       ],
+       [
+        14,
+        0.1048
+       ],
+       [
+        16,
+        0.098
+       ],
+       [
+        18,
+        0.0924
+       ],
+       [
+        20,
+        0.0877
+       ],
+       [
+        22,
+        0.0836
+       ],
+       [
+        24,
+        0.08
+       ],
+       [
+        26,
+        0.0769
+       ],
+       [
+        28,
+        0.0741
+       ],
+       [
+        30,
+        0.0716
+       ],
+       [
+        32,
+        0.0693
+       ],
+       [
+        34,
+        0.0672
+       ],
+       [
+        36,
+        0.0653
+       ],
+       [
+        38,
+        0.0636
+       ],
+       [
+        40,
+        0.062
+       ],
+       [
+        42,
+        0.0605
+       ],
+       [
+        44,
+        0.0591
+       ],
+       [
+        46,
+        0.0578
+       ],
+       [
+        48,
+        0.0566
+       ],
+       [
+        50,
+        0.0554
+       ],
+       [
+        52,
+        0.0544
+       ],
+       [
+        54,
+        0.0533
+       ],
+       [
+        56,
+        0.0524
+       ],
+       [
+        58,
+        0.0515
+       ],
+       [
+        60,
+        0.0506
+       ],
+       [
+        62,
+        0.0498
+       ],
+       [
+        64,
+        0.049
+       ],
+       [
+        66,
+        0.0483
+       ],
+       [
+        68,
+        0.0475
+       ],
+       [
+        70,
+        0.0469
+       ],
+       [
+        72,
+        0.0462
+       ],
+       [
+        74,
+        0.0456
+       ],
+       [
+        76,
+        0.045
+       ],
+       [
+        78,
+        0.0444
+       ],
+       [
+        80,
+        0.0438
+       ],
+       [
+        82,
+        0.0433
+       ],
+       [
+        84,
+        0.0428
+       ],
+       [
+        86,
+        0.0423
+       ],
+       [
+        88,
+        0.0418
+       ],
+       [
+        90,
+        0.0413
+       ],
+       [
+        92,
+        0.0409
+       ],
+       [
+        94,
+        0.0404
+       ],
+       [
+        96,
+        0.04
+       ],
+       [
+        98,
+        0.0396
+       ],
+       [
+        100,
+        0.0392
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "cumle": 5
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "n25",
+      "x": 25,
+      "y": 0.078,
+      "etiket": "±0,08",
+      "dus": "x",
+      "cumle": 4
+     },
+     {
+      "ad": "n100",
+      "x": 100,
+      "y": 0.039,
+      "etiket": "±0,04",
+      "dus": "x",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "SH = SD / √n",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "%95 GA = ortalama ± 1,96 SH",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "n arttıkça aralık daralır",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Bir çalışmada bulunan ortalama, yalnız o örnekleme aittir; asıl merak ettiğimiz, bütün topluluğun gerçek ortalamasıdır.",
+    "Ortalamanın ne kadar kesin tahmin edildiğini standart hata (standard error) gösterir: standart sapma bölü n'nin karekökü.",
+    "Önceki örnekte standart sapma sıfır virgül iki ve n yirmi beş ise standart hata sıfır virgül iki bölü beş, yani sıfır virgül sıfır dörttür.",
+    "Yüzde doksan beş güven aralığı (confidence interval), büyük örneklemde yaklaşık ortalama artı eksi bir virgül doksan altı standart hatadır.",
+    "Bu örnekte aralık artı eksi yaklaşık sıfır virgül sıfır sekizdir; yani beş virgül elli iki ile beş virgül altmış sekiz milisaniye arasıdır.",
+    "n büyüdükçe aralık daralır: yirmi beş kişiyle artı eksi sıfır virgül sıfır sekiz, yüz kişiyle artı eksi sıfır virgül sıfır dört.",
+    "Dar aralık daha kesin bir tahmin demektir; küçük örneklemlerde bir virgül doksan altı yerine biraz daha büyük bir t değeri kullanılır.",
+    "Makalelerde güven aralığı çoğu zaman ortalamanın hemen yanında, köşeli parantez içinde verilir."
+   ]
+  },
+  {
+   "id": "karistirma",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Güven aralığı",
+   "baslik": "İki aralığı *karıştırmayın*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Normal aralık",
+     "metin": "Kişilerin %95'i: 5,2 ile 6,0",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Güven aralığı",
+     "metin": "Ortalama: 5,52 ile 5,68",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Öğrencilerin sık karıştırdığı iki aralığı yan yana koyalım.",
+    "Normal aralık, tek tek kişilerin değerlerinin nereye düştüğünü gösterir; örneğimizde beş virgül iki ile altı virgül sıfır milisaniye.",
+    "Bir hastanın sonucunu yorumlarken kullandığımız aralık budur.",
+    "Güven aralığı ise yalnız ortalamanın kesinliği hakkındadır; örneğimizde beş virgül elli iki ile beş virgül altmış sekiz milisaniye.",
+    "Güven aralığı örneklem büyüdükçe daralır; normal aralık ise daralmaz, çünkü kişiler arasındaki doğal farklılık değişmez.",
+    "Bir hastanın değeri güven aralığının dışında diye anormal sayılmaz.",
+    "Bu ayrımı bilmek, makalelerdeki tabloları doğru okumanın anahtarlarından biridir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Bir normu kullanmadan önce yaşın, cihazın ve protokolün sizinkine uyup uymadığını kontrol edin.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: bir makaleden ya da cihazdan aldığınız normatif değerler, yalnız o çalışmanın koşullarında geçerlidir.",
+    "Yaş grubu, uyaran türü, uyaran hızı ve kullanılan kulaklık değiştiğinde ortalama ve standart sapma da değişebilir.",
+    "Örneğin bebeklerin ABR latansları yetişkin normlarıyla değerlendirilemez.",
+    "Mümkünse kliniğinizde, kendi cihazınız ve protokolünüzle küçük bir normal grup ölçerek normların uyumunu doğrulayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Veri türü özeti ve testi belirler",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Çarpık veride _ortanca_, simetrikte ortalama",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal dağılım: ±2 SD yaklaşık %95",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Güven aralığı: ortalamanın _kesinliği_",
+     "cumle": 3,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Kategorik, sıralı ve sürekli veriler farklı biçimde özetlenir.",
+    "Simetrik veride ortalama ve standart sapma, çarpık veride ortanca ve çeyrekler arası açıklık kullanılır.",
+    "Normal dağılımda değerlerin yaklaşık yüzde doksan beşi ortalamadan iki standart sapma uzaklık içindedir; normal sınırlar buna dayanır.",
+    "Güven aralığı ortalamanın ne kadar kesin tahmin edildiğini gösterir ve örneklem büyüdükçe daralır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Ortalama 5,6 ms, SD 0,2 ms: %95 normal aralık?",
+   "secenekler": [
+    "5,4 ile 5,8 ms",
+    "5,2 ile 6,0 ms",
+    "5,52 ile 5,68 ms",
+    "5,0 ile 6,2 ms"
+   ],
+   "dogru": 1,
+   "aciklama": "Normal aralık yaklaşık _ortalama ± 2 SD_: 5,6 ± 0,4.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: ortalama beş virgül altı, standart sapma sıfır virgül iki milisaniyeyse kişilerin yüzde doksan beşi nerededir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: beş virgül iki ile altı virgül sıfır milisaniye.",
+    "Ortalamadan iki standart sapma aşağı ve yukarı gideriz; C seçeneği ise ortalamanın güven aralığıdır, kişilerin aralığı değildir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Hipotez testi* ve p değeri",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iki grup arasındaki farkın şansla açıklanıp açıklanamayacağını soran hipotez testini ve p değerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,720 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D161_Kalorik_vHIT_Ayrisma_TR",
+ "kapak": {
+  "ust": "DERS 161",
+  "baslik": "Kalorik ve<br>*vHIT*",
+  "alt": "Neden farklı sonuç verirler?",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Kalorik ve vHIT Neden Farklı Sonuç Verebilir? | Ders 161 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kalorik test ile video baş itme testinin (vHIT) neden farklı sonuç verebildiğini anlatıyoruz: VOR'un frekans aralığı, iki testin uyaran ve kanal farkları, Meniere hastalığında kalorik ve vHIT ayrışması, teknik nedenler ve test bataryası yaklaşımı.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; McGarvie ve ark., What does the head impulse test versus caloric dissociation reveal about vestibular dysfunction in Ménière's disease?, Annals of the New York Academy of Sciences (2015); Tamanini ve ark., Dissociation between video head impulse test and caloric test: a marker of Ménière's disease? A systematic review and meta-analysis, Brazilian Journal of Otorhinolaryngology (2023); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vHIT",
+   "vestibüler"
+  ],
+  "etiketler": [
+   "kalorik test",
+   "vHIT",
+   "video baş itme testi",
+   "VOR frekans aralığı",
+   "ayrışma",
+   "dissociation",
+   "Meniere hastalığı",
+   "test bataryası",
+   "test battery approach",
+   "vestibüler değerlendirme",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 161",
+   "baslik": "Kalorik ve *vHIT* ayrışması",
+   "alt": "Neden farklı sonuç verebilirler?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste kalorik test ile video baş itme testinin, yani vHIT'in neden farklı sonuç verebildiğini öğreneceğiz.",
+    "Vestibülo-oküler refleksin, yani VOR'un frekans aralığını, Meniere hastalığındaki ayrışmayı ve test bataryası ilkesini ele alacağız."
+   ]
+  },
+  {
+   "id": "frekans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Farklı frekanslar",
+   "baslik": "VOR'un *frekans* aralığı",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.001,
+     "max": 10,
+     "log": true,
+     "ad": "Uyaranın frekansı (Hz)",
+     "isaretler": [
+      0.001,
+      0.01,
+      0.1,
+      1,
+      10
+     ],
+     "yazilar": {
+      "0.001": "0,001",
+      "0.01": "0,01",
+      "0.1": "0,1",
+      "1": "1",
+      "10": "10"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 4,
+     "adim": 1,
+     "ad": "",
+     "yazilar": {
+      "0": "",
+      "1": "",
+      "2": "",
+      "3": "",
+      "4": ""
+     }
+    },
+    "bolgeler": [
+     {
+      "ad": "kalorik",
+      "x": [
+       0.002,
+       0.005
+      ],
+      "renk": "mavi",
+      "etiket": "kalorik",
+      "cumle": 1
+     },
+     {
+      "ad": "sandalye",
+      "x": [
+       0.01,
+       0.64
+      ],
+      "renk": "gri",
+      "etiket": "döner sandalye",
+      "cumle": 2
+     },
+     {
+      "ad": "vhit",
+      "x": [
+       3,
+       5
+      ],
+      "renk": "kirmizi",
+      "etiket": "vHIT",
+      "cumle": 3
+     },
+     {
+      "ad": "gunluk",
+      "x": [
+       0.5,
+       6
+      ],
+      "renk": "sari",
+      "opak": 0.25,
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "gunluk_yazi",
+      "x": 1.73,
+      "y": 2,
+      "etiket": "günlük baş hareketleri",
+      "nokta": false,
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Kalorik: _çok düşük_ frekans",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "vHIT: _yüksek_ frekans",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "Vestibülo-oküler refleks, yani VOR, çok yavaş baş hareketlerinden çok hızlı hareketlere kadar geniş bir aralıkta çalışır.",
+    {
+     "yazi": "Kalorik test bu aralığın en alt ucunu sınar; uyarısı yaklaşık 0,003 hertzlik çok yavaş bir dönmeye eşdeğerdir.",
+     "ses": "Kalorik test bu aralığın en alt ucunu sınar; uyarısı yaklaşık sıfır virgül sıfır sıfır üç hertzlik çok yavaş bir dönmeye eşdeğerdir."
+    },
+    {
+     "yazi": "Döner sandalye testi ise genellikle yaklaşık 0,01 ile 0,64 hertz arasındaki düşük ve orta frekansları değerlendirir.",
+     "ses": "Döner sandalye testi ise genellikle yaklaşık sıfır virgül sıfır bir ile sıfır virgül altmış dört hertz arasındaki düşük ve orta frekansları değerlendirir."
+    },
+    "vHIT ise kısa ve çok hızlı baş itmeleriyle, kaynaklara göre yaklaşık üç ile beş hertz düzeyindeki yüksek frekansları sınar.",
+    "Yürürken ve başımızı çevirirken yaptığımız günlük hareketler daha çok bu yüksek frekans bölgesindedir.",
+    "Yani iki test aynı refleksin farklı çalışma bölgelerine bakar; bu, ayrışmanın ilk ve en temel açıklamasıdır."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Farklı frekanslar",
+   "baslik": "İki test *nasıl* ayrılır?",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Uyaran",
+     "metin": "Kalorik ısıyla, vHIT baş hareketiyle uyarır.",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak",
+     "metin": "Kalorikte her kulak ayrı, vHIT'te uyarılan kanal ağırlıklı.",
+     "cumle": 2
+    },
+    {
+     "ikon": "vertigo",
+     "baslik": "Kanallar",
+     "metin": "Kalorik yalnız lateral, vHIT altı kanal.",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ölçü",
+     "metin": "Kalorikte yavaş faz hızı, vHIT'te kazanç.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Frekansın yanında iki testi ayıran başka farklar da vardır.",
+    "Kalorik test kanalı ısı farkıyla uyarır; vHIT ise gerçek ve hızlı bir baş hareketi kullanır.",
+    "Kalorikte her kulak ayrı ayrı uyarılır; vHIT'te ise iki taraf birlikte hareket eder, ancak yanıt ağırlıkla uyarılan kanala aittir.",
+    "Kalorik test yalnız lateral kanalı, vHIT ise altı kanalın tamamını inceleyebilir.",
+    "Kalorik sonuç yavaş faz hızıyla ve iki kulağın karşılaştırılmasıyla, vHIT sonucu ise kazanç ve sakkadlarla ifade edilir.",
+    "Bu farklar nedeniyle iki testin birbirinin yerine geçmesi beklenmez; birbirlerini tamamlarlar."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ayrışma örüntüleri",
+   "baslik": "Dört olası *sonuç*",
+   "sutunlar": [
+    "Kalorik",
+    "vHIT",
+    "Örnek durum"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Normal",
+      "Normal",
+      "Kanal kaybı yok"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Anormal",
+      "Anormal",
+      "Belirgin kanal kaybı"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Anormal",
+      "Normal",
+      "Meniere hastalığı"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Normal",
+      "Anormal",
+      "Dikey kanal tutulumu"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İki testin sonuçları birlikte dört farklı biçimde görülebilir.",
+    "İki test de normalse belirgin bir kanal kaybı beklenmez; ancak otolit organları ya da santral yollar ayrıca değerlendirilir.",
+    "İki test de anormalse, örneğin akut vestibüler nöritte olduğu gibi, belirgin bir kanal kaybı vardır.",
+    "Kalorik yanıt azalmışken vHIT'in normal çıkması en sık konuşulan ayrışmadır; bu tablo Meniere hastalığında sık görülür.",
+    "Ters ayrışma, yani kalorik normalken vHIT'in anormal olması daha seyrektir.",
+    "Kalorik yalnız lateral kanalı ölçtüğü için, örneğin yalnız arka kanalı etkileyen bir sorunda kalorik normal, vHIT ise anormal olabilir."
+   ]
+  },
+  {
+   "id": "meniere",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ayrışma örüntüleri",
+   "baslik": "*Meniere* hastalığında ayrışma",
+   "cizim": "vestibuler",
+   "ayar": {
+    "akuadukt": true,
+    "akuadukt_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "lateral_kanal",
+     "metin": "Lateral kanal",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenfatik_kese",
+     "metin": "Endolenfatik kese",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampulla ve kupula",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "lateral_kanal",
+     "cumle": 0
+    },
+    {
+     "parca": "endolenfatik_kese",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kalorik azalmış, _vHIT normal_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Olası neden: _hidrops_",
+     "cumle": 2,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Meniere hastalığında kalorik yanıt etkilenen kulakta çoğu zaman azalır, ama aynı kulakta vHIT kazancı normal kalabilir.",
+    "Bir meta-analizde bu ayrışma, Meniere hastalarının yaklaşık yarısında bildirilmiştir.",
+    "En çok kabul gören açıklama endolenfatik hidropsla, yani endolenf hacminin artmasıyla ilgilidir.",
+    "Hidropsta genişleyen zar kanalda ısının oluşturduğu akım kanal içinde dönüp dağılabilir ve kupulayı yeterince saptıramayabilir.",
+    "Oysa hızlı baş hareketinde kupulayı saptıran mekanizma korunduğu için vHIT normal kalır.",
+    "Başka açıklamalar da önerilmiştir; bu nedenle ayrışma tanı koydurmaz, ancak öyküyle birlikte değerli bir ipucudur."
+   ]
+  },
+  {
+   "id": "anlam",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ayrışma örüntüleri",
+   "baslik": "Ayrışma bize *ne söyler?*",
+   "maddeler": [
+    {
+     "metin": "Kaybın _frekans bölgesini_ gösterir",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "vHIT normal: _bakış sabitleme_ korunur",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Osilopsi _beklenmeyebilir_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kalorik: _düşük frekansta_ asimetri",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "İzlemde _ek bilgi_ verir",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "faz_egrileri",
+    "cumle": 1,
+    "ayar": {
+     "faz": 0,
+     "kazanc": 0.95,
+     "bas_cumle": 1,
+     "goz_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "bas_hizi",
+      "metin": "Baş hızı",
+      "cumle": 1
+     },
+     {
+      "parca": "goz_hizi",
+      "metin": "Göz hızı",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Ayrışma, vestibüler kaybın hangi frekans bölgesini etkilediği hakkında bilgi verir.",
+    "vHIT normalse, hızlı baş hareketlerinde bakışın sabit tutulması büyük ölçüde korunmuştur.",
+    "Bu yüzden bu hastalar baş hareketiyle görüntünün kaymasını, yani osilopsiyi genellikle tarif etmez.",
+    "Kalorik asimetri ise düşük frekanslı yanıtta iki kulak arasında bir fark olduğunu gösterir.",
+    "İzlemde iki testin zaman içindeki değişimi, hastalığın seyri hakkında ek bilgi sağlayabilir.",
+    "Bu bilgiler, rehabilitasyonun planlanmasında hekim ve ekip için de yol göstericidir."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Ayrışma örüntüleri",
+   "baslik": "Başka *ayrışmalar*",
+   "maddeler": [
+    {
+     "metin": "Kısmi kayıp: önce _düşük frekans_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Zamanla kazanç _düzelebilir_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Vestibüler migren: _çoğu zaman_ normal",
+     "cumle": 3,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Dikey kanal: _yalnız vHIT_ görür",
+     "cumle": 4,
+     "ikon": "vertigo"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Kısmi kayıp",
+      "metin": "Kalorik daha duyarlı",
+      "cumle": 0
+     },
+     {
+      "ikon": "vertigo",
+      "baslik": "Dikey kanal",
+      "metin": "Yalnız vHIT",
+      "cumle": 4
+     }
+    ],
+    "ust": "ÖRNEKLER"
+   },
+   "cumleler": [
+    "Kısmi kanal kayıplarında düşük frekanslı yanıt yüksek frekanslı yanıttan önce bozulabilir; bu durumda kalorik daha duyarlı olabilir.",
+    "Belirgin kayıplarda ise iki test de genellikle bozulur.",
+    "Tek taraflı bir kayıptan sonra izlemde, iki testin düzelme hızı birbirinden farklı olabilir.",
+    "Vestibüler migrende iki test çoğu zaman normaldir; bazı hastalarda hafif ve değişken bulgular görülebilir.",
+    "Ön ya da arka kanalı tek başına etkileyen bir sorun ise yalnız vHIT ile gösterilebilir.",
+    "Bu örüntüler yol göstericidir; aynı hastalıkta farklı bulgular, farklı hastalıklarda benzer bulgular görülebilir."
+   ]
+  },
+  {
+   "id": "teknik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test bataryası",
+   "baslik": "Önce *teknik* nedenler",
+   "maddeler": [
+    {
+     "metin": "Kalorik: uyaranın _ulaşıp ulaşmadığı_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kulak yolu ve _orta kulak_ yapısı",
+     "cumle": 1,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Dalgın hasta: _baskılanan_ yanıt",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "vHIT: _gözlük kayması_",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "vHIT: _yavaş_ baş itmeleri",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Ayrışma görünce önce kayıt kalitesini sorgulayın; teknik bir hata yalancı ayrışma oluşturabilir.",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Bir ayrışmayı yorumlamadan önce iki testin de teknik olarak doğru yapıldığından emin olunur.",
+    "Kalorikte su ya da hava kanalın derinine ulaşmamışsa, kanal dar ya da kıvrımlıysa yanıt yalancı biçimde küçük çıkabilir.",
+    "Kalorik sırasında dalgın ya da uykulu bir hasta da nistagmusu baskılayarak yalancı bir zayıflık oluşturabilir.",
+    "vHIT'te gözlüğün kayması kazancı yalancı biçimde yükseltebilir ya da düşürebilir.",
+    "Yetersiz hızda yapılan baş itmeleri ise zayıf bir tarafı normal gösterebilir.",
+    "Bu yüzden ayrışma görüldüğünde önce kayıtlar yeniden incelenir, gerekirse şüpheli uygulama tekrarlanır."
+   ]
+  },
+  {
+   "id": "tamamlayici",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test bataryası",
+   "baslik": "Her test *bir pencere*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Kalorik",
+     "metin": "Lateral kanal, çok düşük frekans, her kulak ayrı.",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "vHIT",
+     "metin": "Altı kanal, yüksek frekans.",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "VEMP",
+     "metin": "Otolit organları, sakkül ve utrikül.",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Döner sandalye",
+     "metin": "Orta frekanslar, iki taraflı kayıp.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Test bataryası yaklaşımında her test vestibüler sistemin farklı bir bölümüne açılan bir pencere gibidir.",
+    "Kalorik test her kulağın lateral kanalını çok düşük frekansta ayrı ayrı değerlendirir.",
+    "vHIT altı kanalın yüksek frekanstaki işlevini gösterir.",
+    "Vestibüler uyarılmış miyojenik potansiyel, kısaca VEMP testleri ise kanalları değil, otolit organlarını, yani sakkül ve utrikülü inceler.",
+    "Döner sandalye orta frekansları değerlendirir ve özellikle iki taraflı kayıpların doğrulanmasında değerlidir.",
+    "Tek bir test vestibüler sistemin tamamını göstermez; bu yüzden testler birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test bataryası",
+   "baslik": "Bataryayı *planlamak*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Öykü",
+     "metin": "Soru belirlenir",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İşitme",
+     "metin": "Odyogram, immitans",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Kanallar",
+     "metin": "vHIT ve kalorik",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Otolitler",
+     "metin": "cVEMP, oVEMP",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Birlikte yorum",
+     "metin": "Örüntü raporlanır",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Test bataryası öyküyle başlar; hangi soruya yanıt arandığı test seçimini belirler.",
+    "Odyogram ve immitans bulguları, özellikle Meniere hastalığı ve VEMP yorumu için gereklidir.",
+    "Kanal işlevi için vHIT ve kalorik test birlikte kullanılır; ayrışma kendi başına bir bulgudur.",
+    "Otolit işlevi VEMP testleriyle eklenir; gerekirse döner sandalye ve postürografi de planlanır.",
+    "Sonunda bulgular tek tek değil, bir örüntü olarak raporlanır ve yorum hekimle paylaşılır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test bataryası",
+   "baslik": "Örnek *bulgular*",
+   "sutunlar": [
+    "Test",
+    "Sağ",
+    "Sol"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Kalorik yanıt",
+      "Normal",
+      "Yüzde 40 zayıf"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "vHIT lateral kazanç",
+      "0,95",
+      "0,92"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Odyogram",
+      "Normal",
+      "Pes frekans kaybı"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "cVEMP",
+      "Normal",
+      "Normal"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek bir hastanın bulgularına bakalım.",
+    "Kalorik testte sol kulakta yüzde kırklık tek taraflı zayıflık var.",
+    {
+     "yazi": "Aynı hastada vHIT lateral kanal kazançları iki tarafta da normal, sağda 0,95, solda 0,92.",
+     "ses": "Aynı hastada vHIT lateral kanal kazançları iki tarafta da normal, sağda sıfır virgül doksan beş, solda sıfır virgül doksan iki."
+    },
+    "Odyogramda sol kulakta pes frekanslarda sensörinöral bir kayıp görülüyor.",
+    "Bu örüntü, öyküyle birlikte Meniere hastalığı açısından değerlendirilmesi gereken bir tabloyla uyumludur.",
+    "Tanı ve tedavi kararı hekime aittir; odyoloğun görevi bu örüntüyü açık ve eksiksiz raporlamaktır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kalorik ve vHIT sonuçları uyuşmadığında birini yanlış saymayın. Önce tekniği doğrulayın, sonra ayrışmayı raporda bir bulgu olarak yazın.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: kalorik ve vHIT sonuçları farklı çıktığında hangisinin doğru olduğunu sormayın.",
+    "Her iki test de doğru yapılmışsa ikisi de doğrudur; yalnız farklı frekansları ölçmektedirler.",
+    "Teknik nedenleri dışladıktan sonra ayrışmayı raporda açıkça yazın.",
+    "Bu bilgi, hekimin olası nedenleri değerlendirmesinde önemli bir ipucudur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kalorik düşük, vHIT _yüksek_ frekans",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kalorik azalmış, vHIT normal: _Meniere_ ile sık",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Önce _teknik_ nedenler dışlanır",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Testler birbirini _tamamlar_",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Kalorik test VOR'u çok düşük, vHIT ise yüksek frekansta sınar; bu yüzden sonuçları farklı olabilir.",
+    "Kalorik yanıtın azalıp vHIT'in normal kalması Meniere hastalığında sık görülen bir ayrışmadır.",
+    "Ayrışmayı yorumlamadan önce iki testin teknik kalitesi doğrulanır.",
+    "Kalorik, vHIT ve VEMP birbirinin yerine geçmez; test bataryası olarak birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Kalorik azalmış, vHIT normal: en sık hangisinde?",
+   "secenekler": [
+    "Meniere hastalığı",
+    "İki taraflı vestibülopati",
+    "Akut vestibüler nörit"
+   ],
+   "dogru": 0,
+   "aciklama": "Meniere hastalığında kalorik yanıt sık azalır, _vHIT_ ise çoğu zaman normal kalır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Kalorik yanıtın azalıp vHIT'in normal kaldığı ayrışma en sık hangi durumda görülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: Meniere hastalığı.",
+    "İki taraflı kayıpta ve akut nöritte ise iki test genellikle birlikte bozulur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Döner sandalye ve *bilgisayarlı* postürografi",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste döner sandalye testini ve bilgisayarlı dinamik postürografiyi öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

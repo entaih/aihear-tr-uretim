@@ -1,0 +1,801 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D017_Dis_Kulak_Anatomisi_TR",
+ "kapak": {
+  "ust": "DERS 17",
+  "baslik": "Dış kulak<br>*anatomisi*",
+  "alt": "Auricula ve dış kulak yolu",
+  "cizim": "kulak_kesit",
+  "vurgula": [
+   "dis_kulak"
+  ]
+ },
+ "youtube": {
+  "baslik": "Dış Kulak Anatomisi: Auricula ve Dış Kulak Yolu | Ders 17 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Dış kulak, sesin kulağa ilk girdiği bölümdür. Bu derste auricula (kulak kepçesi) ve işaret noktalarını, dış kulak yolunun uzunluğunu ve kıvrımını, kıkırdak ve kemik bölümlerin farklarını, serumeni ve odyometride kulak yolu çökmesi gibi klinik bağlantıları inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gray's Anatomy; Zemlin, Speech and Hearing Science: Anatomy and Physiology; Gelfand, Essentials of Audiology; Katz, Handbook of Clinical Audiology; AAO-HNS, Clinical Practice Guideline: Earwax (Cerumen Impaction) (2017).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "anatomi",
+   "kulak"
+  ],
+  "etiketler": [
+   "dış kulak anatomisi",
+   "auricula",
+   "kulak kepçesi",
+   "dış kulak yolu",
+   "meatus acusticus externus",
+   "tragus",
+   "konka",
+   "serumen",
+   "buşon",
+   "kulak yolu çökmesi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 17",
+   "baslik": "Dış kulak *anatomisi*",
+   "alt": "Auricula ve dış kulak yolu",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste sesin kulağa ilk girdiği bölümü, yani dış kulağı tanıyacağız.",
+    "Kulak kepçesinin bölümlerini, dış kulak yolunun şeklini ve iki farklı duvar yapısını öğreneceğiz."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Auricula",
+   "baslik": "Dış kulak *nerede?*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kulak_kepcesi",
+     "metin": "Auricula (kulak kepçesi)",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Meatus acusticus externus (dış kulak yolu)",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Timpanik membran",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Dış kulak, kulağın dışarıdan görünen ve sesi içeri toplayan bölümüdür.",
+    "İlk parçası auricula, yani kulak kepçesidir.",
+    {
+     "yazi": "İkinci parçası meatus acusticus externus, yani dış kulak yoludur.",
+     "ses": "İkinci parçası meatus akustikus eksternus, yani dış kulak yoludur."
+    },
+    "Dış kulak yolu, kulak kepçesinin ortasındaki çukurdan başlar ve içeride timpanik membranla sona erer.",
+    "Timpanik membran dış kulak ile orta kulak arasındaki sınırdır; onu bir sonraki derste ayrıntılı inceleyeceğiz.",
+    "Dış kulağın görevi sesi toplamak, bazı frekansları güçlendirmek ve kulağın derin bölümlerini korumaktır."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "kulak_kepcesi",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 4,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ]
+  },
+  {
+   "id": "yapi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Auricula",
+   "baslik": "Auricula: *kıkırdak* iskelet",
+   "maddeler": [
+    {
+     "metin": "_Elastik kıkırdak_ üzerinde ince deri",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Lobulus (kulak memesi): _kıkırdaksız_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Kepçe kasları insanda _çok zayıf_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Altı küçük _tepecikten_ gelişir",
+     "cumle": 4,
+     "ikon": "bebek"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "kulak_kepcesi",
+      "metin": "Auricula",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 0
+     }
+    ],
+    "yakinlastir": {
+     "parca": "kulak_kepcesi",
+     "cumle": 0,
+     "olcek": 1.8
+    }
+   },
+   "cumleler": [
+    "Auricula, elastik kıkırdaktan bir iskeletin üzerini örten ince bir deriden oluşur.",
+    "Tek istisna en alttaki lobulus, yani kulak memesidir; burada kıkırdak yoktur, yağ ve bağ dokusu bulunur.",
+    "Bu yüzden kulak memesi yumuşaktır ve kolayca şekil değiştirir.",
+    "Kulak kepçesini hareket ettiren küçük kaslar vardır, ancak insanda bu kaslar çok zayıftır.",
+    "Kepçe, embriyoda birinci ve ikinci faringeal arklar üzerindeki altı küçük tepecikten gelişir.",
+    "Bu tepeciklerin birleşmesindeki küçük düzensizlikler, kulak önünde görülebilen preauriküler çukurlara yol açabilir."
+   ]
+  },
+  {
+   "id": "isaretler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Auricula",
+   "baslik": "Kulak kepçesinin *işaret noktaları*",
+   "sutunlar": [
+    "Yapı",
+    "Tanım"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Helix",
+      "Dış kenar kıvrımı"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Antihelix",
+      "Heliksin içindeki kabartı"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Tragus",
+      "Kanal önündeki çıkıntı"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Antitragus",
+      "Tragusun karşısındaki çıkıntı"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Konka (concha)",
+      "Kanal girişindeki çukur"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Lobulus",
+      "Kıkırdaksız alt uç"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Kulak kepçesinin yüzeyinde, muayenede ve kalıp ölçüsünde kullandığımız sabit işaret noktaları vardır.",
+    {
+     "yazi": "Kepçenin dış kenarını oluşturan kıvrıma helix denir.",
+     "ses": "Kepçenin dış kenarını oluşturan kıvrıma heliks denir."
+    },
+    {
+     "yazi": "Helixin iç tarafında ona paralel uzanan kabartı antihelixtir; üst ucunda iki kola ayrılır.",
+     "ses": "Heliksin iç tarafında ona paralel uzanan kabartı antihelikstir; üst ucunda iki kola ayrılır."
+    },
+    "Dış kulak yolunun hemen önündeki çıkıntı tragus, yani kulak kepçesinin ön çıkıntısıdır.",
+    "Tragusun karşısında, kulak memesinin üstünde antitragus yer alır.",
+    "Kanal girişini çevreleyen derin çukura konka denir; ses kanala buradan yönlenir.",
+    "Konka ve tragus, işitme cihazı kalıplarının ve kulak içi cihazların oturduğu temel bölgelerdir."
+   ]
+  },
+  {
+   "id": "kanal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dış kulak yolu",
+   "baslik": "Dış kulak yolu: *S şekilli* kanal",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Dış kulak yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Eğik duran zar",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Uzunluk: yaklaşık _2,5 cm_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Çap: yaklaşık _7 mm_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hafif _S_ şeklinde kıvrım",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Dış kulak yolu, konkadan timpanik membrana uzanan bir kanaldır.",
+    "Yetişkinde uzunluğu yaklaşık iki buçuk santimetredir.",
+    "Çapı yaklaşık yedi milimetre kadardır; ancak kişiden kişiye ve kanal boyunca değişir.",
+    {
+     "yazi": "Kanal düz değildir; hafif bir S harfine benzeyen kıvrımlı bir yol izler.",
+     "ses": "Kanal düz değildir; hafif bir se harfine benzeyen kıvrımlı bir yol izler."
+    },
+    "Timpanik membran eğik durduğu için kanalın ön alt duvarı, arka üst duvarından daha uzundur.",
+    "Bu yüzden zarın ön alt kenarı ile kanal tabanı arasında, döküntünün birikebildiği dar bir girinti oluşur."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.9
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 4,
+     "olcek": 2.4
+    }
+   ]
+  },
+  {
+   "id": "iki_bolum",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dış kulak yolu",
+   "baslik": "Kıkırdak ve *kemik* bölüm",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Dış üçte bir: _kıkırdak_, yaklaşık 8 mm",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kalın deri, kıllar, _kulak kiri bezleri_",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Kıkırdak bölüm _esnek, hareketli_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "İç üçte iki: _kemik_, yaklaşık 16 mm",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İnce, bezsiz deri: _çok duyarlı_",
+     "cumle": 5,
+     "ikon": "agri"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 1
+     },
+     {
+      "parca": "temporal_kemik",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Dış kulak yolu",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Dış kulak yolunun duvarı iki farklı bölümden oluşur.",
+    "Dıştaki üçte birlik bölüm kıkırdaktan yapılmıştır ve uzunluğu yaklaşık sekiz milimetredir.",
+    "Bu bölümün derisi kalındır; kıllar ve kulak kirini üreten bezler burada bulunur.",
+    "Kıkırdak bölüm esnektir; kulak kepçesi çekildiğinde ya da çene hareket ettiğinde şekli değişir.",
+    "İçteki üçte ikilik bölüm temporal kemik içinde yer alır ve yaklaşık on altı milimetre uzunluğundadır.",
+    "Kemik bölümün derisi çok incedir, doğrudan kemik zarına yapışıktır ve bez ya da kıl içermez.",
+    "Bu ince deri dokunmaya çok duyarlıdır; otoskop ya da prob ucu buraya değdiğinde hasta ağrı hissedebilir."
+   ]
+  },
+  {
+   "id": "duzlestirme",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dış kulak yolu",
+   "baslik": "Yetişkin ve *bebek* kulak yolu",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Kanal düzleştirilmeli",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Yetişkin kanalı",
+     "metin": "İç bölüm öne, aşağı eğimli",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Yetişkinde çekiş",
+     "metin": "Kepçe yukarı ve arkaya",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Bebek kanalı",
+     "metin": "Kısa, yumuşak, çoğu kıkırdak",
+     "cumle": 3
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Bebekte çekiş",
+     "metin": "Kepçe aşağı ve arkaya",
+     "cumle": 4
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Isthmus",
+     "metin": "En dar nokta; cisim çıkarmak zor",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kanalın kıvrımı nedeniyle otoskopide zarı görebilmek için kanalı düzleştirmemiz gerekir.",
+    "Yetişkinde kanal birkaç kez yön değiştirir; iç bölümü timpanik membrana doğru öne ve hafifçe aşağıya eğimlidir.",
+    "Bu yüzden yetişkinde kulak kepçesi hafifçe yukarı ve arkaya çekilerek kanal düzleştirilir.",
+    "Bebeklerde kemik bölüm henüz gelişmemiştir; kanal kısa, yumuşak ve büyük ölçüde kıkırdaktır.",
+    "Bu nedenle bebeklerde kulak kepçesi hafifçe aşağı ve arkaya çekilir.",
+    {
+     "yazi": "Kanalın en dar noktası kıkırdak ile kemik bölümün birleştiği yerin hemen içindedir; buna isthmus denir.",
+     "ses": "Kanalın en dar noktası kıkırdak ile kemik bölümün birleştiği yerin hemen içindedir; buna istmus denir."
+    },
+    "Bu darlığın içine kaçan yabancı cisimleri ya da itilen kulak kirini çıkarmak zorlaşabilir."
+   ]
+  },
+  {
+   "id": "serumen",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dış kulak yolu",
+   "baslik": "*Serumen* (kulak kiri)",
+   "maddeler": [
+    {
+     "metin": "Bez salgısı, yağ ve _dökülen deri_",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Yalnız _dış bölümde_ üretilir",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İki tip: _ıslak_ ve kuru",
+     "cumle": 2,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Koruyucu: _nemlendirir_, mikroplara karşı",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Kendiliğinden _dışarı taşınır_",
+     "cumle": 4,
+     "ikon": "akinti"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Serumen bezleri: dış bölüm",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 1
+     }
+    ],
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.9
+    }
+   },
+   "cumleler": [
+    "Serumen, yani kulak kiri, kıkırdak bölümdeki bezlerin salgısının yağ ve dökülen deri hücreleriyle karışmasından oluşur.",
+    "Serumen yalnız kanalın dış bölümünde üretilir; iç bölümde bez yoktur.",
+    "Genetik olarak ıslak ve kuru iki tipi vardır; kuru tip özellikle Doğu Asya toplumlarında daha sık görülür.",
+    "Serumen kanal derisini nemlendirir, toz ve küçük cisimleri tutar ve mikroplara karşı koruma sağlar.",
+    "Kanal derisi içeriden dışarıya doğru göç ettiği için serumen normalde kendiliğinden dışarı taşınır.",
+    "Serumen birikip kanalı tıkadığında buna buşon denir; kanal tamamen tıkanmadıkça işitme genellikle belirgin etkilenmez."
+   ]
+  },
+  {
+   "id": "buson",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Komşuluklar ve klinik",
+   "baslik": "*Buşon* ve temizleme yöntemleri",
+   "maddeler": [
+    {
+     "metin": "Tam tıkanmada _iletim tipi_ kayıp",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Yumuşatıcı damlalar",
+     "cumle": 1,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Ilık suyla _yıkama_",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Mikroskop altında _aspirasyon_, küret",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Türkiye'de: _hekim_ uygular",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        30,
+        30,
+        30,
+        35,
+        40,
+        40
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik",
+       "degerler": [
+        5,
+        5,
+        10,
+        10,
+        10
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Buşon kanalı tamamen tıkadığında, bu örnekte olduğu gibi hafif derecede iletim tipi bir kayıp görülebilir.",
+    "Temizlemede birden fazla geçerli yöntem vardır; kulak kirini yumuşatan damlalar ve ılık suyla yıkama bunlardan ikisidir.",
+    "Mikroskop altında aspirasyon ya da küçük aletlerle temizlik de yaygındır; her yöntemin uygun olduğu durumlar farklıdır.",
+    "Türkiye'de buşon temizliği hekim tarafından yapılır; odyolojik değerlendirmede bulgu kaydedilir ve kişi yönlendirilir.",
+    "Temizlikten sonra test tekrarlandığında eşiklerin düzelip düzelmediği görülür."
+   ]
+  },
+  {
+   "id": "komsuluk",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Komşuluklar ve klinik",
+   "baslik": "Kanalın *komşuları*",
+   "maddeler": [
+    {
+     "metin": "Ön duvar: _çene eklemi_",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Arka duvar: _mastoid_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Üst duvar: _orta kafa çukuru_",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Duyu: V, X, VII _ve IX_",
+     "cumle": 4,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     },
+     {
+      "parca": "temporal_kemik",
+      "cumle": 3
+     }
+    ],
+    "yakinlastir": {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    }
+   },
+   "cumleler": [
+    "Kanalın ön duvarı çene eklemiyle, yani temporomandibular eklemle komşudur.",
+    "Bu yüzden çene hareketleri kanalın şeklini değiştirir; konuşurken ve çiğnerken kalıbın oynaması bununla ilgilidir.",
+    "Arka duvar mastoid, yani kulak arkasındaki kemik çıkıntı ile komşudur.",
+    "Kemik bölümün üst duvarı ise ince bir kemikle orta kafa çukurundan ayrılır.",
+    "Kanal derisinin duyusunu başlıca beşinci, onuncu ve yedinci kafa sinirleri, kısmen de dokuzuncu sinir sağlar.",
+    "Onuncu sinirin kulak dalı uyarıldığında, kulak temizlenirken bazı kişilerde öksürük refleksi görülebilir."
+   ]
+  },
+  {
+   "id": "cokme",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Komşuluklar ve klinik",
+   "baslik": "Örnek: kulak yolu *çökmesi*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: tizlerde düşük",
+     "cumle": 2
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: normal",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "İnsert ile tekrar: _aralık kaybolur_",
+     "cumle": 5
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       40,
+       45,
+       35
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      3,
+      15,
+      40
+     ],
+     "etiket": "25 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Kulak yolunun esnek kıkırdak bölümü, odyometride beklenmedik bir soruna yol açabilir.",
+    "Kulak üstü kulaklık kepçeye bastırdığında, özellikle yaşlılarda ve bebeklerde kanal girişi kapanabilir; buna kulak yolu çökmesi denir.",
+    "Bu örnekte sağ kulakta tiz frekanslarda hava yolu eşikleri düşük, kemik yolu ise normal görünüyor.",
+    "Bu tablo, gerçek bir orta kulak sorunu olmadan yapay bir hava-kemik aralığı oluşturur.",
+    "Kanal çökmesinden şüphelenildiğinde test insert kulaklıkla ya da kanal girişi açık tutularak tekrarlanır.",
+    "Yapay aralık bu durumda büyük ölçüde kaybolur; bu yüzden muayenede kanal girişine de bakmak önemlidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Komşuluklar ve klinik",
+   "baslik": "Klinikte dikkat",
+   "metin": "Otoskopiden önce kulak kepçesini ve kanal girişini çıplak gözle inceleyin. Yaşlılarda kepçeye hafifçe bastırarak kanalın kapanıp kapanmadığını kontrol edin.",
+   "cumleler": [
+    "Sahadan bir ipucu: otoskopiye başlamadan önce kulak kepçesini ve kanal girişini çıplak gözle inceleyin.",
+    "Kepçede şekil farkı, kulak önünde küçük çukurlar ya da kanal girişinde daralma varsa not edin.",
+    "Yaşlı hastalarda kepçeye hafifçe bastırarak kanal girişinin kapanıp kapanmadığını kontrol edin.",
+    "Kapanma görürseniz testi baştan insert kulaklıkla yapmak, yapay bir iletim kaybını önler."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Auricula: elastik kıkırdak, _lobulus_ kıkırdaksız",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Helix, antihelix, tragus, _konka_",
+     "cumle": 1,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Kanal: yaklaşık _2,5 cm_, kıvrımlı",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Dış _üçte bir_ kıkırdak, iç üçte iki kemik",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Auricula, deriyle örtülü elastik kıkırdaktan oluşur; yalnız lobulusta kıkırdak yoktur.",
+    {
+     "yazi": "Helix, antihelix, tragus, antitragus ve konka kepçenin temel işaret noktalarıdır.",
+     "ses": "Heliks, antiheliks, tragus, antitragus ve konka kepçenin temel işaret noktalarıdır."
+    },
+    "Dış kulak yolu yetişkinde yaklaşık iki buçuk santimetre uzunluğunda, kıvrımlı bir kanaldır.",
+    "Kanalın dış üçte biri kıkırdak, iç üçte ikisi kemiktir; serumen yalnız dış bölümde üretilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Kulak kirini üreten bezler hangi bölümdedir?",
+   "secenekler": [
+    "İç üçte iki kemik bölüm",
+    "Dış üçte bir kıkırdak bölüm",
+    "Timpanik membran yüzeyi",
+    "Kanalın tamamı"
+   ],
+   "dogru": 1,
+   "aciklama": "Bezler ve kıllar yalnız _kıkırdak bölümde_ bulunur; kemik bölümün derisi ince ve bezsizdir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Kulak kirini üreten bezler dış kulak yolunun hangi bölümündedir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: dış üçte birlik kıkırdak bölümde.",
+     "ses": "Doğru cevap be: dış üçte birlik kıkırdak bölümde."
+    },
+    "Kemik bölümün derisi ince, bezsiz ve kılsızdır; bu yüzden kulak kiri yalnız kanalın dış bölümünde oluşur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Timpanik membran*: yapı ve işaret noktaları",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste dış kulak yolunun sonundaki timpanik membranı, bölümlerini ve otoskopik işaret noktalarını inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

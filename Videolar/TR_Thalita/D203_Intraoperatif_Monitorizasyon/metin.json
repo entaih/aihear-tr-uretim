@@ -1,0 +1,2313 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D203_Intraoperatif_Monitorizasyon_TR",
+ "kapak": {
+  "ust": "DERS 203",
+  "baslik": "İntraoperatif<br>*monitörizasyon*",
+  "alt": "İşitme ve yüz siniri izlemi",
+  "cizim": "ic_kulak_yolu_dibi",
+  "ayar": {
+   "sinirler": true
+  },
+  "vurgula": [
+   "koklear_sinir",
+   "fasiyal_sinir"
+  ]
+ },
+ "youtube": {
+  "baslik": "İntraoperatif monitörizasyon: işitme ve yüz siniri izlemi | Ders 203 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Ameliyatta işitme ve yüz siniri nasıl korunur? Bu derste serebellopontin köşe cerrahisinde ABR, ECochG ve doğrudan sinir kaydıyla işitme izlemini, yüz siniri için spontan ve uyarılmış EMG'yi, anestezinin etkisini ve ameliyathane ekibinde odyoloğun rolünü öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Møller, Intraoperative Neurophysiological Monitoring; Romstöck ve ark., Continuous electromyography monitoring of motor cranial nerves during cerebellopontine angle surgery, Journal of Neurosurgery (2000); ASHA, Neurophysiologic Intraoperative Monitoring (1992); AAO-HNS, Position Statement: Intraoperative Nerve Monitoring in Otologic Surgery.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "monitörizasyon",
+   "elektrofizyoloji"
+  ],
+  "etiketler": [
+   "intraoperatif monitörizasyon",
+   "intraoperative monitoring",
+   "yüz siniri monitörizasyonu",
+   "facial nerve monitoring",
+   "elektromiyografi",
+   "EMG",
+   "ABR",
+   "ECochG",
+   "vestibüler schwannom",
+   "serebellopontin köşe",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 203",
+   "baslik": "İntraoperatif *monitörizasyon*",
+   "alt": "Ameliyatta işitme ve yüz siniri izlemi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste uyarılmış potansiyellerin ameliyathanede, sinirleri korumak için nasıl kullanıldığını öğreneceğiz.",
+    "Serebellopontin köşe cerrahisinde işitme izlemini, yüz siniri elektromiyografisini ve odyoloğun ekipteki rolünü ele alacağız."
+   ]
+  },
+  {
+   "id": "anatomi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden izleriz?",
+   "baslik": "Dar bir *koridor*",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true
+   },
+   "etiketler": [
+    {
+     "parca": "koklear_sinir",
+     "metin": "koklear sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "fasiyal sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "metin": "labirent arteri",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "labirent_arteri",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Vestibüler schwannom dersinde, iç kulak yolunda dört sinirin birlikte ilerlediğini görmüştük.",
+    "Üst ve alt vestibüler sinirler arka bölümde yer alır; tümör çoğunlukla bu sinirlerden gelişir.",
+    "Koklear sinir ön alt bölümde, fasiyal sinir, yani yüz siniri ise ön üst bölümde ilerler.",
+    "Bu sinirleri ve iç kulağı besleyen labirent arteri de aynı dar kanaldan geçer.",
+    "Tümör çıkarılırken bu yapılar gerilebilir, ısınabilir ya da kanlanmaları bozulabilir.",
+    "İntraoperatif monitörizasyon (intraoperative monitoring), bu sinirlerin işlevini ameliyat boyunca anlık olarak izlemektir."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden izleriz?",
+   "baslik": "Monitörizasyonun *amacı*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Erken uyarı",
+     "metin": "Kalıcı hasardan önce",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Cerrahi karar",
+     "metin": "Yön ve hız değişir",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "metin": "Başlangıçtan sona",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Amaç, sinirdeki bir zorlanmayı kalıcı hasar oluşmadan önce fark edip cerraha bildirmektir.",
+    "Cerrah uyarıyı aldığında çekmeyi azaltabilir, çalıştığı bölgeyi değiştirebilir ya da kısa bir ara verebilir.",
+    "Monitörizasyon kararları cerraha bırakır; ona yalnız zamanında ve güvenilir bilgi verir.",
+    "KBB görüş bildirgelerine göre yüz siniri izlemi, kafa tabanı ve temporal kemik cerrahisinde bazı durumlarda sonucu iyileştirir.",
+    "Aynı bildirgeler, monitörizasyonun iyi cerrahi tekniğin yerine geçmediğini de vurgular.",
+    "Ameliyatın başından sonuna kadar yapılan kayıt, aynı zamanda sürecin belgesidir."
+   ]
+  },
+  {
+   "id": "nerede",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden izleriz?",
+   "baslik": "*Hangi* ameliyatlarda?",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Kafa tabanı tümörleri",
+     "metin": "Vestibüler schwannom",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Dekompresyon",
+     "metin": "Damar baskısının kaldırılması",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak cerrahisi",
+     "metin": "Yüz siniri riskliyse",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "İşitme korunacaksa",
+     "metin": "ABR izlemi eklenir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Monitörizasyonun en bilinen kullanımı, serebellopontin köşe (cerebellopontine angle) ve iç kulak yolu tümörlerinin cerrahisidir.",
+    "Bu ameliyatlarda yüz siniri hemen her zaman izlenir; işitmeyi koruma amacı varsa işitsel yol da izlenir.",
+    "Kranyal sinirlere baskı yapan bir damarın uzaklaştırıldığı mikrovasküler dekompresyon ameliyatları da başka bir örnektir.",
+    "Bazı orta kulak ve mastoid ameliyatlarında, yüz sinirinin seyri riskliyse yüz siniri izlemi kullanılabilir.",
+    "İşitme izleminin anlamlı olması için ameliyattan önce kullanılabilir bir işitme ve kaydedilebilir bir işitsel beyin sapı yanıtı olmalıdır.",
+    "Bu ön koşul, ameliyat öncesi odyolojik değerlendirmenin monitörizasyon planının parçası olmasını sağlar."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İşitmenin izlenmesi",
+   "baslik": "İşitmeyi izlemenin *üç yolu*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "Uzaktan, kafa derisinden",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ECochG",
+     "metin": "Kokleaya yakın iğne",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Doğrudan sinir kaydı",
+     "metin": "Sinir üzerine elektrot",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İşitmeyi korumaya çalışılan ameliyatlarda işitsel yol üç farklı yöntemle izlenebilir.",
+    "En yaygını, kafa derisine konan elektrotlarla kaydedilen işitsel beyin sapı yanıtı, kısaca ABR'dir.",
+    "ABR küçük bir yanıt olduğu için çok sayıda tekrarın ortalaması gerekir; yeni bir sonuç bazen dakikalar alabilir.",
+    "Elektrokokleografide, kısaca ECochG'de, kulak zarından geçirilen ince bir iğne promontoriuma yerleştirilir.",
+    "Kokleaya yakın olduğu için yanıt büyüktür ve çok daha hızlı elde edilir; ancak yalnız kokleanın ve sinirin uç kısmını gösterir.",
+    "Üçüncü yolda cerrah, işitme sinirinin beyin sapına yakın bölümüne küçük bir elektrot yerleştirir ve sinirin yanıtı doğrudan kaydedilir.",
+    "Bu doğrudan kayıt büyük ve hızlı bir yanıt verir; ama elektrodun yerinden oynamaması gerekir."
+   ]
+  },
+  {
+   "id": "abr_degisim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İşitmenin izlenmesi",
+   "baslik": "ABR'de *uyarı işareti*",
+   "cizim": "abr",
+   "ayar": {
+    "i_v_uzama": 1.0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "dalga I: yerinde",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "dalga V: gecikmiş",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Başlangıç kaydı karşılaştırma temeli",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Latans uzaması ya da genlik düşüşü",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Ameliyat başlamadan önce, anestezi verildikten sonra bir başlangıç kaydı alınır; bütün karşılaştırmalar bu kayda göre yapılır.",
+    "Kesik çizgi başlangıç kaydını, düz çizgi ameliyat sırasında alınan bir kaydı gösteriyor.",
+    "Bu örnekte beşinci dalga gecikmiş, birinci dalga ise yerinde kalmış; yani birinci ile beşinci dalga arası uzamış.",
+    "Birçok merkezde beşinci dalga latansında yaklaşık bir milisaniyelik uzama ya da genliğin yaklaşık yarıya düşmesi uyarı kabul edilir.",
+    "Ancak uyarı ölçütleri merkezden merkeze değişir ve değişikliğin hızı da önemlidir.",
+    "Beşinci dalganın tamamen kaybolması, işitmenin kaybedilme riskinin yüksek olduğunu düşündürür."
+   ]
+  },
+  {
+   "id": "yaniltici",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İşitmenin izlenmesi",
+   "baslik": "Değişiklik her zaman *sinirden* değil",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kulaklık",
+     "metin": "Yerinden oynama, sıvı",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü",
+     "metin": "Tur ve elektrikli aletler",
+     "cumle": 2
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Isı ve tansiyon",
+     "metin": "Vücut ısısı düşüşü",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kanlanma",
+     "metin": "Labirent arteri",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "ABR'deki her değişiklik sinir hasarı anlamına gelmez; önce teknik nedenler dışlanır.",
+    "Kulak kanalındaki insert kulaklığın yerinden oynaması ya da kanala sıvı dolması uyaranı azaltabilir.",
+    "Kemik turunun ve elektrikli cerrahi aletlerin oluşturduğu gürültü ve elektriksel artefakt kaydı bozar.",
+    "Vücut ısısının düşmesi ve tansiyondaki büyük değişiklikler de latansları uzatabilir.",
+    "Labirent arterindeki bir sorun ise kokleanın kanlanmasını bozar; bu durumda ECochG yanıtı da hızla kaybolabilir.",
+    "Bu ayrımı yapmak, monitörizasyonu yapan kişinin en önemli görevlerinden biridir."
+   ]
+  },
+  {
+   "id": "emg",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yüz siniri",
+   "baslik": "Yüz siniri *EMG'si*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "ad": "Zaman (s)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10
+     ]
+    },
+    "y": {
+     "min": -2,
+     "max": 2,
+     "adim": 1,
+     "ad": "EMG"
+    },
+    "seriler": [
+     {
+      "ad": "emg",
+      "noktalar": [
+       [
+        0.0,
+        0.0
+       ],
+       [
+        0.025,
+        0.032
+       ],
+       [
+        0.05,
+        0.038
+       ],
+       [
+        0.075,
+        0.014
+       ],
+       [
+        0.1,
+        -0.021
+       ],
+       [
+        0.125,
+        -0.04
+       ],
+       [
+        0.15,
+        -0.027
+       ],
+       [
+        0.175,
+        0.008
+       ],
+       [
+        0.2,
+        0.036
+       ],
+       [
+        0.225,
+        0.036
+       ],
+       [
+        0.25,
+        0.007
+       ],
+       [
+        0.275,
+        -0.027
+       ],
+       [
+        0.3,
+        -0.04
+       ],
+       [
+        0.325,
+        -0.021
+       ],
+       [
+        0.35,
+        0.015
+       ],
+       [
+        0.375,
+        0.039
+       ],
+       [
+        0.4,
+        0.032
+       ],
+       [
+        0.425,
+        -0.001
+       ],
+       [
+        0.45,
+        -0.032
+       ],
+       [
+        0.475,
+        -0.038
+       ],
+       [
+        0.5,
+        -0.014
+       ],
+       [
+        0.525,
+        0.022
+       ],
+       [
+        0.55,
+        0.04
+       ],
+       [
+        0.575,
+        0.026
+       ],
+       [
+        0.6,
+        -0.008
+       ],
+       [
+        0.625,
+        -0.036
+       ],
+       [
+        0.65,
+        -0.035
+       ],
+       [
+        0.675,
+        -0.006
+       ],
+       [
+        0.7,
+        0.028
+       ],
+       [
+        0.725,
+        0.04
+       ],
+       [
+        0.75,
+        0.02
+       ],
+       [
+        0.775,
+        -0.016
+       ],
+       [
+        0.8,
+        -0.039
+       ],
+       [
+        0.825,
+        -0.031
+       ],
+       [
+        0.85,
+        0.001
+       ],
+       [
+        0.875,
+        0.033
+       ],
+       [
+        0.9,
+        0.038
+       ],
+       [
+        0.925,
+        0.013
+       ],
+       [
+        0.95,
+        -0.022
+       ],
+       [
+        0.975,
+        -0.04
+       ],
+       [
+        1.0,
+        -0.026
+       ],
+       [
+        1.025,
+        0.009
+       ],
+       [
+        1.05,
+        0.037
+       ],
+       [
+        1.075,
+        0.035
+       ],
+       [
+        1.1,
+        0.006
+       ],
+       [
+        1.125,
+        -0.028
+       ],
+       [
+        1.15,
+        -0.04
+       ],
+       [
+        1.175,
+        -0.019
+       ],
+       [
+        1.2,
+        0.016
+       ],
+       [
+        1.225,
+        0.039
+       ],
+       [
+        1.25,
+        0.031
+       ],
+       [
+        1.275,
+        -0.002
+       ],
+       [
+        1.3,
+        -0.033
+       ],
+       [
+        1.325,
+        -0.038
+       ],
+       [
+        1.35,
+        -0.012
+       ],
+       [
+        1.375,
+        0.023
+       ],
+       [
+        1.4,
+        0.04
+       ],
+       [
+        1.425,
+        0.025
+       ],
+       [
+        1.45,
+        -0.01
+       ],
+       [
+        1.475,
+        1.386
+       ],
+       [
+        1.5,
+        1.386
+       ],
+       [
+        1.525,
+        0.0
+       ],
+       [
+        1.55,
+        -1.386
+       ],
+       [
+        1.575,
+        -1.386
+       ],
+       [
+        1.6,
+        -0.0
+       ],
+       [
+        1.625,
+        -0.017
+       ],
+       [
+        1.65,
+        -0.039
+       ],
+       [
+        1.675,
+        -0.03
+       ],
+       [
+        1.7,
+        0.003
+       ],
+       [
+        1.725,
+        0.034
+       ],
+       [
+        1.75,
+        0.038
+       ],
+       [
+        1.775,
+        0.012
+       ],
+       [
+        1.8,
+        -0.023
+       ],
+       [
+        1.825,
+        -0.04
+       ],
+       [
+        1.85,
+        -0.025
+       ],
+       [
+        1.875,
+        0.01
+       ],
+       [
+        1.9,
+        0.037
+       ],
+       [
+        1.925,
+        0.034
+       ],
+       [
+        1.95,
+        0.004
+       ],
+       [
+        1.975,
+        -0.029
+       ],
+       [
+        2.0,
+        -0.039
+       ],
+       [
+        2.025,
+        -0.018
+       ],
+       [
+        2.05,
+        0.017
+       ],
+       [
+        2.075,
+        0.039
+       ],
+       [
+        2.1,
+        0.03
+       ],
+       [
+        2.125,
+        -0.003
+       ],
+       [
+        2.15,
+        -0.034
+       ],
+       [
+        2.175,
+        -0.037
+       ],
+       [
+        2.2,
+        -0.011
+       ],
+       [
+        2.225,
+        0.024
+       ],
+       [
+        2.25,
+        0.04
+       ],
+       [
+        2.275,
+        0.024
+       ],
+       [
+        2.3,
+        -0.011
+       ],
+       [
+        2.325,
+        -0.037
+       ],
+       [
+        2.35,
+        -0.034
+       ],
+       [
+        2.375,
+        -0.004
+       ],
+       [
+        2.4,
+        0.03
+       ],
+       [
+        2.425,
+        0.039
+       ],
+       [
+        2.45,
+        0.018
+       ],
+       [
+        2.475,
+        -0.018
+       ],
+       [
+        2.5,
+        -0.039
+       ],
+       [
+        2.525,
+        -0.029
+       ],
+       [
+        2.55,
+        0.004
+       ],
+       [
+        2.575,
+        0.034
+       ],
+       [
+        2.6,
+        0.037
+       ],
+       [
+        2.625,
+        0.01
+       ],
+       [
+        2.65,
+        -0.025
+       ],
+       [
+        2.675,
+        -0.04
+       ],
+       [
+        2.7,
+        -0.024
+       ],
+       [
+        2.725,
+        0.012
+       ],
+       [
+        2.75,
+        0.038
+       ],
+       [
+        2.775,
+        0.034
+       ],
+       [
+        2.8,
+        0.003
+       ],
+       [
+        2.825,
+        -0.03
+       ],
+       [
+        2.85,
+        -0.039
+       ],
+       [
+        2.875,
+        -0.017
+       ],
+       [
+        2.9,
+        0.019
+       ],
+       [
+        2.925,
+        0.039
+       ],
+       [
+        2.95,
+        0.029
+       ],
+       [
+        2.975,
+        -0.005
+       ],
+       [
+        3.0,
+        -0.035
+       ],
+       [
+        3.025,
+        -0.037
+       ],
+       [
+        3.05,
+        -0.01
+       ],
+       [
+        3.075,
+        0.025
+       ],
+       [
+        3.1,
+        0.04
+       ],
+       [
+        3.125,
+        0.023
+       ],
+       [
+        3.15,
+        -0.012
+       ],
+       [
+        3.175,
+        -0.038
+       ],
+       [
+        3.2,
+        -0.033
+       ],
+       [
+        3.225,
+        -0.002
+       ],
+       [
+        3.25,
+        0.031
+       ],
+       [
+        3.275,
+        0.039
+       ],
+       [
+        3.3,
+        0.016
+       ],
+       [
+        3.325,
+        -0.019
+       ],
+       [
+        3.35,
+        -0.04
+       ],
+       [
+        3.375,
+        -0.028
+       ],
+       [
+        3.4,
+        0.005
+       ],
+       [
+        3.425,
+        0.035
+       ],
+       [
+        3.45,
+        0.037
+       ],
+       [
+        3.475,
+        0.009
+       ],
+       [
+        3.5,
+        -0.026
+       ],
+       [
+        3.525,
+        -0.04
+       ],
+       [
+        3.55,
+        -0.022
+       ],
+       [
+        3.575,
+        0.013
+       ],
+       [
+        3.6,
+        0.038
+       ],
+       [
+        3.625,
+        0.033
+       ],
+       [
+        3.65,
+        0.002
+       ],
+       [
+        3.675,
+        -0.031
+       ],
+       [
+        3.7,
+        -0.039
+       ],
+       [
+        3.725,
+        -0.016
+       ],
+       [
+        3.75,
+        0.02
+       ],
+       [
+        3.775,
+        0.04
+       ],
+       [
+        3.8,
+        0.028
+       ],
+       [
+        3.825,
+        -0.006
+       ],
+       [
+        3.85,
+        -0.035
+       ],
+       [
+        3.875,
+        -0.036
+       ],
+       [
+        3.9,
+        -0.008
+       ],
+       [
+        3.925,
+        0.026
+       ],
+       [
+        3.95,
+        0.04
+       ],
+       [
+        3.975,
+        0.022
+       ],
+       [
+        4.0,
+        -0.014
+       ],
+       [
+        4.025,
+        0.204
+       ],
+       [
+        4.05,
+        0.287
+       ],
+       [
+        4.075,
+        0.056
+       ],
+       [
+        4.1,
+        -0.374
+       ],
+       [
+        4.125,
+        -0.572
+       ],
+       [
+        4.15,
+        -0.196
+       ],
+       [
+        4.175,
+        0.529
+       ],
+       [
+        4.2,
+        0.891
+       ],
+       [
+        4.225,
+        0.405
+       ],
+       [
+        4.25,
+        -0.569
+       ],
+       [
+        4.275,
+        -1.086
+       ],
+       [
+        4.3,
+        -0.59
+       ],
+       [
+        4.325,
+        0.456
+       ],
+       [
+        4.35,
+        1.037
+       ],
+       [
+        4.375,
+        0.639
+       ],
+       [
+        4.4,
+        -0.259
+       ],
+       [
+        4.425,
+        -0.774
+       ],
+       [
+        4.45,
+        -0.527
+       ],
+       [
+        4.475,
+        0.089
+       ],
+       [
+        4.5,
+        0.451
+       ],
+       [
+        4.525,
+        0.334
+       ],
+       [
+        4.55,
+        -0.003
+       ],
+       [
+        4.575,
+        -0.205
+       ],
+       [
+        4.6,
+        -0.165
+       ],
+       [
+        4.625,
+        0.04
+       ],
+       [
+        4.65,
+        0.027
+       ],
+       [
+        4.675,
+        -0.007
+       ],
+       [
+        4.7,
+        -0.036
+       ],
+       [
+        4.725,
+        -0.036
+       ],
+       [
+        4.75,
+        -0.007
+       ],
+       [
+        4.775,
+        0.027
+       ],
+       [
+        4.8,
+        0.04
+       ],
+       [
+        4.825,
+        0.021
+       ],
+       [
+        4.85,
+        -0.015
+       ],
+       [
+        4.875,
+        -0.039
+       ],
+       [
+        4.9,
+        -0.032
+       ],
+       [
+        4.925,
+        0.001
+       ],
+       [
+        4.95,
+        0.032
+       ],
+       [
+        4.975,
+        0.038
+       ],
+       [
+        5.0,
+        0.014
+       ],
+       [
+        5.025,
+        -0.022
+       ],
+       [
+        5.05,
+        -0.04
+       ],
+       [
+        5.075,
+        -0.026
+       ],
+       [
+        5.1,
+        0.008
+       ],
+       [
+        5.125,
+        0.036
+       ],
+       [
+        5.15,
+        0.035
+       ],
+       [
+        5.175,
+        0.006
+       ],
+       [
+        5.2,
+        -0.028
+       ],
+       [
+        5.225,
+        -0.04
+       ],
+       [
+        5.25,
+        -0.02
+       ],
+       [
+        5.275,
+        0.015
+       ],
+       [
+        5.3,
+        0.039
+       ],
+       [
+        5.325,
+        0.031
+       ],
+       [
+        5.35,
+        -0.001
+       ],
+       [
+        5.375,
+        -0.033
+       ],
+       [
+        5.4,
+        -0.038
+       ],
+       [
+        5.425,
+        -0.013
+       ],
+       [
+        5.45,
+        0.022
+       ],
+       [
+        5.475,
+        0.04
+       ],
+       [
+        5.5,
+        0.026
+       ],
+       [
+        5.525,
+        -0.009
+       ],
+       [
+        5.55,
+        -0.036
+       ],
+       [
+        5.575,
+        -0.035
+       ],
+       [
+        5.6,
+        -0.006
+       ],
+       [
+        5.625,
+        0.028
+       ],
+       [
+        5.65,
+        0.04
+       ],
+       [
+        5.675,
+        0.02
+       ],
+       [
+        5.7,
+        -0.016
+       ],
+       [
+        5.725,
+        -0.039
+       ],
+       [
+        5.75,
+        -0.031
+       ],
+       [
+        5.775,
+        0.002
+       ],
+       [
+        5.8,
+        0.033
+       ],
+       [
+        5.825,
+        0.038
+       ],
+       [
+        5.85,
+        0.013
+       ],
+       [
+        5.875,
+        -0.023
+       ],
+       [
+        5.9,
+        -0.04
+       ],
+       [
+        5.925,
+        -0.025
+       ],
+       [
+        5.95,
+        0.009
+       ],
+       [
+        5.975,
+        0.037
+       ],
+       [
+        6.0,
+        0.035
+       ],
+       [
+        6.025,
+        0.005
+       ],
+       [
+        6.05,
+        -0.029
+       ],
+       [
+        6.075,
+        -0.04
+       ],
+       [
+        6.1,
+        -0.019
+       ],
+       [
+        6.125,
+        0.017
+       ],
+       [
+        6.15,
+        0.039
+       ],
+       [
+        6.175,
+        0.03
+       ],
+       [
+        6.2,
+        -0.003
+       ],
+       [
+        6.225,
+        -0.033
+       ],
+       [
+        6.25,
+        -0.038
+       ],
+       [
+        6.275,
+        -0.012
+       ],
+       [
+        6.3,
+        0.023
+       ],
+       [
+        6.325,
+        0.04
+       ],
+       [
+        6.35,
+        0.025
+       ],
+       [
+        6.375,
+        -0.01
+       ],
+       [
+        6.4,
+        -0.037
+       ],
+       [
+        6.425,
+        -0.034
+       ],
+       [
+        6.45,
+        -0.004
+       ],
+       [
+        6.475,
+        0.029
+       ],
+       [
+        6.5,
+        0.0
+       ],
+       [
+        6.525,
+        0.898
+       ],
+       [
+        6.55,
+        0.127
+       ],
+       [
+        6.575,
+        -0.88
+       ],
+       [
+        6.6,
+        -0.251
+       ],
+       [
+        6.625,
+        0.844
+       ],
+       [
+        6.65,
+        0.371
+       ],
+       [
+        6.675,
+        -0.792
+       ],
+       [
+        6.7,
+        -0.483
+       ],
+       [
+        6.725,
+        0.723
+       ],
+       [
+        6.75,
+        0.585
+       ],
+       [
+        6.775,
+        -0.641
+       ],
+       [
+        6.8,
+        -0.676
+       ],
+       [
+        6.825,
+        0.545
+       ],
+       [
+        6.85,
+        0.753
+       ],
+       [
+        6.875,
+        -0.438
+       ],
+       [
+        6.9,
+        -0.815
+       ],
+       [
+        6.925,
+        0.323
+       ],
+       [
+        6.95,
+        0.861
+       ],
+       [
+        6.975,
+        -0.201
+       ],
+       [
+        7.0,
+        -0.889
+       ],
+       [
+        7.025,
+        0.076
+       ],
+       [
+        7.05,
+        0.9
+       ],
+       [
+        7.075,
+        0.052
+       ],
+       [
+        7.1,
+        -0.893
+       ],
+       [
+        7.125,
+        -0.178
+       ],
+       [
+        7.15,
+        0.867
+       ],
+       [
+        7.175,
+        0.301
+       ],
+       [
+        7.2,
+        -0.825
+       ],
+       [
+        7.225,
+        -0.417
+       ],
+       [
+        7.25,
+        0.766
+       ],
+       [
+        7.275,
+        0.526
+       ],
+       [
+        7.3,
+        -0.691
+       ],
+       [
+        7.325,
+        -0.624
+       ],
+       [
+        7.35,
+        0.603
+       ],
+       [
+        7.375,
+        0.709
+       ],
+       [
+        7.4,
+        -0.503
+       ],
+       [
+        7.425,
+        -0.78
+       ],
+       [
+        7.45,
+        0.393
+       ],
+       [
+        7.475,
+        0.836
+       ],
+       [
+        7.5,
+        -0.274
+       ],
+       [
+        7.525,
+        -0.874
+       ],
+       [
+        7.55,
+        0.151
+       ],
+       [
+        7.575,
+        0.896
+       ],
+       [
+        7.6,
+        -0.024
+       ],
+       [
+        7.625,
+        -0.899
+       ],
+       [
+        7.65,
+        -0.103
+       ],
+       [
+        7.675,
+        0.885
+       ],
+       [
+        7.7,
+        0.228
+       ],
+       [
+        7.725,
+        -0.852
+       ],
+       [
+        7.75,
+        -0.349
+       ],
+       [
+        7.775,
+        0.803
+       ],
+       [
+        7.8,
+        0.463
+       ],
+       [
+        7.825,
+        -0.737
+       ],
+       [
+        7.85,
+        -0.567
+       ],
+       [
+        7.875,
+        0.657
+       ],
+       [
+        7.9,
+        0.66
+       ],
+       [
+        7.925,
+        -0.564
+       ],
+       [
+        7.95,
+        -0.74
+       ],
+       [
+        7.975,
+        0.459
+       ],
+       [
+        8.0,
+        0.805
+       ],
+       [
+        8.025,
+        -0.345
+       ],
+       [
+        8.05,
+        -0.853
+       ],
+       [
+        8.075,
+        0.225
+       ],
+       [
+        8.1,
+        0.885
+       ],
+       [
+        8.125,
+        -0.099
+       ],
+       [
+        8.15,
+        -0.899
+       ],
+       [
+        8.175,
+        -0.028
+       ],
+       [
+        8.2,
+        0.895
+       ],
+       [
+        8.225,
+        0.155
+       ],
+       [
+        8.25,
+        -0.873
+       ],
+       [
+        8.275,
+        -0.278
+       ],
+       [
+        8.3,
+        0.834
+       ],
+       [
+        8.325,
+        0.396
+       ],
+       [
+        8.35,
+        -0.778
+       ],
+       [
+        8.375,
+        -0.506
+       ],
+       [
+        8.4,
+        0.706
+       ],
+       [
+        8.425,
+        0.606
+       ],
+       [
+        8.45,
+        -0.621
+       ],
+       [
+        8.475,
+        -0.694
+       ],
+       [
+        8.5,
+        0.523
+       ],
+       [
+        8.525,
+        0.768
+       ],
+       [
+        8.55,
+        -0.414
+       ],
+       [
+        8.575,
+        -0.826
+       ],
+       [
+        8.6,
+        0.297
+       ],
+       [
+        8.625,
+        0.868
+       ],
+       [
+        8.65,
+        -0.174
+       ],
+       [
+        8.675,
+        -0.893
+       ],
+       [
+        8.7,
+        0.048
+       ],
+       [
+        8.725,
+        0.9
+       ],
+       [
+        8.75,
+        0.08
+       ],
+       [
+        8.775,
+        -0.889
+       ],
+       [
+        8.8,
+        -0.205
+       ],
+       [
+        8.825,
+        0.86
+       ],
+       [
+        8.85,
+        0.327
+       ],
+       [
+        8.875,
+        -0.813
+       ],
+       [
+        8.9,
+        -0.442
+       ],
+       [
+        8.925,
+        0.751
+       ],
+       [
+        8.95,
+        0.548
+       ],
+       [
+        8.975,
+        -0.673
+       ],
+       [
+        9.0,
+        -0.643
+       ],
+       [
+        9.025,
+        0.582
+       ],
+       [
+        9.05,
+        0.726
+       ],
+       [
+        9.075,
+        -0.48
+       ],
+       [
+        9.1,
+        -0.794
+       ],
+       [
+        9.125,
+        0.367
+       ],
+       [
+        9.15,
+        0.846
+       ],
+       [
+        9.175,
+        -0.248
+       ],
+       [
+        9.2,
+        -0.881
+       ],
+       [
+        9.225,
+        0.123
+       ],
+       [
+        9.25,
+        0.898
+       ],
+       [
+        9.275,
+        0.004
+       ],
+       [
+        9.3,
+        -0.897
+       ],
+       [
+        9.325,
+        -0.131
+       ],
+       [
+        9.35,
+        0.879
+       ],
+       [
+        9.375,
+        0.255
+       ],
+       [
+        9.4,
+        -0.843
+       ],
+       [
+        9.425,
+        -0.375
+       ],
+       [
+        9.45,
+        0.79
+       ],
+       [
+        9.475,
+        0.486
+       ],
+       [
+        9.5,
+        -0.014
+       ],
+       [
+        9.525,
+        0.021
+       ],
+       [
+        9.55,
+        0.04
+       ],
+       [
+        9.575,
+        0.027
+       ],
+       [
+        9.6,
+        -0.008
+       ],
+       [
+        9.625,
+        -0.036
+       ],
+       [
+        9.65,
+        -0.035
+       ],
+       [
+        9.675,
+        -0.007
+       ],
+       [
+        9.7,
+        0.028
+       ],
+       [
+        9.725,
+        0.04
+       ],
+       [
+        9.75,
+        0.02
+       ],
+       [
+        9.775,
+        -0.015
+       ],
+       [
+        9.8,
+        -0.039
+       ],
+       [
+        9.825,
+        -0.031
+       ],
+       [
+        9.85,
+        0.001
+       ],
+       [
+        9.875,
+        0.033
+       ],
+       [
+        9.9,
+        0.038
+       ],
+       [
+        9.925,
+        0.013
+       ],
+       [
+        9.95,
+        -0.022
+       ],
+       [
+        9.975,
+        -0.04
+       ]
+      ],
+      "renk": "lacivert",
+      "sure": 3,
+      "cumle": 0
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "spike",
+      "x": [
+       1.2,
+       1.9
+      ],
+      "renk": "mavi",
+      "etiket": "tek boşalım",
+      "cumle": 2
+     },
+     {
+      "ad": "burst",
+      "x": [
+       3.8,
+       4.8
+      ],
+      "renk": "sari",
+      "etiket": "kısa boşalım",
+      "cumle": 3
+     },
+     {
+      "ad": "train",
+      "x": [
+       6.4,
+       9.6
+      ],
+      "renk": "kirmizi",
+      "etiket": "dizi (train)",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tek boşalım: dokunma",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Uzun dizi: ciddi zorlanma",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sesli geri bildirim",
+     "cumle": 6,
+     "ikon": "hoparlor"
+    }
+   ],
+   "cumleler": [
+    "Yüz siniri, yüz kaslarına yerleştirilen ince iğne elektrotlarla izlenir; buna elektromiyografi (electromyography), kısaca EMG denir.",
+    {
+     "yazi": "Elektrotlar genellikle orbicularis oculi (göz çevresi kası) ve orbicularis oris (ağız çevresi kası) içine yerleştirilir.",
+     "ses": "Elektrotlar genellikle orbikularis okuli (göz çevresi kası) ve orbikularis oris (ağız çevresi kası) içine yerleştirilir."
+    },
+    "Sinire dokunulduğunda ya da sinir hafifçe çekildiğinde kasta kısa, tek bir boşalım görülür; bu çoğu zaman zararsızdır.",
+    "Daha uzun süren kısa boşalım grupları, sinirin bir süre zorlandığını gösterir.",
+    "Saniyelerce süren düzenli boşalım dizileri ise sinirin ciddi biçimde zorlandığını düşündürür.",
+    "Özellikle A dizisi (A-train) denen sinüs benzeri dizilerin toplam süresi, ameliyat sonrası yüz felci riskiyle ilişkilidir.",
+    "EMG sinyali bir hoparlöre de verilir; böylece cerrah boşalımları ekrana bakmadan anında duyar."
+   ]
+  },
+  {
+   "id": "emg_tur",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yüz siniri",
+   "baslik": "İki tür *EMG*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Spontan EMG",
+     "metin": "Sürekli dinlenir",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Uyarılmış EMG",
+     "metin": "Uyarıcı probla sinir bulunur",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Uyarım eşiği",
+     "metin": "Sinirin durumu",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Spontan EMG (free-running EMG) ameliyat boyunca sürekli izlenir ve sinirdeki mekanik ya da ısı kaynaklı zorlanmayı gösterir.",
+    "Uyarılmış EMG'de (triggered EMG) ise cerrah, küçük bir elektrik akımı veren bir probla dokuyu uyarır.",
+    "Uyarılan yerde yüz siniri varsa yüz kaslarında yanıt alınır; böylece sinirin tümör üzerindeki yeri belirlenir.",
+    "Bu, özellikle büyük tümörlerde sinirin inceldiği ve görülmesinin zorlaştığı durumlarda değerlidir.",
+    "Tümör çıkarıldıktan sonra sinirin beyin sapına yakın ucu düşük akımla uyarılır.",
+    "Düşük akımda belirgin yanıt alınması, ameliyat sonrası yüz siniri işlevinin iyi olacağı yönünde olumlu bir işarettir."
+   ]
+  },
+  {
+   "id": "anestezi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ameliyathanede",
+   "baslik": "*Anestezi* ile iş birliği",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Kas gevşetici",
+     "metin": "EMG'yi siler",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR",
+     "metin": "Anesteziden az etkilenir",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Kortikal yanıtlar",
+     "metin": "Belirgin baskılanır",
+     "cumle": 3
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Isı ve tansiyon",
+     "metin": "Kayıt edilir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kas gevşetici ilaçlar kasın sinir uyarısına yanıtını engeller; bu yüzden yüz siniri izlenirken kullanımları anestezi ekibiyle planlanır.",
+    "Bu planlama ameliyattan önce konuşulur, çünkü ilaç seçimi tamamen anestezi ekibinin kararıdır.",
+    "ABR, genel anestezi ilaçlarından görece az etkilenir; bu yüzden ameliyathanede güvenilir bir izlem aracıdır.",
+    "Önceki derslerde gördüğümüz orta latans ve kortikal yanıtlar ise anestezide belirgin biçimde baskılanır.",
+    "Vücut ısısı, tansiyon ve ilaç değişiklikleri kayıt notlarına işlenir; bir değişiklik olduğunda nedenini anlamayı kolaylaştırır."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ameliyathanede",
+   "baslik": "Ameliyat *günü*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Hazırlık",
+     "metin": "Odyogram, plan",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Elektrotlar",
+     "metin": "Empedans kontrolü",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Başlangıç kaydı",
+     "metin": "Anesteziden sonra",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sürekli izlem",
+     "metin": "Anında bildirim",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kapanış",
+     "metin": "Son kayıt, rapor",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ameliyattan önce kişinin odyogramı, ABR'si ve yüz siniri işlevi gözden geçirilir; ABR yoksa işitme izlemi planlanamaz.",
+    "Anestezi verildikten sonra elektrotlar yerleştirilir, insert kulaklık kanala sabitlenir ve empedanslar kontrol edilir.",
+    "Cerrahi başlamadan önce ABR ve EMG için başlangıç kayıtları alınır.",
+    "Ameliyat boyunca kayıtlar sürekli izlenir; anlamlı bir değişiklik olduğunda cerraha hemen, açık ve kısa bir dille bildirilir.",
+    "Her uyarının zamanı, cerrahın o sırada yaptığı işlem ve sonrasında ne olduğu not edilir.",
+    "Ameliyat sonunda son kayıtlar alınır ve bütün süreç bir raporla belgelenir."
+   ]
+  },
+  {
+   "id": "ekip",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ameliyathanede",
+   "baslik": "Ekipte *odyolog*",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Cerrah",
+     "metin": "Kararları verir",
+     "cumle": 0
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Anestezi ekibi",
+     "metin": "İlaç ve yaşam bulguları",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Monitörizasyon",
+     "metin": "Kayıt ve yorum",
+     "cumle": 2
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Eğitim",
+     "metin": "Ek uzmanlık gerekir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Ameliyathanede cerrah, anestezi ekibi ve monitörizasyonu yapan uzman bir ekip olarak çalışır.",
+    "Anestezi ekibi ilaçları ve yaşam bulgularını yönetir; monitörizasyon için uygun koşulları sağlar.",
+    "Monitörizasyonu yapan kişi kayıtları alır, artefaktı ayırt eder ve anlamlı değişikliği yorumlayıp bildirir.",
+    "Amerikan Konuşma Dil İşitme Derneği, kısaca ASHA, uygun bilgi ve beceriye sahip odyologlar için bu işi meslek alanı içinde görür.",
+    "Ancak ameliyathane monitörizasyonu, temel odyoloji eğitiminin ötesinde ek eğitim ve denetimli deneyim gerektirir.",
+    "Ülkelere göre bu işi yapan meslek grupları ve yasal düzenlemeler farklıdır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ameliyathanede",
+   "baslik": "Örnek: *ameliyat anı*",
+   "maddeler": [
+    {
+     "metin": "Dalga V latansı 1 ms uzadı",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Teknik neden yok",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Cerraha bildirildi, çekme azaldı",
+     "cumle": 2,
+     "ikon": "hekim"
+    },
+    {
+     "metin": "Dalga V geri döndü",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 0,
+    "ayar": {
+     "i_v_uzama": 1.0
+    },
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Tamamen örnek bir durum: tümör çıkarılırken birkaç ardışık kayıtta beşinci dalga latansı yaklaşık bir milisaniye uzuyor.",
+    "Kulaklık yerinde, elektrot empedansları değişmemiş, ortamda yeni bir gürültü kaynağı yok.",
+    "Bulgu, saatiyle birlikte cerraha bildiriliyor; cerrah sinir üzerindeki çekmeyi azaltıp birkaç dakika bekliyor.",
+    "Bu sırada kayıtlar sık aralıklarla tekrarlanıyor.",
+    "Birkaç dakika içinde beşinci dalga başlangıç değerine yaklaşıyor ve ameliyat devam ediyor.",
+    "Bütün bu süreç zaman damgasıyla rapora işleniyor; değerler öğretim amaçlıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Uyarı vermeden önce teknik nedeni hızla dışlayın: kulaklık, elektrot, gürültü. Gerçek değişikliği ise beklemeden, açık bir cümleyle bildirin.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: ameliyathanede yanlış alarm da, geç uyarı da güveni sarsar.",
+    "Bir değişiklik gördüğünüzde önce kulaklığı, elektrot empedansını ve ortam gürültüsünü hızla kontrol edin.",
+    "Teknik bir neden yoksa beklemeyin; cerraha neyin, ne kadar ve ne zamandan beri değiştiğini kısa ve net bir cümleyle söyleyin.",
+    "Bu iletişim biçimini ameliyattan önce cerrahla birlikte kararlaştırmak, kriz anında işinizi kolaylaştırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Amaç: kalıcı hasardan önce uyarmak",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "İşitme: ABR, ECochG, doğrudan sinir kaydı",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Yüz siniri: spontan ve uyarılmış EMG",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Anestezi ve cerrahla sürekli iletişim",
+     "cumle": 3,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "İntraoperatif monitörizasyon, sinir işlevindeki değişikliği kalıcı hasar oluşmadan önce yakalamayı amaçlar.",
+    "İşitme ABR, ECochG ya da işitme sinirinden doğrudan kayıtla izlenir; değişiklikler başlangıç kaydına göre değerlendirilir.",
+    "Yüz siniri yüz kaslarından spontan ve uyarılmış EMG ile izlenir; uzun boşalım dizileri ciddi zorlanmayı düşündürür.",
+    "Kas gevşeticiler EMG'yi engeller; başarılı bir izlem anestezi ekibi ve cerrahla sürekli iletişim gerektirir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Yüz siniri EMG'si izlenirken hangisi kayıt için sorun yaratır?",
+   "secenekler": [
+    "Kas gevşetici ilaç",
+    "İnsert kulaklık",
+    "Başlangıç kaydı",
+    "Sesli geri bildirim"
+   ],
+   "dogru": 0,
+   "aciklama": "Kas gevşeticiler kasın sinir uyarısına yanıtını engeller; EMG'de boşalım görülmez.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: yüz siniri EMG'si izlenirken aşağıdakilerden hangisi kaydı engelleyebilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: kas gevşetici ilaç.",
+    "Kas gevşeticiler kasın sinirden gelen uyarıya yanıtını engeller; bu yüzden kullanımları anestezi ekibiyle önceden planlanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "BPPV: benign paroksismal pozisyonel vertigo",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste vestibüler bozukluklara geçiyor ve benign paroksismal pozisyonel vertigo, kısaca BPPV'yi öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

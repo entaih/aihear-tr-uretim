@@ -1,0 +1,765 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D081_Perde_Algisi_TR",
+ "kapak": {
+  "ust": "DERS 81",
+  "baslik": "*Perde*<br>algısı",
+  "alt": "Yer, zaman ve eksik temel frekans",
+  "cizim": "atim_dizisi",
+  "ayar": {
+   "frekans_hz": 250
+  }
+ },
+ "youtube": {
+  "baslik": "Perde Algısı ve Frekans Ayırt Etme | Ders 81 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kulak bir sesin perdesini nasıl algılar? Bu derste perde kavramını ve mel ölçeğini, yer ve zaman kuramlarını, frekans fark eşiğini, eksik temel frekans olgusunu, karmaşık seslerin perdesini ve perde algısının işitme kaybı, koklear implant ve klinikteki önemini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Plack, The Sense of Hearing; Stevens, Volkmann ve Newman (1937), A scale for the measurement of the psychological magnitude pitch, Journal of the Acoustical Society of America; Wier, Jesteadt ve Green (1977), Frequency discrimination as a function of frequency and sensation level, Journal of the Acoustical Society of America; Schouten (1940), The residue and the mechanism of hearing, Proceedings of the Koninklijke Nederlandse Akademie van Wetenschappen.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "psikoakustik",
+   "perde"
+  ],
+  "etiketler": [
+   "perde algısı",
+   "pitch",
+   "yer kuramı",
+   "place theory",
+   "zaman kuramı",
+   "temporal theory",
+   "eksik temel frekans",
+   "missing fundamental",
+   "frekans ayırt etme",
+   "psikoakustik",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 81",
+   "baslik": "Perde algısı ve *frekans* ayırt etme",
+   "alt": "Yer, zaman ve eksik temel frekans",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste ses yüksekliğinden perdeye geçiyor ve kulağın frekansı nasıl algıladığını öğreniyoruz.",
+    "Yer ve zaman kuramlarını, frekans fark eşiğini ve eksik temel frekans olgusunu sırayla göreceğiz."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Perde nedir?",
+   "baslik": "Perde: *algısal* bir özellik",
+   "ogeler": [
+    {
+     "ikon": "muzik",
+     "baslik": "Perde",
+     "metin": "Pesten tize sıralama",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frekans",
+     "metin": "Başlıca fiziksel karşılık",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Mel ölçeği",
+     "metin": "1000 Hz = 1000 mel",
+     "cumle": 4
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Oktav",
+     "metin": "Frekansın iki katı",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Perde (pitch), seslerin pesten tize doğru sıralanmasını sağlayan algısal özelliktir.",
+    "Perdenin fiziksel karşılığı büyük ölçüde frekanstır; ama perde, frekans gibi bir cihazla doğrudan ölçülemez.",
+    "Saf seslerde perde frekansla birlikte artar; karmaşık periyodik seslerde ise genellikle temel frekansa karşılık gelir.",
+    "Perde ses düzeyinden de biraz etkilenir; ama bu etki küçüktür ve kişiden kişiye değişir.",
+    {
+     "yazi": "Stevens ve arkadaşları 1937'de mel ölçeğini önerdi; kırk desibel duyum düzeyindeki bin hertzlik ton bin mel kabul edilir.",
+     "ses": "Stivıns ve arkadaşları 1937'de mel ölçeğini önerdi; kırk desibel duyum düzeyindeki bin hertzlik ton bin mel kabul edilir."
+    },
+    "Mel ölçeğinde perde frekansla doğrusal artmaz; tiz frekanslarda aynı frekans artışı daha küçük bir perde artışı yaratır.",
+    "Müzikte ise perde oranlarla algılanır; frekansın iki katı, bir oktav yukarıdaki aynı notadır."
+   ]
+  },
+  {
+   "id": "muzik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Perde nedir?",
+   "baslik": "Müzikte ve *konuşmada* perde",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Perde yüksekliği",
+     "metin": "Sürekli artar",
+     "cumle": 1
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Perde rengi",
+     "metin": "Oktavda tekrar eder",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Tonlama",
+     "metin": "Soru sonunda yükselir",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Tonal diller",
+     "metin": "Perde anlamı değiştirir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Perdenin iki boyutu vardır: perde yüksekliği ve perde rengi.",
+    "Perde yüksekliği pesten tize sürekli artar; perde rengi ise oktav aralıklarla tekrar eder, bu yüzden do ile bir üst do benzer duyulur.",
+    "Çok az kişide bir notayı referans olmadan adlandırma becerisi, yani mutlak perde bulunur.",
+    "Konuşmada perde tonlamayı taşır; soru cümlesinin sonunda temel frekansın yükselmesi buna örnektir.",
+    "Çince gibi tonal dillerde ise perde değişimi sözcüğün anlamını değiştirir.",
+    "Konuşmacının cinsiyetini, yaşını ve duygusunu tanımada da temel frekans önemli bir ipucudur."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yer ve zaman",
+   "baslik": "*Yer* kuramı",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 4000
+   },
+   "vurgula": [
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    },
+    {
+     "parca": "tepe",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "taban",
+     "metin": "Taban: tiz",
+     "cumle": 3
+    },
+    {
+     "parca": "tepe",
+     "metin": "Tepe: pes",
+     "cumle": 3
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "metin": "En çok titreşen yer",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Perde = _en çok titreşen yer_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tiz seslerde _güçlü_ açıklama",
+     "cumle": 5,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Pes seslerde tepe _geniş_",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kulak frekansı perdeye nasıl çevirir? Bu soruya iki klasik kuram yanıt verir: yer kuramı ve zaman kuramı.",
+    "Yer kuramına (place theory) göre perde, baziler membranın en çok titreşen yerine bağlıdır.",
+    "Kökleri Helmholtz'a uzanan bu fikir, Békésy'nin yürüyen dalgayı göstermesiyle güçlü bir dayanak kazandı.",
+    "Tiz sesler kokleanın tabanını, pes sesler tepesini en güçlü uyarır; bu düzene tonotopi denir.",
+    "Hangi sinir liflerinin en çok ateşlendiği, beyne titreşimin yerini ve dolayısıyla frekansı bildirir.",
+    "Yer kuramı özellikle tiz frekanslarda perdeyi iyi açıklar.",
+    "Ancak pes seslerde yürüyen dalganın tepesi geniştir ve ince perde farklarını yalnız yerle açıklamak zordur."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yer ve zaman",
+   "baslik": "*Zaman* kuramı",
+   "cizim": "atim_dizisi",
+   "ayar": {
+    "frekans_hz": 250,
+    "periyot": 6,
+    "ates": [
+     1,
+     0,
+     1,
+     1,
+     0,
+     1
+    ],
+    "cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "evre",
+     "cumle": 1
+    },
+    {
+     "parca": "aralik",
+     "cumle": 2
+    },
+    {
+     "parca": "atimlar",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "aralik",
+     "metin": "Aralıklar periyodun katı",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Atımlar _aynı evrede_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Salvo: lif grubu _birlikte_",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Yaklaşık _4 ile 5 kHz_ üstünde yok",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Zaman kuramına (temporal theory) göre perde, sinir atımlarının zamanlamasıyla kodlanır.",
+    "İşitme siniri lifleri dalganın belirli bir evresinde ateşlenir; buna faz kilitlenmesi denir.",
+    "Atımlar arasındaki süreler periyodun katlarıdır ve beyin bu düzenden frekansı çıkarabilir.",
+    "Tek bir lif her periyotta ateşleyemese de, Wever'in salvo ilkesine göre lif grupları birlikte her periyodu işaretler.",
+    "Faz kilitlenmesi yaklaşık dört ile beş kilohertzin üzerinde kaybolur; bu yüzden zaman kodu tiz frekanslarda işlemez.",
+    "Bu mekanizmayı işitme sinirinin kodlama dersinde görmüştük; burada algıdaki sonuçlarına bakıyoruz.",
+    "Bugünkü görüş iki kodun birlikte çalıştığıdır: pes ve orta frekanslarda zaman ve yer, tiz frekanslarda daha çok yer bilgisi."
+   ]
+  },
+  {
+   "id": "kanit",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yer ve zaman",
+   "baslik": "Algıdan *ipuçları*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Fark eşiği",
+     "metin": "4 ile 5 kHz üstü büyür",
+     "cumle": 1
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Melodi",
+     "metin": "Yaklaşık 5 kHz üstü zor",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Filtreden ince",
+     "metin": "Birkaç Hz fark",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Eksik temel",
+     "metin": "Yer tek başına yetmez",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İki kodun rolüne dair önemli ipuçları algı deneylerinden gelir.",
+    "Frekans fark eşiği yaklaşık dört ile beş kilohertzin üzerinde belirgin biçimde büyür; faz kilitlenmesi de burada kaybolur.",
+    "Benzer biçimde, yaklaşık beş kilohertzin üzerindeki tonlarla çalınan melodiler zor tanınır; müzikal perde duygusu zayıflar.",
+    "Bin hertzde işitsel filtre yaklaşık yüz otuz hertz genişliğindeyken fark eşiği yalnız birkaç hertzdir.",
+    "Bu bulgular, ince perde algısında zaman bilgisinin önemli olduğunu düşündürür.",
+    "Eksik temel frekans olgusu ise perdenin yalnız en çok titreşen yerle açıklanamayacağını gösterir; birazdan ona bakacağız."
+   ]
+  },
+  {
+   "id": "dlf",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Frekans ayırt etme",
+   "baslik": "Frekans *fark eşiği*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "isaretler": [
+      0,
+      0.5,
+      1
+     ],
+     "ond": 1,
+     "ad": "Fark eşiği (frekansın yüzdesi)"
+    },
+    "seriler": [
+     {
+      "ad": "dlf",
+      "noktalar": [
+       [
+        125,
+        0.8
+       ],
+       [
+        250,
+        0.45
+       ],
+       [
+        500,
+        0.3
+       ],
+       [
+        1000,
+        0.22
+       ],
+       [
+        2000,
+        0.2
+       ],
+       [
+        4000,
+        0.3
+       ],
+       [
+        6000,
+        0.6
+       ],
+       [
+        8000,
+        1.0
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "bin",
+      "x": 1000,
+      "y": 0.22,
+      "etiket": "1 kHz: birkaç Hz",
+      "dy": -24,
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "tiz",
+      "x": [
+       4000,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "faz kilitlenmesi zayıf",
+      "cumle": 4,
+      "opak": 0.2
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "bin",
+     "cumle": 2
+    },
+    {
+     "parca": "tiz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Frekans fark eşiği (frequency difference limen), frekansı farklı iki ton arasında algılanabilen en küçük farktır.",
+    "Ölçümde dinleyiciye iki ton art arda verilir ve hangisinin daha tiz olduğu sorulur.",
+    "Normal işiten genç yetişkinlerde bin hertzde fark eşiği yalnız birkaç hertzdir; yani frekansın yaklaşık binde ikisi ile binde üçü.",
+    "Grafikte fark eşiğinin, frekansa oranla orta frekanslarda en küçük olduğunu görüyorsunuz; değerler temsilidir.",
+    "Dört ile beş kilohertzin üzerinde bu oran belirgin biçimde büyür.",
+    "Fark eşiği düşük düzeylerde ve çok kısa tonlarda da büyür; perdenin net algılanması için ses en az birkaç on milisaniye sürmelidir.",
+    "Alıştırma bu beceriyi iyileştirir; eğitimli müzisyenlerde fark eşiği çoğu zaman daha küçüktür."
+   ]
+  },
+  {
+   "id": "eksik_temel",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Karmaşık seslerin perdesi",
+   "baslik": "*Eksik* temel frekans",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1400,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      0,
+      200,
+      400,
+      600,
+      800,
+      1000,
+      1200
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": "Genlik"
+    },
+    "seriler": [
+     {
+      "ad": "harmonikler",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        600,
+        1
+       ],
+       [
+        800,
+        0.9
+       ],
+       [
+        1000,
+        0.8
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "eksik",
+      "x": 200,
+      "y": 1,
+      "cizgi": "dikey",
+      "renk": "kirmizi",
+      "nokta": false,
+      "etiket": "duyulan perde: 200 Hz",
+      "dx": 20,
+      "dy": -6,
+      "hiza": "start",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "aralik",
+      "x": [
+       600,
+       800
+      ],
+      "y": 1.1,
+      "etiket": "200 Hz aralık",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "eksik",
+     "cumle": 3
+    },
+    {
+     "parca": "aralik",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Temel frekansı iki yüz hertz olan bir sesten temel bileşeni tamamen çıkardığımızı düşünelim.",
+    "Geriye yalnız altı yüz, sekiz yüz ve bin hertzlik harmonikler kalsın.",
+    "Dinleyici bu sesi yine de iki yüz hertzlik bir perdeyle duyar; yani ortada olmayan temel frekansın perdesini algılar.",
+    "Bu olguya eksik temel frekans (missing fundamental) denir; algılanan perdeye de artık perdesi (residue pitch) adı verilir.",
+    "Olgu on dokuzuncu yüzyılda Seebeck'in deneylerinde gözlendi; 1940'ta Schouten tarafından sistemli biçimde incelendi.",
+    "Harmonikler iki yüz hertz aralıklıdır ve dalga her beş milisaniyede bir tekrar eder; beyin bu düzenliliği perde olarak algılar.",
+    "Telefon hattı yaklaşık üç yüz hertzin altını iletmez; yine de erkek sesini doğru perdede duyarız, çünkü harmonikler perdeyi taşır."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Karmaşık seslerin perdesi",
+   "baslik": "Artık perdesi *nereden* doğar?",
+   "maddeler": [
+    {
+     "metin": "Pes gürültü verilse de _perde sürer_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Perde _harmoniklerin birlikte_ işlenmesi",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Çözümlenen _düşük sıralı_ harmonikler güçlü",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yer ve zaman _birleşir_",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "dalga_bicimi",
+    "cumle": 2,
+    "ayar": {
+     "seriler": [
+      "karmasik"
+     ],
+     "frekans_hz": 200
+    }
+   },
+   "cumleler": [
+    "Bu perde kulakta oluşan bir distorsiyon ürününden mi kaynaklanır? Deneyler bunun ana açıklama olmadığını gösterir.",
+    "Temel frekans bölgesine pes bir gürültü verildiğinde bile artık perdesi duyulmaya devam eder.",
+    "Yani perde, kokleanın temel frekansa ayarlı bölgesinden değil, harmoniklerin birlikte işlenmesinden doğar.",
+    "Kokleanın ayrı ayrı çözümleyebildiği, sıra numarası düşük harmonikler perde için en güçlü ipucunu verir.",
+    "Sıra numarası yüksek harmonikler ise aynı işitsel filtreye düşüp birbirine karışır; bunlardan daha zayıf bir perde algılanır.",
+    "Günümüz modelleri perdeyi, yer ve zaman bilgisini birleştiren merkezi bir örüntü tanıma süreci olarak açıklar."
+   ]
+  },
+  {
+   "id": "konusmaci",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Karmaşık seslerin perdesi",
+   "baslik": "Perde ile *konuşmacı* ayırmak",
+   "maddeler": [
+    {
+     "metin": "Farklı F0: konuşmacıyı _izlemek kolay_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Yaşla fark eşiği _büyüyebilir_",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Zamanlama hassasiyeti _azalır_",
+     "cumle": 3,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kalabalıkta anlama _zorlaşır_",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "İKİ KONUŞMACI",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "Konuşmacı A",
+      "metin": "Pes temel frekans",
+      "cumle": 1
+     },
+     {
+      "ikon": "konusma",
+      "baslik": "Konuşmacı B",
+      "metin": "Tiz temel frekans",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Perde, iki konuşmacıyı birbirinden ayırmada da önemli bir ipucudur.",
+    "Aynı anda konuşan iki kişinin temel frekansları farklıysa, dinleyici hedef konuşmacının sesini daha kolay izler.",
+    "Yaşlı yetişkinlerde, odyogram benzer olsa bile frekans fark eşiklerinin daha büyük olabildiği bildirilmiştir.",
+    "Bunun, sinir liflerindeki zamanlama hassasiyetinin azalmasıyla ilişkili olduğu düşünülür.",
+    "Bu durum, birden çok konuşmacının olduğu ortamlarda anlamanın neden zorlaştığını kısmen açıklar."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinikte perde",
+   "baslik": "Perde ve *işitme kaybı*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Koklear kayıp",
+     "metin": "Fark eşikleri büyür",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Diplakuzi",
+     "metin": "İki kulakta farklı perde",
+     "cumle": 2
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Koklear implant",
+     "metin": "Müzik ve perde sınırlı",
+     "cumle": 3
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Frekans düşürme",
+     "metin": "Algılanan perde değişir",
+     "cumle": 4
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tinnitus eşleme",
+     "metin": "Oktav karışıklığı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Perde algısı klinikte de önem taşır.",
+    "Koklear kayıpta işitsel filtreler genişler ve zaman bilgisi bozulabilir; frekans fark eşikleri büyür.",
+    "Bazı hastalar aynı tonu iki kulakta farklı perdede duyduğunu anlatır; buna diplakuzi (diplacusis) denir.",
+    "Koklear implant kullanıcıları frekansı ağırlıkla elektrotların yeriyle alır; bu yüzden müzik ve ses perdesi algısı sınırlı kalabilir.",
+    "Frekans düşürme kullanan işitme cihazlarında tiz sesler daha pes bir bölgeye taşındığı için algılanan perde de değişir.",
+    "Tinnitus perde eşleştirmesinde hastalar sık sık bir oktav yukarı ya da aşağı karışıklık yapar; bu yüzden oktav kontrolü önerilir.",
+    "Bu yüzden perde yakınmaları, odyogramın göstermediği bir işitme özelliğini yansıtabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Tek kulakta yeni başlayan perde bozulması yakınmasını öyküye kaydedin ve odyogramla birlikte değerlendirin; hekim değerlendirmesini geciktirmeyin.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: hastanın sesleri farklı ya da bozuk perdede duyduğu yakınmasını önemseyin.",
+    "Tek kulakta yeni başlayan perde bozulması, ani işitme kaybı ya da Meniere hastalığı gibi tablolarda bildirilebilir.",
+    "Bu yakınmayı öyküde ayrıntılı kaydedin ve odyogramdaki değişiklikle birlikte değerlendirin.",
+    "Yeni başlayan tek taraflı bir yakınma, hekim değerlendirmesini geciktirmemek için bir uyarı olabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Perde: frekansın _algısal_ karşılığı",
+     "cumle": 0,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Yer ve _zaman_ kodu birlikte",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "1 kHz fark eşiği: _birkaç Hz_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Eksik temel: _harmonik aralığı_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Perde, seslerin pesten tize sıralanmasını sağlayan algısal özelliktir ve büyük ölçüde frekansa bağlıdır.",
+    "Yer kodu bütün frekanslarda, zaman kodu yaklaşık dört ile beş kilohertzin altında perdeye katkı verir.",
+    "Bin hertzde frekans fark eşiği yalnız birkaç hertzdir; tiz frekanslarda belirgin biçimde büyür.",
+    "Karmaşık seslerin perdesi temel frekans olmasa bile harmoniklerin düzenliliğinden algılanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "900, 1200, 1500 Hz harmonikler: perde?",
+   "secenekler": [
+    "300 Hz",
+    "900 Hz",
+    "1200 Hz",
+    "1500 Hz"
+   ],
+   "dogru": 0,
+   "aciklama": "Harmonikler _300 Hz_ aralıklı; bu, eksik temel frekansın perdesidir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Yalnız dokuz yüz, bin iki yüz ve bin beş yüz hertzlik harmoniklerden oluşan ses hangi perdede duyulur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: üç yüz hertz.",
+    "Harmonikler arasındaki aralık üç yüz hertzdir; dinleyici ortada olmayan bu temel frekansın perdesini duyar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Maskeleme ve *kritik bant*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bir sesin başka bir sesi nasıl örttüğünü, yani maskelemeyi ve kritik bandı öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

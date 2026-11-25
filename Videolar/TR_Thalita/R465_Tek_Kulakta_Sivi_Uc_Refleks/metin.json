@@ -1,0 +1,147 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R465_Tek_Kulakta_Sivi_Uc_Refleks_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #465",
+  "baslik": "Üç refleks *yok*",
+  "alt": "Tek taraflı iletim kaybında refleks",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      35,
+      40,
+      35,
+      30,
+      30,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      10,
+      10,
+      15
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      10,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Tek kulakta orta kulak sıvısı varken neden üç refleks birden kaybolur? #shorts",
+  "aciklama": "Örnek vakada sağ kulakta orta kulak sıvısıyla uyumlu, normal hacimli bir B tipi timpanogram var. Prob sağdayken ölçülen sağ ipsilateral ve sol kontralateral reflekslerde yanıt alınamaz, çünkü sıvılı orta kulakta admitans değişimi ölçülemez; uyaran sağda, prob soldayken de refleks yoktur, çünkü sağdaki iletim kaybı uyaranın kokleaya ulaşan düzeyini düşürür. Yalnız prob ve uyaranın solda olduğu ölçümde refleks beklenen düzeyde alınır: sorunlu kulak probda ya da uyaranda olduğunda refleks alınamaz.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "timpanometri",
+   "refleks"
+  ],
+  "etiketler": [
+   "akustik refleks",
+   "B tipi timpanogram",
+   "iletim tipi kayıp",
+   "orta kulak efüzyonu",
+   "immitans",
+   "vaka",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Tek kulakta orta kulak sıvısı varken neden üç refleks birden kaybolur?",
+  "bilgiler": [
+   "Sorunlu kulak probdayken admitans değişimi ölçülemez.",
+   "Sorunlu kulak uyarandayken uyaran kokleaya zayıf ulaşır.",
+   "Yalnız sağlam kulağın ipsilateral refleksi alınır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "timpanometri",
+   "refleks"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #465",
+   "metin": "Neden *üç refleks?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Tek kulakta orta kulak sıvısı varken neden üç refleks birden kaybolur?"
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "zincir",
+   "baslik": "Sağ kulakta *sıvı*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Prob sağda",
+     "tr": "ölçülemez",
+     "cumle": 1
+    },
+    {
+     "ad": "Uyaran sağda",
+     "tr": "koklea zayıf alır",
+     "cumle": 2
+    },
+    {
+     "ad": "İkisi solda",
+     "tr": "refleks var",
+     "cumle": 3
+    }
+   ],
+   "alt": "Tek taraflı iletim _paterni_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Örnekte sağ orta kulakta sıvı var, sol kulak normal.",
+    "Prob sağdayken refleks alınamaz; sıvılı kulakta admitans değişimi ölçülemez.",
+    "Uyaran sağda, prob soldayken de refleks yok; uyaran kokleaya zayıf ulaşır.",
+    "Yalnız prob ve uyaranın solda olduğu ölçümde refleks alınır.",
+    "Sorunlu kulak probda ya da uyaranda olunca refleks kaybolur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D272",
+ "kaynak_baslik": "Vaka: tek taraflı iletim kaybı"
+}

@@ -1,0 +1,105 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R218_Stenger_Testi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #218",
+  "baslik": "*Stenger* testi",
+  "alt": "Aynı ton iki kulağa birden verilince",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Aynı ton iki kulağa birden verilirse, ses hangi kulakta duyulur? #shorts",
+  "aciklama": "Stenger testi basit bir algı ilkesine dayanır: aynı frekanstaki ton iki kulağa aynı anda verilince kişi sesi yalnız kendisine daha yüksek gelen kulakta duyar. Tek taraflı kayıp beyan eden kişi yanıt vermeyi bırakırsa sonuç pozitif Stenger olarak adlandırılır ve organik olmayan bir bileşeni gösterir. Sonuç her zaman diğer testlerle birlikte yorumlanır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "odyometri",
+   "işitme"
+  ],
+  "etiketler": [
+   "Stenger testi",
+   "psödohipoakuzi",
+   "organik olmayan işitme kaybı",
+   "işlevsel işitme kaybı",
+   "tek taraflı kayıp",
+   "saf ses odyometrisi",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Aynı ton iki kulağa birden verilirse, ses hangi kulakta duyulur?",
+  "bilgiler": [
+   "İki kulağa aynı ton verilince ses yalnız daha yüksek gelen kulakta duyulur.",
+   "İyi kulağa eşiğin 10 dB üstü, kötü kulağa beyanın 10 dB altı verilir.",
+   "Kişi yanıtı bırakırsa pozitif Stenger, organik olmayan bileşeni gösterir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "işitme"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #218",
+   "metin": "Ses *hangi kulakta* duyulur?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Aynı ton iki kulağa birden verilirse, ses hangi kulakta duyulur?"
+   ]
+  },
+  {
+   "id": "stenger",
+   "tur": "zincir",
+   "baslik": "*Stenger* testi",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "İyi kulak",
+     "tr": "10 dB üstü",
+     "cumle": 1
+    },
+    {
+     "ad": "Kötü kulak",
+     "tr": "10 dB altı",
+     "cumle": 2
+    },
+    {
+     "ad": "Yanıt",
+     "tr": "biterse pozitif",
+     "cumle": 3
+    }
+   ],
+   "alt": "Kötü kulak _beyandan iyi duyuyor_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "İki kulağa aynı ton verilince, ses yalnız daha yüksek gelen kulakta duyulur.",
+    "İyi kulağa eşiğinin yaklaşık on desibel üzerinde bir ton verilir.",
+    "Aynı anda kötü kulağa, beyan edilen eşiğin on desibel altında ton eklenir.",
+    "Kişi yanıtı bırakırsa pozitif Stenger, organik olmayan bir bileşeni gösterir.",
+    "Sonuç her zaman diğer testlerle birlikte, suçlayıcı olmadan yorumlanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D136",
+ "kaynak_baslik": "Psödohipoakuzi"
+}

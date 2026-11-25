@@ -1,0 +1,711 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D296_Gizli_Isitme_Kaybi_Sinaptopati_TR",
+ "kapak": {
+  "ust": "DERS 296",
+  "baslik": "Gizli işitme<br>*kaybı*",
+  "alt": "Koklear sinaptopati: güncel kanıt",
+  "cizim": "corti",
+  "vurgula": [
+   "ic_tuy_hucresi",
+   "sinir_lifleri"
+  ]
+ },
+ "youtube": {
+  "baslik": "Gizli İşitme Kaybı ve Koklear Sinaptopati: Güncel Kanıt | Ders 296 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Normal odyogram kulağın sağlam olduğunu mu gösterir? Bu derste koklear sinaptopatiyi, Kujawa ve Liberman'ın hayvan çalışmalarını, ABR dalga I genliğini, insanda ölçüm güçlüklerini, çelişkili bulguları ve klinikte yapılabilecekleri öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Kujawa SG, Liberman MC. Adding insult to injury: cochlear nerve degeneration after temporary noise-induced hearing loss. Journal of Neuroscience (2009); Furman AC, Kujawa SG, Liberman MC. Journal of Neurophysiology (2013); Schaette R, McAlpine D. Journal of Neuroscience (2011); Liberman MC ve ark. PLoS One (2016); Prendergast G ve ark. Hearing Research (2017); Valero MD ve ark. Hearing Research (2017); Wu PZ ve ark. Primary neural degeneration in the human cochlea: evidence for hidden hearing loss in the aging ear. Neuroscience (2019); Bramhall N ve ark. Hearing Research (2019).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "gizliişitmekaybı",
+   "sinaptopati"
+  ],
+  "etiketler": [
+   "gizli işitme kaybı",
+   "hidden hearing loss",
+   "koklear sinaptopati",
+   "cochlear synaptopathy",
+   "dalga I genliği",
+   "wave I amplitude",
+   "Kujawa Liberman",
+   "genişletilmiş yüksek frekans",
+   "gürültüye bağlı işitme kaybı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 296",
+   "baslik": "Gizli işitme kaybı ve *sinaptopati*",
+   "alt": "Hayvan kanıtı, insan çalışmaları, tartışma",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste gizli işitme kaybı ve koklear sinaptopati hakkındaki güncel kanıtları inceleyeceğiz.",
+    "Kujawa ve Liberman'ın hayvan çalışmalarını, insanda ölçüm güçlüklerini, çelişkili bulguları ve bugün klinikte ne yapabileceğimizi göreceğiz."
+   ]
+  },
+  {
+   "id": "sinaps",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kavram",
+   "baslik": "Sinaps *nerede?*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "iç tüy hücresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "sinir lifleri",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "dış tüy hücreleri",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Gürültüye bağlı işitme kaybı dersinde koklear sinaptopatiyi kısaca tanımlamıştık; bu derste kanıtın kendisine bakacağız.",
+    "Sesin sinire aktarıldığı ana nokta, iç tüy hücresinin tabanındaki şerit sinapstır (ribbon synapse).",
+    "Her iç tüy hücresine çok sayıda işitme siniri lifi bağlanır; her lif yalnız bir iç tüy hücresinden bilgi alır.",
+    "Koklear sinaptopati (cochlear synaptopathy), bu sinapsların tüy hücresi yerinde kaldığı halde kaybolmasıdır.",
+    "Sinaps koptuktan sonra ilgili sinir lifi işlevsiz kalır ve aylar ya da yıllar içinde dejenere olabilir.",
+    "Dış tüy hücreleri sağlam kaldığı için odyogram ve otoakustik emisyonlar normal olabilir."
+   ]
+  },
+  {
+   "id": "lifler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kavram",
+   "baslik": "Lif *türleri*",
+   "ogeler": [
+    {
+     "ikon": "sessizlik",
+     "baslik": "Düşük eşikli lifler",
+     "metin": "Spontan hızı yüksek",
+     "cumle": 0
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Yüksek eşikli lifler",
+     "metin": "Spontan hızı düşük",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Gürültüde kodlama",
+     "metin": "Yüksek düzeylerde önemli",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Eşik",
+     "metin": "Düşük eşikli liflerle",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İşitme sinirinin kodlama dersinde gördüğümüz gibi lifler spontan hızlarına ve eşiklerine göre gruplara ayrılır.",
+    "Spontan hızı düşük ve eşiği yüksek lifler, yüksek ses düzeylerinde ve gürültülü ortamda sesi kodlamaya katkı verir.",
+    "Hayvan çalışmalarında gürültüden ilk etkilenenlerin bu yüksek eşikli lifler olduğu bildirilmiştir.",
+    "Bu nedenle sinaptopatinin gürültüde konuşmayı anlamayı bozabileceği öne sürülmüştür.",
+    "Eşiği belirleyen düşük eşikli lifler korunduğu için odyogram değişmeyebilir."
+   ]
+  },
+  {
+   "id": "kujawa",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hayvan kanıtı",
+   "baslik": "Kujawa ve Liberman *2009*",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü",
+     "metin": "Farelerde iki saat",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Geçici kayma",
+     "metin": "Eşikler yükseldi",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Eşikler döndü",
+     "metin": "Yaklaşık iki haftada",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Sinaps kaybı",
+     "metin": "Yarıya varan",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Geç dejenerasyon",
+     "metin": "Sinir hücreleri azaldı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kujawa ve Liberman 2009'da farelere sekiz ile on altı kilohertz arasındaki bir gürültüyü, yüz desibel düzeyinde iki saat dinletti.",
+    "Hayvanlarda belirgin bir geçici eşik kayması oluştu.",
+    "Eşikler yaklaşık iki hafta içinde normale döndü ve dış tüy hücreleri sağlam kaldı.",
+    "Buna karşın koklear bölgelerin bir kısmında iç tüy hücresi sinapslarının yarıya yakını kalıcı olarak kayboldu.",
+    "Aylar sonra bu bölgelerde spiral ganglion hücrelerinin de azaldığı gösterildi.",
+    "Çalışma, geçici sanılan bir eşik kaymasının kalıcı bir sinir hasarı bırakabileceğini gösterdiği için büyük yankı uyandırdı."
+   ]
+  },
+  {
+   "id": "dalga1",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hayvan kanıtı",
+   "baslik": "Dalga I *genliği*",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "dalga I",
+     "cumle": 0
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "dalga V",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 0
+    }
+   ],
+   "cumleler": [
+    "Hayvanlarda sinaps kaybının en iyi işlevsel göstergesi, işitsel beyin sapı yanıtı, kısaca ABR dalga I genliğidir.",
+    "Dalga I, işitme sinirinin eş zamanlı yanıtını yansıtır; çalışan lif sayısı azaldıkça yüksek uyaran düzeylerinde genliği küçülür.",
+    "Fare çalışmasında dalga I genliğindeki azalma, sinaps kaybıyla uyumlu bulundu.",
+    "Eşik değişmediği için bu bulgu ancak yüksek uyaran düzeylerinde ve genlik ölçülerek görülebilir.",
+    "Klinikte ABR'de genellikle latans ve eşik değerlendirilir; genlik ise kişiden kişiye çok değiştiği için daha az kullanılır.",
+    "Bu nokta, hayvandaki bulguyu insana taşımanın neden zor olduğunu da açıklar."
+   ],
+   "ayar": {
+    "dalga1_oran": 0.45,
+    "azalmis_cumle": 1,
+    "genlik_cumle": 1
+   }
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hayvan kanıtı",
+   "baslik": "Diğer *hayvan bulguları*",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kobay",
+     "metin": "Yüksek eşikli lifler",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Primat",
+     "metin": "Daha yüksek gürültüde",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Yaşlanma",
+     "metin": "Gürültüsüz de kayıp",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İnsan temporal kemiği",
+     "metin": "Yaşla sinaps azalması",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kobaylarda yapılan çalışmalar, gürültüden sonra özellikle spontan hızı düşük liflerin kaybolduğunu gösterdi.",
+    "Fare ve kobayda gösterilen sinaptopatinin insana yakın türlerde de olup olmadığı önemli bir soruydu.",
+    "Maymunlarda yapılan bir çalışmada sinaptopati gösterildi, ancak bunun için farelerden daha yüksek gürültü düzeyleri gerekti.",
+    "Farelerde gürültü olmadan da yaşlanmayla sinapsların, eşikler bozulmadan önce azaldığı bildirildi.",
+    "2019'da insan temporal kemiklerinde yapılan bir çalışma da yaşla birlikte belirgin sinaps ve sinir lifi kaybı buldu.",
+    "Yani yaşa bağlı sinaptopati için insandan doğrudan histolojik kanıt vardır; gürültüye bağlı sinaptopati içinse kanıt daha dolaylıdır."
+   ]
+  },
+  {
+   "id": "zor",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İnsanda",
+   "baslik": "İnsanda *neden zor?*",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Histoloji",
+     "metin": "Yalnız ölümden sonra",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Küçük sinyal",
+     "metin": "Dalga I değişken",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Maruziyet öyküsü",
+     "metin": "Hatırlamaya dayalı",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Karıştırıcılar",
+     "metin": "Tiz frekans kaybı",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Bireysel fark",
+     "metin": "Cinsiyet, kafa boyutu",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İnsanda sinaps sayısı ancak ölümden sonra temporal kemik incelemesiyle sayılabilir; yaşayan kişide doğrudan ölçüm yoktur.",
+    "Yüzeyden kaydedilen dalga I küçük bir sinyaldir ve aynı yaştaki sağlıklı kişiler arasında bile çok değişkendir.",
+    "Kişinin yaşam boyu gürültü maruziyeti çoğu zaman anketle, yani hatırlamaya dayanarak tahmin edilir.",
+    "Odyogramı normal sayılan kişilerde sekiz kilohertzin üstünde kayıp olabilir; bu da dalga I genliğini etkileyerek sonucu karıştırır.",
+    "Cinsiyet, kafa boyutu ve elektrot yerleşimi gibi etkenler de genliği değiştirir.",
+    "Bu yüzden insanda tek bir ölçümle sinaptopati tanısı koymak bugün mümkün değildir."
+   ]
+  },
+  {
+   "id": "olcumler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İnsanda",
+   "baslik": "Aday *ölçümler*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Dalga I genliği",
+     "metin": "Yüksek uyaran düzeyinde",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "SP/AP oranı",
+     "metin": "Elektrokokleografi",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Genişletilmiş frekanslar",
+     "metin": "Sekiz kHz üstü",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Orta kulak refleksi",
+     "metin": "Eşik ve büyüklük",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Zarf izleme yanıtı",
+     "metin": "Ses zarfını kodlama",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Gürültüde konuşma",
+     "metin": "Zor dinleme koşulu",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Araştırmalarda en sık kullanılan aday ölçüm, yüksek uyaran düzeyinde ABR dalga I genliğidir.",
+    "Elektrokokleografide sumasyon potansiyelinin aksiyon potansiyeline oranı, kısaca SP/AP da bir gösterge olarak önerilmiştir.",
+    "Genişletilmiş yüksek frekans odyometrisi, gürültü hasarının erken bir işareti olarak değerlendirilmektedir.",
+    "Akustik refleksin eşiği ve büyüklüğü de sinir lifi kaybından etkilenebileceği için incelenmektedir.",
+    "Zarf izleme yanıtı (envelope following response), sinir sisteminin sesin hızlı genlik değişimlerini ne kadar iyi izlediğini ölçer.",
+    "Davranışsal olarak da gürültüde ya da yankılı ortamda konuşmayı anlama testleri kullanılır.",
+    "Ancak bu ölçümlerin hiçbiri tek başına doğrulanmış bir klinik test değildir."
+   ]
+  },
+  {
+   "id": "celiski",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İnsanda",
+   "baslik": "Çelişkili *bulgular*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Destekleyen",
+     "metin": "Gençlerde SP/AP artışı",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Destekleyen",
+     "metin": "Gazilerde düşük dalga I",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Desteklemeyen",
+     "metin": "Gençlerde ilişki yok",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Sonuç",
+     "metin": "Yöntemler farklı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "2016'da yüksek gürültü maruziyeti olan genç yetişkinlerde, SP/AP oranının daha büyük olduğu bildirildi.",
+    "Aynı çalışmada bu grubun zor koşullardaki kelime tanıma performansı daha düşüktü.",
+    "Gürültüye çok maruz kalmış gaziler üzerinde yapılan çalışmalarda da dalga I genliğinin daha küçük olduğu bulundu.",
+    "Öte yandan normal odyogramlı geniş bir genç yetişkin grubunda, gürültü öyküsü ile elektrofizyolojik ölçümler arasında ilişki gösterilemedi.",
+    "Başka birçok çalışma da gürültü öyküsü ile gürültüde anlama arasında tutarlı bir ilişki bulamadı.",
+    "Bulguların çelişmesinin nedenleri arasında farklı gruplar, farklı maruziyet ölçümleri ve farklı test yöntemleri sayılır."
+   ]
+  },
+  {
+   "id": "ehf",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İnsanda",
+   "baslik": "Genişletilmiş yüksek *frekanslar*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 16000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      8000,
+      16000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 70,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "ornek",
+      "noktalar": [
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        10
+       ],
+       [
+        8000,
+        15
+       ],
+       [
+        10000,
+        25
+       ],
+       [
+        12500,
+        40
+       ],
+       [
+        16000,
+        55
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "örnek kulak",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       -10,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "normal sınır",
+      "opak": 0.12,
+      "cumle": 1
+     },
+     {
+      "ad": "ehf",
+      "x": [
+       8000,
+       16000
+      ],
+      "renk": "sari",
+      "etiket": "genişletilmiş",
+      "cumle": 2
+     }
+    ],
+    "isaretler": []
+   },
+   "vurgula": [
+    {
+     "parca": "ehf",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Ekrandaki grafik, genişletilmiş yüksek frekans odyometrisinin öğretim amaçlı bir örneğidir.",
+    "Bu örnekte sekiz bin hertze kadar eşikler normal sınırlar içinde.",
+    "Ama on bin hertzin üzerinde eşikler belirgin biçimde yükseliyor.",
+    "Standart odyogram bu kaybı göstermez; kişi ise gürültüde zorlandığını söyleyebilir.",
+    "Bazı araştırmacılara göre bu kayıp gürültü ya da yaş hasarının erken işaretidir ve sinaptopatiyle birlikte bulunabilir.",
+    "Bu nedenle normal odyogramlı ama yakınması olan kişide genişletilmiş yüksek frekanslara bakmak bilgilendirici olabilir."
+   ]
+  },
+  {
+   "id": "tinnitus",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İnsanda",
+   "baslik": "Tinnitus ve *gürültüde anlama*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Tinnitus",
+     "metin": "Normal odyogramda",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Dalga I",
+     "metin": "Bazı çalışmalarda küçük",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Merkezi kazanç",
+     "metin": "Olası mekanizma",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Gürültüde anlama",
+     "metin": "Sık yakınma",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Gizli işitme kaybı (hidden hearing loss) adı, 2011'de normal odyogramlı tinnitus hastalarını inceleyen bir çalışmayla yaygınlaştı.",
+    "Bu çalışmada tinnituslu kişilerde dalga I genliği daha küçük, daha üst dalgalar ise korunmuş bulundu.",
+    "Yazarlara göre merkezi işitme sistemi azalan sinir girdisini kazancı artırarak telafi ediyor ve bu, tinnitusa katkı verebiliyordu.",
+    "Normal odyogramla gürültüde anlama güçlüğü de klinikte sık duyulan bir yakınmadır.",
+    "Ancak bu yakınmanın dikkat, bilişsel etkenler ve işitsel işlemleme gibi başka nedenleri de vardır.",
+    "Bu yüzden her normal odyogramlı yakınmayı sinaptopatiye bağlamak doğru değildir."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İnsanda",
+   "baslik": "Klinikte *ne yapabiliriz?*",
+   "maddeler": [
+    {
+     "metin": "Yakınmayı ciddiye al",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Gürültüde konuşma testi",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Genişletilmiş yüksek frekanslar",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Korunma danışmanlığı",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Tanı değil, olasılık",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kalabalik",
+      "baslik": "Ölç",
+      "metin": "Gürültüde konuşma",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulaklik",
+      "baslik": "Koru",
+      "metin": "Güvenli dinleme",
+      "cumle": 3
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Abartma",
+      "metin": "Araştırma kavramı",
+      "cumle": 4
+     }
+    ],
+    "ust": "KLİNİK"
+   },
+   "cumleler": [
+    "Normal odyograma rağmen gürültüde zorlandığını söyleyen kişinin yakınması ciddiye alınır ve kayda geçirilir.",
+    "Gürültüde konuşma testi, sessiz kelime skorunun göstermediği güçlüğü ölçülebilir hale getirir.",
+    "Olanak varsa genişletilmiş yüksek frekanslar test edilir ve gürültü öyküsü ayrıntılı alınır.",
+    "Gürültüye maruz kalan kişiye kulak koruyucu kullanımı ve güvenli dinleme danışmanlığı verilir; bu öneri her durumda yararlıdır.",
+    "Sinaptopati bugün bir araştırma kavramıdır; raporda kesin bir tanı gibi yazılmaz.",
+    "Bu alandaki tedavi araştırmaları da hayvan çalışmaları aşamasındadır; hastaya kanıtlanmış bir tedavi vaat edilmez."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Normal odyogramlı ama gürültüde zorlanan kişiye 'işitmeniz normal' demek yerine bulguları ve yakınmasını birlikte açıklayın.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: normal odyogramlı ama gürültüde zorlanan bir kişiye yalnızca işitmeniz normal demeyin.",
+    "Odyogramın sessiz ortamda ve sekiz bin hertze kadar eşikleri ölçtüğünü, her işitme becerisini göstermediğini açıklayın.",
+    "Yakınmasının gerçek olduğunu kabul edin, gürültüde konuşma testinin sonucunu paylaşın ve iletişim stratejileri önerin.",
+    "Böylece hem gereksiz kaygıyı hem de yakınmanın göz ardı edilmesini önlemiş olursunuz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Sinaps kaybı, normal eşik",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kujawa ve Liberman 2009: farede kanıt",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "İnsanda bulgular çelişkili",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Klinikte ölç, koru, abartma",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Koklear sinaptopati, tüy hücreleri sağlamken iç tüy hücresi sinapslarının kaybıdır; eşikler normal kalabilir.",
+    "Kujawa ve Liberman 2009'da farelerde geçici eşik kayması yapan bir gürültünün kalıcı sinaps kaybı bıraktığını gösterdi.",
+    "İnsanda yaşa bağlı sinaps kaybının histolojik kanıtı var; gürültüye bağlı sinaptopatide bulgular çelişkili, doğrulanmış test yok.",
+    "Klinikte gürültüde konuşma ve genişletilmiş yüksek frekanslar ölçülür, korunma önerilir ve kesin tanı dili kullanılmaz."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "İnsanda doğrudan sayım?",
+   "secenekler": [
+    "Yaşayan kişide ABR ile",
+    "Ölüm sonrası temporal kemikte",
+    "Odyogramla",
+    "Timpanometriyle"
+   ],
+   "dogru": 1,
+   "aciklama": "Sinapslar insanda yalnız _ölüm sonrası temporal kemik_ incelemesiyle sayılabilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: İnsanda koklear sinapsların sayısı doğrudan nasıl belirlenebilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: ölüm sonrası temporal kemik incelemesiyle.",
+    "Yaşayan kişide dalga I genliği gibi ölçümler yalnız dolaylı ipucu verir; bu yüzden insandaki tartışma sürmektedir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Gen tedavisi ve *tüy hücresi* rejenerasyonu",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste gen tedavisi ve tüy hücresi rejenerasyonu araştırmalarını gerçekçi bir bakışla ele alacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

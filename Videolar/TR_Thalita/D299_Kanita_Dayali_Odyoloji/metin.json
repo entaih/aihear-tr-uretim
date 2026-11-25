@@ -1,0 +1,940 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D299_Kanita_Dayali_Odyoloji_TR",
+ "kapak": {
+  "ust": "DERS 299",
+  "baslik": "*Sistematik*<br>derleme okuma",
+  "alt": "PICO, meta-analiz, orman grafiği",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 14,
+    "adim": 2,
+    "ad": "Ortalama fark (puan); sağ taraf cihaz lehine"
+   },
+   "y": {
+    "min": 0,
+    "max": 7,
+    "adim": 1,
+    "ters": true,
+    "yazilar": {
+     "1": "Çalışma A",
+     "2": "Çalışma B",
+     "3": "Çalışma C",
+     "4": "Çalışma D",
+     "5": "Çalışma E",
+     "6": "Toplam"
+    }
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "noktalar": [
+      [
+       1,
+       1
+      ],
+      [
+       7,
+       1
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "b",
+     "noktalar": [
+      [
+       2.5,
+       2
+      ],
+      [
+       9.5,
+       2
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "c",
+     "noktalar": [
+      [
+       -2,
+       3
+      ],
+      [
+       6,
+       3
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 3
+    },
+    {
+     "ad": "d",
+     "noktalar": [
+      [
+       3,
+       4
+      ],
+      [
+       7,
+       4
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "e",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       13,
+       5
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "tahminler",
+     "tur": "nokta",
+     "noktalar": [
+      [
+       4,
+       1
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       2,
+       3
+      ],
+      [
+       5,
+       4
+      ],
+      [
+       7,
+       5
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 1
+    },
+    {
+     "ad": "elmas",
+     "noktalar": [
+      [
+       3.4,
+       6
+      ],
+      [
+       4.8,
+       5.7
+      ],
+      [
+       6.2,
+       6
+      ],
+      [
+       4.8,
+       6.3
+      ],
+      [
+       3.4,
+       6
+      ]
+     ],
+     "renk": "sari",
+     "dolgu": true,
+     "cumle": 5
+    }
+   ],
+   "bolgeler": [],
+   "isaretler": [
+    {
+     "ad": "sifir",
+     "x": 0,
+     "cizgi": "dikey",
+     "etiket": "etki yok",
+     "cumle": 2
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Kanıta Dayalı Odyoloji: Sistematik Derleme Okuma | Ders 299 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Sistematik derleme ve meta-analiz nasıl okunur? Bu derste PICO ile klinik soru kurmayı, kanıt düzeylerini, sistematik derlemenin adımlarını ve PRISMA akış şemasını, yanlılık riskini, meta-analizi, orman grafiğini, heterojenliği, GRADE ile kanıtın kesinliğini ve klinik kılavuzların kullanımını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Higgins JPT ve ark. (ed.) Cochrane Handbook for Systematic Reviews of Interventions; Page MJ ve ark. The PRISMA 2020 statement. BMJ (2021); Guyatt GH ve ark. GRADE: an emerging consensus on rating quality of evidence and strength of recommendations. BMJ (2008); OCEBM Levels of Evidence Working Group, The Oxford 2011 Levels of Evidence; NICE, Hearing loss in adults: assessment and management (NG98, 2018); Joint Committee on Infant Hearing, Year 2019 Position Statement.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kanıtadayalıuygulama",
+   "metaanaliz"
+  ],
+  "etiketler": [
+   "kanıta dayalı odyoloji",
+   "evidence-based practice",
+   "sistematik derleme",
+   "systematic review",
+   "meta-analiz",
+   "meta-analysis",
+   "orman grafiği",
+   "forest plot",
+   "PICO",
+   "GRADE",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 299",
+   "baslik": "Kanıta dayalı odyoloji: *sistematik derleme*",
+   "alt": "PICO, kanıt düzeyi, orman grafiği, kılavuz",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste PICO ile klinik soru kurmayı hatırlayacak ve sistematik derlemenin nasıl yapıldığını öğreneceğiz.",
+    "Meta-analizi, orman grafiğini, kanıtın kesinliğini ve klinik kılavuzların kullanımını adım adım okuyacağız."
+   ]
+  },
+  {
+   "id": "pico",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Soru",
+   "baslik": "PICO ile *soru*",
+   "adimlar": [
+    {
+     "ikon": "yasli",
+     "baslik": "P: Hasta",
+     "metin": "Hafif ile orta kayıp",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "I: Müdahale",
+     "metin": "İşitme cihazı",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "C: Karşılaştırma",
+     "metin": "Cihaz yok",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "O: Sonuç",
+     "metin": "Yaşam kalitesi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bilimsel makale okuma dersinde, klinik soruyu düzenlemek için PICO kalıbını görmüştük.",
+    "Bu derste örnek sorumuzun hastası, hafif ile orta derece işitme kaybı olan yetişkinler olsun.",
+    "Müdahale işitme cihazı kullanımıdır.",
+    "Karşılaştırma, cihaz kullanmamak ya da bekleme listesinde olmaktır.",
+    "Sonuç ise işitmeyle ilişkili yaşam kalitesi ölçeğindeki puan değişimidir.",
+    "Tedavi soruları dışında tanı, tarama ve prognoz soruları da sorulabilir; her soru tipi için en uygun çalışma deseni farklıdır."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Soru",
+   "baslik": "Kanıt *düzeyleri*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Sistematik derleme",
+     "metin": "Randomize çalışmaların",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "RKÇ",
+     "metin": "Kurayla gruplar",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Kohort",
+     "metin": "İzlem çalışması",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Vaka serisi",
+     "metin": "Kontrolsüz gözlem",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Mekanizma",
+     "metin": "Fizyolojiden çıkarım",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Oxford sınıflamasında tedavi sorularının en üst düzeyinde randomize çalışmaların sistematik derlemesi yer alır.",
+    "Onu tek bir randomize kontrollü çalışma, yani RKÇ izler.",
+    "Ardından rastgele atama yapılmayan kohort ya da izlem çalışmaları gelir.",
+    "Vaka serileri ve vaka-kontrol çalışmaları daha alt düzeydedir.",
+    "En altta fizyolojiden yola çıkan akıl yürütme bulunur.",
+    "Ama düzey yalnız bir başlangıçtır: kötü yapılmış bir derleme de yanıltır; bu yüzden nasıl yapıldığını okumayı öğreneceğiz."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sistematik derleme",
+   "baslik": "Derleme mi, *sistematik derleme mi?*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Anlatısal derleme",
+     "metin": "Yazarın seçtiği kaynaklar",
+     "cumle": 0
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Protokol",
+     "metin": "Önceden yazılır, kaydedilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Kapsamlı arama",
+     "metin": "Birden çok veri tabanı",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Açık ölçütler",
+     "metin": "Dahil etme, dışlama",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Kalite",
+     "metin": "Yanlılık riski değerlendirmesi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Geleneksel anlatısal derlemede yazar, konuyla ilgili bildiği ya da seçtiği çalışmaları özetler; seçim çoğu zaman açık değildir.",
+    "Sistematik derleme (systematic review) ise önceden yazılmış bir protokolle başlar; protokol çoğu zaman bir kayıt sistemine girilir.",
+    "Birden çok veri tabanında, önceden belirlenmiş anahtar sözcüklerle kapsamlı bir arama yapılır.",
+    "Hangi çalışmaların dahil edileceği ve dışlanacağı, açık ölçütlerle önceden tanımlanır.",
+    "Dahil edilen her çalışmanın kalitesi, yani yanlılık riski standart araçlarla değerlendirilir.",
+    "Bu adımlar, başka bir araştırmacının aynı derlemeyi tekrarlayabilmesini sağlar; şeffaflık sistematik derlemenin özüdür."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sistematik derleme",
+   "baslik": "Sistematik derlemenin *adımları*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Soru ve protokol",
+     "metin": "PICO, ölçütler",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Arama",
+     "metin": "Veri tabanları, kayıtlar",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Tarama",
+     "metin": "İki bağımsız kişi",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Veri çıkarma",
+     "metin": "Standart form",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sentez",
+     "metin": "Anlatı ya da meta-analiz",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Süreç, PICO sorusu ve dahil etme ölçütlerini içeren bir protokolle başlar.",
+    "Arama yalnız PubMed ile sınırlı kalmaz; başka veri tabanları, klinik çalışma kayıtları ve yayımlanmamış çalışmalar da taranır.",
+    "Başlık, özet ve tam metinler iki araştırmacı tarafından birbirinden bağımsız olarak taranır; anlaşmazlıklar tartışılarak çözülür.",
+    "Her çalışmadan katılımcı sayısı, müdahale ve sonuç verileri standart bir formla çıkarılır.",
+    "Son adım sentezdir: çalışmalar yeterince benzerse sayısal olarak birleştirilir, değilse sonuçlar anlatı biçiminde özetlenir.",
+    "Bu adımların raporlanması için PRISMA adlı bir kontrol listesi kullanılır; 2020'de güncellenmiştir."
+   ]
+  },
+  {
+   "id": "prisma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sistematik derleme",
+   "baslik": "PRISMA *akış şeması*",
+   "cumleler": [
+    "Her sistematik derlemede, çalışmaların nasıl elendiğini gösteren bir akış şeması bulunur; sayılar burada yalnız örnektir.",
+    "Önce bütün veri tabanlarında bulunan kayıtlar toplanır ve birden çok yerde çıkan tekrarlar silinir.",
+    "Başlık ve özet taramasında soruyla ilgisiz çalışmalar elenir.",
+    "Kalan çalışmaların tam metni okunur ve her dışlama nedeniyle birlikte yazılır.",
+    "Sonunda derlemeye ve varsa meta-analize giren çalışmaların sayısı belirtilir.",
+    "Okuyucu olarak bu şemaya bakarak aramanın ne kadar kapsamlı olduğunu ve neyin neden dışlandığını görebilirsiniz."
+   ],
+   "cizim": "prisma_akisi",
+   "ayar": {
+    "cumleler": {
+     "tanimlama": 1,
+     "tarama": 2,
+     "tam_metin": 3,
+     "dahil": 4
+    },
+    "ornek": true
+   }
+  },
+  {
+   "id": "yanlilik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Sistematik derleme",
+   "baslik": "Yanlılık *riski*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Seçim",
+     "metin": "Rastgele atama doğru mu?",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Körleme",
+     "metin": "Kim biliyordu?",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Eksik veri",
+     "metin": "Kim ayrıldı?",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Seçici raporlama",
+     "metin": "Hangi sonuç yazıldı?",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Yayın yanlılığı",
+     "metin": "Olumsuzlar yayımlanmadı mı?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Seçim yanlılığında grupların oluşturulması sonucu etkiler; rastgele atamanın doğru yapılıp gizlendiği sorgulanır.",
+    "Katılımcı ya da değerlendirici grubu biliyorsa, özellikle anket gibi öznel sonuçlar etkilenebilir; buna körleme sorunu denir.",
+    "Çalışmadan ayrılan katılımcılar bir grupta daha fazlaysa sonuç yanıltıcı olabilir.",
+    "Protokolde söz verilen sonuç yerine yalnız anlamlı çıkan sonuçların yazılması, seçici raporlamadır.",
+    "Olumsuz sonuçlu çalışmaların daha az yayımlanmasına yayın yanlılığı (publication bias) denir; derlemenin bütün sonucunu kaydırabilir.",
+    "Cochrane'in yanlılık riski aracı gibi standart araçlar, bu alanları her çalışma için düşük, belirsiz ya da yüksek risk olarak işaretler."
+   ]
+  },
+  {
+   "id": "meta",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Meta-analiz",
+   "baslik": "Meta-analiz *nedir?*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Birleştirme",
+     "metin": "Sonuçların istatistiksel özeti",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Etki ölçüsü",
+     "metin": "Ortalama fark, risk oranı",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ağırlık",
+     "metin": "Kesin çalışma daha ağır",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Model",
+     "metin": "Sabit ya da rastgele",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Meta-analiz (meta-analysis), birden çok çalışmanın sonucunu istatistiksel olarak birleştirerek tek bir ortak tahmin elde etmektir.",
+    "Sonuçlar ortak bir etki ölçüsüyle ifade edilir: sürekli sonuçlarda ortalama fark, ikili sonuçlarda risk oranı gibi.",
+    "Her çalışmaya bir ağırlık verilir; büyük ve kesin tahminli çalışmalar sonuca daha çok katkı verir.",
+    "Sabit etki modeli tek bir gerçek etki varsayar; rastgele etkiler modeli ise çalışmalar arasında gerçek farklara izin verir.",
+    "Meta-analiz yalnız birleştirilen çalışmalar kadar iyidir; zayıf çalışmaları birleştirmek kesin ama yanlış bir sonuç üretebilir.",
+    "Bu yüzden meta-analizin sonucunu, yanlılık riski ve çalışmalar arasındaki tutarlılıkla birlikte okumak gerekir."
+   ]
+  },
+  {
+   "id": "orman",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Meta-analiz",
+   "baslik": "Orman *grafiği*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -4,
+     "max": 14,
+     "adim": 2,
+     "ad": "Ortalama fark (puan); sağ taraf cihaz lehine"
+    },
+    "y": {
+     "min": 0,
+     "max": 7,
+     "adim": 1,
+     "ters": true,
+     "yazilar": {
+      "1": "Çalışma A",
+      "2": "Çalışma B",
+      "3": "Çalışma C",
+      "4": "Çalışma D",
+      "5": "Çalışma E",
+      "6": "Toplam"
+     }
+    },
+    "seriler": [
+     {
+      "ad": "a",
+      "noktalar": [
+       [
+        1,
+        1
+       ],
+       [
+        7,
+        1
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "b",
+      "noktalar": [
+       [
+        2.5,
+        2
+       ],
+       [
+        9.5,
+        2
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "c",
+      "noktalar": [
+       [
+        -2,
+        3
+       ],
+       [
+        6,
+        3
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 3
+     },
+     {
+      "ad": "d",
+      "noktalar": [
+       [
+        3,
+        4
+       ],
+       [
+        7,
+        4
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "e",
+      "noktalar": [
+       [
+        1,
+        5
+       ],
+       [
+        13,
+        5
+       ]
+      ],
+      "renk": "lacivert",
+      "cumle": 1
+     },
+     {
+      "ad": "tahminler",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        4,
+        1
+       ],
+       [
+        6,
+        2
+       ],
+       [
+        2,
+        3
+       ],
+       [
+        5,
+        4
+       ],
+       [
+        7,
+        5
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 1
+     },
+     {
+      "ad": "elmas",
+      "noktalar": [
+       [
+        3.4,
+        6
+       ],
+       [
+        4.8,
+        5.7
+       ],
+       [
+        6.2,
+        6
+       ],
+       [
+        4.8,
+        6.3
+       ],
+       [
+        3.4,
+        6
+       ]
+      ],
+      "renk": "sari",
+      "dolgu": true,
+      "cumle": 5
+     }
+    ],
+    "bolgeler": [],
+    "isaretler": [
+     {
+      "ad": "sifir",
+      "x": 0,
+      "cizgi": "dikey",
+      "etiket": "etki yok",
+      "cumle": 2
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "elmas",
+     "metin": "birleştirilmiş tahmin",
+     "cumle": 5
+    },
+    {
+     "parca": "c",
+     "metin": "sıfırı kesen aralık",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "c",
+     "cumle": 3
+    },
+    {
+     "parca": "elmas",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Meta-analizin sonucu orman grafiği (forest plot) ile gösterilir; ekrandaki grafik öğretim amaçlı bir örnektir.",
+    "Her satır bir çalışmadır: nokta o çalışmanın tahminini, yatay çizgi ise yüzde doksan beş güven aralığını gösterir.",
+    "Ortadaki dikey çizgi etki yok çizgisidir; ortalama farkta bu değer sıfırdır.",
+    "Çalışma C'nin güven aralığı sıfır çizgisini kesiyor; yani bu çalışma tek başına anlamlı bir fark göstermemiştir.",
+    "Güven aralığı dar olan çalışmalar daha kesindir ve meta-analizde daha çok ağırlık alır; çoğu grafikte bu, daha büyük bir kareyle gösterilir.",
+    "En alttaki elmas, birleştirilmiş tahmindir: ortası ortak etkiyi, iki ucu ise güven aralığını gösterir.",
+    "Bu örnekte elmas sıfırı kesmiyor ve tamamen cihaz lehine; yani birleştirilmiş kanıt bir yarar olduğunu düşündürür.",
+    "Son olarak bu farkın klinik olarak anlamlı olup olmadığı, istatistik dersinde gördüğümüz en küçük önemli farkla karşılaştırılarak sorulur."
+   ]
+  },
+  {
+   "id": "heterojenlik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Meta-analiz",
+   "baslik": "*Heterojenlik*",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Görsel bakış",
+     "metin": "Aralıklar örtüşüyor mu?",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "I² istatistiği",
+     "metin": "Farkın yüzdesi",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yüksek I²",
+     "metin": "Dikkatli yorum",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Nedenler",
+     "metin": "Hasta, cihaz, ölçüm",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Heterojenlik (heterogeneity), sonuçların şansla açıklanamayacak kadar farklı olmasıdır; önce grafikte aralıkların örtüşmesine bakılır.",
+    {
+     "yazi": "Sayısal ölçü olarak I² istatistiği verilir; farklılığın ne kadarının gerçek farklardan kaynaklandığını yüzde olarak gösterir.",
+     "ses": "Sayısal ölçü olarak i kare istatistiği verilir; farklılığın ne kadarının gerçek farklardan kaynaklandığını yüzde olarak gösterir."
+    },
+    {
+     "yazi": "Cochrane el kitabına göre yüzde kırkın altındaki I² çoğu zaman önemsiz olabilir; bu sınırlar kaba bir rehberdir.",
+     "ses": "Cochrane el kitabına göre yüzde kırkın altındaki i kare çoğu zaman önemsiz olabilir; bu sınırlar kaba bir rehberdir."
+    },
+    {
+     "yazi": "Yüzde yetmiş beşin üzerindeki I² ise çok yüksek heterojenlik olarak yorumlanır ve tek bir ortak sonucu sorgulatır.",
+     "ses": "Yüzde yetmiş beşin üzerindeki i kare ise çok yüksek heterojenlik olarak yorumlanır ve tek bir ortak sonucu sorgulatır."
+    },
+    "Odyolojide farklı kayıp dereceleri, farklı cihaz teknolojileri ve farklı ölçekler heterojenliğin sık nedenleridir.",
+    "İyi bir derleme heterojenliğin nedenini alt grup analizleriyle araştırır; okuyucu da bunu tartışma bölümünde arar."
+   ]
+  },
+  {
+   "id": "grade",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Meta-analiz",
+   "baslik": "Kanıtın *kesinliği*: GRADE",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Yüksek",
+     "metin": "Yeni çalışma değiştirmez",
+     "cumle": 0
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Orta",
+     "metin": "Değişebilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Düşük",
+     "metin": "Büyük olasılıkla değişir",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Çok düşük",
+     "metin": "Çok belirsiz",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Düşüren etkenler",
+     "metin": "Yanlılık, tutarsızlık, kesinsizlik",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Kanıtın ne kadar güvenilir olduğunu derecelendirmek için GRADE yaklaşımı yaygın olarak kullanılır.",
+    "GRADE kanıtın kesinliğini dört düzeyde verir: yüksek, orta, düşük ve çok düşük.",
+    "Randomize çalışmalardan gelen kanıt yüksek başlar; yanlılık riski, tutarsızlık, dolaylılık, kesinsizlik ve yayın yanlılığı varsa düşürülür.",
+    "Dolaylılık, çalışmadaki hasta ya da sonucun sizin sorunuzdan farklı olmasıdır; örneğin yalnız ağır kayıplı hastalarla yapılmış çalışmalar.",
+    "Kesinsizlik, güven aralığının çok geniş olması, yani gerçek etkinin hem önemli hem de önemsiz olabilmesidir.",
+    "Bir derlemenin özet tablosunda her sonuç için bu kesinlik düzeyine bakmak, okumanın en hızlı ve en değerli adımlarındandır."
+   ]
+  },
+  {
+   "id": "kilavuz",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Meta-analiz",
+   "baslik": "Klinik *kılavuzlar*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "Kanıt",
+     "metin": "Sistematik derlemeler",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Panel",
+     "metin": "Uzmanlar ve hastalar",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Öneri",
+     "metin": "Güçlü ya da koşullu",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Değerlendir",
+     "metin": "Yöntem, güncellik, çıkar",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Uyarla",
+     "metin": "Yerel koşullar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Klinik kılavuz (clinical guideline), sistematik derlemelere dayanarak uygulamaya yönelik öneriler sunan belgedir.",
+    "İyi bir kılavuzu farklı uzmanlardan ve hasta temsilcilerinden oluşan bir panel hazırlar.",
+    "Her öneri, kanıtın kesinliğine ve yarar ile zarar dengesine göre güçlü ya da koşullu olarak derecelendirilir.",
+    "Okuyucu kılavuzun yöntemini, güncelliğini ve yazarların çıkar beyanlarını kontrol eder; bunun için standart araçlar vardır.",
+    "İngiltere'nin yetişkin işitme kaybı kılavuzu ve erken işitme tespiti için ortak komitenin 2019 bildirgesi sık başvurulan örneklerdir.",
+    "Yurt dışında hazırlanan bir kılavuz, Türkiye'deki hizmet yapısına, mevzuata ve hasta gereksinimlerine göre uyarlanarak kullanılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Sistematik derlemede önce özet bulgular tablosuna bakın: her sonuç için etki büyüklüğü, güven aralığı ve kanıtın kesinliği birlikte verilir.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: vaktiniz azsa sistematik derlemenin özet bulgular tablosuna doğrudan gidin.",
+    "Bu tabloda her sonuç için etki büyüklüğü, güven aralığı, katılımcı sayısı ve kanıtın kesinliği birlikte verilir.",
+    "Ardından dahil edilen hastaların sizin hastanıza benzeyip benzemediğine bakın.",
+    "Bu üç bilgi, derlemenin sizin klinik kararınızı ne kadar etkilemesi gerektiğini çoğu zaman gösterir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "PICO: soru, arama ve okuma rehberi",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Sistematik derleme: protokol, arama, şeffaflık",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Orman grafiği: nokta, aralık, elmas",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "GRADE ile kesinlik, kılavuzla öneri",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "PICO ile kurulan soru, arama stratejisini ve hangi kanıtın uygun olduğunu belirler.",
+    "Sistematik derleme; protokol, kapsamlı arama, açık ölçütler ve yanlılık riski değerlendirmesiyle anlatısal derlemeden ayrılır.",
+    "Orman grafiğinde her çalışma bir nokta ve güven aralığıyla, birleştirilmiş sonuç ise elmasla gösterilir; heterojenlik I² ile izlenir.",
+    "GRADE kanıtın kesinliğini dört düzeyde verir; klinik kılavuzlar bu kanıtı önerilere dönüştürür ve yerel koşullara uyarlanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Elmas sıfırı keserse?",
+   "secenekler": [
+    "Kesin yarar var",
+    "Anlamlı fark gösterilmedi",
+    "Çalışmalar hatalı",
+    "Heterojenlik yok"
+   ],
+   "dogru": 1,
+   "aciklama": "Birleştirilmiş güven aralığı _etki yok_ değerini içeriyorsa anlamlı bir fark gösterilmemiştir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Bir orman grafiğinde birleştirilmiş tahmini gösteren elmas, etki yok çizgisini kesiyor. Bu ne anlama gelir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: birleştirilmiş sonuçta istatistiksel olarak anlamlı bir fark gösterilmemiştir.",
+    "Bu, etkinin kesinlikle olmadığı anlamına da gelmez; kanıt yetersiz olabilir, güven aralığının genişliğine bakılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyologlar için *kariyer* yolları",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, ders planımızın son dersinde odyologlar için kariyer yollarını ve girişimciliği ele alacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,881 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D023_Ic_Kulak_Labirent_TR",
+ "kapak": {
+  "ust": "DERS 23",
+  "baslik": "Kemik ve<br>*zar labirent*",
+  "alt": "İç kulağın yapısı ve sıvıları",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "İç Kulak: Kemik Labirent ve Zar Labirent | Ders 23 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İç kulak, iç içe geçmiş iki labirentten oluşur. Bu derste kemik labirentin bölümlerini, iki pencereyi, zar labirentin keselerini ve kanallarını, perilenf ile endolenf arasındaki farkı ve endolenfatik hidropsun odyogramdaki görünümünü inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gray's Anatomy; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Pickles, An Introduction to the Physiology of Hearing; Zemlin, Speech and Hearing Science: Anatomy and Physiology; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "anatomi",
+   "içkulak"
+  ],
+  "etiketler": [
+   "iç kulak",
+   "kemik labirent",
+   "zar labirent",
+   "labyrinthus osseus",
+   "labyrinthus membranaceus",
+   "endolenf",
+   "perilenf",
+   "endolenfatik hidrops",
+   "vestibüler akuadukt",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 23",
+   "baslik": "İç kulak: *labirent*",
+   "alt": "Kemik labirent, zar labirent ve iki sıvı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iç kulağın temel yapısını, yani iç içe geçmiş iki labirenti inceleyeceğiz.",
+    "Kemik labirentin bölümlerini, zar labirenti ve içlerindeki iki farklı sıvıyı öğreneceğiz."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Genel bakış",
+   "baslik": "İç kulak *nerede?*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Koklea",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibul",
+     "metin": "Vestibül",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Yarım daire kanalları",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "VIII. kafa siniri",
+     "cumle": 6
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Temporal kemiğin _petröz_ bölümü",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Doğumda _yetişkin boyutunda_",
+     "cumle": 5,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "İç kulak, temporal kemiğin en sert bölümü olan petröz bölümün derinliklerinde yer alır.",
+    "Karmaşık ve kıvrımlı yapısı nedeniyle labirent olarak adlandırılır.",
+    "Önde koklea, yani salyangoz, ortada vestibül, arkada ise üç yarım daire kanalı bulunur.",
+    "Koklea işitmeden, vestibül ve kanallar ise dengeden sorumludur.",
+    "Koklea yaklaşık bir nohut tanesi büyüklüğündedir; bütün labirent bir parmak ucuna sığacak kadar küçüktür.",
+    "İç kulak doğumda yetişkin boyutuna ulaşmıştır; kafatası büyürken labirentin boyutu değişmez.",
+    "Labirentten çıkan sinir lifleri, beyin sapına giden sekizinci kafa sinirini oluşturur."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 1,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ]
+  },
+  {
+   "id": "iki_labirent",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Genel bakış",
+   "baslik": "İç içe *iki labirent*",
+   "maddeler": [
+    {
+     "metin": "Dışta: _labyrinthus osseus_ (kemik labirent)",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İçte: _labyrinthus membranaceus_ (zar labirent)",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Arada: _perilenf_ (perilympha)",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Zar labirent içinde: _endolenf_ (endolympha)",
+     "cumle": 3,
+     "ikon": "akinti"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "cumle": 1,
+    "etiketler": [
+     {
+      "parca": "scala_media",
+      "metin": "Zar labirent: endolenf",
+      "cumle": 1
+     },
+     {
+      "parca": "perilenf",
+      "metin": "Perilenf",
+      "cumle": 2
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "perilenf",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenf",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "İç kulak iki katmandan oluşur; dıştaki kemik kılıfa labyrinthus osseus, yani kemik labirent denir.",
+     "ses": "İç kulak iki katmandan oluşur; dıştaki kemik kılıfa labirintus osseus, yani kemik labirent denir."
+    },
+    {
+     "yazi": "Kemik labirentin içinde, onun şeklini izleyen labyrinthus membranaceus, yani zar labirent bulunur.",
+     "ses": "Kemik labirentin içinde, onun şeklini izleyen labirintus membranaseus, yani zar labirent bulunur."
+    },
+    "Kemik labirent ile zar labirent arasındaki boşlukta perilenf adı verilen sıvı vardır.",
+    "Zar labirentin içi ise endolenf adı verilen başka bir sıvıyla doludur.",
+    "Zar labirent perilenf içinde yüzer gibi durur ve ince bağ dokusu lifleriyle kemik duvara tutunur.",
+    "Bir benzetmeyle kemik labirent bir kılıf, zar labirent ise o kılıfın içindeki sıvı dolu bir hortum gibidir."
+   ]
+  },
+  {
+   "id": "kemik_bolumler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kemik labirent",
+   "baslik": "Kemik labirentin *bölümleri*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "vestibul",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "vestibul",
+     "metin": "Vestibulum (vestibül)",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "Stapes tabanı: oval pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Üç yarım daire kanalı",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "metin": "Koklea",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kemik labirent üç bölümden oluşur: vestibulum, yarım daire kanalları ve koklea.",
+    "Vestibulum, yani vestibül, labirentin ortasındaki küçük odadır; dış duvarında oval pencere bulunur.",
+    "Stapes tabanı bu pencereye oturduğu için ses titreşimleri iç kulağa ilk olarak vestibülden girer.",
+    "Vestibülün arkasında, birbirine yaklaşık dik duran üç yarım daire kanalı yer alır.",
+    "Vestibülün önünde ise salyangoz kabuğu gibi kıvrılan koklea bulunur; yaklaşık iki buçuk ile iki üç çeyrek tur yapar.",
+    "Kanallar beş delikle vestibüle açılır; çünkü ön ve arka kanal bir uçlarını ortak bir kolla paylaşır.",
+    "Kemik labirentin duvarını oluşturan otik kapsül, vücuttaki en yoğun ve en sert kemik dokulardan biridir."
+   ],
+   "notlar": [
+    {
+     "metin": "Kanallar vestibüle _beş delikle_ açılır",
+     "cumle": 5,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Otik kapsül: _en sert_ kemiklerden",
+     "cumle": 6,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2,
+     "olcek": 2.6
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 3,
+     "olcek": 2.0
+    }
+   ]
+  },
+  {
+   "id": "pencereler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kemik labirent",
+   "baslik": "İki *pencere*",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Oval pencere: stapes tabanı",
+     "cumle": 1
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Yuvarlak pencere: ince zar",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Sıvı _sıkıştırılamaz_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Üçüncü pencere: _enerji kaçar_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kemik labirentin orta kulağa bakan iki açıklığı vardır: oval pencere ve yuvarlak pencere.",
+    "Oval pencereyi stapes tabanı kapatır; yuvarlak pencere ise esnek, ince bir zarla örtülüdür.",
+    "Sıvılar sıkıştırılamaz; bu yüzden stapes oval pencereyi içe ittiğinde yuvarlak pencere zarı dışa doğru esner.",
+    "İki pencere arasındaki bu karşılıklı hareket, iç kulak sıvılarının ve baziler membranın titreşebilmesini sağlar.",
+    "Kemik labirentte üçüncü bir açıklık oluşursa ses enerjisinin bir kısmı bu yoldan kaçar; buna üçüncü pencere etkisi denir.",
+    "Üst yarım daire kanalını örten kemiğin açılması buna bir örnektir; odyogramda iletim tipine benzeyen bulgular verebilir."
+   ]
+  },
+  {
+   "id": "akuadukt",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kemik labirent",
+   "baslik": "Kafatasına uzanan *iki kanal*",
+   "maddeler": [
+    {
+     "metin": "_Koklear akuadukt_: perilenf ve beyin sıvısı",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Vestibüler akuadukt_: endolenfatik kanal",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Ucunda: _endolenfatik kese_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Geniş akuadukt: _çocuklukta kayıp_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "ayar": {
+     "akuadukt": true,
+     "akuadukt_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "koklear_akuadukt",
+      "metin": "Koklear akuadukt",
+      "cumle": 1
+     },
+     {
+      "parca": "endolenfatik_kanal",
+      "metin": "Endolenfatik kanal",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenfatik_kese",
+      "metin": "Endolenfatik kese",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "koklear_akuadukt",
+      "cumle": 1
+     },
+     {
+      "parca": "vestibuler_akuadukt",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenfatik_kanal",
+      "cumle": 2
+     },
+     {
+      "parca": "endolenfatik_kese",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Kemik labirentten kafatası içine uzanan iki ince kanal vardır.",
+    "Koklear akuadukt, scala tympani bölgesindeki perilenfi kafatası içindeki beyin omurilik sıvısı ile bağlantılı kılar.",
+    "Vestibüler akuadukt ise zar labirentin bir uzantısı olan endolenfatik kanalı taşır.",
+    "Bu kanal, temporal kemiğin arka yüzünde sert beyin zarının katmanları arasında yer alan endolenfatik keseye uzanır.",
+    "Vestibüler akuaduktun normalden geniş olması, çocuklukta sensörinöral işitme kaybıyla ilişkili sık bir iç kulak yapı farkıdır.",
+    "Bu çocuklarda kayıp dalgalı seyredebilir ve baş travmasından sonra artabilir."
+   ]
+  },
+  {
+   "id": "zar_bolumler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Zar labirent",
+   "baslik": "Zar labirentin *bölümleri*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utrikül",
+     "cumle": 1
+    },
+    {
+     "parca": "sakkul",
+     "metin": "Sakkül",
+     "cumle": 1
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Zar yarım daire kanalları",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampulla",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 1
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 2
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kokleada: _koklear kanal_",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tek ve _kapalı_ bir sistem",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Zar labirent, kemik labirentin içindeki birbirine bağlı kese ve kanallardan oluşur.",
+    "Vestibülün içinde iki kese bulunur: utrikül ve sakkül.",
+    "Kemik kanalların içinde, onlardan daha ince olan zar yarım daire kanalları uzanır.",
+    "Her kanalın bir ucunda genişlemiş bir bölüm, yani ampulla vardır; denge algılayıcıları burada bulunur.",
+    "Kokleanın içinde ise zar labirentin işitme bölümü olan koklear kanal, yani scala media yer alır.",
+    "Sakkül ince bir kanalla koklear kanala bağlanır; böylece zar labirentin tamamı tek bir kapalı sistem oluşturur.",
+    "Utrikül, sakkül ve kanalların yapısını vestibüler labirent dersinde ayrıntılı olarak göreceğiz."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ampulla",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "endolenf_yolu",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Zar labirent",
+   "baslik": "Endolenfin *üretimi*",
+   "maddeler": [
+    {
+     "metin": "Kokleada üretim: _stria vascularis_",
+     "cumle": 0,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Vestibülde: _koyu hücreler_",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Emilim: _endolenfatik kese_",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Miktar artarsa: _hidrops_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "En sık genişleyen: _koklear kanal_, sakkül",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_kesit",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "stria_vaskularis",
+      "metin": "Stria vascularis",
+      "cumle": 0
+     },
+     {
+      "parca": "reissner_membrani",
+      "metin": "Reissner membranı",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 0
+     },
+     {
+      "parca": "scala_media",
+      "cumle": 3
+     }
+    ],
+    "yakinlastir": [
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 0,
+      "olcek": 1.8
+     },
+     {
+      "parca": "genel",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Kokleadaki endolenf, scala medianın dış duvarındaki stria vascularis tarafından üretilir.",
+    "Vestibüler bölümde ise benzer işi koyu hücreler adı verilen özel hücreler yapar.",
+    "Endolenfin bir bölümünün endolenfatik kesede emildiği düşünülür.",
+    {
+     "yazi": "Üretim ile emilim dengesi bozulup endolenf artarsa zar labirent şişer; buna endolenfatik hidrops (endolymphatic hydrops) denir.",
+     "ses": "Üretim ile emilim dengesi bozulup endolenf artarsa zar labirent şişer; buna endolenfatik hidrops denir."
+    },
+    "Meniere hastalığı, endolenfatik hidropsla ilişkilendirilen bir iç kulak hastalığıdır.",
+    "Hidropsta zar labirentin en sık genişleyen bölümleri koklear kanal ve sakküldür."
+   ]
+  },
+  {
+   "id": "sivilar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İki sıvı",
+   "baslik": "Perilenf ve *endolenf*",
+   "tur": "maddeler",
+   "maddeler": [
+    {
+     "metin": "Perilenf _arada_, endolenf _zar içinde_",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Perilenf _sodyum_, endolenf _potasyum_",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Hücre dışı ve _hücre içi_ sıvıya benzer",
+     "cumle": 3,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Kan, beyin sıvısı; _özel hücreler_",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Potansiyel: yaklaşık _+80 mV_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "koklea_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "perilenf",
+      "cumle": 1
+     },
+     {
+      "parca": "endolenf",
+      "cumle": 1
+     },
+     {
+      "parca": "stria_vaskularis",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "perilenf",
+      "metin": "Perilenf",
+      "cumle": 1
+     },
+     {
+      "parca": "endolenf",
+      "metin": "Endolenf",
+      "cumle": 1
+     },
+     {
+      "parca": "stria_vaskularis",
+      "metin": "Stria vascularis",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "İç kulağın iki sıvısı birbirinden çok farklı bileşimdedir.",
+    "Perilenf kemik labirent ile zar labirent arasında, endolenf ise zar labirentin içindedir.",
+    "Perilenf sodyumdan zengin, potasyumdan fakirdir; endolenf ise tam tersine potasyumdan çok zengindir.",
+    "Bu yüzden perilenf vücudun hücre dışı sıvısına, endolenf ise hücre içi sıvıya benzer.",
+    "Perilenfin kan ve beyin omurilik sıvısı kökenli olduğu düşünülür; endolenf ise özel hücreler tarafından üretilir.",
+    "Kokleadaki endolenf yaklaşık artı seksen milivoltluk bir potansiyel taşır; buna endokoklear potansiyel (endocochlear potential) denir."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İki sıvı",
+   "baslik": "Neden *iki farklı* sıvı?",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "İç tüy hücresi",
+     "cumle": 1
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Dış tüy hücreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "tektoryal_membran",
+     "metin": "Tektoryal membran",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 2
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tepe: _endolenf_, potasyum",
+     "cumle": 1,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Gövde: perilenfe benzer sıvı",
+     "cumle": 1,
+     "ikon": "kan_damari"
+    },
+    {
+     "metin": "Potasyum girişi: _uyarılma_",
+     "cumle": 2,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "İki sıvının farklı olmasının nedeni tüy hücrelerinin çalışma biçimidir.",
+    "Tüy hücrelerinin tepesindeki stereosiller endolenfe, hücre gövdeleri ise perilenfe benzer bir sıvıya bakar.",
+    "Ses titreşimiyle stereosiller eğildiğinde tepedeki kanallar açılır ve potasyum hücreye akar.",
+    "Endolenfteki yüksek potasyum ve pozitif potansiyel, bu akışı güçlendiren bir pil gibi çalışır.",
+    "Bu sayede tüy hücreleri çok küçük titreşimlere bile yanıt verebilir.",
+    "İki sıvının birbirine karışması bu düzeni bozar; bu yüzden zar labirentin bütünlüğü işitme ve denge için çok önemlidir."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stereosil",
+     "cumle": 2,
+     "olcek": 1.9
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İki sıvı",
+   "baslik": "Örnek: *hidrops* ve odyogram",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: pes frekanslarda kayıp",
+     "cumle": 1
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Maskeli kemik yolu_: hava yoluna yakın",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Tiz frekanslar: _normale yakın_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       40,
+       30,
+       20,
+       15,
+       20
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       40,
+       40,
+       30,
+       20,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Endolenfatik hidropsun odyogramdaki görünümüne bir örnek verelim.",
+    "Bu örnekte sağ kulakta pes frekanslarda belirgin bir kayıp, orta ve tiz frekanslarda ise normale yakın eşikler görülüyor.",
+    "Maskeli kemik yolu eşikleri hava yoluna çok yakın; yani kayıp sensörinöral tiptedir.",
+    "Hidropsun erken döneminde kayıp çoğu zaman pes frekanslardadır ve zaman içinde dalgalanabilir.",
+    "Bu yüzden bu hastalarda odyogramın zaman içinde tekrarlanması önemlidir.",
+    "Bu örnek yalnız sıvı dengesiyle odyogram arasındaki ilişkiyi göstermek içindir; değerlendirme hekim tarafından yapılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İki sıvı",
+   "baslik": "Klinikte dikkat",
+   "metin": "Pes frekanslarda dalgalanan bir kayıpta önceki odyogramlarla mutlaka karşılaştırın. Ölçümün şikayetlerin arttığı bir dönemde mi yapıldığını da not edin.",
+   "cumleler": [
+    "Sahadan bir ipucu: pes frekanslarda kayıp gösteren bir hastada önceki odyogramlara mutlaka bakın.",
+    "İç kulak sıvı dengesiyle ilgili kayıplar dalgalanabilir; tek bir ölçüm tabloyu tam göstermez.",
+    "Ölçümün hastanın şikayetlerinin arttığı bir dönemde mi, sakin bir dönemde mi yapıldığını rapora not edin.",
+    "Kulakta dolgunluk ve çınlama gibi eşlik eden şikayetleri de kaydetmek, hekimin değerlendirmesine yardım eder."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_Kemik labirent_: vestibül, kanallar, koklea",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Zar labirent_: keseler, kanallar, koklear kanal",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Perilenf _sodyum_, endolenf potasyum",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Endolenf artarsa: _hidrops_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kemik labirent vestibül, üç yarım daire kanalı ve kokleadan oluşur.",
+    "Zar labirent bunların içinde uzanır; utrikül, sakkül, zar kanallar ve koklear kanaldan oluşan kapalı bir sistemdir.",
+    "Kemik ile zar labirent arasında sodyumdan zengin perilenf, zar labirentin içinde potasyumdan zengin endolenf bulunur.",
+    "Endolenf miktarının artmasına endolenfatik hidrops denir; pes frekanslarda dalgalı kayıplarla ilişkilidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Potasyumdan zengin sıvı hangisidir ve nerededir?",
+   "secenekler": [
+    "Perilenf, zar labirent içinde",
+    "Endolenf, zar labirent içinde",
+    "Perilenf, kemik ile zar arasında",
+    "Endolenf, kemik ile zar arasında"
+   ],
+   "dogru": 1,
+   "aciklama": "_Endolenf_ zar labirentin içindedir ve potasyumdan zengindir; perilenf ise sodyumdan zengindir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Potasyumdan zengin iç kulak sıvısı hangisidir ve nerede bulunur?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: endolenf, zar labirentin içinde.",
+     "ses": "Doğru cevap be: endolenf, zar labirentin içinde."
+    },
+    "Perilenf ise kemik labirent ile zar labirent arasındaki boşluktadır ve sodyumdan zengindir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Koklea* anatomisi",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iç kulağın işitme bölümü olan kokleaya yakından bakacak ve üç skalayı inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

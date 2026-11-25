@@ -1,0 +1,94 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R275_Cihazin_Kendi_Hisirtisi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #275",
+  "baslik": "Cihazın kendi *hışırtısı*",
+  "alt": "Eşdeğer giriş gürültüsü",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İşitme cihazı hiç ses yokken de gürültü üretir mi? #shorts",
+  "aciklama": "Her işitme cihazı mikrofonu ve devreleri nedeniyle, giriş olmasa bile az miktarda gürültü üretir; eşdeğer giriş gürültüsü bu iç gürültüyü girişe taşınmış bir dış ses gibi ifade eder. Alçak frekanslarda işitmesi normale yakın kişiler, özellikle sessiz ortamda ve açık uyumda bu gürültüyü hışırtı olarak duyabilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitmecihazı",
+   "elektroakustik"
+  ],
+  "etiketler": [
+   "eşdeğer giriş gürültüsü",
+   "elektroakustik ölçüm",
+   "test kutusu",
+   "ANSI S3.22",
+   "açık uyum",
+   "işitme cihazı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İşitme cihazı hiç ses yokken de gürültü üretir mi?",
+  "bilgiler": [
+   "Her cihaz, giriş olmasa bile az miktarda gürültü üretir.",
+   "Hesap: giriş yokken ölçülen gürültüden kazanç çıkarılır.",
+   "Sessizde ve açık uyumda bu gürültü hışırtı gibi duyulabilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "elektroakustik"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #275",
+   "metin": "Sessizde *hışırtı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İşitme cihazı hiç ses yokken de gürültü üretir mi?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Örnekte *eşdeğer giriş* gürültüsü",
+   "sayi": "20",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Her cihaz, mikrofonu ve devreleri nedeniyle az miktarda gürültü üretir.",
+    "Eşdeğer giriş gürültüsü, bu iç gürültüyü bir dış ses gibi ifade eder.",
+    "Giriş yokken ölçülen gürültüden, cihazın kazancı çıkarılır.",
+    {
+     "yazi": "Çıkış gürültüsü 58, kazanç 38 dB ise sonuç 20 dB SPL olur.",
+     "ses": "Çıkış gürültüsü elli sekiz, kazanç otuz sekiz desibel ise sonuç yirmi desibel es pi el olur."
+    },
+    "Alçak frekansları iyi olanlar, sessizde ve açık uyumda bunu hışırtı gibi duyabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D180",
+ "kaynak_baslik": "Elektroakustik özellikler"
+}

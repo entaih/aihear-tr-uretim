@@ -1,0 +1,804 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D206_Vestibuler_Norit_Labirentit_TR",
+ "kapak": {
+  "ust": "DERS 206",
+  "baslik": "Vestibüler *nörit*",
+  "alt": "Nörit ve labirentit",
+  "cizim": "beyin_sapi_vestibuler",
+  "vurgula": [
+   "vestibuler_sinir"
+  ]
+ },
+ "youtube": {
+  "baslik": "Vestibüler nörit ve labirentit | Ders 206 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Aniden başlayıp günlerce süren vertigo neyi düşündürür? Bu derste vestibüler nöritin klinik tablosunu, Barany Derneği 2022 ölçütlerini, superior ve inferior tutulumda vHIT, kalorik ve VEMP örüntülerini, işitmenin de etkilendiği labirentiti ve ayırıcı tanıyı öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Strupp ve ark., Acute unilateral vestibulopathy/vestibular neuritis: Diagnostic criteria, Journal of Vestibular Research (2022); Jacobson ve Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vestibüler",
+   "vertigo"
+  ],
+  "etiketler": [
+   "vestibüler nörit",
+   "labirentit",
+   "akut vestibüler sendrom",
+   "akut tek taraflı vestibülopati",
+   "vHIT",
+   "kalorik test",
+   "VEMP",
+   "nistagmus",
+   "baş dönmesi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 206",
+   "baslik": "Vestibüler nörit ve *labirentit*",
+   "alt": "Akut vestibüler sendromun periferik nedenleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste aniden başlayıp günlerce süren vertigonun en sık periferik nedeni olan vestibüler nöriti öğreneceğiz.",
+    "Labirentiti, ayırıcı bulguları ve vestibüler uyarılmış miyojenik potansiyel, kısaca VEMP dahil test sonuçlarını ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve klinik",
+   "baslik": "Vestibüler *sinirde* sorun",
+   "cizim": "beyin_sapi_vestibuler",
+   "etiketler": [
+    {
+     "parca": "labirent",
+     "metin": "Labirent",
+     "cumle": 0
+    },
+    {
+     "parca": "scarpa_ganglionu",
+     "metin": "Scarpa ganglionu",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibuler_cekirdekler",
+     "metin": "Vestibüler çekirdekler",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "scarpa_ganglionu",
+     "cumle": 2
+    },
+    {
+     "parca": "vestibuler_cekirdekler",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Bir taraf _susar_",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Beyin bunu _dönme_ sanır",
+     "cumle": 5,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "Vestibüler nörit (vestibular neuritis), bir taraftaki vestibüler sinirin aniden işlevini yitirmesiyle ortaya çıkan bir tablodur.",
+    "Nedeni çoğu zaman gösterilemez; en çok kabul gören açıklama, sinir ganglionunda gizli kalan bir virüsün yeniden etkinleşmesidir.",
+    "Sinirin hücre gövdeleri, iç kulak yolundaki Scarpa ganglionunda bulunur.",
+    "Etkilenen taraftan beyin sapındaki vestibüler çekirdeklere giden sinyal birden azalır.",
+    "Sağlam taraf ise normal çalışmaya devam eder ve iki taraf arasında büyük bir dengesizlik oluşur.",
+    "Beyin bu dengesizliği sürekli bir dönme hareketi gibi yorumlar; sonuç şiddetli vertigo ve nistagmustur.",
+    "Barany Derneği 2022 yılında bu tabloyu akut tek taraflı vestibülopati adıyla tanımladı.",
+    "Vestibüler nörit adı ise klinikte yaygın olarak kullanılmaya devam eder."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve klinik",
+   "baslik": "Tipik *tablo*",
+   "maddeler": [
+    {
+     "metin": "_Ani_, şiddetli, sürekli vertigo",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Bulantı ve kusma",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tutulan yana _düşme_ eğilimi",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Baş hareketiyle _artış_",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "İşitme kaybı _yok_",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Günlerce",
+      "metin": "Saatler değil",
+      "cumle": 0
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "İşitme",
+      "metin": "Etkilenmez",
+      "cumle": 4
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Nörolojik bulgu",
+      "metin": "Olmamalı",
+      "cumle": 4
+     }
+    ],
+    "ust": "TABLO"
+   },
+   "cumleler": [
+    "Tipik öyküde kişi bir sabah ya da gün içinde aniden başlayan, şiddetli ve sürekli bir dönme hissi anlatır.",
+    "Tabloya çoğu zaman bulantı ve kusma eşlik eder; kişi yataktan kalkmak istemez.",
+    "Ayakta durunca ya da yürürken tutulan tarafa doğru düşme eğilimi vardır, ancak kişi genellikle yardımla yürüyebilir.",
+    "Her baş hareketi belirtileri artırır; bu yüzden kişi başını hareketsiz tutmaya çalışır.",
+    "Vestibüler nöritte işitme kaybı ve çınlama beklenmez; işitme etkilenmişse labirentit ya da başka bir neden düşünülür.",
+    "Bazı kişilerde birkaç gün önce geçirilmiş bir üst solunum yolu enfeksiyonu öyküsü bulunur."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve klinik",
+   "baslik": "Barany 2022 *ölçütleri*",
+   "sutunlar": [
+    "Ölçüt",
+    "İçerik"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "A. Başlangıç",
+      "En az 24 saat"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "B. Nistagmus",
+      "Periferik tipte, kendiliğinden"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "C. VOR",
+      "Karşı tarafta azalmış"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "D. Dışlama",
+      "Santral, işitsel bulgu yok"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "E. Açıklama",
+      "Başka hastalıkla açıklanamaz"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İlk koşul: orta ya da ağır şiddette, akut ya da subakut başlayan ve en az yirmi dört saat süren sürekli vertigo ya da baş dönmesi.",
+    "İkinci koşul, kanal liflerine uygun yönde, genellikle yatay ve torsiyonel, kendiliğinden periferik nistagmustur.",
+    "Üçüncü koşul, hızlı fazın karşı tarafında vestibülo-oküler refleksin, yani VOR'un azaldığının açıkça gösterilmesidir.",
+    "Bu kanıt baş itme testi, video baş itme testi ya da kalorik testle elde edilebilir.",
+    "Dördüncü koşul, santral bir bulgu, işitme kaybı ya da başka bir kulak bulgusunun bulunmamasıdır.",
+    "Son koşul, tablonun başka bir hastalıkla daha iyi açıklanamamasıdır.",
+    "Belirtiler yirmi dört saatten kısa süredir devam ediyorsa tablo gelişmekte olan akut tek taraflı vestibülopati olarak adlandırılır."
+   ]
+  },
+  {
+   "id": "dallar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test bulguları",
+   "baslik": "Superior ve *inferior* bölüm",
+   "cizim": "ic_kulak_yolu_dibi",
+   "ayar": {
+    "sinirler": true,
+    "sinir_cumle": 0
+   },
+   "etiketler": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "metin": "Superior vestibüler sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "metin": "İnferior vestibüler sinir",
+     "cumle": 2
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Koklear sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "Fasiyal sinir",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ust_vestibuler_sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "alt_vestibuler_sinir",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Vestibüler sinirin iki bölümü vardır ve nörit bunlardan birini ya da ikisini birden tutabilir.",
+    "Superior bölüm lateral ve ön kanalı, utrikülü ve sakkülün bir kısmını taşır.",
+    "İnferior bölüm ise posterior kanalı ve sakkülün büyük kısmını taşır.",
+    "Vestibüler nöritte en sık tutulan bölüm superior bölümdür; inferior bölümün tek başına tutulumu daha nadirdir.",
+    "Bunun bir açıklaması, superior bölümün geçtiği kemik kanalın daha uzun ve dar olması, şişen sinirin burada daha kolay sıkışmasıdır.",
+    "Hangi bölümün tutulduğu, test bulgularının örüntüsünü belirler.",
+    "Bu yüzden altı kanalın ve iki otolit organının ayrı ayrı değerlendirilmesi, tutulan bölümü anlamaya yardım eder."
+   ]
+  },
+  {
+   "id": "nistagmus",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test bulguları",
+   "baslik": "Nistagmus *sağlam* yana",
+   "cizim": "nistagmus_izi",
+   "ayar": {
+    "yon": "sol",
+    "tur": "sicramali",
+    "yavas_cumle": 1,
+    "hizli_cumle": 2,
+    "baslik": "Sağ nörit: sola vuran nistagmus"
+   },
+   "notlar": [
+    {
+     "metin": "Sağlam yana _vurur_",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Fiksasyonla _azalır_",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Bu örnekte sağ vestibüler nöriti olan bir kişinin kendiliğinden nistagmusunu görüyoruz.",
+    "Sağ taraf zayıfladığı için gözler yavaşça sağa kayar; bu yavaş fazdır.",
+    "Beyin gözü hızla sola geri getirir; bu hızlı fazdır ve nistagmus, hızlı faza göre sola vuran nistagmus olarak adlandırılır.",
+    "Yani periferik nistagmus genellikle sağlam kulağa doğru vurur; yatay ve torsiyonel bileşenlidir ve yönü değişmez.",
+    "Kişi sola baktığında nistagmus artar, sağa baktığında azalır; bu, Alexander yasasıdır.",
+    "Görsel fiksasyonla nistagmus belirgin biçimde azalır; bu yüzden Frenzel ya da video gözlükle daha iyi görülür."
+   ]
+  },
+  {
+   "id": "bulgular",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test bulguları",
+   "baslik": "Test *örüntüleri*",
+   "sutunlar": [
+    "Test",
+    "Superior tutulum",
+    "İnferior tutulum"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Kalorik test",
+      "Zayıflık",
+      "Genellikle normal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "vHIT lateral, ön",
+      "Düşük kazanç",
+      "Normal"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "vHIT posterior",
+      "Genellikle normal",
+      "Düşük kazanç"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "oVEMP",
+      "Azalmış ya da yok",
+      "Genellikle normal"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "cVEMP",
+      "Genellikle normal",
+      "Azalmış ya da yok"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Odyogram",
+      "Normal",
+      "Normal"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Kalorik test lateral kanalı değerlendirdiği için superior tutulumda etkilenen tarafta belirgin zayıflık gösterir.",
+    "Video baş itme testinde, yani vHIT'te, superior tutulumda lateral ve ön kanal kazancı düşer ve sakkadlar görülür.",
+    "İnferior tutulumda ise posterior kanal kazancı düşer; kalorik test bu durumda normal kalabilir.",
+    "Oküler VEMP, yani oVEMP, utrikül ve superior bölümü yansıttığı için superior tutulumda azalır ya da alınamaz.",
+    "Servikal VEMP, yani cVEMP, sakkül ve inferior bölümü yansıttığı için inferior tutulumda etkilenir.",
+    "İki bölüm birlikte tutulduğunda bu testlerin hepsi etkilenen tarafta bozulabilir.",
+    "Odyogram nöritte normaldir; bu bulgu labirentitten ve bazı inme tablolarından ayırmada çok önemlidir.",
+    "Yalnız kalorik teste bakılırsa inferior tutulum kaçırılabilir; bu yüzden test bataryası birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "labirentit",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Labirentit ve ayırıcı tanı",
+   "baslik": "*Labirentit*: işitme de etkilenir",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibul",
+     "metin": "Vestibül",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Yarım daire kanalları",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "Orta kulak",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Vertigo _ve_ işitme kaybı",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Bakteriyel tip: _acil_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_kulak",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Labirentit (labyrinthitis), inflamasyonun yalnız vestibüler siniri değil, iç kulağın tamamını etkilediği tablodur.",
+    "Bu yüzden vertigoya ani sensörinöral işitme kaybı ve çoğu zaman çınlama eşlik eder.",
+    "Viral labirentit, vestibüler nörite benzer bir seyir gösterir; ancak işitme kaybı kalıcı olabilir.",
+    "Bakteriyel labirentit çoğunlukla bir orta kulak enfeksiyonu, kolesteatom ya da menenjit ile ilişkilidir.",
+    "Bakterilerin iç kulağa geçtiği irinli tipte işitme kaybı genellikle ağır ve kalıcıdır; menenjit riski nedeniyle acil bir tablodur.",
+    "Menenjit sonrası kokleanın kemikleşebileceğini enfeksiyonlar dersinde görmüştük; bu, implant planlamasında önemlidir.",
+    "Vertigo ile birlikte ani işitme kaybı olan her kişi gecikmeden hekim değerlendirmesine yönlendirilir."
+   ]
+  },
+  {
+   "id": "ayirici",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Labirentit ve ayırıcı tanı",
+   "baslik": "Ayırıcı *tanı*",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "İnme",
+     "metin": "Beyincik ya da beyin sapı",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "AICA inmesi",
+     "metin": "Vertigo ve işitme kaybı",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Meniere",
+     "metin": "İlk atak, saatler",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vestibüler migren",
+     "metin": "Uzun atak",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Labirentit",
+     "metin": "İşitme etkilenir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Akut vestibüler sendromda vestibüler nörit en sık nedendir, ancak tek neden değildir.",
+    "Beyincik ya da beyin sapı inmesi nöriti çok iyi taklit edebilir; bu ayrımı HINTS, yani baş itme, nistagmus ve skew testi dersinde görmüştük.",
+    "Anterior inferior serebellar arter, kısaca AICA inmesi labirenti de etkileyebilir; bu durumda vertigoyla birlikte ani işitme kaybı olur.",
+    "Meniere hastalığının ilk atağı nörite benzeyebilir, ancak atak saatler içinde geçer ve kulak belirtileri eşlik eder.",
+    "Vestibüler migrenin uzun bir atağı da günlerce sürebilir.",
+    "Bu nedenle işitme değerlendirmesi ve santral bulguların sorgulanması, akut tablonun ilk adımlarıdır."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Seyir ve izlem",
+   "baslik": "*Kompanzasyon* ve seyir",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Zaman (hafta)",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Belirti şiddeti"
+    },
+    "seriler": [
+     {
+      "ad": "statik",
+      "noktalar": [
+       [
+        0,
+        9.5
+       ],
+       [
+        0.3,
+        8
+       ],
+       [
+        0.6,
+        5
+       ],
+       [
+        1,
+        2.5
+       ],
+       [
+        2,
+        1
+       ],
+       [
+        4,
+        0.4
+       ],
+       [
+        12,
+        0.2
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "dinlenmede belirti",
+      "cumle": 1
+     },
+     {
+      "ad": "dinamik",
+      "noktalar": [
+       [
+        0,
+        9
+       ],
+       [
+        1,
+        7.5
+       ],
+       [
+        2,
+        6
+       ],
+       [
+        4,
+        4
+       ],
+       [
+        6,
+        2.8
+       ],
+       [
+        8,
+        2
+       ],
+       [
+        12,
+        1.2
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "baş hareketinde belirti",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "kalici",
+      "y": [
+       0,
+       2
+      ],
+      "x": [
+       8,
+       12
+      ],
+      "renk": "sari",
+      "etiket": "kalıcı yakınma olabilir",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Statik: _günler_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Dinamik: _haftalar, aylar_",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Hareket _iyileştirir_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Vestibüler nöritte belirtiler zamanla azalır; buna periferik işlevin kısmen düzelmesi ve merkezi kompanzasyon katkıda bulunur.",
+    "Dinlenme sırasındaki vertigo ve kendiliğinden nistagmus genellikle birkaç gün içinde belirgin biçimde azalır.",
+    "Buna statik kompanzasyon denir ve beyin sapındaki iki taraf arasındaki dengesizliğin giderilmesiyle ilişkilidir.",
+    "Baş hareketleriyle ortaya çıkan belirtiler ise daha yavaş, haftalar ile aylar içinde azalır; buna dinamik kompanzasyon denir.",
+    "Hareketsiz kalmak bu süreci yavaşlatır; günlük etkinliklere kademeli dönüş ve vestibüler rehabilitasyon süreci destekler.",
+    "Bazı kişilerde dengesizlik uzun süre devam eder; bir bölümünde kalıcı postüral algısal baş dönmesi gelişebilir.",
+    "Nöritten sonra aynı kulakta benign paroksismal pozisyonel vertigo, yani BPPV de ortaya çıkabilir; yeni pozisyonel yakınmalar sorgulanır."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Seyir ve izlem",
+   "baslik": "Odyoloğun *rolü*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "İşitme",
+     "metin": "Odyogram şart",
+     "cumle": 0
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Gözlem",
+     "metin": "Nistagmus, baş itme",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Uyarı bulgusu",
+     "metin": "Acil hekime",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Test bataryası",
+     "metin": "vHIT, kalorik, VEMP",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "İzlem",
+     "metin": "Rehabilitasyona yönlendirme",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Akut vertigo ile başvuran kişide işitme değerlendirmesi çok değerlidir; işitme kaybı tabloyu nöritten uzaklaştırır.",
+    "Nistagmusun yönü, bakışla değişimi ve baş itme bulgusu dikkatle gözlenir ve mümkünse kaydedilir.",
+    "Santral bir neden düşündüren bulgu varsa testler bekletilir ve hasta gecikmeden acil hekim değerlendirmesine yönlendirilir.",
+    "Akut dönem geçtikten sonra vHIT, kalorik test ve VEMP ile tutulan bölüm ve kaybın derecesi belirlenir.",
+    "Tedavi kararı hekime aittir; odyolog, bulguları açık ve kısa bir raporla ekibe iletir.",
+    "Belirtileri süren kişiler vestibüler rehabilitasyona yönlendirilir ve izlenir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Akut vertigoda işitmeyi mutlaka sorgulayın ve ölçün. Yeni işitme kaybı tabloyu nöritten uzaklaştırır ve acil değerlendirme gerektirebilir.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: akut vertigo ile gelen kişiyi yalnız vestibüler bir sorun gibi değerlendirmeyin.",
+    "İşitme kaybı, çınlama ya da kulakta dolgunluk olup olmadığını mutlaka sorun; mümkünse odyogram alın.",
+    "Akut vestibüler sendromla birlikte yeni işitme kaybı, labirentiti ya da iç kulağı besleyen damarın inmesini düşündürebilir.",
+    "Bu durumda bekletmeden hekim değerlendirmesi istenir; bulguları ve başlama zamanını kaydedin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Ani, günlerce süren vertigo; _işitme normal_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "En sık _superior_ bölüm tutulur",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Nistagmus _sağlam_ yana vurur",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Labirentitte _işitme kaybı_ da vardır",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Vestibüler nörit, ani başlayan ve günlerce süren sürekli vertigoyla gelir; işitme etkilenmez.",
+    "En sık superior bölüm tutulur; bu durumda kalorik test, lateral ve ön kanal vHIT'i ve oVEMP etkilenir.",
+    "Kendiliğinden nistagmus yatay ve torsiyoneldir, sağlam kulağa vurur ve fiksasyonla azalır.",
+    "Labirentitte vertigoya işitme kaybı eşlik eder; bakteriyel tip acil bir tablodur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Superior nöritte hangisi genellikle korunur?",
+   "secenekler": [
+    "Kalorik yanıt",
+    "Lateral kanal vHIT",
+    "oVEMP",
+    "cVEMP"
+   ],
+   "dogru": 3,
+   "aciklama": "cVEMP _sakkül ve inferior bölümü_ yansıttığı için superior tutulumda genellikle korunur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: superior vestibüler nöritte hangi test sonucu genellikle normal kalır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap D: cVEMP.",
+     "ses": "Doğru cevap de şıkkı: se vemp."
+    },
+    "cVEMP sakkülü ve inferior vestibüler siniri yansıtır; superior tutulumda kalorik, lateral kanal vHIT ve oVEMP etkilenir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vestibüler *migren*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste tekrarlayan baş dönmesi ataklarının sık bir nedeni olan vestibüler migreni öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

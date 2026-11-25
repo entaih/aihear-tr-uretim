@@ -1,0 +1,792 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D195_Cihaz_Basarisi_APHAB_IOIHA_SSQ_TR",
+ "kapak": {
+  "ust": "DERS 195",
+  "baslik": "Cihaz başarısını<br>*ölçmek*",
+  "alt": "APHAB, IOI-HA ve SSQ",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Cihaz başarısını ölçmek: APHAB, IOI-HA ve SSQ | Ders 195 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazı kişinin günlük yaşamında gerçekten işe yarıyor mu? Bu derste doğrulama ve geçerleme ayrımını, APHAB'nin dört alt ölçeğini ve puanlamasını, IOI-HA'nın yedi sorusunu, SSQ'nun konuşma, uzamsal ve nitelik bölümlerini ve klinikte ölçek seçimini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Cox ve Alexander (1995), The Abbreviated Profile of Hearing Aid Benefit, Ear and Hearing; Cox ve ark. (2000), Optimal outcome measures, research priorities, and international cooperation, Ear and Hearing; Cox, Alexander ve Beyer (2003), Norms for the International Outcome Inventory for Hearing Aids, Journal of the American Academy of Audiology; Gatehouse ve Noble (2004), The Speech, Spatial and Qualities of Hearing Scale, International Journal of Audiology; Şerbetçioğlu ve ark. (2009), Journal of International Advanced Otology; Kılıç ve ark. (2021), Turkish Archives of Otorhinolaryngology; Çıldır ve ark. (2021), ENT Updates; Dillon, Hearing Aids.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "APHAB"
+  ],
+  "etiketler": [
+   "APHAB",
+   "IOI-HA",
+   "SSQ",
+   "öz bildirim ölçeği",
+   "cihaz yararı",
+   "hearing aid outcome",
+   "doğrulama",
+   "geçerleme",
+   "validation",
+   "COSI",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 195",
+   "baslik": "Cihaz başarısını *ölçmek*",
+   "alt": "APHAB, IOI-HA ve SSQ",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme cihazının kişinin günlük yaşamında ne kadar işe yaradığını nasıl ölçtüğümüzü öğreneceğiz.",
+    "Öz bildirim ölçeklerinin mantığını, en sık kullanılan üç ölçeği ve bunların klinikte nasıl yorumlandığını göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden öz bildirim?",
+   "baslik": "Ölçüm *yetmez mi?*",
+   "maddeler": [
+    {
+     "metin": "Doğrulama: cihaz hedefe ulaştı mı?",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Geçerleme: kişinin yaşamı değişti mi?",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Günlük yaşamı kişi bilir",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Standart ve karşılaştırılabilir sorular",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "İKİ SORU",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "Doğrulama",
+      "cumle": 0,
+      "metin": "Hedefe uydu mu?"
+     },
+     {
+      "ikon": "hasta",
+      "baslik": "Geçerleme",
+      "cumle": 1,
+      "metin": "Yaşam değişti mi?"
+     }
+    ]
+   },
+   "cumleler": [
+    "Gerçek kulak ölçümü, cihazın reçete hedefine ulaşıp ulaşmadığını gösterir; buna doğrulama (verification) denir.",
+    "Ama asıl soru, cihazın kişinin günlük yaşamını değiştirip değiştirmediğidir; buna geçerleme (validation) denir.",
+    "Hedefe tam uyan bir cihaz bile kişinin önemsediği ortamlarda beklenen yararı sağlamayabilir.",
+    "Restoranda, toplantıda ya da evde ne yaşandığını en iyi kişinin kendisi bilir.",
+    "Öz bildirim ölçekleri, bu deneyimi standart sorularla sayıya çevirir ve zaman içinde karşılaştırmayı sağlar.",
+    "Bu yüzden iyi bir uygulama, doğrulamayı ve geçerlemeyi birlikte içerir."
+   ]
+  },
+  {
+   "id": "alanlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden öz bildirim?",
+   "baslik": "Başarının *beş yüzü*",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Kullanım",
+     "cumle": 1,
+     "metin": "Günde kaç saat?"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Yarar",
+     "cumle": 2,
+     "metin": "Cihazsıza göre fark"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Kalan güçlük",
+     "cumle": 3,
+     "metin": "Hala zor olanlar"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Memnuniyet",
+     "cumle": 4,
+     "metin": "Değdi mi?"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Yaşam kalitesi",
+     "cumle": 5,
+     "metin": "Katılım ve keyif"
+    }
+   ],
+   "cumleler": [
+    "Cihaz başarısının tek bir ölçüsü yoktur; farklı ölçekler farklı alanlara bakar.",
+    "Kullanım, cihazın gerçekten ne kadar takıldığını gösterir; kullanılmayan cihaz yarar sağlamaz.",
+    "Yarar, cihazla ve cihazsız durum arasındaki farktır.",
+    "Kalan güçlük, cihaza rağmen hala zorlanılan durumları gösterir.",
+    "Memnuniyet, kişinin cihazın emeğine ve maliyetine değip değmediğine dair değerlendirmesidir.",
+    "Yaşam kalitesi ise işitmenin sosyal katılıma ve genel iyi oluşa etkisini kapsar."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden öz bildirim?",
+   "baslik": "Ölçek *ne zaman* uygulanır?",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Cihaz öncesi",
+     "cumle": 0,
+     "metin": "Cihazsız durum"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Uyum",
+     "cumle": 1,
+     "metin": "Doğrulama"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Alışma",
+     "cumle": 2,
+     "metin": "Birkaç hafta"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Cihazlı form",
+     "cumle": 3,
+     "metin": "Aynı ölçek"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Karşılaştır",
+     "cumle": 4,
+     "metin": "Fark ve normlar"
+    }
+   ],
+   "cumleler": [
+    "Yarar ölçülecekse, cihazsız durum cihaz takılmadan önce değerlendirilir.",
+    "Ardından cihaz uygulanır ve gerçek kulak ölçümüyle doğrulanır.",
+    "Kişiye günlük ortamlarında cihazı kullanıp alışması için birkaç hafta tanınır.",
+    "Sonra aynı ölçek cihazlı durum için yeniden doldurulur.",
+    "İki sonuç karşılaştırılır ve ölçeğin normlarıyla birlikte yorumlanır.",
+    "Bu yapı, kontrol randevularını ince ayar ve danışmanlık için daha verimli hale getirir."
+   ]
+  },
+  {
+   "id": "aphab",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "APHAB",
+   "baslik": "*APHAB*: dört alt ölçek",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "İletişim kolaylığı",
+     "cumle": 1,
+     "metin": "Uygun ortamda konuşma"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Yankılanma",
+     "cumle": 2,
+     "metin": "Yankılı odalarda"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Arka plan gürültüsü",
+     "cumle": 3,
+     "metin": "Gürültüde konuşma"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Rahatsız edici sesler",
+     "cumle": 4,
+     "metin": "Yüksek çevre sesleri"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "İşitme cihazı yararı kısa profili (Abbreviated Profile of Hearing Aid Benefit), kısaca APHAB, 1995'te yayımlandı.",
+     "ses": "İşitme cihazı yararı kısa profili, kısaca APHAB, bin dokuz yüz doksan beşte yayımlandı."
+    },
+    "Ölçekte 24 madde vardır ve bunlar altışar maddelik dört alt ölçeğe ayrılır; ilki iletişim kolaylığıdır.",
+    "İkinci alt ölçek, yankılı ortamlarda konuşmayı anlamayı sorar.",
+    "Üçüncüsü, arka plan gürültüsü varken konuşmayı anlamayı değerlendirir.",
+    "Dördüncüsü ise yüksek çevre seslerinin ne kadar rahatsız edici bulunduğunu sorar.",
+    "Her madde için kişi, anlatılan sorunu ne sıklıkla yaşadığını işaretler."
+   ]
+  },
+  {
+   "id": "yanit",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "APHAB",
+   "baslik": "APHAB *yanıt ölçeği*",
+   "sutunlar": [
+    "Yanıt",
+    "Sorun yüzdesi"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Her zaman",
+      "99"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Neredeyse her zaman",
+      "87"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Genellikle",
+      "75"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Yarı yarıya",
+      "50"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Bazen",
+      "25"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Nadiren",
+      "12"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Hiçbir zaman",
+      "1"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Yanıtlar yedi basamaklı bir sıklık ölçeğiyle verilir.",
+    "Her zaman yanıtı yüzde 99, neredeyse her zaman yanıtı yüzde 87 olarak puanlanır.",
+    "Genellikle yüzde 75, yarı yarıya ise yüzde 50 sayılır.",
+    "Bazen yüzde 25, nadiren yüzde 12 ve hiçbir zaman yüzde 1 olarak puanlanır.",
+    "Bazı maddeler ters yönde sorulduğu için puanlamada ters çevrilir; bu yüzden resmi puanlama anahtarı ya da yazılımı kullanılır."
+   ]
+  },
+  {
+   "id": "aphab_grafik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "APHAB",
+   "baslik": "Cihazsız ve *cihazlı* APHAB",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 4.5,
+     "ad": "Alt ölçek",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "İletişim",
+      "2": "Yankı",
+      "3": "Gürültü",
+      "4": "Rahatsızlık"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Sorun yüzdesi"
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        0.82,
+        62
+       ],
+       [
+        1.82,
+        68
+       ],
+       [
+        2.82,
+        74
+       ],
+       [
+        3.82,
+        24
+       ]
+      ],
+      "renk": "gri",
+      "etiket": "cihazsız",
+      "etiket_konum": [
+       0.82,
+       62
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "cihazli",
+      "tur": "cubuk",
+      "genislik": 0.32,
+      "noktalar": [
+       [
+        1.18,
+        26
+       ],
+       [
+        2.18,
+        41
+       ],
+       [
+        3.18,
+        46
+       ],
+       [
+        4.18,
+        39
+       ]
+      ],
+      "renk": "mavi",
+      "etiket": "cihazlı",
+      "etiket_konum": [
+       1.18,
+       26
+      ],
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "yarar",
+      "y": [
+       26,
+       62
+      ],
+      "xk": 1.4,
+      "etiket": "yarar",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Puanlar, kişinin yaşadığı sorunun yüzdesini gösterir; puan düştükçe sorun azalmış demektir.",
+    "Bu örnekte cihazsız formda iletişim, yankılanma ve gürültü alt ölçeklerinde sorun yüzdesi yüksek.",
+    "Cihazlı formda bu üç alt ölçekte puanlar belirgin biçimde düşmüş; aradaki fark cihazın yararıdır.",
+    "Rahatsız edici sesler alt ölçeğinde ise cihazla puan artmış; yani yüksek sesler daha rahatsız edici gelmeye başlamış.",
+    "Cihazla çevre seslerinin daha çok duyulması nedeniyle bu alt ölçekte artış sık görülür.",
+    "Bu bulgu, yüksek giriş kazancının ve en yüksek çıkışın gözden geçirilmesi için bir ipucu olabilir."
+   ]
+  },
+  {
+   "id": "aphab_yorum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "APHAB",
+   "baslik": "APHAB'i *yorumlamak*",
+   "maddeler": [
+    {
+     "metin": "Yarar: cihazsız eksi cihazlı",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Normlarla karşılaştırma yapılabilir",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Anlamlı fark için ölçütler var",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Türkçe form: geçerliği kontrol et",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "APHAB",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "24 madde",
+      "cumle": 0,
+      "metin": "Dört alt ölçek"
+     },
+     {
+      "ikon": "tablo",
+      "baslik": "Yedi yanıt",
+      "cumle": 0,
+      "metin": "Yüzde 1 ile 99"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Yarar",
+      "cumle": 0,
+      "metin": "Cihazsız eksi cihazlı"
+     }
+    ]
+   },
+   "cumleler": [
+    "Her alt ölçek için yarar, cihazsız puandan cihazlı puan çıkarılarak hesaplanır.",
+    "İlk üç alt ölçeğin ortalaması genel bir yarar puanı olarak da kullanılır.",
+    "Ölçeğin geliştiricileri, deneyimli kullanıcılardan elde edilen norm değerlerini yayımlamıştır; kişinin sonucu bunlarla karşılaştırılabilir.",
+    "Ayrıca bir farkın tesadüf olmadığını söylemek için gereken en küçük farka dair ölçütler önerilmiştir.",
+    "Bu yüzden birkaç puanlık küçük bir fark, tek başına gerçek bir değişim olarak yorumlanmaz.",
+    "Ölçeğin farklı dillere çevirileri vardır; Türkçe bir form kullanılacaksa önce geçerlik çalışması olup olmadığına bakılmalıdır."
+   ]
+  },
+  {
+   "id": "ioiha",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "IOI-HA",
+   "baslik": "*IOI-HA*: yedi soru",
+   "sutunlar": [
+    "Soru",
+    "Alan"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Günde kaç saat?",
+      "Kullanım"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Ne kadar yardımcı?",
+      "Yarar"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Hala ne kadar zor?",
+      "Kalan güçlük"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Değdi mi?",
+      "Memnuniyet"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Etkinliklere etkisi?",
+      "Kalan kısıtlılık"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Çevreye etkisi?",
+      "Başkalarına etki"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Yaşamın keyfi?",
+      "Yaşam kalitesi"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "İşitme cihazları için uluslararası sonuç envanteri (International Outcome Inventory for Hearing Aids), kısaca IOI-HA, yedi sorudan oluşur.",
+    "İlk iki soru günlük kullanım süresini ve cihazın ne kadar yardımcı olduğunu sorar.",
+    "Sonraki sorular kalan güçlüğü ve memnuniyeti değerlendirir.",
+    "Ardından cihaza rağmen etkinliklerin ne kadar kısıtlandığı ve kişinin işitme sorununun çevresindekileri ne kadar etkilediği sorulur.",
+    "Son soru, cihazın yaşamdan alınan keyfi nasıl değiştirdiğidir; her soru beş seçenekle yanıtlanır.",
+    "Kısa olduğu için rutin klinikte ve farklı ülkeler arasında karşılaştırmada kolayca kullanılır."
+   ]
+  },
+  {
+   "id": "ioiha_tr",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "IOI-HA",
+   "baslik": "Kısa ama *güçlü*",
+   "maddeler": [
+    {
+     "metin": "Yedi soru, birkaç dakika",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Birçok dile çevrildi",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Türkçe geçerlik çalışması var",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yalnız cihazlı durumda doldurulur",
+     "cumle": 4,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    }
+   },
+   "cumleler": [
+    "IOI-HA birkaç dakikada doldurulabilir; bu yüzden kontrol randevularına kolayca eklenir.",
+    "Ölçek pek çok dile çevrilmiş ve farklı ülkelerde norm verileri toplanmıştır.",
+    {
+     "yazi": "Türkçe uyarlaması için 2009'da yayımlanmış bir geçerlik ve güvenirlik çalışması vardır.",
+     "ses": "Türkçe uyarlaması için iki bin dokuzda yayımlanmış bir geçerlik ve güvenirlik çalışması vardır."
+    },
+    "Uluslararası normlarla karşılaştırma, kliniğin sonuçlarını genel olarak değerlendirmeye de yardım eder.",
+    "APHAB'den farklı olarak cihazsız form gerektirmez; cihaz bir süre kullanıldıktan sonra yalnız bir kez doldurulur.",
+    "Düşük bir kullanım ya da memnuniyet yanıtı, kişiyle ayrıntılı konuşmayı gerektiren bir uyarı işaretidir."
+   ]
+  },
+  {
+   "id": "ssq",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "SSQ ve seçim",
+   "baslik": "*SSQ*: konuşma, uzam, nitelik",
+   "maddeler": [
+    {
+     "metin": "Konuşma: 14 madde",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Uzamsal işitme: 17 madde",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ses nitelikleri: 18 madde",
+     "cumle": 3,
+     "ikon": "muzik"
+    },
+    {
+     "metin": "Sıfırdan ona cetvel",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kısa sürüm: _SSQ12_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 2,
+    "ayar": {
+     "mod": "itd",
+     "yol_cumle": 2
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Konuşma, uzamsal ve nitelik ölçeği (Speech, Spatial and Qualities of Hearing Scale), kısaca SSQ, 2004'te yayımlandı.",
+     "ses": "Konuşma, uzamsal ve nitelik ölçeği, kısaca SSQ, iki bin dörtte yayımlandı."
+    },
+    "İlk bölüm, farklı ortamlarda konuşmayı anlamayı soran 14 maddeden oluşur.",
+    "İkinci bölüm 17 maddeyle sesin yönünü ve uzaklığını bulmayı, yani uzamsal işitmeyi değerlendirir.",
+    "Üçüncü bölüm 18 maddeyle seslerin netliğini, doğallığını ve dinleme eforunu sorar.",
+    "Her madde sıfırdan ona kadar bir cetvelde işaretlenir; yüksek puan daha iyi işitmeyi gösterir.",
+    "On iki maddelik kısa sürümü de vardır; tam ve kısa sürümlerin Türkçe geçerlik çalışmaları yayımlanmıştır."
+   ]
+  },
+  {
+   "id": "hangisi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "SSQ ve seçim",
+   "baslik": "Hangi soru, *hangi ölçek?*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "COSI",
+     "cumle": 0,
+     "metin": "Kişisel hedefler"
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "APHAB",
+     "cumle": 1,
+     "metin": "Önce ve sonra yarar"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "IOI-HA",
+     "cumle": 2,
+     "metin": "Kısa genel sonuç"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "SSQ",
+     "cumle": 3,
+     "metin": "Uzamsal ve iki kulak"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "HHIE",
+     "cumle": 4,
+     "metin": "Engel algısı"
+    }
+   ],
+   "cumleler": [
+    "Kişinin kendi hedeflerine ulaşıp ulaşmadığını görmek için danışan odaklı gelişim ölçeği, yani COSI uygundur.",
+    "Cihazsız ve cihazlı durumu ayrıntılı karşılaştırmak için APHAB kullanılır.",
+    "Kısa bir genel sonuç ve memnuniyet değerlendirmesi için IOI-HA pratik bir seçenektir.",
+    "İki kulağa uygulama, karşı tarafa sinyal yönlendiren CROS ya da koklear implant gibi uzamsal işitmenin önemli olduğu yerlerde SSQ öne çıkar.",
+    "Yaşlılar için işitme engeli envanteri, kısaca HHIE ise kaybın duygusal ve sosyal etkisini ölçer.",
+    "Klinikte genellikle bir ya da iki ölçek seçilir; amaç kişiyi yormadan anlamlı bilgi toplamaktır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Cihazsız formu uyumdan önce doldurtun, cihazlı formu birkaç haftalık kullanımdan sonra. Sonuçları kişiyle birlikte okuyun; düşük puanlı maddeler ince ayar ve danışmanlığın gündemidir.",
+   "cumleler": [
+    "Sahadan bir ipucu: yarar ölçecekseniz cihazsız formu mutlaka cihaz takılmadan önce doldurtun.",
+    "Cihazlı formu ise kişi cihazı birkaç hafta günlük ortamlarında kullandıktan sonra uygulayın.",
+    "Sonuçları yalnız dosyaya yazmayın; kişiyle birlikte okuyun ve en düşük puanlı maddeleri konuşun.",
+    "Bu maddeler çoğu zaman ince ayarın, yardımcı cihaz önerisinin ya da iletişim stratejisi eğitiminin konusudur.",
+    "Aynı ölçeği bir sonraki kontrolde yinelemek, yapılan değişikliğin işe yarayıp yaramadığını gösterir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Doğrulama ve geçerleme birlikte",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "APHAB: dört alt ölçek, önce ve sonra",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "IOI-HA: yedi soru, genel sonuç",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "SSQ: konuşma, uzamsal, nitelik",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Bu derste gerçek kulak ölçümüyle doğrulamanın, öz bildirim ölçekleriyle geçerlemeyle tamamlanması gerektiğini gördük.",
+    "APHAB, dört alt ölçekte cihazsız ve cihazlı sorun yüzdelerini karşılaştırarak yararı hesaplar.",
+    "IOI-HA, yedi soruyla kullanım, yarar, memnuniyet ve yaşam kalitesini özetler.",
+    "SSQ ise konuşma, uzamsal işitme ve ses niteliklerini ayrıntılı değerlendirir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "APHAB'de cihazla puanı sıklıkla artan alt ölçek?",
+   "secenekler": [
+    "İletişim kolaylığı",
+    "Yankılanma",
+    "Arka plan gürültüsü",
+    "Rahatsız edici sesler"
+   ],
+   "dogru": 3,
+   "aciklama": "Cihazla çevre sesleri daha çok duyulduğu için _rahatsız edici sesler_ alt ölçeğinde puan sık artar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: APHAB'de cihazlı durumda puanı sıklıkla artan, yani sorunun arttığı görülen alt ölçek hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap D: rahatsız edici sesler.",
+    "Cihazla çevre sesleri daha çok duyulduğu için bu alt ölçekte puan sık artar; yüksek giriş kazancı gözden geçirilebilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Çocuklarda *işitme cihazı* uygulaması",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bebek ve çocuklarda işitme cihazı uygulamasını, güvenliği ve aile takibini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

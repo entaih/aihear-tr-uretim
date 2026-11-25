@@ -1,0 +1,974 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D109_Refleks_Paternleri_TR",
+ "kapak": {
+  "ust": "DERS 109",
+  "baslik": "Refleks<br>*paternleri*",
+  "alt": "Lezyon yeri tahmini ve Metz testi",
+  "cizim": "akustik_refleks_arki"
+ },
+ "youtube": {
+  "baslik": "Akustik Refleks Paternleri ile Lezyon Yeri Tahmini | Ders 109 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İpsilateral ve kontralateral akustik refleks bulguları birlikte okunduğunda iletim, koklear, retrokoklear, beyin sapı ve yüz siniri paternleri ortaya çıkar. Bu derste dört ölçümlük refleks tablosunu, Metz testini ve örnek paternleri adım adım yorumluyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jerger S, Jerger J (1977), Diagnostic value of crossed versus uncrossed acoustic reflexes: eighth nerve and brain stem disorders, Archives of Otolaryngology; Metz O (1952), Threshold of reflex contractions of muscles of middle ear and recruitment of loudness, Archives of Otolaryngology; Gelfand SA, Schwander T, Silman S (1990), Acoustic reflex thresholds in normal and cochlear-impaired ears, Journal of Speech and Hearing Disorders; Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "akustikrefleks",
+   "immitansmetri"
+  ],
+  "etiketler": [
+   "akustik refleks",
+   "refleks paternleri",
+   "lezyon yeri",
+   "Metz testi",
+   "retrokoklear",
+   "ipsilateral refleks",
+   "kontralateral refleks",
+   "immitansmetri",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 109",
+   "baslik": "Refleks *paternleri*",
+   "alt": "Akustik refleksle lezyon yeri tahmini",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste akustik refleks bulgularının birlikte oluşturduğu paternlerle sorunun yerini nasıl tahmin edebileceğimizi öğreneceğiz.",
+    "İletim, koklear, retrokoklear, beyin sapı ve yüz siniri paternlerini ve Metz testini örnek tablolarla göreceğiz."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Okuma mantığı",
+   "baslik": "Dört ölçüm, *iki soru*",
+   "maddeler": [
+    {
+     "metin": "Sağ ipsi: uyaran ve prob _sağda_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sağ kontra: uyaran sağda, _prob solda_",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Toplam _dört ölçüm_",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Uyaran tarafı mı, _prob tarafı_ mı?",
+     "cumle": 5,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "akustik_refleks_arki",
+    "ayar": {
+     "uyarilan": "sag",
+     "ipsi_cumle": 2,
+     "kontra_cumle": 3
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "Refleks paternlerini (reflex patterns) okumak için önce her hastada yapılan dört ölçümü netleştirelim.",
+    "Bu derste ölçümleri uyaranın verildiği kulağa göre adlandıracağız; bu yaygın bir gelenektir.",
+    "Sağ ipsilateral ölçümde uyaran da prob da sağ kulaktadır.",
+    "Sağ kontralateral ölçümde uyaran sağ kulağa verilir, refleks ise sol kulaktaki probla ölçülür.",
+    "Sol kulak için aynı iki ölçüm tekrarlanır; böylece dört ölçümden oluşan bir tablo elde edilir.",
+    "Her bulguda iki soru sorulur: sorun uyaranın verildiği tarafta mı, yoksa probun bulunduğu tarafta mı?",
+    "Uyaran tarafı arkın duyusal kolunu, prob tarafı ise o kulağın orta kulağını ve yüz sinirini yansıtır."
+   ]
+  },
+  {
+   "id": "kollar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Okuma mantığı",
+   "baslik": "Arkın *iki kolu*",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 1,
+    "kontra_cumle": 5
+   },
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "cumle": 3
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 3
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "VIII. sinir: duyusal kol",
+     "cumle": 1
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "VII. sinir: motor kol",
+     "cumle": 3
+    },
+    {
+     "parca": "kontralateral_yol",
+     "metin": "Çaprazlaşan yol",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Uyaran tarafı: duyusal kol",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Prob tarafı: orta kulak ve VII",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Kontra: beyin sapı geçişi",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Refleks arkını iki kola ayırmak, paternleri anlamayı kolaylaştırır.",
+    "Duyusal, yani afferent kol, uyarılan kulaktaki koklea ve işitme sinirinden oluşur.",
+    "Bu kolda bir sorun varsa, o kulağa verilen uyaranla hem ipsilateral hem kontralateral refleks etkilenir.",
+    "Motor, yani efferent kol ise yüz siniri ve stapedius kasıdır; ölçüm bu kolun bulunduğu kulaktaki probla yapılır.",
+    "Bu kolda ya da probun bulunduğu orta kulakta bir sorun varsa, prob o kulaktayken yapılan ölçümler etkilenir.",
+    "Beyin sapında çaprazlaşan yollar ise iki kontralateral ölçümün ortak noktasıdır."
+   ]
+  },
+  {
+   "id": "iletim",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periferik paternler",
+   "baslik": "Patern 1: *iletim* kaybı",
+   "sutunlar": [
+    "Ölçüm",
+    "Uyaran",
+    "Prob",
+    "Refleks"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sağ ipsi",
+      "Sağ",
+      "Sağ",
+      "Yok"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sol kontra",
+      "Sol",
+      "Sağ",
+      "Yok"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sağ kontra",
+      "Sağ",
+      "Sol",
+      "Yükselmiş ya da yok"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Sol ipsi",
+      "Sol",
+      "Sol",
+      "Normal"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İlk örnek: sağ kulakta orta derecede iletim tipi kayıp var, sol kulak normal.",
+    "Sağ ipsilateral ölçümde prob sağ kulaktadır ve refleks alınamaz.",
+    "Sol kontralateral ölçümde de prob sağdadır; sol kulak normal olduğu halde refleks yine alınamaz.",
+    "Sağ kontralateral ölçümde uyaran iletim kaybı olan kulağa verilir; refleks eşiği yaklaşık hava-kemik aralığı kadar yükselir ya da kaybolur.",
+    "Sol ipsilateral ölçüm normaldir, çünkü uyaran da prob da sağlam kulaktadır.",
+    "Probun bulunduğu kulakta küçük bir hava-kemik aralığı bile refleksin ölçülmesini çoğu zaman engeller.",
+    "İki taraflı iletim kaybında ise çoğu zaman dört ölçümde de refleks alınamaz."
+   ]
+  },
+  {
+   "id": "koklear",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periferik paternler",
+   "baslik": "Patern 2: *koklear* kayıp",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 90,
+     "adim": 10,
+     "ad": "Saf ses eşiği (dB HL)"
+    },
+    "y": {
+     "min": 60,
+     "max": 120,
+     "adim": 10,
+     "ad": "Refleks eşiği (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "art",
+      "noktalar": [
+       [
+        0,
+        85
+       ],
+       [
+        10,
+        85
+       ],
+       [
+        20,
+        85
+       ],
+       [
+        30,
+        85
+       ],
+       [
+        40,
+        86
+       ],
+       [
+        50,
+        88
+       ],
+       [
+        60,
+        93
+       ],
+       [
+        70,
+        100
+       ],
+       [
+        80,
+        108
+       ],
+       [
+        90,
+        116
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "tipik refleks eşiği",
+      "etiket_konum": [
+       5,
+       90
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "yok",
+      "y": [
+       105,
+       120
+      ],
+      "renk": "sari",
+      "etiket": "çoğu zaman yanıt yok",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "kirilma",
+      "x": 50,
+      "y": 88,
+      "dus": "x",
+      "etiket": "yaklaşık 50 dB HL",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Hafif-orta kayıp: eşik normal",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "50 ile 60 dB HL üstü: yükselir",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İleri kayıp: çoğu zaman yok",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "İkinci örnek: kokleadan kaynaklanan sensörinöral bir kayıp.",
+    "Hafif ve orta derecede koklear kayıplarda refleks eşikleri çoğu zaman normal sınırlarda, seksen beş desibel HL civarında kalır.",
+    "Bu yüzden refleks, işitme eşiğine göre daha düşük bir duyum düzeyinde ortaya çıkar.",
+    "Kayıp yaklaşık elli ile altmış desibel HL'yi aşınca refleks eşiği yükselmeye başlar.",
+    "Daha ileri kayıplarda refleks çoğu zaman güvenli test sınırına kadar alınamaz.",
+    "Bu grafik şematiktir; klinikte Gelfand ve arkadaşlarının doksanıncı yüzdelik değerleri gibi geniş örneklemli normlar kullanılır.",
+    "Koklear kayıpta etkilenen kulağa verilen uyaranla iki ölçüm de benzer biçimde etkilenir; prob tarafı sorun yaratmaz."
+   ]
+  },
+  {
+   "id": "metz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Periferik paternler",
+   "baslik": "*Metz* testi",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 350,
+     "max": 2800,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      500,
+      1000,
+      2000
+     ],
+     "ad": "Frekans (Hz)"
+    },
+    "y": {
+     "min": 0,
+     "max": 110,
+     "adim": 10,
+     "ters": true,
+     "ad": "İşitme düzeyi (dB HL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        500,
+        55
+       ],
+       [
+        1000,
+        60
+       ],
+       [
+        2000,
+        65
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "işitme eşiği",
+      "cumle": 4
+     },
+     {
+      "ad": "refleks",
+      "noktalar": [
+       [
+        500,
+        95
+       ],
+       [
+        1000,
+        100
+       ],
+       [
+        2000,
+        105
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "refleks eşiği",
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       60,
+       100
+      ],
+      "xk": 1000,
+      "etiket": "40 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Normal fark: 70 ile 100 dB",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "60 dB ya da az: rekruitment",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tek başına kesin değil",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Refleks eşiği ile işitme eşiği arasındaki farkı kullanan klasik yönteme Metz testi (Metz recruitment test) denir.",
+     "ses": "Refleks eşiği ile işitme eşiği arasındaki farkı kullanan klasik yönteme Mets testi denir."
+    },
+    {
+     "yazi": "Test, adını Danimarkalı araştırmacı Otto Metz'den alır.",
+     "ses": "Test, adını Danimarkalı araştırmacı Otto Metsten alır."
+    },
+    "Normal işiten kulakta refleks, işitme eşiğinin yaklaşık yetmiş ile yüz desibel üzerinde ortaya çıkar.",
+    "Fark altmış desibel ya da daha azsa, bulgu ses yüksekliğinin eşik üstünde hızla arttığını, yani rekruitment bulgusunu düşündürür.",
+    "Bu örnekte bin hertzde işitme eşiği altmış, refleks eşiği yüz desibel HL; fark yalnız kırk desibel.",
+    "Bu bulgu, kaybın kokleadan kaynaklandığıyla uyumludur.",
+    {
+     "yazi": "Ancak Metz testi tek başına kesin bir ayrım yapmaz; retrokoklear bir lezyonda da benzer bulgu görülebilir.",
+     "ses": "Ancak Mets testi tek başına kesin bir ayrım yapmaz; retrokoklear bir lezyonda da benzer bulgu görülebilir."
+    },
+    "Bu yüzden günümüzde bulgu, diğer paternler ve test bataryasıyla birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "retro",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Retrokoklear paternler",
+   "baslik": "Patern 3: *retrokoklear* lezyon",
+   "sutunlar": [
+    "Ölçüm",
+    "Uyaran",
+    "Prob",
+    "Refleks"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sağ ipsi",
+      "Sağ",
+      "Sağ",
+      "Yok ya da yükselmiş"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sağ kontra",
+      "Sağ",
+      "Sol",
+      "Yok ya da yükselmiş"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sol ipsi",
+      "Sol",
+      "Sol",
+      "Normal"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Sol kontra",
+      "Sol",
+      "Sağ",
+      "Normal"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Üçüncü örnek: sağ işitme sinirini etkileyen bir lezyon, yani retrokoklear lezyon (retrocochlear lesion).",
+    "Bu durumda sağ kulağa verilen uyaranla yapılan iki ölçümde de refleks alınamaz ya da belirgin yükselmiştir.",
+    "Önemli ipucu, refleks bulgusunun işitme kaybının derecesiyle orantısız olmasıdır.",
+    "Sol kulağa verilen uyaranla yapılan ölçümler ise normaldir; çünkü sağ yüz siniri ve sağ orta kulak sağlamdır.",
+    "Örneğin işitme eşiği yalnız otuz desibel HL olan bir kulakta refleksin hiç alınamaması dikkat çekicidir.",
+    "Böyle bir bulgu vestibüler schwannom gibi işitme siniri lezyonlarını akla getirir ve ileri değerlendirme gerektirir.",
+    "Aynı kulakta refleks adaptasyonuna da bakılabilir; bunu bir sonraki derste göreceğiz."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Retrokoklear paternler",
+   "baslik": "Örnek: *orantısız* bulgu",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hafif kayıp",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "A",
+     "renk": "yesil",
+     "metin": "Timpanogram: _iki kulakta A_",
+     "cumle": 1
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "Sağ uyaranla _refleks yok_",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       30,
+       35,
+       35,
+       40,
+       45
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Bu paterne uyan örnek bir odyograma bakalım: sağ kulakta hafif, sol kulakta normal işitme var.",
+    "İki kulakta da timpanogram A tipi; yani orta kulaklar normal görünüyor.",
+    "Sağ kulağa verilen uyaranla refleks, denenen en yüksek güvenli düzeye kadar alınamıyor.",
+    "Hafif bir kayıpta refleks eşiğinin normal sınırlarda olması beklenir; bu nedenle bulgu orantısızdır.",
+    "Bu tablo ileri değerlendirme için yönlendirme gerektirir; örnek eğitim amaçlıdır."
+   ]
+  },
+  {
+   "id": "beyinsapi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Retrokoklear paternler",
+   "baslik": "Patern 4: *beyin sapı* lezyonu",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 2,
+    "kontra_cumle": 1
+   },
+   "vurgula": [
+    {
+     "parca": "beyin_sapi",
+     "cumle": 0
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 1
+    },
+    {
+     "parca": "ipsilateral_yol",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "kontralateral_yol",
+     "metin": "Çaprazlaşan yol: etkilenir",
+     "cumle": 1
+    },
+    {
+     "parca": "ipsilateral_yol",
+     "metin": "Aynı taraf yol: sağlam",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İki kontra yok ya da yüksek",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "İpsilateraller normal",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "İşitme normal olabilir",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Dördüncü örnek, beyin sapının ortasında çaprazlaşan yolları etkileyen bir lezyondur.",
+    "Bu durumda iki kontralateral ölçümde de refleks alınamaz ya da belirgin yükselmiştir.",
+    "İpsilateral ölçümler ise normal kalabilir; çünkü aynı taraftaki yol çaprazlaşmadan tamamlanır.",
+    "İşitme eşikleri normal ya da normale yakın olabilir; bu da bulguyu daha anlamlı kılar.",
+    "Bu patern, beyin sapını etkileyen multipl skleroz (multiple sclerosis) gibi durumlarda ya da kitlelerde görülebilir.",
+    "İpsilateral ve kontralateral ölçümleri birlikte yapmanın önemi burada açıkça ortaya çıkar."
+   ]
+  },
+  {
+   "id": "fasiyal",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yüz siniri",
+   "baslik": "Patern 5: *yüz siniri*",
+   "sutunlar": [
+    "Ölçüm",
+    "Uyaran",
+    "Prob",
+    "Refleks"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sağ ipsi",
+      "Sağ",
+      "Sağ",
+      "Yok"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sol kontra",
+      "Sol",
+      "Sağ",
+      "Yok"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sağ kontra",
+      "Sağ",
+      "Sol",
+      "Normal"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Sol ipsi",
+      "Sol",
+      "Sol",
+      "Normal"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Beşinci örnek: sağ yüz sinirinin, stapedius dalının çıktığı yerden önce etkilendiği bir durum.",
+    "Prob sağ kulaktayken yapılan iki ölçümde de refleks alınamaz; çünkü sağ stapedius kasılamaz.",
+    "Prob sol kulaktayken yapılan ölçümler ise normaldir.",
+    "Bu patern probun bulunduğu kulaktaki iletim kaybına benzer; ayrım timpanogram ve odyogramla yapılır.",
+    "Yüz siniri sorununda işitme ve timpanogram genellikle normaldir.",
+    {
+     "yazi": "Bell paralizisinde (Bell's palsy) refleksin alınması, lezyonun stapedius dalının çıkışından daha uçta olduğunu düşündürebilir.",
+     "ses": "Bell paralizisinde refleksin alınması, lezyonun stapedius dalının çıkışından daha uçta olduğunu düşündürebilir."
+    },
+    "Refleksin zamanla geri dönmesi de iyileşmenin bir işareti olarak izlenebilir."
+   ]
+  },
+  {
+   "id": "hepsi",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yüz siniri",
+   "baslik": "Paternler *bir arada*",
+   "sutunlar": [
+    "Durum",
+    "Etkilenen ölçümler"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "İletim (prob kulağı)",
+      "Prob o taraftayken"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Koklear, ileri derece",
+      "Uyaran o taraftayken"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "VIII. sinir",
+      "Uyaran o taraftayken"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Beyin sapı ortası",
+      "İki kontralateral"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "VII. sinir",
+      "Prob o taraftayken"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İletim kaybında ve yüz siniri sorununda, prob etkilenen kulaktayken yapılan ölçümler bozulur.",
+    "İleri derecede koklear kayıpta, uyaran etkilenen kulağa verildiğinde refleks yükselir ya da kaybolur.",
+    "İşitme siniri lezyonunda da uyaran tarafı etkilenir, ama bulgu işitme kaybının derecesiyle orantısızdır.",
+    "Beyin sapı ortasındaki bir lezyonda iki kontralateral ölçüm bozulur, ipsilateraller korunur.",
+    "Yüz siniri sorununda ayrım için normal timpanogram ve normal odyogram belirleyicidir.",
+    "Bu tabloyu ezberlemek yerine arkın iki kolunu düşünmek, her yeni vakada doğru sonuca götürür."
+   ]
+  },
+  {
+   "id": "sira",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yorum",
+   "baslik": "Paterni okuma *sırası*",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanogram",
+     "metin": "Orta kulak sağlam mı?",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Odyogram",
+     "metin": "Kayıp derecesi ne?",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Dört ölçüm",
+     "metin": "Hangileri bozuk?",
+     "cumle": 2
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Ortak taraf",
+     "metin": "Uyaran mı, prob mu?",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Birleştir",
+     "metin": "Bataryayla yorumla",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bir refleks tablosunu yorumlarken önce iki kulağın timpanogramına bakın.",
+    "Sonra odyogramdan her kulağın kayıp derecesini not edin; çünkü beklenen refleks eşiği buna bağlıdır.",
+    "Ardından dört ölçümden hangilerinin yok ya da yükselmiş olduğunu işaretleyin.",
+    "Bozuk ölçümlerin ortak noktasını arayın: aynı uyaran kulağı mı, aynı prob kulağı mı, yoksa iki kontralateral mi?",
+    "Bulgu kaybın derecesiyle açıklanamıyorsa bunu raporda açıkça belirtin.",
+    "Son adımda sonucu konuşma testleri, işitsel beyin sapı yanıtı gibi testler ve hekim değerlendirmesiyle birleştirin."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Refleks yokluğunu yorumlamadan önce prob kulağının timpanogramına bakın. Probun bulunduğu kulaktaki küçük bir iletim sorunu bütün paterni değiştirebilir.",
+   "cumle": 1,
+   "cumleler": [
+    "Pratik bir ipucu: refleks tablosunda bir patern gördüğünüzde önce prob kulağını sorgulayın.",
+    "Prob kulağında belirgin negatif basınç ya da efüzyon, refleksleri tek başına silebilir ve sahte bir patern oluşturabilir.",
+    "Şüphede basıncı tepe basıncına ayarlayarak ölçümü tekrarlayın ve prob yerleşimini kontrol edin.",
+    "Gerçek bir sinir ya da beyin sapı paterni, bu kontrollerden sonra da tutarlı biçimde görülür."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Yorum",
+   "baslik": "Paternlerin *sınırları*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal refleks",
+     "metin": "Lezyonu dışlamaz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İleri kayıp",
+     "metin": "Ayrım zorlaşır",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Normal varyasyon",
+     "metin": "Bazen refleks yok",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Karar",
+     "metin": "Batarya ve hekim",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Refleks paternleri güçlü bir araçtır, ama bazı sınırlılıkları vardır.",
+    "Normal refleksler retrokoklear bir lezyonu dışlamaz; özellikle küçük tümörlerde refleksler normal olabilir.",
+    "İleri derecede işitme kaybı olan kulakta refleks yokluğu, sinirsel bir sorunu koklear kayıptan ayırmayı zorlaştırır.",
+    "Normal işitenlerin küçük bir bölümünde, özellikle yüksek frekanslarda refleks alınamayabilir.",
+    "Bu yüzden refleks bulguları tek başına tanı koydurmaz; bir olasılığı güçlendirir ya da zayıflatır.",
+    "Görüntüleme gerekip gerekmediği kararı her zaman hekime aittir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_Uyaran_ tarafı: duyusal kol",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "_Prob_ tarafı: orta kulak ve VII",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "İki _kontra_ bozuk: beyin sapı",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Metz_: fark 60 dB ya da az",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Uyaran kulağına bağlı bozulma, arkın duyusal kolunu, yani koklea ve işitme sinirini düşündürür.",
+    "Prob kulağına bağlı bozulma, o kulaktaki iletim sorununu ya da yüz sinirini düşündürür.",
+    "İki kontralateral ölçümün birlikte bozulması, beyin sapı ortasındaki bir sorunu akla getirir.",
+    {
+     "yazi": "Metz testinde refleks ile işitme eşiği arasındaki farkın altmış desibel ya da az olması rekruitment bulgusunu düşündürür.",
+     "ses": "Mets testinde refleks ile işitme eşiği arasındaki farkın altmış desibel ya da az olması rekruitment bulgusunu düşündürür."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Sağ kulak 30 dB HL, timpanogram normal, sağa verilen uyaranla refleks yok. Ne düşünülür?",
+   "secenekler": [
+    "Sağ iletim kaybı",
+    "Sağ retrokoklear lezyon",
+    "Sol yüz siniri sorunu",
+    "Normal bulgu"
+   ],
+   "dogru": 1,
+   "aciklama": "Hafif kayba göre _orantısız_ refleks yokluğu, uyaran tarafındaki işitme sinirini sorgulatır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sağ kulak otuz desibel HL, timpanogram normal, sağa verilen uyaranla refleks yok. Ne düşünülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: sağ retrokoklear lezyon olasılığı.",
+    "Hafif kayba göre orantısız refleks yokluğu, uyaran tarafındaki işitme sinirini sorgulatır ve ileri değerlendirme gerektirir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Akustik refleks *adaptasyonu*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, sürekli bir ses boyunca refleksin azalıp azalmadığını ölçen refleks adaptasyonu testini inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

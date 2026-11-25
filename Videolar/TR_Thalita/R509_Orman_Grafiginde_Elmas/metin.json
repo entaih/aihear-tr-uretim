@@ -1,0 +1,269 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R509_Orman_Grafiginde_Elmas_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #509",
+  "baslik": "Elmasın *anlamı*",
+  "alt": "Orman grafiği nasıl okunur?",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -4,
+    "max": 14,
+    "adim": 2,
+    "ad": "Ortalama fark (puan); sağ taraf cihaz lehine"
+   },
+   "y": {
+    "min": 0,
+    "max": 7,
+    "adim": 1,
+    "ters": true,
+    "yazilar": {
+     "1": "Çalışma A",
+     "2": "Çalışma B",
+     "3": "Çalışma C",
+     "4": "Çalışma D",
+     "5": "Çalışma E",
+     "6": "Toplam"
+    }
+   },
+   "seriler": [
+    {
+     "ad": "a",
+     "noktalar": [
+      [
+       1,
+       1
+      ],
+      [
+       7,
+       1
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "b",
+     "noktalar": [
+      [
+       2.5,
+       2
+      ],
+      [
+       9.5,
+       2
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "c",
+     "noktalar": [
+      [
+       -2,
+       3
+      ],
+      [
+       6,
+       3
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 3
+    },
+    {
+     "ad": "d",
+     "noktalar": [
+      [
+       3,
+       4
+      ],
+      [
+       7,
+       4
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "e",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       13,
+       5
+      ]
+     ],
+     "renk": "lacivert",
+     "cumle": 1
+    },
+    {
+     "ad": "tahminler",
+     "tur": "nokta",
+     "noktalar": [
+      [
+       4,
+       1
+      ],
+      [
+       6,
+       2
+      ],
+      [
+       2,
+       3
+      ],
+      [
+       5,
+       4
+      ],
+      [
+       7,
+       5
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 1
+    },
+    {
+     "ad": "elmas",
+     "noktalar": [
+      [
+       3.4,
+       6
+      ],
+      [
+       4.8,
+       5.7
+      ],
+      [
+       6.2,
+       6
+      ],
+      [
+       4.8,
+       6.3
+      ],
+      [
+       3.4,
+       6
+      ]
+     ],
+     "renk": "sari",
+     "dolgu": true,
+     "cumle": 5
+    }
+   ],
+   "bolgeler": [],
+   "isaretler": [
+    {
+     "ad": "sifir",
+     "x": 0,
+     "cizgi": "dikey",
+     "etiket": "etki yok",
+     "cumle": 2
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Orman grafiğinin altındaki elmas ne anlatır? #shorts",
+  "aciklama": "Meta-analizin sonucu orman grafiğiyle gösterilir. Her satır bir çalışmadır: nokta o çalışmanın tahminini, yatay çizgi yüzde 95 güven aralığını gösterir; ortadaki dikey çizgi etki yok çizgisidir ve ortalama farkta sıfırdır. En alttaki elmas birleştirilmiş tahmindir; ortası ortak etkiyi, iki ucu güven aralığını gösterir. Öğretim amaçlı örnekte elmas sıfırı kesmiyor ve birleştirilmiş kanıt bir yarar olduğunu düşündürüyor; farkın klinik olarak anlamlı olup olmadığı ayrıca sorulur.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "kanıtadayalı",
+   "araştırma"
+  ],
+  "etiketler": [
+   "meta-analiz",
+   "orman grafiği",
+   "forest plot",
+   "güven aralığı",
+   "sistematik derleme",
+   "kanıta dayalı odyoloji",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Orman grafiğinin altındaki elmas ne anlatır?",
+  "bilgiler": [
+   "Nokta çalışmanın tahmini, çizgi güven aralığıdır.",
+   "Sıfırı kesen aralık tek başına anlamlı fark göstermez.",
+   "Elmas birleştirilmiş tahmini ve aralığını gösterir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "kanıtadayalı",
+   "araştırma"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #509",
+   "metin": "Elmas *ne anlatır?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Orman grafiğinin altındaki elmas ne anlatır?"
+   ]
+  },
+  {
+   "id": "grafik",
+   "tur": "zincir",
+   "baslik": "Orman *grafiği*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Nokta",
+     "tr": "çalışmanın tahmini",
+     "cumle": 0
+    },
+    {
+     "ad": "Çizgi",
+     "tr": "güven aralığı",
+     "cumle": 0,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Elmas",
+     "tr": "birleşik sonuç",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Her satır bir çalışmadır: nokta tahmini, yatay çizgi güven aralığını gösterir.",
+    "Aralığı sıfır çizgisini kesen çalışma tek başına anlamlı fark göstermez.",
+    "En alttaki elmas birleştirilmiş tahmindir; uçları güven aralığını gösterir.",
+    "Elmas sıfırı kesmiyorsa birleştirilmiş kanıt bir yarar olduğunu düşündürür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D299",
+ "kaynak_baslik": "Kanıta dayalı odyoloji: sistematik derleme"
+}

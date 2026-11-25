@@ -1,0 +1,881 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D223_Gurultu_Olcumu_Dozimetri_TR",
+ "kapak": {
+  "ust": "DERS 223",
+  "baslik": "Gürültü ölçümü ve<br>*dozimetri*",
+  "alt": "Ağırlıklandırma, Leq ve LEX,8h",
+  "cizim": "gurultu_spektrumu"
+ },
+ "youtube": {
+  "baslik": "Gürültü Ölçümü ve Dozimetri | Ders 223 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İş yerinde gürültü nasıl ölçülür ve çalışanın günlük maruziyeti nasıl hesaplanır? Bu derste ses düzeyi ölçeri, A ve C frekans ağırlıklandırmasını, zaman ağırlıklandırmasını, eşdeğer sürekli ses düzeyini (Leq), günlük gürültü maruziyet düzeyini (LEX,8h), kişisel gürültü dozimetresini, ölçüm stratejilerini ve desibellerin enerji olarak toplanmasını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: IEC 61672-1, Electroacoustics: Sound level meters; IEC 61252, Electroacoustics: Specifications for personal sound exposure meters; ISO 9612, Acoustics: Determination of occupational noise exposure, Engineering method; ISO 1999; NIOSH, Criteria for a Recommended Standard: Occupational Noise Exposure (1998); Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik, Resmi Gazete 28.07.2013, sayı 28721.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işsağlığı",
+   "gürültü"
+  ],
+  "etiketler": [
+   "gürültü ölçümü",
+   "dozimetri",
+   "gürültü dozimetresi",
+   "noise dosimeter",
+   "ses düzeyi ölçer",
+   "sound level meter",
+   "A ağırlıklandırma",
+   "A-weighting",
+   "Leq",
+   "LEX,8h",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 223",
+   "baslik": "Gürültü ölçümü ve *dozimetri*",
+   "alt": "Ses düzeyi ölçer, ağırlıklandırma ve günlük maruziyet",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iş yerinde gürültünün nasıl ölçüldüğünü ve çalışanın günlük maruziyetinin nasıl hesaplandığını öğreneceğiz.",
+    "Ses düzeyi ölçeri, frekans ve zaman ağırlıklandırmasını, eşdeğer sürekli ses düzeyini ve kişisel dozimetreyi ele alacağız."
+   ]
+  },
+  {
+   "id": "ses_olcer",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ölçüm aracı",
+   "baslik": "Ses düzeyi *ölçer*",
+   "maddeler": [
+    {
+     "metin": "Bir noktadaki ses basınç düzeyi",
+     "cumle": 0,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Mikrofon, süzgeçler, gösterge",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "IEC 61672: sınıf 1 ve sınıf 2",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Önce ve sonra _kalibrasyon_ kontrolü",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "ses_duzeyi_olcer",
+    "cumle": 1,
+    "ayar": {
+     "kalibrator_cumle": 4
+    },
+    "etiketler": [
+     {
+      "parca": "mikrofon",
+      "metin": "Mikrofon",
+      "cumle": 1
+     },
+     {
+      "parca": "gosterge",
+      "metin": "Gösterge",
+      "cumle": 1
+     },
+     {
+      "parca": "kalibrator",
+      "metin": "Kalibratör",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Ses düzeyi ölçer (sound level meter), bir noktadaki ses basınç düzeyini ölçen cihazdır.",
+    "Mikrofon, yükselteç, frekans ve zaman ağırlıklandırma süzgeçleri ve gösterge temel parçalarıdır.",
+    {
+     "yazi": "Uluslararası IEC 61672 standardı ses düzeyi ölçerlerin performansını tanımlar.",
+     "ses": "Uluslararası ı e ce altmış bir bin altı yüz yetmiş iki standardı ses düzeyi ölçerlerin performansını tanımlar."
+    },
+    "Standart iki doğruluk sınıfı tanımlar: sınıf 1 daha hassastır, sınıf 2 ise genel saha ölçümlerinde kullanılır.",
+    "Ölçümden önce ve sonra cihaz, akustik kalibratörle kontrol edilir.",
+    "Kalibratör, mikrofona bilinen frekans ve düzeyde ses veren küçük bir cihazdır; örneğin 1000 hertzde 94 desibel.",
+    "İki kontrol arasında belirgin bir fark varsa ölçüm güvenilir kabul edilmez ve tekrarlanır."
+   ]
+  },
+  {
+   "id": "agirlik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ölçüm aracı",
+   "baslik": "A ve C *ağırlıklandırma*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 31.5,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      31.5,
+      63,
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -40,
+     "max": 5,
+     "adim": 10,
+     "ad": "Düzeltme (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "a_egrisi",
+      "noktalar": [
+       [
+        31.5,
+        -39.4
+       ],
+       [
+        63,
+        -26.2
+       ],
+       [
+        125,
+        -16.1
+       ],
+       [
+        250,
+        -8.6
+       ],
+       [
+        500,
+        -3.2
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        1.2
+       ],
+       [
+        4000,
+        1.0
+       ],
+       [
+        8000,
+        -1.1
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "A",
+      "cumle": 1
+     },
+     {
+      "ad": "c_egrisi",
+      "noktalar": [
+       [
+        31.5,
+        -3.0
+       ],
+       [
+        63,
+        -0.8
+       ],
+       [
+        125,
+        -0.2
+       ],
+       [
+        250,
+        0
+       ],
+       [
+        500,
+        0
+       ],
+       [
+        1000,
+        0
+       ],
+       [
+        2000,
+        -0.2
+       ],
+       [
+        4000,
+        -0.8
+       ],
+       [
+        8000,
+        -3.0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "C",
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "a125",
+      "x": 125,
+      "y": -16.1,
+      "etiket": "yaklaşık -16 dB",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "A: kulağın duyarlılığına benzer",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Mesleki maruziyette dB(A)",
+     "cumle": 3,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "C: neredeyse düz, tepe değer",
+     "cumle": 5,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "İnsan kulağı her frekansa eşit duyarlı değildir; özellikle orta düzeylerde pes seslere daha az duyarlıdır.",
+    "A ağırlıklandırma (A-weighting), ölçülen sesi kulağın bu duyarlılığına benzer biçimde süzer.",
+    {
+     "yazi": "Mavi eğride görüldüğü gibi A süzgeci 1000 hertzde sıfırdır; 125 hertzde yaklaşık 16, 31,5 hertzde yaklaşık 39 desibel azaltır.",
+     "ses": "Mavi eğride görüldüğü gibi A süzgeci bin hertzde sıfırdır; yüz yirmi beş hertzde yaklaşık on altı, otuz bir buçuk hertzde yaklaşık otuz dokuz desibel azaltır."
+    },
+    "A ağırlıklı sonuç dB(A) olarak yazılır ve işitme kaybı riskiyle iyi ilişki gösterdiği için mesleki maruziyette kullanılır.",
+    "C ağırlıklandırma ise kesik çizgide görüldüğü gibi neredeyse düzdür; yalnız çok pes ve çok tiz uçlarda biraz azaltır.",
+    "Bu yüzden tepe ses basıncı C ağırlıklı ölçülür ve sonuç dB(C) olarak yazılır.",
+    "Hiç süzgeç uygulanmayan ölçüme ise Z ağırlıklandırma, yani sıfır ağırlıklandırma denir."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ölçüm aracı",
+   "baslik": "Zaman *ağırlıklandırma*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Hızlı (F)",
+     "metin": "Yaklaşık 125 milisaniye",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Yavaş (S)",
+     "metin": "1 saniye",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Tepe",
+     "metin": "En yüksek anlık değer",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bütünleştirici",
+     "metin": "Enerji ortalaması",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ses düzeyi zamanla dalgalanır; ölçerin bu dalgalanmayı ne hızla izlediğine zaman ağırlıklandırma denir.",
+    "Hızlı ayar yaklaşık 125 milisaniyelik bir zaman sabiti kullanır ve değişimleri yakından izler.",
+    "Yavaş ayar 1 saniyelik zaman sabitiyle daha sakin bir gösterge sağlar.",
+    "Bu ayarlar anlık düzeyi gösterir, ama bir iş günündeki toplam enerjiyi tek başına vermez.",
+    "Darbe seslerinin en yüksek anlık değeri ise tepe değer olarak ayrıca ölçülür.",
+    "Mesleki maruziyet için asıl gereken, zaman içindeki enerjinin ortalamasını alan bütünleştirici ölçümdür.",
+    "Bu nedenle mesleki ölçümlerde anlık değer yerine, sıradaki bölümde göreceğimiz eşdeğer düzey kaydedilir."
+   ]
+  },
+  {
+   "id": "olcum_adim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Ölçüm aracı",
+   "baslik": "Sabit noktada *ölçüm*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Kalibre et",
+     "metin": "Kalibratörle kontrol",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ayarla",
+     "metin": "Ağırlıklandırma, ölçüm türü",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Konumla",
+     "metin": "Kulak hizası",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Ölç ve kaydet",
+     "metin": "Yeterli süre",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Ses düzeyi ölçerle yapılan sabit nokta ölçümünde de belli adımlar izlenir.",
+    "Önce cihaz kalibratörle kontrol edilir, ağırlıklandırma ve ölçüm türü seçilir.",
+    "Mikrofon çalışanın bulunduğu yerde ve kulak hizasında tutulur; ölçen kişi sesi engellememek için cihazı bedeninden uzak tutar.",
+    "Ölçüm, sesin değişkenliğini yansıtacak kadar uzun sürdürülür ve süre kaydedilir.",
+    "Hava akımı olan ortamlarda mikrofona rüzgar köpüğü takılır.",
+    "Bu yöntem makinelerin ve çalışma alanlarının gürültü haritasını çıkarmak için de kullanılır."
+   ]
+  },
+  {
+   "id": "leq",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Leq ve günlük düzey",
+   "baslik": "Eşdeğer sürekli *ses düzeyi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 8,
+     "adim": 1,
+     "ad": "Vardiya (saat)"
+    },
+    "y": {
+     "min": 75,
+     "max": 100,
+     "adim": 5,
+     "ad": "Düzey (dB(A))"
+    },
+    "seriler": [
+     {
+      "ad": "duzey",
+      "noktalar": [
+       [
+        0,
+        85
+       ],
+       [
+        2,
+        85
+       ],
+       [
+        2,
+        95
+       ],
+       [
+        3,
+        95
+       ],
+       [
+        3,
+        80
+       ],
+       [
+        5,
+        80
+       ],
+       [
+        5,
+        92
+       ],
+       [
+        6,
+        92
+       ],
+       [
+        6,
+        85
+       ],
+       [
+        8,
+        85
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "örnek gün",
+      "cumle": 2
+     },
+     {
+      "ad": "leq",
+      "noktalar": [
+       [
+        0,
+        89
+       ],
+       [
+        8,
+        89
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "etiket": "Leq yaklaşık 89",
+      "cumle": 5
+     },
+     {
+      "ad": "ortalama",
+      "noktalar": [
+       [
+        0,
+        86
+       ],
+       [
+        8,
+        86
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "aritmetik ortalama 86",
+      "cumle": 5
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "tepe_saat",
+      "x": 2.5,
+      "y": 95,
+      "etiket": "1 saat 95",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Aynı enerjiyi taşıyan sabit düzey",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Enerji ortalaması, aritmetik değil",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Kısa yüksek düzeyler belirleyici",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Eşdeğer sürekli ses düzeyi (equivalent continuous level), kısaca Leq, dalgalanan bir sesle aynı enerjiyi taşıyan sabit düzeydir.",
+    "A ağırlıklı ölçüldüğünde LAeq olarak yazılır.",
+    {
+     "yazi": "Bu örnek grafikte çalışanın gün içindeki düzeyi 80 ile 95 dB(A) arasında değişiyor.",
+     "ses": "Bu örnek grafikte çalışanın gün içindeki düzeyi seksen ile doksan beş desibel A arasında değişiyor."
+    },
+    "Leq bu dalgalanmanın enerji ortalamasıdır; aritmetik ortalama değildir.",
+    {
+     "yazi": "Kısa süreli yüksek düzeyler enerjiye büyük katkı yaptığı için Leq'i belirgin biçimde yükseltir.",
+     "ses": "Kısa süreli yüksek düzeyler enerjiye büyük katkı yaptığı için el e ku'yu belirgin biçimde yükseltir."
+    },
+    {
+     "yazi": "Bu örnekte Leq yaklaşık 89 dB(A) çıkıyor; düzeylerin aritmetik ortalaması ise yaklaşık 86'dır.",
+     "ses": "Bu örnekte el e ku yaklaşık seksen dokuz desibel A çıkıyor; düzeylerin aritmetik ortalaması ise yaklaşık seksen altıdır."
+    },
+    {
+     "yazi": "Yani bir saatlik 95 dB(A) çalışma, günün daha sessiz saatlerinden çok daha belirleyicidir.",
+     "ses": "Yani bir saatlik doksan beş desibel A çalışma, günün daha sessiz saatlerinden çok daha belirleyicidir."
+    }
+   ]
+  },
+  {
+   "id": "lex",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Leq ve günlük düzey",
+   "baslik": "Günlük maruziyet düzeyi: *LEX,8h*",
+   "maddeler": [
+    {
+     "metin": "Sekiz saatlik güne normalleştirilmiş düzey",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Kısa vardiya düşürür, uzun yükseltir",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Örnek: 4 saat 91 = 88 dB(A)",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yönetmelik değerleri bu düzeye göre",
+     "cumle": 5,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖRNEK HESAP",
+    "cumle": 3,
+    "ogeler": [
+     {
+      "ikon": "kronometre",
+      "baslik": "4 saat",
+      "metin": "91 dB(A)",
+      "cumle": 3
+     },
+     {
+      "ikon": "saat",
+      "baslik": "8 saate yayılınca",
+      "metin": "Enerji yarıya iner",
+      "cumle": 4
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Sonuç",
+      "metin": "88 dB(A)",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Günlük gürültü maruziyet düzeyi (daily noise exposure level), LEX,8h olarak yazılır.",
+     "ses": "Günlük gürültü maruziyet düzeyi, el e iks sekiz saat olarak yazılır."
+    },
+    {
+     "yazi": "Bu değer, gerçek çalışma süresindeki LAeq'nin sekiz saatlik bir iş gününe normalleştirilmiş halidir.",
+     "ses": "Bu değer, gerçek çalışma süresindeki el a e ku'nun sekiz saatlik bir iş gününe normalleştirilmiş halidir."
+    },
+    "Gürültülü çalışma süresi sekiz saatten kısaysa günlük düzey düşer, uzunsa yükselir.",
+    {
+     "yazi": "Örneğin 91 dB(A)'da 4 saat çalışan ve günün geri kalanında anlamlı gürültüye maruz kalmayan birinin günlük düzeyi 88 dB(A)'dır.",
+     "ses": "Örneğin doksan bir desibel A'da dört saat çalışan ve günün geri kalanında anlamlı gürültüye maruz kalmayan birinin günlük düzeyi seksen sekiz desibel A'dır."
+    },
+    "Çünkü süre yarıya indiğinde enerji de yarıya iner ve bu 3 desibellik azalma demektir.",
+    "Türkiye'deki yönetmeliğin eylem ve sınır değerleri bu günlük düzeye göre karşılaştırılır.",
+    {
+     "yazi": "Yönetmelik, günlük ve haftalık düzeylerin hesabında TS 2607 ISO 1999 standardına atıf yapar.",
+     "ses": "Yönetmelik, günlük ve haftalık düzeylerin hesabında te se iki bin altı yüz yedi iso bin dokuz yüz doksan dokuz standardına atıf yapar."
+    }
+   ]
+  },
+  {
+   "id": "dozimetre",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dozimetri",
+   "baslik": "Kişisel *dozimetre*",
+   "maddeler": [
+    {
+     "metin": "Çalışanla birlikte hareket eder",
+     "cumle": 1,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "IEC 61252 standardı",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Mikrofon: maruz taraftaki omuz",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Leq, LEX,8h, tepe, doz",
+     "cumle": 4,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Çarpma ve bağırma _yanıltır_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "dozimetre",
+    "cumle": 1,
+    "ayar": {
+     "mikrofon_cumle": 3,
+     "sonuc_cumle": 4
+    },
+    "etiketler": [
+     {
+      "parca": "dozimetre",
+      "metin": "Dozimetre",
+      "cumle": 1
+     },
+     {
+      "parca": "mikrofon",
+      "metin": "Mikrofon: omuzda",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Çalışan gün içinde farklı yerlerde ve farklı işlerde bulunuyorsa sabit bir noktadan ölçüm yetersiz kalır.",
+    "Gürültü dozimetresi (noise dosimeter), çalışanın üzerine takılan ve vardiya boyunca maruziyeti biriktiren bir ölçerdir.",
+    {
+     "yazi": "Kişisel ses maruziyet ölçerlerinin performansı IEC 61252 standardıyla tanımlanır.",
+     "ses": "Kişisel ses maruziyet ölçerlerinin performansı ı e ce altmış bir bin iki yüz elli iki standardıyla tanımlanır."
+    },
+    "Mikrofon genellikle gürültü kaynağına yakın taraftaki omzun üstüne, kulağa yakın biçimde yerleştirilir.",
+    "Cihaz vardiya sonunda Leq, günlük maruziyet düzeyi, tepe değer ve doz yüzdesi gibi sonuçları verir.",
+    "Dozimetre çalışanın gerçek hareketlerini yansıtır; ama mikrofona çarpma ya da bağırma gibi yapay seslerden etkilenebilir.",
+    "Bu yüzden çalışana mikrofona dokunmaması anlatılır ve kayıt sonradan zaman içinde incelenir.",
+    "Dozimetre de vardiyadan önce ve sonra kalibratörle kontrol edilir."
+   ]
+  },
+  {
+   "id": "strateji",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Dozimetri",
+   "baslik": "Ölçüm *stratejileri*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Görev temelli",
+     "metin": "Görev düzeyi ve süresi",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "İş temelli",
+     "metin": "Gruptan örnekler",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Tam gün",
+     "metin": "Vardiya boyu dozimetre",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Mesleki gürültü ölçümü için uluslararası ISO 9612 standardı üç strateji tanımlar.",
+     "ses": "Mesleki gürültü ölçümü için uluslararası iso dokuz bin altı yüz on iki standardı üç strateji tanımlar."
+    },
+    "Görev temelli ölçümde iş günü görevlere bölünür ve her görevin düzeyi ile süresi ayrı ayrı belirlenir.",
+    "İş temelli ölçümde aynı işi yapan bir çalışan grubundan örnek ölçümler alınır.",
+    "Tam gün ölçümünde ise çalışan bütün vardiya boyunca dozimetreyle izlenir.",
+    "Seçim, işin ne kadar düzenli olduğuna ve çalışanın gün içinde ne kadar yer değiştirdiğine bağlıdır.",
+    "Hangi strateji seçilirse seçilsin, ölçüm belirsizliği de hesaplanır ve raporda belirtilir.",
+    "Görev temelli ölçüm, gürültüyü azaltmak için hangi işe öncelik verileceğini de gösterir."
+   ]
+  },
+  {
+   "id": "toplama",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Hesap ve yorum",
+   "baslik": "Desibeller *toplanmaz*",
+   "ogeler": [
+    {
+     "ikon": "fabrika",
+     "baslik": "İki makine",
+     "metin": "85 + 85 = 88 dB(A)",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Yüzde 100 doz",
+     "metin": "85 dB(A), 8 saat",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Her 3 dB",
+     "metin": "Doz iki katı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Desibeller aritmetik olarak toplanmaz; seslerin enerjileri toplanır.",
+    {
+     "yazi": "Örneğin 85 dB(A) ses üreten iki makine birlikte çalıştığında toplam yaklaşık 88 dB(A) olur, 170 değil.",
+     "ses": "Örneğin seksen beş desibel A ses üreten iki makine birlikte çalıştığında toplam yaklaşık seksen sekiz desibel A olur, yüz yetmiş değil."
+    },
+    "Dozimetrenin verdiği doz yüzdesi de aynı enerji ilkesine dayanır.",
+    {
+     "yazi": "Referans 85 dB(A) ve değişim oranı 3 desibel alındığında, sekiz saat boyunca 85 dB(A) yüzde 100 doz demektir.",
+     "ses": "Referans seksen beş desibel A ve değişim oranı üç desibel alındığında, sekiz saat boyunca seksen beş desibel A yüzde yüz doz demektir."
+    },
+    {
+     "yazi": "Her 3 desibellik artış dozu iki katına çıkarır: sekiz saat 88 dB(A) yüzde 200, 91 dB(A) yüzde 400 doz demektir.",
+     "ses": "Her üç desibellik artış dozu iki katına çıkarır: sekiz saat seksen sekiz desibel A yüzde iki yüz, doksan bir desibel A yüzde dört yüz doz demektir."
+    },
+    "Dozimetrenin referans düzeyi ve değişim oranı, hangi düzenlemeye göre ölçüm yapılıyorsa ona uygun ayarlanmalıdır.",
+    "Birlikte çalışan kaynaklardan en gürültülüsü toplam düzeyi belirler; bu yüzden azaltmaya en gürültülü kaynaktan başlanır."
+   ]
+  },
+  {
+   "id": "odyolog",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Hesap ve yorum",
+   "baslik": "Odyolog ve *ölçüm sonuçları*",
+   "maddeler": [
+    {
+     "metin": "Ölçüm çoğunlukla iş hijyeni alanı",
+     "cumle": 0,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Sonuçları okuyup yorumlamak",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Odyogram değişikliğiyle birlikte",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Koruyucu seçimine temel",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "gurultu_spektrumu",
+    "ayar": {
+     "tur": "pembe",
+     "gosterim": "oktav",
+     "oktav_cumle": 3
+    },
+    "cumle": 3,
+    "vurgula": [
+     {
+      "parca": "oktav_bantlari",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Gürültü ölçümü çoğunlukla iş hijyeni ve iş güvenliği uzmanlarının alanıdır.",
+    "Odyolog ise ölçüm sonuçlarını okuyabilmeli ve odyometrik bulgularla birlikte yorumlayabilmelidir.",
+    "Örneğin yüksek maruziyetli bir bölümde odyogram değişiklikleri kümeleniyorsa, programın gözden geçirilmesi gerekir.",
+    "Ölçüm sonuçları, ayrıca oktav bant analiziyle birlikte, kulak koruyucunun gereken zayıflatmasını belirlemek için de kullanılır.",
+    "Ölçüm ve odyometri sonuçlarının birlikte izlenmesi, işitme koruma programının etkinliğini değerlendirmeyi kolaylaştırır.",
+    "Kulak koruyucu türlerini ve gerçek koruma değerini bir sonraki derste ele alacağız."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Raporda yalnız sonucu değil, cihaz sınıfını, kalibrasyon kontrollerini, ağırlıklandırmayı, süreyi ve dozimetrenin referans ve değişim oranı ayarını yazın.",
+   "cumleler": [
+    "Bir klinik ipucu: ölçüm raporunda yalnız sonucu değil, ölçüm koşullarını da yazın.",
+    "Cihazın sınıfı, kalibrasyon kontrolleri, ağırlıklandırma ayarları ve ölçüm süresi raporda yer almalıdır.",
+    "Dozimetrede referans düzeyinin ve değişim oranının hangi değerlere ayarlandığı da mutlaka not edilir.",
+    "Bu bilgiler olmadan iki ölçümün sonucu güvenle karşılaştırılamaz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "A: maruziyet, C: tepe değer",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Leq: enerji ortalaması",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "LEX,8h: sekiz saate normalleştirilmiş",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Dozimetre: vardiya boyu kişisel ölçüm",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "Mesleki maruziyet A ağırlıklı, tepe ses basıncı ise C ağırlıklı ölçülür.",
+    "Leq dalgalanan sesin enerji ortalamasıdır; kısa süreli yüksek düzeyler onu belirgin biçimde yükseltir.",
+    "Günlük maruziyet düzeyi, çalışma süresindeki düzeyin sekiz saatlik güne normalleştirilmiş halidir.",
+    "Kişisel dozimetre vardiya boyunca maruziyeti biriktirir ve sonucu düzey ve doz yüzdesi olarak verir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "85 dB(A)'lık iki makine birlikte kaç dB(A) olur?",
+   "secenekler": [
+    "85",
+    "Yaklaşık 88",
+    "95",
+    "170"
+   ],
+   "dogru": 1,
+   "aciklama": "Enerji iki katına çıkar: _3 desibel_ artış.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: her biri 85 dB(A) ses üreten iki makine birlikte çalışınca toplam düzey yaklaşık kaçtır?",
+     "ses": "Kendinizi test edin: her biri seksen beş desibel A ses üreten iki makine birlikte çalışınca toplam düzey yaklaşık kaçtır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: yaklaşık 88 dB(A).",
+     "ses": "Doğru cevap B: yaklaşık seksen sekiz desibel A."
+    },
+    "Enerji iki katına çıkar ve bu 3 desibellik artış demektir; desibeller aritmetik olarak toplanmaz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitme koruyucular: tipler ve *gerçek koruma* değeri",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kulak koruyucu tiplerini ve sahadaki gerçek koruma değerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

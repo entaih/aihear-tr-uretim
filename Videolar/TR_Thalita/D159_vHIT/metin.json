@@ -1,0 +1,815 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D159_vHIT_TR",
+ "kapak": {
+  "ust": "DERS 159",
+  "baslik": "*vHIT*:<br>kazanç ve sakkad",
+  "alt": "Video baş itme testi, altı kanal",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Video Baş İtme Testi (vHIT): Kazanç ve Sakkadlar | Ders 159 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Video baş itme testini (vHIT) anlatıyoruz: VOR kazancının nasıl hesaplandığını, lateral kanalda normal kazancın genellikle yaklaşık 0,8 üzerinde olmasını, gizli ve açık sakkadları ve altı kanalın lateral, LARP ve RALP düzlemlerinde nasıl test edildiğini ele alıyoruz. Artefaktlar ve örnek bulgu örüntüleri de derste.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Halmagyi ve Curthoys, A Clinical Sign of Canal Paresis, Archives of Neurology (1988); MacDougall ve ark., The Video Head Impulse Test, Neurology (2009); Jacobson ve Shepard, Balance Function Assessment and Management.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vHIT",
+   "vestibüler"
+  ],
+  "etiketler": [
+   "vHIT",
+   "video head impulse test",
+   "video baş itme testi",
+   "VOR kazancı",
+   "VOR gain",
+   "covert saccade",
+   "overt saccade",
+   "gizli sakkad",
+   "açık sakkad",
+   "vestibüler değerlendirme",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 159",
+   "baslik": "Video baş itme testi (*vHIT*)",
+   "alt": "Kazanç ve sakkadlar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    {
+     "yazi": "Bu derste video baş itme testini, yani vHIT'i öğreneceğiz.",
+     "ses": "Bu derste video baş itme testini, yani vHIT'i öğreneceğiz."
+    },
+    "Vestibülo-oküler refleksin, kısaca VOR'un kazancının hesabını, gizli ve açık sakkadları ve altı kanalın testini ele alacağız."
+   ]
+  },
+  {
+   "id": "vor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Baş itme testinin ilkesi",
+   "baslik": "*VOR* ne yapar?",
+   "maddeler": [
+    {
+     "metin": "Baş hareketinde _görüntüyü sabit_ tutar",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Göz, başa _eşit ve ters_ yönde",
+     "cumle": 1,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Gecikme: yalnız _birkaç milisaniye_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Hızlı baş hareketinde _vazgeçilmez_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Vestibülo-oküler refleks, kısaca VOR, baş hareket ederken gözün görüntüyü retina üzerinde sabit tutmasını sağlar.",
+    "Baş sağa döndüğünde gözler aynı hızda sola döner; böylece bakılan hedef yerinde kalır.",
+    "Bu refleks çok hızlıdır; baş hareketinden yalnız birkaç milisaniye sonra başlar.",
+    "Yürürken ya da başımızı hızla çevirdiğimizde net görebilmemizi bu refleks sağlar.",
+    "VOR bozulduğunda kişi baş hareketleri sırasında görüntünün kaydığını ya da bulanıklaştığını fark edebilir."
+   ]
+  },
+  {
+   "id": "hit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Baş itme testinin ilkesi",
+   "baslik": "Baş itme *testi*",
+   "maddeler": [
+    {
+     "metin": "Küçük, hızlı ve _beklenmedik_ hareket",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Sağlam VOR: göz _hedefte kalır_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Zayıf VOR: _düzeltici sakkad_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bazı sakkadlar _çıplak gözle_ görülmez",
+     "cumle": 5,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Baş itme testi, 1988 yılında Halmagyi ve Curthoys tarafından tanımlanan bir yatak başı testtir.",
+     "ses": "Baş itme testi, bin dokuz yüz seksen sekiz yılında Halmagyi ve Curthoys tarafından tanımlanan bir yatak başı testtir."
+    },
+    "Hasta karşıdaki bir hedefe bakarken baş küçük bir açıyla, çok hızlı ve beklenmedik biçimde bir yana çevrilir.",
+    "VOR sağlamsa gözler hareket boyunca hedefte kalır.",
+    "VOR zayıfsa gözler başla birlikte kayar ve hasta hedefi yeniden yakalamak için hızlı bir göz hareketi yapar.",
+    "Bu göz hareketine düzeltici sakkad denir; zayıf taraf, başın çevrildiği taraftır.",
+    "Ancak bazı sakkadlar baş hareketi sırasında oluştuğu için çıplak gözle görülemez; video yöntemi bu yüzden geliştirilmiştir."
+   ]
+  },
+  {
+   "id": "kanal",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Baş itme testinin ilkesi",
+   "baslik": "Hangi *kanal* uyarılır?",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "Yarım daire kanalları",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "metin": "Lateral kanal: sağa itmede",
+     "cumle": 1
+    },
+    {
+     "parca": "ampulla",
+     "metin": "Ampulla",
+     "cumle": 1
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Vestibüler sinir",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yüksek frekanslı uyarı",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Her yarım daire kanalı, kendi düzlemindeki baş dönmesini algılar.",
+    "Baş itme testinde başın döndüğü taraftaki kanal uyarılır; örneğin sağa itmede sağ lateral kanal test edilir.",
+    "Hızlı hareketlerde karşı taraftaki kanalın katkısı sınırlı kaldığı için yanıt büyük ölçüde uyarılan kanala aittir.",
+    "Bu yüzden test, her kanalı ayrı ayrı değerlendirmeye olanak verir.",
+    "Uyarı, günlük baş hareketlerine benzer yüksek frekanslı bir uyarıdır; kalorik testin düşük frekanslı uyarısından farklıdır."
+   ]
+  },
+  {
+   "id": "sistem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "VOR kazancı",
+   "baslik": "*vHIT* sistemi",
+   "maddeler": [
+    {
+     "metin": "Hafif gözlükte _yüksek hızlı kamera_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Baş hızı: _hareket sensörü_",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Göz ve baş hızı _karşılaştırılır_",
+     "cumle": 2,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Kısa sürer, _iyi tolere_ edilir",
+     "cumle": 3,
+     "ikon": "hasta"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Video baş itme testi, kısaca vHIT, hafif bir gözlüğe yerleştirilmiş yüksek hızlı bir kamera ile yapılır.",
+     "ses": "Video baş itme testi, kısaca vHIT, hafif bir gözlüğe yerleştirilmiş yüksek hızlı bir kamera ile yapılır."
+    },
+    "Kamera gözün hareketini kaydederken, gözlükteki hareket sensörü başın hızını ölçer.",
+    "Yazılım her baş itmesinde göz hızını baş hızıyla karşılaştırır.",
+    "Test genellikle kısa sürer ve kalorik teste göre hastalar tarafından daha kolay tolere edilir.",
+    "Böylece çıplak gözle görülemeyen sakkadlar da kayda geçer."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "VOR kazancı",
+   "baslik": "*VOR kazancı*",
+   "maddeler": [
+    {
+     "metin": "Kazanç = göz hızı / _baş hızı_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İdeal değer: yaklaşık _1_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Lateral kanal: normalde yaklaşık _0,8 üzeri_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Dikey kanallar: sınır genellikle _daha düşük_",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Hesap yöntemi _cihaza göre_ değişir",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "cumleler": [
+    "VOR kazancı, göz hızının baş hızına oranıdır.",
+    "Göz başın hareketini tam olarak telafi ederse kazanç bire yakındır.",
+    {
+     "yazi": "Lateral kanal için kazancın normalde yaklaşık 0,8'in üzerinde olması beklenir.",
+     "ses": "Lateral kanal için kazancın normalde yaklaşık sıfır virgül sekizin üzerinde olması beklenir."
+    },
+    {
+     "yazi": "Dikey kanallarda normal sınır genellikle daha düşüktür, örneğin yaklaşık 0,7.",
+     "ses": "Dikey kanallarda normal sınır genellikle daha düşüktür, örneğin yaklaşık sıfır virgül yedi."
+    },
+    "Bazı cihazlar kazancı eğri altındaki alanla, bazıları belirli anlardaki hızlarla hesaplar; bu yüzden cihaza özgü normlar kullanılır.",
+    "Kazanç tek başına yeterli değildir; her zaman sakkadlarla birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "VOR kazancı",
+   "baslik": "Örnek *kazanç* değerleri",
+   "sutunlar": [
+    "Kanal",
+    "Sağ",
+    "Sol"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Lateral",
+      "0,95",
+      "0,52"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Ön",
+      "0,88",
+      "0,55"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Arka",
+      "0,85",
+      "0,82"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek bir sonuç tablosuna bakalım.",
+    {
+     "yazi": "Bu örnekte sağ lateral kanal kazancı 0,95, sol lateral kanal kazancı ise 0,52.",
+     "ses": "Bu örnekte sağ lateral kanal kazancı sıfır virgül doksan beş, sol lateral kanal kazancı ise sıfır virgül elli iki."
+    },
+    "Sol lateral kanal kazancı belirgin düşüktür ve sola yapılan itmelerde düzeltici sakkadlar da görülüyor.",
+    {
+     "yazi": "Sol ön kanal kazancı da 0,55 ile düşük.",
+     "ses": "Sol ön kanal kazancı da sıfır virgül elli beş ile düşük."
+    },
+    "Sol arka kanal ise normal sınırlarda kalmış.",
+    "Bu örüntü, superior vestibüler sinirin taşıdığı kanalların etkilendiği, inferior bölümün korunduğu bir tabloyla uyumludur."
+   ]
+  },
+  {
+   "id": "sakkadlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sakkadlar",
+   "baslik": "*Gizli* ve açık sakkad",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Gizli sakkad",
+     "metin": "Baş hareketi sırasında, yalnız videoyla",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Açık sakkad",
+     "metin": "Baş durduktan sonra, gözle görülür",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Düzeltici sakkadlar zamanlamalarına göre iki gruba ayrılır.",
+    "Gizli sakkad (covert saccade), baş hareketi henüz sürerken ortaya çıkar.",
+    "Bu yüzden yatak başı testte çıplak gözle görülmez ve ancak video kaydıyla saptanır.",
+    "Açık sakkad (overt saccade) ise baş durduktan sonra ortaya çıkar ve gözlemci tarafından görülebilir.",
+    "Her iki sakkad türü de o taraftaki VOR'un yetersiz olduğunu gösterir.",
+    "Yalnız açık sakkadlara bakan bir yatak başı test, gizli sakkadı olan hastayı normal sanabilir."
+   ]
+  },
+  {
+   "id": "kompanzasyon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sakkadlar",
+   "baslik": "Sakkadlar ve *kompanzasyon*",
+   "maddeler": [
+    {
+     "metin": "Zamanla sakkadlar _erkene_ kayabilir",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sakkadlar _toplanır_, tutarlı hale gelir",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kazanç _düşük kalabilir_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Seri kayıtlarla _izlem_",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Tek taraflı bir vestibüler kayıptan sonra beyin zamanla durumu telafi etmeye çalışır; buna kompanzasyon denir.",
+    "Bu süreçte sakkadlar baş hareketinin içine, yani erkene kayabilir ve gizli sakkada dönüşebilir.",
+    "Sakkadların her itmede benzer zamanda ortaya çıkması, yani toplanması, iyi kompanzasyonla ilişkilendirilmiştir.",
+    "Kompanzasyon sırasında kazanç düşük kalsa bile hastanın yakınmaları azalabilir.",
+    {
+     "yazi": "Bu nedenle seri vHIT kayıtları, iyileşme ve kompanzasyon sürecinin izlenmesinde yararlıdır.",
+     "ses": "Bu nedenle seri vHIT kayıtları, iyileşme ve kompanzasyon sürecinin izlenmesinde yararlıdır."
+    }
+   ]
+  },
+  {
+   "id": "lateral",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Altı kanal",
+   "baslik": "Lateral kanal *testi*",
+   "maddeler": [
+    {
+     "metin": "Baş yaklaşık _30 derece_ öne eğik",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Hedef yaklaşık _1 metre_ uzakta",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Küçük açı: yaklaşık _10 ile 20 derece_",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Yön ve zaman _tahmin edilemez_",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Her yönde _yeterli sayıda_ itme",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Lateral kanal testinde baş yaklaşık otuz derece öne eğilir; böylece lateral kanallar yere paralel hale gelir.",
+    "Hasta genellikle yaklaşık bir metre uzaktaki bir hedefe bakar.",
+    "Baş yaklaşık on ile yirmi derecelik küçük bir açıyla, çok hızlı biçimde sağa ya da sola itilir.",
+    "İtmelerin yönü ve zamanı hasta tarafından tahmin edilemeyecek biçimde değiştirilir.",
+    "Her yön için yeterli sayıda, genellikle yaklaşık on ile yirmi geçerli itme toplanır.",
+    "Yazılım baş hızı yetersiz kalan itmeleri ayırt etmeye yardım eder; yavaş itmeler değerlendirmeyi zayıflatır."
+   ]
+  },
+  {
+   "id": "dikey",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Altı kanal",
+   "baslik": "Dikey kanal *düzlemleri*",
+   "sutunlar": [
+    "Düzlem",
+    "Baş konumu",
+    "İtme yönü",
+    "Uyarılan kanal"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "LARP",
+      "45 derece sağa",
+      "Çene aşağı",
+      "Sol ön"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "LARP",
+      "45 derece sağa",
+      "Çene yukarı",
+      "Sağ arka"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "RALP",
+      "45 derece sola",
+      "Çene aşağı",
+      "Sağ ön"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "RALP",
+      "45 derece sola",
+      "Çene yukarı",
+      "Sol arka"
+     ],
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Dikey kanallar, karşılıklı çiftler halinde aynı düzlemde bulunur.",
+    "LARP düzlemi sol ön ve sağ arka kanalı içerir; bu düzlem için baş yaklaşık kırk beş derece sağa çevrilir.",
+    "RALP düzleminde ise sağ ön ve sol arka kanal bulunur ve baş yaklaşık kırk beş derece sola çevrilir.",
+    "Bu konumda baş çene aşağı gelecek biçimde itildiğinde ön kanal, çene yukarı gelecek biçimde itildiğinde arka kanal uyarılır.",
+    "Hasta bu sırada bakışını karşıdaki hedefte tutar.",
+    "Dikey kanal testi teknik olarak daha zordur; bu yüzden deneyim ve dikkat gerektirir."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Altı kanal",
+   "baslik": "Sinirin iki *bölümü*",
+   "cizim": "vestibuler",
+   "vurgula": [
+    {
+     "parca": "vestibuler_sinir",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 2
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "Superior ve inferior bölüm",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "metin": "Superior: lateral kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_kanal",
+     "metin": "Superior: ön kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "utrikul",
+     "metin": "Superior: utrikül",
+     "cumle": 1
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "İnferior: arka kanal",
+     "cumle": 2
+    },
+    {
+     "parca": "sakkul",
+     "metin": "İnferior: sakkül",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Vestibüler sinirin superior ve inferior olmak üzere iki ana bölümü vardır.",
+    "Superior bölüm lateral ve ön kanalı ve utrikülü taşır.",
+    "İnferior bölüm ise arka kanalı ve sakkülün büyük kısmını taşır.",
+    "Bu yüzden altı kanalın ayrı ayrı test edilmesi, etkilenen sinir bölümünü anlamaya yardım eder.",
+    "Kalorik test yalnız lateral kanalı değerlendirdiği için, örneğin yalnız arka kanalı etkileyen bir sorunu gösteremez."
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Teknik ve yorum",
+   "baslik": "*Artefaktlar*",
+   "maddeler": [
+    {
+     "metin": "Gözlük kayması: _yalancı_ kazanç",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "_Göz kırpma_ ve kapak örtmesi",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_Tahmin edilebilir_ itmeler",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Hedefe bakmama, _gergin_ boyun",
+     "cumle": 4,
+     "ikon": "agri"
+    }
+   ],
+   "cumleler": [
+    "Gözlüğün başta kayması en sık artefakttır ve kazancın yalancı biçimde yüksek ya da düşük çıkmasına yol açabilir.",
+    "Kayma çoğu zaman birin belirgin üzerinde kazanç ve dalgalanan, düzensiz göz hızı izleriyle kendini belli eder.",
+    "Göz kırpma ve özellikle aşağı yönlü itmelerde üst göz kapağının gözbebeğini örtmesi kaydı bozabilir.",
+    "Tahmin edilebilir zamanlama, hastanın önceden göz hareketi yapmasına ve yanıltıcı sakkadlara yol açabilir.",
+    "Hastanın hedefe bakmayı sürdürmemesi ve gergin bir boyun da kaydın kalitesini düşürür.",
+    "Artefaktlı itmeler ayıklanmadan yapılan yorum yanlış sonuca götürebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Gözlüğü sıkıca takın, kalibrasyonu yapın ve izleri tek tek inceleyin. Yalnız kazanç sayısına bakarak karar vermeyin.",
+   "cumleler": [
+    "Bir klinik ipucu: teste başlamadan önce gözlüğü sıkıca takın ve kalibrasyonu dikkatle yapın.",
+    "Kayıttan sonra yalnız ekrandaki kazanç sayısına bakmayın; baş ve göz hızı izlerini tek tek inceleyin.",
+    "Normal kazanç ile birlikte tekrarlayan ve tutarlı sakkadlar varsa bulgu anlamlı olabilir.",
+    "Tersine, birin çok üzerinde kazanç görüyorsanız önce gözlük kaymasını düşünün."
+   ]
+  },
+  {
+   "id": "oruntuler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Teknik ve yorum",
+   "baslik": "Örnek *örüntüler*",
+   "sutunlar": [
+    "Durum",
+    "Tipik vHIT bulgusu"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Superior vestibüler nörit",
+      "Lateral ve ön düşük"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "İnferior vestibüler nörit",
+      "Yalnız arka düşük"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "İki taraflı kayıp",
+      "Tüm kanallar düşük"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Meniere hastalığı",
+      "Çoğu zaman normal"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Akut vestibüler sendrom",
+      "Normal: santral uyarı"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Superior vestibüler nöritte genellikle etkilenen taraftaki lateral ve ön kanal kazancı düşer.",
+    "Daha nadir görülen inferior tutulumda ise yalnız arka kanal etkilenebilir.",
+    "İki taraflı vestibüler kayıpta her iki taraftaki kanallarda düşük kazanç ve sakkadlar görülür.",
+    {
+     "yazi": "Meniere hastalığında kalorik yanıt azalmışken vHIT çoğu zaman normal kalabilir.",
+     "ses": "Meniere hastalığında kalorik yanıt azalmışken vHIT çoğu zaman normal kalabilir."
+    },
+    "Akut ve sürekli baş dönmesi olan hastada normal baş itme testi santral bir nedeni düşündürebilir ve acil hekim değerlendirmesi gerektirir.",
+    "Bu örüntüler örnektir; yorum öykü ve diğer testlerle birlikte yapılır."
+   ]
+  },
+  {
+   "id": "kalorik_vhit",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Teknik ve yorum",
+   "baslik": "Kalorik ve *vHIT*",
+   "sol": {
+    "ust": "Kalorik",
+    "maddeler": [
+     {
+      "metin": "Düşük frekanslı uyarı",
+      "cumle": 1
+     },
+     {
+      "metin": "Yalnız lateral kanal",
+      "cumle": 2
+     },
+     {
+      "metin": "Uzun sürer, bulantı yapabilir",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "vHIT",
+    "maddeler": [
+     {
+      "metin": "Yüksek frekanslı uyarı",
+      "cumle": 1
+     },
+     {
+      "metin": "Altı kanalın tamamı",
+      "cumle": 2
+     },
+     {
+      "metin": "Hızlı ve iyi tolere edilir",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Kalorik test ve vHIT birbirinin yerine geçmez; birbirini tamamlar.",
+     "ses": "Kalorik test ve vHIT birbirinin yerine geçmez; birbirini tamamlar."
+    },
+    {
+     "yazi": "Kalorik test düşük frekanslı, vHIT ise yüksek frekanslı VOR işlevini değerlendirir.",
+     "ses": "Kalorik test düşük frekanslı, vHIT ise yüksek frekanslı VOR işlevini değerlendirir."
+    },
+    {
+     "yazi": "Kalorik test yalnız lateral kanalı, vHIT ise altı kanalın tamamını inceleyebilir.",
+     "ses": "Kalorik test yalnız lateral kanalı, vHIT ise altı kanalın tamamını inceleyebilir."
+    },
+    "Bu nedenle iki testin sonuçları her zaman aynı yönde çıkmayabilir.",
+    "Bu ayrışmanın klinik anlamını ilerideki bir derste ayrıntılı ele alacağız."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kazanç = göz hızı / _baş hızı_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Lateral kanal: normalde yaklaşık _0,8 üzeri_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Gizli ve açık _sakkadlar_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Altı kanal: _lateral_, LARP, RALP",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "cumleler": [
+    "VOR kazancı göz hızının baş hızına oranıdır ve ideal değeri bire yakındır.",
+    {
+     "yazi": "Lateral kanal kazancı normalde yaklaşık 0,8'in üzerindedir; dikey kanallarda sınır genellikle daha düşüktür.",
+     "ses": "Lateral kanal kazancı normalde yaklaşık sıfır virgül sekizin üzerindedir; dikey kanallarda sınır genellikle daha düşüktür."
+    },
+    "Gizli sakkadlar baş hareketi sırasında, açık sakkadlar baş durduktan sonra ortaya çıkar.",
+    "Altı kanal lateral, LARP ve RALP düzlemlerinde ayrı ayrı test edilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Baş hareketi sırasında oluşan, gözle görülmeyen sakkad?",
+   "secenekler": [
+    "Açık sakkad",
+    "Gizli sakkad",
+    "Optokinetik nistagmus"
+   ],
+   "dogru": 1,
+   "aciklama": "Gizli (covert) sakkad baş hareketi sürerken oluşur; yalnız _video kaydıyla_ görülür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Baş hareketi sürerken ortaya çıkan ve çıplak gözle görülemeyen düzeltici sakkada ne ad verilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: gizli sakkad.",
+    {
+     "yazi": "Gizli sakkadlar ancak video kaydıyla saptanabilir; bu, vHIT'in en önemli katkılarından biridir.",
+     "ses": "Gizli sakkadlar ancak video kaydıyla saptanabilir; bu, vHIT'in en önemli katkılarından biridir."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*VEMP* testleri: cVEMP ve oVEMP",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "Bir sonraki derste otolit organlarını değerlendiren VEMP testlerini, yani cVEMP ve oVEMP'i öğreneceğiz.",
+     "ses": "Bir sonraki derste otolit organlarını değerlendiren VEMP testlerini, yani servikal ve oküler VEMP'i öğreneceğiz."
+    },
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

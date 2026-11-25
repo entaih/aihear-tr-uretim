@@ -1,0 +1,107 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R442_Bechterew_Olayi_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #442",
+  "baslik": "Bechterew *olayı*",
+  "alt": "Kompanzasyon merkezi bir süreç",
+  "cizim": "beyin_sapi_vestibuler",
+  "vurgula": [
+   "vestibuler_cekirdekler"
+  ],
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kompanze olmuş bir kayıptan sonra sağlam labirent de kaybedilirse ne olur? #shorts",
+  "aciklama": "Bechterew olayında, hayvan deneylerinde ilk tek taraflı kayıp kompanze olduktan sonra sağlam labirent de devre dışı kalınca ters yönlü yeni bir nistagmus başlar. Bu, beynin ilk kaybı merkezde dengelediğini, ikinci kaybın ise bu yeni dengeyi bozduğunu gösterir; yani vestibüler kompanzasyon merkezi bir süreçtir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "denge",
+   "vestibüler"
+  ],
+  "etiketler": [
+   "Bechterew olayı",
+   "vestibüler kompanzasyon",
+   "nistagmus",
+   "vestibüler çekirdekler",
+   "merkezi plastisite",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kompanze olmuş bir kayıptan sonra sağlam labirent de kaybedilirse ne olur?",
+  "bilgiler": [
+   "İlk kayıp kompanze olduktan sonra sağlam labirent de kaybedilir.",
+   "Ters yönlü yeni bir nistagmus başlar.",
+   "Kompanzasyon merkezi bir süreçtir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "denge",
+   "vestibüler"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #442",
+   "metin": "İkinci *kayıp?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kompanze olmuş bir kayıptan sonra sağlam labirent de kaybedilirse ne olur?"
+   ]
+  },
+  {
+   "id": "bechterew",
+   "tur": "zincir",
+   "baslik": "Bechterew *olayı*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "İlk kayıp",
+     "tr": "kompanze olur",
+     "cumle": 0
+    },
+    {
+     "ad": "İkinci kayıp",
+     "tr": "sağlam labirent",
+     "cumle": 1
+    },
+    {
+     "ad": "Nistagmus",
+     "tr": "ters yönde",
+     "cumle": 1,
+     "gecikme": 0.6
+    }
+   ],
+   "alt": "Denge _merkezde_",
+   "alt_cumle": 2,
+   "cumleler": [
+    "Hayvan deneylerinde önce tek taraflı bir kayıp kompanze olur.",
+    "Sonra sağlam labirent de devre dışı kalınca ters yönlü nistagmus başlar.",
+    "Beyin ilk kaybı merkezde dengelemiştir; ikinci kayıp bu dengeyi bozar.",
+    "Bu, kompanzasyonun merkezi bir süreç olduğunu gösterir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D258",
+ "kaynak_baslik": "Vestibüler kompanzasyon"
+}

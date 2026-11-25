@@ -1,0 +1,1130 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D073_Konusma_Uretimi_TR",
+ "kapak": {
+  "ust": "DERS 73",
+  "baslik": "Konuşma nasıl<br>*üretilir?*",
+  "alt": "Solunum, ses ve artikülasyon",
+  "cizim": "kaynak_suzgec"
+ },
+ "youtube": {
+  "baslik": "Konuşma Nasıl Üretilir? Solunum, Ses ve Artikülasyon | Ders 73 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Konuşma hangi sistemlerin iş birliğiyle oluşur? Bu derste konuşma solunumunu, larynx ve ses telleriyle sesin oluşumunu, perde ve şiddetin denetimini, ses yolunun rezonansını, velumun rolünü, artikülatörleri ve eşsesletimi, son olarak da işitsel geri bildirimin konuşmadaki yerini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Raphael, Borden ve Harris, Speech Science Primer: Physiology, Acoustics, and Perception of Speech; Titze, Principles of Voice Production; Fant, Acoustic Theory of Speech Production; Ladefoged, A Course in Phonetics.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "konuşma",
+   "konuşmabilimi"
+  ],
+  "etiketler": [
+   "konuşma üretimi",
+   "larynx",
+   "gırtlak",
+   "ses telleri",
+   "plicae vocales",
+   "fonasyon",
+   "artikülasyon",
+   "articulation",
+   "rezonans",
+   "Lombard etkisi",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 73",
+   "baslik": "Konuşma nasıl *üretilir?*",
+   "alt": "Solunum, ses ve artikülasyon",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste kulaktan konuşmaya geçiyor ve konuşmanın nasıl üretildiğini öğreniyoruz.",
+    "Solunumu, sesin gırtlakta oluşumunu, rezonansı ve artikülasyonu sırayla görecek; sonunda işitmenin konuşmadaki rolüne değineceğiz."
+   ]
+  },
+  {
+   "id": "sistemler",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Solunum ve ses",
+   "baslik": "Konuşmanın *dört* alt sistemi",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Solunum",
+     "metin": "Hava akımı, enerji",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Fonasyon",
+     "metin": "Ses telleri titreşir",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Rezonans",
+     "metin": "Ses yolu süzer",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Artikülasyon",
+     "metin": "Sesler biçimlenir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Konuşma, birlikte çalışan dört alt sistemin ürünüdür.",
+    "Solunum sistemi, konuşmanın enerji kaynağı olan hava akımını sağlar.",
+    {
+     "yazi": "Larynx, yani gırtlak, bu hava akımını titreşimli bir sese çevirir; buna fonasyon denir.",
+     "ses": "Larinks, yani gırtlak, bu hava akımını titreşimli bir sese çevirir; buna fonasyon denir."
+    },
+    {
+     "yazi": "Bu titreşimi gırtlağın içindeki plicae vocales, yani ses telleri üretir.",
+     "ses": "Bu titreşimi gırtlağın içindeki plike vokales, yani ses telleri üretir."
+    },
+    "Ses yolundaki boşluklar bu sesi süzer ve biçimlendirir; buna rezonans denir.",
+    "Dil, dudaklar, çene ve yumuşak damak ise sesi konuşma seslerine dönüştürür; buna artikülasyon (articulation) denir.",
+    "Bütün bu hareketler beyin tarafından milisaniyeler düzeyinde eşgüdümlenir ve işitmeyle sürekli denetlenir."
+   ]
+  },
+  {
+   "id": "solunum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Solunum ve ses",
+   "baslik": "Konuşma *solunumu*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Zaman (s)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "yazisiz": true,
+     "isaretler": [],
+     "ad": "Akciğer hacmi"
+    },
+    "seriler": [
+     {
+      "ad": "sessiz",
+      "noktalar": [
+       [
+        0.0,
+        0.35
+       ],
+       [
+        0.2,
+        0.36
+       ],
+       [
+        0.4,
+        0.387
+       ],
+       [
+        0.6,
+        0.427
+       ],
+       [
+        0.8,
+        0.475
+       ],
+       [
+        1.0,
+        0.523
+       ],
+       [
+        1.2,
+        0.563
+       ],
+       [
+        1.4,
+        0.59
+       ],
+       [
+        1.6,
+        0.6
+       ],
+       [
+        1.75,
+        0.598
+       ],
+       [
+        1.9,
+        0.59
+       ],
+       [
+        2.05,
+        0.579
+       ],
+       [
+        2.2,
+        0.563
+       ],
+       [
+        2.35,
+        0.544
+       ],
+       [
+        2.5,
+        0.523
+       ],
+       [
+        2.65,
+        0.499
+       ],
+       [
+        2.8,
+        0.475
+       ],
+       [
+        2.95,
+        0.451
+       ],
+       [
+        3.1,
+        0.427
+       ],
+       [
+        3.25,
+        0.406
+       ],
+       [
+        3.4,
+        0.387
+       ],
+       [
+        3.55,
+        0.371
+       ],
+       [
+        3.7,
+        0.36
+       ],
+       [
+        3.85,
+        0.352
+       ],
+       [
+        4.0,
+        0.35
+       ],
+       [
+        4.0,
+        0.35
+       ],
+       [
+        4.2,
+        0.36
+       ],
+       [
+        4.4,
+        0.387
+       ],
+       [
+        4.6,
+        0.427
+       ],
+       [
+        4.8,
+        0.475
+       ],
+       [
+        5.0,
+        0.523
+       ],
+       [
+        5.2,
+        0.563
+       ],
+       [
+        5.4,
+        0.59
+       ],
+       [
+        5.6,
+        0.6
+       ],
+       [
+        5.75,
+        0.598
+       ],
+       [
+        5.9,
+        0.59
+       ],
+       [
+        6.05,
+        0.579
+       ],
+       [
+        6.2,
+        0.563
+       ],
+       [
+        6.35,
+        0.544
+       ],
+       [
+        6.5,
+        0.523
+       ],
+       [
+        6.65,
+        0.499
+       ],
+       [
+        6.8,
+        0.475
+       ],
+       [
+        6.95,
+        0.451
+       ],
+       [
+        7.1,
+        0.427
+       ],
+       [
+        7.25,
+        0.406
+       ],
+       [
+        7.4,
+        0.387
+       ],
+       [
+        7.55,
+        0.371
+       ],
+       [
+        7.7,
+        0.36
+       ],
+       [
+        7.85,
+        0.352
+       ],
+       [
+        8.0,
+        0.35
+       ],
+       [
+        8.0,
+        0.35
+       ],
+       [
+        8.2,
+        0.36
+       ],
+       [
+        8.4,
+        0.387
+       ],
+       [
+        8.6,
+        0.427
+       ],
+       [
+        8.8,
+        0.475
+       ],
+       [
+        9.0,
+        0.523
+       ],
+       [
+        9.2,
+        0.563
+       ],
+       [
+        9.4,
+        0.59
+       ],
+       [
+        9.6,
+        0.6
+       ],
+       [
+        9.75,
+        0.598
+       ],
+       [
+        9.9,
+        0.59
+       ],
+       [
+        10,
+        0.583
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "kalin": 4,
+      "cumle": 2,
+      "etiket": "sessiz solunum",
+      "etiket_konum": [
+       8.6,
+       0.6
+      ],
+      "etiket_dx": 6,
+      "etiket_dy": -12
+     },
+     {
+      "ad": "konusma",
+      "noktalar": [
+       [
+        0.0,
+        0.2
+       ],
+       [
+        0.06,
+        0.229
+       ],
+       [
+        0.12,
+        0.31
+       ],
+       [
+        0.19,
+        0.431
+       ],
+       [
+        0.25,
+        0.575
+       ],
+       [
+        0.31,
+        0.719
+       ],
+       [
+        0.38,
+        0.84
+       ],
+       [
+        0.44,
+        0.921
+       ],
+       [
+        0.5,
+        0.95
+       ],
+       [
+        0.78,
+        0.943
+       ],
+       [
+        1.06,
+        0.921
+       ],
+       [
+        1.34,
+        0.887
+       ],
+       [
+        1.62,
+        0.84
+       ],
+       [
+        1.91,
+        0.783
+       ],
+       [
+        2.19,
+        0.719
+       ],
+       [
+        2.47,
+        0.648
+       ],
+       [
+        2.75,
+        0.575
+       ],
+       [
+        3.03,
+        0.502
+       ],
+       [
+        3.31,
+        0.431
+       ],
+       [
+        3.59,
+        0.367
+       ],
+       [
+        3.88,
+        0.31
+       ],
+       [
+        4.16,
+        0.263
+       ],
+       [
+        4.44,
+        0.229
+       ],
+       [
+        4.72,
+        0.207
+       ],
+       [
+        5.0,
+        0.2
+       ],
+       [
+        5.0,
+        0.2
+       ],
+       [
+        5.06,
+        0.229
+       ],
+       [
+        5.12,
+        0.31
+       ],
+       [
+        5.19,
+        0.431
+       ],
+       [
+        5.25,
+        0.575
+       ],
+       [
+        5.31,
+        0.719
+       ],
+       [
+        5.38,
+        0.84
+       ],
+       [
+        5.44,
+        0.921
+       ],
+       [
+        5.5,
+        0.95
+       ],
+       [
+        5.78,
+        0.943
+       ],
+       [
+        6.06,
+        0.921
+       ],
+       [
+        6.34,
+        0.887
+       ],
+       [
+        6.62,
+        0.84
+       ],
+       [
+        6.91,
+        0.783
+       ],
+       [
+        7.19,
+        0.719
+       ],
+       [
+        7.47,
+        0.648
+       ],
+       [
+        7.75,
+        0.575
+       ],
+       [
+        8.03,
+        0.502
+       ],
+       [
+        8.31,
+        0.431
+       ],
+       [
+        8.59,
+        0.367
+       ],
+       [
+        8.88,
+        0.31
+       ],
+       [
+        9.16,
+        0.263
+       ],
+       [
+        9.44,
+        0.229
+       ],
+       [
+        9.72,
+        0.207
+       ],
+       [
+        10.0,
+        0.2
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 5,
+      "cumle": 3,
+      "etiket": "konuşurken",
+      "etiket_konum": [
+       0.5,
+       0.95
+      ],
+      "etiket_dx": 10,
+      "etiket_dy": -12
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "verme",
+      "x": [
+       0.5,
+       5
+      ],
+      "y": 1.08,
+      "etiket": "uzun soluk verme: konuşma",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "konusma",
+     "cumle": 3
+    },
+    {
+     "parca": "verme",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Konuşmanın enerjisi akciğerlerden gelen hava akımıdır; sesleri büyük ölçüde soluk verirken üretiriz.",
+    {
+     "yazi": "Soluk alırken diaphragma, yani diyafram kası kasılıp aşağı iner; göğüs boşluğu genişler ve hava içeri dolar.",
+     "ses": "Soluk alırken diyafragma, yani diyafram kası kasılıp aşağı iner; göğüs boşluğu genişler ve hava içeri dolar."
+    },
+    "Sessiz solunumda soluk alma ve verme süreleri birbirine yakındır; soluk alma döngünün yaklaşık yüzde kırkını kaplar.",
+    "Konuşurken ise soluk hızla alınır ve uzun bir soluk verme boyunca konuşulur; soluk alma döngünün yaklaşık yüzde onuna iner.",
+    "Konuşma için ses tellerinin altında sabit bir basınç kurulmalıdır; buna subglottik basınç denir.",
+    "Olağan konuşmada bu basınç yaklaşık beş ile on santimetre su düzeyindedir; yüksek sesle konuşurken artar.",
+    "Bu basıncı artırmak sesin şiddetini artırır; bu yüzden solunum desteği, ses yüksekliğinin temel kaynağıdır."
+   ]
+  },
+  {
+   "id": "fonasyon",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Solunum ve ses",
+   "baslik": "Ses telleri *nasıl* titreşir?",
+   "cumleler": [
+    {
+     "yazi": "Larynx, soluk borusunun üst ucunda yer alan ve kıkırdaklardan oluşan bir yapıdır.",
+     "ses": "Larinks, soluk borusunun üst ucunda yer alan ve kıkırdaklardan oluşan bir yapıdır."
+    },
+    "İçinde sağlı sollu iki ses teli bulunur; aralarındaki boşluğa glottis denir.",
+    "Soluk alırken glottis açılır; konuşmaya başlarken ses telleri birbirine yaklaşır ve glottis kapanır.",
+    "Kapalı tellerin altında hava basıncı yükselir; basınç telleri iterek aralar ve kısa bir hava atımı dışarı çıkar.",
+    "Teller, kendi esneklikleri ve hızla geçen havanın yarattığı emme etkisiyle, yani Bernoulli etkisiyle yeniden kapanır.",
+    "Bu döngü saniyede yüzlerce kez tekrar eder; bu açıklamaya miyoelastik aerodinamik kuram denir.",
+    "Döngünün tekrar hızı temel frekanstır; her kapanış bir basınç atımı yarattığı için kaynak ses, temel frekans ve harmoniklerinden oluşur."
+   ],
+   "cizim": "larinks_ustten",
+   "ayar": {
+    "kapanma_cumle": 2,
+    "titresim_cumle": 3,
+    "bernoulli_cumle": 4,
+    "f0_cumle": 6
+   },
+   "notlar": [
+    {
+     "metin": "Teller kapanır: _Glottis kapalı_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Teller açılır: _Hava atımı çıkar_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Yeniden kapanır: _Esneklik ve emme_",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "ses_telleri",
+     "metin": "ses telleri",
+     "cumle": 1
+    },
+    {
+     "parca": "glottis",
+     "metin": "glottis",
+     "cumle": 1
+    }
+   ]
+  },
+  {
+   "id": "perde",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Solunum ve ses",
+   "baslik": "Perde ve *şiddet* ayarı",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Gerginlik artar",
+     "metin": "Temel frekans yükselir",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Kütle büyük",
+     "metin": "Erkekte daha pes",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Basınç artar",
+     "metin": "Ses yükselir",
+     "cumle": 4
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Fısıltı",
+     "metin": "Titreşim yok, türbülans",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Sesimizin perdesini ve şiddetini ses tellerini ayarlayarak değiştiririz.",
+    "Ses telleri gerilip uzadıkça daha hızlı titreşir ve temel frekans yükselir; bu ayarda krikotiroid kas önemli rol oynar.",
+    "Ses tellerinin kütlesi de önemlidir; erkeklerde teller daha uzun ve kalındır, bu yüzden temel frekans daha düşüktür.",
+    "Ergenlikte gırtlağın büyümesiyle özellikle erkeklerde temel frekans belirgin biçimde düşer.",
+    "Şiddet ise başlıca subglottik basınçla ve ses tellerinin ne kadar sıkı kapandığıyla artar.",
+    "Fısıltıda ses telleri titreşmez; hava daralmış glottisten türbülansla geçer ve periyodik olmayan bir ses oluşur."
+   ]
+  },
+  {
+   "id": "rezonans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Rezonans",
+   "baslik": "Ses yolu bir *süzgeç*",
+   "cizim": "kaynak_suzgec",
+   "ayar": {
+    "f0": 125,
+    "formantlar": [
+     500,
+     1500,
+     2500
+    ],
+    "kaynak_cumle": 0,
+    "suzgec_cumle": 1,
+    "cikis_cumle": 4
+   },
+   "vurgula": [
+    {
+     "parca": "kaynak",
+     "cumle": 0
+    },
+    {
+     "parca": "suzgec",
+     "cumle": 2
+    },
+    {
+     "parca": "formantlar",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "formantlar",
+     "metin": "500, 1500, 2500 Hz",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Ses yolu: yaklaşık _17 cm_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Bir ucu kapalı _boru_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kısa ses yolu: _yüksek_ formantlar",
+     "cumle": 5,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Ses tellerinde oluşan ses kendi başına bir vızıltıya benzer; onu konuşmaya dönüştüren ses yoludur.",
+    "Ses yolu (vocal tract), gırtlaktan dudaklara ve burun boşluğuna uzanan boşluklar bütünüdür.",
+    "Yetişkin bir erkekte ses yolu yaklaşık on yedi santimetredir ve bir ucu kapalı bir boru gibi davranır.",
+    "Böyle bir borunun rezonansları yaklaşık beş yüz, bin beş yüz ve iki bin beş yüz hertzdedir; nötr bir ünlünün formantları bunlara yakındır.",
+    "Ses yolu, kaynağın harmoniklerinden rezonanslarına yakın olanları güçlendirir, diğerlerini zayıflatır.",
+    "Kadınlarda ve çocuklarda ses yolu daha kısa olduğu için formantlar daha yüksektir."
+   ]
+  },
+  {
+   "id": "velum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Rezonans",
+   "baslik": "Yumuşak damak: *velum*",
+   "cizim": "ostaki_kaslari",
+   "vurgula": [
+    {
+     "parca": "yumusak_damak",
+     "cumle": 0
+    },
+    {
+     "parca": "levator_veli_palatini",
+     "cumle": 3
+    },
+    {
+     "parca": "tensor_veli_palatini",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "yumusak_damak",
+     "metin": "Velum (yumuşak damak)",
+     "cumle": 0
+    },
+    {
+     "parca": "levator_veli_palatini",
+     "metin": "Levator veli palatini",
+     "cumle": 3
+    },
+    {
+     "parca": "tensor_veli_palatini",
+     "metin": "Tensor veli palatini",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kalkar: _ağızdan_ sesler",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "İner: _m, n_ genizden",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Damak yarığı: _konuşma ve kulak_",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Velum, yani yumuşak damak, ağız ile burun boşluğu arasındaki geçidi açıp kapatan kaslı bir perdedir.",
+    "Çoğu konuşma sesinde velum kalkar ve burun boşluğunu kapatır; buna velofaringeal kapanma denir.",
+    {
+     "yazi": "M ve n gibi genizsil seslerde ise velum iner, ses burundan da çıkar ve burun boşluğu rezonansa katılır.",
+     "ses": "Me ve ne gibi genizsil seslerde ise velum iner, ses burundan da çıkar ve burun boşluğu rezonansa katılır."
+    },
+    "Velumu başlıca levator veli palatini kası kaldırır; komşusu tensor veli palatini ise Östaki borusunun açılmasında rol oynar.",
+    "Damak yarığında bu kapanma yeterince sağlanamayabilir; konuşma genizden gelebilir ve bu çocuklarda orta kulak sorunları da sıktır.",
+    "Bu yüzden damak yarığı olan çocuklarda konuşma ve işitme birlikte izlenir."
+   ]
+  },
+  {
+   "id": "artikulatorler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Artikülasyon",
+   "baslik": "*Artikülatörler*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Dudaklar",
+     "metin": "Kapanır, yuvarlanır",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Dil",
+     "metin": "Uç, gövde, kök",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Alt çene",
+     "metin": "Ağız açıklığı",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Edilgen yapılar",
+     "metin": "Dişler, sert damak",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Artikülasyon, ses yolunun biçimini hızla değiştirerek konuşma seslerini oluşturan hareketlerdir.",
+    "Hareket eden yapılara etkin artikülatörler denir: dudaklar, dil, alt çene ve yumuşak damak.",
+    "Dil en esnek artikülatördür; ucu, gövdesi ve kökü farklı sesler için ayrı ayrı konumlanır.",
+    "Etkin artikülatörlerin yaklaştığı sabit yapılara edilgen artikülatörler denir: dişler, diş eti çıkıntısı ve sert damak.",
+    "Ünlülerde ses yolu açık kalır; dilin ve dudakların konumu yalnız formantları değiştirir.",
+    "Ünsüzlerde ise ses yolunun bir noktasında daralma ya da tam kapanma oluşur.",
+    "Daralmanın nerede ve nasıl oluştuğunu, yani çıkış yerini ve çıkış biçimini bir sonraki derste Türkçe sesler üzerinden göreceğiz."
+   ]
+  },
+  {
+   "id": "essesletim",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Artikülasyon",
+   "baslik": "Hızlı ve *iç içe* sesler",
+   "cizim": "spektrogram",
+   "ayar": {
+    "cumle": 0
+   },
+   "vurgula": [
+    {
+     "parca": "formantlar",
+     "cumle": 3
+    },
+    {
+     "parca": "s_sesi",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "formantlar",
+     "metin": "Formant geçişleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Saniyede yaklaşık _10 ile 15_ ses",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Sesler _örtüşür_: eşsesletim",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Geçişler _ünsüzü_ tanıtır",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Konuşma çok hızlı bir motor beceridir; olağan konuşmada saniyede yaklaşık on ile on beş ses üretiriz.",
+    "Bu hızda artikülatörler bir sesi bitirmeden bir sonrakine hazırlanır; sesler birbirine karışarak üretilir.",
+    "Bu örtüşmeye eşsesletim (coarticulation) denir.",
+    "Spektrogramda ünsüz ile ünlü arasındaki formant geçişleri, bu örtüşmenin akustik izidir.",
+    "Dinleyici için bu geçişler değerli ipuçlarıdır; bir ünsüzü çoğu zaman komşu ünlünün formant geçişinden tanırız.",
+    "Bu yüzden konuşma sesleri harfler gibi ayrık değil, sürekli ve iç içe geçmiş bir akıştır."
+   ]
+  },
+  {
+   "id": "geri_bildirim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İşitme ve konuşma",
+   "baslik": "İşitsel *geri bildirim*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşuruz",
+     "metin": "Ses üretilir",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Duyarız",
+     "metin": "Kendi sesimiz",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Karşılaştırırız",
+     "metin": "Hedefle uyum",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Düzeltiriz",
+     "metin": "Şiddet, perde, ses",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Konuşurken kendi sesimizi de duyarız; bu işitsel geri bildirim, konuşmanın denetiminde önemli rol oynar.",
+    "Gürültülü bir ortamda farkında olmadan sesimizi yükseltiriz; buna Lombard etkisi denir.",
+    "Kendi sesimizi yaklaşık iki yüz milisaniye gecikmeyle duyduğumuzda konuşmanın akıcılığı belirgin biçimde bozulur.",
+    "Konuşmayı öğrenmek için işitme gereklidir; çocuk sesleri duyarak taklit eder ve kendi üretimini duyduğu modellerle karşılaştırır.",
+    "Doğuştan ileri işitme kaybı olan ve yeterli işitsel erişim sağlanamayan çocuklarda perde, tını ve ünsüzler etkilenebilir.",
+    "Dil gelişiminden sonra işitmesini kaybeden yetişkinlerde de uzun dönemde ses yüksekliği ve perde denetimi bozulabilir.",
+    "Erken tanı, işitme cihazı ve koklear implant bu döngüyü yeniden kurarak konuşma gelişimini destekler."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İşitme ve konuşma",
+   "baslik": "Odyolog için *konuşma*",
+   "maddeler": [
+    {
+     "metin": "Konuşmayı dinlemek _ilk ipucu_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kendi sesi: _kalıp ve oklüzyon_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Ses sorununda _terapistle_ çalış",
+     "cumle": 3,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Konuşma değişimi: _erişim göstergesi_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_cihazi",
+    "cumle": 2,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Konuşma üretimi bilgisi odyolog için de günlük bir araçtır.",
+    "Hastanın konuşmasını dinlemek, örneğin çok yüksek sesle konuşma ya da ünsüz hataları, işitme durumu hakkında ilk ipuçlarını verir.",
+    "İşitme cihazı kullanıcılarının kendi seslerini nasıl duyduğu, kalıp ve oklüzyon ayarlarında önemli bir ölçüttür.",
+    "Konuşma ya da ses sorunları fark edildiğinde dil ve konuşma terapistiyle birlikte çalışmak gerekir.",
+    "Cihaz ya da implant sonrası takipte konuşmadaki değişiklikler, işitsel erişimin ne kadar sağlandığını gösterir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "s ve ş seslerini hiç üretmeyen ya da düşüren bir çocukta tiz frekanslara erişimi sorgulayın; cihaz ayarını gerçek kulak ölçümüyle kontrol edin.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: işitme kayıplı bir çocuğun konuşmasındaki eksik sesler, neyi duyamadığına dair ipucu verebilir.",
+    {
+     "yazi": "Örneğin s ve ş seslerini hiç üretmeyen ya da düşüren bir çocukta tiz frekanslara erişimi sorgulayın.",
+     "ses": "Örneğin se ve şe seslerini hiç üretmeyen ya da düşüren bir çocukta tiz frekanslara erişimi sorgulayın."
+    },
+    "Cihaz ayarını gerçek kulak ölçümüyle kontrol etmek, bu sesleri duyulur kılmanın ilk adımıdır.",
+    "Konuşma hatası tek başına işitmeye bağlanmamalıdır; değerlendirmeyi dil ve konuşma terapistiyle paylaşın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Konuşma: _uzun soluk verme_ üzerinde",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Ses telleri: _temel frekans_ kaynağı",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ses yolu: _formantları_ oluşturur",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İşitme konuşmayı _denetler_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Konuşurken soluk hızla alınır ve uzun bir soluk verme boyunca konuşulur; subglottik basınç sesin enerjisini sağlar.",
+    "Ses telleri hava akımını titreşime çevirir; titreşim hızı temel frekansı, yani perdeyi belirler.",
+    "Ses yolu bir süzgeç gibi bazı harmonikleri güçlendirir ve formantları oluşturur; artikülatörler bu biçimi sürekli değiştirir.",
+    "İşitsel geri bildirim konuşmanın öğrenilmesi ve denetimi için gereklidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Temel frekansı ne belirler?",
+   "secenekler": [
+    "Ses tellerinin titreşim hızı",
+    "Ses yolunun uzunluğu",
+    "Dilin konumu",
+    "Burun boşluğu"
+   ],
+   "dogru": 0,
+   "aciklama": "Temel frekans _kaynağın_, formantlar ise _süzgecin_ özelliğidir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sesin temel frekansını ne belirler?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: ses tellerinin titreşim hızı.",
+    "Ses yolunun uzunluğu, dilin konumu ve burun boşluğu ise formantları, yani süzgecin özelliklerini değiştirir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Türkçe *konuşma sesleri*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste Türkçenin ünlü ve ünsüzlerini, çıkış yerleri ve çıkış biçimleriyle tanıyacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

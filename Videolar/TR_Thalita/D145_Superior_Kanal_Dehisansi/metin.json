@@ -1,0 +1,925 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D145_Superior_Kanal_Dehisansi_TR",
+ "kapak": {
+  "ust": "DERS 145",
+  "baslik": "Üçüncü<br>*pencere*",
+  "alt": "Superior kanal dehisansı",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      25,
+      20,
+      15,
+      10,
+      10,
+      15
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      -10,
+      -10,
+      0,
+      5,
+      10
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Üçüncü Pencere Sendromları: Superior Kanal Dehisansı | Ders 145 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Superior yarım daire kanalı dehisansında sesle ve basınçla tetiklenen vertigoyu, otofoniyi ve üçüncü pencere etkisini anlatıyoruz. Alçak frekans hava-kemik aralığını, sıfırın altına inen kemik yolu eşiklerini, korunmuş akustik refleksi ve VEMP bulgularını otosklerozla karşılaştırarak ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Ward ve ark., Superior semicircular canal dehiscence syndrome: Diagnostic criteria consensus document of the Bárány Society, Journal of Vestibular Research (2021); Minor ve ark., Archives of Otolaryngology Head and Neck Surgery (1998); Jacobson ve Shepard, Balance Function Assessment and Management; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "üçüncüpencere",
+   "VEMP"
+  ],
+  "etiketler": [
+   "superior kanal dehisansı",
+   "superior semicircular canal dehiscence",
+   "üçüncü pencere sendromu",
+   "third window syndrome",
+   "Tullio fenomeni",
+   "Hennebert işareti",
+   "otofoni",
+   "hava-kemik aralığı",
+   "VEMP",
+   "otoskleroz ayırıcı tanı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 145",
+   "baslik": "Üçüncü pencere: *superior kanal*",
+   "alt": "Superior kanal dehisansı ve odyolojik bulgular",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste üçüncü pencere sendromlarını ve en iyi bilinen örneği olan superior kanal dehisansını öğreneceğiz.",
+    "Sesle ve basınçla gelen vertigoyu, hava-kemik aralığını ve vestibüler uyarılmış miyojenik potansiyel, yani VEMP bulgularını göreceğiz."
+   ]
+  },
+  {
+   "id": "iki_pencere",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Üçüncü pencere",
+   "baslik": "İki pencere, *bir* denge",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 1000
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Oval pencere",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Yuvarlak pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "metin": "Baziler membran",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 0
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "baziler_membran",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Enerji _baziler membrana_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Üçüncü açıklık: _enerji kaçar_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "İç kulağın orta kulağa açılan iki penceresi olduğunu biliyoruz: oval pencere ve yuvarlak pencere.",
+    "Stapes oval pencereyi ittiğinde basınç dalgası kokleadan geçer ve yuvarlak pencere zarı dışa esner.",
+    "Bu düzende enerjinin büyük kısmı baziler membranı titreştirmek için kullanılır.",
+    "Kemik labirentte üçüncü bir açıklık oluşursa enerjinin bir kısmı bu yeni yoldan kaçar.",
+    "Bu durumların ortak adı üçüncü pencere sendromlarıdır (third window syndromes)."
+   ]
+  },
+  {
+   "id": "dehisans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Üçüncü pencere",
+   "baslik": "Superior kanal *dehisansı*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "superior_kanal",
+     "metin": "Superior kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "dehisans",
+     "metin": "kemik açıklığı",
+     "cumle": 1
+    },
+    {
+     "parca": "dura",
+     "metin": "beyin zarı (dura)",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_kanal",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dehisans",
+     "cumle": 1,
+     "olcek": 1.6
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kanal tepesinde _kemik açıklığı_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "İlk tanım: _1998_",
+     "cumle": 3,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Kemiklerin yaklaşık _binde beşi_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "En iyi bilinen üçüncü pencere, superior kanal dehisansıdır (superior semicircular canal dehiscence).",
+    "Bu durumda superior, yani üst yarım daire kanalının tepesini örten kemik incelir ve açılır.",
+    "Açıklık, kanal ile kafa içindeki orta kafa çukuru arasındadır; kanal burada yalnız beyin zarıyla örtülü kalır.",
+    {
+     "yazi": "Tablo ilk kez 1998 yılında Lloyd Minor ve arkadaşları tarafından tanımlanmıştır.",
+     "ses": "Tablo ilk kez bin dokuz yüz doksan sekiz yılında Loyd Maynır ve arkadaşları tarafından tanımlanmıştır."
+    },
+    "Kadavra çalışmalarında temporal kemiklerin yaklaşık binde beşinde açıklık, daha fazlasında çok ince kemik bulunmuştur.",
+    "Kemiğin doğuştan ince olduğu, sonra travma ya da basınç değişiklikleriyle açıldığı düşünülmektedir."
+   ],
+   "ayar": {
+    "dehisans": true,
+    "dehisans_cumle": 1,
+    "fossa_cumle": 2
+   }
+  },
+  {
+   "id": "mekanizma",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Üçüncü pencere",
+   "baslik": "Ses neden *baş döndürür?*",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Ses, basınç",
+     "metin": "İç kulağa ulaşır",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Açık kanal",
+     "metin": "Enerji açıklığa yönelir",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Kupula sapar",
+     "metin": "Endolenf hareket eder",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Vertigo",
+     "metin": "Göz hareketleri başlar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Açıklık, üst kanalı sese ve basınca duyarlı hale getirir.",
+    "Yüksek bir ses ya da basınç değişimi stapes aracılığıyla iç kulağa iletilir.",
+    "Enerjinin bir kısmı kokleaya değil, düşük dirençli açıklığa doğru, üst kanalın içinden akar.",
+    "Bu akım kanalın ampullasındaki kupulayı saptırır ve beyne yanlış bir dönme sinyali gider.",
+    "Sonuçta sesle ya da basınçla tetiklenen vertigo ve göz hareketleri ortaya çıkar."
+   ]
+  },
+  {
+   "id": "belirtiler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Belirtiler",
+   "baslik": "Tipik *belirtiler*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Tullio fenomeni",
+     "metin": "Sesle gelen vertigo",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Hennebert işareti",
+     "metin": "Basınçla gelen vertigo",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Otofoni",
+     "metin": "Kendi sesi yankılı",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "İç sesler",
+     "metin": "Nabız, adım, göz",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Dolgunluk",
+     "metin": "Orta kulak sanılabilir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Sesle ortaya çıkan vertigo ya da görüntü kaymasına Tullio fenomeni (Tullio phenomenon) denir.",
+    "Öksürme, ıkınma, burun sıkıp üfleme ya da kulak yolu basıncıyla gelen belirtiye Hennebert işareti denir.",
+    "Kendi sesini yankılı ve yüksek duymaya otofoni (autophony) denir; çok sık görülen bir yakınmadır.",
+    "Bazı hastalar kendi nabzını, adım seslerini, hatta göz hareketlerini kulağında duyduğunu anlatır.",
+    "Kulak dolgunluğu da sık görülür ve kolayca bir orta kulak sorunu sanılabilir.",
+    "Belirtiler tek ya da iki taraflı olabilir; açıklığı olan bazı kişilerde ise hiç belirti yoktur."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Belirtiler",
+   "baslik": "Öyküde *ipuçları*",
+   "maddeler": [
+    {
+     "metin": "Çoğunlukla _erişkin yaşta_ başlar",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Travma ya da _ıkınma_ sonrası başlangıç",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tek ya da _iki kulakta_ açıklık",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Yıllarca _tanısız_ kalabilir",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Ses ve basınç ilişkisini _sorun_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SORUN",
+    "cumle": 4,
+    "ogeler": [
+     {
+      "ikon": "hoparlor",
+      "baslik": "Yüksek ses?",
+      "metin": "Dönme ya da kayma",
+      "cumle": 4
+     },
+     {
+      "ikon": "kulak_tikali",
+      "baslik": "Öksürük, ıkınma?",
+      "metin": "Belirti artıyor mu",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Belirtiler çoğunlukla erişkin yaşta, bazen bir kafa travması ya da ağır kaldırma gibi bir basınç olayından sonra başlar.",
+    "Bazı hastalarda tek kulakta, bazılarında iki kulakta açıklık bulunur.",
+    "Yakınmalar yıllarca tanısız sürebilir; hastalar çoğu zaman farklı kliniklere başvurmuş olur.",
+    "Sürekli otofoni ve sesle gelen baş dönmesi, günlük yaşamı belirgin biçimde etkileyebilir.",
+    "Bu yüzden belirtilerin ses ve basınçla ilişkisini öyküde ayrıca sormak, tanının en önemli ilk adımıdır."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Kemik yolu *sıfırın altında*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Maskeli kemik yolu_: sıfırın altında",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: normal",
+     "cumle": 5
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       20,
+       15,
+       10,
+       10,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       -10,
+       -10,
+       0,
+       5,
+       10
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 5
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    },
+    "aralik": {
+     "konum": [
+      0,
+      -10,
+      25
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta alçak frekanslarda hava yolu eşikleri hafifçe yükselmiş.",
+    "Dikkat çeken asıl bulgu ise kemik yolu.",
+    "Maskeli kemik yolu eşikleri iki yüz elli ve beş yüz hertzde sıfırın altına, eksi on desibele iniyor.",
+    "Sonuçta alçak frekanslarda belirgin bir hava-kemik aralığı oluşuyor; buna iç kulak kaynaklı ya da yalancı iletim tipi aralık denir.",
+    "Üçüncü pencere hava yoluyla gelen enerjinin bir kısmını kaçırır, kemik yolu duyarlılığını ise artırır.",
+    "Sol kulak bu örnekte normal sınırlarda; timpanogram ve akustik refleksler ise iki kulakta da normal."
+   ]
+  },
+  {
+   "id": "neden_aralik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Aralık *nasıl* oluşur?",
+   "cizim": "koklea_acik",
+   "ayar": {
+    "frekans": 500
+   },
+   "etiketler": [
+    {
+     "parca": "oval_pencere",
+     "metin": "Vestibül tarafı",
+     "cumle": 2
+    },
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "Yuvarlak pencere",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "baziler_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "oval_pencere",
+     "cumle": 2
+    },
+    {
+     "parca": "yuruyen_dalga",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kemik yolu: _daha güçlü_ uyarı",
+     "cumle": 3,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Hava yolu: _enerji kaçar_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "İkisi birlikte: _aralık_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolunun neden normalden iyi duyulduğunu biraz daha açalım.",
+    "Kemik yoluyla gelen titreşim, kokleanın iki yanı arasında basınç farkı yaratarak baziler membranı hareket ettirir.",
+    "Normalde vestibül tarafının direnci yüksektir; üçüncü pencere bu tarafın direncini düşürür.",
+    "Böylece kemik yolunda iki yan arasındaki basınç farkı büyür ve koklea daha güçlü uyarılır.",
+    "Hava yolunda ise enerjinin bir kısmı açıklıktan kaçar; iki etki birleşince hava-kemik aralığı ortaya çıkar."
+   ]
+  },
+  {
+   "id": "vemp",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "VEMP: *büyüyen* yanıtlar",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "cVEMP",
+     "metin": "Eşik düşer",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "oVEMP",
+     "metin": "Genlik büyür",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Yüksek frekans",
+     "metin": "Tizde yanıt dikkat çeker",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Yerel norm",
+     "metin": "Sınırlar laboratuvara göre",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Vestibüler uyarılmış miyojenik potansiyel, kısaca VEMP, dehisansın en değerli fizyolojik testlerinden biridir.",
+    {
+     "yazi": "Servikal VEMP, yani cVEMP, dehisanslı kulakta normalden belirgin daha düşük şiddette elde edilir.",
+     "ses": "Servikal VEMP, dehisanslı kulakta normalden belirgin daha düşük şiddette elde edilir."
+    },
+    {
+     "yazi": "Oküler VEMP, yani oVEMP'in genliği ise belirgin biçimde büyür; birçok çalışmada en ayırt edici bulgudur.",
+     "ses": "Oküler VEMP'in genliği ise belirgin biçimde büyür; birçok çalışmada en ayırt edici bulgudur."
+    },
+    {
+     "yazi": "Normalde zayıf olan dört bin hertzlik uyaranla belirgin bir oVEMP alınması da dehisansı düşündürebilir.",
+     "ses": "Normalde zayıf olan dört bin hertzlik uyaranla belirgin bir oküler VEMP alınması da dehisansı düşündürebilir."
+    },
+    "Otosklerozda ise hava yoluyla verilen uyaranla VEMP genellikle alınamaz; bu fark ayırıcı tanıda çok değerlidir.",
+    "Sınır değerler cihaza, uyarana ve laboratuvara göre değiştiği için yorum yerel normlarla yapılır."
+   ]
+  },
+  {
+   "id": "otoskleroz",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Otoskleroz mu, *dehisans* mı?",
+   "ogeler": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Akustik refleks",
+     "metin": "Otoskleroz: _alınamaz_. Dehisans: _alınır_.",
+     "cumle": 1
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "Kemik yolu",
+     "metin": "Otoskleroz: sıfırın altına inmez, Carhart çentiği. Dehisans: _eksi değerler_.",
+     "cumle": 3
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Ses ve basınç",
+     "metin": "Dehisansta _vertigo_ tetiklenir; otosklerozda beklenmez.",
+     "cumle": 4
+    },
+    {
+     "ikon": "noron",
+     "baslik": "VEMP",
+     "metin": "Otoskleroz: genellikle _yok_. Dehisans: _büyümüş_.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Alçak frekans hava-kemik aralığı akla ilk olarak otosklerozu getirir; bu yüzden ayrım çok önemlidir.",
+    "Otosklerozda stapes tabanı sabitlendiği için akustik refleks genellikle alınamaz.",
+    "Superior kanal dehisansında ise orta kulak sağlamdır ve akustik refleks çoğunlukla alınır.",
+    "Otosklerozda kemik yolu sıfırın altına inmez; çoğu zaman iki bin hertz civarında Carhart çentiği görülür.",
+    "Dehisansta ise ses ve basınçla gelen belirtiler ve büyümüş VEMP yanıtları tabloyu tamamlar.",
+    "Yanlış tanıyla yapılan stapes cerrahisi belirtileri düzeltmez; bu yüzden refleks ölçümü atlanmamalıdır."
+   ]
+  },
+  {
+   "id": "diger_bulgular",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Diğer *ipuçları*",
+   "maddeler": [
+    {
+     "metin": "Weber _dehisanslı kulağa_ kayabilir",
+     "cumle": 0,
+     "ikon": "diyapazon"
+    },
+    {
+     "metin": "Ayak bileğindeki diyapazonu _duyma_",
+     "cumle": 1,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "_Kemik yolu hiperakuzisi_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "ECochG: _SP/AP_ artabilir",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "diyapazon",
+    "ayar": {
+     "test": "weber"
+    },
+    "vurgula": [
+     {
+      "parca": "alin",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Diyapazon testlerinde Weber, dehisanslı kulağa doğru lateralize olabilir.",
+    "Bazı hastalar ayak bileğindeki kemik çıkıntıya konan diyapazonun sesini bile o kulakta duyar.",
+    "Bu bulgular, kemik yoluyla gelen seslere aşırı duyarlılığın, yani kemik yolu hiperakuzisinin göstergesidir.",
+    "Elektrokokleografi, kısaca ECochG, dehisanslı kulakta sumasyon ve aksiyon potansiyeli oranında artış gösterebilir.",
+    "Bu artış Meniere hastalığında da görüldüğü için tek başına ayırt edici değildir."
+   ]
+  },
+  {
+   "id": "goz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Sesle gelen *göz hareketi*",
+   "maddeler": [
+    {
+     "metin": "Ses ya da basınç _uygulanır_",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Üst kanal _düzleminde_ hareket",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Basınç yönü değişince _ters_ yön",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Video gözlükle_ kayıt",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kanal_duzlemleri",
+    "ayar": {
+     "goster": [
+      "larp",
+      "ralp"
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "sag_on_kanal",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Belirtiler muayenede de gösterilebilir.",
+    "Kulak yoluna basınç uygulandığında ya da yüksek şiddette ses verildiğinde gözler dikkatle izlenir.",
+    "Dehisansta, açık olan üst kanalın düzleminde dikey ve torsiyonel bir göz hareketi ortaya çıkabilir.",
+    "Basıncın yönü değiştiğinde göz hareketinin yönü de tersine döner.",
+    "Bu muayene video gözlükle yapılırsa küçük hareketler bile kaydedilebilir ve sonradan incelenebilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kemik yolunda sıfır desibelde durmayın; eksi değerleri de test edin. Normal timpanogram, alçak frekans aralığı ve alınan refleks: üçüncü pencereyi düşünün.",
+   "cumleler": [
+    "Bir klinik ipucu: kemik yolu eşiğini sıfır desibelde bulunca aramayı bırakmayın.",
+    "Hastanın eksi beş ya da eksi on desibelde yanıt verip vermediğini de test edin ve sonucu kaydedin.",
+    "Normal timpanogram, alçak frekans hava-kemik aralığı ve alınan akustik refleks birlikteyse üçüncü pencereyi düşünün.",
+    "Bu tabloyu raporda açıkça belirtmek, hekimin uygun görüntülemeyi istemesine yardım eder."
+   ]
+  },
+  {
+   "id": "tani",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tanı ve rol",
+   "baslik": "Tanı: *üç* ayak",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Belirti",
+     "metin": "Ses, basınç, otofoni",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Fizyolojik test",
+     "metin": "Kemik yolu, VEMP, göz",
+     "cumle": 1
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tomografi",
+     "metin": "Kanal düzleminde kesit",
+     "cumle": 2
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Hekim kararı",
+     "metin": "Belirtilerin şiddetine göre",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Barany Derneği 2021 yılında superior kanal dehisansı sendromu için tanı ölçütleri yayımladı.",
+     "ses": "Barany Derneği iki bin yirmi bir yılında superior kanal dehisansı sendromu için tanı ölçütleri yayımladı."
+    },
+    "Bu ölçütler, üçüncü pencereye uyan bir belirtiyle birlikte en az bir fizyolojik test bulgusu arar.",
+    "Ayrıca yüksek çözünürlüklü tomografide, kanal düzleminde yeniden oluşturulan kesitlerde açıklık görülmelidir.",
+    "Tomografi ince kemiği açıklık gibi gösterebildiği için görüntüleme bulgusu tek başına yeterli değildir.",
+    "Tedavi seçeneklerini belirtilerin şiddetine göre hekim değerlendirir; ağır belirtilerde cerrahi onarım gündeme gelebilir."
+   ]
+  },
+  {
+   "id": "diger_pencereler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tanı ve rol",
+   "baslik": "Başka *üçüncü pencereler*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Geniş akuadukt",
+     "metin": "Bir sonraki ders",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Diğer dehisanslar",
+     "metin": "Posterior kanal, damar komşuluğu",
+     "cumle": 2
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "X'e bağlı",
+     "metin": "İç kulak yapı farkı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Üçüncü pencere etkisi yalnız superior kanalda görülmez.",
+    "Genişlemiş vestibüler akuadukt da benzer bir alçak frekans aralığı ve büyük VEMP yanıtları verebilir.",
+    "Posterior kanal dehisansı ve kanalın büyük bir damara komşu olduğu açıklıklar da tanımlanmıştır.",
+    "X'e bağlı kalıtılan bir iç kulak yapı farkında da iç kulak yolu ile koklea arasındaki geniş bağlantı benzer etki yapar.",
+    "Bu durumlarda ortak nokta, normal orta kulağa rağmen hava-kemik aralığı görülmesidir."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Tanı ve rol",
+   "baslik": "*Odyoloğun* rolü",
+   "maddeler": [
+    {
+     "metin": "Üçüncü pencereyi _ilk fark eden_ olabilir",
+     "cumle": 0,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Eksi kemik yolu, refleks, _VEMP_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ses ve basınç _öyküsü_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Cerrahi _öncesi ve sonrası_ karşılaştırma",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Açık ve _ölçütlere uygun_ rapor",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "akustik_refleks_arki",
+    "ayar": {
+     "uyarilan": "sag",
+     "ipsi_cumle": 1
+    },
+    "cumle": 1
+   },
+   "cumleler": [
+    "Odyolog, üçüncü pencereyi düşündüren bulguları ilk fark eden kişi olabilir.",
+    "Kemik yolunu eksi değerlere kadar ölçmek, refleksleri test etmek ve VEMP yapmak bu süreçteki temel katkılardır.",
+    "Belirtilerin ses ve basınçla ilişkisini öyküde sorgulamak da tanıya yön verir.",
+    "Cerrahi uygulanan hastalarda işitme ve vestibüler işlev öncesinde ve sonrasında karşılaştırılır.",
+    "Sonuçlar KBB hekimine, tanı ölçütleriyle uyumlu biçimde ve açıkça raporlanır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Üçüncü açıklık: _enerji kaçar_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sesle ve basınçla _vertigo_, otofoni",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Alçak frekans aralığı, _eksi kemik yolu_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Refleks var, _VEMP büyümüş_",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Superior kanal dehisansı, iç kulakta üçüncü bir pencere oluşturur ve enerjinin bir kısmı bu yoldan kaçar.",
+    "Sesle ve basınçla gelen vertigo, otofoni ve iç seslerin duyulması tipik belirtilerdir.",
+    "Odyogramda alçak frekans hava-kemik aralığı ve sıfırın altına inen kemik yolu eşikleri görülebilir.",
+    "Akustik refleksin alınması ve büyümüş VEMP yanıtları, otosklerozdan ayırmada yol gösterir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangi bulgu otoskleroz yerine dehisansı düşündürür?",
+   "secenekler": [
+    "Akustik refleksin alınamaması",
+    "Carhart çentiği",
+    "Düşük cVEMP eşiği",
+    "Düz timpanogram"
+   ],
+   "dogru": 2,
+   "aciklama": "Dehisansta _cVEMP eşiği düşer_, oVEMP genliği büyür; otosklerozda VEMP genellikle alınamaz.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Alçak frekans aralığı olan bir hastada hangi bulgu otoskleroz yerine dehisansı düşündürür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C: düşük servikal VEMP eşiği.",
+    "Refleks yokluğu ve Carhart çentiği ise daha çok otosklerozla uyumludur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Genişlemiş vestibüler *akuadukt*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bir başka üçüncü pencere örneği olan genişlemiş vestibüler akuaduktu inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

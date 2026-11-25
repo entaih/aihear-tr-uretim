@@ -1,0 +1,814 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D050_Binaural_Isitme_TR",
+ "kapak": {
+  "ust": "DERS 50",
+  "baslik": "*Binaural*<br>işitme",
+  "alt": "İki kulak neden tek kulaktan iyidir?",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "superior_oliver"
+  ]
+ },
+ "youtube": {
+  "baslik": "Binaural İşitme: İki Kulak Neden Tek Kulaktan İyidir? | Ders 50 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İki kulakla işitmek sesin yönünü bulmayı ve gürültüde konuşmayı anlamayı kolaylaştırır. Bu derste kulaklar arası zaman farkını (ITD), kulaklar arası şiddet farkını (ILD), baş gölgesi etkisini, binaural toplamayı ve binaural baskılamayı (squelch), ayrıca tek taraflı kaybın günlük yaşamdaki etkilerini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Moore, An Introduction to the Psychology of Hearing; Blauert, Spatial Hearing; Katz, Handbook of Clinical Audiology; Silman, Gelfand ve Silverman (1984), Late-onset auditory deprivation: effects of monaural versus binaural hearing aids, Journal of the Acoustical Society of America.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitme",
+   "binaural"
+  ],
+  "etiketler": [
+   "binaural işitme",
+   "kulaklar arası zaman farkı",
+   "interaural time difference",
+   "kulaklar arası şiddet farkı",
+   "interaural level difference",
+   "baş gölgesi etkisi",
+   "head shadow",
+   "binaural toplama",
+   "squelch",
+   "ses lokalizasyonu",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 50",
+   "baslik": "*Binaural* işitme",
+   "alt": "İki kulak neden tek kulaktan iyidir?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iki kulakla işitmenin, yani binaural işitmenin beynimize sağladığı avantajları öğreneceğiz.",
+    "Sesin yönünü bulmayı, baş gölgesini ve gürültüde anlamayı kolaylaştıran mekanizmaları göreceğiz."
+   ]
+  },
+  {
+   "id": "avantajlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İki kulağın avantajı",
+   "baslik": "İki kulak *neler* kazandırır?",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Yön bulma",
+     "metin": "Sesin nereden geldiğini bulma",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Gürültüde anlama",
+     "metin": "Tek kulaktan daha iyi",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Baş gölgesi",
+     "metin": "Gürültüden uzak kulağı kullanma",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Binaural toplama",
+     "metin": "Ses daha yüksek algılanır",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "İki kulakla işitmeye binaural işitme (binaural hearing) denir; tek kulakla işitme ise monaural işitmedir.",
+     "ses": "İki kulakla işitmeye binaural işitme denir; tek kulakla işitme ise mono aural işitmedir."
+    },
+    "İki kulak, beynin sesin nereden geldiğini bulmasını sağlar.",
+    "Gürültülü ortamlarda konuşmayı tek kulağa göre daha iyi anlamamıza yardım eder.",
+    "Gürültüden uzak taraftaki kulağı kullanma olanağı verir; bu, baş gölgesi etkisinden yararlanmaktır.",
+    "Aynı ses iki kulakla dinlendiğinde biraz daha yüksek algılanır; buna binaural toplama denir.",
+    "Bu avantajların çoğu, iki kulaktan gelen bilginin beyin sapında karşılaştırılmasına dayanır."
+   ]
+  },
+  {
+   "id": "beyin_sapi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İki kulağın avantajı",
+   "baslik": "İki kulak *nerede* buluşur?",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "superior_oliver",
+     "metin": "superior oliver kompleks (üst zeytin çekirdekleri)",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "koklear nükleus",
+     "cumle": 1
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior kollikulus (alt tepecik)",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "işitsel korteks",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 0
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Medial superior oliva: zaman farkı",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Lateral superior oliva: şiddet farkı",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Önceki derslerden hatırlayalım: iki kulağın bilgisi ilk kez beyin sapındaki superior oliver komplekste, yani üst zeytin çekirdeklerinde buluşur.",
+    "Koklear nükleustan çıkan lifler hem aynı taraftaki hem de karşı taraftaki superior oliver komplekse ulaşır.",
+    "Bu kompleksteki medial superior oliva, sesin iki kulağa varış zamanları arasındaki farkı karşılaştırır.",
+    "Lateral superior oliva ise iki kulak arasındaki şiddet farkını değerlendirir.",
+    "Bu bilgiler inferior kollikulusta, yani alt tepecikte ve üst istasyonlarda işlenerek sesin yönü belirlenir.",
+    "Çapraz geçen lifler sayesinde her iki işitsel korteks de iki kulaktan bilgi alır."
+   ]
+  },
+  {
+   "id": "itd",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yön bulma",
+   "baslik": "Kulaklar arası *zaman* farkı",
+   "maddeler": [
+    {
+     "metin": "Uzak kulağa ses _biraz geç_ ulaşır",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "En fazla yaklaşık _0,7 ms_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Çok küçük farklar _ayırt edilir_",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "En etkili: _pes_ frekanslar",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "itd",
+     "yol_cumle": 0,
+     "etiket": "En fazla yaklaşık 0,7 ms"
+    },
+    "vurgula": [
+     {
+      "parca": "yakin_yol",
+      "cumle": 0
+     },
+     {
+      "parca": "uzak_yol",
+      "cumle": 1
+     },
+     {
+      "parca": "zaman_farki",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Ses yandan geldiğinde yakın kulağa biraz önce, uzak kulağa biraz sonra ulaşır.",
+    "Bu gecikmeye kulaklar arası zaman farkı (interaural time difference), kısaca ITD denir.",
+    {
+     "yazi": "Ses tam yandan geldiğinde, yetişkin bir başta bu fark en fazla yaklaşık 0,6 ile 0,7 milisaniyedir.",
+     "ses": "Ses tam yandan geldiğinde, yetişkin bir başta bu fark en fazla yaklaşık sıfır virgül altı ile sıfır virgül yedi milisaniyedir."
+    },
+    "En iyi koşullarda işitme sistemi, saniyenin milyonda on ile yirmisi kadar küçük zaman farklarını bile ayırt edebilir.",
+    "Zaman farkı en çok pes frekanslarda, yaklaşık bin beş yüz hertzin altında işe yarar.",
+    "Daha tiz seslerde dalga boyu kısalır; iki kulaktaki dalga tepelerinin hangisinin eşleştiği belirsizleşir."
+   ]
+  },
+  {
+   "id": "ild",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yön bulma",
+   "baslik": "Kulaklar arası *şiddet* farkı",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "ild",
+    "frekanslar": [
+     4000,
+     500
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "bas_golgesi",
+     "metin": "Baş gölgesi",
+     "cumle": 1
+    },
+    {
+     "parca": "pes_dalga",
+     "metin": "Baş çevresinden dolaşır",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "bas_golgesi",
+     "cumle": 1
+    },
+    {
+     "parca": "tiz_dalga",
+     "cumle": 2
+    },
+    {
+     "parca": "pes_dalga",
+     "cumle": 4
+    },
+    {
+     "parca": "uzak_kulak",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Baş: yaklaşık 15 ile 18 cm",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "500 Hz: yaklaşık 70 cm",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Tizde fark 20 dB'i aşabilir",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Yön bulmanın ikinci ipucu, kulaklar arası şiddet farkıdır (interaural level difference), kısaca ILD.",
+     "ses": "Yön bulmanın ikinci ipucu, kulaklar arası şiddet farkıdır, kısaca ı le de."
+    },
+    "Baş, karşı taraftan gelen sesin önünde bir engel oluşturur ve uzak kulakta bir ses gölgesi yaratır.",
+    "Bu gölge, dalga boyu başın genişliğinden kısa olan tiz seslerde belirgindir.",
+    "Dört bin hertzlik bir sesin dalga boyu yaklaşık dokuz santimetredir; yetişkin başının genişliği ise bundan belirgin biçimde büyüktür.",
+    "Beş yüz hertzlik bir ses ise yaklaşık yetmiş santimetrelik dalga boyuyla başın çevresinden kolayca dolaşır.",
+    "Bu yüzden şiddet farkı tiz frekanslarda yirmi desibeli aşabilir, pes frekanslarda ise birkaç desibelde kalır."
+   ]
+  },
+  {
+   "id": "ikili_kuram",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yön bulma",
+   "baslik": "*İkili* kuram",
+   "ogeler": [
+    {
+     "ikon": "saat",
+     "baslik": "Zaman farkı (ITD)",
+     "metin": "1500 Hz altı; medial superior oliva",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Şiddet farkı (ILD)",
+     "metin": "Tiz frekanslar; lateral superior oliva",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Zarf zaman farkı",
+     "metin": "Tiz karmaşık seslerde ek ipucu",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak kepçesi",
+     "metin": "Yukarı, aşağı, ön, arka",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Lord Rayleigh'in ikili kuramına (duplex theory) göre iki ipucu, frekansa göre iş bölümü yapar.",
+     "ses": "Lord Reyli'nin ikili kuramına göre iki ipucu, frekansa göre iş bölümü yapar."
+    },
+    "Pes frekanslarda yön ağırlıkla zaman farkıyla bulunur ve bu fark medial superior olivada işlenir.",
+    "Tiz frekanslarda şiddet farkı öne çıkar ve lateral superior olivada değerlendirilir.",
+    "Bu iş bölümü nedeniyle yaklaşık bin beş yüz ile üç bin hertz arasındaki saf seslerin yönü daha zor bulunur.",
+    "Tiz ama karmaşık seslerde, sesin zarfındaki zaman farkları da ek bir ipucu sağlar.",
+    "Kulak kepçesinin oluşturduğu frekans değişiklikleri ise yukarıyı aşağıdan ve önü arkadan ayırt etmeye yardım eder."
+   ]
+  },
+  {
+   "id": "koni",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yön bulma",
+   "baslik": "Önde mi, *arkada* mı?",
+   "maddeler": [
+    {
+     "metin": "Aynı farkı veren yönler: _karışıklık konisi_",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Kepçe ipuçları _ön ve arkayı_ ayırır",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Baş hareketi belirsizliği _çözer_",
+     "cumle": 4,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Önde yaklaşık _1 derecelik_ ayrım",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "etiketler": [
+     {
+      "parca": "kulak_kepcesi",
+      "metin": "kulak kepçesi (auricula)",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "kulak_kepcesi",
+     "cumle": 3,
+     "olcek": 1.8
+    }
+   },
+   "cumleler": [
+    "Zaman ve şiddet farkları tek başına her yönü ayırt edemez.",
+    "Örneğin tam önden ve tam arkadan gelen sesler iki kulağa aynı farklarla ulaşabilir.",
+    "Aynı farkları veren yönlerin oluşturduğu bölgeye karışıklık konisi (cone of confusion) denir.",
+    "Auricula, yani kulak kepçesi, tiz frekanslarda sesi yönüne göre farklı biçimde süzer ve önü arkadan ayırmaya yardım eder.",
+    "Başımızı hafifçe çevirmek de iki kulaktaki farkları değiştirir ve belirsizliği hızla çözer.",
+    "Önden gelen seslerde sağlıklı bir dinleyici yaklaşık bir derecelik yön farkını bile ayırt edebilir."
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yön bulma",
+   "baslik": "Yankılı odada *yön*",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Yansımalar",
+     "metin": "Ses duvarlardan da gelir",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "İlk ses",
+     "metin": "Yönü belirler",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Öncelik etkisi",
+     "metin": "Kısa gecikmeli yansıma birleşir",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Uzun gecikme",
+     "metin": "Ayrı yankı olarak duyulur",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kapalı bir odada ses bize hem doğrudan hem de duvarlardan yansıyarak ulaşır.",
+    "Buna rağmen sesi kaynağın yönünde duyarız; çünkü beyin ilk ulaşan sese öncelik verir.",
+    "Kısa gecikmeyle gelen yansımalar ayrı bir ses olarak duyulmaz, ilk sesle birleşir; buna öncelik etkisi (precedence effect) denir.",
+    "Gecikme yaklaşık birkaç on milisaniyeyi aştığında ise yansıma ayrı bir yankı olarak duyulmaya başlar.",
+    "Öncelik etkisi, yankılı ortamlarda konuşanın yerini bulmamıza ve sesleri ayırt etmemize yardım eder."
+   ]
+  },
+  {
+   "id": "bas_golgesi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Gürültüde işitme",
+   "baslik": "*Baş gölgesi* etkisi",
+   "maddeler": [
+    {
+     "metin": "Baş, gürültüyü _bir kulakta_ azaltır",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "O kulakta _daha iyi_ sinyal-gürültü oranı",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Etki en çok _tiz_ frekanslarda",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Beyin _iyi kulağı_ dinler",
+     "cumle": 4,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "bas_ustten",
+    "cumle": 0,
+    "ayar": {
+     "mod": "golge"
+    },
+    "vurgula": [
+     {
+      "parca": "gurultu",
+      "cumle": 0
+     },
+     {
+      "parca": "bas_golgesi",
+      "cumle": 0
+     },
+     {
+      "parca": "iyi_kulak",
+      "cumle": 1
+     },
+     {
+      "parca": "kotu_kulak",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Konuşma bir yandan, gürültü öbür yandan geldiğinde baş, gürültüyü kendi gölgesindeki kulakta azaltır.",
+    "Bu kulakta konuşmanın gürültüye oranı, yani sinyal-gürültü oranı daha iyidir.",
+    "Baş gölgesi etkisi (head shadow effect) tiz frekanslarda daha büyüktür ve konuşmanın anlaşılırlığı için önemlidir.",
+    "Konuşmayı anlama testlerinde bu etkinin birkaç desibellik, çoğu zaman yaklaşık altı desibele varan bir kazanç sağladığı bildirilir.",
+    "Bu kazanç büyük ölçüde fizikseldir; beynin yalnız daha iyi durumdaki kulağa yönelmesi yeterlidir.",
+    "Tek taraflı kaybı olan kişi, gürültü iyi kulağı tarafından geldiğinde bu avantajı kaybeder."
+   ]
+  },
+  {
+   "id": "toplama_squelch",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Gürültüde işitme",
+   "baslik": "Toplama ve *baskılama*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Binaural toplama",
+     "metin": "Eşikte yaklaşık 3 dB kazanç",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Daha yüksek",
+     "metin": "Ses daha yüksek algılanır",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşmaya katkı",
+     "metin": "Küçük ama değerli",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Binaural baskılama",
+     "metin": "Squelch: iki kulak farkını kullanır",
+     "cumle": 3
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü bastırılır",
+     "metin": "Konuşma ayrıştırılır",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Merkezi kazanç",
+     "metin": "Gürültüde birkaç dB",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Ses iki kulağa birlikte verildiğinde eşik, tek kulağa göre yaklaşık üç desibel iyileşir; buna binaural toplama (binaural summation) denir.",
+     "ses": "Ses iki kulağa birlikte verildiğinde eşik, tek kulağa göre yaklaşık üç desibel iyileşir; buna binaural toplama denir."
+    },
+    "Eşiğin üstündeki düzeylerde ses, iki kulakla daha da belirgin biçimde yüksek algılanır.",
+    "Bu etki konuşmayı anlamada küçük ama değerli bir katkı sağlar.",
+    {
+     "yazi": "Binaural baskılama (binaural squelch) ise konuşma ile gürültünün iki kulağa ulaşırken gösterdiği zaman ve şiddet farklarından yararlanır.",
+     "ses": "Binaural baskılama ise konuşma ile gürültünün iki kulağa ulaşırken gösterdiği zaman ve şiddet farklarından yararlanır."
+    },
+    "Beyin sapı bu farkları kullanarak gürültüyü kısmen bastırır ve konuşmayı ayrıştırır.",
+    "Bu merkezi kazanç genellikle baş gölgesinin sağladığından küçüktür, ama gerçek ortamlarda önemlidir."
+   ]
+  },
+  {
+   "id": "mld",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Gürültüde işitme",
+   "baslik": "Binaural maskeleme *farkı*",
+   "adimlar": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Aynı sunum",
+     "metin": "Ton, gürültü iki kulakta aynı",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Faz ters",
+     "metin": "Bir kulakta tonun fazı ters",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Eşik iyileşir",
+     "metin": "500 Hz'de 10 ile 15 dB",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Klinik kullanım",
+     "metin": "Beyin sapı işlevini sınar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Binaural işlemenin gücü, maskeleme düzey farkı (masking level difference), kısaca MLD ile ölçülebilir.",
+     "ses": "Binaural işlemenin gücü, maskeleme düzey farkı, kısaca MLD ile ölçülebilir."
+    },
+    "Önce ton ve gürültü iki kulağa da tamamen aynı biçimde verilir ve tonun eşiği bulunur.",
+    "Sonra yalnız bir kulaktaki tonun fazı ters çevrilir; bu kez ton gürültünün içinden çok daha kolay duyulur.",
+    "Pes frekanslarda, örneğin beş yüz hertzde, bu iyileşme normal işitenlerde genellikle on ile on beş desibel civarındadır.",
+    "Test beyin sapındaki binaural işlemeyi yansıttığı için işitsel işlemleme değerlendirmelerinde de kullanılır."
+   ]
+  },
+  {
+   "id": "tek_tarafli",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik yansımalar",
+   "baslik": "Örnek: *tek taraflı* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: orta derece kayıp",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       40,
+       45,
+       50,
+       55,
+       60,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulak normal sınırlarda; eşikler insert kulaklıkla ölçülmüş.",
+    "Sol kulakta ise frekansla artan, orta derecede bir işitme kaybı görülüyor.",
+    "Böyle bir kişi sessiz bir odada karşısındaki kişiyi çoğu zaman iyi anlayabilir.",
+    "Ancak sesin yönünü bulmakta zorlanabilir; konuşma sol, gürültü sağ taraftan geldiğinde güçlük belirgin biçimde artar.",
+    "Çünkü iki kulak arasındaki fark, zaman ve şiddet ipuçlarını bozar ve baş gölgesinden yararlanmayı zorlaştırır.",
+    "Bu nedenle tek taraflı kayıplar, odyogramdaki görünümlerinden daha büyük günlük güçlüklere yol açabilir."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik yansımalar",
+   "baslik": "Klinikte *iki kulak*",
+   "maddeler": [
+    {
+     "metin": "İki taraflı kayıpta _iki_ cihazın avantajı",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Tek cihazda cihazsız kulakta _yoksunluk_ riski",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tek taraflı ileri kayıpta _farklı_ seçenekler",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Karar kişiye ve _bulgulara_ göre",
+     "cumle": 5,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "ayar": {
+     "tip": "BTE"
+    },
+    "cumle": 0
+   },
+   "cumleler": [
+    "İki taraflı işitme kaybında iki kulağa cihaz uygulamak, binaural avantajların korunmasına yardım eder.",
+    "Çalışmalar, iki taraflı uygulamanın gürültüde anlamaya ve yön bulmaya katkı sağlayabildiğini göstermiştir.",
+    "İki taraflı kaybı olup tek cihaz kullanan bazı kişilerde, cihazsız kulağın konuşmayı ayırt etme skoru zamanla düşebilir.",
+    "Bu duruma geç başlangıçlı işitsel yoksunluk (late-onset auditory deprivation) denir.",
+    {
+     "yazi": "Tek taraflı ileri kayıpta karşı tarafa sinyal yönlendiren CROS sistemleri, kemiğe yerleşimli cihazlar ve koklear implant seçenekleri vardır.",
+     "ses": "Tek taraflı ileri kayıpta karşı tarafa sinyal yönlendiren kros sistemleri, kemiğe yerleşimli cihazlar ve koklear implant seçenekleri vardır."
+    },
+    "Her seçeneğin kendine göre avantajları vardır; karar kişinin işitmesine, beklentisine ve ekip değerlendirmesine göre verilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik yansımalar",
+   "baslik": "Klinik ipucu",
+   "metin": "Tek taraflı kayıpta kişiye, konuşulan kişiyi iyi kulak tarafına almasını ve gürültü kaynağını kayıplı kulak tarafında bırakmasını anlatın. Bu basit yerleşim anlamayı kolaylaştırır.",
+   "cumleler": [
+    "Bir klinik ipucu: tek taraflı kaybı olan kişiye baş gölgesini kendi lehine kullanmayı anlatın.",
+    "Toplantıda ya da masada, konuşulan kişiyi iyi kulak tarafına almak anlamayı kolaylaştırır.",
+    "Gürültü kaynağını, örneğin kalabalık bir masayı ya da kapıyı, kayıplı kulak tarafında bırakmak da yardımcı olur.",
+    "Bu basit öneriler, ölçümle birlikte danışmanlığın da önemli bir parçasıdır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_ITD_: pes frekanslarda yön",
+     "cumle": 0,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_ILD_ ve baş gölgesi: tiz frekanslar",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Toplama yaklaşık _3 dB_, squelch birkaç dB",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Tek taraflı kayıp: yön ve _gürültü_ güçlüğü",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Kulaklar arası zaman farkı, özellikle pes frekanslarda yön bulmanın temel ipucudur.",
+    "Kulaklar arası şiddet farkı ve baş gölgesi ise tiz frekanslarda belirgindir.",
+    "Binaural toplama eşikte yaklaşık üç desibel kazandırır; binaural baskılama gürültüde ek bir avantaj sağlar.",
+    "Tek taraflı kayıp, yön bulmayı ve gürültüde anlamayı belirgin biçimde zorlaştırabilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Tiz frekanslarda yön bulmanın temel ipucu hangisidir?",
+   "secenekler": [
+    "Kulaklar arası zaman farkı",
+    "Kulaklar arası şiddet farkı",
+    "Binaural toplama",
+    "Kemik yolu"
+   ],
+   "dogru": 1,
+   "aciklama": "Tiz seslerin dalga boyu baştan kısadır; _baş gölgesi_ uzak kulakta şiddet farkı yaratır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Tiz frekanslarda yön bulmanın temel ipucu hangisidir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: kulaklar arası şiddet farkı.",
+     "ses": "Doğru cevap be: kulaklar arası şiddet farkı."
+    },
+    "Tiz seslerin dalga boyu baştan kısadır; baş gölgesi uzak kulakta belirgin bir şiddet farkı yaratır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vestibüler fizyoloji: baş hareketi *nasıl algılanır?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iç kulağın denge bölümüne dönüyor ve baş hareketinin nasıl algılandığını öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

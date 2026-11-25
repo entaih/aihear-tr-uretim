@@ -1,0 +1,789 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D194_Iki_Kulak_CROS_BiCROS_TR",
+ "kapak": {
+  "ust": "DERS 194",
+  "baslik": "İki kulak<br>ve *CROS*",
+  "alt": "Binaural uygulama ve tek taraflı kayıp",
+  "cizim": "bas_ustten",
+  "ayar": {
+   "mod": "golge"
+  }
+ },
+ "youtube": {
+  "baslik": "İki kulağa cihaz, CROS ve BiCROS | Ders 194 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İki kulağa cihaz neden çoğu zaman tercih edilir, tek kulağı yararlanamayan kişiye ne önerilir? Bu derste binaural avantajları, geç başlangıçlı işitsel yoksunluğu, binaural girişimi, CROS ve BiCROS sistemlerini ve tek taraflı sağırlıkta diğer seçenekleri öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Silman, Gelfand ve Silverman (1984), Late-onset auditory deprivation: effects of monaural versus binaural hearing aids, Journal of the Acoustical Society of America; Jerger, Silman, Lew ve Chmiel (1993), Case studies in binaural interference, Journal of the American Academy of Audiology; Mueller, Ricketts ve Bentler, Modern Hearing Aids.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "CROS"
+  ],
+  "etiketler": [
+   "iki kulağa amplifikasyon",
+   "binaural amplification",
+   "CROS",
+   "BiCROS",
+   "geç başlangıçlı işitsel yoksunluk",
+   "late-onset auditory deprivation",
+   "binaural girişim",
+   "tek taraflı sağırlık",
+   "single-sided deafness",
+   "baş gölgesi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 194",
+   "baslik": "İki kulak, *CROS* ve BiCROS",
+   "alt": "Binaural uygulama ve tek taraflı kayıp",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iki kulağa cihaz uygulamanın neden çoğu zaman tercih edildiğini ve geç başlangıçlı işitsel yoksunluğu öğreneceğiz.",
+    "Ardından tek kulağı yararlanamayan kişiler için karşı tarafa sinyal yönlendiren CROS ve BiCROS sistemlerini göreceğiz."
+   ]
+  },
+  {
+   "id": "avantaj",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İki kulağa cihaz",
+   "baslik": "İki kulağın *kazançları*",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Toplama",
+     "cumle": 1,
+     "metin": "Ses daha yüksek algılanır"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Baş gölgesi",
+     "cumle": 2,
+     "metin": "İyi taraftaki kulak"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Baskılama",
+     "cumle": 3,
+     "metin": "Gürültüyü ayırma"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Yön bulma",
+     "cumle": 4,
+     "metin": "Zaman ve şiddet farkı"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Rahatlık",
+     "cumle": 5,
+     "metin": "Daha dolgun ses"
+    }
+   ],
+   "cumleler": [
+    "İki kulağa amplifikasyon (binaural amplification), binaural işitmenin avantajlarını korumayı amaçlar.",
+    "Binaural toplama nedeniyle aynı ses iki kulakla daha yüksek algılanır; eşikte yaklaşık 3, eşik üstünde yaklaşık 6 dB artış bildirilir.",
+    "Baş gölgesi etkisi sayesinde kişi, gürültünün karşı tarafında kalan kulağından yararlanabilir.",
+    "Binaural baskılama, iki kulağa ulaşan zaman ve şiddet farklarını kullanarak konuşmayı gürültüden ayırmaya yardım eder.",
+    "Yön bulma da iki kulak arasındaki bu farklara dayanır; tek cihazla bu ipuçları bozulur.",
+    "Kullanıcılar çoğu zaman iki cihazla sesi daha dolgun, dengeli ve doğal bulduklarını söyler."
+   ]
+  },
+  {
+   "id": "golge",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İki kulağa cihaz",
+   "baslik": "İki cihaz, *iki seçenek*",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "golge",
+    "gurultu_yonu": "sag"
+   },
+   "etiketler": [
+    {
+     "parca": "konusma",
+     "metin": "konuşma",
+     "cumle": 0
+    },
+    {
+     "parca": "gurultu",
+     "metin": "gürültü",
+     "cumle": 0
+    },
+    {
+     "parca": "bas_golgesi",
+     "metin": "baş gölgesi",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "bas_golgesi",
+     "cumle": 1
+    },
+    {
+     "parca": "iyi_kulak",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Bu çizimde konuşma bir taraftan, gürültü ise öbür taraftan geliyor.",
+    "Başın gölgesinde kalan kulakta gürültü azalır; bu kulakta sinyal-gürültü oranı daha iyidir.",
+    "İki kulağa cihaz takılan kişi, konuşmanın ve gürültünün hangi taraftan geldiğine bakmadan iyi konumdaki kulağı kullanabilir.",
+    "Tek cihaz kullanan kişide ise iyi konumdaki kulak cihazsız kalabilir ve bu avantaj kaybolur.",
+    "Bu nedenle iki taraflı ve benzer düzeyde kaybı olan kişilerde genellikle iki kulağa cihaz önerilir.",
+    "Ayrıca iki cihaz kablosuz haberleşerek program ve ses düzeyi değişikliklerini birlikte yapabilir."
+   ]
+  },
+  {
+   "id": "kazanc",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İki kulağa cihaz",
+   "baslik": "İki cihazda *daha az* kazanç",
+   "maddeler": [
+    {
+     "metin": "İki kulak sesi toplar",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Her cihazda biraz daha az kazanç",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Daha az geri besleme riski",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yazılıma iki taraflı uyum girilir",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "islemci",
+      "metin": "iki cihaz birlikte",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "islemci",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "İki kulak ses yüksekliğini topladığı için, iki cihazla aynı yükseklik için her cihaza biraz daha az kazanç yeterlidir.",
+    {
+     "yazi": "Bu yüzden NAL-NL2 gibi formüller, iki taraflı uyumda tek taraflı uyuma göre daha düşük hedef verir.",
+     "ses": "Bu yüzden NAL NL 2 gibi formüller, iki taraflı uyumda tek taraflı uyuma göre daha düşük hedef verir."
+    },
+    "Daha az kazanç, ses kalitesini ve rahatlığı da olumlu etkileyebilir.",
+    "Ayrıca geri besleme payı artar; bu özellikle açık uyumlarda önemlidir.",
+    "Hedefin doğru hesaplanması için yazılıma uyumun iki taraflı olduğu mutlaka girilmelidir."
+   ]
+  },
+  {
+   "id": "yoksunluk",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tek mi, iki mi?",
+   "baslik": "Geç başlangıçlı *işitsel yoksunluk*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 5,
+     "ad": "Yıl",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    "y": {
+     "min": 50,
+     "max": 100,
+     "adim": 10,
+     "ad": "Ayırt etme skoru (yüzde)"
+    },
+    "seriler": [
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        0,
+        84
+       ],
+       [
+        1,
+        84
+       ],
+       [
+        2,
+        85
+       ],
+       [
+        3,
+        84
+       ],
+       [
+        4,
+        84
+       ],
+       [
+        5,
+        84
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "cihazlı kulak",
+      "cumle": 1
+     },
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        0,
+        84
+       ],
+       [
+        1,
+        80
+       ],
+       [
+        2,
+        76
+       ],
+       [
+        3,
+        73
+       ],
+       [
+        4,
+        70
+       ],
+       [
+        5,
+        68
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "cihazsız kulak",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "dusus",
+      "y": [
+       68,
+       84
+      ],
+      "xk": 5,
+      "etiket": "örnek düşüş",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "İki taraflı kaybı olup yalnız bir kulağa cihaz takılan bazı kişilerde ilginç bir değişiklik görülür.",
+    "Bu grafik bu değişikliği örnek değerlerle gösteriyor: cihazlı kulağın konuşmayı ayırt etme skoru yıllar içinde sabit kalıyor.",
+    "Cihazsız kalan kulağın skoru ise zamanla düşüyor; oysa iki kulağın eşikleri değişmemiştir.",
+    "Bu duruma geç başlangıçlı işitsel yoksunluk (late-onset auditory deprivation) denir.",
+    {
+     "yazi": "İlk kez 1984'te, tek cihaz ve iki cihaz kullanan kişileri karşılaştıran bir çalışmayla tanımlandı.",
+     "ses": "İlk kez bin dokuz yüz seksen dörtte, tek cihaz ve iki cihaz kullanan kişileri karşılaştıran bir çalışmayla tanımlandı."
+    },
+    "Cihazsız kulağa sonradan cihaz takıldığında bazı kişilerde skor kısmen düzelir, bazılarında ise düzelmez."
+   ]
+  },
+  {
+   "id": "tek",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tek mi, iki mi?",
+   "baslik": "Tek cihaz *ne zaman?*",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Binaural girişim",
+     "cumle": 0,
+     "metin": "İki kulak daha kötü"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Büyük asimetri",
+     "cumle": 2,
+     "metin": "Bir kulak yararlanamaz"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "El becerisi",
+     "cumle": 3,
+     "metin": "İki cihaz zor"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Kişinin tercihi",
+     "cumle": 4,
+     "metin": "Denemeyle karar"
+    }
+   ],
+   "cumleler": [
+    "Bazı kişilerde, çoğunlukla ileri yaşta, iki kulakla dinleme tek kulakla dinlemeden daha kötü sonuç verebilir.",
+    {
+     "yazi": "Bu duruma binaural girişim (binaural interference) denir; 1990'larda vaka çalışmalarıyla tanımlanmıştır.",
+     "ses": "Bu duruma binaural girişim denir; bin dokuz yüz doksanlı yıllarda vaka çalışmalarıyla tanımlanmıştır."
+    },
+    "İki kulak arasındaki fark çok büyükse ve bir kulak cihazdan anlamlı yarar göremiyorsa, iki cihaz anlamını yitirebilir.",
+    "El becerisi ya da maliyet nedeniyle iki cihazı kullanmak zor olabilir; bu da kararın bir parçasıdır.",
+    "Şüphe varsa kişi bir süre hem tek hem iki cihazla, kendi ortamlarında dener ve karar bu deneyime göre verilir.",
+    "Çoğu kişi için ise iki kulağa cihaz hem ölçümlerde hem de kişinin kendi değerlendirmesinde daha iyi sonuç verir."
+   ]
+  },
+  {
+   "id": "tek_tarafli",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "CROS",
+   "baslik": "Örnek: *tek taraflı* ileri kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Sağ kulak hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "Sol kulak hava yolu (maskeli)",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Normal bölge",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       15,
+       20,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       90,
+       95,
+       100,
+       110,
+       115,
+       110
+      ],
+      "yanitsiz": [
+       4,
+       5
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulak normal sınırlarda.",
+    "Sol kulakta ise maskeli ölçümde çok ileri derecede bir kayıp var; tiz frekanslarda cihaz sınırında yanıt alınamıyor.",
+    "Böyle bir kulakta konuşmayı ayırt etme skoru da çoğu zaman çok düşüktür; yani kulak, yükseltilmiş sesten anlamlı yarar göremez.",
+    "Bu duruma tek taraflı sağırlık (single-sided deafness) denir.",
+    "Kişi sessiz ortamda iyi duyar, ama sol tarafından konuşulduğunda ve gürültüde belirgin biçimde zorlanır.",
+    "Tek taraflı kaybı olan çocuklarda okulda güçlük riski de arttığı için bu çocuklar ayrıca yakından izlenir."
+   ]
+  },
+  {
+   "id": "cros",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "CROS",
+   "baslik": "*CROS* nasıl çalışır?",
+   "cizim": "bas_ustten",
+   "ayar": {
+    "mod": "cros",
+    "kotu_kulak": "sag",
+    "cihaz_cumle": 1,
+    "aktarim_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "kotu_kulak",
+     "metin": "kötü kulak: mikrofon ve verici",
+     "cumle": 1
+    },
+    {
+     "parca": "iyi_kulak",
+     "metin": "iyi kulak: alıcı",
+     "cumle": 2
+    },
+    {
+     "parca": "bas_golgesi",
+     "metin": "gölge aşılır",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kotu_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "iyi_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "bas_golgesi",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Karşı tarafa sinyal yönlendirme (contralateral routing of signals), kısaca CROS, bu sorun için geliştirilmiş bir sistemdir.",
+    "Kötü kulağa, yalnız mikrofon ve verici içeren bir cihaz takılır.",
+    "Bu cihaz kötü taraftaki sesi alır ve kablosuz olarak iyi kulaktaki alıcı cihaza gönderir.",
+    "Böylece kişi, kötü tarafından gelen sesi iyi kulağıyla duyar; başın gölgesi artık engel olmaz.",
+    "İyi kulak normal olduğu için oradaki cihaz genellikle açık bir uçla takılır ve kulak yolunu kapatmaz.",
+    "Yani CROS kötü kulağı iyileştirmez; yalnız onun tarafındaki sesi iyi kulağa taşır.",
+    "Günümüzde bu aktarım kablosuz yapılır; eski sistemlerde iki cihaz başın arkasından bir kabloyla bağlanırdı."
+   ]
+  },
+  {
+   "id": "cros_arti",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "CROS",
+   "baslik": "CROS: *beklenti* ve sınır",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Kötü taraf",
+     "cumle": 0,
+     "metin": "Konuşma duyulur"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Yön bulma",
+     "cumle": 1,
+     "metin": "Geri gelmez"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü kötü tarafta",
+     "cumle": 2,
+     "metin": "Sorun artabilir"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Deneme",
+     "cumle": 4,
+     "metin": "Gerçek ortamda"
+    }
+   ],
+   "cumleler": [
+    "CROS'un en büyük yararı, kötü taraftan gelen konuşmanın, örneğin araçta yan koltuktaki kişinin, duyulabilmesidir.",
+    "Ancak iki kulağın işitmesi geri gelmediği için yön bulma ve binaural baskılama düzelmez.",
+    "Gürültü kötü taraftan geliyorsa, CROS bu gürültüyü de iyi kulağa taşır ve konuşmayı anlamayı zorlaştırabilir.",
+    "Bu yüzden birçok sistemde vericinin açılıp kapatılması ya da yönlü mikrofon kullanılması mümkündür.",
+    "Kişinin yararı büyük ölçüde günlük ortamlarına bağlıdır; karar gerçek yaşamda yapılan bir deneme dönemiyle verilir.",
+    "Kullanıcıya, sistemin kötü kulağı değil, onun tarafındaki sesi hedef aldığı açıkça anlatılmalıdır."
+   ]
+  },
+  {
+   "id": "bicros",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "BiCROS ve seçenekler",
+   "baslik": "*BiCROS*: iyi kulakta da kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Sağ kulak hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "Sol kulak hava yolu (maskeli)",
+     "cumle": 0
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Normal bölge",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       35,
+       45,
+       55,
+       60
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       90,
+       95,
+       100,
+       110,
+       115,
+       110
+      ],
+      "yanitsiz": [
+       4,
+       5
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sol kulak yine yararlanamayacak düzeyde, ama bu kez sağ kulakta da hafif ile orta derece arasında bir kayıp var.",
+    "Sağ kulağın kendisi de yükseltmeye ihtiyaç duyuyor.",
+    "BiCROS, iki taraflı CROS anlamına gelir: iyi kulaktaki cihaz hem kendi mikrofonundaki sesi hem de karşıdan gelen sesi yükseltir.",
+    "Bu yüzden iyi kulaktaki cihaz, o kulağın kaybına göre reçete hedefiyle ayarlanır ve doğrulanır.",
+    "Kulak yolunun ne kadar kapatılacağı da iyi kulağın kayıp düzeyine göre seçilir."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "BiCROS ve seçenekler",
+   "baslik": "Hangi durumda *hangisi?*",
+   "sutunlar": [
+    "Durum",
+    "Seçenek"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "İki taraflı benzer kayıp",
+      "İki kulağa cihaz"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Yararsız ve normal kulak",
+      "CROS"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Yararsız ve kayıplı kulak",
+      "BiCROS"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Tek taraflı sağırlık",
+      "Ekip değerlendirmesi"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Şimdi seçenekleri bir arada görelim.",
+    "İki taraflı ve benzer düzeyde kayıpta genellikle iki kulağa cihaz önerilir.",
+    "Bir kulak cihazdan yararlanamıyor ve diğer kulak normalse CROS düşünülebilir.",
+    "Yararlanamayan kulağın karşısındaki kulakta da kayıp varsa BiCROS seçeneği gündeme gelir.",
+    "Tek taraflı sağırlıkta ayrıca kemiğe yerleşimli cihazlar ve koklear implant da seçenekler arasındadır.",
+    "Bu seçeneklerde karar, odyolog, hekim ve kişinin birlikte yer aldığı ekip değerlendirmesiyle verilir."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "BiCROS ve seçenekler",
+   "baslik": "Başka *seçenekler*",
+   "maddeler": [
+    {
+     "metin": "Kemik yoluyla karşı kokleaya",
+     "cumle": 0,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Koklear implant: kötü kulağı uyarır",
+     "cumle": 2,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Her seçeneğin artısı farklı",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Kemiğe yerleşimli cihazlar, kötü taraftaki sesi kafatası titreşimiyle iyi taraftaki kokleaya iletir.",
+    "Bu da CROS gibi sesi karşı tarafa taşır; ama ses havadan değil, kemik yoluyla ulaşır.",
+    "Tek taraflı sağırlıkta koklear implant ise kötü kulağın kendisini uyarır ve iki kulakla işitmeyi kısmen geri getirmeyi hedefler.",
+    "Bu seçenek için işitme kaybının süresi ve işitme sinirinin durumu gibi etkenler ekip tarafından değerlendirilir.",
+    "Her seçeneğin kendine göre avantajı vardır; odyoloğun görevi kişiye bunları tarafsız biçimde anlatmaktır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "CROS deneyecek kişiye gürültünün genellikle hangi taraftan geldiğini sorun. Araç, masa, iş yeri oturma düzeni gibi günlük durumlar, sistemin yararını belirler.",
+   "cumleler": [
+    "Sahadan bir ipucu: CROS önermeden önce kişinin günlük ortamlarını ayrıntılı sorun.",
+    "Araçta hangi koltukta oturuyor, toplantıda masanın neresinde, iş yerinde gürültü hangi taraftan geliyor?",
+    "Kötü tarafına sürekli konuşmacı geliyorsa yarar büyük olabilir; kötü taraf hep gürültülüyse sınırlı kalabilir.",
+    "Deneme döneminde kişiden bu durumlar için kısa notlar tutmasını isteyin.",
+    "Kontrol görüşmesinde bu notlar, sistemi sürdürme ya da başka bir seçeneğe geçme kararını somutlaştırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "İki kulak: toplama, gölge, baskılama, yön",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tek cihazda cihazsız kulak skor kaybedebilir",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "CROS: kötü taraftaki sesi iyi kulağa",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "BiCROS: iyi kulakta da kayıp varsa",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Bu derste iki kulağa cihazın binaural toplama, baş gölgesi, baskılama ve yön bulma avantajlarını koruduğunu gördük.",
+    "Tek cihaz kullanan iki taraflı kayıplı kişilerde cihazsız kulakta geç başlangıçlı işitsel yoksunluk görülebilir.",
+    "CROS, yararlanamayan kulağın tarafındaki sesi iyi kulağa taşır; ama yön bulmayı geri getirmez.",
+    "BiCROS ise iyi kulakta da kayıp olduğunda, o kulağı yükseltirken karşı taraftaki sesi de ekler."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Bir kulak yararsız, diğerinde orta kayıp varsa?",
+   "secenekler": [
+    "Tek cihaz kötü kulağa",
+    "CROS",
+    "BiCROS",
+    "Cihaz gerekmez"
+   ],
+   "dogru": 2,
+   "aciklama": "İyi kulak da yükseltmeye ihtiyaç duyduğu için _BiCROS_ hem o kulağı yükseltir hem karşı taraftaki sesi ekler.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: bir kulağı cihazdan yararlanamayan, diğer kulağında orta derece kayıp olan kişi için hangi sistem uygundur?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap C: BiCROS.",
+     "ses": "Doğru cevap ce şıkkı: bay kros."
+    },
+    "İyi kulak da yükseltmeye ihtiyaç duyduğu için sistem hem o kulağı yükseltir hem de karşı taraftaki sesi ona ekler."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Cihaz başarısını ölçmek: *APHAB*, IOI-HA ve SSQ",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste cihaz başarısını kişinin kendi değerlendirmesiyle ölçen ölçekleri öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

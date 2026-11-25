@@ -1,0 +1,1115 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D199_ECochG_SP_AP_TR",
+ "kapak": {
+  "ust": "DERS 199",
+  "baslik": "*ECochG*<br>ve SP/AP",
+  "alt": "Elektrokokleografi ve hidrops",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 5,
+    "ad": "Zaman (ms)",
+    "isaretler": [
+     0,
+     1,
+     2,
+     3,
+     4,
+     5
+    ]
+   },
+   "y": {
+    "min": -1.2,
+    "max": 0.3,
+    "adim": 0.5,
+    "ad": "Genlik (µV)",
+    "ond": 1
+   },
+   "seriler": [
+    {
+     "ad": "normal",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       0.6,
+       0
+      ],
+      [
+       0.75,
+       -0.05
+      ],
+      [
+       0.9,
+       -0.2
+      ],
+      [
+       1.05,
+       -0.25
+      ],
+      [
+       1.22,
+       -0.2625
+      ],
+      [
+       1.38,
+       -0.75
+      ],
+      [
+       1.5,
+       -1.0
+      ],
+      [
+       1.62,
+       -0.7
+      ],
+      [
+       1.8,
+       -0.35
+      ],
+      [
+       2.1,
+       -0.18
+      ],
+      [
+       2.6,
+       -0.08
+      ],
+      [
+       3.2,
+       0
+      ],
+      [
+       5,
+       0
+      ]
+     ],
+     "renk": "gri",
+     "yumusak": true,
+     "kesik": true,
+     "etiket": "örnek normal",
+     "cumle": 1
+    },
+    {
+     "ad": "hidrops",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       0.6,
+       0
+      ],
+      [
+       0.75,
+       -0.05
+      ],
+      [
+       0.9,
+       -0.48
+      ],
+      [
+       1.05,
+       -0.6
+      ],
+      [
+       1.22,
+       -0.63
+      ],
+      [
+       1.38,
+       -0.75
+      ],
+      [
+       1.5,
+       -1.0
+      ],
+      [
+       1.62,
+       -0.7
+      ],
+      [
+       1.8,
+       -0.35
+      ],
+      [
+       2.1,
+       -0.18
+      ],
+      [
+       2.6,
+       -0.08
+      ],
+      [
+       3.2,
+       0
+      ],
+      [
+       5,
+       0
+      ]
+     ],
+     "renk": "mavi",
+     "yumusak": true,
+     "kalin": true,
+     "etiket": "örnek hidrops",
+     "cumle": 3
+    }
+   ],
+   "araliklar": [
+    {
+     "ad": "buyuk_sp",
+     "y": [
+      -0.6,
+      0
+     ],
+     "xk": 0.95,
+     "etiket": "büyük SP",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Elektrokokleografi (ECochG) ve SP/AP oranı | Ders 199 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Elektrokokleografi nedir, SP/AP oranı nasıl hesaplanır? Bu derste koklear mikrofonik, sumasyon potansiyeli ve aksiyon potansiyelini, transtimpanik ve ekstratimpanik elektrotları ve endolenfatik hidropsta artan SP/AP oranının tanıdaki değerini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Lopez-Escamez ve ark., Diagnostic criteria for Meniere's disease, Journal of Vestibular Research (2015); Ayub ve ark., A systematic review and meta-analysis of extratympanic electrocochleography in Ménière's disease diagnosis, International Journal of Audiology (2019).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ECochG",
+   "Meniere"
+  ],
+  "etiketler": [
+   "ECochG",
+   "elektrokokleografi",
+   "SP/AP oranı",
+   "sumasyon potansiyeli",
+   "aksiyon potansiyeli",
+   "koklear mikrofonik",
+   "endolenfatik hidrops",
+   "Meniere hastalığı",
+   "tiptrode",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 199",
+   "baslik": "*ECochG* ve SP/AP oranı",
+   "alt": "Kokleaya en yakın elektrofizyolojik kayıt",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste elektrokokleografiyi, kısaca ECochG'yi ve bu kayıtta görülen üç bileşeni öğreneceğiz.",
+    "Elektrot türlerini, sumasyon ve aksiyon potansiyeli oranının nasıl hesaplandığını ve endolenfatik hidropsla ilişkisini ele alacağız."
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ECochG nedir?",
+   "baslik": "Yanıtlar *nereden* gelir?",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Dış tüy hücreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "İç tüy hücresi",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "Koklear sinir lifleri",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 2
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "corti_organi",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Elektrokokleografi (electrocochleography), sese karşı koklea ve işitme sinirinin ilk bölümünde oluşan elektriksel potansiyellerin kaydıdır.",
+    "Bu yanıtlar uyarandan sonraki ilk birkaç milisaniyede ortaya çıkar; bu yüzden ECochG erken yanıtlar grubundadır.",
+    "İlk iki bileşen tüy hücrelerinden kaynaklanır; bunlar koklear mikrofonik ve sumasyon potansiyelidir.",
+    "Dış tüy hücreleri koklear mikrofoniğe en büyük katkıyı yapar; sumasyon potansiyeline ise iç ve dış tüy hücreleri birlikte katkıda bulunur.",
+    "Üçüncü bileşen, işitme sinirinin liflerinin eş zamanlı ateşlemesiyle oluşan aksiyon potansiyelidir.",
+    "Elektrot kokleaya ne kadar yakınsa, bu küçük yanıtlar o kadar büyük ve net kaydedilir.",
+    "Bu nedenle ECochG, kokleaya en yakın noktadan alınan elektrofizyolojik kayıt olarak düşünülebilir."
+   ]
+  },
+  {
+   "id": "bilesenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ECochG nedir?",
+   "baslik": "Üç *bileşen*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "CM",
+     "metin": "Uyaranı izler; polariteyle ters döner.",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "SP",
+     "metin": "Tabanı kaydıran doğru akım bileşeni.",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "AP",
+     "metin": "Sinir yanıtı; ABR dalga I.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Koklear mikrofonik (cochlear microphonic), kısaca CM, uyaranın dalga biçimini birebir izleyen bir alternatif akım yanıtıdır.",
+    "Uyaranın polaritesi değişince CM de ters döner; bu yüzden iki polaritenin ortalamasında söner.",
+    "Sumasyon potansiyeli (summating potential), kısaca SP, uyaran sürdükçe taban çizgisini bir yöne kaydıran doğru akıma benzer bir bileşendir.",
+    "SP polariteyle yön değiştirmez; bu yüzden alternan polaritede de kayıtta kalır.",
+    "Aksiyon potansiyeli (action potential), kısaca AP, işitme sinirinin toplu yanıtıdır ve ilk negatif tepesine N1 denir.",
+    "AP, işitsel beyin sapı yanıtı, kısaca ABR'deki dalga I ile aynı yanıttır; latansı yaklaşık bir buçuk milisaniyedir."
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ECochG nedir?",
+   "baslik": "ECochG *dalga biçimi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 5,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 0.3,
+     "adim": 0.5,
+     "ad": "Genlik (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "iz",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.6,
+        0
+       ],
+       [
+        0.75,
+        -0.05
+       ],
+       [
+        0.9,
+        -0.2
+       ],
+       [
+        1.05,
+        -0.25
+       ],
+       [
+        1.22,
+        -0.2625
+       ],
+       [
+        1.38,
+        -0.75
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.62,
+        -0.7
+       ],
+       [
+        1.8,
+        -0.35
+       ],
+       [
+        2.1,
+        -0.18
+       ],
+       [
+        2.6,
+        -0.08
+       ],
+       [
+        3.2,
+        0
+       ],
+       [
+        5,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "taban",
+      "x": 0.3,
+      "y": 0,
+      "cizgi": "yatay",
+      "etiket": "taban çizgisi",
+      "cumle": 1
+     },
+     {
+      "ad": "sp",
+      "x": 1.15,
+      "y": -0.26,
+      "etiket": "SP",
+      "cumle": 2
+     },
+     {
+      "ad": "ap",
+      "x": 1.5,
+      "y": -1.0,
+      "etiket": "AP (N1)",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "sp_genlik",
+      "y": [
+       -0.26,
+       0
+      ],
+      "xk": 0.95,
+      "etiket": "SP",
+      "cumle": 5
+     },
+     {
+      "ad": "ap_genlik",
+      "y": [
+       -1.0,
+       0
+      ],
+      "xk": 2.2,
+      "etiket": "AP",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Genlik _tabandan_ ölçülür",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Oran = SP / AP",
+     "cumle": 6,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Bu şematik çizim, alternan polariteli klik uyaranla alınmış örnek bir ECochG kaydını gösteriyor.",
+    "Ölçümler önce kayıttaki taban çizgisinin belirlenmesiyle başlar.",
+    "AP'den hemen önce, taban çizgisinden ayrılan küçük bir omuz görülür; bu SP'dir.",
+    "Ardından keskin ve büyük bir tepe gelir; bu AP'nin N1 tepesidir.",
+    "Kayıt sistemine göre bu tepeler yukarı ya da aşağı doğru çizilebilir; önemli olan aynı ölçüm kuralının kullanılmasıdır.",
+    "SP ve AP genlikleri, taban çizgisinden ilgili noktaya kadar ölçülür.",
+    {
+     "yazi": "SP genliği AP genliğine bölünür; elde edilen değere SP/AP oranı denir.",
+     "ses": "Sumasyon potansiyelinin genliği, aksiyon potansiyelinin genliğine bölünür; bu değere se pe a pe oranı denir."
+    }
+   ]
+  },
+  {
+   "id": "elektrot",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Elektrot ve kayıt",
+   "baslik": "Elektrot *nereye* konur?",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "promontorium",
+     "metin": "Transtimpanik: promontorium",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Timpanik: zar yüzeyi",
+     "cumle": 4
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Ekstratimpanik: kulak yolu",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "promontorium",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 4
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "ECochG'de aktif elektrodun yeri, kaydın büyüklüğünü ve kalitesini belirleyen en önemli etkendir.",
+    "Transtimpanik yöntemde ince bir iğne elektrot kulak zarından geçirilerek promontoriuma yerleştirilir.",
+    "Promontorium, koklea bazal turunun orta kulağın iç duvarında oluşturduğu kabarıklıktır.",
+    "Bu işlem hekim tarafından, yerel uyuşturma ile yapılır; en büyük ve en net yanıtlar bu yöntemle alınır.",
+    "Timpanik yöntemde yumuşak uçlu bir elektrot kulak zarının yüzeyine dokundurulur; zar delinmez.",
+    "Ekstratimpanik yöntemde elektrot kulak yolunun içinde durur; tiptrode denilen köpük uçlu elektrotlar bunun yaygın örneğidir.",
+    "Elektrot kokleadan uzaklaştıkça yanıt küçülür ve daha fazla ortalama gerekir.",
+    "Ters elektrot genellikle karşı kulakta ya da mastoidde, toprak elektrot ise alında yer alır."
+   ]
+  },
+  {
+   "id": "elektrot_secim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Elektrot ve kayıt",
+   "baslik": "Üç yöntemin *dengesi*",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Transtimpanik",
+     "metin": "En büyük yanıt; invaziv, hekim uygular.",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Timpanik",
+     "metin": "Orta yanıt; zar delinmez.",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Ekstratimpanik",
+     "metin": "Konforlu; yanıt küçük, gürültüye duyarlı.",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Transtimpanik kayıt en büyük yanıtı verir, ancak invazivdir ve her merkezde uygulanmaz.",
+    "Timpanik kayıt, ekstratimpanik kayda göre daha büyük yanıtı invaziv olmadan sunar; ancak elektrodun zara temas etmesi rahatsızlık verebilir.",
+    "Ekstratimpanik kayıt en konforlu yöntemdir; ancak yanıtlar küçüktür ve kayıt gürültüye daha duyarlıdır.",
+    "Hangi yöntem seçilirse seçilsin, normal değerler o yönteme ve o laboratuvara özgüdür.",
+    "Bu yüzden bir merkezde elde edilen oran, başka bir yöntemin sınır değerleriyle karşılaştırılmaz."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Elektrot ve kayıt",
+   "baslik": "Uyaran ve *kayıt*",
+   "maddeler": [
+    {
+     "metin": "Yüksek şiddette _klik_ ya da tonburst",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "SP ve AP için _alternan_ polarite",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "CM için _iki polarite_ ayrı kaydedilir",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Alçak frekans filtresi _çok düşük_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Kısa zaman penceresi, _iki tekrar_",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "Dalga I = AP",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "ECochG'de genellikle yüksek şiddette, yaklaşık doksan desibel düzeyinde klik ya da tonburst uyaran kullanılır.",
+    "SP ve AP ölçümü için alternan polarite tercih edilir; böylece CM ve uyaran artefaktı ortalamada söner.",
+    "CM incelenecekse seyrelme ve sıkışma polariteleri ayrı ayrı kaydedilir ve iki kayıt karşılaştırılır.",
+    "SP doğru akıma benzeyen yavaş bir potansiyel olduğu için alçak frekans filtresi çok düşük tutulur.",
+    "Tonburst uyaranla SP daha belirgin görülebilir; bazı merkezler bu yüzden ek olarak tonburst kaydı alır.",
+    "Zaman penceresi kısadır ve her kayıt en az iki kez alınarak tekrarlanabilirlik doğrulanır."
+   ]
+  },
+  {
+   "id": "hidrops",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "SP/AP oranı",
+   "baslik": "Hidropsta *büyüyen* SP",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 5,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      1,
+      2,
+      3,
+      4,
+      5
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 0.3,
+     "adim": 0.5,
+     "ad": "Genlik (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.6,
+        0
+       ],
+       [
+        0.75,
+        -0.05
+       ],
+       [
+        0.9,
+        -0.2
+       ],
+       [
+        1.05,
+        -0.25
+       ],
+       [
+        1.22,
+        -0.2625
+       ],
+       [
+        1.38,
+        -0.75
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.62,
+        -0.7
+       ],
+       [
+        1.8,
+        -0.35
+       ],
+       [
+        2.1,
+        -0.18
+       ],
+       [
+        2.6,
+        -0.08
+       ],
+       [
+        3.2,
+        0
+       ],
+       [
+        5,
+        0
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "örnek normal",
+      "cumle": 1
+     },
+     {
+      "ad": "hidrops",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        0.6,
+        0
+       ],
+       [
+        0.75,
+        -0.05
+       ],
+       [
+        0.9,
+        -0.48
+       ],
+       [
+        1.05,
+        -0.6
+       ],
+       [
+        1.22,
+        -0.63
+       ],
+       [
+        1.38,
+        -0.75
+       ],
+       [
+        1.5,
+        -1.0
+       ],
+       [
+        1.62,
+        -0.7
+       ],
+       [
+        1.8,
+        -0.35
+       ],
+       [
+        2.1,
+        -0.18
+       ],
+       [
+        2.6,
+        -0.08
+       ],
+       [
+        3.2,
+        0
+       ],
+       [
+        5,
+        0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "örnek hidrops",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "buyuk_sp",
+      "y": [
+       -0.6,
+       0
+      ],
+      "xk": 0.95,
+      "etiket": "büyük SP",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Hidrops: SP _büyür_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sınır _laboratuvara_ özgü",
+     "cumle": 6,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "ECochG'nin en bilinen kullanımı, endolenfatik hidropsun, yani orta skaladaki sıvı artışının araştırılmasıdır.",
+    "Gri kesik çizgi örnek bir normal kaydı, mavi çizgi ise hidropslu bir kulaktan alınmış örnek kaydı gösteriyor.",
+    "Hidropsta artan endolenf baziler membranı bir yöne doğru iter ve hareketinin simetrisini bozar.",
+    "Bunun sonucunda tüy hücrelerinin doğru akım yanıtı, yani SP büyür; AP ise aynı oranda büyümez.",
+    {
+     "yazi": "Bu yüzden SP/AP oranı artar; kayıtta AP'den önceki omuz belirgin biçimde genişler.",
+     "ses": "Bu yüzden SP AP oranı artar; kayıtta AP'den önceki omuz belirgin biçimde genişler."
+    },
+    "Ekstratimpanik ve timpanik kayıtta SP'nin AP'nin yaklaşık yarısından büyük olması çoğu laboratuvarda artmış kabul edilir.",
+    "Transtimpanik kayıtta sınır daha düşük olabilir; kesin değer her zaman laboratuvarın kendi normlarıyla belirlenir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "SP/AP oranı",
+   "baslik": "Örnek *yorum*",
+   "sutunlar": [
+    "Kulak",
+    "SP (µV)",
+    "AP (µV)",
+    "SP/AP"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Sağ",
+      "0,3",
+      "1,0",
+      "0,30"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Sol",
+      "0,6",
+      "1,0",
+      "0,60"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Örnek sınır",
+      "-",
+      "-",
+      "0,50"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek değerlerle, ekstratimpanik kayıtla alınmış bir ECochG sonucunu yorumlayalım.",
+    "Sağ kulakta SP sıfır virgül üç, AP bir mikrovolt; oran sıfır virgül otuz bulunuyor.",
+    "Sol kulakta SP sıfır virgül altı, AP yine bir mikrovolt; oran sıfır virgül altmış.",
+    "Bu örnekte laboratuvarın normal üst sınırı sıfır virgül elli olsun.",
+    "Bu durumda sol kulaktaki oran artmış kabul edilir ve bulgu endolenfatik hidropsla uyumlu olabilir.",
+    "Bu sonuç tek başına tanı koydurmaz; öykü, seri odyogramlar ve diğer testlerle birlikte hekime iletilir.",
+    "Raporda iki kulağın değerleri, kullanılan elektrot ve laboratuvar sınırı birlikte yazılır."
+   ]
+  },
+  {
+   "id": "deger",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "SP/AP oranı",
+   "baslik": "Tanıdaki *değeri*",
+   "maddeler": [
+    {
+     "metin": "Artmış oran hidropsu _destekler_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Normal oran hidropsu _dışlamaz_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Duyarlılık _orta_, özgüllük daha yüksek",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Atak dönemine göre _değişebilir_",
+     "cumle": 5,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Tanı _klinik ölçütlerle_ konur",
+     "cumle": 6,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "DİKKAT",
+    "metin": "Normal oran hidropsu *dışlamaz*",
+    "cumle": 1
+   },
+   "cumleler": [
+    {
+     "yazi": "Artmış bir SP/AP oranı, uygun öykü ve odyogramla birlikte endolenfatik hidrops düşüncesini destekler.",
+     "ses": "Artmış bir SP AP oranı, uygun öykü ve odyogramla birlikte endolenfatik hidrops düşüncesini destekler."
+    },
+    "Ancak normal bir oran hidropsu dışlamaz; Meniere hastalığı olan pek çok kişide oran normal bulunabilir.",
+    "Ekstratimpanik kayıtla yapılan çalışmaların bir meta analizinde duyarlılık yaklaşık yüzde elli bulunmuştur.",
+    "Aynı analizde özgüllük daha yüksek, yaklaşık yüzde seksen dört olarak bildirilmiştir.",
+    "Transtimpanik kayıtta ve tonburst uyaranla duyarlılığın arttığını bildiren çalışmalar vardır; sonuçlar merkezler arasında değişir.",
+    "Bulgular hastalığın evresine ve kaydın atağa yakınlığına göre de değişebilir.",
+    "Meniere dersinde gördüğümüz gibi tanı klinik ölçütlere dayanır; ECochG tanıya katkı veren yardımcı bir testtir.",
+    "Bazı merkezler genlik oranının yanında, SP ve AP eğrilerinin altında kalan alanların oranını da kullanır."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "Başka *nerede* kullanılır?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Üçüncü pencere",
+     "metin": "Superior kanal dehisansında artmış oran.",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "İşitsel nöropati",
+     "metin": "CM var, AP yok.",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Dalga I'i büyütmek",
+     "metin": "Belirsiz ABR'de kulak yolu elektrodu.",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Ameliyathane",
+     "metin": "Kulak ve beyin sapı cerrahisinde izlem.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Superior kanal dehisansı gibi üçüncü pencere sorunlarında da SP/AP oranında artış bildirilmiştir.",
+     "ses": "Superior kanal dehisansı gibi üçüncü pencere sorunlarında da SP AP oranında artış bildirilmiştir."
+    },
+    "İşitsel nöropatide ECochG, büyük bir koklear mikrofoniği ve buna karşın bozuk ya da yok olan bir AP'yi gösterebilir.",
+    "Bu bulgu, tüy hücrelerinin çalıştığını ama sinirsel eş zamanlılığın bozulduğunu düşündürür.",
+    "ABR'de dalga I belirsizse, kulak yolu elektrodu dalga I'i büyüterek dalgalar arası latansın ölçülmesine yardım eder.",
+    "Kulak ve beyin sapı cerrahisinde işitmenin izlenmesinde de kullanılır; bunu ilerideki bir derste ele alacağız."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "Uygulama *adımları*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "metin": "Kulak yolu temiz mi?",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Elektrot",
+     "metin": "Yerleşim ve temas",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Empedans",
+     "metin": "Düşük ve dengeli",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kayıt",
+     "metin": "En az iki tekrar",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Ölçüm",
+     "metin": "SP, AP, oran",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kayıttan önce otoskopi yapılır; kulak yolundaki kir ya da akıntı hem elektrot temasını hem de hasta güvenliğini etkiler.",
+    "Elektrot seçilen yönteme göre yerleştirilir ve hastanın rahat olup olmadığı sorulur.",
+    "Elektrot empedansı kontrol edilir; yüksek ya da dengesiz empedans gürültülü kayda yol açar.",
+    "Kayıt yüksek şiddette alınır ve aynı koşulda en az bir kez tekrarlanır.",
+    "Taban çizgisi, SP ve AP noktaları işaretlenir, genlikler ölçülür ve oran hesaplanır.",
+    "Raporda elektrot yöntemi, uyaran, şiddet, polarite ve laboratuvarın normal sınırı mutlaka belirtilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kayıt alınmadan önce taban çizgisini nereden ölçeceğinize karar verin; SP ve AP aynı kurala göre ölçülmezse oran yanıltıcı olur.",
+   "cumle": 0,
+   "cumleler": [
+    {
+     "yazi": "Sahadan bir ipucu: SP/AP oranı, taban çizgisinin nereye konduğuna çok duyarlıdır.",
+     "ses": "Sahadan bir ipucu: SP AP oranı, taban çizgisinin nereye konduğuna çok duyarlıdır."
+    },
+    "Taban çizgisini ve SP noktasını her kayıtta aynı kurala göre işaretleyin; küçük bir kayma oranı belirgin biçimde değiştirebilir.",
+    "Tekrar kayıtları üst üste koyun; iki kayıtta aynı yerde görülmeyen bir omuz SP olarak yorumlanmamalıdır.",
+    "Kuşkulu sonuçlarda kaydı farklı bir uyaranla, örneğin tonburst ile tekrarlamak yoruma güç katar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Üç bileşen: _CM, SP, AP_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Elektrot kokleaya yakın, _yanıt büyük_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hidropsta _SP/AP oranı_ artar",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Normal oran hidropsu _dışlamaz_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "ECochG'de koklear mikrofonik, sumasyon potansiyeli ve aksiyon potansiyeli kaydedilir; AP, ABR dalga I ile aynı yanıttır.",
+    "Transtimpanik, timpanik ve ekstratimpanik elektrotlar vardır; elektrot kokleaya yaklaştıkça yanıt büyür.",
+    {
+     "yazi": "Endolenfatik hidropsta SP büyür ve SP/AP oranı artar.",
+     "ses": "Endolenfatik hidropsta sumasyon potansiyeli büyür ve se pe bölü a pe oranı artar."
+    },
+    "Oranın duyarlılığı orta düzeydedir; normal bir sonuç hidropsu dışlamaz ve tanı klinik ölçütlerle konur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hidropsta ECochG'de ne beklenir?",
+   "secenekler": [
+    "SP/AP oranında artış",
+    "AP'nin tamamen kaybı",
+    "CM'nin kaybı",
+    "AP latansında kısalma"
+   ],
+   "dogru": 0,
+   "aciklama": "Hidropsta _SP büyür_; SP/AP oranı artar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: endolenfatik hidropsta ECochG kaydında hangi bulgu beklenir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap A: SP/AP oranında artış.",
+     "ses": "Doğru cevap A: SP AP oranında artış."
+    },
+    "Artan endolenf baziler membranın simetrik hareketini bozar ve sumasyon potansiyeli büyür; AP aynı oranda büyümez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Orta latans *yanıtları* (MLR)",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste beyin sapının ötesine geçiyor ve orta latans yanıtlarını, yani MLR'yi öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

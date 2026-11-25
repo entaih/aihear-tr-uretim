@@ -1,0 +1,756 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D029_Empedans_Uyumu_TR",
+ "kapak": {
+  "ust": "DERS 29",
+  "baslik": "Orta kulak<br>*neden* var?",
+  "alt": "Empedans uyumu ve orta kulak kazancı",
+  "cizim": "orta_kulak"
+ },
+ "youtube": {
+  "baslik": "Orta Kulak Neden Var? Empedans Uyumu | Ders 29 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Ses havadan iç kulak sıvılarına geçerken enerjisinin büyük kısmı yansır. Bu derste orta kulağın bu kaybı nasıl telafi ettiğini; alan oranını, kemikçik kaldıracını, toplam kazancı ve klinik önemini örnek bir odyogramla inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; Gelfand, Essentials of Audiology; Pickles, An Introduction to the Physiology of Hearing; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ortakulak",
+   "işitme"
+  ],
+  "etiketler": [
+   "empedans uyumu",
+   "impedance matching",
+   "orta kulak",
+   "alan oranı",
+   "areal ratio",
+   "kemikçik kaldıracı",
+   "ossicular lever",
+   "timpanik membran",
+   "stapes",
+   "işitme fizyolojisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 29",
+   "baslik": "Orta kulak *neden* var?",
+   "alt": "Empedans uyumu, alan oranı ve kemikçik kaldıracı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste orta kulağın neden gerekli olduğunu, yani empedans uyumu kavramını öğreneceğiz.",
+    "Alan oranını, kemikçik kaldıracını ve bu mekanizmaların toplam kazancını adım adım hesaplayacağız."
+   ]
+  },
+  {
+   "id": "sorun",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hava ve sıvı sorunu",
+   "baslik": "Ses *havadan* sıvıya geçerken",
+   "maddeler": [
+    {
+     "metin": "Ses havada yayılır",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İç kulak _sıvı_ ile doludur",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sıvı harekete çok daha dirençli",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Enerjinin büyük kısmı _yansır_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     },
+     {
+      "parca": "koklea",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "Hava",
+      "cumle": 0
+     },
+     {
+      "parca": "koklea",
+      "metin": "Sıvı (koklea)",
+      "cumle": 1,
+      "yer": "alt"
+     }
+    ]
+   },
+   "cumleler": [
+    "Ses, dış ortamdan kulağımıza hava molekülleri aracılığıyla ulaşır.",
+    "Oysa koklea, yani salyangoz, perilenf ve endolenf adı verilen sıvılarla doludur.",
+    "Yani ses, sinirsel bir sinyale dönüşmeden önce havadan sıvıya geçmek zorundadır.",
+    "Sıvı, havaya göre çok daha yoğundur ve titreşmeye karşı çok daha fazla direnç gösterir.",
+    "Bu nedenle havadan sıvıya doğrudan geçmeye çalışan ses enerjisinin büyük kısmı sınırdan geri yansır.",
+    "Su altındayken havuz kenarında konuşan birini neredeyse duyamamamızın bir nedeni de budur."
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hava ve sıvı sorunu",
+   "baslik": "*Empedans* nedir?",
+   "maddeler": [
+    {
+     "metin": "Enerji akışına karşı _toplam direnç_",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Bileşenler: kütle, sertlik, sürtünme",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Hava düşük, sıvı _yüksek_ empedanslı",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Empedans uyumu (impedance matching)",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "EMPEDANS UYUMU",
+    "metin": "İki ortam arasında enerjiyi *verimli* aktarmak",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Empedans, bir sistemin kendisine aktarılmak istenen enerjiye karşı gösterdiği toplam dirençtir.",
+    "Bir ortam ne kadar yoğun ve sertse, onu titreştirmek için o kadar fazla kuvvet gerekir.",
+    "Akustik empedansın üç bileşeni vardır: kütle, sertlik ve sürtünme.",
+    "Havanın empedansı düşük, iç kulak sıvılarınınki ise çok yüksektir.",
+    "İki ortam arasındaki bu farkı azaltıp enerjiyi verimli biçimde aktarmaya empedans uyumu denir.",
+    "Orta kulağın temel görevi tam olarak budur."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Hava ve sıvı sorunu",
+   "baslik": "Kayıp ne kadar *büyük?*",
+   "maddeler": [
+    {
+     "metin": "Sıvının empedansı havanın _binlerce katı_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Enerjinin yaklaşık _yüzde 99,9_ kadarı yansır",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Geçen enerji: yalnızca _binde bir_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KAYIP",
+    "metin": "Orta kulak olmasaydı yaklaşık *30 dB*",
+    "cumle": 3
+   },
+   "cumleler": [
+    "Sıvıların akustik empedansı, havanın empedansının binlerce katıdır.",
+    "Bu kadar büyük bir farkta ses enerjisinin yaklaşık yüzde doksan dokuz virgül dokuzu sınırdan geri yansır.",
+    "Sıvıya geçebilen enerji ise yalnızca binde bir kadardır.",
+    "Binde birlik bir enerji oranı, desibel cinsinden yaklaşık otuz desibellik bir kayba karşılık gelir.",
+    "Yani orta kulak olmasaydı, sesler iç kulağa yaklaşık otuz desibel daha zayıf ulaşırdı.",
+    "Orta kulak, bu kaybın büyük bölümünü telafi eden bir dönüştürücü gibi çalışır."
+   ]
+  },
+  {
+   "id": "yapi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Orta kulağın yapısı",
+   "baslik": "Orta kulağın *yapısı*",
+   "cizim": "orta_kulak",
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran (kulak zarı)",
+     "cumle": 0
+    },
+    {
+     "parca": "malleus",
+     "metin": "malleus (çekiç)",
+     "cumle": 1
+    },
+    {
+     "parca": "incus",
+     "metin": "incus (örs)",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "metin": "stapes (üzengi)",
+     "cumle": 2
+    },
+    {
+     "parca": "oval_pencere",
+     "metin": "oval pencere",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Üç kemikçik: ossiküller",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Geniş zar, küçük pencere",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "oval_pencere",
+     "cumle": 4,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Orta kulak, timpanik membran, yani kulak zarı ile iç kulak arasında yer alan hava dolu bir boşluktur.",
+    "Timpanik membrana malleus, yani çekiç tutunur; malleusu incus, yani örs izler.",
+    "Zincirin son halkası stapes, yani üzengidir; vücudumuzdaki en küçük kemiktir.",
+    "Bu üç kemik birlikte ossiküller, yani kulak kemikçikleri olarak adlandırılır.",
+    "Stapesin taban kısmı, iç kulağa açılan oval pencereye oturur.",
+    "Böylece geniş bir zarın topladığı titreşim, çok daha küçük bir pencereye iletilir.",
+    "Bu düzenleme, empedans uyumunun en güçlü mekanizmasının temelidir."
+   ]
+  },
+  {
+   "id": "alan",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Alan oranı",
+   "baslik": "Birinci mekanizma: *alan oranı*",
+   "cizim": "orta_kulak",
+   "vurgula": [
+    {
+     "parca": "timpanik_membran",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Etkin zar alanı: yaklaşık 55 mm²",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Stapes tabanı: yaklaşık 3,2 mm²",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Alan oranı: yaklaşık 17:1",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "timpanik_membran",
+     "metin": "Timpanik membran",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "metin": "Stapes tabanı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Birinci ve en önemli mekanizma alan oranıdır; buna hidrolik etki de denir.",
+    "Timpanik membranın titreşen etkin alanı yaklaşık elli beş milimetre karedir.",
+    "Zarın toplam alanı daha büyüktür, ancak zarın tamamı aynı verimle titreşmez.",
+    "Stapes tabanının alanı ise yaklaşık üç virgül iki milimetre karedir.",
+    "İki alanın oranı yaklaşık on yediye birdir.",
+    "Geniş yüzeyde toplanan kuvvet küçük bir yüzeye yoğunlaştığında, birim alana düşen basınç artar.",
+    "Bunu, raptiyenin geniş başına bastığımızda sivri ucunun kolayca batmasına benzetebiliriz.",
+    "Alan oranı tek başına yaklaşık yirmi beş desibellik bir kazanç sağlar."
+   ]
+  },
+  {
+   "id": "kaldirac",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kaldıraç ve toplam kazanç",
+   "baslik": "İkinci mekanizma: *kaldıraç*",
+   "cizim": "kemikcikler",
+   "vurgula": [
+    {
+     "parca": "malleus_sap",
+     "cumle": 1
+    },
+    {
+     "parca": "incus_uzun_kol",
+     "cumle": 1
+    },
+    {
+     "parca": "stapes",
+     "cumle": 2
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "malleus_sap",
+     "metin": "manubrium (malleus sapı): uzun kol",
+     "cumle": 1
+    },
+    {
+     "parca": "incus_uzun_kol",
+     "metin": "incus uzun çıkıntısı: kısa kol",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kaldıraç oranı: yaklaşık 1,3:1",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ek kazanç: yaklaşık 2 dB",
+     "cumle": 5,
+     "ikon": "hoparlor"
+    }
+   ],
+   "cumleler": [
+    "İkinci mekanizma kemikçik kaldıracıdır.",
+    "Manubrium, yani malleusun sapı, incusun uzun çıkıntısından biraz daha uzundur.",
+    "Kemikçikler bir kaldıraç gibi birlikte döndüğünde, bu uzunluk farkı stapese ulaşan kuvveti artırır.",
+    "Kaldıraçta stapesin hareketi biraz küçülür, ama itme kuvveti büyür.",
+    "Kaldıraç oranı yaklaşık bir virgül üçe birdir.",
+    "Bu oran yaklaşık iki desibellik ek bir kazanç demektir.",
+    "Kazanç küçük görünse de alan oranıyla çarpılarak toplam etkiye katılır."
+   ]
+  },
+  {
+   "id": "toplam",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kaldıraç ve toplam kazanç",
+   "baslik": "Toplam *kazanç*",
+   "sutunlar": [
+    "Mekanizma",
+    "Oran",
+    "Kazanç"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Alan oranı",
+      "Yaklaşık 17:1",
+      "Yaklaşık 25 dB"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Kemikçik kaldıracı",
+      "Yaklaşık 1,3:1",
+      "Yaklaşık 2 dB"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Toplam",
+      "Yaklaşık 22:1",
+      "Yaklaşık 27 dB"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Hava-sıvı kaybı",
+      "-",
+      "Yaklaşık 30 dB"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Şimdi iki mekanizmayı bir araya getirelim: alan oranı yaklaşık yirmi beş desibel sağlar.",
+    "Kemikçik kaldıracı buna yaklaşık iki desibel ekler.",
+    "On yedi ile bir virgül üçün çarpımı yaklaşık yirmi ikidir; bu da yirmi yedi desibel civarında bir kazançtır.",
+    "Kaynaklarda toplam kazanç, hesap ve ölçüm yöntemine göre genellikle yirmi beş ile otuz desibel arasında verilir.",
+    "Bu değer, hava-sıvı sınırında kaybedilen yaklaşık otuz desibele oldukça yakındır.",
+    "Yani orta kulak, kaybı tamamen olmasa da büyük ölçüde telafi eder."
+   ]
+  },
+  {
+   "id": "katkilar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kaldıraç ve toplam kazanç",
+   "baslik": "Diğer *katkılar*",
+   "maddeler": [
+    {
+     "metin": "Zarın eğri yapısı: küçük ek katkı",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Pencereler arasında _faz farkı_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Östaki borusu ile _basınç dengesi_",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "timpanik_membran",
+      "cumle": 0
+     },
+     {
+      "parca": "oval_pencere",
+      "cumle": 1
+     },
+     {
+      "parca": "yuvarlak_pencere",
+      "cumle": 2
+     },
+     {
+      "parca": "ostaki_borusu",
+      "cumle": 4
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "oval_pencere",
+      "metin": "Oval pencere",
+      "cumle": 1
+     },
+     {
+      "parca": "yuvarlak_pencere",
+      "metin": "Yuvarlak pencere",
+      "cumle": 2
+     },
+     {
+      "parca": "ostaki_borusu",
+      "metin": "Östaki borusu",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Bazı kaynaklar, timpanik membranın eğri yapısının da küçük bir ek kaldıraç etkisi yarattığını belirtir.",
+    "Orta kulak ayrıca sesi öncelikle oval pencereye yönlendirir.",
+    "Yuvarlak pencere timpanik membranın arkasında korunduğu için, iki pencere aynı anda aynı basıncı almaz.",
+    "Bu faz farkı, koklea sıvılarının etkili biçimde hareket edebilmesi için gereklidir.",
+    "Son olarak Östaki borusu, orta kulak basıncını dış ortamla eşit tutarak zarın serbestçe titreşmesini sağlar."
+   ]
+  },
+  {
+   "id": "frekans",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kaldıraç ve toplam kazanç",
+   "baslik": "Frekansa göre *aktarım*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Pes frekans",
+     "metin": "_Sertlik_ belirleyici: esnemeye karşı direnç",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Tiz frekans",
+     "metin": "_Kütle_ belirleyici: sistemin ağırlığı",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Rezonans",
+     "metin": "Yaklaşık _800 ile 1200 Hz_",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Orta kulak her frekansı aynı verimle aktarmaz.",
+    "Pes frekanslarda sistemin sertliği, yani esnemeye karşı direnci aktarımı belirler.",
+    "Tiz frekanslarda ise kütle, yani sistemin ağırlığı daha belirleyici olur.",
+    "Sağlıklı yetişkinlerde orta kulağın rezonans frekansı genellikle sekiz yüz ile bin iki yüz hertz arasındadır.",
+    "Bu nedenle sertliği artıran sorunlar daha çok pes, kütleyi artıran sorunlar daha çok tiz frekansları etkileme eğilimindedir.",
+    "Bu ilişkiyi ileride immitansmetri derslerinde ayrıntılı olarak kullanacağız."
+   ]
+  },
+  {
+   "id": "bozulma",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik önemi",
+   "baslik": "Mekanizma *bozulunca*",
+   "sol": {
+    "ust": "Zar perforasyonu",
+    "maddeler": [
+     {
+      "metin": "Etkin zar alanı _küçülür_",
+      "cumle": 0
+     },
+     {
+      "metin": "Yuvarlak pencere koruması azalır",
+      "cumle": 1
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Kemikçik sorunu",
+    "maddeler": [
+     {
+      "metin": "Otosklerozda stapes _sabitlenir_",
+      "cumle": 2
+     },
+     {
+      "metin": "Kopuklukta kaldıraç _devre dışı_",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Timpanik membranda bir perforasyon, yani delik olduğunda, sesi toplayan etkin alan küçülür.",
+    "Delik ayrıca yuvarlak pencerenin korunmasını azaltabilir; kayıp, deliğin büyüklüğü ve yerine göre değişir.",
+    "Otosklerozda stapes tabanı oval pencereye kemikleşerek sabitlenir ve titreşim iletimi azalır.",
+    "Kemikçik zinciri koptuğunda ise kaldıraç sistemi tamamen devre dışı kalır.",
+    "Orta kulak cerrahisinin amacı da çoğu zaman bu dönüştürücü sistemi yeniden kurmaktır.",
+    "Bu durumların ortak sonucu, odyogramda hava-kemik aralığı ile görülen iletim tipi işitme kaybıdır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik önemi",
+   "baslik": "Örnek: *kemikçik* kopukluğu",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: sağ kulak",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Maskeli kemik yolu_: sağ kulak",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Hava yolu_: sol kulak",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       55,
+       60,
+       60,
+       60,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       5,
+       10,
+       5,
+       10,
+       10
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       10,
+       15,
+       15
+      ],
+      "cumle": 3
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    },
+    "aralik": {
+     "konum": [
+      2,
+      5,
+      60
+     ],
+     "etiket": "55 dB",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Bu örnek odyogramda sağ kulağın hava yolu eşikleri altmış desibel HL civarında.",
+    "Maskeleme ile ölçülen kemik yolu eşikleri ise normal bölgede; yani sağ koklea iyi çalışıyor görünüyor.",
+    "Aradaki yaklaşık elli beş desibellik fark, büyük bir hava-kemik aralığıdır.",
+    "Sol kulak ise bu örnekte normal sınırlar içinde.",
+    "Timpanik membran sağlamken kemikçik zinciri kopuksa, iletim tipi kayıp yaklaşık altmış desibele kadar ulaşabilir.",
+    "Çünkü sağlam zar, kaldıraç etkisi olmadan sesin pencerelere doğrudan ulaşmasını da büyük ölçüde engeller.",
+    "Bu örnek, iletim tipi kaybın üst sınırına yakın bir tablodur; kesin değerlendirme KBB hekimiyle birlikte yapılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik önemi",
+   "baslik": "Klinik ipucu",
+   "metin": "Hava-kemik aralığı yaklaşık 60 dB'i belirgin biçimde aşıyorsa önce kemik yolu maskelemesini, vibratör yerleşimini ve kalibrasyonu kontrol edin.",
+   "cumleler": [
+    "Sahada işe yarayan bir ipucu: iletim tipi kaybın fizyolojik bir üst sınırı vardır.",
+    "Hava-kemik aralığı yaklaşık altmış desibeli belirgin biçimde aşıyorsa, sonuç beklenenden büyüktür.",
+    "Böyle bir durumda önce kemik yolu maskelemesini, vibratörün yerleşimini ve cihaz kalibrasyonunu kontrol edin.",
+    "Çünkü yetersiz maskeleme, kemik yolunu karşı kulaktan ölçerek aralığı olduğundan büyük gösterebilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Havadan sıvıya geçişte enerji _yansır_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Alan oranı yaklaşık _17:1_, yaklaşık 25 dB",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kemikçik kaldıracı yaklaşık _1,3:1_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Toplam kazanç yaklaşık _25 ile 30 dB_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    }
+   ],
+   "cumleler": [
+    "Ses havadan iç kulak sıvılarına geçerken enerjisinin büyük kısmı yansır; bu yaklaşık otuz desibellik bir kayıptır.",
+    "Geniş zardan küçük pencereye geçiş, yani alan oranı, en büyük kazancı sağlar.",
+    "Kemikçik kaldıracı bu kazanca küçük ama anlamlı bir katkı ekler.",
+    "Orta kulak böylece yaklaşık yirmi beş ile otuz desibellik bir kazançla empedans farkını büyük ölçüde telafi eder."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Orta kulak kazancına en büyük katkıyı hangisi sağlar?",
+   "secenekler": [
+    "Kemikçik kaldıracı",
+    "Alan oranı",
+    "Östaki borusu",
+    "Zarın eğri yapısı"
+   ],
+   "dogru": 1,
+   "aciklama": "Zar ile stapes tabanı arasındaki yaklaşık _17:1_ alan oranı, tek başına yaklaşık 25 dB kazanç sağlar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Orta kulağın sağladığı kazanca en büyük katkıyı hangi mekanizma yapar?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: alan oranı.",
+     "ses": "Doğru cevap be: alan oranı."
+    },
+    "Zar ile stapes tabanı arasındaki yaklaşık on yediye birlik oran, tek başına yaklaşık yirmi beş desibel kazanç sağlar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Baziler membran ve *yürüyen dalga*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, stapesin hareketinin koklea içinde nasıl bir yürüyen dalgaya dönüştüğünü göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

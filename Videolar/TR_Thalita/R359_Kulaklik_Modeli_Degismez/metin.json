@@ -1,0 +1,107 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R359_Kulaklik_Modeli_Degismez_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #359",
+  "baslik": "Kulaklık *modele özgü*",
+  "alt": "Kalibrasyon değerleri ve transdüser",
+  "cizim": "odyometre",
+  "vurgula": [
+   "kulaklik"
+  ],
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Odyometrenin kulaklığı başka bir modelle değiştirilebilir mi? #shorts",
+  "aciklama": "Odyometrede her transdüser ayrı bir çıkıştan bağlanır ve cihaz her biri için ayrı kalibrasyon değerleri kullanır. Bu değerler transdüser modeline özgüdür; kulaklık başka bir modelle değiştirilirse verilen düzeyler yanlış olur ve cihazın yeniden kalibre edilmesi gerekir. Transdüserdeki küçük bir arıza bile bütün odyogramı yanıltabilir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "kalibrasyon",
+   "odyometre"
+  ],
+  "etiketler": [
+   "odyometre kalibrasyonu",
+   "transdüser",
+   "kulaklık",
+   "kemik vibratörü",
+   "odyometre",
+   "günlük dinleme kontrolü",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Odyometrenin kulaklığı başka bir modelle değiştirilebilir mi?",
+  "bilgiler": [
+   "Her transdüserin ayrı kalibrasyon değerleri vardır.",
+   "Değerler modele özgüdür; başka model takılırsa düzeyler yanlış olur.",
+   "Kulaklık değişirse cihaz yeniden kalibre edilmelidir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "kalibrasyon",
+   "odyometre"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #359",
+   "metin": "Başka kulaklık *olur mu?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Odyometrenin kulaklığı başka bir modelle değiştirilebilir mi?"
+   ]
+  },
+  {
+   "id": "kalibrasyon",
+   "tur": "zincir",
+   "baslik": "Kalibrasyon *modele özgü*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Kulaklık",
+     "tr": "ayrı çıkış",
+     "cumle": 0
+    },
+    {
+     "ad": "Kalibrasyon",
+     "tr": "modele özgü",
+     "cumle": 1
+    },
+    {
+     "ad": "Yeni model",
+     "tr": "yeniden kalibre",
+     "cumle": 2
+    }
+   ],
+   "alt": "Küçük arıza, _yanlış odyogram_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Her transdüser odyometreye ayrı çıkıştan bağlanır ve ayrı kalibrasyon değerleri kullanılır.",
+    "Bu değerler kulaklığın modeline özgüdür.",
+    "Başka model takılırsa verilen düzeyler yanlış olur; cihaz yeniden kalibre edilmelidir.",
+    "Transdüserdeki küçük bir arıza bile bütün odyogramı yanıltabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D015",
+ "kaynak_baslik": "Mikrofon ve hoparlör"
+}

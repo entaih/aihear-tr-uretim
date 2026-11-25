@@ -1,0 +1,1017 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D201_Kortikal_Potansiyeller_P1_N1_P2_TR",
+ "kapak": {
+  "ust": "DERS 201",
+  "baslik": "*Kortikal*<br>potansiyeller",
+  "alt": "P1, N1, P2 ve cihazlı kortikal test",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": -50,
+    "max": 400,
+    "ad": "Zaman (ms)",
+    "isaretler": [
+     0,
+     100,
+     200,
+     300,
+     400
+    ]
+   },
+   "y": {
+    "min": -6,
+    "max": 6,
+    "adim": 2,
+    "ad": "Genlik (µV)"
+   },
+   "seriler": [
+    {
+     "ad": "yetiskin",
+     "noktalar": [
+      [
+       -50,
+       0
+      ],
+      [
+       0,
+       0
+      ],
+      [
+       25,
+       0.3
+      ],
+      [
+       50,
+       1.6
+      ],
+      [
+       70,
+       0.4
+      ],
+      [
+       100,
+       -4.2
+      ],
+      [
+       130,
+       -1.5
+      ],
+      [
+       160,
+       2.2
+      ],
+      [
+       185,
+       3.4
+      ],
+      [
+       220,
+       1.5
+      ],
+      [
+       270,
+       0
+      ],
+      [
+       400,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 0
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "uyaran",
+     "x": 0,
+     "y": 0,
+     "cizgi": "dikey",
+     "etiket": "uyaran",
+     "cumle": 0
+    },
+    {
+     "ad": "p1",
+     "x": 50,
+     "y": 1.6,
+     "etiket": "P1",
+     "cumle": 2
+    },
+    {
+     "ad": "n1",
+     "x": 100,
+     "y": -4.2,
+     "etiket": "N1",
+     "cumle": 3
+    },
+    {
+     "ad": "p2",
+     "x": 185,
+     "y": 3.4,
+     "etiket": "P2",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Kortikal işitsel uyarılmış potansiyeller: P1-N1-P2 | Ders 201 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kortikal işitsel uyarılmış potansiyeller nedir, P1 latansı neyi gösterir? Bu derste P1-N1-P2 kompleksini, P1 latansının yaşla kısalmasını ve santral işitsel gelişimle ilişkisini, konuşma uyaranlarıyla yapılan cihazlı kortikal testi ve kortikal yanıtların sınırlılıklarını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Sharma, Dorman ve Spahr, A sensitive period for the development of the central auditory system in children with cochlear implants, Ear and Hearing (2002); British Society of Audiology, Cortical Auditory Evoked Potential (CAEP) Testing (2022).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "CAEP",
+   "elektrofizyoloji"
+  ],
+  "etiketler": [
+   "kortikal işitsel uyarılmış potansiyel",
+   "CAEP",
+   "P1 latansı",
+   "P1-N1-P2",
+   "cihazlı kortikal test",
+   "aided cortical testing",
+   "koklear implant",
+   "işitsel nöropati",
+   "santral işitsel gelişim",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 201",
+   "baslik": "Kortikal potansiyeller: *P1-N1-P2*",
+   "alt": "Kortekse ulaşan sesin elektriksel izi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste kortikal işitsel uyarılmış potansiyelleri, yani P1, N1 ve P2 dalgalarını öğreneceğiz.",
+    "P1 latansının santral işitsel gelişimdeki yerini ve cihaz ile implant yararını göstermede kullanımını ele alacağız."
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kortikal yanıt",
+   "baslik": "P1, N1 ve *P2*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -50,
+     "max": 400,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      100,
+      200,
+      300,
+      400
+     ]
+    },
+    "y": {
+     "min": -6,
+     "max": 6,
+     "adim": 2,
+     "ad": "Genlik (µV)"
+    },
+    "seriler": [
+     {
+      "ad": "yetiskin",
+      "noktalar": [
+       [
+        -50,
+        0
+       ],
+       [
+        0,
+        0
+       ],
+       [
+        25,
+        0.3
+       ],
+       [
+        50,
+        1.6
+       ],
+       [
+        70,
+        0.4
+       ],
+       [
+        100,
+        -4.2
+       ],
+       [
+        130,
+        -1.5
+       ],
+       [
+        160,
+        2.2
+       ],
+       [
+        185,
+        3.4
+       ],
+       [
+        220,
+        1.5
+       ],
+       [
+        270,
+        0
+       ],
+       [
+        400,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "uyaran",
+      "x": 0,
+      "y": 0,
+      "cizgi": "dikey",
+      "etiket": "uyaran",
+      "cumle": 0
+     },
+     {
+      "ad": "p1",
+      "x": 50,
+      "y": 1.6,
+      "etiket": "P1",
+      "cumle": 2
+     },
+     {
+      "ad": "n1",
+      "x": 100,
+      "y": -4.2,
+      "etiket": "N1",
+      "cumle": 3
+     },
+     {
+      "ad": "p2",
+      "x": 185,
+      "y": 3.4,
+      "etiket": "P2",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Latans: _50 ile 300_ ms",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Genlik: birkaç _mikrovolt_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Kortikal işitsel uyarılmış potansiyeller (cortical auditory evoked potentials), kısaca CAEP, işitsel kortekste oluşan geç yanıtlardır.",
+    "Bunlar işitsel beyin sapı yanıtından, yani ABR'den çok daha geç, uyarandan elli ile üç yüz milisaniye sonra ortaya çıkar.",
+    "Erişkinde ilk pozitif tepe P1'dir ve yaklaşık elli milisaniyede görülür.",
+    "Ardından yaklaşık yüz milisaniyede büyük bir negatif tepe gelir; buna N1 denir.",
+    "Yaklaşık yüz seksen milisaniye civarındaki pozitif tepe ise P2'dir.",
+    "Bu yanıtların genliği birkaç mikrovolttur; yani ABR'den çok daha büyüktür.",
+    "Erişkinde bu üç dalga birlikte P1-N1-P2 kompleksi olarak değerlendirilir."
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kortikal yanıt",
+   "baslik": "*Nerede* oluşur?",
+   "cizim": "beyin_yan",
+   "ayar": {
+    "loblar": true
+   },
+   "etiketler": [
+    {
+     "parca": "temporal_lob",
+     "metin": "Temporal lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "metin": "Heschl girusu",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_temporal_girus",
+     "metin": "Üst temporal girus",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "cumle": 1
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "heschl_girusu",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kortikal yanıtların kaynağı, temporal lobdaki birincil ve ikincil işitsel korteks alanlarıdır.",
+    "Heschl girusu ve çevresindeki üst temporal bölge bu yanıtlara en büyük katkıyı yapar.",
+    "Bir kortikal yanıtın kaydedilmesi, sesin işitme yolundan geçip kortekse ulaştığını gösterir.",
+    "Bu yanıtlar sese zorunlu olarak oluşan, yani ekzojen yanıtlardır; kişinin bir görev yapması gerekmez.",
+    "Yine de dikkat, uyanıklık ve uyku durumu yanıtın büyüklüğünü ve biçimini etkiler.",
+    "Bu yüzden kortikal yanıtlar genellikle uyanık ve sakin kişide kaydedilir."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kortikal yanıt",
+   "baslik": "Kayıt *koşulları*",
+   "adimlar": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Uyanık, sakin",
+     "metin": "Sessiz video",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Elektrot",
+     "metin": "Tepe ve mastoid",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Uyaran",
+     "metin": "Ton ya da konuşma",
+     "cumle": 2
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Yavaş hız",
+     "metin": "Yaklaşık saniyede bir",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ortalama",
+     "metin": "Yanıt aranır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kişi uyanık ve sakindir; küçük çocuklarda sessiz bir video ya da sessiz oyuncaklarla dikkat dağıtılır.",
+    "Aktif elektrot başın tepesine, ters elektrot mastoide ya da kulak memesine, toprak elektrot alına yerleştirilir.",
+    "Uyaran kısa tonlar ya da m, g ve t gibi kısa konuşma sesleri olabilir; hoparlörden ya da kulaklıktan verilir.",
+    "Kortikal yanıtlar hızlı tekrara uyum gösterdiği için uyaranlar yavaş, yaklaşık saniyede bir verilir.",
+    "Yavaş dalgaları kaydetmek için yaklaşık bir ile otuz hertz arasında bir filtre kullanılır.",
+    "ABR'ye göre daha az sayıda tekrar yeterlidir; yanıtın varlığına deneyimli göz ya da istatistiksel bir test karar verir."
+   ]
+  },
+  {
+   "id": "uyaran",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kortikal yanıt",
+   "baslik": "Ton mu, *konuşma* mı?",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ton",
+     "metin": "Frekansa özgü eşik tahmini için.",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma sesi",
+     "metin": "Konuşma kortekse ulaşıyor mu?",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kortikal yanıt için iki tür uyaran kullanılır ve her birinin avantajı farklıdır.",
+    "Ton uyaran belirli bir frekans bölgesini uyardığı için frekansa özgü eşik tahmini sağlar.",
+    "Bu yüzden ton uyaranlar özellikle erişkinde kortikal eşik ölçümünde tercih edilir.",
+    "Kısa konuşma sesleri ise günlük yaşamda duyulan seslere daha yakındır.",
+    "Konuşma uyaranları özellikle cihaz ve implant kullanan bebeklerde, konuşmanın kortekse ulaşıp ulaşmadığını göstermek için kullanılır."
+   ]
+  },
+  {
+   "id": "p1",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "P1 ve gelişim",
+   "baslik": "P1 latansı *kısalır*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 20,
+     "ad": "Yaş (yıl)",
+     "isaretler": [
+      0,
+      5,
+      10,
+      15,
+      20
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 350,
+     "adim": 50,
+     "ad": "P1 latansı (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "olgunlasma",
+      "noktalar": [
+       [
+        0,
+        300
+       ],
+       [
+        1,
+        230
+       ],
+       [
+        2,
+        190
+       ],
+       [
+        4,
+        150
+       ],
+       [
+        7,
+        120
+       ],
+       [
+        10,
+        100
+       ],
+       [
+        14,
+        82
+       ],
+       [
+        20,
+        62
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "şematik gelişim eğrisi",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yenidogan",
+      "x": 0,
+      "y": 300,
+      "etiket": "yaklaşık 300 ms",
+      "cumle": 2
+     },
+     {
+      "ad": "yetiskin",
+      "x": 20,
+      "y": 62,
+      "etiket": "erişkin: yaklaşık 60 ms",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Yenidoğan: yaklaşık _300 ms_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Erişkin: yaklaşık _60 ms_",
+     "cumle": 3,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "P1: _olgunlaşma_ ölçüsü",
+     "cumle": 5,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Çocukta kortikal yanıtın biçimi erişkinden farklıdır; küçük çocukta en belirgin dalga geniş bir P1'dir.",
+    "Bu şematik eğri, P1 latansının yaşla nasıl değiştiğini gösteriyor.",
+    "Yenidoğanda ve küçük bebekte P1 latansı uzundur, yaklaşık üç yüz milisaniye civarındadır.",
+    "Latans ilk yıllarda hızla, sonra daha yavaş kısalır ve yaklaşık yirmi yaşına kadar erişkin değerine, yani yaklaşık altmış milisaniyeye iner.",
+    "N1 dalgası ise çocuklukta daha geç belirginleşir ve erişkin kompleksi ancak ergenlik yıllarında tamamlanır.",
+    "Bu nedenle P1 latansı, santral işitsel yolların olgunluğunu gösteren bir ölçü olarak kullanılır.",
+    "Bir çocuğun P1 latansı yaşına göre beklenen aralıkla karşılaştırılarak işitsel gelişim hakkında bilgi edinilir."
+   ]
+  },
+  {
+   "id": "duyarli",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "P1 ve gelişim",
+   "baslik": "Duyarlı dönemin *izi*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Erken uyarım",
+     "metin": "P1 kısa sürede normale yaklaşır.",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Ara dönem",
+     "metin": "Yanıtlar değişken.",
+     "cumle": 2
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Geç uyarım",
+     "metin": "P1 çoğu zaman uzun kalır.",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kritik dönem dersinde, koklear implantlı çocuklarda P1 latansıyla yapılan çalışmalardan söz etmiştik.",
+    "Erken implant alan çocuklarda P1 latansı, uyarım başladıktan sonraki birkaç ay içinde yaşa uygun aralığa ulaşabilir.",
+    "Ara dönemde implant alan çocuklarda yanıtlar daha değişkendir.",
+    "Uzun süre sesten yoksun kalan çocukların çoğunda ise P1 latansı uzun süre uyarımdan sonra bile yaşa uygun değerlere ulaşmayabilir.",
+    "Bu bulgular, P1'in bir çocuğun işitsel girdiye ne kadar yanıt verdiğini izlemek için kullanılabileceğini gösterir."
+   ]
+  },
+  {
+   "id": "cihazli",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihazlı kortikal test",
+   "baslik": "Cihazlı kortikal *test*",
+   "adimlar": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz takılı",
+     "metin": "Günlük ayarında",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Konuşma sesi",
+     "metin": "Hoparlörden",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Farklı şiddet",
+     "metin": "Yumuşak, orta, yüksek",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Yanıt var mı?",
+     "metin": "Korteks ulaştı mı?",
+     "cumle": 5
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Karar",
+     "metin": "Ayar gözden geçirilir",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Cihazlı kortikal testte (aided cortical testing) bebek ya da çocuk, işitme cihazı ya da implantı takılıyken değerlendirilir.",
+    "Kısa konuşma sesleri bir hoparlörden, günlük konuşmayı temsil eden şiddetlerde verilir.",
+    "Örneğin m sesi pes, g sesi orta, t sesi ise tiz frekans bölgesini temsil etmek için kullanılır.",
+    "Avustralya Ulusal Akustik Laboratuvarları, kısaca NAL bu amaçla bir test sistemi geliştirmiştir.",
+    "Bu sistemde sesler yaklaşık elli beş, altmış beş ve yetmiş beş desibel SPL'de, yani yumuşak, orta ve yüksek konuşma düzeyinde verilir.",
+    "Kortikal yanıt alınması, o konuşma sesinin cihazla kortekse ulaştığını gösterir.",
+    "Yumuşak konuşma şiddetinde yanıt alınamaması, o frekans bölgesinde işitilebilirliğin yetersiz olabileceğini düşündürür.",
+    "Bu bilgi, gerçek kulak ölçümleriyle birlikte cihaz ayarının gözden geçirilmesine yardım eder."
+   ]
+  },
+  {
+   "id": "ne_soyler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Cihazlı kortikal test",
+   "baslik": "Ne söyler, *ne söylemez?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Yanıt var",
+     "metin": "Ses kortekse ulaşıyor",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Yanıt yok",
+     "metin": "Kesin kanıt değil",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Ayırt etme",
+     "metin": "Doğrudan ölçülmez",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Birlikte yorum",
+     "metin": "Gerçek kulak, davranış",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Yanıtın varlığı, sesin işitilebilir olduğunu ve kortekse ulaştığını gösteren güçlü bir kanıttır.",
+    "Ancak yanıtın yokluğu sesin duyulmadığını kanıtlamaz; normal işiten bebeklerin bir bölümünde bile yumuşak seslerde yanıt saptanamayabilir.",
+    "Uyanıklık, dikkat ve kalan gürültü de yanıtın görülmesini etkiler.",
+    "Kortikal yanıt sesin algılandığını gösterir, ancak konuşmanın ayırt edildiğini ya da anlaşıldığını doğrudan göstermez.",
+    "Bu yüzden sonuçlar gerçek kulak ölçümleri, gelişim takibi ve aile gözlemleriyle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "kullanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "Klinik *kullanım* alanları",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "İşitsel nöropati",
+     "metin": "Cihaz yararını göstermek",
+     "cumle": 0
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "İmplant izlemi",
+     "metin": "P1 olgunlaşması",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz doğrulama",
+     "metin": "Konuşma işitilebilirliği",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Erişkin eşik",
+     "metin": "Ton ile kortikal eşik",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Santral sorular",
+     "metin": "Kortikal işlemleme",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kortikal yanıtlar, ABR'nin işitme düzeyini göstermediği durumlarda özellikle değerlidir.",
+    "İşitsel nöropatide ABR yok ya da bozuk olsa da kortikal yanıtlar alınabilir ve cihazın yararını göstermeye yardım edebilir.",
+    "Koklear implantlı çocuklarda P1 latansının zaman içinde kısalması, santral işitsel gelişimin izlenmesinde kullanılır.",
+    "İşitme cihazı kullanan bebeklerde konuşma seslerinin işitilebilirliği doğrulanabilir.",
+    "Erişkinlerde ton uyaranla alınan kortikal eşik, davranışsal eşiğe genellikle yakın sonuç verir ve işlevsel kayıp şüphesinde kullanılabilir.",
+    "Araştırmalarda ise kortikal yanıtlar, işitsel işlemleme ve öğrenmeyle ilişkili değişiklikleri incelemek için kullanılır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "Örnek: *OAE var, ABR yok*",
+   "maddeler": [
+    {
+     "metin": "OAE var, _ABR yok_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "ABR eşik _tahmin edemez_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Cihazla _kortikal test_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Orta, yüksek seste _yanıt var_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yumuşak seste yanıt yok: _ekip_ değerlendirir",
+     "cumle": 4,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "OAE",
+      "metin": "Var",
+      "cumle": 0
+     },
+     {
+      "ikon": "yanlis",
+      "baslik": "ABR",
+      "metin": "Yok",
+      "cumle": 0
+     },
+     {
+      "ikon": "beyin",
+      "baslik": "Kortikal",
+      "metin": "Cihazla var",
+      "cumle": 3
+     }
+    ],
+    "ust": "ÖRNEK"
+   },
+   "cumleler": [
+    "Tamamen örnek bir durum: altı aylık bir bebekte otoakustik emisyon, yani OAE var, ABR ise alınamıyor.",
+    "Bu tablo işitsel nöropatiyle uyumludur ve ABR bu bebekte işitme düzeyini tahmin etmemize izin vermez.",
+    "Bebek işitme cihazıyla izlenirken cihazlı kortikal test yapılır.",
+    "Orta ve yüksek şiddetteki konuşma seslerine yanıt alınması, bu seslerin cihazla kortekse ulaştığını gösterir.",
+    "Yumuşak seslerde yanıt alınamaması, ayarın ve iletişim planının ekip tarafından yeniden değerlendirilmesine katkı sağlar.",
+    "Bu sonuçlar her zaman aile gözlemleri ve gelişim takibiyle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "*Sınırlılıklar*",
+   "maddeler": [
+    {
+     "metin": "Uyanıklık ve dikkatle _değişir_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Çocukta biçim _yaşla_ değişir",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Kas ve göz _artefaktı_",
+     "cumle": 2,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Uzun ve sabır isteyen _kayıt_",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Normlar _yaşa ve uyarana_ özgü",
+     "cumle": 4,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": -50,
+      "max": 400,
+      "ad": "Zaman (ms)",
+      "isaretler": [
+       0,
+       100,
+       200,
+       300,
+       400
+      ]
+     },
+     "y": {
+      "min": -6,
+      "max": 6,
+      "adim": 2,
+      "ad": "Genlik (µV)"
+     },
+     "seriler": [
+      {
+       "ad": "yetiskin",
+       "noktalar": [
+        [
+         -50,
+         0
+        ],
+        [
+         0,
+         0
+        ],
+        [
+         25,
+         0.3
+        ],
+        [
+         50,
+         1.6
+        ],
+        [
+         70,
+         0.4
+        ],
+        [
+         100,
+         -4.2
+        ],
+        [
+         130,
+         -1.5
+        ],
+        [
+         160,
+         2.2
+        ],
+        [
+         185,
+         3.4
+        ],
+        [
+         220,
+         1.5
+        ],
+        [
+         270,
+         0
+        ],
+        [
+         400,
+         0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kalin": true,
+       "cumle": 0
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "uyaran",
+       "x": 0,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "uyaran",
+       "cumle": 0
+      },
+      {
+       "ad": "p1",
+       "x": 50,
+       "y": 1.6,
+       "etiket": "P1",
+       "cumle": 2
+      },
+      {
+       "ad": "n1",
+       "x": 100,
+       "y": -4.2,
+       "etiket": "N1",
+       "cumle": 3
+      },
+      {
+       "ad": "p2",
+       "x": 185,
+       "y": 3.4,
+       "etiket": "P2",
+       "cumle": 4
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Kortikal yanıtlar uykudan, dikkatten ve yorgunluktan ABR'ye göre çok daha fazla etkilenir.",
+    "Çocukta dalga biçimi yaşla belirgin biçimde değiştiği için yorum, yaşa uygun deneyim gerektirir.",
+    "Göz kırpma, göz hareketi ve kas etkinliği bu yavaş dalgalara karışabilir; bu yüzden kayıt sırasında gözlem önemlidir.",
+    "Uyaranların yavaş verilmesi kaydı uzatır; huzursuz bir çocukta test birkaç oturuma yayılabilir.",
+    "Latans ve genlik normları yaşa, uyarana ve kayıt yöntemine özgüdür.",
+    "Bu sınırlılıklar nedeniyle kortikal test, test bataryasının yerini değil, onu tamamlayan bir parçasıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Cihazlı kortikal testte bebek uyanık ama sakin olmalı. Huzursuzlukta testi zorlamayın; kısa bir aradan sonra tekrarlamak daha güvenilir sonuç verir.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: kortikal testte en büyük düşman uykululuk ve huzursuzluktur.",
+    "Bebeği uyanık ama sakin tutmak için testi beslenme ve uyku saatine göre planlayın.",
+    "Kayıt sırasında çocuğu izleyin; hareketli bölümleri not edin ve gerekirse o bölümleri değerlendirme dışında bırakın.",
+    "Yanıt alınamadığında hemen sonuç yazmayın; koşullar düzeldiğinde testi tekrarlayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "P1, N1, P2: _korteksten_ gelen geç yanıt",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "P1 latansı _yaşla_ kısalır",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Cihazlı test: ses _kortekse_ ulaşıyor mu?",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Yanıt yokluğu _kesin_ kanıt değil",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Kortikal yanıtlar P1, N1 ve P2 dalgalarından oluşur ve sesin işitsel kortekse ulaştığını gösterir.",
+    "P1 latansı yenidoğanda yaklaşık üç yüz milisaniyedir ve yaşla kısalarak erişkinde yaklaşık altmış milisaniyeye iner.",
+    "Cihazlı kortikal test, konuşma seslerinin cihaz ya da implantla kortekse ulaşıp ulaşmadığını gösterir.",
+    "Yanıtın varlığı güçlü bir kanıttır, ancak yokluğu tek başına sesin duyulmadığını kanıtlamaz."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "P1 latansı neyi yansıtır?",
+   "secenekler": [
+    "Orta kulak basıncını",
+    "Santral işitsel olgunlaşmayı",
+    "Dış tüy hücresi işlevini",
+    "Vestibüler işlevi"
+   ],
+   "dogru": 1,
+   "aciklama": "P1 latansı yaşla kısalır ve _santral işitsel yolların_ olgunluğunu yansıtır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: kortikal yanıtlarda P1 latansı en çok neyi yansıtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: santral işitsel olgunlaşmayı.",
+    "P1 latansı yaşla kısalır; implantlı çocuklarda uyarımdan sonraki değişimi santral gelişimin izlenmesinde kullanılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "P300 ve MMN: *bilişsel* işitsel potansiyeller",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste dikkat ve ayırt etmeyle ilişkili bilişsel yanıtları, yani P300 ve uyumsuzluk negatifliğini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

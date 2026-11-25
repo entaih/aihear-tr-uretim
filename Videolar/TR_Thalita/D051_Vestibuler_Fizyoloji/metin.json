@@ -1,0 +1,907 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D051_Vestibuler_Fizyoloji_TR",
+ "kapak": {
+  "ust": "DERS 51",
+  "baslik": "Vestibüler<br>*fizyoloji*",
+  "alt": "Kanallar, otolitler, itme-çekme",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Vestibüler Fizyoloji: Baş Hareketi Nasıl Algılanır? | Ders 51 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Yarım daire kanalları başın dönme hareketlerini, otolit organları ise doğrusal hareketi ve yerçekimini algılar. Bu derste vestibüler tüy hücrelerini, kupulanın nasıl saptığını, otokonyanın görevini, kanal düzlemlerini, itme-çekme ilkesini ve vestibüler testlerin hangi yapıyı değerlendirdiğini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; Goldberg ve ark., The Vestibular System: A Sixth Sense; Herdman ve Clendaniel, Vestibular Rehabilitation; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vestibüler",
+   "denge"
+  ],
+  "etiketler": [
+   "vestibüler fizyoloji",
+   "yarım daire kanalları",
+   "otolit organları",
+   "kupula",
+   "cupula",
+   "otokonya",
+   "açısal ivme",
+   "angular acceleration",
+   "itme-çekme ilkesi",
+   "push-pull",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 51",
+   "baslik": "Vestibüler *fizyoloji*",
+   "alt": "Baş hareketi nasıl algılanır?",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste iç kulağın denge bölümünün baş hareketini ve yerçekimini nasıl algıladığını öğreneceğiz.",
+    "Yarım daire kanallarını, otolit organlarını ve iki kulağın birlikte çalıştığı itme-çekme ilkesini göreceğiz."
+   ]
+  },
+  {
+   "id": "bes_organ",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Beş algılayıcı",
+   "baslik": "Her kulakta *beş* algılayıcı",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "yarım daire kanalları",
+     "cumle": 0
+    },
+    {
+     "parca": "ampulla",
+     "metin": "ampulla",
+     "cumle": 2
+    },
+    {
+     "parca": "utrikul",
+     "metin": "utrikül",
+     "cumle": 3
+    },
+    {
+     "parca": "sakkul",
+     "metin": "sakkül",
+     "cumle": 3
+    },
+    {
+     "parca": "vestibuler_sinir",
+     "metin": "vestibüler sinir",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 1
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 2
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 3
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kanallar: dönme",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Otolitler: doğrusal hareket, yerçekimi",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ampulla",
+     "cumle": 2,
+     "olcek": 2.0
+    },
+    {
+     "parca": "utrikul",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Her iç kulakta denge için beş algılayıcı bulunur: üç yarım daire kanalı ve iki otolit organı.",
+    "Yarım daire kanalları başın dönme hareketlerini, yani açısal ivmeyi (angular acceleration) algılar.",
+    "Kanalların genişlemiş uçlarına ampulla denir; algılayıcı tüy hücreleri buradadır.",
+    "Utrikül ve sakkül ise otolit organlarıdır; doğrusal ivmeyi (linear acceleration) ve yerçekimini algılar.",
+    "Bu organlardan gelen bilgiler vestibüler sinir aracılığıyla beyin sapına ulaşır.",
+    "Böylece beyin, başın hem döndüğünü hem de hangi yöne eğildiğini ya da kaydığını öğrenir."
+   ]
+  },
+  {
+   "id": "tuy_hucresi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Beş algılayıcı",
+   "baslik": "Vestibüler *tüy hücreleri*",
+   "maddeler": [
+    {
+     "metin": "Stereosiller ve tek bir _kinosilyum_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kinosilyuma doğru eğilme: _uyarılma_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Ters yöne eğilme: _baskılanma_",
+     "cumle": 2,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Dinlenimde de _sürekli_ ateşleme",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler_tuy_hucresi",
+    "cumle": 0,
+    "ayar": {
+     "mod": "ates",
+     "cumleler": [
+      2,
+      0,
+      1
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "kinosilyum",
+      "cumle": 0
+     },
+     {
+      "parca": "kinosilyuma_dogru",
+      "cumle": 1
+     },
+     {
+      "parca": "ters_yon",
+      "cumle": 2
+     },
+     {
+      "parca": "dinlenim",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Vestibüler tüy hücrelerinin tepesinde boyları giderek uzayan stereosiller ve en uzun tarafta tek bir kinosilyum (kinocilium) bulunur.",
+     "ses": "Vestibüler tüy hücrelerinin tepesinde boyları giderek uzayan stereosiller ve en uzun tarafta tek bir kinosilyum bulunur."
+    },
+    "Stereosiller kinosilyuma doğru eğildiğinde hücre depolarize olur ve sinir lifinin ateşleme hızı artar.",
+    "Ters yöne eğildiğinde hücre hiperpolarize olur ve ateşleme hızı azalır.",
+    "Vestibüler sinir lifleri baş hareketsizken bile sürekli ateşleme yapar; buna tonik ateşleme denir.",
+    "Maymunlarda bu dinlenim hızı, çalışmaya göre ortalama saniyede yaklaşık yetmiş ile doksan atım arasında bulunmuştur.",
+    "Bu dinlenim etkinliği sayesinde tek bir lif, hızını artırarak ya da azaltarak iki yönlü hareketi kodlayabilir."
+   ]
+  },
+  {
+   "id": "kupula",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yarım daire kanalları",
+   "baslik": "Ampulla ve *kupula*",
+   "cizim": "ampulla_kesit",
+   "etiketler": [
+    {
+     "parca": "krista",
+     "metin": "Crista ampullaris",
+     "cumle": 0
+    },
+    {
+     "parca": "kupula",
+     "metin": "Kupula",
+     "cumle": 1
+    },
+    {
+     "parca": "akim",
+     "metin": "Endolenf geride kalır",
+     "cumle": 2
+    },
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Tüy hücreleri",
+     "cumle": 3,
+     "yer": "alt"
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "krista",
+     "cumle": 0
+    },
+    {
+     "parca": "kupula",
+     "cumle": 1
+    },
+    {
+     "parca": "akim",
+     "cumle": 2
+    },
+    {
+     "parca": "stereosiller",
+     "cumle": 3
+    },
+    {
+     "parca": "kupula",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Endolenf geride kalır",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Kupula sapar, hücreler eğilir",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Kupula yerçekimine duyarsız",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "krista",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Her ampullanın içinde tüy hücrelerini taşıyan bir sırt bulunur; buna crista ampullaris, yani ampulla kristası denir.",
+     "ses": "Her ampullanın içinde tüy hücrelerini taşıyan bir sırt bulunur; buna krista ampullaris, yani ampulla kristası denir."
+    },
+    {
+     "yazi": "Tüy hücrelerinin uzantıları, ampullayı bir kapak gibi kapatan jelatinimsi kupulaya (cupula) gömülüdür.",
+     "ses": "Tüy hücrelerinin uzantıları, ampullayı bir kapak gibi kapatan jelatinimsi kupulaya gömülüdür."
+    },
+    "Baş döndüğünde kanalın duvarı hemen döner; içindeki endolenf ise eylemsizlik nedeniyle geride kalır.",
+    "Bu göreli akım kupulayı bir yana iter ve tüy hücrelerinin uzantılarını eğer.",
+    "Kupulanın yoğunluğu endolenfle neredeyse aynıdır; bu yüzden kanallar normalde yerçekiminden etkilenmez.",
+    "Kupulaya otokonya yapışırsa kanal yerçekimine duyarlı hale gelir; bu, pozisyonel vertigonun nedenlerinden biridir."
+   ],
+   "ayar": {
+    "sapma": 0.8,
+    "sapma_cumle": 3,
+    "akim": true
+   }
+  },
+  {
+   "id": "ivme_hiz",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yarım daire kanalları",
+   "baslik": "İvme mi, *hız* mı?",
+   "maddeler": [
+    {
+     "metin": "Uyaran: _açısal ivme_",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Günlük harekette sinyal _hıza_ orantılı",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sabit dönüşte kupula _geri döner_",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "_Hız depolama_ yanıtı uzatır",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Kupulayı saptıran şey dönmenin başlaması ya da durması, yani açısal ivmedir.",
+    "Ancak kanalın mekanik yapısı nedeniyle, günlük baş hareketlerinde sinir sinyali başın açısal hızıyla orantılıdır.",
+    "Bu yüzden kanallar, yürürken ya da başımızı çevirirken oluşan hızlı ve kısa hareketleri çok iyi kodlar.",
+    "Sabit hızla uzun süre döndüğümüzde ise kupula birkaç saniye içinde esnekliğiyle eski yerine döner ve sinyal azalır.",
+    "Beyin sapı bu sinyali bir süre daha uzatır; buna hız depolama (velocity storage) denir.",
+    "Dönme aniden durduğunda ters yönde kısa süreli bir dönme hissi ve nistagmus bu yüzden ortaya çıkar."
+   ]
+  },
+  {
+   "id": "duzlemler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yarım daire kanalları",
+   "baslik": "Kanal *düzlemleri*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "lateral_kanal",
+     "metin": "lateral kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_kanal",
+     "metin": "ön kanal",
+     "cumle": 3
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "arka kanal",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 0
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_kanal",
+     "cumle": 3
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lateral çift: başı sağa sola çevirme",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "LARP: sol ön, sağ arka",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "RALP: sağ ön, sol arka",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Üç kanal birbirine yaklaşık dik düzlemlerde yerleşmiştir; böylece her yöndeki dönme algılanabilir.",
+    "İki lateral kanal aynı düzlemdedir ve başı sağa sola çevirme hareketini algılar.",
+    "Lateral kanal tam yatay değildir; önü yaklaşık otuz derece yukarı eğiktir, bu yüzden kalorikte sırtüstü yatanın başı otuz derece kaldırılır.",
+    "Dikey kanallar çapraz eşleşir: sol ön kanal ile sağ arka kanal aynı düzlemdedir; bu düzleme LARP denir.",
+    "Sağ ön kanal ile sol arka kanal ise RALP düzlemini oluşturur.",
+    "Aynı düzlemdeki iki kanal, aynı hareketi ters yönlü sinyallerle bildirir."
+   ]
+  },
+  {
+   "id": "itme_cekme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yarım daire kanalları",
+   "baslik": "*İtme-çekme* ilkesi",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Sağ lateral kanal",
+     "metin": "Endolenf ampullaya doğru",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sağ sinir",
+     "metin": "Ateşleme artar",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sol lateral kanal",
+     "metin": "Akım ampulladan uzağa, ateşleme azalır",
+     "cumle": 3
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Beyin",
+     "metin": "İki taraf farkını okur",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Başımızı sağa çevirdiğimizde iki lateral kanal aynı anda ama ters yönde uyarılır; buna itme-çekme (push-pull) ilkesi denir.",
+    "Sağ lateral kanalda endolenf, göreli olarak ampullaya doğru akar.",
+    "Bu kanalda ampullaya doğru akım uyarıcıdır; sağ sinirde ateşleme artar.",
+    "Sol lateral kanalda ise akım ampulladan uzağa doğrudur ve sol sinirde ateşleme azalır.",
+    "Beyin iki taraf arasındaki farkı okuyarak dönmenin yönünü ve hızını hesaplar.",
+    "Bu düzen sinyali güçlendirir ve bir tarafta sorun olduğunda sistemin bunu fark etmesini sağlar."
+   ]
+  },
+  {
+   "id": "polarite",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yarım daire kanalları",
+   "baslik": "Akım yönü ve *uyarılma*",
+   "maddeler": [
+    {
+     "metin": "Lateral kanal: ampullaya akım _uyarır_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dikey kanallar: ampulladan akım _uyarır_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Uyarılma, baskılanmadan _daha güçlü_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hızlı itmede uyarılan taraf _baskın_",
+     "cumle": 4,
+     "ikon": "hasta"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "lateral_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "superior_kanal",
+      "cumle": 1
+     },
+     {
+      "parca": "posterior_kanal",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Lateral kanalda kinosilyum utrikül tarafındadır; bu yüzden ampullaya doğru akım uyarıcıdır.",
+    "Ön ve arka kanallarda ise kinosilyum kanal tarafındadır ve ampulladan uzağa doğru akım uyarıcıdır.",
+    "Bir lifin ateşlemesi çok yükseğe çıkabilir ama sıfırın altına inemez; bu yüzden uyarıcı yanıt baskılayıcı yanıttan güçlüdür.",
+    {
+     "yazi": "Bu asimetri Ewald yasaları olarak bilinen kuralların bir parçasıdır; ayrıntısını bir sonraki derste göreceğiz.",
+     "ses": "Bu asimetri Evald yasaları olarak bilinen kuralların bir parçasıdır; ayrıntısını bir sonraki derste göreceğiz."
+    },
+    "Hızlı baş hareketlerinde her kanal uyarıldığı yönde baskın sinyali verir; video baş itme testi bu ilkeden yararlanır."
+   ]
+  },
+  {
+   "id": "makula",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Otolit organları",
+   "baslik": "Maküla ve *otokonya*",
+   "cizim": "makula_kesit",
+   "etiketler": [
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "Tüy hücreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "otolit_zari",
+     "metin": "Otolit zarı",
+     "cumle": 1
+    },
+    {
+     "parca": "otokonya",
+     "metin": "Otokonya",
+     "cumle": 2
+    },
+    {
+     "parca": "striola",
+     "metin": "Striola",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "makula",
+     "cumle": 0
+    },
+    {
+     "parca": "jelatinimsi_tabaka",
+     "cumle": 1
+    },
+    {
+     "parca": "otokonya",
+     "cumle": 2
+    },
+    {
+     "parca": "kayma",
+     "cumle": 3
+    },
+    {
+     "parca": "striola",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Otokonya: kalsiyum karbonat",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Konum ve doğrusal ivme",
+     "cumle": 4,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Striola: hücre yönü değişir",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Utrikül ve sakkülde tüy hücreleri maküla (macula) adı verilen bir alanda bulunur.",
+     "ses": "Utrikül ve sakkülde tüy hücreleri maküla adı verilen bir alanda bulunur."
+    },
+    "Tüy hücrelerinin uzantıları jelatinimsi bir zara gömülüdür; bu zarın üstünde otokonya, yani kulak taşları yer alır.",
+    "Otokonya kalsiyum karbonattan oluşan küçük kristallerdir ve çevresindeki sıvıdan daha ağırdır.",
+    "Baş eğildiğinde ya da doğrusal olarak hızlandığında bu ağır tabaka kayar ya da geride kalır ve tüy hücrelerini eğer.",
+    "Bu nedenle otolit organları hem başın yerçekimine göre konumunu hem de doğrusal hareketi algılar.",
+    "Maküladaki striola denen çizginin iki yanında hücrelerin yönü terstir; böylece bir maküla kendi düzlemindeki her yönü kodlayabilir."
+   ],
+   "ayar": {
+    "egim": 0.8,
+    "egim_cumle": 3
+   }
+  },
+  {
+   "id": "utrikul_sakkul",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Otolit organları",
+   "baslik": "Utrikül ve *sakkül*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "utrikül",
+     "cumle": 0
+    },
+    {
+     "parca": "sakkul",
+     "metin": "sakkül",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 0
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "utrikul",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "sakkul",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Utrikül: yatay; öne, arkaya, yana",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Sakkül: dikey; yukarı ve aşağı",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "cVEMP: sakkül, oVEMP: utrikül",
+     "cumle": 5,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "Dik dururken utrikül makülası yaklaşık yatay bir düzlemde yer alır.",
+    "Bu yüzden utrikül öne, arkaya ve yana doğru doğrusal hareketleri ve başın eğilmesini algılar.",
+    "Sakkül makülası ise yaklaşık dikey bir düzlemdedir.",
+    "Sakkül ağırlıkla yukarı ve aşağı hareketleri, örneğin asansörün kalkışını algılar.",
+    "Klinikte otolit organları vestibüler uyarılmış miyojenik potansiyel, kısaca VEMP testleriyle değerlendirilir.",
+    {
+     "yazi": "Sakkül daha çok servikal VEMP, yani cVEMP ile, utrikül ise daha çok oküler VEMP, yani oVEMP ile incelenir.",
+     "ses": "Sakkül daha çok servikal VEMP ile, utrikül ise daha çok oküler VEMP ile incelenir."
+    }
+   ]
+  },
+  {
+   "id": "belirsizlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Otolit organları",
+   "baslik": "Eğilme mi, *hızlanma* mı?",
+   "maddeler": [
+    {
+     "metin": "Otolit için eğilme ve hızlanma _benzer_",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Beyin kanal ve görme bilgisini _ekler_",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Görsel ipucu yoksa _yanılsama_ olabilir",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "utrikul",
+      "cumle": 0
+     },
+     {
+      "parca": "yarim_daire_kanallari",
+      "cumle": 2
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Otolit organı için başın geriye eğilmesi ile öne doğru hızlanma çok benzer bir uyarandır.",
+    "Her iki durumda da otolit tabakası makülaya göre aynı yöne kayar.",
+    "Beyin bu belirsizliği, yarım daire kanallarından gelen dönme bilgisi ve görme bilgisiyle çözer.",
+    "Eğilme sırasında kanallar da uyarılır; düz bir hızlanmada ise kanallardan dönme sinyali gelmez.",
+    "Görsel ipucunun olmadığı durumlarda, örneğin karanlıkta hızlanan bir uçakta, burnun yukarı kalktığı yanılsaması oluşabilir."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik bağlantı",
+   "baslik": "Hangi test *neyi* ölçer?",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kalorik test",
+     "metin": "Lateral kanal, her kulak ayrı",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Döner sandalye",
+     "metin": "Lateral kanallar; düşük, orta frekans",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "vHIT",
+     "metin": "Altı kanal; yüksek frekans",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "cVEMP",
+     "metin": "Sakkül, inferior sinir",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "oVEMP",
+     "metin": "Utrikül, superior sinir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Her vestibüler test, bu algılayıcıların farklı bir bölümünü ve farklı bir hareket hızını inceler.",
+    "Kalorik test yalnız lateral kanalı, çok yavaş bir uyaranla ve her kulağı ayrı ayrı değerlendirir.",
+    "Döner sandalye iki lateral kanalı birlikte, düşük ve orta frekanslı dönmelerle inceler.",
+    "Video baş itme testi, yani vHIT, altı kanalı yüksek frekanslı hızlı baş hareketleriyle değerlendirir.",
+    {
+     "yazi": "cVEMP sakkülü ve inferior vestibüler siniri, oVEMP ise utrikülü ve superior vestibüler siniri yansıtır.",
+     "ses": "Servikal VEMP sakkülü ve inferior vestibüler siniri, oküler VEMP ise utrikülü ve superior vestibüler siniri yansıtır."
+    },
+    "Bu yüzden testler birbirinin yerine geçmez; birlikte bir test bataryası oluştururlar."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik bağlantı",
+   "baslik": "Bir taraf *susarsa*",
+   "maddeler": [
+    {
+     "metin": "Dinlenimde iki taraf _dengesiz_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Beyin: baş _dönüyor_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Dönme hissi, nistagmus, bulantı",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Zamanla _kompanzasyon_",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "vurgula": [
+     {
+      "parca": "vestibuler_sinir",
+      "cumle": 1
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "İtme-çekme ilkesi, tek taraflı bir vestibüler kaybın neden şiddetli belirtilere yol açtığını açıklar.",
+    "Bir taraftaki tonik ateşleme aniden azalırsa beyin bu farkı, başın sağlam tarafa doğru döndüğü şeklinde yorumlar.",
+    "Sonuçta hareketsiz dururken bile dönme hissi, nistagmus ve bulantı ortaya çıkabilir.",
+    "Zamanla merkezi sinir sistemi bu dengesizliği azaltır ve belirtiler hafifler; bu sürece kompanzasyon denir.",
+    "İki taraflı kayıpta ise dönme hissinden çok, baş hareketinde görüntü kayması ve karanlıkta dengesizlik öne çıkar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik bağlantı",
+   "baslik": "Klinikte dikkat",
+   "metin": "Vestibüler sonuçları yorumlarken her testin hangi organı ve hangi hareket hızını ölçtüğünü düşünün. Kalorik zayıflık ile normal vHIT birlikte görülebilir; bu tek başına çelişki değildir.",
+   "cumleler": [
+    "Bir klinik ipucu: vestibüler test sonuçlarını yorumlarken her testin hangi organı ve hangi hareket hızını ölçtüğünü düşünün.",
+    "Örneğin kalorik testte zayıflık varken vHIT normal çıkabilir; bu, iki testin farklı frekansları ölçmesiyle uyumludur.",
+    "Benzer biçimde kanal testleri normalken VEMP yanıtları etkilenmiş olabilir.",
+    "Sonuçları tek bir test yerine bataryanın bütünü üzerinden raporlamak yanlış yorumları azaltır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kanallar _dönmeyi_, otolitler eğilme ve kaymayı",
+     "cumle": 0,
+     "ikon": "denge"
+    },
+    {
+     "metin": "_Kupula_ endolenf akımıyla sapar",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_Otokonya_ yerçekimine duyarlılık sağlar",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "_İtme-çekme_: iki taraf ters yönde",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Yarım daire kanalları dönme hareketlerini, otolit organları ise doğrusal hareketi ve yerçekimini algılar.",
+    "Kanallarda baş döndüğünde endolenf geride kalır, kupula sapar ve tüy hücreleri uyarılır.",
+    "Otolit organlarında otokonyanın ağırlığı, makülayı yerçekimine ve doğrusal ivmeye duyarlı kılar.",
+    "İki taraftaki eş kanallar itme-çekme ilkesiyle çalışır; beyin iki taraf arasındaki farkı okur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Başımızı sağa çevirdiğimizde hangi kanal uyarılır?",
+   "secenekler": [
+    "Sağ lateral kanal",
+    "Sol lateral kanal",
+    "Sağ arka kanal",
+    "Sol ön kanal"
+   ],
+   "dogru": 0,
+   "aciklama": "Sağa dönüşte sağ lateral kanalda akım _ampullaya doğrudur_ ve uyarıcıdır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Başımızı sağa çevirdiğimizde hangi yarım daire kanalı uyarılır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap A: sağ lateral kanal.",
+     "ses": "Doğru cevap a: sağ lateral kanal."
+    },
+    "Bu sırada sol lateral kanal baskılanır; beyin iki taraf arasındaki farkı okuyarak dönmeyi algılar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vestibülo-oküler refleks: görüntü neden *sabit kalır?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bu sinyallerin gözleri nasıl hareket ettirdiğini, yani vestibülo-oküler refleksi öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

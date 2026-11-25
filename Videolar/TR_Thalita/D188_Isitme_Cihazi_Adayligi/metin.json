@@ -1,0 +1,754 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D188_Isitme_Cihazi_Adayligi_TR",
+ "kapak": {
+  "ust": "DERS 188",
+  "baslik": "İşitme cihazı<br>*adayı* kimdir?",
+  "alt": "İhtiyaç, motivasyon ve COSI",
+  "cizim": "sosyal_izolasyon"
+ },
+ "youtube": {
+  "baslik": "İşitme cihazı adayı kimdir? İhtiyaç değerlendirmesi | Ders 188 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazı adaylığı yalnız odyogramla belirlenmez. Bu derste odyolojik bulguları, gürültüde konuşma testini, hekime yönlendirme gerektiren durumları, motivasyon ve beklentileri ve COSI ile kişisel hedef belirlemeyi öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Dillon, James ve Ginis (1997), Client Oriented Scale of Improvement (COSI), Journal of the American Academy of Audiology; American Academy of Audiology, Guidelines for the Audiologic Management of Adult Hearing Impairment; Cox ve Alexander (2000), Expectations about hearing aids (ECHO); Sağlık Uygulama Tebliği, işitme cihazı ve kulak kalıbı maddesi.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "COSI"
+  ],
+  "etiketler": [
+   "işitme cihazı adaylığı",
+   "candidacy",
+   "ihtiyaç değerlendirmesi",
+   "COSI",
+   "Client Oriented Scale of Improvement",
+   "beklentiler",
+   "expectations",
+   "motivasyon",
+   "QuickSIN",
+   "SNR kaybı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 188",
+   "baslik": "İşitme cihazı *adayı*",
+   "alt": "İhtiyaç değerlendirmesi ve hedefler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir kişinin işitme cihazından ne zaman yarar göreceğini nasıl değerlendirdiğimizi öğreneceğiz.",
+    "Bulguları, iletişim ihtiyacını, motivasyonu, beklentileri ve danışan odaklı gelişim ölçeği, yani COSI ile hedef belirlemeyi göreceğiz."
+   ]
+  },
+  {
+   "id": "aday",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Adaylık nedir?",
+   "baslik": "Odyogram *yetmez*",
+   "maddeler": [
+    {
+     "metin": "Adaylık: yarar görme olasılığı",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Tek bir dB sınırı yok",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Belirleyen: _iletişim güçlüğü_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Hafif kayıpta bile aday olabilir",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Karar kişiyle birlikte verilir",
+     "cumle": 5,
+     "ikon": "odyolog"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        25,
+        25,
+        35,
+        45,
+        50
+       ],
+       "cumle": 4
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25,
+      "etiket": "Normal"
+     }
+    }
+   },
+   "cumleler": [
+    "İşitme cihazı adaylığı (candidacy), bir kişinin cihazdan anlamlı bir yarar görme olasılığının değerlendirilmesidir.",
+    "Klinik kılavuzlar adaylık için tek bir desibel sınırı vermez.",
+    "Aynı odyogramı olan iki kişiden biri her gün zorlanırken diğeri belirgin bir güçlük yaşamayabilir.",
+    "Belirleyici olan, kaybın kişinin iletişimini ve yaşam katılımını ne ölçüde etkilediğidir.",
+    "Bu yüzden hafif bir kaybı olan ama işinde sürekli toplantıya giren biri de güçlü bir aday olabilir.",
+    "Sonuçta karar, bulgular ve kişinin ihtiyaçları birlikte değerlendirilerek kişiyle ortak verilir."
+   ]
+  },
+  {
+   "id": "dort",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Adaylık nedir?",
+   "baslik": "Değerlendirmenin *dört ayağı*",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Bulgular",
+     "cumle": 1,
+     "metin": "Eşik, konuşma, gürültü"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "İhtiyaç",
+     "cumle": 2,
+     "metin": "Zorlanılan durumlar"
+    },
+    {
+     "ikon": "kalp",
+     "baslik": "Motivasyon",
+     "cumle": 3,
+     "metin": "İstek ve beklenti"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Beceri",
+     "cumle": 4,
+     "metin": "El, görme, biliş"
+    }
+   ],
+   "cumleler": [
+    "İhtiyaç değerlendirmesini dört ayak üzerinde düşünebiliriz.",
+    "Birincisi odyolojik bulgulardır: eşikler, konuşmayı anlama ve gürültüde performans.",
+    "İkincisi iletişim ihtiyacıdır: kişi nerede, kiminle ve hangi durumlarda zorlanıyor?",
+    "Üçüncüsü motivasyon ve beklentilerdir: cihazı kim istiyor ve ondan ne bekleniyor?",
+    "Dördüncüsü el becerisi, görme ve bilişsel durum gibi cihaz kullanımını etkileyen etkenlerdir."
+   ]
+  },
+  {
+   "id": "surec",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Adaylık nedir?",
+   "baslik": "İhtiyaç değerlendirmesi *adımları*",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Öykü",
+     "cumle": 0,
+     "metin": "Kişinin anlatımı"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Testler",
+     "cumle": 1,
+     "metin": "Eşik, konuşma, gürültü"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Ölçek",
+     "cumle": 2,
+     "metin": "Öz bildirim"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Hedefler",
+     "cumle": 3,
+     "metin": "COSI"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ortak karar",
+     "cumle": 4,
+     "metin": "Seçenekler konuşulur"
+    }
+   ],
+   "cumleler": [
+    "Değerlendirme, kişinin kendi sözleriyle anlattığı öykü ile başlar; mümkünse bir yakını da dinlenir.",
+    "Ardından saf ses ve konuşma odyometrisi yapılır; gürültüde konuşma testi de bu aşamada çok değerlidir.",
+    "Yaşlılar için işitme engeli envanteri, kısaca HHIE gibi öz bildirim ölçekleri, güçlüğün kişi için anlamını ölçer.",
+    "Sonra kişinin en önemli iletişim hedefleri belirlenir ve yazılır.",
+    "Son adımda bütün bulgular kişiyle paylaşılır ve cihaz dahil seçenekler birlikte konuşulur.",
+    "Bu yaklaşıma ortak karar verme (shared decision making) denir ve cihazı benimsemeyi artırır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Örnek: *iki taraflı* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Sağ kulak hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Sağ kulak kemik yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "Sol kulak hava yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "Normal bölge",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       30,
+       35,
+       45,
+       55,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       25,
+       35,
+       40,
+       50,
+       55
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       30,
+       40,
+       45,
+       55,
+       65,
+       70
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta tiz frekanslara doğru artan, hafif ile orta-ileri derece arasında bir kayıp görülüyor.",
+    "Kemik yolu eşikleri hava yoluna yakın; yani kayıp sensörinöral tiptedir.",
+    "Sol kulakta da benzer düzeyde bir kayıp var; iki kulak birbirine yakın, yani simetrik.",
+    "Bu kişi sessiz ortamda yüz yüze konuşmayı çoğu zaman anlar, ama tiz ünsüzleri kaçırır.",
+    "Simetrik iki taraflı kayıp, iki kulağa cihaz uygulaması için tipik bir örnektir.",
+    "Ancak odyogram, kişinin gürültüde ne kadar zorlandığını ve cihaz isteyip istemediğini söylemez."
+   ]
+  },
+  {
+   "id": "snr",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Gürültüde *SNR kaybı*",
+   "sutunlar": [
+    "SNR kaybı",
+    "Yorum",
+    "Olası anlamı"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "0 ile 3 dB",
+      "Normal ya da yakın",
+      "Gürültüde iyi"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "3 ile 7 dB",
+      "Hafif",
+      "Normale yakın olabilir"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "7 ile 15 dB",
+      "Orta",
+      "Yönlü mikrofon önemli"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "15 dB üstü",
+      "İleri",
+      "Uzak mikrofon gerekebilir"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Gürültüde konuşma testleri, kişinin gürültüde ne kadar zorlandığını odyogramdan bağımsız gösterir.",
+    {
+     "yazi": "Hızlı gürültüde konuşma testi, kısaca QuickSIN, sonucu sinyal-gürültü oranı, yani SNR kaybı olarak verir; 0 ile 3 dB normale yakındır.",
+     "ses": "Hızlı gürültüde konuşma testi, kısaca Kuik Sin, sonucu sinyal-gürültü oranı, yani SNR kaybı olarak verir; 0 ile 3 dB normale yakındır."
+    },
+    "3 ile 7 dB hafif bir SNR kaybıdır; bu kişiler gürültüde normal işitenlere yakın bir performans gösterebilir.",
+    "7 ile 15 dB orta düzeydir; yönlü mikrofon gibi gürültüye yönelik özellikler önem kazanır.",
+    "15 dB'in üzerindeki kayıpta ise uzak mikrofon gibi ek sistemler gerekebilir.",
+    "Bu sonuç, gürültüde neler beklenebileceğini konuşmak için de güçlü bir danışmanlık aracıdır."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyolojik bulgular",
+   "baslik": "Önce *hekime* yönlendir",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Ani kayıp",
+     "cumle": 0,
+     "metin": "Hızlı ilerleyen kayıp"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Asimetri",
+     "cumle": 1,
+     "metin": "Tek taraflı kayıp"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Akıntı",
+     "cumle": 2,
+     "metin": "Ağrı ya da kanama"
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Baş dönmesi",
+     "cumle": 3,
+     "metin": "Yeni ya da süren"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Hava-kemik aralığı",
+     "cumle": 4,
+     "metin": "İletim bileşeni"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Görünür sorun",
+     "cumle": 5,
+     "metin": "Şekil bozukluğu, buşon"
+    }
+   ],
+   "cumleler": [
+    "Cihaz önermeden önce, tıbbi değerlendirme gerektiren durumların dışlanması gerekir.",
+    "Ani başlayan ya da hızla ilerleyen kayıp ve açıklanamayan tek taraflı ya da asimetrik kayıp bunların başında gelir.",
+    "Kulak akıntısı, ağrı ya da kanama varsa önce hekim değerlendirmesi gerekir.",
+    "Yeni başlayan ya da süren baş dönmesi de hekime yönlendirme nedenidir.",
+    "Belirgin bir hava-kemik aralığı, tedavi edilebilir bir iletim sorununa işaret edebilir.",
+    "Kulak kepçesinde ya da kulak yolunda şekil bozukluğu, buşon ya da yabancı cisim de önce hekim tarafından değerlendirilir."
+   ]
+  },
+  {
+   "id": "motivasyon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Motivasyon ve beklenti",
+   "baslik": "Kişi *hazır* mı?",
+   "maddeler": [
+    {
+     "metin": "Cihazı kim istiyor?",
+     "cumle": 0,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Sıfırdan ona bir cetvel",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Değişim aşamaları",
+     "cumle": 3,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Damgalanma kaygısını konuşun",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sosyal_izolasyon",
+    "cumle": 0,
+    "ayar": {
+     "yalniz_cumle": 1
+    },
+    "etiketler": [
+     {
+      "parca": "yalniz_kisi",
+      "metin": "kendi güçlüğünü kabul?",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Motivasyonu anlamak için ilk soru basittir: cihazı kişi mi istiyor, yoksa ailesi mi?",
+    "Yakınlarının ısrarıyla gelen ve kendi güçlüğünü kabul etmeyen kişide cihazı bırakma olasılığı daha yüksektir.",
+    "Kişiden, işitmesi için bir şey yapmanın kendisi için ne kadar önemli olduğunu sıfırdan ona bir cetvelde işaretlemesi istenebilir.",
+    "Değişim aşamaları (stages of change) modeline göre kişi henüz düşünme aşamasında olabilir; bu durumda önce bilgi ve zaman gerekir.",
+    "Hazır olmayan birine cihaz satmak yerine, bir sonraki görüşmeyi planlamak çoğu zaman daha doğrudur.",
+    "Damgalanma kaygısı ve maliyet de motivasyonu etkiler; bunları açıkça konuşmak güveni artırır."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Motivasyon ve beklenti",
+   "baslik": "Gerçekçi *beklentiler*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Normal işitme",
+     "cumle": 0,
+     "metin": "Geri gelmez"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü",
+     "cumle": 1,
+     "metin": "Yarar sınırlı olabilir"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Alışma",
+     "cumle": 2,
+     "metin": "Haftalar sürer"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Bakım",
+     "cumle": 3,
+     "metin": "Günlük emek ister"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Kazanım",
+     "cumle": 4,
+     "metin": "İletişim kolaylaşır"
+    }
+   ],
+   "cumleler": [
+    "Beklentiler, cihaz memnuniyetini en güçlü etkileyen etkenlerden biridir.",
+    "İşitme cihazı normal işitmeyi geri getirmez; kişi bunu en baştan bilmelidir.",
+    "Gürültülü ortamlarda yarar, sessiz ortamlara göre daha sınırlı olabilir.",
+    "Beynin yeni seslere alışması birkaç hafta sürebilir; ilk günlerde sesler yapay ve gürültülü gelebilir.",
+    "Cihaz günlük temizlik, şarj ya da pil ve düzenli kontrol ister.",
+    {
+     "yazi": "Beklentiler, cihaz öncesi doldurulan, cihaz sahibi olmanın beklenen sonuçları ölçeği, kısaca ECHO ile de sorgulanabilir.",
+     "ses": "Beklentiler, cihaz öncesi doldurulan, cihaz sahibi olmanın beklenen sonuçları ölçeği, kısaca Eko ile de sorgulanabilir."
+    }
+   ]
+  },
+  {
+   "id": "cosi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "COSI ile hedefler",
+   "baslik": "*COSI*: kişinin kendi hedefleri",
+   "maddeler": [
+    {
+     "metin": "En fazla _beş_ özgül durum",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Kişinin kendi cümlesiyle",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Önem sırasına konur",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Takipte iki soru",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖRNEK HEDEFLER",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Televizyon",
+      "cumle": 1,
+      "metin": "Eşimle aynı sesle"
+     },
+     {
+      "ikon": "is_yeri",
+      "baslik": "Toplantı",
+      "cumle": 1,
+      "metin": "Pazartesi ekip toplantısı"
+     },
+     {
+      "ikon": "telefon",
+      "baslik": "Telefon",
+      "cumle": 1,
+      "metin": "Torunumla konuşmak"
+     }
+    ]
+   },
+   "cumleler": [
+    "Danışan odaklı gelişim ölçeği (Client Oriented Scale of Improvement), kısaca COSI, Avustralya'da geliştirildi.",
+    "Kişi, işitme nedeniyle zorlandığı ve iyileşmesini istediği en fazla beş özgül durumu belirler.",
+    "Durumlar genel ifadelerle değil, kişinin kendi cümleleriyle ve somut biçimde yazılır.",
+    "Ardından bu hedefler kişi için önem sırasına konur.",
+    "Cihaz kullanımından sonra her hedef için iki soru sorulur: ne kadar değişti ve şimdi ne sıklıkla başarılı?",
+    "Böylece başarı, odyogramla değil, kişinin kendi önemsediği durumlarla ölçülür."
+   ]
+  },
+  {
+   "id": "cosi_ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "COSI ile hedefler",
+   "baslik": "COSI *takip* örneği",
+   "sutunlar": [
+    "Hedef",
+    "Değişim",
+    "Şimdi başarı"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Eşimle televizyon",
+      "Daha iyi",
+      "Yüzde 75"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Ekip toplantısı",
+      "Biraz daha iyi",
+      "Yüzde 50"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Torunla telefon",
+      "Çok daha iyi",
+      "Yüzde 95"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Değişim sorusu beş seçeneklidir: daha kötü, değişiklik yok, biraz daha iyi, daha iyi ve çok daha iyi.",
+    "Şimdiki başarı da beş düzeyle verilir; bunlar yüzde 10, 25, 50, 75 ve 95 sıklığa karşılık gelir.",
+    "Bu örnekte kişi, eşiyle televizyon izlerken daha iyi durumda ve çoğu zaman başarılı.",
+    "Ekip toplantısında yalnız biraz iyileşme var; bu hedef ince ayar ve ek çözümler için bir ipucu verir.",
+    "Telefon hedefi ise çok daha iyi; neredeyse her zaman başarılı.",
+    "Böyle bir tablo, kişiyle sonraki adımları konuşmak için somut bir zemin sağlar."
+   ]
+  },
+  {
+   "id": "sgk",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "COSI ile hedefler",
+   "baslik": "Türkiye'de *rapor* koşulları",
+   "maddeler": [
+    {
+     "metin": "Sağlık kurulu raporu, KBB uzmanı",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Dört frekans ortalaması en az 26 dB",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Test sonuçları 6 ay geçerli",
+     "cumle": 4,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Ödeme koşulu, adaylık ölçütü değil",
+     "cumle": 5,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tebliğin güncel metnine bakın",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "cumle": 2,
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Türkiye'de cihaz bedelinin karşılanması için Sağlık Uygulama Tebliğine göre sağlık kurulu raporu gerekir.",
+    "Rapor resmi bir sağlık kurumunda düzenlenir ve kurulda en az bir kulak burun boğaz uzmanı bulunur.",
+    "Saf ses testinde 500, 1000, 2000 ve 4000 Hz hava yolu ortalamasının ilgili kulakta en az 26 dB olması aranır.",
+    "Sekiz yaş ve üzerinde konuşmayı ayırt etme testi de istenir; dört yaş altında elektrofizyolojik ve davranışsal testler kullanılır.",
+    "Odyolojik test sonuçları tebliğe göre 6 ay süreyle geçerlidir.",
+    "Bu ölçütler bir ödeme koşuludur; klinik adaylık ise yukarıda gördüğümüz daha geniş değerlendirmeye dayanır.",
+    "Bu koşullar tebliğ değiştikçe güncellenebilir; uygulamada her zaman tebliğin güncel metnine bakın."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "COSI hedefini kişinin kendi sözleriyle ve somut yazın: \"gürültüde anlamak\" değil, \"cumartesi akşamları kızımla kafede konuşmak\". Somut hedef, ölçülebilir hedeftir.",
+   "cumleler": [
+    "Sahadan bir ipucu: COSI hedeflerini olabildiğince somut yazın.",
+    "Gürültüde anlamak gibi genel bir hedefin iyileşip iyileşmediğini değerlendirmek zordur.",
+    "Cumartesi akşamları kızımla kafede konuşmak gibi bir hedef ise ince ayarda neye odaklanacağınızı da gösterir.",
+    "Hedefi kişinin kendi kelimeleriyle yazmak, onun sürece katılımını ve sahiplenmesini artırır.",
+    "Takip görüşmesinde aynı kağıdı birlikte açmak, ilerlemeyi kişiyle somut olarak paylaşmanızı sağlar."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Adaylık odyogramdan fazlasıdır",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Hekime yönlendirme durumlarını dışlayın",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Motivasyon ve beklenti sonucu belirler",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "COSI: en fazla beş kişisel hedef",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Bu derste adaylığın tek bir desibel sınırıyla değil, iletişim güçlüğü ve yarar olasılığıyla belirlendiğini gördük.",
+    "Cihazdan önce hekime yönlendirme gerektiren durumlar dışlanmalıdır.",
+    "Motivasyon ve gerçekçi beklentiler, cihaz başarısının en güçlü belirleyicileri arasındadır.",
+    "COSI, kişinin kendi seçtiği en fazla beş durumla hedef koymayı ve sonucu izlemeyi sağlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "COSI'da kişi en fazla kaç hedef belirler?",
+   "secenekler": [
+    "Üç",
+    "Beş",
+    "On",
+    "Yirmi beş"
+   ],
+   "dogru": 1,
+   "aciklama": "COSI'da kişi en fazla _beş özgül durum_ seçer ve bunları önem sırasına koyar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: COSI ölçeğinde kişi en fazla kaç iletişim hedefi belirler?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: beş.",
+     "ses": "Doğru cevap be şıkkı: beş."
+    },
+    "Kişi en fazla beş özgül durum seçer, önem sırasına koyar ve takipte her biri için değişimi ve şimdiki başarısını değerlendirir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Reçete formülleri: *NAL-NL2* ve DSL v5",
+   "cikis": 2.5,
+   "cumleler": [
+    {
+     "yazi": "Bir sonraki derste cihazın ne kadar kazanç vereceğini hesaplayan reçete formüllerini, NAL-NL2 ve DSL v5'i öğreneceğiz.",
+     "ses": "Bir sonraki derste cihazın ne kadar kazanç vereceğini hesaplayan reçete formüllerini, NAL NL 2 ve DSL versiyon 5'i öğreneceğiz."
+    },
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

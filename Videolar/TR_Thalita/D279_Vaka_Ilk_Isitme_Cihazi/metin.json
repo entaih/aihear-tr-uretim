@@ -1,0 +1,968 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D279_Vaka_Ilk_Isitme_Cihazi_TR",
+ "kapak": {
+  "ust": "DERS 279",
+  "baslik": "Vaka: ilk<br>*işitme cihazı*",
+  "alt": "Yaşlı bireyde ihtiyaçtan takibe",
+  "cizim": "isitme_cihazi"
+ },
+ "youtube": {
+  "baslik": "Vaka: Yaşlı Bireyde İlk İşitme Cihazı Süreci | Ders 279 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir vakada ilk kez işitme cihazı kullanacak yaşlı bir bireyin sürecini izliyoruz: ihtiyaç analizi, COSI ile somut hedefler, engeller ve destekler, cihaz seçimi, NAL-NL2 ve gerçek kulak ölçümüyle doğrulama, ilk uygulama günü, alışma süreci, veri kaydı ve takip randevuları.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Dillon ve ark., Client Oriented Scale of Improvement (1997); Keidser ve ark., The NAL-NL2 prescription procedure (2011); ASHA, Hearing Aids for Adults; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "ilk işitme cihazı",
+   "first-time user",
+   "alışma",
+   "acclimatization",
+   "takip",
+   "follow-up",
+   "COSI",
+   "NAL-NL2",
+   "gerçek kulak ölçümü",
+   "veri kaydı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 279",
+   "baslik": "Vaka: ilk *işitme cihazı*",
+   "alt": "Yaşlı bireyde ihtiyaçtan takibe",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste ilk kez işitme cihazı kullanacak yaşlı bir bireyin sürecini baştan sona izliyoruz.",
+    "İhtiyaç analizini ve kişisel hedefleri, NAL-NL2 ve gerçek kulak ölçümüyle doğrulamayı, alışma sürecini ve takip randevularını ele alacağız."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İhtiyaç analizi",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Yetmiş iki yaşında, örnek bir kadın",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Eşiyle birlikte geliyor",
+     "cumle": 1,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Televizyon sesi _tartışma konusu_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Aile yemeklerinde konuşmadan kopuyor",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Torunlarının sesini anlamakta zorlanıyor",
+     "cumle": 4,
+     "ikon": "cocuk"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "sosyal_izolasyon",
+    "cumle": 0,
+    "ayar": {
+     "yalniz_cumle": 3
+    }
+   },
+   "cumleler": [
+    "Vakamız kurgusal bir örnektir: yetmiş iki yaşında bir kadın, işitme cihazı değerlendirmesi için başvuruyor.",
+    "Eşiyle birlikte gelmiş; eşi, son yıllarda sorulara yanlış yanıtlar verdiğini ve sık sık tekrar istediğini anlatıyor.",
+    "Televizyonun sesini çok açtığı için evde zaman zaman tartışma çıkıyor.",
+    "En çok aile yemeklerinde zorlanıyor; birkaç kişi aynı anda konuşunca sohbetten koptuğunu ve sessiz kaldığını söylüyor.",
+    "Torunlarının ince seslerini anlamakta güçlük çekiyor ve bu durum onu üzüyor.",
+    "Kendisi cihaz denemeye istekli; ama görünüm, kullanmayı öğrenebilme ve maliyet konusunda kaygıları var."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İhtiyaç analizi",
+   "baslik": "İki taraflı *simetrik* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "Kemik yolu: _örtüşüyor_",
+     "cumle": 1
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       40,
+       50,
+       60,
+       65
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       25,
+       30,
+       40,
+       55,
+       60,
+       70
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       20,
+       30,
+       40,
+       50,
+       60
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Otoskopi ve timpanogramlar iki kulakta normal; odyogramda iki kulakta tizlere doğru eğimli bir kayıp var.",
+    "Kemik yolu hava yoluyla örtüşüyor; kayıp sensörinöral ve iki kulak arasında anlamlı bir asimetri yok.",
+    "Saf ses ortalaması iki kulakta yaklaşık kırk desibel; kayıp pes frekanslarda hafif, tizlerde orta ile ileri arası.",
+    "Kelime tanıma skorları sağda yüzde seksen dört, solda yüzde seksen; kayıpla uyumlu.",
+    "Bu tablo, yaşa bağlı işitme kaybıyla uyumlu olabilir; KBB muayenesi de yapılmış ve cihaz için bir engel bildirilmemiş.",
+    "Tiz ünsüzleri taşıyan frekanslardaki kayıp, kalabalıkta ve ince seslerde yaşadığı güçlükle uyumlu."
+   ]
+  },
+  {
+   "id": "cosi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İhtiyaç analizi",
+   "baslik": "COSI ile *somut* hedefler",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Aile yemeği",
+     "metin": "Sohbete katılmak",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Televizyon",
+     "metin": "Eşini rahatsız etmeden",
+     "cumle": 2
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Telefon",
+     "metin": "Kızıyla haftalık görüşme",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Torunlar",
+     "metin": "Sorularını ilk seferde anlamak",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Danışan odaklı gelişim ölçeği (Client Oriented Scale of Improvement), kısaca COSI ile kişinin kendi hedeflerini belirliyoruz.",
+    "Kişi, iyileşmesini istediği en fazla beş özgül durumu seçer; ilk hedef pazar günleri aile yemeğinde sohbete katılmak.",
+    "İkinci hedef, televizyonu eşini rahatsız etmeyecek bir ses düzeyinde izlemek.",
+    "Üçüncü hedef, kızıyla haftalık telefon görüşmelerini zorlanmadan yapmak.",
+    "Dördüncü hedef ise torunlarının sorularını ilk seferde anlamak.",
+    "Hedefler olabildiğince somut yazılır ve önem sırasına konur; takipte her biri ayrı ayrı değerlendirilecek."
+   ]
+  },
+  {
+   "id": "engel",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İhtiyaç analizi",
+   "baslik": "Engeller ve *destekler*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Görme",
+     "metin": "Küçük parçaları görmek",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "El becerisi",
+     "metin": "Takma, pil değiştirme",
+     "cumle": 1
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Beklenti",
+     "metin": "Gürültüde sınırlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Eşin desteği",
+     "metin": "Güçlü bir kaynak",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Görme sorunu, küçük parçaları ve düğmeleri görmeyi zorlaştırabilir; vakamızda kişi okuma gözlüğü kullanıyor.",
+    "Parmak eklemlerindeki sertlik nedeniyle küçük pilleri değiştirmekte zorlanabileceğini söylüyor.",
+    "Beklentileri konuşuyoruz: cihazın gürültüde de yardımcı olacağını, ama işitmeyi normale döndürmeyeceğini anlatıyoruz.",
+    "Kişinin kaygıları ciddiye alınır; cihazın görünümü ve kullanımı örnek cihazlarla birlikte incelenir.",
+    "Eşinin istekli olması büyük bir destektir; ilk uygulama ve takip görüşmelerine katılması önerilir."
+   ]
+  },
+  {
+   "id": "secim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Seçim ve doğrulama",
+   "baslik": "Cihaz *seçimi*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İki taraflı",
+     "metin": "Simetrik kayıp, iki kulak",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Açık uyum",
+     "metin": "Pes iyi, tiz kayıp",
+     "cumle": 3
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Şarjlı",
+     "metin": "Pil değiştirmek gerekmez",
+     "cumle": 4
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Televizyon bağlantısı",
+     "metin": "Kablosuz aktarım",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İki kulakta simetrik bir kayıp olduğu için iki taraflı cihaz kullanımı önerilir.",
+    "İki kulakla dinleme, gürültüde anlamada ve sesin yönünü bulmada avantaj sağlar.",
+    "Seçimde kayıp, kulak yolu, el becerisi, görme ve kişinin tercihleri birlikte değerlendirilir.",
+    "Pes frekanslardaki hafif kayıp nedeniyle alıcısı kulak yolunda olan bir kulak arkası cihaz ve açık uyum uygun bir seçenek olabilir.",
+    "El becerisi sınırlı olduğu için şarjlı bir model, pil değiştirme zorluğunu ortadan kaldırır.",
+    "Televizyon hedefi için kablosuz aktarım özelliği ya da bir televizyon aksesuarı konuşulur.",
+    "Seçenekler, avantajları ve sınırlarıyla birlikte anlatılır; karar kişiyle ve eşiyle birlikte verilir."
+   ]
+  },
+  {
+   "id": "rem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Seçim ve doğrulama",
+   "baslik": "Gerçek kulak *ölçümü*",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "prob_tupu",
+     "metin": "prob tüpü",
+     "cumle": 2
+    },
+    {
+     "parca": "referans_mikrofonu",
+     "metin": "referans mikrofon",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_tupu",
+     "cumle": 2
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 3
+    },
+    {
+     "parca": "isitme_cihazi",
+     "cumle": 0
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Reçete: _NAL-NL2_",
+     "cumle": 0,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Tahmin değil, _ölçüm_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Hedefle karşılaştır",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Cihaz, kişinin odyogramına göre Avustralya Ulusal Akustik Laboratuvarlarının reçete formülü NAL-NL2 ile ayarlanıyor.",
+    "Ancak yazılımdaki tahmin, kişinin kendi kulak yolunda oluşan sesi tam olarak göstermez.",
+    "Bu yüzden ince bir prob tüpü kulak yoluna, timpanik membrana yakın yerleştirilir ve cihaz takılıyken ölçüm yapılır.",
+    "Hoparlörden verilen konuşma benzeri bir sinyalle kulak yolundaki ses düzeyi ölçülür ve hedefle karşılaştırılır.",
+    "Gerçek kulak ölçümü, cihazın reçete hedefine ulaşıp ulaşmadığını gösterir; buna doğrulama denir."
+   ]
+  },
+  {
+   "id": "rem_grafik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Seçim ve doğrulama",
+   "baslik": "Hedef ve *ölçülen*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      3000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Kazanç (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        4
+       ],
+       [
+        500,
+        8
+       ],
+       [
+        1000,
+        16
+       ],
+       [
+        2000,
+        24
+       ],
+       [
+        3000,
+        27
+       ],
+       [
+        4000,
+        28
+       ],
+       [
+        6000,
+        26
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "hedef",
+      "cumle": 0
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        4
+       ],
+       [
+        500,
+        7
+       ],
+       [
+        1000,
+        13
+       ],
+       [
+        2000,
+        16
+       ],
+       [
+        3000,
+        17
+       ],
+       [
+        4000,
+        16
+       ],
+       [
+        6000,
+        12
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "ilk ayar",
+      "cumle": 1
+     },
+     {
+      "ad": "son",
+      "noktalar": [
+       [
+        250,
+        5
+       ],
+       [
+        500,
+        8
+       ],
+       [
+        1000,
+        15
+       ],
+       [
+        2000,
+        22
+       ],
+       [
+        3000,
+        23
+       ],
+       [
+        4000,
+        23
+       ],
+       [
+        6000,
+        19
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "ayar sonrası",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "alt_bolge",
+      "x": [
+       250,
+       2000
+      ],
+      "renk": "sari",
+      "etiket": "2 kHz'e kadar: artı eksi 5 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "İlk ayar: _hedefin altında_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ayar sonrası: _hedefe yakın_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Nedeni dosyaya yaz",
+     "cumle": 6,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Grafikte orta şiddette konuşma için örnek reçete hedefini kesik lacivert çizgiyle görüyoruz.",
+    "Kırmızı çizgi, üreticinin ilk ayarıyla yapılan ölçüm; özellikle iki bin hertz ve üzerinde hedefin belirgin altında.",
+    "Araştırmalar, üreticinin ilk ayarlarının çoğu zaman reçete hedefinin altında kaldığını gösteriyor.",
+    "Ayar yapıldıktan sonraki ölçüm, yani yeşil çizgi, iki bin hertze kadar hedefin beş desibel içinde.",
+    "Sık kullanılan bir yaklaşım, özellikle iki bin hertze kadar ölçümün hedefe artı eksi beş desibel yakın olmasıdır.",
+    "İlk kez kullanan bu kişi için yüksek frekanslarda hedefin biraz altında bırakılan kazanç, alışma süreciyle kademeli artırılacak.",
+    "Her ölçüm ve hedeften bilinçli ayrılmanın nedeni dosyaya yazılır."
+   ]
+  },
+  {
+   "id": "ilk_gun",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İlk gün ve alışma",
+   "baslik": "İlk *uygulama günü*",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Fiziksel uyum",
+     "metin": "Rahat mı, ses kaçıyor mu?",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Doğrulama",
+     "metin": "Gerçek kulak ölçümü",
+     "cumle": 1
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Takma ve çıkarma",
+     "metin": "Kendi elleriyle",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Bakım ve şarj",
+     "metin": "Basit bir rutin",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Telefon ve TV",
+     "metin": "Kullanımı dene",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İlk uygulama günü fiziksel uyumla başlar: cihaz rahat mı, kulak yolunda baskı var mı, geri besleme oluyor mu?",
+    "Ardından az önce gördüğümüz gerçek kulak ölçümüyle hedefe uyum doğrulanır.",
+    "Kişi cihazları kendi elleriyle, eşinin de izlediği bir ortamda birkaç kez takıp çıkarır.",
+    "Şarj, temizlik ve uç değiştirme gibi bakım adımları basit bir rutin olarak anlatılır ve yazılı olarak verilir.",
+    "Telefonla konuşma ve televizyon bağlantısı klinikte denenir; böylece evde ilk denemede hayal kırıklığı yaşanmaz.",
+    "Önemli bilgilerin doğru anlaşıldığı, kişiye kendi sözleriyle tekrar ettirilerek kontrol edilir."
+   ]
+  },
+  {
+   "id": "alisma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İlk gün ve alışma",
+   "baslik": "Alışma *süreci*",
+   "maddeler": [
+    {
+     "metin": "Yeni sesler _yüksek ve yapay_ gelebilir",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Gün boyu düzenli kullanım",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Önce sessiz ortamlar, sonra kalabalık",
+     "cumle": 3,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Kendi sesi farklı gelebilir",
+     "cumle": 4,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Kazanç kademeli artırılır",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Gün boyu",
+      "metin": "Düzenli kullanım",
+      "cumle": 2
+     },
+     {
+      "ikon": "ev",
+      "baslik": "Önce ev",
+      "metin": "Sonra kalabalık",
+      "cumle": 3
+     }
+    ],
+    "ust": "ALIŞMA"
+   },
+   "cumleler": [
+    "Beynin yıllardır duymadığı seslere yeniden uyum sağlamasına alışma (acclimatization) denir.",
+    "İlk günlerde kağıt hışırtısı, musluk suyu ve ayak sesleri olağandışı yüksek ve yapay gelebilir; bu beklenen bir durumdur.",
+    "Alışmanın en etkili yolu, cihazı yalnız zor ortamlarda değil, gün boyu düzenli kullanmaktır.",
+    "İlk günlerde evde ve sessiz ortamlarda başlamak, sonra kalabalık ortamlara geçmek kişiyi rahatlatır.",
+    "Kendi sesinin farklı gelmesi de sık görülen bir yakınmadır ve çoğu zaman zamanla azalır ya da ayarla düzelir.",
+    "Kazanç, kontrol randevularında kişinin rahatlığına göre hedefe doğru kademeli olarak artırılır."
+   ]
+  },
+  {
+   "id": "strateji",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "İlk gün ve alışma",
+   "baslik": "İletişim *stratejileri*",
+   "maddeler": [
+    {
+     "metin": "Konuşmadan önce dikkatini çek",
+     "cumle": 0,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Yüz yüze, aynı odadan konuş",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Anlaşılmadıysa _başka sözcüklerle_ söyle",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Arka plan sesini azalt",
+     "cumle": 3,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Gürültülü yerde sessiz köşe seç",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "kalabalik",
+      "baslik": "Eşi için",
+      "metin": "Stratejiler ikisine birden",
+      "cumle": 0
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Yazılı özet",
+      "metin": "Eve götürülür",
+      "cumle": 4
+     }
+    ],
+    "ust": "BİRLİKTE"
+   },
+   "cumleler": [
+    "Cihaz tek başına yeterli değildir; kişiye ve eşine birkaç iletişim stratejisi anlatılır: konuşmadan önce adıyla seslenip dikkatini çekmek.",
+    "Başka bir odadan seslenmek yerine yüz yüze ve yüzü görecek biçimde konuşmak.",
+    "Bir cümle anlaşılmadığında aynı cümleyi bağırarak tekrarlamak yerine başka sözcüklerle yeniden söylemek.",
+    "Konuşurken televizyonun ya da radyonun sesini kısmak.",
+    "Aile yemeklerinde kişinin herkesi görebileceği ve gürültü kaynağından uzak bir yere oturması da birinci hedefe katkı sağlar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "İlk gün kişi cihazı kendi elleriyle birkaç kez takıp çıkarmadan görüşmeyi bitirmeyin; eşini de sürece katın.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: ilk uygulama gününde kişi cihazı kendi elleriyle en az birkaç kez takıp çıkarmadan görüşmeyi bitirmeyin.",
+    "Takamadığı bir cihazı evde kullanması mümkün değildir; bu, ilk haftalarda bırakmanın sık nedenlerinden biridir.",
+    "Eşinin ya da bakım verenin de bu adımları görmesi, evde küçük sorunların çözülmesini sağlar.",
+    "Uygulamadan sonraki ilk günlerde kısa bir telefon görüşmesi, küçük sorunları büyümeden yakalar."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Takip",
+   "baslik": "Takip (follow-up) *randevuları*",
+   "adimlar": [
+    {
+     "ikon": "telefon",
+     "baslik": "İlk günler",
+     "metin": "Kısa telefon görüşmesi",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İlk haftalar",
+     "metin": "Konfor, ince ayar",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Veri kaydı",
+     "metin": "Günlük saat",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Birkaç ay sonra",
+     "metin": "COSI, anketler",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Düzenli kontrol",
+     "metin": "Odyogram ve cihaz",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Uygulamadan sonraki ilk günlerde kısa bir telefon görüşmesiyle kullanımın nasıl gittiği sorulur.",
+    "İlk haftalarda yapılan kontrolde konfor, ses kalitesi ve kullanım sorunları ele alınır; gerekirse ince ayar yapılır.",
+    "Cihazın veri kaydı (datalogging), günlük kullanım süresini ve hangi ortamlarda kullanıldığını objektif olarak gösterir.",
+    "Birkaç ay sonra COSI hedefleri ve standart anketlerle sonuç değerlendirilir.",
+    "Takip (follow-up) randevularının zamanı kliniğin protokolüne ve kişinin ihtiyacına göre planlanır.",
+    "Sonrasında düzenli aralıklarla odyogram ve cihaz kontrolleri sürdürülür."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Takip",
+   "baslik": "Veri kaydı: *haftalar*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 5,
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "1. hafta",
+      "2": "2. hafta",
+      "3": "3. hafta",
+      "4": "4. hafta"
+     },
+     "ad": "Hafta"
+    },
+    "y": {
+     "min": 0,
+     "max": 12,
+     "adim": 2,
+     "ad": "Günlük kullanım (saat)"
+    },
+    "seriler": [
+     {
+      "ad": "saat",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        3.5
+       ],
+       [
+        2,
+        5
+       ],
+       [
+        3,
+        7
+       ],
+       [
+        4,
+        8.5
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "dorduncu",
+      "x": 4,
+      "y": 8.5,
+      "etiket": "8,5 saat",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Düşük kullanım: _nedenini sor_",
+     "cumle": 4,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Denetim değil, _iş birliği_",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, vakamızdaki kişinin ilk dört haftadaki ortalama günlük kullanım süresini gösteriyor.",
+    "İlk hafta cihazlar günde ortalama üç buçuk saat kullanılmış; çoğunlukla yalnız akşam televizyon izlerken.",
+    "Telefon görüşmesinde gün boyu kullanımın önemi yeniden anlatılmış.",
+    "Dördüncü haftada günlük kullanım sekiz buçuk saate çıkıyor.",
+    "Kısa kullanım süresi rahatsızlık, beklenti ya da fiziksel bir sorunun işareti olabilir; nedeni her zaman sorulur.",
+    "Kayıt bir denetim aracı değil, kişiyle birlikte sorun çözmenin başlangıç noktasıdır."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Takip",
+   "baslik": "Üçüncü ayda *COSI*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Aile yemeği",
+     "metin": "Çok daha iyi",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Televizyon",
+     "metin": "Çok daha iyi",
+     "cumle": 1
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Telefon",
+     "metin": "Biraz daha iyi",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Torunlar",
+     "metin": "Daha iyi",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Üçüncü ayda kişi aile yemeklerinde sohbete katılmayı çok daha iyi olarak değerlendiriyor.",
+    "Televizyon artık eşini rahatsız etmeyen bir düzeyde; bu hedef de çok daha iyi.",
+    "Telefonda değişiklik sınırlı kalmış; telefonla dinleme ayarı ve kablosuz bağlantı yeniden çalışılacak.",
+    "Torunlarının sorularını anlamada da belirgin bir iyileşme var.",
+    "Hedef bazında bakmak, neyin işe yaradığını ve hangi alanda çalışmaya devam edilmesi gerektiğini açıkça gösterir.",
+    "Ayrıca işitme cihazları için uluslararası sonuç envanteri, kısaca IOI-HA gibi kısa bir anketle genel memnuniyet de ölçülür."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "İhtiyaç analizi ve somut COSI hedefleri",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "NAL-NL2 hedefi, gerçek kulak ölçümüyle doğrulanır",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Alışma: gün boyu kullanım, kademeli kazanç",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Planlı takip, veri kaydı, sonuç ölçümü",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "İlk cihaz süreci, kişinin ve yakınının katıldığı bir ihtiyaç analizi ve somut COSI hedefleriyle başlar.",
+    "Cihaz bir reçete formülüyle ayarlanır ve gerçek kulak ölçümüyle hedefe uyumu doğrulanır.",
+    "Alışma süreci için gün boyu düzenli kullanım önerilir; kazanç gerekirse kademeli olarak hedefe yaklaştırılır.",
+    "Planlı takip randevuları, veri kaydı ve COSI ile sonuç değerlendirmesi süreci tamamlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Üretici ilk ayarı hedefin altında. Ne yapılır?",
+   "secenekler": [
+    "Olduğu gibi bırakılır",
+    "REM ile hedefe yaklaştırılır",
+    "Cihaz değiştirilir",
+    "Kazanç tümüyle kapatılır"
+   ],
+   "dogru": 1,
+   "aciklama": "Gerçek kulak ölçümü _hedefe uyumu_ doğrular; ilk kullanıcıda kazanç kademeli artırılabilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Gerçek kulak ölçümünde üreticinin ilk ayarı tizlerde hedefin belirgin altında. Ne yapılır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: ayar, gerçek kulak ölçümü eşliğinde hedefe yaklaştırılır.",
+    "İlk kez kullanan kişide konfor için kazanç geçici olarak biraz düşük tutulabilir; ama plan, kademeli olarak hedefe ulaşmaktır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: cihazından *memnun olmayan* kullanıcı",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki vakada cihazından memnun olmayan bir kullanıcının şikayetini adım adım çözümleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

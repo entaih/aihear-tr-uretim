@@ -1,0 +1,797 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D133_ANSD_TR",
+ "kapak": {
+  "ust": "DERS 133",
+  "baslik": "İşitsel *nöropati*<br>(ANSD)",
+  "alt": "OAE var, ABR yok: ne anlama gelir?",
+  "cizim": "corti"
+ },
+ "youtube": {
+  "baslik": "İşitsel Nöropati Spektrum Bozukluğu (ANSD) | Ders 133 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitsel nöropati spektrum bozukluğunda (ANSD) OAE ya da koklear mikrofoniğin var, ABR'nin ise yok ya da belirgin bozuk olmasının ne anlama geldiğini anlatıyoruz. Lezyon yerlerini, koklear mikrofoniğin artefakttan ayrılmasını, risk faktörlerini ve konuşma algısı ile odyogram arasındaki uyumsuzluğu ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Guidelines for Identification and Management of Infants and Young Children with Auditory Neuropathy Spectrum Disorder (Como, 2008); Joint Committee on Infant Hearing, Position Statement (2019).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ANSD",
+   "işitselnöropati"
+  ],
+  "etiketler": [
+   "ANSD",
+   "auditory neuropathy spectrum disorder",
+   "işitsel nöropati",
+   "işitsel nöropati spektrum bozukluğu",
+   "koklear mikrofonik",
+   "OTOF",
+   "otoferlin",
+   "hiperbilirubinemi",
+   "ABR",
+   "OAE",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 133",
+   "baslik": "İşitsel *nöropati* spektrum bozukluğu",
+   "alt": "OAE var, ABR yok: ANSD tablosunu tanımak",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel nöropati spektrum bozukluğunu, yani ANSD'yi öğreneceğiz.",
+    "Otoakustik emisyon, kısaca OAE ve koklear mikrofoniğin var, işitsel beyin sapı yanıtı, kısaca ABR'nin yok olduğu bu tabloyu tanıyacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ANSD nedir?",
+   "baslik": "*ANSD* nedir?",
+   "maddeler": [
+    {
+     "metin": "Dış tüy hücreleri: _çoğunlukla çalışır_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sinirsel yanıt: _eş zamanlı değil_",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "ABR: _yok_ ya da belirgin bozuk",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Konuşma algısı: _beklenenden kötü_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ANSD",
+    "metin": "Auditory neuropathy *spectrum* disorder",
+    "cumle": 0
+   },
+   "cumleler": [
+    "İşitsel nöropati spektrum bozukluğu, İngilizce adıyla auditory neuropathy spectrum disorder, kısaca ANSD olarak bilinir.",
+    "Bu tabloda koklear amplifikatör görevi gören dış tüy hücreleri çoğunlukla normal çalışır.",
+    "Sorun iç tüy hücresi, sinaps ya da işitme sinirindedir ve sinir lifleri sese eş zamanlı yanıt veremez.",
+    "ABR çok sayıda lifin aynı anda ateşlemesine dayandığı için, bu eş zamanlılık bozulunca dalgalar kaybolur ya da belirgin bozulur.",
+    "Sonuç olarak kişi sesi duyabilir, ama özellikle gürültüde konuşmayı anlamakta beklenenden çok daha fazla zorlanır.",
+    "Spektrum sözcüğü, bulguların hafiften ağıra ve kişiden kişiye çok değiştiğini vurgular."
+   ]
+  },
+  {
+   "id": "adlandirma",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ANSD nedir?",
+   "baslik": "Adın *hikayesi*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "1996: Starr",
+     "metin": "İşitsel nöropati adı",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Dissenkroni",
+     "metin": "Eş zamanlılık vurgusu",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "2008: ANSD",
+     "metin": "Uzman toplantısının önerisi",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Tablo, 1996 yılında Starr ve arkadaşları tarafından auditory neuropathy, yani işitsel nöropati adıyla tanımlandı.",
+     "ses": "Tablo, bin dokuz yüz doksan altı yılında Starr ve arkadaşları tarafından auditory neuropathy, yani işitsel nöropati adıyla tanımlandı."
+    },
+    "Ancak her olguda sorunun işitme sinirinde olmadığı, bazen iç tüy hücresi ya da sinapsta olduğu anlaşıldı.",
+    "Bu yüzden bazı araştırmacılar, eş zamanlılığın bozulmasını vurgulayan işitsel dissenkroni terimini kullandı.",
+    {
+     "yazi": "2008 yılında İtalya'da toplanan uzman grubu, bulguların genişliğini yansıtan ANSD adını önerdi.",
+     "ses": "İki bin sekiz yılında İtalya'da toplanan uzman grubu, bulguların genişliğini yansıtan ANSD adını önerdi."
+    },
+    "Bugün klinik kılavuzların çoğu bu adı ve bu toplantıda belirlenen ilkeleri temel alır."
+   ]
+  },
+  {
+   "id": "lezyon",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ANSD nedir?",
+   "baslik": "Sorun *nerede?*",
+   "cizim": "corti",
+   "vurgula": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "Dış tüy hücreleri: genellikle sağlam",
+     "cumle": 0
+    },
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "İç tüy hücresi ve sinaps",
+     "cumle": 1
+    },
+    {
+     "parca": "sinir_lifleri",
+     "metin": "İşitme siniri lifleri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Presinaptik: iç tüy hücresi, sinaps",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Postsinaptik: işitme siniri",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Corti organında dış tüy hücreleri sağlamsa OAE ve koklear mikrofonik kaydedilebilir.",
+    "Lezyon iç tüy hücresinde ya da onun sinapsındaysa presinaptik tip olarak tanımlanır.",
+    "Otoferlin geni ile ilişkili form, bu presinaptik grubun en iyi bilinen örneğidir.",
+    "Lezyon işitme sinirinin kendisindeyse postsinaptik, yani nöral tip söz konusudur.",
+    "Bu ayrım önemlidir; çünkü farklı müdahale seçeneklerinden beklenen yararı etkileyebilir.",
+    "Her iki tipte de ortak sonuç, sinir lifleri boyunca eş zamanlı ateşlemenin bozulmasıdır."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "bulgular",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test bulguları",
+   "baslik": "Tipik *test bulguları*",
+   "ogeler": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "OAE",
+     "metin": "Çoğunlukla var",
+     "cumle": 0
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Koklear mikrofonik",
+     "metin": "Var, belirgin",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "ABR",
+     "metin": "Yok ya da bozuk",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Akustik refleks",
+     "metin": "Genellikle yok",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Odyogram",
+     "metin": "Normal ile ileri arası",
+     "cumle": 4
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma ayırt etme",
+     "metin": "Odyogramdan kötü",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "ANSD'nin tipik test bulgularını bir tabloda toplayalım; ilk ipucu, OAE yanıtının çoğunlukla var olmasıdır.",
+    "Koklear mikrofonik, yani dış tüy hücrelerinin ürettiği elektriksel yanıt, kayıtta belirgin biçimde görülür.",
+    {
+     "yazi": "Buna karşın ABR'de, yüksek şiddette bile dalga V görülmez ya da dalgalar çok bozuktur.",
+     "ses": "Buna karşın ABR'de, yüksek şiddette bile dalga beş görülmez ya da dalgalar çok bozuktur."
+    },
+    "Akustik refleksler çoğu zaman alınamaz ya da belirgin biçimde yükselmiştir.",
+    "Odyogram ise normalden ileri dereceye kadar her düzeyde olabilir ve zamanla dalgalanabilir.",
+    "Konuşma ayırt etme puanı çoğu zaman odyogramın düşündürdüğünden çok daha kötüdür.",
+    "OAE yanıtlarının bazı kişilerde zamanla kaybolabileceği de akılda tutulmalıdır."
+   ]
+  },
+  {
+   "id": "oae_abr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test bulguları",
+   "baslik": "OAE var, *ABR* yok",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "Klik uyaran",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "Kokleadan dönen yanıt",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Gürültü tabanı",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Dış tüy hücresi ve orta kulak çalışıyor",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Aynı bebekte ABR: dalga V yok",
+     "cumle": 3,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Klinik tablo çoğu zaman yenidoğan taramasında ya da tanısal değerlendirmede ortaya çıkar.",
+    "Bu örnekte OAE kaydında, gürültü tabanının belirgin üzerinde net bir yanıt görülüyor.",
+    "Bu, dış tüy hücrelerinin ve orta kulağın büyük olasılıkla çalıştığını gösterir.",
+    {
+     "yazi": "Aynı bebekte ABR kaydında ise yüksek şiddette bile tekrarlanabilir bir dalga V bulunamıyor.",
+     "ses": "Aynı bebekte ABR kaydında ise yüksek şiddette bile tekrarlanabilir bir dalga beş bulunamıyor."
+    },
+    "İşte bu ayrışma, ANSD şüphesinin temel işaretidir."
+   ]
+  },
+  {
+   "id": "karsilastir",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test bulguları",
+   "baslik": "ANSD mi, *koklear* kayıp mı?",
+   "sol": {
+    "ust": "ANSD",
+    "maddeler": [
+     {
+      "metin": "OAE çoğunlukla var",
+      "cumle": 1
+     },
+     {
+      "metin": "ABR eşik tahmini için kullanılamaz",
+      "cumle": 2
+     },
+     {
+      "metin": "Konuşma algısı orantısız kötü",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Koklear kayıp",
+    "maddeler": [
+     {
+      "metin": "Orta ve ileri kayıpta OAE yok",
+      "cumle": 1
+     },
+     {
+      "metin": "ABR eşiği davranışsal eşiğe yakın",
+      "cumle": 2
+     },
+     {
+      "metin": "Konuşma algısı kayıpla uyumlu",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Sensörinöral kayıpların çoğu koklear kökenlidir ve dış tüy hücrelerini de etkiler.",
+    "Bu yüzden orta ya da ileri derece koklear kayıpta OAE genellikle alınamaz; ANSD'de ise OAE çoğunlukla vardır.",
+    "Koklear kayıpta ABR eşiği davranışsal eşiğe yakın çıkar; ANSD'de ise ABR işitme düzeyini tahmin etmek için kullanılamaz.",
+    "Koklear kayıpta konuşma algısı genellikle odyogramla uyumludur; ANSD'de ise orantısız biçimde kötüdür.",
+    "Bu karşılaştırma, tek bir teste değil, test bataryasına bakmanın neden şart olduğunu gösterir."
+   ]
+  },
+  {
+   "id": "ek_bulgular",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test bulguları",
+   "baslik": "Ek *bulgular*",
+   "maddeler": [
+    {
+     "metin": "OAE _karşı taraf baskılanması_ yok",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "_Zamansal_ işlemleme bozuk",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Gürültüde anlama _çok zayıf_",
+     "cumle": 2,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Eşikler zamanla _dalgalanabilir_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Karşı kulağa gürültü verildiğinde OAE genliğinin azalması, yani kontralateral baskılanma, ANSD'de genellikle görülmez.",
+    "Seslerin zaman içindeki hızlı değişimlerini izleme becerisi, yani zamansal işlemleme belirgin biçimde bozulur.",
+    "Bu yüzden gürültülü ortamda konuşmayı anlamak, benzer odyogramlı koklear kayba göre çok daha zordur.",
+    "Bazı kişilerde eşikler zaman içinde, hatta vücut ısısı değiştiğinde dalgalanabilir.",
+    "Bu bulgular, kişinin günlük yaşamda yaşadığı zorluğun neden odyogramla açıklanamadığını gösterir."
+   ]
+  },
+  {
+   "id": "cm",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koklear mikrofonik",
+   "baslik": "*Koklear mikrofonik* nasıl gösterilir?",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Yüksek şiddet",
+     "metin": "Klik, 80 ile 90 dB nHL",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "İki polarite",
+     "metin": "Ayrı kayıt, üst üste",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "CM",
+     "metin": "Polariteyle ters döner",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Dalga V",
+     "metin": "Polariteyle ters dönmez",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Koklear mikrofoniği görmek için yüksek şiddette, örneğin 80 ile 90 dB nHL düzeyinde klik kullanılır.",
+     "ses": "Koklear mikrofoniği görmek için yüksek şiddette, örneğin seksen ile doksan desibel nHL düzeyinde klik kullanılır."
+    },
+    "Sıkışma ve seyrelme polaritelerinde ayrı ayrı kayıt alınır ve iki kayıt üst üste konur.",
+    "Koklear mikrofonik, kısaca CM, uyaranın dalga biçimini izlediği için polarite değişince ters döner.",
+    {
+     "yazi": "Sinirsel kaynaklı dalga V ise polariteyle genellikle ters dönmez; yalnız latansı biraz değişebilir.",
+     "ses": "Sinirsel kaynaklı dalga beş ise polariteyle genellikle ters dönmez; yalnız latansı biraz değişebilir."
+    },
+    "ANSD'de ters dönen bu yanıt büyük olabilir ve birkaç milisaniye boyunca sürebilir.",
+    "Ancak uyaran artefaktı da polariteyle ters döner; bu yüzden ikisini ayırmak gerekir."
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Koklear mikrofonik",
+   "baslik": "*Artefakt* mı, CM mi?",
+   "maddeler": [
+    {
+     "metin": "Insert kulaklık: _gecikme_ ayrım sağlar",
+     "cumle": 0,
+     "ikon": "insert_kulaklik"
+    },
+    {
+     "metin": "Ses tüpünü _sıkıştır_ ya da ayır",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "CM kaybolur, _artefakt kalır_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kabloları _birbirinden uzak_ tut",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Insert kulaklıkta ses, dönüştürücüden kulağa bir tüp içinde, bir milisaniyeden biraz kısa sürede ulaşır.",
+    "Bu gecikme sayesinde elektriksel uyaran artefaktı, kulaktan gelen yanıttan zaman olarak ayrılabilir.",
+    "Ayrıca ses tüpü sıkıştırılarak ya da dönüştürücüden ayrılarak bir kontrol kaydı alınır.",
+    "Ses kulağa ulaşmadığında gerçek koklear mikrofonik kaybolur; elektriksel artefakt ise kayıtta kalır.",
+    "Dönüştürücü ve kablolarının elektrot kablolarından uzak tutulması da artefaktı azaltır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Yalnız OAE ile tarama ANSD'yi kaçırabilir; yoğun bakım geçmişi olan bebeklerde otomatik ABR ile tarama önerilir.",
+   "cumleler": [
+    "Bir klinik ipucu: yalnız OAE ile yapılan tarama, ANSD'si olan bir bebeği geçti olarak değerlendirebilir.",
+    "Çünkü OAE dış tüy hücrelerini ve orta kulağı yansıtır; sinirsel iletimi göstermez.",
+    "Bu nedenle uluslararası kılavuzlar, yenidoğan yoğun bakımda beş günden uzun kalan bebeklerin otomatik ABR ile taranmasını önerir.",
+    "Konuşma gelişimi ya da işitsel davranış konusunda endişe varsa, geçmişteki bir OAE sonucu tek başına güven vermemelidir."
+   ]
+  },
+  {
+   "id": "risk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Risk faktörleri",
+   "baslik": "*Risk* faktörleri",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Prematürite",
+     "metin": "Düşük doğum ağırlığı da",
+     "cumle": 0
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Yoğun bakım",
+     "metin": "Uzun süre kalış",
+     "cumle": 1
+    },
+    {
+     "ikon": "kan_damari",
+     "baslik": "Hiperbilirubinemi",
+     "metin": "Kanda yüksek bilirubin",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Oksijensizlik",
+     "metin": "Doğumda hipoksi",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetik nedenler",
+     "metin": "Örneğin OTOF",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "ANSD için bilinen en önemli risk faktörlerinden biri prematüritedir; düşük doğum ağırlığı da sık eşlik eder.",
+    "Yenidoğan yoğun bakımında uzun süre kalmış bebeklerde risk belirgin biçimde artar.",
+    "Hiperbilirubinemi, yani kanda bilirubinin yükselmesi, özellikle yüksek düzeylerde işitme yollarına zarar verebilir.",
+    "Doğum sırasında oksijensiz kalma, yani hipoksi de risk faktörleri arasındadır.",
+    "Ancak ANSD, hiçbir risk faktörü olmayan bebeklerde de görülebilir; bu durumda genetik nedenler öne çıkar."
+   ]
+  },
+  {
+   "id": "genetik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Risk faktörleri",
+   "baslik": "Genetik ve *ilişkili* durumlar",
+   "maddeler": [
+    {
+     "metin": "_OTOF_ (otoferlin geni): presinaptik form",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Otozomal çekinik, genellikle _doğuştan_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Diğer genler: örnek _OPA1, PJVK_",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Nörolojik hastalıklarla _birliktelik_",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "_Koklear sinir_ yetersizliği",
+     "cumle": 5,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "En iyi bilinen genetik neden, otoferlin proteinini kodlayan OTOF genindeki varyantlardır.",
+    "Otoferlin, iç tüy hücresinin sinapsında nörotransmitter salınımı için gereklidir; bu yüzden form presinaptiktir.",
+    "OTOF ile ilişkili kayıp genellikle otozomal çekinik kalıtılır ve doğuştan başlar.",
+    {
+     "yazi": "OPA1 ve PJVK gibi başka genler de işitsel nöropati tablosuyla ilişkilendirilmiştir.",
+     "ses": "OPA bir ve PJVK gibi başka genler de işitsel nöropati tablosuyla ilişkilendirilmiştir."
+    },
+    "Daha büyük çocuk ve yetişkinlerde Charcot-Marie-Tooth ya da Friedreich ataksisi gibi nörolojik hastalıklarla birlikte görülebilir.",
+    "İşitme sinirinin gelişmemesi ya da çok ince olması, yani koklear sinir yetersizliği de benzer bulgular verir ve MR ile gösterilir."
+   ]
+  },
+  {
+   "id": "odyogram",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Odyogram ve izlem",
+   "baslik": "Odyogram ve konuşma *uyumsuzluğu*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: sağ kulak",
+     "cumle": 0
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: sağ kulak",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       50,
+       45,
+       40,
+       35,
+       35,
+       40
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       45,
+       40,
+       35,
+       35,
+       35
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta, alçak frekanslarda biraz daha belirgin, hafif ile orta derece arası bir kayıp görülüyor.",
+    "Kemik yolu eşikleri hava yoluna yakın; yani hava-kemik aralığı yok ve kayıp sensörinöral görünüyor.",
+    "Bu odyograma bakarak, kişinin sessiz ortamda konuşmayı oldukça iyi anlamasını bekleyebiliriz.",
+    "Oysa bu örnekte kelime ayırt etme puanı yüzde otuz civarında ölçülmüştür.",
+    "Odyogram ile konuşma algısı arasındaki bu belirgin uyumsuzluk, ANSD için önemli bir uyarı işaretidir.",
+    "Gürültüde anlama ise sessiz ortama göre çok daha fazla bozulur."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Odyogram ve izlem",
+   "baslik": "Değerlendirme ve *izlem*",
+   "maddeler": [
+    {
+     "metin": "Eşik için _davranışsal_ test şart",
+     "cumle": 0,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Kulağa ve frekansa özgü _odyogram_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Geçici olabilir: _yeniden_ değerlendir",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Konuşma ve dil gelişimini _yakın izle_",
+     "cumle": 4,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ekip: KBB, odyoloji, _nöroloji_, genetik",
+     "cumle": 5,
+     "ikon": "kalabalik"
+    }
+   ],
+   "cumleler": [
+    "ANSD'de ABR işitme eşiğini tahmin etmek için kullanılamaz; bu yüzden davranışsal test yapılabildiği anda eşikler ölçülür.",
+    "Görsel pekiştirmeli odyometri gibi yöntemlerle kulağa ve frekansa özgü bir odyogram hedeflenir.",
+    "Özellikle hiperbilirubinemi ile ilişkili bazı bebeklerde bulgular zamanla düzelebildiği için tekrarlanan değerlendirmeler önemlidir.",
+    "Bu nedenle tek bir ABR kaydına dayanarak kalıcı bir sonuç çıkarılmaz.",
+    "Konuşma ve dil gelişimi yakından izlenir; ilerleme beklenenden yavaşsa ekip yeniden değerlendirme yapar.",
+    "Değerlendirme KBB, odyoloji, nöroloji ve genetik birimlerinin birlikte çalıştığı bir ekip işidir."
+   ]
+  },
+  {
+   "id": "mudahale",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Odyogram ve izlem",
+   "baslik": "Müdahalede *genel* yaklaşım",
+   "maddeler": [
+    {
+     "metin": "Kararlar: _davranışsal_ eşiklere göre",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "İşitme cihazı: _yakından izlenen_ deneme",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Gürültüde: _uzak mikrofon_ sistemleri",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Bazı çocuklarda: _koklear implant_ değerlendirmesi",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "cumleler": [
+    "Müdahale kararları ABR'ye değil, davranışsal eşiklere ve işlevsel gözlemlere dayanır.",
+    "Kılavuzlarda işitme cihazının, yararı yakından izlenen bir deneme olarak uygulanması önerilir.",
+    "Gürültüde anlama çok zayıf olduğu için uzak mikrofon sistemleri sık kullanılan bir destektir.",
+    "Yeterli ilerleme görülmeyen bazı çocuklarda koklear implant değerlendirmesi gündeme gelir.",
+    "Özellikle OTOF ile ilişkili presinaptik formda implant sonuçlarının çoğu zaman iyi olduğu bildirilmiştir.",
+    "Her çocuk için karar, ekibin bireysel değerlendirmesiyle verilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "OAE ya da CM var, ABR _yok_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Lezyon: iç tüy hücresi, _sinaps_ ya da sinir",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Risk: prematürite, _hiperbilirubinemi_, OTOF",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Konuşma algısı odyogramdan _kötü_",
+     "cumle": 3,
+     "ikon": "konusma"
+    }
+   ],
+   "cumleler": [
+    "ANSD'de OAE ya da koklear mikrofonik vardır; ABR ise yoktur ya da belirgin bozuktur.",
+    "Sorun iç tüy hücresi, sinaps ya da işitme sinirindedir; dış tüy hücreleri genellikle çalışır.",
+    "Prematürite, yoğun bakım, hiperbilirubinemi ve OTOF varyantları başlıca risk faktörleridir.",
+    "Konuşma algısının odyogramdan beklenenden çok kötü olması tipik bir uyarı işaretidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Hangi bulgu birleşimi ANSD'yi düşündürür?",
+   "secenekler": [
+    "OAE yok, ABR eşiği yüksek",
+    "OAE var, ABR yok",
+    "OAE var, ABR normal",
+    "B tipi timpanogram"
+   ],
+   "dogru": 1,
+   "aciklama": "Dış tüy hücreleri çalışıyor, sinirsel _eş zamanlılık_ bozuk.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Hangi bulgu birleşimi işitsel nöropati spektrum bozukluğunu düşündürür?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: OAE var, ABR yok.",
+     "ses": "Doğru cevap be şıkkı: o a e var, a be re yok."
+    },
+    "Dış tüy hücreleri çalışırken sinirsel eş zamanlılığın bozulması bu ayrışmayı oluşturur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Koklear mi *retrokoklear* mi?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste koklear ve retrokoklear sorunları ayırırken test bataryası sonuçlarını nasıl birlikte yorumladığımızı göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

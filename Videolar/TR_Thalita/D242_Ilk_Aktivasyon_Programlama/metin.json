@@ -1,0 +1,1449 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D242_Ilk_Aktivasyon_Programlama_TR",
+ "kapak": {
+  "ust": "DERS 242",
+  "baslik": "İlk aktivasyon ve<br>*programlama*",
+  "alt": "T ve C/M düzeyleri, harita",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "İlk Aktivasyon ve Programlama: T ve C/M Düzeyleri | Ders 242 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Koklear implant ilk kez nasıl çalıştırılır ve kişiye özel harita nasıl oluşturulur? Bu derste eşik (T) ve konfor (C/M) düzeylerini, elektriksel dinamik aralığı, giriş dinamik aralığını, ses yüksekliği dengelemeyi, darbe süresi ve uyum gerilimi sınırını, ilk aktivasyon deneyimini ve danışmanlığı öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Wolfe ve Schafer, Programming Cochlear Implants; Zeng ve arkadaşları (2002), Speech dynamic range and its effect on cochlear implant performance, Journal of the Acoustical Society of America; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "programlama"
+  ],
+  "etiketler": [
+   "koklear implant programlama",
+   "mapping",
+   "T düzeyi",
+   "C düzeyi",
+   "M düzeyi",
+   "ilk aktivasyon",
+   "switch-on",
+   "elektriksel dinamik aralık",
+   "harita",
+   "giriş dinamik aralığı",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 242",
+   "baslik": "İlk aktivasyon ve *programlama*",
+   "alt": "T ve C/M düzeyleri, harita",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste koklear implantın ilk kez çalıştırılmasını ve kişiye özel haritanın nasıl oluşturulduğunu öğreneceğiz.",
+    "Eşik ve konfor düzeylerini, elektriksel dinamik aralığı ve ilk aktivasyon gününde danışmanlığı ele alacağız."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İlk aktivasyon",
+   "baslik": "Ameliyattan *ilk sese*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Ameliyat",
+     "cumle": 0,
+     "metin": "İç ünite yerleşir"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İyileşme",
+     "cumle": 1,
+     "metin": "Genellikle birkaç hafta"
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Aktivasyon",
+     "cumle": 3,
+     "metin": "Ölçüm ve ilk harita"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "İlk sesler",
+     "cumle": 4,
+     "metin": "Yabancı ve mekanik"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Sık kontrol",
+     "cumle": 5,
+     "metin": "İlk aylarda"
+    }
+   ],
+   "cumleler": [
+    "Ameliyatta iç ünite yerleştirilir, ama dış ünite takılmadığı için kişi henüz implant yoluyla bir şey duymaz.",
+    "Yara iyileşip şişlik inene kadar genellikle birkaç hafta beklenir; bu süre merkezden merkeze değişir.",
+    "Bazı merkezler, deri uygunsa aktivasyonu ameliyattan birkaç gün sonra da yapabilmektedir.",
+    "İlk aktivasyon (switch-on) gününde odyolog dış üniteyi takar, ölçümleri yapar ve ilk haritayı oluşturur.",
+    "Kişi bu ilk sesleri çoğu zaman yabancı, mekanik ya da bip sesleri gibi tarif eder.",
+    "Ardından ilk aylarda sık kontroller yapılır; çünkü kişinin elektriksel uyarıya alışmasıyla düzeyler değişir."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İlk aktivasyon",
+   "baslik": "Aktivasyon günü: *önce kontrol*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Deri",
+     "cumle": 0,
+     "metin": "Yara ve kızarıklık"
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Mıknatıs",
+     "cumle": 1,
+     "metin": "Uygun tutuş gücü"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Empedans",
+     "cumle": 3,
+     "metin": "Yeniden ölçülür"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Anlatım",
+     "cumle": 4,
+     "metin": "Neler olacak?"
+    }
+   ],
+   "cumleler": [
+    "Ölçümlerden önce bobinin geleceği bölgedeki deri incelenir; yara iyileşmemişse ya da kızarıklık varsa ekip bilgilendirilir.",
+    "Bobini tutan mıknatısın gücü kişiye göre seçilir; fazla güçlü mıknatıs deride bası ve yara yapabilir.",
+    "Zayıf mıknatıs ise bobinin sık düşmesine ve uyarımın kesilmesine neden olur.",
+    "Sonra telemetriyle empedans yeniden ölçülür; açık ya da kısa devre gösteren elektrotlar belirlenir.",
+    "Kişiye ve ailesine bugün neler yapılacağı, ilk seslerin nasıl gelebileceği ve bunun normal olduğu önceden anlatılır.",
+    "Bu kısa hazırlık, kişinin kaygısını azaltır ve ölçümlere daha güvenilir yanıt vermesini sağlar."
+   ]
+  },
+  {
+   "id": "tc",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "T ve C/M düzeyleri",
+   "baslik": "Eşik, konfor ve *dinamik aralık*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 220,
+     "ad": "Akım düzeyi (üreticiye özgü birim)",
+     "isaretler": [
+      100,
+      130,
+      160,
+      190,
+      220
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Ses yüksekliği (0 ile 10)"
+    },
+    "seriler": [
+     {
+      "ad": "yukseklik",
+      "noktalar": [
+       [
+        112,
+        0.0
+       ],
+       [
+        116,
+        0.06
+       ],
+       [
+        120,
+        0.18
+       ],
+       [
+        124,
+        0.34
+       ],
+       [
+        128,
+        0.53
+       ],
+       [
+        132,
+        0.76
+       ],
+       [
+        136,
+        1.02
+       ],
+       [
+        140,
+        1.3
+       ],
+       [
+        144,
+        1.62
+       ],
+       [
+        148,
+        1.95
+       ],
+       [
+        152,
+        2.31
+       ],
+       [
+        156,
+        2.69
+       ],
+       [
+        160,
+        3.09
+       ],
+       [
+        164,
+        3.51
+       ],
+       [
+        168,
+        3.95
+       ],
+       [
+        172,
+        4.42
+       ],
+       [
+        176,
+        4.9
+       ],
+       [
+        180,
+        5.4
+       ],
+       [
+        184,
+        5.91
+       ],
+       [
+        188,
+        6.45
+       ],
+       [
+        192,
+        7.0
+       ],
+       [
+        196,
+        7.57
+       ],
+       [
+        200,
+        8.15
+       ],
+       [
+        204,
+        8.75
+       ],
+       [
+        208,
+        9.37
+       ],
+       [
+        212,
+        10.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 4,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "t_duzeyi",
+      "x": 120,
+      "y": 0.2,
+      "cizgi": "dikey",
+      "etiket": "T: eşik",
+      "cumle": 1
+     },
+     {
+      "ad": "c_duzeyi",
+      "x": 190,
+      "y": 6.7,
+      "cizgi": "dikey",
+      "etiket": "C/M: konfor",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "dinamik_aralik",
+      "x": [
+       120,
+       190
+      ],
+      "y": 9,
+      "etiket": "elektriksel dinamik aralık",
+      "cumle": 5
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "t_duzeyi",
+     "cumle": 1
+    },
+    {
+     "parca": "c_duzeyi",
+     "cumle": 3
+    },
+    {
+     "parca": "dinamik_aralik",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Programlamanın temeli her elektrot için iki düzeyi bulmaktır; grafik, akım arttıkça ses yüksekliğinin nasıl arttığını gösteriyor.",
+    {
+     "yazi": "Eşik düzeyi (threshold level), kısaca T düzeyi, uyarının güçlükle fark edildiği en düşük akım düzeyidir.",
+     "ses": "Eşik düzeyi (threshold level), kısaca te düzeyi, uyarının güçlükle fark edildiği en düşük akım düzeyidir."
+    },
+    {
+     "yazi": "Bazı merkezler T düzeyini uyarının yarı yarıya fark edildiği düzey olarak, bazıları her seferinde fark edildiği düzey olarak tanımlar.",
+     "ses": "Bazı merkezler te düzeyini uyarının yarı yarıya fark edildiği düzey olarak, bazıları her seferinde fark edildiği düzey olarak tanımlar."
+    },
+    {
+     "yazi": "Konfor düzeyi (comfort level), kısaca C düzeyi, sesin yüksek ama yine de rahat olduğu en üst düzeydir.",
+     "ses": "Konfor düzeyi (comfort level), kısaca ce düzeyi, sesin yüksek ama yine de rahat olduğu en üst düzeydir."
+    },
+    {
+     "yazi": "Bazı sistemlerde üst düzey en rahat dinleme düzeyi olarak tanımlanır ve M düzeyi adını alır; bu yüzden C/M düzeyi denir.",
+     "ses": "Bazı sistemlerde üst düzey en rahat dinleme düzeyi olarak tanımlanır ve me düzeyi adını alır; bu yüzden ce ya da me düzeyi denir."
+    },
+    {
+     "yazi": "T ile C/M arasındaki aralık, elektriksel dinamik aralıktır ve çoğu zaman yalnızca 10 ile 20 desibel kadardır.",
+     "ses": "te ile ce ya da me arasındaki aralık, elektriksel dinamik aralıktır ve çoğu zaman yalnızca 10 ile 20 desibel kadardır."
+    },
+    "Doğal kulağın yaklaşık 120 desibellik aralığıyla karşılaştırınca, implantın neden sıkıştırma yapmak zorunda olduğu anlaşılır."
+   ]
+  },
+  {
+   "id": "t_olcum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "T ve C/M düzeyleri",
+   "baslik": "T düzeyini *bulmak*",
+   "maddeler": [
+    {
+     "metin": "Düşük düzeyden başlanır",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kısa darbeli uyarı dizileri",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kaç bip duydun? sayma yöntemi",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Yüksek T: arka plan gürültüsü",
+     "cumle": 4,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Düşük T: yumuşak sesler kaçar",
+     "cumle": 5,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": 100,
+      "max": 220,
+      "ad": "Akım düzeyi",
+      "isaretler": [
+       100,
+       160,
+       220
+      ]
+     },
+     "y": {
+      "min": 0,
+      "max": 10,
+      "adim": 5,
+      "ad": "Ses yüksekliği"
+     },
+     "seriler": [
+      {
+       "ad": "yukseklik",
+       "noktalar": [
+        [
+         112,
+         0.0
+        ],
+        [
+         116,
+         0.06
+        ],
+        [
+         120,
+         0.18
+        ],
+        [
+         124,
+         0.34
+        ],
+        [
+         128,
+         0.53
+        ],
+        [
+         132,
+         0.76
+        ],
+        [
+         136,
+         1.02
+        ],
+        [
+         140,
+         1.3
+        ],
+        [
+         144,
+         1.62
+        ],
+        [
+         148,
+         1.95
+        ],
+        [
+         152,
+         2.31
+        ],
+        [
+         156,
+         2.69
+        ],
+        [
+         160,
+         3.09
+        ],
+        [
+         164,
+         3.51
+        ],
+        [
+         168,
+         3.95
+        ],
+        [
+         172,
+         4.42
+        ],
+        [
+         176,
+         4.9
+        ],
+        [
+         180,
+         5.4
+        ],
+        [
+         184,
+         5.91
+        ],
+        [
+         188,
+         6.45
+        ],
+        [
+         192,
+         7.0
+        ],
+        [
+         196,
+         7.57
+        ],
+        [
+         200,
+         8.15
+        ],
+        [
+         204,
+         8.75
+        ],
+        [
+         208,
+         9.37
+        ],
+        [
+         212,
+         10.0
+        ]
+       ],
+       "renk": "mavi",
+       "yumusak": true,
+       "cumle": 0
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "t_duzeyi",
+       "x": 120,
+       "y": 0.2,
+       "cizgi": "dikey",
+       "etiket": "T",
+       "cumle": 0
+      },
+      {
+       "ad": "yuksek_t",
+       "x": 140,
+       "y": 0.8,
+       "dolu": true,
+       "etiket": "yüksek T",
+       "cumle": 4
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "t_duzeyi",
+      "cumle": 0
+     },
+     {
+      "parca": "yuksek_t",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "T düzeyi ölçülürken akım, uyarının duyulmadığı düşük bir düzeyden başlatılıp küçük adımlarla artırılır.",
+     "ses": "te düzeyi ölçülürken akım, uyarının duyulmadığı düşük bir düzeyden başlatılıp küçük adımlarla artırılır."
+    },
+    "Uyarı genellikle kısa bip dizileri halinde verilir; kişi duyduğunda işaret eder ya da düğmeye basar.",
+    "Yetişkinlerde kişiden kaç bip duyduğunu sayması da istenebilir; bu, tahmin etme eğilimini azaltır.",
+    {
+     "yazi": "Bazı sistemlerde T düzeyleri ayrı ayrı ölçülmez; üst düzeyin belirli bir oranı olarak yazılımca atanır ve sonra ince ayar yapılır.",
+     "ses": "Bazı sistemlerde te düzeyleri ayrı ayrı ölçülmez; üst düzeyin belirli bir oranı olarak yazılımca atanır ve sonra ince ayar yapılır."
+    },
+    {
+     "yazi": "T düzeyi gereğinden yüksek ayarlanırsa ortamdaki hafif sesler ve uğultu sürekli duyulur ve rahatsız edebilir.",
+     "ses": "te düzeyi gereğinden yüksek ayarlanırsa ortamdaki hafif sesler ve uğultu sürekli duyulur ve rahatsız edebilir."
+    },
+    "Gereğinden düşük ayarlanırsa yumuşak konuşma ve uzaktan gelen sesler kaçabilir.",
+    {
+     "yazi": "Bu yüzden T düzeyleri, aşağıda göreceğimiz cihazlı eşiklerle ve kişinin günlük deneyimiyle doğrulanır.",
+     "ses": "Bu yüzden te düzeyleri, aşağıda göreceğimiz cihazlı eşiklerle ve kişinin günlük deneyimiyle doğrulanır."
+    }
+   ]
+  },
+  {
+   "id": "c_olcum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "T ve C/M düzeyleri",
+   "baslik": "C/M düzeyini *bulmak*",
+   "maddeler": [
+    {
+     "metin": "Ses yüksekliği ölçeği kullanılır",
+     "cumle": 0,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Akım dikkatle artırılır",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yüz ve göz kırpma izlenir",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Başlangıçta temkinli ayar",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖLÇEK",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "sessizlik",
+      "baslik": "Çok yumuşak",
+      "cumle": 0
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Rahat",
+      "cumle": 1
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Yüksek, rahat",
+      "cumle": 1
+     },
+     {
+      "ikon": "uyari",
+      "baslik": "Çok yüksek",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "C ya da M düzeyi ölçülürken kişiye çok yumuşaktan çok yükseğe sıralanmış, resimli bir ses yüksekliği ölçeği gösterilir.",
+     "ses": "ce ya da me düzeyi ölçülürken kişiye çok yumuşaktan çok yükseğe sıralanmış, resimli bir ses yüksekliği ölçeği gösterilir."
+    },
+    "Kişiden sesin ölçekte nereye düştüğünü göstermesi ve yüksek ama rahat noktayı bildirmesi istenir.",
+    "Akım bu noktaya doğru küçük adımlarla ve dikkatle artırılır; ani yüksek bir uyarı kişiyi ürkütebilir.",
+    "Bu sırada kişinin yüzü izlenir; göz kırpma ya da yüz kaslarında seğirme, uyarımın yüz sinirine yayıldığını gösterebilir.",
+    "Çok yüksek uyarı rahatsızlık, ağrı ya da baş dönmesi gibi işitsel olmayan duyumlar da yaratabilir.",
+    "İlk gün kişi elektriksel uyarıya alışık olmadığı için üst düzeyler çoğu zaman temkinli, yani olması gerekenden düşük ayarlanır.",
+    "Kişi alıştıkça üst düzeyler sonraki kontrollerde basamak basamak yükseltilir."
+   ]
+  },
+  {
+   "id": "profil",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Harita",
+   "baslik": "Elektrotlar boyunca *harita*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Elektrot (tabandan tepeye, örnek)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 100,
+     "max": 220,
+     "adim": 20,
+     "ad": "Akım düzeyi"
+    },
+    "seriler": [
+     {
+      "ad": "t_profili",
+      "noktalar": [
+       [
+        1,
+        128
+       ],
+       [
+        2,
+        124
+       ],
+       [
+        3,
+        122
+       ],
+       [
+        4,
+        125
+       ],
+       [
+        5,
+        121
+       ],
+       [
+        6,
+        118
+       ],
+       [
+        7,
+        120
+       ],
+       [
+        8,
+        122
+       ],
+       [
+        9,
+        119
+       ],
+       [
+        10,
+        121
+       ],
+       [
+        11,
+        124
+       ],
+       [
+        12,
+        127
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "T düzeyleri",
+      "cumle": 1
+     },
+     {
+      "ad": "c_profili",
+      "noktalar": [
+       [
+        1,
+        196
+       ],
+       [
+        2,
+        192
+       ],
+       [
+        3,
+        190
+       ],
+       [
+        4,
+        193
+       ],
+       [
+        5,
+        188
+       ],
+       [
+        6,
+        185
+       ],
+       [
+        7,
+        187
+       ],
+       [
+        8,
+        190
+       ],
+       [
+        9,
+        186
+       ],
+       [
+        10,
+        188
+       ],
+       [
+        11,
+        191
+       ],
+       [
+        12,
+        195
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "C/M düzeyleri",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "aralik",
+      "y": [
+       121,
+       188
+      ],
+      "xk": 5,
+      "etiket": "dinamik aralık",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "t_profili",
+     "cumle": 1
+    },
+    {
+     "parca": "c_profili",
+     "cumle": 2
+    },
+    {
+     "parca": "aralik",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Bütün elektrotların T ve C/M düzeyleri birlikte, kişinin haritasını, yani programını oluşturur.",
+     "ses": "Bütün elektrotların te ve ce ya da me düzeyleri birlikte, kişinin haritasını, yani programını oluşturur."
+    },
+    {
+     "yazi": "Lacivert çizgi bu örnekte elektrotlar boyunca T düzeylerini gösteriyor.",
+     "ses": "Lacivert çizgi bu örnekte elektrotlar boyunca te düzeylerini gösteriyor."
+    },
+    {
+     "yazi": "Mavi çizgi ise C/M düzeylerini gösteriyor; iki çizgi elektrottan elektroda biraz dalgalanıyor.",
+     "ses": "Mavi çizgi ise ce ya da me düzeylerini gösteriyor; iki çizgi elektrottan elektroda biraz dalgalanıyor."
+    },
+    "İki çizgi arasındaki uzaklık her elektrodun dinamik aralığıdır.",
+    "Düzeyler kişiden kişiye ve elektrottan elektroda değişir; sinir liflerinin durumu ve elektrodun modiolusa uzaklığı bunu etkiler.",
+    "Harita, programlama yazılımında kaydedilir ve ses işlemcisine yüklenir.",
+    "Bir işlemcide birden fazla harita, örneğin farklı ortamlar için birkaç program saklanabilir."
+   ]
+  },
+  {
+   "id": "dengeleme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Harita",
+   "baslik": "Dengeleme ve *kapatılan* elektrotlar",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Dengeleme",
+     "cumle": 0,
+     "metin": "Komşular eşit yükseklikte"
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Perde",
+     "cumle": 2,
+     "metin": "Tabandan tepeye inmeli"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yüz siniri",
+     "cumle": 3,
+     "metin": "Seğirmede kapatılır"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Devre sorunu",
+     "cumle": 5,
+     "metin": "Açık ve kısa devre"
+    }
+   ],
+   "cumleler": [
+    "Düzeyler tek tek ölçüldükten sonra komşu elektrotlar art arda çalınır ve kişiden ses yüksekliklerini karşılaştırması istenir.",
+    "Biri ötekinden belirgin biçimde yüksek ya da yumuşaksa düzeyi düzeltilir; buna ses yüksekliği dengelemesi (loudness balancing) denir.",
+    "Yetişkinlerde elektrotların perde sıralaması da kontrol edilebilir; tabana doğru perde yükselmelidir.",
+    "Bazı elektrotlar yüz sinirini uyararak göz ya da yüz seğirmesine yol açabilir; bunlar kapatılır ya da düzeyleri sınırlandırılır.",
+    "Ağrı, baş dönmesi ya da işitsel olmayan bir duyum yaratan elektrotlar da benzer biçimde ele alınır.",
+    "Açık ya da kısa devre gösteren elektrotlar ise haritadan çıkarılır ve frekans bantları kalan elektrotlara dağıtılır."
+   ]
+  },
+  {
+   "id": "esleme",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Harita",
+   "baslik": "Sesten *akıma* eşleme",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 20,
+     "max": 95,
+     "ad": "Mikrofondaki ses düzeyi (dB SPL)",
+     "isaretler": [
+      25,
+      45,
+      65,
+      85
+     ]
+    },
+    "y": {
+     "min": -5,
+     "max": 110,
+     "isaretler": [
+      0,
+      50,
+      100
+     ],
+     "yazilar": {
+      "0": "T",
+      "50": "",
+      "100": "C/M"
+     },
+     "ad": "Elektriksel çıkış"
+    },
+    "seriler": [
+     {
+      "ad": "esleme",
+      "noktalar": [
+       [
+        20,
+        0
+       ],
+       [
+        25,
+        0
+       ],
+       [
+        30,
+        24.3
+       ],
+       [
+        35,
+        39.8
+       ],
+       [
+        40,
+        51.2
+       ],
+       [
+        45,
+        60.2
+       ],
+       [
+        50,
+        67.7
+       ],
+       [
+        55,
+        74.0
+       ],
+       [
+        60,
+        79.6
+       ],
+       [
+        65,
+        84.5
+       ],
+       [
+        70,
+        88.9
+       ],
+       [
+        75,
+        92.9
+       ],
+       [
+        80,
+        96.6
+       ],
+       [
+        85,
+        100
+       ],
+       [
+        90,
+        100
+       ],
+       [
+        95,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": 4,
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "giris_araligi",
+      "x": [
+       25,
+       85
+      ],
+      "renk": "sari",
+      "etiket": "giriş dinamik aralığı",
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "yumusak",
+      "x": 25,
+      "y": 0,
+      "dolu": true,
+      "etiket": "yumuşak ses: T",
+      "cumle": 3
+     },
+     {
+      "ad": "yuksek",
+      "x": 85,
+      "y": 100,
+      "dolu": true,
+      "etiket": "yüksek ses: C/M",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "giris_araligi",
+     "cumle": 2
+    },
+    {
+     "parca": "yumusak",
+     "cumle": 3
+    },
+    {
+     "parca": "yuksek",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Peki bu düzeyler gerçek seslerle nasıl ilişkilenir?",
+    {
+     "yazi": "İşlemci, mikrofona gelen ses düzeyini bu eğriye göre T ile C/M arasındaki bir akıma çevirir.",
+     "ses": "İşlemci, mikrofona gelen ses düzeyini bu eğriye göre te ile ce ya da me arasındaki bir akıma çevirir."
+    },
+    "Eşlenen ses aralığına giriş dinamik aralığı (input dynamic range) denir; örneğin 25 ile 85 desibel arası.",
+    {
+     "yazi": "Aralığın alt ucundaki yumuşak sesler T düzeyine yakın, yani güçlükle duyulacak biçimde verilir.",
+     "ses": "Aralığın alt ucundaki yumuşak sesler te düzeyine yakın, yani güçlükle duyulacak biçimde verilir."
+    },
+    {
+     "yazi": "Üst ucundaki yüksek sesler C/M düzeyine eşlenir; daha yüksek sesler bu düzeyi aşmaz, yani kırpılır.",
+     "ses": "Üst ucundaki yüksek sesler ce ya da me düzeyine eşlenir; daha yüksek sesler bu düzeyi aşmaz, yani kırpılır."
+    },
+    "Eğri logaritmik olduğu için yumuşak ve orta düzeydeki seslere elektriksel aralığın daha büyük bir bölümü ayrılır.",
+    "Giriş aralığının genişliği ve mikrofon duyarlılığı, kişinin yumuşak sesleri ne kadar duyacağını belirgin biçimde etkiler."
+   ]
+  },
+  {
+   "id": "darbe",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Harita",
+   "baslik": "Darbe süresi ve *gerilim sınırı*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Yük",
+     "cumle": 0,
+     "metin": "Akım çarpı süre"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Gerilim sınırı",
+     "cumle": 2,
+     "metin": "Yüksek empedansta"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Daha uzun darbe",
+     "cumle": 3,
+     "metin": "Aynı yük, az akım"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bedeli",
+     "cumle": 4,
+     "metin": "Darbe hızı düşebilir"
+    }
+   ],
+   "cumleler": [
+    "Sinirin uyarılmasını belirleyen, darbedeki elektrik yüküdür; yük, akımın darbe süresiyle çarpımıdır.",
+    "Bu yüzden ses yüksekliği, akım artırılarak ya da darbe süresi uzatılarak artırılabilir.",
+    "Empedansı yüksek bir elektrotta istenen akımı vermek için gereken gerilim, implantın verebileceği sınırı aşabilir.",
+    "Bu durumda yazılım darbe süresini uzatarak aynı yükü daha düşük akımla verir ve sesin yüksekliği korunur.",
+    "Darbe uzayınca her döngü daha uzun sürer; bu da kanal başına darbe hızını düşürebilir.",
+    "Programlama yazılımları bu sınıra yaklaşan elektrotları genellikle uyarıyla gösterir."
+   ]
+  },
+  {
+   "id": "canli",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Canlı ses",
+   "baslik": "Haritadan *canlı sese*",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Canlı ses",
+     "cumle": 0,
+     "metin": "Mikrofon açılır"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Genel ayar",
+     "cumle": 1,
+     "metin": "Bütün düzeyler birlikte"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma",
+     "cumle": 3,
+     "metin": "Yumuşak ve normal"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Ling sesleri",
+     "cumle": 4,
+     "metin": "Altı ses denenir"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Programlar",
+     "cumle": 5,
+     "metin": "Ses düzeyi ve ortam"
+    }
+   ],
+   "cumleler": [
+    "Harita hazır olunca mikrofon açılır ve kişi çevresindeki sesleri, öncelikle konuşmayı implant yoluyla duymaya başlar.",
+    {
+     "yazi": "Canlı seste genel yükseklik rahat değilse, bütün C/M düzeyleri birlikte biraz indirilir ya da yükseltilir.",
+     "ses": "Canlı seste genel yükseklik rahat değilse, bütün ce ya da me düzeyleri birlikte biraz indirilir ya da yükseltilir."
+    },
+    {
+     "yazi": "Yumuşak sesler hiç duyulmuyorsa T düzeyleri ve mikrofon duyarlılığı gözden geçirilir.",
+     "ses": "Yumuşak sesler hiç duyulmuyorsa te düzeyleri ve mikrofon duyarlılığı gözden geçirilir."
+    },
+    "Odyolog yumuşak ve normal düzeyde konuşarak kişinin tepkisini ve rahatlığını izler.",
+    "Ling altı ses testinin sesleri, konuşma frekanslarının duyulup duyulmadığına hızlıca bakmayı sağlar.",
+    "Son olarak işlemciye bir ya da birkaç program yüklenir; kişiye ses düzeyini ve programları nasıl değiştireceği gösterilir."
+   ]
+  },
+  {
+   "id": "ayarlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Canlı ses",
+   "baslik": "Haritanın *diğer* ayarları",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Frekans dağılımı",
+     "cumle": 0,
+     "metin": "Bant sınırları"
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Mikrofon",
+     "cumle": 2,
+     "metin": "Duyarlılık ve yönlülük"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü azaltma",
+     "cumle": 3,
+     "metin": "Ortam programları"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Basamaklı haritalar",
+     "cumle": 4,
+     "metin": "Kademeli artış"
+    }
+   ],
+   "cumleler": [
+    "Frekans dağılım tablosu, hangi frekans bandının hangi elektroda verileceğini belirler.",
+    "Bu tablo genellikle varsayılan haliyle kullanılır; değişiklik seslerin perdesini değiştirdiği için dikkatle yapılır.",
+    "Mikrofon duyarlılığı ve yönlü mikrofon ayarları, yumuşak seslerin ve arkadan gelen gürültünün ne kadar alınacağını etkiler.",
+    "Gürültü azaltma ve ortama göre otomatik değişen programlar, işitme cihazlarındakine benzer biçimde kullanılır.",
+    "İlk haftalarda bazı merkezler, üst düzeyleri kademeli artan birkaç haritayı birlikte yükler.",
+    "Kişi her birkaç günde bir sonraki haritaya geçer; böylece kontrol günü beklenmeden ses yüksekliği artırılmış olur."
+   ]
+  },
+  {
+   "id": "danisma",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Danışmanlık ve takip",
+   "baslik": "İlk gün *danışmanlığı*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "İlk sesler",
+     "cumle": 0,
+     "metin": "Mekanik gelmesi normal"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Kullanım",
+     "cumle": 2,
+     "metin": "Uyanık olunan tüm gün"
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Bakım",
+     "cumle": 3,
+     "metin": "Pil, kablo, bobin"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Evde",
+     "cumle": 5,
+     "metin": "Dinleme pratiği"
+    }
+   ],
+   "cumleler": [
+    "İlk günün en önemli mesajı, seslerin yabancı gelmesinin beklenen bir durum olduğudur.",
+    "Konuşma başlangıçta anlaşılmayabilir; beyin bu yeni koda haftalar ve aylar içinde uyum sağlar.",
+    "Bu uyum için işlemcinin uyanık olunan bütün gün düzenli kullanılması gerekir; veri kaydı kullanım süresini gösterir.",
+    "Kişiye pilin ya da bataryanın değiştirilmesi, kablonun ve bobinin kontrolü ve işlemcinin nemden korunması öğretilir.",
+    "Ses yüksekliği rahatsız ederse ya da ağrı, yüzde seğirme fark edilirse işlemciyi çıkarıp merkezle iletişime geçmesi söylenir.",
+    "Evde yakınlarla tanıdık konularda konuşmak ve sesleri kaynağıyla eşleştirmek, ilk haftalardaki uyumu hızlandırır."
+   ]
+  },
+  {
+   "id": "takip",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Danışmanlık ve takip",
+   "baslik": "Düzeyler *zamanla* değişir",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Aktivasyondan sonra ay",
+     "isaretler": [
+      0,
+      1,
+      3,
+      6,
+      12
+     ]
+    },
+    "y": {
+     "min": 100,
+     "max": 210,
+     "adim": 20,
+     "ad": "Ortalama akım düzeyi"
+    },
+    "seriler": [
+     {
+      "ad": "c_seyir",
+      "noktalar": [
+       [
+        0,
+        150
+       ],
+       [
+        0.25,
+        160
+       ],
+       [
+        0.5,
+        168
+       ],
+       [
+        1,
+        175
+       ],
+       [
+        2,
+        182
+       ],
+       [
+        3,
+        186
+       ],
+       [
+        6,
+        190
+       ],
+       [
+        9,
+        191
+       ],
+       [
+        12,
+        191
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "C/M",
+      "cumle": 0
+     },
+     {
+      "ad": "t_seyir",
+      "noktalar": [
+       [
+        0,
+        118
+       ],
+       [
+        1,
+        122
+       ],
+       [
+        3,
+        125
+       ],
+       [
+        6,
+        126
+       ],
+       [
+        12,
+        126
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "isaretli": true,
+      "etiket": "T",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "sik",
+      "x": [
+       0,
+       3
+      ],
+      "renk": "sari",
+      "etiket": "sık kontrol",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "c_seyir",
+     "cumle": 0
+    },
+    {
+     "parca": "sik",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, düzeylerin ilk yıl içindeki tipik seyrini örnek değerlerle gösteriyor; üst düzeyler ilk aylarda belirgin biçimde yükselir.",
+    {
+     "yazi": "T düzeyleri daha az değişir; yaklaşık birkaç ay içinde düzeyler büyük ölçüde dengelenir.",
+     "ses": "te düzeyleri daha az değişir; yaklaşık birkaç ay içinde düzeyler büyük ölçüde dengelenir."
+    },
+    "Bu nedenle ilk haritalar geçicidir ve kişinin alışmasına göre güncellenir.",
+    "Kontroller ilk birkaç ayda sık, örneğin birkaç hafta arayla yapılır; sonra aralıklar uzar ve yıllık kontrole geçilir.",
+    "Her kontrolde empedans ölçülür, düzeyler gözden geçirilir ve cihazlı eşiklerle konuşma testleri yapılır.",
+    "Kontrol takvimi merkeze ve kişinin ilerlemesine göre değişir; çocuklarda daha sık kontrol gerekir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Üst düzeyleri artırırken kişinin yüzünü izleyin. Göz kırpma ya da seğirme görürseniz o elektrotta durun; bu yanıt ses yüksekliği bildiriminden önce gelebilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: üst düzeyleri artırırken gözünüzü ekrandan ayırıp kişinin yüzüne bakın.",
+    "Göz kırpma ya da yanakta seğirme, yüz sinirinin uyarıldığını gösterebilir ve kişi bunu her zaman söylemeyebilir.",
+    "Böyle bir bulgu varsa o elektrotta düzeyi artırmayı bırakın ve ekip ile birlikte değerlendirin.",
+    "Bu durum otoskleroz, iç kulak anomalileri ya da temporal kemik kırığı olan kişilerde daha sık görülebilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "T: güçlükle duyulan düzey",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "C/M: yüksek ama rahat düzey",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Harita: düzeyler ve ayarlar",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "İlk aylarda düzeyler değişir",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "T düzeyi, elektriksel uyarının güçlükle fark edildiği en düşük düzeydir.",
+     "ses": "te düzeyi, elektriksel uyarının güçlükle fark edildiği en düşük düzeydir."
+    },
+    {
+     "yazi": "C ya da M düzeyi, sesin yüksek ama rahat olduğu üst düzeydir; aradaki dar aralık elektriksel dinamik aralıktır.",
+     "ses": "ce ya da me düzeyi, sesin yüksek ama rahat olduğu üst düzeydir; aradaki dar aralık elektriksel dinamik aralıktır."
+    },
+    "Bütün elektrotların düzeyleri, dengelemesi, eşleme eğrisi ve diğer ayarlar birlikte kişinin haritasını oluşturur.",
+    "Kişi elektriksel uyarıya alıştıkça düzeyler değişir; bu yüzden ilk aylarda sık programlama ve danışmanlık gerekir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sessizde sürekli uğultu neyi düşündürür?",
+   "secenekler": [
+    "T düzeyleri yüksek",
+    "C/M düzeyleri düşük",
+    "Elektrot sayısı az",
+    "Mıknatıs zayıf"
+   ],
+   "dogru": 0,
+   "aciklama": "_T düzeyleri_ yüksekse hafif sesler ve uğultu sürekli duyulur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: implantlı bir kişi sessiz odada sürekli bir uğultu duyduğunu söylüyor; ilk akla gelen ayar hangisidir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap A: T düzeyleri gereğinden yüksek.",
+     "ses": "Doğru cevap A: te düzeyleri gereğinden yüksek."
+    },
+    {
+     "yazi": "T düzeyleri yüksek ayarlandığında ortamdaki hafif sesler ve sistem gürültüsü sürekli duyulabilir; düzeyler gözden geçirilir.",
+     "ses": "te düzeyleri yüksek ayarlandığında ortamdaki hafif sesler ve sistem gürültüsü sürekli duyulabilir; düzeyler gözden geçirilir."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Çocuklarda implant programlama ve *objektif* ölçümler",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste çocuklarda programlamayı, objektif ölçümlerle harita tahminini ve davranışsal doğrulamayı öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,716 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D056_Odyolojik_Anamnez_TR",
+ "kapak": {
+  "ust": "DERS 56",
+  "baslik": "Odyolojik<br>*anamnez*",
+  "alt": "Doğru soru, doğru test",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      25,
+      45,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      15,
+      15,
+      30,
+      50,
+      30
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Odyolojik Anamnez Nasıl Alınır? | Ders 56 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyolojik anamnez, hangi testlerin yapılacağını belirleyen ve sonuçların yorumuna yön veren ilk adımdır. Bu derste işitme kaybı, tinnitus ve baş dönmesi sorgusunu, acil yönlendirme gerektiren belirtileri, gürültü, ilaç ve aile öyküsünü, çocuk ve yetişkin anamnezi arasındaki farkları ve serbest görüşme ile yapılandırılmış formu inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; JCIH, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Lopez-Escamez ve ark. (2015), Diagnostic criteria for Meniere's disease, Journal of Vestibular Research; Çalışanların Gürültü ile İlgili Risklerden Korunmalarına Dair Yönetmelik (2013).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "anamnez",
+   "işitme"
+  ],
+  "etiketler": [
+   "odyolojik anamnez",
+   "case history",
+   "işitme kaybı",
+   "tinnitus",
+   "vertigo",
+   "aile öyküsü",
+   "family history",
+   "gürültüye bağlı işitme kaybı",
+   "ototoksik ilaçlar",
+   "çocuk anamnezi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 56",
+   "baslik": "Odyolojik *anamnez*",
+   "alt": "Doğru soru, doğru test, doğru yönlendirme",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyolojik anamnezin, yani hastanın öyküsünün nasıl alındığını öğreneceğiz.",
+    "İşitme kaybı, tinnitus ve baş dönmesi sorgusunu, risk etkenlerini ve çocuk ile yetişkin anamnezi arasındaki farkları göreceğiz."
+   ]
+  },
+  {
+   "id": "amac",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Anamnezin amacı",
+   "baslik": "Anamnez *neden* önemli?",
+   "maddeler": [
+    {
+     "metin": "Testlerin seçimini ve sırasını _belirler_",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sonuçların yorumuna _yön verir_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Acil yönlendirme gereğini _yakalar_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Güven ilişkisini _başlatır_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 1
+     }
+    ],
+    "cumle": 1
+   },
+   "cumleler": [
+    "Anamnez (case history), hastanın yakınmalarının ve sağlık öyküsünün sistemli olarak sorgulanmasıdır.",
+    "İyi bir anamnez, hangi testlerin hangi sırayla yapılacağını belirler.",
+    "Test sonuçlarının yorumuna yön verir; örneğin gürültü öyküsü olan bir kişide dört bin hertz çentiği daha anlamlı hale gelir.",
+    "Acil yönlendirme gerektiren durumları erkenden yakalamamızı sağlar.",
+    "Ayrıca hastayla güven ilişkisinin kurulduğu ilk adımdır.",
+    "Anamnez, ilerleyen testlerde bulguların birbiriyle tutarlılığını kontrol etmek için de bir referans oluşturur."
+   ]
+  },
+  {
+   "id": "ortam",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Anamnezin amacı",
+   "baslik": "Görüşme *ortamı*",
+   "maddeler": [
+    {
+     "metin": "Sessiz oda, _yüz yüze_ oturma",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Varsa işitme cihazı _takılı_",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Önce _açık uçlu_ soru",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Yönlendirici sorulardan _kaçınma_",
+     "cumle": 3,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Hastanın kendi _sözcükleri_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "AÇIK UÇLU SORU",
+    "metin": "Sizi buraya *getiren* nedir?",
+    "cumle": 2
+   },
+   "cumleler": [
+    "Görüşme sessiz bir odada ve yüz yüze yapılır; ışığın sizin yüzünüze düşmesi dudak okumayı kolaylaştırır.",
+    "Hastanın işitme cihazı varsa, görüşme sırasında takılı kalması iletişimi kolaylaştırır.",
+    "Önce açık uçlu bir soruyla, örneğin sizi buraya getiren nedir diye sormak, hastanın kendi önceliğini ortaya çıkarır.",
+    "Ardından ayrıntılar kapalı uçlu sorularla tamamlanır; yönlendirici sorulardan kaçınılır.",
+    "Yakınmalar mümkün olduğunca hastanın kendi sözcükleriyle kaydedilir."
+   ]
+  },
+  {
+   "id": "isitme_kaybi",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yakınmaların sorgusu",
+   "baslik": "İşitme kaybını *sorgulamak*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Hangi kulak?",
+     "metin": "Asimetri ileri inceleme gerektirebilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Ne zaman?",
+     "metin": "Ani kayıp acildir",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Seyri nasıl?",
+     "metin": "İlerleyici ya da dalgalı",
+     "cumle": 3
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Nerede zorlanıyor?",
+     "metin": "Gürültü, telefon, televizyon",
+     "cumle": 4
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Eşlik eden?",
+     "metin": "Akıntı, ağrı, dolgunluk",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İşitme kaybı yakınmasında önce kaybın hangi kulakta olduğu sorulur.",
+    "Tek taraflı ya da iki kulak arasında belirgin farklı kayıplar ileri inceleme gerektirebilir.",
+    "Kaybın ne zaman ve nasıl başladığı sorulur; yetmiş iki saat içinde gelişen ani kayıp acil yönlendirme gerektirir.",
+    "Seyri sorulur: yavaş ilerleyen, dalgalanan ya da ataklarla gelen kayıplar farklı durumları düşündürür.",
+    "Hangi ortamlarda zorlandığı, örneğin gürültüde, telefonda ya da televizyonda, günlük yaşamdaki etkiyi gösterir.",
+    "Kulak akıntısı, ağrı ve dolgunluk hissi gibi eşlik eden belirtiler de mutlaka sorulur."
+   ]
+  },
+  {
+   "id": "tinnitus",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yakınmaların sorgusu",
+   "baslik": "*Tinnitus* sorgusu",
+   "maddeler": [
+    {
+     "metin": "Taraf: _tek_ mi, iki kulak mı",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Nitelik: çınlama, uğultu, _nabız_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Süre ve süreklilik",
+     "cumle": 3,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Uyku, dikkat ve ruh haline _etkisi_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "ic_kulak",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "koklea",
+      "metin": "koklea (salyangoz)",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Tinnitus, yani kulak çınlaması, dışarıda bir ses kaynağı olmadan ses duyulmasıdır.",
+    "Önce hangi kulakta ya da başın neresinde duyulduğu sorulur; tek taraflı tinnitus ileri değerlendirme gerektirebilir.",
+    "Sesin niteliği sorulur: çınlama mı, uğultu mu, yoksa kalp atımıyla eş zamanlı, yani pulsatil bir ses mi?",
+    "Ne zamandır sürdüğü, sürekli mi yoksa aralıklı mı olduğu not edilir.",
+    "Uyku, dikkat ve ruh hali üzerindeki etkisi, tinnitusun kişinin yaşamını ne kadar etkilediğini gösterir.",
+    "Pulsatil tinnitus ve tek taraflı tinnitus, hekime yönlendirme gerektiren durumlar arasındadır."
+   ]
+  },
+  {
+   "id": "vertigo",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yakınmaların sorgusu",
+   "baslik": "Baş dönmesi: *süre* ipucu",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Saniyeler",
+     "metin": "BPPV; baş pozisyonu tetikler",
+     "cumle": 2
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Dakikalar, saatler",
+     "metin": "Meniere; kayıp, tinnitus, dolgunluk",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Günler, sürekli",
+     "metin": "Vestibüler nörit; işitme genellikle korunur",
+     "cumle": 4
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Dakikalar ile günler",
+     "metin": "Vestibüler migren; ağrı, ışık hassasiyeti",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Baş dönmesinde önce ne hissedildiği sorulur: dönme hissi, yani vertigo mu, dengesizlik mi, bayılma hissi mi?",
+    "Atakların süresi ve tetikleyicisi, olası nedeni daraltan en değerli bilgilerdir.",
+    "Yatakta dönerken saniyeler süren dönme, benign paroksismal pozisyonel vertigo, kısaca BPPV ile uyumlu olabilir.",
+    "İşitme kaybı, tinnitus ve dolgunlukla birlikte yirmi dakika ile on iki saat süren ataklar Meniere hastalığını düşündürebilir.",
+    "Günlerce süren sürekli dönme, örneğin vestibüler nöritte görülebilir.",
+    "Baş ağrısı ya da ışığa hassasiyetle birlikte değişken süreli ataklar vestibüler migreni akla getirebilir."
+   ]
+  },
+  {
+   "id": "acil",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Yakınmaların sorgusu",
+   "baslik": "Acil yönlendirme *gerektirenler*",
+   "maddeler": [
+    {
+     "metin": "_Ani_ işitme kaybı",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tek taraflı ya da _pulsatil_ tinnitus",
+     "cumle": 1,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Akıntı, kanama, şiddetli ağrı",
+     "cumle": 2,
+     "ikon": "akinti"
+    },
+    {
+     "metin": "Baş dönmesiyle _nörolojik_ belirti",
+     "cumle": 3,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Yüzde yeni _güçsüzlük_",
+     "cumle": 4,
+     "ikon": "hastane"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "KIRMIZI BAYRAK",
+    "metin": "Ani kayıp ve *nörolojik* belirti beklemez",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Ani işitme kaybı, tedavi için zamanın önemli olduğu bir durumdur ve gecikmeden hekime yönlendirilir.",
+    "Tek taraflı ya da pulsatil tinnitus ve kulaklar arasında açıklanamayan fark da ileri inceleme gerektirebilir.",
+    "Kulak akıntısı, kanama ya da şiddetli ağrı varsa test ertelenebilir ve hasta hekime yönlendirilir.",
+    "Baş dönmesine konuşma bozukluğu, çift görme, güçsüzlük ya da yürüyememe eşlik ediyorsa bu acil bir durumdur.",
+    "Yüzde yeni başlayan güçsüzlük gibi nörolojik belirtiler de hemen bildirilir.",
+    "Odyolog tanı koymaz; ama bu belirtileri tanımak ve doğru zamanda yönlendirmek görevinin bir parçasıdır."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Risk etkenleri",
+   "baslik": "Gürültü *öyküsü*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: 4000 Hz çentiği",
+     "cumle": 2
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: benzer çentik",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       25,
+       45,
+       25
+      ],
+      "cumle": 2
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       30,
+       50,
+       30
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 2
+    }
+   },
+   "cumleler": [
+    "Gürültü öyküsünde iş yerindeki gürültü, askerlik ve atış, eğlence ve müzik dinleme alışkanlıkları sorulur.",
+    "Ne kadar süre maruz kalındığı ve kulak koruyucu kullanılıp kullanılmadığı da not edilir.",
+    "Bu örnekte iki kulakta da dört bin hertz civarında bir çentik ve sekiz bin hertzde kısmi düzelme görülüyor.",
+    "Bu görünüm gürültüye bağlı işitme kaybıyla uyumlu olabilir; öykü bu yorumu güçlendirir.",
+    {
+     "yazi": "Türkiye'de çalışanları gürültüden koruyan yönetmelikte günlük maruziyet için 80 ve 85 dB(A) eylem, 87 dB(A) sınır değeri vardır.",
+     "ses": "Türkiye'de çalışanları gürültüden koruyan yönetmelikte günlük maruziyet için seksen ve seksen beş desibel A eylem, seksen yedi desibel A sınır değeri vardır."
+    },
+    "Bu yüzden iş yeri gürültüsü öyküsü, hem yorum hem de mesleki danışmanlık için önemlidir."
+   ]
+  },
+  {
+   "id": "ilac_aile",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Risk etkenleri",
+   "baslik": "İlaç, hastalık ve *aile* öyküsü",
+   "maddeler": [
+    {
+     "metin": "_Ototoksik_ ilaçlar",
+     "cumle": 0,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Diyabet, böbrek, kalp ve damar hastalıkları",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "Kulak ameliyatı, sık iltihap, travma",
+     "cumle": 3,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Ailede _erken yaşta_ işitme kaybı",
+     "cumle": 4,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "_Akraba evliliği_",
+     "cumle": 5,
+     "ikon": "gen_dna"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "kulak_kesit",
+    "vurgula": [
+     {
+      "parca": "koklea",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Bazı ilaçlar iç kulağa zarar verebilir; bunlara ototoksik ilaçlar denir.",
+    "Aminoglikozid grubu bazı antibiyotikler, sisplatin gibi kemoterapi ilaçları ve yüksek dozda bazı idrar söktürücüler bu gruptadır.",
+    "Diyabet, böbrek hastalığı ve kalp ve damar hastalıkları gibi genel sağlık sorunları da sorgulanır.",
+    "Geçirilmiş kulak ameliyatları, sık kulak iltihapları ve kafa travması öyküsü kaydedilir.",
+    "Ailede erken yaşta başlayan işitme kaybı olup olmadığı, yani aile öyküsü (family history) sorulur.",
+    "Akraba evliliği, Türkiye'de kalıtsal işitme kayıplarının önemli bir risk etkenidir ve mutlaka sorulmalıdır."
+   ]
+  },
+  {
+   "id": "cocuk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Çocuk ve yetişkin",
+   "baslik": "Çocuk *anamnezi*",
+   "ogeler": [
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "Doğum öncesi",
+     "metin": "Gebelikte enfeksiyon, ilaçlar",
+     "cumle": 1
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Doğum ve yenidoğan",
+     "metin": "Erken doğum, yoğun bakım",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Doğum sonrası",
+     "metin": "Menenjit, sık otitis media",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Gelişim",
+     "metin": "Sese tepki, ilk kelimeler",
+     "cumle": 4
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "Tarama",
+     "metin": "Yenidoğan tarama sonucu",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Çocuklarda öykü çoğu zaman anne babadan alınır ve dönemlere göre sorgulanır.",
+    "Doğum öncesinde gebelikte geçirilen enfeksiyonlar, örneğin sitomegalovirüs, ve kullanılan ilaçlar sorulur.",
+    "Erken doğum, düşük doğum ağırlığı, yenidoğan yoğun bakımında kalış ve kan değişimi gerektiren sarılık önemli risk etkenleridir.",
+    "Doğum sonrasında menenjit, kafa travması ve sık tekrarlayan otitis media, yani orta kulak iltihabı sorgulanır.",
+    "Dil gelişimi sorulur: çocuk sese dönüyor mu, agulama ve ilk kelimeler beklenen zamanda başladı mı?",
+    "Yenidoğan işitme taramasının sonucu da kaydedilir; geçilmiş bir tarama sonradan gelişen kayıpları dışlamaz."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Çocuk ve yetişkin",
+   "baslik": "Çocuk ve *yetişkin* farkı",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocuk",
+     "metin": "Bilgi anne babadan",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Gelişim",
+     "metin": "Dil ve konuşma basamakları",
+     "cumle": 1
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Okul",
+     "metin": "Dikkat, başarı, sınıfta duyma",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Yetişkin",
+     "metin": "Bilgi kişinin kendisinden",
+     "cumle": 3
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Risk öyküsü",
+     "metin": "Meslek, gürültü, ilaçlar",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Hedefler",
+     "metin": "Beklenti ve iletişim hedefleri",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Çocukta bilgi büyük ölçüde anne babadan alınır; gözlemleri değerlidir ama bazen eksik olabilir.",
+    "Çocuk anamnezinin merkezinde dil ve konuşma gelişimi basamakları yer alır.",
+    "Okul çağında dikkat, okul başarısı ve sınıfta duyma güçlükleri de sorulur.",
+    "Yetişkinde bilgi çoğu zaman kişinin kendisinden alınır; yaşlılarda bir yakının gözlemleri de yardımcı olur.",
+    "Meslek, gürültü öyküsü, ilaçlar ve genel sağlık sorunları yetişkinde daha ağırlıklı yer tutar.",
+    "Yetişkinin beklentilerini ve iletişim hedeflerini öğrenmek, sonraki rehabilitasyon planı için de yol göstericidir."
+   ]
+  },
+  {
+   "id": "form",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Çocuk ve yetişkin",
+   "baslik": "Serbest görüşme mi, *form* mu?",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Serbest görüşme",
+     "metin": "Esnek; hastanın önceliğini ortaya çıkarır",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Yapılandırılmış form",
+     "metin": "Hiçbir soru atlanmaz",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Karşılaştırma",
+     "metin": "Kayıtlar karşılaştırılabilir",
+     "cumle": 3
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Ölçekler",
+     "metin": "THI, DHI; Türkçe geçerlik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Anamnez serbest bir görüşmeyle ya da yapılandırılmış bir formla alınabilir; ikisinin de avantajı vardır.",
+    "Serbest görüşme esnektir ve hastanın en çok neyden yakındığını ortaya çıkarır.",
+    "Yapılandırılmış form ise hiçbir önemli sorunun atlanmamasını sağlar.",
+    "Formlar, kayıtların farklı zamanlarda ve farklı klinisyenler arasında karşılaştırılmasını da kolaylaştırır.",
+    "Tinnitus engellilik envanteri, kısaca THI ve baş dönmesi engellilik envanteri, kısaca DHI için Türkçe geçerlik çalışmaları yapılmıştır.",
+    "Birçok klinisyen iki yaklaşımı birleştirir: serbest bir açılıştan sonra formdaki eksikler tamamlanır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Çocuk ve yetişkin",
+   "baslik": "Klinik ipucu",
+   "metin": "Telefonla hangi kulağınızla konuşuyorsunuz diye sorun. Çoğu kişi farkında olmadan daha iyi duyan kulağını kullanır; bu yanıt teste hangi kulakla başlanacağına da yol gösterir.",
+   "cumleler": [
+    "Bir klinik ipucu: hastaya telefonla konuşurken ahizeyi hangi kulağına tuttuğunu sorun.",
+    "Çoğu kişi farkında olmadan daha iyi duyan kulağını kullanır.",
+    "Bu basit soru, hasta iki kulağı arasında fark tarif etmese bile önemli bir ipucu verir.",
+    "Saf ses odyometrisinde teste daha iyi duyan kulaktan başlamak için de bu bilgiden yararlanabilirsiniz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Anamnez testleri ve yorumu _yönlendirir_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "İşitme, tinnitus ve _baş dönmesi_ sorgusu",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Gürültü, ilaç, _aile_, akraba evliliği",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Ani kayıp, nörolojik belirti: _acil_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Anamnez, hangi testlerin yapılacağını belirleyen ve sonuçların yorumuna yön veren ilk adımdır.",
+    "İşitme kaybı, tinnitus ve baş dönmesi yakınmaları taraf, başlangıç, süre ve seyir yönünden sorgulanır.",
+    "Gürültü, ototoksik ilaç, aile öyküsü ve akraba evliliği önemli risk etkenleridir.",
+    "Ani işitme kaybı ve baş dönmesine eşlik eden nörolojik belirtiler gecikmeden yönlendirilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Hangisi acil yönlendirme gerektirir?",
+   "secenekler": [
+    "Yıllardır yavaş ilerleyen kayıp",
+    "Dün başlayan tek taraflı kayıp",
+    "Gürültüde zorlanma",
+    "Hafif kulak kiri"
+   ],
+   "dogru": 1,
+   "aciklama": "_Ani işitme kaybında_ zaman önemlidir; hasta gecikmeden hekime yönlendirilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Aşağıdakilerden hangisi acil yönlendirme gerektirir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: dün başlayan tek taraflı kayıp.",
+     "ses": "Doğru cevap be: dün başlayan tek taraflı kayıp."
+    },
+    "Ani işitme kaybında tedavi için zaman önemlidir; bu yüzden hasta gecikmeden hekime yönlendirilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Diyapazon testleri: *Rinne*, Weber ve Bing",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste diyapazonla yapılan Rinne, Weber ve Bing testlerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

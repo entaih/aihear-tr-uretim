@@ -1,0 +1,1058 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D185_Kulak_Kalibi_TR",
+ "kapak": {
+  "ust": "DERS 185",
+  "baslik": "Kulak<br>*kalıbı*",
+  "alt": "Ölçü, materyal ve akustik",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "BTE"
+  },
+  "vurgula": [
+   "kalip"
+  ]
+ },
+ "youtube": {
+  "baslik": "Kulak kalıbı: ölçü alma, materyal ve akustik değişiklikler | Ders 185 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kulak kalıbı işitme cihazının kulakla buluştuğu yerdir. Bu derste otoblokla güvenli ölçü almayı, akrilik, silikon ve vinil materyalleri, vent türlerini ve horn ile sönümleyicinin frekans yanıtına etkisini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Dillon, Hearing Aids; Mueller, Ricketts ve Bentler, Modern Hearing Aids; British Society of Audiology, Recommended Procedure: Taking Aural Impressions; American Academy of Audiology, Clinical Practice Guidelines: Pediatric Amplification (2013); Sağlık Uygulama Tebliği.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "kulakkalıbı"
+  ],
+  "etiketler": [
+   "kulak kalıbı",
+   "earmold",
+   "kulak ölçüsü",
+   "ear impression",
+   "otoblok",
+   "otoblock",
+   "vent",
+   "horn",
+   "damper",
+   "sönümleyici",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 185",
+   "baslik": "Kulak *kalıbı*",
+   "alt": "Ölçü, materyal ve akustik değişiklikler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme cihazı ile kulak arasındaki köprüyü, yani kulak kalıbını öğreneceğiz.",
+    "Otoblokla güvenli ölçü almayı, kalıp materyallerini ve vent, horn ve sönümleyicinin sesi nasıl değiştirdiğini göreceğiz."
+   ]
+  },
+  {
+   "id": "gorevler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kalıbın görevi",
+   "baslik": "Kalıbın *beş görevi*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Tutma",
+     "cumle": 1,
+     "metin": "Cihazı yerinde tutar"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Sızdırmazlık",
+     "cumle": 2,
+     "metin": "Geri beslemeyi önler"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Sesi iletme",
+     "cumle": 3,
+     "metin": "Ses kanalıyla"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Şekillendirme",
+     "cumle": 4,
+     "metin": "Vent, horn, sönümleyici"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Konfor",
+     "cumle": 5,
+     "metin": "Gün boyu rahat"
+    }
+   ],
+   "cumleler": [
+    "Kulak kalıbı (earmold), kişinin kulak ölçüsünden üretilen ve cihazın sesini kulak yoluna ileten parçadır.",
+    "İlk görevi, cihazı ya da tüpü kulakta güvenle yerinde tutmaktır.",
+    "İkinci görevi, kulak yolunu yeterince kapatarak sesin dışarı sızmasını ve geri beslemeyi önlemektir.",
+    "Üçüncü görevi, sesi kalıbın içindeki ses kanalı (sound bore) üzerinden timpanik membrana doğru iletmektir.",
+    "Dördüncü görevi, vent, horn ve sönümleyici gibi değişikliklerle frekans yanıtını şekillendirmektir.",
+    "Son olarak kalıp, gün boyu takıldığında acı ya da baskı yaratmayacak kadar rahat olmalıdır."
+   ]
+  },
+  {
+   "id": "ses_yolu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Kalıbın görevi",
+   "baslik": "Alıcıdan *kulak zarına*",
+   "cizim": "isitme_cihazi",
+   "ayar": {
+    "tip": "BTE"
+   },
+   "etiketler": [
+    {
+     "parca": "alici",
+     "metin": "alıcı",
+     "cumle": 0
+    },
+    {
+     "parca": "kalip",
+     "metin": "kulak kalıbı (earmold)",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "alici",
+     "cumle": 0
+    },
+    {
+     "parca": "kalip",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Alıcı, kanca, tüp, kalıp",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Tüp iç çapı yaklaşık 2 mm",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "RIC'de alıcı kulak yolunda",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Klasik kulak arkası cihazda ses, gövdedeki alıcıdan çıkar ve önce kancaya geçer.",
+    "Kancadan sonra yaklaşık 2 mm iç çaplı esnek bir tüp sesi kalıba taşır.",
+    "Tüp kalıbın içinden geçerek kulak yoluna açılır; bu bölümün uzunluğu ve çapı da sesi etkiler.",
+    "Kanal içi alıcılı cihazlarda ise alıcı kulak yolundadır; kalıp yalnız alıcıyı tutar ve kulak yolunu kapatır.",
+    "Bu yüzden horn ve sönümleyici gibi tüp değişiklikleri daha çok klasik kulak arkası sistemde kullanılır."
+   ]
+  },
+  {
+   "id": "olcu",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Güvenli ölçü alma",
+   "baslik": "Ölçü alma *adımları*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Otoskopi",
+     "cumle": 0,
+     "metin": "Yol ve zar"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Otoblok",
+     "cumle": 2,
+     "metin": "İkinci kıvrımın ötesine"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Kontrol",
+     "cumle": 4,
+     "metin": "Yeniden otoskopi"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Doldurma",
+     "cumle": 5,
+     "metin": "İçten dışa"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Çıkarma",
+     "cumle": 6,
+     "metin": "Ölçü ve kulak"
+    }
+   ],
+   "cumleler": [
+    "Kulak ölçüsü (ear impression) almak, odyoloğun yaptığı en dikkat gerektiren işlemlerden biridir.",
+    "İlk adım otoskopidir: kulak yolunun şekli, kir, akıntı ve timpanik membranın durumu değerlendirilir.",
+    "Sonra kulak yoluna, ucuna ip bağlı pamuk ya da köpükten bir tampon, yani otoblok (otoblock) yerleştirilir.",
+    "Otoblok, ışıklı bir aletle ikinci kıvrımın hemen ötesine kadar ilerletilir ve timpanik membrana değmez.",
+    "Yerleştirdikten sonra yeniden otoskopla bakılır; otoblok kulak yolunu boşluk bırakmadan kapatmalıdır.",
+    "Ölçü materyali şırınga ya da tabancayla, ucu otobloğa yakın tutularak içten dışa doğru boşluksuz doldurulur.",
+    "Materyal sertleşince ölçü yavaşça döndürülerek çıkarılır; son olarak kulak yolu bir kez daha otoskopla kontrol edilir."
+   ]
+  },
+  {
+   "id": "otoblok",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Güvenli ölçü alma",
+   "baslik": "Otoblok *nereye?*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "dış kulak yolu: iki kıvrım",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran (kulak zarı)",
+     "cumle": 0
+    },
+    {
+     "parca": "otoblok",
+     "metin": "otoblok",
+     "cumle": 2
+    },
+    {
+     "parca": "olcu_maddesi",
+     "metin": "ölçü maddesi",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "timpanik_membran",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1
+    },
+    {
+     "parca": "ikinci_kivrim",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Zarı _korur_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İkinci kıvrımın hemen ötesi",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sığ ölçü: sızıntı ve ıslık",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Otobloğun görevi, ölçü materyalinin timpanik membrana ulaşmasını önlemektir.",
+    "Kulak yolu dışta kıkırdak, içte kemik bölümden oluşur ve iki kıvrım yapar.",
+    "Otoblok, kemik bölümün başladığı ikinci kıvrımın hemen ötesine yerleştirilir.",
+    "Böylece ölçü, kalıbın kulak yolunda yeterince derine uzanabilmesi için gereken bilgiyi taşır.",
+    "Çok sığ bir ölçü sızdırmaz ve geri beslemeye açık bir kalıp verir; zara çok yakın bir tampon ise risklidir.",
+    "Tampon boyutu kulak yoluna göre seçilir; çok küçük tampon materyalin kenarından sızmasına izin verir."
+   ],
+   "ayar": {
+    "kanal_nesnesi": "otoblok",
+    "otoblok_cumle": 0,
+    "kivrim_cumle": 1,
+    "olcu_cumle": 3
+   }
+  },
+  {
+   "id": "guvenlik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Güvenli ölçü alma",
+   "baslik": "Ölçüden önce *dur*",
+   "ogeler": [
+    {
+     "ikon": "akinti",
+     "baslik": "Akıntı",
+     "cumle": 0,
+     "metin": "Önce hekim"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Zar delinmesi",
+     "cumle": 1,
+     "metin": "Ölçü alınmaz"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Ameliyatlı kulak",
+     "cumle": 2,
+     "metin": "Ek dikkat"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Yoğun kir",
+     "cumle": 3,
+     "metin": "Önce temizlik"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Ağrı",
+     "cumle": 4,
+     "metin": "İşleme ara ver"
+    }
+   ],
+   "cumleler": [
+    "Kulak yolunda akıntı ya da enfeksiyon belirtisi varsa ölçü alınmaz ve kişi hekime yönlendirilir.",
+    "Timpanik membranda delinme şüphesi varsa da ölçü alınmaz; hekim değerlendirmesi beklenir.",
+    "Mastoid ameliyatı geçirmiş kulaklarda boşluk geniş olabilir; tampon ve materyal miktarı çok dikkatli seçilir.",
+    "Kulak yolunu tıkayan kir varsa önce uygun biçimde temizlenmesi gerekir.",
+    "İşlem sırasında ağrı, baş dönmesi ya da öksürük olursa durulur ve kulak yeniden kontrol edilir.",
+    "Bu kurallar basit görünür; ama ölçü almanın en ciddi riski, materyalin orta kulağa ulaşmasıdır."
+   ]
+  },
+  {
+   "id": "cene",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Güvenli ölçü alma",
+   "baslik": "Ağız *açık mı, kapalı mı?*",
+   "maddeler": [
+    {
+     "metin": "Çene hareketi kulak yolunu değiştirir",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Ağız takozu ile _açık ağız_ ölçüsü",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Derin ve kulak içi cihazlarda önerilir",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Materyal: silikon ya da toz-sıvı",
+     "cumle": 4,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi_karsilastir",
+    "cumle": 3,
+    "ayar": {
+     "tipler": [
+      "ITC",
+      "CIC"
+     ]
+    }
+   },
+   "cumleler": [
+    "Konuşurken ve çiğnerken çene eklemi hareket eder ve kulak yolunun kıkırdak bölümü şekil değiştirir.",
+    "Ağız kapalıyken alınan ölçü, konuşma sırasında gevşeyen ve ıslık yapan bir kalıp verebilir.",
+    "Bu yüzden bazı durumlarda kişiye ağız takozu (bite block) ısırtılarak açık ağız ölçüsü alınır.",
+    "Özellikle derin oturan kalıplarda ve kulak içi cihazlarda bu yöntem sık önerilir.",
+    "Ölçü materyali olarak çoğunlukla iki bileşenli silikon ya da toz ve sıvıdan hazırlanan akrilik esaslı materyal kullanılır.",
+    "Silikon ölçüler daha az büzülür ve laboratuvara gönderilmeden önce bozulmadan saklanabilir."
+   ]
+  },
+  {
+   "id": "materyal",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Materyaller",
+   "baslik": "Kalıp *materyalleri*",
+   "sutunlar": [
+    "Materyal",
+    "Sertlik",
+    "Artısı",
+    "Dikkat"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Akrilik",
+      "Sert",
+      "Dayanıklı, kolay düzeltme",
+      "Darbede kırılabilir"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Silikon",
+      "Yumuşak",
+      "İyi sızdırmazlık",
+      "Zor düzeltilir"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Vinil",
+      "Yumuşak",
+      "Rahat, ekonomik",
+      "Zamanla sertleşir"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Polietilen",
+      "Sert",
+      "Alerjide seçenek",
+      "Az esnek"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kalıp materyalleri sertlik, dayanıklılık ve vücut uyumu bakımından birbirinden ayrılır.",
+    "Akrilik sert ve dayanıklıdır; törpülenip vent açılarak kolayca düzeltilebilir ve kolay takılır.",
+    "Silikon yumuşaktır ve kulak yoluna iyi tutunur; bu yüzden yüksek kazançta sızdırmazlık için sık tercih edilir.",
+    "Buna karşılık yumuşak silikonu sonradan törpülemek ve vent eklemek daha zordur.",
+    "Vinil yumuşak ve rahattır, ama zamanla büzülüp sertleşebilir ve renk değiştirebilir.",
+    "Polietilen gibi materyaller ve bazı silikonlar, materyal alerjisi olan kişilerde seçenek olarak kullanılır."
+   ]
+  },
+  {
+   "id": "kime",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Materyaller",
+   "baslik": "Kime *hangi* materyal?",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocuk",
+     "cumle": 0,
+     "metin": "Yumuşak materyal"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Yüksek kazanç",
+     "cumle": 1,
+     "metin": "Yumuşak, sıkı oturan"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "El becerisi az",
+     "cumle": 2,
+     "metin": "Sert, kolay takılan"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Alerji",
+     "cumle": 3,
+     "metin": "Uyumlu materyal"
+    }
+   ],
+   "cumleler": [
+    "Çocuklarda darbe sırasında kulağı yaralamaması ve rahat olması için genellikle yumuşak materyaller tercih edilir.",
+    "İleri kayıpta yüksek kazanç gerektiğinden, kulak yolunu sıkıca kapatan yumuşak bir kalıp geri beslemeyi azaltır.",
+    "El becerisi ve görmesi azalmış yaşlı kullanıcıda ise sert ve kaygan bir kalıp takmayı kolaylaştırabilir.",
+    "Kaşıntı, kızarıklık ya da şişlik görülürse materyal alerjisi akla gelir ve uyumlu bir materyale geçilir.",
+    "Yani tek bir en iyi materyal yoktur; seçim kişinin kulağına, kaybına ve günlük yaşamına göre yapılır."
+   ]
+  },
+  {
+   "id": "vent_tur",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Akustik değişiklikler",
+   "baslik": "Ventin *yeri* de önemli",
+   "maddeler": [
+    {
+     "metin": "Paralel vent: ses kanalından ayrı",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Çapraz vent: tizleri de azaltır",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Basınç venti: yalnız havalandırma",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Vent sonradan büyütülebilir",
+     "cumle": 5,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "ITE"
+    },
+    "etiketler": [
+     {
+      "parca": "kalip",
+      "metin": "kabukta vent",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Vent, kalıbın dış yüzünden kulak yoluna uzanan ikinci bir kanaldır; etkisini bir önceki derste gördük.",
+    "En sık kullanılan paralel vent, ses kanalına paralel ve ondan ayrı ilerler.",
+    "Yer darsa ses kanalını yolda kesen çapraz vent açılabilir; ama bu vent tiz frekanslarda da kazanç kaybına yol açabilir.",
+    "Bu yüzden çapraz vent, özellikle tiz kazancın önemli olduğu kişilerde istenmez.",
+    "Çok küçük bir basınç venti ise sese pek dokunmadan kulak yolunun havalanmasını ve basıncın dengelenmesini sağlar.",
+    "Akrilik kalıpta vent sonradan genişletilebilir; değiştirilebilir vent tıkaçlarıyla farklı boyutlar da denenebilir."
+   ]
+  },
+  {
+   "id": "horn",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Akustik değişiklikler",
+   "baslik": "Horn: *tizleri* artırmak",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 20,
+     "adim": 10,
+     "ad": "Göreli çıkış (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "standart",
+      "noktalar": [
+       [
+        250,
+        0
+       ],
+       [
+        500,
+        2
+       ],
+       [
+        1000,
+        8
+       ],
+       [
+        1500,
+        4
+       ],
+       [
+        2000,
+        3
+       ],
+       [
+        3000,
+        5
+       ],
+       [
+        4000,
+        0
+       ],
+       [
+        6000,
+        -8
+       ],
+       [
+        8000,
+        -15
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "düz tüp",
+      "cumle": 1
+     },
+     {
+      "ad": "horn",
+      "noktalar": [
+       [
+        250,
+        0
+       ],
+       [
+        500,
+        2
+       ],
+       [
+        1000,
+        8
+       ],
+       [
+        1500,
+        4
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        3000,
+        12
+       ],
+       [
+        4000,
+        8
+       ],
+       [
+        6000,
+        -1
+       ],
+       [
+        8000,
+        -8
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "horn",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "horn_etkisi",
+      "x": [
+       2500,
+       6000
+      ],
+      "renk": "sari",
+      "etiket": "tiz artış",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Horn (acoustic horn), ses kanalının kulak yoluna doğru giderek genişlemesidir.",
+    "Bir boru dar uçtan geniş uca açıldığında, tiz sesler kulak yoluna daha verimli aktarılır.",
+    {
+     "yazi": "Klasik örnek, yaklaşık 2 mm'den 4 mm'ye genişleyen Libby hornudur.",
+     "ses": "Klasik örnek, yaklaşık 2 milimetreden 4 milimetreye genişleyen Libi hornudur."
+    },
+    "Bu örnekte horn, 2500 Hz'in üzerinde çıkışı yaklaşık 7 dB artırıyor.",
+    "Kaynaklarda bu artış genellikle yaklaşık 6 ile 10 dB olarak verilir; kalıbın uzunluğu ve kulak yolu sonucu değiştirir.",
+    "Tersine, kulak yoluna doğru daralan bir ters horn tiz frekanslarda çıkışı azaltır."
+   ]
+  },
+  {
+   "id": "damper",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Akustik değişiklikler",
+   "baslik": "Sönümleyici: *tepeleri* törpülemek",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 20,
+     "adim": 10,
+     "ad": "Göreli çıkış (dB)"
+    },
+    "seriler": [
+     {
+      "ad": "tepeli",
+      "noktalar": [
+       [
+        250,
+        0
+       ],
+       [
+        500,
+        2
+       ],
+       [
+        800,
+        6
+       ],
+       [
+        1000,
+        13
+       ],
+       [
+        1300,
+        4
+       ],
+       [
+        2000,
+        3
+       ],
+       [
+        2600,
+        6
+       ],
+       [
+        3000,
+        11
+       ],
+       [
+        3600,
+        3
+       ],
+       [
+        4500,
+        2
+       ],
+       [
+        5000,
+        7
+       ],
+       [
+        6000,
+        -2
+       ],
+       [
+        8000,
+        -12
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "etiket": "sönümleyicisiz",
+      "cumle": 1
+     },
+     {
+      "ad": "sonumlu",
+      "noktalar": [
+       [
+        250,
+        0
+       ],
+       [
+        500,
+        2
+       ],
+       [
+        800,
+        4
+       ],
+       [
+        1000,
+        6
+       ],
+       [
+        1300,
+        3
+       ],
+       [
+        2000,
+        3
+       ],
+       [
+        2600,
+        4
+       ],
+       [
+        3000,
+        6
+       ],
+       [
+        3600,
+        3
+       ],
+       [
+        4500,
+        2
+       ],
+       [
+        5000,
+        4
+       ],
+       [
+        6000,
+        -3
+       ],
+       [
+        8000,
+        -12
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "etiket": "sönümleyicili",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "tepe1",
+      "x": 1000,
+      "y": 13,
+      "etiket": "tepe",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Tüp ve alıcı sistemi kendi rezonanslarıyla frekans yanıtında belirgin tepeler oluşturur.",
+    "Bu örnekte yaklaşık 1000, 3000 ve 5000 Hz civarında üç tepe görülüyor.",
+    "Akustik sönümleyici (damper), ses yoluna yerleştirilen ve sesin akışına direnç gösteren küçük bir süzgeçtir.",
+    "Sönümleyici tepeleri basıklaştırır ve yanıtı daha düzgün hale getirir.",
+    "Daha düzgün bir yanıt, yüksek seslerde ani rahatsızlığı azaltır ve geri besleme payını artırabilir.",
+    "Sönümleyiciler farklı direnç değerlerinde üretilir; değer büyüdükçe tepeler daha çok bastırılır."
+   ]
+  },
+  {
+   "id": "ozet_tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Akustik değişiklikler",
+   "baslik": "Değişiklikler *bir bakışta*",
+   "sutunlar": [
+    "Değişiklik",
+    "Bölge",
+    "Etki"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Vent büyütme",
+      "Pes",
+      "Kazanç azalır"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Horn",
+      "Tiz",
+      "Çıkış artar"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Ters horn",
+      "Tiz",
+      "Çıkış azalır"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Sönümleyici",
+      "Tepe noktaları",
+      "Yanıt düzleşir"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    "Şimdi akustik değişiklikleri bir arada görelim.",
+    "Vent büyüdükçe pes frekanslarda kazanç azalır ve oklüzyon etkisi hafifler.",
+    "Horn, tiz frekanslarda çıkışı artırır.",
+    "Ters horn ise tiz frekanslarda çıkışı azaltır.",
+    "Sönümleyici, belirli bir bölgeyi değil, yanıttaki tepe noktalarını bastırarak eğriyi düzleştirir."
+   ]
+  },
+  {
+   "id": "bakim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Bakım ve yenileme",
+   "baslik": "Kalıbın *ömrü*",
+   "maddeler": [
+    {
+     "metin": "Günlük kuru temizlik, haftalık yıkama",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Sertleşen, sararan tüp değişir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Bebekte kalıp _ayda bir_ olabilir",
+     "cumle": 3,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Ödeme: 13 yaş altı 6 ayda bir",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "BTE"
+    },
+    "etiketler": [
+     {
+      "parca": "kalip",
+      "metin": "kalıp ve tüp",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "kalip",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Kalıp her gün kuru bir bezle silinir; çıkarılabilen kalıplar üreticinin önerisine göre ılık sabunlu suyla yıkanıp iyice kurutulur.",
+    "Ses kanalı ya da vent kirle tıkanırsa ses zayıflar; bu yüzden küçük bir fırça ve tel ile temizlik öğretilir.",
+    "Tüp zamanla sertleşir, sararır ya da çatlar; genellikle birkaç ayda bir değiştirilmesi gerekir.",
+    "Bebeklerde kulak hızla büyüdüğü için Amerikan Odyoloji Akademisinin pediatrik kılavuzu, kalıbın ayda bir yenilenebileceğini belirtir.",
+    "Türkiye'de Sağlık Uygulama Tebliğine göre kulak kalıbı bedeli 13 yaş altında 6 ayda bir, 13 yaş ve üzerinde yılda bir karşılanır.",
+    "Aynı tebliğe göre ilk cihaz alımında ayrıca kalıp bedeli ödenmez; bu koşullar değişebilir, güncel tebliğe bakın."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ölçüyü laboratuvara göndermeden önce inceleyin: otoblok ucu düzgün, yüzey boşluksuz ve ikinci kıvrım belirgin olmalı. Kusurlu ölçü, kusurlu kalıp demektir.",
+   "cumleler": [
+    "Sahadan bir ipucu: ölçüyü çıkardıktan sonra laboratuvara göndermeden önce mutlaka elinizde inceleyin.",
+    "Otoblok ucu ölçünün sonunda düzgün görünmeli ve ikinci kıvrım açıkça seçilebilmelidir.",
+    "Yüzeyde hava kabarcığı, çatlak ya da boşluk varsa kalıp kulak yolunda tam oturmaz ve sızıntı yapar.",
+    "Konka ve heliks kökü gibi bölümler de eksiksiz olmalıdır; çünkü kalıbı kulakta tutan bu bölümlerdir.",
+    "Şüpheli bir ölçüyü yenilemek birkaç dakika sürer; kusurlu bir kalıp ise haftalarca ıslık ve rahatsızlık demektir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kalıp: tutar, kapatır, iletir, şekillendirir",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Otoblok ikinci kıvrımın hemen ötesine",
+     "cumle": 1,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Sert akrilik, yumuşak silikon ve vinil",
+     "cumle": 2,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Vent pes, horn tiz; sönümleyici tepeler",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Bu derste kulak kalıbının cihazı tuttuğunu, kulak yolunu kapattığını, sesi ilettiğini ve yanıtı şekillendirdiğini gördük.",
+    "Güvenli ölçü için otoskopi şarttır ve otoblok ikinci kıvrımın hemen ötesine, zara değmeden yerleştirilir.",
+    "Akrilik sert ve kolay düzeltilir; silikon ve vinil yumuşaktır ve çocuklarda sık tercih edilir.",
+    "Vent pes kazancı azaltır, horn tiz çıkışı artırır, sönümleyici ise yanıttaki tepeleri bastırır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Tiz frekanslarda çıkışı artırmak için hangisi kullanılır?",
+   "secenekler": [
+    "Büyük vent",
+    "Horn",
+    "Ters horn",
+    "Çapraz vent"
+   ],
+   "dogru": 1,
+   "aciklama": "Horn, ses kanalını kulak yoluna doğru _genişletir_ ve tiz sesleri daha verimli aktarır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: klasik kulak arkası cihazda tiz frekanslarda çıkışı artırmak için kalıpta hangi değişiklik yapılır?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: horn.",
+     "ses": "Doğru cevap be şıkkı: horn."
+    },
+    "Kulak yoluna doğru genişleyen ses kanalı tiz sesleri daha verimli aktarır; ters horn ve çapraz vent ise tizleri azaltır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Telebobin, kablosuz bağlantı ve *yardımcı* cihazlar",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste telebobini, kablosuz bağlantıyı ve uzak mikrofon gibi yardımcı dinleme cihazlarını inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

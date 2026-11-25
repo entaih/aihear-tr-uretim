@@ -1,0 +1,777 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D009_Rapor_Kisaltmalari_TR",
+ "kapak": {
+  "ust": "DERS 9",
+  "baslik": "Rapordaki<br>*kısaltmalar*",
+  "alt": "PTA, SRT, SDS, UCL",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      30,
+      40,
+      60,
+      65
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      20,
+      25,
+      35,
+      55,
+      60
+     ]
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Odyoloji Raporundaki Kısaltmalar: PTA, SRT, SDS, UCL | Ders 9 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyoloji raporlarında sık görülen kısaltmaları açıyoruz: PTA, SRT, SDT, SDS, MCL, UCL ve NR. Desibel etiketlerinin raporda nasıl kullanıldığını ve oto, odyo, vestibulo gibi Latince ve Yunanca kökleri öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Guidelines for Determining Threshold Level for Speech; Stach, Comprehensive Dictionary of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyolojiraporu",
+   "işitmetesti"
+  ],
+  "etiketler": [
+   "odyoloji raporu",
+   "PTA",
+   "SRT",
+   "SDS",
+   "UCL",
+   "MCL",
+   "speech recognition threshold",
+   "konuşmayı alma eşiği",
+   "dinamik aralık",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 9",
+   "baslik": "Rapordaki *kısaltmalar*",
+   "alt": "PTA, SRT, SDS, UCL ve terimlerin kökleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir odyoloji raporunda en sık karşılaşacağınız kısaltmaları ve ne anlama geldiklerini öğreneceğiz.",
+    "Ayrıca odyoloji terimlerinin Latince ve Yunanca köklerini tanıyarak yeni terimleri kolayca çözmeyi göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Raporun dili",
+   "baslik": "Raporda *kısaltmalar*",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Kısa alan",
+     "cumle": 0,
+     "metin": "Çok sayıda sonuç"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "İngilizce kökenli",
+     "cumle": 1,
+     "metin": "Literatürle ortak dil"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Okunuş",
+     "cumle": 3,
+     "metin": "Çoğunlukla harf harf"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "İlk geçişte",
+     "cumle": 4,
+     "metin": "Açılımını yazın"
+    }
+   ],
+   "cumleler": [
+    "Bir odyoloji raporu, kısa bir alanda çok sayıda ölçüm sonucunu taşır; bu yüzden kısaltmalarla doludur.",
+    "Bu kısaltmaların çoğu İngilizce test adlarından gelir ve uluslararası literatürde de aynı biçimde kullanılır.",
+    "Bu yüzden kısaltmaları bilmek hem raporları hem de bilimsel makaleleri okumayı kolaylaştırır.",
+    "Klinikte bu kısaltmalar çoğunlukla harf harf okunur.",
+    "Kural basittir: bir kısaltmayı raporda ilk kez kullandığınızda açılımını da yazın."
+   ]
+  },
+  {
+   "id": "kokler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Raporun dili",
+   "baslik": "Terimlerin *kökleri*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Oto-",
+     "cumle": 1,
+     "metin": "Kulak: otoskop, otitis"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Audi-, odyo-",
+     "cumle": 2,
+     "metin": "İşitmek: odyometre, odyogram"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Akust-",
+     "cumle": 3,
+     "metin": "İşitmek: akustik"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Vestibulo-",
+     "cumle": 4,
+     "metin": "Giriş holü: vestibüler"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Koklea, timpan",
+     "cumle": 5,
+     "metin": "Salyangoz ve davul"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Presbi-",
+     "cumle": 6,
+     "metin": "Yaşlı: presbiakuzi"
+    }
+   ],
+   "cumleler": [
+    "Odyoloji terimlerinin çoğu birkaç Latince ve Yunanca kökten türer; bu kökleri tanımak yeni terimleri çözmeyi kolaylaştırır.",
+    "Oto kökü Yunancada kulak demektir; otoskop, otoloji ve otitis bu kökten gelir.",
+    "Audi ya da odyo kökü, Latincede işitmek anlamındaki audire fiilinden gelir; odyoloji, odyometre ve odyogram bu ailededir.",
+    "Akustik sözcüğü de Yunancada işitmek anlamındaki bir fiilden türemiştir.",
+    "Vestibulo kökü, Latincede giriş holü anlamındaki vestibulum sözcüğünden gelir ve iç kulağın denge bölümünü anlatır.",
+    "Koklea Latincede salyangoz demektir; timpanik sözcüğünün kökü ise Yunancada davul anlamına gelir.",
+    "Presbi kökü yaşlı anlamı taşır; yaşa bağlı işitme kaybına bu yüzden presbiakuzi denir."
+   ]
+  },
+  {
+   "id": "ekler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Raporun dili",
+   "baslik": "Sonekler: *ölçme, kayıt, bakma*",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "-metri",
+     "cumle": 1,
+     "metin": "Ölçme"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "-gram",
+     "cumle": 2,
+     "metin": "Kayıt, grafik"
+    },
+    {
+     "ikon": "otoskop",
+     "baslik": "-skop",
+     "cumle": 3,
+     "metin": "Bakma aleti"
+    },
+    {
+     "ikon": "enfeksiyon",
+     "baslik": "-itis",
+     "cumle": 4,
+     "metin": "İltihap"
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Otalji",
+     "cumle": 5,
+     "metin": "Kulak ağrısı"
+    },
+    {
+     "ikon": "akinti",
+     "baslik": "Otore",
+     "cumle": 5,
+     "metin": "Kulak akıntısı"
+    }
+   ],
+   "cumleler": [
+    "Sözcüğün sonundaki ekler de anlamı tamamlar.",
+    "Metri eki ölçme demektir: odyometri işitmenin, timpanometri ise orta kulağın ölçülmesidir.",
+    "Gram eki ölçümün kaydını ya da grafiğini anlatır: odyogram ve timpanogram bu eki taşır.",
+    "Skop eki bakmak için kullanılan aleti anlatır; otoskop kulağa bakma aletidir.",
+    "İtis eki iltihabı gösterir; otitis media orta kulak iltihabıdır.",
+    "Otalji kulak ağrısı, otore ise kulak akıntısı anlamına gelir; anamnez notlarında sık görülür."
+   ]
+  },
+  {
+   "id": "desibel",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Desibel etiketleri",
+   "baslik": "Desibelin *yanındaki* etiket",
+   "maddeler": [
+    {
+     "metin": "_dB HL_: eşikler, SRT, UCL",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "_dB SPL_: kalibrasyon, OAE",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_dB SL_: kişinin eşiğine göre",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Etiketsiz desibel: _eksik bilgi_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "desibel_olcegi",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "konusma",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Raporda neredeyse her sayının yanında desibel vardır; desibelin yanındaki etiket de en az sayı kadar önemlidir.",
+    "dB HL işitme düzeyidir; odyogramdaki eşikler, konuşmayı alma eşiği ve rahatsız edici ses düzeyi gibi düzeyler bu ölçekle yazılır.",
+    "dB SPL fiziksel ses basınç düzeyidir; kalibrasyonda ve otoakustik emisyon, kısaca OAE ölçümlerinde kullanılır.",
+    "dB SL ise kişinin kendi eşiğine göre düzeydir; konuşmayı alma eşiğinin kırk desibel üzerinde yapılan bir test, kırk dB SL'de yapılmıştır.",
+    "Bu üç ölçeğin ayrıntılarını ve hesaplarını ilerideki desibel derslerinde göreceğiz; şimdilik raporu okuyabilmek yeterli.",
+    "Etiketi yazılmamış bir desibel değeri, okuyana eksik bilgi verir."
+   ]
+  },
+  {
+   "id": "pta",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test kısaltmaları",
+   "baslik": "PTA: *saf ses ortalaması*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_500, 1000, 2000 Hz_ ortalaması",
+     "cumle": 1
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Üç frekans PTA: _30 dB HL_",
+     "cumle": 2
+    },
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "Dört frekans PTA: _37,5 dB HL_",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       15,
+       20,
+       30,
+       40,
+       60,
+       65
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "PTA, saf ses ortalaması (pure tone average) demektir ve raporun en sık görülen kısaltmasıdır.",
+    "Klasik PTA, beş yüz, bin ve iki bin hertzdeki hava yolu eşiklerinin ortalamasıdır.",
+    "Bu örnekte bu eşikler yirmi, otuz ve kırk desibel; ortalama otuz desibel HL çıkar.",
+    "Dünya Sağlık Örgütü ve birçok güncel kaynak, dört bin hertzi de ekleyerek dört frekans ortalaması kullanır.",
+    "Dört bin hertzdeki altmış desibeli de eklersek ortalama otuz yedi buçuk desibel HL olur.",
+    "Bu yüzden raporda PTA'nın hangi frekanslarla hesaplandığı mutlaka yazılmalıdır."
+   ]
+  },
+  {
+   "id": "liste",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test kısaltmaları",
+   "baslik": "Raporun *kısaltma listesi*",
+   "sutunlar": [
+    "Kısaltma",
+    "Türkçesi",
+    "Birim"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "PTA",
+      "Saf ses ortalaması",
+      "dB HL"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "SRT",
+      "Konuşmayı alma eşiği",
+      "dB HL"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "SDT",
+      "Konuşmayı fark etme eşiği",
+      "dB HL"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "SDS",
+      "Konuşmayı ayırt etme skoru",
+      "Yüzde"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "MCL",
+      "En rahat dinleme düzeyi",
+      "dB HL"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "UCL",
+      "Rahatsız edici ses düzeyi",
+      "dB HL"
+     ],
+     "cumle": 5,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "NR",
+      "Yanıt yok",
+      "Yok"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Ekrandaki tablo, raporlarda en sık karşılaşacağınız kısaltmaları özetliyor; ilk satırda az önce gördüğümüz PTA var.",
+    "SRT, konuşmayı alma eşiğidir (speech recognition threshold) ve desibel HL ile yazılır.",
+    "SDT, konuşmayı fark etme eşiğidir (speech detection threshold); kişinin konuşmanın varlığını fark ettiği en düşük düzeydir.",
+    "SDS, konuşmayı ayırt etme skorudur (speech discrimination score) ve yüzde olarak verilir.",
+    "MCL, en rahat dinleme düzeyidir (most comfortable level).",
+    "UCL ise rahatsız edici ses düzeyidir (uncomfortable loudness level); iki düzey de desibel HL ile yazılır.",
+    "NR, yanıt yok (no response) demektir: cihazın en yüksek çıkışında bile yanıt alınmamıştır."
+   ]
+  },
+  {
+   "id": "srt",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test kısaltmaları",
+   "baslik": "SRT ve *SDT*",
+   "maddeler": [
+    {
+     "metin": "SRT: kelimelerin _yarısını_ tekrarlama",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Türkiye'de _üç heceli_ kelimeler",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "SDT: konuşmayı yalnız _fark etme_",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "SRT ile PTA: _10 dB_ içinde",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "KARŞILAŞTIR",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "konusma",
+      "baslik": "SRT",
+      "cumle": 0,
+      "metin": "Yarısını doğru tekrarlar"
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "SDT",
+      "cumle": 2,
+      "metin": "Varlığını fark eder"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Fark",
+      "cumle": 3,
+      "metin": "Yaklaşık 5 ile 10 dB"
+     }
+    ]
+   },
+   "cumleler": [
+    "SRT, kişinin sunulan kelimelerin yaklaşık yarısını doğru tekrarlayabildiği en düşük düzeydir.",
+    "Türkiye'de yaygın SRT listeleri üç heceli kelimelerden oluşur.",
+    "SDT'de ise kişiden kelimeyi anlaması değil, yalnız konuşmanın varlığını fark etmesi beklenir.",
+    "Bu yüzden SDT, SRT'den genellikle yaklaşık beş ile on desibel daha düşük, yani daha iyi çıkar.",
+    "SDT, özellikle kelime tekrarlayamayan küçük çocuklarda ve ortak bir dilin olmadığı durumlarda işe yarar.",
+    "Önceki derslerde gördüğümüz gibi SRT ile PTA genellikle birbirine on desibel içinde uyum gösterir."
+   ]
+  },
+  {
+   "id": "sds",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test kısaltmaları",
+   "baslik": "SDS: *yüzde kaç* doğru?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 10,
+     "ad": "Düzey (dB HL)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 25,
+     "ad": "Doğru tekrar (%)"
+    },
+    "isaretler": [
+     {
+      "ad": "srt",
+      "x": 30,
+      "y": 50,
+      "cizgi": "dikey",
+      "renk": "lacivert",
+      "etiket": "SRT: 30 dB HL",
+      "dx": 0,
+      "dy": -24,
+      "cumle": 2
+     },
+     {
+      "ad": "sds",
+      "x": 70,
+      "y": 88,
+      "dolu": true,
+      "renk": "mavi",
+      "etiket": "SDS: yüzde 88",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "sl",
+      "x": [
+       30,
+       70
+      ],
+      "y": 20,
+      "etiket": "40 dB SL",
+      "renk": "sari",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tek heceli _kelime listesi_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Düzey, kulak ve _liste_ yazılır",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "SDS, kişinin tek heceli kelimelerin yüzde kaçını doğru tekrarladığını gösterir.",
+    "Test, eşiğin rahatça üzerinde bir düzeyde yapılır; çoğu zaman SRT'nin otuz ile kırk desibel üzerinde.",
+    "Bu örnekte SRT otuz desibel HL; SDS yetmiş desibel HL'de yapılmış ve sonuç yüzde seksen sekiz.",
+    "Raporda yalnız yüzdeyi değil, testin yapıldığı düzeyi, kulağı ve kullanılan listeyi de yazmak gerekir.",
+    "Aynı test bazı kaynaklarda kelime tanıma skoru (word recognition score) adıyla geçer.",
+    "Skorun yorumunu ilerideki konuşma odyometrisi derslerinde ayrıntılı göreceğiz."
+   ]
+  },
+  {
+   "id": "dinamik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Test kısaltmaları",
+   "baslik": "MCL, UCL ve *dinamik aralık*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 10,
+     "isaretler": [],
+     "ad": " "
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Düzey (dB HL)"
+    },
+    "isaretler": [
+     {
+      "ad": "srt",
+      "x": 3,
+      "y": 40,
+      "cizgi": "yatay",
+      "renk": "lacivert",
+      "etiket": "SRT 40",
+      "cumle": 4
+     },
+     {
+      "ad": "mcl",
+      "x": 3,
+      "y": 75,
+      "cizgi": "yatay",
+      "renk": "yesil",
+      "etiket": "MCL 75",
+      "cumle": 0
+     },
+     {
+      "ad": "ucl",
+      "x": 3,
+      "y": 105,
+      "cizgi": "yatay",
+      "renk": "kirmizi",
+      "etiket": "UCL 105",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "dinamik_aralik",
+      "xk": 7,
+      "y": [
+       40,
+       105
+      ],
+      "etiket": "65 dB",
+      "renk": "sari",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "MCL: _en rahat_ düzey",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "UCL: _rahatsız edici_ düzey",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Dinamik aralık: _eşikten UCL'ye_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "MCL, kişinin konuşmayı en rahat dinlediği düzeydir.",
+    "UCL ise sesin rahatsız edici olmaya başladığı düzeydir.",
+    "Normal işiten kişilerde UCL genellikle yaklaşık yüz desibel HL civarındadır.",
+    "Eşik ile UCL arasındaki aralığa dinamik aralık (dynamic range) denir.",
+    "Bu örnekte SRT kırk, MCL yetmiş beş, UCL yüz beş desibel HL; dinamik aralık altmış beş desibeldir.",
+    "Dinamik aralık daraldıkça sesleri rahatsız etmeden duyulur kılmak zorlaşır; bu bilgi cihaz ayarında önemlidir."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Diğer kısaltmalar",
+   "baslik": "Raporda *başka neler* var?",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "OAE",
+     "cumle": 1,
+     "metin": "Dış tüy hücreleri"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "ABR",
+     "cumle": 2,
+     "metin": "İşitme siniri, beyin sapı"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "ART",
+     "cumle": 3,
+     "metin": "Akustik refleks eşiği"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "KBB",
+     "cumle": 4,
+     "metin": "Kulak burun boğaz"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "AD, AS",
+     "cumle": 5,
+     "metin": "Sağ ve sol kulak"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Karışıklık",
+     "cumle": 6,
+     "metin": "Sağ ve sol yazın"
+    }
+   ],
+   "cumleler": [
+    "Raporda saf ses ve konuşma testleri dışında başka kısaltmalar da görürsünüz.",
+    "OAE, otoakustik emisyon demektir; iç kulaktaki dış tüy hücrelerinin çalışmasını yansıtır.",
+    "ABR, işitsel beyin sapı yanıtıdır; işitme sinirini ve beyin sapı yollarını değerlendiren objektif bir testtir.",
+    "Timpanometri sonuçlarında akustik refleks eşiği, kısaca ART görülebilir.",
+    "KBB, kulak burun boğaz demektir; raporda yönlendirme önerisi olarak sık yer alır.",
+    "Bazı raporlarda kulaklar Latince kısaltmalarla yazılır: AD sağ kulak (auris dextra), AS sol kulak (auris sinistra) demektir.",
+    "Bu kısaltmalar timpanogram tiplerindeki adlarla karışabilir; bu yüzden açıkça sağ ve sol yazmak daha güvenlidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinik ipucu",
+   "metin": "Raporu, sizi tanımayan biri okuyacakmış gibi yazın: kısaltmayı ilk geçişte açın, desibel etiketini, test düzeyini ve listeyi ekleyin.",
+   "cumleler": [
+    "Rapor yazarken işe yarayan bir ipucu: raporu, başka bir klinikte sizi hiç tanımayan biri okuyacakmış gibi yazın.",
+    "Kısaltmayı ilk geçişte açın ve her desibel değerinin yanına HL, SPL ya da SL etiketini koyun.",
+    "Konuşma testlerinde düzeyi, kulağı ve kullanılan kelime listesini belirtin.",
+    "Böylece aynı kişi başka bir klinikte yeniden test edildiğinde sonuçlar güvenle karşılaştırılabilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kökler: oto kulak, _odyo işitme_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "PTA: hangi frekanslar _yazılmalı_",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "SRT ve SDT dB HL, SDS _yüzde_",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Dinamik aralık: _eşikten UCL'ye_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Oto kulak, odyo işitme, metri ölçme, gram kayıt demektir; kökleri bilmek yeni terimleri çözmeyi kolaylaştırır.",
+    "PTA, saf ses ortalamasıdır; raporda hangi frekanslarla hesaplandığı yazılmalıdır.",
+    "SRT ve SDT desibel HL ile, konuşmayı ayırt etme skoru SDS ise yüzde olarak yazılır.",
+    {
+     "yazi": "MCL en rahat, UCL rahatsız edici düzeydir; eşik ile UCL arası dinamik aralıktır.",
+     "ses": "Me ce le en rahat düzeydir, u ce le ise rahatsız edici düzeydir; eşik ile u ce le arası dinamik aralıktır."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "SRT neyi gösterir?",
+   "secenekler": [
+    "Anlaşılan kelimelerin yüzdesini",
+    "Kelimelerin yarısını tekrarlama düzeyini",
+    "En rahat dinleme düzeyini",
+    "Rahatsız edici düzeyi"
+   ],
+   "dogru": 1,
+   "aciklama": "SRT, kelimelerin _yaklaşık yarısının_ doğru tekrarlandığı en düşük düzeydir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: SRT, yani konuşmayı alma eşiği neyi gösterir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: kelimelerin yaklaşık yarısının doğru tekrarlandığı en düşük düzey.",
+    "Yüzde olarak verilen ölçü ise konuşmayı ayırt etme skoru, yani SDS'dir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ses nedir? *Titreşim* ve dalga",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste ses fiziğine başlıyoruz: sesin ne olduğunu, titreşimi, dalgayı ve ortamın rolünü göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

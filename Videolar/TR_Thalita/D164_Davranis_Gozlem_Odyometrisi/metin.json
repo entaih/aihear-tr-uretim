@@ -1,0 +1,644 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D164_Davranis_Gozlem_Odyometrisi_TR",
+ "kapak": {
+  "ust": "DERS 164",
+  "baslik": "Bebeklerde<br>*BOA*",
+  "alt": "Davranış gözlem odyometrisi",
+  "cizim": "vra_odasi"
+ },
+ "youtube": {
+  "baslik": "Bebeklerde Davranış Gözlem Odyometrisi (BOA) | Ders 164 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Gelişimsel olarak altı aydan küçük bebeklerde kullanılan davranış gözlem odyometrisini (BOA) anlatıyoruz: bebeklerin sese verdiği yanıtlar, uyaran seçimi, bebeğin durumu, gözlemci yanlılığı ve alışma, eşik değil minimal yanıt düzeyi kavramı ve BOA'nın klinikteki yeri.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ASHA, Guidelines for the Audiologic Assessment of Children From Birth to 5 Years of Age (2004); Northern ve Downs, Hearing in Children; Madell, Flexer, Wolfe ve Schafer, Pediatric Audiology: Diagnosis, Technology, and Management; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "pediatrikodyoloji",
+   "bebekişitmesi"
+  ],
+  "etiketler": [
+   "BOA",
+   "behavioral observation audiometry",
+   "davranış gözlem odyometrisi",
+   "minimal yanıt düzeyi",
+   "minimal response level",
+   "irkilme refleksi",
+   "startle reflex",
+   "bebek işitme testi",
+   "pediatrik odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 164",
+   "baslik": "Davranış gözlem *odyometrisi*",
+   "alt": "Bebeklerde BOA ve minimal yanıt düzeyi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste en küçük bebeklerde kullanılan davranış gözlem odyometrisini, yani BOA'yı öğreneceğiz.",
+    "Bebeklerin sese verdiği yanıtları, testin sınırlılıklarını ve eşik değil minimal yanıt düzeyi kavramını ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "BOA nedir?",
+   "baslik": "*BOA* nedir?",
+   "maddeler": [
+    {
+     "metin": "Sese _davranış değişikliği_ izlenir",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Koşullama ve _ödül yok_",
+     "cumle": 1,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Gelişimsel olarak _0 ile 6 ay_",
+     "cumle": 2,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Sonuç: _minimal yanıt düzeyi_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "BOA",
+    "metin": "Behavioral observation audiometry: *davranış gözlem* odyometrisi",
+    "cumle": 0
+   },
+   "cumleler": [
+    "Davranış gözlem odyometrisi (behavioral observation audiometry), kısaca BOA, bebeğin sese verdiği davranış değişikliklerini izler.",
+    "Görsel pekiştirmeli odyometriden, yani VRA'dan farklı olarak bebek koşullanmaz ve doğru yanıt bir ödülle pekiştirilmez.",
+    "Yöntem, gelişimsel olarak yaklaşık altı aydan küçük bebeklerde kullanılır.",
+    "Bu yaşta bebek henüz sese baş çevirmeyi öğrenmeye hazır değildir; bu yüzden yanıtlar daha çok reflekstir.",
+    "BOA ile bulunan en düşük yanıt düzeyine eşik değil, minimal yanıt düzeyi (minimal response level), kısaca MRL denir.",
+    "Bu ayrım, BOA'yı doğru yorumlamanın anahtarıdır."
+   ]
+  },
+  {
+   "id": "yanitlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "BOA nedir?",
+   "baslik": "Bebek sese *nasıl* yanıt verir?",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "İrkilme",
+     "metin": "Kollar açılır, tüm beden irkilir.",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Göz kırpma",
+     "metin": "Kulak kapak refleksi.",
+     "cumle": 2
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Uyanma",
+     "metin": "Gözler açılır, kıpırdanır.",
+     "cumle": 3
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Durma",
+     "metin": "Hareket ya da emme durur.",
+     "cumle": 4
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Emme",
+     "metin": "Emme hızı değişir.",
+     "cumle": 5
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Baş çevirme",
+     "metin": "Yaklaşık dört aydan sonra.",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Bebeklerin sese verdiği yanıtlar yaşla birlikte değişir.",
+    "En belirgin yanıt irkilme refleksidir (startle reflex); bebeğin kolları açılır ve tüm bedeni irkilir.",
+    "Ani bir sesle göz kapaklarının kırpılmasına kulak kapak refleksi (auropalpebral reflex) denir.",
+    "Uyuyan bebeğin gözlerini açması ya da kıpırdanması da bir yanıt olarak kabul edilebilir.",
+    "Sakin bebekte devam eden hareketin aniden durması da sese verilen bir yanıt olabilir.",
+    "Emzik ya da biberon emen bebekte emmenin durması ya da hızlanması da gözlenir.",
+    "Yaklaşık dört aydan sonra bebek başını sesin geldiği yöne çevirmeye başlar ve bu yanıt giderek netleşir."
+   ]
+  },
+  {
+   "id": "duzenek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama",
+   "baslik": "Test *düzeni*",
+   "cizim": "vra_odasi",
+   "etiketler": [
+    {
+     "parca": "ebeveyn",
+     "metin": "Ebeveyn kucağında bebek",
+     "cumle": 0
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "Hoparlör",
+     "cumle": 1
+    },
+    {
+     "parca": "test_eden",
+     "metin": "Gözlemci",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "cocuk",
+     "cumle": 0
+    },
+    {
+     "parca": "hoparlor",
+     "cumle": 1
+    },
+    {
+     "parca": "test_eden",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Mümkünse _iki gözlemci_",
+     "cumle": 3,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Ebeveyn _işaret vermez_",
+     "cumle": 4,
+     "ikon": "sessizlik"
+    }
+   ],
+   "cumleler": [
+    "BOA genellikle ses yalıtımlı bir odada, bebek anne ya da babasının kucağındayken yapılır.",
+    "Uyaranlar çoğu zaman hoparlörden, yani ses alanında verilir.",
+    "Bebeğin karşısında ya da kontrol odasında en az bir gözlemci bulunur.",
+    "Yanıtın gerçek olup olmadığına mümkünse iki gözlemci birlikte karar verir.",
+    "Ebeveynden sakin kalması ve bebeğe hiçbir işaret vermemesi istenir.",
+    "Bebeğin durumu, yani uykuda mı, sakin mi, huzursuz mu olduğu, test boyunca kaydedilir."
+   ]
+  },
+  {
+   "id": "uyaranlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama",
+   "baslik": "Hangi *uyaran?*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma",
+     "metin": "En kolay yanıt; frekansa özgü değil.",
+     "cumle": 1
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Ses yapan oyuncak",
+     "metin": "Geniş bant; şiddeti ölçülmeli.",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Warble ton",
+     "metin": "Frekansa özgü; yanıt daha zor.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "BOA'da farklı uyaranlar kullanılabilir ve bebeğin yanıtı uyarana göre değişir.",
+    "Bebekler konuşma ve geniş bantlı seslere, saf ya da frekans modülasyonlu tonlara göre daha kolay yanıt verir.",
+    "Ancak konuşma frekansa özgü bilgi vermez.",
+    "Ses yapan oyuncaklar dikkat çekicidir, ama ürettikleri sesin şiddeti ve frekansı önceden ölçülmüş olmalıdır.",
+    "Warble ton gibi frekansa özgü uyaranlar daha fazla bilgi verir, ama bebeğin bunlara yanıtı daha zayıftır.",
+    "Hangi uyaranın hangi düzeyde verildiği, sonucun yorumu için mutlaka kaydedilir."
+   ]
+  },
+  {
+   "id": "durum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama",
+   "baslik": "Bebeğin *durumu* önemli",
+   "adimlar": [
+    {
+     "ikon": "saat",
+     "baslik": "Derin uyku",
+     "metin": "Yanıt çok azalır",
+     "cumle": 0
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Hafif uyku",
+     "metin": "Uyanma yanıtları",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Sakin uyanık",
+     "metin": "Durma, emme, bakış",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Huzursuz",
+     "metin": "Test ertelenir",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Derin uykudaki bir bebek sese çok az yanıt verir; bu durumda yanıt yokluğu yanıltıcıdır.",
+    "Hafif uykudaki bebekte uyanma ve kıpırdanma gibi yanıtlar daha kolay gözlenir.",
+    "Sakin ve uyanık bebekte hareketin durması, emmenin değişmesi ve bakışın yönelmesi izlenebilir.",
+    "Ağlayan ya da huzursuz bebekte güvenilir gözlem yapılamaz; test bebek sakinleşince sürdürülür.",
+    "Bu yüzden bebeğin durumu her denemede not edilir."
+   ]
+  },
+  {
+   "id": "adimlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Uygulama",
+   "baslik": "Gözlemin *adımları*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Başlangıç",
+     "metin": "Davranışı izle",
+     "cumle": 0
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Uyaran",
+     "metin": "Düşükten başla",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Pencere",
+     "metin": "Kısa süre içinde",
+     "cumle": 3
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Kontrol",
+     "metin": "Sessiz deneme",
+     "cumle": 4
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "metin": "Düzey ve yanıt",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Her denemeden önce bebeğin o anki davranışı birkaç saniye izlenir; yanıt ancak bu başlangıca göre tanınabilir.",
+    "Uyaran genellikle düşük bir düzeyde başlar ve yanıt görülene kadar adım adım artırılır.",
+    "Böylece bebek yüksek seslere erken alışmadan en düşük yanıt düzeyi aranır.",
+    "Yalnız uyarandan hemen sonraki kısa bir zaman içinde ortaya çıkan değişiklik yanıt sayılır.",
+    "Ses verilmeden yapılan kontrol denemeleri, bebeğin kendiliğinden ne sıklıkta hareket ettiğini gösterir.",
+    "Her yanıt; uyaranın türü, düzeyi, bebeğin durumu ve yanıtın biçimiyle birlikte kaydedilir."
+   ]
+  },
+  {
+   "id": "sinir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sınırlılıklar",
+   "baslik": "BOA'nın *sınırlılıkları*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Gözlemci yanlılığı",
+     "metin": "Beklenti yargıyı etkiler.",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Alışma",
+     "metin": "Yanıt hızla azalır.",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Değişkenlik",
+     "metin": "Aynı bebekte bile değişir.",
+     "cumle": 3
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Ses alanı",
+     "metin": "Kulağa özgü bilgi yok.",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "BOA'nın sonuçlarını yorumlarken önemli sınırlılıkları akılda tutmak gerekir.",
+    "Sesin ne zaman verildiğini bilen gözlemci, bebeğin her hareketini yanıt sanmaya eğilimlidir; buna gözlemci yanlılığı denir.",
+    "Bebek aynı sese birkaç kez maruz kaldığında yanıt vermeyi hızla bırakır; buna alışma (habituation) denir.",
+    "Yanıtlar bebekten bebeğe ve aynı bebekte durumdan duruma büyük farklılık gösterir.",
+    "Uyaranlar çoğu zaman ses alanında verildiği için sonuç daha iyi işiten kulağı yansıtır; tek taraflı kayıp görülmez.",
+    "Bu nedenle BOA tek başına işitmenin normal olduğunu ya da bir kaybın derecesini göstermek için yeterli değildir."
+   ]
+  },
+  {
+   "id": "mrl",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sınırlılıklar",
+   "baslik": "Eşik değil: *MRL*",
+   "maddeler": [
+    {
+     "metin": "MRL: yanıtın görüldüğü _en düşük_ düzey",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Normal bebekte bile _yüksek_ olabilir",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Yaşla birlikte _düşer_",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Hafif kayıp _gözden kaçabilir_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yanıt yok, _kayıp_ demek değil",
+     "cumle": 4,
+     "ikon": "soru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "grafik",
+      "baslik": "MRL",
+      "metin": "Gözlenen en düşük düzey",
+      "cumle": 0
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Eşik",
+      "metin": "Objektif testle tahmin",
+      "cumle": 5
+     }
+    ],
+    "ust": "FARK"
+   },
+   "cumleler": [
+    "Minimal yanıt düzeyi, bebekte davranış değişikliğinin gözlendiği en düşük uyaran düzeyidir.",
+    "Normal işiten bir bebeğin MRL'si, gerçek işitme eşiğinin belirgin üzerinde olabilir; çünkü bebek sese her zaman davranışla yanıt vermez.",
+    "Bebek büyüdükçe ve gelişim ilerledikçe yanıtlar daha düşük düzeylerde görülmeye başlar.",
+    "Bu yüzden hafif ya da orta derece bir kaybı olan bebek, yüksek seslere yanıt verdiği için normal sanılabilir.",
+    "Tersine, uykulu ya da ilgisiz bir bebekte yanıt görülmemesi, işitme kaybı olduğu anlamına gelmez.",
+    "Bu iki yönlü belirsizlik, BOA sonucunun neden eşik olarak raporlanmadığını açıklar."
+   ]
+  },
+  {
+   "id": "yanlilik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sınırlılıklar",
+   "baslik": "Yanlılığı *azaltmak*",
+   "maddeler": [
+    {
+     "metin": "Mümkünse _iki gözlemci_",
+     "cumle": 0,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Gözlemci uyaranı _bilmez_",
+     "cumle": 1,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "_Kontrol_ denemeleri",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Yanıt _önceden_ tanımlanır",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "_Video_ kaydı",
+     "cumle": 4,
+     "ikon": "yazilim"
+    }
+   ],
+   "yan": {
+    "tur": "ipucu",
+    "metin": "Yanıtı sesin verildiğini bilen kişi tek başına değerlendirmesin; mümkünse kör bir ikinci gözlemci kullanın.",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Yanıta mümkünse iki gözlemci birlikte karar verir ve yalnız ikisinin de gördüğü değişiklik yanıt sayılır.",
+    "Bebeğin yanındaki gözlemci, sesin ne zaman verildiğini duymazsa yanlılık azalır; bazı merkezlerde gözlemciye kulaklıkla maskeleme verilir.",
+    "Ses verilmeden yapılan kontrol denemeleri, yalancı yanıtların ne kadar sık olduğunu gösterir.",
+    "Hangi davranışın yanıt sayılacağı testten önce açıkça tanımlanır.",
+    "Bebeğin video kaydı, yanıtların sonradan yeniden değerlendirilmesini sağlar.",
+    "Bu önlemlere rağmen BOA, doğası gereği öznel bir yöntem olarak kalır."
+   ]
+  },
+  {
+   "id": "yer",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikteki yeri",
+   "baslik": "BOA ne işe *yarar?*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "İşlevsel gözlem",
+     "metin": "Bebeğin sese ilgisini görmek",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Çapraz kontrol",
+     "metin": "Objektif testlerle karşılaştırmak",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Özel gereksinim",
+     "metin": "VRA yapılamayan çocuklar",
+     "cumle": 3
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Aile katılımı",
+     "metin": "Aileye yanıtları göstermek",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Sınırlılıklarına rağmen BOA'nın klinikte bir yeri vardır.",
+    "Bebeğin seslere işlevsel olarak nasıl tepki verdiğini görmek ve bunu aileyle paylaşmak için kullanılabilir.",
+    "Sonuçlar, işitsel beyin sapı yanıtı, kısaca ABR ve otoakustik emisyon, kısaca OAE gibi objektif testlerle çapraz kontrol edilir.",
+    "Gelişimsel nedenlerle VRA yapılamayan daha büyük çocuklarda da gözlemsel bilgi sağlayabilir.",
+    "Aile, bebeğinin seslere nasıl yanıt verdiğini birlikte görerek sürece daha etkin katılabilir.",
+    "Ancak kılavuzlar bu yaşta eşik tahmini ve cihaz uygulaması için BOA'yı değil, frekansa özgü ABR gibi objektif testleri temel alır."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinikteki yeri",
+   "baslik": "Örnek: BOA *yanıltabilir*",
+   "sutunlar": [
+    "Bilgi",
+    "Sonuç"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Aile gözlemi",
+      "Seslere tepki veriyor"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "BOA",
+      "Yüksek sese irkilme"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Tonburst ABR",
+      "Yaklaşık 70 dB eHL"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Sonuç",
+      "Orta ileri kayıp"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek, üç aylık bir bebeğin bulgularına bakalım.",
+    "Aile, bebeğin kapı çarpması gibi seslere tepki verdiğini söylüyor.",
+    "BOA'da bebek yüksek şiddetteki seslere belirgin biçimde irkiliyor.",
+    "Ancak frekansa özgü ABR ile tahmin edilen eşikler iki kulakta da yaklaşık yetmiş desibel düzeyinde.",
+    "Yani bebek yüksek seslere yanıt verse de orta ileri derecede bir işitme kaybı vardır.",
+    "Bu örnek, bebeğin yüksek seslere tepki vermesinin işitmenin normal olduğunu göstermediğini hatırlatır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Bebeğin yüksek seslere irkilmesi normal işitme demek değildir. BOA sonucunu eşik olarak yazmayın; objektif testlerle doğrulayın.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: bebeğin yüksek seslere irkilmesine dayanarak işitmesinin normal olduğunu söylemeyin.",
+    "BOA sonuçlarını raporda eşik olarak değil, minimal yanıt düzeyi olarak ve kullanılan uyaranla birlikte yazın.",
+    "Bu yaşta kulağa ve frekansa özgü eşik tahmini için objektif testleri planlayın.",
+    "Ailenin kaygısı varsa, BOA bulgusu ne olursa olsun bu kaygıyı ciddiye alın ve değerlendirmeyi tamamlayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "BOA: _kendiliğinden_ davranış değişikliği",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Sonuç _eşik değil_, MRL",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yanlılık, alışma, _ses alanı_ sınırı",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Eşik tahmini: _objektif_ testler",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "BOA, gelişimsel olarak altı aydan küçük bebeklerde sese verilen kendiliğinden davranış değişikliklerini izler.",
+    "Bulunan değer eşik değil, minimal yanıt düzeyidir ve normal işiten bebekte bile yüksek olabilir.",
+    "Gözlemci yanlılığı, alışma ve ses alanında test, yöntemin başlıca sınırlılıklarıdır.",
+    "Bu yaşta eşik tahmini ve cihaz kararları frekansa özgü objektif testlere dayanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "BOA ile bulunan en düşük yanıt düzeyi nedir?",
+   "secenekler": [
+    "İşitme eşiği",
+    "Minimal yanıt düzeyi",
+    "Konuşmayı alma eşiği"
+   ],
+   "dogru": 1,
+   "aciklama": "BOA sonucu _minimal yanıt düzeyidir_; gerçek eşiğin üzerinde olabilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: BOA ile bulunan, yanıtın görüldüğü en düşük düzeye ne ad verilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: minimal yanıt düzeyi, kısaca MRL.",
+    "Bu düzey normal işiten bebeklerde bile gerçek eşiğin üzerinde olabileceği için eşik olarak raporlanmaz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Görsel pekiştirmeli *odyometri* (VRA)",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste altı aydan büyük bebeklerde kullanılan görsel pekiştirmeli odyometriyi, yani VRA'yı öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,638 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D297_Gen_Tedavisi_Rejenerasyon_TR",
+ "kapak": {
+  "ust": "DERS 297",
+  "baslik": "Gen tedavisi ve<br>*rejenerasyon*",
+  "alt": "OTOF çalışmaları ve gerçekçi beklenti",
+  "cizim": "corti",
+  "vurgula": [
+   "ic_tuy_hucresi"
+  ]
+ },
+ "youtube": {
+  "baslik": "Gen Tedavisi ve Tüy Hücresi Rejenerasyonu Araştırmaları | Ders 297 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme kaybında gen tedavisi nerede? Bu derste AAV vektörlerini, OTOF gen tedavisinin 2024 ve sonrasında yayımlanan ilk klinik sonuçlarını, bu sonuçların nasıl okunması gerektiğini, tüy hücresi rejenerasyonu yaklaşımlarını ve odyoloğun rolünü öğreniyoruz. İlk OTOF gen tedavisi 2026'da ABD'de hızlandırılmış onay aldı; uzun dönem sonuçlar hala araştırılmaktadır.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Lv J ve ark. AAV1-hOTOF gene therapy for autosomal recessive deafness 9: a single-arm trial. Lancet (2024); Wang H ve ark. Bilateral gene therapy in children with autosomal recessive deafness 9: single-arm trial results. Nature Medicine (2024); Qi J ve ark. AAV-mediated gene therapy restores hearing in patients with DFNB9 deafness. Advanced Science (2024); Valayannopoulos V ve ark. DB-OTO gene therapy for inherited deafness. New England Journal of Medicine (2025); U.S. Food and Drug Administration, Otarmeni (lunsotogene parvec-cwha) onay duyurusu (23.4.2026).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "gentedavisi",
+   "işitmekaybı"
+  ],
+  "etiketler": [
+   "gen tedavisi",
+   "gene therapy",
+   "OTOF",
+   "otoferlin",
+   "DFNB9",
+   "adeno ilişkili virüs",
+   "AAV",
+   "tüy hücresi rejenerasyonu",
+   "hair cell regeneration",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 297",
+   "baslik": "Gen tedavisi ve *rejenerasyon*",
+   "alt": "OTOF çalışmaları, tüy hücresi, gerçekçi beklenti",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme kaybında gen tedavisini ve 2024'te yayımlanan ilk OTOF klinik çalışmalarının sonuçlarını inceleyeceğiz.",
+    "Tüy hücresi rejenerasyonu yaklaşımlarını, gerçekçi beklentileri ve odyoloğun rolünü de ele alacağız."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Gen tedavisi *nedir?*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Gen ekleme",
+     "metin": "Eksik genin sağlam kopyası",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Gen susturma",
+     "metin": "Zararlı ürünü azaltma",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Gen düzenleme",
+     "metin": "Diziyi onarma",
+     "cumle": 4
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Vektör",
+     "metin": "Geni hücreye taşır",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Gen tedavisi (gene therapy), bir hastalığın genetik nedenini hücrelere genetik materyal aktararak düzeltmeyi amaçlar.",
+    "En basit yaklaşım gen eklemedir: çalışmayan bir genin sağlam kopyası hücreye verilir.",
+    "Bu yaklaşım, iki kopyanın da işlevini yitirdiği çekinik kalıtımlı kayıplar için uygundur.",
+    "Baskın kalıtımlı bazı kayıplarda ise zararlı gen ürününü azaltan susturma yöntemleri araştırılmaktadır.",
+    "Gen düzenleme (gene editing) yöntemleri, hatalı diziyi doğrudan onarmayı hedefler; işitmede bu yöntem hala deneysel aşamadadır.",
+    "Hangi yöntem olursa olsun, genetik materyali doğru hücreye taşıyan bir araca, yani vektöre ihtiyaç vardır."
+   ]
+  },
+  {
+   "id": "aav",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Vektör: *AAV*",
+   "ogeler": [
+    {
+     "ikon": "virus",
+     "baslik": "AAV",
+     "metin": "Hastalık yapmayan virüs",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Hedef",
+     "metin": "İç kulak hücreleri",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Kapasite",
+     "metin": "Taşıyabileceği gen sınırlı",
+     "cumle": 3
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "İkili vektör",
+     "metin": "Gen iki parçada",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İç kulak gen tedavisinde en çok kullanılan vektör, adeno ilişkili virüs (adeno-associated virus), kısaca AAV'dir.",
+    "AAV insanlarda hastalık yapmayan küçük bir virüstür; laboratuvarda çoğalma yeteneği olmayacak biçimde hazırlanır.",
+    "Farklı AAV türleri farklı hücrelere yönelir; iç kulak için tüy hücrelerine ulaşabilen türler seçilir.",
+    "AAV'nin taşıyabileceği genetik materyal miktarı sınırlıdır ve otoferlin geninin kodlayan dizisi bu sınırdan büyüktür.",
+    "Bu yüzden OTOF çalışmalarında gen iki parçaya bölünür ve iki ayrı AAV ile verilir; hücre içinde parçalar birleşerek tam proteini oluşturur.",
+    "Vektöre karşı vücutta önceden bulunan antikorlar, tedavinin etkisini azaltabilen önemli bir etkendir."
+   ]
+  },
+  {
+   "id": "otof",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Neden *OTOF?*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "metin": "iç tüy hücresi: otoferlin",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "metin": "dış tüy hücreleri: OAE",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "ic_tuy_hucresi",
+     "cumle": 0
+    },
+    {
+     "parca": "dis_tuy_hucreleri",
+     "cumle": 3
+    },
+    {
+     "parca": "sinir_lifleri",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Otoferlin, iç tüy hücresinin sinapsında nörotransmitter salımı için gerekli bir proteindir.",
+    "Otoferlin genindeki, yani OTOF genindeki iki kopyalı varyantlar doğuştan ağır ya da çok ağır işitme kaybına yol açar.",
+    "Bu tip, DFNB9 olarak adlandırılır ve işitsel nöropati spektrumu dersinde gördüğümüz presinaptik formun örneğidir.",
+    "Dış tüy hücreleri erken dönemde çalıştığı için otoakustik emisyonlar alınabilir; işitsel beyin sapı yanıtı, yani ABR ise alınamaz.",
+    "Koklea ve sinir yapısı büyük ölçüde korunduğu için, eksik proteini yerine koymak işlevi geri getirebilir.",
+    "Tek bir gen, belirli bir hücre ve korunmuş bir yapı; OTOF bu yüzden işitmede gen tedavisinin ilk hedeflerinden biri oldu."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temeller",
+   "baslik": "Uygulama *yolu*",
+   "cizim": "kulak_kesit",
+   "etiketler": [
+    {
+     "parca": "yuvarlak_pencere",
+     "metin": "yuvarlak pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "metin": "koklea",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1
+    },
+    {
+     "parca": "koklea",
+     "cumle": 2
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "yuvarlak_pencere",
+     "cumle": 1,
+     "olcek": 2.3
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "OTOF çalışmalarında vektör, kulak ameliyatıyla doğrudan kokleaya verilir.",
+    "Genel anestezi altında orta kulağa ulaşılır ve ilaç çoğunlukla yuvarlak pencere yoluyla koklea sıvılarına enjekte edilir.",
+    "Kokleanın sıvılarla dolu ve görece kapalı bir yapı olması, verilen dozun büyük kısmının hedefte kalmasına yardım eder.",
+    "Çalışmalarda bazen tek, bazen iki kulak aynı oturumda tedavi edilmiştir.",
+    "İşlem cerrahi bir girişim olduğu için orta kulak ve iç kulak riskleri de dikkatle izlenir.",
+    "Tedavi sonrası takipte ABR, işitsel durağan durum yanıtı, davranışsal odyometri ve konuşma algısı testleri kullanılır."
+   ]
+  },
+  {
+   "id": "ilk",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Klinik çalışmalar",
+   "baslik": "2024: *ilk sonuçlar*",
+   "adimlar": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Katılımcılar",
+     "metin": "Altı çocuk, tek kulak",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Uygulama",
+     "metin": "Kokleaya AAV",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzlem",
+     "metin": "Yirmi altı hafta",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Sonuç",
+     "metin": "Beş çocukta iyileşme",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Güvenlik",
+     "metin": "Ciddi yan etki yok",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "2024 yılının başında Lv ve arkadaşları, Çin'de yürütülen tek kollu bir çalışmanın ilk sonuçlarını Lancet dergisinde yayımladı.",
+     "ses": "2024 yılının başında Lü ve arkadaşları, Çin'de yürütülen tek kollu bir çalışmanın ilk sonuçlarını Lancet dergisinde yayımladı."
+    },
+    "OTOF ilişkili işitme kaybı olan altı çocuğa tek kulaktan AAV ile otoferlin geni verildi.",
+    "Çocuklar yirmi altı hafta boyunca izlendi.",
+    "Başlangıçta ABR eşikleri doksan beş desibelin üzerindeydi; beş çocukta ortalama eşiklerin kırk ile elli yedi desibel düştüğü bildirildi.",
+    "Ciddi yan etki ya da doz sınırlayıcı toksisite görülmedi; yanıt vermeyen bir çocukta vektöre karşı antikorların rolü tartışıldı.",
+    "Bu, doğuştan genetik bir işitme kaybında insanda gen tedavisiyle işitmenin iyileştiğini gösteren ilk yayınlar arasındadır."
+   ]
+  },
+  {
+   "id": "yeni",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Klinik çalışmalar",
+   "baslik": "İki kulak ve *yeni çalışmalar*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "İki kulak",
+     "metin": "Beş çocuk, 2024",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Konuşma ve yön",
+     "metin": "İyileşme bildirildi",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Diğer gruplar",
+     "metin": "Benzer sonuçlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Çok merkezli",
+     "metin": "On iki çocuk, 2025",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "ABD onayı",
+     "metin": "Hızlandırılmış, Nisan 2026",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "2024'te Wang ve arkadaşları, aynı yaklaşımın beş çocukta iki kulağa birlikte uygulandığı çalışmayı Nature Medicine dergisinde yayımladı.",
+     "ses": "2024'te Vang ve arkadaşları, aynı yaklaşımın beş çocukta iki kulağa birlikte uygulandığı çalışmayı Neyçır Medisin dergisinde yayımladı."
+    },
+    "Bütün çocuklarda iki kulakta işitme düzeldi; konuşma algısında ve sesin yönünü bulmada iyileşme bildirildi.",
+    {
+     "yazi": "Aynı yıl Qi ve arkadaşları da otoferlin gen tedavisi uygulanan çocuklarda benzer işitme kazanımları bildirdi.",
+     "ses": "Aynı yıl Çi ve arkadaşları da otoferlin gen tedavisi uygulanan çocuklarda benzer işitme kazanımları bildirdi."
+    },
+    "2025'te ABD ve Avrupa merkezli çok merkezli bir çalışma, on iki çocuğun çoğunda anlamlı işitme iyileşmesi olduğunu bildirdi.",
+    "Bu çalışmaların hepsi erken aşama, açık etiketli ve kontrol grubu olmayan çalışmalardır.",
+    "Nisan 2026'da bu tedavilerden biri ABD'de hızlandırılmış onay aldı; kalıcılığı ve dil gelişimine etkisi hala izlenmektedir."
+   ]
+  },
+  {
+   "id": "okuma",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Klinik çalışmalar",
+   "baslik": "Sonuçları *nasıl okumalıyız?*",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Küçük örneklem",
+     "metin": "Az sayıda çocuk",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Kontrol yok",
+     "metin": "Tek kollu tasarım",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Kısa izlem",
+     "metin": "Kalıcılık bilinmiyor",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Değişken yanıt",
+     "metin": "Herkes yanıt vermiyor",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Güvenlik",
+     "metin": "Uzun dönem belirsiz",
+     "cumle": 4
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Yaş",
+     "metin": "Erken uygulama önemli olabilir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kanıta dayalı okuma derslerinde gördüğümüz soruları burada da sormalıyız: önce örneklem çok küçüktür.",
+    "Çalışmalar tek kolludur; yani tedavi edilmeyen bir karşılaştırma grubu yoktur.",
+    "İzlem süreleri aylar ya da birkaç yıl düzeyindedir; etkinin ömür boyu sürüp sürmeyeceği bilinmemektedir.",
+    "Her çocuk aynı ölçüde yanıt vermemiştir ve bazı çocuklarda işitme normal düzeye ulaşmamıştır.",
+    "Cerrahi işlem ve vektörle ilgili uzun dönem güvenlik verileri henüz sınırlıdır.",
+    "Ayrıca dil gelişimi açısından tedavinin hangi yaşta yapıldığının sonucu etkileyebileceği düşünülmektedir."
+   ]
+  },
+  {
+   "id": "rejenerasyon",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rejenerasyon",
+   "baslik": "Tüy hücresi *rejenerasyonu*",
+   "cizim": "corti",
+   "etiketler": [
+    {
+     "parca": "destek_hucreleri",
+     "metin": "destek hücreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "tuy_hucreleri",
+     "metin": "tüy hücreleri",
+     "cumle": 0
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "tuy_hucreleri",
+     "cumle": 0
+    },
+    {
+     "parca": "destek_hucreleri",
+     "cumle": 1
+    },
+    {
+     "parca": "stereosil",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Gürültü, yaşlanma ya da ototoksik ilaçlar nedeniyle kaybolan tüy hücreleri memelilerde kendiliğinden yenilenmez.",
+    "Kuşlarda ve balıklarda ise tüy hücreleri kaybolduğunda çevredeki destek hücreleri yeni tüy hücrelerine dönüşebilir.",
+    "Bu gözlem, araştırmacıları memeli kokleasındaki destek hücrelerini yeniden tüy hücresine dönüştürmenin yollarını aramaya yöneltti.",
+    "Tüy hücresi rejenerasyonu (hair cell regeneration) gen tedavisinden farklıdır.",
+    "Burada amaç bir geni düzeltmek değil, kaybolan hücreyi yeniden oluşturmaktır.",
+    "Yeni bir tüy hücresinin işe yaraması için doğru yerde olması, stereosillerini oluşturması ve sinire bağlanması gerekir.",
+    "Bu nedenle rejenerasyon, gen tedavisine göre çok daha karmaşık bir hedeftir."
+   ]
+  },
+  {
+   "id": "yaklasim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rejenerasyon",
+   "baslik": "Rejenerasyon *yaklaşımları*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Gen aktarımı",
+     "metin": "Tüy hücresi programı",
+     "cumle": 0
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "İlaçla uyarım",
+     "metin": "Destek hücresini dönüştürme",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Kök hücre",
+     "metin": "Laboratuvarda üretim",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Sinaps onarımı",
+     "metin": "Büyüme etkenleri",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bir yaklaşım, tüy hücresi gelişiminde ana rolü olan bir geni destek hücrelerine aktararak onları tüy hücresine dönüştürmektir.",
+    "Bir diğeri, destek hücrelerindeki sinyal yollarını ilaçlarla etkileyerek aynı dönüşümü sağlamaya çalışır.",
+    "Kök hücrelerden laboratuvarda tüy hücresi benzeri hücreler üretmek de araştırılmaktadır; bu alan daha da erken aşamadadır.",
+    "Sinaptopati dersinde gördüğümüz sinaps kaybını, büyüme etkenleriyle onarmak da hayvan çalışmalarında denenmektedir.",
+    "Bu yaklaşımlarla yapılan ilk insan çalışmalarında yerleşik bir işitme yararı gösterilememiştir.",
+    "Örneğin destek hücrelerini ilaçla uyarmayı hedefleyen bir yaklaşım, ikinci faz çalışmasında plaseboya üstünlük gösterememiştir."
+   ]
+  },
+  {
+   "id": "beklenti",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rejenerasyon",
+   "baslik": "Gerçekçi *beklentiler*",
+   "ogeler": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Belirli genler",
+     "metin": "Her kayıp için değil",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Zaman",
+     "metin": "Yıllar sürecek araştırma",
+     "cumle": 1
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Bugünün seçeneği",
+     "metin": "Cihaz ve implant",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yanlış vaat",
+     "metin": "Sahte tedavilere dikkat",
+     "cumle": 3
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Kanıt",
+     "metin": "Hakemli yayınlar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Gen tedavisi bugün yalnız OTOF gibi belirli tek gen kaynaklı kayıplarda uygulanabilmektedir; çoğu hala klinik çalışma aşamasındadır.",
+    "Diğer genetik tipler ve gürültü ya da yaşa bağlı kayıplar için klinik bir tedavi henüz yoktur; bu araştırmalar yıllar sürebilir.",
+    "Bugün çocuğun dile erişimi için kanıtlanmış seçenekler işitme cihazı ve koklear implanttır; gelecekteki bir tedavi için bunlar ertelenmez.",
+    "Kök hücre ya da gen tedavisi adı altında para karşılığı sunulan kanıtsız uygulamalara karşı aileler uyarılmalıdır.",
+    "Güvenilir bilgi, hakemli dergilerde yayımlanmış ve kayıtlı klinik çalışmalardan gelir.",
+    "Haberlerdeki sağırlık tedavi edildi başlıkları, çoğu zaman küçük ve erken aşama çalışmaları anlatır."
+   ]
+  },
+  {
+   "id": "rol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Rejenerasyon",
+   "baslik": "Odyoloğun *rolü*",
+   "adimlar": [
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetik tanı",
+     "metin": "Genetik danışmaya yönlendir",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Doğru bilgi",
+     "metin": "Umut ve gerçek dengesi",
+     "cumle": 2
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Gecikme yok",
+     "metin": "Bugünün müdahalesi",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Ölçüm",
+     "metin": "Araştırmada değerlendirme",
+     "cumle": 4
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzlem",
+     "metin": "Uzun dönem sonuç",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Odyoloğun ilk rolü, nedeni bilinmeyen kalıcı kayıpta aileyi genetik değerlendirme ve danışmanlığa yönlendirmektir.",
+    "Genetik tanı, gelecekte ortaya çıkacak seçeneklerin de anahtarıdır.",
+    "Aile gen tedavisini sorduğunda umut ile gerçek arasındaki dengeyi koruyan, anlaşılır ve doğru bilgi verilir.",
+    "Hiçbir araştırma, bugün kanıtlanmış olan cihaz ya da implant uygulamasını geciktirmenin gerekçesi olmamalıdır.",
+    "Klinik çalışmalarda işitmeyi ve konuşma algısını çoğu zaman odyolog ölçer; standart ve dikkatli ölçüm sonucun güvenilirliğini belirler.",
+    "Tedavi edilen çocukların uzun dönem izlemi de odyolojik takibin önemli bir parçası olacaktır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Aile bir gen tedavisi haberi getirdiğinde haberi küçümsemeyin; yayını birlikte inceleyin ve bugünkü müdahaleyi geciktirmemenin önemini anlatın.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: aile size bir gen tedavisi haberi getirdiğinde haberi küçümsemeyin.",
+    "Haberin dayandığı yayını ve hangi genetik tip için yapıldığını birlikte inceleyin.",
+    "Çocuğun genetik tanısı biliniyorsa bu tipin araştırılıp araştırılmadığını açıkça söyleyin.",
+    "Son olarak bugünkü cihaz ya da implant planının neden ertelenmemesi gerektiğini, dil gelişimi üzerinden anlatın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "AAV ile gen ekleme: OTOF ilk hedef",
+     "cumle": 0,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "2024 çalışmaları: çoğu çocukta iyileşme",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Küçük, kontrolsüz, erken aşama kanıt",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Rejenerasyon daha erken aşamada",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "OTOF ilişkili kayıpta otoferlin geni AAV vektörüyle, iki parça halinde ve kokleaya doğrudan verilmektedir.",
+    "2024'ten bu yana yayımlanan çalışmalarda tedavi edilen çocukların çoğunda işitme ve konuşma algısında iyileşme bildirilmiştir.",
+    "Çalışmalar küçük, kontrol grubu olmayan ve kısa izlemli erken aşama çalışmalardır; ilk onay da uzun dönem izleme bağlıdır.",
+    "Tüy hücresi rejenerasyonu ise insanda henüz kanıtlanmış bir yarar göstermemiştir; bugünün seçenekleri ertelenmez."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Neden iki AAV?",
+   "secenekler": [
+    "Etkiyi iki katına çıkarmak",
+    "Gen tek AAV için büyük",
+    "İki kulak için",
+    "Bağışıklığı azaltmak"
+   ],
+   "dogru": 1,
+   "aciklama": "Otoferlin geninin kodlayan dizisi _AAV'nin taşıma kapasitesinden büyüktür_; bu yüzden iki parçaya bölünür.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: OTOF gen tedavisinde gen neden iki ayrı AAV vektörüyle verilir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: gen, tek bir AAV'nin taşıyabileceğinden büyüktür.",
+    "Parçalar hücre içinde birleşerek tam otoferlin proteinini oluşturur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Sağır kültürü ve *dilsel çeşitlilik*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste Sağır kültürünü, tıbbi ve kültürel modeli ve dilsel çeşitliliği ele alacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,698 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D204_BPPV_TR",
+ "kapak": {
+  "ust": "DERS 204",
+  "baslik": "*BPPV*<br>nedir?",
+  "alt": "Kulak taşları ve pozisyonel vertigo",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "BPPV: benign paroksismal pozisyonel vertigo | Ders 204 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "BPPV nedir, kulak taşları nasıl baş dönmesine yol açar? Bu derste kanalolitiazis ve kupulolitiazis mekanizmalarını, en sık posterior kanal tutulumunu, Dix-Hallpike testinde görülen yukarı vuran torsiyonel nistagmusu ve merkezi nedenleri düşündüren uyarı bulgularını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Jacobson ve Shepard, Balance Function Assessment and Management; Bhattacharyya ve ark., Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update), Otolaryngology-Head and Neck Surgery (2017); von Brevern ve ark., Benign paroxysmal positional vertigo: Diagnostic criteria, Journal of Vestibular Research (2015); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "BPPV",
+   "vertigo"
+  ],
+  "etiketler": [
+   "BPPV",
+   "benign paroksismal pozisyonel vertigo",
+   "kanalolitiazis",
+   "kupulolitiazis",
+   "Dix-Hallpike",
+   "nistagmus",
+   "kulak taşı",
+   "vestibüler",
+   "baş dönmesi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 204",
+   "baslik": "*BPPV*: pozisyonel vertigo",
+   "alt": "Benign paroksismal pozisyonel vertigo",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste en sık görülen vestibüler bozukluk olan BPPV'yi, yani benign paroksismal pozisyonel vertigoyu öğreneceğiz.",
+    "Mekanizmasını, hangi kanalın tutulduğunu ve pozisyonel testlerde gördüğümüz nistagmus özelliklerini ele alacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "BPPV nedir?",
+   "baslik": "Adı ne *anlatır?*",
+   "maddeler": [
+    {
+     "metin": "_Benign_: iyi huylu",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "_Paroksismal_: ani ve kısa ataklar",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "_Pozisyonel_: baş konumuyla tetiklenir",
+     "cumle": 2,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Vertigo_: dönme hissi",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SIKLIK",
+    "metin": "Ömür boyu görülme sıklığı yaklaşık *yüzde 2,4*",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Benign sözcüğü iyi huylu demektir; yani tablo yaşamı tehdit eden bir hastalık değildir.",
+    "Paroksismal, ani başlayan ve kısa süren ataklar anlamına gelir.",
+    "Pozisyonel, atakların başın yerçekimine göre konum değiştirmesiyle tetiklendiğini anlatır.",
+    "Vertigo ise kişinin kendisinin ya da çevrenin döndüğü yanılsamasıdır.",
+    "BPPV, periferik vestibüler vertigonun en sık nedenidir.",
+    {
+     "yazi": "Toplum çalışmalarında ömür boyu görülme sıklığı yaklaşık yüzde 2,4 olarak bildirilmiştir.",
+     "ses": "Toplum çalışmalarında ömür boyu görülme sıklığı yaklaşık yüzde iki virgül dört olarak bildirilmiştir."
+    },
+    "Kadınlarda daha sık görülür ve görülme sıklığı yaşla birlikte artar."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "BPPV nedir?",
+   "baslik": "Tipik *öykü*",
+   "maddeler": [
+    {
+     "metin": "Yatakta dönerken, yatarken, kalkarken",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Yukarı bakma, öne eğilme",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Saniyeler süren dönme",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Bulantı, ataklar arası dengesizlik",
+     "cumle": 3,
+     "ikon": "denge"
+    },
+    {
+     "metin": "BPPV işitmeyi _etkilemez_",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Tipik öyküde kişi, yatakta bir yana dönerken, yatarken ya da yataktan kalkarken başlayan şiddetli bir dönme anlatır.",
+    "Yukarıdaki rafa bakmak ya da yerden bir şey almak için öne eğilmek de atağı tetikleyebilir.",
+    "Dönme hissi kısa sürer; genellikle saniyeler içinde, bir dakikadan önce geçer.",
+    "Atağa bulantı eşlik edebilir; ataklar arasında da hafif bir dengesizlik hissi kalabilir.",
+    "Kişi çoğu zaman hangi yana döndüğünde başının döndüğünü net biçimde tarif eder.",
+    "BPPV'nin kendisi işitme kaybı ya da çınlama yapmaz; bunlar varsa eşlik eden başka bir kulak sorunu düşünülür.",
+    "Bazı kişiler atakların özellikle sabah, yataktan ilk kalkışta daha belirgin olduğunu anlatır."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "BPPV nedir?",
+   "baslik": "Nedenler ve *risk etkenleri*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "İdiyopatik",
+     "metin": "Çoğunlukla neden bulunmaz",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Kafa travması",
+     "metin": "En sık ikincil neden",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "İç kulak hastalığı",
+     "metin": "Vestibüler nörit, Meniere",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Yatak istirahati",
+     "metin": "Uzun süre yatakta kalmak",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "İleri yaş",
+     "metin": "Kemik metabolizması ilişkisi",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "BPPV'lerin çoğunda belirgin bir neden bulunamaz; bunlara idiyopatik BPPV denir.",
+    "İkincil nedenler arasında en sık sayılan kafa travmasıdır.",
+    "Vestibüler nörit ve Meniere hastalığı gibi iç kulak hastalıklarından sonra da BPPV gelişebilir.",
+    "Uzun süre yatakta kalmak ve baş hareketlerinin kısıtlanması da risk etkenleri arasında sayılır.",
+    "İleri yaş, osteoporoz ve düşük D vitamini düzeyi ile BPPV arasında ilişki bildiren çalışmalar vardır.",
+    "Bu ilişkiler gözlemseldir; her biri tek başına BPPV'nin nedeni olarak kabul edilmez."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Mekanizma",
+   "baslik": "Kulak taşları *yerinden* oynarsa",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "utrikül",
+     "cumle": 0
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "metin": "yarım daire kanalları",
+     "cumle": 3
+    },
+    {
+     "parca": "ampulla",
+     "metin": "ampulla ve kupula",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 1
+    },
+    {
+     "parca": "yarim_daire_kanallari",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Otokonya utrikülden kopar",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Taşlar kanala girer",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Kupula yanlış uyarılır",
+     "cumle": 6,
+     "ikon": "bas_donmesi"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "utrikul",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 5,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "BPPV'yi anlamak için vestibüler organın iki bölümüne bakalım: utrikül ve yarım daire kanalları.",
+    "Utrikülün duyu bölgesinde, otokonya, yani kulak taşları denilen küçük kalsiyum karbonat kristalleri bulunur.",
+    "Bu kristaller yaş, travma ya da bir iç kulak hastalığı sonucunda yerinden kopabilir.",
+    "Kopan kristaller, baş belirli konumlara geldiğinde utrikülden yarım daire kanallarından birinin içine girebilir.",
+    "Yarım daire kanalları normalde yerçekimine değil, başın dönme hareketlerine duyarlıdır.",
+    "Her kanalın tabanındaki genişlemeye ampulla, içindeki jelatinimsi yapıya ise kupula denir.",
+    "Kanala giren kristaller, baş durduğu halde kupulayı yerçekimiyle saptırır ve beyne yanlış bir dönme sinyali gider.",
+    "İşte bu yanlış sinyal, hem vertigoya hem de gözlerde nistagmusa yol açar."
+   ]
+  },
+  {
+   "id": "iki_mekanizma",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Mekanizma",
+   "baslik": "Kanalolitiazis ve *kupulolitiazis*",
+   "sol": {
+    "ust": "Kanalolitiazis",
+    "maddeler": [
+     {
+      "metin": "Taşlar kanalda serbest",
+      "cumle": 0
+     },
+     {
+      "metin": "Kısa latanstan sonra başlar",
+      "cumle": 2
+     },
+     {
+      "metin": "Bir dakikadan kısa sürer",
+      "cumle": 3
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Kupulolitiazis",
+    "maddeler": [
+     {
+      "metin": "Taşlar kupulaya yapışık",
+      "cumle": 4
+     },
+     {
+      "metin": "Latans kısa ya da yok",
+      "cumle": 5
+     },
+     {
+      "metin": "Konum sürdükçe devam eder",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "En sık mekanizma kanalolitiazis (canalithiasis) tablosudur: kristaller kanal sıvısı içinde serbestçe yüzer.",
+    "Baş konum değiştirince kristaller yerçekimiyle kanal boyunca kayar ve sıvıyı sürükleyerek kupulayı saptırır.",
+    "Kristallerin harekete geçmesi biraz zaman aldığı için nistagmus birkaç saniyelik bir latanstan sonra başlar.",
+    "Kristaller kanalın en alt noktasına yerleşince sıvı durur; bu yüzden nistagmus genellikle bir dakikadan kısa sürer.",
+    "Daha seyrek görülen kupulolitiazis (cupulolithiasis) tablosunda kristaller doğrudan kupulaya yapışıktır.",
+    "Bu durumda kupula ağırlaşır ve baş konum değiştirir değiştirmez, latans olmadan ya da çok kısa bir latansla sapar.",
+    "Baş o konumda kaldıkça kupula sapmış kalır; bu yüzden nistagmus bir dakikadan uzun sürebilir."
+   ]
+  },
+  {
+   "id": "kanallar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Mekanizma",
+   "baslik": "Hangi *kanal?*",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "posterior_kanal",
+     "metin": "Posterior: yüzde 85 ile 95",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_kanal",
+     "metin": "Lateral: yüzde 5 ile 15",
+     "cumle": 3
+    },
+    {
+     "parca": "superior_kanal",
+     "metin": "Anterior: nadir",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "posterior_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_kanal",
+     "cumle": 3
+    },
+    {
+     "parca": "superior_kanal",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Posterior: Dix-Hallpike",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Lateral: sırtüstü baş çevirme",
+     "cumle": 4,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Aşağı vuran nistagmusta dikkat",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "BPPV üç yarım daire kanalının herhangi birinde görülebilir, ama sıklıkları çok farklıdır.",
+    "En sık tutulan posterior kanaldır; olguların yaklaşık yüzde 85 ile 95'inde bu kanal sorumludur.",
+    "Bunun nedeni, posterior kanalın ayakta ve yatarken iç kulağın en alt kısmında yer almasıdır; kristaller oraya kolayca düşer.",
+    "İkinci sırada lateral, yani horizontal kanal gelir; oranı yaklaşık yüzde 5 ile 15 arasında bildirilir.",
+    "Lateral kanal tutulumu sırtüstü yatarken başın sağa ve sola çevrildiği testle değerlendirilir.",
+    "Anterior kanal tutulumu ise nadirdir; aşağı vuran bir nistagmus görüldüğünde merkezi nedenlerden ayırmak özellikle önemlidir.",
+    "Bazı kişilerde birden fazla kanal aynı anda tutulabilir; özellikle kafa travması sonrasında bu olasılık artar."
+   ]
+  },
+  {
+   "id": "dix",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Pozisyonel test bulguları",
+   "baslik": "*Dix-Hallpike* testi",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Oturur konum",
+     "metin": "Baş 45 derece test yanına",
+     "cumle": 1
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Hızla sırtüstü",
+     "metin": "Baş hafif geride",
+     "cumle": 2
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Gözlem",
+     "metin": "En az 30 saniye",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Oturur konuma",
+     "metin": "Yavaşça, gözler yeniden izlenir",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Posterior kanal BPPV'sinin temel tanı testi Dix-Hallpike testidir.",
+    "Hasta muayene masasında oturur ve başı test edilen kulak tarafına doğru yaklaşık 45 derece çevrilir.",
+    "Ardından hasta hızla sırtüstü yatırılır; baş, masanın kenarından yaklaşık 20 derece aşağı sarkacak biçimde desteklenir.",
+    "Bu konumda gözler en az 30 saniye boyunca nistagmus ve vertigo açısından izlenir.",
+    "Bu manevra, test edilen taraftaki posterior kanalı yerçekimi düzlemine getirir ve kristallerin hareket etmesini sağlar.",
+    "Ardından hasta yavaşça oturur konuma getirilir ve gözler yeniden izlenir.",
+    "Test her iki taraf için ayrı ayrı yapılır; nistagmusun görüldüğü alt taraftaki kulak, tutulan kulak olarak kabul edilir."
+   ]
+  },
+  {
+   "id": "nistagmus",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Pozisyonel test bulguları",
+   "baslik": "Posterior kanal *nistagmusu*",
+   "sutunlar": [
+    "Özellik",
+    "Tipik bulgu"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Yön",
+      "Yukarı vuran, torsiyonel"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Latans",
+      "Birkaç saniye"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Süre",
+      "Bir dakikadan kısa"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "Seyir",
+      "Artıp azalan"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Tekrarda",
+      "Zayıflar, yorulur"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Oturunca",
+      "Yön tersine döner"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Posterior kanal kanalolitiazisinde nistagmus yukarı vuran ve torsiyonel, yani dönme bileşenli bir nistagmustur.",
+    "Torsiyonel bileşende gözün üst kutbu, alttaki yani tutulan kulağa doğru vurur.",
+    "Nistagmus, baş test konumuna geldikten birkaç saniye sonra başlar; buna latans denir.",
+    "Süresi kısadır; genellikle bir dakikadan önce sona erer.",
+    "Şiddeti önce artar, sonra azalır; hasta da dönme hissini bu seyirle birlikte yaşar.",
+    "Test hemen tekrarlanırsa nistagmus genellikle zayıflar; bu özelliğe yorulma denir.",
+    "Hasta oturur konuma getirildiğinde, nistagmus çoğu zaman ters yönde ve daha zayıf olarak yeniden görülebilir."
+   ]
+  },
+  {
+   "id": "lateral",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Pozisyonel test bulguları",
+   "baslik": "Lateral kanal *nistagmusu*",
+   "sol": {
+    "ust": "Geotropik",
+    "maddeler": [
+     {
+      "metin": "Yere doğru vurur",
+      "cumle": 2
+     },
+     {
+      "metin": "Çoğunlukla kanalolitiazis",
+      "cumle": 3
+     },
+     {
+      "metin": "Güçlü taraf: tutulan kulak",
+      "cumle": 4
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Apogeotropik",
+    "maddeler": [
+     {
+      "metin": "Yerden uzağa vurur",
+      "cumle": 5
+     },
+     {
+      "metin": "Çoğunlukla kupulolitiazis",
+      "cumle": 5
+     },
+     {
+      "metin": "Zayıf taraf: tutulan kulak",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "Lateral kanal için hasta sırtüstü yatırılır ve başı önce bir yana, sonra diğer yana yaklaşık 90 derece çevrilir.",
+    "Lateral kanal tutulumunda nistagmus yataydır ve başın çevrildiği yöne göre yön değiştirir.",
+    "Her iki yanda da yere doğru vuran nistagmusa geotropik nistagmus denir.",
+    "Geotropik nistagmus çoğunlukla lateral kanalda kanalolitiazisi düşündürür.",
+    "Bu durumda nistagmusun daha güçlü olduğu taraf, genellikle tutulan kulaktır.",
+    "Her iki yanda da yerden uzağa vuran nistagmusa apogeotropik nistagmus denir ve çoğunlukla kupulolitiazisi düşündürür.",
+    "Apogeotropik tipte ise nistagmusun daha zayıf olduğu taraf genellikle tutulan kulaktır."
+   ]
+  },
+  {
+   "id": "kirmizi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uyarı bulguları ve seyir",
+   "baslik": "Merkezi nedeni *düşündüren* bulgular",
+   "maddeler": [
+    {
+     "metin": "Torsiyonsuz, saf aşağı vuran nistagmus",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Latans yok, yorulma yok",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Kanal düzlemine uymayan yön",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Çift görme, konuşma ya da yürüme bozukluğu",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "YÖNLENDİR",
+    "metin": "Uyarı bulgusu varsa *hekim değerlendirmesi* gerekir",
+    "cumle": 5
+   },
+   "cumleler": [
+    "Pozisyonel nistagmusun her zaman BPPV olmadığını unutmamak gerekir; bazı merkezi sinir sistemi sorunları da benzer görünebilir.",
+    "Torsiyonel bileşeni olmayan, saf aşağı vuran bir pozisyonel nistagmus merkezi bir nedeni düşündürebilir.",
+    "Latans olmadan başlayan, yorulmayan ve konum sürdükçe devam eden nistagmus da dikkat gerektirir.",
+    "Nistagmusun yönü uyarılan kanalın düzlemiyle uyumlu değilse, tablo tipik BPPV ile açıklanamaz.",
+    "Çift görme, konuşma bozukluğu, yürüme dengesizliği ya da yeni başlayan şiddetli baş ağrısı da uyarı bulgularıdır.",
+    "Bu bulgulardan biri varsa, kişinin vakit kaybetmeden hekim değerlendirmesine yönlendirilmesi gerekir."
+   ]
+  },
+  {
+   "id": "seyir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Uyarı bulguları ve seyir",
+   "baslik": "Doğal seyir ve *yineleme*",
+   "maddeler": [
+    {
+     "metin": "Kendiliğinden düzelebilir",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Yineleme _sık_ görülür",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Yaşlıda düşme riski",
+     "cumle": 2,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Tedavi: repozisyon manevraları",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "cumleler": [
+    "BPPV'nin önemli bir bölümü haftalar içinde kendiliğinden düzelebilir.",
+    "Ancak yineleme sık görülür; kişi yıllar içinde yeni ataklar yaşayabilir.",
+    "Yaşlı bireylerde tedavi edilmemiş BPPV, dengesizlik ve düşme riskiyle ilişkilidir.",
+    "Bu yüzden tipik öyküsü olan kişilerde pozisyonel testlerin yapılması önemlidir.",
+    "BPPV'de temel yaklaşım, kristalleri kanaldan çıkarmayı amaçlayan repozisyon manevralarıdır; bunu bir sonraki dersin konusu yapacağız.",
+    "Ataklardan çekinen kişi baş hareketlerinden kaçınabilir; bu kaçınma da dengesizlik hissinin uzamasına katkıda bulunabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Testi Frenzel ya da video gözlükle yapın; fiksasyon kalkınca torsiyonel nistagmus daha iyi görülür. Boyun kısıtlılığında yan yatırma testi kullanılabilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: pozisyonel testleri mümkünse Frenzel ya da video gözlükle yapın.",
+    "Görsel fiksasyon kalktığında nistagmus baskılanmaz; özellikle torsiyonel bileşen çok daha kolay görülür.",
+    "Video kaydı, kısa süren nistagmusun yönünü sonradan yavaşça izleyerek doğrulamanızı da sağlar.",
+    "Boyun hareketleri kısıtlı ya da ağrılı olan kişilerde Dix-Hallpike yerine yan yatırma testi kullanılabilir.",
+    "Testten önce boyun ve sırt sorunlarını sorgulamak, hem hasta güvenliği hem de test kalitesi için önemlidir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kopan otokonya kanala girer",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kanalolitiazis kısa, kupulolitiazis uzun",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "En sık posterior kanal",
+     "cumle": 2,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Yukarı vuran torsiyonel, latanslı, kısa",
+     "cumle": 3,
+     "ikon": "goz"
+    }
+   ],
+   "cumleler": [
+    "Bu derste BPPV'de utrikülden kopan otokonyanın yarım daire kanalına girdiğini gördük.",
+    "Kanalolitiaziste nistagmus latanslı ve kısa, kupulolitiaziste ise latanssız ve daha uzundur.",
+    "En sık tutulan kanal posterior kanaldır ve Dix-Hallpike testiyle değerlendirilir.",
+    "Tipik bulgu, birkaç saniyelik latansla başlayan, bir dakikadan kısa süren, yukarı vuran torsiyonel nistagmustur."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Posterior kanal kanalolitiazisinde tipik nistagmus hangisidir?",
+   "secenekler": [
+    "Saf aşağı vuran, latanssız",
+    "Yukarı vuran torsiyonel, kısa",
+    "Yatay, dakikalarca süren",
+    "Nistagmus görülmez"
+   ],
+   "dogru": 1,
+   "aciklama": "Latanslı, _yukarı vuran torsiyonel_, bir dakikadan kısa nistagmus.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: posterior kanal kanalolitiazisinde Dix-Hallpike testinde tipik nistagmus hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yukarı vuran, torsiyonel ve kısa süren nistagmus.",
+    "Nistagmus birkaç saniyelik latansla başlar, bir dakikadan kısa sürer ve tekrarda yorulur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "BPPV repozisyon manevraları: *Epley*, Semont, Gufoni",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste posterior ve lateral kanal için kullanılan repozisyon manevralarını inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

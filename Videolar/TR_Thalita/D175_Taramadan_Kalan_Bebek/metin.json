@@ -1,0 +1,657 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D175_Taramadan_Kalan_Bebek_TR",
+ "kapak": {
+  "ust": "DERS 175",
+  "baslik": "Taramadan<br>*kalan* bebek",
+  "alt": "Tanı süreci ve takip kaybı",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Taramadan kalan bebek: tanı süreci ve takip kaybı | Ders 175 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Yenidoğan taramasından kalan bebek ne zaman ve hangi testlerle değerlendirilir? Bu derste tanı merkezine yönlendirmeyi, tanısal test bataryasını, olası sonuçları ve takip kaybını azaltmanın yollarını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Joint Committee on Infant Hearing, Year 2019 Position Statement: Principles and Guidelines for Early Hearing Detection and Intervention Programs; Joint Committee on Infant Hearing, Year 2007 Position Statement; Centers for Disease Control and Prevention, 2020 Summary of National CDC EHDI Data; British Society of Audiology, Recommended Procedure: Tympanometry; Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "yenidoğantaraması",
+   "pediatrikodyoloji"
+  ],
+  "etiketler": [
+   "taramadan kalan bebek",
+   "refer",
+   "tanısal odyolojik değerlendirme",
+   "diagnostic audiological evaluation",
+   "takip kaybı",
+   "loss to follow-up",
+   "frekansa özgü ABR",
+   "1000 Hz timpanometri",
+   "yönlendirme",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 175",
+   "baslik": "Taramadan *kalan* bebek",
+   "alt": "Tanı süreci ve takip kaybı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste taramadan kalan bir bebeğin tanı merkezine nasıl yönlendirildiğini ve tanısal değerlendirmenin nelerden oluştuğunu öğreneceğiz.",
+    "Ardından tarama programlarının en büyük sorunlarından biri olan takip kaybını ve onu azaltmanın yollarını göreceğiz."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yönlendirme",
+   "baslik": "Kaldı sonucundan *tanıya*",
+   "adimlar": [
+    {
+     "ikon": "uyari",
+     "baslik": "Kaldı sonucu",
+     "cumle": 0,
+     "metin": "Aileye açık bilgi"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Randevu",
+     "cumle": 2,
+     "metin": "Taburculuk öncesi verilir"
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tanı merkezi",
+     "cumle": 3,
+     "metin": "Pediatrik odyoloji"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tanısal test",
+     "cumle": 4,
+     "metin": "Kulağa ve frekansa özgü"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Sonuç ve plan",
+     "cumle": 6,
+     "metin": "Aile ve hekim bilgilenir"
+    }
+   ],
+   "cumleler": [
+    "Yeniden taramadan da kalan bebek için ilk adım, sonucun aileye açık ve sakin biçimde anlatılmasıdır.",
+    "Kaldı sonucunun bir tanı olmadığı, ama ileri değerlendirmenin gerekli ve acil olduğu birlikte vurgulanır.",
+    "Tanı randevusu mümkünse aile hastaneden ayrılmadan verilir ve yazılı olarak teslim edilir.",
+    "Bebek, pediatrik değerlendirme deneyimi ve donanımı olan bir odyoloji birimine yönlendirilir.",
+    "Tanısal değerlendirmenin amacı, her kulak için kaybın varlığını, tipini ve derecesini frekansa özgü olarak belirlemektir.",
+    {
+     "yazi": "Bebek İşitmesi Ortak Komitesine göre tanı, 1-3-6 hedefinde 3. ayın, 1-2-3 hedefinde 2. ayın sonuna kadar konmalıdır.",
+     "ses": "Bebek İşitmesi Ortak Komitesine göre tanı, bir, üç, altı hedefinde üçüncü ayın, bir, iki, üç hedefinde ikinci ayın sonuna kadar konmalıdır."
+    },
+    "Sonuç, aileye ve bebeğin hekimine yazılı olarak bildirilir; kayıt sistemi de güncellenir."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yönlendirme",
+   "baslik": "Zamanlama *neden önemli?*",
+   "maddeler": [
+    {
+     "metin": "İlk aylarda doğal uykuda test",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Sonrasında sedasyon gerekebilir",
+     "cumle": 2,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "CMV testi ilk üç haftada",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Erken tanı, erken müdahale",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Doğal uyku",
+      "cumle": 0,
+      "metin": "İlk aylarda kolay"
+     },
+     {
+      "ikon": "laboratuvar",
+      "baslik": "CMV",
+      "cumle": 3,
+      "metin": "İlk üç hafta"
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Müdahale",
+      "cumle": 5,
+      "metin": "Gecikmeden başlar"
+     }
+    ],
+    "ust": "ZAMAN"
+   },
+   "cumleler": [
+    "Tanısal işitsel beyin sapı yanıtı, kısaca ABR, ilk birkaç ayda çoğu zaman bebek doğal uykudayken, ilaç kullanmadan yapılabilir.",
+    "Beslenmeden hemen sonra uyuyan küçük bir bebekte uzun ve temiz bir kayıt almak görece kolaydır.",
+    "Bebek büyüdükçe bu zorlaşır ve genellikle altı aydan sonra sedasyon gerekebilir; sedasyon kararı hekime aittir.",
+    "Doğumsal sitomegalovirüs, kısaca CMV testinin anlamlı olması için örneğin yaşamın ilk üç haftası içinde alınması gerekir.",
+    "Bu nedenle taramadan kalan bebeğin hekim değerlendirmesi de gecikmeden planlanır.",
+    "Hepsinden önemlisi, tanının gecikmesi cihaz uygulamasını ve erken müdahaleyi de geciktirir.",
+    "Bu yüzden tanı randevusu, ailenin uygunluğu kadar bu zaman pencereleri de düşünülerek verilir."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal değerlendirme",
+   "baslik": "Tanısal test *bataryası*",
+   "ogeler": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Öykü ve otoskopi",
+     "cumle": 0,
+     "metin": "Risk, aile öyküsü"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Frekansa özgü ABR",
+     "cumle": 2,
+     "metin": "Hava ve kemik yolu"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Klik ABR",
+     "cumle": 4,
+     "metin": "Yüksek şiddet, iki polarite"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OAE",
+     "cumle": 5,
+     "metin": "Dış tüy hücresi işlevi"
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "1000 Hz timpanometri",
+     "cumle": 6,
+     "metin": "Orta kulak durumu"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Akustik refleks",
+     "cumle": 7,
+     "metin": "Tamamlayıcı bilgi"
+    }
+   ],
+   "cumleler": [
+    "Tanısal değerlendirme tek bir test değil, birbirini kontrol eden bir test bataryasıdır.",
+    "Ayrıntılı öykü, risk göstergelerinin ve aile öyküsünün sorgulanması ve otoskopi ile başlanır.",
+    "Bataryanın merkezinde, eşikleri tahmin etmek için frekansa özgü ABR bulunur.",
+    "Hava yolunda kayıp saptanırsa kemik yolu ABR, kaybın tipini ayırt etmeye yardım eder.",
+    "Yüksek şiddette iki polaritede alınan klik ABR, koklear mikrofoniği ve işitsel nöropati bulgularını değerlendirmek için kullanılır.",
+    "Otoakustik emisyon, kısaca OAE, dış tüy hücresi işlevi hakkında bilgi verir ve ABR ile birlikte yorumlanır.",
+    "Bin hertzlik prob tonuyla yapılan timpanometri, orta kulak durumunu gösterir.",
+    "Akustik refleks ölçümü de bataryaya eklenebilecek tamamlayıcı bir bilgidir."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal değerlendirme",
+   "baslik": "Frekansa özgü *ABR*",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "dalga V",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Frekansa özgü eşik",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "nHL'den eHL'ye",
+     "cumle": 3,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Cihaz uygulamasının temeli",
+     "cumle": 5,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Tanının temeli olan frekansa özgü ABR'de klik yerine kısa ton uyaranları, yani tonburstler kullanılır.",
+    "Böylece 500, 1000, 2000 ve 4000 Hz için ayrı ayrı eşik tahmini yapılabilir.",
+    {
+     "yazi": "Her frekansta şiddet azaltılarak dalga V'in hala izlenebildiği en düşük düzey aranır.",
+     "ses": "Her frekansta şiddet azaltılarak beşinci dalganın hala izlenebildiği en düşük düzey aranır."
+    },
+    "Normalize işitme düzeyinde, yani nHL olarak bulunan eşikler, frekansa özgü düzeltmelerle tahmini işitme düzeyine, yani eHL'ye çevrilir.",
+    "Bebek uyanmadan önce en çok bilgiyi almak için önce her kulakta 2000 Hz, sonra 500 Hz test edilebilir.",
+    "Bu bilgiler, ileride yapılacak cihaz uygulamasının da temelidir; reçete formülleri bu eşiklerle hesaplanır.",
+    "Yöntemin ayrıntılarını eşik ABR dersinde görmüştük; burada tanı sürecindeki yerine odaklanıyoruz."
+   ]
+  },
+  {
+   "id": "timp",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal değerlendirme",
+   "baslik": "Orta kulak: *1000 Hz*",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 2
+   },
+   "etiketler": [
+    {
+     "parca": "prob",
+     "metin": "1000 Hz prob",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "metin": "orta kulak",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 3
+    },
+    {
+     "parca": "koklea",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Taramadan kalan bebeklerin bir kısmında sorunun nedeni orta kulaktaki sıvıdır.",
+    "Altı aydan küçük bebeklerde iki yüz yirmi altı hertzlik prob tonu, sıvılı bir kulakta bile normal görünen bir eğri verebilir.",
+    "Bu yüzden bu yaş grubunda bin hertzlik prob tonuyla timpanometri yapılır.",
+    "Orta kulakta sıvı bulgusu, OAE yokluğunu ve ABR'de hava yolu eşiklerinin yükselmesini açıklayabilir.",
+    "Ancak sıvının altında ayrıca sensörinöral bir kayıp da bulunabilir; bu yüzden kemik yolu ABR ve izlem önemlidir.",
+    "Sıvı bulgusu olan bebek hekim değerlendirmesine yönlendirilir ve sıvı geçtikten sonra yeniden test edilir."
+   ]
+  },
+  {
+   "id": "sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sonuçlar",
+   "baslik": "Olası *sonuçlar*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Normal işitme",
+     "cumle": 0,
+     "metin": "Gelişim izlenir"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Geçici iletim",
+     "cumle": 2,
+     "metin": "Sıvı, izlem gerekir"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kalıcı kayıp",
+     "cumle": 4,
+     "metin": "Sensörinöral ya da kalıcı iletim"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ANSD",
+     "cumle": 5,
+     "metin": "OAE var, ABR yok"
+    }
+   ],
+   "cumleler": [
+    "Tanısal değerlendirmenin sonunda dört olası tabloyla karşılaşabiliriz.",
+    "Birincisi normal işitmedir; bu bebeklerin ailesi, gelişimi izlemeleri ve risk varsa planlı izlem konusunda bilgilendirilir.",
+    "İkincisi orta kulak sıvısına bağlı geçici bir iletim tipi kayıptır.",
+    "Bu bebekler sıvı geçtikten sonra yeniden değerlendirilir; sorun sürerse kalıcı kayıp ayrıca araştırılır.",
+    "Üçüncüsü kalıcı bir kayıptır; bu çoğunlukla sensörinöral, bazen dış kulak anomalisine bağlı kalıcı iletim tipidir.",
+    "Dördüncüsü, OAE ya da koklear mikrofoniğin var, ABR'nin ise yok ya da bozuk olduğu işitsel nöropati spektrum bozukluğu, kısaca ANSD'dir.",
+    "Kalıcı kayıp ya da ANSD saptanan bebek, hekim değerlendirmesine ve erken müdahale sürecine gecikmeden yönlendirilir."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Takip kaybı",
+   "baslik": "Takip kaybı *nedir?*",
+   "maddeler": [
+    {
+     "metin": "Kalan bebek tanıya _ulaşmıyor_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ya da sonuç kayda geçmiyor",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "ABD 2020: yaklaşık _yüzde 30_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Gecikmiş tanı, gecikmiş müdahale",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 3,
+    "ayar": {
+     "x": {
+      "min": 0.4,
+      "max": 2.6,
+      "isaretler": [
+       1,
+       2
+      ],
+      "yazilar": {
+       "1": "Tanı belgelendi",
+       "2": "Takip kaybı"
+      },
+      "ad": "ABD, 2020"
+     },
+     "y": {
+      "min": 0,
+      "max": 80,
+      "adim": 20,
+      "ad": "Kalan bebekler (%)"
+     },
+     "seriler": [
+      {
+       "ad": "belgelendi",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         1,
+         60
+        ]
+       ],
+       "renk": "mavi",
+       "genislik": 0.5,
+       "cumle": 3
+      },
+      {
+       "ad": "takip_kaybi",
+       "tur": "cubuk",
+       "noktalar": [
+        [
+         2,
+         30
+        ]
+       ],
+       "renk": "kirmizi",
+       "genislik": 0.5,
+       "cumle": 3
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "takip_kaybi",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Takip kaybı (loss to follow-up), taramadan kalan bebeğin tanısal değerlendirmeye hiç ulaşmamasıdır.",
+    "Değerlendirme yapılmış ama sonucu programa bildirilmemişse buna belge kaybı (loss to documentation) denir.",
+    "İkisi de programın gözünden bakıldığında aynı sonucu doğurur: bebeğin durumu bilinmez.",
+    {
+     "yazi": "ABD Hastalık Kontrol Merkezlerinin 2020 verilerinde, taramadan kalan bebeklerin yaklaşık yüzde 30'u takip ya da belge kaybıydı.",
+     "ses": "ABD Hastalık Kontrol Merkezlerinin iki bin yirmi verilerinde, taramadan kalan bebeklerin yaklaşık yüzde otuzu takip ya da belge kaybıydı."
+    },
+    "Bu oran, yıllar içinde azalmış olsa da, gelişmiş bir programda bile takip kaybının ne kadar önemli olduğunu gösteriyor.",
+    "Takip kaybı, kalıcı kaybı olan bir bebeğin tanısının aylarca, hatta yıllarca gecikmesi demektir.",
+    "Tanı gecikince cihaz uygulaması ve erken müdahale de gecikir; taramanın amacı boşa çıkar."
+   ]
+  },
+  {
+   "id": "nedenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Takip kaybı",
+   "baslik": "Takip kaybının *nedenleri*",
+   "ogeler": [
+    {
+     "ikon": "soru",
+     "baslik": "Önemsememe",
+     "cumle": 0,
+     "metin": "Geçici sorun sanılır"
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Ulaşım ve maliyet",
+     "cumle": 1,
+     "metin": "Uzak tanı merkezi"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "İletişim bilgisi",
+     "cumle": 2,
+     "metin": "Eksik ya da yanlış"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Bekleme süresi",
+     "cumle": 3,
+     "metin": "Geç randevu"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Veri bağlantısı",
+     "cumle": 4,
+     "metin": "Sonuç programa ulaşmaz"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Dil ve anlama",
+     "cumle": 5,
+     "metin": "Bilgi anlaşılmamış"
+    }
+   ],
+   "cumleler": [
+    "Takip kaybının ilk nedeni, ailenin kaldı sonucunu verniks ya da gürültü gibi geçici bir nedene bağlayıp önemsememesidir.",
+    "Tanı merkezinin uzak olması, ulaşım ve iş günü kaybı gibi pratik engeller de önemlidir.",
+    "Hastane kaydındaki telefon numarasının eksik ya da yanlış olması, ailenin hiç aranamamasına yol açabilir.",
+    "Tanı merkezlerinde uzun bekleme süreleri, randevunun zaman hedeflerinin dışına düşmesine neden olur.",
+    "Değerlendirme yapılsa bile sonuç merkezi kayıt sistemine aktarılmazsa bebek kaybolmuş görünür.",
+    "Son olarak bilgi ailenin anlayacağı dilde verilmemişse, randevunun neden önemli olduğu anlaşılmamış olabilir.",
+    "Bu nedenlerin çoğu, programın kendi süreçleriyle önlenebilir."
+   ]
+  },
+  {
+   "id": "azaltma",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Takip kaybı",
+   "baslik": "Takip kaybını *azaltmak*",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "Randevu",
+     "cumle": 0,
+     "metin": "Ayrılmadan verilir"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Doğru iletişim",
+     "cumle": 1,
+     "metin": "İki numara, hatırlatma"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Anlaşılır bilgi",
+     "cumle": 3,
+     "metin": "Sözlü ve yazılı"
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Aile hekimi",
+     "cumle": 4,
+     "metin": "Bilgilendirilir"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Merkezi kayıt",
+     "cumle": 5,
+     "metin": "Bebek izlenir"
+    }
+   ],
+   "cumleler": [
+    "İlk ve en etkili adım, tanı randevusunun aile hastaneden ayrılmadan verilmesidir.",
+    "Ailenin en az iki iletişim bilgisi kaydedilir ve randevudan önce hatırlatma yapılır.",
+    "Randevuya gelmeyen aile aranır ve yeni randevu verilir; bu adım bir kişinin sorumluluğuna bağlanır.",
+    "Kaldı sonucunun ne anlama geldiği ailenin anlayacağı dilde, sözlü ve yazılı olarak anlatılır.",
+    "Bebeğin aile hekimine de sonuç bildirilir; böylece sağlam çocuk kontrollerinde randevu sorulur.",
+    "Merkezi bir kayıt sistemi, taramadan tanıya ve müdahaleye kadar her bebeğin izlenmesini sağlar.",
+    "Bu adımlar, programın başarısını tarama oranı kadar takip oranıyla da ölçmeyi mümkün kılar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kaldı sonucunu verirken aileyi korkutmaktan kaçınmak için sonucu küçümsemeyin. Tanı değil, ama ileri test acil ve önemli.",
+   "cumleler": [
+    "Sahadan bir ipucu: aileyi korkutmamak için kaldı sonucunu küçümsemek, takip kaybının en sık nedenlerinden biridir.",
+    "Büyük olasılıkla bir şey yok gibi cümleler, ailenin randevuyu ertelemesine yol açabilir.",
+    "Bunun yerine sonucun tanı olmadığını, ama işitmeyi kesin öğrenmenin tek yolunun tanısal test olduğunu söyleyin.",
+    "Randevu tarihini ve yerini yazılı verin, aileye sorusu olduğunda kimi arayacağını gösterin.",
+    "Randevuya gelmeyen her bebek için kayıtta bir sonraki adımın ne olduğu yazılı olmalıdır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Tanı 3. aya, yeni öneride 2. aya",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "ABR, OAE, 1000 Hz timpanometri",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Sonuç: normal, geçici, kalıcı, ANSD",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Takip kaybı önlenebilir bir sorundur",
+     "cumle": 3,
+     "ikon": "telefon"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Bu derste taramadan kalan bebeğin tanısının 3. ayın, güncel öneride ise 2. ayın sonuna kadar konması gerektiğini gördük.",
+     "ses": "Bu derste taramadan kalan bebeğin tanısının üçüncü ayın, güncel öneride ise ikinci ayın sonuna kadar konması gerektiğini gördük."
+    },
+    {
+     "yazi": "Tanısal batarya; öykü, frekansa özgü ABR, klik ABR, OAE, bin hertzlik timpanometri ve akustik refleksten oluşur.",
+     "ses": "Tanısal batarya; öykü, frekansa özgü ve klik uyaranlı beyin sapı yanıtı, otoakustik emisyon, bin hertzlik timpanometri ve akustik refleksten oluşur."
+    },
+    "Sonuçta normal işitme, geçici iletim tipi kayıp, kalıcı kayıp ya da ANSD saptanabilir.",
+    "Takip kaybı programların en büyük sorunlarından biridir ve randevu, iletişim ve kayıt düzeniyle azaltılabilir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Takip kaybını en çok hangisi azaltır?",
+   "secenekler": [
+    "Kaldı sonucunu küçümsemek",
+    "Taburculuk öncesi randevu vermek",
+    "Aileye yalnız sözlü bilgi",
+    "Randevuyu aileye bırakmak"
+   ],
+   "dogru": 1,
+   "aciklama": "Randevu aile _hastaneden ayrılmadan_ verilir ve yazılı teslim edilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: aşağıdakilerden hangisi takip kaybını en çok azaltır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: taburculuk öncesi randevu vermek.",
+    "Aile hastaneden ayrılmadan verilen ve yazılı teslim edilen randevu, en etkili adımlardan biridir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Okul çağı *işitme taraması*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste yenidoğan döneminden okul çağına geçiyor ve okul işitme taramasını inceliyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

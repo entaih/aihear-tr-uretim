@@ -1,0 +1,88 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R358_Sandalyenin_Yeri_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #358",
+  "baslik": "Sandalyenin *yeri*",
+  "alt": "Serbest alanda yarım metre, 6 dB",
+  "cizim": "test_kabini",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Hasta sandalyesi yarım metre öne kayarsa test sonucu değişir mi? #shorts",
+  "aciklama": "Serbest alan testinde hastanın başı, kalibrasyonun yapıldığı noktada olmalıdır. Bir metrede kalibre edilmiş bir hoparlörün yarım metre önüne oturan hasta, kuramsal olarak yaklaşık 6 desibel daha yüksek ses alır; odadaki yansımalar farkı biraz küçültebilir, ama eşikler yine de yanlış çıkar. Sandalyenin yerini zemine işaretlemek basit bir çözümdür.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "serbestalan",
+   "kalibrasyon"
+  ],
+  "etiketler": [
+   "serbest alan testi",
+   "hoparlör kalibrasyonu",
+   "ters kare yasası",
+   "desibel hesabı",
+   "test odası",
+   "eşik ölçümü",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Hasta sandalyesi yarım metre öne kayarsa test sonucu değişir mi?",
+  "bilgiler": [
+   "Hastanın başı kalibrasyon noktasında olmalıdır.",
+   "Yarım metre yakında kuramsal olarak yaklaşık 6 dB fazla ses.",
+   "Sandalyenin yerini zemine işaretleyin."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "serbestalan",
+   "kalibrasyon"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #358",
+   "metin": "Yarım metre *önemli mi?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Hasta sandalyesi yarım metre öne kayarsa test sonucu değişir mi?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Yarım metre yakın: *fazladan*",
+   "sayi": "6",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Serbest alan testinde hastanın başı kalibrasyon noktasında olmalıdır.",
+    "Hoparlör bir metrede kalibre edildiyse, yarım metredeki hasta daha yüksek ses alır.",
+    "Fark kuramsal olarak yaklaşık altı desibeldir.",
+    "Yansımalar farkı biraz küçültebilir, ama eşikler yine de yanlış çıkar.",
+    "Sandalyenin yerini zemine işaretlemek bu hatayı önlemenin basit bir yoludur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D014",
+ "kaynak_baslik": "Desibel hesapları"
+}

@@ -1,0 +1,108 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R487_Kabinde_Unutulan_Hasta_Butonu_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #487",
+  "baslik": "Unutulan *yüzey*",
+  "alt": "Her hastadan sonra silinecekler",
+  "cizim": "kulak_kesit",
+  "ayar": {
+   "insert": true
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Odyoloji kabininde en sık unutulan yüzey hangisidir? #shorts",
+  "aciklama": "Odyolojide en sık bulaş yolu temastır; hasta butonu ve koltuk kolları sık dokunulan ama çoğu zaman unutulan yüzeylerdir. Her hastadan sonra silinecek yüzeyleri, yani kulaklıkları, vibratörü, probu, hasta butonunu ve koltuk kollarını kısa bir kontrol listesine yazıp kabinin duvarına asmak işi kolaylaştırır; yoğun bir günde unutulan adım çoğu zaman hasta butonudur.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "enfeksiyonkontrolü",
+   "klinik"
+  ],
+  "etiketler": [
+   "enfeksiyon kontrolü",
+   "dezenfeksiyon",
+   "standart önlemler",
+   "test kabini",
+   "hasta butonu",
+   "kontrol listesi",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Odyoloji kabininde en sık unutulan yüzey hangisidir?",
+  "bilgiler": [
+   "Silinecek yüzeyler kısa bir listeye yazılır.",
+   "Hasta butonu ve koltuk kolları sık unutulur.",
+   "Liste kabinin duvarına asılır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "enfeksiyonkontrolü",
+   "klinik"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #487",
+   "metin": "Hangi *yüzey?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Odyoloji kabininde en sık unutulan yüzey hangisidir?"
+   ]
+  },
+  {
+   "id": "liste",
+   "tur": "zincir",
+   "baslik": "Silme *listesi*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Kulaklık",
+     "tr": "ve vibratör",
+     "cumle": 1
+    },
+    {
+     "ad": "Prob",
+     "tr": "gövdesiyle",
+     "cumle": 1,
+     "gecikme": 0.6
+    },
+    {
+     "ad": "Hasta butonu",
+     "tr": "sık unutulur",
+     "cumle": 2
+    }
+   ],
+   "alt": "Liste _duvarda_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Her hastadan sonra silinecek yüzeyleri kısa bir listeye yazın.",
+    "Kulaklıklar, vibratör, prob, hasta butonu ve koltuk kolları listede olsun.",
+    "Yoğun bir günde unutulan adım çoğu zaman hasta butonudur.",
+    "Listeyi kabinin duvarına asın ve yeni çalışanlara ilk gün gösterin."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D286",
+ "kaynak_baslik": "Enfeksiyon kontrolü ve güvenlik"
+}

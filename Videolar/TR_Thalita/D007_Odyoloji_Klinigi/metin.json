@@ -1,0 +1,786 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D007_Odyoloji_Klinigi_TR",
+ "kapak": {
+  "ust": "DERS 7",
+  "baslik": "Odyoloji<br>*kliniği*",
+  "alt": "Test kabini ve temel cihazlar",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Odyoloji Kliniği: Test Kabini ve Temel Cihazlar | Ders 07 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bir odyoloji kliniğinde neler var? Bu derste ses yalıtımlı test kabinini, ortam gürültüsünün eşiklere etkisini, odyometreyi, timpanometreyi, OAE ve ABR cihazlarını, vestibüler laboratuvarı ve cihaz uygulama odasını tanıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ANSI/ASA S3.1, Maximum Permissible Ambient Noise Levels for Audiometric Test Rooms; ISO 8253-1, Acoustics: Audiometric test methods, Part 1; ASHA, Guidelines for Manual Pure-Tone Threshold Audiometry (2005); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyometri",
+   "işitme"
+  ],
+  "etiketler": [
+   "odyoloji kliniği",
+   "ses yalıtımlı kabin",
+   "sound-treated booth",
+   "odyometre",
+   "audiometer",
+   "timpanometre",
+   "ortam gürültüsü",
+   "OAE",
+   "ABR",
+   "vestibüler laboratuvar",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 7",
+   "baslik": "Odyoloji *kliniği*",
+   "alt": "Test kabini ve temel cihazlar",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste bir odyoloji kliniğini birlikte gezecek, ses yalıtımlı test kabinini ve temel test cihazlarını tanıyacağız.",
+    "Her cihazın neyi ölçtüğünü ve sessiz bir ortamın neden bu kadar önemli olduğunu göreceğiz."
+   ]
+  },
+  {
+   "id": "kabin",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Test kabini",
+   "baslik": "Ses yalıtımlı *kabin*",
+   "maddeler": [
+    {
+     "metin": "Dış gürültüyü _yalıtır_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Kalın duvar, ağır ve sıkı kapı",
+     "cumle": 1,
+     "ikon": "ev"
+    },
+    {
+     "metin": "İçeride _ses emici_ yüzeyler",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sessiz havalandırma ve aydınlatma",
+     "cumle": 3,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "İletişim: _pencere_ ve interkom",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "test_kabini",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "cift_duvar",
+      "metin": "kalın, çift duvar",
+      "cumle": 1
+     },
+     {
+      "parca": "ses_emici",
+      "metin": "ses emici yüzey",
+      "cumle": 2
+     },
+     {
+      "parca": "pencere",
+      "metin": "pencere ve interkom",
+      "cumle": 4
+     },
+     {
+      "parca": "hasta",
+      "metin": "kulaklıklı hasta",
+      "cumle": 5
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cift_duvar",
+      "cumle": 1
+     },
+     {
+      "parca": "ses_emici",
+      "cumle": 2
+     },
+     {
+      "parca": "havalandirma",
+      "cumle": 3
+     },
+     {
+      "parca": "pencere",
+      "cumle": 4
+     },
+     {
+      "parca": "interkom",
+      "cumle": 4
+     },
+     {
+      "parca": "hasta_butonu",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "Odyolojik değerlendirmenin kalbi, ses yalıtımlı kabindir (sound-treated booth).",
+     "ses": "Odyolojik değerlendirmenin kalbi, ses yalıtımlı kabindir."
+    },
+    "Kabinin duvarları kalın ve katmanlıdır, kapısı ağırdır ve sıkıca kapanır; amaç dışarıdaki gürültüyü içeri almamaktır.",
+    "İç yüzeyler ses emici malzemeyle kaplanır; böylece kabin içindeki yansımalar da azalır.",
+    "Havalandırma ve aydınlatma bile sessiz çalışacak biçimde seçilir; çünkü kabindeki küçük bir uğultu da ölçümü etkileyebilir.",
+    "Test eden kişi hastayla bir pencere ve iki yönlü konuşma sistemi, yani interkom üzerinden iletişim kurar.",
+    "Kabinde hasta kulaklık takar ve sesi duyduğunda elindeki butona basar."
+   ]
+  },
+  {
+   "id": "duzen",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Test kabini",
+   "baslik": "Tek oda ve *iki oda*",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Tek odalı",
+     "metin": "Hasta ve test eden aynı odada",
+     "cumle": 1
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocukla kolay",
+     "metin": "Ama el ve cihaz ipuçlarına dikkat",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "İki odalı",
+     "metin": "Pencereyle ayrılmış kontrol odası",
+     "cumle": 3
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Serbest alan",
+     "metin": "İpuçları azalır; hoparlör testine uygun",
+     "cumle": 4
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Türkiye'de",
+     "metin": "Odyometrist kabin dışında, pencereden izler",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Klinikte iki temel kabin düzeni kullanılır ve ikisi de standartlara uygun biçimde kurulabilir.",
+    "Tek odalı düzende hasta ve test eden kişi aynı yalıtımlı odadadır.",
+    "Bu düzen küçük çocuklarla ilgilenmeyi kolaylaştırır; ancak hasta, test edenin el hareketlerini ve cihaz seslerini fark etmemelidir.",
+    "İki odalı düzende test eden kişi, pencereyle ayrılmış ayrı bir kontrol odasından çalışır.",
+    "Bu düzen görsel ve işitsel ipuçlarını en aza indirir ve hoparlörle yapılan serbest alan testleri için de uygundur.",
+    "Türkiye'de birçok klinikte hasta kabine alınır, odyometrist ise kabinin dışından, pencereden hastayı görerek çalışır."
+   ]
+  },
+  {
+   "id": "gurultu",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Test kabini",
+   "baslik": "Ortam gürültüsü *eşikleri* bozar",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Gürültülü odada_ ölçülen eşikler",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       35,
+       30,
+       20,
+       10,
+       10,
+       10
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 4
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Ortam gürültüsü (ambient noise), test sırasında kabinde bulunan istenmeyen arka plan sesidir.",
+     "ses": "Ortam gürültüsü, test sırasında kabinde bulunan istenmeyen arka plan sesidir."
+    },
+    "Bu gürültü test tonlarını maskeler ve eşiklerin olduğundan daha kötü ölçülmesine yol açar.",
+    "Bu örnekte gürültülü bir odada ölçülen sağ kulak eşiklerini görüyoruz; pes frekanslardaki eşikler yükselmiş.",
+    "Ortam gürültüsünün enerjisi çoğunlukla pes frekanslardadır ve kulak üstü kulaklıklar bu frekanslarda daha az yalıtım sağlar.",
+    "Aynı kişi uygun bir kabinde yeniden test edildiğinde, eşiklerinin normal sınırlarda olduğu görülebilir.",
+    "Kemik yolu ve serbest alan testlerinde kulaklar açık olduğundan, bu testler ortam gürültüsüne daha da duyarlıdır."
+   ]
+  },
+  {
+   "id": "odyometre",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyometre",
+   "baslik": "*Odyometre*: temel test cihazı",
+   "cizim": "odyometre",
+   "etiketler": [
+    {
+     "parca": "cihaz",
+     "metin": "Odyometre (audiometer)",
+     "cumle": 0
+    },
+    {
+     "parca": "kulaklik",
+     "metin": "Kulaklık: hava yolu",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "metin": "Kemik vibratörü: kemik yolu",
+     "cumle": 3
+    },
+    {
+     "parca": "hasta_butonu",
+     "metin": "Hasta yanıt butonu",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "kulaklik",
+     "cumle": 2
+    },
+    {
+     "parca": "kemik_vibratoru",
+     "cumle": 3
+    },
+    {
+     "parca": "hasta_butonu",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Frekans ve şiddet _ayarı_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sonuç: _odyogram_",
+     "cumle": 5,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Kabinin en temel cihazı odyometredir (audiometer).",
+     "ses": "Kabinin en temel cihazı odyometredir."
+    },
+    "Odyometre belirli frekans ve şiddette saf tonlar üretir ve bunları kulağa iletir.",
+    "Hava yolu testinde ses, kulak üstü ya da kulak içi kulaklıklarla verilir.",
+    "Kemik yolu testinde ise kulağın arkasındaki kemiğe yerleştirilen bir kemik vibratörü kullanılır.",
+    "Hasta tonu duyduğunda butona basar; odyometrist yanıtları izleyerek eşikleri belirler.",
+    "Bulunan eşikler odyograma işlenir; sıfır desibel HL, genç ve sağlıklı kulakların ortalama eşiğine karşılık gelir."
+   ]
+  },
+  {
+   "id": "tanisal",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyometre",
+   "baslik": "Tanısal odyometrenin *olanakları*",
+   "maddeler": [
+    {
+     "metin": "_İki kanal_: ton ve maskeleme",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Hava yolu ve _kemik yolu_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "_Konuşma_ testi: mikrofon, kayıt",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "Serbest alan için _hoparlörler_",
+     "cumle": 3,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Tarama odyometresi: daha _basit_",
+     "cumle": 4,
+     "ikon": "tarama"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "maskeleme",
+    "ayar": {
+     "ia_db": 40,
+     "test_kulak": "sag"
+    },
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "metin": "Maskeleme gürültüsü",
+      "cumle": 0
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "maskeleme_gurultusu",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "Klinikte kullanılan tanısal odyometreler genellikle iki kanallıdır; bir kanal test tonunu, diğeri maskeleme gürültüsünü verir.",
+    "Hava yolu ve kemik yolu eşikleri aynı cihazla ölçülür.",
+    "Konuşma testleri için mikrofon ya da kayıtlı konuşma materyali cihaza bağlanır.",
+    "Kabindeki hoparlörler, çocuk testleri ve işitme cihazıyla yapılan ölçümler için serbest alan sunumu sağlar.",
+    "Tarama odyometreleri ise daha basittir; çoğunlukla yalnız hava yolu ile belirli frekanslarda test yapar."
+   ]
+  },
+  {
+   "id": "kulaklik",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Odyometre",
+   "baslik": "Kulak üstü ve *kulak içi* kulaklık",
+   "tur": "ikonlar",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kulak üstü (supra-aural)",
+     "metin": "Takması kolay; karşıya geçiş daha kolay",
+     "cumle": 1
+    },
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Kulak içi (insert)",
+     "metin": "Daha iyi yalıtım, daha yüksek zayıflama",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Köpük uç",
+     "metin": "Her hastada yenisi kullanılır",
+     "cumle": 4
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Türkiye'de",
+     "metin": "Rutinde kulak üstü; maskelemede insert",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Hava yolu testinde iki tür kulaklık yaygın olarak kullanılır ve ikisi de kalibre edildiğinde geçerli sonuç verir.",
+    "Kulak üstü kulaklıklar kulak kepçesinin üzerine oturur; takması kolaydır ve uzun yıllardır standart olarak kullanılır.",
+    "Bu kulaklıklarda ses kafatası yoluyla karşı kulağa daha kolay geçer; bu da maskeleme ihtiyacını artırır.",
+    "Kulak içi, yani insert kulaklıklar ortam gürültüsünü daha iyi yalıtır ve kulaklar arası zayıflama (interaural attenuation) daha yüksektir.",
+    "Köpük uçları dış kulak yoluna yerleştirilir ve her hastada yenisi kullanılır.",
+    "Türkiye'de birçok klinikte rutin testte kulak üstü kulaklık kullanılır; insert kulaklık ise özellikle maskelemede avantaj sağlar."
+   ]
+  },
+  {
+   "id": "timpanometre",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Objektif test cihazları",
+   "baslik": "*Timpanometre*: orta kulağın hareketi",
+   "cizim": "kulak_kesit",
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 1
+   },
+   "notlar": [
+    {
+     "metin": "Prob: hoparlör, mikrofon, _pompa_",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Sonuç: _timpanogram_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Akustik refleks de ölçülür",
+     "cumle": 4,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "İkinci temel cihaz timpanometredir (tympanometer); klinikte immitansmetre ya da empedansmetre olarak da anılır.",
+     "ses": "İkinci temel cihaz timpanometredir; klinikte immitansmetre ya da empedansmetre olarak da anılır."
+    },
+    "Kulak yoluna hava sızdırmayacak biçimde yerleştirilen prob, içinde küçük bir hoparlör, bir mikrofon ve bir hava pompası taşır.",
+    "Cihaz kulak yolundaki basıncı değiştirirken orta kulağın sesi ne kadar kolay ilettiğini ölçer ve sonucu timpanogram olarak çizer.",
+    "Yetişkinlerde iki yüz yirmi altı hertzlik prob tonu kullanılır; küçük bebeklerde ise bin hertzlik prob tonu tercih edilir.",
+    "Aynı cihazla akustik refleks de ölçülür; böylece kısa sürede orta kulak ve refleks yolu hakkında bilgi alınır."
+   ],
+   "etiketler": [
+    {
+     "parca": "prob_hoparlor",
+     "metin": "hoparlör",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "hava pompası",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "timpanik membran",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 2
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Objektif test cihazları",
+   "baslik": "*OAE* cihazı: koklea yanıt veriyor mu?",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "uyaran",
+     "metin": "Uyaran",
+     "cumle": 1
+    },
+    {
+     "parca": "yanit",
+     "metin": "Kokleanın yanıtı",
+     "cumle": 2
+    },
+    {
+     "parca": "gurultu",
+     "metin": "Gürültü tabanı",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Hızlı, yanıt _gerektirmez_",
+     "cumle": 4,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Yenidoğan _taramasında_ kullanılır",
+     "cumle": 4,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    "Otoakustik emisyon, kısaca OAE cihazı, kokleanın sese karşılık ürettiği çok zayıf sesleri kaydeder.",
+    "Kulak yoluna yerleştirilen prob, kısa sesler ya da iki ayrı ton gönderir.",
+    "Probdaki hassas mikrofon, kokleadaki dış tüy hücrelerinin etkinliğiyle oluşan yanıtı yakalar.",
+    "Yanıt, ortamdaki ve hastadaki gürültüden belirgin biçimde büyükse emisyon var kabul edilir.",
+    "Test hızlıdır ve hastanın yanıt vermesini gerektirmez; bu yüzden Türkiye'de de yenidoğan işitme taramasında yaygın olarak kullanılır."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Objektif test cihazları",
+   "baslik": "*ABR* cihazı: sinir yolundan kayıt",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0,
+    "i_v_uzama": 0
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "Dalga I",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "Dalga V",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Başa _yüzey elektrotları_",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Sakin yatış ya da _uyku_",
+     "cumle": 3,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Bebekte _eşik tahmini_",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "İşitsel beyin sapı yanıtı, kısaca ABR cihazı, sese karşı işitme siniri ve beyin sapında oluşan elektriksel yanıtı kaydeder.",
+    "Bunun için başa küçük yüzey elektrotları yapıştırılır; deri temizlenerek elektrot empedansı düşük tutulur.",
+    "Ses genellikle insert kulaklıkla verilir ve cihaz çok sayıda yanıtın ortalamasını alarak dalgaları ortaya çıkarır.",
+    "Kayıt sırasında hastanın sakin yatması ya da uyuması gerekir; bebekler çoğu zaman doğal uykuda test edilir.",
+    "ABR, davranışsal test yapılamayan bebeklerde işitme eşiğini tahmin etmede ve sinir yolunu değerlendirmede kullanılır."
+   ]
+  },
+  {
+   "id": "vestibuler",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Diğer bölümler",
+   "baslik": "*Vestibüler* laboratuvar",
+   "cizim": "vestibuler_laboratuvar",
+   "notlar": [
+    {
+     "metin": "_VNG_ ve kalorik test",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "_vHIT_: altı kanal",
+     "cumle": 3,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "_VEMP_: utrikül ve sakkül",
+     "cumle": 4,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Baş dönmesi ve denge sorunları için klinikte ayrı bir vestibüler laboratuvar bulunur.",
+    "Burada kızılötesi kameralı gözlüklerle göz hareketleri kaydedilir; bu sisteme videonistagmografi, kısaca VNG denir.",
+    "Kalorik testte kulak yoluna sıcak ve soğuk hava ya da su verilerek iki taraftaki yatay kanal ayrı ayrı uyarılır.",
+    "Video baş itme testi, kısaca vHIT, hızlı baş hareketleriyle altı yarım daire kanalının hepsini değerlendirebilir.",
+    "Vestibüler uyarılmış miyojenik potansiyel, kısaca VEMP ise utrikül ve sakkülün işlevi hakkında bilgi verir.",
+    "Pozisyonel testler için laboratuvarda hastanın güvenle yatırılabileceği bir muayene masası da bulunur."
+   ],
+   "ayar": {
+    "cumleler": {
+     "vng": 1,
+     "kalorik": 2,
+     "vhit": 3,
+     "vemp": 4,
+     "masa": 5
+    }
+   }
+  },
+  {
+   "id": "uygulama",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Diğer bölümler",
+   "baslik": "Cihaz *uygulama* odası",
+   "cizim": "rem_duzenegi",
+   "etiketler": [
+    {
+     "parca": "isitme_cihazi",
+     "metin": "İşitme cihazı",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_tupu",
+     "metin": "Prob tüpü",
+     "cumle": 2
+    },
+    {
+     "parca": "hoparlor",
+     "metin": "Hoparlör",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "prob_tupu",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Programlama _yazılımı_",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "_Gerçek kulak_ ölçümü",
+     "cumle": 2,
+     "ikon": "mikrofon"
+    },
+    {
+     "metin": "_Test kutusu_",
+     "cumle": 3,
+     "ikon": "laboratuvar"
+    }
+   ],
+   "cumleler": [
+    "İşitme cihazı ve implant uygulamaları için ayrı bir cihaz uygulama odası kullanılır.",
+    "Burada işitme cihazları bilgisayar ve programlama yazılımıyla kişiye göre ayarlanır.",
+    "Gerçek kulak ölçüm sisteminde ince bir prob tüpü kulak yoluna yerleştirilir ve cihazın kulakta oluşturduğu ses ölçülür.",
+    "Test kutusu ise işitme cihazının teknik performansını kulak dışında, standart bir düzenekte kontrol etmeye yarar.",
+    "Kulak kalıbı ölçüsü almak için gerekli malzemeler ve bir otoskop da bu odanın temel donanımıdır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Diğer bölümler",
+   "baslik": "Klinikte dikkat",
+   "metin": "Her sabah ilk hastadan önce cihazları kendi kulağınızla kontrol edin: kulaklık kabloları, kanallar, kemik vibratörü. Ayrıntılı kalibrasyonu düzenli yaptırın.",
+   "cumleler": [
+    "Sahadan bir ipucu: her sabah ilk hastadan önce odyometreyi kendi kulağınızla kısaca dinleyerek kontrol edin.",
+    "Kulaklık kablolarında cızırtı, kanallar arasında sızıntı ya da kemik vibratöründe bozulma olup olmadığına bakın.",
+    "Bu günlük dinleme kontrolü, düzenli olarak, genellikle yılda bir yapılan ayrıntılı kalibrasyonun yerini tutmaz.",
+    "Ama bir arızayı hasta testinden önce yakalar; kalibrasyon tarihini kayıtlarda görünür tutmak da iyi bir uygulamadır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kabin _ortam gürültüsünü_ en aza indirir",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Odyometre: _hava ve kemik yolu_ eşikleri",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Timpanometre, OAE, ABR: _objektif_ ölçüm",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Vestibüler laboratuvar ve _uygulama odası_",
+     "cumle": 3,
+     "ikon": "denge"
+    }
+   ],
+   "cumleler": [
+    "Ses yalıtımlı kabin, eşikleri bozabilecek ortam gürültüsünü en aza indirir; tek ve iki odalı düzenler kullanılır.",
+    "Odyometre, hava ve kemik yolu eşiklerini ve konuşma testlerini ölçmeye yarayan temel cihazdır.",
+    "Timpanometre, OAE ve ABR cihazları, hastanın yanıt vermesini gerektirmeyen ölçümler yapar.",
+    "Vestibüler laboratuvar denge sistemini, cihaz uygulama odası ise işitme cihazı uygulamalarını kapsar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Ortam gürültüsü en çok hangi eşikleri bozar?",
+   "secenekler": [
+    "Tiz frekans eşiklerini",
+    "Pes frekans eşiklerini",
+    "Yalnız 4000 Hz eşiğini",
+    "Hiçbirini"
+   ],
+   "dogru": 1,
+   "aciklama": "Ortam gürültüsü çoğunlukla pestir ve kulak üstü kulaklıklar pes frekanslarda _daha az yalıtır_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Kabindeki ortam gürültüsü en çok hangi frekanslardaki eşikleri bozar?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: pes frekanslardaki eşikler.",
+     "ses": "Doğru cevap be: pes frekanslardaki eşikler."
+    },
+    "Ortam gürültüsünün enerjisi çoğunlukla pes frekanslardadır ve kulak üstü kulaklıklar bu bölgede daha az yalıtım sağlar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyolojik *test bataryası*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bu cihazlarla yapılan testlerin bir batarya olarak nasıl birleştirildiğini ve hangi testin neyi gösterdiğini göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

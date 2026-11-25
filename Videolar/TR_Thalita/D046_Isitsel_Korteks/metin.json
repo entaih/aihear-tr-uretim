@@ -1,0 +1,935 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D046_Isitsel_Korteks_TR",
+ "kapak": {
+  "ust": "DERS 46",
+  "baslik": "İşitsel korteks<br>ve *dil*",
+  "alt": "Heschl girusu, Wernicke alanı, dikotik dinleme",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "isitme_korteksi"
+  ]
+ },
+ "youtube": {
+  "baslik": "İşitsel Korteks ve Dil Alanları | Ders 46 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme yolunun son durağı işitsel kortekstir. Bu derste Heschl girusundaki birincil işitsel korteksi (Brodmann 41 ve 42), Wernicke alanını ve planum temporaleyi, iki yarıkürenin özelleşmesini, corpus callosumu ve dikotik dinlemede sağ kulak üstünlüğünü inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Musiek FE ve Baran JA, The Auditory System: Anatomy, Physiology, and Clinical Correlates; Kimura D, Cerebral dominance and the perception of verbal stimuli (Canadian Journal of Psychology, 1961); Geschwind N ve Levitsky W, Human brain: left-right asymmetries in temporal speech region (Science, 1968); Hickok G ve Poeppel D, The cortical organization of speech processing (Nature Reviews Neuroscience, 2007); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "nöroanatomi",
+   "beyin"
+  ],
+  "etiketler": [
+   "işitsel korteks",
+   "Heschl girusu",
+   "transvers temporal girus",
+   "Wernicke alanı",
+   "planum temporale",
+   "corpus callosum",
+   "dikotik dinleme",
+   "sağ kulak üstünlüğü",
+   "nöroanatomi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 46",
+   "baslik": "İşitsel *korteks* ve dil",
+   "alt": "Heschl girusu, Wernicke alanı ve dikotik dinleme",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme yolunun son durağını, yani işitsel korteksi ve dil alanlarını öğreneceğiz.",
+    "İki yarıkürenin farklı görevlerini ve bunu klinikte ölçen dikotik dinleme testlerini de göreceğiz."
+   ]
+  },
+  {
+   "id": "yeri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İşitsel korteks",
+   "baslik": "Korteks *nerede*?",
+   "cizim": "beyin_yan",
+   "etiketler": [
+    {
+     "parca": "temporal_lob",
+     "metin": "Temporal lob",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_yarik",
+     "metin": "Lateral yarık",
+     "cumle": 2
+    },
+    {
+     "parca": "heschl_girusu",
+     "metin": "Heschl girusu",
+     "cumle": 3
+    },
+    {
+     "parca": "planum_temporale",
+     "metin": "Planum temporale",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_temporal_girus",
+     "cumle": 1
+    },
+    {
+     "parca": "lateral_yarik",
+     "cumle": 2
+    },
+    {
+     "parca": "heschl_girusu",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Temporal lobun _üst yüzü_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Lateral yarığın _içinde_ gizli",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "İki yarıkürede de _var_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "heschl_girusu",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Önceki derste işitme bilgisinin talamustaki medial genikulat cisimden kortekse aktarıldığını görmüştük.",
+    "İşitsel korteks, temporal lobun üst yüzünde yer alır.",
+    "Bu bölge beynin yan tarafındaki derin bir yarığın, yani lateral yarığın içinde gizlidir; beynin dışından bakınca görülmez.",
+    "Burada, temporal lobun yüzeyinde enine uzanan bir kıvrım dikkat çeker.",
+    "İşitsel korteks her iki yarıkürede de bulunur ve her biri iki kulaktan da bilgi alır."
+   ],
+   "ayar": {
+    "yarik_acik": true,
+    "acilma_cumle": 2
+   }
+  },
+  {
+   "id": "heschl",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İşitsel korteks",
+   "baslik": "*Heschl* girusu",
+   "maddeler": [
+    {
+     "metin": "Heschl girusu (transvers temporal girus)",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Birincil işitsel korteks: _Brodmann 41_",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Düzenli bir _frekans haritası_",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Bazı kişilerde _iki_ girus",
+     "cumle": 5,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklea_acik",
+    "ayar": {
+     "frekans": 4000
+    },
+    "vurgula": [
+     {
+      "parca": "taban",
+      "cumle": 3
+     },
+     {
+      "parca": "tepe",
+      "cumle": 4
+     }
+    ],
+    "cumle": 3,
+    "etiketler": [
+     {
+      "parca": "taban",
+      "metin": "taban: tiz",
+      "cumle": 4
+     },
+     {
+      "parca": "tepe",
+      "metin": "tepe: pes",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Bu enine kıvrımın adı Heschl girusu, yani transvers temporal girustur.",
+    "Adını, onu on dokuzuncu yüzyılda tanımlayan Avusturyalı anatomist Heschl'den alır.",
+    {
+     "yazi": "Birincil işitsel korteks bu girus üzerindedir ve Brodmann sınıflamasında 41. alana karşılık gelir.",
+     "ses": "Birincil işitsel korteks bu girus üzerindedir ve Brodman sınıflamasında kırk birinci alana karşılık gelir."
+    },
+    "Birincil işitsel korteks, kokleadaki frekans haritasının bir benzerini taşır.",
+    "Yani kokleanın tabanında ve tepesinde başlayan tiz ve pes frekans bölgeleri, kortekste de düzenli bir sırayla temsil edilir.",
+    "Heschl girusu kişiden kişiye farklılık gösterir; bazı kişilerde bir yarıkürede iki girus bulunabilir."
+   ]
+  },
+  {
+   "id": "alanlar",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "İşitsel korteks",
+   "baslik": "İşitsel korteksin *alanları*",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Birincil (41)",
+     "metin": "Temel ses özellikleri",
+     "cumle": 1
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "İkincil (42)",
+     "metin": "Karmaşık ses örüntüleri",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "İlişkilendirme (22)",
+     "metin": "Konuşma ve anlam",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "İşitsel korteks iç içe halkalar gibi düzenlenmiş alanlardan oluşur.",
+    "Merkezdeki birincil korteks, frekans, şiddet ve zaman gibi temel ses özelliklerini işler.",
+    {
+     "yazi": "Çevresindeki ikincil alanlar, Brodmann 42. alan, daha karmaşık ses örüntülerine yanıt verir.",
+     "ses": "Çevresindeki ikincil alanlar, Brodman kırk ikinci alan, daha karmaşık ses örüntülerine yanıt verir."
+    },
+    {
+     "yazi": "Daha dıştaki ilişkilendirme alanları, Brodmann 22. alan, sesleri konuşma ve anlamla ilişkilendirir.",
+     "ses": "Daha dıştaki ilişkilendirme alanları, Brodman yirmi ikinci alan, sesleri konuşma ve anlamla ilişkilendirir."
+    },
+    "Yani bilgi merkezden dışa doğru ilerledikçe sesin daha soyut özellikleri işlenir."
+   ]
+  },
+  {
+   "id": "wernicke",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dil alanları",
+   "baslik": "*Wernicke* alanı",
+   "maddeler": [
+    {
+     "metin": "Üst temporal girusun _arka_ bölümü",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Çoğu kişide _sol_ yarıkürede",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Konuşmayı _anlamada_ kilit rol",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Hasarda: akıcı ama _anlamsız_ konuşma",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Broca alanı: konuşma _üretimi_",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_yan",
+    "cumle": 0,
+    "ayar": {
+     "arkuat": true,
+     "arkuat_cumle": 4
+    },
+    "etiketler": [
+     {
+      "parca": "wernicke_alani",
+      "metin": "Wernicke alanı",
+      "cumle": 0
+     },
+     {
+      "parca": "broca_alani",
+      "metin": "Broca alanı",
+      "cumle": 4
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "wernicke_alani",
+      "cumle": 0
+     },
+     {
+      "parca": "broca_alani",
+      "cumle": 4
+     },
+     {
+      "parca": "arkuat_demet",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    {
+     "yazi": "İşitsel korteksin arkasında, üst temporal girusun arka bölümünde Wernicke alanı (Wernicke area) yer alır.",
+     "ses": "İşitsel korteksin arkasında, üst temporal girusun arka bölümünde Vernike alanı yer alır."
+    },
+    "Bu alan çoğu kişide sol yarıküredeki dil ağının bir parçasıdır.",
+    {
+     "yazi": "Alana adını 1874'te tanımlayan Alman nörolog Carl Wernicke verdi; konuşmayı anlamada kilit bir rol oynar.",
+     "ses": "Alana adını bin sekiz yüz yetmiş dörtte tanımlayan Alman nörolog Karl Vernike verdi; konuşmayı anlamada kilit bir rol oynar."
+    },
+    {
+     "yazi": "Bu bölgenin hasarında kişi akıcı konuşur, ama söyledikleri anlamsızlaşır ve söyleneni anlamakta zorlanır; buna Wernicke afazisi denir.",
+     "ses": "Bu bölgenin hasarında kişi akıcı konuşur, ama söyledikleri anlamsızlaşır ve söyleneni anlamakta zorlanır; buna Vernike afazisi denir."
+    },
+    {
+     "yazi": "Frontal lobdaki Broca alanı ise konuşmanın üretimiyle ilişkilidir ve Wernicke alanına bir lif demetiyle bağlanır.",
+     "ses": "Frontal lobdaki Broka alanı ise konuşmanın üretimiyle ilişkilidir ve Vernike alanına bir lif demetiyle bağlanır."
+    },
+    "Bugün dilin tek bir noktada değil, bu alanları birbirine bağlayan geniş bir ağda işlendiği kabul edilir."
+   ]
+  },
+  {
+   "id": "planum",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dil alanları",
+   "baslik": "*Planum temporale* asimetrisi",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Sol daha büyük",
+     "metin": "Yaklaşık yüzde 65",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Sağ daha büyük",
+     "metin": "Yaklaşık yüzde 11",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Eşit",
+     "metin": "Yaklaşık yüzde 24",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Dil ile uyumlu",
+     "metin": "Dil çoğunlukla solda",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Heschl girusunun hemen arkasında, temporal lobun üst yüzünde üçgen biçimli bir alan uzanır.",
+    {
+     "yazi": "Bu alana planum temporale, yani temporal düzlem denir; Wernicke alanının bir bölümünü içerir.",
+     "ses": "Bu alana planum temporale, yani temporal düzlem denir; Vernike alanının bir bölümünü içerir."
+    },
+    {
+     "yazi": "Geschwind ve Levitsky'nin 1968'de yüz beyin üzerinde yaptığı çalışmada, bu alan beyinlerin yaklaşık yüzde altmış beşinde solda daha büyüktü.",
+     "ses": "Geşvind ve Levitski'nin bin dokuz yüz altmış sekizde yüz beyin üzerinde yaptığı çalışmada, bu alan beyinlerin yaklaşık yüzde altmış beşinde solda daha büyüktü."
+    },
+    "Sağda daha büyük olduğu beyinler yaklaşık yüzde on bir, iki tarafın eşit olduğu beyinler yaklaşık yüzde yirmi dörttü.",
+    "Bu asimetri, dilin çoğu kişide sol yarıkürede işlenmesiyle uyumlu bulunmuştur."
+   ]
+  },
+  {
+   "id": "iki_akim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Dil alanları",
+   "baslik": "Konuşmanın *iki yolu*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Ventral akım",
+     "metin": "Temporal lob: sesten anlama",
+     "cumle": 1
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "İki yarıkürede",
+     "metin": "Ventral akım iki tarafta",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Dorsal akım",
+     "metin": "Parietal ve frontal: konuşma hareketi",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Sol ağırlıklı",
+     "metin": "Dorsal akım çoğunlukla solda",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Güncel modellere göre konuşma, işitsel korteksten sonra iki ana akım halinde işlenir.",
+    "Ventral akım temporal lob boyunca ilerler ve duyulan sesi sözcüklere ve anlama bağlar.",
+    "Bu akımın iki yarıkürede de işlediği düşünülür.",
+    "Dorsal akım ise parietal ve frontal loba uzanır ve duyulan sesi konuşma hareketlerine bağlar.",
+    "Bu akım çoğu kişide belirgin biçimde sol yarıküre ağırlıklıdır."
+   ]
+  },
+  {
+   "id": "sol_sag",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hemisferik özelleşme",
+   "baslik": "Sol ve *sağ* yarıküre",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Sol yarıküre",
+     "metin": "Dil ve konuşma sesleri",
+     "cumle": 1
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Hızlı değişimler",
+     "metin": "Ünsüz geçişleri: sol",
+     "cumle": 2
+    },
+    {
+     "ikon": "muzik",
+     "baslik": "Sağ yarıküre",
+     "metin": "Ezgi, perde, vurgu, duygu tonu",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Ses tanıma",
+     "metin": "Tanıdık sesler: sağ",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İki yarıküre işitsel bilgiyi birlikte işler, ama bazı görevlerde biri öne çıkar; buna hemisferik özelleşme denir.",
+    "Dil, sağ elini kullananların yaklaşık yüzde doksan beşinde, sol elini kullananların ise çoğunda sol yarıkürede ağırlıklı işlenir.",
+    "Sol yarıkürenin, konuşmadaki ünsüz geçişleri gibi hızlı zamansal değişimlere daha duyarlı olduğu düşünülür.",
+    "Sağ yarıküre ise ezgi, ses perdesi, müzik ve konuşmadaki vurgu ile duygu tonunda öne çıkar.",
+    "Tanıdık bir kişiyi sesinden tanımada da sağ yarıkürenin önemli bir rolü olduğu bildirilmiştir."
+   ]
+  },
+  {
+   "id": "corpus_callosum",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Hemisferik özelleşme",
+   "baslik": "İki yarıküre arasında *köprü*",
+   "cizim": "beyin_ustten",
+   "vurgula": [
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 0
+    },
+    {
+     "parca": "corpus_callosum",
+     "cumle": 1
+    },
+    {
+     "parca": "arka_bolum",
+     "cumle": 2
+    },
+    {
+     "parca": "kallozal_yol",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Corpus callosum (nasırlı cisim)",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "İşitme lifleri _arka_ bölümde",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Olgunlaşma _ergenliğe_ kadar sürer",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "İki yarıkürenin işitme alanları, corpus callosum, yani nasırlı cisim aracılığıyla birbirine bağlanır.",
+     "ses": "İki yarıkürenin işitme alanları, korpus kallozum, yani nasırlı cisim aracılığıyla birbirine bağlanır."
+    },
+    {
+     "yazi": "Corpus callosum beyindeki en büyük lif demetidir ve iki yarıküre arasında sürekli bilgi alışverişi sağlar.",
+     "ses": "Corpus kallozum beyindeki en büyük lif demetidir ve iki yarıküre arasında sürekli bilgi alışverişi sağlar."
+    },
+    "İşitsel bilgiyi taşıyan lifler çoğunlukla bu yapının arka bölümünden geçer.",
+    {
+     "yazi": "Corpus callosumun miyelinleşmesi çocukluk boyunca sürer ve ergenliğe kadar tamamlanmaz.",
+     "ses": "Corpus kallozumun miyelinleşmesi çocukluk boyunca sürer ve ergenliğe kadar tamamlanmaz."
+    }
+   ],
+   "ayar": {
+    "mod": "kallozal"
+   },
+   "etiketler": [
+    {
+     "parca": "corpus_callosum",
+     "metin": "Corpus callosum",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_isitme_korteksi",
+     "metin": "İşitsel korteks",
+     "cumle": 0
+    },
+    {
+     "parca": "arka_bolum",
+     "metin": "Arka bölüm",
+     "cumle": 2
+    }
+   ]
+  },
+  {
+   "id": "dikotik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Dikotik dinleme",
+   "baslik": "*Dikotik* dinleme",
+   "cizim": "beyin_ustten",
+   "vurgula": [
+    {
+     "parca": "sag_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "ayni_taraf_yol",
+     "cumle": 2
+    },
+    {
+     "parca": "capraz_yol_sag",
+     "cumle": 3
+    },
+    {
+     "parca": "capraz_yol_sol",
+     "cumle": 4
+    },
+    {
+     "parca": "kallozal_yol",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İki kulağa _aynı anda_ farklı uyaran",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Çapraz yol _baskın_, aynı taraf bastırılır",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Sol kulak: _corpus callosum_ üzerinden",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "sag_kulak",
+     "metin": "Sağ kulağa bir sayı",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_kulak",
+     "metin": "Sol kulağa başka sayı",
+     "cumle": 0
+    },
+    {
+     "parca": "sol_isitme_korteksi",
+     "metin": "Sol yarıküre: dil",
+     "cumle": 3
+    },
+    {
+     "parca": "arka_bolum",
+     "metin": "Corpus callosum",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Dikotik dinlemede iki kulağa aynı anda farklı uyaranlar verilir; örneğin sağ kulağa bir sayı, sol kulağa başka bir sayı.",
+    "Bu durumda iki kulaktan gelen bilgi işitme yolunda yarışır.",
+    "Yarışma sırasında çapraz yollar baskın hale gelir, aynı taraftaki yollar ise büyük ölçüde bastırılır.",
+    "Sağ kulağa verilen sözcük, çapraz yolla doğrudan dil için baskın olan sol yarıküreye ulaşır.",
+    {
+     "yazi": "Sol kulağa verilen sözcük ise önce sağ yarıküreye ulaşır, sonra corpus callosumdan geçerek sol yarıküreye aktarılır.",
+     "ses": "Sol kulağa verilen sözcük ise önce sağ yarıküreye ulaşır, sonra corpus kallozumdan geçerek sol yarıküreye aktarılır."
+    }
+   ],
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "yedi",
+     "dört"
+    ],
+    "yol_cumleleri": {
+     "ayni_taraf_yol": 2,
+     "capraz_yol_sag": 3,
+     "capraz_yol_sol": 4,
+     "kallozal_yol": 4
+    }
+   }
+  },
+  {
+   "id": "sag_kulak",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Dikotik dinleme",
+   "baslik": "*Sağ kulak* üstünlüğü",
+   "maddeler": [
+    {
+     "metin": "Sözel uyaranda sağ kulak _önde_",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Çocuklarda fark _daha büyük_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "İleri yaşta sol kulakta _düşüş_",
+     "cumle": 3,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Serbest ya da _yönlendirilmiş_ dikkat",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "odyometre",
+    "vurgula": [
+     {
+      "parca": "kulaklik",
+      "cumle": 0
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Bu yüzden sözel uyaranlarda sağ kulağın sonuçları genellikle biraz daha iyidir; buna sağ kulak üstünlüğü denir.",
+    {
+     "yazi": "Bu bulgu ilk kez 1961'de Doreen Kimura'nın sayılarla yaptığı dikotik dinleme çalışmalarında tanımlandı.",
+     "ses": "Bu bulgu ilk kez bin dokuz yüz altmış birde Dorin Kimura'nın sayılarla yaptığı dikotik dinleme çalışmalarında tanımlandı."
+    },
+    {
+     "yazi": "Küçük çocuklarda sağ kulak üstünlüğü daha belirgindir ve corpus callosum olgunlaştıkça azalır.",
+     "ses": "Küçük çocuklarda sağ kulak üstünlüğü daha belirgindir ve corpus kallozum olgunlaştıkça azalır."
+    },
+    "İleri yaşta ise sol kulak sonuçlarında yeniden belirgin bir düşüş görülebilir.",
+    "Testler iki biçimde yapılabilir: kişi iki kulağı birden tekrarlar ya da dikkatini önce bir kulağa yöneltir; iki yöntem farklı bilgi verir.",
+    "Serbest tekrar doğal bir tablo sunar, yönlendirilmiş dikkat ise zayıf kulağın gerçek kapasitesini ortaya çıkarmaya yardım eder."
+   ]
+  },
+  {
+   "id": "testler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Dikotik dinleme",
+   "baslik": "Klinik *dikotik* testler",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Dikotik sayılar",
+     "metin": "Sayı çiftleri, kısa sürede",
+     "cumle": 1
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "SSW",
+     "metin": "Kaydırılmış iki heceli sözcükler",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Yarışan cümleler",
+     "metin": "İki farklı cümle",
+     "cumle": 3
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Dikotik heceler",
+     "metin": "Ünsüz ve ünlü heceleri",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Dikotik testler, santral işitsel işlemleme değerlendirmesinin temel parçalarındandır.",
+    "Dikotik sayılar testi, her kulağa aynı anda iki sayı verir ve kısa sürede uygulanabilir.",
+    {
+     "yazi": "Kaydırılmış spondi sözcük testi, kısaca SSW, iki heceli sözcükleri iki kulağa kısmen üst üste binecek biçimde verir.",
+     "ses": "Kaydırılmış spondi sözcük testi, iki heceli sözcükleri iki kulağa kısmen üst üste binecek biçimde verir."
+    },
+    "Yarışan cümleler ve dikotik hece testleri de farklı zorluk düzeylerinde benzer bilgileri sağlar.",
+    "Bu testler dile bağlı olduğu için, kullanılan dilde hazırlanmış ve normları çıkarılmış sürümler gerekir."
+   ]
+  },
+  {
+   "id": "lezyon",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Korteks etkilenirse *odyogram*",
+   "maddeler": [
+    {
+     "metin": "Tek taraflı sorun: odyogram _normal_ olabilir",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Dikotik testte _karşı kulak_ zayıf",
+     "cumle": 1,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Corpus callosum: _sol kulak_ zayıf",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "İki taraflı hasar: _kortikal sağırlık_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        10,
+        15,
+        15
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        15,
+        10,
+        10,
+        15,
+        20
+       ],
+       "cumle": 0
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Her kulak iki yarıkürede temsil edildiği için, tek taraflı bir korteks sorununda bu örnekteki gibi odyogram normal olabilir.",
+    "Böyle bir durumda dikotik testlerde çoğu zaman sorunlu yarıkürenin karşısındaki kulağın sonuçları düşer.",
+    {
+     "yazi": "Corpus callosumu etkileyen durumlarda ise sol kulak bilgisi dil yarıküresine ulaşamadığı için sol kulak sonuçları belirgin biçimde düşer.",
+     "ses": "Corpus kallozumu etkileyen durumlarda ise sol kulak bilgisi dil yarıküresine ulaşamadığı için sol kulak sonuçları belirgin biçimde düşer."
+    },
+    "İki yarıkürenin işitme alanları birlikte hasar gördüğünde nadir görülen kortikal sağırlık ortaya çıkabilir."
+   ]
+  },
+  {
+   "id": "plastisite",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Korteks ve *erken işitme*",
+   "maddeler": [
+    {
+     "metin": "Korteks uyaranla _gelişir_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Duyarlı dönem: _ilk yıllar_",
+     "cumle": 1,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Erken işitme desteği _önemli_",
+     "cumle": 3,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "vurgula": [
+     {
+      "parca": "elektrot_dizisi",
+      "cumle": 3
+     }
+    ],
+    "cumle": 3
+   },
+   "cumleler": [
+    "İşitsel korteks doğuştan hazır gelmez; gelişmesi için işitsel uyarana ihtiyaç duyar.",
+    "Bu gelişimin en hızlı olduğu ilk yıllara duyarlı dönem denir.",
+    "Bu dönemde uyaran alamayan işitme alanları, görme gibi başka duyuların işlevlerine kısmen yönelebilir.",
+    "Bu yüzden işitme kaybının erken fark edilmesi ve işitme cihazı ya da koklear implantla erken desteklenmesi önemlidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Klinik bağlantılar",
+   "baslik": "Klinik ipucu",
+   "metin": "Dikotik testten önce iki kulağın eşiklerini ve simetrisini kontrol edin. Asimetrik periferik kayıp, kulaklar arası farkı santral bir bulgu gibi gösterebilir.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: dikotik test sonuçlarını yorumlamadan önce saf ses eşiklerine mutlaka bakın.",
+    "İki kulak arasında periferik bir eşik farkı varsa, dikotik testteki kulak farkı santral bir bulgu gibi görünebilir.",
+    "Bu yüzden dikotik testler, eşikleri normal ya da iki kulakta simetrik olan kişilerde en güvenilir sonucu verir.",
+    "Sonuçları her zaman kişinin yaşına uygun normlarla karşılaştırın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Birincil korteks: _Heschl girusu_, Brodmann 41",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Wernicke alanı ve _planum temporale_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Dil çoğunlukla _sol_ yarıkürede",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "Dikotik dinlemede _sağ kulak_ üstünlüğü",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Birincil işitsel korteks temporal lobun üst yüzündeki Heschl girusunda bulunur ve düzenli bir frekans haritası taşır.",
+    {
+     "yazi": "Wernicke alanı ve planum temporale konuşmayı anlamada önemlidir; planum temporale çoğu beyinde solda daha büyüktür.",
+     "ses": "Vernike alanı ve planum temporale konuşmayı anlamada önemlidir; planum temporale çoğu beyinde solda daha büyüktür."
+    },
+    {
+     "yazi": "Dil çoğu kişide sol, ezgi ve duygu tonu ise daha çok sağ yarıkürede işlenir; iki yarıküreyi corpus callosum bağlar.",
+     "ses": "Dil çoğu kişide sol, ezgi ve duygu tonu ise daha çok sağ yarıkürede işlenir; iki yarıküreyi corpus kallozum bağlar."
+    },
+    "Dikotik dinlemede çapraz yolların baskınlığı nedeniyle sözel uyaranlarda sağ kulak üstünlüğü görülür."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Dikotik dinlemede sözel uyaranlarda hangi kulak genellikle öndedir?",
+   "secenekler": [
+    "Sağ kulak",
+    "Sol kulak",
+    "İkisi her zaman eşit",
+    "Daha iyi işiten kulak"
+   ],
+   "dogru": 0,
+   "aciklama": "Sağ kulak, çapraz yolla doğrudan dil için baskın _sol yarıküreye_ ulaşır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Dikotik dinlemede sözel uyaranlarda hangi kulak genellikle öndedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap A: sağ kulak.",
+    {
+     "yazi": "Sağ kulağın bilgisi çapraz yolla doğrudan sol yarıküreye ulaşır; sol kulağın bilgisi ise corpus callosumdan geçmek zorundadır.",
+     "ses": "Sağ kulağın bilgisi çapraz yolla doğrudan sol yarıküreye ulaşır; sol kulağın bilgisi ise corpus kallozumdan geçmek zorundadır."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Efferent* işitsel sistem",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste beyinden kulağa doğru inen efferent işitsel sistemi ve olivokoklear demeti göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,832 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D260_Vestibuler_Rehabilitasyon_Planlama_TR",
+ "kapak": {
+  "ust": "DERS 260",
+  "baslik": "Rehabilitasyonu<br>*planlamak*",
+  "alt": "Ev programı, ilerletme ve izlem",
+  "cizim": "denge_durus",
+  "vurgula": [
+   "salinim"
+  ]
+ },
+ "youtube": {
+  "baslik": "Vestibüler rehabilitasyon programı planlama ve izlem | Ders 260 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Vestibüler rehabilitasyon, iyi bir başlangıç değerlendirmesi, ölçülebilir hedefler ve düzenli izlemle etkili olur. Bu derste başlangıç değerlendirmesini, DHI, ABC, DGI ve TUG gibi sonuç ölçütlerini, ev egzersiz programını ve ilerletme değişkenlerini, belirti izlemini, sonlandırma ölçütlerini ve ilerleme yetersiz olduğunda yapılacakları öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall ve ark., Vestibular rehabilitation for peripheral vestibular hypofunction: an updated clinical practice guideline from the Academy of Neurologic Physical Therapy of the American Physical Therapy Association, Journal of Neurologic Physical Therapy (2022); Herdman ve Clendaniel, Vestibular Rehabilitation; Jacobson ve Newman, The development of the Dizziness Handicap Inventory, Archives of Otolaryngology Head and Neck Surgery (1990); Jacobson ve Shepard, Balance Function Assessment and Management.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "vestibülerrehabilitasyon",
+   "denge"
+  ],
+  "etiketler": [
+   "vestibüler rehabilitasyon",
+   "ev egzersiz programı",
+   "home exercise program",
+   "sonuç ölçütleri",
+   "outcome measures",
+   "DHI",
+   "dinamik yürüme indeksi",
+   "ilerletme",
+   "progression",
+   "denge",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 260",
+   "baslik": "Rehabilitasyonu *planlamak* ve izlemek",
+   "alt": "Değerlendirme, ev programı ve sonuç ölçümü",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste vestibüler rehabilitasyon programının nasıl planlandığını, ev egzersizlerinin ilerletilmesini ve sonucun ölçülmesini öğreneceğiz.",
+    "Anlatılanlar eğitim amaçlıdır; her program, kişiyi değerlendiren yetkili klinisyenin bireysel planıdır."
+   ]
+  },
+  {
+   "id": "degerlendirme",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Başlangıç değerlendirmesi",
+   "baslik": "Başlangıçta *neye* bakılır?",
+   "adimlar": [
+    {
+     "ikon": "rapor",
+     "baslik": "Öykü ve tanı",
+     "cumle": 0,
+     "metin": "Neden, süre, tetikleyiciler"
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Vestibüler testler",
+     "cumle": 2,
+     "metin": "vHIT, kalorik, VEMP"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Öz bildirim",
+     "cumle": 3,
+     "metin": "Engellilik ve güven"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Performans",
+     "cumle": 4,
+     "metin": "Görme, denge, yürüme"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Hedefler",
+     "cumle": 6,
+     "metin": "Kişiyle birlikte"
+    }
+   ],
+   "cumleler": [
+    "Planlama, baş dönmesinin nedeninin ve süresinin bilinmesiyle başlar; akut, subakut ve kronik dönemde yaklaşım farklıdır.",
+    "Amerikan Fizyoterapi Derneğinin 2022 kılavuzu ilk iki haftayı akut, üç aya kadarını subakut, daha uzun süreni kronik kabul eder.",
+    "Video baş itme testi, yani vHIT, kalorik test ve vestibüler uyarılmış miyojenik potansiyel, yani VEMP, kaybın yerini ve derecesini gösterir.",
+    "Öz bildirim ölçekleri, kişinin günlük yaşamda ne kadar etkilendiğini ve dengesine ne kadar güvendiğini sayıya döker.",
+    "Performans testleri ise baş hareketi sırasında görmeyi, duruş dengesini ve yürümeyi ölçer.",
+    "Hangi hareketlerin ve ortamların belirtiyi tetiklediği de ayrıca kaydedilir.",
+    "Bu bilgilerle, kişiyle birlikte ölçülebilir hedefler belirlenir."
+   ]
+  },
+  {
+   "id": "olcutler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Başlangıç değerlendirmesi",
+   "baslik": "Sık kullanılan *sonuç ölçütleri*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "DHI",
+     "cumle": 0,
+     "metin": "0 ile 100, yüksek kötü"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "ABC",
+     "cumle": 1,
+     "metin": "Yüzde, yüksek iyi"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Dinamik görme",
+     "cumle": 2,
+     "metin": "Kaybedilen satır sayısı"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "TUG",
+     "cumle": 3,
+     "metin": "Saniye"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "DGI",
+     "cumle": 4,
+     "metin": "24 üzerinden"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "mCTSIB",
+     "cumle": 5,
+     "metin": "Dört duyusal koşul"
+    }
+   ],
+   "cumleler": [
+    "Baş dönmesi engellilik envanteri, kısaca DHI, sıfır ile yüz arasında puanlanır; yüksek puan daha fazla etkilenmeyi gösterir.",
+    "Aktiviteye özgü denge güveni ölçeği, kısaca ABC, yüzde olarak puanlanır; burada yüksek puan iyi durumu gösterir.",
+    "Dinamik görme keskinliği testinde, baş hareket ederken kaybedilen satır sayısı bakış stabilizasyonunun işlevsel bir göstergesidir.",
+    "Zamanlı kalk ve yürü testi, kısaca TUG, hareketliliği ve düşme riskini saniye olarak gösterir.",
+    "Dinamik yürüme indeksi, kısaca DGI, yürürken dengeyi sekiz görevle ve en fazla yirmi dört puanla değerlendirir.",
+    "Duyusal etkileşim ve dengenin modifiye klinik testi, gözler açık ve kapalı, sert ve yumuşak zeminde duruşu karşılaştırır.",
+    "Bu ölçütlerin çoğunu önceki derslerde gördük; burada amaç, aynı ölçütlerle başlangıcı ve değişimi izlemektir.",
+    "Ölçüt seçimi, kişinin yakınmasına ve programın hedeflerine göre yapılır."
+   ]
+  },
+  {
+   "id": "hedef",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hedefler",
+   "baslik": "İyi bir *hedef*",
+   "maddeler": [
+    {
+     "metin": "Kişinin günlük yaşamından",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "_Ölçülebilir_ ve somut",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bir zaman çerçevesi içinde",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Etkinlik ve _katılım_ düzeyinde",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Ara hedeflerle adım adım",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖRNEK HEDEF",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Markette alışveriş",
+      "cumle": 0,
+      "metin": "Altı hafta içinde"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "DHI puanı",
+      "cumle": 1,
+      "metin": "Anlamlı düşüş"
+     }
+    ]
+   },
+   "cumleler": [
+    "İyi bir hedef, kişinin kendi önceliklerinden doğar; örneğin markette alışveriş yapabilmek ya da işe dönmek.",
+    "Hedef ölçülebilir olmalıdır; örneğin baş dönmesi engellilik envanteri puanında anlamlı bir düşüş ya da daha kısa bir yürüme süresi.",
+    "Her hedefin bir zaman çerçevesi vardır; örneğin altı hafta içinde.",
+    "Hedefler yalnız test puanlarını değil, günlük etkinlikleri ve sosyal yaşama katılımı da kapsamalıdır.",
+    "Büyük hedefler, haftalık izlenebilecek küçük ara hedeflere bölünür.",
+    "Hedefleri kişiyle birlikte yazmak, programa uyumu ve motivasyonu artırır."
+   ]
+  },
+  {
+   "id": "ev_programi",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ev egzersiz programı",
+   "baslik": "Ev egzersiz *programı*",
+   "adimlar": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Seç",
+     "cumle": 0,
+     "metin": "Bulgulara göre egzersiz"
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Öğret",
+     "cumle": 1,
+     "metin": "Klinikte birlikte yap"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Yaz",
+     "cumle": 2,
+     "metin": "Süre, tekrar, ilerletme"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Günlük",
+     "cumle": 3,
+     "metin": "Belirti ve uyum kaydı"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kontrol",
+     "cumle": 4,
+     "metin": "Haftalık güncelle"
+    }
+   ],
+   "cumleler": [
+    "Ev egzersiz programı (home exercise program), değerlendirmede bulunan sorunlara göre seçilen egzersizlerden oluşur.",
+    "Her egzersiz klinikte kişiyle birlikte yapılır; doğru hız, doğru hedef ve güvenli duruş gösterilir.",
+    "Egzersizlerin süresi, günlük tekrar sayısı ve nasıl ilerletileceği yazılı ya da videolu olarak verilir.",
+    "Kişi bir günlükte egzersizleri yapıp yapmadığını ve belirtilerinin şiddetini kaydeder.",
+    "Kılavuz, ev programının haftalık klinik kontrolleriyle yürütülebileceğini belirtir ve gözetimli rehabilitasyonu güçlü düzeyde önerir.",
+    "Her kontrolde program, kişinin ilerlemesine göre güncellenir."
+   ]
+  },
+  {
+   "id": "ilerletme",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ev egzersiz programı",
+   "baslik": "İlerletmenin *değişkenleri*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Hız",
+     "cumle": 0,
+     "metin": "Baş hareketi hızlanır"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Süre",
+     "cumle": 1,
+     "metin": "Daha uzun, daha sık"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Görsel ortam",
+     "cumle": 2,
+     "metin": "Düzden desenliye"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Duruş",
+     "cumle": 3,
+     "metin": "Oturma, ayakta, yürüme"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Zemin",
+     "cumle": 4,
+     "metin": "Sertten yumuşağa"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Ek görev",
+     "cumle": 5,
+     "metin": "Sayma, konuşma"
+    }
+   ],
+   "cumleler": [
+    "Egzersizi ilerletmenin ilk yolu, baş hareketinin hızını artırmaktır.",
+    "Egzersizin süresi ve günlük tekrar sayısı da kademeli olarak artırılır.",
+    "Arka plan düz bir duvardan desenli ya da hareketli bir görüntüye çevrilerek görsel zorluk artırılır.",
+    "Duruş oturmaktan ayakta durmaya, oradan yürümeye ilerler.",
+    "Zemin sertten yumuşağa, ayak tabanı genişten dara doğru değiştirilir.",
+    "Son aşamada yürürken saymak ya da konuşmak gibi ikinci bir görev eklenir.",
+    "Bir seferde yalnız bir değişkeni zorlaştırmak, belirtideki değişimin nedenini anlamayı kolaylaştırır."
+   ]
+  },
+  {
+   "id": "belirti",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ev egzersiz programı",
+   "baslik": "Belirtiyi *izlemek*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 40,
+     "adim": 10,
+     "ad": "Dakika (örnek)"
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Belirti puanı"
+    },
+    "seriler": [
+     {
+      "ad": "uygun",
+      "noktalar": [
+       [
+        0,
+        2
+       ],
+       [
+        5,
+        2
+       ],
+       [
+        8,
+        4
+       ],
+       [
+        12,
+        5
+       ],
+       [
+        15,
+        4
+       ],
+       [
+        20,
+        3
+       ],
+       [
+        25,
+        2
+       ],
+       [
+        40,
+        2
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "uygun yoğunluk",
+      "cumle": 1
+     },
+     {
+      "ad": "fazla",
+      "noktalar": [
+       [
+        0,
+        2
+       ],
+       [
+        5,
+        2
+       ],
+       [
+        8,
+        6
+       ],
+       [
+        12,
+        8
+       ],
+       [
+        20,
+        7.5
+       ],
+       [
+        30,
+        6.5
+       ],
+       [
+        40,
+        6
+       ]
+      ],
+      "renk": "kirmizi",
+      "kesik": true,
+      "etiket": "fazla yoğun",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "egzersiz",
+      "x": [
+       5,
+       15
+      ],
+      "renk": "sari",
+      "etiket": "egzersiz",
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Kısa sürede _başlangıca_ döner",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Uzun sürerse _yoğunluğu azalt_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Yeni belirti: _klinisyene_ bildir",
+     "cumle": 5,
+     "ikon": "telefon"
+    }
+   ],
+   "cumleler": [
+    "Egzersiz sırasında belirtiyi izlemenin pratik bir yolu, sıfır ile on arasında bir belirti puanı kullanmaktır.",
+    "Bu örnekte egzersizden önce iki olan puan, egzersiz sırasında beşe çıkıyor.",
+    "Egzersiz bittikten sonra puan kısa sürede başlangıç düzeyine geri iniyor; bu, uygun bir yoğunluğu gösterir.",
+    "Puan çok yükselir ve uzun süre inmezse, egzersizin yoğunluğu azaltılır.",
+    "Programın ilk haftalarında belirtilerin geçici olarak artabildiği bildirilmiştir; bu tek başına programı bırakma nedeni değildir.",
+    "Ancak yeni bir belirti, düşme ya da genel durumda kötüleşme klinisyene hemen bildirilir."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem ve sonlandırma",
+   "baslik": "İlerlemeyi *ölçmek*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 7,
+     "adim": 1,
+     "ad": "Hafta"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "DHI toplam puanı"
+    },
+    "seriler": [
+     {
+      "ad": "dhi",
+      "noktalar": [
+       [
+        0,
+        60
+       ],
+       [
+        2,
+        54
+       ],
+       [
+        4,
+        42
+       ],
+       [
+        6,
+        34
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": true,
+      "etiket": "örnek kişi",
+      "cumle": 1
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "degisim",
+      "y": [
+       34,
+       60
+      ],
+      "xk": 6.5,
+      "etiket": "26 puan",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Anlamlı değişim: _yaklaşık 18 puan_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Performans testlerini _tekrarla_",
+     "cumle": 5,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "İkisi birlikte: _güvenilir_ ilerleme",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, tek taraflı kaybı olan örnek bir kişinin altı haftalık programdaki baş dönmesi engellilik envanteri puanlarını gösteriyor.",
+    "Başlangıçta altmış olan puan, ikinci haftada elli dörde, altıncı haftada otuz dörde iniyor.",
+    "İlk haftalardaki küçük değişim ölçüm hatasının içinde kalabilir; bu yüzden tek bir ara ölçümle karar verilmez.",
+    "Baş dönmesi engellilik envanteri dersinde, anlamlı değişim için yaklaşık on sekiz puanlık fark gerektiğini görmüştük.",
+    "Bu örnekte yirmi altı puanlık düşüş bu sınırın açıkça üzerindedir.",
+    "Aynı dönemde dinamik yürüme indeksi ve dinamik görme keskinliği gibi performans ölçütleri de aynı koşullarla tekrarlanır.",
+    "Öz bildirim ve performans ölçütlerinin birlikte iyileşmesi, ilerlemenin en güvenilir göstergesidir."
+   ]
+  },
+  {
+   "id": "sonlandirma",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem ve sonlandırma",
+   "baslik": "Ne zaman *sonlandırılır?*",
+   "maddeler": [
+    {
+     "metin": "Temel hedeflere _ulaşıldı_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Belirtiler düzeldi",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Denge ve vestibüler işlev normale döndü",
+     "cumle": 2,
+     "ikon": "denge"
+    },
+    {
+     "metin": "İlerleme _plato_ yaptı",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Sürdürme programı verilir",
+     "cumle": 5,
+     "ikon": "ev"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "SONLANDIRMA",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Hedef",
+      "cumle": 0,
+      "metin": "Ulaşıldı"
+     },
+     {
+      "ikon": "grafik",
+      "baslik": "Plato",
+      "cumle": 3,
+      "metin": "İlerleme durdu"
+     }
+    ]
+   },
+   "cumleler": [
+    "Kılavuza göre temel hedeflere ulaşılması, programı sonlandırmak için bir nedendir.",
+    "Belirtilerin düzelmesi ve egzersizlerin artık belirti oluşturmaması da sonlandırma ölçütleri arasındadır.",
+    "Denge ölçütlerinin ve vestibüler işlevin normale dönmesi de bir başka ölçüttür.",
+    "Düzenli çalışmaya rağmen ölçümlerde artık ilerleme görülmüyorsa, yani bir plato oluşmuşsa program sonlandırılabilir.",
+    "Karar verirken hem nesnel ölçümler hem de kişinin kendi bildirimi birlikte değerlendirilir.",
+    "Program bittiğinde, kazanımların korunması için kısa bir sürdürme programı ve gerekirse yeniden başvuru yolu verilir."
+   ]
+  },
+  {
+   "id": "zayif",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem ve sonlandırma",
+   "baslik": "İlerleme *yetersizse*",
+   "maddeler": [
+    {
+     "metin": "Uyum: egzersizler yapılıyor mu?",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Yeni BPPV ya da başka tanı?",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Kaygı, depresyon, migren",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "İlaçlar ve görme sorunları",
+     "cumle": 3,
+     "ikon": "ilac"
+    },
+    {
+     "metin": "Kalıcı postüral algısal baş dönmesi?",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "posterior_kanal",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "posterior_kanal",
+      "metin": "posterior kanal",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "İlerleme beklenenden yavaşsa önce egzersizlerin gerçekten ve doğru biçimde yapılıp yapılmadığı sorulur.",
+    "Program sırasında yeni bir benign paroksismal pozisyonel vertigo gelişmiş olabilir; pozisyonel testler tekrarlanır.",
+    "Kaygı, depresyon ve migren gibi eşlik eden durumlar rehabilitasyon sonucunu olumsuz etkileyebilir; gerekirse ilgili uzmana yönlendirilir.",
+    "Uzun süreli baskılayıcı ilaç kullanımı ve görme sorunları da gözden geçirilir.",
+    "Kronik ve giderek kötüleşen belirtilerde kalıcı postüral algısal baş dönmesine geçiş olabileceği unutulmamalıdır.",
+    "Bu durumda yaklaşımın değiştirilmesi ve kişinin hekim değerlendirmesine yönlendirilmesi gerekir."
+   ]
+  },
+  {
+   "id": "vaka",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem ve sonlandırma",
+   "baslik": "Örnek: *nörit* sonrası program",
+   "adimlar": [
+    {
+     "ikon": "takvim",
+     "baslik": "Başlangıç",
+     "cumle": 0,
+     "metin": "Nöritten iki ay sonra"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Ölçüm",
+     "cumle": 1,
+     "metin": "DHI 60, DGI 17"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Program",
+     "cumle": 2,
+     "metin": "Bakış ve denge"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Altı hafta",
+     "cumle": 4,
+     "metin": "DHI 34, DGI 22"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Karar",
+     "cumle": 5,
+     "metin": "Sürdürme programı"
+    }
+   ],
+   "cumleler": [
+    "Örnek olarak, sol vestibüler nöritten iki ay sonra baş çevirirken dengesizlik ve bulanık görmeden yakınan bir kişiyi düşünelim.",
+    "Başlangıçta baş dönmesi engellilik envanteri altmış, dinamik yürüme indeksi on yedi puandır.",
+    "Programda bakış stabilizasyonu, denge ve baş çevirerek yürüme egzersizleri yer alır.",
+    "Kişi haftalık kontrollere gelir ve ev programını günlüğüne kaydeder.",
+    "Altıncı haftada envanter puanı otuz dörde iner, yürüme indeksi yirmi ikiye yükselir.",
+    "Hedeflerin çoğuna ulaşıldığı için program bir sürdürme planıyla sonlandırılır; bu örnek yalnız eğitim amaçlıdır."
+   ]
+  },
+  {
+   "id": "ekip",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "İzlem ve sonlandırma",
+   "baslik": "Ekipte *kim* ne yapar?",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Hekim",
+     "cumle": 0,
+     "metin": "Tanı ve ilaç kararı"
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Odyolog",
+     "cumle": 1,
+     "metin": "Vestibüler ve işitme testleri"
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Fizyoterapist",
+     "cumle": 2,
+     "metin": "Egzersiz programı"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Psikolog",
+     "cumle": 3,
+     "metin": "Kaygı ve uyum"
+    }
+   ],
+   "cumleler": [
+    "Baş dönmesinin nedenine ilişkin tanı ve ilaç kararları hekime aittir.",
+    "Odyolog, vestibüler ve işitme testleriyle başlangıç durumunu ve değişimi belgeler.",
+    "Egzersiz programı, vestibüler rehabilitasyon alanında yetkin bir klinisyen, çoğu zaman bir fizyoterapist tarafından yürütülür.",
+    "Belirgin kaygı ya da depresyon varsa psikolojik destek, programa eşlik eden önemli bir bileşendir.",
+    "Ekip üyelerinin aynı ölçütleri kullanması, ilerlemenin ortak bir dille izlenmesini sağlar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ölçütleri her seferinde aynı koşullarda tekrarlayın: aynı ölçek, aynı ortam, benzer saat. Değişimi kişiye grafikle göstermek motivasyonu artırır.",
+   "cumleler": [
+    "Sahadan bir ipucu: izlem ölçümlerini her seferinde aynı ölçekle, aynı ortamda ve mümkünse günün benzer bir saatinde yapın.",
+    "Öz bildirim ölçeklerini testlerden önce doldurtun; testlerden sonra yorgunluk yanıtları etkileyebilir.",
+    "Puanların değişimini kişiye basit bir grafikle göstermek, ilerlemeyi somutlaştırır ve motivasyonu artırır.",
+    "Değişim ölçüm hatasının içindeyse bunu da açıkça anlatın; beklentiyi gerçekçi tutmak uyumu korur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Başlangıç: öykü, testler, _ölçütler_",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ölçülebilir, zamanlı, _kişiye özgü_ hedef",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ev programı ve haftalık kontrol",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Hedef, düzelme ya da _plato_: sonlandır",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Program, nedenin ve dönemin bilinmesi, vestibüler testler ve öz bildirim ile performans ölçütleriyle başlar.",
+    "Hedefler kişinin günlük yaşamından, ölçülebilir ve bir zaman çerçevesi içinde belirlenir.",
+    "Ev egzersiz programı yazılı verilir, haftalık kontrollerle ilerletilir ve belirti puanıyla izlenir.",
+    "Hedeflere ulaşılması, belirtilerin düzelmesi, işlevin normale dönmesi ya da ilerlemenin durması sonlandırma nedenleridir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Aşağıdakilerden hangisi kılavuzda sonlandırma ölçütü değildir?",
+   "secenekler": [
+    "Temel hedeflere ulaşılması",
+    "İlk haftada belirti artışı",
+    "İlerlemede plato",
+    "Belirtilerin düzelmesi"
+   ],
+   "dogru": 1,
+   "aciklama": "İlk haftalardaki _geçici belirti artışı_ tek başına bırakma nedeni değildir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: aşağıdakilerden hangisi rehabilitasyonu sonlandırma ölçütü değildir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: ilk haftada belirti artışı.",
+    "Programın başında belirtiler geçici olarak artabilir; çoğu kişi devam ettikçe iyileşir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Çocuklarda ve yaşlılarda vestibüler *rehabilitasyon*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste vestibüler rehabilitasyonun çocuklarda ve yaşlılarda nasıl uyarlandığını göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,1217 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D191_Konusma_Haritalama_ISTS_TR",
+ "kapak": {
+  "ust": "DERS 191",
+  "baslik": "Konuşma<br>*haritalama*",
+  "alt": "ISTS ile doğrulama ve SII",
+  "cizim": "rem_duzenegi"
+ },
+ "youtube": {
+  "baslik": "Konuşma haritalama ve ISTS ile doğrulama | Ders 191 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazı konuşmayı kulakta nereye taşıyor? Bu derste ISTS test sinyalinin nasıl üretildiğini, konuşma haritasında eşik, cihazlı konuşma ve rahatsızlık düzeyinin nasıl okunduğunu, yüzdelikleri ve konuşma anlaşılırlık indeksini (SII) öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Holube, Fredelake, Vlaming ve Kollmeier (2010), Development and analysis of an International Speech Test Signal (ISTS), International Journal of Audiology; IEC 60118-15, Methods for characterizing signal processing in hearing aids with a speech-like signal; ANSI/ASA S3.5-1997, Methods for Calculation of the Speech Intelligibility Index; Dillon, Hearing Aids; Mueller, Ricketts ve Bentler, Modern Hearing Aids.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "ISTS"
+  ],
+  "etiketler": [
+   "konuşma haritalama",
+   "speech mapping",
+   "ISTS",
+   "International Speech Test Signal",
+   "SII",
+   "konuşma anlaşılırlık indeksi",
+   "LTASS",
+   "gerçek kulak ölçümü",
+   "doğrulama",
+   "verification",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 191",
+   "baslik": "Konuşma *haritalama*",
+   "alt": "ISTS, LTASS ve SII",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme cihazını gerçek konuşmaya benzeyen bir sinyalle doğrulamayı, yani konuşma haritalamayı öğreneceğiz.",
+    "Uluslararası konuşma test sinyalini, yani ISTS'yi, konuşmanın kulaktaki dağılımını ve konuşma anlaşılırlık indeksini adım adım ele alacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ISTS test sinyali",
+   "baslik": "Neden *konuşma* sinyali?",
+   "maddeler": [
+    {
+     "metin": "Cihazlar konuşmaya göre davranır",
+     "cumle": 0,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Saf ses gürültü sanılabilir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kompresyon gerçek dinamiğe tepki verir",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Amaç: kulakta konuşmayı görmek",
+     "cumle": 5,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "rem_duzenegi",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "hoparlor",
+      "metin": "konuşma benzeri sinyal",
+      "cumle": 0
+     },
+     {
+      "parca": "prob_tupu",
+      "metin": "prob tüp",
+      "cumle": 5
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "hoparlor",
+      "cumle": 0
+     },
+     {
+      "parca": "prob_tupu",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Günümüz işitme cihazları sinyali sürekli analiz eder ve ne duyduğuna göre davranışını değiştirir.",
+    "Gürültü azaltma, geri besleme iptali ve kompresyon, gelen sesin türüne ve zamanla değişimine tepki verir.",
+    "Sabit bir saf ses ya da sürekli bir gürültü, bu sistemler tarafından gürültü gibi algılanıp bastırılabilir.",
+    "Kompresyon da konuşmanın hızlı iniş çıkışlarına, sabit bir sinyalden farklı yanıt verir.",
+    "Bu yüzden saf sesle ölçülen kazanç, cihazın konuşmaya gerçekte ne yaptığını tam yansıtmayabilir.",
+    "Konuşma haritalama (speech mapping), konuşma benzeri bir sinyalin kulak yolunda nereye düştüğünü doğrudan gösterir."
+   ]
+  },
+  {
+   "id": "ists",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ISTS test sinyali",
+   "baslik": "*ISTS* nedir?",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Altı konuşmacı",
+     "cumle": 1,
+     "metin": "Kadın sesleri"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Altı dil",
+     "cumle": 2,
+     "metin": "Aynı kısa metin"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Anlaşılmaz",
+     "cumle": 3,
+     "metin": "Ama konuşma gibi"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Standart spektrum",
+     "cumle": 4,
+     "metin": "Uluslararası kadın LTASS"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "60 saniye",
+     "cumle": 5,
+     "metin": "İlk saniyeler oturma için"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Standart",
+     "cumle": 6,
+     "metin": "IEC 60118-15"
+    }
+   ],
+   "cumleler": [
+    "Uluslararası konuşma test sinyali (International Speech Test Signal), kısaca ISTS, cihaz ölçümü için geliştirilmiş bir sinyaldir.",
+    "Altı kadın konuşmacının kaydından oluşur.",
+    "Konuşmacılar Amerikan İngilizcesi, Arapça, Mandarin Çincesi, Fransızca, Almanca ve İspanyolca konuşur.",
+    "Kayıtlar kısa parçalara bölünüp karıştırıldığı için sinyal anlaşılmaz, ama konuşmanın ritmini ve iniş çıkışlarını taşır.",
+    "Uzun süreli ortalama konuşma spektrumu (long-term average speech spectrum), kısaca LTASS, kadın konuşma ortalamasına uyar.",
+    "Sinyal 60 saniye sürer; ilk saniyeler cihazın oturmasına bırakılır, analiz sonraki bölümden yapılır.",
+    "ISTS ve analiz yöntemi, işitme cihazı ölçümleri için uluslararası bir IEC standardında tanımlanmıştır."
+   ]
+  },
+  {
+   "id": "uretim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "ISTS test sinyali",
+   "baslik": "ISTS *nasıl* üretildi?",
+   "adimlar": [
+    {
+     "ikon": "mikrofon",
+     "baslik": "Kayıt",
+     "cumle": 0,
+     "metin": "Altı dil, aynı masal"
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Parçalama",
+     "cumle": 1,
+     "metin": "Kısa bölümler"
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Karıştırma",
+     "cumle": 2,
+     "metin": "Diller arası"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Spektrum",
+     "cumle": 3,
+     "metin": "Kadın ortalaması"
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Test sinyali",
+     "cumle": 4,
+     "metin": "Dil bağımsız"
+    }
+   ],
+   "cumleler": [
+    "Her konuşmacı kendi dilinde aynı kısa metni, Kuzey Rüzgarı ile Güneş masalını okudu.",
+    "Kayıtlar yaklaşık hece uzunluğunda kısa parçalara bölündü.",
+    "Parçalar diller arasında karıştırılarak yeniden dizildi; böylece hiçbir dilde anlamlı bir cümle kalmadı.",
+    "Ortaya çıkan sinyalin spektrumu, uluslararası kadın konuşma ortalamasına göre son kez ayarlandı.",
+    "Sonuç, dünyanın her yerinde aynı biçimde kullanılabilen, dilden bağımsız bir konuşma benzeri sinyaldir."
+   ]
+  },
+  {
+   "id": "harita",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Konuşma haritası",
+   "baslik": "Kulakta *konuşma haritası*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Kulak yolunda düzey (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        42
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        72
+       ],
+       [
+        6000,
+        78
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "eşik",
+      "cumle": 1
+     },
+     {
+      "ad": "ucl",
+      "noktalar": [
+       [
+        250,
+        105
+       ],
+       [
+        500,
+        105
+       ],
+       [
+        1000,
+        107
+       ],
+       [
+        2000,
+        110
+       ],
+       [
+        4000,
+        112
+       ],
+       [
+        8000,
+        112
+       ]
+      ],
+      "renk": "turuncu",
+      "kesik": true,
+      "etiket": "rahatsızlık düzeyi",
+      "cumle": 2
+     },
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        250,
+        56
+       ],
+       [
+        500,
+        58
+       ],
+       [
+        1000,
+        52
+       ],
+       [
+        2000,
+        52
+       ],
+       [
+        3000,
+        50
+       ],
+       [
+        4000,
+        45
+       ],
+       [
+        6000,
+        40
+       ],
+       [
+        8000,
+        36
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "etiket": "cihazsız konuşma",
+      "cumle": 3
+     },
+     {
+      "ad": "cihazli",
+      "noktalar": [
+       [
+        250,
+        58
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        66
+       ],
+       [
+        2000,
+        73
+       ],
+       [
+        3000,
+        78
+       ],
+       [
+        4000,
+        79
+       ],
+       [
+        6000,
+        74
+       ],
+       [
+        8000,
+        66
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "cihazlı konuşma",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "eksik",
+      "x": [
+       5500,
+       8000
+      ],
+      "renk": "sari",
+      "etiket": "duyulmuyor",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Konuşma haritasında her şey, timpanik membranın önündeki ses basınç düzeyi olarak, dB SPL cinsinden gösterilir.",
+    "Kırmızı çizgi, kişinin işitme eşiklerinin bu ölçeğe çevrilmiş halidir; çizginin altındaki sesler duyulmaz.",
+    "Üstteki kesik çizgi, kişinin rahatsızlık düzeyini gösterir.",
+    "Gri eğri, 65 dB SPL'lik orta şiddette konuşmanın cihazsız kulaktaki ortalama düzeyidir; tiz bölümü eşiğin altında kalıyor.",
+    "Mavi eğri, aynı konuşmanın cihazla ulaştığı düzeydir.",
+    "Bu örnekte cihazlı konuşma 4000 Hz'e kadar eşiğin üzerine çıkıyor, ama yaklaşık 5000 Hz'in üzerinde hala duyulmuyor.",
+    "Yani tek bir ekranda, konuşmanın hangi bölümünün duyulur olduğunu ve hangisinin eksik kaldığını görürüz."
+   ]
+  },
+  {
+   "id": "yuzdelik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Konuşma haritası",
+   "baslik": "Ortalama değil, *aralık*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Kulak yolunda düzey (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        42
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        72
+       ],
+       [
+        6000,
+        78
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "eşik",
+      "cumle": 1
+     },
+     {
+      "ad": "p99",
+      "noktalar": [
+       [
+        250,
+        70
+       ],
+       [
+        500,
+        75
+       ],
+       [
+        1000,
+        78
+       ],
+       [
+        2000,
+        85
+       ],
+       [
+        3000,
+        90
+       ],
+       [
+        4000,
+        91
+       ],
+       [
+        6000,
+        86
+       ],
+       [
+        8000,
+        78
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "99. yüzdelik",
+      "cumle": 2
+     },
+     {
+      "ad": "ltass",
+      "noktalar": [
+       [
+        250,
+        58
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        66
+       ],
+       [
+        2000,
+        73
+       ],
+       [
+        3000,
+        78
+       ],
+       [
+        4000,
+        79
+       ],
+       [
+        6000,
+        74
+       ],
+       [
+        8000,
+        66
+       ]
+      ],
+      "renk": "mavi",
+      "kalin": true,
+      "etiket": "ortalama",
+      "cumle": 2
+     },
+     {
+      "ad": "p30",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        55
+       ],
+       [
+        3000,
+        60
+       ],
+       [
+        4000,
+        61
+       ],
+       [
+        6000,
+        56
+       ],
+       [
+        8000,
+        48
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "30. yüzdelik",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "dinamik",
+      "y": [
+       48,
+       78
+      ],
+      "xk": 1000,
+      "etiket": "yaklaşık 30 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Konuşma sabit bir ses değildir; her frekans bandında düzeyi an be an değişir.",
+    "Standart analizde sinyal üçte bir oktavlık bantlarda ve 125 milisaniyelik kısa pencerelerle incelenir.",
+    {
+     "yazi": "Her bantta tepeler 99., yumuşak bölümler 30. yüzdelik olarak gösterilir; arada 65. yüzdelik ve uzun süreli ortalama yer alır.",
+     "ses": "Her bantta tepeler doksan dokuzuncu, yumuşak bölümler otuzuncu yüzdelik olarak gösterilir; arada altmış beşinci yüzdelik ve uzun süreli ortalama yer alır."
+    },
+    {
+     "yazi": "Cihazsız ISTS'de 99. ile 30. yüzdelik arasındaki fark, yani konuşmanın dinamik aralığı yaklaşık 30 dB'dir.",
+     "ses": "Cihazsız ISTS'de doksan dokuzuncu ile otuzuncu yüzdelik arasındaki fark, yani konuşmanın dinamik aralığı yaklaşık 30 desibeldir."
+    },
+    "Kompresyonlu bir cihazda bu aralık daralabilir; ekranda daralma doğrudan görülür.",
+    "Hedef, konuşmanın yumuşak bölümlerinin de olabildiğince eşiğin üzerine çıkması ve tepelerin rahatsızlık düzeyini aşmamasıdır."
+   ]
+  },
+  {
+   "id": "olcum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Konuşma haritası",
+   "baslik": "Ölçüm *adımları*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Eşikleri çevir",
+     "cumle": 0,
+     "metin": "dB HL'den dB SPL'ye"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Prob tüp",
+     "cumle": 1,
+     "metin": "Zara yakın"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Üç düzey",
+     "cumle": 2,
+     "metin": "55, 65, 75 ile 80"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Hedefle karşılaştır",
+     "cumle": 3,
+     "metin": "Her düzeyde"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "En yüksek çıkış",
+     "cumle": 4,
+     "metin": "85 ile 90 dB"
+    }
+   ],
+   "cumleler": [
+    "İlk adımda kişinin dB HL eşikleri, ortalama ya da ölçülmüş kulak değerleriyle kulak yolundaki dB SPL değerlerine çevrilir.",
+    "Prob tüpü, bir önceki derste gördüğümüz gibi timpanik membrana yaklaşık 5 mm yakın yerleştirilir.",
+    "ISTS genellikle yumuşak, orta ve yüksek konuşma için yaklaşık 55, 65 ve 75 ile 80 dB SPL düzeylerinde verilir.",
+    "Her düzeyde ölçülen ortalama eğri, reçete hedefiyle aynı ekranda karşılaştırılır ve kanal kazançları ayarlanır.",
+    "Son olarak 85 ile 90 dB SPL düzeyinde bir tarama sesiyle cihazın en yüksek çıkışı kontrol edilir.",
+    "En yüksek çıkış için konuşma sinyali yerine tarama sesi kullanılır; çünkü amaç cihazın en güçlü çıkışını yakalamaktır."
+   ]
+  },
+  {
+   "id": "ekran",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Konuşma haritası",
+   "baslik": "Ekranda *ne arıyoruz?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Duyulurluk",
+     "cumle": 0,
+     "metin": "Konuşma eşik üstünde"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Rahatlık",
+     "cumle": 1,
+     "metin": "Tepeler rahatsızlık altında"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Ayrışma",
+     "cumle": 2,
+     "metin": "Üç düzey ayrı"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Hedef uyumu",
+     "cumle": 3,
+     "metin": "Her düzeyde yakın"
+    }
+   ],
+   "cumleler": [
+    "Ekranda önce şuna bakarız: orta şiddetteki konuşmanın ortalaması, önemli frekanslarda eşiğin üzerinde mi?",
+    "İkinci olarak, yüksek konuşmanın tepeleri ve en yüksek çıkış, rahatsızlık düzeyinin altında mı?",
+    "Üçüncü olarak yumuşak, orta ve yüksek konuşma eğrileri birbirinden ayrışıyor mu; yani kompresyon fazla mı?",
+    "Son olarak her düzeyde ölçülen eğri, reçete hedefine yeterince yakın mı?",
+    "Bu dört soru, ince ayara geçmeden önce cihazın temel işini yapıp yapmadığını gösterir."
+   ]
+  },
+  {
+   "id": "sii",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "SII",
+   "baslik": "Konuşma anlaşılırlık *indeksi*",
+   "maddeler": [
+    {
+     "metin": "Değer: _0 ile 1_ arasında",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Duyulan bant, bant önemiyle çarpılır",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Yüzde doğru yanıt _değildir_",
+     "cumle": 4,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Cihazsız ve cihazlı karşılaştırılır",
+     "cumle": 5,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 0,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        30,
+        35,
+        40,
+        50,
+        60,
+        65
+       ],
+       "cumle": 0
+      }
+     ]
+    },
+    "vurgula": [
+     {
+      "parca": "unsuzler",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Konuşma anlaşılırlık indeksi (speech intelligibility index), kısaca SII, konuşmanın ne kadarının duyulur olduğunu tek sayıyla özetler.",
+    "Değer 0 ile 1 arasındadır: 0 hiçbir bilginin duyulmadığını, 1 tüm konuşma bilgisinin duyulduğunu gösterir.",
+    "Hesapta her frekans bandında konuşmanın eşiğin üzerinde kalan bölümü bulunur ve o bandın önem ağırlığıyla çarpılır.",
+    {
+     "yazi": "İndeksin hesap yöntemi Amerikan ANSI S3.5 standardında tanımlanmıştır.",
+     "ses": "İndeksin hesap yöntemi Amerikan ansi standardında tanımlanmıştır."
+    },
+    {
+     "yazi": "SII bir anlaşılırlık yüzdesi değildir; örneğin 0,5'lik bir değer, kelimelerin yarısının anlaşılacağı anlamına gelmez.",
+     "ses": "SII bir anlaşılırlık yüzdesi değildir; örneğin sıfır virgül beşlik bir değer, kelimelerin yarısının anlaşılacağı anlamına gelmez."
+    },
+    "Birçok ölçüm sistemi SII'yı cihazsız ve cihazlı olarak gösterir; aradaki fark, cihazın duyulurluğa katkısını özetler."
+   ]
+  },
+  {
+   "id": "bant",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "SII",
+   "baslik": "Her bant *eşit değil*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Oktav bandı (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 30,
+     "adim": 10,
+     "ad": "Bant önemi (yüzde)"
+    },
+    "seriler": [
+     {
+      "ad": "onem",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        250,
+        6
+       ],
+       [
+        500,
+        17
+       ],
+       [
+        1000,
+        24
+       ],
+       [
+        2000,
+        26
+       ],
+       [
+        4000,
+        21
+       ],
+       [
+        8000,
+        5
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "orta",
+      "x": [
+       800,
+       2600
+      ],
+      "renk": "sari",
+      "etiket": "en önemli bölge",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "SII hesabında her frekans bandı aynı ağırlığı taşımaz.",
+    "Bu grafik, oktav bantları için standart ortalama konuşma önem ağırlıklarını yaklaşık olarak gösteriyor.",
+    "En yüksek önem 1000 ve 2000 Hz bantlarındadır; ikisi birlikte toplam bilginin yaklaşık yarısını taşır.",
+    "4000 Hz bandı da yaklaşık beşte birlik bir paya sahiptir.",
+    "250 ve 8000 Hz bantlarının payı ise küçüktür.",
+    "Bu yüzden orta ve tiz frekanslarda duyulur hale gelen konuşma, SII'yı pes frekanslardan çok daha fazla artırır."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "SII",
+   "baslik": "SII'yı *yorumlarken*",
+   "ogeler": [
+    {
+     "ikon": "yanlis",
+     "baslik": "Yüzde değil",
+     "cumle": 0,
+     "metin": "Duyulurluk özeti"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Kişiye özgü",
+     "cumle": 1,
+     "metin": "Aynı SII, farklı sonuç"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Yaşa göre",
+     "cumle": 2,
+     "metin": "Çocukta normlar var"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Tek hedef değil",
+     "cumle": 3,
+     "metin": "Rahatlık da önemli"
+    }
+   ],
+   "cumleler": [
+    "SII bir duyulurluk özetidir; kişinin gerçekte ne kadar anlayacağını tek başına söylemez.",
+    "Aynı SII değerine sahip iki kişi, kokleanın durumuna ve beynin işlemesine göre farklı sonuç alabilir.",
+    "Çocuklar için kayıp derecesine göre beklenen cihazlı SII değerlerini gösteren normatif çalışmalar vardır.",
+    "SII'yı en üst düzeye çıkarmak için kazancı aşırı artırmak, rahatsızlık ve geri besleme getirebilir; amaç dengedir.",
+    "Bu yüzden SII, hedefe uyum ve kişinin geri bildirimiyle birlikte yorumlanmalıdır."
+   ]
+  },
+  {
+   "id": "duzeltme",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ayar ve yorum",
+   "baslik": "Örnek: *hedefin altında*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 120,
+     "adim": 20,
+     "ad": "Kulak yolunda düzey (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "esik",
+      "noktalar": [
+       [
+        250,
+        40
+       ],
+       [
+        500,
+        42
+       ],
+       [
+        1000,
+        48
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        72
+       ],
+       [
+        6000,
+        78
+       ],
+       [
+        8000,
+        80
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "eşik",
+      "cumle": 1
+     },
+     {
+      "ad": "hedef",
+      "noktalar": [
+       [
+        250,
+        58
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        67
+       ],
+       [
+        2000,
+        74
+       ],
+       [
+        3000,
+        78
+       ],
+       [
+        4000,
+        80
+       ],
+       [
+        6000,
+        78
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "hedef",
+      "cumle": 1
+     },
+     {
+      "ad": "ilk",
+      "noktalar": [
+       [
+        250,
+        59
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        66
+       ],
+       [
+        2000,
+        68
+       ],
+       [
+        3000,
+        68
+       ],
+       [
+        4000,
+        66
+       ],
+       [
+        6000,
+        60
+       ]
+      ],
+      "renk": "gri",
+      "yumusak": true,
+      "etiket": "ilk ölçüm",
+      "cumle": 1
+     },
+     {
+      "ad": "son",
+      "noktalar": [
+       [
+        250,
+        59
+       ],
+       [
+        500,
+        63
+       ],
+       [
+        1000,
+        67
+       ],
+       [
+        2000,
+        73
+       ],
+       [
+        3000,
+        77
+       ],
+       [
+        4000,
+        78
+       ],
+       [
+        6000,
+        74
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "etiket": "ayardan sonra",
+      "cumle": 4
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "acik",
+      "x": [
+       2000,
+       6000
+      ],
+      "renk": "sari",
+      "etiket": "hedefin altında",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Şimdi bir örnek ayara bakalım: ilk uyumdan sonra orta şiddetteki konuşmanın ölçümü yapıldı.",
+    "Kesik çizgi reçete hedefini, gri eğri ise ilk ölçümü gösteriyor.",
+    "Ölçülen eğri 2000 Hz'in üzerinde hedefin belirgin biçimde altında kalıyor.",
+    "Bu, konuşmanın tiz ünsüzlerinin yeterince duyulur olmadığı anlamına gelir.",
+    "İlgili kanallarda kazanç artırılıp ölçüm tekrarlandığında mavi eğri hedefe yaklaşıyor.",
+    "Ayardan sonra kişiye sesin nasıl geldiği sorulur ve geri besleme olup olmadığı kontrol edilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ölçümden önce kişiden konuşmamasını ve başını oynatmamasını isteyin. Sinyalin ilk saniyelerinde cihazın uyarlanabilir özellikleri yerleşir; sonucu sinyal oturduktan sonra okuyun.",
+   "cumleler": [
+    "Sahadan bir ipucu: ölçüm başlamadan kişiye konuşmamasını ve başını oynatmamasını hatırlatın.",
+    "Kişinin kendi sesi ve odadaki konuşmalar, ölçülen konuşma eğrisine karışır.",
+    "Cihazın gürültü azaltma ve kompresyon gibi uyarlanabilir özellikleri, sinyalin ilk saniyelerinde yerleşir.",
+    "Bu yüzden eğriyi sinyal başlar başlamaz değil, sinyal oturduktan sonra yorumlayın.",
+    "Sonuç beklenmedik görünürse önce prob tüpünün yerini ve cihazın hangi programda olduğunu kontrol edin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "ISTS: altı dilden anlaşılmaz konuşma sinyali",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Harita: eşik, konuşma ve rahatsızlık",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yüzdelikler konuşmanın aralığını gösterir",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "SII: bant önemli duyulurluk özeti",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Bu derste ISTS'nin altı dilde altı kadın konuşmacıdan üretilmiş, anlaşılmaz ama konuşma benzeri bir test sinyali olduğunu gördük.",
+    "Konuşma haritası eşikleri, cihazlı konuşmayı ve rahatsızlık düzeyini aynı dB SPL ekranında gösterir.",
+    "Yüzdelikler konuşmanın yumuşak bölümlerini ve tepelerini, yani dinamik aralığını gösterir.",
+    "SII ise duyulur konuşmayı bant önemine göre 0 ile 1 arasında özetler; bir anlaşılırlık yüzdesi değildir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "SII değeri 0,5 olan kişi için hangisi doğrudur?",
+   "secenekler": [
+    "Kelimelerin yarısını anlar",
+    "Konuşma bilgisinin bir kısmı duyulur",
+    "Cihaz gerekmez",
+    "Eşikler normaldir"
+   ],
+   "dogru": 1,
+   "aciklama": "SII bir _duyulurluk_ özetidir; yüzde doğru yanıta doğrudan çevrilemez.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: SII değeri 0,5 bulunan bir kişi için hangisi doğrudur?",
+     "ses": "Kendinizi test edin: SII değeri sıfır virgül beş bulunan bir kişi için hangisi doğrudur?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: konuşma bilgisinin ağırlıklı olarak bir kısmı duyulur durumdadır.",
+    "SII bir duyulurluk özetidir; kelimelerin yüzde ellisinin anlaşılacağı anlamına gelmez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "RECD: çocuklarda *gerçek kulak ile kuplör* farkı",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste çocukta küçük kulak yolunun çıkışı nasıl değiştirdiğini ve gerçek kulak ile kuplör farkını, yani RECD'yi öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

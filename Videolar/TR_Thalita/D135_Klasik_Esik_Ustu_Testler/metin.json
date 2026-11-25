@@ -1,0 +1,769 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D135_Klasik_Esik_Ustu_Testler_TR",
+ "kapak": {
+  "ust": "DERS 135",
+  "baslik": "Klasik *eşik üstü*<br>testler",
+  "alt": "ABLB, SISI, ton kayması",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.6,
+    "max": 2.4,
+    "adim": 1,
+    "yazilar": {
+     "1": "İyi kulak",
+     "2": "Kayıplı kulak"
+    },
+    "ad": ""
+   },
+   "y": {
+    "min": -10,
+    "max": 100,
+    "adim": 20,
+    "ad": "dB HL",
+    "ters": true
+   },
+   "seriler": [
+    {
+     "ad": "denge_0",
+     "noktalar": [
+      [
+       1,
+       0
+      ],
+      [
+       2,
+       50
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 2
+    },
+    {
+     "ad": "denge_20",
+     "noktalar": [
+      [
+       1,
+       20
+      ],
+      [
+       2,
+       60
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 3
+    },
+    {
+     "ad": "denge_40",
+     "noktalar": [
+      [
+       1,
+       40
+      ],
+      [
+       2,
+       70
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 4
+    },
+    {
+     "ad": "denge_60",
+     "noktalar": [
+      [
+       1,
+       60
+      ],
+      [
+       2,
+       75
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 4
+    },
+    {
+     "ad": "denge_80",
+     "noktalar": [
+      [
+       1,
+       80
+      ],
+      [
+       2,
+       80
+      ]
+     ],
+     "renk": "mavi",
+     "isaretli": true,
+     "cumle": 4
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "esikler",
+     "x": 1.5,
+     "y": 25,
+     "etiket": "eşikler: 0 ve 50",
+     "cumle": 2
+    },
+    {
+     "ad": "esitlenme",
+     "x": 1.5,
+     "y": 88,
+     "etiket": "80 dB'de eşit",
+     "cumle": 4
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Klasik eşik üstü testler: ABLB, SISI ve ton kayması | Ders 135 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Lezyon yeri için geliştirilen klasik testler nasıl yapılır ve nasıl yorumlanır? Bu derste ABLB ile rekruitmentin gösterilmesini ve merdiven grafiğini, SISI testinde bir desibellik artışları, Carhart ton kayması testini ve türevlerini, bu testlerin bugünkü yerini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Jerger, Shedd ve Harford, On the detection of extremely small changes in sound intensity (Archives of Otolaryngology, 1959); Carhart, Clinical determination of abnormal auditory adaptation (1957).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "rekruitment",
+   "tanısalodyoloji"
+  ],
+  "etiketler": [
+   "ABLB",
+   "alternate binaural loudness balance",
+   "SISI",
+   "short increment sensitivity index",
+   "ton kayması testi",
+   "tone decay test",
+   "rekruitment",
+   "Carhart",
+   "STAT",
+   "lezyon yeri",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 135",
+   "baslik": "Klasik *eşik üstü* testler",
+   "alt": "ABLB, SISI ve ton kayması",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste lezyon yeri ayrımı için geliştirilen klasik eşik üstü testleri öğreneceğiz.",
+    "Ses yüksekliği dengesiyle rekruitmentin gösterilmesini, kısa artış duyarlılık indeksini, ton kayması testini ve bugünkü yerlerini göreceğiz."
+   ]
+  },
+  {
+   "id": "mantik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Mantık",
+   "baslik": "Eşik üstünde *ne* aranır?",
+   "ogeler": [
+    {
+     "ikon": "grafik",
+     "baslik": "Rekruitment",
+     "metin": "Ses yüksekliği hızla büyür",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Küçük artışlar",
+     "metin": "1 dB artış fark edilir",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Adaptasyon",
+     "metin": "Sürekli ton söner",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Odyogram eşiği gösterir; eşiğin üzerindeki seslerin nasıl algılandığı ise koklear ve retrokoklear sorunlarda farklılaşabilir.",
+    "Koklear kayıpta dış tüy hücresi hasarı nedeniyle ses yüksekliği eşiğin üstünde anormal hızlı büyür; bu, rekruitmenttir.",
+    "Rekruitment dersinde gördüğümüz gibi, bu durum ses yüksekliğinin yüksek düzeylerde normale yetişmesine yol açar.",
+    "Rekruitmentli kulak, şiddetteki çok küçük artışları da daha kolay fark eder.",
+    "Retrokoklear sorunlarda ise işitme siniri sürekli bir uyarana yanıtı sürdüremeyebilir; ton zamanla duyulmaz hale gelir.",
+    "Klasik eşik üstü testler bu üç özelliği ölçer ve özellikle 1950'ler ile 1970'ler arasında lezyon yeri testlerinin temelini oluşturdu."
+   ]
+  },
+  {
+   "id": "ablb_yontem",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "ABLB",
+   "baslik": "ABLB *nasıl* yapılır?",
+   "adimlar": [
+    {
+     "ikon": "kulak",
+     "baslik": "Uygun hasta",
+     "metin": "Tek kulak kayıplı",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dönüşümlü ton",
+     "metin": "İki kulağa sırayla",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Sabit ve ayar",
+     "metin": "Biri sabit, biri ayarlanır",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Basamaklar",
+     "metin": "20 dB aralıklarla",
+     "cumle": 6
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Grafik",
+     "metin": "Eşit yükseklik çizgileri",
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Alternatif binaural ses yüksekliği dengesi testi (alternate binaural loudness balance), kısaca ABLB, 1930'larda Fowler'ın yöntemine dayanır.",
+    "Test için bir kulağın test frekansında normal ya da normale yakın olması gerekir.",
+    "Diğer kulak kayıplıdır ve iki kulağın eşikleri arasında belirgin bir fark bulunur.",
+    "Aynı frekanstaki ton, iki kulağa kısa aralıklarla dönüşümlü olarak verilir.",
+    "Bir kulaktaki düzey sabit tutulur; diğer kulaktaki düzey, kişi iki tonu eşit yükseklikte duyana kadar değiştirilir.",
+    "Kişiye tek bir soru sorulur: hangi taraftaki ses daha yüksek, yoksa eşit mi?",
+    "Bu dengeleme, iyi kulağın eşiğinin yaklaşık yirmi desibel üstünden başlayarak yirmişer desibellik basamaklarla tekrarlanır.",
+    "Her basamakta iki kulakta eşit yükseklik veren düzeyler bir grafikte birleştirilir.",
+    "Bu grafik merdivene benzediği için merdiven grafiği (laddergram) olarak bilinir."
+   ]
+  },
+  {
+   "id": "merdiven",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "ABLB",
+   "baslik": "Örnek: *tam* rekruitment",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.6,
+     "max": 2.4,
+     "adim": 1,
+     "yazilar": {
+      "1": "İyi kulak",
+      "2": "Kayıplı kulak"
+     },
+     "ad": ""
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 20,
+     "ad": "dB HL",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "denge_0",
+      "noktalar": [
+       [
+        1,
+        0
+       ],
+       [
+        2,
+        50
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 2
+     },
+     {
+      "ad": "denge_20",
+      "noktalar": [
+       [
+        1,
+        20
+       ],
+       [
+        2,
+        60
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 3
+     },
+     {
+      "ad": "denge_40",
+      "noktalar": [
+       [
+        1,
+        40
+       ],
+       [
+        2,
+        70
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 4
+     },
+     {
+      "ad": "denge_60",
+      "noktalar": [
+       [
+        1,
+        60
+       ],
+       [
+        2,
+        75
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 4
+     },
+     {
+      "ad": "denge_80",
+      "noktalar": [
+       [
+        1,
+        80
+       ],
+       [
+        2,
+        80
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "cumle": 4
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esikler",
+      "x": 1.5,
+      "y": 25,
+      "etiket": "eşikler: 0 ve 50",
+      "cumle": 2
+     },
+     {
+      "ad": "esitlenme",
+      "x": 1.5,
+      "y": 88,
+      "etiket": "80 dB'de eşit",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Eşik farkı: 50 dB",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Fark basamakla daralır",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "80 dB'de eşit: tam rekruitment",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "cumleler": [
+    "Şimdi tamamen örnek bir ABLB sonucunu okuyalım.",
+    "Sol sütun iyi kulağın, sağ sütun kayıplı kulağın düzeylerini gösteriyor; dikey eksende desibel HL aşağı doğru artıyor.",
+    "Eşikler iyi kulakta sıfır, kayıplı kulakta elli desibel HL; en üstteki çizgi iki eşiği birleştiriyor.",
+    "İyi kulakta yirmi desibel, kayıplı kulakta altmış desibelle eşit duyuluyor; aradaki fark elli desibelden kırka iniyor.",
+    "Basamaklar ilerledikçe fark daralıyor ve seksen desibelde iki kulak aynı düzeyde eşit yükseklikte duyuyor.",
+    "Çizgilerin aşağıda birleşmesi, ses yüksekliğinin kayıplı kulakta normale yetiştiğini, yani tam rekruitmenti gösterir.",
+    "Bu desen klasik olarak koklear bir lezyonla uyumlu kabul edilir."
+   ]
+  },
+  {
+   "id": "ablb_sonuc",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "ABLB",
+   "baslik": "ABLB'de *dört* sonuç",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Tam rekruitment",
+     "metin": "Yüksek düzeyde eşitlenir",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kısmi",
+     "metin": "Fark daralır, kapanmaz",
+     "cumle": 1
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Rekruitment yok",
+     "metin": "Fark aynı kalır",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Dekruitment",
+     "metin": "Fark büyür",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tam rekruitmentte ses yüksekliği yüksek düzeylerde iki kulakta eşitlenir.",
+    "Kısmi rekruitmentte aradaki fark daralır, ama tam kapanmaz.",
+    "Rekruitment yoksa çizgiler paralel kalır; eşik farkı bütün düzeylerde korunur.",
+    "Bu tablo iletim tipi kayıpta beklenir; çünkü sorun yalnız sesin kokleaya iletilmesindedir.",
+    "Dekruitmentte ise fark düzey arttıkça büyür; kayıplı kulakta ses yüksekliği normalden yavaş artar.",
+    "Sensörinöral kayıpta rekruitmentin yokluğu ya da dekruitment, klasik yorumda retrokoklear bir süreci düşündürür.",
+    "ABLB'nin en büyük sınırlılığı bir kulağın normal olmasını gerektirmesidir; iki taraflı kayıplarda kullanılamaz."
+   ]
+  },
+  {
+   "id": "sisi_yontem",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "SISI",
+   "baslik": "SISI *nasıl* yapılır?",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Taşıyıcı ton",
+     "metin": "20 dB SL",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Kısa artışlar",
+     "metin": "Her 5 saniyede",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Alıştırma",
+     "metin": "Önce 5 dB artış",
+     "cumle": 3
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "20 artış",
+     "metin": "1 dB, sayılır",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Skor",
+     "metin": "Doğru sayısı x 5",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kısa artış duyarlılık indeksi (short increment sensitivity index), kısaca SISI, 1959'da Jerger ve arkadaşları tarafından tanımlandı.",
+    "Test frekansında, genellikle bin ve dört bin hertzde, eşiğin yirmi desibel üstünde sürekli bir ton verilir.",
+    "Bu tonun üzerine yaklaşık her beş saniyede bir, iki yüz milisaniye kadar süren kısa şiddet artışları eklenir.",
+    "Kişi önce beş desibellik belirgin artışlarla görevi öğrenir; sonra artışlar bir desibele indirilir.",
+    "Yirmi adet bir desibellik artış verilir ve kişi her duyduğu artışı bir düğmeyle ya da sözle bildirir.",
+    "Duyulan artış sayısı beşle çarpılır ve sonuç yüzde olarak verilir; örneğin on altı artış yüzde seksen eder.",
+    "Arada verilen beş desibellik kontrol artışları, kişinin dikkatini ve görevi anladığını doğrulamaya yarar.",
+    "SISI tek kulakta yapıldığı için, ABLB'den farklı olarak iki taraflı kayıplarda da uygulanabilir."
+   ]
+  },
+  {
+   "id": "sisi_yorum",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "SISI",
+   "baslik": "SISI *skorunu* yorumlamak",
+   "sutunlar": [
+    "Skor",
+    "Klasik yorum"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Yüzde 70 ile 100",
+      "Yüksek: koklear"
+     ],
+     "cumle": 1,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Yüzde 0 ile 20",
+      "Düşük"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Arada kalanlar",
+      "Belirsiz"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Yüksek düzey SISI",
+      "Düşük skor: retrokoklear?"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Normal işiten kişi yirmi desibel duyum düzeyinde bir desibellik artışların çoğunu duymaz.",
+    "Koklear kayıplı kulak ise bu artışların çoğunu duyar; yüzde yetmiş ve üzeri skor klasik olarak koklear lezyonla ilişkilendirilir.",
+    "Düşük skorlar normal kulakta, iletim tipi kayıpta ve retrokoklear lezyonlarda görülebilir.",
+    "Yani düşük skor tek başına retrokoklear bir sorunu göstermez; normal ve iletim tipi kulaklardan ayırmaz.",
+    "Ara değerler belirsiz kabul edilir; sınırlar kaynaklar arasında birkaç puan farklı verilir.",
+    "Bir değişkende test yaklaşık yetmiş beş desibel HL gibi yüksek bir düzeyde yapılır; burada normal ve koklear kulaklar artışları kolay duyar.",
+    "Yüksek düzeyde düşük skor alınması, retrokoklear yönde bir ipucu olarak yorumlanmıştır."
+   ]
+  },
+  {
+   "id": "carhart",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ton kayması",
+   "baslik": "Carhart ton kayması *testi*",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Eşikte ton",
+     "metin": "Sürekli verilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Duyduğu sürece",
+     "metin": "Elini kaldırır",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Söndü mü?",
+     "metin": "5 dB artır, süre sıfırla",
+     "cumle": 4
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "60 saniye",
+     "metin": "Tam süre duyulunca biter",
+     "cumle": 5
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Kayma miktarı",
+     "metin": "Son düzey eksi eşik",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Ton kayması testi (tone decay test), sürekli bir tonun zamanla duyulmaz hale gelip gelmediğini ölçer.",
+    "Testin klasik biçimi 1957'de Carhart tarafından tanımlandı.",
+    "Test frekansında, eşik düzeyinde ya da hemen üstünde sürekli bir ton verilir.",
+    "Kişiye tonu duyduğu sürece elini kaldırması ya da düğmeye basılı tutması, ton kaybolunca bırakması söylenir.",
+    "Ton altmış saniye dolmadan kaybolursa, ton kesilmeden düzey beş desibel artırılır ve süre yeniden başlatılır.",
+    "Bu işlem, kişi tonu bir düzeyde tam altmış saniye duyana kadar sürer.",
+    "Sonuçta, son düzey ile başlangıç eşiği arasındaki fark ton kayması miktarı olarak kaydedilir.",
+    "Birkaç desibellik kayma normal ve koklear kulaklarda görülebilir.",
+    "Kaynaklara göre yirmi beş ile otuz desibeli aşan kayma ise retrokoklear yönde bir ipucudur."
+   ]
+  },
+  {
+   "id": "turevler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ton kayması",
+   "baslik": "Ton kaymasının *türevleri*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Olsen-Noffsinger",
+     "metin": "20 dB SL'den başlar",
+     "cumle": 0
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Rosenberg",
+     "metin": "Toplam bir dakika",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "STAT",
+     "metin": "Çok yüksek düzey, 60 sn",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Olsen ve Noffsinger'in değişikliğinde test eşikten değil, eşiğin yirmi desibel üstünden başlar.",
+    "Böylece test kısalır ve eşikteki belirsizlik azalır; normal kulaklar bu düzeyde tonu genellikle bir dakika boyunca duyar.",
+    "Rosenberg'in değiştirilmiş testinde ise toplam süre bir dakikayla sınırlıdır; bu sürede yapılan toplam artış kayma miktarıdır.",
+    "Kısa testler zaman kazandırır, ama hafif adaptasyonu kaçırabilir.",
+    "Eşik üstü adaptasyon testi, kısaca STAT ise Jerger ve Jerger'in yüksek düzeyde, yaklaşık yüz on desibel SPL'de yaptığı bir testtir.",
+    "STAT'ta ton altmış saniye boyunca duyulmazsa sonuç pozitif kabul edilir; çok yüksek düzey nedeniyle karşı kulak maskelemesi gerekebilir."
+   ]
+  },
+  {
+   "id": "bugun",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Bugünkü yeri",
+   "baslik": "Bu testler *bugün* nerede?",
+   "maddeler": [
+    {
+     "metin": "ABR ve MR öne geçti",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Duyarlılıkları sınırlı",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ton kayması: hızlı ek kontrol",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Literatürü okumak için şart",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "noron",
+      "baslik": "ABR",
+      "metin": "Sinir iletimini gösterir",
+      "cumle": 1
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "MR",
+      "metin": "Görüntüleme, hekim kararı",
+      "cumle": 1
+     }
+    ],
+    "ust": "GÜNÜMÜZ"
+   },
+   "cumleler": [
+    "Bu testler, görüntüleme ve elektrofizyolojinin yaygınlaşmadığı dönemde lezyon yerini bulmanın başlıca araçlarıydı.",
+    "Bugün retrokoklear bir sorun düşünüldüğünde işitsel beyin sapı yanıtı, kısaca ABR ve manyetik rezonans görüntüleme çok daha belirleyicidir.",
+    "Klasik eşik üstü testlerin küçük tümörleri yakalamada duyarlılıkları sınırlı bulunmuştur; bu nedenle tek başına güvenilmezler.",
+    "Yine de ton kayması testi, yalnız odyometre gerektiren hızlı ve ucuz bir ek kontrol olarak bazı kliniklerde kullanılır.",
+    "Akustik refleks ve refleks kayması testleri, bu testlerin mantığını objektif biçimde taşıyan ölçümler olarak bataryada kalmıştır.",
+    "SISI ise bugün klinikte seyrek kullanılır; daha çok şiddet ayırt etme becerisini inceleyen çalışmalarda yer alır.",
+    "Bu testlerin mantığını bilmek, eski raporları ve klasik literatürü doğru okumak için de gereklidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ton kayması testinde yönergeyi net verin: tonu duyduğunuz sürece basılı tutun, kaybolunca hemen bırakın.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: ton kayması testinin sonucu, büyük ölçüde yönergenin net anlaşılmasına bağlıdır.",
+    "Kişiye tonun sesinin değil, varlığının önemli olduğunu söyleyin: duyduğu sürece basılı tutsun, kaybolunca hemen bıraksın.",
+    "Tinnitusu olan kişiler tonu kulak çınlamasıyla karıştırabilir; bu durumda tonun frekansını ve karakterini önceden tanıtın.",
+    "Test kulağı ile iyi kulak arasındaki fark büyükse, yüksek düzeylerde karşı kulağın maskelenmesi gerekip gerekmediğini düşünün."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "ABLB: tek taraflı kayıpta _rekruitment_",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SISI: 1 dB artışlar, yüksek skor koklear",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Ton kayması: 60 saniye, _adaptasyon_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Bugün ABR ve MR belirleyici",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "ABLB, tek taraflı kayıpta iki kulak arasında ses yüksekliğini dengeler; yüksek düzeyde eşitlenme tam rekruitmenttir.",
+    "SISI, eşiğin yirmi desibel üstündeki tona eklenen bir desibellik artışları sayar; yüksek skor klasik olarak koklear lezyonla uyumludur.",
+    "Ton kayması testi, tonun altmış saniye duyulabilmesi için gereken artışı ölçer; belirgin kayma retrokoklear yönde ipucudur.",
+    "Bu testlerin duyarlılığı sınırlıdır; bugün retrokoklear değerlendirmede ABR ve görüntüleme belirleyicidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "ABLB'de 80 dB'de eşitlenme neyi gösterir?",
+   "secenekler": [
+    "İletim tipi kayıp",
+    "Tam rekruitment",
+    "Dekruitment",
+    "Ton kayması"
+   ],
+   "dogru": 1,
+   "aciklama": "Ses yüksekliği kayıplı kulakta _normale yetişmiştir_.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: eşikleri sıfır ve elli desibel olan iki kulak, seksen desibelde eşit yükseklikte duyuyor. Bu ne gösterir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: tam rekruitment.",
+     "ses": "Doğru cevap be şıkkı: tam rekruitment."
+    },
+    "Eşikteki elli desibellik fark yüksek düzeyde kapanmıştır; bu klasik olarak koklear bir lezyonla uyumludur."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Psödohipoakuzi*: organik olmayan kayıp",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste organik olmayan işitme kaybını, yani psödohipoakuziyi tanımayı öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

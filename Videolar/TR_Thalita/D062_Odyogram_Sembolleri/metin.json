@@ -1,0 +1,801 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D062_Odyogram_Sembolleri_TR",
+ "kapak": {
+  "ust": "DERS 62",
+  "baslik": "Odyogram<br>*sembolleri*",
+  "alt": "Maskeli, maskesiz ve yanıt yok",
+  "grafik": {
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      45,
+      40,
+      40,
+      45,
+      50
+     ],
+     "cumle": 0
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik_maskeli",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      15
+     ],
+     "cumle": 0,
+     "cizgi": false
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      60,
+      65,
+      70,
+      70,
+      75,
+      80
+     ],
+     "cumle": 0
+    }
+   ],
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   }
+  }
+ },
+ "youtube": {
+  "baslik": "Odyogram Sembolleri ve Kayıt Standartları | Ders 62 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bu derste ASHA odyometrik sembollerini öğreniyoruz: maskesiz ve maskeli hava yolu ile kemik yolu sembolleri, yanıt yok işareti, renk ve çizgi kuralları. Odyograma eklenmesi gereken transdüser, maskeleme ve güvenilirlik bilgilerini de örnek odyogramlarla inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: ASHA (1990), Guidelines for Audiometric Symbols; BSA, Recommended Procedure: Pure-tone air-conduction and bone-conduction threshold audiometry with and without masking (2018); Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyogram",
+   "safsesodyometrisi"
+  ],
+  "etiketler": [
+   "odyogram sembolleri",
+   "audiometric symbols",
+   "maskeli eşik",
+   "masked threshold",
+   "maskesiz eşik",
+   "yanıt yok",
+   "no response",
+   "ASHA sembolleri",
+   "kemik yolu",
+   "hava yolu",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 62",
+   "baslik": "Odyogram *sembolleri*",
+   "alt": "Maskesiz ve maskeli eşik, yanıt yok, kayıt standartları",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyogramda kullanılan standart sembolleri ve sonuçların nasıl kaydedileceğini öğreneceğiz.",
+    "Maskesiz ve maskeli eşiklerin, yanıt yok işaretinin ve renk ile çizgi kullanımının kurallarını göreceğiz."
+   ]
+  },
+  {
+   "id": "form",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odyogram formu",
+   "baslik": "Standart bir *form*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 125,
+     "max": 8000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      125,
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      8000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [],
+    "araliklar": [
+     {
+      "ad": "oktav",
+      "x": [
+       1000,
+       2000
+      ],
+      "y": 30,
+      "etiket": "1 oktav",
+      "cumle": 4
+     },
+     {
+      "ad": "yirmi",
+      "y": [
+       40,
+       60
+      ],
+      "xk": 2000,
+      "etiket": "20 dB",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Frekans ekseni _logaritmik_",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "dB HL aşağı doğru _büyür_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "1 oktav = _20 dB_",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "Odyogram, eşikleri frekansa ve işitme düzeyine göre gösteren standart bir grafiktir.",
+    "Yatay eksende frekans vardır ve eksen logaritmiktir; her oktav eşit aralıkla çizilir.",
+    "Dikey eksende işitme düzeyi desibel HL olarak yer alır; değerler aşağı doğru büyür, yani işitme aşağı doğru kötüleşir.",
+    "Amerikan Konuşma, Dil ve İşitme Derneği, kısaca ASHA, odyometrik semboller için bin dokuz yüz doksanda bir kılavuz yayımladı.",
+    "Bu kılavuza ve İngiliz Odyoloji Derneği, yani BSA önerisine göre bir oktavlık genişlik yirmi desibellik yüksekliğe eşit olmalıdır.",
+    "Bu oran sabit kalırsa aynı kayıp her formda aynı eğimle görünür ve odyogramlar birbiriyle karşılaştırılabilir."
+   ]
+  },
+  {
+   "id": "hava_sembol",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hava yolu",
+   "baslik": "Hava yolu *sembolleri*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "O: sağ",
+     "cumle": 1,
+     "metin": "Maskesiz hava yolu"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Çarpı: sol",
+     "cumle": 2,
+     "metin": "Maskesiz hava yolu"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Üçgen: sağ",
+     "cumle": 3,
+     "metin": "Maskeli hava yolu"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kare: sol",
+     "cumle": 4,
+     "metin": "Maskeli hava yolu"
+    }
+   ],
+   "cumleler": [
+    "Hava yolu eşikleri için dört temel sembol vardır: iki kulak ve iki koşul, yani maskesiz ve maskeli.",
+    "Sağ kulağın maskesiz hava yolu eşiği yuvarlak, yani O harfiyle gösterilir.",
+    "Sol kulağın maskesiz hava yolu eşiği çarpı işaretiyle gösterilir.",
+    "Karşı kulak maskelenerek ölçülen sağ kulak eşiği üçgenle gösterilir.",
+    "Karşı kulak maskelenerek ölçülen sol kulak eşiği ise kareyle gösterilir.",
+    "Maskesiz eşik (unmasked threshold) karşı kulağa gürültü verilmeden, maskeli eşik (masked threshold) ise gürültüyle bulunur."
+   ]
+  },
+  {
+   "id": "hava_ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hava yolu",
+   "baslik": "Örnek: *maskeli* hava yolu",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: maskesiz hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli hava yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15,
+       15
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       60,
+       65,
+       70,
+       70,
+       75,
+       80
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnek odyogramda sağ kulağın hava yolu eşikleri normal sınırlarda ve yuvarlaklarla işaretlenmiş.",
+    "Sol kulakta ise altmış ile seksen desibel HL arasında bir kayıp var.",
+    "Sol kulağın eşikleri karşı kulak maskelenerek ölçüldüğü için kare sembolle kaydedilmiş.",
+    "Maskeleme gerektiğinde odyograma yalnız maskeli eşiği yazmak kabul görür; ASHA kılavuzu buna açıkça izin verir.",
+    "Maskeleme öncesi bulunan eşikler bazen ayrı bir çalışma formunda tutulur; ama son odyogramda iki değer karışmamalıdır."
+   ]
+  },
+  {
+   "id": "kemik_sembol",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kemik yolu",
+   "baslik": "Kemik yolu *sembolleri*",
+   "ogeler": [
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "&lt; sağ mastoid",
+     "cumle": 1,
+     "metin": "Maskesiz kemik yolu"
+    },
+    {
+     "ikon": "kemik_vibratoru",
+     "baslik": "&gt; sol mastoid",
+     "cumle": 1,
+     "metin": "Maskesiz kemik yolu"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "[ sağ",
+     "cumle": 3,
+     "metin": "Maskeli kemik yolu"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "] sol",
+     "cumle": 3,
+     "metin": "Maskeli kemik yolu"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Ters V",
+     "cumle": 4,
+     "metin": "Kulak belirtilmemiş kemik yolu"
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "V: alın",
+     "cumle": 5,
+     "metin": "Alından ölçülen kemik yolu"
+    }
+   ],
+   "cumleler": [
+    "Kemik yolu sembolleri, vibratörün yerini ve maskeleme yapılıp yapılmadığını gösterir.",
+    "Sağ mastoidden maskesiz ölçülen kemik yolu küçüktür işaretiyle, sol mastoidden ölçülen ise büyüktür işaretiyle gösterilir.",
+    "Bu işaretler yalnız vibratörün yerini anlatır; maskesiz kemik yolunda yanıt, daha iyi kokleadan gelmiş olabilir.",
+    "Karşı kulak maskelenerek ölçülen kemik yolu köşeli parantezle gösterilir: sağ kulak için açılan, sol kulak için kapanan parantez.",
+    {
+     "yazi": "ASHA kılavuzu, hangi kulağa ait olduğu bilinmeyen maskesiz kemik yolu için ters V işaretini de seçenek olarak sunar.",
+     "ses": "aşa kılavuzu, hangi kulağa ait olduğu bilinmeyen maskesiz kemik yolu için ters ve işaretini de seçenek olarak sunar."
+    },
+    {
+     "yazi": "Vibratör alına yerleştirildiğinde maskesiz eşik V harfiyle gösterilir.",
+     "ses": "Vibratör alına yerleştirildiğinde maskesiz eşik ve harfiyle gösterilir."
+    }
+   ]
+  },
+  {
+   "id": "kemik_ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kemik yolu",
+   "baslik": "Örnek: *maskeli* kemik yolu",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "[",
+     "renk": "sag",
+     "metin": "_Sağ_: maskeli kemik yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: hava yolu",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       45,
+       45,
+       40,
+       40,
+       45,
+       50
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       10,
+       10,
+       5,
+       10,
+       15
+      ],
+      "cumle": 1,
+      "cizgi": false
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       5,
+       5,
+       10,
+       10,
+       15
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    },
+    "aralik": {
+     "konum": [
+      2,
+      5,
+      40
+     ],
+     "etiket": "35 dB",
+     "cumle": 3
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulağın hava yolu eşikleri kırk ile elli desibel HL arasında.",
+    "Sol kulak maskelenerek ölçülen sağ kemik yolu eşikleri ise normal sınırlarda ve köşeli parantezle işaretlenmiş.",
+    "Sol kulağın hava yolu eşikleri normal sınırlarda.",
+    "Sağ kulakta yaklaşık otuz beş desibellik hava-kemik aralığı var; bu tablo iletim tipi kayıpla uyumludur.",
+    "Köşeli parantez frekans çizgisine değmeden, sağ kulakta çizginin soluna, sol kulakta sağına konur.",
+    "Bunu hatırlamanın bir yolu, odyograma hastanın karşısında duruyormuş gibi bakmaktır: hastanın sağı sizin solunuzdadır."
+   ]
+  },
+  {
+   "id": "yanit_yok",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yanıt yok",
+   "baslik": "*Yanıt yok* işareti",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Hava yolu_: cihaz sınırında yanıt yok",
+     "cumle": 1
+    },
+    {
+     "isaret": "&lt;",
+     "renk": "sag",
+     "metin": "_Kemik yolu_: sınırda yanıt yok",
+     "cumle": 3
+    },
+    {
+     "isaret": "↙",
+     "renk": "sag",
+     "metin": "Ok: _sağ kulakta_ sol aşağı",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       70,
+       75,
+       85,
+       100,
+       120,
+       110
+      ],
+      "cumle": 1,
+      "yanitsiz": [
+       4,
+       5
+      ]
+     },
+     {
+      "kulak": "sag",
+      "tip": "kemik",
+      "degerler": [
+       45,
+       65,
+       70,
+       70,
+       70
+      ],
+      "cumle": 3,
+      "yanitsiz": true,
+      "cizgi": false
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25
+    }
+   },
+   "cumleler": [
+    "Odyometrenin en yüksek çıkış düzeyinde bile yanıt alınamazsa, bu durum yanıt yok, kısaca NR (no response) olarak kaydedilir.",
+    "Bu örnekte sağ kulakta dört bin ve sekiz bin hertzde cihazın sınırında yanıt alınamamış.",
+    "Sembol cihazın o frekanstaki sınır düzeyine konur ve altına dışa doğru eğik bir ok eklenir: sağ kulakta sol aşağı, sol kulakta sağ aşağı.",
+    "Kemik yolunda da vibratörün sınırında yanıt alınamazsa yanıt yok işareti kullanılır; bu sınır hava yolundan çok daha düşüktür.",
+    "Yanıt yok sembolleri birbirine ya da ölçülen eşiklere çizgiyle bağlanmaz.",
+    "Yanıt yok, işitmenin hiç olmadığı anlamına gelmez; yalnız eşiğin cihazın ölçebildiği düzeyden kötü olduğunu gösterir."
+   ]
+  },
+  {
+   "id": "renk_cizgi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Renk ve çizgi",
+   "baslik": "Renk ve *çizgi* kuralları",
+   "maddeler": [
+    {
+     "metin": "Hava yolu: _düz çizgiyle_ birleştirilir",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Kemik yolu: ASHA'da _birleştirilmez_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "BSA: kemik yolu _kesik çizgiyle_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Çizgi sembolün içinden _geçmez_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Renk yardımcıdır, _sembol_ belirleyicidir",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        40,
+        45,
+        40,
+        45,
+        50,
+        55
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sag",
+       "tip": "kemik_maskeli",
+       "degerler": [
+        15,
+        15,
+        10,
+        15,
+        20
+       ],
+       "cumle": 2
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Aynı kulağın hava yolu eşikleri düz bir çizgiyle birleştirilir.",
+    "ASHA kılavuzunda kemik yolu eşikleri genellikle çizgiyle birleştirilmez; hava-kemik aralığı varsa kesik çizgi kullanılabilir.",
+    "BSA ise kemik yolu sembollerinin kesik çizgiyle birleştirilmesini önerir; iki yaklaşım da yaygındır ve formda tutarlı olmak önemlidir.",
+    "Çizgiler sembollere yaklaşır ama içinden geçmez; böylece sembol okunaklı kalır.",
+    "Sağ kulak için kırmızı, sol kulak için mavi yaygın bir alışkanlıktır; ancak ASHA renk kullanımını zorunlu tutmaz.",
+    "Çünkü fotokopi ya da siyah beyaz çıktıda renk kaybolur; kulağı her zaman sembolün kendisi göstermelidir."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kayıt",
+   "baslik": "Odyograma *eklenecekler*",
+   "ogeler": [
+    {
+     "ikon": "insert_kulaklik",
+     "baslik": "Transdüser",
+     "cumle": 0,
+     "metin": "Supra-aural, insert ya da vibratör"
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Maskeleme düzeyi",
+     "cumle": 1,
+     "metin": "Karşı kulağa verilen gürültü"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Serbest alan",
+     "cumle": 2,
+     "metin": "S harfi, kulak belirtilmez"
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Titreşim notu",
+     "cumle": 3,
+     "metin": "Vibrotaktil olası yanıtlar"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Güvenilirlik",
+     "cumle": 4,
+     "metin": "Yanıt tutarlılığı ve yöntem"
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Cihaz bilgisi",
+     "cumle": 5,
+     "metin": "Cihaz ve kalibrasyon tarihi"
+    }
+   ],
+   "cumleler": [
+    "Semboller tek başına yeterli değildir; odyograma bazı bilgiler de eklenir.",
+    "Kullanılan transdüser yazılır; insert ve supra-aural kulaklıkla bulunan sonuçlar ayrı yorumlanabilir.",
+    {
+     "yazi": "Maskeleme yapıldıysa karşı kulağa verilen en yüksek etkin maskeleme düzeyi, odyogramın altındaki tabloya yazılabilir.",
+     "ses": "Maskeleme yapıldıysa, karşı kulağa verilen en yüksek etkin maskeleme düzeyi odyogramın altındaki tabloya yazılabilir."
+    },
+    {
+     "yazi": "Serbest alanda kulak ayrımı yapılamayan eşikler S harfiyle, frekans çizgisinin üzerine işaretlenir.",
+     "ses": "Serbest alanda kulak ayrımı yapılamayan eşikler se harfiyle, frekans çizgisinin üzerine işaretlenir."
+    },
+    "Titreşim duyumu olduğu düşünülen yanıtlar, yani vibrotaktil yanıtlar ayrıca not edilir; BSA bunu açıkça ister.",
+    "Yanıtların güvenilirliği, kullanılan yöntem, odyometre ve son kalibrasyon tarihi de kaydın parçasıdır."
+   ]
+  },
+  {
+   "id": "ust_uste",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Kayıt",
+   "baslik": "Semboller *üst üste* gelirse",
+   "maddeler": [
+    {
+     "metin": "Aynı eşikte O ve X _üst üste_",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Maskeli kemik yolu: hava yolunun _yanında_",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Belirtilmemiş kemik yolu: _biraz üstte_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Her formda _lejant_ bulunur",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        20,
+        20,
+        25,
+        30,
+        40,
+        45
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        20,
+        25,
+        30,
+        40,
+        45
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "İki kulağın hava yolu eşikleri aynıysa, ASHA'ya göre semboller üst üste çizilir.",
+    "Maskeli kemik yolu sembolü, aynı düzeydeki hava yolu sembolüne değmeden, onun yanına konur.",
+    "Kulak belirtilmemiş kemik yolu sembolü aynı düzeydeki hava yolu sembolünün biraz üstüne yerleştirilir.",
+    "Yazılımlar farklı semboller kullanabilir; bu yüzden her odyogramda sembollerin açıklaması, yani lejant bulunmalıdır.",
+    "BSA da yazılımlardaki farklı sembolleri, sonuç açık ve tek anlamlı olduğu sürece kabul eder."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Maskesiz kemik yolu sembolü hangi mastoide konduysa o kulağı gösterir. Yanıtın o kokleadan geldiğini söylemez; kulağa özgü eşik için maskeleme gerekir.",
+   "cumleler": [
+    "Sahadan bir ipucu: maskesiz kemik yolunda küçüktür ya da büyüktür işaretini görünce onu o kulağın kokleası diye okumayın.",
+    "Bu işaret yalnız vibratörün nereye konduğunu gösterir; kemik yolunda iki koklea neredeyse aynı düzeyde uyarılır.",
+    "Hava-kemik aralığı olan bir kulakta kemik yolunun kulağa özgü olduğunu ancak maskeli ölçüm gösterir.",
+    "Odyogramı imzalamadan önce her frekansta sembolün, kulağın ve maskeleme durumunun birbiriyle uyumlu olduğunu kontrol edin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "O, çarpı: _maskesiz_ hava yolu",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Üçgen, kare: _maskeli_ hava yolu",
+     "cumle": 0,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Köşeli parantez: _maskeli_ kemik yolu",
+     "cumle": 1,
+     "ikon": "kemik_vibratoru"
+    },
+    {
+     "metin": "Yanıt yok: sınırda, _eğik ok_, çizgisiz",
+     "cumle": 2,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Hava yolunda sağ kulak için O ve üçgen, sol kulak için çarpı ve kare kullanılır; üçgen ve kare maskeli eşiği gösterir.",
+    "Kemik yolunda küçüktür ve büyüktür maskesiz, köşeli parantezler maskeli eşiği gösterir.",
+    "Yanıt yok işareti cihaz sınırına konur, dışa doğru eğik ok alır ve çizgiyle bağlanmaz.",
+    "Bir oktav yirmi desibele eşit çizilir; renk yardımcıdır, kulağı sembol belirler."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Sol kulak maskeli hava yolu eşiği hangi sembolle gösterilir?",
+   "secenekler": [
+    "Çarpı",
+    "Üçgen",
+    "Kare",
+    "Köşeli parantez"
+   ],
+   "dogru": 2,
+   "aciklama": "ASHA'da sol kulak maskesiz hava yolu _çarpı_, maskeli hava yolu _kare_ ile gösterilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sol kulağın maskeli hava yolu eşiği hangi sembolle gösterilir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap C: kare.",
+     "ses": "Doğru cevap ce şıkkı: kare."
+    },
+    "Sol kulakta maskesiz hava yolu çarpıyla, maskeli hava yolu kareyle gösterilir; sağ kulakta bunların karşılığı O ve üçgendir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Odyogram *konfigürasyonları*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste odyogramın şeklini, yani düz, eğimli, çentikli ve kurabiye ısırığı konfigürasyonlarını göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

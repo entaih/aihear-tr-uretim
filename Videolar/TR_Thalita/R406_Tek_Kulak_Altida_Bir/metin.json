@@ -1,0 +1,180 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R406_Tek_Kulak_Altida_Bir_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #406",
+  "baslik": "Tek kulağın *payı*",
+  "alt": "Örnek hesap: tek taraflı tam kayıp",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 110,
+    "ad": "Dört frekans ortalaması (dB HL)",
+    "isaretler": [
+     0,
+     25,
+     45,
+     65,
+     92,
+     110
+    ]
+   },
+   "y": {
+    "min": 0,
+    "max": 100,
+    "adim": 20,
+    "ad": "Tek kulak yüzdesi"
+   },
+   "seriler": [
+    {
+     "ad": "yuzde",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       25,
+       0
+      ],
+      [
+       45,
+       30
+      ],
+      [
+       65,
+       60
+      ],
+      [
+       91.7,
+       100
+      ],
+      [
+       110,
+       100
+      ]
+     ],
+     "renk": "mavi",
+     "kalin": true,
+     "cumle": 1
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "alt_sinir",
+     "x": 25,
+     "y": 0,
+     "cizgi": "dikey",
+     "etiket": "alt sınır: 25 dB",
+     "cumle": 1
+    },
+    {
+     "ad": "ornek",
+     "x": 45,
+     "y": 30,
+     "dus": "xy",
+     "etiket": "45 dB: yüzde 30",
+     "cumle": 3
+    },
+    {
+     "ad": "ust_sinir",
+     "x": 91.7,
+     "y": 100,
+     "cizgi": "dikey",
+     "etiket": "üst sınır: yaklaşık 92 dB",
+     "cumle": 4
+    }
+   ],
+   "bolgeler": [
+    {
+     "ad": "kayip_yok",
+     "x": [
+      0,
+      25
+     ],
+     "renk": "gri",
+     "etiket": "yüzde 0",
+     "cumle": 1
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Bir kulağı hiç duymayan kişinin kaybı hesapta yüzde kaç çıkar? #shorts",
+  "aciklama": "Amerikan Kulak Burun Boğaz Akademisinin 1979 yönteminde (AAO-1979) iki kulak oranı için iyi kulağın yüzdesi beşle çarpılır, kötü kulağın yüzdesi eklenir ve toplam altıya bölünür. Örnek bir hesapta bir kulak normal, diğeri tamamen kayıplıysa sonuç yaklaşık yüzde 16,7, yani altıda birlik bir kayıptır; resmi oranlar ise yürürlükteki mevzuata göre belirlenir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "medikolegal",
+   "işitmekaybı"
+  ],
+  "etiketler": [
+   "işitme kaybı yüzdesi",
+   "medikolegal değerlendirme",
+   "AAO-1979",
+   "iki kulak oranı",
+   "tek taraflı işitme kaybı",
+   "engellilik oranı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Bir kulağı hiç duymayan kişinin kaybı hesapta yüzde kaç çıkar?",
+  "bilgiler": [
+   "İyi kulağın yüzdesi beşle çarpılır, kötü kulak eklenir, altıya bölünür.",
+   "Örnekte tek taraflı tam kayıp yaklaşık yüzde 16,7 çıkar.",
+   "Resmi oranlar yürürlükteki mevzuata göre belirlenir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "medikolegal",
+   "işitmekaybı"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #406",
+   "metin": "Yüzde *kaç?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Bir kulağı hiç duymayan kişinin kaybı hesapta yüzde kaç çıkar?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "İki kulak *oranı*",
+   "sayi": "1/6",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Bu örnek hesap, Amerikan Kulak Burun Boğaz Akademisinin yöntemine dayanır.",
+    "İyi kulağın yüzdesi beşle çarpılır, kötü kulak eklenir, altıya bölünür.",
+    "Örnek: bir kulak normal, diğeri tamamen kayıplı olsun.",
+    "Sonuç yaklaşık yüzde on altı virgül yedi, yani altıda birdir.",
+    "Gürültüde ve yön bulmada yaşanan zorluk bu sayıya tam yansımaz."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D227",
+ "kaynak_baslik": "İşitme kaybı yüzdesi hesabı"
+}

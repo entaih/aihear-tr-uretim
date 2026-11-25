@@ -1,0 +1,601 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D171_Coklu_Yetersizlik_Cocuk_TR",
+ "kapak": {
+  "ust": "DERS 171",
+  "baslik": "Çoklu *yetersizlik*",
+  "alt": "Otizm, serebral palsi, görme kaybı",
+  "cizim": "vra_odasi"
+ },
+ "youtube": {
+  "baslik": "Çoklu yetersizliği olan çocuklarda odyolojik değerlendirme | Ders 171 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme kaybının yanında başka yetersizlikleri olan çocukları nasıl değerlendiririz? Bu derste otizm spektrum bozukluğu, serebral palsi ve görme kaybında davranışsal test uyarlamalarını, objektif testlerin rolünü ve aile merkezli ekip çalışmasını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Madell, Flexer, Wolfe ve Schafer, Pediatric Audiology: Diagnosis, Technology, and Management; Katz, Handbook of Clinical Audiology; Joint Committee on Infant Hearing, Year 2019 Position Statement; Gallaudet Research Institute, Annual Survey of Deaf and Hard of Hearing Children and Youth.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "pediatrikodyoloji",
+   "otizm"
+  ],
+  "etiketler": [
+   "çoklu yetersizlik",
+   "multiple disabilities",
+   "otizm spektrum bozukluğu",
+   "autism spectrum disorder",
+   "serebral palsi",
+   "cerebral palsy",
+   "görme kaybı",
+   "görsel pekiştirmeli odyometri",
+   "objektif testler",
+   "pediatrik odyoloji",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 171",
+   "baslik": "Çoklu *yetersizlik* ve işitme",
+   "alt": "Testleri çocuğa göre uyarlamak",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme kaybının yanında başka yetersizlikleri de olan çocuklarda odyolojik değerlendirmeyi nasıl uyarladığımızı öğreneceğiz.",
+    "Otizm spektrum bozukluğu, serebral palsi ve görme kaybında test uyarlamalarını, objektif testlerin rolünü ve ekip çalışmasını ele alacağız."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Genel ilkeler",
+   "baslik": "Neden *sık* karşılaşırız?",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Yaklaşık %40",
+     "metin": "Ek yetersizlik eşlik eder",
+     "cumle": 1
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Ortak riskler",
+     "metin": "Prematürite, enfeksiyon, sendromlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Gölgelenme",
+     "metin": "Bir tanı diğerini örter",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Çoklu yetersizlik (multiple disabilities), bir çocukta birden fazla yetersizliğin birlikte bulunmasıdır.",
+    "ABD'de sağır ve az işiten öğrencilerle yapılan geniş bir araştırmada, yaklaşık yüzde kırkında ek bir yetersizlik bildirildi.",
+    "Bunun bir nedeni ortak risk etkenleridir.",
+    "Prematürite, doğumsal enfeksiyonlar, yenidoğanda oksijensizlik ve sendromlar hem işitmeyi hem gelişimi etkileyebilir.",
+    "Genetik derslerinde gördüğümüz CHARGE sendromu, işitme ve görmenin birlikte etkilenebildiği bir örnekti.",
+    "Ek yetersizlik, işitme kaybının fark edilmesini geciktirebilir; çocuğun sese yanıtsızlığı diğer tanıya bağlanabilir.",
+    "Tersine, işitme kaybı da gelişimsel bir sorunun daha geç fark edilmesine yol açabilir."
+   ]
+  },
+  {
+   "id": "plan",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Genel ilkeler",
+   "baslik": "Değerlendirmeyi *planlamak*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Öykü ve ekip",
+     "metin": "Aile, raporlar",
+     "cumle": 0
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Gelişim düzeyi",
+     "metin": "Takvim yaşı değil",
+     "cumle": 1
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Yanıt biçimi",
+     "metin": "Çocuğun yapabildiği",
+     "cumle": 2
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Objektif testler",
+     "metin": "Her zaman bataryada",
+     "cumle": 4
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Çapraz kontrol",
+     "metin": "Sonuçlar tutarlı mı?",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Değerlendirme randevudan önce başlar: aileden ve çocuğu izleyen ekipten çocuğun güçlü yönleri, iletişim biçimi ve hassasiyetleri öğrenilir.",
+    "Test yöntemi takvim yaşına değil, çocuğun gelişimsel düzeyine göre seçilir; bunu pediatrik derslerin başında görmüştük.",
+    "Sonra çocuğun sese nasıl yanıt verebileceği düşünülür: baş çevirmek, göz kaydırmak, bir düğmeye dokunmak ya da oyun.",
+    "Davranışsal yöntem çocuğa göre uyarlanır; standart yöntemde ısrar etmek çoğu zaman güvenilmez sonuç verir.",
+    "Timpanometri, otoakustik emisyon ve işitsel beyin sapı yanıtı gibi objektif testler bu çocuklarda her zaman bataryanın parçasıdır.",
+    "Bütün sonuçlar çapraz kontrol ilkesiyle birbirine karşı sınanır; tek bir testle karar verilmez."
+   ]
+  },
+  {
+   "id": "otizm",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Otizm",
+   "baslik": "*Otizm* spektrum bozukluğu",
+   "maddeler": [
+    {
+     "metin": "Sese yanıtsızlık: işitme mi?",
+     "cumle": 1,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Seslere aşırı duyarlılık olabilir",
+     "cumle": 3,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Yeni ortam ve dokunma zorlayıcı",
+     "cumle": 4,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "İşitme kaybı da eşlik edebilir",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "soru",
+      "baslik": "Yanıtsızlık",
+      "metin": "İşitme ölçülmeli",
+      "cumle": 1
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "Aşırı duyarlılık",
+      "metin": "Kaçınma davranışı",
+      "cumle": 3
+     }
+    ],
+    "ust": "İKİ YÜZ"
+   },
+   "cumleler": [
+    "Otizm spektrum bozukluğu (autism spectrum disorder), sosyal iletişimde güçlük ve tekrarlayıcı davranışlarla giden bir durumdur.",
+    "Bu çocuklar adlarına ya da konuşmaya yanıt vermeyebilir; bu yüzden aileler çoğu zaman önce işitme kaybından şüphelenir.",
+    "Bu nedenle otizm değerlendirmesinde işitmenin güvenilir biçimde ölçülmesi önemli bir adımdır.",
+    "Bazı çocuklar ise belirli seslere aşırı duyarlıdır; elektrikli süpürge ya da el kurutucusu gibi seslerden kulaklarını kapatarak kaçarlar.",
+    "Yeni bir ortam, kulaklık takılması ya da kulağa dokunulması kaygı ve itirazla karşılanabilir.",
+    "Otizmli çocuklarda işitme kaybı da görülebilir; bu yüzden yanıtsızlık otizme bağlanmadan önce işitme ölçülmelidir.",
+    "Tersine, işitme kaybı olan bir çocukta sosyal iletişim farklılıkları sürüyorsa, otizm açısından değerlendirme gecikmemelidir."
+   ]
+  },
+  {
+   "id": "otizm_uyarla",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Otizm",
+   "baslik": "Otizmde *test uyarlamaları*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "Görsel program",
+     "metin": "Adımları resimle göster",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Alıştırma",
+     "metin": "Kulaklığı evde dene",
+     "cumle": 1
+    },
+    {
+     "ikon": "sessizlik",
+     "baslik": "Sakin ortam",
+     "metin": "Kısa bekleme, az uyaran",
+     "cumle": 2
+    },
+    {
+     "ikon": "ev",
+     "baslik": "Aile",
+     "metin": "Tanıdık oyuncak, aile yakın",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Kısa oturumlar",
+     "metin": "Gerekirse birkaç randevu",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Testin adımlarını resimlerle gösteren basit bir görsel program, çocuğun ne olacağını önceden bilmesini sağlar.",
+    "Kulaklık ya da insert ucu randevudan önce evde oyun içinde tanıtılabilir; buna alıştırma denir.",
+    "Bekleme süresi kısa tutulur; ışığı ve sesi az, sakin bir oda seçilir.",
+    "Çocuğun sevdiği oyuncak ve tanıdık bir yetişkinin yakınlığı, iş birliğini belirgin biçimde artırır.",
+    "Değerlendirme gerekirse birkaç kısa oturuma bölünür; her oturumda en önemli bilgi önce alınır.",
+    "Davranışsal test mümkün değilse eşik tahmini objektif testlerle yapılır; bu karar çocuğu zorlamaktan daha değerlidir."
+   ]
+  },
+  {
+   "id": "cp",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Serebral palsi",
+   "baslik": "*Serebral palsi* ve işitme",
+   "maddeler": [
+    {
+     "metin": "Motor kısıtlılık: yanıt biçimi değişir",
+     "cumle": 1,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Destekli ve dengeli oturma",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Göz kaydırma, anahtar, ses",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Bilirubin ve oksijensizlik: ANSD riski",
+     "cumle": 5,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Kas gerginliği: ABR'de artefakt",
+     "cumle": 7,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Serebral palsi (cerebral palsy), gelişmekte olan beyinde oluşan bir hasara bağlı, kalıcı hareket ve duruş bozukluklarını anlatır.",
+    "Çocuk sese yanıt verse bile başını çevirmekte ya da düğmeye basmakta zorlanabilir; yanıtın yokluğu işitmeyle karıştırılmamalıdır.",
+    "Önce çocuğun rahat ve dengeli oturması sağlanır; tekerlekli sandalyesi ya da ailenin kucağı en iyi seçenek olabilir.",
+    "Yanıt biçimi çocuğun yapabildiğine göre seçilir: gözlerini sese kaydırması, büyük bir anahtara dokunması ya da bir ses çıkarması.",
+    "Bu yanıtları tanımak için aile ve çocuğun fizyoterapistiyle önceden konuşmak çok yararlıdır.",
+    "Ağır yenidoğan sarılığı ve oksijensizlik, serebral palsi kadar işitsel nöropati spektrum bozukluğu, kısaca ANSD için de risk etkenidir.",
+    "Bu yüzden bu çocuklarda otoakustik emisyon, kısaca OAE ve işitsel beyin sapı yanıtı, kısaca ABR birlikte değerlendirilir.",
+    "Sürekli kas gerginliği ya da istemsiz hareketler ABR kaydında artefakt yaratabilir.",
+    "Bu yüzden kayıt çoğu zaman uykuda ya da sedasyonla yapılır; sedasyon kararı hekime aittir."
+   ]
+  },
+  {
+   "id": "vra",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Serebral palsi",
+   "baslik": "Görsel pekiştirmeyi *uyarlamak*",
+   "cizim": "vra_odasi",
+   "etiketler": [
+    {
+     "parca": "odul_kutusu",
+     "metin": "pekiştirici: görüş alanında",
+     "cumle": 1
+    },
+    {
+     "parca": "test_eden",
+     "metin": "gözlemci",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "odul_kutusu",
+     "cumle": 1
+    },
+    {
+     "parca": "test_eden",
+     "cumle": 2
+    },
+    {
+     "parca": "cocuk",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Görsel pekiştirmeli odyometri düzeneğini, motor kısıtlılığı olan bir çocuğa göre uyarlayabiliriz.",
+    "Pekiştirici oyuncak, çocuğun başını çok çevirmeden görebileceği bir açıya yerleştirilir.",
+    "Başını çeviremeyen çocukta göz kaydırma yanıtı, deneyimli bir gözlemci tarafından izlenir.",
+    "Çocuğun yanıtı yavaşsa yanıt için tanınan süre uzatılır; aceleci bir değerlendirme yanıtı kaçırır.",
+    "Sahte yanıtları ayıklamak için sesin verilmediği kontrol denemeleri de yapılır.",
+    "Bu uyarlamalar standart yöntemin mantığını korur; yalnızca yanıtın biçimini çocuğa uydurur."
+   ]
+  },
+  {
+   "id": "gorme",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Görme kaybı",
+   "baslik": "*Görme kaybı* olan çocuk",
+   "maddeler": [
+    {
+     "metin": "Görsel pekiştirme işe yaramayabilir",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Işıklı ve parlak pekiştiriciler",
+     "cumle": 2,
+     "ikon": "ampul"
+    },
+    {
+     "metin": "Dokunsal ve titreşimli ödüller",
+     "cumle": 3,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "İki duyuda kayıp: erken müdahale",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "ampul",
+      "baslik": "Az gören",
+      "metin": "Parlak, kontrastlı pekiştirici",
+      "cumle": 2
+     },
+     {
+      "ikon": "dokunma",
+      "baslik": "Görmeyen",
+      "metin": "Titreşim, dokunma, müzik",
+      "cumle": 3
+     }
+    ],
+    "ust": "PEKİŞTİRME"
+   },
+   "cumleler": [
+    "Görsel pekiştirmeli odyometri, adından da anlaşıldığı gibi çocuğun pekiştiriciyi görmesine dayanır.",
+    "Görmesi ağır biçimde etkilenmiş bir çocukta bu yöntem olduğu gibi kullanılamaz.",
+    "Az gören çocukta yüksek kontrastlı, parlak ışıklı pekiştiriciler görüş alanının en iyi bölgesine yerleştirilebilir.",
+    "Görmeyen çocukta titreşen bir oyuncak, dokunma ya da sevdiği bir müzik pekiştirici olarak kullanılabilir.",
+    "Oyun odyometrisinde ise halka ya da küp gibi dokunarak bulunabilecek nesneler seçilir.",
+    "Görme ve işitmenin birlikte etkilendiği çocuklarda iletişim ve hareket becerileri için erken ve özel bir destek gerekir.",
+    "Prematüre retinopatisi, CHARGE ve Usher sendromları, bu iki duyunun birlikte etkilenebildiği durumlara örnektir."
+   ]
+  },
+  {
+   "id": "gorme_ipucu",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Görme kaybı",
+   "baslik": "Görme kaybında *iletişim*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Sözle bildir",
+     "metin": "Ne yapacağını söyle",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Önce dokunma",
+     "metin": "Kulaklıktan önce tanıt",
+     "cumle": 1
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Aile yanında",
+     "metin": "Güven ve yön",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Zaman tanı",
+     "metin": "Keşfetmeye izin ver",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Görmeyen çocuk odada ne olduğunu göremez; bu yüzden her adım önce sözle anlatılır.",
+    "Kulaklık, prob ya da vibratör çocuğun kulağına yaklaştırılmadan önce eline verilir ve dokunarak tanıması sağlanır.",
+    "Ani dokunmalar çocuğu ürkütebilir; dokunmadan önce adıyla seslenmek iyi bir alışkanlıktır.",
+    "Ailenin çocuğun yanında olması güven verir ve çocuğun sesin nereden geldiğini anlamasına yardım eder.",
+    "Çocuğun yeni nesneleri keşfetmesine zaman tanımak, testin geri kalanında iş birliğini artırır."
+   ]
+  },
+  {
+   "id": "objektif",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Objektif testler ve ekip",
+   "baslik": "Objektif *batarya*",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometri",
+     "metin": "Orta kulak",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "OAE",
+     "metin": "Dış tüy hücreleri",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Akustik refleks",
+     "metin": "Yolun bütünlüğü",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ABR ve ASSR",
+     "metin": "Eşik tahmini",
+     "cumle": 3
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Çapraz kontrol",
+     "metin": "Davranışla karşılaştır",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Timpanometri orta kulak durumunu gösterir; bu çocuklarda orta kulak sıvısı da sık görülür.",
+    "Otoakustik emisyon, dış tüy hücrelerinin işlevini hızlı ve yanıt gerektirmeden gösterir.",
+    "Akustik refleks, işitme yolunun ve yüz sinirinin oluşturduğu refleks yayının bütünlüğü hakkında bilgi verir.",
+    "İşitsel beyin sapı yanıtı ve işitsel durağan durum yanıtı, kısaca ASSR, kulağa ve frekansa özgü eşik tahmini sağlar.",
+    "Uzun ve sakin kayıt gerektiren bu testler için sedasyon gerekebilir; bu karar hekime aittir.",
+    "Odyolog, test planını sedasyon süresini en iyi kullanacak biçimde önceden hazırlar.",
+    "Objektif sonuçlar, çocuğun gelişimi el verdikçe davranışsal testlerle doğrulanır."
+   ]
+  },
+  {
+   "id": "ekip",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Objektif testler ve ekip",
+   "baslik": "Ekip *çalışması*",
+   "ogeler": [
+    {
+     "ikon": "ev",
+     "baslik": "Aile",
+     "metin": "Çocuğu en iyi tanıyan",
+     "cumle": 0
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Hekimler",
+     "metin": "Çocuk, nöroloji, göz, KBB",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Dil ve konuşma",
+     "metin": "İletişim planı",
+     "cumle": 2
+    },
+    {
+     "ikon": "okul",
+     "baslik": "Özel eğitim",
+     "metin": "Eğitim ortamı",
+     "cumle": 3
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Fizyoterapi",
+     "metin": "Duruş ve hareket",
+     "cumle": 4
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Odyolog",
+     "metin": "İşitme verisi, cihaz",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bu çocukların değerlendirmesinin merkezinde aile vardır; çocuğu en iyi tanıyan ve günlük gözlemleri bilen onlardır.",
+    "Çocuk doktoru, çocuk nörolojisi, göz ve kulak burun boğaz hekimleri tıbbi değerlendirmeyi yürütür.",
+    "Dil ve konuşma terapisti, çocuğun iletişim biçimini ve işitsel girdiyi nasıl kullandığını değerlendirir.",
+    "Özel eğitim öğretmeni, sınıf ortamında uyarlamaları ve uzak mikrofon gibi yardımcı araçları planlamaya katkı verir.",
+    "Fizyoterapist ve iş terapisti, test sırasında doğru pozisyon ve cihaz kullanımı için önemli öneriler sunar.",
+    "Odyolog bu ekipte işitme verisini sağlar ve cihaz kararlarının işitsel temelini oluşturur."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Randevudan önce aileye üç soru sorun: çocuk neyi sever, neyden rahatsız olur, sese nasıl tepki verir?",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: randevudan birkaç gün önce aileyle kısa bir telefon görüşmesi yapın.",
+    "Çocuğun neyi sevdiğini, neyden rahatsız olduğunu ve evde seslere nasıl tepki verdiğini sorun.",
+    "Bu üç bilgi, pekiştirici seçimini, oda düzenini ve test sırasını belirlemenizi sağlar.",
+    "Raporunuzda kullandığınız uyarlamaları açıkça yazın; sonraki değerlendirmede aynı koşulları sağlamak karşılaştırmayı kolaylaştırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Ek yetersizlik sık: yaklaşık _yüzde kırk_",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Yöntem gelişim düzeyine göre uyarlanır",
+     "cumle": 1,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Objektif testler her zaman bataryada",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Aile merkezli _ekip_ çalışması",
+     "cumle": 3,
+     "ikon": "ev"
+    }
+   ],
+   "cumleler": [
+    "İşitme kaybı olan çocukların önemli bir bölümünde ek bir yetersizlik bulunur; ortak risk etkenleri ve tanıların birbirini örtmesi önemlidir.",
+    "Davranışsal yöntem takvim yaşına değil gelişim düzeyine göre seçilir; yanıt biçimi ve pekiştirici çocuğa göre uyarlanır.",
+    "Timpanometri, OAE, akustik refleks ve ABR, davranışsal sonuçları çapraz kontrol ilkesiyle destekler.",
+    "Değerlendirme aileyle ve çocuğu izleyen ekiple birlikte planlanır ve uyarlamalar rapora yazılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Görmeyen çocukta görsel pekiştirmede ne değişir?",
+   "secenekler": [
+    "Ses düzeyi",
+    "Pekiştiricinin türü",
+    "Test frekansları",
+    "Kulaklık türü"
+   ],
+   "dogru": 1,
+   "aciklama": "Pekiştirme _dokunsal_ ya da işitsel yapılır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: görmesi ağır biçimde etkilenmiş bir çocukta görsel pekiştirmeli odyometrinin hangi öğesi uyarlanmalıdır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: pekiştiricinin türü.",
+    "Çocuk ışıklı oyuncağı göremeyeceği için titreşim, dokunma ya da sevdiği bir ses pekiştirici olarak kullanılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Yenidoğan işitme taraması* neden yapılır?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste tarama programları bölümüne başlıyor ve yenidoğan işitme taramasının neden yapıldığını öğreniyoruz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

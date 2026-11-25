@@ -1,0 +1,717 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D108_Akustik_Refleks_TR",
+ "kapak": {
+  "ust": "DERS 108",
+  "baslik": "*Akustik*<br>refleks",
+  "alt": "Refleks arkı ve normal eşikler",
+  "cizim": "orta_kulak"
+ },
+ "youtube": {
+  "baslik": "Akustik Refleks: Refleks Arkı ve Normal Eşikler | Ders 108 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Akustik refleks, yüksek şiddetli bir seste stapedius kasının kasılmasıyla oluşan ve immitans cihazıyla ölçülen bir yanıttır. Bu derste ipsilateral ve kontralateral refleks arkını, normal refleks eşiklerini, ölçüm tekniğini ve sık görülen artefaktları inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "akustikrefleks",
+   "immitansmetri"
+  ],
+  "etiketler": [
+   "akustik refleks",
+   "acoustic reflex",
+   "akustik refleks eşiği",
+   "stapedius refleksi",
+   "refleks arkı",
+   "ipsilateral",
+   "kontralateral",
+   "immitansmetri",
+   "timpanometri",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 108",
+   "baslik": "*Akustik refleks* ve refleks arkı",
+   "alt": "İpsilateral ve kontralateral yol, normal eşikler, teknik",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste akustik refleksin nasıl oluştuğunu, refleks arkını ve normal refleks eşiklerini öğreneceğiz.",
+    "Ölçüm tekniğini ve sonuçları yanıltabilen artefaktları da konuşacağız."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Refleksin temeli",
+   "baslik": "Akustik refleks *nedir?*",
+   "maddeler": [
+    {
+     "metin": "_Akustik refleks_ (acoustic reflex)",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Yüksek seste _stapedius_ kasılır",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kasılma normalde _iki kulakta_",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Admitansta küçük bir _azalma_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Akustik refleks (acoustic reflex), yüksek şiddetli bir sese karşı orta kulakta oluşan istemsiz bir kas kasılmasıdır.",
+    "İnsanda bu refleksten esas olarak stapedius kası sorumludur; bu yüzden stapes refleksi adı da kullanılır.",
+    "Refleks istemsizdir; hastanın dikkatine ya da yanıt vermesine bağlı değildir.",
+    "Stapedius kasılınca kemikçik zinciri sertleşir ve orta kulağın admitansı azalır.",
+    "Ses tek bir kulağa verilse bile refleks normalde iki kulakta birden oluşur.",
+    "İmmitans cihazı, kulak yolundaki probla bu küçük admitans azalmasını ölçer.",
+    "Refleksin, yüksek şiddetli pes seslerin iç kulağa iletimini bir miktar azalttığı bilinir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "yakinlastir": {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 2.0
+    },
+    "vurgula": [
+     {
+      "parca": "stapedius",
+      "cumle": 1
+     },
+     {
+      "parca": "kemikcikler",
+      "cumle": 3
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "stapedius",
+      "metin": "stapedius",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "stapedius",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Refleksin temeli",
+   "baslik": "*Stapedius* kası",
+   "cizim": "orta_kulak",
+   "vurgula": [
+    {
+     "parca": "stapedius",
+     "cumle": 0
+    },
+    {
+     "parca": "stapes",
+     "cumle": 1
+    },
+    {
+     "parca": "tensor_timpani",
+     "cumle": 3
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "stapedius",
+     "metin": "stapedius kası (VII. sinir)",
+     "cumle": 0
+    },
+    {
+     "parca": "stapes",
+     "metin": "stapes (üzengi)",
+     "cumle": 1
+    },
+    {
+     "parca": "tensor_timpani",
+     "metin": "tensor tympani (V. sinir)",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Kasılma: zincir sertleşir",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Klinik yanıt: stapedius refleksi",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Stapedius, vücudun en küçük iskelet kasıdır ve yüz siniri, yani yedinci kafa siniri tarafından uyarılır.",
+    "Kasın tendonu stapesin boyun kısmına tutunur.",
+    "Kas kasılınca stapesi geriye doğru çeker ve zincirin hareketini kısıtlar.",
+    "Orta kulaktaki diğer kas olan tensor tympani ise beşinci kafa siniriyle uyarılır; insanda sese karşı refleksteki rolü sınırlıdır.",
+    "Bu yüzden klinikte ölçtüğümüz yanıt, pratikte stapedius refleksidir.",
+    "Stapedius tendonu bazı orta kulak ameliyatlarında kesilebilir; bu durumda o kulakta refleks ölçülemez."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "stapes",
+     "cumle": 1,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 3
+    }
+   ]
+  },
+  {
+   "id": "ark",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Refleks arkı",
+   "baslik": "Refleks *arkı*",
+   "cizim": "akustik_refleks_arki",
+   "vurgula": [
+    {
+     "parca": "koklea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_motor_cekirdek",
+     "cumle": 3
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 4
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 6
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "Koklea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "VIII. sinir",
+     "cumle": 1
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "Ventral koklear nükleus",
+     "cumle": 2
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "Superior oliver kompleks",
+     "cumle": 3
+    },
+    {
+     "parca": "fasiyal_sinir",
+     "metin": "VII. sinir",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Çıkış: yüz siniri motor çekirdeği",
+     "cumle": 4,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "VII. sinir ile stapediusa",
+     "cumle": 4,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Her halka refleksi etkileyebilir",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Refleks arkı, sesin kokleada algılanmasıyla başlar.",
+    "Uyarı, sekizinci kafa siniri, yani işitme siniri ile beyin sapına taşınır.",
+    "Lifler ilk olarak aynı taraftaki ventral koklear nükleusta, yani koklear çekirdekte sinaps yapar.",
+    "Buradan bilgi her iki taraftaki superior oliver komplekse, yani üst zeytin çekirdeklerine ve yüz siniri motor çekirdeklerine ulaşır.",
+    "Yüz sinirinin motor çekirdeğinden çıkan yedinci kafa siniri, stapedius kasını kasar.",
+    "Ark kısa olduğu için refleks hızlıdır; ancak arkın herhangi bir halkasındaki sorun refleksi etkileyebilir.",
+    "Örneğin işitme sinirindeki bir sorun, o kulaktan verilen uyaranla hem ipsilateral hem kontralateral refleksi etkileyebilir."
+   ],
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 4,
+    "kontra_cumle": 6
+   }
+  },
+  {
+   "id": "taraflar",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Refleks arkı",
+   "baslik": "İpsilateral ve *kontralateral*",
+   "sol": {
+    "ust": "İpsilateral (aynı taraf)",
+    "maddeler": [
+     {
+      "metin": "Uyaran ve prob aynı kulakta",
+      "cumle": 0
+     },
+     {
+      "metin": "Sinyal karşıya geçmez",
+      "cumle": 1
+     },
+     {
+      "metin": "Artefakta daha açık",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Kontralateral (karşı taraf)",
+    "maddeler": [
+     {
+      "metin": "Uyaran bir kulakta, prob diğerinde",
+      "cumle": 3
+     },
+     {
+      "metin": "Sinyal beyin sapında karşıya geçer",
+      "cumle": 4
+     },
+     {
+      "metin": "Raporda iki kulağı belirt",
+      "cumle": 6
+     }
+    ]
+   },
+   "cumleler": [
+    "İpsilateral, yani aynı taraf ölçümde uyaran verilir ve refleks aynı kulaktaki probla ölçülür.",
+    "Bu yolda sinyal beyin sapında karşı tarafa geçmeden aynı taraftaki yüz sinirine ulaşır.",
+    "Uyaran ve prob tonu aynı küçük boşlukta bulunduğu için ipsilateral ölçüm artefakta daha açıktır.",
+    "Kontralateral, yani karşı taraf ölçümde uyaran bir kulağa kulaklıkla verilir, refleks ise diğer kulaktaki probla ölçülür.",
+    "Bu yolda sinyal beyin sapında karşı tarafa geçer ve diğer taraftaki yüz sinirini uyarır.",
+    "İki yolun karşılaştırılması, sorunun kulak, sinir ya da beyin sapı düzeyinde olup olmadığını anlamaya yardım eder.",
+    "Adlandırma klinikler arasında farklı olabilir; raporda uyaranın verildiği ve probun bulunduğu kulak açıkça yazılmalıdır."
+   ]
+  },
+  {
+   "id": "esikler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normal eşikler",
+   "baslik": "Normal refleks *eşikleri*",
+   "sutunlar": [
+    "Uyaran",
+    "Yaklaşık eşik",
+    "Not"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500, 1000, 2000 Hz",
+      "70 ile 100 dB",
+      "Ortalama yaklaşık 85"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "4000 Hz",
+      "Sık alınamaz",
+      "Yorumda güvenilmez"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Geniş bant gürültü",
+      "Yaklaşık 20 dB düşük",
+      "Tonlara göre"
+     ],
+     "cumle": 6
+    },
+    {
+     "hucreler": [
+      "İpsilateral",
+      "Birkaç dB düşük",
+      "Kontralaterale göre"
+     ],
+     "cumle": 7
+    }
+   ],
+   "cumleler": [
+    "Refleksin ortaya çıktığı en düşük uyaran düzeyine akustik refleks eşiği (acoustic reflex threshold), kısaca ART denir.",
+    "Normal işiten yetişkinlerde saf ton refleks eşikleri genellikle yetmiş ile yüz desibel HL arasındadır.",
+    "Ortalama değer çoğu kaynakta seksen beş desibel HL civarında verilir.",
+    "Başka bir deyişle refleks, normal işitme eşiğinin yaklaşık yetmiş ile yüz desibel üzerinde ortaya çıkar.",
+    "Dört bin hertzde refleks, normal işiten kişilerde bile sık olarak alınamaz.",
+    "Bu yüzden yorumda genellikle beş yüz, bin ve iki bin hertz kullanılır.",
+    "Geniş bant gürültü ile refleks, saf tonlara göre yaklaşık on beş ile yirmi desibel daha düşük düzeylerde ortaya çıkar.",
+    "İpsilateral eşikler, kontralateral eşiklere göre genellikle birkaç desibel daha düşüktür."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Normal eşikler",
+   "baslik": "İşitme kaybında *refleks*",
+   "maddeler": [
+    {
+     "metin": "Koklear kayıpta refleks _korunabilir_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Eşiğe göre _daha düşük_ duyum düzeyi",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Prob kulağında iletim kaybı: _çoğunlukla yok_",
+     "cumle": 4,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Ayrıntılı paternler: _sonraki ders_",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Hafif ve orta derecede koklear kayıplarda refleks eşikleri çoğu zaman normal düzeylerde kalır.",
+    "Bu durumda refleks, işitme eşiğine göre daha düşük bir duyum düzeyinde ortaya çıkar; bu bulgu koklear kayıpla uyumludur.",
+    "Bunun nedeni, kokleada hasar olduğunda ses yüksekliğinin eşik üstünde normalden hızlı artmasıdır.",
+    "Kayıp yaklaşık elli ile altmış desibeli aşınca refleks eşiği yükselmeye başlar; daha ileri kayıplarda refleks çoğu zaman alınamaz.",
+    "Probun bulunduğu kulakta küçük bir iletim tipi kayıp bile, refleksin ölçülmesini çoğu zaman engeller.",
+    "Uyaranın verildiği kulakta iletim kaybı varsa, refleks eşiği yaklaşık hava-kemik aralığı kadar yükselir.",
+    "Bu paternlerin lezyon yeri tahmininde nasıl kullanıldığını bir sonraki derste ayrıntılı olarak göreceğiz."
+   ]
+  },
+  {
+   "id": "teknik",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ölçüm tekniği",
+   "baslik": "Ölçüm *adımları*",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometri",
+     "metin": "Önce, aynı prob yerleşimiyle",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Tepe basıncı",
+     "metin": "Basınç buraya ayarlanır",
+     "cumle": 1
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "70 dB HL",
+     "metin": "Saf tonla başlanır",
+     "cumle": 2
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "5 dB adım",
+     "metin": "Refleks görülene kadar",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Ölçüt",
+     "metin": "Tekrarlanabilir 0,02 mmho azalma",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Refleks ölçümü, timpanometriden hemen sonra ve aynı prob yerleşimiyle yapılır.",
+    "Kulak yolundaki basınç, timpanogramın tepe basıncına ayarlanır; refleks en kolay bu noktada görülür.",
+    "Saf ton uyaran genellikle yetmiş desibel HL civarında başlatılır; geniş bant gürültüde başlangıç daha düşüktür.",
+    "Refleks görülene kadar şiddet beş desibellik adımlarla artırılır.",
+    "Sık kullanılan ölçüte göre refleks eşiği, en az yaklaşık sıfır virgül sıfır iki milimho azalmanın görüldüğü en düşük düzeydir.",
+    "Eşikteki yanıt, en az iki kez görülerek doğrulanır.",
+    "Hastaya kısa ve yüksek sesler duyacağı, yanıt vermesine gerek olmadığı ve yalnız sakin durması gerektiği anlatılır."
+   ]
+  },
+  {
+   "id": "guvenlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ölçüm tekniği",
+   "baslik": "Güvenlik ve *üst sınır*",
+   "maddeler": [
+    {
+     "metin": "Ölçümü _gereksiz uzatma_",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Tonda üst sınır: _105 dB HL_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Tinnitus ve ses hassasiyetinde _dikkat_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Rahatsızlıkta _hemen durdur_",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Refleks uyaranları yüksek şiddettedir; bu yüzden ölçüm gereksiz yere uzatılmamalıdır.",
+    "İngiliz Odyoloji Derneğinin kılavuzu, saf ton uyaranlarda yüz beş desibel HL'nin aşılmamasını önerir; gürültüde sınır daha düşüktür.",
+    "Refleks bu düzeye kadar alınamazsa yanıt yok olarak kaydedilir.",
+    "Tinnitus, ses hassasiyeti ya da yakın zamanda gürültü maruziyeti olan hastalarda daha da dikkatli olunur.",
+    "Bu hastalarda testin gerekliliği değerlendirilir ve uyaran düzeyleri mümkün olduğunca düşük tutulur.",
+    "Ölçüm sırasında hastada rahatsızlık olursa test hemen durdurulur."
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ölçüm tekniği",
+   "baslik": "Sık görülen *artefaktlar*",
+   "sutunlar": [
+    "Artefakt",
+    "Görünüm",
+    "Çözüm"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "İpsilateral akustik artefakt",
+      "Ters ya da olağan dışı sapma",
+      "Kavitede kontrol"
+     ],
+     "cumle": 0,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "Hareket, yutkunma",
+      "Düzensiz sapma",
+      "Tekrar ölç"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Prob sızıntısı",
+      "Kayan taban çizgisi",
+      "Ucu yeniden yerleştir"
+     ],
+     "cumle": 5
+    },
+    {
+     "hucreler": [
+      "Yanlış basınç",
+      "Küçük yanıt",
+      "Tepe basıncına ayarla"
+     ],
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "İpsilateral ölçümde uyaran ile prob tonu aynı boşlukta etkileşebilir ve gerçek olmayan sapmalar oluşabilir.",
+    "Bu artefakt ters ya da olağan dışı biçimli bir sapma olarak görülebilir; şüphe varsa ölçüm sert duvarlı bir test kavitesinde denenir.",
+    "Kavitede de sapma görülüyorsa, bu yanıt refleks değil, cihaz kaynaklı bir artefakttır.",
+    "Gerçek bir refleks, canlı bir kulak olmadığı için kavitede görülmez.",
+    "Hasta hareketi, yutkunma ya da konuşma düzensiz sapmalara yol açar; ölçüm tekrarlanır.",
+    "Prob sızıntısı taban çizgisinin kaymasına neden olur; uç yeniden yerleştirilir.",
+    "Basınç tepe basıncına ayarlanmazsa yanıt küçülür ve refleks yok sanılabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Refleks yoksa önce prob kulağına bakın: timpanogram ve otoskopi. Küçük bir iletim sorunu bile refleksi gizleyebilir.",
+   "cumleler": [
+    "Pratik bir ipucu: refleks alınamadığında hemen sinirsel bir sorun düşünmeyin.",
+    "Önce probun bulunduğu kulağın timpanogramına ve otoskopisine bakın.",
+    "Bu kulakta küçük bir iletim sorunu, örneğin belirgin negatif basınç ya da efüzyon, refleksi tek başına gizleyebilir.",
+    "Ayrıca basıncın tepe basıncına ayarlandığını ve probun sızdırmadığını kontrol edin.",
+    "Bu kontroller, gereksiz ileri tetkik yönlendirmelerini önleyebilir."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ölçüm tekniği",
+   "baslik": "Kayıt ve *raporlama*",
+   "maddeler": [
+    {
+     "metin": "Her frekans için _eşik_ (dB HL)",
+     "cumle": 0,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "İpsi ve kontra _ayrı_ yazılır",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Yoksa: _yanıt yok_ ve en yüksek düzey",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "_Tablo_ biçiminde özet",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Refleks eşikleri her frekans için desibel HL olarak kaydedilir.",
+    "İpsilateral ve kontralateral sonuçlar ayrı sütunlarda, uyaran ve prob kulağı belirtilerek yazılır.",
+    "Refleks alınamadıysa yanıt yok olarak not edilir ve denenen en yüksek düzey de yazılır; çünkü daha yüksek düzeyde refleks çıkabilirdi.",
+    "Sonuçların tablo halinde sunulması, paternlerin yorumunu kolaylaştırır.",
+    "Refleks eşiği ile saf ses eşiği arasındaki fark da hesaplanabilir; bu fark ileride göreceğimiz yorumlarda kullanılır."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ölçüm tekniği",
+   "baslik": "Refleks *neden* önemli?",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Bütün yol",
+     "metin": "Orta kulak, sinir ve beyin sapı",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Yüz siniri",
+     "metin": "Stapedius dalına kadar bütünlük",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Çapraz kontrol",
+     "metin": "Kayıp beyanıyla çelişki",
+     "cumle": 3
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Rutin immitans",
+     "metin": "Timpanometri ile birlikte",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Akustik refleks, test bataryasında birkaç farklı soruya aynı anda yanıt verir.",
+    "Orta kulak işlevini, işitme sinirini ve beyin sapındaki yolu birlikte sınar.",
+    "Yüz sinirinin stapedius dalına kadar olan bütünlüğü hakkında da bilgi verir.",
+    "Normal refleks eşikleri, ileri derecede bir işitme kaybı beyanıyla çelişiyorsa bu da önemli bir çapraz kontrol bulgusudur.",
+    "Bu nedenle refleks ölçümü, timpanometri ile birlikte rutin immitans değerlendirmesinin bir parçasıdır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "_Stapedius_ kasılır, admitans azalır",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Ark: VIII. sinir, beyin sapı, _VII. sinir_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Normal eşik: _70 ile 100 dB HL_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Prob kulağında iletim kaybı: _refleks yok_",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    }
+   ],
+   "cumleler": [
+    "Yüksek şiddetli seste stapedius kası kasılır ve orta kulak admitansı azalır.",
+    "Refleks arkı koklea, sekizinci sinir, beyin sapı ve yedinci sinirden oluşur; ipsilateral ve kontralateral dalları vardır.",
+    "Normal işitenlerde saf ton refleks eşikleri genellikle yetmiş ile yüz desibel HL arasındadır.",
+    "Probun bulunduğu kulaktaki küçük bir iletim sorunu bile refleksi çoğu zaman ortadan kaldırır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Refleks arkında stapedius kasını kasan sinir hangisidir?",
+   "secenekler": [
+    "VIII. sinir",
+    "VII. sinir",
+    "V. sinir"
+   ],
+   "dogru": 1,
+   "aciklama": "Sekizinci sinir uyarıyı beyin sapına taşır; stapediusu _yüz sinirinin_ motor lifleri kasar.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Akustik refleks arkında stapedius kasını kasan sinir hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yedinci kafa siniri, yani yüz siniri.",
+    "Sekizinci sinir uyarıyı beyin sapına taşır; kası ise yüz sinirinin motor lifleri kasar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Akustik refleks *paternleri*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, refleks paternlerinin lezyon yerini tahmin etmede nasıl kullanıldığını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

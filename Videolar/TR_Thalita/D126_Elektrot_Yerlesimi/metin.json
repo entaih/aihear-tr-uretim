@@ -1,0 +1,1235 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D126_Elektrot_Yerlesimi_TR",
+ "kapak": {
+  "ust": "DERS 126",
+  "baslik": "Elektrotlar ve<br>*10-20* sistemi",
+  "alt": "ABR kaydının ilk adımı",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Elektrot Yerleşimi ve 10-20 Sistemi | Ders 126 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitsel beyin sapı yanıtı (ABR) kaydında elektrotların 10-20 sistemine göre nereye yerleştirildiğini, aktif, referans ve toprak elektrotun görevlerini ve montaj seçeneklerini anlatıyoruz. Cilt hazırlığı, 5 kΩ altında ve dengeli empedans hedefi ve bebeklerde yerleşim ayrıntılarını ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Jasper (1958), The ten-twenty electrode system of the International Federation; BSA, Recommended Procedure: Auditory Brainstem Response Testing in Babies.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "ABR",
+   "elektrofizyoloji"
+  ],
+  "etiketler": [
+   "ABR",
+   "10-20 sistemi",
+   "10-20 system",
+   "elektrot yerleşimi",
+   "electrode montage",
+   "elektrot empedansı",
+   "electrode impedance",
+   "işitsel beyin sapı yanıtı",
+   "vertex",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 126",
+   "baslik": "Elektrot yerleşimi ve *10-20*",
+   "alt": "Cz, Fz, M1 ve M2; empedans ve montaj",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitsel beyin sapı yanıtı, kısaca ABR kaydı için elektrotların nereye ve nasıl yerleştirildiğini öğreneceğiz.",
+    {
+     "yazi": "10-20 sistemini, aktif, referans ve toprak elektrotun görevlerini ve empedans kontrolünü adım adım ele alacağız.",
+     "ses": "on yirmi sistemini, aktif, referans ve toprak elektrotun görevlerini ve empedans kontrolünü adım adım ele alacağız."
+    }
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden elektrot?",
+   "baslik": "Yanıt *kafa derisinden* okunur",
+   "maddeler": [
+    {
+     "metin": "Kaynak beyin sapında, elektrot _kafa derisinde_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Uzak alan kaydı: yanıt _çok küçük_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Elektroensefalografi (EEG) _arka planda_ sürer",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Elektrot yeri yanıtın _biçimini_ değiştirir",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 4
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "ABR'yi oluşturan işitme siniri ve beyin sapı, elektrotlardan birkaç santimetre derinde yer alır.",
+    "Bu yüzden ABR bir uzak alan kaydıdır; yanıt kafa derisine ulaştığında genellikle bir mikrovoltun altındadır.",
+    "Aynı anda beynin sürekli elektriksel etkinliği, yani elektroensefalografi, kısaca EEG de kayda girer.",
+    "Önceki derste gördüğümüz ortalama alma, bu küçük yanıtı EEG ve kas etkinliğinin içinden ayırır.",
+    "Ancak ortalamanın işe yaraması için önce sinyalin doğru noktalardan ve temiz biçimde alınması gerekir.",
+    "Elektrotların yeri, hangi dalganın belirgin olacağını ve kaydın ne kadar gürültülü olacağını belirler."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden elektrot?",
+   "baslik": "Sinyalin *yolculuğu*",
+   "adimlar": [
+    {
+     "ikon": "dokunma",
+     "baslik": "Elektrotlar",
+     "metin": "Kafa derisinden gerilim",
+     "cumle": 0
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Yükselteç",
+     "metin": "Farkı büyütür",
+     "cumle": 1
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Filtre",
+     "metin": "İlgisiz frekansları ayıklar",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Ortalama",
+     "metin": "Binlerce tarama toplanır",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Ekran",
+     "metin": "Dalgalar belirir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Elektrotlar, kafa derisi üzerindeki küçük gerilim değişimlerini toplar.",
+    "Yükselteç, iki elektrot arasındaki farkı yaklaşık yüz bin kat büyütür.",
+    "Filtre, ABR için gerekli olmayan çok yavaş ve çok hızlı değişimleri ayıklar.",
+    "Ardından her uyarandan sonraki kısa kayıt bölümleri üst üste toplanır ve ortalaması alınır.",
+    "Bu zincirin ilk halkası elektrot olduğu için, burada yapılan bir hata sonraki hiçbir adımda tam düzeltilemez."
+   ]
+  },
+  {
+   "id": "sistem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "10-20 sistemi",
+   "baslik": "Kafada *ölçülü* noktalar",
+   "cizim": "elektrot_yerlesimi",
+   "ayar": {
+    "mod": "1020",
+    "goster": {
+     "nasion": 1,
+     "inion": 1,
+     "yuzde": 2,
+     "pz": 2,
+     "oz": 2,
+     "fpz": 3,
+     "fz": 3,
+     "cz": 4,
+     "sol_preaurikuler": 4,
+     "sag_preaurikuler": 4,
+     "m1": 6,
+     "m2": 6,
+     "a1": 6,
+     "a2": 6
+    },
+    "roller": {
+     "cz": "aktif",
+     "fz": "aktif",
+     "m1": "referans",
+     "m2": "referans",
+     "a1": "referans",
+     "a2": "referans",
+     "fpz": "toprak"
+    },
+    "roller_cumle": 6
+   },
+   "notlar": [
+    {
+     "metin": "Uluslararası standart: _1958_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Uzaklıklar kafa boyunun _yüzde 10 ve 20_'si",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Cz: tepe noktası (vertex)",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Elektrot yerleri, 1958'de Jasper tarafından tanımlanan uluslararası 10-20 sistemi (10-20 system) ile standartlaştırılır.",
+     "ses": "Elektrot yerleri, bin dokuz yüz elli sekiz'de Cespır tarafından tanımlanan uluslararası on yirmi sistemi ile standartlaştırılır."
+    },
+    {
+     "yazi": "Ölçüm, burun kökündeki nasion ile ense çıkıntısı olan inion arasındaki uzaklıktan başlar.",
+     "ses": "Ölçüm, burun kökündeki nazyon ile ense çıkıntısı olan inion arasındaki uzaklıktan başlar."
+    },
+    "Bu uzaklık yüzde on ve yüzde yirmilik parçalara bölünür; sistemin adı da bu oranlardan gelir.",
+    {
+     "yazi": "Nasion'dan yüzde on yukarıda Fpz, yüzde yirmi daha yukarıda Fz noktası bulunur.",
+     "ses": "Nazyon'dan yüzde on yukarıda fe pe ze, yüzde yirmi daha yukarıda fe ze noktası bulunur."
+    },
+    {
+     "yazi": "Nasion ile inion arasının tam ortası, iki kulak önü noktasını birleştiren çizgiyle kesiştiği yerdir ve Cz, yani tepe noktasıdır.",
+     "ses": "Nazyon ile inion arasının tam ortası, iki kulak önü noktasını birleştiren çizgiyle kesiştiği yerdir ve ce ze, yani tepe noktasıdır."
+    },
+    "Oranlar kullanıldığı için sistem, küçük bir bebek başında da yetişkin başında da karşılık gelen noktaları verir.",
+    "Klinik ABR'de ölçü bandıyla tam ölçüm her zaman yapılmaz, ama bu noktaları doğru tanımak tutarlı kayıt için temeldir."
+   ]
+  },
+  {
+   "id": "adlar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "10-20 sistemi",
+   "baslik": "Harf ve rakamlar *ne der?*",
+   "sutunlar": [
+    "Simge",
+    "Anlamı",
+    "ABR örneği"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "F, C",
+      "Frontal, santral bölge",
+      "Fz, Cz"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "z",
+      "Orta hat",
+      "Cz, Fpz"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "Tek sayı",
+      "Sol taraf",
+      "M1, A1"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Çift sayı",
+      "Sağ taraf",
+      "M2, A2"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "M",
+      "Mastoid",
+      "M1, M2"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "A",
+      "Kulak memesi",
+      "A1, A2"
+     ],
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Harfler bölgeyi gösterir: F frontal, yani alın bölgesini, C ise santral, yani tepe bölgesini belirtir.",
+     "ses": "Harfler bölgeyi gösterir: fe frontal, yani alın bölgesini, ce ise santral, yani tepe bölgesini belirtir."
+    },
+    {
+     "yazi": "Küçük z harfi sıfır anlamına gelir ve noktanın tam orta hatta olduğunu söyler.",
+     "ses": "Küçük ze harfi sıfır anlamına gelir ve noktanın tam orta hatta olduğunu söyler."
+    },
+    "Tek sayılar başın sol tarafını, çift sayılar sağ tarafını gösterir.",
+    {
+     "yazi": "M harfi mastoidi belirtir; M1 sol mastoid, M2 sağ mastoiddir.",
+     "ses": "Me harfi mastoidi belirtir; me bir sol mastoid, me iki sağ mastoiddir."
+    },
+    {
+     "yazi": "Kulak memesi ise A harfiyle gösterilir; bazı merkezler mastoid yerine A1 ve A2 noktalarını kullanır.",
+     "ses": "Kulak memesi ise A harfiyle gösterilir; bazı merkezler mastoid yerine a bir ve a iki noktalarını kullanır."
+    },
+    "Sağ ve solu karıştırmamak için tek sayının sol, çift sayının sağ olduğunu akılda tutmak yeterlidir."
+   ]
+  },
+  {
+   "id": "uc_elektrot",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Elektrotların görevi",
+   "baslik": "*Üç* elektrot, üç görev",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Aktif (+)",
+     "metin": "Cz ya da Fz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Referans (-)",
+     "metin": "Uyarılan taraf mastoid",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Toprak",
+     "metin": "Fpz ya da karşı mastoid",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Her ABR kanalında üç elektrot birlikte çalışır.",
+    {
+     "yazi": "Aktif elektrot, yani evirmeyen ya da artı uç, genellikle Cz ya da Fz noktasına yerleştirilir.",
+     "ses": "Aktif elektrot, yani evirmeyen ya da artı uç, genellikle ce ze ya da fe ze noktasına yerleştirilir."
+    },
+    "Referans elektrot, yani eviren ya da eksi uç, genellikle uyarılan kulak tarafındaki mastoid ya da kulak memesindedir.",
+    {
+     "yazi": "Toprak elektrot ise ölçüm yapmaz; yükseltecin ortak noktasıdır ve çoğu zaman alında, Fpz noktasında durur.",
+     "ses": "Toprak elektrot ise ölçüm yapmaz; yükseltecin ortak noktasıdır ve çoğu zaman alında, fe pe ze noktasında durur."
+    },
+    "Bazı cihaz ve kaynaklarda bu üç ucun adları farklı geçebilir; önemli olan hangi ucun nereye bağlandığını bilmektir."
+   ]
+  },
+  {
+   "id": "referans",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Elektrotların görevi",
+   "baslik": "Referans *sessiz* değildir",
+   "maddeler": [
+    {
+     "metin": "Mastoid elektrodu _kokleaya yakın_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Dalga I'i _yakından_ algılar",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Çıkarma işlemi dalga I'i _büyütür_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bu yüzden _doğru taraf_ önemli",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 1,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dalga_I",
+      "metin": "dalga I: mastoidden katkı",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "Adına referans denmesine karşın mastoid elektrodu, işitme sinirinin kokleaya yakın bölümüne çok yakındır.",
+    "Bu elektrot, dalga I'i oluşturan sinir etkinliğini yakından ve ters işaretle algılar.",
+    "Yükselteç iki elektrot arasındaki farkı aldığı için bu ters işaretli katkı, dalga I'in daha büyük görünmesini sağlar.",
+    "Yani klasik ABR biçimi, tepe noktası ile mastoid arasındaki farktan doğar.",
+    "Referans elektrot yanlış tarafa bağlanırsa dalga I küçülür ve kayıt yanlış yorumlanabilir.",
+    "Bu nedenle sağ kulak test edilirken referans sağ mastoidde, sol kulakta sol mastoidde olmalıdır."
+   ]
+  },
+  {
+   "id": "diferansiyel",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Elektrotların görevi",
+   "baslik": "Diferansiyel *yükselteç*",
+   "maddeler": [
+    {
+     "metin": "İki elektrotun _farkı_ büyütülür",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Her ikisinde aynı gürültü _silinir_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Koşul: _dengeli_ empedans",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Dengesizlikte şebeke paraziti _sızar_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ORTAK GÜRÜLTÜ",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "gurultu",
+      "baslik": "İki uçta aynı",
+      "metin": "Çıkarmada kaybolur",
+      "cumle": 1
+     },
+     {
+      "ikon": "noron",
+      "baslik": "Yanıt farklı",
+      "metin": "Fark büyütülür",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "ABR yükselteci diferansiyeldir; yani iki elektrot arasındaki gerilim farkını büyütür.",
+    "Şebeke elektriğinden gelen parazit gibi iki elektrota eşit ulaşan sinyaller bu çıkarma işleminde büyük ölçüde silinir.",
+    {
+     "yazi": "Bu özelliğe ortak mod reddi (common mode rejection) denir ve ABR'yi gürültülü odalarda bile mümkün kılar.",
+     "ses": "Bu özelliğe ortak mod reddi denir ve ABR'yi gürültülü odalarda bile mümkün kılar."
+    },
+    "Ancak ortak mod reddi, elektrotların empedansları birbirine yakın olduğunda iyi çalışır.",
+    "Bir elektrotun empedansı ötekilerden çok yüksekse, parazit iki uca eşit ulaşmaz ve kayda sızar."
+   ]
+  },
+  {
+   "id": "montaj",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Montajlar",
+   "baslik": "Sık kullanılan *montajlar*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "İpsilateral kanal",
+     "metin": "Cz ile uyarılan mastoid",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kontralateral kanal",
+     "metin": "Cz ile karşı mastoid",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Yatay kanal",
+     "metin": "İki mastoid arası",
+     "cumle": 3
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Bebek",
+     "metin": "Fz ya da yüksek alın",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Aktif ve referans elektrotun hangi noktalar arasında bağlandığına montaj (montage) denir.",
+     "ses": "Aktif ve referans elektrotun hangi noktalar arasında bağlandığına montaj denir."
+    },
+    {
+     "yazi": "En sık kullanılan ipsilateral montajda kanal, Cz ile uyarılan taraftaki mastoid arasında kurulur.",
+     "ses": "En sık kullanılan ipsilateral montajda kanal, ce ze ile uyarılan taraftaki mastoid arasında kurulur."
+    },
+    {
+     "yazi": "Kontralateral montajda ise Cz ile uyarılmayan taraftaki mastoid kullanılır.",
+     "ses": "Kontralateral montajda ise ce ze ile uyarılmayan taraftaki mastoid kullanılır."
+    },
+    "İki mastoid arasında kurulan yatay montaj, dalga I'i daha da belirgin hale getirebilir.",
+    {
+     "yazi": "Bebeklerde aktif elektrot çoğu zaman Cz yerine Fz ya da yüksek alın bölgesine konur; bu bölge daha kolay hazırlanır.",
+     "ses": "Bebeklerde aktif elektrot çoğu zaman ce ze yerine fe ze ya da yüksek alın bölgesine konur; bu bölge daha kolay hazırlanır."
+    }
+   ]
+  },
+  {
+   "id": "iki_kanal",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Montajlar",
+   "baslik": "İki kanal, *iki bakış*",
+   "maddeler": [
+    {
+     "metin": "İpsilateral: dalga I _belirgin_",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kontralateral: dalga I _küçük ya da yok_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Karşı kanalda IV ve V _ayrışır_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kemik yolu ABR'de _taraf ipucu_",
+     "cumle": 4,
+     "ikon": "kemik_vibratoru"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "abr",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dalga_I",
+      "cumle": 2
+     },
+     {
+      "parca": "dalga_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "Birçok klinik, aynı anda hem ipsilateral hem kontralateral kanalı kaydeder.",
+    "İpsilateral kanalda dalga I belirgindir; çünkü referans elektrot uyarılan kokleaya yakındır.",
+    "Kontralateral kanalda dalga I genellikle çok küçüktür ya da hiç görülmez.",
+    "Buna karşın karşı kanalda dalga IV ve V çoğu zaman daha iyi ayrışır; bu da dalga V'i işaretlemeye yardım eder.",
+    "İki kanal arasındaki fark, ilerideki derste göreceğimiz kemik yolu ABR'de hangi kokleanın yanıt verdiğini anlamaya da katkı sağlar."
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Empedans",
+   "baslik": "Elektrot *empedansı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.4,
+     "max": 4.6,
+     "ad": "Elektrot",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4
+     ],
+     "yazilar": {
+      "1": "Cz",
+      "2": "M1",
+      "3": "M2",
+      "4": "Fpz"
+     }
+    },
+    "y": {
+     "min": 0,
+     "max": 10,
+     "adim": 2,
+     "ad": "Empedans (kΩ)"
+    },
+    "seriler": [
+     {
+      "ad": "olcum",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        3.1
+       ],
+       [
+        2,
+        3.4
+       ],
+       [
+        3,
+        7.8
+       ],
+       [
+        4,
+        2.6
+       ]
+      ],
+      "renk": "mavi",
+      "genislik": 0.5,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "sinir",
+      "x": 4.5,
+      "y": 5,
+      "cizgi": "yatay",
+      "renk": "kirmizi",
+      "etiket": "5 kΩ",
+      "nokta": false,
+      "cumle": 1,
+      "dx": -10,
+      "dy": -14
+     },
+     {
+      "ad": "yuksek",
+      "x": 3,
+      "y": 7.8,
+      "renk": "kirmizi",
+      "etiket": "M2 yüksek",
+      "cumle": 3,
+      "dy": -24
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Hedef: _5 kΩ altı_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Elektrotlar arası fark _küçük_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Kayıt öncesi ve _sırasında_ ölç",
+     "cumle": 5,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Elektrot empedansı (electrode impedance), deri ile elektrot arasındaki akım geçişine karşı direnç gibi düşünülebilir.",
+     "ses": "Elektrot empedansı, deri ile elektrot arasındaki akım geçişine karşı direnç gibi düşünülebilir."
+    },
+    {
+     "yazi": "Birçok kaynak, her elektrotun empedansının 5 kΩ'un altında olmasını önerir.",
+     "ses": "Birçok kaynak, her elektrotun empedansının beş kiloohm'un altında olmasını önerir."
+    },
+    {
+     "yazi": "Bu örnek ölçümde Cz, M1 ve Fpz bu sınırın altında görünüyor.",
+     "ses": "Bu örnek ölçümde ce ze, me bir ve fe pe ze bu sınırın altında görünüyor."
+    },
+    {
+     "yazi": "M2 ise yaklaşık 8 kΩ ile sınırın üzerinde; bu elektrot yeniden hazırlanmalıdır.",
+     "ses": "me iki ise yaklaşık sekiz kiloohm ile sınırın üzerinde; bu elektrot yeniden hazırlanmalıdır."
+    },
+    {
+     "yazi": "Değerlerin birbirine yakın olması da önemlidir; elektrotlar arası farkın genellikle yaklaşık 2 kΩ'u aşmaması istenir.",
+     "ses": "Değerlerin birbirine yakın olması da önemlidir; elektrotlar arası farkın genellikle yaklaşık iki kiloohm'u aşmaması istenir."
+    },
+    "Empedans kayıttan önce ölçülür; kayıt sırasında gürültü artarsa yeniden kontrol edilir."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Empedans",
+   "baslik": "Cilt hazırlığı *adım adım*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Yeri bul",
+     "metin": "Cz, mastoidler, alın",
+     "cumle": 0
+    },
+    {
+     "ikon": "dokunma",
+     "baslik": "Temizle",
+     "metin": "Aşındırıcı jel ile",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Elektrodu yerleştir",
+     "metin": "İletken jel ya da pasta",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Empedansı ölç",
+     "metin": "Yüksekse yeniden hazırla",
+     "cumle": 3
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Sabitle",
+     "metin": "Kablolar gergin olmasın",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Önce elektrot noktaları belirlenir; saçlı bölgede saç dikkatle aralanır.",
+    "Deri, aşındırıcı bir jel ile hafifçe ovularak yağ ve ölü hücrelerden arındırılır.",
+    "Ardından tek kullanımlık elektrot ya da iletken pastayla kaplanmış elektrot yerleştirilir.",
+    "Empedans ölçülür; yüksek çıkan elektrot çıkarılır ve aynı nokta yeniden hazırlanır.",
+    "Son olarak elektrotlar bantla sabitlenir ve kablolar çekmeyecek biçimde düzenlenir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Elektrot kablolarını birbirine örün, kulaklık kablosundan uzak tutun; tek elektrot yüksekse yalnız onu yeniden hazırlayın.",
+   "cumleler": [
+    "Bir klinik ipucu: elektrot kablolarını gevşek bırakmak yerine birbirine örün.",
+    "Örülmüş kablolar, ortamdaki elektriksel parazitin iki uca benzer biçimde ulaşmasını sağlar ve ortak mod reddini güçlendirir.",
+    "Kulaklık ya da kemik vibratörü kablosunu elektrot kablolarından olabildiğince uzak tutun.",
+    "Yalnız bir elektrotun empedansı yüksekse bütün elektrotları sökmeyin; o noktayı yeniden hazırlamanız yeterlidir."
+   ]
+  },
+  {
+   "id": "bebek",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 6",
+   "bolum": "Uygulamada",
+   "baslik": "Bebekte *yerleşim*",
+   "maddeler": [
+    {
+     "metin": "Aktif: _Fz ya da yüksek alın_",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Bıngıldağa _bastırmadan_ çalış",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Hassas deriye _nazik_ hazırlık",
+     "cumle": 2,
+     "ikon": "dokunma"
+    },
+    {
+     "metin": "Elektrotlar _uykudan önce_ takılır",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "grafik",
+    "cumle": 0,
+    "ayar": {
+     "x": {
+      "min": -11,
+      "max": 11,
+      "ad": "Sol kulak  |  Sağ kulak",
+      "isaretler": []
+     },
+     "y": {
+      "min": -10,
+      "max": 11,
+      "ad": "Arka  |  Ön",
+      "isaretler": []
+     },
+     "seriler": [
+      {
+       "ad": "kafa",
+       "noktalar": [
+        [
+         0.0,
+         8.0
+        ],
+        [
+         1.39,
+         7.88
+        ],
+        [
+         2.74,
+         7.52
+        ],
+        [
+         4.0,
+         6.93
+        ],
+        [
+         5.14,
+         6.13
+        ],
+        [
+         6.13,
+         5.14
+        ],
+        [
+         6.93,
+         4.0
+        ],
+        [
+         7.52,
+         2.74
+        ],
+        [
+         7.88,
+         1.39
+        ],
+        [
+         8.0,
+         0.0
+        ],
+        [
+         7.88,
+         -1.39
+        ],
+        [
+         7.52,
+         -2.74
+        ],
+        [
+         6.93,
+         -4.0
+        ],
+        [
+         6.13,
+         -5.14
+        ],
+        [
+         5.14,
+         -6.13
+        ],
+        [
+         4.0,
+         -6.93
+        ],
+        [
+         2.74,
+         -7.52
+        ],
+        [
+         1.39,
+         -7.88
+        ],
+        [
+         0.0,
+         -8.0
+        ],
+        [
+         -1.39,
+         -7.88
+        ],
+        [
+         -2.74,
+         -7.52
+        ],
+        [
+         -4.0,
+         -6.93
+        ],
+        [
+         -5.14,
+         -6.13
+        ],
+        [
+         -6.13,
+         -5.14
+        ],
+        [
+         -6.93,
+         -4.0
+        ],
+        [
+         -7.52,
+         -2.74
+        ],
+        [
+         -7.88,
+         -1.39
+        ],
+        [
+         -8.0,
+         -0.0
+        ],
+        [
+         -7.88,
+         1.39
+        ],
+        [
+         -7.52,
+         2.74
+        ],
+        [
+         -6.93,
+         4.0
+        ],
+        [
+         -6.13,
+         5.14
+        ],
+        [
+         -5.14,
+         6.13
+        ],
+        [
+         -4.0,
+         6.93
+        ],
+        [
+         -2.74,
+         7.52
+        ],
+        [
+         -1.39,
+         7.88
+        ],
+        [
+         -0.0,
+         8.0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "burun",
+       "noktalar": [
+        [
+         -1.3,
+         7.9
+        ],
+        [
+         0,
+         9.7
+        ],
+        [
+         1.3,
+         7.9
+        ]
+       ],
+       "renk": "lacivert",
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "sol_kulak",
+       "noktalar": [
+        [
+         -7.9,
+         1.6
+        ],
+        [
+         -9.3,
+         1.1
+        ],
+        [
+         -9.6,
+         0
+        ],
+        [
+         -9.3,
+         -1.1
+        ],
+        [
+         -7.9,
+         -1.6
+        ]
+       ],
+       "renk": "sol",
+       "yumusak": true,
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "sag_kulak",
+       "noktalar": [
+        [
+         7.9,
+         1.6
+        ],
+        [
+         9.3,
+         1.1
+        ],
+        [
+         9.6,
+         0
+        ],
+        [
+         9.3,
+         -1.1
+        ],
+        [
+         7.9,
+         -1.6
+        ]
+       ],
+       "renk": "sag",
+       "yumusak": true,
+       "kalin": 4,
+       "cumle": 0
+      },
+      {
+       "ad": "orta_hat",
+       "noktalar": [
+        [
+         0,
+         8
+        ],
+        [
+         0,
+         -8
+        ]
+       ],
+       "renk": "gri",
+       "kesik": true,
+       "kalin": 2,
+       "cumle": 0
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "fz",
+       "x": 0,
+       "y": 3.6,
+       "etiket": "Fz",
+       "cumle": 0,
+       "renk": "mavi",
+       "dolu": true,
+       "r": 11
+      },
+      {
+       "ad": "m1",
+       "x": -8.3,
+       "y": -2.9,
+       "etiket": "M1",
+       "cumle": 0,
+       "renk": "sol",
+       "dolu": true,
+       "r": 11
+      },
+      {
+       "ad": "m2",
+       "x": 8.3,
+       "y": -2.9,
+       "etiket": "M2",
+       "cumle": 0,
+       "renk": "sag",
+       "dolu": true,
+       "r": 11
+      },
+      {
+       "ad": "fpz",
+       "x": 0,
+       "y": 7.2,
+       "etiket": "Fpz",
+       "cumle": 1,
+       "renk": "gri",
+       "dolu": true,
+       "r": 11
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    {
+     "yazi": "Bebeklerde aktif elektrot çoğu zaman Fz ya da yüksek alın bölgesine yerleştirilir.",
+     "ses": "Bebeklerde aktif elektrot çoğu zaman fe ze ya da yüksek alın bölgesine yerleştirilir."
+    },
+    "Bıngıldak, yani ön fontanel bölgesine bastırmaktan kaçınılır.",
+    "Bebek derisi hassas olduğu için aşındırma çok hafif yapılır ve bebek için uygun küçük elektrotlar kullanılır.",
+    "Elektrotlar, bebek uykuya dalmadan önce, ebeveynin kucağındayken yerleştirilir.",
+    "Böylece eşik tahmini için gereken uzun ve sakin kayıt süresi elektrot sorunlarıyla harcanmaz."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 6",
+   "bolum": "Uygulamada",
+   "baslik": "Sık *hatalar*",
+   "maddeler": [
+    {
+     "metin": "Jel köprüsü: iki elektrot _birleşir_",
+     "cumle": 0,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Referans _yanlış tarafta_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Gevşek elektrot, _kopuk_ kablo",
+     "cumle": 2,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Kulaklık kablosu elektrotlara _yakın_",
+     "cumle": 3,
+     "ikon": "gurultu"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "KONTROL",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "yanlis",
+      "baslik": "Düz kayıt",
+      "metin": "Köprü ya da kopukluk",
+      "cumle": 0
+     },
+     {
+      "ikon": "gurultu",
+      "baslik": "Çok gürültü",
+      "metin": "Empedans ya da gevşeklik",
+      "cumle": 2
+     }
+    ]
+   },
+   "cumleler": [
+    "İletken jel iki elektrot arasında taşarsa elektrotlar birbirine köprülenir ve kayıt neredeyse düz çıkar.",
+    "Referans elektrotun yanlış tarafa bağlanması, dalga I'in kaybolmasına ve yanlış yoruma yol açabilir.",
+    "Gevşek bir elektrot ya da kopuk bir kablo, kayıtta ani sıçramalara ve yüksek gürültüye neden olur.",
+    "Kulaklık kablosu elektrot kablolarına çok yakınsa uyaran artefaktı artar.",
+    "Kayıt beklenmedik görünüyorsa, yoruma geçmeden önce elektrotları ve kabloları gözden geçirin."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "10-20: oranlarla _standart noktalar_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Aktif Cz ya da Fz, referans _mastoid_",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Empedans 5 kΩ altı ve _dengeli_",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Bebekte Fz, nazik hazırlık",
+     "cumle": 3,
+     "ikon": "bebek"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "10-20 sistemi, kafadaki elektrot noktalarını yüzde on ve yüzde yirmilik oranlarla standartlaştırır.",
+     "ses": "on yirmi sistemi, kafadaki elektrot noktalarını yüzde on ve yüzde yirmilik oranlarla standartlaştırır."
+    },
+    {
+     "yazi": "Aktif elektrot genellikle Cz ya da Fz noktasında, referans elektrot uyarılan taraftaki mastoidde, toprak ise alındadır.",
+     "ses": "Aktif elektrot genellikle ce ze ya da fe ze noktasında, referans elektrot uyarılan taraftaki mastoidde, toprak ise alındadır."
+    },
+    {
+     "yazi": "Empedans her elektrotta 5 kΩ'un altında ve elektrotlar arasında dengeli olmalıdır.",
+     "ses": "Empedans her elektrotta beş kiloohm'un altında ve elektrotlar arasında dengeli olmalıdır."
+    },
+    {
+     "yazi": "Bebeklerde Fz ya da yüksek alın kullanılır ve hazırlık nazikçe, uykudan önce yapılır.",
+     "ses": "Bebeklerde fe ze ya da yüksek alın kullanılır ve hazırlık nazikçe, uykudan önce yapılır."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sağ kulak ABR'sinde referans elektrot nereye konur?",
+   "secenekler": [
+    "Sol mastoid (M1)",
+    "Sağ mastoid (M2)",
+    "Tepe noktası (Cz)",
+    "Alın (Fpz)"
+   ],
+   "dogru": 1,
+   "aciklama": "Referans, _uyarılan taraftaki_ mastoidde olur; çift sayı sağ tarafı gösterir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sağ kulak test edilirken ipsilateral kanalda referans elektrot nereye konur?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: sağ mastoid, yani M2.",
+     "ses": "Doğru cevap be şıkkıdır: sağ mastoid, yani me iki."
+    },
+    "Çift sayılar başın sağ tarafını gösterir ve referans, uyarılan taraftaki mastoidde yer alır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "ABR dalgaları I-V: kaynakları ve *normal* latanslar",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bu elektrotlarla kaydettiğimiz ABR dalgalarının kaynaklarını ve normal latanslarını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

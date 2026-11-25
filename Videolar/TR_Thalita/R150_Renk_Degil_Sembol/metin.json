@@ -1,0 +1,136 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R150_Renk_Degil_Sembol_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #150",
+  "baslik": "Renk değil, *sembol*",
+  "alt": "Odyogramda kulağı sembol gösterir",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      20,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      20,
+      25,
+      30
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Odyogramda kırmızı ve mavi renk zorunlu mu? #shorts",
+  "aciklama": "Sağ kulak için kırmızı, sol kulak için mavi yaygın bir alışkanlıktır; ancak ASHA renk kullanımını zorunlu tutmaz. Fotokopide renk kaybolabileceği için kulağı her zaman sembolün kendisi göstermelidir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "odyogram",
+   "odyometri"
+  ],
+  "etiketler": [
+   "odyogram sembolleri",
+   "ASHA",
+   "hava yolu",
+   "maskeli eşik",
+   "odyogram okuma",
+   "saf ses odyometrisi",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Odyogramda kırmızı ve mavi renk zorunlu mu?",
+  "bilgiler": [
+   "Sağ kulak için kırmızı, sol kulak için mavi yaygın bir alışkanlıktır.",
+   "ASHA renk kullanımını zorunlu tutmaz.",
+   "Sağ kulakta O ve üçgen, sol kulakta çarpı ve kare kullanılır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "odyogram",
+   "odyometri"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #150",
+   "metin": "Odyogramda renk *zorunlu mu?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Odyogramda kırmızı ve mavi renk zorunlu mu?"
+   ]
+  },
+  {
+   "id": "sembol",
+   "tur": "zincir",
+   "baslik": "Kulağı *sembol* gösterir",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Sağ kulak",
+     "tr": "O ve üçgen",
+     "cumle": 1
+    },
+    {
+     "ad": "Sol kulak",
+     "tr": "çarpı ve kare",
+     "cumle": 2
+    },
+    {
+     "ad": "Renk",
+     "tr": "zorunlu değil",
+     "cumle": 3
+    }
+   ],
+   "alt": "Renk yardımcıdır, _kulağı sembol belirler_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Sağ kulak için kırmızı, sol için mavi yaygın bir alışkanlıktır.",
+    "Sağ kulağın hava yolu eşiği O ile, maskeliyse üçgenle gösterilir.",
+    "Sol kulakta bunların karşılığı çarpı ve karedir.",
+    "Ancak ASHA renk kullanımını zorunlu tutmaz.",
+    "Fotokopide renk kaybolur; kulağı her zaman sembol göstermelidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D062",
+ "kaynak_baslik": "Odyogram sembolleri"
+}

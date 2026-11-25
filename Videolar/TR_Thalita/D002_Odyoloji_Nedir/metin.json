@@ -1,0 +1,620 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D002_Odyoloji_Nedir_TR",
+ "kapak": {
+  "ust": "DERS 2",
+  "baslik": "Odyoloji<br>*nedir?*",
+  "alt": "Odyolog, odyometrist ve KBB hekimi",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Odyoloji Nedir, Odyolog Ne İş Yapar? | Ders 02 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Odyolojinin tanımını, doğuşunu ve Türkiye'deki gelişimini anlatıyoruz. Odyolojinin çalışma alanlarını ve odyolog, odyometrist ile kulak burun boğaz hekiminin ekipteki rollerini karşılaştırıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Martin ve Clark, Introduction to Audiology; ASHA, Scope of Practice in Audiology (2018); WHO, World Report on Hearing (2021).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "odyolog",
+   "işitme"
+  ],
+  "etiketler": [
+   "odyoloji",
+   "odyolog",
+   "audiology",
+   "audiologist",
+   "odyometrist",
+   "odyoloji bölümü",
+   "KBB",
+   "işitme kaybı",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 2",
+   "baslik": "Odyoloji nedir, odyolog *ne iş yapar?*",
+   "alt": "Tanım, tarihçe, çalışma alanları ve ekip",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste odyolojinin ne olduğunu, nasıl doğduğunu ve Türkiye'de nasıl geliştiğini konuşacağız.",
+    "Ayrıca odyolog, odyometrist ve kulak burun boğaz hekiminin ekipteki rollerini karşılaştıracağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Odyoloji nedir?",
+   "baslik": "*Odyoloji* nedir?",
+   "maddeler": [
+    {
+     "metin": "_Odyoloji_ (audiology): işitme ve denge bilimi",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Latince _audire_: işitmek",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Değerlendirme, _rehabilitasyon_, önleme",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Her yaş: _bebekten yaşlıya_",
+     "cumle": 5,
+     "ikon": "bebek"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "ODYOLOG (AUDIOLOGIST)",
+    "metin": "İşitme ve dengeyi *değerlendiren* uzman",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Odyoloji (audiology), işitme ve denge sistemini ve bunların bozukluklarını inceleyen bir sağlık bilimidir.",
+    "Bu alanda lisans eğitimi almış sağlık profesyoneline odyolog (audiologist) denir.",
+    "Kelime, Latince işitmek anlamına gelen audire ile bilim anlamındaki Yunanca logia ekinden türemiştir.",
+    "Odyoloji yalnız işitmeyi ölçmekle kalmaz; değerlendirme, rehabilitasyon ve işitme kaybını önleme çalışmalarını da kapsar.",
+    "Bunun yanında dengeyi, yani vestibüler sistemi de değerlendirir.",
+    "Hizmet verdiği kişiler yenidoğan bebeklerden ileri yaştaki yetişkinlere kadar uzanır."
+   ]
+  },
+  {
+   "id": "dogus",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kısa tarihçe",
+   "baslik": "Odyolojinin *doğuşu*",
+   "maddeler": [
+    {
+     "metin": "1940'lar: _İkinci Dünya Savaşı_ dönemi",
+     "cumle": 0,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Gaziler için _işitsel rehabilitasyon_",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Raymond Carhart: _odyolojinin babası_",
+     "cumle": 3,
+     "ikon": "odyolog"
+    },
+    {
+     "metin": "Elektronik _odyometrenin_ yaygınlaşması",
+     "cumle": 4,
+     "ikon": "odyometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Odyoloji, bir bilim dalı olarak 1940'lı yıllarda, İkinci Dünya Savaşı sırasında ve sonrasında şekillendi.",
+     "ses": "Odyoloji, bir bilim dalı olarak bin dokuz yüz kırklı yıllarda, İkinci Dünya Savaşı sırasında ve sonrasında şekillendi."
+    },
+    "Savaştan işitme kaybıyla dönen çok sayıda asker, işitme rehabilitasyonu için yeni bir uzmanlık gerektirdi.",
+    "Bu ihtiyaçla askeri hastanelerde işitme rehabilitasyon merkezleri kuruldu.",
+    "Bu merkezlerde çalışan Raymond Carhart, birçok kaynakta odyolojinin babası olarak anılır.",
+    "Aynı dönemde elektronik odyometrelerin yaygınlaşması, işitmeyi sayısal olarak ölçmeyi kolaylaştırdı.",
+    "Böylece işitme değerlendirmesi, ayrı bir meslek grubunun uzmanlık alanına dönüştü."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "odyometre",
+    "cumle": 4,
+    "etiketler": [
+     {
+      "parca": "cihaz",
+      "metin": "Odyometre",
+      "cumle": 4
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "cihaz",
+      "cumle": 4
+     }
+    ]
+   }
+  },
+  {
+   "id": "turkiye",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kısa tarihçe",
+   "baslik": "Türkiye'de *odyoloji*",
+   "maddeler": [
+    {
+     "metin": "1967: _Hacettepe_, ilk odyoloji birimi",
+     "cumle": 0,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "2011: ilk _lisans_ programı, İstanbul",
+     "cumle": 2,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Bugün: _çok sayıda_ üniversitede bölüm",
+     "cumle": 3,
+     "ikon": "okul"
+    },
+    {
+     "metin": "Hastane, merkez, _üniversite_, iş yeri",
+     "cumle": 4,
+     "ikon": "is_yeri"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Türkiye'de odyolojinin temeli 1967 yılında Hacettepe Üniversitesinde atıldı; eğitim önce lisansüstü düzeyde verildi.",
+     "ses": "Türkiye'de odyolojinin temeli bin dokuz yüz altmış yedi yılında Hacettepe Üniversitesinde atıldı; eğitim önce lisansüstü düzeyde verildi."
+    },
+    "Uzun yıllar boyunca odyoloji uzmanları büyük ölçüde yüksek lisans ve doktora programlarında yetişti.",
+    {
+     "yazi": "İlk odyoloji lisans programı 2011 yılında İstanbul Üniversitesinde açıldı; ardından program sayısı hızla arttı.",
+     "ses": "İlk odyoloji lisans programı iki bin on bir yılında İstanbul Üniversitesinde açıldı; ardından program sayısı hızla arttı."
+    },
+    "Bugün pek çok üniversitede dört yıllık odyoloji lisans programı bulunuyor.",
+    "Odyologlar devlet ve özel hastanelerde, işitme merkezlerinde, üniversitelerde ve iş sağlığı birimlerinde çalışıyor.",
+    "Yenidoğan işitme taraması gibi ulusal programlar da odyoloji hizmetine olan ihtiyacı artırdı."
+   ]
+  },
+  {
+   "id": "alanlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Çalışma alanları",
+   "baslik": "Odyolojinin *çalışma alanları*",
+   "ogeler": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Tanısal odyoloji",
+     "metin": "Odyometri, timpanometri",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Elektrofizyoloji",
+     "metin": "ABR, OAE",
+     "cumle": 1
+    },
+    {
+     "ikon": "bebek",
+     "baslik": "Pediatrik odyoloji",
+     "metin": "Tarama, çocuk testleri",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz ve implant",
+     "metin": "Seçim ve ayar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Tanısal odyoloji, saf ses odyometrisi, konuşma testleri ve timpanometri gibi temel testleri kapsar.",
+    "Elektrofizyolojide işitsel beyin sapı yanıtı, kısaca ABR ve otoakustik emisyon, kısaca OAE gibi objektif ölçümler yapılır.",
+    "Pediatrik odyoloji, yenidoğan işitme taramasından küçük çocukların davranışsal testlerine kadar uzanır.",
+    "İşitme cihazı ve koklear implant uygulamaları, seçimden ince ayara kadar odyoloğun temel işlerindendir."
+   ]
+  },
+  {
+   "id": "alanlar2",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Çalışma alanları",
+   "baslik": "Odyolojinin *diğer alanları*",
+   "ogeler": [
+    {
+     "ikon": "denge",
+     "baslik": "Vestibüler değerlendirme",
+     "metin": "Denge testleri",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Rehabilitasyon",
+     "metin": "İşitsel eğitim, danışmanlık",
+     "cumle": 1
+    },
+    {
+     "ikon": "fabrika",
+     "baslik": "Mesleki odyoloji",
+     "metin": "Gürültüden korunma",
+     "cumle": 2
+    },
+    {
+     "ikon": "gurultu",
+     "baslik": "Tinnitus",
+     "metin": "Çınlama, işitsel işlemleme bozukluğu",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Vestibüler değerlendirmede baş dönmesi ve denge sorunu olan kişilerde iç kulağın denge bölümü incelenir.",
+    "Rehabilitasyon alanında işitsel eğitim, danışmanlık ve iletişim stratejileri öğretilir.",
+    "Mesleki odyolojide gürültülü iş yerlerinde çalışanların işitmesi izlenir ve korunur.",
+    "Tinnitus, yani kulak çınlaması ve işitsel işlemleme bozukluğu da odyologların ilgilendiği konulardır."
+   ]
+  },
+  {
+   "id": "sistem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Çalışma alanları",
+   "baslik": "Kulaktan *beyne* tüm sistem",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "dis_kulak",
+     "cumle": 0
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 1
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Orta kulak: timpanometri",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "İç kulak: OAE",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Sinir ve beyin sapı: ABR",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "Odyolog, sesin dış kulaktan girip beyne ulaştığı yolun tamamıyla ilgilenir.",
+    "Timpanometri gibi testler orta kulağın durumunu gösterir.",
+    "Otoakustik emisyonlar iç kulaktaki dış tüy hücrelerinin çalışmasını yansıtır.",
+    "İşitsel beyin sapı yanıtı ise işitme sinirini ve beyin sapı yollarını değerlendirir.",
+    "Testleri birlikte yorumlamak sorunun yerini belirlemede en güçlü araçtır; buna test bataryası yaklaşımı denir."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "orta_kulak",
+     "cumle": 1,
+     "olcek": 2.1
+    },
+    {
+     "parca": "ic_kulak",
+     "cumle": 2,
+     "olcek": 2.1
+    },
+    {
+     "parca": "isitme_siniri",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ]
+  },
+  {
+   "id": "egitim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Çalışma alanları",
+   "baslik": "Odyoloji eğitiminde *neler var?*",
+   "maddeler": [
+    {
+     "metin": "_Temel bilimler_: anatomi, fizik, akustik",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Tanısal testler_ ve elektrofizyoloji",
+     "cumle": 1,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Cihaz, implant ve _rehabilitasyon_",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Gözetimli _klinik uygulama_",
+     "cumle": 3,
+     "ikon": "hastane"
+    }
+   ],
+   "cumleler": [
+    "Odyoloji lisans eğitimi anatomi, fizyoloji, ses fiziği ve akustik gibi temel bilimlerle başlar.",
+    "Ardından tanısal testler, elektrofizyolojik ölçümler ve denge değerlendirmesi öğretilir.",
+    "İleri yıllarda işitme cihazları, implantlar ve rehabilitasyon yöntemleri ağırlık kazanır.",
+    "Son yıl büyük ölçüde gözetim altında yapılan klinik uygulamadan oluşur.",
+    "Bu kanaldaki dersler de bu öğrenme yolunu adım adım izleyecek."
+   ]
+  },
+  {
+   "id": "roller",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ekip ve roller",
+   "baslik": "Üç meslek, *üç rol*",
+   "ogeler": [
+    {
+     "ikon": "odyolog",
+     "baslik": "Odyolog",
+     "metin": "4 yıl lisans; değerlendirme, rehabilitasyon",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Odyometrist",
+     "metin": "2 yıl önlisans; test uygulama",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "KBB hekimi",
+     "metin": "Tıp ve uzmanlık; tanı, tedavi",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İşitme alanında üç meslek sık sık birlikte çalışır: odyolog, odyometrist ve kulak burun boğaz hekimi.",
+    "Odyolog, dört yıllık odyoloji lisans eğitimi almış bir sağlık profesyonelidir.",
+    "İşitme ve denge değerlendirmesi, cihaz ve implant uygulamaları ve rehabilitasyon onun temel görevleridir.",
+    "Odyometrist ise genellikle iki yıllık odyometri önlisans programından mezun olan odyometri teknikeridir.",
+    "Odyometristler işitme testlerini uygular ve odyolog ya da hekimle birlikte çalışır.",
+    "Kulak burun boğaz hekimi, kısaca KBB hekimi, tıp eğitiminin ardından bu alanda uzmanlaşmış hekimdir.",
+    "Tıbbi tanı, ilaç tedavisi ve cerrahi kararlar KBB hekiminin sorumluluğundadır.",
+    "Bu uzmanlığın bilimsel adı otorinolaringolojidir, yani kulak burun boğaz hastalıkları."
+   ]
+  },
+  {
+   "id": "yolculuk",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ekip ve roller",
+   "baslik": "Bir hastanın *yolculuğu*",
+   "adimlar": [
+    {
+     "ikon": "hekim",
+     "baslik": "KBB muayenesi",
+     "metin": "Muayene ve öykü",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Test bataryası",
+     "metin": "Odyolojik testler",
+     "cumle": 1
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Tıbbi tedavi",
+     "metin": "Ya da yönlendirme",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Rehabilitasyon",
+     "metin": "Cihaz ve implant",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzlem",
+     "metin": "Düzenli takip",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Örnek bir senaryoda, işitme güçlüğü yaşayan bir yetişkin önce KBB muayenesine gelir.",
+    "Hekim kulağı muayene eder ve odyolojik değerlendirme ister; odyolog ya da odyometrist testleri yapar.",
+    "Sonuçlar tıbbi bir sorun gösteriyorsa tedaviyi hekim planlar.",
+    "Kalıcı bir kayıp varsa odyolog uygun işitme cihazı ya da implant seçeneklerini değerlendirir ve rehabilitasyonu yürütür.",
+    "Sonrasında düzenli izlemle işitme ve cihaz performansı takip edilir.",
+    "Her meslek kendi yetki alanında çalışır ve hasta için en iyi sonuç ancak bu iş birliğiyle elde edilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ani işitme kaybı, tek taraflı kayıp, kulak akıntısı, ağrı veya baş dönmesi görürseniz kişiyi gecikmeden KBB hekimine yönlendirin.",
+   "cumleler": [
+    "Odyolojide önemli bir kural var: bazı bulgular tıbbi değerlendirmeyi hemen gerektirir.",
+    "Üç gün içinde gelişen ani işitme kaybı acil bir durumdur ve zaman kaybetmeden hekime yönlendirilmelidir.",
+    "Tek taraflı ya da asimetrik kayıp, kulak akıntısı, kulak ağrısı ve baş dönmesi de yönlendirme nedenleridir.",
+    "Odyoloğun görevi bu işaretleri fark etmek ve kişiyi doğru zamanda doğru uzmana ulaştırmaktır."
+   ]
+  },
+  {
+   "id": "beceri",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Ekip ve roller",
+   "baslik": "İyi bir odyoloğun *becerileri*",
+   "maddeler": [
+    {
+     "metin": "Doğru ve _tekrarlanabilir_ ölçüm",
+     "cumle": 0,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Hasta ile _açık iletişim_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "_Kanıta dayalı_ uygulama",
+     "cumle": 4,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "_Etik_ ve gizlilik",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "İyi bir odyolog her şeyden önce doğru ve tekrarlanabilir ölçüm yapar.",
+    "Sonuçları hastanın anlayacağı bir dille anlatır; odyogram ancak böyle gündelik yaşama çevrilebilir.",
+    "Hastayı dinlemek, testin kendisi kadar önemlidir.",
+    "Çünkü işitme kaybı yalnız kulağı değil iletişimi, işi ve aile yaşamını da etkiler.",
+    "Odyolog kararlarını güncel bilimsel kanıtlara ve kılavuzlara dayandırır.",
+    "Hasta bilgilerinin gizliliği ve meslek etiği de bu işin ayrılmaz bir parçasıdır."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Neden önemli?",
+   "baslik": "Odyoloji neden *önemli?*",
+   "maddeler": [
+    {
+     "metin": "Dünyada yaklaşık _1,5 milyar_ kişide kayıp",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "2050 için yaklaşık _2,5 milyar_ öngörü",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bebeklikte erken tanı: _dil gelişimi_",
+     "cumle": 3,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Yetişkinlikte _iletişim_ ve yaşam kalitesi",
+     "cumle": 4,
+     "ikon": "yasli"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Dünya Sağlık Örgütünün 2021 Dünya İşitme Raporuna göre yaklaşık 1,5 milyar kişi bir derece işitme kaybıyla yaşıyor.",
+     "ses": "Dünya Sağlık Örgütünün iki bin yirmi bir Dünya İşitme Raporuna göre yaklaşık bir buçuk milyar kişi bir derece işitme kaybıyla yaşıyor."
+    },
+    {
+     "yazi": "Aynı rapor, bu sayının 2050 yılına kadar yaklaşık 2,5 milyara çıkabileceğini öngörüyor.",
+     "ses": "Aynı rapor, bu sayının iki bin elli yılına kadar yaklaşık iki buçuk milyara çıkabileceğini öngörüyor."
+    },
+    "Bu kişilerin önemli bir bölümü değerlendirme ve rehabilitasyon hizmetine ihtiyaç duyuyor.",
+    "Bebeklik döneminde kaybın erken fark edilmesi, dil ve konuşma gelişimi için kritik önemdedir.",
+    "Yetişkinlerde ise ele alınmayan işitme kaybı sosyal yalnızlaşma ve yaşam kalitesinde düşüşle ilişkilidir.",
+    "Kısacası odyoloji, insanların birbirini duyabilmesine ve iletişimde kalabilmesine hizmet eden bir meslektir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Odyoloji: işitme ve *denge* bilimi",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "1940'lar dünyada, *1967* Türkiye'de",
+     "cumle": 1,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Geniş alan: tanıdan *rehabilitasyona*",
+     "cumle": 2,
+     "ikon": "odyometre"
+    },
+    {
+     "metin": "Odyolog, odyometrist ve KBB *birlikte*",
+     "cumle": 3,
+     "ikon": "odyolog"
+    }
+   ],
+   "cumleler": [
+    "Odyoloji, işitme ve denge sistemini değerlendiren ve rehabilite eden bir sağlık bilimidir.",
+    {
+     "yazi": "Dünyada 1940'larda doğdu; Türkiye'de 1967'de Hacettepe Üniversitesinde başladı.",
+     "ses": "Dünyada bin dokuz yüz kırklı yıllarda doğdu; Türkiye'de bin dokuz yüz altmış yedide Hacettepe Üniversitesinde başladı."
+    },
+    "Tanısal testlerden cihaz, implant, denge ve rehabilitasyona kadar geniş bir alanı kapsar.",
+    "Odyolog, odyometrist ve KBB hekimi, her biri kendi yetki alanında birlikte çalışır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Hangisi KBB hekiminin sorumluluğundadır?",
+   "secenekler": [
+    "Saf ses odyometrisi",
+    "İşitme cihazı ayarı",
+    "Cerrahi tedavi kararı",
+    "İşitsel rehabilitasyon"
+   ],
+   "dogru": 2,
+   "aciklama": "Tıbbi tanı ve _cerrahi kararlar_ KBB hekimine aittir; testler, cihaz ve rehabilitasyon odyolojinin alanıdır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Aşağıdakilerden hangisi KBB hekiminin sorumluluğundadır?",
+     "ses": "Kendinizi test edin: Aşağıdakilerden hangisi kulak burun boğaz hekiminin sorumluluğundadır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap C, cerrahi tedavi kararı. Testler, cihaz ayarı ve rehabilitasyon ise odyolojinin alanına girer."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Ses kulaktan beyne *nasıl ulaşır?*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste sesin dış kulaktan beyne kadar izlediği yolu adım adım takip edeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

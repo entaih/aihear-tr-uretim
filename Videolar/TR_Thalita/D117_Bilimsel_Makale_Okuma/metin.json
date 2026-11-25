@@ -1,0 +1,625 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D117_Bilimsel_Makale_Okuma_TR",
+ "kapak": {
+  "ust": "DERS 117",
+  "baslik": "Makale nasıl<br>*okunur?*",
+  "alt": "Odyoloji literatürüne giriş",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0.5,
+    "max": 5.5,
+    "adim": 1,
+    "yazilar": {
+     "1": "1",
+     "2": "2",
+     "3": "3",
+     "4": "4",
+     "5": "5"
+    },
+    "ad": "Kanıt düzeyi"
+   },
+   "y": {
+    "min": 0,
+    "max": 5,
+    "adim": 1,
+    "ad": "Güç"
+   },
+   "seriler": [
+    {
+     "ad": "guc",
+     "tur": "cubuk",
+     "noktalar": [
+      [
+       1,
+       5
+      ],
+      [
+       2,
+       4
+      ],
+      [
+       3,
+       3
+      ],
+      [
+       4,
+       2
+      ],
+      [
+       5,
+       1
+      ]
+     ],
+     "renk": "mavi"
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Bilimsel makale nasıl okunur? Odyoloji literatürüne giriş | Ders 117 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Bir odyoloji makalesini nasıl bulur, okur ve değerlendiririz? Bu derste kanıta dayalı uygulamayı, PICO ile klinik soru kurmayı, PubMed ve diğer veri tabanlarında aramayı, IMRAD yapısını, yöntemde sorulacak soruları ve kanıt düzeylerini öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Oxford Centre for Evidence-Based Medicine, Levels of Evidence (2011); ASHA, Evidence-Based Practice; Sackett ve ark., Evidence based medicine: what it is and what it isn't (BMJ, 1996); Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "kanıtadayalıuygulama",
+   "araştırma"
+  ],
+  "etiketler": [
+   "bilimsel makale",
+   "kanıta dayalı uygulama",
+   "evidence-based practice",
+   "PICO",
+   "PubMed",
+   "IMRAD",
+   "kanıt düzeyi",
+   "level of evidence",
+   "randomize kontrollü çalışma",
+   "sistematik derleme",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 117",
+   "baslik": "Bilimsel *makale* okumak",
+   "alt": "Odyoloji literatürüne giriş",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu dersle araştırma ve istatistik bölümüne başlıyor, odyoloji literatüründe bilimsel bir makaleyi nasıl okuyacağımızı öğreniyoruz.",
+    "Klinik soruyu kurmayı, veri tabanlarında aramayı, makalenin bölümlerini ve kanıt düzeyini adım adım göreceğiz."
+   ]
+  },
+  {
+   "id": "kdu",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden okuruz?",
+   "baslik": "Kanıta dayalı *uygulama*",
+   "ogeler": [
+    {
+     "ikon": "kitap",
+     "baslik": "Araştırma kanıtı",
+     "metin": "Güncel ve güvenilir çalışmalar",
+     "cumle": 1
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Klinik deneyim",
+     "metin": "Odyoloğun bilgi ve becerisi",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Hasta tercihi",
+     "metin": "Kişinin değerleri ve hedefleri",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Kanıta dayalı uygulama (evidence-based practice), klinik kararları üç kaynağı birleştirerek vermektir.",
+    "Birincisi, sorunuzla ilgili en iyi ve güncel araştırma kanıtıdır.",
+    "İkincisi, odyoloğun kendi klinik deneyimi ve becerisidir.",
+    "Üçüncüsü, hastanın değerleri, tercihleri ve gündelik yaşamdaki hedefleridir.",
+    "Bu üçünden biri eksik kalırsa karar ya yalnız alışkanlığa ya da yalnız bir makaleye dayanır.",
+    "Makale okumayı öğrenmek, bu üçlünün ilk ayağını sağlam kurmak demektir.",
+    "Odyolojide yeni testler, cihaz özellikleri ve rehabilitasyon yöntemleri hızla değiştiği için bu beceri meslek boyunca gerekir."
+   ]
+  },
+  {
+   "id": "pico",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden okuruz?",
+   "baslik": "Klinik soru: *PICO*",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "P: Kim?",
+     "metin": "Hasta ya da grup",
+     "cumle": 1
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "I: Ne?",
+     "metin": "Müdahale ya da test",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "C: Neye göre?",
+     "metin": "Karşılaştırma",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "O: Sonuç?",
+     "metin": "Ölçülen çıktı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "İyi bir okuma iyi bir soruyla başlar; klinik soruyu düzenlemek için PICO denen dört parçalı bir kalıp kullanılır.",
+    "P, hasta ya da grubu tanımlar: örneğin hafif ile orta derece işitme kaybı olan yaşlı yetişkinler.",
+    "I, incelenen müdahale ya da testtir: örneğin işitme cihazı uygulaması.",
+    "C, karşılaştırmadır: örneğin cihaz kullanmamak ya da başka bir yöntem.",
+    "O ise ölçülen sonuçtur: örneğin üç yıl içindeki bilişsel puan değişimi.",
+    "Soru bu biçimde yazıldığında hangi anahtar sözcüklerle arama yapacağınız da kendiliğinden ortaya çıkar."
+   ]
+  },
+  {
+   "id": "veritabani",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Literatür taraması",
+   "baslik": "Nerede *ararız?*",
+   "ogeler": [
+    {
+     "ikon": "laboratuvar",
+     "baslik": "PubMed",
+     "metin": "MEDLINE ve ücretsiz erişim",
+     "cumle": 0
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Scopus, WoS",
+     "metin": "Geniş atıf veri tabanları",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Cochrane",
+     "metin": "Sistematik derlemeler",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Google Scholar",
+     "metin": "Geniş ama süzgeçsiz",
+     "cumle": 4
+    },
+    {
+     "ikon": "okul",
+     "baslik": "TR Dizin",
+     "metin": "Türkçe dergiler, DergiPark",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Tıp ve sağlık bilimlerinde en sık kullanılan kaynak, ABD Ulusal Tıp Kütüphanesinin ücretsiz arama motoru PubMed'dir.",
+    "PubMed, MEDLINE veri tabanını da kapsar ve kırk milyonu aşkın kayıt içerir.",
+    {
+     "yazi": "Scopus ve Web of Science gibi atıf veri tabanları, bir makaleye sonradan kimlerin atıf yaptığını izlemeyi de sağlar.",
+     "ses": "Skopus ve Veb of Sayıns gibi atıf veri tabanları, bir makaleye sonradan kimlerin atıf yaptığını izlemeyi de sağlar."
+    },
+    "Cochrane Kütüphanesi, belirli bir soruyu yanıtlayan yüksek kaliteli sistematik derlemeleri bir araya getirir.",
+    {
+     "yazi": "Google Scholar çok geniş bir tarama yapar; ama hakemli olmayan kaynakları da içerdiği için sonuçlar dikkatle süzülmelidir.",
+     "ses": "Gugıl Skolar çok geniş bir tarama yapar; ama hakemli olmayan kaynakları da içerdiği için sonuçlar dikkatle süzülmelidir."
+    },
+    "Türkçe yayınlar için TÜBİTAK ULAKBİM'in TR Dizin veri tabanı, DergiPark ve YÖK Ulusal Tez Merkezi değerli kaynaklardır.",
+    "Tek bir veri tabanı her zaman yeterli olmaz; önemli bir soruda birden fazla kaynakta arama yapılır."
+   ]
+  },
+  {
+   "id": "arama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Literatür taraması",
+   "baslik": "PubMed'de *arama* adımları",
+   "adimlar": [
+    {
+     "ikon": "konusma",
+     "baslik": "Anahtar sözcük",
+     "metin": "PICO'dan türet",
+     "cumle": 0
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "MeSH terimi",
+     "metin": "Denetimli sözlük",
+     "cumle": 1
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Bağlaçlar",
+     "metin": "AND, OR, NOT",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Filtreler",
+     "metin": "Yıl, makale türü",
+     "cumle": 4
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Özet taraması",
+     "metin": "Uygun olanı seç",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Önce PICO sorusundaki her parça için anahtar sözcükler belirlenir: örneğin işitme cihazı, yaşlı ve bilişsel gerileme.",
+    "PubMed'de MeSH denen denetimli bir terim sözlüğü vardır; aynı kavramın farklı yazılışlarını tek terimde toplar.",
+    "Sözcükler ve, veya, değil anlamına gelen bağlaçlarla birleştirilir (AND, OR, NOT).",
+    "Ve bağlacı aramayı daraltır, veya bağlacı eş anlamlıları ekleyerek genişletir, değil bağlacı istenmeyen konuyu çıkarır.",
+    "Ardından yayın yılı, çalışma türü ya da dil gibi filtrelerle sonuçlar yönetilebilir bir sayıya indirilir.",
+    "Son adımda başlıklar ve özetler taranır; sorunuzu gerçekten yanıtlayan makalelerin tam metnine geçilir.",
+    "Kullandığınız arama ifadesini not etmek, aramayı daha sonra aynı biçimde tekrarlamanızı sağlar."
+   ]
+  },
+  {
+   "id": "imrad",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Makalenin yapısı",
+   "baslik": "Makalenin iskeleti: *IMRAD*",
+   "adimlar": [
+    {
+     "ikon": "soru",
+     "baslik": "Giriş",
+     "metin": "Neden ve hangi soru?",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Yöntem",
+     "metin": "Nasıl yapıldı?",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Bulgular",
+     "metin": "Ne bulundu?",
+     "cumle": 3
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Tartışma",
+     "metin": "Ne anlama geliyor?",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Özgün araştırma makalelerinin çoğu aynı iskeleti izler; buna giriş, yöntem, bulgular ve tartışma yapısı, kısaca IMRAD denir.",
+    "Giriş bölümü konunun neden önemli olduğunu, bilinenleri ve çalışmanın sorusunu ya da hipotezini anlatır.",
+    "Yöntem bölümü katılımcıları, kullanılan testleri ve cihazları, uygulama sırasını ve istatistik analizini ayrıntılı verir.",
+    "Bulgular bölümü sonuçları yorum katmadan, tablo ve grafiklerle sunar.",
+    "Tartışma bölümü bulguları önceki çalışmalarla karşılaştırır, sınırlılıkları belirtir ve klinik anlamı tartışır.",
+    "Bu bölümlerin önünde bir özet, sonunda ise kaynaklar, çıkar çatışması ve finansman bilgisi bulunur.",
+    "Bölümlerin görevini bilmek, aradığınız bilgiyi makalenin neresinde bulacağınızı gösterir."
+   ]
+  },
+  {
+   "id": "okuma",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Makalenin yapısı",
+   "baslik": "Hangi sırayla *okunur?*",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Özet",
+     "metin": "Konu ve ana bulgu",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Tablo ve şekiller",
+     "metin": "Asıl veriler burada",
+     "cumle": 1
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Yöntem",
+     "metin": "Güvenilir mi?",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Tartışma",
+     "metin": "Yazarın yorumu",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Deneyimli okuyucular makaleyi baştan sona düz bir sırayla okumaz; önce özete bakar ve makalenin sorusuna uygun olup olmadığına karar verir.",
+    "Ardından tablo ve şekiller incelenir; çünkü bulguların özü çoğu zaman oradadır.",
+    "Sonra yöntem dikkatle okunur; bulguların ne kadar güvenilir olduğu buna bağlıdır.",
+    "Yöntemde ciddi bir sorun varsa, ne kadar çarpıcı olursa olsun sonuçlara temkinle yaklaşılır.",
+    "Tartışma en son okunur; yazarın yorumu ile verilerin gerçekte gösterdiği şey her zaman aynı değildir.",
+    "Özetteki cümleler bazen bulguları olduğundan güçlü gösterebilir; karar tam metne göre verilmelidir."
+   ]
+  },
+  {
+   "id": "yontem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Makalenin yapısı",
+   "baslik": "Yöntemde *sorulacak* sorular",
+   "maddeler": [
+    {
+     "metin": "Katılımcılar kim, kaç kişi?",
+     "cumle": 0,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Kontrol grubu var mı?",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Gruplar kurayla mı ayrıldı?",
+     "cumle": 2,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Ölçen kişi grubu biliyor mu?",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Takipten kaç kişi düştü?",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Rastgele atama",
+      "metin": "Grupları dengeler",
+      "cumle": 2
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Körleme",
+      "metin": "Yanlılığı azaltır",
+      "cumle": 3
+     }
+    ],
+    "ust": "İKİ GÜVENCE"
+   },
+   "cumleler": [
+    "Yöntemi okurken ilk soru şudur: katılımcılar kimdir, kaç kişidir ve sizin hastalarınıza ne kadar benzer?",
+    "İkinci soru, sonuçların karşılaştırıldığı bir kontrol grubunun olup olmadığıdır.",
+    "Üçüncüsü, katılımcıların gruplara kurayla, yani rastgele atanıp atanmadığıdır; bu, gruplar arasındaki gizli farkları azaltır.",
+    "Dördüncüsü körlemedir: sonucu ölçen kişi katılımcının hangi grupta olduğunu bilmiyorsa yanlılık azalır.",
+    "Beşincisi, çalışmayı tamamlamayan katılımcıların sayısı ve bunun nedenleridir.",
+    "Son olarak ölçüm araçlarının, örneğin kullanılan konuşma testinin, o dil ve toplum için geçerli olup olmadığına bakılır."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kanıtı tartmak",
+   "baslik": "Tedavi soruları için *kanıt düzeyi*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Düzey 1",
+     "metin": "RKÇ'lerin sistematik derlemesi",
+     "cumle": 1
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Düzey 2",
+     "metin": "Randomize kontrollü çalışma",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Düzey 3",
+     "metin": "Kontrollü kohort, izlem",
+     "cumle": 3
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Düzey 4",
+     "metin": "Vaka serisi, vaka-kontrol",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Düzey 5",
+     "metin": "Mekanizmaya dayalı akıl yürütme",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Her çalışma türü aynı güçte kanıt sunmaz; bu farkı göstermek için kanıt düzeyi (level of evidence) sınıflamaları kullanılır.",
+    "Oxford Kanıta Dayalı Tıp Merkezinin 2011 sınıflamasında tedavi sorularının en üstünde, randomize çalışmaların sistematik derlemesi yer alır.",
+    "İkinci düzeyde tek bir randomize kontrollü çalışma, yani RKÇ bulunur.",
+    "Üçüncü düzeyde rastgele atama yapılmayan kontrollü kohort ya da izlem çalışmaları gelir.",
+    "Dördüncü düzeyde vaka serileri, vaka-kontrol ve geçmiş kontrollü çalışmalar yer alır.",
+    "Beşinci düzey ise mekanizmaya dayalı akıl yürütmedir; yani fizyolojiden yola çıkan çıkarımlar.",
+    "Sınıflama bir başlangıç rehberidir; kötü yürütülmüş bir randomize çalışma, iyi yürütülmüş bir kohorttan daha zayıf olabilir."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kanıtı tartmak",
+   "baslik": "Örnek: *iki* çalışma türü",
+   "ogeler": [
+    {
+     "ikon": "kalabalik",
+     "baslik": "Gözlemsel izlem",
+     "metin": "İlişki gösterir, neden değil",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Randomize çalışma",
+     "metin": "Nedensellik sorusunu sınar",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bu farkın canlı bir örneği, ileride ayrıntılı göreceğimiz işitme kaybı ve demans ilişkisidir.",
+    "Uzun süreli izlem çalışmaları, işitme kaybı arttıkça demans riskinin de arttığını gösterdi.",
+    "Ancak gözlemsel bir çalışma, bir ilişkinin nedensel olup olmadığını tek başına gösteremez.",
+    "Bu soruyu sınamak için katılımcıların kurayla gruplara ayrıldığı ACHIEVE çalışması yapıldı.",
+    "Çalışmanın birincil sonucunda, tüm katılımcılar birlikte değerlendirildiğinde iki grup arasında anlamlı fark bulunmadı.",
+    "Daha yüksek riskli bir alt grupta ise olası bir yarar görüldü; bu bulgunun yeni çalışmalarla doğrulanması gerekir.",
+    "Yani aynı soruya iki farklı çalışma türü farklı güçte yanıt verir; okuyucunun işi bu farkı görmektir."
+   ]
+  },
+  {
+   "id": "dergi",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kanıtı tartmak",
+   "baslik": "Dergi ve *yayın* güvenilirliği",
+   "maddeler": [
+    {
+     "metin": "Hakemli dergi mi?",
+     "cumle": 0,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Saygın veri tabanında taranıyor mu?",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Etki faktörü tek ölçüt değil",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yağmacı dergilere dikkat",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Çıkar çatışması beyanını oku",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Güvenilir bir makale, bağımsız uzmanların değerlendirmesinden geçer; buna hakem değerlendirmesi (peer review) denir.",
+    {
+     "yazi": "Derginin MEDLINE, Scopus ya da Web of Science gibi saygın veri tabanlarında taranması, temel bir güvence işaretidir.",
+     "ses": "Derginin Medlayn, Skopus ya da Veb of Sayıns gibi saygın veri tabanlarında taranması, temel bir güvence işaretidir."
+    },
+    "Derginin etki faktörü, makalelerine yapılan ortalama atıfı gösterir; ama tek bir makalenin kalitesini ölçmez.",
+    "Ücret karşılığında gerçek bir hakem süreci olmadan yayın yapan yağmacı dergilere (predatory journals) dikkat edilmelidir.",
+    "Çalışmanın kim tarafından finanse edildiği ve yazarların çıkar çatışması beyanları da okunmalıdır.",
+    "Bir cihaz ya da test üreticisinin desteklediği çalışma geçersiz değildir; ama bulguları bağımsız çalışmalarla karşılaştırmak gerekir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Makaleyi okurken üç soruyu not edin: sonuç güvenilir mi, etki ne kadar büyük, benim hastama uyar mı?",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: okuduğunuz her makale için kısa bir not kartı tutun.",
+    "Kartta üç sorunun yanıtını yazın: bulgular güvenilir mi, etki ne kadar büyük ve sonuç benim hastalarıma uyarlanabilir mi?",
+    "Bu alışkanlık, aylar sonra aynı konuyu aradığınızda size büyük zaman kazandırır.",
+    "Ayrıca ekip içinde düzenli makale toplantıları yapmak, eleştirel okuma becerisini hızla geliştirir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kanıt, deneyim ve hasta _birlikte_",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "PICO ile soru, PubMed ile arama",
+     "cumle": 1,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "IMRAD: giriş, yöntem, bulgular, tartışma",
+     "cumle": 2,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Kanıt düzeyi ve _yöntem_ kalitesi",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Kanıta dayalı uygulama, araştırma kanıtını klinik deneyimle ve hastanın tercihleriyle birleştirir.",
+    "PICO kalıbı klinik soruyu netleştirir; PubMed'de anahtar sözcük, MeSH terimi ve bağlaçlarla arama yapılır.",
+    "Makaleler giriş, yöntem, bulgular ve tartışma iskeletini izler; okuma özet, tablolar ve yöntemle başlar.",
+    "Kanıt düzeyi çalışma türüne göre sıralanır; ama asıl belirleyici yöntemin kalitesidir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Tedavi sorusunda en üst kanıt düzeyi?",
+   "secenekler": [
+    "Uzman görüşü",
+    "Vaka serisi",
+    "Tek bir kohort çalışması",
+    "RKÇ'lerin sistematik derlemesi"
+   ],
+   "dogru": 3,
+   "aciklama": "Birden çok _randomize kontrollü_ çalışmanın sistematik derlemesi en üsttedir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: bir tedavinin etkisini soran bir soruda, en yüksek kanıt düzeyi hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap D: randomize kontrollü çalışmaların sistematik derlemesi.",
+    "Rastgele atama yanlılığı azaltır; birden çok çalışmanın sistematik olarak birleştirilmesi de tek çalışmanın şans payını küçültür."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Biyoistatistiğe* giriş: ortalama, standart sapma",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste makalelerin bulgular bölümünü okuyabilmek için biyoistatistiğin temel kavramlarını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

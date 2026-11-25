@@ -1,0 +1,696 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D104_Timpanometri_TR",
+ "kapak": {
+  "ust": "DERS 104",
+  "baslik": "*Timpanometri*<br>nasıl yapılır?",
+  "alt": "Prob, basınç taraması ve temel değerler",
+  "cizim": "timpanogram"
+ },
+ "youtube": {
+  "baslik": "Timpanometri Nasıl Yapılır? | Ders 104 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Timpanometri, kulak yolundaki basınç değiştirilirken orta kulak sisteminin admitansını ölçer. Bu derste otoskopi ve hasta hazırlığını, prob ucu seçimini ve hava sızdırmazlığını, artı 200 ile eksi 400 daPa arasındaki basınç taramasını ve ölçülen temel değerleri (ECV, tepe admitans, TPP, TW) inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; BSA, Recommended Procedure: Tympanometry and Acoustic Reflex Thresholds; ASHA, Guidelines for Audiologic Screening.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "timpanometri",
+   "immitansmetri"
+  ],
+  "etiketler": [
+   "timpanometri",
+   "tympanometry",
+   "timpanogram",
+   "immitansmetri",
+   "admitans",
+   "dekapaskal",
+   "daPa",
+   "hava sızdırmazlığı",
+   "dış kulak yolu hacmi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 104",
+   "baslik": "*Timpanometri* nasıl yapılır?",
+   "alt": "Prob, hava sızdırmazlığı, basınç taraması ve değerler",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste timpanometrinin nasıl yapıldığını, hazırlıktan sonuç ekranına kadar adım adım öğreneceğiz.",
+    "Prob ucunun seçimini, hava sızdırmazlığını ve ölçülen temel değerleri konuşacağız."
+   ]
+  },
+  {
+   "id": "ilke",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel ilke",
+   "baslik": "Timpanometri *neyi ölçer?*",
+   "maddeler": [
+    {
+     "metin": "Orta kulak sisteminin _admitansı_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Kulak yolunda _basınç_ değiştirilir",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Yetişkinde _226 Hz_ prob tonu",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Sonuç grafiği: _timpanogram_",
+     "cumle": 5,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Timpanometri, kulak yolundaki basınç değiştirilirken orta kulak sisteminin sesi ne kadar kolay ilettiğini, yani admitansını ölçer.",
+    "Kulak yolundaki basınç değiştikçe timpanik membran gerilir ve sesi iletme kolaylığı azalır.",
+    "En kolay iletim, kulak yolundaki basınç orta kulak basıncına eşit olduğunda gerçekleşir.",
+    "Ölçüm için kulak yoluna sürekli bir prob tonu verilir; yetişkinlerde ve büyük çocuklarda bu ton genellikle iki yüz yirmi altı hertzdir.",
+    "Altı aydan küçük bebeklerde ise bin hertzlik prob tonu tercih edilir; bunu ayrı bir derste göreceğiz.",
+    "Admitansın basınca göre çizilen grafiğine timpanogram denir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "orta_kulak",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "orta_kulak",
+      "cumle": 0
+     },
+     {
+      "parca": "timpanik_membran",
+      "cumle": 1
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "timpanik_membran",
+      "metin": "timpanik membran",
+      "cumle": 1
+     },
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "kulak yolu: basınç",
+      "cumle": 1
+     }
+    ]
+   }
+  },
+  {
+   "id": "prob",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Temel ilke",
+   "baslik": "Prob ve *kulak yolu*",
+   "cizim": "kulak_kesit",
+   "vurgula": [
+    {
+     "parca": "prob",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_pompa",
+     "cumle": 2
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3
+    },
+    {
+     "parca": "orta_kulak",
+     "cumle": 4
+    },
+    {
+     "parca": "ostaki_borusu",
+     "cumle": 5
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "dis_kulak_yolu",
+     "metin": "Kapalı kulak yolu",
+     "cumle": 0
+    },
+    {
+     "parca": "prob_hoparlor",
+     "metin": "Hoparlör",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_mikrofon",
+     "metin": "Mikrofon",
+     "cumle": 1
+    },
+    {
+     "parca": "prob_pompa",
+     "metin": "Pompa kanalı",
+     "cumle": 1
+    },
+    {
+     "parca": "timpanik_membran",
+     "metin": "Timpanik membran (kulak zarı)",
+     "cumle": 3
+    },
+    {
+     "parca": "ostaki_borusu",
+     "metin": "Östaki borusu",
+     "cumle": 5
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Prob: hoparlör, mikrofon, pompa",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Kolay iletim: kulak yolunda az ses",
+     "cumle": 3,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Prob, kulak yolunun dış kısmına hava sızdırmayacak biçimde yerleştirilir ve kulak yolunu kapalı bir boşluğa çevirir.",
+    "Probun içinde üç kanal vardır: prob tonunu veren bir hoparlör, kulak yolundaki sesi ölçen bir mikrofon ve bir pompa kanalı.",
+    "Pompa basıncı değiştirirken mikrofon, kulak yolunda kalan ses düzeyini sürekli ölçer.",
+    "Timpanik membran, yani kulak zarı sesi kolay iletirse kulak yolunda daha az ses kalır; zor iletirse daha fazla ses kalır.",
+    "Cihaz bu ses düzeyinden orta kulak sisteminin admitansını hesaplar.",
+    "Orta kulak basıncını Östaki borusu dengeler; bu yüzden timpanometri, Östaki işlevi hakkında da dolaylı bilgi verir."
+   ],
+   "yakinlastir": [
+    {
+     "parca": "dis_kulak_yolu",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "timpanik_membran",
+     "cumle": 3,
+     "olcek": 2.0
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "ayar": {
+    "prob": "timpanometri",
+    "prob_cumle": 0
+   }
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hazırlık",
+   "baslik": "Ölçümden *önce*",
+   "maddeler": [
+    {
+     "metin": "Önce _otoskopi_",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Buşon, akıntı, perforasyon _kontrolü_",
+     "cumle": 1,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Hastaya kısa _açıklama_",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Konuşma, yutkunma, hareket _yok_",
+     "cumle": 4,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "Timpanometriden önce mutlaka otoskopi yapılır.",
+    "Kulak yolunu tıkayan buşon, akıntı, yabancı cisim ya da perforasyon olup olmadığına bakılır.",
+    "Aktif akıntı, ağrılı bir kulak yolu ya da yakın zamanda geçirilmiş kulak cerrahisi varsa, ölçüm hekim görüşü alınmadan yapılmaz.",
+    "Hastaya, kulağında kısa süreli bir basınç ve hafif bir ses hissedeceği anlatılır.",
+    "Ölçüm sırasında konuşmaması, yutkunmaması ve başını hareket ettirmemesi istenir; bu hareketler eğriyi bozabilir.",
+    "Çocuklarda ölçüm, çocuk sakin ve oturur durumdayken yapılır; ağlama sonuçları değiştirebilir.",
+    "Gün başında cihaz, bilinen hacimdeki test kaviteleriyle kontrol edilir."
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "AYRICA",
+    "cumle": 2,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Akıntı, ağrı, cerrahi",
+      "metin": "Hekim görüşü olmadan ölçüm yok",
+      "cumle": 2
+     },
+     {
+      "ikon": "cocuk",
+      "baslik": "Çocukta",
+      "metin": "Sakin ve oturur durumda",
+      "cumle": 5
+     },
+     {
+      "ikon": "kontrol_listesi",
+      "baslik": "Gün başında",
+      "metin": "Test kaviteleriyle cihaz kontrolü",
+      "cumle": 6
+     }
+    ]
+   }
+  },
+  {
+   "id": "sizdirmazlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Hazırlık",
+   "baslik": "Prob ucu ve *hava sızdırmazlığı*",
+   "maddeler": [
+    {
+     "metin": "Kulak yoluna uygun _boyutta_ uç",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Kepçeyi _yukarı ve geri_ çek",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "_Hava sızdırmazlığı_ (hermetic seal)",
+     "cumle": 4,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Uç _duvara_ dayanmamalı",
+     "cumle": 6,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Prob ucu, kulak yolunun girişinden biraz daha büyük olacak şekilde seçilir.",
+    "Tek kullanımlık ya da temizlenebilir uçlar, enfeksiyon kontrolü kurallarına göre kullanılır.",
+    "Yetişkinde kulak kepçesi hafifçe yukarı ve geriye çekilerek kulak yolu düzleştirilir.",
+    "Uç, hafif bir döndürme hareketiyle kulak yoluna oturtulur.",
+    "Amaç hava sızdırmazlığı (hermetic seal) sağlamaktır; aksi halde pompa basınç oluşturamaz.",
+    "Sızıntı varsa cihaz genellikle uyarı verir ya da basınç hedefe ulaşmaz; bu durumda uç değiştirilir ya da yeniden yerleştirilir.",
+    "Uç kulak yolu duvarına dayanırsa ya da serumene gömülürse, düz ve çok küçük hacimli yanıltıcı bir eğri elde edilir."
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "kulak_kesit",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "dis_kulak_yolu",
+      "cumle": 0
+     },
+     {
+      "parca": "kulak_kepcesi",
+      "cumle": 2
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "dis_kulak_yolu",
+      "metin": "kulak yolu girişi",
+      "cumle": 0
+     },
+     {
+      "parca": "kulak_kepcesi",
+      "metin": "kepçe: yukarı ve geri",
+      "cumle": 2
+     }
+    ]
+   }
+  },
+  {
+   "id": "tarama",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüm",
+   "baslik": "*Basınç* taraması",
+   "maddeler": [
+    {
+     "metin": "Birim: _daPa_ (dekapaskal)",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Başlangıç: _+200 daPa_",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Bitiş: genellikle _-400 daPa_",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Admitans _sürekli_ kaydedilir",
+     "cumle": 4,
+     "ikon": "kronometre"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Basınç, dekapaskal (decapascal) birimiyle ifade edilir; ekranda daPa olarak yazılır.",
+     "ses": "Basınç, dekapaskal (decapascal) birimiyle ifade edilir; ekranda de a pe a olarak yazılır."
+    },
+    "Bir dekapaskal on paskaldır ve yaklaşık bir milimetre su basıncına eşittir.",
+    "Tarama genellikle artı iki yüz dekapaskalda, yani timpanik membranın gerildiği pozitif basınçta başlar.",
+    "Basınç sonra eksi dört yüz dekapaskala doğru azaltılır; bazı protokollerde eksi altı yüze kadar inilir.",
+    "Bu sırada admitans sürekli kaydedilir ve ekranda eğri olarak çizilir.",
+    "Pompa hızı ve tarama yönü sonucu bir miktar etkiler; bu yüzden aynı klinikte aynı protokol kullanılır.",
+    "Ölçüm birkaç saniye sürer; eğri düzensizse ölçüm tekrarlanır."
+   ]
+  },
+  {
+   "id": "egri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüm",
+   "baslik": "Normal bir *timpanogram*",
+   "cizim": "timpanogram",
+   "ayar": {
+    "egriler": [
+     {
+      "tip": "A",
+      "cumle": 0
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Tepe basıncı: orta kulak basıncı",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tepe yüksekliği: admitans",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Uçlar: kulak yolu hacmi",
+     "cumle": 4,
+     "ikon": "timpanometre_prob"
+    }
+   ],
+   "cumleler": [
+    "Normal bir orta kulakta ekranda böyle tek tepeli bir eğri görürüz.",
+    "Tepenin bulunduğu basınç, orta kulak basıncını yansıtır; normalde sıfır dekapaskal civarındadır.",
+    "Tepenin yüksekliği, orta kulak sisteminin sesi ne kadar kolay ilettiğini gösterir.",
+    "Pozitif ve negatif uçlarda timpanik membran gerildiği için admitans düşer ve eğri alçalır.",
+    "Bu uçlarda ölçülen değer büyük ölçüde kulak yolundaki havaya aittir; dış kulak yolu hacmi buradan hesaplanır."
+   ]
+  },
+  {
+   "id": "degerler",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüm",
+   "baslik": "Ölçülen *değerler*",
+   "sutunlar": [
+    "Parametre",
+    "Kısaltma",
+    "Birim"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Dış kulak yolu hacmi",
+      "ECV",
+      "ml"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Tepe statik admitans",
+      "Ytm",
+      "mmho ya da ml"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "Tepe basıncı",
+      "TPP",
+      "daPa"
+     ],
+     "cumle": 4
+    },
+    {
+     "hucreler": [
+      "Timpanometrik genişlik",
+      "TW",
+      "daPa"
+     ],
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Cihaz eğriden birkaç temel değer hesaplar; ilki dış kulak yolu hacmi (ear canal volume), kısaca ECV'dir.",
+    "ECV, artı iki yüz dekapaskalda ölçülen admitanstan hesaplanır ve mililitre olarak verilir.",
+    "İkincisi tepe statik admitanstır; kulak yolunun katkısı çıkarıldıktan sonra kalan, orta kulağa ait admitanstır.",
+    "İki yüz yirmi altı hertzde bir mililitre hava bir milimho admitansa karşılık gelir; bu yüzden iki birim birbirinin yerine kullanılabilir.",
+    "Üçüncüsü timpanometrik tepe basıncı (tympanometric peak pressure), kısaca TPP'dir.",
+    "Dördüncüsü timpanometrik genişlik (tympanometric width), kısaca TW'dir; eğrinin, tepe yüksekliğinin yarısındaki basınç genişliğidir.",
+    "Bu değerlerin normal aralıklarını ilerideki bir derste ayrıntılı olarak inceleyeceğiz."
+   ]
+  },
+  {
+   "id": "normlar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Ölçüm",
+   "baslik": "Yetişkinde *yaklaşık* değerler",
+   "maddeler": [
+    {
+     "metin": "ECV: yaklaşık _0,6 ile 1,5 ml_",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Tepe admitans: _0,3 ile 1,7 mmho_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Tepe basıncı: _sıfır_ civarında",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Normlar _yaşa ve cihaza_ göre değişir",
+     "cumle": 3,
+     "ikon": "cocuk"
+    }
+   ],
+   "cumleler": [
+    "Yetişkinde dış kulak yolu hacmi yaklaşık sıfır virgül altı ile bir virgül beş mililitredir; bazı güncel normlarda üst sınır daha yüksektir.",
+    "Tepe statik admitans yetişkinde yaklaşık sıfır virgül üç ile bir virgül yedi milimho arasında kabul edilir.",
+    "Tepe basıncı normalde sıfır dekapaskal civarındadır; belirgin negatif değerler Östaki işlevinde sorunu düşündürebilir.",
+    "Çocuklarda kulak yolu daha küçük olduğu için normlar farklıdır; kullanılan cihazın ve kliniğin norm tablosu esas alınır."
+   ]
+  },
+  {
+   "id": "artefakt",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kalite ve yorum",
+   "baslik": "Sık görülen *artefaktlar*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Yutkunma, konuşma",
+     "metin": "Eğride ani sıçramalar",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Sızıntı",
+     "metin": "Basınç oluşmaz",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Tıkalı uç",
+     "metin": "Düz, küçük hacimli eğri",
+     "cumle": 2
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Ağlayan çocuk",
+     "metin": "Değişken sonuç",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Yutkunma, konuşma ya da baş hareketi, eğride ani sıçramalara yol açabilir.",
+    "Hava sızıntısı varsa basınç hedef değere ulaşmaz ve eğri tamamlanamaz.",
+    "Uç tıkalıysa ya da duvara dayanmışsa düz ve küçük hacimli bir eğri oluşur.",
+    "Ağlayan bir çocukta orta kulak basıncı ve admitans geçici olarak değişebilir.",
+    "Şüpheli her eğride ilk adım, probu kontrol edip ölçümü tekrarlamaktır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Düz eğride yorumdan önce ECV'ye bakın ve otoskopiyle karşılaştırın. Çok küçük hacim çoğu zaman tıkalı uç ya da buşondur.",
+   "cumleler": [
+    "Sahadan önemli bir ipucu verelim.",
+    "Düz bir eğri gördüğünüzde yorum yapmadan önce ECV değerine bakın.",
+    "Hacim beklenenden çok küçükse, uç kulak yolu duvarına ya da serumene dayanmış olabilir; probu yeniden yerleştirip tekrarlayın.",
+    "Hacim beklenenden çok büyükse, perforasyon ya da açık bir ventilasyon tüpü akla gelir; sonucu otoskopi ile karşılaştırın.",
+    "Bu basit kontrol, hatalı bir B tipi yorumunu önler."
+   ]
+  },
+  {
+   "id": "sinirlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kalite ve yorum",
+   "baslik": "Ne söyler, ne *söylemez?*",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Bilgi verir",
+     "metin": "Basınç, hareketlilik, hacim, sıvı olasılığı",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Bilgi vermez",
+     "metin": "İşitme eşiği, koklea ve sinir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Timpanometri orta kulak basıncı hakkında doğrudan bilgi verir.",
+    "Timpanik membran ve kemikçik sisteminin hareketliliğini gösterir.",
+    "Dış kulak yolu hacmi sayesinde perforasyon ya da tıkanıklık olasılığını değerlendirmemizi sağlar.",
+    "Düz bir eğri ve normal hacim, orta kulakta sıvı olasılığını düşündürür.",
+    "Ancak timpanometri bir işitme testi değildir; normal bir timpanogram normal işitme anlamına gelmez.",
+    "Koklea ya da işitme siniri kaynaklı kayıplarda timpanogram tamamen normal olabilir.",
+    "Bu yüzden timpanometri her zaman odyogram ve diğer testlerle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Kalite ve yorum",
+   "baslik": "Sonuçları *kaydetmek*",
+   "maddeler": [
+    {
+     "metin": "_Prob tonu_ frekansı",
+     "cumle": 0,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Eğri ve _sayısal değerler_",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Otoskopi _notu_",
+     "cumle": 2,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "Ölçüm _koşulları_",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Raporda kullanılan prob tonu frekansı mutlaka belirtilir.",
+    "Timpanogram eğrisi, ECV, tepe admitans ve tepe basıncı her kulak için ayrı kaydedilir.",
+    "Otoskopi bulgusu da timpanometri sonucunun yanına not edilir.",
+    "Çocuk ağlıyorsa ya da ölçüm tekrarlandıysa bu durum da kayda geçirilir.",
+    "Kontrol ölçümlerinde aynı cihaz ve protokolün kullanılması, sonuçların karşılaştırılmasını kolaylaştırır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Önce _otoskopi_, sonra sızdırmaz prob",
+     "cumle": 0,
+     "ikon": "otoskop"
+    },
+    {
+     "metin": "+200'den _-400 daPa_'ya tarama",
+     "cumle": 1,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "226 Hz prob tonu, sonuç _timpanogram_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "ECV, tepe admitans, _TPP_ ve TW",
+     "cumle": 3,
+     "ikon": "tablo"
+    }
+   ],
+   "cumleler": [
+    "Timpanometriden önce otoskopi yapılır ve prob hava sızdırmayacak biçimde yerleştirilir.",
+    "Basınç genellikle artı iki yüzden eksi dört yüz dekapaskala doğru taranır.",
+    "Yetişkinde iki yüz yirmi altı hertzlik prob tonu kullanılır ve admitans basınca göre timpanogram olarak çizilir.",
+    "Temel değerler dış kulak yolu hacmi, tepe statik admitans, tepe basıncı ve timpanometrik genişliktir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "+200 daPa'da ölçülen admitans hangi değeri hesaplamak için kullanılır?",
+   "secenekler": [
+    "Orta kulak basıncı",
+    "Dış kulak yolu hacmi",
+    "İşitme eşiği"
+   ],
+   "dogru": 1,
+   "aciklama": "Bu basınçta timpanik membran gerilir; ölçülen değer büyük ölçüde _kulak yolundaki havaya_ aittir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Artı iki yüz dekapaskalda ölçülen admitans, hangi değeri hesaplamak için kullanılır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: dış kulak yolu hacmi.",
+    "Bu basınçta timpanik membran gerilir ve ölçülen değer büyük ölçüde kulak yolundaki havaya aittir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Timpanogram *tipleri*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, Jerger sınıflamasına göre timpanogram tiplerini ve her tipin ne düşündürdüğünü inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

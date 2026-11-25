@@ -1,0 +1,1347 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D287_Vaka_Taramadan_Kalan_Bebek_TR",
+ "kapak": {
+  "ust": "DERS 287",
+  "baslik": "Vaka: taramadan<br>*kalan* bebek",
+  "alt": "Tanısal ABR ve aileyle paylaşım",
+  "cizim": "abr"
+ },
+ "youtube": {
+  "baslik": "Vaka: Yenidoğan Taramasından Kalan Bebek | Ders 287 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir bebek vakasında yenidoğan işitme taramasından kalmaktan cihaz uygulamasına kadar olan süreci izliyoruz: iki aşamalı tarama, JCIH bir, üç, altı hedefi, bin hertz timpanometri, DPOAE, iki polaritede klik ABR ve tonburst ABR ile eşik tahmini, sonucun aileye aktarılması ve cihaz uygulamasının zamanlaması.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Joint Committee on Infant Hearing, Year 2019 Position Statement; American Academy of Audiology, Clinical Guidelines on Pediatric Amplification (2013); NHSP ve BSA, Guidelines for the Early Audiological Assessment and Management of Babies Referred from the Newborn Hearing Screening Programme; Hall, eHandbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "yenidoğanişitmetaraması",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "yenidoğan işitme taraması",
+   "kaldı sonucu",
+   "refer result",
+   "tanısal ABR",
+   "diagnostic ABR",
+   "1000 Hz timpanometri",
+   "JCIH 1-3-6",
+   "erken amplifikasyon",
+   "early amplification",
+   "aileye tanı paylaşımı",
+   "odyoloji vaka",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 287",
+   "baslik": "Vaka: taramadan *kalan* bebek",
+   "alt": "Tanısal ABR, aileyle paylaşım ve cihaz zamanı",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste pediatrik vakalara başlıyoruz: taramadan kalan bir bebeği tanı merkezinden cihaz uygulamasına kadar izleyeceğiz.",
+    "Tanısal işitsel beyin sapı yanıtını, bin hertzlik timpanometriyi, sonucun aileye aktarılmasını ve cihaz zamanlamasını uygulayacağız."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve tarama",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Zamanında doğmuş, örnek bir bebek",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Sağlıklı bebek ünitesinde, sorunsuz doğum",
+     "cumle": 1,
+     "ikon": "hastane"
+    },
+    {
+     "metin": "Bilinen _risk göstergesi_ yok",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Ailede işitme kaybı öyküsü yok",
+     "cumle": 3,
+     "ikon": "gen_dna"
+    },
+    {
+     "metin": "Anne: sese irkiliyor gibi",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Doğum",
+      "metin": "Otuz dokuz hafta",
+      "cumle": 0
+     },
+     {
+      "ikon": "hastane",
+      "baslik": "Ünite",
+      "metin": "Sağlıklı bebek",
+      "cumle": 1
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Risk",
+      "metin": "Bilinen gösterge yok",
+      "cumle": 2
+     }
+    ],
+    "ust": "ÖYKÜDE"
+   },
+   "cumleler": [
+    "Vakamız tamamen kurgusal bir örnektir: otuz dokuz haftalık, zamanında ve sağlıklı doğmuş bir bebek.",
+    "Doğum sorunsuz geçmiş; bebek yenidoğan yoğun bakımında kalmamış ve sağlıklı bebek ünitesinde izlenmiş.",
+    "Hiperbilirubinemi, enfeksiyon ya da yüz ve kulak anomalisi gibi bilinen bir risk göstergesi yok.",
+    "Ailede çocukluk çağında başlayan işitme kaybı öyküsü de yok.",
+    "Anne, bebeğin kapı çarpınca irkildiğini ve bu yüzden iyi duyduğunu düşündüğünü söylüyor.",
+    "Oysa yüksek seslere irkilme, hafif ya da orta derecede bir kaybı dışlamaz.",
+    "Ayrıca doğumsal kayıplı bebeklerin yaklaşık yarısında bilinen bir risk etkeni bulunmaz; bu yüzden tarama evrenseldir."
+   ]
+  },
+  {
+   "id": "tarama",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve tarama",
+   "baslik": "Taramadan *tanıya*",
+   "adimlar": [
+    {
+     "ikon": "tarama",
+     "baslik": "OAE",
+     "metin": "İkinci gün: iki kulak kaldı",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "AABR",
+     "metin": "Taburculuk öncesi: kaldı",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Randevu",
+     "metin": "Hastaneden ayrılmadan",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Hatırlatma",
+     "metin": "İki iletişim bilgisi",
+     "cumle": 4
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Tanı merkezi",
+     "metin": "Dördüncü haftada",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Hastane iki aşamalı bir protokol kullanıyor: ilk tarama otoakustik emisyonla, kısaca OAE ile yapılıyor.",
+    "Bebek ikinci gün OAE taramasından iki kulakta da kalmış.",
+    "Taburculuktan önce otomatik işitsel beyin sapı yanıtı, kısaca AABR uygulanmış ve bebek iki kulakta bu testten de kalmış.",
+    "AABR'den de kalan bebek doğrudan tanısal değerlendirmeye yönlendirilir; tanı randevusu aile hastaneden ayrılmadan verilmiş.",
+    "Ailenin iki ayrı telefon numarası kaydedilmiş ve randevudan önce hatırlatma yapılmış.",
+    "Bebek dördüncü haftasında, pediatrik deneyimi olan bir odyoloji birimine geliyor."
+   ]
+  },
+  {
+   "id": "hedef",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve tarama",
+   "baslik": "Bir, üç, *altı* hedefi",
+   "ogeler": [
+    {
+     "ikon": "tarama",
+     "baslik": "Bir ay",
+     "metin": "Tarama tamamlanır",
+     "cumle": 0
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Üç ay",
+     "metin": "Tanı konur",
+     "cumle": 1
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Altı ay",
+     "metin": "Müdahale başlar",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Bu bebekte",
+     "metin": "Tanı dördüncü haftada",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bebek İşitmesi Ortak Komitesi, kısaca JCIH, taramanın birinci ayın sonuna kadar tamamlanmasını önerir.",
+    "Tanının üçüncü ayın sonuna kadar konması hedeflenir; bu hedefi başaran programlar için ikinci ay önerilir.",
+    "Erken müdahale ise en geç altıncı ayın sonunda başlamalıdır.",
+    "Vakamızda tanısal değerlendirme dördüncü haftada yapılıyor; yani hedefin oldukça önündeyiz."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal değerlendirme",
+   "baslik": "Randevuya *hazırlık*",
+   "maddeler": [
+    {
+     "metin": "Doğal uyku, ilaçsız kayıt",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Beslenme saatine göre randevu",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Bebeği yorgun ve aç getirin",
+     "cumle": 2,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Uzun oturum: iki saate yakın",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Neden araştırması: hekim",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "bebek",
+      "baslik": "Doğal uyku",
+      "metin": "İlaçsız kayıt",
+      "cumle": 0
+     },
+     {
+      "ikon": "saat",
+      "baslik": "Zamanlama",
+      "metin": "Beslenme saatine göre",
+      "cumle": 1
+     },
+     {
+      "ikon": "hekim",
+      "baslik": "Hekim",
+      "metin": "Neden araştırması",
+      "cumle": 4
+     }
+    ],
+    "ust": "PLAN"
+   },
+   "cumleler": [
+    "Tanısal işitsel beyin sapı yanıtı, kısaca ABR, ilk birkaç ayda çoğu zaman bebek doğal uykudayken, ilaç kullanmadan yapılabilir.",
+    "Randevu bebeğin olağan beslenme ve uyku saatine göre verilir.",
+    "Aileden bebeği biraz yorgun ve aç getirmeleri, beslenmeyi klinikte yapmaları istenir.",
+    "Oturumun uzun sürebileceği, gerekirse ikinci bir randevu verileceği önceden söylenir.",
+    "Taramadan kalan bebeğin hekim değerlendirmesi de gecikmeden planlanır; doğumsal sitomegalovirüs testi yaşamın ilk üç haftasında alınmalıdır."
+   ]
+  },
+  {
+   "id": "batarya",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal değerlendirme",
+   "baslik": "Tanısal *test bataryası*",
+   "adimlar": [
+    {
+     "ikon": "otoskop",
+     "baslik": "Öykü, otoskopi",
+     "metin": "Kulak yolu açık mı?",
+     "cumle": 0
+    },
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Timpanometri",
+     "metin": "Bin hertz prob tonu",
+     "cumle": 1
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "OAE",
+     "metin": "Dış tüy hücreleri",
+     "cumle": 2
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Klik ABR",
+     "metin": "İki polarite, yüksek şiddet",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Tonburst ABR",
+     "metin": "Frekansa özgü eşik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Oturum ayrıntılı öykü ve otoskopiyle başlar; kulak yolundaki verniks kalıntısı birçok testi etkileyebilir.",
+    "Orta kulak, altı aydan küçük bebeklerde bin hertzlik prob tonuyla değerlendirilir.",
+    "OAE, dış tüy hücresi işlevini gösterir ve ABR ile birlikte yorumlanır.",
+    "Yüksek şiddette, iki polaritede alınan klik ABR, sinir yolunun bütünlüğünü ve işitsel nöropati olasılığını değerlendirir.",
+    {
+     "yazi": "Frekansa özgü tonburst ABR ise her kulakta eşik tahmininin temelidir; gerekirse kemik yolu ABR eklenir.",
+     "ses": "Frekansa özgü tonbörst a be re ise her kulakta eşik tahmininin temelidir; gerekirse kemik yolu a be re de eklenir."
+    },
+    "Sıra merkeze göre değişebilir; önemli olan bebek uyandığında en kritik bilginin alınmış olmasıdır."
+   ]
+  },
+  {
+   "id": "timpano",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal değerlendirme",
+   "baslik": "Bin hertzde *pozitif tepe*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Basınç (daPa)"
+    },
+    "y": {
+     "min": 0.4,
+     "max": 1.6,
+     "adim": 0.2,
+     "ond": 1,
+     "ad": "Admitans (mmho)"
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        -300,
+        0.75
+       ],
+       [
+        -200,
+        0.82
+       ],
+       [
+        -150,
+        0.9
+       ],
+       [
+        -100,
+        1.05
+       ],
+       [
+        -60,
+        1.25
+       ],
+       [
+        -30,
+        1.38
+       ],
+       [
+        0,
+        1.4
+       ],
+       [
+        30,
+        1.32
+       ],
+       [
+        60,
+        1.15
+       ],
+       [
+        100,
+        1.0
+       ],
+       [
+        150,
+        0.95
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "kirmizi",
+      "yumusak": true,
+      "kalin": 5,
+      "etiket": "sağ: pozitif tepe",
+      "etiket_konum": [
+       40,
+       1.45
+      ],
+      "cumle": 1
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        -400,
+        0.68
+       ],
+       [
+        -300,
+        0.73
+       ],
+       [
+        -200,
+        0.8
+       ],
+       [
+        -150,
+        0.88
+       ],
+       [
+        -100,
+        1.02
+       ],
+       [
+        -60,
+        1.21
+       ],
+       [
+        -30,
+        1.33
+       ],
+       [
+        0,
+        1.35
+       ],
+       [
+        30,
+        1.27
+       ],
+       [
+        60,
+        1.11
+       ],
+       [
+        100,
+        0.97
+       ],
+       [
+        150,
+        0.92
+       ],
+       [
+        200,
+        0.9
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kesik": true,
+      "etiket": "sol: pozitif tepe",
+      "etiket_konum": [
+       -330,
+       1.1
+      ],
+      "cumle": 2
+     },
+     {
+      "ad": "taban",
+      "noktalar": [
+       [
+        -400,
+        0.7
+       ],
+       [
+        200,
+        0.93
+       ]
+      ],
+      "renk": "lacivert",
+      "kesik": true,
+      "etiket": "taban çizgisi",
+      "etiket_konum": [
+       -330,
+       0.6
+      ],
+      "cumle": 1
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Prob tonu: _bin hertz_",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "İki kulak: _pozitif tepe_",
+     "cumle": 2,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Orta kulak sorunu düşünülmüyor",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Önce orta kulağa bakıyoruz; ölçüm bin hertzlik prob tonuyla yapılıyor.",
+    "Sağ kulakta eğrinin iki ucunu birleştiren taban çizgisinin belirgin üzerine çıkan bir tepe var.",
+    "Sol kulakta da benzer biçimde pozitif bir tepe görülüyor.",
+    "Bu görünüm, iki kulakta da olağan orta kulak işleviyle uyumludur.",
+    "Bu yaşta iki yüz yirmi altı hertzlik ölçüm, sıvı olsa bile tepeli görünebileceği için tek başına kullanılmaz."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal değerlendirme",
+   "baslik": "OAE: iki kulakta *yok*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1000,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "F2 frekansı (Hz)",
+     "isaretler": [
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -20,
+     "max": 30,
+     "adim": 10,
+     "ad": "Düzey (dB SPL)"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        1000,
+        -4
+       ],
+       [
+        1500,
+        -6
+       ],
+       [
+        2000,
+        -8
+       ],
+       [
+        3000,
+        -9
+       ],
+       [
+        4000,
+        -10
+       ],
+       [
+        6000,
+        -9
+       ]
+      ],
+      "renk": "gri",
+      "dolgu": true,
+      "etiket": "gürültü tabanı",
+      "cumle": 1
+     },
+     {
+      "ad": "sag_dp",
+      "noktalar": [
+       [
+        1000,
+        -5
+       ],
+       [
+        1500,
+        -6
+       ],
+       [
+        2000,
+        -9
+       ],
+       [
+        3000,
+        -8
+       ],
+       [
+        4000,
+        -11
+       ],
+       [
+        6000,
+        -10
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "sağ",
+      "cumle": 2
+     },
+     {
+      "ad": "sol_dp",
+      "noktalar": [
+       [
+        1000,
+        -3
+       ],
+       [
+        1500,
+        -7
+       ],
+       [
+        2000,
+        -7
+       ],
+       [
+        3000,
+        -10
+       ],
+       [
+        4000,
+        -9
+       ],
+       [
+        6000,
+        -8
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kesik": true,
+      "etiket": "sol",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "beklenen",
+      "y": [
+       5,
+       25
+      ],
+      "renk": "sari",
+      "etiket": "beklenen yanıt bölgesi (örnek)",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Emisyon: _gürültü düzeyinde_",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Orta kulak normal, OAE yok",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Ardından distorsiyon ürünü OAE, yani DPOAE alınıyor.",
+    "Gri bölge, her frekanstaki gürültü tabanını gösteriyor.",
+    "Sağ kulağın ölçümleri gürültü tabanının içinde kalıyor; anlamlı bir emisyon yok.",
+    "Sol kulakta da durum aynı.",
+    "Sarı bölge, normal işiten bir bebekte yanıtın beklenebileceği örnek düzeyi gösteriyor.",
+    "Orta kulak normalken OAE'nin alınamaması, kokleada dış tüy hücresi işlevinin etkilendiğini düşündürür.",
+    "Ancak OAE işitme sinirini değerlendirmez; işitmenin derecesini de söylemez."
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal değerlendirme",
+   "baslik": "Klik ABR: *dalga V* var",
+   "cizim": "abr",
+   "ayar": {
+    "latans_kayma": 0.2
+   },
+   "etiketler": [
+    {
+     "parca": "dalga_V",
+     "metin": "Dalga V",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_I",
+     "metin": "Dalga I",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Klik: _seksen dB nHL_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Polarite değişince _ters dönmüyor_",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "ANSD bulgusu _yok_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "cumleler": [
+    "Bebek uykuya daldığında klik ABR yüksek şiddette, seksen desibel nHL düzeyinde alınıyor.",
+    "Dalga V iki kulakta da tekrarlanabilir biçimde izleniyor; dalga I ve III daha küçük ama seçilebiliyor.",
+    "Dalga V latansı yaşa göre beklenen aralığın üst sınırına yakın; bu, koklear kayıpta yüksek şiddette görülebilen bir bulgudur.",
+    "Kayıt sıkışma ve seyrelme polaritelerinde ayrı ayrı alındığında dalgalar ters dönmüyor.",
+    "Uyaranın biçimini izleyen ve polariteyle ters dönen büyük bir koklear mikrofonik görülmüyor.",
+    "Yani sinirsel yanıt var; tablo işitsel nöropati spektrum bozukluğu, kısaca ANSD ile uyumlu değil."
+   ]
+  },
+  {
+   "id": "esik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tanısal değerlendirme",
+   "baslik": "Tonburst ABR: *tahmini* eşikler",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 500,
+     "max": 4000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 100,
+     "adim": 20,
+     "ad": "Tahmini eşik (dB eHL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "sag",
+      "noktalar": [
+       [
+        500,
+        50
+       ],
+       [
+        1000,
+        55
+       ],
+       [
+        2000,
+        60
+       ],
+       [
+        4000,
+        65
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "sağ (eHL)",
+      "cumle": 3
+     },
+     {
+      "ad": "sol",
+      "noktalar": [
+       [
+        500,
+        45
+       ],
+       [
+        1000,
+        50
+       ],
+       [
+        2000,
+        55
+       ],
+       [
+        4000,
+        60
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "sol (eHL)",
+      "cumle": 4,
+      "kesik": true
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal",
+      "y": [
+       -10,
+       25
+      ],
+      "renk": "yesil",
+      "etiket": "normal",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Önce _iki bin_, sonra beş yüz",
+     "cumle": 1,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Tahmini eşik, _kesin değil_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kemik yolu: sensörinöral",
+     "cumle": 6,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "Eşik tahmini için tonburst ABR ile her kulakta beş yüz, bin, iki bin ve dört bin hertz test ediliyor.",
+    "Bebek uyanmadan en çok bilgiyi almak için önce iki kulakta iki bin, sonra beş yüz hertz alındı.",
+    "Bulunan nHL eşikleri, frekansa özgü düzeltmelerle tahmini işitme düzeyine, yani eHL'ye çevriliyor.",
+    "Sağ kulakta tahmini eşikler elli ile altmış beş desibel arasında, tize doğru hafifçe iniyor.",
+    "Sol kulakta eşikler kırk beş ile altmış desibel arasında; iki kulak birbirine benziyor.",
+    "Kemik yolu ABR'de kemik vibratörünün verebildiği en yüksek düzeyde bile yanıt alınamadı.",
+    "Normal bin hertz timpanogramla birlikte bu bulgu, kaybın sensörinöral olduğunu destekler."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yorum ve aile",
+   "baslik": "Bulguları *birleştir*",
+   "adimlar": [
+    {
+     "ikon": "timpanometre_prob",
+     "baslik": "Orta kulak",
+     "metin": "Bin hertzde tepe",
+     "cumle": 0
+    },
+    {
+     "ikon": "tarama",
+     "baslik": "OAE",
+     "metin": "İki kulakta yok",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Klik ABR",
+     "metin": "Sinirsel yanıt var",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Eşikler",
+     "metin": "Orta derece, iki kulak",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Sonuç",
+     "metin": "Hekime ve aileye",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bulguları sırayla birleştirelim: orta kulak iki tarafta normal işlev gösteriyor.",
+    "OAE'nin yokluğu, dış tüy hücrelerinin etkilendiği koklear bir sorunla uyumlu.",
+    "Klik ABR'de sinirsel dalgalar var ve büyük bir koklear mikrofonik yok; bu da sinirsel bir sorunu düşündürmüyor.",
+    "Tahmini eşikler iki kulakta orta derecede bir kayıp gösteriyor.",
+    "Bu bulgular iki taraflı, orta derecede sensörinöral işitme kaybıyla uyumludur; tanıyı ve nedenin araştırılmasını hekim yürütür.",
+    "Testler birbirini doğruladığı için sonucu aileyle paylaşmaya hazırız."
+   ]
+  },
+  {
+   "id": "aile",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yorum ve aile",
+   "baslik": "Sonucu *aileyle* paylaşmak",
+   "maddeler": [
+    {
+     "metin": "Sessiz, özel ve zamanlı oda",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Sonucu açık ve sade söyle",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Sessizlik bırak, duyguyu kabul et",
+     "cumle": 2,
+     "ikon": "kalp"
+    },
+    {
+     "metin": "İki üç ana mesaj, yazılı not",
+     "cumle": 4,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "_Geri anlatma_ ile kontrol et",
+     "cumle": 5,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "konusma_muzu",
+    "cumle": 3,
+    "ayar": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        50,
+        55,
+        60,
+        65,
+        null
+       ]
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        null,
+        45,
+        50,
+        55,
+        60,
+        null
+       ]
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Görüşme sessiz ve özel bir odada, iki ebeveynin de bulunabileceği bir zamanda yapılır.",
+    "Sonuç uzun bir girişe boğulmadan söylenir: bebeğinizin testlerinde iki kulakta da işitme kaybı olduğunu gördük.",
+    "Bu cümleden sonra konuşmaya hemen devam edilmez; ailenin tepki vermesi için kısa bir sessizlik bırakılır.",
+    "Konuşma muzu gibi bir görselle, bebeğin hangi konuşma seslerini cihazsız duyamayabileceği aile hazır olduğunda gösterilir.",
+    "İlk görüşmede iki ya da üç ana mesaj yeterlidir: işitme kaybı var, yapılabilecek çok şey var ve sonraki adım şu tarihte.",
+    "Aileden bugün aklında kalanları kendi sözcükleriyle anlatması istenir; buna geri anlatma (teach-back) denir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kapıya irkilen bebek de orta derece kayıplı olabilir. Aileye bunu örnekle açıklayın; inkarı suçlamadan karşılayın.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: aileler çoğu zaman bebeğin yüksek seslere irkildiğini söyleyerek sonuca itiraz eder.",
+    "Bu itiraz bir inkar biçimi olabilir; aileyi düzeltmeye çalışmak yerine gözlemini önemseyin.",
+    "Kapı çarpması gibi seslerin orta derece kayıpta da duyulabildiğini, ama konuşmanın yumuşak seslerinin kaçabileceğini anlatın.",
+    "Aynı görüşmede soruları için kimi arayabileceklerini ve bir sonraki randevuyu yazılı olarak verin."
+   ]
+  },
+  {
+   "id": "yonlendir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Yorum ve aile",
+   "baslik": "Tanıdan *sonra* yönlendirme",
+   "ogeler": [
+    {
+     "ikon": "hekim",
+     "baslik": "Hekim",
+     "metin": "KBB ve çocuk hekimi",
+     "cumle": 0
+    },
+    {
+     "ikon": "gen_dna",
+     "baslik": "Genetik",
+     "metin": "Danışmanlık seçeneği",
+     "cumle": 1
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Göz muayenesi",
+     "metin": "Hekim önerisiyle",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Erken müdahale",
+     "metin": "Aile merkezli program",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Sonuçlar yazılı olarak bebeğin hekimine iletilir; kaybın nedeni KBB ve çocuk hekimi değerlendirmesiyle araştırılır.",
+    "Genetik değerlendirme ve aile için genetik danışmanlık, hekimin önerisiyle planlanabilir.",
+    "İşitme kaybıyla ilişkili bazı sendromlar göz bulgularıyla da seyrettiği için göz muayenesi istenebilir.",
+    "Aile, dil ve iletişim gelişimini destekleyen aile merkezli erken müdahale programıyla tanıştırılır.",
+    "Tarama programının kayıt sistemi de tanı sonucuyla güncellenir; böylece bebek takipte kaybolmaz."
+   ]
+  },
+  {
+   "id": "cihaz",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Cihaz ve izlem",
+   "baslik": "Cihaz *zamanlaması*",
+   "adimlar": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Tanı",
+     "metin": "Dördüncü hafta",
+     "cumle": 0
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Aile kararı",
+     "metin": "Seçenekler anlatılır",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kalıp ve RECD",
+     "metin": "Kulağa özgü ölçüm",
+     "cumle": 2
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Uygulama",
+     "metin": "Yaklaşık bir ay içinde",
+     "cumle": 3
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Erken müdahale",
+     "metin": "Altı aydan önce",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Tanının dördüncü haftada konması, cihaz uygulamasını da erkene çekme fırsatı verir.",
+    "Aileye seçenekler, beklentiler ve cihazın uyanık olunan her saatte takılmasının önemi anlatılır; karar ailenindir.",
+    "Kulak kalıbı ölçüsü alınır ve gerçek kulak ile kuplör farkı, kısaca RECD, mümkünse bebeğin kulağında ölçülür.",
+    "Aile cihazı seçerse JCIH tanıdan sonra yaklaşık bir ay içinde uygulamayı önerir; bu bebekte bu, ikinci ay civarıdır.",
+    "Cihaz, tahmini eşiklere göre DSL (istenen duyum düzeyi) ya da NAL gibi doğrulanmış bir reçeteyle ayarlanır ve gerçek kulakta doğrulanır.",
+    "Erken müdahale programı da altıncı aydan önce, tercihen cihazla aynı dönemde başlar."
+   ]
+  },
+  {
+   "id": "izlem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Cihaz ve izlem",
+   "baslik": "İzlem ve *doğrulama*",
+   "maddeler": [
+    {
+     "metin": "Yedinci ayda VRA ile eşikler",
+     "cumle": 0,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "ABR tahmini ile karşılaştır",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Veri kaydı ve aile gözlemi",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Kulak büyüdükçe RECD ve kalıp",
+     "cumle": 4,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "İlerleyici kayıp için düzenli izlem",
+     "cumle": 5,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 1,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        null,
+        50,
+        55,
+        60,
+        65,
+        null
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        null,
+        45,
+        50,
+        55,
+        60,
+        null
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Bebek gelişimsel olarak hazır olduğunda, örnek vakamızda yedinci ayda, görsel pekiştirmeli odyometri, kısaca VRA yapılıyor.",
+    "İnsert kulaklıkla kulağa özgü eşikler, sağda elli ile altmış beş, solda kırk beş ile altmış desibel HL arasında bulunuyor.",
+    "Bu değerler ABR tahminleriyle uyumlu; uyum, cihaz ayarına olan güveni artırır.",
+    "Her kontrolde cihazın veri kaydı ve ailenin günlük gözlemleri birlikte değerlendirilir.",
+    "Kulak yolu büyüdükçe RECD yeniden ölçülür ve kalıp yenilenir.",
+    "Kayıp zamanla ilerleyebileceği için ilk yıllarda düzenli odyolojik izlem planlanır."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Cihaz ve izlem",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "Bin hertz timpanometri: iki kulak tepeli",
+     "cumle": 0,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "DPOAE: iki kulakta alınamadı",
+     "cumle": 1,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Klik ABR: dalga V var, CM yok",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tahmini eşikler: orta derece",
+     "cumle": 3,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Öneri: hekim, erken müdahale, cihaz",
+     "cumle": 4,
+     "ikon": "rapor"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 3,
+    "ayar": {
+     "x": {
+      "min": 500,
+      "max": 4000,
+      "log": true,
+      "hz": true,
+      "ad": "Frekans (Hz)",
+      "isaretler": [
+       500,
+       1000,
+       2000,
+       4000
+      ]
+     },
+     "y": {
+      "min": -10,
+      "max": 100,
+      "adim": 20,
+      "ad": "Tahmini eşik (dB eHL)",
+      "ters": true
+     },
+     "seriler": [
+      {
+       "ad": "sag",
+       "noktalar": [
+        [
+         500,
+         50
+        ],
+        [
+         1000,
+         55
+        ],
+        [
+         2000,
+         60
+        ],
+        [
+         4000,
+         65
+        ]
+       ],
+       "renk": "kirmizi",
+       "isaretli": true,
+       "etiket": "sağ (eHL)",
+       "cumle": 3
+      },
+      {
+       "ad": "sol",
+       "noktalar": [
+        [
+         500,
+         45
+        ],
+        [
+         1000,
+         50
+        ],
+        [
+         2000,
+         55
+        ],
+        [
+         4000,
+         60
+        ]
+       ],
+       "renk": "mavi",
+       "isaretli": true,
+       "etiket": "sol (eHL)",
+       "cumle": 3,
+       "kesik": true
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Örnek rapor dili şöyle olabilir: bin hertz prob tonuyla iki kulakta pozitif tepeli timpanogram elde edildi.",
+    "DPOAE iki kulakta test edilen frekanslarda gürültü tabanının üzerinde alınamadı.",
+    "Klik ABR seksen desibel nHL'de iki polaritede alındı; dalga V iki kulakta var, belirgin koklear mikrofonik yok.",
+    "Tonburst ABR ile tahmini eşikler sağda elli ile altmış beş, solda kırk beş ile altmış desibel eHL arasındadır.",
+    "Bulgular iki taraflı orta derece sensörinöral kayıpla uyumludur; hekim değerlendirmesi, erken müdahale ve cihaz planlanmıştır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "AABR'den kalan bebek tanıya yönlendirilir",
+     "cumle": 0,
+     "ikon": "tarama"
+    },
+    {
+     "metin": "Bin hertz timpanometri, OAE, iki polarite ABR",
+     "cumle": 1,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Sonuç açık, sade ve yazılı paylaşılır",
+     "cumle": 2,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Cihaz tanıdan sonra yaklaşık bir ayda",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Taramadan kalan bebek, tanı randevusu hastaneden ayrılmadan verilerek gecikmeden tanısal değerlendirmeye yönlendirilir.",
+    "Tanısal batarya bin hertz timpanometri, OAE, iki polaritede klik ABR ve frekansa özgü tonburst ABR'den oluşur.",
+    "Sonuç aileye sessiz bir ortamda, sade bir dille, duyguya yer bırakarak ve yazılı notla aktarılır.",
+    "Aile seçerse cihaz tanıdan sonra yaklaşık bir ay içinde uygulanır; erken müdahale altıncı aydan önce başlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Dört haftalık bebekte orta kulak hangi prob tonuyla değerlendirilir?",
+   "secenekler": [
+    "226 Hz",
+    "1000 Hz",
+    "678 Hz",
+    "Prob tonu gerekmez"
+   ],
+   "dogru": 1,
+   "aciklama": "Altı aydan küçük bebekte _bin hertz_ prob tonu kullanılır.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Dört haftalık bir bebekte orta kulak hangi prob tonuyla değerlendirilir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: bin hertz.",
+     "ses": "Doğru cevap be şıkkı: bin hertz."
+    },
+    "Bu yaşta iki yüz yirmi altı hertzlik timpanogram, orta kulakta sıvı olsa bile tepeli ve normal görünebilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: OAE var, ABR yok: *işitsel nöropati*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki vakada OAE'si olduğu halde ABR'si alınamayan bir bebeği ve işitsel nöropatiyi inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

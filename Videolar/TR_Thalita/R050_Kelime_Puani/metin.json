@@ -1,0 +1,86 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R050_Kelime_Puani_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #50",
+  "baslik": "Bir kelime *kaç puan?*",
+  "alt": "25 kelimelik listede her kelime yüzde 4",
+  "cizim": "odyometre",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Kelime tanıma testinde bir kelime kaç puan eder? #shorts",
+  "aciklama": "25 kelimelik listede her kelime yüzde 4, 50 kelimelik listede yüzde 2 değerindedir. Liste kısaldıkça skorun rastlantısal değişkenliği artar.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "konuşmaodyometrisi",
+   "işitme"
+  ],
+  "etiketler": [
+   "kelime tanıma skoru",
+   "SDS",
+   "konuşmayı ayırt etme",
+   "konuşma odyometrisi",
+   "PB liste",
+   "odyoloji",
+   "işitme testi",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Kelime tanıma testinde bir kelime kaç puan eder?",
+  "bilgiler": [
+   "25 kelimelik listede her kelime yüzde 4 değerindedir.",
+   "50 kelimelik listede her kelime yüzde 2 değerindedir.",
+   "Liste kısaldıkça skorun rastlantısal değişkenliği artar."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitme",
+   "konuşmaodyometrisi"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #50",
+   "metin": "Kelime testinde bir kelime *kaç puan?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Kelime tanıma testinde bir kelime kaç puan eder?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "25 kelimelik *listede*",
+   "sayi": "4",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Yirmi beş kelimelik listede her kelime yüzde dört değerindedir.",
+    "Elli kelimelik listede ise her kelime yüzde iki eder.",
+    "Liste kısaldıkça skorun rastlantısal değişkenliği artar."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D096",
+ "kaynak_baslik": "Kelime tanıma skoru"
+}

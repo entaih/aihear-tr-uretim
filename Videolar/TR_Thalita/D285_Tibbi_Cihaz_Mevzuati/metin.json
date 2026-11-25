@@ -1,0 +1,671 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D285_Tibbi_Cihaz_Mevzuati_TR",
+ "kapak": {
+  "ust": "DERS 285",
+  "baslik": "Tıbbi cihaz<br>*mevzuatı*",
+  "alt": "MDR, CE, ÜTS, cihaz merkezi",
+  "cizim": "isitme_cihazi",
+  "ayar": {
+   "tip": "RIC"
+  }
+ },
+ "youtube": {
+  "baslik": "Tıbbi Cihaz Mevzuatı ve İşitme Cihazı Hizmetleri | Ders 285 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "İşitme cihazı ve implantlar hangi kurallara tabidir? Bu derste AB Tıbbi Cihaz Tüzüğünü (MDR), Türkiye Tıbbi Cihaz Yönetmeliğini, CE işaretini, Ürün Takip Sistemini (ÜTS), olumsuz olay bildirimini ve işitme cihazı merkezlerinin belge, kayıt ve onarım yükümlülüklerini öğreniyoruz. Bu video hukuki danışmanlık değildir; güncel mevzuatı kontrol edin.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Regulation (EU) 2017/745 on medical devices; Tıbbi Cihaz Yönetmeliği (Resmi Gazete 2.6.2021, sayı 31499 mükerrer; TİTCK metni, md. 18, 20, 34, 85, 109); Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmelik (Resmi Gazete 24.9.2011, sayı 28064; Mevzuat Bilgi Sistemi güncel metni, md. 9, 15, 16, 19).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "tıbbicihaz",
+   "işitmecihazı"
+  ],
+  "etiketler": [
+   "tıbbi cihaz yönetmeliği",
+   "Medical Device Regulation",
+   "MDR 2017/745",
+   "CE işareti",
+   "CE marking",
+   "Ürün Takip Sistemi",
+   "ÜTS",
+   "işitme cihazı merkezi",
+   "TİTCK",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 285",
+   "baslik": "Tıbbi cihaz *mevzuatı*",
+   "alt": "MDR, CE işareti, ÜTS, cihaz merkezleri",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste işitme cihazı ve implantları düzenleyen Avrupa Birliği tüzüğünü ve Türkiye'deki Tıbbi Cihaz Yönetmeliğini öğreneceğiz.",
+    "CE işaretini, Ürün Takip Sistemini ve işitme cihazı merkezlerinin yükümlülüklerini de göreceğiz."
+   ]
+  },
+  {
+   "id": "nedir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tıbbi cihaz",
+   "baslik": "Tıbbi cihaz *nedir?*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "İşitme cihazı",
+     "metin": "Günlük kullanılan cihaz",
+     "cumle": 1
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "İmplantlar",
+     "metin": "Vücuda yerleştirilen",
+     "cumle": 2
+    },
+    {
+     "ikon": "odyometre",
+     "baslik": "Ölçüm cihazları",
+     "metin": "Odyometre, immitans",
+     "cumle": 3
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Yazılım",
+     "metin": "Tıbbi amaçlı olabilir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Tıbbi cihaz; tanı, izlem, tedavi ya da bir engelin etkisini azaltma gibi tıbbi amaçlarla kullanılan ürünlerin genel adıdır.",
+    "İşitme cihazı, işitme kaybının etkisini azaltmak için kullanıldığından bir tıbbi cihazdır.",
+    "Koklear implant gibi vücuda yerleştirilen aktif cihazlar en yüksek risk sınıfındadır ve en sıkı kurallara bağlıdır.",
+    "Odyometre, immitans cihazı ve otoakustik emisyon cihazı gibi ölçüm araçları da tıbbi cihazdır.",
+    "Tıbbi amaçla kullanılan bir yazılım da tıbbi cihaz sayılabilir; bunu otomasyon dersinde yeniden anacağız.",
+    "Odyolog bu cihazları seçer, uygular ve kullanır; bu yüzden cihaz mevzuatı odyoloğun günlük işini doğrudan ilgilendirir."
+   ]
+  },
+  {
+   "id": "ab",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tıbbi cihaz",
+   "baslik": "AB'den *Türkiye'ye*",
+   "adimlar": [
+    {
+     "ikon": "kitap",
+     "baslik": "AB MDR",
+     "metin": "2017/745 sayılı tüzük",
+     "cumle": 0
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Türkiye",
+     "metin": "Tıbbi Cihaz Yönetmeliği 2021",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Uyum",
+     "metin": "Aynı gereklilikler",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Otorite",
+     "metin": "TİTCK",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Avrupa Birliğinde tıbbi cihazlar, 2017/745 sayılı Tıbbi Cihaz Tüzüğü (Medical Device Regulation), kısaca MDR ile düzenlenir.",
+     "ses": "Avrupa Birliğinde tıbbi cihazlar, iki bin on yedi bölü yedi yüz kırk beş sayılı Tıbbi Cihaz Tüzüğü, kısaca MDR ile düzenlenir."
+    },
+    "Bu tüzük 2017'de kabul edildi ve cihazlar için klinik kanıt, izlenebilirlik ve piyasa sonrası gözetim kurallarını sıkılaştırdı.",
+    {
+     "yazi": "Türkiye'de buna uyumlu Tıbbi Cihaz Yönetmeliği, 2 Haziran 2021 tarihli ve 31499 sayılı mükerrer Resmi Gazetede yayımlandı.",
+     "ses": "Türkiye'de buna uyumlu Tıbbi Cihaz Yönetmeliği, iki haziran iki bin yirmi bir tarihli ve otuz bir bin dört yüz doksan dokuz sayılı mükerrer Resmi Gazetede yayımlandı."
+    },
+    {
+     "yazi": "Yönetmeliğin 109. maddesi, metnin 2017/745 sayılı AB tüzüğü ve değişiklikleri dikkate alınarak hazırlandığını belirtir.",
+     "ses": "Yönetmeliğin yüz dokuzuncu maddesi, metnin iki bin on yedi bölü yedi yüz kırk beş sayılı AB tüzüğü ve değişiklikleri dikkate alınarak hazırlandığını belirtir."
+    },
+    "Türkiye'de yönetmeliği uygulayan otorite, Türkiye İlaç ve Tıbbi Cihaz Kurumu, kısaca TİTCK'dir.",
+    "Yönetmelik yayımlandıktan sonra birkaç kez değişti; güncel metni Mevzuat Bilgi Sisteminden ya da Kurumun sitesinden kontrol edin."
+   ]
+  },
+  {
+   "id": "roller",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tıbbi cihaz",
+   "baslik": "Kim *ne yapar?*",
+   "ogeler": [
+    {
+     "ikon": "fabrika",
+     "baslik": "İmalatçı",
+     "metin": "Tasarım, üretim, sorumluluk",
+     "cumle": 0
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "İthalatçı, dağıtıcı",
+     "metin": "Uygunluğu kontrol",
+     "cumle": 2
+    },
+    {
+     "ikon": "laboratuvar",
+     "baslik": "Onaylanmış kuruluş",
+     "metin": "Uygunluk değerlendirmesi",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Kurum",
+     "metin": "Gözetim ve denetim",
+     "cumle": 4
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Sağlık profesyoneli",
+     "metin": "Doğru kullanım, bildirim",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Yönetmelikte cihazı piyasaya getiren taraflara iktisadi işletmeciler denir; başta imalatçı gelir.",
+    "İmalatçı cihazın tasarımından, üretiminden, teknik dosyasından ve piyasaya arz sonrasındaki izleminden sorumludur.",
+    "İthalatçı ve dağıtıcı, piyasaya sundukları cihazın gerekli işaret ve belgeleri taşıdığını kontrol eder.",
+    "Risk sınıfı yüksek cihazlarda bağımsız bir onaylanmış kuruluş (notified body), uygunluğu değerlendirir.",
+    "Kurum ise piyasayı denetler ve sorunlu cihazlar hakkında önlem alır.",
+    "Sağlık kuruluşları ve sağlık profesyonelleri de yönetmelikte yükümlülüğü olan taraflar arasında sayılır."
+   ]
+  },
+  {
+   "id": "ce",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tıbbi cihaz",
+   "baslik": "CE *işareti*",
+   "maddeler": [
+    {
+     "metin": "Gerekliliklere uygunluk beyanı",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "İmalatçı iliştirir",
+     "cumle": 1,
+     "ikon": "fabrika"
+    },
+    {
+     "metin": "Ismarlama cihazda yok",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Etiket, kullanım kılavuzu",
+     "cumle": 4,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "İşaret tek başına kalite değil",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_cihazi",
+    "cumle": 0,
+    "ayar": {
+     "tip": "RIC"
+    },
+    "etiketler": [
+     {
+      "parca": "islemci",
+      "metin": "etiket ve işaret",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "CE uygunluk işareti, imalatçının cihazın yönetmelikteki gerekliliklere uygun olduğunu gösterdiği işarettir.",
+    "İmalatçı, uygunluk değerlendirmesi tamamlandıktan sonra bir uygunluk beyanı düzenler ve CE işaretini iliştirir.",
+    {
+     "yazi": "Yönetmeliğin 20. maddesi gerekliliklere uygun cihazların CE işareti taşıyacağını söyler.",
+     "ses": "Yönetmeliğin yirminci maddesi, gerekliliklere uygun cihazların ce e işareti taşıyacağını söyler."
+    },
+    "Aynı madde, kişiye özel üretilen ısmarlama cihazları ve araştırma amaçlı cihazları bu kuralın dışında tutar.",
+    "Odyolog, kullandığı cihazın etiketinde bu işareti, imalatçı bilgisini ve Türkçe kullanım bilgisini görmelidir.",
+    "CE işareti asgari güvenlik ve performans gerekliliklerine uygunluğu gösterir; bir cihazın o hasta için en uygun cihaz olduğunu göstermez."
+   ]
+  },
+  {
+   "id": "uts",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tıbbi cihaz",
+   "baslik": "Ürün Takip Sistemi: *ÜTS*",
+   "ogeler": [
+    {
+     "ikon": "yazilim",
+     "baslik": "ÜTS",
+     "metin": "Ulusal kayıt sistemi",
+     "cumle": 0
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Tekil cihaz kimliği",
+     "metin": "Her cihaza bir kimlik",
+     "cumle": 3
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Sağlık kuruluşları",
+     "metin": "Yükümlülükleri var",
+     "cumle": 2
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "İzlenebilirlik",
+     "metin": "Hangi cihaz, kimde?",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Türkiye'de tıbbi cihazların kaydı ve izlenmesi, ulusal Ürün Takip Sistemi, kısaca ÜTS üzerinden yürütülür.",
+    "Yönetmeliğin 34. maddesi iktisadi işletmecilerin ÜTS ile ilgili yükümlülüklerini yerine getireceğini söyler.",
+    "Aynı madde, bu yükümlülüğü sağlık kuruluşları ve sağlık profesyonelleri için de sayar.",
+    "Cihazların tanınması için tekil cihaz kimliği (unique device identification), kısaca UDI kullanılır.",
+    "UDI cihazın etiketinde ve ambalajında yer alır; ciddi olumsuz olayların bildiriminde de kullanılır.",
+    "ÜTS ile ilgili ayrıntılı yükümlülükler Kurumun yayımladığı düzenlemelerle belirlenir ve zaman içinde güncellenir.",
+    "Amaç izlenebilirliktir: bir cihazla ilgili sorun çıktığında hangi seri numarasının hangi kişide olduğu bulunabilmelidir."
+   ]
+  },
+  {
+   "id": "bildirim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tıbbi cihaz",
+   "baslik": "Olumsuz olay *bildirimi*",
+   "maddeler": [
+    {
+     "metin": "Ciddi olumsuz olaydan şüphelen",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Kuruma bildir",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Cihazı ve bilgileri sakla",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "İmplant kartı hastada",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "koklear_implant",
+    "cumle": 4,
+    "etiketler": [
+     {
+      "parca": "alici_uyarici",
+      "metin": "implant",
+      "cumle": 4
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "alici_uyarici",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Cihazın arızası ya da beklenmeyen bir etkisi hastanın sağlığını ciddi biçimde etkilediyse buna ciddi olumsuz olay denir.",
+    "Yönetmeliğin 85. maddesine göre şüpheli ciddi olumsuz olaylar sağlık profesyonelleri, kullanıcılar ve hastalarca Kuruma raporlanır.",
+    "Kurum bu raporları kaydeder ve imalatçının bilgilendirilmesini sağlar.",
+    "Böyle bir durumda cihaz, seri numarası, olayın tarihi ve hastanın durumu kayda geçirilir; cihaz mümkünse saklanır.",
+    "Yönetmeliğin 18. maddesi, implante edilen cihazlarda hastaya cihaz kimliğini taşıyan bir implant kartı verilmesini ister.",
+    "Koklear implantlı bir hastanın bu kartı yanında taşıması, görüntüleme gibi işlemlerden önce doğru bilgiye hızla ulaşılmasını sağlar."
+   ]
+  },
+  {
+   "id": "merkez",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Cihaz merkezleri",
+   "baslik": "İşitme cihazı *merkezleri*",
+   "ogeler": [
+    {
+     "ikon": "takvim",
+     "baslik": "2011 yönetmeliği",
+     "metin": "Resmi Gazete 28064",
+     "cumle": 0
+    },
+    {
+     "ikon": "is_yeri",
+     "baslik": "Tanım",
+     "metin": "Satış, bakım, uygulama",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Ruhsat",
+     "metin": "Bina ve personel koşulu",
+     "cumle": 3
+    },
+    {
+     "ikon": "odyolog",
+     "baslik": "Sorumlu müdür",
+     "metin": "Her merkezde zorunlu",
+     "cumle": 4
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Değişiklikler",
+     "metin": "2012'den beri birkaç kez",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Türkiye'de işitme cihazı merkezleri, 24 Eylül 2011 tarihli ve 28064 sayılı Resmi Gazetede yayımlanan bir yönetmelikle düzenlenir.",
+     "ses": "Türkiye'de işitme cihazı merkezleri, yirmi dört eylül iki bin on bir tarihli ve yirmi sekiz bin altmış dört sayılı Resmi Gazetede yayımlanan bir yönetmelikle düzenlenir."
+    },
+    "Yönetmeliğin adı Ismarlama Protez ve Ortez Merkezleri ile İşitme Cihazı Merkezleri Hakkında Yönetmeliktir.",
+    "Yönetmelik, işitme cihazının satışı, bakım ve onarımı ile uygulamasının yapıldığı iş yerlerini kapsar.",
+    "Merkezler ruhsatla açılır; bina, donanım ve personel koşulları yönetmelikte ayrıntılı olarak sayılır.",
+    "Yönetmeliğin 9. maddesine göre her merkezde yönetmeliğe uygun yetkili bir kişi sorumlu müdür olarak çalışır.",
+    "Sorumlu müdürün niteliklerine ilişkin hükümler değişikliklerle güncellendiği için başvuru öncesinde güncel metin okunmalıdır.",
+    "Yönetmelik 2012'den bu yana birkaç kez değiştirildi; son değişiklikler 2021 ve 2023 yıllarındadır."
+   ]
+  },
+  {
+   "id": "akis",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Cihaz merkezleri",
+   "baslik": "Hizmetin *akışı*",
+   "adimlar": [
+    {
+     "ikon": "hekim",
+     "baslik": "Belge",
+     "metin": "Reçete, rapor ya da odyogram",
+     "cumle": 0
+    },
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Seçim ve uygulama",
+     "metin": "Gereksinime göre",
+     "cumle": 1
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Bilgilendirme",
+     "metin": "Türkçe ve yazılı",
+     "cumle": 2
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Kayıt",
+     "metin": "Hasta kayıt defteri",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzlem",
+     "metin": "Kontrol ve ince ayar",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Yönetmeliğin 16. maddesine göre merkez, uzman hekimce düzenlenmiş reçete, rapor ya da odyogram olmadan cihaz satışı ve uygulaması yapamaz.",
+    "Cihaz, hastanın odyolojik bulgularına ve gündelik gereksinimlerine göre seçilir ve uygulanır.",
+    "Kullanım, bakım bilgileri ve merkezin iletişim bilgileri hastaya anlatılır ve Türkçe olarak yazılı biçimde verilir.",
+    "Hastanın kimlik ve iletişim bilgileri, cihazın türü ve özellikleri gibi bilgiler hasta kayıt defterine işlenir.",
+    "Uygulamadan sonra düzenli kontrol, ince ayar ve doğrulama ölçümleri hizmetin parçasıdır.",
+    "Yönetmelik ayrıca satışın ruhsata esas bina dışında yapılamayacağını söyler."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Cihaz merkezleri",
+   "baslik": "Kayıt *yükümlülükleri*",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Hasta kayıt defteri",
+     "metin": "Yönetmelikteki forma göre",
+     "cumle": 0
+    },
+    {
+     "ikon": "yazilim",
+     "baslik": "Elektronik kayıt",
+     "metin": "Yazılı kayıt yine zorunlu",
+     "cumle": 1
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Saklama",
+     "metin": "En az beş yıl",
+     "cumle": 2
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "ÜTS",
+     "metin": "Cihaz izlenebilirliği",
+     "cumle": 3
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "KVKK",
+     "metin": "Özel nitelikli veri",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Merkez, yönetmeliğin ekindeki formlara uygun bir hasta kayıt defteri tutar.",
+    "Kayıtlar bilgisayarda da tutulabilir, ancak yazılı kayıt zorunluluğu kalkmaz; ikisinden de sorumlu müdür sorumludur.",
+    "Yönetmeliğin 15. maddesine göre bütün kayıt, defter ve dosyalar beş yıl süreyle saklanır; süren bir uyuşmazlıkta süreç bitene kadar korunur.",
+    "Cihazın kimliği ve kime verildiği, ÜTS ile ilgili yükümlülükler çerçevesinde de izlenebilir olmalıdır.",
+    "Bu kayıtlar sağlık verisi içerir; onam dersinde gördüğümüz Kişisel Verilerin Korunması Kanunu burada da geçerlidir."
+   ]
+  },
+  {
+   "id": "onarim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Cihaz merkezleri",
+   "baslik": "Arıza, onarım ve *garanti*",
+   "maddeler": [
+    {
+     "metin": "Uygunsuz cihazda başvuru yolu",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Ücretsiz onarım ya da yenisi",
+     "cumle": 1,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "Onarımda geçici cihaz",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Garanti koşulları yazılı",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Arıza kaydı ve bildirim",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "Onarım",
+      "metin": "Ücretsiz, yönetmeliğe göre",
+      "cumle": 1
+     },
+     {
+      "ikon": "kulak",
+      "baslik": "Geçici cihaz",
+      "metin": "Hasta işitmesiz kalmaz",
+      "cumle": 2
+     }
+    ],
+    "ust": "MADDE 19"
+   },
+   "cumleler": [
+    "Uygulanan cihaz kusurlu ya da hatalı uygulanmışsa hasta yönetmelikte tanımlanan başvuru yoluna gidebilir.",
+    "Yönetmeliğin 19. maddesine göre uygunsuzluğu belirlenen cihaz ücretsiz olarak onarılır ya da yenilenir ve yeniden uygulanır.",
+    "İşitme cihazı merkezi, onarım ya da yenileme süresince hastaya bir işitme cihazı temin etmek zorundadır.",
+    "Garanti süresi ve kapsamı, tüketici mevzuatına ve satış belgelerine göre belirlenir; hastaya yazılı olarak verilmelidir.",
+    "Kamu geri ödemesi olan cihazlarda Sosyal Güvenlik Kurumunun kuralları ayrıca uygulanır; bu kurallar sık güncellenir.",
+    "Her arıza ve onarım kayda geçirilir; tekrar eden ya da ciddi sorunlar Kuruma bildirim açısından değerlendirilir."
+   ]
+  },
+  {
+   "id": "tanitim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Cihaz merkezleri",
+   "baslik": "Satış ve *tanıtım*",
+   "ogeler": [
+    {
+     "ikon": "is_yeri",
+     "baslik": "Ruhsatlı bina",
+     "metin": "Dışında satış yok",
+     "cumle": 0
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Reklam",
+     "metin": "İlgili mevzuata uygun",
+     "cumle": 1
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Abartı yok",
+     "metin": "Gerçekçi vaat",
+     "cumle": 2
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Etik",
+     "metin": "Hastanın yararı önce",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Yönetmeliğe göre merkez, ruhsata esas bina dışında başka bir yerde satış yapamaz.",
+    "Tanıtım ve reklam faaliyetlerinin ilgili mevzuata uygun olması gerekir; yönetmelik bu konuda başka kanunlara da atıf yapar.",
+    "Cihazla normal işitmeye kavuşulacağı gibi abartılı vaatler hem yanıltıcıdır hem de etik ilkelere aykırıdır.",
+    "Etik dersinde gördüğümüz satış baskısı ve çıkar çatışması kuralları, mevzuatın sınırlarından önce gelir.",
+    "Mevzuat ayrıntıları değişebilir; merkez açmayı düşünen bir odyolog güncel metinleri ve il sağlık müdürlüğünün uygulamasını izlemelidir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Her cihaz uygulamasında seri numarasını, uygulama tarihini ve verilen yazılı bilgileri kayda geçirin; izlenebilirlik hem hastayı hem sizi korur.",
+   "cumle": 0,
+   "cumleler": [
+    "Sahadan bir ipucu: her cihaz uygulamasında seri numarasını ve uygulama tarihini kayda geçirin.",
+    "Hastaya verdiğiniz kullanım ve bakım bilgilerinin yazılı bir kopyasının dosyada olduğunu kontrol edin.",
+    "Bir arıza ya da şikayet geldiğinde bu kayıtlar, sorunun cihazdan mı ayardan mı kaynaklandığını anlamanızı hızlandırır.",
+    "İzlenebilirlik yalnız bir yükümlülük değil, hastaya güvenli hizmet vermenin de yoludur."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "AB MDR 2017/745 ve Tıbbi Cihaz Yönetmeliği",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "CE işareti, UDI ve ÜTS",
+     "cumle": 1,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Ciddi olumsuz olay Kuruma bildirilir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Merkez: belge, kayıt, onarım yükümlülüğü",
+     "cumle": 3,
+     "ikon": "isitme_cihazi"
+    }
+   ],
+   "cumleler": [
+    "Türkiye'deki Tıbbi Cihaz Yönetmeliği 2021'de yayımlandı ve AB'nin 2017/745 sayılı tüzüğüyle uyumludur.",
+    "Uygun cihazlar CE işareti taşır, tekil cihaz kimliğiyle tanınır ve ÜTS üzerinden izlenir.",
+    "Şüpheli ciddi olumsuz olaylar sağlık profesyonelleri tarafından da Kuruma bildirilebilir; implant kartı hastada kalır.",
+    "İşitme cihazı merkezleri reçete, rapor ya da odyograma dayanarak çalışır, kayıtları beş yıl saklar ve onarımda geçici cihaz sağlar."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "CE işareti ne gösterir?",
+   "secenekler": [
+    "Cihaz hastaya en uygundur",
+    "Gerekliliklere uygunluk",
+    "Ücretsiz garanti",
+    "Sigorta karşılar"
+   ],
+   "dogru": 1,
+   "aciklama": "CE işareti, imalatçının cihazın _yönetmelik gerekliliklerine uygunluğunu_ gösterdiği işarettir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Bir işitme cihazının üzerindeki CE işareti neyi gösterir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: cihazın yönetmelikteki gerekliliklere uygunluğunu.",
+    "İşaret, cihazın o hasta için en doğru seçim olduğunu göstermez; seçim odyolojik değerlendirmeye dayanır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Enfeksiyon kontrolü ve *klinik güvenlik*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste odyoloji kliniğinde enfeksiyon kontrolünü ve klinik güvenliği ele alacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

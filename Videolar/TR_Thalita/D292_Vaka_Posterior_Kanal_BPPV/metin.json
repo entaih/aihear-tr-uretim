@@ -1,0 +1,985 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D292_Vaka_Posterior_Kanal_BPPV_TR",
+ "kapak": {
+  "ust": "DERS 292",
+  "baslik": "Vaka: *posterior*<br>kanal BPPV",
+  "alt": "Dix-Hallpike ve manevra sonrası",
+  "cizim": "vestibuler"
+ },
+ "youtube": {
+  "baslik": "Vaka: Yataktan Kalkarken Dönme: Posterior Kanal BPPV | Ders 292 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir erişkin vakasında posterior kanal BPPV'sini değerlendiriyoruz: öykü ve kırmızı bayraklar, Dix-Hallpike testinde latanslı, yukarı vuran ve torsiyonel nistagmus, etkilenen taraf ve kanalın belirlenmesi, Epley manevrası ve manevra sonrası yeniden değerlendirme.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Bhattacharyya ve ark., Clinical Practice Guideline: Benign Paroxysmal Positional Vertigo (Update), Otolaryngology-Head and Neck Surgery, 2017; Barany Society, Benign Paroxysmal Positional Vertigo: Diagnostic Criteria (2015); Jacobson ve Shepard, Balance Function Assessment and Management.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "BPPV",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "BPPV",
+   "posterior kanal BPPV",
+   "posterior canal BPPV",
+   "Dix-Hallpike",
+   "torsiyonel nistagmus",
+   "torsional nystagmus",
+   "Epley manevrası",
+   "kanalit repozisyonu",
+   "canalith repositioning",
+   "vestibüler vaka",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 292",
+   "baslik": "Vaka: yataktan kalkarken *dönme*",
+   "alt": "Dix-Hallpike, etkilenen taraf, manevra sonrası",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste yataktan kalkarken ve yatakta dönerken başı dönen bir erişkini adım adım değerlendiriyoruz.",
+    "Öyküyü, Dix-Hallpike bulgusunu, etkilenen kanalın ve tarafın belirlenmesini ve manevra sonrası yeniden değerlendirmeyi ele alacağız."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Altmış dört yaşında, örnek bir kadın",
+     "cumle": 0,
+     "ikon": "yasli"
+    },
+    {
+     "metin": "Yatakta sağa dönünce dönme",
+     "cumle": 1,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Her atak yarım dakikadan kısa",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Başını yukarı kaldırınca da",
+     "cumle": 3,
+     "ikon": "goz"
+    },
+    {
+     "metin": "İşitme ve nörolojik yakınma yok",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "saat",
+      "baslik": "Süre",
+      "metin": "Saniyeler",
+      "cumle": 2
+     },
+     {
+      "ikon": "bas_donmesi",
+      "baslik": "Tetik",
+      "metin": "Yatakta dönme",
+      "cumle": 1
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "Eşlik eden",
+      "metin": "Yok",
+      "cumle": 4
+     }
+    ],
+    "ust": "ÖYKÜDE"
+   },
+   "cumleler": [
+    "Vakamız tamamen kurgusal bir örnektir: altmış dört yaşında bir kadın, beş gündür süren baş dönmesi atakları nedeniyle başvuruyor.",
+    "Sabah yataktan kalkarken ve özellikle yatakta sağa döndüğünde etrafın şiddetle döndüğünü söylüyor.",
+    "Her atak yarım dakikadan kısa sürüyor; ataklar arasında yalnız hafif bir dengesizlik ve bulantı hissi var.",
+    "Üst raftan bir şey almak için başını yukarı kaldırdığında da benzer bir atak olmuş.",
+    "İşitmesinde değişiklik, çınlama, baş ağrısı, çift görme, konuşma ya da yutma güçlüğü yok.",
+    "Bu öykü, baş konumuyla tetiklenen kısa ataklarıyla benign paroksismal pozisyonel vertigo, kısaca BPPV'yi düşündürür."
+   ]
+  },
+  {
+   "id": "bayrak",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Önce *kırmızı bayraklar*",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Görme ve konuşma",
+     "metin": "Çift görme, peltek konuşma",
+     "cumle": 0
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Uyuşma, güçsüzlük",
+     "metin": "Yüz, kol, bacak",
+     "cumle": 1
+    },
+    {
+     "ikon": "agri",
+     "baslik": "Ani baş ağrısı",
+     "metin": "Ya da ense ağrısı",
+     "cumle": 2
+    },
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Sürekli dönme",
+     "metin": "Ayakta duramama",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Pozisyonel teste geçmeden önce merkezi bir nedeni düşündüren belirtiler sorulur: çift görme, konuşma ya da yutma bozukluğu.",
+    "Yüzde, kolda ya da bacakta uyuşma ve güçsüzlük de sorgulanır.",
+    "Ani ve şiddetli baş ağrısı ya da ense ağrısı önemli bir uyarıdır.",
+    "Baş hareketsizken de süren baş dönmesi ve ayakta duramama, tablonun BPPV olmadığını düşündürür.",
+    "Bu belirtilerden biri varsa test yapılmaz; kişi acil hekim değerlendirmesine yönlendirilir."
+   ]
+  },
+  {
+   "id": "mekanizma",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü",
+   "baslik": "Neden *baş konumuyla*?",
+   "cizim": "vestibuler",
+   "etiketler": [
+    {
+     "parca": "utrikul",
+     "metin": "Utrikül",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "metin": "Posterior kanal",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "utrikul",
+     "cumle": 0
+    },
+    {
+     "parca": "posterior_kanal",
+     "cumle": 1
+    },
+    {
+     "parca": "ampulla",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "BPPV'de utrikülden kopan otokonya, yani kalsiyum kristalleri, bir yarım daire kanalına girer.",
+    "Yer çekimi yönünde en kolay ulaşılan kanal posterior kanaldır; bu yüzden en sık tutulan kanal odur.",
+    "Baş belirli bir konuma geldiğinde kristaller kanal içinde kayar ve sıvıyı sürükler.",
+    "Sıvının akışı kupulayı saptırır; bu da kısa süreli ama şiddetli bir dönme hissi ve nistagmus oluşturur.",
+    "Kristaller durduğunda akış ve belirtiler de durur; atakların kısa olması bu yüzdendir."
+   ]
+  },
+  {
+   "id": "hazirlik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Pozisyonel test",
+   "baslik": "Teste *hazırlık*",
+   "maddeler": [
+    {
+     "metin": "Spontan ve bakış nistagmusu yok",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Boyun ve sırt sorgusu",
+     "cumle": 1,
+     "ikon": "agri"
+    },
+    {
+     "metin": "Video gözlük, fiksasyon kalkar",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Hastaya ne olacağını anlat",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Odyogram: yaşa uygun, simetrik",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 4,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        15,
+        15,
+        20,
+        25,
+        35,
+        45
+       ],
+       "cumle": 4
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        15,
+        20,
+        20,
+        25,
+        35,
+        45
+       ],
+       "cumle": 4
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Oturur konumda video gözlükle bakılıyor: kendiliğinden nistagmus ve bakış nistagmusu yok.",
+    "Boyun ağrısı, boyun ya da sırt ameliyatı ve hareket kısıtlılığı sorgulanıyor; engel yok.",
+    "Video gözlük görsel fiksasyonu kaldırır; özellikle torsiyonel bileşen çok daha kolay görülür.",
+    "Hastaya testte kısa bir dönme hissi olabileceği, düşmeye karşı desteklendiği ve gözlerini açık tutması gerektiği anlatılıyor.",
+    "Odyogramda iki kulakta yaşa uygun, simetrik ve tize doğru hafif bir kayıp var; tek taraflı yeni bir kayıp yok."
+   ]
+  },
+  {
+   "id": "duzlem",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Pozisyonel test",
+   "baslik": "Neden *kırk beş* derece?",
+   "cizim": "kanal_duzlemleri",
+   "ayar": {
+    "goster": [
+     "larp"
+    ],
+    "cift_cumleleri": {
+     "larp": 1
+    },
+    "donus": 45,
+    "donus_cumle": 2
+   },
+   "cumleler": [
+    "Posterior kanal, başın orta hattına göre yaklaşık kırk beş derece eğik bir düzlemde durur.",
+    "Sağ posterior kanal, sol anterior kanalla aynı düzlemdedir; bu düzleme LARP düzlemi denir.",
+    "Baş sağa kırk beş derece çevrildiğinde sağ posterior kanalın düzlemi gövdenin ön arka düzlemine hizalanır.",
+    "Hasta bu konumda geriye yatırıldığında kanal tam yer çekimi yönünde döner ve kristaller hareket eder.",
+    "Dix-Hallpike testinde aşağıda kalan kulağın posterior kanalı test edilir."
+   ]
+  },
+  {
+   "id": "dix",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Pozisyonel test",
+   "baslik": "Sağ *Dix-Hallpike*",
+   "cumleler": [
+    "Hasta muayene masasında, bacakları uzatılmış biçimde oturur.",
+    "Baş sağa kırk beş derece çevrilir.",
+    "Hasta hızla sırtüstü yatırılır; baş masanın kenarından yaklaşık yirmi derece geride, desteklenerek tutulur.",
+    "Gözler en az otuz saniye, nistagmus görülürse yanıt bitene kadar izlenir ve kaydedilir.",
+    "Ardından hasta yavaşça oturtulur ve gözler yeniden izlenir."
+   ],
+   "cizim": "dix_hallpike",
+   "ayar": {
+    "taraf": "sag",
+    "donus_cumle": 1,
+    "yatis_cumle": 2,
+    "goz_cumle": 3,
+    "oturma_cumle": 4
+   }
+  },
+  {
+   "id": "bulgu",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Pozisyonel test",
+   "baslik": "Sağda *latanslı* nistagmus",
+   "cizim": "goz_nistagmus",
+   "ayar": {
+    "dikey": "yukari",
+    "torsiyon": "sag",
+    "kulak": "sag",
+    "dikey_cumle": 2,
+    "torsiyon_cumle": 2,
+    "kulak_cumle": 2,
+    "grafik": {
+     "x": {
+      "min": 0,
+      "max": 45,
+      "ad": "Zaman (sn)",
+      "isaretler": [
+       0,
+       10,
+       20,
+       30,
+       40
+      ]
+     },
+     "y": {
+      "min": -10,
+      "max": 30,
+      "adim": 10,
+      "ad": "Yavaş faz hızı (derece/sn)"
+     },
+     "seriler": [
+      {
+       "ad": "nistagmus",
+       "noktalar": [
+        [
+         0,
+         0
+        ],
+        [
+         3,
+         0
+        ],
+        [
+         4,
+         6
+        ],
+        [
+         6,
+         18
+        ],
+        [
+         8,
+         24
+        ],
+        [
+         10,
+         22
+        ],
+        [
+         13,
+         15
+        ],
+        [
+         17,
+         7
+        ],
+        [
+         21,
+         2
+        ],
+        [
+         24,
+         0
+        ]
+       ],
+       "renk": "kirmizi",
+       "yumusak": true,
+       "kalin": true,
+       "etiket": "yukarı vuran ve torsiyonel",
+       "cumle": 2
+      },
+      {
+       "ad": "oturma",
+       "noktalar": [
+        [
+         30,
+         0
+        ],
+        [
+         32,
+         -6
+        ],
+        [
+         35,
+         -4
+        ],
+        [
+         39,
+         0
+        ],
+        [
+         45,
+         0
+        ]
+       ],
+       "renk": "lacivert",
+       "yumusak": true,
+       "kesik": true,
+       "etiket": "oturunca: ters yön",
+       "cumle": 5
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "yatis",
+       "x": 0,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "baş askıda",
+       "cumle": 0
+      },
+      {
+       "ad": "oturus",
+       "x": 30,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "oturuş",
+       "cumle": 5
+      }
+     ],
+     "araliklar": [
+      {
+       "ad": "latans",
+       "x": [
+        0,
+        3
+       ],
+       "y": 26,
+       "etiket": "latans",
+       "cumle": 1
+      },
+      {
+       "ad": "sure",
+       "x": [
+        3,
+        24
+       ],
+       "y": 28,
+       "etiket": "yaklaşık 20 sn",
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "notlar": [
+    {
+     "metin": "Latans: _yaklaşık üç saniye_",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Yön: _yukarı ve torsiyonel_",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Süre: _bir dakikadan kısa_",
+     "cumle": 3,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Sağ Dix-Hallpike konumuna gelir gelmez nistagmus başlamıyor.",
+    "Yaklaşık üç saniyelik bir gecikmeden, yani latanstan sonra nistagmus ortaya çıkıyor.",
+    "Nistagmusun hızlı fazı yukarı, yani alına doğru vuruyor; torsiyonel bileşende gözün üst kutbu aşağıda kalan sağ kulağa doğru vuruyor.",
+    "Nistagmus önce artıyor, sonra azalıyor ve yaklaşık yirmi saniyede sönüyor; hasta aynı sürede dönme hissediyor.",
+    "Grafikte bu seyri yavaş faz hızının zamanla değişimi olarak görüyoruz.",
+    "Hasta oturtulduğunda kısa süre ters yönde, daha zayıf bir nistagmus görülüyor.",
+    "Latans, kısa süre ve önce artıp sonra azalan seyir, posterior kanal kanalolitiazisi için tipiktir."
+   ]
+  },
+  {
+   "id": "taraf",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Pozisyonel test",
+   "baslik": "Hangi *kanal*, hangi taraf?",
+   "ogeler": [
+    {
+     "ikon": "dogru",
+     "baslik": "Sağ Dix-Hallpike",
+     "metin": "Tipik yanıt, vertigo",
+     "cumle": 0
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Sol Dix-Hallpike",
+     "metin": "Nistagmus yok",
+     "cumle": 1
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Supine roll",
+     "metin": "Yatay nistagmus yok",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Sonuç",
+     "metin": "Sağ posterior kanal",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Sağ Dix-Hallpike'ta tipik yanıt ve vertigo var.",
+    "Sol Dix-Hallpike'ta, yeterli bir aradan sonra yapılan testte nistagmus yok.",
+    "Lateral kanalı değerlendiren supine roll testinde yatay bir nistagmus görülmüyor.",
+    "Bulgular sağ posterior kanal BPPV'si (posterior canal BPPV), kanalolitiazis tipiyle uyumludur; tanıyı hekim koyar.",
+    "Testleri arka arkaya çok hızlı tekrarlamamak gerekir; yorulma nedeniyle ikinci testte yanıt kaybolabilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Kısa torsiyonel nistagmusu video kaydıyla doğrulayın. Yanıt tipik değilse manevra yapmayın, hekime yönlendirin.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: kısa süren torsiyonel nistagmusun yönü kayıtta çok daha net görülür; testi mümkünse video olarak kaydedin.",
+    "Kayıt, hangi tarafın tutulduğu konusundaki kararı ve sonraki karşılaştırmaları güçlendirir.",
+    "Nistagmus latanssız, yorulmayan ya da saf aşağı vuran ise tablo tipik BPPV'ye uymaz.",
+    "Böyle bir durumda manevra yapılmaz; bulgular kaydedilir ve hasta hekim değerlendirmesine yönlendirilir."
+   ]
+  },
+  {
+   "id": "epley",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Manevra",
+   "baslik": "Sağ *Epley* manevrası",
+   "adimlar": [
+    {
+     "ikon": "bas_donmesi",
+     "baslik": "Baş sağa",
+     "metin": "Dix-Hallpike konumu",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Baş sola",
+     "metin": "Doksan derece",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Sol yana dön",
+     "metin": "Yüz yere bakar",
+     "cumle": 2
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Yavaşça otur",
+     "metin": "Çene hafif aşağıda",
+     "cumle": 3
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Her konumda",
+     "metin": "Nistagmus sönene dek",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kanalit repozisyon manevrası (canalith repositioning procedure), kristalleri kanaldan çıkarıp utriküle geri göndermeyi amaçlar.",
+    "Epley manevrasının ilk adımı sağ Dix-Hallpike konumudur; nistagmus ve dönme hissi geçene kadar beklenir.",
+    "Ardından baş, geride tutulmaya devam ederek yavaşça doksan derece sola çevrilir.",
+    "Sonra hasta sol yanına döner ve baş doksan derece daha döndürülerek yüz yere bakar hale gelir.",
+    "Son olarak hasta yavaşça oturur konuma getirilir; her konumda nistagmus sönene kadar beklenir.",
+    "Manevrayı kimin yapacağı ülkeden ülkeye değişir; uygun hastada, yetkili ve eğitimli bir klinisyen tarafından yapılır."
+   ]
+  },
+  {
+   "id": "gozlem",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Manevra",
+   "baslik": "Manevra *sırasında* gözlem",
+   "maddeler": [
+    {
+     "metin": "İkinci konumda aynı yönde nistagmus",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ters yön: kristal geri kayıyor olabilir",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Tip değişirse kanal dönüşümü",
+     "cumle": 3,
+     "ikon": "soru"
+    },
+    {
+     "metin": "Hasta her an desteklenir",
+     "cumle": 4,
+     "ikon": "dokunma"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "vestibuler",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "crus_commune",
+      "metin": "Ortak bacak",
+      "cumle": 1
+     },
+     {
+      "parca": "utrikul",
+      "metin": "Utrikül",
+      "cumle": 1
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "posterior_kanal",
+      "cumle": 0
+     },
+     {
+      "parca": "crus_commune",
+      "cumle": 1
+     },
+     {
+      "parca": "utrikul",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Manevra sırasında gözler video gözlükle izlenmeye devam eder; vakamızda ikinci konumda da kısa bir nistagmus görülüyor.",
+    "Bu nistagmusun ilk konumdakiyle aynı yönde olması, kristallerin doğru yönde ilerlediğinin işareti olarak bildirilmiştir.",
+    "Ters yönde bir nistagmus ise kristallerin ampullaya doğru geri kaydığını düşündürebilir.",
+    "Nistagmusun tipi değişirse kristaller başka bir kanala geçmiş olabilir; buna kanal dönüşümü denir ve yeni kanal belirlenir.",
+    "Manevra boyunca hasta düşmeye karşı desteklenir ve bulantısı sorulur."
+   ]
+  },
+  {
+   "id": "sonra",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yeniden değerlendirme",
+   "baslik": "Manevradan *sonra*",
+   "adimlar": [
+    {
+     "ikon": "goz",
+     "baslik": "Yeniden test",
+     "metin": "Aynı seansta ya da sonra",
+     "cumle": 0
+    },
+    {
+     "ikon": "dogru",
+     "baslik": "Kısıtlama",
+     "metin": "Rutin önerilmez",
+     "cumle": 1
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Hafif dengesizlik",
+     "metin": "Birkaç gün sürebilir",
+     "cumle": 2
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "Kontrol",
+     "metin": "Yaklaşık bir ay içinde",
+     "cumle": 3
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Yineleme",
+     "metin": "Yeniden başvurabilir",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kısa bir aradan sonra sağ Dix-Hallpike tekrarlanıyor; nistagmus ve vertigo yok, sonuç kaydediliyor.",
+    {
+     "yazi": "Amerikan KBB Akademisinin 2017 kılavuzu, posterior kanal manevrasından sonra rutin baş ya da yatış kısıtlaması önermez.",
+     "ses": "Amerikan KBB Akademisinin iki bin on yedi kılavuzu, posterior kanal manevrasından sonra rutin baş ya da yatış kısıtlaması önermez."
+    },
+    "Başarılı bir manevradan sonra bile birkaç gün ile birkaç hafta süren hafif bir dengesizlik hissi kalabileceği hastaya anlatılıyor.",
+    "Kılavuz, ilk tedaviden sonra yaklaşık bir ay içinde hastanın yeniden değerlendirilmesini önerir.",
+    "BPPV'nin yineleyebileceği ve yeni bir atakta yeniden başvurabileceği de hastaya söyleniyor."
+   ]
+  },
+  {
+   "id": "duzelmezse",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yeniden değerlendirme",
+   "baslik": "Düzelmezse *ne* yapılır?",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Tekrar test",
+     "metin": "Taraf ve kanal doğru mu?",
+     "cumle": 0
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Başka kanal",
+     "metin": "Kanal dönüşümü olabilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Hekim",
+     "metin": "Santral neden araştırılır",
+     "cumle": 2
+    },
+    {
+     "ikon": "denge",
+     "baslik": "Rehabilitasyon",
+     "metin": "Kalan dengesizlik için",
+     "cumle": 3
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Düşme riski",
+     "metin": "Evde güvenlik",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bir ay sonraki kontrolde yakınmalar sürüyorsa önce pozisyonel testler yeniden yapılır; taraf ve kanal yeniden gözden geçirilir.",
+    "Nistagmusun tipi değişmişse başka bir kanal tutulmuş olabilir ve ona uygun manevra seçilir.",
+    "Tablo tipik değilse ya da tekrarlanan manevralara yanıt yoksa hasta santral nedenler açısından hekime yönlendirilir.",
+    "Pozisyonel nistagmus geçtiği halde dengesizlik sürüyorsa vestibüler rehabilitasyon yarar sağlayabilir.",
+    "Yaşlı hastalarda düşme riski değerlendirilir ve evde güvenlik önlemleri konuşulur."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yeniden değerlendirme",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "Spontan ve bakış nistagmusu yok",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Sağ Dix-Hallpike: tipik yanıt",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Sol ve supine roll negatif",
+     "cumle": 2,
+     "ikon": "yanlis"
+    },
+    {
+     "metin": "Sağ Epley, sonrasında negatif",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Bir ay içinde kontrol",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "grafik",
+    "cumle": 1,
+    "ayar": {
+     "x": {
+      "min": 0,
+      "max": 45,
+      "ad": "Zaman (sn)",
+      "isaretler": [
+       0,
+       10,
+       20,
+       30,
+       40
+      ]
+     },
+     "y": {
+      "min": -10,
+      "max": 30,
+      "adim": 10,
+      "ad": "Yavaş faz hızı (derece/sn)"
+     },
+     "seriler": [
+      {
+       "ad": "nistagmus",
+       "noktalar": [
+        [
+         0,
+         0
+        ],
+        [
+         3,
+         0
+        ],
+        [
+         4,
+         6
+        ],
+        [
+         6,
+         18
+        ],
+        [
+         8,
+         24
+        ],
+        [
+         10,
+         22
+        ],
+        [
+         13,
+         15
+        ],
+        [
+         17,
+         7
+        ],
+        [
+         21,
+         2
+        ],
+        [
+         24,
+         0
+        ]
+       ],
+       "renk": "kirmizi",
+       "yumusak": true,
+       "kalin": true,
+       "etiket": "yukarı vuran ve torsiyonel",
+       "cumle": 2
+      }
+     ],
+     "isaretler": [
+      {
+       "ad": "yatis",
+       "x": 0,
+       "y": 0,
+       "cizgi": "dikey",
+       "etiket": "baş askıda",
+       "cumle": 0
+      }
+     ],
+     "araliklar": [
+      {
+       "ad": "latans",
+       "x": [
+        0,
+        3
+       ],
+       "y": 26,
+       "etiket": "latans",
+       "cumle": 1
+      },
+      {
+       "ad": "sure",
+       "x": [
+        3,
+        24
+       ],
+       "y": 28,
+       "etiket": "yaklaşık 20 sn",
+       "cumle": 3
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Örnek rapor dili: video gözlükle spontan ve bakış nistagmusu saptanmadı.",
+    "Sağ Dix-Hallpike'ta yaklaşık üç saniye latanslı, yukarı vuran ve torsiyonel, yaklaşık yirmi saniye süren nistagmus ve vertigo izlendi.",
+    "Sol Dix-Hallpike ve supine roll testinde nistagmus saptanmadı; bulgular sağ posterior kanal BPPV'si ile uyumludur.",
+    "Sağ Epley manevrası uygulandı; tekrar sağ Dix-Hallpike'ta nistagmus saptanmadı.",
+    "Yaklaşık bir ay içinde yeniden değerlendirme önerilir; belirtiler değişirse daha erken başvurması istendi."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Kısa, konumla tetiklenen atak: BPPV düşün",
+     "cumle": 0,
+     "ikon": "bas_donmesi"
+    },
+    {
+     "metin": "Latanslı, yukarı vuran, torsiyonel nistagmus",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Aşağıdaki kulak etkilenen taraftır",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Manevradan sonra yeniden test, kontrol",
+     "cumle": 3,
+     "ikon": "takvim"
+    }
+   ],
+   "cumleler": [
+    "Yatakta dönerken ya da kalkarken saniyeler süren ataklar posterior kanal BPPV'sini düşündürür; önce kırmızı bayraklar sorulur.",
+    "Dix-Hallpike'ta birkaç saniye latanslı, yukarı vuran, torsiyonel ve bir dakikadan kısa nistagmus tipik bulgudur.",
+    "Tipik yanıtın görüldüğü testte aşağıda kalan kulak etkilenen taraftır; torsiyonun yönü de bu kulağa doğrudur.",
+    "Manevradan sonra test tekrarlanır, rutin kısıtlama önerilmez ve yaklaşık bir ay içinde yeniden değerlendirme yapılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Sol Dix-Hallpike'ta tipik yanıt var. Hangi kanal?",
+   "secenekler": [
+    "Sağ posterior",
+    "Sol posterior",
+    "Sol lateral",
+    "Sağ anterior"
+   ],
+   "dogru": 1,
+   "aciklama": "Dix-Hallpike'ta _aşağıda kalan kulağın_ posterior kanalı test edilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Sol Dix-Hallpike'ta latanslı, yukarı vuran ve torsiyonel nistagmus var. Hangi kanal düşünülür?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: sol posterior kanal.",
+    "Bu testte aşağıda kalan kulağın posterior kanalı test edilir; yukarı vuran torsiyonel nistagmus posterior kanalı gösterir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: akut vestibüler sendrom: *periferik mi merkezi mi*?",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki vakada aniden başlayıp günlerce süren baş dönmesini ve periferik ile merkezi nedenlerin ayrımını inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

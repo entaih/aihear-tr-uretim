@@ -1,0 +1,1264 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D200_Orta_Latans_Yanitlari_MLR_TR",
+ "kapak": {
+  "ust": "DERS 200",
+  "baslik": "Orta latans<br>*yanıtları*",
+  "alt": "MLR: Na ve Pa dalgaları",
+  "cizim": "grafik",
+  "ayar": {
+   "x": {
+    "min": 0,
+    "max": 80,
+    "ad": "Zaman (ms)",
+    "isaretler": [
+     0,
+     10,
+     20,
+     30,
+     40,
+     50,
+     60,
+     70,
+     80
+    ]
+   },
+   "y": {
+    "min": -1.2,
+    "max": 1.2,
+    "adim": 0.5,
+    "ad": "Genlik (µV)",
+    "ond": 1
+   },
+   "seriler": [
+    {
+     "ad": "mlr",
+     "noktalar": [
+      [
+       0,
+       0
+      ],
+      [
+       3,
+       0.1
+      ],
+      [
+       6,
+       0.25
+      ],
+      [
+       8,
+       0.1
+      ],
+      [
+       12,
+       -0.2
+      ],
+      [
+       18,
+       -0.6
+      ],
+      [
+       23,
+       -0.1
+      ],
+      [
+       30,
+       0.75
+      ],
+      [
+       36,
+       0.2
+      ],
+      [
+       42,
+       -0.45
+      ],
+      [
+       47,
+       0.0
+      ],
+      [
+       52,
+       0.5
+      ],
+      [
+       60,
+       0.1
+      ],
+      [
+       70,
+       0
+      ],
+      [
+       80,
+       0
+      ]
+     ],
+     "renk": "lacivert",
+     "yumusak": true,
+     "kalin": true,
+     "cumle": 0
+    }
+   ],
+   "isaretler": [
+    {
+     "ad": "abr_v",
+     "x": 6,
+     "y": 0.25,
+     "etiket": "ABR V",
+     "cumle": 1
+    },
+    {
+     "ad": "na",
+     "x": 18,
+     "y": -0.6,
+     "etiket": "Na",
+     "cumle": 2
+    },
+    {
+     "ad": "pa",
+     "x": 30,
+     "y": 0.75,
+     "etiket": "Pa",
+     "cumle": 3
+    },
+    {
+     "ad": "nb",
+     "x": 42,
+     "y": -0.45,
+     "etiket": "Nb",
+     "cumle": 4
+    },
+    {
+     "ad": "pb",
+     "x": 52,
+     "y": 0.5,
+     "etiket": "Pb",
+     "cumle": 4
+    }
+   ],
+   "araliklar": [
+    {
+     "ad": "na_pa",
+     "y": [
+      -0.6,
+      0.75
+     ],
+     "xk": 33,
+     "etiket": "Na-Pa genliği",
+     "cumle": 5
+    }
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Orta latans yanıtları (MLR) | Ders 200 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Orta latans yanıtı nedir, nereden kaynaklanır? Bu derste MLR'nin Na ve Pa dalgalarını, talamokortikal kaynaklarını, kayıt yöntemini ve kas artefaktını, uyku, yaş ve sedasyonun etkisini, kırk hertz yanıtını ve klinik kullanım alanlarını öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Hall, New Handbook of Auditory Evoked Responses; Katz, Handbook of Clinical Audiology; Kraus ve ark., Auditory middle latency responses in children: effects of age and diagnostic category, Electroencephalography and Clinical Neurophysiology (1985); Galambos, Makeig ve Talmachoff, A 40-Hz auditory potential recorded from the human scalp, PNAS (1981).\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "MLR",
+   "elektrofizyoloji"
+  ],
+  "etiketler": [
+   "orta latans yanıtı",
+   "middle latency response",
+   "MLR",
+   "Pa dalgası",
+   "Na dalgası",
+   "talamokortikal",
+   "kulak arkası kası",
+   "40 Hz yanıtı",
+   "işitsel uyarılmış potansiyel",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 200",
+   "baslik": "Orta latans *yanıtları*",
+   "alt": "MLR: Na ve Pa dalgaları",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste beyin sapının ötesine geçiyor ve orta latans yanıtlarını, kısaca MLR'yi öğreniyoruz.",
+    {
+     "yazi": "Na ve Pa dalgalarını, talamokortikal kaynaklarını, uyku, yaş ve sedasyonun etkisini ve klinik kullanımını ele alacağız.",
+     "ses": "ne a ve pe a dalgalarını, talamokortikal kaynaklarını, uyku, yaş ve sedasyonun etkisini ve klinik kullanımını ele alacağız."
+    }
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "MLR nedir?",
+   "baslik": "Yanıtların *zaman çizelgesi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 500,
+     "log": true,
+     "ad": "Uyarandan sonra zaman (ms, logaritmik)",
+     "isaretler": [
+      1,
+      10,
+      50,
+      100,
+      500
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "adim": 1,
+     "ad": ""
+    },
+    "bolgeler": [
+     {
+      "ad": "ecochg",
+      "x": [
+       1,
+       3
+      ],
+      "renk": "gri",
+      "etiket": "ECochG",
+      "cumle": 1
+     },
+     {
+      "ad": "abr",
+      "x": [
+       1.5,
+       10
+      ],
+      "renk": "lacivert",
+      "etiket": "ABR",
+      "cumle": 1
+     },
+     {
+      "ad": "mlr",
+      "x": [
+       10,
+       60
+      ],
+      "renk": "mavi",
+      "etiket": "MLR",
+      "cumle": 2
+     },
+     {
+      "ad": "gec",
+      "x": [
+       60,
+       500
+      ],
+      "renk": "sari",
+      "etiket": "Kortikal yanıtlar",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "ABR: yaklaşık 10 ms'ye kadar",
+     "cumle": 1,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "MLR: yaklaşık 10 ile 50 ms",
+     "cumle": 2,
+     "ikon": "beyin"
+    }
+   ],
+   "cumleler": [
+    "İşitsel uyarılmış potansiyelleri, uyarandan sonra ortaya çıktıkları zamana göre sıralamıştık.",
+    "İlk milisaniyelerde elektrokokleografi yanıtları, ardından yaklaşık on milisaniyeye kadar işitsel beyin sapı yanıtı, yani ABR gelir.",
+    "Orta latans yanıtı (middle latency response), kısaca MLR, yaklaşık on ile elli milisaniye arasında görülür.",
+    "Adı da buradan gelir: beyin sapı yanıtıyla kortikal yanıtlar arasında, orta bir zaman diliminde yer alır.",
+    "Daha sonra, elli ile üç yüz milisaniye arasında, giriş dersinde sınıfladığımız kortikal yanıtlar ortaya çıkar.",
+    "Yanıt geciktikçe kaynağı işitme yolunda daha yukarıdadır; MLR bu yüzden beyin sapı ile korteks arasındaki bir köprüdür."
+   ]
+  },
+  {
+   "id": "dalgalar",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "MLR nedir?",
+   "baslik": "Na, Pa ve *Pb*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 80,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      10,
+      20,
+      30,
+      40,
+      50,
+      60,
+      70,
+      80
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.5,
+     "ad": "Genlik (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "mlr",
+      "noktalar": [
+       [
+        0,
+        0
+       ],
+       [
+        3,
+        0.1
+       ],
+       [
+        6,
+        0.25
+       ],
+       [
+        8,
+        0.1
+       ],
+       [
+        12,
+        -0.2
+       ],
+       [
+        18,
+        -0.6
+       ],
+       [
+        23,
+        -0.1
+       ],
+       [
+        30,
+        0.75
+       ],
+       [
+        36,
+        0.2
+       ],
+       [
+        42,
+        -0.45
+       ],
+       [
+        47,
+        0.0
+       ],
+       [
+        52,
+        0.5
+       ],
+       [
+        60,
+        0.1
+       ],
+       [
+        70,
+        0
+       ],
+       [
+        80,
+        0
+       ]
+      ],
+      "renk": "lacivert",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "abr_v",
+      "x": 6,
+      "y": 0.25,
+      "etiket": "ABR V",
+      "cumle": 1
+     },
+     {
+      "ad": "na",
+      "x": 18,
+      "y": -0.6,
+      "etiket": "Na",
+      "cumle": 2
+     },
+     {
+      "ad": "pa",
+      "x": 30,
+      "y": 0.75,
+      "etiket": "Pa",
+      "cumle": 3
+     },
+     {
+      "ad": "nb",
+      "x": 42,
+      "y": -0.45,
+      "etiket": "Nb",
+      "cumle": 4
+     },
+     {
+      "ad": "pb",
+      "x": 52,
+      "y": 0.5,
+      "etiket": "Pb",
+      "cumle": 4
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "na_pa",
+      "y": [
+       -0.6,
+       0.75
+      ],
+      "xk": 33,
+      "etiket": "Na-Pa genliği",
+      "cumle": 5
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Na: yaklaşık 18 ms",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Pa: yaklaşık 30 ms",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Genlik: yaklaşık 1 µV",
+     "cumle": 6,
+     "ikon": "ses_dalgasi"
+    }
+   ],
+   "cumleler": [
+    "Ekrandaki şematik eğri, erişkinde bir klik uyaranla kaydedilen orta latans yanıtını gösteriyor.",
+    "En başta küçük bir tepe olarak ABR'nin beşinci dalgası görülür.",
+    {
+     "yazi": "Ardından yaklaşık on sekiz milisaniyede negatif bir çukur gelir; buna Na dalgası denir.",
+     "ses": "Ardından yaklaşık on sekiz milisaniyede negatif bir çukur gelir; buna ne a dalgası denir."
+    },
+    {
+     "yazi": "En belirgin bileşen, yaklaşık otuz milisaniyedeki pozitif Pa dalgasıdır (Pa wave).",
+     "ses": "En belirgin bileşen, yaklaşık otuz milisaniyedeki pozitif pe a dalgasıdır."
+    },
+    {
+     "yazi": "Daha sonra yaklaşık kırk milisaniyede Nb, elli milisaniyede Pb görülebilir; Pb çoğu kaynakta kortikal P1 ile aynı dalgadır.",
+     "ses": "Daha sonra yaklaşık kırk milisaniyede ne be, elli milisaniyede pe be görülebilir; pe be çoğu kaynakta kortikal P1 ile aynı dalgadır."
+    },
+    {
+     "yazi": "Klinikte en çok Pa dalgasının varlığı, latansı ve Na ile Pa arasındaki genlik kullanılır.",
+     "ses": "Klinikte en çok pe a dalgasının varlığı, latansı ve ne a ile pe a arasındaki genlik kullanılır."
+    },
+    "Genlik yaklaşık bir mikrovolt düzeyindedir; ABR'den büyük, kortikal yanıtlardan küçüktür."
+   ]
+  },
+  {
+   "id": "kaynak",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kaynaklar",
+   "baslik": "Talamokortikal *kaynaklar*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "metin": "medial genikulat cisim",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "işitsel korteks",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 1
+    },
+    {
+     "parca": "mgb",
+     "cumle": 2
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "MLR'nin kaynakları, beyin sapının üst bölümünden işitsel kortekse uzanan yolun üzerindedir.",
+    {
+     "yazi": "Na dalgasına beyin sapının üst bölümündeki yapıların, özellikle inferior kollikulusun ve talamusun katkı verdiği düşünülür.",
+     "ses": "ne a dalgasına beyin sapının üst bölümündeki yapıların, özellikle inferior kollikulusun ve talamusun katkı verdiği düşünülür."
+    },
+    "Talamustaki işitsel durak, medial genikulat cisimdir; buradan çıkan lifler işitsel kortekse ulaşır.",
+    {
+     "yazi": "Pa dalgasının ana kaynağı, temporal lobdaki birincil işitsel korteks, yani Heschl girusu ve çevresidir.",
+     "ses": "pe a dalgasının ana kaynağı, temporal lobdaki birincil işitsel korteks, yani Heschl girusu ve çevresidir."
+    },
+    "Talamus ile korteks arasındaki bu bağlantılara talamokortikal (thalamocortical) yol denir.",
+    {
+     "yazi": "Pa'ya, uyanıklığı düzenleyen ve beynin derinlerinden gelen ağların da katkı verdiği düşünülür; bu, uyku etkisini açıklar.",
+     "ses": "pe a'ya, uyanıklığı düzenleyen ve beynin derinlerinden gelen ağların da katkı verdiği düşünülür; bu, uyku etkisini açıklar."
+    }
+   ]
+  },
+  {
+   "id": "korteks",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Kaynaklar",
+   "baslik": "*Heschl girusu*",
+   "cizim": "beyin_yan",
+   "ayar": {
+    "loblar": true,
+    "yarik_acik": true,
+    "acilma_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "temporal_lob",
+     "metin": "temporal lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "metin": "Heschl girusu",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "temporal_lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "cumle": 1
+    }
+   ],
+   "cumleler": [
+    "Birincil işitsel korteks, temporal lobun üst yüzünde, lateral yarığın derinliğinde yer alır.",
+    "Bu bölge, lateral yarık açıldığında görülen Heschl girusudur.",
+    "Her iki yarıkürenin işitsel korteksi de yanıta katkı verir; bu yüzden MLR tek kulak uyarılsa da iki taraftan kaydedilebilir.",
+    "Bir yarıkürenin temporal lobunda hasar varsa, o tarafın üzerine konan elektrotta yanıt küçülebilir.",
+    "Bu bilgi, birazdan göreceğimiz klinik kullanımların temelidir."
+   ]
+  },
+  {
+   "id": "kayit",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kayıt",
+   "baslik": "Kayıt *nasıl* yapılır?",
+   "adimlar": [
+    {
+     "ikon": "hasta",
+     "baslik": "Uyanık, rahat",
+     "metin": "Gözler kapalı",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Elektrotlar",
+     "metin": "Cz, C3, C4",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Uyaran",
+     "metin": "Klik ya da tonburst",
+     "cumle": 3
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Pencere ve filtre",
+     "metin": "Yaklaşık 100 ms",
+     "cumle": 4
+    },
+    {
+     "ikon": "tablo",
+     "baslik": "Ortalama",
+     "metin": "Yüzlerce tekrar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "MLR kaydında kişi uyanık, rahat ve sakindir; gözler kapalı, boyun ve çene kasları gevşektir.",
+    "Aktif elektrot başın tepesine, yani Cz noktasına konur; referans elektrot kulak memesi ya da mastoide yerleştirilir.",
+    {
+     "yazi": "Yarıküreleri karşılaştırmak için iki yandaki C3 ve C4 noktalarına da elektrot konabilir; elektrot sistemini daha önce görmüştük.",
+     "ses": "Yarıküreleri karşılaştırmak için iki yandaki ce üç ve ce dört noktalarına da elektrot konabilir; elektrot sistemini daha önce görmüştük."
+    },
+    "Uyaran klik ya da daha alçak frekansları uyaran kısa tonburstlerdir.",
+    "Analiz penceresi ABR'den uzundur, yaklaşık yüz milisaniye seçilir; filtre de daha yavaş dalgaları geçirecek biçimde ayarlanır.",
+    "Sık kullanılan bir ayar yaklaşık on ile iki yüz hertz arasıdır; çok dar filtre ise dalgaları bozabilir ve sahte tepeler yaratabilir.",
+    "Yanıt birkaç yüz ile bin arasında tekrarın ortalamasıyla elde edilir ve kayıt mutlaka tekrarlanır."
+   ]
+  },
+  {
+   "id": "pam",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kayıt",
+   "baslik": "*Kas* artefaktı",
+   "maddeler": [
+    {
+     "metin": "Kulak arkası kası: yaklaşık 13 ms",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Pa ile karışabilir",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Baş desteklenir, boyun gevşek",
+     "cumle": 3,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "Kulak memesi referansı yardımcı",
+     "cumle": 4,
+     "ikon": "dogru"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "uyari",
+      "baslik": "Kas yanıtı",
+      "metin": "Büyük, sivri, erken",
+      "cumle": 1
+     },
+     {
+      "ikon": "noron",
+      "baslik": "Beyin yanıtı",
+      "metin": "Daha küçük, yuvarlak",
+      "cumle": 1
+     }
+    ],
+    "ust": "AYIRT ET"
+   },
+   "cumleler": [
+    "MLR'nin en bilinen tuzağı, kulak arkası kasının (postauricular muscle) sese verdiği refleks kasılmadır.",
+    {
+     "yazi": "Bu kas yanıtı yaklaşık on üç milisaniyede ortaya çıkar, genliği büyüktür ve Na-Pa bölgesine karışarak yanıltıcı bir dalga oluşturabilir.",
+     "ses": "Bu kas yanıtı yaklaşık on üç milisaniyede ortaya çıkar, genliği büyüktür ve ne a-pe a bölgesine karışarak yanıltıcı bir dalga oluşturabilir."
+    },
+    "Kas yanıtı özellikle yüksek uyaran şiddetinde, gergin ve başını tutan kişilerde artar.",
+    "Kişinin başı desteklenir ve boynunu gevşetmesi istenir; kayıt sırasında ekrandaki ham sinyal izlenir.",
+    "Referans elektrodun mastoid yerine kulak memesine konması ve uyaran şiddetinin aşırı yüksek tutulmaması da artefaktı azaltır.",
+    {
+     "yazi": "Kas yanıtı gerçek bir Pa sanılırsa santral bir sorun gözden kaçabilir; bu yüzden dikkatle ayırt edilir.",
+     "ses": "Kas yanıtı gerçek bir pe a sanılırsa santral bir sorun gözden kaçabilir; bu yüzden dikkatle ayırt edilir."
+    }
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kayıt",
+   "baslik": "Neler *etkiler?*",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Yaş",
+     "metin": "Çocukta değişken",
+     "cumle": 0
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Uyku",
+     "metin": "Evreye göre değişir",
+     "cumle": 3
+    },
+    {
+     "ikon": "ilac",
+     "baslik": "Sedasyon",
+     "metin": "Yanıtı baskılar",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "MLR, ABR'den farklı olarak kişinin yaşından ve durumundan belirgin biçimde etkilenir.",
+    {
+     "yazi": "Talamokortikal yollar çocuklukta olgunlaşmaya devam eder; küçük çocukta Pa dalgası her zaman kaydedilemez.",
+     "ses": "Talamokortikal yollar çocuklukta olgunlaşmaya devam eder; küçük çocukta pe a dalgası her zaman kaydedilemez."
+    },
+    {
+     "yazi": "Pa'nın saptanma oranı yaşla artar; erişkine benzer güvenilirliğe ancak ergenliğe yakın yaşlarda ulaşılır.",
+     "ses": "pe a'nın saptanma oranı yaşla artar; erişkine benzer güvenilirliğe ancak ergenliğe yakın yaşlarda ulaşılır."
+    },
+    "Uyku da önemlidir: Kraus ve arkadaşlarının çalışmaları, çocuklarda yanıtın uyku evresine göre değiştiğini gösterdi.",
+    {
+     "yazi": "Derin, yavaş dalgalı uykuda Pa küçülebilir ya da kaybolabilir; uyanıklıkta ve hızlı göz hareketli uykuda daha iyi kaydedilir.",
+     "ses": "Derin, yavaş dalgalı uykuda pe a küçülebilir ya da kaybolabilir; uyanıklıkta ve hızlı göz hareketli uykuda daha iyi kaydedilir."
+    },
+    "Sedatif ilaçlar ve genel anestezi de MLR'yi baskılar; bu etki doza göre artar.",
+    "Bu nedenle MLR'nin yokluğu, özellikle küçük çocukta ve sedasyon altında, tek başına bir sorun olduğunu göstermez."
+   ]
+  },
+  {
+   "id": "hiz",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Kayıt",
+   "baslik": "Uyaran *hızı* ve kırk hertz",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "ad": "Zaman (ms)",
+     "isaretler": [
+      0,
+      25,
+      50,
+      75,
+      100
+     ]
+    },
+    "y": {
+     "min": -1.2,
+     "max": 1.2,
+     "adim": 0.5,
+     "ad": "Genlik (µV)",
+     "ond": 1
+    },
+    "seriler": [
+     {
+      "ad": "kirk_hz",
+      "noktalar": [
+       [
+        0,
+        0.0
+       ],
+       [
+        2,
+        0.39
+       ],
+       [
+        4,
+        0.68
+       ],
+       [
+        6,
+        0.8
+       ],
+       [
+        8,
+        0.72
+       ],
+       [
+        10,
+        0.47
+       ],
+       [
+        12,
+        0.1
+       ],
+       [
+        14,
+        -0.29
+       ],
+       [
+        16,
+        -0.62
+       ],
+       [
+        18,
+        -0.79
+       ],
+       [
+        20,
+        -0.76
+       ],
+       [
+        22,
+        -0.55
+       ],
+       [
+        24,
+        -0.2
+       ],
+       [
+        26,
+        0.2
+       ],
+       [
+        28,
+        0.55
+       ],
+       [
+        30,
+        0.76
+       ],
+       [
+        32,
+        0.79
+       ],
+       [
+        34,
+        0.62
+       ],
+       [
+        36,
+        0.29
+       ],
+       [
+        38,
+        -0.1
+       ],
+       [
+        40,
+        -0.47
+       ],
+       [
+        42,
+        -0.72
+       ],
+       [
+        44,
+        -0.8
+       ],
+       [
+        46,
+        -0.68
+       ],
+       [
+        48,
+        -0.39
+       ],
+       [
+        50,
+        -0.0
+       ],
+       [
+        52,
+        0.39
+       ],
+       [
+        54,
+        0.68
+       ],
+       [
+        56,
+        0.8
+       ],
+       [
+        58,
+        0.72
+       ],
+       [
+        60,
+        0.47
+       ],
+       [
+        62,
+        0.1
+       ],
+       [
+        64,
+        -0.29
+       ],
+       [
+        66,
+        -0.62
+       ],
+       [
+        68,
+        -0.79
+       ],
+       [
+        70,
+        -0.76
+       ],
+       [
+        72,
+        -0.55
+       ],
+       [
+        74,
+        -0.2
+       ],
+       [
+        76,
+        0.2
+       ],
+       [
+        78,
+        0.55
+       ],
+       [
+        80,
+        0.76
+       ],
+       [
+        82,
+        0.79
+       ],
+       [
+        84,
+        0.62
+       ],
+       [
+        86,
+        0.29
+       ],
+       [
+        88,
+        -0.1
+       ],
+       [
+        90,
+        -0.47
+       ],
+       [
+        92,
+        -0.72
+       ],
+       [
+        94,
+        -0.8
+       ],
+       [
+        96,
+        -0.68
+       ],
+       [
+        98,
+        -0.39
+       ],
+       [
+        100,
+        -0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": true,
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "periyot",
+      "x": [
+       6.25,
+       31.25
+      ],
+      "y": 1.0,
+      "etiket": "25 ms",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "40/s: yanıtlar üst üste biner",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Uykuda küçülür",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "cumleler": [
+    "Erişkinde uyaranlar saniyede yaklaşık on kez verilebilir; küçük çocukta ise daha yavaş hızlar önerilir.",
+    "Uyaranlar saniyede yaklaşık kırk kez verildiğinde ilginç bir durum ortaya çıkar.",
+    "Ardışık yanıtlar yaklaşık yirmi beş milisaniye arayla üst üste biner ve kırk hertzlik ritmik bir dalga oluşur.",
+    "Galambos ve arkadaşlarının 1981'de tanımladığı bu yanıta kırk hertz yanıtı denir.",
+    "İşitsel durağan durum yanıtı dersinde gördüğümüz kırk hertz modülasyonlu yanıt da bu talamokortikal kaynaklarla ilişkilidir.",
+    "Bu yanıt da MLR gibi uykuda ve sedasyonda küçülür; bu yüzden bebeklerde seksen hertz ve üzeri tercih edilir."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "*Ne işe* yarar?",
+   "ogeler": [
+    {
+     "ikon": "odyogram",
+     "baslik": "Eşik tahmini",
+     "metin": "Uyanık erişkinde, alçak frekans",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Santral değerlendirme",
+     "metin": "Talamus ve korteks",
+     "cumle": 2
+    },
+    {
+     "ikon": "hastane",
+     "baslik": "Anestezi derinliği",
+     "metin": "Ameliyathanede izlem",
+     "cumle": 4
+    },
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Elektriksel MLR",
+     "metin": "İmplant araştırmaları",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Uyanık erişkinde MLR, özellikle beş yüz hertz gibi alçak frekanslarda eşik tahmini için kullanılabilir.",
+    "Tonburstle alınan MLR eşiği, davranışsal eşiğe genellikle yakındır; bu özellik işlevsel kayıp şüphesinde yararlıdır.",
+    "İkinci kullanım alanı santral işitme yolunun değerlendirilmesidir.",
+    "ABR normal olduğu halde MLR'nin bozuk olması, sorunun beyin sapının üstünde, talamus ya da korteks düzeyinde olabileceğini düşündürür.",
+    "Anestezi derinliğinin izlenmesinde de MLR temelli göstergeler geliştirilmiştir; çünkü yanıt anestezi derinleştikçe küçülür.",
+    "Koklear implantın elektriksel uyarımıyla kaydedilen MLR ise daha çok araştırmalarda kullanılır."
+   ]
+  },
+  {
+   "id": "elektrot_etkisi",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "Elektrot ve *kulak* etkisi",
+   "cizim": "beyin_ustten",
+   "etiketler": [
+    {
+     "parca": "sag_isitme_korteksi",
+     "metin": "sağ elektrot bölgesi",
+     "cumle": 1
+    },
+    {
+     "parca": "sol_isitme_korteksi",
+     "metin": "sol elektrot bölgesi",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "sag_isitme_korteksi",
+     "cumle": 1
+    },
+    {
+     "parca": "sol_isitme_korteksi",
+     "cumle": 2
+    },
+    {
+     "parca": "sag_kulak",
+     "cumle": 3
+    },
+    {
+     "parca": "sol_kulak",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Santral değerlendirmede iki karşılaştırma yapılır.",
+    {
+     "yazi": "Elektrot etkisinde, sağ ve sol yarıkürenin üzerindeki elektrotlarda kaydedilen Pa genlikleri karşılaştırılır.",
+     "ses": "Elektrot etkisinde, sağ ve sol yarıkürenin üzerindeki elektrotlarda kaydedilen pe a genlikleri karşılaştırılır."
+    },
+    {
+     "yazi": "Bir taraftaki elektrotta, hangi kulak uyarılırsa uyarılsın, Pa hep küçükse o taraftaki talamokortikal yol etkilenmiş olabilir.",
+     "ses": "Bir taraftaki elektrotta, hangi kulak uyarılırsa uyarılsın, pe a hep küçükse o taraftaki talamokortikal yol etkilenmiş olabilir."
+    },
+    "Kulak etkisinde ise sağ kulak ve sol kulak uyarıldığında elde edilen yanıtlar karşılaştırılır.",
+    "Bu karşılaştırmalar yardımcı bilgilerdir; tanı hekimin değerlendirmesi ve görüntüleme ile konur.",
+    "Kişiler arasındaki doğal farklar büyük olduğu için tek bir kayıttan kesin sonuç çıkarılmaz."
+   ],
+   "ayar": {
+    "mod": "dikotik",
+    "sozcukler": [
+     "klik",
+     "klik"
+    ],
+    "yol_cumleleri": {
+     "ayni_taraf_yol": 3,
+     "capraz_yol_sag": 3,
+     "capraz_yol_sol": 3,
+     "kallozal_yol": 5
+    },
+    "yollar": [
+     "ayni_taraf_yol",
+     "capraz_yol_sag",
+     "capraz_yol_sol"
+    ]
+   }
+  },
+  {
+   "id": "ornek",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Klinik kullanım",
+   "baslik": "Örnek: *ABR normal, MLR bozuk*",
+   "maddeler": [
+    {
+     "metin": "ABR: normal latanslar",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "MLR: solda Pa küçük",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kişi uyanık, artefakt yok",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Bulgu ekiple paylaşılır",
+     "cumle": 4,
+     "ikon": "hekim"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "beyin_yan",
+    "cumle": 1,
+    "ayar": {
+     "loblar": true
+    },
+    "vurgula": [
+     {
+      "parca": "temporal_lob",
+      "cumle": 1
+     }
+    ]
+   },
+   "cumleler": [
+    "Tamamen örnek bir durum: işitsel yakınmaları olan bir erişkinde odyogram ve ABR normal bulunuyor.",
+    {
+     "yazi": "MLR kaydında sol yarıküre üzerindeki C3 elektrodunda, iki kulak uyarıldığında da Pa belirgin biçimde küçük.",
+     "ses": "MLR kaydında sol yarıküre üzerindeki ce üç elektrodunda, iki kulak uyarıldığında da pe a belirgin biçimde küçük."
+    },
+    "Kayıt sırasında kişi uyanıktı, kas artefaktı yoktu ve kayıt tekrarlandığında aynı sonuç alındı.",
+    "Bu bulgu, beyin sapının üstündeki işitsel yollarda bir etkilenmeyle uyumlu olabilir.",
+    "Sonuç, santral işitsel işlemleme testleri ve hekimin değerlendirmesiyle birlikte yorumlanmak üzere ekiple paylaşılır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Pa yoksa önce koşulları sorgulayın: kişi uyuyor mu, sedasyon var mı, kas artefaktı karışıyor mu? Koşulları düzeltip tekrarlayın.",
+   "cumle": 0,
+   "cumleler": [
+    {
+     "yazi": "Sahadan bir ipucu: MLR'de Pa dalgası alınamadığında hemen bir bozukluk düşünmeyin.",
+     "ses": "Sahadan bir ipucu: MLR'de pe a dalgası alınamadığında hemen bir bozukluk düşünmeyin."
+    },
+    "Önce kişinin uyuyup uyumadığını, sedatif bir ilaç alıp almadığını ve kas artefaktı olup olmadığını kontrol edin.",
+    "Kişiyi uyanık tutun, başını destekleyin ve kaydı tekrarlayın; çocuklarda özellikle uyku evresini not edin.",
+    "Koşullar uygunken bile yanıt yoksa, bulgu ancak o zaman klinik olarak anlam kazanır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "MLR: yaklaşık 10 ile 50 ms arası",
+     "cumle": 0,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Kaynak: talamus ve işitsel korteks",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Uyku, sedasyon ve yaş etkiler",
+     "cumle": 2,
+     "ikon": "saat"
+    },
+    {
+     "metin": "Eşik tahmini ve santral değerlendirme",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Orta latans yanıtı yaklaşık on ile elli milisaniye arasında görülür; en belirgin dalgası yaklaşık otuz milisaniyedeki Pa'dır.",
+     "ses": "Orta latans yanıtı yaklaşık on ile elli milisaniye arasında görülür; en belirgin dalgası yaklaşık otuz milisaniyedeki pe a'dır."
+    },
+    "Kaynakları talamus ve işitsel korteksi kapsayan talamokortikal yollardır.",
+    "Uyku, sedasyon ve yaş MLR'yi belirgin biçimde etkiler; küçük çocukta yanıt her zaman kaydedilemez.",
+    "Uyanık erişkinde eşik tahmini ve santral işitsel yolların değerlendirilmesi için kullanılır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "MLR'nin en belirgin dalgası Pa nerede oluşur?",
+   "secenekler": [
+    "Koklea",
+    "İşitme siniri",
+    "İşitsel korteks",
+    "Kas yanıtı"
+   ],
+   "dogru": 2,
+   "aciklama": "Pa dalgasının ana kaynağı temporal lobdaki birincil işitsel korteks, yani Heschl girusu ve çevresidir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: orta latans yanıtının Pa dalgasının ana kaynağı neresidir?",
+     "sonra_bekle": 5,
+     "ses": "Kendinizi test edin: orta latans yanıtının pe a dalgasının ana kaynağı neresidir?"
+    },
+    "Doğru cevap C: işitsel korteks.",
+    {
+     "yazi": "Pa'nın ana kaynağı Heschl girusu ve çevresidir; talamus ve derin uyanıklık ağları da katkı verir.",
+     "ses": "pe a'nın ana kaynağı Heschl girusu ve çevresidir; talamus ve derin uyanıklık ağları da katkı verir."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Kortikal işitsel uyarılmış potansiyeller: P1-N1-P2",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste kortikal işitsel uyarılmış potansiyelleri, yani P1, N1 ve P2 dalgalarını öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

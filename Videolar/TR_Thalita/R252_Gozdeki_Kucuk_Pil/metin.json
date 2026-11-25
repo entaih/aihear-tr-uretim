@@ -1,0 +1,105 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R252_Gozdeki_Kucuk_Pil_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #252",
+  "baslik": "Gözdeki *küçük pil*",
+  "alt": "ENG göz hareketini nasıl kaydeder?",
+  "cizim": "nistagmus_izi",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Gözünüz küçük bir pil gibi davranabilir mi? #shorts",
+  "aciklama": "Elektronistagmografi, kısaca ENG, korneoretinal potansiyele dayanır: kornea retinaya göre pozitif yüklü olduğu için göz küçük bir pil gibi davranır ve döndükçe deriye yapıştırılan elektrotlar arasındaki gerilim değişir. Bu sayede ENG gözler kapalıyken de kayıt alabilir, ancak gözün kendi ekseni etrafındaki torsiyonel dönmesini kaydedemez.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "vestibüler",
+   "denge"
+  ],
+  "etiketler": [
+   "ENG",
+   "elektronistagmografi",
+   "korneoretinal potansiyel",
+   "nistagmus kaydı",
+   "torsiyonel nistagmus",
+   "vestibüler değerlendirme",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Gözünüz küçük bir pil gibi davranabilir mi?",
+  "bilgiler": [
+   "Kornea retinaya göre pozitif yüklüdür; göz küçük bir pil gibi davranır.",
+   "ENG bu gerilim farkını deriye yapıştırılan elektrotlarla kaydeder.",
+   "Gözler kapalıyken de kayıt alır, ama torsiyonu kaydedemez."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "vestibüler",
+   "denge"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #252",
+   "metin": "Göz bir *pil mi?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Gözünüz küçük bir pil gibi davranabilir mi?"
+   ]
+  },
+  {
+   "id": "eng",
+   "tur": "zincir",
+   "baslik": "*ENG* nasıl ölçer?",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Kornea",
+     "tr": "pozitif kutup",
+     "cumle": 1
+    },
+    {
+     "ad": "Elektrot",
+     "tr": "gerilim değişir",
+     "cumle": 2
+    },
+    {
+     "ad": "Kapalı göz",
+     "tr": "kayıt sürer",
+     "cumle": 3
+    }
+   ],
+   "alt": "Kapalı göz evet, _torsiyon hayır_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Elektronistagmografi, kısaca ENG, göz hareketini deriye yapıştırılan elektrotlarla kaydeder.",
+    "Kornea retinaya göre pozitif yüklüdür; göz küçük bir pil gibi davranır.",
+    "Göz sağa dönünce pozitif kutup sağdaki elektroda yaklaşır, gerilim değişir.",
+    "Bu sayede ENG, gözler kapalıyken de kayıt alabilir.",
+    "Ancak gözün kendi ekseni etrafındaki torsiyonel dönmesini kaydedemez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D156",
+ "kaynak_baslik": "VNG ve ENG"
+}

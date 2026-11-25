@@ -1,0 +1,533 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D096_Kelime_Tanima_Skoru_TR",
+ "kapak": {
+  "ust": "DERS 96",
+  "baslik": "Kelime tanıma<br>*skoru*",
+  "alt": "SDS nasıl ölçülür, nasıl yorumlanır?",
+  "cizim": "odyometre"
+ },
+ "youtube": {
+  "baslik": "Kelime Tanıma Skoru (SDS) Nasıl Ölçülür? | Ders 96 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Konuşmayı ayırt etme skoru (SDS), kelimeler rahat duyulan bir düzeyde verildiğinde doğru tekrar edilen kelimelerin yüzdesidir. Bu derste fonetik dengeli kelime listelerini, test düzeyinin seçimini, kayıtlı materyal ile izlenen canlı ses (MLV) farkını ve skorların yorumunu inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; Martin ve Clark, Introduction to Audiology; Thornton ve Raffin (1978), Speech-discrimination scores modeled as a binomial variable, Journal of Speech and Hearing Research.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "konuşmaodyometrisi",
+   "SDS"
+  ],
+  "etiketler": [
+   "SDS",
+   "kelime tanıma skoru",
+   "konuşmayı ayırt etme skoru",
+   "speech discrimination score",
+   "word recognition score",
+   "fonetik dengeli kelimeler",
+   "MLV",
+   "konuşma odyometrisi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 96",
+   "baslik": "Kelime tanıma *skoru*",
+   "alt": "SDS: kelime listeleri, test düzeyi ve sunum biçimi",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste konuşmayı ayırt etme skorunun, yani SDS'nin nasıl ölçüldüğünü öğreneceğiz.",
+    "Kelime listelerini, test düzeyinin seçimini ve kayıtlı ile canlı ses farkını konuşacağız."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve listeler",
+   "baslik": "SDS *nedir?*",
+   "maddeler": [
+    {
+     "metin": "_Konuşmayı ayırt etme skoru_ (speech discrimination score)",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Eşik üstü düzeyde _yüzde_ doğru",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Tek heceli_ kelime listeleri",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Diğer adı: _kelime tanıma skoru_",
+     "cumle": 3,
+     "ikon": "kitap"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "SDS",
+    "metin": "Rahat duyulan düzeyde doğru tekrar edilen kelimelerin *yüzdesi*",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Konuşmayı ayırt etme skoru (speech discrimination score), kısaca SDS, eşik üstü bir konuşma testidir.",
+    "SDS, kelimeler rahatça duyulabilecek bir düzeyde verildiğinde doğru tekrar edilen kelimelerin yüzdesidir.",
+    "Testte genellikle tek heceli kelimelerden oluşan listeler kullanılır.",
+    "Günümüzde aynı ölçüm için kelime tanıma skoru (word recognition score) adı da sık kullanılır.",
+    "Konuşmayı alma eşiği, kısaca SRT, en hafif alma düzeyini; SDS ise yeterince yüksek düzeyde ne kadar net anlaşıldığını gösterir.",
+    "Bu yüzden SDS, işitme kaybının netlik boyutu hakkında bilgi verir."
+   ]
+  },
+  {
+   "id": "pb",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Tanım ve listeler",
+   "baslik": "Fonetik dengeli *listeler*",
+   "maddeler": [
+    {
+     "metin": "_Fonetik dengeli_ (phonetically balanced): PB",
+     "cumle": 0,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Sesler günlük dildeki _oranlarda_",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Genellikle _25 ya da 50_ kelime",
+     "cumle": 3,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Birden fazla _eşdeğer_ liste",
+     "cumle": 5,
+     "ikon": "tablo"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "PUAN",
+    "metin": "50 kelimede her kelime *yüzde 2*, 25 kelimede yüzde 4",
+    "cumle": 4
+   },
+   "cumleler": [
+    "Kelime listeleri çoğu zaman fonetik dengeli (phonetically balanced) olarak hazırlanır; kısaca PB listeler denir.",
+    "Fonetik dengeli bir listede sesler, günlük dilde görüldükleri oranlara yakın oranlarda yer alır.",
+    "Böylece skor, tek bir sesin değil, dilin genel ses yapısının ne kadar ayırt edildiğini yansıtır.",
+    "Listeler genellikle yirmi beş ya da elli kelimeden oluşur.",
+    "Elli kelimelik listede her kelime yüzde iki, yirmi beş kelimelik listede yüzde dört değerindedir.",
+    "Aynı hastayı iki kulakta ya da farklı düzeylerde test edebilmek için birbirine eşdeğer birden fazla liste bulunur.",
+    "Listedeki kelimelerin günlük dilde bilinen kelimeler olması da önemlidir.",
+    "Türkçede de bu ilkelere göre hazırlanmış tek heceli kelime listeleri vardır; bunları sonraki derste göreceğiz."
+   ]
+  },
+  {
+   "id": "duzey",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test düzeyi",
+   "baslik": "Hangi *düzeyde* test?",
+   "maddeler": [
+    {
+     "metin": "Klasik: SRT'nin _30 ile 40 dB_ üstü",
+     "cumle": 0,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "Alternatif: _MCL_ (en rahat düzey)",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Hedef: _en iyi skora_ yaklaşmak",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_UCL_ aşılmamalı",
+     "cumle": 5,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Klasik yaklaşımda kelime listesi, SRT'nin otuz ile kırk desibel üzerinde verilir.",
+    "Eşiğe göre ifade edilen bu düzeye duyum düzeyi (sensation level), kısaca SL denir.",
+    "Bazı klinikler ise testi en rahat dinleme düzeyinde (most comfortable level) yapar; kısaca MCL.",
+    "Amaç, hastanın ulaşabileceği en iyi skora mümkün olduğunca yakın bir sonuç almaktır.",
+    "Eğimli kayıplarda SRT'ye göre seçilen düzey, tiz konuşma seslerini duyulur kılmaya yetmeyebilir ve skor olduğundan düşük çıkabilir.",
+    "Öte yandan sunum düzeyi, rahatsız edici ses düzeyini (uncomfortable loudness level), kısaca UCL'yi aşmamalıdır.",
+    "Tek düzeyde alınan skor her zaman en iyi skor değildir; birkaç düzeyde ölçüm ileride göreceğimiz bir konudur."
+   ]
+  },
+  {
+   "id": "ornek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Test düzeyi",
+   "baslik": "Örnek: *sunum düzeyi*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: eğimli sensörinöral kayıp",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       20,
+       25,
+       30,
+       45,
+       60,
+       70
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulakta tize doğru eğimli bir sensörinöral kayıp var.",
+    "SRT otuz desibel HL bulunmuş ve saf ses ortalamasıyla uyumlu.",
+    "Klasik kurala göre kelime tanıma testi otuz artı kırk, yani yetmiş desibel HL'de yapılabilir.",
+    "Bu düzeyde pes ve orta frekanslar rahat duyulur, ancak dört bin hertz bölgesindeki konuşma sesleri ancak sınırda duyulabilir.",
+    "Böyle bir hastada daha yüksek bir düzeyde ek ölçüm yapmak, skorun olduğundan düşük kaydedilmesini önleyebilir.",
+    "Skor her zaman sunum düzeyiyle birlikte kaydedilmelidir; düzey bilinmeden skor yorumlanamaz."
+   ]
+  },
+  {
+   "id": "sunum",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sunum ve uygulama",
+   "baslik": "Kayıtlı mı, *canlı ses* mi?",
+   "ogeler": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Kayıtlı materyal",
+     "metin": "Her testte aynı, karşılaştırılabilir",
+     "cumle": 1
+    },
+    {
+     "ikon": "mikrofon",
+     "baslik": "Canlı ses (MLV)",
+     "metin": "Hızlı, esnek, konuşmacıya bağlı",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kelimeler kayıtlı materyalle ya da izlenen canlı ses (monitored live voice), kısaca MLV ile verilebilir.",
+    "Kayıtlı materyalde konuşmacı, ses kalitesi ve vurgu her testte aynıdır.",
+    "Bu sayede farklı zamanlarda ya da farklı kliniklerde alınan skorlar karşılaştırılabilir.",
+    "Bu nedenle başvuru kaynaklarının çoğu, kelime tanıma testinde kayıtlı materyal kullanılmasını önerir.",
+    "MLV'de odyolog kelimeleri mikrofondan okur; yöntem hızlıdır ve hastaya göre esneklik sağlar.",
+    "Ancak skor konuşmacının sesine, hızına ve söyleyişine göre değişebilir.",
+    "MLV kullanılırsa her kelime VU metre izlenerek benzer düzeyde verilir ve raporda sunum biçimi belirtilir.",
+    "Kayıtlı materyalde kelimeden önce bir taşıyıcı cümle de bulunabilir; bu cümle hastayı kelimeye hazırlar."
+   ]
+  },
+  {
+   "id": "uygulama",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Sunum ve uygulama",
+   "baslik": "Testin *uygulanışı*",
+   "maddeler": [
+    {
+     "metin": "Talimat: _tekrar et_, emin değilsen tahmin et",
+     "cumle": 0,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Kelime _bütün olarak_ puanlanır",
+     "cumle": 2,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "Gerekirse _konuşma gürültüsü_ ile maskele",
+     "cumle": 4,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Her kulağa _ayrı liste_",
+     "cumle": 5,
+     "ikon": "kulaklik"
+    }
+   ],
+   "cumleler": [
+    "Hastaya her kelimeyi duyduğu gibi tekrar etmesi, emin olmadığında da tahmin etmesi söylenir.",
+    "Yanıtlar sözel olarak alınır; konuşamayan hastalarda yazma ya da resim gösterme kullanılabilir.",
+    "Puanlamada kelime bütün olarak değerlendirilir; tek bir sesin hatası bile kelimeyi yanlış yapar.",
+    "Bazı klinikler ek bilgi için ses birimi düzeyinde puanlama da yapar; bu durumda puanlama türü raporda belirtilir.",
+    "Sunum düzeyi yüksek olduğu için SDS'de karşı kulağa maskeleme sık gerekir; bunun için konuşma gürültüsü kullanılır.",
+    "Her kulak ayrı test edilir ve her kulak için farklı bir liste kullanılır.",
+    "Kelimeler arasında hastanın yanıt vermesine yetecek kadar süre bırakılır."
+   ]
+  },
+  {
+   "id": "yorum",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Skor nasıl *yorumlanır?*",
+   "sutunlar": [
+    "Skor (yüzde)",
+    "Yaklaşık yorum"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "90 ile 100",
+      "Normal sınırlarda"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "75 ile 89",
+      "Hafif güçlük"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "60 ile 74",
+      "Orta güçlük"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "50 ile 59",
+      "Zayıf"
+     ],
+     "cumle": 3
+    },
+    {
+     "hucreler": [
+      "50'nin altında",
+      "Çok zayıf"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Skorların yorumu için kaynaklarda yaklaşık kategoriler kullanılır; burada yaygın kullanılan bir sınıflamayı görüyoruz.",
+    "Yüzde doksan ile yüz arası, genellikle normal sınırlarda kabul edilir.",
+    "Yüzde yetmiş beş ile seksen dokuz arası hafif, altmış ile yetmiş dört arası orta derecede güçlüğü düşündürür.",
+    "Yüzde elli ile elli dokuz zayıf, ellinin altı ise çok zayıf ayırt etme olarak yorumlanır.",
+    "Sınırlar kaynağa göre birkaç puan değişebilir; bu kategoriler kaba bir rehberdir ve liste uzunluğu sonucu etkiler.",
+    "Skorun yorumu, her zaman işitme kaybının derecesiyle birlikte yapılmalıdır."
+   ]
+  },
+  {
+   "id": "fark",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "İki skor *gerçekten* farklı mı?",
+   "maddeler": [
+    {
+     "metin": "Skor _istatistiksel_ bir örneklem",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Kısa listede _değişkenlik_ fazla",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "_Kritik fark_ tabloları",
+     "cumle": 2,
+     "ikon": "tablo"
+    },
+    {
+     "metin": "Kayba göre _orantısız düşük_ skor",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Bir kelime listesi, kişinin konuşmayı ayırt etme yeteneğinden alınmış küçük bir örneklemdir.",
+    "Liste kısaldıkça skorun rastlantısal değişkenliği artar; yirmi beş kelimelik listede bu değişkenlik daha büyüktür.",
+    "İki skor arasındaki farkın anlamlı olup olmadığı, Thornton ve Raffin'in kritik fark tablolarıyla değerlendirilir.",
+    "Örneğin iki kulak ya da iki test arasındaki küçük bir fark, tek başına gerçek bir değişim anlamına gelmeyebilir.",
+    "Skorun işitme kaybının derecesine göre beklenenden belirgin düşük olması ise ayrıca dikkat gerektirir.",
+    "Özellikle tek kulakta görülen orantısız düşük skor, ileri değerlendirme açısından hekime iletilmesi gereken bir bulgudur."
+   ]
+  },
+  {
+   "id": "onem",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "SDS *ne işe yarar?*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Cihaz faydası",
+     "metin": "Danışmanlığa yardım eder",
+     "cumle": 0
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Ayırıcı katkı",
+     "metin": "Orantısız düşük skor",
+     "cumle": 2
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Cihazlı karşılaştırma",
+     "metin": "Serbest alanda, cihazlı ve cihazsız",
+     "cumle": 3
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İzlem",
+     "metin": "Zaman içindeki değişim",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Kelime tanıma skoru, işitme cihazından beklenen fayda konusunda danışmanlığa yardımcı olur.",
+    "Skoru iyi olan bir hasta, sesler yeterince yükseltildiğinde konuşmayı genellikle iyi anlar.",
+    "Kaybın derecesine göre orantısız düşük skorlar, koklea dışı bir sorunu düşündürebileceği için test bataryasına katkı sağlar.",
+    "Serbest alanda cihazlı ve cihazsız skorlar karşılaştırılarak cihazın konuşmayı anlamaya katkısı gösterilebilir.",
+    "Ayrıca aynı hastanın zaman içindeki değişimini izlemek için de kullanılır.",
+    "Ancak sessiz ortamda alınan skor, gürültüdeki performansı tam yansıtmaz; bunun için gürültüde konuşma testleri vardır."
+   ]
+  },
+  {
+   "id": "hatalar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum",
+   "baslik": "Sık yapılan *hatalar*",
+   "maddeler": [
+    {
+     "metin": "Çok düşük _sunum düzeyi_",
+     "cumle": 0,
+     "ikon": "sessizlik"
+    },
+    {
+     "metin": "Maskelemenin _unutulması_",
+     "cumle": 1,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Aynı listeyi _kısa aralıkla_ tekrar",
+     "cumle": 2,
+     "ikon": "takvim"
+    },
+    {
+     "metin": "Hızlı ya da abartılı _canlı ses_",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "Sunum düzeyini düşük seçmek, özellikle eğimli kayıplarda skoru olduğundan düşük gösterir.",
+    "Yüksek sunum düzeyinde karşı kulağın maskelenmesini unutmak, kötü kulağın skorunu olduğundan iyi gösterebilir.",
+    "Aynı listeyi aynı hastada kısa aralıkla tekrar kullanmak, kelimelerin akılda kalmasına yol açabilir.",
+    "Canlı seste kelimeleri hızlı ya da abartılı okumak, skoru konuşmacıya bağımlı hale getirir.",
+    "Hastanın yöresel söyleyiş farklarını hata saymamak için yanıtlar dikkatle dinlenir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Skoru tek başına yazmayın: sunum düzeyini, liste uzunluğunu, kayıtlı ya da canlı sesi ve maskeleme düzeyini de kaydedin.",
+   "cumleler": [
+    "Rapor yazarken çok işe yarayan bir ipucu verelim.",
+    "Kelime tanıma skorunu tek başına bir yüzde olarak yazmayın.",
+    "Yanına sunum düzeyini, liste uzunluğunu, kayıtlı ya da canlı ses kullanıldığını ve maskeleme düzeyini ekleyin.",
+    "Bu bilgiler olmadan, aynı hastanın bir sonraki testteki skoru doğru karşılaştırılamaz."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "SDS: eşik üstü düzeyde _yüzde_ doğru",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "_Fonetik dengeli_ tek heceli listeler",
+     "cumle": 1,
+     "ikon": "kitap"
+    },
+    {
+     "metin": "Düzey: _SRT + 30 ile 40 dB_",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "_Kayıtlı_ materyal daha standart",
+     "cumle": 3,
+     "ikon": "mikrofon"
+    }
+   ],
+   "cumleler": [
+    "SDS, rahat duyulan bir düzeyde doğru tekrar edilen kelimelerin yüzdesidir.",
+    "Testte genellikle fonetik dengeli, tek heceli kelime listeleri kullanılır.",
+    "Sunum düzeyi çoğu zaman SRT'nin otuz ile kırk desibel üzeri ya da MCL'dir; eğimli kayıplarda daha yüksek düzey gerekebilir.",
+    "Kayıtlı materyal, canlı sese göre daha standart ve karşılaştırılabilir sonuç verir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "25 kelimelik listede 20 doğru. Skor kaçtır?",
+   "secenekler": [
+    "Yüzde 20",
+    "Yüzde 80",
+    "Yüzde 90"
+   ],
+   "dogru": 1,
+   "aciklama": "25 kelimelik listede her kelime _yüzde 4_ değerindedir: 20 kere 4, 80.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Yirmi beş kelimelik bir listede hasta yirmi kelimeyi doğru tekrar etti. Skor yüzde kaçtır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yüzde seksen.",
+    "Yirmi beş kelimelik listede her kelime yüzde dört değerindedir; yirmi kere dört, seksen eder."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Türkçe konuşma test *materyalleri*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste, Türkçe konuşma testlerinde kullanılan kelime ve cümle materyallerini tanıyacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

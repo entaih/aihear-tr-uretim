@@ -1,0 +1,128 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R022_Ling_Alti_Ses_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #22",
+  "baslik": "Ling *altı ses* testi",
+  "alt": "m, u, a, i, ş, s",
+  "cizim": "konusma_muzu",
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Altı sesle konuşma aralığı nasıl taranır? #shorts",
+  "aciklama": "Ling altı ses testi, m, u, a, i, ş ve s sesleriyle konuşma aralığını pesten tize tarar. Bir çocuk s sesini fark edemiyorsa, tiz frekanslarda konuşmaya erişiminin kısıtlı olabileceği düşünülür.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitme",
+   "konuşma"
+  ],
+  "etiketler": [
+   "Ling altı ses testi",
+   "Ling 6 ses",
+   "konuşma muzu",
+   "pediatrik odyoloji",
+   "işitme cihazı kontrolü",
+   "odyoloji",
+   "işitme",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Altı sesle konuşma aralığı nasıl taranır?",
+  "bilgiler": [
+   "Ling altı ses testi konuşma aralığını pesten tize tarar.",
+   "Sesler: m, u, a, i, ş ve s.",
+   "Çocuk s sesini fark edemiyorsa tiz erişimi kısıtlı olabilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitme",
+   "konuşma"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #22",
+   "metin": "Altı sesle konuşma aralığı *nasıl taranır?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Altı sesle konuşma aralığı nasıl taranır?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "Ling *altı ses* testi",
+   "sayi": "6",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Ling altı ses testi, konuşma aralığını pesten tize tarar.",
+    {
+     "yazi": "Sesler şunlardır: m, u, a, i, ş ve s.",
+     "ses": "Sesler şunlardır: me, u, a, i, şe ve se."
+    }
+   ]
+  },
+  {
+   "id": "bolge",
+   "tur": "zincir",
+   "baslik": "Pesten *tize*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "M, u",
+     "tr": "pes",
+     "cumle": 0
+    },
+    {
+     "ad": "A",
+     "tr": "orta",
+     "cumle": 0,
+     "gecikme": 1.0
+    },
+    {
+     "ad": "Ş, s",
+     "tr": "tiz",
+     "cumle": 1
+    }
+   ],
+   "alt": "_S sesi_ tiz bölgeyi yoklar",
+   "alt_cumle": 2,
+   "cumleler": [
+    {
+     "yazi": "M ve u pes bölgeyi, a ise orta bölgeyi temsil eder.",
+     "ses": "Me ve u pes bölgeyi, a ise orta bölgeyi temsil eder."
+    },
+    {
+     "yazi": "Ş ve s ise tiz bölgeyi temsil eder.",
+     "ses": "Şe ve se ise tiz bölgeyi temsil eder."
+    },
+    {
+     "yazi": "Bir çocuk s sesini fark edemiyorsa, tiz frekanslarda erişimi kısıtlı olabilir.",
+     "ses": "Bir çocuk se sesini fark edemiyorsa, tiz frekanslarda erişimi kısıtlı olabilir."
+    }
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D043",
+ "kaynak_baslik": "Konuşma muzu"
+}

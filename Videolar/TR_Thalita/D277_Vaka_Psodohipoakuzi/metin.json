@@ -1,0 +1,844 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D277_Vaka_Psodohipoakuzi_TR",
+ "kapak": {
+  "ust": "DERS 277",
+  "baslik": "Vaka: *tutarsız*<br>yanıtlar",
+  "alt": "Psödohipoakuzi ve doğrulama",
+  "cizim": "oae"
+ },
+ "youtube": {
+  "baslik": "Vaka: Tutarsız Yanıtlar ve Psödohipoakuzi | Ders 277 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Kurgusal bir erişkin vakasında organik olmayan işitme kaybını tanıma ve doğrulama adımlarını uyguluyoruz: tekrarda oynayan eşikler, SRT ile saf ses ortalaması uyumsuzluğu, beyan edilen eşikte alınan akustik refleks, Stenger testi, OAE ve objektif eşik tahmini. Etik, yargılamayan yaklaşımı ve rapor dilini de ele alıyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Katz, Handbook of Clinical Audiology; Gelfand, Essentials of Audiology; ASHA, Determining Threshold Level for Speech; Martin ve Clark, Introduction to Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "psödohipoakuzi",
+   "vakaçalışması"
+  ],
+  "etiketler": [
+   "psödohipoakuzi",
+   "pseudohypacusis",
+   "Stenger testi",
+   "Stenger test",
+   "temaruz",
+   "malingering",
+   "organik olmayan işitme kaybı",
+   "akustik refleks",
+   "OAE",
+   "odyoloji vaka",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 277",
+   "baslik": "Vaka: *tutarsız* yanıtlar",
+   "alt": "Psödohipoakuzi: ipuçları ve doğrulama",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste test yanıtları birbirini tutmayan bir erişkin vakasını çözüyoruz.",
+    "Konuşma ve saf ses eşiği uyumsuzluğunu, refleks ipucunu, Stenger testini ve otoakustik emisyonla doğrulamayı yargılamadan ele alacağız."
+   ]
+  },
+  {
+   "id": "oyku",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve gözlem",
+   "baslik": "Örnek vaka: *öykü*",
+   "maddeler": [
+    {
+     "metin": "Yirmi dokuz yaşında, örnek bir kişi",
+     "cumle": 0,
+     "ikon": "hasta"
+    },
+    {
+     "metin": "İş yerinde patlama sesi sonrası",
+     "cumle": 1,
+     "ikon": "is_yeri"
+    },
+    {
+     "metin": "Sol kulakta _hiç duymadığını_ söylüyor",
+     "cumle": 2,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Rapor için yönlendirilmiş",
+     "cumle": 3,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Görüşmede sohbeti rahat izliyor",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "is_yeri",
+      "baslik": "Olay",
+      "metin": "Patlama sesi",
+      "cumle": 0
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Amaç",
+      "metin": "Rapor ve belge",
+      "cumle": 2
+     },
+     {
+      "ikon": "goz",
+      "baslik": "Gözlem",
+      "metin": "Sohbeti rahat izliyor",
+      "cumle": 3
+     }
+    ],
+    "ust": "BAĞLAM"
+   },
+   "cumleler": [
+    "Vakamız kurgusal bir örnektir: yirmi dokuz yaşında bir kişi, iş yerinde yakınında patlayan bir basınçlı tüpten sonra başvuruyor.",
+    "Olaydan bu yana yaklaşık iki ay geçmiş ve kişi sol kulağıyla neredeyse hiç duymadığını söylüyor.",
+    "Kişi iş yeri hekimi tarafından, işitme durumunun belgelenmesi ve rapor hazırlanması için yönlendirilmiş.",
+    "Görüşme sırasında, odyolog sol tarafında otururken bile soruları kolayca anlıyor ve sohbeti rahat izliyor.",
+    "Bu gözlem tek başına bir şey kanıtlamaz; ama sonraki test bulgularıyla birlikte değerlendirilmek üzere not edilir.",
+    "Unutmayalım: bir patlama sesi gerçek bir koklear hasar da yapabilir; amacımız gerçek işitme düzeyini bulmaktır."
+   ]
+  },
+  {
+   "id": "tanim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve gözlem",
+   "baslik": "Psödohipoakuzi *nedir?*",
+   "ogeler": [
+    {
+     "ikon": "kulak",
+     "baslik": "Psödohipoakuzi",
+     "metin": "Yanıtlar gerçek işitmeden kötü",
+     "cumle": 0
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Nedenler",
+     "metin": "Bilinçli ya da bilinç dışı",
+     "cumle": 2
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Temaruz",
+     "metin": "Bilinçli, kazanç amaçlı; odyolog karar vermez",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Psödohipoakuzi (pseudohypacusis), kişinin test yanıtlarının gerçek işitme düzeyinden daha kötü bir kayıp göstermesidir.",
+    "Aynı tablo için organik olmayan ya da işlevsel işitme kaybı adları da kullanılır.",
+    "Nedeni bilinçli bir kazanç beklentisi olabileceği gibi, kişinin farkında olmadığı psikolojik etkenler de olabilir.",
+    "Bilinçli ve kazanç amaçlı abartmaya temaruz (malingering) denir; ama niyet hakkında hüküm vermek odyoloğun görevi değildir.",
+    "Tazminat ya da rapor süreçleri bu durumların tipik bağlamlarıdır; yine de bağlam tek başına psödohipoakuzi demek değildir.",
+    "Odyoloğun görevi, gerçek işitme düzeyini olabildiğince doğru belirlemek ve bulguları tarafsız biçimde raporlamaktır."
+   ]
+  },
+  {
+   "id": "davranis",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Öykü ve gözlem",
+   "baslik": "Testte *davranış* ipuçları",
+   "ogeler": [
+    {
+     "ikon": "goz",
+     "baslik": "Görüşmede rahat",
+     "metin": "Odyogram ileri kayıp diyor",
+     "cumle": 0
+    },
+    {
+     "ikon": "hasta",
+     "baslik": "Abartılı dinleme",
+     "metin": "Elini kulağına götürme",
+     "cumle": 1
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Gecikmeli yanıt",
+     "metin": "Aynı düzeyde var, yok",
+     "cumle": 2
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Yarım kelime",
+     "metin": "Kelimenin yalnız yarısı",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "İlk ipucu çoğu zaman testten önce gelir: kişi görüşmede sohbeti rahatça izler, ama odyogram ileri derece bir kayıp gösterir.",
+    "Elini kulağına götürme, abartılı biçimde yaklaşma gibi gösterişli dinleme davranışları da dikkat çekebilir.",
+    "Test sırasında yanıtlar gecikmeli, kararsız ve aynı düzeyde bir verilip bir verilmeyen biçimde olabilir.",
+    "Konuşma testinde iki heceli kelimelerin yalnız yarısını tekrar etmek de sık bildirilen bir ipucudur.",
+    "Bu gözlemler tek başına sonuç doğurmaz; kaydedilir ve test bulgularıyla birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "odyo",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tutarsız bulgular",
+   "baslik": "İlk test: *beyan edilen* kayıp",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "□",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli hava yolu",
+     "cumle": 1
+    },
+    {
+     "isaret": "]",
+     "renk": "sol",
+     "metin": "_Sol_: maskeli kemik yolu",
+     "cumle": 2
+    },
+    {
+     "isaret": "!",
+     "renk": "sag",
+     "metin": "Tekrarda _15 dB_ oynama",
+     "cumle": 4
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava_maskeli",
+      "degerler": [
+       65,
+       70,
+       70,
+       75,
+       75,
+       80
+      ],
+      "cumle": 1
+     },
+     {
+      "kulak": "sol",
+      "tip": "kemik_maskeli",
+      "degerler": [
+       null,
+       60,
+       65,
+       70,
+       65
+      ],
+      "cumle": 2
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Otoskopi ve timpanogram iki kulakta normal; sağ kulağın eşikleri normal sınırlarda.",
+    "Sol kulakta, sağ kulak maskelenerek elde edilen yanıtlar altmış beş ile seksen desibel arasında bir kayıp gösteriyor.",
+    "Sol kemik yolu da hava yoluyla örtüşüyor; ilk bakışta tablo ileri derecede sensörinöral kayıp gibi.",
+    "Ancak yanıtlar gecikmeli ve kararsız; kişi aynı düzeyde bazen yanıt veriyor, bazen vermiyor.",
+    "Bin hertz eşiği üç ayrı ölçümde yetmiş, elli beş ve yetmiş desibel bulundu; organik kayıpta tekrarlar genellikle beş desibel içinde kalır.",
+    "Bu oynama bir uyarıdır; ama tek başına sonuç doğurmaz, diğer testlerle birlikte değerlendirilir."
+   ]
+  },
+  {
+   "id": "srt",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tutarsız bulgular",
+   "baslik": "SRT ile saf ses *uyumsuz*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 3,
+     "isaretler": [
+      1,
+      2
+     ],
+     "yazilar": {
+      "1": "Saf ses ort.",
+      "2": "SRT"
+     },
+     "ad": "Sol kulak"
+    },
+    "y": {
+     "min": 0,
+     "max": 80,
+     "adim": 20,
+     "ad": "dB HL",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "pta",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        70
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 1
+     },
+     {
+      "ad": "srt_sol",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        2,
+        30
+       ]
+      ],
+      "renk": "sari",
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "fark",
+      "y": [
+       30,
+       70
+      ],
+      "xk": 2.5,
+      "etiket": "40 dB",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Beklenen uyum: _yaklaşık 10 dB_",
+     "cumle": 0,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Bu vakada fark: _40 dB_",
+     "cumle": 3,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Organik kayıplarda konuşmayı alma eşiği, yani SRT ile saf ses ortalaması genellikle yaklaşık on desibel içinde birbirine uyar.",
+    "Sol kulağın saf ses ortalaması beş yüz, bin ve iki bin hertz için yaklaşık yetmiş desibel.",
+    "Oysa sol kulağın SRT değeri otuz desibel HL; kişi kelimeleri, saf sesi duymadığını söylediği düzeyin çok altında tekrar edebiliyor.",
+    "Kırk desibellik bu fark, organik olmayan bir bileşeni güçlü biçimde düşündürür.",
+    "Bunun bir nedeni, konuşma için tutarlı bir yapay eşik tutturmanın saf seslere göre daha zor olmasıdır.",
+    "Sağ kulakta ise SRT on desibel HL ve saf ses ortalamasıyla uyumlu."
+   ]
+  },
+  {
+   "id": "refleks",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Tutarsız bulgular",
+   "baslik": "Refleks eşiği *ipucu*",
+   "sutunlar": [
+    "Sol uyaran",
+    "Beyan edilen eşik",
+    "Refleks eşiği"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "500 Hz",
+      "70 dB HL",
+      "70 dB HL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "1000 Hz",
+      "70 dB HL",
+      "70 dB HL"
+     ],
+     "cumle": 2,
+     "vurgu": true
+    },
+    {
+     "hucreler": [
+      "2000 Hz",
+      "75 dB HL",
+      "75 dB HL"
+     ],
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Akustik refleks, ses işitme eşiğinin oldukça üzerine çıktığında ortaya çıkar.",
+    "Normal işitenlerde refleks eşikleri genellikle yetmiş ile yüz desibel HL arasındadır.",
+    "Sol kulağa verilen uyaranla refleksler beş yüz ve bin hertzde yetmiş desibel HL'de alınıyor.",
+    "Yani refleks, kişinin sesi duymadığını söylediği düzeyle aynı düzeyde ortaya çıkıyor.",
+    "Refleks beyan edilen eşiğe eşit ya da ondan daha iyi bir düzeyde alınıyorsa, beyan edilen eşik gerçek olamaz.",
+    "Ancak refleksin alınamaması orta kulak ya da sinir sorunlarından da kaynaklanabilir; yokluğu tek başına kanıt değildir."
+   ]
+  },
+  {
+   "id": "stenger",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Doğrulama",
+   "baslik": "Stenger *testi*",
+   "adimlar": [
+    {
+     "ikon": "odyometre",
+     "baslik": "Eşikler",
+     "metin": "Fark en az 20 dB",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "İyi kulak",
+     "metin": "Eşik artı 10 dB",
+     "cumle": 2
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kötü kulak",
+     "metin": "Beyan eşiği eksi 10",
+     "cumle": 3
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Yanıt?",
+     "metin": "Bırakırsa pozitif",
+     "cumle": 4
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "En düşük düzey",
+     "metin": "Gerçek eşiğe yakın",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Stenger testi (Stenger test), beyan edilen tek taraflı ya da belirgin asimetrik kayıpta kullanılır.",
+    "Testin işe yaraması için iki kulak arasındaki fark genellikle en az yirmi desibel olmalıdır; bu vakada fark altmış desibel.",
+    "Bin hertzde iyi duyan sağ kulağa, eşiğinin on desibel üzerinde, yirmi desibel HL'de bir ton verilir; kişi rahatça yanıt verir.",
+    "Aynı anda sol kulağa, beyan edilen eşiğin on desibel altında, altmış desibel HL'de aynı ton eklenir.",
+    "Kişi yanıt vermeyi bırakıyor; çünkü ton sol kulakta daha yüksek algılanıyor ve kişi sesi yalnız o kulakta duyuyor.",
+    "Bu sonuca pozitif Stenger denir; sol kulak, beyan edilen eşiğin altındaki bir sesi duyuyor demektir.",
+    "Sol kulaktaki ton kademeli azaltılarak kişinin yanıt vermeyi bıraktığı en düşük düzey aranır; bu vakada otuz desibel HL.",
+    "Bu düzeye en düşük karşı taraf girişim düzeyi (minimum contralateral interference level) denir ve gerçek eşiği yaklaşık gösterir."
+   ]
+  },
+  {
+   "id": "oae",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Doğrulama",
+   "baslik": "OAE: *dış tüy hücreleri* yanıt veriyor",
+   "cizim": "oae",
+   "ayar": {
+    "tur": "TEOAE"
+   },
+   "etiketler": [
+    {
+     "parca": "yanit",
+     "metin": "sol kulak: yanıt var",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "metin": "gürültü tabanı",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "yanit",
+     "cumle": 1
+    },
+    {
+     "parca": "gurultu",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Yanıt: _belirgin_",
+     "cumle": 1,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Beyanla _uyumsuz_",
+     "cumle": 2,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Sinir kaynaklı kaybı dışlamaz",
+     "cumle": 3,
+     "ikon": "noron"
+    }
+   ],
+   "cumleler": [
+    "Otoakustik emisyon, kısaca OAE, dış tüy hücrelerinin çalıştığını gösteren objektif bir testtir.",
+    "Bu vakada sol kulakta geçici uyarılmış OAE, geniş bir frekans aralığında, gürültü tabanının belirgin üzerinde kaydediliyor.",
+    "Yetmiş desibellik koklear bir kayıp beyan edilen kulakta, OAE'nin bu kadar belirgin olması beyanla uyumsuzdur.",
+    "Ancak normal OAE, sinir kaynaklı kayıpları dışlamaz; bu yüzden tek başına değil, diğer bulgularla birlikte yorumlanır.",
+    "OAE hızlıdır ve kişinin işbirliğine bağlı değildir; tutarsızlık şüphesinde bataryaya erkenden eklenmesi yararlıdır."
+   ]
+  },
+  {
+   "id": "objektif",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Doğrulama",
+   "baslik": "Objektif *eşik tahmini*",
+   "maddeler": [
+    {
+     "metin": "ABR ya da ASSR: işbirliği gerekmez",
+     "cumle": 0,
+     "ikon": "laboratuvar"
+    },
+    {
+     "metin": "Rapor durumunda _objektif destek_",
+     "cumle": 1,
+     "ikon": "rapor"
+    },
+    {
+     "metin": "Gerçek eşik çoğu zaman yakın ya da iyi",
+     "cumle": 2,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bu vakada: _hafif_ kayıpla uyumlu",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "abr",
+    "cumle": 0,
+    "etiketler": [
+     {
+      "parca": "dalga_V",
+      "metin": "dalga V",
+      "cumle": 3
+     }
+    ],
+    "vurgula": [
+     {
+      "parca": "dalga_V",
+      "cumle": 3
+     }
+    ]
+   },
+   "cumleler": [
+    "İşitsel beyin sapı yanıtı, kısaca ABR ve işitsel durağan durum yanıtı, kısaca ASSR, kişinin işbirliği olmadan eşik tahmini sağlar.",
+    "Özellikle bir rapora dayanak olacak değerlendirmelerde davranışsal eşikler objektif bir yöntemle desteklenmelidir.",
+    "Objektif testler gerçek işitmenin üst sınırını gösterir; gerçek eşik çoğu zaman bu tahmine yakın ya da daha iyidir.",
+    "Bu vakada sol kulakta ABR ile tahmin edilen eşikler, hafif bir yüksek frekans kaybıyla uyumlu bulundu.",
+    "Hangi objektif testin yapılacağına merkezin protokolüne ve gerekirse hekimin isteğine göre karar verilir."
+   ]
+  },
+  {
+   "id": "gercek",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yaklaşım ve rapor",
+   "baslik": "Yeniden talimatla *sol kulak*",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol_: yeni eşikler",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "SRT, refleks, OAE ile _uyumlu_",
+     "cumle": 3
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       20,
+       20,
+       25,
+       25,
+       30,
+       35
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal"
+    }
+   },
+   "cumleler": [
+    "Testin sonunda talimat sakin biçimde yeniden verildi ve sol kulak eşikleri yükselen yöntemle, sessizlikten başlanarak arandı.",
+    "Bu kez sol kulakta yirmi ile otuz beş desibel arasında, tutarlı yanıtlar alındı; tekrarlar beş desibel içinde.",
+    "Yeni eşikler yüksek frekanslarda hafif bir kayıp gösteriyor; bu, patlama sesine bağlı gerçek bir hasarla uyumlu olabilir.",
+    "Bu eşikler artık SRT, refleks eşikleri, OAE ve ABR tahminiyle birbirini doğruluyor.",
+    "Yani organik olmayan bir bileşen, aynı kulakta gerçek ama daha hafif bir kaybın bulunmasını dışlamıyor.",
+    "İlk eşiklerle son eşikler arasındaki fark raporda açıkça gösterilir."
+   ]
+  },
+  {
+   "id": "etik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yaklaşım ve rapor",
+   "baslik": "Etik ve *yargılamayan* yaklaşım",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Suçlamadan konuş",
+     "metin": "Talimatı sade biçimde yinele",
+     "cumle": 0
+    },
+    {
+     "ikon": "ampul",
+     "baslik": "Çıkış yolu bırak",
+     "metin": "Yeniden deneyelim demek",
+     "cumle": 2
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Bulguyu yaz",
+     "metin": "Niyeti değil",
+     "cumle": 3
+    },
+    {
+     "ikon": "hekim",
+     "baslik": "Gerekirse destek",
+     "metin": "Hekim, ruh sağlığı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Tutarsız yanıtlar karşısında suçlayıcı bir tavır takınılmaz; talimat sakin ve sade biçimde yeniden verilir.",
+    "Kişiye en hafif sesleri bile duyduğunda yanıt vermesi gerektiği hatırlatılır.",
+    "Ölçümler tutarlı değil, birlikte yeniden deneyelim gibi bir cümle, kişiye yüzünü kurtaracak bir çıkış yolu bırakır.",
+    "Raporda bulgular tanımlanır; kişinin niyeti hakkında yorum yapılmaz, temaruz gibi bir yargı yazılmaz.",
+    "Organik olmayan bileşen bilinç dışı etkenlerden de kaynaklanabileceği için kişiye saygılı davranmak her durumda doğrudur.",
+    "Gerekirse kişinin hekime ve ruh sağlığı desteğine yönlendirilmesi düşünülür; bu karar ekip içinde verilir."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Tutarsızlıkta yükselen yöntemi deneyin, talimatı yeniden verin ve refleks ile OAE'yi erkenden ekleyin.",
+   "cumle": 0,
+   "cumleler": [
+    "Bir klinik ipucu: eşik bulmada yükselen yöntem, yani sessizlikten başlamak, yapay bir yanıt düzeyi tutturmayı zorlaştırabilir.",
+    "Önce SRT'yi ölçmek de yararlı olabilir; çünkü kişi konuşmada tutarlı bir yapay eşik tutturmakta zorlanır.",
+    "Akustik refleks ve OAE'yi bataryaya erkenden ekleyin; ikisi de kişinin işbirliğine bağlı değildir.",
+    "Her tutarsızlığı, ölçüldüğü an ve koşuluyla birlikte not edin."
+   ]
+  },
+  {
+   "id": "rapor",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yaklaşım ve rapor",
+   "baslik": "Örnek *rapor* dili",
+   "maddeler": [
+    {
+     "metin": "İlk eşiklerin güvenilirliği _düşük_",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "SRT ve saf ses arasında 40 dB",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Refleks beyan eşiğinde, OAE var",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Pozitif Stenger",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Son eşikler: solda hafif kayıp",
+     "cumle": 4,
+     "ikon": "odyogram"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "cumle": 4,
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        20
+       ],
+       "cumle": 4
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        20,
+        20,
+        25,
+        25,
+        30,
+        35
+       ],
+       "cumle": 4
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "Raporda önce ilk ölçümlerin güvenilirliğinin düşük olduğu açıkça yazılır; tutarsız sonuçlar gerçek eşik gibi sunulmaz.",
+    "Ardından tutarsızlıklar tek tek tanımlanır: SRT ile saf ses ortalaması arasında kırk desibel fark.",
+    "Beyan edilen eşiklere eşit düzeyde alınan akustik refleksler ve sol kulakta kaydedilen otoakustik emisyon.",
+    "Bin hertzde pozitif Stenger testi ve en düşük karşı taraf girişim düzeyi.",
+    "Son olarak yeniden talimatla elde edilen tutarlı eşikler ve ABR tahmini; öneri bölümünde gerekirse hekim değerlendirmesi yer alır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Tekrarda oynayan eşikler: uyarı",
+     "cumle": 0,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "SRT saf sesten çok iyi: güçlü ipucu",
+     "cumle": 1,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Refleks, Stenger, OAE: doğrulama",
+     "cumle": 2,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Bulguyu yaz, niyeti yargılama",
+     "cumle": 3,
+     "ikon": "rapor"
+    }
+   ],
+   "cumleler": [
+    "Tekrarlanan ölçümlerde beş desibelden çok oynayan eşikler ve kararsız yanıtlar ilk uyarıdır.",
+    "SRT'nin saf ses ortalamasından belirgin biçimde iyi olması güçlü bir ipucudur.",
+    "Beyan edilen eşikte alınan refleks, pozitif Stenger ve normal OAE, gerçek işitmenin daha iyi olduğunu doğrular.",
+    "Odyolog bulguları tarafsız yazar, niyet hakkında yorum yapmaz ve gerçek eşiği objektif testlerle destekler."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Stenger testinde kişi yanıtı bırakıyor. Sonuç?",
+   "secenekler": [
+    "Negatif Stenger",
+    "Pozitif Stenger",
+    "Test geçersiz",
+    "Gerçek ileri kayıp"
+   ],
+   "dogru": 1,
+   "aciklama": "Kötü kulak, beyan edilen eşiğin _altındaki_ bir sesi duyuyor.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Stenger testinde kötü kulağa beyan eşiğinin altında ton eklenince kişi yanıt vermeyi bırakıyor. Sonuç nedir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: pozitif Stenger.",
+    "Kişi sesi kötü kulakta, beyan ettiği eşiğin altında algılıyor; bu, organik olmayan bir bileşeni gösterir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Vaka: gürültüye maruz işçinin *yıllık* odyogramları",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki vakada gürültülü bir iş yerinde çalışan bir kişinin yıllık odyogramlarını karşılaştıracağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -1,0 +1,136 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R289_CROS_Kulagi_Iyilestirmez_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #289",
+  "baslik": "CROS kulağı *iyileştirmez*",
+  "alt": "Tek taraflı sağırlık ve CROS",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      15,
+      20
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava_maskeli",
+     "degerler": [
+      90,
+      95,
+      100,
+      105,
+      110,
+      115
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "CROS sistemi duymayan kulağı duyar hale getirir mi? #shorts",
+  "aciklama": "CROS sisteminde kötü kulağa yalnız mikrofon ve verici içeren bir cihaz takılır ve ses kablosuz olarak iyi kulaktaki alıcıya gönderilir. CROS kötü kulağı iyileştirmez, yalnız onun tarafındaki sesi iyi kulağa taşır; yön bulma geri gelmez ve gürültü kötü taraftaysa o da taşınır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "işitmecihazı",
+   "CROS"
+  ],
+  "etiketler": [
+   "CROS",
+   "BiCROS",
+   "tek taraflı sağırlık",
+   "baş gölgesi etkisi",
+   "yön bulma",
+   "işitme cihazı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "CROS sistemi duymayan kulağı duyar hale getirir mi?",
+  "bilgiler": [
+   "Kötü kulaktaki cihaz yalnız mikrofon ve verici içerir.",
+   "CROS kötü kulağı iyileştirmez; o taraftaki sesi iyi kulağa taşır.",
+   "Yön bulma geri gelmez; karar deneme dönemiyle verilir."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "işitmecihazı",
+   "CROS"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #289",
+   "metin": "Kötü kulak *duyar mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "CROS sistemi duymayan kulağı duyar hale getirir mi?"
+   ]
+  },
+  {
+   "id": "cros",
+   "tur": "zincir",
+   "baslik": "CROS *nasıl* çalışır?",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Kötü taraf",
+     "tr": "mikrofon, verici",
+     "cumle": 0
+    },
+    {
+     "ad": "Kablosuz",
+     "tr": "sesi taşır",
+     "cumle": 1
+    },
+    {
+     "ad": "İyi kulak",
+     "tr": "sesi duyar",
+     "cumle": 2
+    }
+   ],
+   "alt": "Yön bulma _geri gelmez_",
+   "alt_cumle": 4,
+   "cumleler": [
+    "Kötü kulağa yalnız mikrofon ve verici içeren bir cihaz takılır.",
+    "Bu cihaz sesi kablosuz olarak iyi kulaktaki alıcıya gönderir.",
+    "Yani CROS kötü kulağı iyileştirmez; yalnız onun tarafındaki sesi taşır.",
+    "Araçta yan koltuktaki kişiyi duymak gibi durumlarda yarar büyüktür.",
+    "Ama yön bulma geri gelmez; gürültü kötü taraftaysa o da taşınır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D194",
+ "kaynak_baslik": "İki kulak, CROS ve BiCROS"
+}

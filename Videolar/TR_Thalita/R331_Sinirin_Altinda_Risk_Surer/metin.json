@@ -1,0 +1,133 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R331_Sinirin_Altinda_Risk_Surer_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #331",
+  "baslik": "Sınırın altında *risk sürer*",
+  "alt": "NIOSH'un risk hesabı",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "frekanslar": [
+    250,
+    500,
+    1000,
+    2000,
+    3000,
+    4000,
+    6000,
+    8000
+   ],
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      10,
+      15,
+      30,
+      50,
+      40,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      35,
+      55,
+      45,
+      25
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Gürültü sınırının altında kalmak riski sıfırlar mı? #shorts",
+  "aciklama": "Hiçbir sınır değer riski sıfıra indirmez, yalnız kabul edilebilir bir düzeye çeker. NIOSH'un 1998 tarihli ölçüt belgesine göre 40 yıllık çalışma hayatı boyunca 85 dB(A)'ya maruz kalanlarda bile fazladan işitme kaybı riski yaklaşık yüzde 8, 90 dB(A)'da ise yaklaşık yüzde 25'tir.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "gürültü",
+   "işsağlığı"
+  ],
+  "etiketler": [
+   "NIOSH",
+   "gürültü maruziyeti",
+   "sınır değer",
+   "gürültüye bağlı işitme kaybı",
+   "odyometrik izlem",
+   "iş sağlığı",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Gürültü sınırının altında kalmak riski sıfırlar mı?",
+  "bilgiler": [
+   "Hiçbir sınır değer riski sıfıra indirmez.",
+   "NIOSH: 40 yılda 85 dB(A)'da fazladan risk yaklaşık yüzde 8.",
+   "90 dB(A)'da bu risk yaklaşık yüzde 25'e çıkar."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "gürültü",
+   "işsağlığı"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #331",
+   "metin": "Risk *sıfır mı?*",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Gürültü sınırının altında kalmak riski sıfırlar mı?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "*40 yılda* fazladan risk",
+   "sayi": "8",
+   "birim": "%",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Hiçbir sınır değer riski sıfıra indirmez; yalnız kabul edilebilir düzeye çeker.",
+    "ABD'deki NIOSH, kırk yıllık çalışma hayatı için riski hesapladı.",
+    "Seksen beş desibel A'da bile fazladan işitme kaybı riski yaklaşık yüzde sekizdir.",
+    "Doksan desibel A'da bu risk yaklaşık yüzde yirmi beşe çıkar.",
+    "Bu yüzden eylem değerlerinin altında bile izlem ve eğitim değerlidir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D222",
+ "kaynak_baslik": "Gürültü maruziyet sınırları"
+}

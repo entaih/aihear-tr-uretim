@@ -1,0 +1,1322 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D240_Intraoperatif_Olcumler_TR",
+ "kapak": {
+  "ust": "DERS 240",
+  "baslik": "İntraoperatif<br>*ölçümler*",
+  "alt": "Empedans, ECAP ve ESRT",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "İntraoperatif Ölçümler: Empedans, ECAP ve ESRT | Ders 240 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Koklear implant ameliyatında, hasta uyurken implantın ve işitme sinirinin çalıştığını nasıl anlarız? Bu derste telemetriyle yapılan elektrot empedansı ölçümünü, kısa ve açık devreyi, elektriksel uyarılmış bileşik aksiyon potansiyelini (ECAP) ve elektriksel stapes refleks eşiğini (ESRT) öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Hughes, Objective Measures in Cochlear Implants; Katz, Handbook of Clinical Audiology; Hall, New Handbook of Auditory Evoked Responses.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "ECAP"
+  ],
+  "etiketler": [
+   "koklear implant",
+   "intraoperatif ölçüm",
+   "elektrot empedansı",
+   "ECAP",
+   "electrically evoked compound action potential",
+   "ESRT",
+   "elektriksel stapes refleksi",
+   "telemetri",
+   "kısa devre",
+   "açık devre",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 240",
+   "baslik": "İntraoperatif *ölçümler*",
+   "alt": "Empedans, ECAP ve ESRT",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste koklear implant ameliyatı sırasında, hasta uyurken yapılan ölçümleri öğreneceğiz.",
+    "Elektrot empedansını, elektriksel uyarılmış bileşik aksiyon potansiyelini, kısaca ECAP'yi ve elektriksel stapes refleksini göreceğiz."
+   ]
+  },
+  {
+   "id": "neden",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden ölçeriz?",
+   "baslik": "Ameliyathanede *neden* ölçeriz?",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Elektrot yerleşir",
+     "cumle": 0,
+     "metin": "Dizi koklea içinde"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Empedans",
+     "cumle": 2,
+     "metin": "Elektrotlar sağlam mı?"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ECAP",
+     "cumle": 3,
+     "metin": "Sinir yanıt veriyor mu?"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ESRT",
+     "cumle": 4,
+     "metin": "Refleks yolu çalışıyor mu?"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Kayıt",
+     "cumle": 5,
+     "metin": "Programlama için başlangıç"
+    }
+   ],
+   "cumleler": [
+    "Cerrah elektrot dizisini koklea içine yerleştirip alıcı-uyarıcıyı sabitledikten sonra, ameliyathanede kısa bir ölçüm dönemi başlar.",
+    "Bu ölçümleri çoğu zaman odyolog yapar; hasta genel anestezi altındadır ve hiçbir yanıt vermesi gerekmez.",
+    "İlk soru, implantın ve her bir elektrodun teknik olarak sağlam olup olmadığıdır; bunu empedans ölçümü yanıtlar.",
+    "İkinci soru, işitme sinirinin elektriksel uyarıya yanıt verip vermediğidir; bunu ECAP gösterir.",
+    "Üçüncü soru, uyarının beyin sapındaki refleks yolunu harekete geçirip geçirmediğidir; bunu elektriksel stapes refleksi gösterir.",
+    "Sonuçlar kaydedilir ve hem ameliyat sonrası karşılaştırmalar hem de ilk programlama için başlangıç noktası olur."
+   ]
+  },
+  {
+   "id": "telemetri",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden ölçeriz?",
+   "baslik": "*Telemetri*: implantla konuşmak",
+   "cizim": "koklear_implant",
+   "etiketler": [
+    {
+     "parca": "verici_bobin",
+     "metin": "bobin: komut gider",
+     "cumle": 1
+    },
+    {
+     "parca": "alici_uyarici",
+     "metin": "alıcı-uyarıcı: ölçer",
+     "cumle": 2
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "metin": "elektrot dizisi",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "verici_bobin",
+     "cumle": 1
+    },
+    {
+     "parca": "alici_uyarici",
+     "cumle": 2
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Komut bobinden iç üniteye",
+     "cumle": 1,
+     "ikon": "yazilim"
+    },
+    {
+     "metin": "Ölçüm sonucu geri döner",
+     "cumle": 4,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Bobin steril kılıf içinde",
+     "cumle": 5,
+     "ikon": "hastane"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "alici_uyarici",
+     "cumle": 2,
+     "olcek": 1.8
+    },
+    {
+     "parca": "elektrot_dizisi",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Ameliyatta implanta kablo bağlanmaz; ölçümler, telemetri (telemetry) denen kablosuz iki yönlü bir bağlantıyla yapılır.",
+    "Bilgisayara bağlı bir arayüz, deri üzerine konan bobin aracılığıyla iç üniteye komut gönderir.",
+    "Alıcı-uyarıcı bu komutla belirli bir elektrottan küçük bir akım verir ve oluşan gerilimi ölçer.",
+    "Gerekirse komşu bir elektrot, koklea içinde oluşan sinir yanıtını kaydetmek için kayıt elektrodu olarak kullanılır.",
+    "Ölçülen değerler aynı bağlantıyla geri gönderilir ve bilgisayar ekranında görünür.",
+    "Ameliyat alanı steril olduğu için bobin steril bir kılıfın içinde, ince bir örtü üzerinden kullanılır.",
+    "Aynı telemetri, ameliyattan sonra her kontrolde de kullanılır; yani bu ölçümler yalnız ameliyata özgü değildir."
+   ]
+  },
+  {
+   "id": "empedans",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Elektrot empedansı",
+   "baslik": "Elektrot *empedansı*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Elektrot (örnek dizi)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 30,
+     "adim": 5,
+     "ad": "Empedans (kiloohm)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        1,
+        7
+       ],
+       [
+        2,
+        6.5
+       ],
+       [
+        3,
+        7.5
+       ],
+       [
+        4,
+        8
+       ],
+       [
+        5,
+        7
+       ],
+       [
+        8,
+        6.5
+       ],
+       [
+        9,
+        7
+       ],
+       [
+        10,
+        7.5
+       ],
+       [
+        11,
+        8
+       ],
+       [
+        12,
+        8.5
+       ]
+      ],
+      "renk": "mavi",
+      "cumle": 2
+     },
+     {
+      "ad": "acik",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        6,
+        30
+       ]
+      ],
+      "renk": "kirmizi",
+      "cumle": 5
+     },
+     {
+      "ad": "kisa",
+      "tur": "cubuk",
+      "noktalar": [
+       [
+        7,
+        0.8
+       ]
+      ],
+      "renk": "sari",
+      "cumle": 6
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "beklenen",
+      "y": [
+       4,
+       12
+      ],
+      "renk": "yesil",
+      "etiket": "örnek beklenen aralık",
+      "cumle": 3
+     }
+    ]
+   },
+   "etiketler": [
+    {
+     "parca": "acik",
+     "metin": "çok yüksek: açık devre",
+     "cumle": 5
+    },
+    {
+     "parca": "kisa",
+     "metin": "çok düşük: kısa devre",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Empedans (impedance), elektrik akımının bir yoldan geçerken karşılaştığı direnci anlatır ve kiloohm birimiyle ifade edilir.",
+    "Her elektrottan bilinen küçük bir akım verilir, oluşan gerilim ölçülür ve gerilimin akıma oranı hesaplanır; bu Ohm yasasıdır.",
+    "Elektrot empedansı (electrode impedance), elektrodun yüzeyine, çevresindeki sıvıya ve dokuya bağlıdır.",
+    "Her sistemin kendi beklenen aralığı vardır; bu grafikteki değerler yalnızca örnektir.",
+    "Klinik açıdan önemli olan, bir elektrodun beklenen aralığın çok dışına çıkıp çıkmadığıdır.",
+    "Bu örnekte altıncı elektrotta çok yüksek bir değer görülüyor; bu bir açık devreyi düşündürür.",
+    "Yedinci elektrotta ise çok düşük bir değer var; bu da bir kısa devreyi düşündürür."
+   ]
+  },
+  {
+   "id": "devre",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Elektrot empedansı",
+   "baslik": "Kısa devre ve *açık devre*",
+   "ogeler": [
+    {
+     "ikon": "uyari",
+     "baslik": "Kısa devre",
+     "cumle": 0,
+     "metin": "Empedans çok düşük"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Sonuç",
+     "cumle": 2,
+     "metin": "Uyarım yanlış yere gider"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Açık devre",
+     "cumle": 3,
+     "metin": "Empedans çok yüksek"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Ne yapılır?",
+     "cumle": 5,
+     "metin": "Yeniden ölç, gerekirse kapat"
+    }
+   ],
+   "cumleler": [
+    "Kısa devre (short circuit), iki elektrot ya da bağlantı teli arasında olmaması gereken bir temas olduğunda ortaya çıkar.",
+    "Bu durumda akım dokuya yayılmadan iki elektrot arasında kalır; ölçülen empedans beklenenden çok düşüktür.",
+    "Kısa devredeki elektrotlar kullanılırsa uyarım istenmeyen yere gider ve ses kalitesi bozulabilir.",
+    "Açık devre (open circuit) ise akımın yolunun kesildiğini gösterir; empedans çok yüksek ya da ölçülemez düzeydedir.",
+    "Nedeni kopuk bir bağlantı teli olabilir; ameliyatta elektrot yüzeyindeki küçük bir hava kabarcığı da geçici olarak bunu yapabilir.",
+    "Bu yüzden ameliyatta yüksek çıkan bir değer, birkaç dakika sonra ya da kontrolde yeniden ölçülür.",
+    "Kalıcı açık ya da kısa devre gösteren elektrotlar programlamada kapatılır ve harita kalan elektrotlarla yapılır."
+   ]
+  },
+  {
+   "id": "zaman",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Elektrot empedansı",
+   "baslik": "Empedans *zamanla* değişir",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 12,
+     "ad": "Ameliyattan sonra hafta",
+     "isaretler": [
+      0,
+      2,
+      4,
+      6,
+      8,
+      10,
+      12
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 15,
+     "adim": 5,
+     "ad": "Empedans (göreli)"
+    },
+    "seriler": [
+     {
+      "ad": "seyir",
+      "noktalar": [
+       [
+        0,
+        6
+       ],
+       [
+        1,
+        9
+       ],
+       [
+        2,
+        11
+       ],
+       [
+        3,
+        12
+       ],
+       [
+        4,
+        12.3
+       ],
+       [
+        5,
+        8.5
+       ],
+       [
+        6,
+        7.2
+       ],
+       [
+        8,
+        6.6
+       ],
+       [
+        10,
+        6.4
+       ],
+       [
+        12,
+        6.4
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "isaretli": true,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "aktivasyon",
+      "x": 4,
+      "y": 12.3,
+      "cizgi": "dikey",
+      "etiket": "aktivasyon",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "artis",
+      "x": [
+       0,
+       4
+      ],
+      "renk": "sari",
+      "etiket": "uyarısız dönem",
+      "cumle": 1
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "artis",
+     "cumle": 1
+    },
+    {
+     "parca": "aktivasyon",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Empedans ameliyattan sonra sabit kalmaz; bu grafik tipik seyri örnek değerlerle gösteriyor.",
+    "Ameliyattan aktivasyona kadarki uyarısız dönemde, elektrot çevresindeki doku tepkisiyle empedans çoğu zaman yükselir.",
+    "Elektrotlar düzenli uyarılmaya başlayınca empedans genellikle ilk günlerde düşer ve sonra dengelenir.",
+    "Bu yüzden ilk aktivasyonda empedans her zaman yeniden ölçülür; ameliyattaki değerler programlama için yeterli değildir.",
+    "Empedans yüksekse aynı akımı vermek için daha yüksek gerilim gerekir; implantın verebileceği gerilimin bir üst sınırı vardır.",
+    "Bu sınıra, yani uyum gerilimi sınırına (compliance limit) ulaşılınca darbe süresi uzatılır; bunu programlama dersinde göreceğiz."
+   ]
+  },
+  {
+   "id": "ecap",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "ECAP",
+   "baslik": "*ECAP*: sinirin elektriksel yanıtı",
+   "cizim": "koklea_kesit",
+   "etiketler": [
+    {
+     "parca": "scala_tympani",
+     "metin": "elektrot burada",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "metin": "spiral ganglion",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "metin": "koklear sinir",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "scala_tympani",
+     "cumle": 2
+    },
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 3
+    },
+    {
+     "parca": "koklear_sinir",
+     "cumle": 4
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Uyaran: tek elektriksel darbe",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Kayıt: komşu elektrot",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Uyku ve anesteziden etkilenmez",
+     "cumle": 6,
+     "ikon": "dogru"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "spiral_ganglion",
+     "cumle": 3,
+     "olcek": 1.8
+    },
+    {
+     "parca": "genel",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "İkinci ölçüm, elektriksel uyarılmış bileşik aksiyon potansiyeli (electrically evoked compound action potential), kısaca ECAP'dir.",
+    "ECAP, işitme siniri liflerinin bir elektriksel darbeye verdiği eş zamanlı, toplu yanıttır.",
+    "Elektrot skala timpanide yer alır ve kısa bir darbe verir.",
+    "Darbe, yakındaki spiral ganglion hücrelerini ve sinir liflerini aynı anda uyarır.",
+    "Liflerin hep birlikte ateşlemesi, koklear sinir boyunca küçük ama ölçülebilir bir elektriksel yanıt oluşturur.",
+    "Bu yanıt, uyarılan elektroda yakın başka bir elektrotla, koklea içinden kaydedilir.",
+    "ECAP, elektrokokleografideki aksiyon potansiyelinin elektriksel karşılığıdır; uyku ve anesteziden belirgin biçimde etkilenmez."
+   ]
+  },
+  {
+   "id": "dalga",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "ECAP",
+   "baslik": "N1 ve P2: *dalga biçimi*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 1.6,
+     "ad": "Zaman (milisaniye)",
+     "isaretler": [
+      0,
+      0.4,
+      0.8,
+      1.2,
+      1.6
+     ],
+     "ond": 1
+    },
+    "y": {
+     "min": -400,
+     "max": 200,
+     "adim": 100,
+     "ad": "Genlik (mikrovolt)"
+    },
+    "seriler": [
+     {
+      "ad": "ecap",
+      "noktalar": [
+       [
+        0.1,
+        -0.6
+       ],
+       [
+        0.125,
+        -2.7
+       ],
+       [
+        0.15,
+        -9.5
+       ],
+       [
+        0.175,
+        -27.8
+       ],
+       [
+        0.2,
+        -67.1
+       ],
+       [
+        0.225,
+        -132.8
+       ],
+       [
+        0.25,
+        -216.4
+       ],
+       [
+        0.275,
+        -290.0
+       ],
+       [
+        0.3,
+        -319.4
+       ],
+       [
+        0.325,
+        -288.9
+       ],
+       [
+        0.35,
+        -214.0
+       ],
+       [
+        0.375,
+        -128.0
+       ],
+       [
+        0.4,
+        -58.4
+       ],
+       [
+        0.425,
+        -13.1
+       ],
+       [
+        0.45,
+        14.1
+       ],
+       [
+        0.475,
+        33.2
+       ],
+       [
+        0.5,
+        50.9
+       ],
+       [
+        0.525,
+        69.8
+       ],
+       [
+        0.55,
+        89.7
+       ],
+       [
+        0.575,
+        109.0
+       ],
+       [
+        0.6,
+        125.3
+       ],
+       [
+        0.625,
+        136.2
+       ],
+       [
+        0.65,
+        140.0
+       ],
+       [
+        0.675,
+        136.2
+       ],
+       [
+        0.7,
+        125.3
+       ],
+       [
+        0.725,
+        109.0
+       ],
+       [
+        0.75,
+        89.8
+       ],
+       [
+        0.775,
+        69.9
+       ],
+       [
+        0.8,
+        51.5
+       ],
+       [
+        0.825,
+        35.9
+       ],
+       [
+        0.85,
+        23.7
+       ],
+       [
+        0.875,
+        14.8
+       ],
+       [
+        0.9,
+        8.7
+       ],
+       [
+        0.925,
+        4.9
+       ],
+       [
+        0.95,
+        2.6
+       ],
+       [
+        0.975,
+        1.3
+       ],
+       [
+        1.0,
+        0.6
+       ],
+       [
+        1.025,
+        0.3
+       ],
+       [
+        1.05,
+        0.1
+       ],
+       [
+        1.075,
+        0.0
+       ],
+       [
+        1.1,
+        0.0
+       ],
+       [
+        1.125,
+        0.0
+       ],
+       [
+        1.15,
+        0.0
+       ],
+       [
+        1.175,
+        0.0
+       ],
+       [
+        1.2,
+        0.0
+       ],
+       [
+        1.225,
+        0.0
+       ],
+       [
+        1.25,
+        0.0
+       ],
+       [
+        1.275,
+        0.0
+       ],
+       [
+        1.3,
+        0.0
+       ],
+       [
+        1.325,
+        0.0
+       ],
+       [
+        1.35,
+        0.0
+       ],
+       [
+        1.375,
+        0.0
+       ],
+       [
+        1.4,
+        0.0
+       ],
+       [
+        1.425,
+        0.0
+       ],
+       [
+        1.45,
+        0.0
+       ],
+       [
+        1.475,
+        0.0
+       ],
+       [
+        1.5,
+        0.0
+       ],
+       [
+        1.525,
+        0.0
+       ],
+       [
+        1.55,
+        0.0
+       ],
+       [
+        1.575,
+        0.0
+       ],
+       [
+        1.6,
+        0.0
+       ]
+      ],
+      "renk": "mavi",
+      "yumusak": true,
+      "kalin": 4,
+      "cumle": 0
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "n1",
+      "x": 0.3,
+      "y": -320,
+      "etiket": "N1",
+      "dolu": true,
+      "cumle": 1
+     },
+     {
+      "ad": "p2",
+      "x": 0.65,
+      "y": 140,
+      "etiket": "P2",
+      "dolu": true,
+      "cumle": 2
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "genlik",
+      "y": [
+       -320,
+       140
+      ],
+      "xk": 1.0,
+      "etiket": "N1-P2 genliği",
+      "cumle": 3
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "artefakt",
+      "x": [
+       0,
+       0.1
+      ],
+      "renk": "gri",
+      "etiket": "artefakt",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "n1",
+     "cumle": 1
+    },
+    {
+     "parca": "p2",
+     "cumle": 2
+    },
+    {
+     "parca": "artefakt",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bu grafik örnek bir ECAP dalga biçimini gösteriyor; zaman ekseni yalnızca bir buçuk milisaniye kadardır.",
+    {
+     "yazi": "Yanıtın ilk ve en belirgin bileşeni, yaklaşık 0,2 ile 0,4 milisaniye arasında görülen negatif tepe N1'dir.",
+     "ses": "Yanıtın ilk ve en belirgin bileşeni, yaklaşık sıfır virgül iki ile sıfır virgül dört milisaniye arasında görülen negatif tepe ne birdir."
+    },
+    "Onu daha küçük, pozitif bir tepe olan P2 izler.",
+    "Yanıtın büyüklüğü, N1 ile P2 arasındaki farktan ölçülür ve mikrovolt düzeyindedir.",
+    "Asıl güçlük, uyaran darbesinin kayıt elektrodunda yanıttan çok daha büyük bir elektriksel artefakt oluşturmasıdır.",
+    "Bu artefaktı azaltmak için ileri maskeleme ile çıkarma ya da zıt kutuplu darbelerin ortalaması gibi yöntemler kullanılır.",
+    "Yazılımlarda bu ölçüm üreticiye göre farklı adlarla geçer; ama hepsi aynı sinir yanıtını kaydeder."
+   ]
+  },
+  {
+   "id": "buyume",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "ECAP",
+   "baslik": "Büyüme fonksiyonu ve *eşik*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 140,
+     "max": 220,
+     "ad": "Uyarı düzeyi (akım birimi)",
+     "isaretler": [
+      140,
+      160,
+      180,
+      200,
+      220
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 500,
+     "adim": 100,
+     "ad": "N1-P2 genliği (mikrovolt)"
+    },
+    "seriler": [
+     {
+      "ad": "olcumler",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        175,
+        45
+       ],
+       [
+        180,
+        90
+       ],
+       [
+        185,
+        135
+       ],
+       [
+        190,
+        180
+       ],
+       [
+        195,
+        225
+       ],
+       [
+        200,
+        270
+       ],
+       [
+        205,
+        315
+       ],
+       [
+        210,
+        360
+       ],
+       [
+        215,
+        405
+       ],
+       [
+        220,
+        450
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "cumle": 1
+     },
+     {
+      "ad": "egri",
+      "noktalar": [
+       [
+        170,
+        0
+       ],
+       [
+        220,
+        450
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "cumle": 2
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esik",
+      "x": 170,
+      "y": 0,
+      "dus": "x",
+      "dolu": true,
+      "etiket": "ECAP eşiği",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "esik",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "ECAP yalnız tek bir düzeyde değil, giderek artan birkaç akım düzeyinde ölçülür.",
+    "Akım arttıkça daha fazla sinir lifi uyarılır ve yanıtın genliği büyür.",
+    "Genliğin akımla artışını gösteren bu eğriye büyüme fonksiyonu (amplitude growth function) denir.",
+    "Yanıtın ilk görüldüğü ya da eğrinin uzatılıp sıfıra indiği düzey, ECAP eşiği olarak kabul edilir.",
+    "Eğrinin eğimi, uyarılabilen sinir liflerinin sayısı ve eş zamanlılığı hakkında dolaylı bilgi verir.",
+    "Ameliyatta genellikle dizi boyunca seçilen birkaç elektrotta ölçüm yapılır; böylece dizinin her bölgesi temsil edilir."
+   ]
+  },
+  {
+   "id": "ecap_klinik",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "ECAP",
+   "baslik": "ECAP neyi *söyler*, neyi söylemez?",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Sinir yanıtı",
+     "cumle": 0,
+     "metin": "Uyarılabilir lifler var"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Programlama",
+     "cumle": 1,
+     "metin": "Düzeylerin profili için"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yanıt yoksa",
+     "cumle": 3,
+     "metin": "Kesin sonuç değil"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Sınır",
+     "cumle": 5,
+     "metin": "Davranışsal ölçüm gerekir"
+    }
+   ],
+   "cumleler": [
+    "Ameliyatta ECAP alınması, elektrotların uyarılabilir sinir liflerine ulaştığını gösterir ve ekip için güven vericidir.",
+    "ECAP eşikleri, ilk programlamada eşik ve konfor düzeylerinin elektrotlar boyunca nasıl değiştiğini tahmin etmeye yardım eder.",
+    "Çoğu kişide ECAP eşiği, davranışsal eşik ile konfor düzeyi arasında, çoğu zaman konfor düzeyine daha yakın bir yerdedir.",
+    "ECAP'nin alınamaması implantın çalışmadığı anlamına gelmez; bazı kişiler ECAP alınmadan da implanttan yarar görür.",
+    "Koklear sinir yetersizliği, iç kulak anomalileri ya da teknik nedenler yanıtı küçültebilir veya kaybettirebilir.",
+    "ECAP ile programlama düzeyleri arasındaki ilişki orta düzeydedir; bu yüzden ECAP davranışsal ölçümün yerine değil, yanına konur."
+   ]
+  },
+  {
+   "id": "esrt",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "ESRT",
+   "baslik": "Elektriksel *stapes refleksi*",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 2,
+    "kontra_cumle": 5
+   },
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "implantlı koklea",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius",
+     "metin": "stapedius kasılır",
+     "cumle": 3
+    },
+    {
+     "parca": "karsi_stapedius",
+     "metin": "karşı kulakta ölçüm",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 2
+    },
+    {
+     "parca": "stapedius",
+     "cumle": 3
+    },
+    {
+     "parca": "karsi_stapedius",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Üçüncü ölçüm, elektriksel stapes refleks eşiği (electrically evoked stapedial reflex threshold), kısaca ESRT'dir.",
+    "Akustik refleks dersinde stapedius kasının yüksek şiddetli sese kasıldığını görmüştük; aynı refleks elektrikle de tetiklenebilir.",
+    "İmplant işitme sinirini uyarır ve uyarı, beyin sapındaki refleks arkı üzerinden yüz sinirine geçer.",
+    "Ameliyatta cerrah, mikroskopla stapedius tendonunu ya da stapesi izler ve akım artırılırken kasılmanın görüldüğü düzeyi bildirir.",
+    "Bu, gözle yapılan bir ölçümdür ve bir elektrot için yalnızca birkaç saniye sürer.",
+    "Ameliyattan sonra ise ESRT, çoğu zaman karşı kulağa yerleştirilen immitans probuyla, admitans değişikliği izlenerek ölçülür.",
+    "ESRT, kişinin en yüksek rahat dinleme düzeyiyle iyi bir ilişki gösterir; bu yüzden programlamada üst sınır için değerli bir ipucudur.",
+    "Refleksin görüldüğü düzey çoğu zaman bu konfor düzeyine yakındır ya da biraz üzerindedir."
+   ]
+  },
+  {
+   "id": "esrt_etki",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "ESRT",
+   "baslik": "ESRT'yi *etkileyenler*",
+   "ogeler": [
+    {
+     "ikon": "ilac",
+     "baslik": "Anestezi",
+     "cumle": 0,
+     "metin": "Gazlar eşiği yükseltebilir"
+    },
+    {
+     "ikon": "kulak_tikali",
+     "baslik": "Orta kulak",
+     "cumle": 2,
+     "metin": "Sıvı ölçümü engeller"
+    },
+    {
+     "ikon": "yanlis",
+     "baslik": "Kesilmiş tendon",
+     "cumle": 3,
+     "metin": "Refleks görülmez"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Sinir ve anomali",
+     "cumle": 4,
+     "metin": "Yanıt alınmayabilir"
+    }
+   ],
+   "cumleler": [
+    "Bazı anestezi gazları ve kas gevşetici ilaçlar refleks eşiğini yükseltebilir ya da refleksi baskılayabilir.",
+    "Bu yüzden ameliyattaki ESRT çoğu zaman uyanık kişide ölçülenden daha yüksektir; anestezi ekibiyle zamanlama konuşulur.",
+    "Ameliyattan sonra karşı kulakta sıvı ya da başka bir orta kulak sorunu varsa, refleks probla ölçülemeyebilir.",
+    "Daha önceki bir ameliyatta stapedius tendonu kesilmişse, o tarafta refleks görülmez.",
+    "Koklear sinir yetersizliğinde ve bazı anomalilerde ise refleks hiç elde edilemeyebilir.",
+    "Bu nedenle ESRT'nin alınamaması tek başına bir sorun işareti değildir; diğer ölçümlerle birlikte yorumlanır."
+   ]
+  },
+  {
+   "id": "diger",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Diğer ölçümler",
+   "baslik": "Ameliyatta *diğer* ölçümler",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Görüntüleme",
+     "cumle": 0,
+     "metin": "Dizinin yeri ve katlanma"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ECochG",
+     "cumle": 2,
+     "metin": "Kalan işitmeyi izleme"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "EABR",
+     "cumle": 4,
+     "metin": "Beyin sapı yanıtı"
+    }
+   ],
+   "cumleler": [
+    "Pek çok merkezde ameliyat sonunda bir röntgen ya da tomografi ile elektrot dizisinin koklea içindeki yeri kontrol edilir.",
+    "Bu görüntü, dizinin ucunun geri katlanması gibi nadir ama önemli sorunları ameliyathanedeyken gösterebilir.",
+    "Kalan işitmeyi korumaya çalışılan ameliyatlarda, elektrot ilerletilirken elektrokokleografi, kısaca ECochG ile koklea yanıtı izlenebilir.",
+    "Yanıtta ani bir düşüş, cerraha elektrodun kokleaya zarar vermiş olabileceğini anlatır.",
+    "Sinir şüpheli ise seçilmiş vakalarda elektriksel uyarılmış işitsel beyin sapı yanıtı, kısaca EABR de kaydedilebilir.",
+    "Bu ölçümlerin hangisinin rutin olarak yapılacağı merkezden merkeze değişir."
+   ]
+  },
+  {
+   "id": "tablo",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Diğer ölçümler",
+   "baslik": "Ölçümler *bir bakışta*",
+   "ogeler": [
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Empedans",
+     "cumle": 0,
+     "metin": "Elektrot bütünlüğü"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "ECAP",
+     "cumle": 1,
+     "metin": "Sinir yanıtı, düzey profili"
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "ESRT",
+     "cumle": 2,
+     "metin": "Üst düzey tahmini"
+    },
+    {
+     "ikon": "rapor",
+     "baslik": "Görüntüleme",
+     "cumle": 3,
+     "metin": "Dizinin yeri"
+    }
+   ],
+   "cumleler": [
+    "Empedans, her elektrodun teknik bütünlüğünü gösterir ve hangi elektrotların kullanılacağına karar verdirir.",
+    "ECAP, işitme sinirinin uyarılabildiğini gösterir ve düzeylerin elektrotlar boyunca profilini tahmin ettirir.",
+    "ESRT, refleks yolunun çalıştığını gösterir ve en yüksek konfor düzeyi için bir tahmin sunar.",
+    "Görüntüleme ise dizinin yerini ve katlanma olup olmadığını gösterir.",
+    "Bu ölçümlerin hiçbiri tek başına kişinin implanttan ne kadar yarar göreceğini söylemez."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Ameliyattaki empedans, ECAP ve ESRT değerlerini kaydedin ve aktivasyonda karşılaştırın. Yanıt alınamadıysa aileye bunun tek başına başarısızlık olmadığını anlatın.",
+   "cumleler": [
+    "Sahadan bir ipucu: ameliyattaki ölçüm sonuçlarını, hangi elektrotlarda ve hangi düzeylerde yapıldığıyla birlikte ayrıntılı kaydedin.",
+    "İlk aktivasyonda aynı ölçümleri tekrarlayıp karşılaştırmak, değişen bir elektrodu erken fark etmenizi sağlar.",
+    "Aileye ölçümlerin cihazın ve sinirin durumunu gösterdiğini, sonucu tek başına belirlemediğini anlatın.",
+    "Bir ölçüm alınamadıysa nedenini ve ne zaman tekrarlanacağını sakin ve açık bir dille açıklayın."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Telemetri: kablosuz iki yönlü ölçüm",
+     "cumle": 0,
+     "ikon": "koklear_implant"
+    },
+    {
+     "metin": "Empedans: kısa ve açık devre",
+     "cumle": 1,
+     "ikon": "kontrol_listesi"
+    },
+    {
+     "metin": "ECAP: sinirin eş zamanlı yanıtı",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "ESRT: konfor düzeyine yakın refleks",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "cumleler": [
+    "İntraoperatif ölçümler, hasta yanıt vermeden telemetri yoluyla implantın içinden yapılır.",
+    "Empedans her elektrodun bütünlüğünü gösterir; çok düşük değer kısa devreyi, çok yüksek değer açık devreyi düşündürür.",
+    "ECAP işitme sinirinin elektriksel darbeye eş zamanlı yanıtıdır; eşiği programlama profilini tahmin etmeye yardım eder.",
+    "ESRT stapedius kasının elektriksel uyarıya kasılmasıdır ve en yüksek konfor düzeyine yakın bir değer verir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Çok yüksek empedans neyi düşündürür?",
+   "secenekler": [
+    "Kısa devre",
+    "Açık devre",
+    "Normal sinir yanıtı",
+    "Yüksek ECAP genliği"
+   ],
+   "dogru": 1,
+   "aciklama": "Akımın yolu kesilmiştir: _açık devre_; hava kabarcığı geçici neden olabilir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: ameliyatta bir elektrotta beklenenden çok yüksek empedans ölçülürse ilk akla gelen nedir?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: açık devre.",
+     "ses": "Doğru cevap be şıkkı: açık devre."
+    },
+    "Akımın yolu kesildiğinde empedans çok yükselir; ameliyatta elektrot yüzeyindeki hava kabarcığı da geçici olarak buna yol açabilir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Kodlama stratejileri: *CIS*, ACE ve ince yapı",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste implantın sesi elektrik darbelerine nasıl kodladığını, yani kodlama stratejilerini öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

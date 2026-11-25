@@ -1,0 +1,1009 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D243_Cocukta_Implant_Programlama_TR",
+ "kapak": {
+  "ust": "DERS 243",
+  "baslik": "Çocukta implant<br>*programlama*",
+  "alt": "ECAP, ESRT ve davranışsal doğrulama",
+  "cizim": "koklear_implant"
+ },
+ "youtube": {
+  "baslik": "Çocuklarda İmplant Programlama ve Objektif Ölçümler | Ders 243 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Ses yüksekliğini söyleyemeyen bir bebeğin implant haritası nasıl yapılır? Bu derste ECAP ve ESRT ile harita tahminini, yaşa uygun davranışsal doğrulamayı, serbest alanda yaklaşık 20 ile 30 dB HL hedeflenen cihazlı eşikleri, gelişim takibini ve günlük cihaz kontrolünü öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Wolfe, Cochlear Implants: Audiologic Management and Considerations for Implantable Hearing Devices; Wolfe ve Schafer, Programming Cochlear Implants; Hughes, Objective Measures in Cochlear Implants; Madell, Flexer, Wolfe ve Schafer, Pediatric Audiology: Diagnosis, Technology, and Management; Sharma ve arkadaşları (2002), A sensitive period for the development of the central auditory system in children with cochlear implants, Ear and Hearing.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "koklearimplant",
+   "pediatrikodyoloji"
+  ],
+  "etiketler": [
+   "çocukta koklear implant",
+   "implant programlama",
+   "objektif programlama",
+   "ECAP",
+   "ESRT",
+   "cihazlı eşik",
+   "aided threshold",
+   "davranışsal doğrulama",
+   "VRA",
+   "oyun odyometrisi",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 243",
+   "baslik": "Çocukta implant *programlama*",
+   "alt": "ECAP, ESRT ve davranışsal doğrulama",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste ses yüksekliğini bize söyleyemeyen küçük çocuklarda implant haritasının nasıl oluşturulduğunu öğreneceğiz.",
+    "Objektif ölçümlerle tahmini, yaşa uygun davranışsal doğrulamayı ve cihazlı eşiklerle sonucu kontrol etmeyi ele alacağız."
+   ]
+  },
+  {
+   "id": "farklar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden farklı?",
+   "baslik": "Çocukta programlama *neden* farklı?",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Bildiremez",
+     "cumle": 0,
+     "metin": "Yüksekliği söyleyemez"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Kısa dikkat",
+     "cumle": 1,
+     "metin": "Kısa, sık oturumlar"
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Aşırı uyarım",
+     "cumle": 2,
+     "metin": "Ürkme, cihazı reddetme"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Kritik dönem",
+     "cumle": 4,
+     "metin": "Erken doğru erişim"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Yetişkin T ve C düzeylerini kendisi bildirir; bebek ve küçük çocuk ise ne zaman duyduğunu ya da sesin ne kadar yüksek olduğunu söyleyemez.",
+     "ses": "Yetişkin te ve ce düzeylerini kendisi bildirir; bebek ve küçük çocuk ise ne zaman duyduğunu ya da sesin ne kadar yüksek olduğunu söyleyemez."
+    },
+    "Çocuğun dikkat süresi kısadır; bu yüzden oturumlar kısa tutulur ve sık tekrarlanır.",
+    "Fazla yüksek uyarı çocuğu korkutabilir ve işlemciyi takmayı reddetmesine yol açabilir.",
+    "Fazla düşük uyarı ise konuşma seslerini duyulamaz hale getirir ve gelişimi yavaşlatır.",
+    "İşitsel beynin en esnek olduğu bu dönemde, konuşma seslerine erken ve tutarlı erişim büyük önem taşır.",
+    "Bu nedenle çocukta programlama objektif ölçümler, davranış gözlemi ve aile bildirimlerinin birlikte kullanıldığı bir süreçtir."
+   ]
+  },
+  {
+   "id": "yol",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Neden farklı?",
+   "baslik": "Çocukta haritanın *yolu*",
+   "adimlar": [
+    {
+     "ikon": "hastane",
+     "baslik": "Ameliyat verileri",
+     "cumle": 0,
+     "metin": "Empedans, ECAP, ESRT"
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Objektif tahmin",
+     "cumle": 1,
+     "metin": "Düzeylerin profili"
+    },
+    {
+     "ikon": "goz",
+     "baslik": "Davranış",
+     "cumle": 2,
+     "metin": "Gözlem ve koşullama"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "Cihazlı eşik",
+     "cumle": 3,
+     "metin": "Serbest alanda"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Gelişim",
+     "cumle": 4,
+     "metin": "Beceri ve dil"
+    }
+   ],
+   "cumleler": [
+    "Süreç ameliyattaki ölçümlerle başlar; empedans ve elektriksel uyarılmış bileşik aksiyon potansiyeli, kısaca ECAP ilk haritaya yol gösterir.",
+    "Objektif ölçümler, düzeylerin elektrotlar boyunca nasıl değiştiğini, yani profili tahmin ettirir.",
+    "Davranışsal gözlem ve yaşa uygun test yöntemleri, tahmin edilen düzeylerin doğru olup olmadığını gösterir.",
+    "Serbest alanda ölçülen cihazlı eşikler, haritanın konuşma seslerini duyulabilir kılıp kılmadığını kontrol eder.",
+    "Son olarak çocuğun işitsel becerileri ve dil gelişimi izlenir; gelişim beklenenden yavaşsa harita yeniden gözden geçirilir.",
+    "Bu basamaklar bir kez değil, ilk yıllar boyunca her kontrolde döngü halinde tekrarlanır."
+   ]
+  },
+  {
+   "id": "ecap_profil",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "ECAP ile tahmin",
+   "baslik": "ECAP'den *harita profiline*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0.5,
+     "max": 12.5,
+     "ad": "Elektrot (örnek)",
+     "isaretler": [
+      1,
+      2,
+      3,
+      4,
+      5,
+      6,
+      7,
+      8,
+      9,
+      10,
+      11,
+      12
+     ]
+    },
+    "y": {
+     "min": 100,
+     "max": 200,
+     "adim": 20,
+     "ad": "Akım düzeyi"
+    },
+    "seriler": [
+     {
+      "ad": "ecap_esikleri",
+      "tur": "nokta",
+      "noktalar": [
+       [
+        1,
+        180
+       ],
+       [
+        2,
+        176
+       ],
+       [
+        3,
+        174
+       ],
+       [
+        4,
+        177
+       ],
+       [
+        5,
+        172
+       ],
+       [
+        6,
+        170
+       ],
+       [
+        7,
+        172
+       ],
+       [
+        8,
+        175
+       ],
+       [
+        9,
+        171
+       ],
+       [
+        10,
+        173
+       ],
+       [
+        11,
+        176
+       ],
+       [
+        12,
+        179
+       ]
+      ],
+      "renk": "lacivert",
+      "isaretli": true,
+      "etiket": "ECAP eşikleri",
+      "cumle": 0
+     },
+     {
+      "ad": "baslangic_c",
+      "noktalar": [
+       [
+        1,
+        168
+       ],
+       [
+        2,
+        164
+       ],
+       [
+        3,
+        162
+       ],
+       [
+        4,
+        165
+       ],
+       [
+        5,
+        160
+       ],
+       [
+        6,
+        158
+       ],
+       [
+        7,
+        160
+       ],
+       [
+        8,
+        163
+       ],
+       [
+        9,
+        159
+       ],
+       [
+        10,
+        161
+       ],
+       [
+        11,
+        164
+       ],
+       [
+        12,
+        167
+       ]
+      ],
+      "renk": "mavi",
+      "kesik": true,
+      "etiket": "başlangıç üst düzey",
+      "cumle": 3
+     },
+     {
+      "ad": "baslangic_t",
+      "noktalar": [
+       [
+        1,
+        125
+       ],
+       [
+        2,
+        121
+       ],
+       [
+        3,
+        119
+       ],
+       [
+        4,
+        122
+       ],
+       [
+        5,
+        117
+       ],
+       [
+        6,
+        115
+       ],
+       [
+        7,
+        117
+       ],
+       [
+        8,
+        120
+       ],
+       [
+        9,
+        116
+       ],
+       [
+        10,
+        118
+       ],
+       [
+        11,
+        121
+       ],
+       [
+        12,
+        124
+       ]
+      ],
+      "renk": "gri",
+      "kesik": true,
+      "etiket": "tahmini T",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ecap_esikleri",
+     "cumle": 1
+    },
+    {
+     "parca": "baslangic_c",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Bu örnekte birkaç elektrotta ölçülmüş ECAP eşikleri görülüyor.",
+    "ECAP eşiklerinin mutlak değeri davranışsal düzeyleri tam vermez, ama düzeylerin elektrotlar boyunca biçimini, yani profilini iyi yansıtır.",
+    {
+     "yazi": "Çoğu çocukta ECAP eşiği T ile C arasında, çoğu zaman C'ye yakın bir yerdedir; bazı çocuklarda ise C düzeyinin üzerinde kalabilir.",
+     "ses": "Çoğu çocukta ECAP eşiği te ile ce arasında, çoğu zaman ce'ye yakın bir yerdedir; bazı çocuklarda ise ce düzeyinin üzerinde kalabilir."
+    },
+    "Bu yüzden pek çok merkez ilk haritada üst düzeyleri ECAP profilinin biçimini izleyerek ama onun biraz altında başlatır.",
+    {
+     "yazi": "T düzeyleri de aynı profile göre tahmin edilebilir; ya da üst düzeyin belirli bir oranı olarak atanır.",
+     "ses": "te düzeyleri de aynı profile göre tahmin edilebilir; ya da üst düzeyin belirli bir oranı olarak atanır."
+    },
+    "Ardından bütün profil canlı seste, çocuğun tepkisi izlenerek birlikte yukarı ya da aşağı kaydırılır.",
+    "Kullanılan oranlar ve kurallar merkeze ve cihaza göre değişir; grafikteki değerler yalnızca örnektir."
+   ]
+  },
+  {
+   "id": "ecap_olcum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "ECAP ile tahmin",
+   "baslik": "Uyanık çocukta *ECAP*",
+   "maddeler": [
+    {
+     "metin": "Uyku ya da sedasyon gerekmez",
+     "cumle": 0,
+     "ikon": "bebek"
+    },
+    {
+     "metin": "Çocuk video izleyebilir",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Birkaç elektrot, birkaç dakika",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Ara elektrotlar tahmin edilir",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Değişim izlenir",
+     "cumle": 4,
+     "ikon": "takvim"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "AVANTAJ",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Yanıt gerekmez",
+      "cumle": 0,
+      "metin": "Davranıştan bağımsız"
+     },
+     {
+      "ikon": "kronometre",
+      "baslik": "Hızlı",
+      "cumle": 2,
+      "metin": "Oturum kısa"
+     }
+    ]
+   },
+   "cumleler": [
+    "ECAP, uyku ve anesteziden belirgin biçimde etkilenmediği için uyanık çocukta da güvenle ölçülebilir.",
+    "Ölçüm sırasında çocuk kucakta oturup sessiz bir video izleyebilir ya da oyuncakla oynayabilir.",
+    "Genellikle dizi boyunca seçilen birkaç elektrotta ölçüm yapılır ve bu birkaç dakika sürer.",
+    "Ölçülmeyen elektrotların değerleri komşularından ara değer olarak tahmin edilir.",
+    "ECAP eşikleri ilk aylarda değişebilir; bu yüzden kontrollerde tekrarlanıp karşılaştırılır.",
+    "Ameliyatta ECAP alınamayan çocuklarda, aktivasyondan sonra yanıt alınabildiği de olur."
+   ]
+  },
+  {
+   "id": "esrt",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "ESRT ile tahmin",
+   "baslik": "*ESRT* ile üst sınır",
+   "cizim": "akustik_refleks_arki",
+   "ayar": {
+    "uyarilan": "sag",
+    "ipsi_cumle": 1,
+    "kontra_cumle": 1
+   },
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "implant uyarır",
+     "cumle": 1
+    },
+    {
+     "parca": "karsi_stapedius",
+     "metin": "probla ölçülür",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "karsi_stapedius",
+     "cumle": 1
+    },
+    {
+     "parca": "kontralateral_yol",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "İkinci objektif araç, ameliyat sonrası ölçülen elektriksel stapes refleks eşiği, yani ESRT'dir.",
+    "İmplant tek bir elektrodu ya da birkaç elektrodu birlikte uyarırken, karşı kulaktaki immitans probu admitans değişikliğini izler.",
+    "Ölçüm için çocuğun birkaç saniye hareketsiz ve sakin durması gerekir; emzik emmek ya da konuşmak kaydı bozabilir.",
+    "ESRT, en yüksek konfor düzeyiyle iyi bir ilişki gösterir; çoğu merkez üst düzeyleri ESRT'nin üzerine çıkarmamaya özen gösterir.",
+    "Karşı kulakta orta kulak sıvısı varsa refleks ölçülemez; bu yüzden önce timpanometri yapılır.",
+    "Bazı çocuklarda orta kulak normal olsa da refleks alınamaz; bu durumda harita diğer bilgilere dayanır.",
+    "ESRT ve ECAP birlikte kullanıldığında, haritanın hem biçimi hem de üst sınırı için daha güvenilir bir tahmin elde edilir."
+   ]
+  },
+  {
+   "id": "siralama",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "ESRT ile tahmin",
+   "baslik": "Bir elektrotta *tipik sıra*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 100,
+     "max": 220,
+     "ad": "Akım düzeyi (örnek)",
+     "isaretler": [
+      100,
+      130,
+      160,
+      190,
+      220
+     ]
+    },
+    "y": {
+     "min": 0,
+     "max": 1,
+     "isaretler": [],
+     "ad": ""
+    },
+    "isaretler": [
+     {
+      "ad": "t",
+      "x": 125,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "T",
+      "cumle": 0
+     },
+     {
+      "ad": "ecap",
+      "x": 168,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "ECAP eşiği",
+      "cumle": 1
+     },
+     {
+      "ad": "c",
+      "x": 185,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "C/M",
+      "cumle": 2
+     },
+     {
+      "ad": "esrt",
+      "x": 198,
+      "y": 0.5,
+      "cizgi": "dikey",
+      "etiket": "ESRT",
+      "cumle": 3
+     }
+    ],
+    "araliklar": [
+     {
+      "ad": "guvenli",
+      "x": [
+       125,
+       198
+      ],
+      "y": 0.85,
+      "etiket": "harita bu aralıkta kurulur",
+      "cumle": 4
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "ecap",
+     "cumle": 1
+    },
+    {
+     "parca": "esrt",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Bu şema bir elektrottaki düzeylerin çoğu kişide görülen sırasını özetliyor; en altta T düzeyi var.",
+     "ses": "Bu şema bir elektrottaki düzeylerin çoğu kişide görülen sırasını özetliyor; en altta te düzeyi var."
+    },
+    "ECAP eşiği çoğu zaman dinamik aralığın üst yarısındadır.",
+    "Konfor düzeyi bunun biraz üzerinde yer alır.",
+    "ESRT ise çoğu zaman konfor düzeyine yakın ya da biraz üzerindedir.",
+    "Bu sıralama genel bir eğilimdir, kesin bir kural değildir; her çocukta davranışsal gözlemle doğrulanır.",
+    "Ölçümler birbirine uymuyorsa daha temkinli olan değer seçilir ve çocuk yakından izlenir."
+   ]
+  },
+  {
+   "id": "davranis",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Davranışsal doğrulama",
+   "baslik": "Yaşa göre *davranışsal* yöntem",
+   "ogeler": [
+    {
+     "ikon": "bebek",
+     "baslik": "Davranış gözlemi",
+     "cumle": 0,
+     "metin": "Emme, göz açma, durma"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "VRA",
+     "cumle": 2,
+     "metin": "Altı aydan itibaren"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Oyun odyometrisi",
+     "cumle": 4,
+     "metin": "Yaklaşık iki buçuk yaş"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Bildirim",
+     "cumle": 5,
+     "metin": "Okul çağında"
+    }
+   ],
+   "cumleler": [
+    "En küçük bebeklerde davranış gözlemi kullanılır; emmenin durması, gözlerin açılması ya da hareketin kesilmesi yanıt kabul edilebilir.",
+    {
+     "yazi": "Bu yanıtlar çoğu zaman eşiğin üzerinde ortaya çıkar; bu yüzden tek başına T düzeyi koymak için güvenilir değildir.",
+     "ses": "Bu yanıtlar çoğu zaman eşiğin üzerinde ortaya çıkar; bu yüzden tek başına te düzeyi koymak için güvenilir değildir."
+    },
+    "Yaklaşık altı aylıktan itibaren görsel pekiştirmeli odyometri, kısaca VRA ile her elektrotta ya da canlı seste yanıt alınabilir.",
+    "Elektrotlar programlama yazılımından tek tek çalınır; çocuk başını çevirdiğinde ışıklı oyuncakla ödüllendirilir.",
+    "Yaklaşık iki buçuk yaştan sonra koşullu oyun odyometrisiyle, sesi duyunca bir oyun hareketi yapması öğretilir.",
+    "Okul çağına doğru çocuk ses yüksekliğini resimli ölçekle bildirebilir ve elektrotları karşılaştırabilir hale gelir.",
+    "Bu yöntemleri pediatrik odyoloji derslerinde ayrıntılı görmüştük; implant programlamasında aynı ilkelerle uygulanır."
+   ]
+  },
+  {
+   "id": "isaretler",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Davranışsal doğrulama",
+   "baslik": "Aşırı mı, *yetersiz* mi?",
+   "maddeler": [
+    {
+     "metin": "Ağlama, işlemciyi çıkarma",
+     "cumle": 0,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Göz kırpma, ürkme",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Sese ilgisizlik",
+     "cumle": 3,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Ses çıkarmada değişim yok",
+     "cumle": 4,
+     "ikon": "konusma"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "AİLE GÖZLEMİ",
+    "cumle": 5,
+    "ogeler": [
+     {
+      "ikon": "ev",
+      "baslik": "Evde",
+      "cumle": 5,
+      "metin": "Hangi seslere dönüyor?"
+     },
+     {
+      "ikon": "rapor",
+      "baslik": "Not",
+      "cumle": 5,
+      "metin": "Kısa günlük"
+     }
+    ]
+   },
+   "cumleler": [
+    "Uyarı fazla yüksekse çocuk ağlayabilir, işlemciyi ya da bobini çekip çıkarabilir.",
+    "Yüksek seslerde göz kırpma, ürkme ya da yüzde seğirme de fazla uyarımın ya da yüz siniri uyarımının işareti olabilir.",
+    "Bu durumda ilgili düzeyler indirilir ve çocuk bir sonraki kontrolde yeniden değerlendirilir.",
+    "Uyarı yetersizse çocuk ismine ve çevredeki seslere ilgisiz kalabilir.",
+    "Aylar geçtiği halde ses çıkarma ve babıldama davranışında değişiklik olmaması da yetersiz erişimi düşündürür.",
+    "Aile çocuğu en çok gören kişidir; hangi seslere döndüğünü kısa notlarla kaydetmesi programlamaya değerli bilgi sağlar."
+   ]
+  },
+  {
+   "id": "cihazli",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Cihazlı eşikler",
+   "baslik": "Hedef: *20 ile 30* dB HL",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 250,
+     "max": 6000,
+     "log": true,
+     "hz": true,
+     "ad": "Frekans (Hz)",
+     "isaretler": [
+      250,
+      500,
+      1000,
+      2000,
+      4000,
+      6000
+     ]
+    },
+    "y": {
+     "min": -10,
+     "max": 120,
+     "adim": 10,
+     "ad": "İşitme düzeyi (dB HL)",
+     "ters": true
+    },
+    "seriler": [
+     {
+      "ad": "cihazsiz",
+      "noktalar": [
+       [
+        250,
+        95
+       ],
+       [
+        500,
+        105
+       ],
+       [
+        1000,
+        115
+       ],
+       [
+        2000,
+        120
+       ],
+       [
+        4000,
+        120
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "cihazsız (örnek)",
+      "cumle": 0
+     },
+     {
+      "ad": "implantli",
+      "noktalar": [
+       [
+        250,
+        30
+       ],
+       [
+        500,
+        25
+       ],
+       [
+        1000,
+        25
+       ],
+       [
+        2000,
+        25
+       ],
+       [
+        4000,
+        30
+       ],
+       [
+        6000,
+        30
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "kalin": 4,
+      "etiket": "implantla",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "hedef",
+      "y": [
+       20,
+       30
+      ],
+      "renk": "yesil",
+      "etiket": "hedef bölge",
+      "cumle": 3
+     }
+    ]
+   },
+   "vurgula": [
+    {
+     "parca": "hedef",
+     "cumle": 3
+    },
+    {
+     "parca": "implantli",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bu örnekte çocuğun cihazsız eşikleri çok ileri derecede; tiz frekanslarda cihaz sınırında bile yanıt yok.",
+    "Haritanın sonucunu görmek için çocuk hoparlörün karşısına oturtulur ve frekansa özgü uyaranlarla serbest alanda eşikler bulunur.",
+    "Uyaran olarak frekans modülasyonlu tonlar ya da dar bant gürültü kullanılır; saf ton hoparlörde duran dalgalar oluşturabilir.",
+    "Koklear implantla cihazlı eşiklerin, 250 ile 6000 Hz arasında yaklaşık 20 ile 30 dB HL düzeyinde olması hedeflenir.",
+    {
+     "yazi": "Bu düzey yumuşak konuşmanın da duyulduğunu gösterir; eşikler belirgin biçimde kötüyse T düzeyleri ve mikrofon duyarlılığı gözden geçirilir.",
+     "ses": "Bu düzey yumuşak konuşmanın da duyulduğunu gösterir; eşikler belirgin biçimde kötüyse te düzeyleri ve mikrofon duyarlılığı gözden geçirilir."
+    },
+    {
+     "yazi": "Eşikler beklenmedik ölçüde iyiyse, T düzeylerinin fazla yüksek olup olmadığı düşünülür; çünkü bu sürekli bir arka plan uyarısı yaratabilir.",
+     "ses": "Eşikler beklenmedik ölçüde iyiyse, te düzeylerinin fazla yüksek olup olmadığı düşünülür; çünkü bu sürekli bir arka plan uyarısı yaratabilir."
+    },
+    "Cihazlı eşikler tek başına yeterli değildir; çocuk büyüdükçe kelime ve cümle testleriyle konuşma algısı da ölçülür."
+   ]
+  },
+  {
+   "id": "gelisim",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Cihazlı eşikler",
+   "baslik": "Gelişimi *izlemek*",
+   "ogeler": [
+    {
+     "ikon": "rapor",
+     "baslik": "Anketler",
+     "cumle": 0,
+     "metin": "Aile bildirimi"
+    },
+    {
+     "ikon": "kontrol_listesi",
+     "baslik": "Beceri basamakları",
+     "cumle": 1,
+     "metin": "Fark etmeden anlamaya"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Kortikal yanıt",
+     "cumle": 3,
+     "metin": "P1 latansı"
+    },
+    {
+     "ikon": "saat",
+     "baslik": "Veri kaydı",
+     "cumle": 4,
+     "metin": "Günlük kullanım saati"
+    }
+   ],
+   "cumleler": [
+    "Küçük çocukta gelişim, anlamlı işitsel bütünleşme ölçekleri gibi standart aile anketleriyle düzenli aralıklarla izlenir.",
+    "İşitsel beceri basamakları, yani fark etme, ayırt etme, tanıma ve anlama, ilerlemenin çerçevesini oluşturur.",
+    "Dil ve konuşma terapistinin değerlendirmesi, çocuğun dil gelişimini yaşıtlarıyla karşılaştırır.",
+    "Sharma ve arkadaşlarının gösterdiği gibi, kortikal yanıtlarda P1 latansı işitsel korteksin olgunlaşmasını izlemekte kullanılabilir.",
+    "İşlemcinin veri kaydı, çocuğun günde kaç saat implant kullandığını ve hangi ortamlarda bulunduğunu gösterir.",
+    "Kullanım süresi düşükse, önce bunun nedeni aileyle birlikte ele alınır; çünkü hiçbir harita kullanılmayan bir işlemciyle işe yaramaz."
+   ]
+  },
+  {
+   "id": "takvim",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Cihazlı eşikler",
+   "baslik": "İlk yılın *takvimi*",
+   "adimlar": [
+    {
+     "ikon": "koklear_implant",
+     "baslik": "Aktivasyon",
+     "cumle": 0,
+     "metin": "İlk harita"
+    },
+    {
+     "ikon": "takvim",
+     "baslik": "İlk haftalar",
+     "cumle": 1,
+     "metin": "Sık ayar"
+    },
+    {
+     "ikon": "odyogram",
+     "baslik": "İlk aylar",
+     "cumle": 2,
+     "metin": "Cihazlı eşikler"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Sonrası",
+     "cumle": 4,
+     "metin": "Seyrekleşen kontroller"
+    }
+   ],
+   "cumleler": [
+    "Aktivasyon günü ilk harita yapılır; çocuklarda bu harita çoğu zaman bilinçli olarak temkinlidir.",
+    "İlk haftalarda düzeyler hızla değiştiği için kontroller sıktır; bazı merkezler ilk ay içinde birkaç kez görüşür.",
+    "İlk aylarda cihazlı eşikler ve davranışsal düzeyler giderek daha güvenilir ölçülür.",
+    "Düzeyler dengelenince kontrol aralıkları uzar; ancak çocuklarda yetişkinlere göre daha sık izlem sürer.",
+    "Her kontrolde empedans, düzeyler, cihazlı eşikler, veri kaydı ve aile gözlemleri birlikte değerlendirilir.",
+    "Takvim merkezden merkeze değişir; önemli olan, sorunların gelişim kaybına yol açmadan yakalanmasıdır."
+   ]
+  },
+  {
+   "id": "gunluk",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "Cihazlı eşikler",
+   "baslik": "Evde *günlük kontrol*",
+   "ogeler": [
+    {
+     "ikon": "isitme_cihazi",
+     "baslik": "Donanım",
+     "cumle": 0,
+     "metin": "Pil, kablo, bobin"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Dinleme kontrolü",
+     "cumle": 1,
+     "metin": "İzleme kulaklığı"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Ling sesleri",
+     "cumle": 2,
+     "metin": "Her sabah"
+    },
+    {
+     "ikon": "telefon",
+     "baslik": "Haber verme",
+     "cumle": 4,
+     "metin": "Ani değişimde ara"
+    }
+   ],
+   "cumleler": [
+    "Aile her sabah pilin dolu olduğunu, kablonun sağlam olduğunu ve bobinin yerinde durduğunu kontrol eder.",
+    "Bazı işlemciler için izleme kulaklığı ya da uygulama, mikrofonun çalıştığını dinleyerek ya da göstergeyle kontrol etmeyi sağlar.",
+    "Ardından Ling altı ses testiyle çocuğun her sese yanıt verip vermediğine bakılır.",
+    "Çocuk daha önce yanıt verdiği bir sese yanıt vermiyorsa ya da işlemciyi birden reddetmeye başladıysa merkez aranır.",
+    "Bu basit kontroller, bir arızanın ya da harita sorununun günlerce fark edilmeden kalmasını önler."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Çocuğun tok, dinlenmiş ve sakin olduğu saate randevu verin. Bir ebeveyni gözlemci yapın; yanıtları birlikte kaydedin ve oturumu kısa tutun.",
+   "cumleler": [
+    "Sahadan bir ipucu: çocuk programlama randevusunu, onun tok, dinlenmiş ve sakin olduğu saate planlayın.",
+    "Oturuma bir ebeveyni gözlemci olarak dahil edin; o, çocuğun küçük tepkilerini sizden daha iyi tanır.",
+    "Her yanıtın hangi elektrotta ve hangi düzeyde alındığını kaydedin; bir sonraki kontrolde bu kayıt size yol gösterir.",
+    "Çocuk yorulduğunda zorlamayın; kısa ve başarılı bir oturum, uzun ve ağlamalı bir oturumdan daha fazla bilgi verir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "ECAP: düzeylerin profilini verir",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "ESRT: üst sınır için yol gösterir",
+     "cumle": 1,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Davranışla doğrulama şart",
+     "cumle": 2,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Cihazlı eşik: yaklaşık 20 ile 30 dB HL",
+     "cumle": 3,
+     "ikon": "odyogram"
+    }
+   ],
+   "cumleler": [
+    "ECAP eşikleri uyanık çocukta ölçülebilir ve haritanın elektrotlar boyunca profilini tahmin ettirir.",
+    "ESRT konfor düzeyine yakın bir değer verir ve üst düzeyler için güvenli bir sınır sunar.",
+    "Objektif tahminler yaşa uygun davranışsal yöntemlerle ve aile gözlemleriyle doğrulanır.",
+    "Serbest alanda cihazlı eşiklerin yaklaşık 20 ile 30 dB HL olması hedeflenir; gelişim ve kullanım süresi düzenli izlenir."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "Cihazlı eşik hedefi nedir?",
+   "secenekler": [
+    "0 ile 10 dB HL",
+    "20 ile 30 dB HL",
+    "50 ile 60 dB HL",
+    "70 dB HL ve üzeri"
+   ],
+   "dogru": 1,
+   "aciklama": "Bu düzey _yumuşak konuşmanın_ da duyulabildiğini gösterir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: implantlı bir çocukta serbest alanda cihazlı eşikler için genellikle hangi düzey hedeflenir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: yaklaşık 20 ile 30 dB HL.",
+    "Bu düzey yumuşak konuşma seslerinin de duyulabildiğini gösterir; belirgin biçimde kötü eşikler haritanın gözden geçirilmesini gerektirir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "*Bimodal* işitme ve iki taraflı implant",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste bir kulakta implant, diğerinde işitme cihazı kullanımını ve iki taraflı implantı öğreneceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

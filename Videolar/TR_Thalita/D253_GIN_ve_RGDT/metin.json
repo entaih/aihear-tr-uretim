@@ -1,0 +1,882 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D253_GIN_ve_RGDT_TR",
+ "kapak": {
+  "ust": "DERS 253",
+  "baslik": "Zamansal testler:<br>*GIN*, RGDT",
+  "alt": "Boşluk saptamayı ölçmek",
+  "cizim": "dalga_bicimi",
+  "ayar": {
+   "seriler": [
+    "gurultu"
+   ]
+  }
+ },
+ "youtube": {
+  "baslik": "Zamansal işlemleme testleri: GIN ve RGDT | Ders 253 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Zamansal çözünürlük klinikte boşluk saptama testleriyle ölçülür. Bu derste gürültüde boşluklar testinin (GIN) uygulanışını, yaklaşık eşiğin bulunmasını ve normlarını, rastgele boşluk saptama testinin (RGDT) yapısını ve 20 milisaniyelik sınırını, iki testin farklarını ve sonuçları etkileyen etkenleri öğreniyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Musiek ve ark., GIN (Gaps-In-Noise) test performance in subjects with confirmed central auditory nervous system involvement, Ear and Hearing (2005); Keith, Random Gap Detection Test, Auditec (2000); American Speech-Language-Hearing Association, (Central) Auditory Processing Disorders, Technical Report (2005); Musiek ve Chermak, Handbook of Central Auditory Processing Disorder; Katz, Handbook of Clinical Audiology.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "APD",
+   "zamansalişlemleme"
+  ],
+  "etiketler": [
+   "GIN testi",
+   "gaps-in-noise",
+   "RGDT",
+   "random gap detection test",
+   "boşluk saptama eşiği",
+   "gap detection threshold",
+   "zamansal çözünürlük",
+   "temporal resolution",
+   "işitsel işlemleme bozukluğu",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 253",
+   "baslik": "Zamansal testler: *GIN* ve RGDT",
+   "alt": "Boşluk saptamayı klinikte ölçmek",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste zamansal çözünürlüğü klinikte ölçen iki testi, gürültüde boşluklar testini ve rastgele boşluk saptama testini öğreneceğiz.",
+    "Testlerin nasıl uygulandığını, nasıl puanlandığını ve sonuçları hangi etkenlerin değiştirdiğini ele alacağız."
+   ]
+  },
+  {
+   "id": "bosluk",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Zamansal çözünürlük",
+   "baslik": "Gürültünün içinde *bir boşluk*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Zaman (ms)"
+    },
+    "y": {
+     "min": 0,
+     "max": 1.2,
+     "isaretler": [
+      0,
+      1
+     ],
+     "yazilar": {
+      "0": "sessiz",
+      "1": "gürültü"
+     },
+     "ad": "Gürültü zarfı"
+    },
+    "seriler": [
+     {
+      "ad": "gurultu",
+      "noktalar": [
+       [
+        0,
+        1
+       ],
+       [
+        45,
+        1
+       ],
+       [
+        45,
+        0
+       ],
+       [
+        51,
+        0
+       ],
+       [
+        51,
+        1
+       ],
+       [
+        100,
+        1
+       ]
+      ],
+      "renk": "lacivert",
+      "kalin": true,
+      "etiket": "gürültü",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "bosluk",
+      "x": [
+       45,
+       51
+      ],
+      "renk": "sari",
+      "etiket": "boşluk",
+      "cumle": 2
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Kısa sessizliği _fark etmek_",
+     "cumle": 2,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "Konuşmada ünsüz ipuçları",
+     "cumle": 3,
+     "ikon": "konusma"
+    },
+    {
+     "metin": "Klinik test: _kendi normu_",
+     "cumle": 6,
+     "ikon": "kitap"
+    }
+   ],
+   "cumleler": [
+    "Zamansal çözünürlük, sesteki çok kısa değişimleri ayırt edebilmektir; en sık boşluk saptama (gap detection) ile ölçülür.",
+    "Grafikte süregiden bir gürültünün içine yerleştirilmiş birkaç milisaniyelik bir sessizliği görüyoruz.",
+    "Dinleyici bu kısa kesintiyi fark ederse boşluğu algılamış demektir.",
+    "Konuşmada patlamalı ünsüzlerden önceki kısa sessizlikler ve ses başlama zamanı bu beceriye dayanır.",
+    "Zamansal işlemleme dersinde, genç yetişkinlerde laboratuvar koşullarında eşiğin yaklaşık iki ile üç milisaniye olduğunu görmüştük.",
+    "Boşluğu fark etmek, kokleadan kortekse kadar sinir yanıtlarının sesin kesildiği ve yeniden başladığı anı hassas biçimde kodlamasına dayanır.",
+    "Klinik testler ise daha kısa sürede uygulanacak biçimde tasarlanmıştır ve kendi normlarıyla yorumlanır."
+   ]
+  },
+  {
+   "id": "gin",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "GIN testi",
+   "baslik": "GIN *nasıl* uygulanır?",
+   "adimlar": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Gürültü parçası",
+     "cumle": 1,
+     "metin": "Altı saniyelik beyaz gürültü"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Boşluklar",
+     "cumle": 2,
+     "metin": "2 ile 20 ms arası"
+    },
+    {
+     "ikon": "hasta_butonu",
+     "baslik": "Yanıt",
+     "cumle": 3,
+     "metin": "Her boşlukta düğme"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Her kulak",
+     "cumle": 5,
+     "metin": "Ayrı listelerle"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Gürültüde boşluklar testi, kısaca GIN, Musiek ve arkadaşları tarafından 2005 yılında tanımlandı."
+    },
+    "Testte altı saniyelik beyaz gürültü parçaları, aralarında kısa sessiz aralarla art arda verilir.",
+    "Her parçanın içinde hiç boşluk olmayabilir ya da rastgele yerlerde birkaç boşluk bulunabilir; boşluklar 2 ile 20 milisaniye arasındadır.",
+    "Kişi bir boşluk duyduğunda hemen düğmeye basar ya da elini kaldırır.",
+    "Bir listede on farklı boşluk süresinin her biri altı kez, toplam altmış boşluk yer alır.",
+    "Önce bir alıştırma bölümü uygulanır; ardından her kulak farklı bir listeyle ayrı ayrı test edilir.",
+    "Testin dört ayrı listesi vardır; böylece tekrar ölçümde aynı liste kullanılmak zorunda kalınmaz."
+   ]
+  },
+  {
+   "id": "gin_puan",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "GIN testi",
+   "baslik": "Yaklaşık *eşik* nasıl bulunur?",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 1,
+     "max": 21,
+     "isaretler": [
+      2,
+      4,
+      6,
+      8,
+      10,
+      12,
+      15,
+      20
+     ],
+     "ad": "Boşluk süresi (ms)"
+    },
+    "y": {
+     "min": 0,
+     "max": 100,
+     "adim": 20,
+     "ad": "Fark edilme (%)"
+    },
+    "seriler": [
+     {
+      "ad": "ornek",
+      "noktalar": [
+       [
+        2,
+        0
+       ],
+       [
+        3,
+        17
+       ],
+       [
+        4,
+        50
+       ],
+       [
+        5,
+        83
+       ],
+       [
+        6,
+        83
+       ],
+       [
+        8,
+        100
+       ],
+       [
+        10,
+        100
+       ],
+       [
+        12,
+        100
+       ],
+       [
+        15,
+        100
+       ],
+       [
+        20,
+        100
+       ]
+      ],
+      "renk": "mavi",
+      "isaretli": true,
+      "etiket": "örnek kulak",
+      "cumle": 1
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "dortte",
+      "y": [
+       67,
+       100
+      ],
+      "renk": "yesil",
+      "etiket": "altıda en az dört",
+      "cumle": 3
+     }
+    ],
+    "isaretler": [
+     {
+      "ad": "esik",
+      "x": 5,
+      "y": 83,
+      "dus": "x",
+      "etiket": "yaklaşık eşik: 5 ms",
+      "cumle": 4
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "Altıda _en az dört_ doğru",
+     "cumle": 3,
+     "ikon": "dogru"
+    },
+    {
+     "metin": "Ek ölçü: _yüzde doğru_",
+     "cumle": 5,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Yanlış basışlar kaydedilir",
+     "cumle": 6,
+     "ikon": "yanlis"
+    }
+   ],
+   "cumleler": [
+    "Bu grafik, bir kulağın GIN sonucunu örnek değerlerle gösteriyor.",
+    "Her boşluk süresi için, altı denemeden kaçının fark edildiği yüzde olarak işaretlenir.",
+    "Çok kısa boşluklar çoğu zaman kaçırılır; boşluk uzadıkça fark edilme oranı hızla yükselir.",
+    "Yaklaşık eşik, altı denemenin en az dördünde fark edilen ve ondan uzun boşlukların da güvenilir biçimde fark edildiği en kısa boşluktur.",
+    "Bu örnekte yaklaşık eşik 5 milisaniyedir.",
+    "İkinci ölçü, listedeki bütün boşlukların yüzde kaçının doğru fark edildiğidir.",
+    "Boşluk olmadığı halde yapılan basışlar da yanlış yanıt olarak kaydedilir; çok sayıdaysa sonuç güvenilir sayılmaz."
+   ]
+  },
+  {
+   "id": "gin_norm",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "GIN testi",
+   "baslik": "GIN sonuçlarını *yorumlamak*",
+   "ogeler": [
+    {
+     "ikon": "hasta",
+     "baslik": "Yetişkin",
+     "cumle": 0,
+     "metin": "Ortalama yaklaşık 5 ms"
+    },
+    {
+     "ikon": "cocuk",
+     "baslik": "Çocuk",
+     "cumle": 2,
+     "metin": "Yaklaşık 7 yaştan yetişkine yakın"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Merkezi lezyon",
+     "cumle": 4,
+     "metin": "Eşik uzar, yüzde düşer"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Yerel normlar",
+     "cumle": 6,
+     "metin": "Merkezin kendi verisi"
+    }
+   ],
+   "cumleler": [
+    "Kuzey Amerika çalışmalarında normal işiten yetişkinlerde ortalama yaklaşık eşik 5 milisaniye civarında bulundu.",
+    "Doğru yüzdesi ise yaklaşık yüzde yetmiş civarındadır; iki kulak arasında belirgin bir fark beklenmez.",
+    "Çocuklarda yapılan çalışmalar, yaklaşık 7 yaştan itibaren sonuçların yetişkinlere yakın olduğunu düşündürür.",
+    "Ancak bu olgunlaşmanın daha geç yaşlarda tamamlandığını öne süren çalışmalar da vardır.",
+    "Merkezi işitsel sinir sistemi lezyonu olan kişilerde eşik belirgin biçimde uzar ve doğru yüzdesi düşer.",
+    "Testin özgüllüğü yüksek, duyarlılığı ise orta düzeyde bildirilmiştir; yani normal bir sonuç merkezi bir sorunu tümüyle dışlamaz.",
+    "Normlar ülkeden ülkeye biraz değişebildiği için mümkünse merkezin kendi verileri de kullanılmalıdır."
+   ]
+  },
+  {
+   "id": "rgdt",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "RGDT testi",
+   "baslik": "RGDT *nasıl* uygulanır?",
+   "adimlar": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Ton çifti",
+     "cumle": 1,
+     "metin": "500 ile 4000 Hz"
+    },
+    {
+     "ikon": "kronometre",
+     "baslik": "Aralık",
+     "cumle": 2,
+     "metin": "0 ile 40 ms, rastgele"
+    },
+    {
+     "ikon": "konusma",
+     "baslik": "Yanıt",
+     "cumle": 3,
+     "metin": "Bir mi, iki mi?"
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Eşik",
+     "cumle": 5,
+     "metin": "Frekansların ortalaması"
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Rastgele boşluk saptama testi, kısaca RGDT, Keith tarafından 2000 yılında yayımlandı."
+    },
+    "Testte gürültü yerine çok kısa iki ton art arda verilir; tonlar 500, 1000, 2000 ve 4000 hertzdedir.",
+    "İki tonun arasındaki boşluk 0 ile 40 milisaniye arasında değişir ve rastgele sırayla sunulur.",
+    "Kişi her çiftte bir ses mi, iki ses mi duyduğunu söyler ya da parmaklarıyla gösterir.",
+    "İki ses olarak tutarlı biçimde algılanan en kısa aralık, o frekansın boşluk saptama eşiğidir.",
+    "Dört frekansın eşiklerinin ortalaması alınarak bileşik bir eşik hesaplanır; ayrıca tık uyaranlı bir alt test de vardır."
+   ]
+  },
+  {
+   "id": "rgdt_ornek",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "RGDT testi",
+   "baslik": "Örnek RGDT *eşikleri*",
+   "cizim": "grafik",
+   "ayar": {
+    "x": {
+     "min": 400,
+     "max": 5000,
+     "log": true,
+     "hz": true,
+     "isaretler": [
+      500,
+      1000,
+      2000,
+      4000
+     ],
+     "ad": "Frekans (Hz)"
+    },
+    "y": {
+     "min": 0,
+     "max": 45,
+     "adim": 10,
+     "ad": "Boşluk eşiği (ms)"
+    },
+    "seriler": [
+     {
+      "ad": "normal",
+      "noktalar": [
+       [
+        500,
+        10
+       ],
+       [
+        1000,
+        5
+       ],
+       [
+        2000,
+        5
+       ],
+       [
+        4000,
+        5
+       ]
+      ],
+      "renk": "yesil",
+      "isaretli": true,
+      "etiket": "örnek 1",
+      "cumle": 1
+     },
+     {
+      "ad": "uzun",
+      "noktalar": [
+       [
+        500,
+        40
+       ],
+       [
+        1000,
+        30
+       ],
+       [
+        2000,
+        40
+       ],
+       [
+        4000,
+        30
+       ]
+      ],
+      "renk": "kirmizi",
+      "isaretli": true,
+      "etiket": "örnek 2",
+      "cumle": 2
+     }
+    ],
+    "bolgeler": [
+     {
+      "ad": "normal_disi",
+      "y": [
+       20,
+       45
+      ],
+      "renk": "sari",
+      "etiket": "20 ms üzeri",
+      "cumle": 3
+     }
+    ]
+   },
+   "notlar": [
+    {
+     "metin": "20 ms üzeri: _normal dışı_",
+     "cumle": 3,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Frekanslar arası tutarlılık",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Bu grafikte iki çocuğun örnek RGDT eşiklerini görüyoruz.",
+    "Yeşil çizgideki çocukta dört frekansın eşikleri de 5 ile 10 milisaniye arasında.",
+    "Kırmızı çizgideki çocukta ise eşikler 30 ile 40 milisaniyeye uzanıyor.",
+    "Test yazarına göre 20 milisaniyenin üzerindeki eşikler normal dışı kabul edilir ve zamansal bir işlemleme sorununu düşündürür.",
+    "Eşikler frekanslar arasında genellikle birbirine yakındır; tek bir frekansta belirgin sapma tekrar ölçümü gerektirebilir.",
+    "Bu örnekte ikinci çocuğun bileşik eşiği 20 milisaniyenin açıkça üzerindedir."
+   ]
+  },
+  {
+   "id": "rgdt_yorum",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "RGDT testi",
+   "baslik": "RGDT'de *dikkat* edilecekler",
+   "maddeler": [
+    {
+     "metin": "Bir ve iki kavramı _bilinmeli_",
+     "cumle": 0,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Sıfır aralık: dikkat kontrolü",
+     "cumle": 1,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Genişletilmiş sürüm: uzun boşluklar",
+     "cumle": 3,
+     "ikon": "kronometre"
+    },
+    {
+     "metin": "İki kulağa birlikte de verilebilir",
+     "cumle": 4,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Kısa sürer, çocukta pratik",
+     "cumle": 5,
+     "ikon": "saat"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "YANIT",
+    "cumle": 0,
+    "ogeler": [
+     {
+      "ikon": "dogru",
+      "baslik": "Bir ses",
+      "cumle": 0,
+      "metin": "Tek parmak"
+     },
+     {
+      "ikon": "dogru",
+      "baslik": "İki ses",
+      "cumle": 0,
+      "metin": "İki parmak"
+     }
+    ]
+   },
+   "cumleler": [
+    "RGDT, çocuğun bir ve iki kavramını güvenilir biçimde kullanabilmesini gerektirir.",
+    "Boşluksuz verilen çiftler, çocuğun gerçekten dinleyip dinlemediğini anlamak için bir kontrol işlevi görür.",
+    "Sıfır aralıkta sık sık iki ses yanıtı veren bir çocukta sonuç güvenilir değildir.",
+    "Standart aralıklarda iki sesi hiç ayıramayan kişiler için daha uzun boşluklar içeren genişletilmiş bir sürüm vardır.",
+    "Test uygulamada çoğu zaman iki kulağa birlikte verilir; bu yüzden kulaklar arası farkı göstermez.",
+    "Kısa sürmesi ve dil yükünün az olması, çocuklarda pratik bir tarama ve değerlendirme aracı olmasını sağlar."
+   ]
+  },
+  {
+   "id": "karsilastir",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve etkenler",
+   "baslik": "GIN ile RGDT *yan yana*",
+   "ogeler": [
+    {
+     "ikon": "gurultu",
+     "baslik": "Uyaran",
+     "cumle": 0,
+     "metin": "GIN gürültü, RGDT ton çifti"
+    },
+    {
+     "ikon": "soru",
+     "baslik": "Görev",
+     "cumle": 1,
+     "metin": "Boşluğu yakala ya da say"
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Kulak",
+     "cumle": 2,
+     "metin": "GIN kulak kulak"
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Kanıt",
+     "cumle": 3,
+     "metin": "GIN lezyonlarda çalışıldı"
+    }
+   ],
+   "cumleler": [
+    "İki test de boşluk saptamayı ölçer, ama uyaranları farklıdır: GIN geniş bant gürültü, RGDT kısa tonlar kullanır.",
+    "GIN'de kişi uzun bir gürültünün içinde boşluğu yakalamaya çalışır; RGDT'de ise iki sesi sayar.",
+    "GIN her kulağı ayrı test eder; bu, tek taraflı merkezi sorunlarda kulaklar arası farkı görmeye yardım eder.",
+    "GIN, merkezi işitsel sinir sistemi lezyonu kanıtlanmış kişilerde çalışılmış ve klinik duyarlılığı raporlanmıştır.",
+    "RGDT ise kısa ve basit yapısıyla özellikle çocuklarda tarama ve hızlı değerlendirme için yaygın kullanılır.",
+    "İki testin eşikleri birbirinin yerine kullanılamaz; her biri kendi normlarıyla yorumlanır.",
+    "Bir testteki normal dışı sonuç, bataryanın diğer testleriyle karşılaştırılarak değerlendirilir."
+   ]
+  },
+  {
+   "id": "periferik",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve etkenler",
+   "baslik": "Önce *periferik* işitme",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: hava yolu",
+     "cumle": 0
+    },
+    {
+     "isaret": "!",
+     "renk": "yesil",
+     "metin": "Tizde kayıp: _boşluk eşiği_ uzayabilir",
+     "cumle": 2
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       15,
+       25,
+       45,
+       50
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       10,
+       15,
+       15,
+       30,
+       45,
+       55
+      ],
+      "cumle": 0
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 1
+    }
+   },
+   "cumleler": [
+    "Bu örnek odyogramda iki kulakta tiz frekanslarda hafif ile orta derece bir kayıp görülüyor.",
+    "Pes ve orta frekanslar normal sınırlarda.",
+    "Geniş bant gürültüde boşluk saptama tiz frekans bilgisinden de yararlandığı için bu kişide eşik uzayabilir.",
+    "Bu durumda uzun bir GIN eşiği merkezi bir sorundan değil, periferik kayıptan kaynaklanıyor olabilir.",
+    "Bu yüzden zamansal testler, saf ses eşikleriyle birlikte ve uyaranın yeterince duyulur olduğundan emin olunarak yorumlanır."
+   ]
+  },
+  {
+   "id": "etkenler",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve etkenler",
+   "baslik": "Sonucu *değiştiren* etkenler",
+   "ogeler": [
+    {
+     "ikon": "cocuk",
+     "baslik": "Yaş",
+     "cumle": 0,
+     "metin": "Gelişim düzeyi"
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Dikkat",
+     "cumle": 2,
+     "metin": "Uzun test, dalgınlık"
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Uyaran düzeyi",
+     "cumle": 3,
+     "metin": "Duyulabilirlik şart"
+    },
+    {
+     "ikon": "kitap",
+     "baslik": "Alıştırma",
+     "cumle": 4,
+     "metin": "Görevi öğrenme"
+    },
+    {
+     "ikon": "yasli",
+     "baslik": "Yaşlanma",
+     "cumle": 5,
+     "metin": "Eşik uzayabilir"
+    }
+   ],
+   "cumleler": [
+    "Küçük çocuklarda boşluk saptama becerisi henüz gelişmekte olabilir; sonuç yaşa göre normla karşılaştırılmalıdır.",
+    "Bu nedenle tanısal amaçla bu testler genellikle yaklaşık 7 yaşından sonra yorumlanır.",
+    "GIN gibi uzun testlerde dikkat dalgalanması bazı boşlukların kaçırılmasına yol açabilir.",
+    "Uyaranın düzeyi çok düşükse boşluklar duyulabilirlik nedeniyle kaçırılır; uygulanan düzey yönergeye uygun olmalıdır.",
+    "Alıştırma bölümünü atlamak, özellikle ilk listede görevi öğrenme etkisi yaratabilir.",
+    "İleri yaşta, odyogram normal olsa bile boşluk eşiklerinin uzayabildiği bildirilmiştir.",
+    "Bazı kişiler emin olmadığında tahminle basar; bu eğilim, yanlış basışların sayısından anlaşılır."
+   ]
+  },
+  {
+   "id": "klinik",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Yorum ve etkenler",
+   "baslik": "Testler *nerede* işe yarar?",
+   "cizim": "beyin_yan",
+   "vurgula": [
+    {
+     "parca": "temporal_lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "cumle": 1
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "temporal_lob",
+     "metin": "Temporal lob",
+     "cumle": 0
+    },
+    {
+     "parca": "heschl_girusu",
+     "metin": "İşitsel korteks",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Temporal lob lezyonları, epilepsi",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "APD bataryasının _parçası_",
+     "cumle": 2,
+     "ikon": "cocuk"
+    },
+    {
+     "metin": "Tek başına _tanı koymaz_",
+     "cumle": 4,
+     "ikon": "uyari"
+    }
+   ],
+   "cumleler": [
+    "Boşluk saptama, büyük ölçüde temporal lobdaki işitsel korteksin ve ona giden yolların sağlamlığına bağlıdır.",
+    "Bu yüzden GIN, temporal lobu etkileyen lezyonlarda ve bazı epilepsi türlerinde araştırılmış ve uzun eşikler bildirilmiştir.",
+    "İşitsel işlemleme bozukluğu şüphesi olan çocuklarda zamansal testler bataryanın temel parçalarındandır.",
+    "İşitsel nöropatide de sinir yanıtlarının zamanlaması bozulduğu için boşluk eşikleri belirgin biçimde uzayabilir.",
+    "Ancak bu testler tek başına bir hastalığı göstermez; yalnız zamansal çözünürlüğün durumunu anlatır.",
+    "Sonuç her zaman öykü, diğer testler ve gerektiğinde nörolojik değerlendirmeyle birlikte ele alınır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinikte dikkat",
+   "metin": "Zamansal testten önce uyaranın rahat duyulduğunu kontrol edin, alıştırma bölümünü atlamayın ve yanlış basışları not edin.",
+   "cumleler": [
+    "Sahadan bir ipucu: GIN ya da RGDT öncesinde uyaranın her kulakta rahatça duyulduğunu mutlaka kontrol edin.",
+    "Alıştırma bölümünü atlamayın; ilk denemelerde kişinin görevi doğru anladığını gözlemleyin.",
+    "Boşluk olmayan yerde basmalar ya da sıfır aralıkta iki ses yanıtları dikkat sorununa işaret edebilir; bunları rapora yazın.",
+    "Sonuç sınırdaysa testi başka bir gün tekrarlamak, tek bir oturumun yanıltıcılığını azaltır."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "bolum_ad": "Özet ve test",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "GIN: gürültüde _2 ile 20 ms_ boşluklar",
+     "cumle": 0,
+     "ikon": "gurultu"
+    },
+    {
+     "metin": "Yetişkinde yaklaşık eşik: _5 ms_ civarı",
+     "cumle": 1,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "RGDT: ton çifti; _20 ms_ üzeri normal dışı",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Periferik kayıp, yaş ve dikkat etkiler",
+     "cumle": 3,
+     "ikon": "dikkat"
+    }
+   ],
+   "cumleler": [
+    "GIN, altı saniyelik gürültü parçalarının içine 2 ile 20 milisaniyelik boşlukları rastgele yerleştirir ve her kulağı ayrı test eder.",
+    "Yaklaşık eşik, altı denemenin en az dördünde fark edilen en kısa boşluktur; normal yetişkinde yaklaşık 5 milisaniyedir.",
+    "RGDT kısa ton çiftleri arasındaki boşluğu ölçer; 20 milisaniyenin üzerindeki eşik normal dışı kabul edilir.",
+    "İki test de periferik işitme, yaş, dikkat ve uyaran düzeyiyle birlikte, kendi normlarına göre yorumlanır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "bolum_ad": "Özet ve test",
+   "soru": "GIN testinde yaklaşık eşik nasıl tanımlanır?",
+   "secenekler": [
+    "Hiç kaçırılmayan en uzun boşluk",
+    "Altıda en az dört fark edilen",
+    "Tek kez fark edilen en kısa",
+    "Tüm boşlukların ortalaması"
+   ],
+   "dogru": 1,
+   "aciklama": "Yaklaşık eşik, altı denemenin _en az dördünde_ fark edilen en kısa boşluktur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: gürültüde boşluklar testinde yaklaşık eşik nasıl tanımlanır?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: altı denemenin en az dördünde fark edilen en kısa boşluk.",
+    "Bu boşluktan daha uzun olanların da güvenilir biçimde fark edilmesi beklenir; normal yetişkinde değer yaklaşık 5 milisaniyedir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Binaural etkileşim ve uzamsal işlemleme: *LiSN-S* ve MLD",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste iki kulağın birlikte çalışmasını ölçen testleri, uzamsal gürültüde dinleme testini ve maskeleme düzey farkını göreceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

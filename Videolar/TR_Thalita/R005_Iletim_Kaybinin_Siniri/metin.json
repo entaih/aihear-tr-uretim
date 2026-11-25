@@ -1,0 +1,117 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R005_Iletim_Kaybinin_Siniri_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #5",
+  "baslik": "İletim kaybının *sınırı*",
+  "alt": "Neden genellikle 60 dB'yi geçmez?",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      45,
+      40,
+      40,
+      35,
+      35,
+      40
+     ]
+    },
+    {
+     "kulak": "sag",
+     "tip": "kemik",
+     "degerler": [
+      10,
+      10,
+      5,
+      10,
+      10
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "İletim tipi işitme kaybı neden 60 dB'yi geçmez? #shorts",
+  "aciklama": "İletim tipi işitme kaybı genellikle yaklaşık 60 desibeli geçmez; çünkü daha şiddetli sesler kafatası yoluyla zaten kokleaya ulaşır. Bu yüzden çok ileri bir kaybın yalnız iletim bileşeniyle açıklanması beklenmez.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "odyogram",
+   "işitme"
+  ],
+  "etiketler": [
+   "iletim tipi işitme kaybı",
+   "hava-kemik aralığı",
+   "kemik yolu",
+   "işitme kaybı tipleri",
+   "odyogram",
+   "odyoloji",
+   "işitme",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "İletim tipi kayıp neden genellikle altmış desibeli geçmez?",
+  "bilgiler": [
+   "Dış ya da orta kulaktaki sorun iletim tipi kayıp yapar.",
+   "Bu kayıp genellikle yaklaşık 60 desibeli geçmez.",
+   "Daha şiddetli sesler kafatası yoluyla zaten kokleaya ulaşır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "odyogram",
+   "işitme"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #5",
+   "metin": "İletim tipi kayıp neden *altmış desibeli* geçmez?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "İletim tipi kayıp neden genellikle altmış desibeli geçmez?"
+   ]
+  },
+  {
+   "id": "sayi",
+   "tur": "buyuk_sayi",
+   "ust": "İletim tipi kaybın *üst sınırı*",
+   "sayi": "60",
+   "birim": "dB",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "cumleler": [
+    "Dış ya da orta kulaktaki sorun, iletim tipi kayıp yapar.",
+    "Bu kayıp genellikle yaklaşık altmış desibeli geçmez.",
+    "Çünkü daha şiddetli sesler kafatası yoluyla zaten kokleaya ulaşır.",
+    "Bu yüzden çok ileri bir kaybın yalnız iletimle açıklanması beklenmez."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D004",
+ "kaynak_baslik": "İletim tipi, sensörinöral ve mikst kayıp"
+}

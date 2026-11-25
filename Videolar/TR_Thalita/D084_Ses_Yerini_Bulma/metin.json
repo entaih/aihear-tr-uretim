@@ -1,0 +1,657 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D084_Ses_Yerini_Bulma_TR",
+ "kapak": {
+  "ust": "DERS 84",
+  "baslik": "Sesin *yerini* bulmak",
+  "alt": "İkili kuram, öncelik etkisi ve MLD",
+  "cizim": "isitme_yolu",
+  "vurgula": [
+   "superior_oliver"
+  ]
+ },
+ "youtube": {
+  "baslik": "Sesin Yerini Bulma ve Binaural Algı | Ders 84 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Beyin bir sesin nereden geldiğini nasıl bulur? Bu derste lateralizasyon ve lokalizasyon ayrımını, en küçük işitilebilir açıyı, ikili kuramın psikoakustik temellerini, öncelik etkisini, binaural maskeleme düzey farkını ve uzamsal ayrışmanın klinik önemini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Mills (1958), On the minimum audible angle, Journal of the Acoustical Society of America; Litovsky ve ark. (1999), The precedence effect, Journal of the Acoustical Society of America; Blauert, Spatial Hearing; Moore, An Introduction to the Psychology of Hearing; Gelfand, Hearing: An Introduction to Psychological and Physiological Acoustics.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "psikoakustik",
+   "binauralişitme"
+  ],
+  "etiketler": [
+   "sesin yerini bulma",
+   "sound localization",
+   "lateralizasyon",
+   "ikili kuram",
+   "duplex theory",
+   "öncelik etkisi",
+   "precedence effect",
+   "binaural maskeleme düzey farkı",
+   "MLD",
+   "uzamsal ayrışma",
+   "psikoakustik",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 84",
+   "baslik": "Sesin yerini bulma ve *binaural* algı",
+   "alt": "İkili kuram, öncelik etkisi ve MLD",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste beynin bir sesin nereden geldiğini nasıl bulduğunu psikoakustik açıdan öğreneceğiz.",
+    "İkili kuramı, öncelik etkisini ve binaural maskeleme düzey farkını klinik örneklerle göreceğiz."
+   ]
+  },
+  {
+   "id": "lateral",
+   "tur": "karsilastir",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yön algısı",
+   "baslik": "Lateralizasyon mu, *lokalizasyon* mu?",
+   "sol": {
+    "ust": "Lateralizasyon",
+    "maddeler": [
+     {
+      "metin": "Kulaklıkla, _kafa içinde_ algı",
+      "cumle": 0
+     },
+     {
+      "metin": "Ses sağa sola _kayar_",
+      "cumle": 1
+     },
+     {
+      "metin": "Tek ipucu ayrı ayrı _incelenir_",
+      "cumle": 2
+     }
+    ]
+   },
+   "sag": {
+    "ust": "Lokalizasyon",
+    "maddeler": [
+     {
+      "metin": "Serbest alanda, _dışarıda_ algı",
+      "cumle": 3
+     },
+     {
+      "metin": "Yön ve uzaklık birlikte",
+      "cumle": 4
+     },
+     {
+      "metin": "Tüm ipuçları _birlikte_ çalışır",
+      "cumle": 5
+     }
+    ]
+   },
+   "cumleler": [
+    "Kulaklıkla dinlerken sesler çoğu zaman başın içinde, iki kulak arasındaki bir çizgi üzerinde algılanır; buna lateralizasyon denir.",
+    "İki kulağa giden sese küçük bir zaman ya da şiddet farkı eklendiğinde ses görüntüsü bir tarafa doğru kayar.",
+    "Lateralizasyon deneyleri, ipuçlarını birbirinden ayırıp tek tek incelemeye olanak verir.",
+    "Serbest alanda ise sesi başın dışında, uzaydaki bir noktada algılarız; buna lokalizasyon, yani sesin yerini bulma denir.",
+    "Lokalizasyonda yatay yön, yükseklik ve uzaklık birlikte değerlendirilir.",
+    "Gerçek ortamda bütün ipuçları aynı anda çalışır ve beyin bunları birleştirir."
+   ]
+  },
+  {
+   "id": "aci",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yön algısı",
+   "baslik": "Kulak *kaç derece* ayırt eder?",
+   "maddeler": [
+    {
+     "metin": "Önde en küçük açı: _yaklaşık 1 derece_",
+     "cumle": 1,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Yanlarda açı _belirgin büyür_",
+     "cumle": 3,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "1500 ile 2000 Hz: _en zayıf_ bölge",
+     "cumle": 4,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "kart",
+    "ust": "MILLS 1958",
+    "metin": "En küçük işitilebilir açı *önde* en küçüktür",
+    "cumle": 1
+   },
+   "cumleler": [
+    "Yön algısının inceliği, en küçük işitilebilir açı (minimum audible angle) ile ölçülür.",
+    {
+     "yazi": "Mills 1958'de, tam önden gelen tonlarda bu açının en iyi koşulda yaklaşık bir derece olduğunu gösterdi.",
+     "ses": "Mils 1958'de, tam önden gelen tonlarda bu açının en iyi koşulda yaklaşık bir derece olduğunu gösterdi."
+    },
+    "Bu, birkaç metre uzaktaki iki kişiden hangisinin konuştuğunu kolayca ayırt edebilmemiz demektir.",
+    "Ses kaynağı yana doğru kaydıkça açı belirgin biçimde büyür; yani yanlardaki sesleri daha kaba bir doğrulukla yerleştiririz.",
+    "Saf seslerde yaklaşık bin beş yüz ile iki bin hertz civarı, yön ayırt etmenin en zayıf olduğu bölgedir.",
+    "Bu zayıflığın nedenini ikili kuram açıklar."
+   ]
+  },
+  {
+   "id": "kuram",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İkili kuram",
+   "baslik": "İki ipucu, *iki çekirdek*",
+   "cizim": "isitme_yolu",
+   "yakinlastir": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 1,
+     "olcek": 2.2
+    },
+    {
+     "parca": "genel",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 1
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 4
+    }
+   ],
+   "etiketler": [
+    {
+     "parca": "superior_oliver",
+     "metin": "MSO: zaman, LSO: şiddet",
+     "cumle": 2
+    }
+   ],
+   "cumleler": [
+    "Binaural işitme dersinde iki temel ipucunu tanımıştık: kulaklar arası zaman farkı ve kulaklar arası şiddet farkı.",
+    "Bu ipuçları ilk kez superior oliver komplekste, yani üst zeytin çekirdeklerinde karşılaştırılır.",
+    "Medial superior oliva zaman farkını, lateral superior oliva şiddet farkını değerlendirir.",
+    "Lord Rayleigh'in ikili kuramına (duplex theory) göre pes seslerde zaman, tiz seslerde şiddet farkı öne çıkar.",
+    "Bu bilgiler inferior kollikulusta, yani alt tepecikte birleştirilir ve sesin yönüne dair tek bir algıya dönüşür.",
+    "İşitsel korteks de gereklidir; tek taraflı korteks hasarında karşı taraftaki seslerin yerini bulmanın bozulabildiği bildirilmiştir."
+   ]
+  },
+  {
+   "id": "sayilar",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İkili kuram",
+   "baslik": "İpuçlarının *sayıları*",
+   "sutunlar": [
+    "İpucu",
+    "Büyüklük",
+    "Ayırt edilen fark"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "Zaman farkı (ITD)",
+      "0,6 ile 0,7 ms",
+      "10 ile 20 mikrosaniye"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "Şiddet farkı (ILD)",
+      "Tizde 20 dB üzeri",
+      "Yaklaşık 1 dB"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "ITD için sınır",
+      "Yaklaşık 1500 Hz altı",
+      "İnce yapı"
+     ],
+     "cumle": 4,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Kulaklar arası zaman farkı, kısaca ITD, ses tam yandan geldiğinde yetişkinde en çok yaklaşık 0,6 ile 0,7 milisaniyedir.",
+     "ses": "Kulaklar arası zaman farkı, kısaca ITD, ses tam yandan geldiğinde yetişkinde en çok yaklaşık sıfır virgül altı ile sıfır virgül yedi milisaniyedir."
+    },
+    "Buna karşın en iyi koşullarda on ile yirmi mikrosaniyelik farklar ayırt edilebilir; bu da yaklaşık bir derecelik yön farkına karşılık gelir.",
+    "Kulaklar arası şiddet farkı, kısaca ILD, tiz frekanslarda baş gölgesi nedeniyle yirmi desibeli aşabilir.",
+    "İki kulak arasındaki şiddet farkı yaklaşık bir desibel düzeyinde bile ayırt edilebilir.",
+    "Dalganın ince yapısındaki zaman farkı, yaklaşık bin beş yüz hertzin altında güvenilir bir ipucudur.",
+    "Bunun üstünde dalga boyu başın genişliğine yaklaşır ve hangi dalga tepesinin eşleştiği belirsizleşir."
+   ]
+  },
+  {
+   "id": "ek_ipuclari",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "İkili kuram",
+   "baslik": "İkili kuramın *ötesi*",
+   "ogeler": [
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Zarf zaman farkı",
+     "metin": "Tiz karmaşık seslerde",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Kulak kepçesi",
+     "metin": "Yükseklik, ön ve arka",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "Baş hareketi",
+     "metin": "Belirsizliği çözer",
+     "cumle": 5
+    },
+    {
+     "ikon": "hoparlor",
+     "baslik": "Uzaklık",
+     "metin": "Şiddet ve yankı oranı",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "İkili kuram önemli bir çerçevedir, ama yön algısının tamamını açıklamaz.",
+    "Tiz ama karmaşık seslerde, ince yapı yerine sesin zarfındaki zaman farkları da kullanılabilir.",
+    "Kulak kepçesi tiz frekansları sesin geldiği yöne göre farklı biçimde süzer.",
+    "Bu tek kulaklı spektral ipucu, sesin yüksekliğini bulmayı ve önü arkadan ayırmayı sağlar.",
+    "Bu süzme etkisinin tamamına başa bağlı aktarım fonksiyonu, kısaca HRTF denir.",
+    "Başımızı hafifçe çevirmek iki kulaktaki farkları değiştirir ve ön ile arka arasındaki karışıklığı hızla çözer.",
+    "Uzaklığı ise sesin şiddeti, tiz bileşenlerin azalması ve doğrudan sesin yankıya oranı gibi ipuçlarıyla tahmin ederiz."
+   ]
+  },
+  {
+   "id": "oncelik",
+   "tur": "akis",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Öncelik etkisi",
+   "baslik": "*İlk gelen* ses kazanır",
+   "adimlar": [
+    {
+     "ikon": "hoparlor",
+     "baslik": "Doğrudan ses",
+     "metin": "Kulağa ilk ulaşır",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Yansıma",
+     "metin": "Birkaç ms sonra gelir",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Kaynaşma",
+     "metin": "Tek ses, ilk yön",
+     "cumle": 3
+    },
+    {
+     "ikon": "uyari",
+     "baslik": "Yankı eşiği",
+     "metin": "Gecikme uzarsa yankı",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Kapalı bir odada bir sesin kendisi ve duvarlardan yansıyan kopyaları kulağa farklı zamanlarda ulaşır.",
+    "Doğrudan ses, en kısa yolu izlediği için kulağa ilk ulaşır.",
+    "Yansımalar ise birkaç milisaniye ile birkaç on milisaniye sonra, başka yönlerden gelir.",
+    "Gecikme kısa olduğunda yansıma ayrı bir ses olarak duyulmaz, ilk sesle kaynaşır ve ses ilk gelenin yönünde algılanır.",
+    {
+     "yazi": "Buna öncelik etkisi (precedence effect) denir; 1949'da Wallach ve arkadaşları ile 1951'de Haas tarafından ayrıntılı incelendi.",
+     "ses": "Buna öncelik etkisi denir; 1949'da Volah ve arkadaşları ile 1951'de Has tarafından ayrıntılı incelendi."
+    },
+    "Gecikme uzadıkça yansıma ayrı bir yankı olarak duyulmaya başlar; bu sınıra yankı eşiği denir.",
+    "Yankı eşiği tık gibi kısa seslerde yaklaşık beş milisaniye, konuşma ve müzikte ise birkaç on milisaniyedir."
+   ]
+  },
+  {
+   "id": "oncelik_klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Öncelik etkisi",
+   "baslik": "Öncelik etkisi *günlük* yaşamda",
+   "maddeler": [
+    {
+     "metin": "Yankılı odada _yön korunur_",
+     "cumle": 0,
+     "ikon": "ev"
+    },
+    {
+     "metin": "Seslendirme sistemleri _gecikmeyle_ ayarlanır",
+     "cumle": 1,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "İşitme kaybında _zayıflayabilir_",
+     "cumle": 3,
+     "ikon": "kulak"
+    }
+   ],
+   "yan": {
+    "tur": "ikonlar",
+    "ust": "ÖRNEK",
+    "cumle": 1,
+    "ogeler": [
+     {
+      "ikon": "kalabalik",
+      "baslik": "Konferans salonu",
+      "metin": "Ses sahneden gelir",
+      "cumle": 1
+     },
+     {
+      "ikon": "isitme_cihazi",
+      "baslik": "İki cihaz",
+      "metin": "Eş zamanlama önemli",
+      "cumle": 4
+     }
+    ]
+   },
+   "cumleler": [
+    "Öncelik etkisi sayesinde yankılı bir odada bile konuşanın yerini doğru buluruz.",
+    "Konferans salonlarında arka hoparlörlere küçük bir gecikme eklenir; böylece ses yükseltilse de sahneden geliyormuş gibi algılanır.",
+    "Geciken ses, belirli koşullarda yaklaşık on desibele kadar daha yüksek olsa bile yön algısını ilk sese bırakabilir.",
+    "İşitme kaybında ve yaşlanmada öncelik etkisinin zayıflayabildiği, yankılı ortamlarda güçlüğe katkı yaptığı bildirilmiştir.",
+    "İki kulağa uygulanan cihaz ya da implantlarda iki taraf arasındaki işlem gecikmesinin benzer olması da bu yüzden önemlidir."
+   ]
+  },
+  {
+   "id": "bmld",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Binaural maskeleme",
+   "baslik": "Binaural maskeleme *düzey farkı*",
+   "ogeler": [
+    {
+     "ikon": "kulaklik",
+     "baslik": "N0S0",
+     "metin": "Her şey iki kulakta aynı",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "N0Sπ",
+     "metin": "Ton bir kulakta ters fazlı",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Fark",
+     "metin": "500 Hz'de 12 ile 15 dB",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Binaural işlemenin gücü, maskeleme düzey farkı (masking level difference), kısaca MLD ile ölçülür.",
+    "Önce gürültü ve ton iki kulağa tamamen aynı biçimde verilir ve tonun gürültüdeki eşiği bulunur.",
+    "Sonra gürültü aynı kalırken yalnız bir kulaktaki tonun fazı ters çevrilir.",
+    "Bu kez ton gürültünün içinden çok daha kolay duyulur; beş yüz hertzde eşik yaklaşık on iki ile on beş desibel iyileşir.",
+    "İyileşme pes frekanslarda büyüktür; yaklaşık bin beş yüz hertzin üzerinde birkaç desibele iner.",
+    "Fark, beyin sapının iki kulaktaki küçük zaman ve faz farklarını kullanarak sinyali gürültüden ayırmasından doğar."
+   ]
+  },
+  {
+   "id": "bmld_klinik",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Binaural maskeleme",
+   "baslik": "MLD *klinikte*",
+   "maddeler": [
+    {
+     "metin": "Beyin sapı işlemesini _yansıtır_",
+     "cumle": 0,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Beyin sapı lezyonlarında _azalabilir_",
+     "cumle": 1,
+     "ikon": "uyari"
+    },
+    {
+     "metin": "Asimetrik kayıp da _düşürür_",
+     "cumle": 2,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Test bataryasının _bir parçası_",
+     "cumle": 5,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "cizim",
+    "cizim": "isitme_yolu",
+    "cumle": 0,
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 0
+     }
+    ],
+    "etiketler": [
+     {
+      "parca": "superior_oliver",
+      "metin": "Superior oliver kompleks (üst zeytin çekirdekleri)",
+      "cumle": 0
+     }
+    ]
+   },
+   "cumleler": [
+    "MLD, iki kulağın bilgisinin beyin sapında ilk karşılaştırıldığı düzeydeki işlemeyi yansıtır.",
+    "Beyin sapını etkileyen lezyonlarda, örneğin multipl sklerozda MLD'nin azalabildiği bildirilmiştir.",
+    "Ancak iki kulak arasında belirgin eşik farkı olan periferik kayıplarda da MLD düşer.",
+    "Bu yüzden sonuç, iki kulağın saf ses eşikleri birlikte değerlendirilerek yorumlanır.",
+    "MLD konuşma uyaranlarıyla da ölçülebilir; bu durumda kazanç genellikle saf seslerdekinden küçüktür.",
+    "MLD, santral işitsel değerlendirmede tek başına değil, test bataryasının bir parçası olarak kullanılır."
+   ]
+  },
+  {
+   "id": "uzamsal",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Binaural maskeleme",
+   "baslik": "Uzamsal *ayrışma*",
+   "ogeler": [
+    {
+     "ikon": "konusma",
+     "baslik": "Aynı yön",
+     "metin": "Konuşma ve gürültü önde",
+     "cumle": 0
+    },
+    {
+     "ikon": "kalabalik",
+     "baslik": "Ayrı yönler",
+     "metin": "Gürültü yana kayar",
+     "cumle": 1
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Baş gölgesi",
+     "metin": "Fiziksel kazanç",
+     "cumle": 2
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "Binaural işlem",
+     "metin": "Merkezi kazanç",
+     "cumle": 3
+    }
+   ],
+   "cumleler": [
+    "Konuşma ve gürültü aynı yönden geldiğinde, konuşmayı anlamak için belirli bir sinyal-gürültü oranı gerekir.",
+    "Gürültü yana kaydırıldığında aynı konuşma daha düşük bir oranda anlaşılır; buna uzamsal ayrışma (spatial release from masking) denir.",
+    "Bu kazancın bir bölümü baş gölgesinden, yani fiziksel olarak daha iyi durumdaki kulaktan gelir.",
+    "Bir bölümü de beynin iki kulak arasındaki farkları kullanmasından, yani binaural işlemden gelir.",
+    {
+     "yazi": "Çocuklarda bu beceriyi ölçmek için Cameron ve Dillon'un uzamsal gürültüde dinleme testi (LiSN-S) gibi testler geliştirilmiştir.",
+     "ses": "Çocuklarda bu beceriyi ölçmek için Kemırın ve Dillın'ın uzamsal gürültüde dinleme testi gibi testler geliştirilmiştir."
+    },
+    "Bu testlerde düşük uzamsal kazanç, odyogramı normal olan bir çocuğun gürültüde neden zorlandığını açıklayabilir."
+   ]
+  },
+  {
+   "id": "kayip",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Binaural maskeleme",
+   "baslik": "İşitme kaybı ve *yön*",
+   "maddeler": [
+    {
+     "metin": "Tek taraflı kayıp: ipuçları _bozulur_",
+     "cumle": 0,
+     "ikon": "kulak_tikali"
+    },
+    {
+     "metin": "Kulak arkası mikrofon: _kepçe ipucu_ kaybolur",
+     "cumle": 2,
+     "ikon": "isitme_cihazi"
+    },
+    {
+     "metin": "İki kulağa uygulama _avantaj_ sağlayabilir",
+     "cumle": 3,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "İmplantta ITD ipucu _sınırlı_",
+     "cumle": 4,
+     "ikon": "koklear_implant"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     },
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        15,
+        15,
+        20
+       ],
+       "cumle": 0
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        45,
+        50,
+        55,
+        60,
+        65,
+        70
+       ],
+       "cumle": 0
+      }
+     ]
+    }
+   },
+   "cumleler": [
+    "Tek taraflı ya da belirgin asimetrik kayıpta iki kulağa ulaşan zaman ve şiddet bilgisi bozulur; yön bulma zorlaşır.",
+    "Bu örnekte sol kulaktaki kayıp, sesin her zaman sağdan geliyormuş gibi algılanmasına yol açabilir.",
+    "Kulak arkası cihazlarda mikrofon kepçenin üzerinde kaldığı için kepçenin spektral ipuçları kaybolur ve ön arka karışıklığı artabilir.",
+    "İki taraflı kayıpta iki kulağa cihaz uygulamak, kulaklar arası ipuçlarını korumaya yardım edebilir.",
+    "İki taraflı koklear implant kullanıcılarında ise yön bulma çoğunlukla şiddet farkına dayanır; ince zaman farkı ipuçları sınırlı kalır."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "baslik": "Klinik ipucu",
+   "metin": "Binaural testleri yorumlamadan önce iki kulağın eşiklerini karşılaştırın. Asimetrik periferik kayıp, MLD ve yön testlerinde santral bir sorun gibi görünebilir.",
+   "cumleler": [
+    "Sahadan bir ipucu: binaural testleri yorumlamadan önce iki kulağın saf ses eşiklerini mutlaka karşılaştırın.",
+    "İki kulak arasında belirgin bir eşik farkı varsa, MLD ya da yön testlerindeki düşük sonuç santral bir sorun gibi görünebilir.",
+    "Bu tür testler, eşikleri normal ya da simetrik olan kişilerde en güvenilir bilgiyi verir.",
+    "Yön bulma yakınması olan hastaya günlük yaşamda zorlandığı ortamları da sorun; ölçümle birlikte yön verir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Önde yön farkı: yaklaşık _1 derece_",
+     "cumle": 0,
+     "ikon": "goz"
+    },
+    {
+     "metin": "Pes: zaman, tiz: _şiddet_ farkı",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Öncelik etkisi: _ilk gelen_ ses kazanır",
+     "cumle": 2,
+     "ikon": "hoparlor"
+    },
+    {
+     "metin": "MLD: 500 Hz'de _12 ile 15 dB_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Önden gelen seslerde en küçük işitilebilir açı yaklaşık bir derecedir; yanlarda belirgin biçimde büyür.",
+    "İkili kurama göre pes seslerde zaman farkı, tiz seslerde şiddet farkı öne çıkar; kulak kepçesi yükseklik ve ön arka bilgisi verir.",
+    "Öncelik etkisi sayesinde yankılı ortamda ses, ilk ulaşan dalganın yönünde algılanır.",
+    "MLD, beş yüz hertzde yaklaşık on iki ile on beş desibellik binaural kazancı gösterir ve beyin sapı işlemesini yansıtır."
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "Yankılı odada sesi kaynağın yönünde duymamızı sağlayan nedir?",
+   "secenekler": [
+    "Baş gölgesi",
+    "Öncelik etkisi",
+    "Binaural toplama",
+    "Zamansal bütünleşme"
+   ],
+   "dogru": 1,
+   "aciklama": "Kısa gecikmeli yansımalar ilk sesle kaynaşır; yön _ilk ulaşan sese_ göre belirlenir.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: Yankılı bir odada sesi kaynağın yönünde duymamızı sağlayan olay hangisidir?",
+     "sonra_bekle": 5
+    },
+    "Doğru cevap B: öncelik etkisi.",
+    "Kısa gecikmeyle gelen yansımalar ilk sesle kaynaşır ve beyin yönü ilk ulaşan sese göre belirler."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "Koklear hasar ve *rekruitment*",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste koklear hasarın algıyı nasıl değiştirdiğini ve rekruitment olgusunu inceleyeceğiz.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

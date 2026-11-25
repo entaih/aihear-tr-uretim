@@ -1,0 +1,135 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R002_Odyogramin_Uc_Sorusu_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #2",
+  "baslik": "Odyogramın *üç sorusu*",
+  "alt": "Derece, tip ve konfigürasyon",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      10,
+      10,
+      15,
+      15,
+      20,
+      25
+     ]
+    },
+    {
+     "kulak": "sol",
+     "tip": "hava",
+     "degerler": [
+      15,
+      15,
+      20,
+      35,
+      50,
+      55
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Bir odyogram hangi üç soruyu yanıtlar? #shorts",
+  "aciklama": "Odyogram okunurken her kulak için üç soruya bakılır: kaybın derecesi, tipi ve konfigürasyonu. Ardından iki kulak birbiriyle karşılaştırılır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "odyogram",
+   "işitme"
+  ],
+  "etiketler": [
+   "odyogram",
+   "odyogram nasıl okunur",
+   "işitme kaybı derecesi",
+   "işitme kaybı tipi",
+   "konfigürasyon",
+   "odyoloji",
+   "işitme testi",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Bir odyogramı okurken hangi üç soru sorulur?",
+  "bilgiler": [
+   "Derece: kayıp ne kadar büyük?",
+   "Tip: kayıp kulağın hangi bölümünden kaynaklanıyor?",
+   "Konfigürasyon: kayıp frekanslara göre nasıl bir biçim çiziyor?"
+  ],
+  "hashtag": [
+   "odyoloji",
+   "odyogram",
+   "işitme"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #2",
+   "metin": "Odyogramı okurken hangi *üç soru* sorulur?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Bir odyogramı okurken hangi üç soru sorulur?"
+   ]
+  },
+  {
+   "id": "sorular",
+   "tur": "zincir",
+   "baslik": "Her kulak için *üç soru*",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Derece",
+     "tr": "ne kadar?",
+     "cumle": 0
+    },
+    {
+     "ad": "Tip",
+     "tr": "nerede?",
+     "cumle": 1
+    },
+    {
+     "ad": "Biçim",
+     "tr": "konfigürasyon",
+     "cumle": 2
+    }
+   ],
+   "alt": "Önce her kulak, sonra _iki kulak_ birlikte",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Birincisi derece: kayıp ne kadar büyük?",
+    "İkincisi tip: kayıp kulağın hangi bölümünden kaynaklanıyor?",
+    "Üçüncüsü konfigürasyon: kayıp frekanslara göre nasıl bir biçim çiziyor?",
+    "Her kulak ayrı yanıtlanır, sonra iki kulak karşılaştırılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D001",
+ "kaynak_baslik": "Odyogram nedir, nasıl okunur?"
+}

@@ -1,0 +1,127 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "reels",
+ "dosya": "R213_Klik_Her_Frekansi_Gostermez_TR",
+ "kapak": {
+  "ust": "HAP BİLGİ #213",
+  "baslik": "Klik her frekansı *göstermez*",
+  "alt": "Klik ABR ve frekans özgüllüğü",
+  "grafik": {
+   "bolge": {
+    "ust": -10,
+    "alt": 25
+   },
+   "seriler": [
+    {
+     "kulak": "sag",
+     "tip": "hava",
+     "degerler": [
+      50,
+      50,
+      40,
+      20,
+      15,
+      15
+     ]
+    }
+   ]
+  },
+  "boyut": 92
+ },
+ "youtube": {
+  "baslik": "Normal bir klik ABR sonucu, odyogramın normal olduğunu gösterir mi? #shorts",
+  "aciklama": "Klik geniş bantlı bir uyarandır, ama klik ile alınan ABR ağırlıklı olarak yaklaşık 2000 ile 4000 Hz bölgesini yansıtır. Alçak frekanslarda kaybı olan bir kulakta klik ABR eşiği normal çıkabilir; bu yüzden frekansa özgü eşik tahmininde tonburst gibi uyaranlar kullanılır.",
+  "kapanis_metni": "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin.",
+  "hashtag": [
+   "shorts",
+   "odyoloji",
+   "ABR",
+   "odyogram"
+  ],
+  "etiketler": [
+   "klik ABR",
+   "tonburst",
+   "frekans özgüllüğü",
+   "eşik tahmini",
+   "ABR uyaranları",
+   "chirp",
+   "odyoloji",
+   "AIHEAR"
+  ]
+ },
+ "instagram": {
+  "kanca": "Normal bir klik ABR sonucu, odyogramın normal olduğunu gösterir mi?",
+  "bilgiler": [
+   "Klik ABR ağırlıkla 2000 ile 4000 Hz bölgesini yansıtır.",
+   "Alçak frekans kaybında klik ABR eşiği normal çıkabilir.",
+   "Frekansa özgü eşik tahmininde tonburst kullanılır."
+  ],
+  "hashtag": [
+   "odyoloji",
+   "ABR",
+   "odyogram"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "kanca",
+   "tur": "kanca",
+   "ust": "HAP BİLGİ #213",
+   "metin": "Normal klik ABR, *normal odyogram* mı?",
+   "giris": 0.35,
+   "cikis": 0.5,
+   "cumleler": [
+    "Normal bir klik ABR sonucu, odyogramın normal olduğunu gösterir mi?"
+   ]
+  },
+  {
+   "id": "klik",
+   "tur": "zincir",
+   "baslik": "Klik *neyi* yansıtır?",
+   "giris": 0.3,
+   "cikis": 0.6,
+   "halkalar": [
+    {
+     "ad": "Klik",
+     "tr": "geniş bant",
+     "cumle": 0
+    },
+    {
+     "ad": "2-4 kHz",
+     "tr": "ağırlıklı kaynak",
+     "cumle": 1
+    },
+    {
+     "ad": "Tonburst",
+     "tr": "frekansa özgü",
+     "cumle": 4
+    }
+   ],
+   "alt": "Normal klik ABR, _her frekansta normal demek değil_",
+   "alt_cumle": 3,
+   "cumleler": [
+    "Klik, kokleanın geniş bir bölümünü neredeyse aynı anda uyaran kısa bir sestir.",
+    {
+     "yazi": "Ama klik ABR ağırlıklı olarak yaklaşık 2000 ile 4000 Hz'i yansıtır.",
+     "ses": "Ama klik ABR ağırlıklı olarak yaklaşık iki bin ile dört bin hertzi yansıtır."
+    },
+    "Bu örnekte alçak frekanslarda orta derecede kayıp, yüksek frekanslar normal.",
+    "Böyle bir kulakta klik ABR eşiği normal ya da normale yakın çıkabilir.",
+    "Frekansa özgü eşik tahmini için tonburst gibi uyaranlar kullanılır."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "cta": "Takip et",
+   "giris": 0.4,
+   "cikis": 2.2,
+   "cumleler": [
+    "Daha fazla hap bilgi için AIHEAR Odyoloji Akademisini takip edin."
+   ]
+  }
+ ],
+ "kaynak_ders": "D128",
+ "kaynak_baslik": "ABR uyaranları"
+}

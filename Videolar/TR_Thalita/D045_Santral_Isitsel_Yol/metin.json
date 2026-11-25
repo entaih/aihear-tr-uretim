@@ -1,0 +1,972 @@
+{
+ "dil": "tr",
+ "seslendirici": "thalita",
+ "bicim": "ders",
+ "dosya": "D045_Santral_Isitsel_Yol_TR",
+ "kapak": {
+  "ust": "DERS 45",
+  "baslik": "Kokleadan<br>*kortekse*",
+  "alt": "Santral işitsel yolun istasyonları",
+  "cizim": "isitme_yolu"
+ },
+ "youtube": {
+  "baslik": "Santral İşitsel Yol: Kokleadan Kortekse İstasyonlar | Ders 45 | AIHEAR Odyoloji Akademisi",
+  "aciklama": "Ses kokleadan sonra beyne nasıl ulaşır? Bu derste santral işitsel yolun istasyonlarını, yani koklear nükleus, superior oliver kompleks, lateral lemniskus, inferior kollikulus ve medial genikulat cisim yapılarını; çapraz ve çapraz olmayan lifleri ve bu istasyonların ABR dalgalarıyla ilişkisini inceliyoruz.\n\nAIHEAR Odyoloji Akademisi; odyoloji öğrencileri, odyometristler ve işitme alanında çalışan herkes için kısa ve net dersler hazırlar.\n\nKaynaklar: Musiek FE ve Baran JA, The Auditory System: Anatomy, Physiology, and Clinical Correlates; Møller AR, Hearing: Anatomy, Physiology, and Disorders of the Auditory System; Pickles, An Introduction to the Physiology of Hearing; Hall, New Handbook of Auditory Evoked Responses.\n\nBu video eğitim amaçlıdır, tanı ve tedavi yerine geçmez.",
+  "kapanis_metni": "Yeni dersleri kaçırmamak için abone olun.",
+  "hashtag": [
+   "odyoloji",
+   "nöroanatomi",
+   "işitme"
+  ],
+  "etiketler": [
+   "santral işitsel yol",
+   "koklear nükleus",
+   "superior oliver kompleks",
+   "inferior kollikulus",
+   "medial genikulat cisim",
+   "lateral lemniskus",
+   "ABR dalgaları",
+   "işitme siniri",
+   "nöroanatomi",
+   "odyoloji dersleri",
+   "AIHEAR"
+  ]
+ },
+ "sahneler": [
+  {
+   "id": "acilis",
+   "tur": "acilis",
+   "ust": "DERS 45",
+   "baslik": "*Santral* işitsel yol",
+   "alt": "Kokleadan kortekse istasyon istasyon",
+   "cumleler": [
+    "Merhaba, AIHEAR Odyoloji Akademisine hoş geldiniz.",
+    "Bu derste sesin kokleadan işitsel kortekse kadar izlediği yolu, istasyon istasyon öğreneceğiz.",
+    "Çapraz ve çapraz olmayan lifleri ve bu istasyonların işitsel beyin sapı yanıtı, kısaca ABR dalgalarıyla ilişkisini de göreceğiz."
+   ]
+  },
+  {
+   "id": "genel",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yolun genel planı",
+   "baslik": "Yolun *haritası*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "koklea",
+     "metin": "koklea",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_siniri",
+     "metin": "işitme siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "koklear nükleus (koklear çekirdek)",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "metin": "superior oliver kompleks (üst zeytin çekirdekleri)",
+     "cumle": 2
+    },
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "lateral lemniskus",
+     "cumle": 3
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior kollikulus (alt tepecik)",
+     "cumle": 3
+    },
+    {
+     "parca": "mgb",
+     "metin": "medial genikulat cisim",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "işitsel korteks",
+     "cumle": 5
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 2
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 3
+    },
+    {
+     "parca": "mgb",
+     "cumle": 4
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 5
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 1.7
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 2,
+     "olcek": 1.7
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 3,
+     "olcek": 1.7
+    },
+    {
+     "parca": "mgb",
+     "cumle": 4,
+     "olcek": 1.7
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 5,
+     "olcek": 1.7
+    },
+    {
+     "parca": "genel",
+     "cumle": 6
+    }
+   ],
+   "cumleler": [
+    "Kokleada elektrik sinyaline dönüşen ses, işitme siniri aracılığıyla beyin sapına ulaşır.",
+    "Beyin sapında sinyal önce koklear nükleusa, yani koklear çekirdeğe uğrar.",
+    "Sonra superior oliver komplekse, yani üst zeytin çekirdeklerine ulaşır.",
+    "Ardından lateral lemniskus boyunca yükselir ve orta beyindeki inferior kollikulusa, yani alt tepeciğe ulaşır.",
+    "Buradan talamustaki medial genikulat cisme geçer.",
+    "Son durak, temporal lobdaki işitsel kortekstir.",
+    "Bu istasyonların her birini şimdi tek tek tanıyacağız."
+   ]
+  },
+  {
+   "id": "kurallar",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 1",
+   "bolum": "Yolun genel planı",
+   "baslik": "Yolun *dört kuralı*",
+   "maddeler": [
+    {
+     "metin": "Her istasyonda _sinaps_ ve işleme",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Frekans haritası: _tonotopi_ korunur",
+     "cumle": 1,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "Lifler çoğunlukla _karşı tarafa_ geçer",
+     "cumle": 2,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Birbirine paralel _alt yollar_",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "yan": {
+    "tur": "gorsel",
+    "cizim": "isitme_yolu",
+    "vurgula": [
+     {
+      "parca": "superior_oliver",
+      "cumle": 2
+     },
+     {
+      "parca": "lateral_lemniskus",
+      "cumle": 3
+     }
+    ],
+    "cumle": 0
+   },
+   "cumleler": [
+    "Santral işitsel yol tek bir kablo değildir; sinyal her istasyonda yeni bir nörona aktarılır ve işlenir.",
+    "Kokleada başlayan frekans haritası, yani tonotopi (tonotopy), yol boyunca her istasyonda korunur.",
+    "Liflerin çoğu beyin sapında karşı tarafa geçer; ama bir kısmı aynı tarafta kalır.",
+    "Ayrıca yol, sesin farklı özelliklerini taşıyan birbirine paralel alt yollardan oluşur.",
+    "İstasyonlarda nöron sayısı yukarı doğru büyük ölçüde artar; sinyal ilerledikçe daha karmaşık biçimde işlenir."
+   ]
+  },
+  {
+   "id": "nucleus",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Beyin sapı istasyonları",
+   "baslik": "İlk durak: *koklear nükleus*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "isitme_siniri",
+     "metin": "işitme siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "metin": "koklear nükleus (koklear çekirdek)",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "isitme_siniri",
+     "cumle": 0
+    },
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Tüm lifler _aynı tarafta_ sinaps yapar",
+     "cumle": 2,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Ventral ve _dorsal_ bölümler",
+     "cumle": 3,
+     "ikon": "grafik"
+    },
+    {
+     "metin": "Buraya kadar bilgi _tek kulağa_ özgü",
+     "cumle": 5,
+     "ikon": "kulak"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 1,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "İşitme siniri, iç kulak yolundan geçerek beyin sapına pons ile medulla oblongatanın birleştiği yerde girer.",
+    "İlk durak, beyin sapındaki koklear nükleustur.",
+    "İşitme sinirinin tüm lifleri, kendi tarafındaki koklear nükleusta sinaps yapar.",
+    "Çekirdeğin ventral ve dorsal bölümleri vardır; her sinir lifi dallanarak bölümlerin hepsine ulaşır.",
+    "Farklı hücre türleri sesin zamanlamasını, başlangıcını ya da spektral biçimini ayrı ayrı işler.",
+    "Bu düzeye kadar bilgi yalnız bir kulağa aittir; çaprazlaşma bundan sonra başlar."
+   ]
+  },
+  {
+   "id": "oliva",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Beyin sapı istasyonları",
+   "baslik": "İki kulak *buluşuyor*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "superior_oliver",
+     "metin": "superior oliver kompleks (üst zeytin çekirdekleri)",
+     "cumle": 1
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "koklear_nukleus",
+     "cumle": 0
+    },
+    {
+     "parca": "superior_oliver",
+     "cumle": 1
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "İki kulağın _ilk buluşması_",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "Akustik refleks _arkının_ parçası",
+     "cumle": 5,
+     "ikon": "timpanometre_prob"
+    },
+    {
+     "metin": "Efferent liflerin _başlangıcı_",
+     "cumle": 6,
+     "ikon": "noron"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "superior_oliver",
+     "cumle": 1,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "Koklear nükleustan çıkan liflerin önemli bir bölümü, corpus trapezoideum, yani trapez cisim denen lif demetiyle karşı tarafa geçer.",
+    "Lifler, ponsun alt kısmındaki superior oliver komplekse ulaşır.",
+    "Burası iki kulaktan gelen bilginin ilk kez buluştuğu yerdir.",
+    "Bu yüzden superior oliver kompleks, sesin yönünü bulmamızda temel bir rol oynar.",
+    "Kompleks birkaç ayrı çekirdekten oluşur; Türkçedeki üst zeytin çekirdekleri adı da buradan gelir.",
+    "Akustik refleksin beyin sapındaki arkı da bu bölgeden geçer.",
+    "Ayrıca kokleaya geri dönen olivokoklear efferent lifler bu kompleksin çevresinden başlar."
+   ]
+  },
+  {
+   "id": "mso_lso",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Beyin sapı istasyonları",
+   "baslik": "Yön bulmanın *iki ipucu*",
+   "ogeler": [
+    {
+     "ikon": "kronometre",
+     "baslik": "Medial bölüm",
+     "metin": "Kulaklar arası zaman farkı",
+     "cumle": 1
+    },
+    {
+     "ikon": "ses_dalgasi",
+     "baslik": "Pes seslerde",
+     "metin": "Zaman ipucu güçlü",
+     "cumle": 2
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Lateral bölüm",
+     "metin": "Kulaklar arası şiddet farkı",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Tiz seslerde",
+     "metin": "Başın gölgesi: şiddet ipucu",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Superior oliver kompleksin iki önemli bölümü, sesin yönü için farklı ipuçları kullanır.",
+    "Medial bölüm, sesin iki kulağa ulaşma zamanı arasındaki çok küçük farkları karşılaştırır.",
+    "Bu zaman ipucu, özellikle pes seslerde güçlüdür.",
+    "Lateral bölüm ise iki kulağa ulaşan sesin şiddet farkını karşılaştırır.",
+    "Başın gölgesi tiz sesleri daha çok zayıflattığı için şiddet ipucu özellikle tiz seslerde güçlüdür.",
+    "Bu iki ipucunu iki kulakla işitme dersinde ayrıntılı olarak göreceğiz."
+   ]
+  },
+  {
+   "id": "lemniskus_kollikulus",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 2",
+   "bolum": "Beyin sapı istasyonları",
+   "baslik": "Yükselen yol ve *orta beyin*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "lateral_lemniskus",
+     "metin": "lateral lemniskus",
+     "cumle": 0
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "metin": "inferior kollikulus (alt tepecik)",
+     "cumle": 2
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "lateral_lemniskus",
+     "cumle": 0
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 2
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Lemniskus: yükselen _ana demet_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "İnferior kollikulus: neredeyse tüm liflerin _durağı_",
+     "cumle": 3,
+     "ikon": "dikkat"
+    },
+    {
+     "metin": "Bilgiler _birleştirilir_",
+     "cumle": 4,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "lateral_lemniskus",
+     "cumle": 0,
+     "olcek": 1.8
+    },
+    {
+     "parca": "inferior_kollikulus",
+     "cumle": 2,
+     "olcek": 2.0
+    }
+   ],
+   "cumleler": [
+    "Superior oliver kompleks ve koklear nükleustan çıkan lifler, lateral lemniskus boyunca yukarı çıkar.",
+    "Bu demet içinde de küçük çekirdekler bulunur ve iki taraf arasında bağlantılar vardır.",
+    "Demet, orta beyindeki inferior kollikulusta sona erer.",
+    "Yükselen işitme liflerinin neredeyse tamamı bu istasyonda sinaps yapar.",
+    "İnferior kollikulus, beyin sapının farklı istasyonlarından gelen zaman, şiddet ve frekans bilgilerini birleştirir.",
+    "Ayrıca ani bir sese başı ve gözleri çevirmek gibi refleks yanıtlara da katkıda bulunur."
+   ]
+  },
+  {
+   "id": "talamus",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Talamus ve korteks",
+   "baslik": "Kortekse açılan kapı: *talamus*",
+   "cizim": "isitme_yolu",
+   "etiketler": [
+    {
+     "parca": "mgb",
+     "metin": "medial genikulat cisim",
+     "cumle": 0,
+     "yer": "sag"
+    },
+    {
+     "parca": "isitme_korteksi",
+     "metin": "işitsel korteks",
+     "cumle": 3
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "mgb",
+     "cumle": 0
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3
+    }
+   ],
+   "notlar": [
+    {
+     "metin": "Talamusta _son_ aktarma",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "Tonotopik bölüm _birincil kortekse_",
+     "cumle": 2,
+     "ikon": "ses_dalgasi"
+    },
+    {
+     "metin": "İşitsel radyasyon",
+     "cumle": 3,
+     "ikon": "beyin"
+    }
+   ],
+   "yakinlastir": [
+    {
+     "parca": "mgb",
+     "cumle": 0,
+     "olcek": 2.0
+    },
+    {
+     "parca": "isitme_korteksi",
+     "cumle": 3,
+     "olcek": 1.8
+    }
+   ],
+   "cumleler": [
+    "İnferior kollikulustan çıkan lifler, talamustaki medial genikulat cisme ulaşır.",
+    "Bu yapı, işitme bilgisinin kortekse ulaşmadan önceki son aktarma istasyonudur.",
+    "Ventral bölümü düzenli bir frekans haritası taşır ve birincil işitsel kortekse yansır.",
+    "Lifler buradan işitsel radyasyon adı verilen bir demetle temporal lobdaki işitsel kortekse ulaşır.",
+    "İşitsel korteksi ve dil alanlarını bir sonraki derste ayrıntılı olarak inceleyeceğiz."
+   ]
+  },
+  {
+   "id": "istasyonlar",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 3",
+   "bolum": "Talamus ve korteks",
+   "baslik": "İstasyonlar *bir arada*",
+   "ogeler": [
+    {
+     "ikon": "noron",
+     "baslik": "Koklear nükleus",
+     "metin": "Pons-medulla: ilk sinaps",
+     "cumle": 0
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Superior oliver kompleks",
+     "metin": "Alt pons: iki kulak, yön",
+     "cumle": 1
+    },
+    {
+     "ikon": "grafik",
+     "baslik": "Lateral lemniskus",
+     "metin": "Pons: yükselen ana demet",
+     "cumle": 2
+    },
+    {
+     "ikon": "dikkat",
+     "baslik": "İnferior kollikulus",
+     "metin": "Orta beyin: bütünleştirme, refleks",
+     "cumle": 3
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Medial genikulat cisim",
+     "metin": "Talamus: kortekse aktarma",
+     "cumle": 4
+    },
+    {
+     "ikon": "beyin",
+     "baslik": "İşitsel korteks",
+     "metin": "Temporal lob: algı ve anlam",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Koklear nükleus, işitme sinirinin ilk sinaps yaptığı ve sesin özelliklerini ayrıştırmaya başlayan istasyondur.",
+    "Superior oliver kompleks, iki kulağın bilgisinin ilk buluştuğu ve yön ipuçlarının işlendiği yerdir.",
+    "Lateral lemniskus, ponstan orta beyne uzanan ana yükselen demettir.",
+    "İnferior kollikulus, yükselen bilgilerin birleştirildiği zorunlu bir duraktır.",
+    "Medial genikulat cisim, talamusta bilgiyi kortekse aktarır.",
+    "İşitsel korteks ise sesin algılandığı ve anlamlandırılmaya başladığı yerdir."
+   ]
+  },
+  {
+   "id": "capraz",
+   "tur": "ikonlar",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Çapraz lifler",
+   "baslik": "Çapraz ve *çapraz olmayan* lifler",
+   "ogeler": [
+    {
+     "ikon": "beyin",
+     "baslik": "Çapraz yol",
+     "metin": "Liflerin çoğu, karşı yarıküre",
+     "cumle": 1
+    },
+    {
+     "ikon": "noron",
+     "baslik": "Geçiş noktaları",
+     "metin": "Trapez cisim, lemniskus, inferior kollikulus",
+     "cumle": 3
+    },
+    {
+     "ikon": "kulak",
+     "baslik": "Çapraz olmayan",
+     "metin": "Daha ince, aynı taraf",
+     "cumle": 4
+    },
+    {
+     "ikon": "kulaklik",
+     "baslik": "Sonuç",
+     "metin": "Her kulak iki yarıkürede",
+     "cumle": 5
+    }
+   ],
+   "cumleler": [
+    "Bir kulaktan, örneğin sol kokleadan çıkan yolu izleyelim.",
+    "Koklear nükleustan sonra liflerin çoğunluğu karşı tarafa geçer; buna çapraz ya da kontralateral yol denir.",
+    "Bu yüzden her kulak, karşı taraftaki yarıküreyle daha güçlü bağlantılıdır.",
+    "Çaprazlaşma tek bir yerde olmaz; corpus trapezoideumda, lemniskus düzeyinde ve kollikuluslar arasında geçişler vardır.",
+    "Liflerin daha küçük bir bölümü aynı tarafta yükselir; buna çapraz olmayan ya da ipsilateral yol denir.",
+    "Sonuçta koklear nükleusun üzerinde her kulak, beynin iki yarıküresinde de temsil edilir."
+   ]
+  },
+  {
+   "id": "tek_kulak",
+   "tur": "maddeler",
+   "bolum_no": "BÖLÜM 4",
+   "bolum": "Çapraz lifler",
+   "baslik": "Bu düzenin *klinik sonucu*",
+   "maddeler": [
+    {
+     "metin": "Sinir ve çekirdek: _tek kulak_ etkilenir",
+     "cumle": 0,
+     "ikon": "kulak"
+    },
+    {
+     "metin": "Daha yukarısı: odyogram _normal_ olabilir",
+     "cumle": 1,
+     "ikon": "odyogram"
+    },
+    {
+     "metin": "Karmaşık testlerde _karşı kulak_ etkilenir",
+     "cumle": 3,
+     "ikon": "kalabalik"
+    },
+    {
+     "metin": "Santral testlerin _temeli_",
+     "cumle": 4,
+     "ikon": "kontrol_listesi"
+    }
+   ],
+   "yan": {
+    "tur": "odyogram",
+    "grafik": {
+     "seriler": [
+      {
+       "kulak": "sag",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        5,
+        10,
+        15,
+        15
+       ],
+       "cumle": 1
+      },
+      {
+       "kulak": "sol",
+       "tip": "hava",
+       "degerler": [
+        10,
+        10,
+        10,
+        10,
+        15,
+        20
+       ],
+       "cumle": 1
+      }
+     ],
+     "bolge": {
+      "ust": -10,
+      "alt": 25
+     }
+    }
+   },
+   "cumleler": [
+    "İşitme siniri ya da koklear nükleus düzeyindeki bir sorun, yalnız o taraftaki kulağı etkileyebilir.",
+    "Ancak koklear nükleusun üzerindeki tek taraflı bir sorunda, saf ses odyogramı çoğu zaman normal kalır.",
+    "Bu örnek odyogramda iki kulağın eşikleri de normal sınırlarda.",
+    "Güçlük, gürültüde konuşma ya da iki kulağa farklı uyaran verilen zor testlerde, çoğu zaman sorunun karşı tarafındaki kulakta görülür.",
+    "Bu bilgi, ileride göreceğimiz santral işitsel işlemleme testlerinin temelini oluşturur."
+   ]
+  },
+  {
+   "id": "abr",
+   "tur": "gorsel",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "ABR ile ilişki",
+   "baslik": "İstasyonlar ve *ABR dalgaları*",
+   "cizim": "abr",
+   "etiketler": [
+    {
+     "parca": "dalga_I",
+     "metin": "dalga I: işitme siniri",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_III",
+     "metin": "dalga III: koklear nükleus",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "metin": "dalga V: lateral lemniskus ve inferior kollikulus",
+     "cumle": 3
+    },
+    {
+     "parca": "latans_I_V",
+     "metin": "I-V aralığı: beyin sapı iletimi",
+     "cumle": 4
+    }
+   ],
+   "vurgula": [
+    {
+     "parca": "dalga_I",
+     "cumle": 1
+    },
+    {
+     "parca": "dalga_III",
+     "cumle": 2
+    },
+    {
+     "parca": "dalga_V",
+     "cumle": 3
+    },
+    {
+     "parca": "latans_I_V",
+     "cumle": 4
+    }
+   ],
+   "cumleler": [
+    "Bu istasyonlar, işitsel beyin sapı yanıtı, kısaca ABR kaydındaki dalgaların kaynaklarıdır.",
+    {
+     "yazi": "Dalga I, işitme sinirinin kokleaya yakın ucundan kaynaklanır.",
+     "ses": "Dalga bir, işitme sinirinin kokleaya yakın ucundan kaynaklanır."
+    },
+    {
+     "yazi": "Dalga III'ün temel kaynağı beyin sapındaki koklear nükleustur.",
+     "ses": "Dalga üçün temel kaynağı beyin sapındaki koklear nükleustur."
+    },
+    {
+     "yazi": "Dalga V ise lateral lemniskusun inferior kollikulusa ulaştığı bölgeden kaynaklanır.",
+     "ses": "Dalga beş ise lateral lemniskusun inferior kollikulusa ulaştığı bölgeden kaynaklanır."
+    },
+    {
+     "yazi": "Dalga I ile V arasındaki süre, sinyalin beyin sapında ne kadar hızlı ilerlediğini gösterir.",
+     "ses": "Dalga bir ile beş arasındaki süre, sinyalin beyin sapında ne kadar hızlı ilerlediğini gösterir."
+    },
+    "Her dalga birden çok yapının ortak etkinliğinden doğar; bu eşleştirme kullanışlı bir sadeleştirmedir."
+   ]
+  },
+  {
+   "id": "dalga_tablo",
+   "tur": "tablo",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "ABR ile ilişki",
+   "baslik": "Dalga ve *kaynak*",
+   "sutunlar": [
+    "Dalga",
+    "Başlıca kaynak"
+   ],
+   "satirlar": [
+    {
+     "hucreler": [
+      "I",
+      "İşitme siniri, distal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "II",
+      "İşitme siniri, proksimal"
+     ],
+     "cumle": 0
+    },
+    {
+     "hucreler": [
+      "III",
+      "Koklear nükleus"
+     ],
+     "cumle": 1
+    },
+    {
+     "hucreler": [
+      "IV",
+      "Superior oliver kompleks"
+     ],
+     "cumle": 2
+    },
+    {
+     "hucreler": [
+      "V",
+      "Lateral lemniskus, inferior kollikulus"
+     ],
+     "cumle": 3,
+     "vurgu": true
+    }
+   ],
+   "cumleler": [
+    {
+     "yazi": "Dalga I ve II işitme sinirinden kaynaklanır; dalga I kokleaya yakın, dalga II beyin sapına yakın bölümden gelir.",
+     "ses": "Dalga bir ve iki işitme sinirinden kaynaklanır; dalga bir kokleaya yakın, dalga iki beyin sapına yakın bölümden gelir."
+    },
+    {
+     "yazi": "Dalga III koklear nükleusla ilişkilidir.",
+     "ses": "Dalga üç koklear nükleusla ilişkilidir."
+    },
+    {
+     "yazi": "Dalga IV büyük ölçüde superior oliver kompleksten kaynaklanır ve çoğu zaman dalga V ile birleşir.",
+     "ses": "Dalga dört büyük ölçüde superior oliver kompleksten kaynaklanır ve çoğu zaman dalga beş ile birleşir."
+    },
+    {
+     "yazi": "Dalga V, lateral lemniskusun inferior kollikulusa ulaştığı bölgeyi yansıtır ve klinikte en çok kullanılan dalgadır.",
+     "ses": "Dalga beş, lateral lemniskusun inferior kollikulusa ulaştığı bölgeyi yansıtır ve klinikte en çok kullanılan dalgadır."
+    },
+    "Görüldüğü gibi ABR, yolun yalnız beyin sapı bölümünü değerlendirir; talamus ve korteksi göstermez."
+   ]
+  },
+  {
+   "id": "retrokoklear",
+   "tur": "odyogram",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "ABR ile ilişki",
+   "baslik": "Örnek: *retrokoklear* şüphe",
+   "lejant": [
+    {
+     "isaret": "O",
+     "renk": "sag",
+     "metin": "_Sağ kulak_: normal",
+     "cumle": 0
+    },
+    {
+     "isaret": "X",
+     "renk": "sol",
+     "metin": "_Sol kulak_: tizde asimetrik kayıp",
+     "cumle": 1
+    },
+    {
+     "isaret": "✓",
+     "renk": "yesil",
+     "metin": "_Normal_: 25 dB HL'ye kadar",
+     "cumle": 0
+    }
+   ],
+   "grafik": {
+    "seriler": [
+     {
+      "kulak": "sag",
+      "tip": "hava",
+      "degerler": [
+       10,
+       10,
+       10,
+       15,
+       15,
+       20
+      ],
+      "cumle": 0
+     },
+     {
+      "kulak": "sol",
+      "tip": "hava",
+      "degerler": [
+       15,
+       15,
+       20,
+       35,
+       50,
+       55
+      ],
+      "cumle": 1
+     }
+    ],
+    "bolge": {
+     "ust": -10,
+     "alt": 25,
+     "etiket": "Normal",
+     "cumle": 0
+    }
+   },
+   "cumleler": [
+    "Bu örnekte sağ kulağın eşikleri normal sınırlarda.",
+    "Sol kulakta ise tiz frekanslarda belirgin, tek taraflı bir sensörinöral kayıp var.",
+    "Böyle asimetrik bir kayıp, sorunun kokleanın ötesinde, örneğin işitme sinirinde olabileceğini düşündürebilir.",
+    {
+     "yazi": "Bu kulakta konuşmayı ayırt etmenin eşiklere göre beklenenden kötü olması ve ABR'de dalga V'in gecikmesi ek ipuçlarıdır.",
+     "ses": "Bu kulakta konuşmayı ayırt etmenin eşiklere göre beklenenden kötü olması ve ABR'de dalga beşin gecikmesi ek ipuçlarıdır."
+    },
+    "Kesin değerlendirme hekim tarafından, görüntüleme yöntemleriyle yapılır; odyolojik testler yönlendirici bilgi sağlar."
+   ]
+  },
+  {
+   "id": "ipucu",
+   "tur": "ipucu",
+   "bolum_no": "BÖLÜM 5",
+   "bolum": "ABR ile ilişki",
+   "baslik": "Klinik ipucu",
+   "metin": "Normal odyogram, santral işitsel yolun sağlam olduğu anlamına gelmez. Gürültüde anlama şikayeti varsa öyküyü ciddiye alın ve gerekirse santral testlere yönlendirin.",
+   "cumle": 1,
+   "cumleler": [
+    "Sahadan bir ipucu: saf ses odyogramı yalnız eşikleri gösterir.",
+    "Her kulak iki yarıkürede temsil edildiği için, santral yoldaki bir sorun odyogramda görünmeyebilir.",
+    "Odyogramı normal olduğu halde gürültüde anlama güçlüğü anlatan bir kişinin öyküsünü ciddiye alın.",
+    "Böyle durumlarda konuşma testleri, ABR ve santral işitsel testler daha fazla bilgi verebilir."
+   ]
+  },
+  {
+   "id": "ozet",
+   "tur": "ozet",
+   "baslik": "Bu derste *öğrendiklerimiz*",
+   "maddeler": [
+    {
+     "metin": "Koklear nükleus, superior oliver kompleks, _lateral lemniskus_",
+     "cumle": 0,
+     "ikon": "noron"
+    },
+    {
+     "metin": "İnferior kollikulus, _medial genikulat cisim_, korteks",
+     "cumle": 1,
+     "ikon": "beyin"
+    },
+    {
+     "metin": "Liflerin çoğu _karşı tarafa_ geçer",
+     "cumle": 2,
+     "ikon": "kulaklik"
+    },
+    {
+     "metin": "ABR dalgaları _beyin sapı_ istasyonları",
+     "cumle": 3,
+     "ikon": "grafik"
+    }
+   ],
+   "cumleler": [
+    "Ses beyin sapında koklear nükleus, superior oliver kompleks ve lateral lemniskus boyunca ilerler.",
+    "Ardından inferior kollikulus ve medial genikulat cisim üzerinden işitsel kortekse ulaşır.",
+    "Liflerin çoğu karşı tarafa geçer; koklear nükleusun üzerinde her kulak iki yarıkürede temsil edilir.",
+    {
+     "yazi": "ABR dalgaları beyin sapı istasyonlarını yansıtır: dalga I işitme sinirini, dalga V inferior kollikulus bölgesini.",
+     "ses": "ABR dalgaları beyin sapı istasyonlarını yansıtır: dalga bir işitme sinirini, dalga beş inferior kollikulus bölgesini."
+    }
+   ]
+  },
+  {
+   "id": "test",
+   "tur": "test",
+   "soru": "İki kulaktan gelen bilgi ilk kez nerede buluşur?",
+   "secenekler": [
+    "Koklear nükleus",
+    "Superior oliver kompleks",
+    "Medial genikulat cisim",
+    "İşitsel korteks"
+   ],
+   "dogru": 1,
+   "aciklama": "Koklear nükleus yalnız aynı kulaktan bilgi alır; iki kulak ilk kez _superior oliver komplekste_ buluşur.",
+   "cumleler": [
+    {
+     "yazi": "Kendinizi test edin: İki kulaktan gelen bilgi ilk kez nerede buluşur?",
+     "sonra_bekle": 5
+    },
+    {
+     "yazi": "Doğru cevap B: superior oliver kompleks.",
+     "ses": "Doğru cevap be: superior oliver kompleks."
+    },
+    "Koklear nükleus yalnız kendi tarafındaki kulaktan bilgi alır; iki kulağın bilgisi ilk kez superior oliver komplekste birleşir."
+   ]
+  },
+  {
+   "id": "kapanis",
+   "tur": "kapanis",
+   "sonraki": "İşitsel *korteks* ve dil alanları",
+   "cikis": 2.5,
+   "cumleler": [
+    "Bir sonraki derste yolun son durağına, işitsel kortekse ve dil alanlarına bakacağız.",
+    "Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!"
+   ]
+  }
+ ]
+}

@@ -5,15 +5,20 @@
 cd "$(dirname "$0")"
 export PYTHONUNBUFFERED=1
 DIL="${AKADEMI_DIL:-EN}"
+# depo kökündeki .klasor iş akışındaki AKADEMI_DIL'i ezer (TR: Emma -> Thalita, 25.11.2026; iş akışı dosyası değişmeden)
+[ -f .klasor ] && DIL="$(head -n 1 .klasor | tr -d '[:space:]')"
 mkdir -p cikti
 for ders in "$@"; do
   k="Videolar/$DIL/$ders"; c="cikti/$ders"; mkdir -p "$c"
   bas=$(date +%s)
   echo "::group::$ders"
   durum=TAMAM
-  # Emma sesli Türkçe (Videolar/TR_Emma): önce cümle başına önek seçimi (Whisper small, emma_sec.py --hizli)
-  if grep -q '"seslendirici": "emma"' "$k/metin.json" && ! python -X utf8 _Kaynak/motor/emma_sec.py --hizli "$k" > "$k/_emma_sec_cikti.log" 2>&1; then
+  # Çok dilli edge sesli Türkçe (Emma/Thalita): önce cümle başına önek seçimi (Whisper small, emma_sec.py --hizli).
+  # Hiçbir önekle Türkçe okunmayan (KONTROL) tek cümle varsa video üretilmez: yabancı aksan asla kabul edilmez.
+  if grep -Eq '"seslendirici": "(emma|thalita)"' "$k/metin.json" && ! python -X utf8 _Kaynak/motor/emma_sec.py --hizli "$k" > "$k/_emma_sec_cikti.log" 2>&1; then
     durum="SECIM HATASI"
+  elif [ -f "$k/_emma_sec.log" ] && grep -q ' KONTROL ' "$k/_emma_sec.log"; then
+    durum="DIL SORUNU"
   elif ! python -X utf8 _Kaynak/motor/ses.py "$k" > "$k/_ses_log.txt" 2>&1; then
     durum="SES HATASI"
   else
