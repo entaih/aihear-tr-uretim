@@ -95,9 +95,18 @@ def pencere(x16, mdl=None, olcu=(32000, 12000, 16000)):
 
 def sentez(sesayar, sm, onek, tts):
     mp3, js = S.onbellek_yolu(sesayar, sm, tts, onek=onek)
-    if not (mp3.exists() and js.exists()):
-        asyncio.run(S.seslendir((onek + ' ' + sm).strip(), sesayar['ses'], sesayar['hiz'], mp3, js))
-    x, _ = S.ses_oku(mp3, js, len(onek.split()))
+    for deneme in range(4):   # yarıda kesilen edge sesi (S.EksikSes) silinip yeniden seslendirilir
+        if not (mp3.exists() and js.exists()):
+            asyncio.run(S.seslendir((onek + ' ' + sm).strip(), sesayar['ses'], sesayar['hiz'], mp3, js))
+        try:
+            x, _ = S.ses_oku(mp3, js, len(onek.split()))
+            if len(x) > S.SR // 10 or deneme == 3:
+                break
+        except (S.EksikSes, ValueError) as e:
+            if deneme == 3:
+                raise
+            print(f'eksik ses, yeniden: {e}', flush=True)
+        mp3.unlink(missing_ok=True); js.unlink(missing_ok=True)
     return resample_poly(x, 1, S.SR // 16000).astype(np.float32)
 
 

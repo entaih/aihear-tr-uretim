@@ -235,11 +235,19 @@ def kirp(x):
     return x[a: idx[-1] + int(0.08 * SR)], a / SR
 
 
+class EksikSes(Exception):
+    """Önbellekteki edge sesi yarıda kesilmiş (kelime sınırları sesten uzun)."""
+
+
 def ses_oku(mp3, js, n_onek=0):
     """Cümle sesini okur; varsa önek kelimelerini ("Türkçe:") keser, baş/son sessizliği kırpar.
     Döner: ses (48 kHz mono) ve kelime sınırları [[bas, sure, kelime], ...] (kırpılmış sese göre)."""
     x = oku(mp3)
     sinir = json.loads(js.read_text(encoding='utf-8'))
+    # edge akışı bazen yarıda kesiliyor: mp3 son kelimeden kısa kalır (25.11.2026, GitHub'da "shapes (0,) (576,)").
+    # Böyle dosya kullanılmaz; çağıran (emma_sec.sentez) siler ve yeniden seslendirir.
+    if sinir and sinir[-1][0] + sinir[-1][1] > len(x) / SR + .3:
+        raise EksikSes(f'{mp3.name}: ses {len(x) / SR:.2f} sn, son kelime {sinir[-1][0] + sinir[-1][1]:.2f} sn')
     if n_onek and len(sinir) > n_onek:
         kes = max(0.0, sinir[n_onek][0] - .05)
         x = x[int(kes * SR):].copy()
