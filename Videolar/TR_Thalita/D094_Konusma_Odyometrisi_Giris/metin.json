@@ -388,7 +388,10 @@
     ]
    },
    "cumleler": [
-    "Eşik üstü testlerin en bilineni, konuşmayı ayırt etme skoru, yani SDS'dir.",
+    {
+     "yazi": "Eşik üstü testlerin en bilineni, konuşmayı ayırt etme skoru, yani SDS'dir.",
+     "ses": "Eşik üstü testlerin en bilineni, konuşmayı ayırt etme skorudur."
+    },
     "Bu testte kelimeler rahat duyulabilecek bir düzeyde verilir ve doğru tekrar edilenlerin yüzdesi hesaplanır.",
     "En rahat dinleme düzeyi (most comfortable level), kısaca MCL, konuşmanın en rahat dinlendiği düzeydir.",
     "Rahatsız edici ses düzeyi (uncomfortable loudness level), kısaca UCL ise konuşmanın rahatsız edici hale geldiği düzeydir.",
@@ -704,7 +707,7 @@
     "Konuşma odyometrisi, saf ses eşiklerini doğrular ve konuşmanın ne kadar net anlaşıldığını gösterir.",
     {
      "yazi": "Eşik testleri SDT ve SRT, eşik üstü testler ise SDS, MCL ve UCL'dir.",
-     "ses": "Eşik testleri es di ti ve SRT, eşik üstü testler ise SDS, MCL ve UCL'dir."
+     "ses": "Eşik testleri konuşmayı fark etme ve konuşmayı alma eşikleridir; eşik üstü testler ise ayırt etme skoru, en rahat dinleme düzeyi ve rahatsızlık düzeyidir."
     },
     "Konuşmayı fark etme eşiği, alma eşiğinden genellikle yaklaşık sekiz ile on desibel daha iyidir.",
     "Kapalı set testler küçük çocuklarda kullanışlıdır, ama skorları açık set skorlarıyla doğrudan karşılaştırılmaz."

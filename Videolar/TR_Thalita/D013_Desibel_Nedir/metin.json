@@ -456,7 +456,10 @@
     "Referanstan küçük basınçlar eksi desibel değeri verir; örneğin eksi beş dB SPL anlamlı bir ölçümdür.",
     "Nitekim genç ve sağlıklı kulaklar bazı frekanslarda referansın altındaki seslere bile yanıt verebilir.",
     "Bu yüzden desibel tek başına anlamsızdır; hangi referansa göre ölçüldüğü mutlaka belirtilmelidir.",
-    "Odyolojide bu nedenle dB SPL, dB HL ve dB SL gibi farklı ölçekler kullanılır."
+    {
+     "yazi": "Odyolojide bu nedenle dB SPL, dB HL ve dB SL gibi farklı ölçekler kullanılır.",
+     "ses": "Bu nedenle odyolojide ses basınç düzeyi, işitme düzeyi ve duyum düzeyi gibi farklı desibel ölçekleri kullanılır."
+    }
    ]
   },
   {
@@ -661,7 +664,10 @@
     "Desibel, ölçülen bir değerin referans değere oranının logaritmik ifadesidir.",
     "Şiddet için on log, basınç için yirmi log kullanılır; iki formül aynı sonucu verir.",
     "Sıfır dB SPL sessizlik değil, yirmi mikropaskallık referans basınçtır.",
-    "dB SPL, dB HL ve dB SL farklı referanslara dayanır; hangisinin kullanıldığı her zaman belirtilmelidir."
+    {
+     "yazi": "dB SPL, dB HL ve dB SL farklı referanslara dayanır; hangisinin kullanıldığı her zaman belirtilmelidir.",
+     "ses": "Bu üç ölçek farklı referanslara dayanır; hangisinin kullanıldığı her zaman belirtilmelidir."
+    }
    ]
   },
   {

@@ -151,7 +151,10 @@
     }
    ],
    "cumleler": [
-    "Düzenekte üç temel parça vardır: hoparlör, prob mikrofonu ve referans mikrofon.",
+    {
+     "yazi": "Düzenekte üç temel parça vardır: hoparlör, prob mikrofonu ve referans mikrofon.",
+     "ses": "Düzenekte üç temel parça vardır: hoparlör, ölçüm mikrofonu ve referans mikrofonu."
+    },
     "Hoparlör genellikle hastanın önünde ya da 45 derece açıyla, yaklaşık yarım metre ile bir metre uzaklıkta durur.",
     "Prob tüpü kulak yoluna yerleştirilir ve ucu timpanik membrana yakın bir noktada durur.",
     "Ölçümün amacı, timpanik membran önündeki ses basıncını olabildiğince doğru yakalamaktır.",
@@ -758,7 +761,8 @@
    "cumleler": [
     {
      "yazi": "Kendinizi test edin: 3000 Hz'de REUG 17 dB, REAG 40 dB ise REIG kaç dB'dir?",
-     "sonra_bekle": 5
+     "sonra_bekle": 5,
+     "ses": "Kendinizi test edin: Üç bin hertzde açık kulak kazancı on yedi desibel, cihazla ölçülen kazanç kırk desibel ise ekleme kazancı kaç desibeldir?"
     },
     "Doğru cevap B: 23 dB.",
     "Yerleştirme kazancı, cihazlı kazançtan açık kulağın doğal kazancı çıkarılarak bulunur: 40 eksi 17, yani 23 dB."
