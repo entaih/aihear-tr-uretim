@@ -1,0 +1,90 @@
+001 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Merhaba, Ey ay hiyır Odyoloji Akademisine hoş geldiniz.  || ref: -
+002 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu derste koklear implantın sesi elektrik darbelerine çevirirken izlediği kuralları, yani kodlama stratejilerini öğreneceğiz.  || ref: -
+003 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Sürekli ardışık örnekleme ile ileri kombinasyon kodlayıcısının mantığını, zarf ile ince yapı farkını ve ince yapı yaklaşımlarını göreceğiz.  || ref: -
+004 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: İmplantın işlemcisi sesi sürekli analiz eder ve darbeleri hesaplar; bu hesabın kurallarına kodlama stratejisi denir.  || ref: -
+005 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Önceki derslerde gördüğümüz gibi koklea frekansları yerine göre ayırır: taban tiz, tepe pes seslere karşılık gelir.  || ref: -
+006 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Strateji önce şu soruyu yanıtlar: bu andaki sesin hangi frekans bilgisi, hangi elektroda verilecek?  || ref: -
+007 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: İkinci soru zamanlamadır: darbeler hangi hızla ve hangi sırayla verilecek?  || ref: -
+008 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Üçüncü soru büyüklüktür: her darbe, kişinin eşik ve konfor düzeyleri arasında ne kadar güçlü olacak?  || ref: -
+009 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bütün stratejiler bu üç soruya farklı yanıtlar verir; ama hepsinin amacı konuşmayı olabildiğince anlaşılır iletmektir.  || ref: -
+010 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: İlk implantlar tek kanallıydı; ses farkındalığı ve dudak okumaya destek sağlıyor, ama konuşmayı tek başına anlamaya genellikle yetmiyordu.  || ref: -
+011 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Çok kanallı ilk sistemlerin bir kısmı, her kanalın analog sinyalini elektrotlara aynı anda veriyordu.  || ref: -
+012 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Aynı anda verilen akımlar sıvıda birbirine karışıyor ve kanalları bozuyordu; buna kanal etkileşimi denir.  || ref: -
+013 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Vilsın ve arkadaşları bin dokuz yüz doksan birde, darbeleri kanallara sırayla veren bir stratejinin konuşma tanımayı belirgin biçimde artırdığını gösterdi.  || ref: -
+014 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Ardından her an yalnızca en güçlü kanalları seçen en of em yaklaşımı ve onun bir uygulaması olan ileri kombinasyon kodlayıcısı yaygınlaştı.  || ref: -
+015 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Son yıllarda geliştirilen stratejiler ise zarfın ötesine geçip zamansal ince yapının bir kısmını da iletmeye çalışır.  || ref: -
+016 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Sürekli ardışık örnekleme, kısaca ce ı se, bugünkü stratejilerin çoğunun temelidir.  || ref: -
+017 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Mikrofondan gelen ses önce bir filtre bankasıyla, elektrot sayısına uygun sayıda frekans bandına ayrılır.  || ref: -
+018 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Her bantta sesin zaman içindeki genlik değişimi, yani zarfı çıkarılır; bantların hızlı salınımı ise atılır.  || ref: -
+019 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Zarfın geniş akustik aralığı, logaritmik bir eğriyle kişinin dar elektriksel aralığına, yani eşik ile konfor düzeyleri arasına sıkıştırılır.  || ref: -
+020 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Sonuçta her elektroda sabit hızlı bir darbe dizisi gider ve her darbenin büyüklüğü o bandın zarfını izler.  || ref: -
+021 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Darbeler iki fazlıdır, yani önce bir yönde sonra ters yönde akım verilir; böylece dokuda yük birikmez.  || ref: -
+022 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu grafik bir frekans bandının çıkışını gösteriyor; gri çizgi, bandın içindeki hızlı salınımlardır.  || ref: -
+023 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Mavi çizgi ise bu salınımların tepelerini birleştiren, yavaş değişen zarftır.  || ref: -
+024 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: ce ı se gibi zarf temelli stratejiler yalnızca mavi çizgiyi, yani sesin ne zaman güçlenip zayıfladığını iletir.  || ref: -
+025 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Konuşmanın hece ritmi, vurgu ve pek çok ünsüz ipucu bu yavaş değişimlerde taşınır.  || ref: -
+026 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Gri çizgideki hızlı salınım ise zamansal ince yapı olarak adlandırılır.  || ref: -
+027 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: İnce yapı perde, müzik ve gürültüde konuşma için önemlidir; zarf temelli stratejilerde büyük ölçüde kaybolur.  || ref: -
+028 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:0.99 pencere=0.97 (small)  || okunan: ce ı se adındaki sırayla sözcüğü, darbelerin zamanlamasını anlatır.  || ref: -
+029 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu şemada dört kanalın darbeleri görülüyor; hiçbir anda iki elektrot birlikte uyarılmıyor.  || ref: -
+030 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir elektrodun darbesi bittikten sonra sıradaki elektrodun darbesi başlar; böylece akımlar üst üste binmez ve kanal etkileşimi azalır.  || ref: -
+031 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bütün elektrotların birer kez uyarıldığı süreye bir döngü denir; döngü hızla ve sürekli tekrarlanır.  || ref: -
+032 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Kanal başına darbe hızı genellikle saniyede birkaç yüz ile birkaç bin arasında seçilir; hızlı darbe zarftaki değişimleri daha iyi izler.  || ref: -
+033 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Darbe yüksekliklerinin farklı olduğuna dikkat edin; her biri o anda kendi bandının zarfını yansıtır.  || ref: -
+034 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Elektrot sayısı arttıkça, her döngüde bütün kanalları sırayla uyarmak zaman alır ve darbe hızını düşürür.  || ref: -
+035 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:1.00 pencere=0.99 (small)  || okunan: en of em yaklaşımında işlemci, her analiz döngüsünde em sayıdaki kanalın enerjisini hesaplar.  || ref: -
+036 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Sonra yalnızca enerjisi en yüksek olan en kanalı seçer ve yalnız bu kanallara darbe gönderir.  || ref: -
+037 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu örnekte 22 kanalın 8'i seçiliyor; seçilen kanallar çoğu zaman konuşmanın formant bölgelerine karşılık gelir.  || ref: -
+038 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Seçilmeyen kanallar o döngüde sessiz kalır; bir sonraki döngüde ses değiştiyse başka kanallar seçilebilir.  || ref: -
+039 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Böylece en önemli spektral bilgi korunurken, uyarılan her kanal daha yüksek bir hızla güncellenebilir.  || ref: -
+040 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Gürültüde ise gürültünün güçlü olduğu kanallar da seçilebilir; bu, yöntemin bir sınırlılığıdır.  || ref: -
+041 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: ce ı se'de her döngüde bütün etkin kanallar uyarılır; kanal sayısı genellikle elektrot sayısına eşittir.  || ref: -
+042 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: İleri kombinasyon kodlayıcısı, kısaca a ce e, en of em mantığını yüksek darbe hızıyla birleştiren bir stratejidir.  || ref: -
+043 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.95 (small)  || okunan: a ce e, daha düşük hızlı öncül bir en of em stratejisinin geliştirilmiş biçimi olarak ortaya çıktı.  || ref: -
+044 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Programlamada seçilecek kanal sayısı ve kanal başına darbe hızı değiştirilebilir; bunlar kişiye göre ayarlanabilen parametrelerdir.  || ref: -
+045 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kanal başına hız klinikte çoğu zaman saniyede yaklaşık bin darbe civarında seçilir; ama çok farklı değerler de kullanılır.  || ref: -
+046 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Çalışmalarda iki yaklaşımın ortalama konuşma başarısı genellikle benzerdir; kişiler arası fark, stratejiler arası farktan büyüktür.  || ref: -
+047 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Şenın ve arkadaşları bin dokuz yüz doksan beşte, normal işitenlerin yalnız dört bantlık zarf bilgisiyle sessizde konuşmayı büyük ölçüde anladığını gösterdi.  || ref: -
+048 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu bulgu, implantın neden az sayıda kanalla bile konuşmayı iletebildiğini açıklar.  || ref: -
+049 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Gürültüde ise normal işiten dinleyicilerin başarısı kanal sayısı arttıkça yükselmeye devam eder.  || ref: -
+050 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Frizın ve arkadaşlarının iki bin bir çalışmasında implant kullanıcılarının başarısı ise yaklaşık yedi ile sekiz kanalda durdu.  || ref: -
+051 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu plato, elektrot sayısının değil, birbirinden bağımsız çalışan etkin kanal sayısının sınırlı olduğunu gösterir.  || ref: -
+052 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Nedeni, akımın sıvıda yayılması ve komşu elektrotların aynı sinir liflerini uyarmasıdır.  || ref: -
+053 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Grafikteki değerler şematiktir; asıl mesaj, daha fazla elektrodun kendiliğinden daha fazla bilgi anlamına gelmediğidir.  || ref: -
+054 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Smit, Delgut ve Oksınım iki bin ikide bir sesin zarfını ve ince yapısını farklı seslerden alarak karma sesler oluşturdu.  || ref: -
+055 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Dört ve daha fazla bantta konuşmayı zarf belirledi; sessizde konuşmayı anlamak için zarf büyük ölçüde yeterlidir.  || ref: -
+056 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Melodinin ve perdenin algısında ise ince yapı belirleyici oldu.  || ref: -
+057 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: İnce yapı, gürültüde iki konuşmacıyı seslerinin perdesiyle ayırmaya da yardım eder.  || ref: -
+058 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Ayrıca pes frekanslardaki iki kulak arası zaman farkları ince yapıyla taşınır; bu da yön bulmayı etkiler.  || ref: -
+059 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: İmplant kullanıcılarının müzikte ve gürültüde zorlanmasının önemli bir nedeni bu bilginin eksik iletilmesidir.  || ref: -
+060 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bazı stratejiler pes kanallarda darbeleri sabit hızla değil, o bandın salınımının belirli anlarına denk gelecek biçimde verir.  || ref: -
+061 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Böylece pes seslerde darbelerin zamanlaması ince yapının bir kısmını taşıyabilir; bu bilgi sinirin faz kilitlenmesiyle iletilir.  || ref: -
+062 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu yaklaşımlar çoğu zaman kokleanın tepesine yakın, pes bölgeleri uyarabilen uzun elektrotlarla birlikte düşünülür.  || ref: -
+063 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir başka yaklaşım, iki komşu elektrot arasında ara perde algısı oluşturan sanal kanallardır.  || ref: -
+064 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Sanal kanallar spektral ayrıntıyı artırmayı hedefler; zamansal ince yapıyı ise doğrudan iletmez.  || ref: -
+065 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Pes frekanslarda akustik işitmesi kalan kişilerde ise ince yapının en doğal kaynağı bu kalan işitmedir; bunu ilerleyen derslerde göreceğiz.  || ref: -
+066 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu şemada iki komşu elektrodun ayrı ayrı uyarıldığında koklea boyunca oluşturduğu uyarılma görülüyor.  || ref: -
+067 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Akım yönlendirme yönteminde iki elektrot aynı anda, akım aralarında paylaştırılarak uyarılır.  || ref: -
+068 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Akımın iki elektrot arasında nasıl bölüştürüldüğüne göre uyarılmanın tepesi aradaki bir noktaya kayar.  || ref: -
+069 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bazı kullanıcılar bu ara noktaları, iki elektrottan farklı perdeler olarak algılayabilir; bunlara sanal kanal denir.  || ref: -
+070 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Ancak bu yöntem eş zamanlı uyarım kullandığı için, kanal etkileşimini kontrol etmek ayrı bir tasarım sorunudur.  || ref: -
+071 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kullanılabilecek stratejiler, implantın ve ses işlemcisinin üreticisine ve modeline bağlıdır.  || ref: -
+072 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Çoğu merkez üreticinin önerdiği varsayılan stratejiyle başlar ve gerekirse parametreleri değiştirir.  || ref: -
+073 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kişinin ses kalitesine ilişkin tercihi ve konuşma testlerindeki sonuçları kararın temel ölçütleridir.  || ref: -
+074 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Strateji ya da darbe hızı değiştiğinde sesler bir süre farklı gelir; beynin yeni koda alışması birkaç hafta sürebilir.  || ref: -
+075 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu yüzden değişiklikten hemen sonra değil, bir alışma döneminin ardından konuşma testleriyle karşılaştırma yapılır.  || ref: -
+076 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kanıtlar, tek bir stratejinin herkes için üstün olmadığını gösterir; kişiye göre ayarlama yine en önemli adımdır.  || ref: -
+077 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Sahadan bir ipucu: yeni bir strateji ya da darbe hızı denerken kişinin alıştığı eski ayarı işlemcide ayrı bir programda saklayın.  || ref: -
+078 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: İlk dakikalardaki izlenim çoğu zaman alışkanlığı yansıtır; yeni ayar ilk anda kötü gelebilir.  || ref: -
+079 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Karşılaştırmayı birkaç haftalık düzenli kullanımdan sonra, aynı kayıtlı konuşma testiyle ve aynı koşulda yapın.  || ref: -
+080 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Kişiden günlük ortamlarda iki programı karşılaştıran kısa notlar tutmasını isteyin.  || ref: -
+081 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kodlama stratejisi, sesin hangi elektroda, hangi zamanlamayla ve hangi büyüklükte verileceğini belirler.  || ref: -
+082 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: ce ı se her bantta zarfı çıkarır ve darbeleri kanallara sırayla vererek kanal etkileşimini azaltır.  || ref: -
+083 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.90 (small)  || okunan: en of em yaklaşımı ve a ce e, her döngüde yalnız en güçlü kanalları seçerek önemli spektral bilgiyi korur.  || ref: -
+084 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Zarf sessizde konuşmayı büyük ölçüde taşır; perde, müzik ve gürültüde ayrım için ince yapı gerekir ve implantlarda sınırlı iletilir.  || ref: -
+085 hızlı   aday=1 önek="Türkçe:" dil=tr:0.98 pencere=0.98 (small)  || okunan: Kendinizi test edin: ce ı se stratejisinde darbelerin elektrotlara sırayla verilmesinin temel amacı nedir?  || ref: -
+086 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Doğru cevap B: kanal etkileşimini azaltmak.  || ref: -
+087 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Aynı anda verilen akımlar koklea sıvısında birbirine karışır; darbeler sırayla verilince her kanal daha ayrı bir sinir bölgesini uyarır.  || ref: -
+088 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir sonraki derste ilk aktivasyonu ve programlamayı, yani eşik ve konfor düzeylerinin nasıl belirlendiğini öğreneceğiz.  || ref: -
+089 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!  || ref: -
+== D241_Kodlama_Stratejileri bitti

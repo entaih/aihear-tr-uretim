@@ -1,0 +1,79 @@
+001 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Merhaba, Ey ay hiyır Odyoloji Akademisine hoş geldiniz.  || ref: -
+002 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu derste konuşmanın görüntüsü olan spektrogramı okumayı öğreneceğiz.  || ref: -
+003 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Ünlülerdeki formantları, sürtünmeli ünsüzlerin tiz enerjisini ve patlamalı ünsüzlerde ses başlama zamanını göreceğiz.  || ref: -
+004 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir sesi farklı biçimlerde gösterebiliriz; ilki, zamana göre basınç değişimini gösteren dalga biçimidir.  || ref: -
+005 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Spektrum ise belirli bir anda sesin hangi frekanslarda ne kadar enerji taşıdığını gösterir.  || ref: -
+006 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Spektrogram bu ikisini birleştirir: frekans içeriğinin zaman içinde nasıl değiştiğini gösterir.  || ref: -
+007 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Konuşma sürekli değişen bir ses olduğu için, konuşmayı incelemenin en güçlü araçlarından biri spektrogramdır.  || ref: -
+008 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: İlk ses spektrografları kırklı yıllarda Bel Laboratuvarlarında geliştirildi ve konuşma araştırmalarını kökten değiştirdi.  || ref: -
+009 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Spektrogramda yatay eksen zamandır; konuşma soldan sağa doğru ilerler.  || ref: -
+010 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Dikey eksen frekanstır; aşağıda pes, yukarıda tiz frekanslar yer alır.  || ref: -
+011 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Üçüncü boyut olan şiddet, koyuluk ya da renkle gösterilir; koyu ya da parlak bölgeler daha fazla enerji demektir.  || ref: -
+012 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Dikkat edin: odyogramda frekans soldan sağa ilerlerken, spektrogramda aşağıdan yukarı ilerler.  || ref: -
+013 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu üç ekseni aklımızda tutarak konuşma seslerinin izlerini okuyabiliriz.  || ref: -
+014 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Spektrogramlar iki temel ayarla hazırlanabilir: geniş bant ve dar bant.  || ref: -
+015 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Geniş bant spektrogramda analiz penceresi kısadır; formantlar koyu bantlar halinde görünür.  || ref: -
+016 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Zaman ayrıntısı iyidir; ses tellerinin her titreşimi ince dikey çizgiler halinde seçilebilir.  || ref: -
+017 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Dar bant spektrogramda pencere uzundur; bu kez tek tek harmonikler yatay çizgiler halinde görünür.  || ref: -
+018 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Frekans ayrıntısı iyidir, ama zamandaki hızlı değişimler bulanıklaşır.  || ref: -
+019 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: İkisi de geçerlidir: formant ve ünsüz için genellikle geniş bant, ses perdesi ve harmonikler için dar bant seçilir.  || ref: -
+020 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Ünlüleri anlamak için kaynak ve süzgeç modelini kullanırız.  || ref: -
+021 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Kaynak, ses tellerinin titreşimidir; titreşimin hızına temel frekans, kısaca fe sıfır denir.  || ref: -
+022 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Temel frekans erkeklerde yaklaşık yüz ile yüz elli, kadınlarda yaklaşık iki yüz ile iki yüz elli hertzdir; çocuklarda daha yüksektir.  || ref: -
+023 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Ses telleri temel frekansla birlikte onun katları olan harmonikleri de üretir; süzgeç ise gırtlaktan dudaklara uzanan ses yoludur.  || ref: -
+024 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Ses yolu bazı frekans bölgelerini güçlendirir; bu rezonans bölgelerine formant denir.  || ref: -
+025 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Dil, çene ve dudakların konumu değiştikçe formantların yeri değişir ve farklı ünlüler ortaya çıkar.  || ref: -
+026 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Her ünlü, ilk iki formantının, yani fe bir ve fe ikinin konumuyla büyük ölçüde tanınır.  || ref: -
+027 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Birinci formant dilin yüksekliğiyle ters ilişkilidir: i ve u gibi dilin yüksek olduğu ünlülerde fe bir düşüktür.  || ref: -
+028 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: A gibi ağzın açık olduğu alçak ünlülerde ise fe bir yüksektir, yaklaşık yedi yüz hertz civarındadır.  || ref: -
+029 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: İkinci formant dilin önde ya da arkada olmasıyla ilişkilidir: i, e gibi ön ünlülerde fe iki yüksek, u, o gibi arka ünlülerde düşüktür.  || ref: -
+030 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Tablodaki değerler yetişkin erkek bir konuşmacı için yaklaşık örneklerdir; kadınlarda ve çocuklarda formantlar daha yüksektir.  || ref: -
+031 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Türkçedeki sekiz ünlünün her biri, bu iki formantın oluşturduğu haritada kendine özgü bir yerde durur.  || ref: -
+032 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Ünlüler konuşmanın en güçlü sesleridir ve enerjilerinin çoğu bin hertzin altındadır.  || ref: -
+033 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu yüzden tiz frekans kaybı olan kişiler bile ünlüleri genellikle iyi duyar.  || ref: -
+034 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Ancak ünlüleri ayırt etmek için ikinci formant da gerekir; i gibi ön ünlülerde bu formant iki bin hertzin üzerine çıkar.  || ref: -
+035 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Orta ve tiz frekanslarda kaybı olan bir kişide i ile ü ya da e ile ö gibi ünlüler karışabilir.  || ref: -
+036 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Konuşma muzunda da ünlülerin pes ve güçlü bölgede, ünsüzlerin ise daha tiz ve zayıf bölgede toplandığını görüyoruz.  || ref: -
+037 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Sürtünmeli ünsüzler, hava ağızdaki dar bir geçitten zorlanarak geçerken oluşan türbülansla üretilir.  || ref: -
+038 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Spektrogramda düzenli harmonikler yerine, geniş bir alana yayılmış, kumlu görünümlü bir gürültü olarak görünürler.  || ref: -
+039 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: S sesinin enerjisi en tiz bölgededir; genellikle dört bin hertzin üzerinde yoğunlaşır.  || ref: -
+040 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Ş sesinde ise ağzın önündeki boşluk daha uzundur ve dudaklar hafifçe yuvarlanır.  || ref: -
+041 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu yüzden ş sesinin enerjisi daha aşağıdan, yaklaşık iki bin ile iki bin beş yüz hertz civarından başlar.  || ref: -
+042 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: F sesi zayıf ve geniş bir alana yayılmış bir gürültüdür; bu yüzden en kolay kaçırılan seslerdendir.  || ref: -
+043 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Z, v ve j gibi ötümlü sürtünmelilerde gürültüye ek olarak, en altta ses tellerinin titreşimini gösteren bir ötüm bandı görülür.  || ref: -
+044 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Patlamalı ünsüzlerde hava ağızda bir an tamamen kapatılır; spektrogramda bu kapanma kısa bir sessiz boşluk olarak görünür.  || ref: -
+045 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Ardından kapanma açılırken kısa, dikey bir patlama izi görülür.  || ref: -
+046 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Patlama ile ses tellerinin titreşmeye başlaması arasındaki süreye ses başlama zamanı, kısaca ve o te denir.  || ref: -
+047 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Türkçede b, d, g gibi ötümlü patlamalılarda ötüm çoğu zaman patlamayla birlikte ya da ondan önce başlar.  || ref: -
+048 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: P, t, k gibi ötümsüz patlamalılarda ise ötüm, belirgin bir gecikmeyle ve soluklu bir hışırtıdan sonra başlar.  || ref: -
+049 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Birkaç on milisaniyelik bu fark, beynin zamanlama bilgisini ne kadar hassas kullandığını gösterir.  || ref: -
+050 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu örnek odyogramda bin hertzden sonra hızla düşen bir kayıp var; ünlülerin enerjisi büyük ölçüde duyulabilir bölgede kalıyor.  || ref: -
+051 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Ancak s, ş ve f gibi sürtünmelilerin enerjisi eşik çizgisinin üstünde, yani duyulamayan bölgede kalıyor.  || ref: -
+052 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kişi konuşmanın varlığını duyar, ama sözcükleri yanlış anlayabilir.  || ref: -
+053 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Türkçede birçok ek ve sözcük s sesi içerir; bu sesin kaçırılması anlamı değiştirebilir.  || ref: -
+054 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kadın ve çocuk konuşmacılarda s sesinin enerjisi daha da tize kayar; bu, çocuklarda geniş bantlı amplifikasyonun önemini açıklar.  || ref: -
+055 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Spektrogram bilgisinin pratik bir uygulaması Ling altı ses testidir.  || ref: -
+056 KONTROL aday=5 önek="Türkçe söylüyorum:" dil=tr:1.00 pencere=0.64 (small)  || okunan: Bu testte m, u, a, i, ş ve s sesleri kullanılır; bu sesler birlikte konuşmanın frekans aralığını kabaca kapsar.  || ref: -
+057 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: M ve u pes bölgeyi, a ise orta bölgeyi temsil eder.  || ref: -
+058 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: İ sesi pes bir birinci ve tiz bir ikinci formant taşır; ş ve s ise tiz bölgeyi temsil eder.  || ref: -
+059 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Özellikle çocuklarda, cihazın bu sesleri iletip iletmediğini hızlıca kontrol etmek için kullanılır; ayrıntısını ileride göreceğiz.  || ref: -
+060 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir spektrogramı okurken önce sessiz boşluklara bakın; bunlar çoğu zaman patlamalıların kapanma evresidir.  || ref: -
+061 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Sonra en altta ötüm bandını ve ses tellerinin titreşimini gösteren ince dikey çizgileri arayın.  || ref: -
+062 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Ünlülerde koyu formant bantlarını bulun ve fe bir ile fe ikinin yerine bakın.  || ref: -
+063 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Tiz bölgedeki geniş, kumlu gürültü alanları sürtünmeli ünsüzleri gösterir.  || ref: -
+064 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Son olarak ünsüz ile ünlü arasındaki formant geçişlerine ve seslerin sürelerine bakın.  || ref: -
+065 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Prat gibi ücretsiz programlarla kendi sesinizin spektrogramını çıkararak bu adımları deneyebilirsiniz.  || ref: -
+066 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Sahadan bir ipucu: konuşma testinde hastanın yalnız doğru yanıt sayısını değil, hangi sesleri karıştırdığını da not edin.  || ref: -
+067 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: S, ş ve f karışıklıkları çoğu zaman odyogramın iki bin ile sekiz bin hertz arasındaki bölgesiyle ilişkilidir.  || ref: -
+068 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Örneğin s yerine ş ya da f duyan bir hasta, tiz bölgede yeterli işitilebilirliğe sahip olmayabilir.  || ref: -
+069 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu kayıtlar, cihaz ayarında ve danışmanlıkta değerli bir bilgi sağlar.  || ref: -
+070 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Spektrogramda yatay eksen zamanı, dikey eksen frekansı, koyuluk ise şiddeti gösterir.  || ref: -
+071 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Ünlüler, ses yolunun rezonansları olan ilk iki formantın konumuyla tanınır.  || ref: -
+072 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Sürtünmeli ünsüzler tiz bölgede gürültü olarak görünür; s sesinin enerjisi genellikle dört bin hertzin üzerindedir.  || ref: -
+073 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Patlamalılarda kapanma boşluğu, patlama izi ve ses başlama zamanı ötümlü ve ötümsüz sesleri ayırır.  || ref: -
+074 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Kendinizi test edin: Spektrogramda en tiz bölgede gürültü olarak görünen ses hangisidir?  || ref: -
+075 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Doğru cevap ce: s ünsüzü.  || ref: -
+076 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: S sürtünmeli bir ünsüzdür ve enerjisi genellikle dört bin hertzin üzerinde, kumlu bir gürültü olarak görünür.  || ref: -
+077 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir sonraki derste konuşma seslerini odyogramın üzerine yerleştirecek ve konuşma muzunu göreceğiz.  || ref: -
+078 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!  || ref: -
+== D042_Spektrogram bitti

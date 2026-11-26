@@ -1,0 +1,83 @@
+001 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Merhaba, Ey ay hiyır Odyoloji Akademisine hoş geldiniz.  || ref: -
+002 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Bu derste bir makalenin bulgular bölümünü okuyabilmek için gereken temel istatistik kavramlarını öğreneceğiz.  || ref: -
+003 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Ortalama ve ortancayı, standart sapmayı, normal dağılımı, normatif veriyi, yüzdelikleri ve güven aralığını odyoloji örnekleriyle göreceğiz.  || ref: -
+004 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: İstatistikte ilk adım, elimizdeki verinin türünü tanımaktır; çünkü hangi özetin ve hangi testin kullanılacağı buna bağlıdır.  || ref: -
+005 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kategorik veri adlardan oluşur: test edilen kulak, cinsiyet ya da taramada geçti ve kaldı sonucu gibi.  || ref: -
+006 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu veriler sayılarak ve yüzdelerle özetlenir; ortalamaları alınamaz.  || ref: -
+007 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Sıralı veride kategoriler arasında bir sıra vardır: hafif, orta ve ileri işitme kaybı gibi; ama aralıklar eşit değildir.  || ref: -
+008 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Sürekli veri ise ölçümle elde edilir: işitsel beyin sapı yanıtı latansı milisaniye, eşik desibel, kelime tanıma skoru yüzde olarak.  || ref: -
+009 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Odyogramdaki eşikler beş desibellik adımlarla ölçülse de, çoğu analizde sürekli veri gibi ele alınır.  || ref: -
+010 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Sürekli veriler, birazdan göreceğimiz ortalama, ortanca ve standart sapma gibi ölçülerle özetlenir.  || ref: -
+011 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Bir veri kümesinin merkezini üç ölçüyle anlatırız: ortalama, ortanca ve tepe değer.  || ref: -
+012 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Örnek olarak tinnitus yakınması olan yedi kişinin yakınma sürelerine bakalım: iki, üç, üç, dört, beş, altı ve kırk yıl.  || ref: -
+013 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Ortalama, değerlerin toplamının kişi sayısına bölünmesidir; burada altmış üç bölü yedi, yani dokuz yıldır.  || ref: -
+014 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Ortanca, değerler sıralandığında tam ortada kalan değerdir; burada dördüncü değer, yani dört yıldır.  || ref: -
+015 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Tepe değer en sık görülen değerdir; burada üç yıl.  || ref: -
+016 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Tek bir uç değer, yani kırk yıl, ortalamayı dokuza çekmiş; ortanca ise grubu çok daha iyi temsil ediyor.  || ref: -
+017 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu yüzden çarpık, yani bir yana uzayan dağılımlarda ortanca tercih edilir.  || ref: -
+018 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Simetrik bir dağılımda ise ortalama ile ortanca birbirine çok yakın çıkar.  || ref: -
+019 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Merkez tek başına yetmez; değerlerin ortalama etrafında ne kadar yayıldığını da bilmemiz gerekir.  || ref: -
+020 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Örnek olarak, ileride göreceğimiz işitsel beyin sapı yanıtı, kısaca a be re'de beş kişinin dalga beş latanslarını alalım.  || ref: -
+021 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Değerler beş virgül dört, beş virgül beş, beş virgül altı, beş virgül yedi ve beş virgül sekiz milisaniye; ortalama beş virgül altı.  || ref: -
+022 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Her değerin ortalamadan farkı alınır ve bu farkların karesi hesaplanır; kareler toplamı sıfır virgül on bulunur.  || ref: -
+023 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu toplam, örneklemde n eksi bire, yani dörde bölünür; sonuç sıfır virgül sıfır yirmi beştir ve buna varyans denir.  || ref: -
+024 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Varyansın birimi milisaniyenin karesi olduğu için yorumlaması zordur.  || ref: -
+025 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu yüzden karekökü alınır: yaklaşık sıfır virgül on altı milisaniye; bu değer standart sapmadır, kısaca se de.  || ref: -
+026 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Standart sapma büyüdükçe değerler ortalamadan daha uzağa dağılmış demektir.  || ref: -
+027 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: En basit yayılım ölçüsü açıklıktır: en büyük değerden en küçük değerin çıkarılmasıyla bulunur.  || ref: -
+028 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Açıklık tek bir uç değerden çok etkilenir; tinnitus örneğimizde otuz sekiz yıldır.  || ref: -
+029 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Çeyrekler arası açıklık ise değerlerin ortadaki yüzde ellisinin kapladığı aralıktır ve uç değerlerden az etkilenir.  || ref: -
+030 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Simetrik dağılan veriler makalelerde genellikle ortalama artı eksi standart sapma olarak verilir.  || ref: -
+031 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Çarpık verilerde ise ortanca ve çeyrekler arası açıklık birlikte bildirilir.  || ref: -
+032 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Makale okurken hangi özetin kullanıldığına bakmak, verinin biçimi hakkında ilk ipucunu verir.  || ref: -
+033 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Birçok biyolojik ölçüm, ortalama etrafında simetrik ve çan biçimli bir dağılım gösterir; buna normal dağılım denir.  || ref: -
+034 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Ekranda normal işiten yetişkinlerden elde edilmiş örnek bir dalga beş latans dağılımı görüyoruz.  || ref: -
+035 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Bu örnekte ortalama beş virgül altı, standart sapma sıfır virgül iki milisaniyedir.  || ref: -
+036 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Değerlerin çoğu ortalama çevresinde toplanır; ortalamadan uzaklaştıkça kişi sayısı azalır.  || ref: -
+037 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Normal dağılımda değerlerin yaklaşık yüzde altmış sekizi, ortalamanın bir standart sapma altı ile üstü arasında kalır.  || ref: -
+038 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yaklaşık yüzde doksan beşi ortalamadan iki standart sapma uzaklık içindedir; tam değer bir virgül doksan altı standart sapmadır.  || ref: -
+039 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Üç standart sapma içinde ise değerlerin yaklaşık yüzde doksan dokuz virgül yedisi bulunur.  || ref: -
+040 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu örnekte normal kişilerin yaklaşık yüzde doksan beşinin latansı beş virgül iki ile altı virgül sıfır milisaniye arasındadır.  || ref: -
+041 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Klinikte bir hastanın sonucunu, normal işiten bir gruptan elde edilen normatif veriyle karşılaştırırız.  || ref: -
+042 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Örneğin bir hastanın dalga beş latansı altı virgül bir milisaniye olsun.  || ref: -
+043 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu değerin ortalamadan kaç standart sapma uzak olduğunu z puanı gösterir: değer eksi ortalama, bölü standart sapma.  || ref: -
+044 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Burada altı virgül bir eksi beş virgül altı, yani sıfır virgül beş; bunu sıfır virgül ikiye böldüğümüzde z puanı iki virgül beş bulunur.  || ref: -
+045 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Birçok klinik norm, ortalamadan iki standart sapmadan fazla uzaklaşan değeri normal sınırın dışında sayar.  || ref: -
+046 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bazı normlar ise iki buçuk ya da üç standart sapmalık bir sınır kullanır.  || ref: -
+047 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Unutmayın, bu tanımla normal kişilerin de yaklaşık yüzde beşi normal sınırın dışında kalır.  || ref: -
+048 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Veri normal dağılmıyorsa normal sınır yüzdeliklerle tanımlanır.  || ref: -
+049 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bir değerin ellinci yüzdelikte olması, grubun yarısının bu değerin altında kaldığını gösterir; ellinci yüzdelik ortancadır.  || ref: -
+050 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yirmi beşinci ve yetmiş beşinci yüzdelikler, değerlerin ortadaki yarısını sınırlar.  || ref: -
+051 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Odyolojide üst sınır olarak çoğu zaman doksanıncı ya da doksan beşinci yüzdelik kullanılır.  || ref: -
+052 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Akustik refleks normlarında da doksanıncı yüzdelik değerlerinin kullanıldığını önceki derslerde görmüştük.  || ref: -
+053 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yüzdelikler, dağılımın biçimi ne olursa olsun doğrudan yorumlanabildiği için normatif tablolarda çok kullanılır.  || ref: -
+054 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Çocukların boy ve kilo gelişim eğrilerinde kullanılan mantık da tam olarak budur.  || ref: -
+055 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bir çalışmada bulunan ortalama, yalnız o örnekleme aittir; asıl merak ettiğimiz, bütün topluluğun gerçek ortalamasıdır.  || ref: -
+056 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Ortalamanın ne kadar kesin tahmin edildiğini standart hata gösterir: standart sapma bölü n'nin karekökü.  || ref: -
+057 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.95 (small)  || okunan: Önceki örnekte standart sapma sıfır virgül iki ve n yirmi beş ise standart hata sıfır virgül iki bölü beş, yani sıfır virgül sıfır dörttür.  || ref: -
+058 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yüzde doksan beş güven aralığı, büyük örneklemde yaklaşık ortalama artı eksi bir virgül doksan altı standart hatadır.  || ref: -
+059 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bu örnekte aralık artı eksi yaklaşık sıfır virgül sıfır sekizdir; yani beş virgül elli iki ile beş virgül altmış sekiz milisaniye arasıdır.  || ref: -
+060 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.94 (small)  || okunan: n büyüdükçe aralık daralır: yirmi beş kişiyle artı eksi sıfır virgül sıfır sekiz, yüz kişiyle artı eksi sıfır virgül sıfır dört.  || ref: -
+061 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Dar aralık daha kesin bir tahmin demektir; küçük örneklemlerde bir virgül doksan altı yerine biraz daha büyük bir t değeri kullanılır.  || ref: -
+062 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Makalelerde güven aralığı çoğu zaman ortalamanın hemen yanında, köşeli parantez içinde verilir.  || ref: -
+063 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Öğrencilerin sık karıştırdığı iki aralığı yan yana koyalım.  || ref: -
+064 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.94 (small)  || okunan: Normal aralık, tek tek kişilerin değerlerinin nereye düştüğünü gösterir; örneğimizde beş virgül iki ile altı virgül sıfır milisaniye.  || ref: -
+065 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bir hastanın sonucunu yorumlarken kullandığımız aralık budur.  || ref: -
+066 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Güven aralığı ise yalnız ortalamanın kesinliği hakkındadır; örneğimizde beş virgül elli iki ile beş virgül altmış sekiz milisaniye.  || ref: -
+067 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Güven aralığı örneklem büyüdükçe daralır; normal aralık ise daralmaz, çünkü kişiler arasındaki doğal farklılık değişmez.  || ref: -
+068 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bir hastanın değeri güven aralığının dışında diye anormal sayılmaz.  || ref: -
+069 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bu ayrımı bilmek, makalelerdeki tabloları doğru okumanın anahtarlarından biridir.  || ref: -
+070 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Sahadan bir ipucu: bir makaleden ya da cihazdan aldığınız normatif değerler, yalnız o çalışmanın koşullarında geçerlidir.  || ref: -
+071 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Yaş grubu, uyaran türü, uyaran hızı ve kullanılan kulaklık değiştiğinde ortalama ve standart sapma da değişebilir.  || ref: -
+072 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Örneğin bebeklerin a be re latansları yetişkin normlarıyla değerlendirilemez.  || ref: -
+073 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Mümkünse kliniğinizde, kendi cihazınız ve protokolünüzle küçük bir normal grup ölçerek normların uyumunu doğrulayın.  || ref: -
+074 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kategorik, sıralı ve sürekli veriler farklı biçimde özetlenir.  || ref: -
+075 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Simetrik veride ortalama ve standart sapma, çarpık veride ortanca ve çeyrekler arası açıklık kullanılır.  || ref: -
+076 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Normal dağılımda değerlerin yaklaşık yüzde doksan beşi ortalamadan iki standart sapma uzaklık içindedir; normal sınırlar buna dayanır.  || ref: -
+077 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Güven aralığı ortalamanın ne kadar kesin tahmin edildiğini gösterir ve örneklem büyüdükçe daralır.  || ref: -
+078 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.95 (small)  || okunan: Kendinizi test edin: ortalama beş virgül altı, standart sapma sıfır virgül iki milisaniyeyse kişilerin yüzde doksan beşi nerededir?  || ref: -
+079 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Doğru cevap B: beş virgül iki ile altı virgül sıfır milisaniye.  || ref: -
+080 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Ortalamadan iki standart sapma aşağı ve yukarı gideriz; C seçeneği ise ortalamanın güven aralığıdır, kişilerin aralığı değildir.  || ref: -
+081 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir sonraki derste iki grup arasındaki farkın şansla açıklanıp açıklanamayacağını soran hipotez testini ve p değerini öğreneceğiz.  || ref: -
+082 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!  || ref: -
+== D118_Biyoistatistige_Giris bitti

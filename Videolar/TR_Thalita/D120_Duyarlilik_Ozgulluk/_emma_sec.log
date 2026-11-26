@@ -1,0 +1,82 @@
+001 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Merhaba, Ey ay hiyır Odyoloji Akademisine hoş geldiniz.  || ref: -
+002 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu derste bir testin ne kadar iyi ayırt ettiğini gösteren duyarlılık, özgüllük ve öngörü değerlerini öğreneceğiz.  || ref: -
+003 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Dörtlü tabloyu kurmayı, hesap yapmayı ve sonuçları yenidoğan işitme taraması örneğinde yorumlamayı göreceğiz.  || ref: -
+004 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir testin sonucunu, durumu kesin olarak gösteren bir referans testle karşılaştırırız; buna altın standart denir.  || ref: -
+005 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Hasta olan kişide test pozitifse, sonuç gerçek pozitiftir.  || ref: -
+006 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Sağlıklı kişide test pozitifse, bu bir yanlış pozitif sonuçtur.  || ref: -
+007 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Hasta olan kişide test negatifse, bu bir yanlış negatif sonuçtur.  || ref: -
+008 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Sağlıklı kişide test negatifse, sonuç gerçek negatiftir.  || ref: -
+009 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu dört olasılık, testin performansını anlatan bütün ölçülerin temelidir.  || ref: -
+010 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu dört olasılığı iki satır ve iki sütunluk bir tabloda düzenleriz; buna dörtlü tablo denir.  || ref: -
+011 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Satırlar test sonucunu, sütunlar ise altın standarda göre gerçek durumu gösterir.  || ref: -
+012 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Hücrelere genellikle a, b, c ve d harfleri verilir: a gerçek pozitif, b yanlış pozitif, c yanlış negatif, d gerçek negatiftir.  || ref: -
+013 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Sütun toplamları, gerçekten hasta olanların ve sağlıklı olanların sayısını verir.  || ref: -
+014 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bütün hesaplamalar bu dört sayıdan yapılır.  || ref: -
+015 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Duyarlılık, hastalığı olanların içinde testin pozitif bulduğu kişilerin oranıdır.  || ref: -
+016 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Formülle duyarlılık, a bölü a artı c olarak hesaplanır.  || ref: -
+017 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Duyarlılığı yüksek bir test hastaları nadiren kaçırır; yani yanlış negatif azdır.  || ref: -
+018 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Özgüllük ise sağlıklı olanların içinde testin negatif bulduğu kişilerin oranıdır.  || ref: -
+019 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Formülle özgüllük, d bölü b artı d olarak hesaplanır.  || ref: -
+020 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Özgüllüğü yüksek bir test sağlıklı kişileri nadiren hasta diye işaretler; yani yanlış pozitif azdır.  || ref: -
+021 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu iki ölçü testin kendi özelliğidir ve hastalığın ne kadar sık görüldüğünden doğrudan etkilenmez.  || ref: -
+022 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Çoğu test bir sayı üretir; sonucu pozitif ya da negatif saymak için bir kesme noktası seçilir.  || ref: -
+023 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Ekranda sağlıklı ve hasta grupların test değerlerinin dağılımını görüyoruz; iki dağılım kısmen örtüşüyor.  || ref: -
+024 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Kesme noktası bu dikey çizgidir; sağında kalanlar pozitif, solunda kalanlar negatif sayılır.  || ref: -
+025 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Örtüşen bölgede sağlıklı kişilerin bir kısmı pozitif, hastaların bir kısmı negatif bulunur.  || ref: -
+026 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kesme noktasını sola kaydırırsak duyarlılık artar, ama yanlış pozitifler de artar ve özgüllük düşer.  || ref: -
+027 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Sağa kaydırırsak özgüllük artar, ama daha çok hasta kaçar ve duyarlılık düşer.  || ref: -
+028 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Farklı kesme noktalarındaki bu dengeyi gösteren grafiğe re o ce eğrisi denir.  || ref: -
+029 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Yanlış pozitif sonuç, sağlıklı bir bebeğin ailesinde gereksiz endişeye yol açar.  || ref: -
+030 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bebek ileri testlere çağrılır; bu da zaman, emek ve maliyet demektir.  || ref: -
+031 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Çok fazla yanlış pozitif programa güveni azaltır ve takipten düşmeyi artırabilir.  || ref: -
+032 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Yanlış negatif sonuçta ise işitme kaybı olan bebek taramadan geçmiş sayılır.  || ref: -
+033 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Aile rahatlar, ama tanı ve müdahale gecikir.  || ref: -
+034 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Geç müdahale dil ve konuşma gelişimini olumsuz etkileyebileceği için bu hatanın bedeli yüksektir.  || ref: -
+035 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu yüzden taramada genellikle yüksek duyarlılık önceliklidir; yanlış pozitifler ikinci aşama testle ayıklanır.  || ref: -
+036 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Klinikte sorduğumuz soru çoğu zaman tersidir: test pozitif çıktı, bu kişinin gerçekten hasta olma olasılığı nedir?  || ref: -
+037 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Bu sorunun cevabı pozitif öngörü değeridir, kısaca pe pe ve.  || ref: -
+038 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: pe pe ve, test pozitif çıkanların içinde gerçekten hasta olanların oranıdır ve a bölü a artı b ile hesaplanır.  || ref: -
+039 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Negatif öngörü değeri, kısaca ne pe ve ise test negatif çıkanların içinde gerçekten sağlıklı olanların oranıdır.  || ref: -
+040 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: ne pe ve, d bölü c artı d ile hesaplanır.  || ref: -
+041 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Öngörü değerleri, duyarlılık ve özgüllükten farklı olarak durumun test edilen grupta ne kadar sık olduğuna bağlıdır.  || ref: -
+042 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu sıklığa yaygınlık denir; yaygınlık düştükçe pe pe ve de düşer.  || ref: -
+043 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Şimdi kurgusal bir yenidoğan işitme taraması örneği üzerinde hesap yapalım; sayılar örnek amaçlıdır.  || ref: -
+044 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: On bin bebek taranıyor ve bunlardan yirmisinde kalıcı işitme kaybı var; yani yaygınlık binde iki.  || ref: -
+045 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Tarama işitme kaybı olan yirmi bebeğin on dokuzunu yakalıyor; bir bebek ise yanlışlıkla geçti sonucu alıyor.  || ref: -
+046 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Sağlıklı dokuz bin dokuz yüz seksen bebeğin dokuz bin beş yüz sekseni geçiyor, dört yüzü ise kalıyor.  || ref: -
+047 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Taramadan kalan toplam bebek sayısı dört yüz on dokuz.  || ref: -
+048 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu tablo, iyi bir testin bile binlerce bebekte ne kadar farklı sonuçlar ürettiğini gösteriyor.  || ref: -
+049 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Şimdi bu sayılardan dört ölçüyü hesaplayalım.  || ref: -
+050 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Duyarlılık, on dokuz bölü yirmi, yani yüzde doksan beştir.  || ref: -
+051 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.93 (small)  || okunan: Özgüllük, dokuz bin beş yüz seksen bölü dokuz bin dokuz yüz seksen, yani yaklaşık yüzde doksan altıdır.  || ref: -
+052 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.95 (small)  || okunan: Pozitif öngörü değeri ise on dokuz bölü dört yüz on dokuz, yani yalnızca yaklaşık yüzde dört buçuktur.  || ref: -
+053 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Yani taramadan kalan her yüz bebekten yalnızca dört ya da beşinde gerçekten işitme kaybı vardır.  || ref: -
+054 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Negatif öngörü değeri ise yaklaşık yüzde doksan dokuz virgül dokuz dokuzdur; geçen bebeklerin neredeyse hepsi sağlıklıdır.  || ref: -
+055 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Test iyi olduğu halde pe pe ve düşüktür; çünkü kalıcı işitme kaybı yenidoğanlarda seyrektir.  || ref: -
+056 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu nedenle ailelere kaldı sonucunun tanı değil, ileri test gerekliliği olduğu dikkatle anlatılmalıdır.  || ref: -
+057 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Yanlış pozitif sorununu azaltmanın yolu taramayı aşamalı yapmaktır.  || ref: -
+058 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: İlk taramadan kalan bebekler taburculuktan önce ya da kısa süre sonra yeniden taranır.  || ref: -
+059 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: İkinci aşamada test edilen grupta yaygınlık artmıştır; çünkü sağlıklı bebeklerin çoğu ilk aşamada elenmiştir.  || ref: -
+060 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Böylece ikinci testin pozitif öngörü değeri belirgin biçimde yükselir ve tanısal değerlendirmeye daha az bebek yönlendirilir.  || ref: -
+061 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu yapının bedeli, ikinci aşamada gerçek bir kaybın kaçabilmesidir; bu yüzden risk faktörü olan bebekler ayrıca izlenir.  || ref: -
+062 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Tarama protokollerini ilerideki derslerde ayrıntılı ele alacağız.  || ref: -
+063 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bir klinik ipucu: bir testin tanıtımında çoğu zaman yalnız duyarlılık ve özgüllük verilir; ama sizin sorunuz farklı olabilir.  || ref: -
+064 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Testin sizin kliniğinizdeki değeri, hastalarınız arasında o durumun ne kadar sık olduğuna bağlıdır.  || ref: -
+065 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Aynı test, yüksek riskli bir yoğun bakım grubunda çok daha yüksek bir pozitif öngörü değeri verir.  || ref: -
+066 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.92 (small)  || okunan: Bu yüzden sonucu yorumlarken test edilen grubu ve test öncesi olasılığı her zaman göz önünde tutun.  || ref: -
+067 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu kavramlar odyolojinin pek çok alanında karşımıza çıkar.  || ref: -
+068 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Yenidoğan taramasında otoakustik emisyon ve otomatik beyin sapı yanıtı testlerinin başarısı bu ölçülerle anlatılır.  || ref: -
+069 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Okul çağı taramasında belirli bir düzeyde verilen tonlara yanıt da aynı mantıkla değerlendirilir.  || ref: -
+070 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Retrokoklear şüphede işitsel beyin sapı yanıtının görüntülemeye göre duyarlılığı, test seçiminde belirleyicidir.  || ref: -
+071 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Anketler ve tarama soruları için de kesme puanının duyarlılığı ve özgüllüğü bildirilir.  || ref: -
+072 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir makale okurken bu ölçülerin hangi grupta ve hangi altın standartla elde edildiğine dikkat edin.  || ref: -
+073 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Duyarlılık hastaları, özgüllük ise sağlıklıları doğru sınıflama oranıdır; ikisi de testin özelliğidir.  || ref: -
+074 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Dört ölçünün hepsi dörtlü tablodaki a, b, c ve d hücrelerinden hesaplanır.  || ref: -
+075 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Öngörü değerleri yaygınlığa bağlıdır; seyrek durumlarda iyi bir testin bile pe pe ve değeri düşük olabilir.  || ref: -
+076 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Taramada yüksek duyarlılık önceliklidir; yanlış pozitifler aşamalı testle azaltılır.  || ref: -
+077 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kendinizi test edin: Aynı test, durumun çok daha seyrek olduğu bir grupta kullanılırsa en çok hangisi değişir?  || ref: -
+078 hızlı   aday=1 önek="Türkçe:" dil=tr:0.97 pencere=0.97 (small)  || okunan: Doğru cevap C: pozitif öngörü değeri.  || ref: -
+079 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.98 (small)  || okunan: Duyarlılık ve özgüllük testin kendi özelliğidir; pozitif öngörü değeri ise yaygınlık düştükçe azalır.  || ref: -
+080 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bir sonraki derste yenidoğan taramasının temel testlerinden biri olan otoakustik emisyonları tanıyacağız.  || ref: -
+081 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!  || ref: -
+== D120_Duyarlilik_Ozgulluk bitti

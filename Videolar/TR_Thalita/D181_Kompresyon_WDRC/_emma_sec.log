@@ -1,0 +1,103 @@
+001 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Merhaba, Ey ay hiyır Odyoloji Akademisine hoş geldiniz.  || ref: -
+002 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu derste işitme cihazlarında kompresyonun neden gerektiğini ve giriş-çıkış eğrisinin nasıl okunduğunu öğreneceğiz.  || ref: -
+003 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Kompresyon eşiğini, kompresyon oranını, atak ve bırakma sürelerini ve maksimum çıkışın sınırlanmasını adım adım göreceğiz.  || ref: -
+004 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Normal işiten bir kulakta en hafif duyulan ses ile rahatsız edici ses arasında yaklaşık 100 desibellik bir aralık vardır.  || ref: -
+005 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu aralığa dinamik aralık denir.  || ref: -
+006 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Koklear kayıpta eşik yükselir, ama rahatsızlık düzeyi çoğu zaman hemen hemen aynı kalır.  || ref: -
+007 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu örnekte eşik 60, rahatsızlık düzeyi 100 desibel eyç el; yani dinamik aralık yaklaşık 40 desibele inmiş.  || ref: -
+008 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bu, rekruitment dersinde gördüğümüz ses yüksekliğinde anormal hızlı artışın sonucudur.  || ref: -
+009 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Günlük seslerin yumuşaktan yükseğe uzanan aralığı ise bu daralmış alana sığmaz.  || ref: -
+010 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Örneğin konuşma, zayıf ünsüzlerden güçlü ünlülere kadar yaklaşık 30 desibellik bir aralığa yayılır ve konuşmanın düzeyi ortama göre değişir.  || ref: -
+011 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Kompresyonun amacı, geniş bir giriş aralığını kişinin daralmış dinamik aralığına sığdırmaktır.  || ref: -
+012 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Doğrusal amplifikasyonda cihaz, her giriş düzeyine aynı kazancı uygular.  || ref: -
+013 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu örnekte kazanç 35 desibel: 50 desibellik giriş 85, 70 desibellik giriş 105 desibellik çıkış olur.  || ref: -
+014 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Giriş-çıkış eğrisi bu yüzden eğimi bir olan düz bir çizgidir.  || ref: -
+015 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Sorun şudur: yumuşak sesleri duyulur kılacak kadar kazanç verilirse, yüksek sesler rahatsız edici olur.  || ref: -
+016 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yüksek sesleri rahat tutacak kadar az kazanç verilirse de yumuşak sesler duyulmaz.  || ref: -
+017 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Çıkış cihazın sınırına ulaştığında eski doğrusal cihazlar dalganın tepesini keserdi; buna tepe kırpma denir.  || ref: -
+018 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Tepe kırpma, sesi sınırlar ama belirgin bir distorsiyon yaratır.  || ref: -
+019 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kompresyon, bu iki sorunu birlikte çözmek için geliştirilmiştir.  || ref: -
+020 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kompresyonu anlamanın en iyi yolu giriş-çıkış eğrisidir.  || ref: -
+021 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Yatay eksende cihaza giren sesin düzeyi, dikey eksende kuplörde ölçülen çıkış düzeyi yer alır.  || ref: -
+022 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu örnekte elli desibel es pi ele kadar cihaz doğrusal çalışır ve otuz beş desibel kazanç verir.  || ref: -
+023 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Eğrinin büküldüğü bu noktaya kompresyon eşiği ya da diz noktası denir.  || ref: -
+024 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kompresyon eşiğinin üzerinde giriş 20 desibel artarken çıkış yalnız 10 desibel artar.  || ref: -
+025 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Giriş değişiminin çıkış değişimine oranına kompresyon oranı denir; burada oran ikiye birdir.  || ref: -
+026 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu yüzden giriş yükseldikçe kazanç azalır: eğri ile kesik çizgi arasındaki fark giderek açılır.  || ref: -
+027 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: En üstte ikinci bir bükülme daha var: burada çıkış neredeyse hiç artmaz ve maksimum çıkış sınırlanır.  || ref: -
+028 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Standart ölçümde bu eğri 50 ile 90 desibel es pi el arasında, beşer desibellik adımlarla çizilir.  || ref: -
+029 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Aynı kompresyon eşiğinde farklı oranlar karşılaştırıldığında eğrinin eğimi değişir.  || ref: -
+030 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Oran bire bir ise kompresyon yoktur; cihaz doğrusal çalışır.  || ref: -
+031 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Oran ikiye bir olduğunda yirmi desibellik giriş artışı on desibellik çıkış artışına dönüşür.  || ref: -
+032 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.96 (small)  || okunan: Oran üçe bir olduğunda aynı artış yaklaşık yedi desibele iner; eğri daha da yataylaşır.  || ref: -
+033 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Oran ona bir ya da daha yüksek olduğunda çıkış neredeyse sabit kalır; bu artık sınırlamadır.  || ref: -
+034 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yani oran büyüdükçe çıkışın aralığı daralır ve sesler arasındaki yükseklik farkları küçülür.  || ref: -
+035 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Çok yüksek oranlar, konuşmanın doğal yükseklik değişimlerini düzleştirerek sesin doğallığını azaltabilir.  || ref: -
+036 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Giriş-çıkış eğrisinden her giriş düzeyindeki kazancı okuyabiliriz; kazanç, çıkış eksi giriştir.  || ref: -
+037 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Kırk desibellik yumuşak bir ses 75 desibele yükseltilir; kazanç 35 desibeldir.  || ref: -
+038 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kompresyon eşiği olan 50 desibelde kazanç hala 35 desibeldir.  || ref: -
+039 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Yetmiş desibellik bir girişte çıkış 95 desibeldir; kazanç 25 desibele düşmüştür.  || ref: -
+040 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Doksan desibellik yüksek bir girişte ise kazanç yalnız 15 desibeldir.  || ref: -
+041 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yani 50 desibellik giriş aralığı, yalnız 30 desibellik bir çıkış aralığına sığdırılmıştır; kompresyonun özü budur.  || ref: -
+042 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Geniş dinamik aralık kompresyonu, kısaca dabılyu de re ce, bugün cihazların temel çalışma biçimidir.  || ref: -
+043 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: dabılyu de re cede kompresyon eşiği düşüktür; genellikle yaklaşık kırk ile elli beş desibel es pi el arasında, yani yumuşak konuşma düzeyinin altında ya da yakınındadır.  || ref: -
+044 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Böylece yumuşak, orta ve yüksek seslerin büyük bölümü kompresyon bölgesinde işlenir.  || ref: -
+045 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: dabılyu de re cede oran genellikle düşüktür; çoğu uygulamada üçe birin altında kalır.  || ref: -
+046 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Amaç, yumuşak seslere daha çok, yüksek seslere daha az kazanç vererek sesleri dinamik aralığa sığdırmaktır.  || ref: -
+047 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kompresyon sınırlaması ise yalnız çıkış sınırına yakın yüksek bir eşikte devreye girer.  || ref: -
+048 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Oranı yüksektir, genellikle sekize bir ya da daha fazladır; böylece çıkış rahatsızlık düzeyini aşmaz.  || ref: -
+049 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kısacası dabılyu de re ce sesleri kişinin işitme alanına yerleştirir, sınırlama ise bu alanın üst sınırını korur.  || ref: -
+050 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Maksimum çıkışı sınırlamanın iki yolu vardır: tepe kırpma ve kompresyon sınırlaması.  || ref: -
+051 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Tepe kırpmada dalganın sınırı aşan tepeleri düz biçimde kesilir.  || ref: -
+052 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kesilen dalga artık saf bir sinüs değildir; yeni harmonikler oluşur ve ses cızırtılı duyulur.  || ref: -
+053 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kompresyon sınırlamasında ise cihaz kazancı azaltır; dalganın biçimi korunur, yalnız genliği küçülür.  || ref: -
+054 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu yüzden kompresyon sınırlaması, yüksek ses ortamlarında çok daha temiz bir ses verir.  || ref: -
+055 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Tepe kırpma bugün bazı çok güçlü cihazlarda ve en üst güvenlik sınırı olarak hala kullanılabilir.  || ref: -
+056 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kişi yüksek seslerin cızırtılı olduğundan yakınıyorsa, çıkışın kırpılıyor olabileceği akla gelmelidir.  || ref: -
+057 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Kompresyon eşiğinin de altında, çok yumuşak girişlerde bazı cihazlar ters yönde çalışır.  || ref: -
+058 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu bölgede giriş azaldıkça kazanç da azalır; buna genişleme denir.  || ref: -
+059 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.94 (small)  || okunan: Amaç, sessiz bir odada mikrofonun kendi gürültüsünün ve buzdolabı uğultusu gibi zayıf seslerin duyulmasını önlemektir.  || ref: -
+060 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Grafikte genişleme bölgesinde eğrinin eğimi birden büyüktür.  || ref: -
+061 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Ancak genişleme fazla güçlü ayarlanırsa, uzaktan gelen yumuşak konuşma da zayıflatılabilir.  || ref: -
+062 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu yüzden yumuşak giriş düzeyinde gerçek kulak ölçümü, genişleme ayarının konuşmayı kesmediğini doğrulamak için önemlidir.  || ref: -
+063 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kompresyon yalnız ne kadar değil, ne kadar hızlı tepki verdiğiyle de tanımlanır.  || ref: -
+064 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu örnekte giriş düzeyi aniden elli beşten doksan desibel es pi ele çıkıyor.  || ref: -
+065 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Cihaz kazancı hemen azaltamadığı için çıkışta kısa bir tepe oluşur, sonra çıkış yeni düzeyine oturur.  || ref: -
+066 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Standartta atak süresi, bu ani artıştan sonra çıkışın son düzeyinin 3 desibel yakınına inmesine kadar geçen süredir.  || ref: -
+067 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Giriş yeniden 55 desibele düştüğünde ise kazanç hemen geri gelmez; çıkış bir süre düşük kalır.  || ref: -
+068 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bırakma süresi, çıkışın son düzeyinin 4 desibel yakınına geri dönmesine kadar geçen süredir.  || ref: -
+069 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Atak süresi çoğu cihazda birkaç milisaniye kadar kısadır; böylece ani yüksek sesler hızla denetlenir.  || ref: -
+070 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bırakma süresi ise cihazdan cihaza çok değişir ve kompresyonun karakterini belirler.  || ref: -
+071 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Standart bu ölçümleri, giriş-çıkış eğrisinin ölçüldüğü frekanslarda yapar.  || ref: -
+072 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bırakma süresi kısa, yaklaşık 200 milisaniyenin altında olan kompresyona hızlı ya da hece kompresyonu denir.  || ref: -
+073 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu tür kompresyon, kazancı konuşmanın heceleri arasında bile değiştirebilir.  || ref: -
+074 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Avantajı, güçlü bir ünlünün hemen ardından gelen zayıf bir ünsüzün de yeterli kazançla duyulmasıdır.  || ref: -
+075 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Dezavantajı, konuşmanın doğal zarfını düzleştirmesi ve gürültüde arka planı yükselterek sesi pompalıyormuş gibi duyurmasıdır.  || ref: -
+076 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bırakma süresi yüzlerce milisaniyeden birkaç saniyeye uzanan kompresyona ise yavaş kompresyon denir.  || ref: -
+077 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yavaş kompresyon, kazancı ortamın genel ses düzeyine göre ayarlar ve otomatik bir ses denetimi gibi davranır.  || ref: -
+078 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Avantajı, konuşmanın zarfını ve doğallığını korumasıdır.  || ref: -
+079 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Dezavantajı ise ani bir yüksek sesten, örneğin kapı çarpmasından sonra, yumuşak seslerin bir süre az yükseltilmesidir.  || ref: -
+080 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Çalışmalar, hangi yaklaşımın daha yararlı olduğunun kişiden kişiye değişebileceğini düşündürüyor.  || ref: -
+081 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bazı araştırmalar bu farkı kişinin bilişsel kapasitesiyle ilişkilendirmiştir; ancak klinikte tek bir kural yoktur.  || ref: -
+082 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Günümüz cihazları sesi birden çok frekans kanalına ayırır ve her kanalda ayrı bir kompresyon uygular.  || ref: -
+083 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Böylece her kanalın kendi kompresyon eşiği ve oranı olabilir.  || ref: -
+084 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu, alçak frekanslarda işitmesi daha iyi, yüksek frekanslarda daha kötü olan bir kişide kompresyonun frekansa göre ayarlanmasını sağlar.  || ref: -
+085 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kanallar ve bantlar konusunu bir sonraki derste ayrıntılı olarak göreceğiz.  || ref: -
+086 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Reçete formülleri, kompresyon ayarlarını belirlemek için yumuşak, orta ve yüksek giriş düzeyleri için ayrı hedefler verir.  || ref: -
+087 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Gerçek kulak ölçümünde 55, 65 ve 80 desibel es pi el girişlerin hedefe yakın olması, kompresyon ayarının doğru olduğunu gösterir.  || ref: -
+088 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yalnız orta düzeyde hedefe uymak yetmez; yumuşak ve yüksek düzeyler de ayrı ayrı kontrol edilir.  || ref: -
+089 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Sahadan bir ipucu: kompresyonla ilgili yakınmaları giriş düzeyine göre ayırın.  || ref: -
+090 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kişi fısıltıyı ya da uzaktaki konuşmayı duyamadığını söylüyorsa, yumuşak giriş kazancını ve genişleme ayarını kontrol edin.  || ref: -
+091 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Yüksek sesler rahatsız ediyor diyorsa, önce maksimum çıkışı ve sınırlamayı gözden geçirin.  || ref: -
+092 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Ses pompalıyor, dalgalanıyor gibi yakınmalar ise çoğu zaman kısa bırakma süresiyle ilişkilidir.  || ref: -
+093 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Her değişiklikten sonra ilgili giriş düzeyinde gerçek kulak ölçümüyle sonucu doğrulayın.  || ref: -
+094 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu derste koklear kayıpta dinamik aralığın daraldığını ve kompresyonun sesleri bu aralığa sığdırdığını gördük.  || ref: -
+095 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kompresyon eşiği giriş-çıkış eğrisinin büküldüğü noktadır; oran ise giriş değişiminin çıkış değişimine oranıdır.  || ref: -
+096 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: dabılyu de re ce düşük eşik ve düşük oranla çalışır; kompresyon sınırlaması ise yüksek eşik ve yüksek oranla maksimum çıkışı korur.  || ref: -
+097 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Atak süresi kısadır; bırakma süresi ise hızlı ve yavaş kompresyonu birbirinden ayırır.  || ref: -
+098 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kendinizi test edin: kompresyon eşiğinin üzerinde giriş 30 desibel artarken çıkış 10 desibel artıyor. Kompresyon oranı nedir?  || ref: -
+099 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Doğru cevap C: üçe bir.  || ref: -
+100 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kompresyon oranı, giriş değişiminin çıkış değişimine bölünmesiyle bulunur: otuz bölü on, yani üç.  || ref: -
+101 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir sonraki derste kanal ve bant farkını ve yüksek frekansları duyulur kılmak için kullanılan frekans düşürme yöntemlerini göreceğiz.  || ref: -
+102 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!  || ref: -
+== D181_Kompresyon_WDRC bitti

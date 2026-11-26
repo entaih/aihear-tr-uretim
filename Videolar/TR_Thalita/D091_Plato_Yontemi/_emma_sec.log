@@ -1,0 +1,101 @@
+001 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Merhaba, Ey ay hiyır Odyoloji Akademisine hoş geldiniz.  || ref: -
+002 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu derste maskeleme gürültüsünün düzeyini belirlemek için kullanılan plato yöntemini adım adım öğreneceğiz.  || ref: -
+003 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bir örnek üzerinden başlangıç düzeyini, gürültü artışlarını ve gerçek eşik kararını birlikte çalışacağız.  || ref: -
+004 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Maskeleme gerektiğine karar verdikten sonra yeni bir soru doğar: karşı kulağa ne kadar gürültü vermeliyiz?  || ref: -
+005 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Gürültü az olursa karşı kulak tonu duymaya devam eder; buna yetersiz maskeleme denir.  || ref: -
+006 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Gürültü fazla olursa gürültü test kulağına geçer ve onun eşiğini yükseltir; buna aşırı maskeleme denir.  || ref: -
+007 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu iki durum arasında, gürültü artsa da test kulağının eşiğinin değişmediği bir aralık vardır.  || ref: -
+008 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu aralığa plato denir; plato yöntemi bu aralığı bulmaya dayanır.  || ref: -
+009 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yöntem Hood tarafından tanımlanmıştır ve bugün de klinik maskelemenin temelidir.  || ref: -
+010 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yöntemin gücü, maskeleme düzeyini tahmine değil, hastanın kendi yanıtlarına dayandırmasıdır.  || ref: -
+011 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Gürültüyü adım adım artırıp her adımda eşiği yeniden ölçtüğümüzü düşünelim.  || ref: -
+012 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: İlk bölgede eşik gürültüyle birlikte yükselir; çünkü tonu aslında test edilmeyen kulak, kısaca ne te e duymaktadır.  || ref: -
+013 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: İkinci bölgede gürültüyü artırsak da eşik sabit kalır; bu plato bölgesidir.  || ref: -
+014 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Platoda ne te e tonu duyamaz, test kulağı, kısaca te e ise gürültüden etkilenmez; ölçtüğümüz eşik te e'nin gerçek eşiğidir.  || ref: -
+015 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Üçüncü bölgede gürültü, kulaklar arası zayıflama, kısaca ı a kadar azalsa da te e kokleasına ulaşır ve eşik yeniden yükselir.  || ref: -
+016 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Amacımız her zaman ikinci bölgede, yani platoda karar vermektir.  || ref: -
+017 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Plato yöntemine başlamadan önce iki kulağın maskesiz eşiklerinin kaydedilmiş olması gerekir.  || ref: -
+018 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Hastaya, bir kulağında sürekli bir gürültü duyacağını ve bu gürültüyü dikkate almaması gerektiğini anlatırız.  || ref: -
+019 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Yalnız tonu, yani bip sesini duyduğunda, ne kadar hafif olursa olsun yanıt vermesini isteriz.  || ref: -
+020 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Saf ses için test frekansını merkez alan dar bant gürültü kullanılır ve düzeyi etkin maskeleme, yani desibel e me olarak verilir.  || ref: -
+021 hızlı   aday=1 önek="Türkçe:" dil=tr:0.98 pencere=0.97 (small)  || okunan: desibel e me, gürültünün eşiği ne kadar yükselttiğine göre yapılan bir kalibrasyondur.  || ref: -
+022 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Örneğin otuz desibel e me'lik gürültü, o frekansta normal bir eşiği yaklaşık otuz desibel eyç el'ye yükseltir.  || ref: -
+023 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Gürültü ne te e'ye, ton ise te e'ye verilir; kulaklıkların doğru taraflarda olduğundan emin olunur.  || ref: -
+024 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: İlk adım, başlangıç maskeleme düzeyini belirlemektir.  || ref: -
+025 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Hava yolu için başlangıç düzeyi, ne te e'nin o frekanstaki hava yolu eşiğinin on desibel üzeridir.  || ref: -
+026 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Buradaki on desibel, kişiler arası farkları karşılamak için eklenen bir güvenlik payıdır.  || ref: -
+027 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Örneğin ne te e'nin bin hertzdeki eşiği on desibel ise başlangıç gürültüsü yirmi desibel e me olur.  || ref: -
+028 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kemik yolu maskelemesinde ne te e kulaklıkla kapatıldığı için oklüzyon etkisi oluşur ve bu değer başlangıç düzeyine eklenir.  || ref: -
+029 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Oklüzyon etkisi iki yüz elli ile bin hertz arasında önemlidir ve ne te e'de iletim tipi kayıp varsa eklenmez.  || ref: -
+030 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu düzeltme supra aurol kulaklıkta daha büyük, derin yerleştirilmiş insört kulaklıkta ise daha küçüktür.  || ref: -
+031 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Birinci adım: başlangıç düzeyindeki gürültüyü ne te e'ye sürekli olarak veririz.  || ref: -
+032 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: İkinci adım: gürültü açıkken te e'nin eşiğini, maskesiz eşikten başlayarak yeniden ararız.  || ref: -
+033 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Hasta tonu duyarsa, ton düzeyini değiştirmeden gürültüyü beş desibel artırır ve tonu tekrar veririz.  || ref: -
+034 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Hasta tonu duymazsa, yanıt alana kadar tonu beş desibellik adımlarla artırır, sonra yeniden gürültüyü artırırız.  || ref: -
+035 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu döngü, eşik gürültü artışlarına rağmen sabit kalana kadar sürer.  || ref: -
+036 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Gürültü art arda üç kez, yani toplam on beş desibel artırıldığı halde eşik değişmiyorsa plato bulunmuştur.  || ref: -
+037 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu sabit eşik, te e'nin maskeli eşiği olarak kaydedilir.  || ref: -
+038 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Bazı klinikler yirmi desibellik plato arar; İngiliz Odyoloji Derneğinin kılavuzu ise gürültüyü on desibellik adımlarla artırır.  || ref: -
+039 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.91 (small)  || okunan: Şimdi bir örnek çalışalım: bu örnekte sağ kulak normal; bin hertzde hava ve kemik yolu eşiği on desibel.  || ref: -
+040 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Sol kulağın bin hertzdeki maskesiz hava yolu eşiği elli desibel.  || ref: -
+041 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: supra aurol kulaklıkla fark kırk desibel olduğu için sol hava yolu eşiği maskelenerek doğrulanmalı.  || ref: -
+042 hızlı   aday=1 önek="Türkçe:" dil=tr:0.97 pencere=0.95 (small)  || okunan: Sol kulak te e, sağ kulak ne te e; başlangıç gürültüsü ise on artı on, yani yirmi desibel e me.  || ref: -
+043 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Bu frekansta sol kulağın gerçek eşiğini bulmak için şimdi plato yöntemini uygulayacağız.  || ref: -
+044 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Yirmi desibel e me gürültüyle sol eşiği yeniden aradığımızda, eşik elli desibelden altmışa yükseliyor.  || ref: -
+045 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Gürültüyü yirmi beşe çıkarınca eşik de altmış beşe yükseliyor; eşik gürültüyle birlikte kayıyor.  || ref: -
+046 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:0.99 pencere=0.99 (small)  || okunan: Otuz desibel e me'de eşik yetmiş desibele yükseliyor.  || ref: -
+047 hızlı   aday=1 önek="Türkçe:" dil=tr:0.98 pencere=0.98 (small)  || okunan: Otuz beş desibel e me'de eşik yine yetmiş desibel; ilk kez değişmedi.  || ref: -
+048 hızlı   aday=2 önek="Türkçe olarak:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kırk desibel e me'de de eşik yetmiş desibelde kalıyor.  || ref: -
+049 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kırk beş desibel e me'de de yetmiş desibel; gürültü otuzdan kırk beşe, yani on beş desibel arttığı halde eşik sabit.  || ref: -
+050 KONTROL aday=5 önek="Şimdi Türkçe anlatıyorum:" dil=tr:0.99 pencere=0.81 (small)  || okunan: Plato bulundu: sol kulağın bin hertzdeki maskeli eşiği yetmiş desibel eyç el.  || ref: -
+051 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Maskesiz ölçülen elli desibel ise gerçekte sağ kulağın duyduğu bir gölge yanıtıydı.  || ref: -
+052 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Aynı işlemi maskeleme gereken her frekansta tekrarladığımızda gerçek tablo ortaya çıkar.  || ref: -
+053 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Mavi çarpılar maskesiz, yani sağ kulağın duyduğu gölge yanıtlarını gösteriyor.  || ref: -
+054 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Mavi kareler ise plato yöntemiyle bulunan maskeli, gerçek eşiklerdir.  || ref: -
+055 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu örnekte sol kulaktaki kayıp, maskesiz ölçümde göründüğünden yaklaşık on beş ile yirmi desibel daha ileri.  || ref: -
+056 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Maskeleme yapılmasaydı, bu kulaktaki kaybın derecesi olduğundan hafif rapor edilecekti.  || ref: -
+057 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.96 (small)  || okunan: Bazen başlangıç gürültüsüyle ölçülen eşik, maskesiz eşikle aynı çıkar.  || ref: -
+058 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Gürültü üç kez artırıldığında da eşik değişmiyorsa, plato baştan itibaren sağlanmış demektir.  || ref: -
+059 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu, maskesiz eşiğin zaten te e'ye ait olduğunu, yani çapraz işitme olmadığını gösterir.  || ref: -
+060 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu durumda da eşik, maskeleme ile doğrulandığı için maskeli işaretle kaydedilir.  || ref: -
+061 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: ne te e'ye verilen gürültü de kafatasından te e'ye geçebilir ve bu sırada yaklaşık ı a kadar zayıflar.  || ref: -
+062 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: te e'ye ulaşan gürültü, te e'nin kemik yolu eşiğine ulaşırsa te e'yi de maskeler; bu aşırı maskelemedir.  || ref: -
+063 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu yüzden güvenli en yüksek gürültü, te e'nin kemik yolu eşiği ile ı a'nın toplamından beş desibel eksiktir.  || ref: -
+064 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Aşırı maskeleme gerçek eşiği olduğundan kötü gösterir ve platodan sonra eşiğin yeniden yükselmesine yol açar.  || ref: -
+065 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: te e'de iletim tipi kayıp varsa, yani kemik yolu iyiyse, bu üst sınır alçalır.  || ref: -
+066 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: İki kulakta da büyük iletim kaybı varsa plato hiç bulunamayabilir; buna maskeleme ikilemi denir.  || ref: -
+067 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu nedenle gürültüyü artırırken, her adımda bu üst sınıra ne kadar yaklaştığınızı hesaplayın.  || ref: -
+068 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Platonun genişliği, gereken en az gürültü ile güvenli en fazla gürültü arasındaki farka bağlıdır.  || ref: -
+069 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: te e'nin kemik yolu eşiği ne kadar kötüyse, aşırı maskelemeye o kadar geç ulaşılır ve üst sınır yükselir.  || ref: -
+070 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: ne te e'nin iletimi normalse, gürültü kokleaya kayıpsız ulaşır ve alt sınır düşük kalır.  || ref: -
+071 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: insört kulaklık ı a'yı yükselttiği için üst sınırı yükseltir ve platoyu genişletir.  || ref: -
+072 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: te e'de iletim tipi kayıp varsa kemik yolu iyi olduğu için üst sınır alçalır.  || ref: -
+073 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: ne te e'de iletim tipi kayıp varsa gürültünün bu engeli de aşması gerekir ve alt sınır yükselir.  || ref: -
+074 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: İki durum birlikte olduğunda plato tamamen kaybolabilir; bu maskeleme ikilemidir.  || ref: -
+075 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Plato yönteminde sık yapılan iki hataya dikkat çekelim.  || ref: -
+076 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Birincisi, ilk maskeli ölçümde eşik değişmedi diye hemen durmak; platoyu görmek için gürültüyü üç kez artırmak gerekir.  || ref: -
+077 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: İkincisi, birkaç desibellik küçük kaymaları yetersiz maskeleme sanmak.  || ref: -
+078 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Gürültü karşı kulağa verildiğinde bile eşik yaklaşık beş desibel kayabilir; buna merkezi maskeleme denir.  || ref: -
+079 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Bu küçük kayma, platonun bozulduğu anlamına gelmez.  || ref: -
+080 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kemik yolunda da aynı yöntem kullanılır; vibratör test edilen kulağın mastoidine yerleştirilir.  || ref: -
+081 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.94 (small)  || okunan: Gürültü ne te e'ye bir kulaklık ya da insört kulaklıkla verilir; te e açık bırakılır.  || ref: -
+082 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Başlangıç düzeyi, ne te e'nin hava yolu eşiği, on desibel güvenlik payı ve gerekiyorsa oklüzyon etkisi düzeltmesinin toplamıdır.  || ref: -
+083 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Gürültü artışları ve plato ölçütü hava yoluyla aynıdır.  || ref: -
+084 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Kemik yolunda ı a yaklaşık sıfır olduğu için, hava-kemik aralığı görülen kulakta maskeleme hemen her zaman gerekir.  || ref: -
+085 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Kemik yolu maskelemesinde de plato görülmeden eşik kesinleşmiş sayılmaz.  || ref: -
+086 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Plato ile bulunan eşik, ilgili maskeli işaretle odyograma işlenir.  || ref: -
+087 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Platonun elde edildiği gürültü düzeyi de forma kaydedilir.  || ref: -
+088 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.98 (small)  || okunan: Bu bilgi, odyogramı daha sonra okuyan kişinin maskelemenin yeterliliğini değerlendirmesini sağlar.  || ref: -
+089 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Plato bulunamadıysa eşik kesin değildir ve bu durum raporda açıkça belirtilir.  || ref: -
+090 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Cihazın en yüksek düzeyinde de yanıt yoksa, işaretin altına aşağı doğru bir ok eklenir.  || ref: -
+091 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bu kayıtlar, aynı hastanın sonraki testlerinin aynı koşullarla karşılaştırılmasını da sağlar.  || ref: -
+092 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.97 (small)  || okunan: Hava yolunda başlangıç gürültüsü, ne te e'nin hava yolu eşiğinin on desibel üzeridir.  || ref: -
+093 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Hasta tonu duyarsa gürültü, duymazsa ton beş desibel artırılır.  || ref: -
+094 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Gürültü on beş ile yirmi desibel arttığı halde eşik değişmiyorsa plato bulunmuştur ve bu eşik gerçek eşiktir.  || ref: -
+095 hızlı   aday=1 önek="Türkçe:" dil=tr:0.99 pencere=0.97 (small)  || okunan: Gürültü, te e'nin kemik yolu eşiği ile ı a toplamının beş desibel altını aşarsa aşırı maskeleme riski doğar.  || ref: -
+096 hızlı   aday=1 önek="Türkçe:" dil=tr:0.98 pencere=0.98 (small)  || okunan: Kendinizi test edin: Gürültü otuzdan kırk beş desibel e me'e çıkarıldı ve eşik hep yetmiş desibelde kaldı. Ne söyleriz?  || ref: -
+097 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=1.00 (small)  || okunan: Doğru cevap B: plato bulunmuştur ve gerçek eşik yetmiş desibeldir.  || ref: -
+098 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Gürültü on beş desibel arttığı halde eşik değişmediği için ölçülen değer test kulağına aittir.  || ref: -
+099 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Bir sonraki derste, iki taraflı iletim tipi kayıpta karşılaşılan maskeleme ikilemini inceleyeceğiz.  || ref: -
+100 hızlı   aday=1 önek="Türkçe:" dil=tr:1.00 pencere=0.99 (small)  || okunan: Yeni dersleri kaçırmamak için kanala abone olun. Görüşmek üzere!  || ref: -
+== D091_Plato_Yontemi bitti
